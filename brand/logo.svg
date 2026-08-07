@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Loisirs 73 — Savoie">
+  <title>Loisirs 73 — Savoie</title>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#17506e"/>
+      <stop offset="1" stop-color="#0f3550"/>
+    </linearGradient>
+    <linearGradient id="rock" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4b93b5"/>
+      <stop offset="1" stop-color="#22587a"/>
+    </linearGradient>
+    <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#12455f"/>
+      <stop offset="1" stop-color="#0c3049"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="512" height="512" rx="46"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="512" height="512" fill="url(#sky)"/>
+
+    <!-- distant range, hazed back -->
+    <path fill="#2a6b8c" opacity=".4"
+          d="M-12 392 L48 320 L104 262 L168 318 L226 250 L288 306 L344 240 L406 300 L462 254 L524 306 L524 400 L-12 400 Z"/>
+
+    <!-- the massif: three broad summits — Vanoise, Trois Vallées.
+         Broad shoulders on purpose: a narrow peak turns any snowline
+         into flames. -->
+    <path fill="url(#rock)"
+          d="M-12 400 L24 358 L60 306 L140 180 L206 272 L232 240 L258 100 L330 216 L368 158 L432 252 L478 300 L524 344 L524 400 Z"/>
+
+    <!-- shaded east faces, so the light has a direction -->
+    <path fill="#1c5070" opacity=".55"
+          d="M140 180 L206 272 L182 300 Z
+             M258 100 L330 216 L300 254 Z
+             M368 158 L432 252 L406 276 Z"/>
+
+    <!-- snow. Generated geometry: undulations are wider than they are deep,
+         which is what reads as a snowline instead of saw-teeth. -->
+    <path fill="#f1f9fe"
+          d="M140 180 L201.7 266 L185.1 253.9 L168.5 276.9 L151.9 250.8 L135.2 276.6 L118.6 250.5 L102.0 276.8 L85.4 266 Z"/>
+    <path fill="#ffffff"
+          d="M258 100 L327.5 212 L315.2 197.3 L302.9 220.4 L290.6 201.8 L278.3 220.9 L265.9 194.4 L253.6 219.0 L241.3 199.1 L229.0 222.2 L216.7 212 Z"/>
+    <path fill="#f1f9fe"
+          d="M368 158 L419.7 234 L402.7 218.9 L385.6 244.3 L368.5 215.6 L351.4 248.5 L334.3 218.7 L317.2 242.4 L300.1 234 Z"/>
+
+    <!-- Lac du Bourget — the largest natural lake in France -->
+    <rect x="-12" y="400" width="536" height="124" fill="url(#water)"/>
+    <path fill="#dff2fb" opacity=".9"
+          d="M-12 400 C 110 411, 196 393, 306 402 C 396 410, 456 398, 524 405 L524 400 Z"/>
+    <g fill="#7fc9e6" opacity=".45">
+      <rect x="64" y="436" width="132" height="7" rx="3.5"/>
+      <rect x="214" y="436" width="46" height="7" rx="3.5"/>
+      <rect x="130" y="466" width="188" height="7" rx="3.5"/>
+      <rect x="206" y="494" width="82" height="7" rx="3.5"/>
+    </g>
+
+    <!-- compass rose in Savoie crimson-and-white: the guide's mark, with the
+         cross of Savoy standing in its four cardinal points -->
+    <g transform="translate(400 106)">
+      <circle r="54" fill="#0f3550" opacity=".6"/>
+      <circle r="48" fill="none" stroke="#ffffff" stroke-width="3.5" opacity=".95"/>
+      <circle r="39" fill="none" stroke="#ffffff" stroke-width="1.5" opacity=".45"/>
+      <g fill="#ffffff" opacity=".8">
+        <path d="M0 0 L24 -24 L9 -9 Z M0 0 L24 24 L9 9 Z M0 0 L-24 24 L-9 9 Z M0 0 L-24 -24 L-9 -9 Z"/>
+      </g>
+      <path fill="#ffffff" d="M0 -45 L11 0 L0 45 L-11 0 Z"/>
+      <path fill="#C8102E" d="M-45 0 L0 -11 L45 0 L0 11 Z"/>
+      <path fill="#ffffff" d="M0 -45 L6 -14 L0 0 L-6 -14 Z"/>
+      <circle r="6.5" fill="#ffffff"/>
+      <circle r="3" fill="#C8102E"/>
+    </g>
+  </g>
+</svg>

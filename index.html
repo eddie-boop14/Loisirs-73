@@ -6,16 +6,31 @@
 <!-- Pre-launch: nothing here should be indexed. Remove both lines at launch. -->
 <meta name="robots" content="noindex,nofollow">
 <meta name="googlebot" content="noindex,nofollow">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<meta name="theme-color" content="#15496a">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Loisirs 73">
+<meta property="og:title" content="Loisirs 73 — La Savoie, lieu par lieu">
+<meta property="og:description" content="Guide indépendant des lieux de loisirs en Savoie. En préparation.">
+<meta property="og:image" content="/og-image.jpg">
+<meta name="twitter:card" content="summary_large_image">
 <title>Loisirs 73 — Savoie · en préparation</title>
 <meta name="description" content="Guide indépendant des lieux de loisirs en Savoie. En préparation.">
 <style>
+  /* tokens mirror brand/theme.css — kept inline so the holding page is a
+     single file with no render-blocking request */
   :root{
-    --bg:#0d1117; --surface:#161b22; --line:#26303b;
-    --ink:#e8eef4; --ink-soft:#9fb0c0; --ink-mute:#6b7d8f; --accent:#1F6E78;
+    --bg:#fafaf7; --surface:#ffffff; --line:#e3e3dc;
+    --ink:#0b0d10; --ink-soft:#3a3f47; --ink-mute:#6a727d;
+    --accent:#0b5170; --savoie:#C8102E; --brand-ground:#15496a;
   }
-  @media (prefers-color-scheme: light){
-    :root{ --bg:#f7f9fa; --surface:#fff; --line:#e2e8ec; --ink:#12232b;
-           --ink-soft:#42606e; --ink-mute:#6b8494; }
+  @media (prefers-color-scheme: dark){
+    :root{ --bg:#0b0d10; --surface:#13171c; --line:#262c34;
+           --ink:#f4f6f8; --ink-soft:#c8cfd8; --ink-mute:#8b95a1;
+           --accent:#7ad9f5; --savoie:#E8455E; }
   }
   *{box-sizing:border-box}
   body{
@@ -26,12 +41,12 @@
   }
   main{max-width:34rem; width:100%}
   .mark{
-    display:inline-flex; align-items:center; gap:.55rem; font-weight:700;
+    display:inline-flex; align-items:center; gap:.6rem; font-weight:700;
     letter-spacing:-.01em; font-size:1.05rem; color:var(--ink);
-    padding:.4rem .8rem .4rem .55rem; border:1px solid var(--line);
+    padding:.4rem .9rem .4rem .4rem; border:1px solid var(--line);
     border-radius:999px; background:var(--surface);
   }
-  .duck{font-size:1.1rem; line-height:1}
+  .mark img{width:30px; height:30px; border-radius:8px; display:block}
   h1{
     font-size:clamp(1.9rem,1.4rem + 2.4vw,2.9rem); line-height:1.12;
     letter-spacing:-.02em; margin:1.6rem 0 .7rem; font-weight:800;
@@ -59,7 +74,7 @@
 </head>
 <body>
 <main>
-  <span class="mark"><span class="duck" aria-hidden="true">🦆</span>Loisirs 73</span>
+  <span class="mark"><img src="/mark.png" alt="" width="30" height="30">Loisirs 73</span>
 
   <h1>La Savoie, lieu par lieu.</h1>
 

@@ -1,0 +1,15 @@
+{
+  "_comment": "THE per-site identity file — the only file that changes between loisirs74/73/38/…  Engine scripts read it via scripts/siteconfig.py and must never hardcode these values.",
+  "domain": "loisirs73.fr",
+  "base_url": "https://loisirs73.fr",
+  "site_name": "Loisirs 73",
+  "department": {
+    "code": "73",
+    "name": "Savoie"
+  },
+  "imprint": "Bleu canard édition · Edmaster & Claudius",
+  "contact_email": "contact@loisirs73.fr",
+  "photos_email": "photos@loisirs73.fr",
+  "cf_beacon_token": "",
+  "region": "Auvergne-Rhône-Alpes"
+}

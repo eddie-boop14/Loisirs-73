@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Pre-launch: nothing here should be indexed. Remove both lines at launch. -->
+<meta name="robots" content="noindex,nofollow">
+<meta name="googlebot" content="noindex,nofollow">
+<title>Loisirs 73 — Savoie · en préparation</title>
+<meta name="description" content="Guide indépendant des lieux de loisirs en Savoie. En préparation.">
+<style>
+  :root{
+    --bg:#0d1117; --surface:#161b22; --line:#26303b;
+    --ink:#e8eef4; --ink-soft:#9fb0c0; --ink-mute:#6b7d8f; --accent:#1F6E78;
+  }
+  @media (prefers-color-scheme: light){
+    :root{ --bg:#f7f9fa; --surface:#fff; --line:#e2e8ec; --ink:#12232b;
+           --ink-soft:#42606e; --ink-mute:#6b8494; }
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0; min-height:100dvh; display:grid; place-items:center;
+    padding:2rem 1.25rem; background:var(--bg); color:var(--ink);
+    font:16px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  main{max-width:34rem; width:100%}
+  .mark{
+    display:inline-flex; align-items:center; gap:.55rem; font-weight:700;
+    letter-spacing:-.01em; font-size:1.05rem; color:var(--ink);
+    padding:.4rem .8rem .4rem .55rem; border:1px solid var(--line);
+    border-radius:999px; background:var(--surface);
+  }
+  .duck{font-size:1.1rem; line-height:1}
+  h1{
+    font-size:clamp(1.9rem,1.4rem + 2.4vw,2.9rem); line-height:1.12;
+    letter-spacing:-.02em; margin:1.6rem 0 .7rem; font-weight:800;
+  }
+  p{color:var(--ink-soft); margin:0 0 1rem}
+  .lede{font-size:1.075rem}
+  ul{list-style:none; padding:0; margin:1.6rem 0 0; display:grid; gap:.55rem}
+  li{
+    display:flex; gap:.7rem; align-items:baseline; color:var(--ink-soft);
+    font-size:.95rem;
+  }
+  li b{color:var(--ink); font-weight:600}
+  .dot{
+    width:.5rem; height:.5rem; border-radius:50%; background:var(--accent);
+    flex:0 0 auto; transform:translateY(-1px);
+  }
+  .sister{
+    margin-top:2rem; padding-top:1.4rem; border-top:1px solid var(--line);
+    font-size:.95rem;
+  }
+  a{color:var(--accent); font-weight:600; text-decoration:none}
+  a:hover{text-decoration:underline}
+  footer{margin-top:2.2rem; color:var(--ink-mute); font-size:.8125rem}
+</style>
+</head>
+<body>
+<main>
+  <span class="mark"><span class="duck" aria-hidden="true">🦆</span>Loisirs 73</span>
+
+  <h1>La Savoie, lieu par lieu.</h1>
+
+  <p class="lede">
+    Un guide indépendant des lieux de loisirs en Savoie : lacs, cascades, points
+    de vue, téléphériques, châteaux, musées, sentiers. Chaque fait vérifié
+    auprès d’une source officielle.
+  </p>
+  <p>
+    Ce site est <strong>en préparation</strong>. Rien n’est publié tant que les
+    faits ne sont pas vérifiés : une donnée inconnue reste vide et signalée,
+    jamais devinée. Un horaire faux envoie quelqu’un devant une porte fermée.
+  </p>
+
+  <ul>
+    <li><span class="dot" aria-hidden="true"></span><span><b>Gratuit</b> — pas de pub, pas de tracking, pas d’avis Google.</span></li>
+    <li><span class="dot" aria-hidden="true"></span><span><b>Vérifié</b> — communes, offices de tourisme, ONF, IGN, data.gouv.fr.</span></li>
+    <li><span class="dot" aria-hidden="true"></span><span><b>Multilingue</b> — le français fait foi, les noms de lieux restent en français partout.</span></li>
+  </ul>
+
+  <p class="sister">
+    Le grand frère tourne déjà en Haute-Savoie :
+    <a href="https://loisirs74.fr" rel="noopener">loisirs74.fr</a> — 434 lieux,
+    12 langues.
+  </p>
+
+  <footer>2026 · Bleu canard édition · Edmaster &amp; Claudius · Tous droits réservés</footer>
+</main>
+</body>
+</html>

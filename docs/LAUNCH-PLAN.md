@@ -15,14 +15,19 @@ distribution is:
 
 | Commune | POI | |
 |---|---:|---|
-| 73550 Les Allues | 204 | Méribel |
-| 73120 Courchevel | 160 | |
-| 73440 Les Belleville | 141 | Val Thorens / Les Menuires |
+| 73550 Les Allues | 187 | Méribel |
+| 73120 Courchevel | 140 | |
+| 73440 Les Belleville | 131 | Val Thorens / Les Menuires |
 | 73000 Chambéry | 75 | the *préfecture*, fourth |
 
-Three Trois Vallées communes hold **~16 % of the entire département's queue**
-before the capital appears. That is not a quirk of the export; it is what Savoie
-tourism *is*.
+Three Trois Vallées communes hold **458 of 3 114 — 14.7 % of the entire
+département's queue** — and all three sit ahead of the capital. That is not a
+quirk of the export; it is what Savoie tourism *is*.
+
+*(Counts are post-deduplication. Worth knowing: 47 of the 84 duplicate source
+rows came from those same three communes — the big resorts are also where
+DATAtourisme's own records double up hardest. The pre-dedup figures were
+204/160/141 and 15.8 %; the thesis survives the correction, slightly smaller.)*
 
 **So: Loisirs 73 launches ski-domain-first.** Lakes (Bourget, Aiguebelette) are
 the second wave, not the opening. Anyone copying the 74's playbook verbatim would

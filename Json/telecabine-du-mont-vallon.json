@@ -34,8 +34,8 @@
     "website": null
   },
   "gallery_photos": [],
-  "hero_credit": null,
-  "hero_image": null,
+  "hero_credit": "Florian Pépellin · CC BY-SA 4.0 · Wikimedia Commons",
+  "hero_image": "/img/telecabines/telecabine-du-mont-vallon-hero.jpg",
   "i18n": {
     "en": {
       "activities": [
@@ -364,6 +364,7 @@
     "MÉRIBEL EST SUR LA COMMUNE DES ALLUES — c'est la première fiche du dépôt sur Les Allues, commune la plus dense de la queue du 73 avec 187 POI. Écrire « commune de Méribel » serait faux : Méribel est une station, Les Allues la commune.",
     "AUCUNE DATE D'OUVERTURE QUOTIDIENNE — ni heure de première ni de dernière montée pour cet appareil. Champs non publiés.",
     "PMR, ANIMAUX, POUSSETTES : aucune source. Champs null. Sur un enchaînement de trois remontées à 2 952 m, ces champs ne s'inventent pas.",
-    "« PEAK EXPERIENCE » EST UN NOM COMMERCIAL porté par la ligne DATAtourisme, pas le nom de l'appareil. Ne pas le publier comme dénomination officielle."
+    "« PEAK EXPERIENCE » EST UN NOM COMMERCIAL porté par la ligne DATAtourisme, pas le nom de l'appareil. Ne pas le publier comme dénomination officielle.",
+    "PHOTO — l'image retenue montre LE SOMMET du Mont Vallon (2 952 m) vu du col de la Chambre, à environ 4 km, et non la télécabine. C'est la destination de l'appareil, pas l'appareil. À remplacer par une photo de la gare ou des cabines si l'on en trouve une."
   ]
 }

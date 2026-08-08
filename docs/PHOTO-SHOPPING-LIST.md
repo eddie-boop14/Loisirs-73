@@ -1,6 +1,6 @@
 # Loisirs 73 — hero photo shopping list
 
-**30 fiches · 10 heroes sourced · 20 to go.** Every fiche is `status: draft` with `hero_image: null`; the standing rule is hero-photo-before-publish, so this list is the whole gap between draft and published.
+**30 fiches · 15 heroes sourced · 15 to go.** Every fiche is `status: draft` with `hero_image: null`; the standing rule is hero-photo-before-publish, so this list is the whole gap between draft and published.
 
 Generated from `Json/*.json` on 2026-08-08 — not transcribed by hand.
 
@@ -24,12 +24,12 @@ Generated from `Json/*.json` on 2026-08-08 — not transcribed by hand.
 | 8 | **Téléphérique de la Grande Motte**<br>`telepherique-de-la-grande-motte` | Tignes (73320) | Téléphérique 3 034 m → 3 4 | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9ph%C3%A9rique+de+la+Grande+Motte+Tignes&title=Special:MediaSearch&type=image) | ✅ |
 | 9 | **Téléphérique de la Saulire**<br>`telepherique-de-la-saulire` | Courchevel (73120) | Gare aval 2 077 m | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9ph%C3%A9rique+de+la+Saulire+Courchevel&title=Special:MediaSearch&type=image) | ✅ |
 | 10 | **Vanoise Express**<br>`vanoise-express` | Peisey-Nancroix (73210) | Plan-Peisey 1 612 m | [search](https://commons.wikimedia.org/w/index.php?search=Vanoise+Express+Peisey-Nancroix&title=Special:MediaSearch&type=image) | ✅ |
-| 11 | **Col de la Loze**<br>`col-de-la-loze` | Courchevel (73120) | 2 304 m | [search](https://commons.wikimedia.org/w/index.php?search=Col+de+la+Loze+Courchevel&title=Special:MediaSearch&type=image) | ☐ |
-| 12 | **Col du Glandon**<br>`col-du-glandon` | Saint-Colomban-des-Villards (73130) | 1 924 m | [search](https://commons.wikimedia.org/w/index.php?search=Col+du+Glandon+Saint-Colomban-des-Villards&title=Special:MediaSearch&type=image) | ☐ |
-| 13 | **Col du Mont-Cenis**<br>`col-du-mont-cenis` | Val-Cenis (73480) | 2 081 m | [search](https://commons.wikimedia.org/w/index.php?search=Col+du+Mont-Cenis+Val-Cenis&title=Special:MediaSearch&type=image) | ☐ |
-| 14 | **Col du Télégraphe**<br>`col-du-telegraphe` | Valloire (73450) | 1 566 m | [search](https://commons.wikimedia.org/w/index.php?search=Col+du+T%C3%A9l%C3%A9graphe+Valloire&title=Special:MediaSearch&type=image) | ☐ |
+| 11 | **Col de la Loze**<br>`col-de-la-loze` | Courchevel (73120) | 2 304 m | [search](https://commons.wikimedia.org/w/index.php?search=Col+de+la+Loze+Courchevel&title=Special:MediaSearch&type=image) | ✅ |
+| 12 | **Col du Glandon**<br>`col-du-glandon` | Saint-Colomban-des-Villards (73130) | 1 924 m | [search](https://commons.wikimedia.org/w/index.php?search=Col+du+Glandon+Saint-Colomban-des-Villards&title=Special:MediaSearch&type=image) | ✅ |
+| 13 | **Col du Mont-Cenis**<br>`col-du-mont-cenis` | Val-Cenis (73480) | 2 081 m | [search](https://commons.wikimedia.org/w/index.php?search=Col+du+Mont-Cenis+Val-Cenis&title=Special:MediaSearch&type=image) | ✅ |
+| 14 | **Col du Télégraphe**<br>`col-du-telegraphe` | Valloire (73450) | 1 566 m | [search](https://commons.wikimedia.org/w/index.php?search=Col+du+T%C3%A9l%C3%A9graphe+Valloire&title=Special:MediaSearch&type=image) | ✅ |
 | 15 | **Cormet de Roselend**<br>`cormet-de-roselend` | Beaufort (73270) | 1 968 m | [search](https://commons.wikimedia.org/w/index.php?search=Cormet+de+Roselend+Beaufort&title=Special:MediaSearch&type=image) | ☐ |
-| 16 | **Funiculaire de la Grande Motte**<br>`funiculaire-de-la-grande-motte` | Tignes (73320) | — | [search](https://commons.wikimedia.org/w/index.php?search=Funiculaire+de+la+Grande+Motte+Tignes&title=Special:MediaSearch&type=image) | ☐ |
+| 16 | **Funiculaire de la Grande Motte**<br>`funiculaire-de-la-grande-motte` | Tignes (73320) | — | [search](https://commons.wikimedia.org/w/index.php?search=Funiculaire+de+la+Grande+Motte+Tignes&title=Special:MediaSearch&type=image) | ✅ |
 | 17 | **Télécabine de la Pointe de la Masse**<br>`telecabine-de-la-pointe-de-la-masse` | Les Belleville (73440) | 2 804 m | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9cabine+de+la+Pointe+de+la+Masse+Les+Belleville&title=Special:MediaSearch&type=image) | ☐ |
 | 18 | **Télécabine de la Roche de Mio**<br>`telecabine-de-la-roche-de-mio` | La Plagne Tarentaise (73210) | 2 739 m | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9cabine+de+la+Roche+de+Mio+La+Plagne+Tarentaise&title=Special:MediaSearch&type=image) | ☐ |
 | 19 | **Télécabine du Mont Vallon**<br>`telecabine-du-mont-vallon` | Les Allues (73550) | 2 952 m | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9cabine+du+Mont+Vallon+Les+Allues&title=Special:MediaSearch&type=image) | ☐ |
@@ -62,12 +62,12 @@ Generated from `Json/*.json` on 2026-08-08 — not transcribed by hand.
 
 ### Batch 02 — 10 fiches
 
-- ☐ `col-de-la-loze` — Col de la Loze, Courchevel
-- ☐ `col-du-glandon` — Col du Glandon, Saint-Colomban-des-Villards
-- ☐ `col-du-mont-cenis` — Col du Mont-Cenis, Val-Cenis
-- ☐ `col-du-telegraphe` — Col du Télégraphe, Valloire
+- ✅ `col-de-la-loze` — Col de la Loze, Courchevel
+- ✅ `col-du-glandon` — Col du Glandon, Saint-Colomban-des-Villards
+- ✅ `col-du-mont-cenis` — Col du Mont-Cenis, Val-Cenis
+- ✅ `col-du-telegraphe` — Col du Télégraphe, Valloire
 - ☐ `cormet-de-roselend` — Cormet de Roselend, Beaufort
-- ☐ `funiculaire-de-la-grande-motte` — Funiculaire de la Grande Motte, Tignes
+- ✅ `funiculaire-de-la-grande-motte` — Funiculaire de la Grande Motte, Tignes
 - ☐ `telecabine-de-la-pointe-de-la-masse` — Télécabine de la Pointe de la Masse, Les Belleville
 - ☐ `telecabine-de-la-roche-de-mio` — Télécabine de la Roche de Mio, La Plagne Tarentaise
 - ☐ `telecabine-du-mont-vallon` — Télécabine du Mont Vallon, Les Allues
@@ -138,14 +138,19 @@ The named ones are **photographs of specific Haute-Savoie places**. Using `col-d
 
 | Fiche | Author | Licence | Pixels |
 |---|---|---|---|
-| `col-de-l-iseran` | genevieveromier | CC BY 2.0 | 800×532 |
-| `col-de-la-croix-de-fer` | Sjaak Kempe from Groningen, The Ne | CC BY 2.0 | 5184×3456 |
+| `col-de-l-iseran` | genevieveromier | CC BY 2.0 | 800×532 ⚠ |
+| `col-de-la-croix-de-fer` | Sjaak Kempe from Groningen, The  | CC BY 2.0 | 5184×3456 |
+| `col-de-la-loze` | Kuba Turek https://www.horydoly. | CC BY-SA 4.0 | 1024×569 ⚠ |
 | `col-de-la-madeleine` | Anthospace | CC BY-SA 3.0 | 2592×1944 |
 | `col-du-galibier` | MOSSOT | CC BY-SA 3.0 | 3648×2736 |
+| `col-du-glandon` | Benoit Kornmann | CC BY-SA 3.0 | 3072×2304 |
+| `col-du-mont-cenis` | Florian Pépellin | CC BY-SA 4.0 | 3240×2420 |
 | `col-du-petit-saint-bernard` | Rémih | CC BY-SA 4.0 | 5184×3888 |
+| `col-du-telegraphe` | Florian Pépellin | CC BY-SA 4.0 | 3264×2448 |
+| `funiculaire-de-la-grande-motte` | Antoine Lamielle | CC BY-SA 4.0 | 6000×4000 |
 | `telecabine-orelle-cime-caron` | Florian Pépellin | CC BY-SA 4.0 | 3264×2448 |
 | `telepherique-de-l-aiguille-rouge` | Akiry | CC BY-SA 4.0 | 2304×1728 |
-| `telepherique-de-la-grande-motte` | Ian Gratton from Sutton-n-Craven,  | CC BY 2.0 | 2560×1920 |
+| `telepherique-de-la-grande-motte` | Ian Gratton from Sutton-n-Craven | CC BY 2.0 | 2560×1920 |
 | `telepherique-de-la-saulire` | Florian Pépellin | CC BY-SA 4.0 | 3264×2448 |
 | `vanoise-express` | Florian Pépellin | CC BY-SA 4.0 | 2772×2112 |
 

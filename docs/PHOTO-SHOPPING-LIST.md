@@ -1,6 +1,6 @@
 # Loisirs 73 — hero photo shopping list
 
-**30 fiches · 22 heroes sourced · 8 to go.** Every fiche is `status: draft` with `hero_image: null`; the standing rule is hero-photo-before-publish, so this list is the whole gap between draft and published.
+**30 fiches · 26 heroes sourced · 4 to go.** Every fiche is `status: draft` with `hero_image: null`; the standing rule is hero-photo-before-publish, so this list is the whole gap between draft and published.
 
 Generated from `Json/*.json` on 2026-08-08 — not transcribed by hand.
 
@@ -31,17 +31,17 @@ Generated from `Json/*.json` on 2026-08-08 — not transcribed by hand.
 | 15 | **Cormet de Roselend**<br>`cormet-de-roselend` | Beaufort (73270) | 1 968 m | [search](https://commons.wikimedia.org/w/index.php?search=Cormet+de+Roselend+Beaufort&title=Special:MediaSearch&type=image) | ✅ |
 | 16 | **Funiculaire de la Grande Motte**<br>`funiculaire-de-la-grande-motte` | Tignes (73320) | — | [search](https://commons.wikimedia.org/w/index.php?search=Funiculaire+de+la+Grande+Motte+Tignes&title=Special:MediaSearch&type=image) | ✅ |
 | 17 | **Télécabine de la Pointe de la Masse**<br>`telecabine-de-la-pointe-de-la-masse` | Les Belleville (73440) | 2 804 m | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9cabine+de+la+Pointe+de+la+Masse+Les+Belleville&title=Special:MediaSearch&type=image) | ✅ |
-| 18 | **Télécabine de la Roche de Mio**<br>`telecabine-de-la-roche-de-mio` | La Plagne Tarentaise (73210) | 2 739 m | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9cabine+de+la+Roche+de+Mio+La+Plagne+Tarentaise&title=Special:MediaSearch&type=image) | ☐ |
+| 18 | **Télécabine de la Roche de Mio**<br>`telecabine-de-la-roche-de-mio` | La Plagne Tarentaise (73210) | 2 739 m | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9cabine+de+la+Roche+de+Mio+La+Plagne+Tarentaise&title=Special:MediaSearch&type=image) | ✅ |
 | 19 | **Télécabine du Mont Vallon**<br>`telecabine-du-mont-vallon` | Les Allues (73550) | 2 952 m | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9cabine+du+Mont+Vallon+Les+Allues&title=Special:MediaSearch&type=image) | ✅ |
 | 20 | **Téléphérique du Mont-Bochor**<br>`telepherique-du-mont-bochor` | Pralognan-la-Vanoise (73710) | Table d'orientation à 2 02 | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9ph%C3%A9rique+du+Mont-Bochor+Pralognan-la-Vanoise&title=Special:MediaSearch&type=image) | ☐ |
 | 21 | **Col des Saisies**<br>`col-des-saisies` | Hauteluce (73620) | 1 650 m | [search](https://commons.wikimedia.org/w/index.php?search=Col+des+Saisies+Hauteluce&title=Special:MediaSearch&type=image) | ✅ |
 | 22 | **Col du Chaussy**<br>`col-du-chaussy` | Saint-Jean-de-Maurienne (73300) | 1 533 m | [search](https://commons.wikimedia.org/w/index.php?search=Col+du+Chaussy+Saint-Jean-de-Maurienne&title=Special:MediaSearch&type=image) | ✅ |
 | 23 | **Col du Mollard**<br>`col-du-mollard` | Albiez-Montrond (73300) | 1 638 m | [search](https://commons.wikimedia.org/w/index.php?search=Col+du+Mollard+Albiez-Montrond&title=Special:MediaSearch&type=image) | ✅ |
 | 24 | **Cormet d'Arêches**<br>`cormet-d-areches` | Beaufort (73270) | 2 107 m | [search](https://commons.wikimedia.org/w/index.php?search=Cormet+d%27Ar%C3%AAches+Beaufort&title=Special:MediaSearch&type=image) | ✅ |
-| 25 | **Signal de Bisanne**<br>`signal-de-bisanne` | Hauteluce (73620) | 1 930 m. La station, où s' | [search](https://commons.wikimedia.org/w/index.php?search=Signal+de+Bisanne+Hauteluce&title=Special:MediaSearch&type=image) | ☐ |
+| 25 | **Signal de Bisanne**<br>`signal-de-bisanne` | Hauteluce (73620) | 1 930 m. La station, où s' | [search](https://commons.wikimedia.org/w/index.php?search=Signal+de+Bisanne+Hauteluce&title=Special:MediaSearch&type=image) | ✅ |
 | 26 | **Télécabine de Champagny**<br>`telecabine-de-champagny` | Champagny-en-Vanoise (73350) | — | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9cabine+de+Champagny+Champagny-en-Vanoise&title=Special:MediaSearch&type=image) | ☐ |
-| 27 | **Télécabine de Solaise**<br>`telecabine-de-solaise` | Val-d'Isère (73150) | 2 560 m, tête de Solaise | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9cabine+de+Solaise+Val-d%27Is%C3%A8re&title=Special:MediaSearch&type=image) | ☐ |
-| 28 | **Télécabine des Glaciers**<br>`telecabine-des-glaciers` | La Plagne Tarentaise (73210) | « Plus de 3 000 m » | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9cabine+des+Glaciers+La+Plagne+Tarentaise&title=Special:MediaSearch&type=image) | ☐ |
+| 27 | **Télécabine de Solaise**<br>`telecabine-de-solaise` | Val-d'Isère (73150) | 2 560 m, tête de Solaise | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9cabine+de+Solaise+Val-d%27Is%C3%A8re&title=Special:MediaSearch&type=image) | ✅ |
+| 28 | **Télécabine des Glaciers**<br>`telecabine-des-glaciers` | La Plagne Tarentaise (73210) | « Plus de 3 000 m » | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9cabine+des+Glaciers+La+Plagne+Tarentaise&title=Special:MediaSearch&type=image) | ✅ |
 | 29 | **Télécabine Orelle – Cime Caron**<br>`telecabine-orelle-cime-caron` | Orelle (73140) | « 3 200 m » selon une sour | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9cabine+Orelle+%E2%80%93+Cime+Caron+Orelle&title=Special:MediaSearch&type=image) | ✅ |
 | 30 | **Téléphérique de l'Olympique**<br>`telepherique-de-l-olympique` | Val-d'Isère (73150) | — | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9ph%C3%A9rique+de+l%27Olympique+Val-d%27Is%C3%A8re&title=Special:MediaSearch&type=image) | ☐ |
 
@@ -69,7 +69,7 @@ Generated from `Json/*.json` on 2026-08-08 — not transcribed by hand.
 - ✅ `cormet-de-roselend` — Cormet de Roselend, Beaufort
 - ✅ `funiculaire-de-la-grande-motte` — Funiculaire de la Grande Motte, Tignes
 - ✅ `telecabine-de-la-pointe-de-la-masse` — Télécabine de la Pointe de la Masse, Les Belleville
-- ☐ `telecabine-de-la-roche-de-mio` — Télécabine de la Roche de Mio, La Plagne Tarentaise
+- ✅ `telecabine-de-la-roche-de-mio` — Télécabine de la Roche de Mio, La Plagne Tarentaise
 - ✅ `telecabine-du-mont-vallon` — Télécabine du Mont Vallon, Les Allues
 - ☐ `telepherique-du-mont-bochor` — Téléphérique du Mont-Bochor, Pralognan-la-Vanoise
 
@@ -79,10 +79,10 @@ Generated from `Json/*.json` on 2026-08-08 — not transcribed by hand.
 - ✅ `col-du-chaussy` — Col du Chaussy, Saint-Jean-de-Maurienne
 - ✅ `col-du-mollard` — Col du Mollard, Albiez-Montrond
 - ✅ `cormet-d-areches` — Cormet d'Arêches, Beaufort
-- ☐ `signal-de-bisanne` — Signal de Bisanne, Hauteluce
+- ✅ `signal-de-bisanne` — Signal de Bisanne, Hauteluce
 - ☐ `telecabine-de-champagny` — Télécabine de Champagny, Champagny-en-Vanoise
-- ☐ `telecabine-de-solaise` — Télécabine de Solaise, Val-d'Isère
-- ☐ `telecabine-des-glaciers` — Télécabine des Glaciers, La Plagne Tarentaise
+- ✅ `telecabine-de-solaise` — Télécabine de Solaise, Val-d'Isère
+- ✅ `telecabine-des-glaciers` — Télécabine des Glaciers, La Plagne Tarentaise
 - ✅ `telecabine-orelle-cime-caron` — Télécabine Orelle – Cime Caron, Orelle
 - ☐ `telepherique-de-l-olympique` — Téléphérique de l'Olympique, Val-d'Isère
 
@@ -153,7 +153,11 @@ The named ones are **photographs of specific Haute-Savoie places**. Using `col-d
 | `cormet-d-areches` | Rémih | CC BY-SA 4.0 | 5184×3888 |
 | `cormet-de-roselend` | Florian Pépellin | CC BY-SA 3.0 | 4288×3216 |
 | `funiculaire-de-la-grande-motte` | Antoine Lamielle | CC BY-SA 4.0 | 6000×4000 |
+| `signal-de-bisanne` | Rémih | CC BY-SA 4.0 | 5184×3888 |
 | `telecabine-de-la-pointe-de-la-masse` | Florian Pépellin | CC BY-SA 4.0 | 3264×2448 |
+| `telecabine-de-la-roche-de-mio` | Rémih | CC BY-SA 4.0 | 4608×3456 |
+| `telecabine-de-solaise` | Rémih | CC BY-SA 4.0 | 5184×3888 |
+| `telecabine-des-glaciers` | Florian Pépellin | CC BY-SA 4.0 | 3264×2448 |
 | `telecabine-du-mont-vallon` | Florian Pépellin | CC BY-SA 4.0 | 3264×2448 |
 | `telecabine-orelle-cime-caron` | Florian Pépellin | CC BY-SA 4.0 | 3264×2448 |
 | `telepherique-de-l-aiguille-rouge` | DimiTalen | CC0 | 2495×1659 |

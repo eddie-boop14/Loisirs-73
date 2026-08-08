@@ -34,8 +34,8 @@
     "website": null
   },
   "gallery_photos": [],
-  "hero_credit": null,
-  "hero_image": null,
+  "hero_credit": "Rémih · CC BY-SA 4.0 · Wikimedia Commons",
+  "hero_image": "/img/telecabines/telecabine-de-la-roche-de-mio-hero.jpg",
   "i18n": {
     "en": {
       "activities": [
@@ -129,7 +129,7 @@
         },
         {
           "k": "Entered service",
-          "v": "December 2025. The previous machine, a Poma TCD6, has been removed."
+          "v": "Disputed. Skipass-laplagne gives December 2025; a photograph dated 14 April 2025 shows \"the new gondola\". Probably a season start read as an in-service date. Unresolved."
         },
         {
           "k": "Coordinates",
@@ -251,7 +251,7 @@
         },
         {
           "k": "Mise en service",
-          "v": "Décembre 2025. L'appareil précédent, une TCD6 Poma, est déposé."
+          "v": "Contestée. Skipass-laplagne donne décembre 2025 ; une photographie datée du 14 avril 2025 montre « la nouvelle télécabine ». Probablement un début de saison confondu avec une mise en service. Non résolu."
         },
         {
           "k": "Coordonnées",
@@ -385,14 +385,13 @@
   "verify_flags": [
     "L'EXPLOITANT ÉTIQUETTE SA SAISON D'ÉTÉ « WINTER OPENING » — skipass-laplagne.com écrit littéralement « Winter opening: from the 4th of July to the 29th of August 2026 ». Les dates sont estivales, le libellé est faux. Reprendre le libellé reviendrait à publier que la télécabine ouvre l'hiver du 4 juillet au 29 août.",
     "FERMÉE LE SAMEDI — l'appareil tourne les lundi, mardi, mercredi, jeudi, vendredi et dimanche. Le samedi est le jour de rotation des locations en station : c'est précisément le jour où un visiteur de passage tenterait sa chance. Deuxième piège de jour de semaine de ce lot, après la Pointe de la Masse.",
-    "APPAREIL NEUF DEPUIS DÉCEMBRE 2025 — toute description technique antérieure décrit la TCD6 Poma déposée, pas l'appareil actuel. Les fiches encyclopédiques et les forums qui donnent 6 places par cabine sont périmés : le nouvel appareil a des cabines 10 places.",
+    "DATE DE MISE EN SERVICE CONTESTÉE PAR LA PHOTOGRAPHIE — cette fiche a d'abord retenu « décembre 2025 » d'après skipass-laplagne. Or Rémih a photographié « la NOUVELLE télécabine de la Roche-de-Mio » le 14 avril 2025, huit mois plus tôt, et a pris le même jour un second cliché de l'appareil. Les deux affirmations ne tiennent pas ensemble. L'hypothèse la plus probable est que « décembre 2025 » soit le début d'une SAISON d'hiver (la page de l'exploitant donne aussi « du 13 décembre 2025 au 25 avril 2026 », qui est manifestement une saison) et non la mise en service de la machine. Non résolu : ne pas publier « mise en service décembre 2025 » comme un fait.",
     "CARACTÉRISTIQUES TECHNIQUES À SOURÇAGE UNIQUE — cabines 10 places, 6 m/s et 3 140 personnes/heure ne viennent que de la page de l'exploitant. Aucune fiche technique indépendante n'a été consultée pour le nouvel appareil.",
     "ALTITUDE À SOURÇAGE SECONDAIRE — 2 739 m n'apparaît pas sur la page de l'exploitant consultée, qui ne donne ni altitude ni durée de trajet. Le chiffre vient de relais.",
     "DURÉE DU TRAJET NON PUBLIÉE — aucune source consultée ne la donne pour le nouvel appareil. Champ null.",
     "TARIFS RELEVÉS EN RECHERCHE, NON REVUS SUR UNE GRILLE — la grille complète (montée simple, journée, semaine, saison, deux tranches d'âge) est cohérente en interne, mais elle n'a pas été confirmée sur une page tarifaire de l'exploitant. La tranche « 5-12 ans » implique une gratuité en dessous de 5 ans qu'aucune source n'énonce.",
     "HORAIRES 9H-17H SANS VARIATION PUBLIÉE — aucune source ne mentionne de coupure méridienne ni de changement en fin de saison. L'absence de coupure n'est pas la même chose qu'une confirmation qu'il n'y en a pas.",
     "LA PLAGNE TARENTAISE EST LA COMMUNE, PLAGNE BELLECÔTE LE FRONT DE NEIGE — la gare de départ est à Plagne Bellecôte, qui n'est pas une commune. La Plagne Tarentaise (73210) pèse 97 POI dans la queue du 73.",
-    "ANIMAUX, PMR, POUSSETTES : aucune source. Champs null.",
-    "PHOTO REFUSÉE — le cliché Commons « Télécabine de la Roche-de-Mio @ Plagne Bellecôte 03 » (Rémih, CC BY-SA 4.0, 5184x3888) est daté du 14 avril 2025, soit AVANT la mise en service de l'appareil actuel en décembre 2025. Il montre donc la TCD6 Poma déposée, pas la télécabine 10 places en service. Techniquement irréprochable, factuellement périmé : ne pas l'utiliser comme hero. Chercher un cliché postérieur à décembre 2025."
+    "ANIMAUX, PMR, POUSSETTES : aucune source. Champs null."
   ]
 }

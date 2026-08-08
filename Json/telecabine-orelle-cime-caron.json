@@ -1,0 +1,379 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-08",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "remontee-mecanique",
+  "commune": "Orelle",
+  "date_modified_human": "8 août 2026",
+  "date_published_human": null,
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "checked": "2026-08-08",
+    "confidence": "low",
+    "flag_reason": "Aucun passage Google Places sur le 73 : champs de fraîcheur non renseignés.",
+    "google_match": null,
+    "google_status": "UNKNOWN",
+    "hours": null,
+    "outcome": "NOT_RUN",
+    "phone": null,
+    "place_id": null,
+    "rating": null,
+    "rating_count": null,
+    "registry": null,
+    "site_reachable": null,
+    "status": "UNVERIFIED",
+    "website": null
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": null,
+  "i18n": {
+    "en": {
+      "activities": [
+        {
+          "description": "Two sections from Orelle: 4,997 m to Plan Bouchet in 13 minutes, then 2,235 m to the Cime Caron in under 7 minutes.",
+          "tag": "Summer",
+          "title": "Reach the Cime Caron from the Maurienne"
+        },
+        {
+          "description": "The link allows a crossing to Val Thorens, except on 29 and 30 August 2026 when it is announced closed.",
+          "tag": null,
+          "title": "Cross to Val Thorens"
+        },
+        {
+          "description": "The summit is also served by the Cime Caron cable car from Val Thorens: two machines, two sides, two communes.",
+          "tag": null,
+          "title": "Compare with the Val Thorens side"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Orelle – Cime Caron</strong> link climbs from the Maurienne to the summit of the Cime Caron in two sections: 4,997 m to Plan Bouchet, 87 cabins and 1,462 m of ascent in 13 minutes, then 2,235 m to the top, 44 cabins and 820 m of ascent in under 7 minutes.</p><p>It replaces the <strong>3 Vallées Express</strong>, withdrawn after 25 years of service: any page or map still citing it is out of date.</p><p>Do not confuse it with the Cime Caron cable car, which reaches the same summit but from Val Thorens, in the commune of Les Belleville. Two machines, two sides, two communes, two calendars — and on 29 and 30 August 2026 the crossing between them is announced closed.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Paid",
+        "best_season": "Summer (4 July – 30 August 2026)",
+        "commune": "Orelle",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Two-section gondola",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Les 3 Vallées announce Orelle open 7 days a week from 4 July to 30 August 2026, running 09:45–16:15.",
+          "q": "When does the Orelle – Cime Caron link run in summer 2026?"
+        },
+        {
+          "a": "No. The Cime Caron cable car climbs from Val Thorens, commune of Les Belleville; this link climbs from Orelle in two sections. Two different machines to one summit.",
+          "q": "Is this the same as the Cime Caron cable car?"
+        },
+        {
+          "a": "One source says 3,200 m, but our cable car page records 3,193 m per the BEA-TT, 3,186 m elsewhere, and 3,195 m for the summit itself. The 3,200 m figure is likely a rounding.",
+          "q": "How high does it go?"
+        },
+        {
+          "a": "Yes, except on 29 and 30 August 2026: Les 3 Vallées announce no link between Orelle and Val Thorens on those two days, even though the Orelle lifts are running.",
+          "q": "Can you cross to Val Thorens?"
+        },
+        {
+          "a": "No. It was withdrawn after 25 years of service and replaced by this link. Pages citing it as a means of access are out of date.",
+          "q": "Does the 3 Vallées Express still exist?"
+        }
+      ],
+      "hero": {
+        "badge": "Paid · Two sections from the Maurienne",
+        "lead": "The Orelle – Cime Caron link climbs from the Maurienne to the summit in two sections. It replaces the 3 Vallées Express, withdrawn after 25 years."
+      },
+      "hero_alt": "Orelle – Cime Caron gondola, Orelle, Maurienne, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Bottom station at Orelle, in the Maurienne. Not to be confused with the Val Thorens approach, which is in the commune of Les Belleville on the other side of the ridge.",
+        "public_transport": null
+      },
+      "meta_description": "Two-section link from Orelle to the Cime Caron, replacing the 3 Vallées Express. Summer 2026: 4 July – 30 August, 7 days a week, 09:45–16:15.",
+      "meta_title": "Orelle – Cime Caron Gondola · Summer 2026, hours",
+      "name": "Orelle – Cime Caron Gondola",
+      "name_alternates": [
+        "Orelle-Caron",
+        "3 Vallées Express (replaced machine)"
+      ],
+      "practical_info": [
+        {
+          "k": "Type",
+          "v": "Two-section gondola"
+        },
+        {
+          "k": "First section",
+          "v": "Orelle → Plan Bouchet: 4,997 m, 87 cabins, 1,462 m of ascent, 13 minutes (secondary sources)"
+        },
+        {
+          "k": "Second section",
+          "v": "Plan Bouchet → Cime Caron: 2,235 m, 44 cabins, 820 m of ascent, under 7 minutes (secondary sources)"
+        },
+        {
+          "k": "Capacity and speed",
+          "v": "Up to 2,500 people/hour, 7 m/s (secondary sources)"
+        },
+        {
+          "k": "Arrival altitude",
+          "v": "\"3,200 m\" per one source; our cable car page records 3,193 m (BEA-TT), 3,186 m elsewhere, and 3,195 m for the summit. Likely a rounding."
+        },
+        {
+          "k": "Summer 2026",
+          "v": "4 July to 30 August 2026, 7 days a week, 09:45–16:15. Last departure from Plan Bouchet towards Val Thorens 16:00, last from Cime Caron towards Orelle 16:15.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Val Thorens link",
+          "v": "No link between Orelle and Val Thorens on 29 and 30 August 2026 (Les 3 Vallées), even though the Orelle lifts run.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Replaced machine",
+          "v": "The 3 Vallées Express, withdrawn after 25 years of service"
+        },
+        {
+          "k": "Coordinates",
+          "v": null
+        },
+        {
+          "k": "Price",
+          "v": null
+        },
+        {
+          "k": "Dogs",
+          "v": null
+        },
+        {
+          "k": "Accessibility",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Gondola",
+        "Viewpoint"
+      ],
+      "when_to_visit": "<p>4 July to 30 August 2026, every day. Two dates deserve attention: on 29 and 30 August the Orelle lifts run but the crossing to Val Thorens is announced closed.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Deux tronçons depuis Orelle : 4 997 m jusqu'à Plan Bouchet en 13 minutes, puis 2 235 m jusqu'à la Cime Caron en moins de 7 minutes.",
+          "tag": "Été",
+          "title": "Monter à la Cime Caron depuis la Maurienne"
+        },
+        {
+          "description": "La liaison permet de basculer sur Val Thorens, sauf les 29 et 30 août 2026 où le lien est annoncé fermé.",
+          "tag": null,
+          "title": "Basculer sur Val Thorens"
+        },
+        {
+          "description": "Le sommet est également desservi par le téléphérique de la Cime Caron, depuis Val Thorens : deux appareils, deux versants, deux communes.",
+          "tag": null,
+          "title": "Comparer avec le versant Val Thorens"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La liaison <strong>Orelle – Cime Caron</strong> monte de la Maurienne vers le sommet de la Cime Caron en deux tronçons : 4 997 m jusqu'à Plan Bouchet, 87 cabines et 1 462 m de dénivelé en 13 minutes, puis 2 235 m jusqu'au sommet, 44 cabines et 820 m de dénivelé en moins de 7 minutes.</p><p>Elle remplace le <strong>3 Vallées Express</strong>, retiré après 25 ans de service : toute page ou tout plan le mentionnant est périmé.</p><p>Attention à ne pas la confondre avec le téléphérique de la Cime Caron, qui atteint le même sommet mais depuis Val Thorens, sur la commune des Belleville. Deux appareils, deux versants, deux communes, deux calendriers — et les 29 et 30 août 2026, la bascule d'un versant à l'autre est annoncée fermée.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Payant",
+        "best_season": "Été (4 juillet – 30 août 2026)",
+        "commune": "Orelle",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Télécabine en deux tronçons",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Les 3 Vallées annoncent Orelle ouvert 7 jours sur 7 du 4 juillet au 30 août 2026, horaires 9h45–16h15.",
+          "q": "Quand la liaison Orelle-Cime Caron fonctionne-t-elle en été 2026 ?"
+        },
+        {
+          "a": "Non. Le téléphérique de la Cime Caron monte depuis Val Thorens, commune des Belleville ; cette liaison monte depuis Orelle, en deux tronçons. Deux appareils différents pour un même sommet.",
+          "q": "Est-ce le même appareil que le téléphérique de la Cime Caron ?"
+        },
+        {
+          "a": "Une source annonce 3 200 m, mais notre fiche du téléphérique relève 3 193 m selon le BEA-TT, 3 186 m ailleurs, et 3 195 m pour le sommet. Le chiffre de 3 200 m est vraisemblablement un arrondi.",
+          "q": "À quelle altitude arrive-t-on ?"
+        },
+        {
+          "a": "Oui, sauf les 29 et 30 août 2026 : Les 3 Vallées annoncent qu'il n'y a pas de liaison entre Orelle et Val Thorens ces deux jours-là, alors que les appareils d'Orelle fonctionnent.",
+          "q": "Peut-on basculer sur Val Thorens ?"
+        },
+        {
+          "a": "Non. Il a été retiré après 25 ans de service et remplacé par cette liaison. Les pages qui le citent comme moyen d'accès sont périmées.",
+          "q": "Le 3 Vallées Express existe-t-il encore ?"
+        }
+      ],
+      "hero": {
+        "badge": "Payant · Deux tronçons depuis la Maurienne",
+        "lead": "La liaison Orelle – Cime Caron monte de la Maurienne au sommet en deux tronçons. Elle remplace le 3 Vallées Express, retiré après 25 ans."
+      },
+      "hero_alt": "Télécabine Orelle – Cime Caron, Orelle, Maurienne, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Gare de départ à Orelle, en Maurienne. Ne pas confondre avec l'accès par Val Thorens, qui est sur la commune des Belleville, de l'autre côté de la crête.",
+        "public_transport": null
+      },
+      "meta_description": "Liaison en deux tronçons d'Orelle à la Cime Caron, en remplacement du 3 Vallées Express. Été 2026 : 4 juillet – 30 août, 7 j/7, 9h45–16h15.",
+      "meta_title": "Télécabine Orelle – Cime Caron · Été 2026, horaires",
+      "name": "Télécabine Orelle – Cime Caron",
+      "name_alternates": [
+        "Orelle-Caron",
+        "3 Vallées Express (appareil remplacé)"
+      ],
+      "practical_info": [
+        {
+          "k": "Type",
+          "v": "Télécabine en deux tronçons"
+        },
+        {
+          "k": "Premier tronçon",
+          "v": "Orelle → Plan Bouchet : 4 997 m, 87 cabines, 1 462 m de dénivelé, 13 minutes (sources secondaires)"
+        },
+        {
+          "k": "Second tronçon",
+          "v": "Plan Bouchet → Cime Caron : 2 235 m, 44 cabines, 820 m de dénivelé, moins de 7 minutes (sources secondaires)"
+        },
+        {
+          "k": "Débit et vitesse",
+          "v": "Jusqu'à 2 500 personnes/heure, 7 m/s (sources secondaires)"
+        },
+        {
+          "k": "Altitude d'arrivée",
+          "v": "« 3 200 m » selon une source ; notre fiche du téléphérique relève 3 193 m (BEA-TT), 3 186 m ailleurs, et 3 195 m pour le sommet. Arrondi probable."
+        },
+        {
+          "k": "Été 2026",
+          "v": "Du 4 juillet au 30 août 2026, 7 jours sur 7, 9h45–16h15. Dernier départ de Plan Bouchet vers Val Thorens à 16h00, dernier départ de la Cime Caron vers Orelle à 16h15.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Liaison Val Thorens",
+          "v": "Pas de liaison entre Orelle et Val Thorens les 29 et 30 août 2026 (Les 3 Vallées), alors que les appareils d'Orelle fonctionnent.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Appareil remplacé",
+          "v": "Le 3 Vallées Express, retiré après 25 ans de service"
+        },
+        {
+          "k": "Coordonnées",
+          "v": null
+        },
+        {
+          "k": "Tarif",
+          "v": null
+        },
+        {
+          "k": "Animaux",
+          "v": null
+        },
+        {
+          "k": "Accessibilité",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Télécabine",
+        "Point de vue"
+      ],
+      "when_to_visit": "<p>Du 4 juillet au 30 août 2026, tous les jours. Deux jours méritent attention : les 29 et 30 août, les appareils d'Orelle tournent mais la bascule vers Val Thorens est annoncée fermée.</p>"
+    }
+  },
+  "latitude": null,
+  "longitude": null,
+  "official_site_url": "https://www.orelle.net/fiche/activite/montagne/7310027",
+  "partners": [],
+  "postal_code": "73140",
+  "price_currency": null,
+  "price_from": null,
+  "price_tiers": [],
+  "research_log": [
+    "Le 3 Vallées Express a été retiré après 25 ans de service et remplacé par la nouvelle liaison Orelle-Cime Caron.",
+    "Été 2026 : télécabines ouvertes tous les jours, horaires 9h45–16h15, dernier départ de Plan Bouchet vers Val Thorens à 16h00 et dernier départ de la Cime Caron vers Orelle à 16h15.",
+    "Premier tronçon : 4 997 m entre Orelle et Plan Bouchet, 87 cabines, 1 462 m de dénivelé, 13 minutes. Second tronçon : 2 235 m entre Plan Bouchet et la Cime Caron, 44 cabines, 820 m de dénivelé, moins de 7 minutes. Débit annoncé jusqu'à 2 500 personnes/heure, vitesse 7 m/s.",
+    "Une source annonce l'arrivée « à 3 200 mètres d'altitude au sommet de la Cime Caron ».",
+    "Les 3 Vallées : « Orelle — Ski lifts open 7 days a week from 04/07 to 30/08 », avec la mention « No link between Orelle and Val Thorens on 29 and 30 August ».",
+    "Recoupement interne au dépôt : notre fiche telepherique-de-la-cime-caron (Les Belleville, versant Val Thorens) donne la gare amont à 3 193 m selon le BEA-TT et 3 186 m selon d'autres sources, le sommet à 3 195 m, et une saison du 4 juillet au 28 août 2026 en 9h45–16h15 avec dernière montée à 15h45 — en signalant que la page anglaise affiche 16h00 au lieu de 16h15."
+  ],
+  "schema_org": {
+    "amenities": [
+      "Télécabine",
+      "Point de vue"
+    ],
+    "is_free": false,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "telecabine-orelle-cime-caron",
+  "sources": [
+    {
+      "name": "Orelle Val Thorens Les 3 Vallées — ouverture estivale des télécabines",
+      "url": "https://www.orelle.net/fiche/activite/montagne/7310027"
+    },
+    {
+      "name": "Orelle Val Thorens Les 3 Vallées — été montagne",
+      "url": "https://www.orelle.net/"
+    },
+    {
+      "name": "Orelle Val Thorens — télécabine d'Orelle et télécabine Orelle-Caron, les coulisses",
+      "url": "https://www.orelle.net/fiche/pratique/espace-presse/5896510"
+    },
+    {
+      "name": "Les 3 Vallées — ouvertures été 2026",
+      "url": "https://www.les3vallees.com/en/news/3-vallees-openings"
+    },
+    {
+      "name": "Les 3 Vallées (presse) — mobilité et connexions inter-vallées",
+      "url": "https://press.les3vallees.com/media/download/mobilite-et-connexions.pdf"
+    },
+    {
+      "name": "Val Thorens — accès Orelle, la fulgurante ascension",
+      "url": "https://www.valthorens.com/en/acces-orelle-la-fulgurante-ascension/"
+    },
+    {
+      "name": "Infosnews — nouvelle liaison entre Val Thorens et Orelle",
+      "url": "https://www.infosnews.fr/articles/nouvelle-liaison-entre-val-thorens-et-orelle"
+    },
+    {
+      "name": "Plampraz — nouvelle connexion Orelle-Val Thorens pour remplacer le 3 Vallées Express",
+      "url": "https://www.plampraz.fr/nouvelle-connexion-orelle-val-thorens-pour-remplacer-le-3-vallees-express/"
+    },
+    {
+      "name": "Remontées-mécaniques.net — TCD10 d'Orelle (Doppelmayr)",
+      "url": "https://www.remontees-mecaniques.net/bdd/reportage-tcd10-d-orelle-doppelmayr-8285.html"
+    }
+  ],
+  "sparse_data": false,
+  "status": "draft",
+  "type": "transport",
+  "verify_flags": [
+    "QUATRIÈME ALTITUDE POUR LE MÊME SOMMET — « 3 200 m » ici, contre 3 193 m (BEA-TT), 3 186 m (autres sources) et 3 195 m pour le sommet lui-même, tous relevés dans notre fiche telepherique-de-la-cime-caron. Le chiffre de 3 200 m est vraisemblablement un arrondi commercial. Ne pas le publier comme une mesure.",
+    "LE « 16H00 VS 16H15 » SIGNALÉ EN BATCH 01 S'EXPLIQUE PROBABLEMENT ICI — notre fiche Cime Caron relevait une contradiction entre 16h15 et 16h00 sur les pages française et anglaise. Les données d'Orelle donnent deux derniers départs distincts : 16h00 depuis Plan Bouchet vers Val Thorens, 16h15 depuis la Cime Caron vers Orelle. Ce ne sont peut-être pas deux versions du même horaire mais deux horaires de deux points différents. HYPOTHÈSE DE RÉCONCILIATION, PAS CONFIRMATION : aucune source ne l'énonce, et la contradiction reste ouverte dans les deux fiches.",
+    "DEUX APPAREILS DIFFÉRENTS ATTEIGNENT LE MÊME SOMMET — le téléphérique de la Cime Caron monte depuis Val Thorens (commune des Belleville) ; cette liaison monte depuis Orelle (commune d'Orelle), par deux tronçons. Confondre les deux mélange deux exploitants, deux communes, deux tarifs et deux calendriers.",
+    "LES SAISONS DES DEUX VERSANTS NE COÏNCIDENT PAS — Orelle est donné ouvert du 04/07 au 30/08 par Les 3 Vallées, alors que notre fiche Cime Caron donne le versant Val Thorens du 4 juillet au 28 août. L'écart de deux jours est expliqué par la mention « No link between Orelle and Val Thorens on 29 and 30 August » : les 29 et 30 août, on peut monter côté Orelle mais pas basculer sur Val Thorens.",
+    "LE 3 VALLÉES EXPRESS N'EXISTE PLUS — retiré après 25 ans de service et remplacé. Toute page, tout plan ou tout forfait mentionnant le 3 Vallées Express comme moyen d'accès est périmé.",
+    "CARACTÉRISTIQUES TECHNIQUES À SOURÇAGE SECONDAIRE — longueurs (4 997 m et 2 235 m), nombres de cabines (87 et 44), dénivelés (1 462 m et 820 m), durées (13 min et moins de 7 min), débit (2 500 p/h) et vitesse (7 m/s) proviennent de relais et de dossiers de presse, pas d'une fiche technique de l'exploitant.",
+    "TARIFS NON RELEVÉS POUR CE VERSANT — aucun tarif piéton propre à la montée depuis Orelle n'a été trouvé. Notre fiche Cime Caron donne 23,50 € adulte et 17,60 € enfant DEPUIS VAL THORENS : ne pas transposer, c'est un autre versant et un autre exploitant.",
+    "GPS ABSENT — aucune ligne de la queue DATAtourisme ne correspond à l'appareil sous Orelle (73140), et aucune source ne publie de coordonnées. Champs null.",
+    "ORELLE PÈSE 21 POI DANS LA QUEUE DU 73 — c'est une petite commune de Maurienne qui sert de porte d'entrée aux 3 Vallées. Ne pas la confondre avec Val Thorens, qui est sur la commune des Belleville, de l'autre côté de la crête.",
+    "DATE DE MISE EN SERVICE DE LA NOUVELLE LIAISON NON RELEVÉE — les sources disent qu'elle remplace le 3 Vallées Express « pour cette nouvelle saison » sans millésime exploitable. Champ non publié.",
+    "ANIMAUX, PMR, VTT : aucune source. Champs null."
+  ]
+}

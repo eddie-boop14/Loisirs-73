@@ -1,6 +1,6 @@
 # Loisirs 73 — hero photo shopping list
 
-**30 fiches, 30 heroes needed.** Every fiche is `status: draft` with `hero_image: null`; the standing rule is hero-photo-before-publish, so this list is the whole gap between draft and published.
+**30 fiches · 6 heroes sourced · 24 to go.** Every fiche is `status: draft` with `hero_image: null`; the standing rule is hero-photo-before-publish, so this list is the whole gap between draft and published.
 
 Generated from `Json/*.json` on 2026-08-08 — not transcribed by hand.
 
@@ -14,12 +14,12 @@ Generated from `Json/*.json` on 2026-08-08 — not transcribed by hand.
 
 | # | Fiche | Commune | Altitude | Commons search | ✅ |
 |---|---|---|---|---|---|
-| 1 | **Col de l'Iseran**<br>`col-de-l-iseran` | Bonneval-sur-Arc (73480) | 2 770 m selon certaines pa | [search](https://commons.wikimedia.org/w/index.php?search=Col+de+l%27Iseran+Bonneval-sur-Arc&title=Special:MediaSearch&type=image) | ☐ |
-| 2 | **Col de la Croix de Fer**<br>`col-de-la-croix-de-fer` | Saint-Sorlin-d'Arves (73530) | 2 067 m selon l'office de  | [search](https://commons.wikimedia.org/w/index.php?search=Col+de+la+Croix+de+Fer+Saint-Sorlin-d%27Arves&title=Special:MediaSearch&type=image) | ☐ |
-| 3 | **Col de la Madeleine**<br>`col-de-la-madeleine` | Saint-François-Longchamp (73130) | 1 993 m selon l'IGN, 2 000 | [search](https://commons.wikimedia.org/w/index.php?search=Col+de+la+Madeleine+Saint-Fran%C3%A7ois-Longchamp&title=Special:MediaSearch&type=image) | ☐ |
-| 4 | **Col du Galibier**<br>`col-du-galibier` | Valloire (73450) | Route du sommet 2 642 m | [search](https://commons.wikimedia.org/w/index.php?search=Col+du+Galibier+Valloire&title=Special:MediaSearch&type=image) | ☐ |
-| 5 | **Col du Petit-Saint-Bernard**<br>`col-du-petit-saint-bernard` | Séez (73700) | 2 188 m | [search](https://commons.wikimedia.org/w/index.php?search=Col+du+Petit-Saint-Bernard+S%C3%A9ez&title=Special:MediaSearch&type=image) | ☐ |
-| 6 | **Téléphérique de l'Aiguille Rouge**<br>`telepherique-de-l-aiguille-rouge` | Bourg-Saint-Maurice (73700) | Gare amont 3 226 m selon l | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9ph%C3%A9rique+de+l%27Aiguille+Rouge+Bourg-Saint-Maurice&title=Special:MediaSearch&type=image) | ☐ |
+| 1 | **Col de l'Iseran**<br>`col-de-l-iseran` | Bonneval-sur-Arc (73480) | 2 770 m selon certaines pa | [search](https://commons.wikimedia.org/w/index.php?search=Col+de+l%27Iseran+Bonneval-sur-Arc&title=Special:MediaSearch&type=image) | ✅ |
+| 2 | **Col de la Croix de Fer**<br>`col-de-la-croix-de-fer` | Saint-Sorlin-d'Arves (73530) | 2 067 m selon l'office de  | [search](https://commons.wikimedia.org/w/index.php?search=Col+de+la+Croix+de+Fer+Saint-Sorlin-d%27Arves&title=Special:MediaSearch&type=image) | ✅ |
+| 3 | **Col de la Madeleine**<br>`col-de-la-madeleine` | Saint-François-Longchamp (73130) | 1 993 m selon l'IGN, 2 000 | [search](https://commons.wikimedia.org/w/index.php?search=Col+de+la+Madeleine+Saint-Fran%C3%A7ois-Longchamp&title=Special:MediaSearch&type=image) | ✅ |
+| 4 | **Col du Galibier**<br>`col-du-galibier` | Valloire (73450) | Route du sommet 2 642 m | [search](https://commons.wikimedia.org/w/index.php?search=Col+du+Galibier+Valloire&title=Special:MediaSearch&type=image) | ✅ |
+| 5 | **Col du Petit-Saint-Bernard**<br>`col-du-petit-saint-bernard` | Séez (73700) | 2 188 m | [search](https://commons.wikimedia.org/w/index.php?search=Col+du+Petit-Saint-Bernard+S%C3%A9ez&title=Special:MediaSearch&type=image) | ✅ |
+| 6 | **Téléphérique de l'Aiguille Rouge**<br>`telepherique-de-l-aiguille-rouge` | Bourg-Saint-Maurice (73700) | Gare amont 3 226 m selon l | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9ph%C3%A9rique+de+l%27Aiguille+Rouge+Bourg-Saint-Maurice&title=Special:MediaSearch&type=image) | ✅ |
 | 7 | **Téléphérique de la Cime Caron**<br>`telepherique-de-la-cime-caron` | Les Belleville (73440) | Gare aval 2 320 m | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9ph%C3%A9rique+de+la+Cime+Caron+Les+Belleville&title=Special:MediaSearch&type=image) | ☐ |
 | 8 | **Téléphérique de la Grande Motte**<br>`telepherique-de-la-grande-motte` | Tignes (73320) | Téléphérique 3 034 m → 3 4 | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9ph%C3%A9rique+de+la+Grande+Motte+Tignes&title=Special:MediaSearch&type=image) | ☐ |
 | 9 | **Téléphérique de la Saulire**<br>`telepherique-de-la-saulire` | Courchevel (73120) | Gare aval 2 077 m | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9ph%C3%A9rique+de+la+Saulire+Courchevel&title=Special:MediaSearch&type=image) | ☐ |
@@ -49,12 +49,12 @@ Generated from `Json/*.json` on 2026-08-08 — not transcribed by hand.
 
 ### Batch 01 — 10 fiches
 
-- ☐ `col-de-l-iseran` — Col de l'Iseran, Bonneval-sur-Arc
-- ☐ `col-de-la-croix-de-fer` — Col de la Croix de Fer, Saint-Sorlin-d'Arves
-- ☐ `col-de-la-madeleine` — Col de la Madeleine, Saint-François-Longchamp
-- ☐ `col-du-galibier` — Col du Galibier, Valloire
-- ☐ `col-du-petit-saint-bernard` — Col du Petit-Saint-Bernard, Séez
-- ☐ `telepherique-de-l-aiguille-rouge` — Téléphérique de l'Aiguille Rouge, Bourg-Saint-Maurice
+- ✅ `col-de-l-iseran` — Col de l'Iseran, Bonneval-sur-Arc
+- ✅ `col-de-la-croix-de-fer` — Col de la Croix de Fer, Saint-Sorlin-d'Arves
+- ✅ `col-de-la-madeleine` — Col de la Madeleine, Saint-François-Longchamp
+- ✅ `col-du-galibier` — Col du Galibier, Valloire
+- ✅ `col-du-petit-saint-bernard` — Col du Petit-Saint-Bernard, Séez
+- ✅ `telepherique-de-l-aiguille-rouge` — Téléphérique de l'Aiguille Rouge, Bourg-Saint-Maurice
 - ☐ `telepherique-de-la-cime-caron` — Téléphérique de la Cime Caron, Les Belleville
 - ☐ `telepherique-de-la-grande-motte` — Téléphérique de la Grande Motte, Tignes
 - ☐ `telepherique-de-la-saulire` — Téléphérique de la Saulire, Courchevel
@@ -131,3 +131,33 @@ The 74 has **131 dormant image stems** — on disk, referenced by no fiche. Temp
 - **44 dormant named subjects** — `col-de-la-colombiere-1..4`, `col-de-la-croix-fry-1..3`, `lac-des-confins-1..6`, and so on.
 
 The named ones are **photographs of specific Haute-Savoie places**. Using `col-de-la-colombiere-2.jpg` as the hero for the Col des Saisies would be publishing a picture of one col captioned as another — the same class of error as a wrong opening time, and harder to spot. None of the 44 can cross the departmental border. The dormant pile is a dead end for the 73, and it was worth checking to know that.
+
+---
+
+## Sourced so far
+
+| Fiche | Author | Licence | Pixels |
+|---|---|---|---|
+| `col-de-l-iseran` | genevieveromier | CC BY 2.0 | 800×532 |
+| `col-de-la-croix-de-fer` | Sjaak Kempe from Groningen, The Ne | CC BY 2.0 | 5184×3456 |
+| `col-de-la-madeleine` | Anthospace | CC BY-SA 3.0 | 2592×1944 |
+| `col-du-galibier` | MOSSOT | CC BY-SA 3.0 | 3648×2736 |
+| `col-du-petit-saint-bernard` | Rémih | CC BY-SA 4.0 | 5184×3888 |
+| `telepherique-de-l-aiguille-rouge` | Akiry | CC BY-SA 4.0 | 2304×1728 |
+
+Full provenance — Commons file name, licence URL, source page, fetch date — is in
+`photo-credits.json` at the repo root. Unlike the inherited generiques, every one of
+these is traceable.
+
+### Two that need a second look
+
+**`col-de-l-iseran` is 800×532.** Every other hero here is 2300–5200 px wide. At 800 px
+it will be upscaled on any large screen, on the fiche that opens the whole catalogue.
+It is a placeholder, not a keeper — worth one more Commons pass for the Iseran.
+
+**`col-du-petit-saint-bernard` was shot ~23 km away.** The Commons description is
+explicit: *"Le col du Petit-Saint-Bernard depuis la télécabine de Montalbert,
+Aime-la-Plagne"* — that is across the Tarentaise valley, so the col is a distant
+skyline feature rather than the subject. The licence and the caption are both honest;
+the framing is the problem. Fine as a landscape, weak as *this fiche's* hero. Worth
+checking whether it reads as the col at all before publish.

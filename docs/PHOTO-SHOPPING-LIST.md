@@ -1,6 +1,6 @@
 # Loisirs 73 — hero photo shopping list
 
-**30 fiches · 17 heroes sourced · 13 to go.** Every fiche is `status: draft` with `hero_image: null`; the standing rule is hero-photo-before-publish, so this list is the whole gap between draft and published.
+**30 fiches · 22 heroes sourced · 8 to go.** Every fiche is `status: draft` with `hero_image: null`; the standing rule is hero-photo-before-publish, so this list is the whole gap between draft and published.
 
 Generated from `Json/*.json` on 2026-08-08 — not transcribed by hand.
 
@@ -28,16 +28,16 @@ Generated from `Json/*.json` on 2026-08-08 — not transcribed by hand.
 | 12 | **Col du Glandon**<br>`col-du-glandon` | Saint-Colomban-des-Villards (73130) | 1 924 m | [search](https://commons.wikimedia.org/w/index.php?search=Col+du+Glandon+Saint-Colomban-des-Villards&title=Special:MediaSearch&type=image) | ✅ |
 | 13 | **Col du Mont-Cenis**<br>`col-du-mont-cenis` | Val-Cenis (73480) | 2 081 m | [search](https://commons.wikimedia.org/w/index.php?search=Col+du+Mont-Cenis+Val-Cenis&title=Special:MediaSearch&type=image) | ✅ |
 | 14 | **Col du Télégraphe**<br>`col-du-telegraphe` | Valloire (73450) | 1 566 m | [search](https://commons.wikimedia.org/w/index.php?search=Col+du+T%C3%A9l%C3%A9graphe+Valloire&title=Special:MediaSearch&type=image) | ✅ |
-| 15 | **Cormet de Roselend**<br>`cormet-de-roselend` | Beaufort (73270) | 1 968 m | [search](https://commons.wikimedia.org/w/index.php?search=Cormet+de+Roselend+Beaufort&title=Special:MediaSearch&type=image) | ☐ |
+| 15 | **Cormet de Roselend**<br>`cormet-de-roselend` | Beaufort (73270) | 1 968 m | [search](https://commons.wikimedia.org/w/index.php?search=Cormet+de+Roselend+Beaufort&title=Special:MediaSearch&type=image) | ✅ |
 | 16 | **Funiculaire de la Grande Motte**<br>`funiculaire-de-la-grande-motte` | Tignes (73320) | — | [search](https://commons.wikimedia.org/w/index.php?search=Funiculaire+de+la+Grande+Motte+Tignes&title=Special:MediaSearch&type=image) | ✅ |
 | 17 | **Télécabine de la Pointe de la Masse**<br>`telecabine-de-la-pointe-de-la-masse` | Les Belleville (73440) | 2 804 m | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9cabine+de+la+Pointe+de+la+Masse+Les+Belleville&title=Special:MediaSearch&type=image) | ✅ |
 | 18 | **Télécabine de la Roche de Mio**<br>`telecabine-de-la-roche-de-mio` | La Plagne Tarentaise (73210) | 2 739 m | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9cabine+de+la+Roche+de+Mio+La+Plagne+Tarentaise&title=Special:MediaSearch&type=image) | ☐ |
 | 19 | **Télécabine du Mont Vallon**<br>`telecabine-du-mont-vallon` | Les Allues (73550) | 2 952 m | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9cabine+du+Mont+Vallon+Les+Allues&title=Special:MediaSearch&type=image) | ✅ |
 | 20 | **Téléphérique du Mont-Bochor**<br>`telepherique-du-mont-bochor` | Pralognan-la-Vanoise (73710) | Table d'orientation à 2 02 | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9ph%C3%A9rique+du+Mont-Bochor+Pralognan-la-Vanoise&title=Special:MediaSearch&type=image) | ☐ |
-| 21 | **Col des Saisies**<br>`col-des-saisies` | Hauteluce (73620) | 1 650 m | [search](https://commons.wikimedia.org/w/index.php?search=Col+des+Saisies+Hauteluce&title=Special:MediaSearch&type=image) | ☐ |
-| 22 | **Col du Chaussy**<br>`col-du-chaussy` | Saint-Jean-de-Maurienne (73300) | 1 533 m | [search](https://commons.wikimedia.org/w/index.php?search=Col+du+Chaussy+Saint-Jean-de-Maurienne&title=Special:MediaSearch&type=image) | ☐ |
-| 23 | **Col du Mollard**<br>`col-du-mollard` | Albiez-Montrond (73300) | 1 638 m | [search](https://commons.wikimedia.org/w/index.php?search=Col+du+Mollard+Albiez-Montrond&title=Special:MediaSearch&type=image) | ☐ |
-| 24 | **Cormet d'Arêches**<br>`cormet-d-areches` | Beaufort (73270) | 2 107 m | [search](https://commons.wikimedia.org/w/index.php?search=Cormet+d%27Ar%C3%AAches+Beaufort&title=Special:MediaSearch&type=image) | ☐ |
+| 21 | **Col des Saisies**<br>`col-des-saisies` | Hauteluce (73620) | 1 650 m | [search](https://commons.wikimedia.org/w/index.php?search=Col+des+Saisies+Hauteluce&title=Special:MediaSearch&type=image) | ✅ |
+| 22 | **Col du Chaussy**<br>`col-du-chaussy` | Saint-Jean-de-Maurienne (73300) | 1 533 m | [search](https://commons.wikimedia.org/w/index.php?search=Col+du+Chaussy+Saint-Jean-de-Maurienne&title=Special:MediaSearch&type=image) | ✅ |
+| 23 | **Col du Mollard**<br>`col-du-mollard` | Albiez-Montrond (73300) | 1 638 m | [search](https://commons.wikimedia.org/w/index.php?search=Col+du+Mollard+Albiez-Montrond&title=Special:MediaSearch&type=image) | ✅ |
+| 24 | **Cormet d'Arêches**<br>`cormet-d-areches` | Beaufort (73270) | 2 107 m | [search](https://commons.wikimedia.org/w/index.php?search=Cormet+d%27Ar%C3%AAches+Beaufort&title=Special:MediaSearch&type=image) | ✅ |
 | 25 | **Signal de Bisanne**<br>`signal-de-bisanne` | Hauteluce (73620) | 1 930 m. La station, où s' | [search](https://commons.wikimedia.org/w/index.php?search=Signal+de+Bisanne+Hauteluce&title=Special:MediaSearch&type=image) | ☐ |
 | 26 | **Télécabine de Champagny**<br>`telecabine-de-champagny` | Champagny-en-Vanoise (73350) | — | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9cabine+de+Champagny+Champagny-en-Vanoise&title=Special:MediaSearch&type=image) | ☐ |
 | 27 | **Télécabine de Solaise**<br>`telecabine-de-solaise` | Val-d'Isère (73150) | 2 560 m, tête de Solaise | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9cabine+de+Solaise+Val-d%27Is%C3%A8re&title=Special:MediaSearch&type=image) | ☐ |
@@ -66,7 +66,7 @@ Generated from `Json/*.json` on 2026-08-08 — not transcribed by hand.
 - ✅ `col-du-glandon` — Col du Glandon, Saint-Colomban-des-Villards
 - ✅ `col-du-mont-cenis` — Col du Mont-Cenis, Val-Cenis
 - ✅ `col-du-telegraphe` — Col du Télégraphe, Valloire
-- ☐ `cormet-de-roselend` — Cormet de Roselend, Beaufort
+- ✅ `cormet-de-roselend` — Cormet de Roselend, Beaufort
 - ✅ `funiculaire-de-la-grande-motte` — Funiculaire de la Grande Motte, Tignes
 - ✅ `telecabine-de-la-pointe-de-la-masse` — Télécabine de la Pointe de la Masse, Les Belleville
 - ☐ `telecabine-de-la-roche-de-mio` — Télécabine de la Roche de Mio, La Plagne Tarentaise
@@ -75,10 +75,10 @@ Generated from `Json/*.json` on 2026-08-08 — not transcribed by hand.
 
 ### Batch 03 — 10 fiches
 
-- ☐ `col-des-saisies` — Col des Saisies, Hauteluce
-- ☐ `col-du-chaussy` — Col du Chaussy, Saint-Jean-de-Maurienne
-- ☐ `col-du-mollard` — Col du Mollard, Albiez-Montrond
-- ☐ `cormet-d-areches` — Cormet d'Arêches, Beaufort
+- ✅ `col-des-saisies` — Col des Saisies, Hauteluce
+- ✅ `col-du-chaussy` — Col du Chaussy, Saint-Jean-de-Maurienne
+- ✅ `col-du-mollard` — Col du Mollard, Albiez-Montrond
+- ✅ `cormet-d-areches` — Cormet d'Arêches, Beaufort
 - ☐ `signal-de-bisanne` — Signal de Bisanne, Hauteluce
 - ☐ `telecabine-de-champagny` — Télécabine de Champagny, Champagny-en-Vanoise
 - ☐ `telecabine-de-solaise` — Télécabine de Solaise, Val-d'Isère
@@ -142,16 +142,21 @@ The named ones are **photographs of specific Haute-Savoie places**. Using `col-d
 | `col-de-la-croix-de-fer` | Sjaak Kempe from Groningen, The  | CC BY 2.0 | 5184×3456 |
 | `col-de-la-loze` | Kuba Turek https://www.horydoly. | CC BY-SA 4.0 | 1024×569 ⚠ |
 | `col-de-la-madeleine` | Anthospace | CC BY-SA 3.0 | 2592×1944 |
+| `col-des-saisies` | Rémih | CC BY-SA 4.0 | 5184×3888 |
+| `col-du-chaussy` | Florian Pépellin | CC BY-SA 3.0 | 2048×1536 |
 | `col-du-galibier` | MOSSOT | CC BY-SA 3.0 | 3648×2736 |
 | `col-du-glandon` | Benoit Kornmann | CC BY-SA 3.0 | 3072×2304 |
+| `col-du-mollard` | Arlyn Asch from San Diego | CC BY 2.0 | 1200×1600 ⚠ |
 | `col-du-mont-cenis` | Florian Pépellin | CC BY-SA 4.0 | 3240×2420 |
 | `col-du-petit-saint-bernard` | Rémih | CC BY-SA 4.0 | 5184×3888 |
 | `col-du-telegraphe` | Florian Pépellin | CC BY-SA 4.0 | 3264×2448 |
+| `cormet-d-areches` | Rémih | CC BY-SA 4.0 | 5184×3888 |
+| `cormet-de-roselend` | Florian Pépellin | CC BY-SA 3.0 | 4288×3216 |
 | `funiculaire-de-la-grande-motte` | Antoine Lamielle | CC BY-SA 4.0 | 6000×4000 |
 | `telecabine-de-la-pointe-de-la-masse` | Florian Pépellin | CC BY-SA 4.0 | 3264×2448 |
 | `telecabine-du-mont-vallon` | Florian Pépellin | CC BY-SA 4.0 | 3264×2448 |
 | `telecabine-orelle-cime-caron` | Florian Pépellin | CC BY-SA 4.0 | 3264×2448 |
-| `telepherique-de-l-aiguille-rouge` | Akiry | CC BY-SA 4.0 | 2304×1728 |
+| `telepherique-de-l-aiguille-rouge` | DimiTalen | CC0 | 2495×1659 |
 | `telepherique-de-la-grande-motte` | Ian Gratton from Sutton-n-Craven | CC BY 2.0 | 2560×1920 |
 | `telepherique-de-la-saulire` | Florian Pépellin | CC BY-SA 4.0 | 3264×2448 |
 | `vanoise-express` | Florian Pépellin | CC BY-SA 4.0 | 2772×2112 |

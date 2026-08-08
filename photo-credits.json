@@ -43,6 +43,28 @@
     "source_url": "https://commons.wikimedia.org/wiki/File:Col_de_la_Madeleine-_73.JPG",
     "width": 2592
   },
+  "col-des-saisies-hero.jpg": {
+    "author": "Rémih",
+    "fetched": "2026-08-08",
+    "file": "File:Pointes de la Blonnière @ Col des Saisies 01.jpg",
+    "height": 3888,
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Pointes_de_la_Blonnière_@_Col_des_Saisies_01.jpg",
+    "width": 5184
+  },
+  "col-du-chaussy-hero.jpg": {
+    "author": "Florian Pépellin",
+    "fetched": "2026-08-08",
+    "file": "File:Col du Chaussy (automne 2014).JPG",
+    "height": 1536,
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Col_du_Chaussy_(automne_2014).JPG",
+    "width": 2048
+  },
   "col-du-galibier-hero.jpg": {
     "author": "MOSSOT",
     "fetched": "2026-08-08",
@@ -64,6 +86,17 @@
     "source": "Wikimedia Commons",
     "source_url": "https://commons.wikimedia.org/wiki/File:ColduGlandon.jpg",
     "width": 3072
+  },
+  "col-du-mollard-hero.jpg": {
+    "author": "Arlyn Asch from San Diego",
+    "fetched": "2026-08-08",
+    "file": "File:Col du Mollard.jpg",
+    "height": 1600,
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "source": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Col_du_Mollard.jpg",
+    "width": 1200
   },
   "col-du-mont-cenis-hero.jpg": {
     "author": "Florian Pépellin",
@@ -97,6 +130,28 @@
     "source": "Wikimedia Commons",
     "source_url": "https://commons.wikimedia.org/wiki/File:Col_du_Télégraphe_depuis_Les_Karellis_en_hiver_(février_2025).JPG",
     "width": 3264
+  },
+  "cormet-d-areches-hero.jpg": {
+    "author": "Rémih",
+    "fetched": "2026-08-08",
+    "file": "File:Cormet d'Arêches @ Grand Mont 04.jpg",
+    "height": 3888,
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Cormet_d'Arêches_@_Grand_Mont_04.jpg",
+    "width": 5184
+  },
+  "cormet-de-roselend-hero.jpg": {
+    "author": "Florian Pépellin",
+    "fetched": "2026-08-08",
+    "file": "File:D 925 vers Cormet de Roselend (Savoie).JPG",
+    "height": 3216,
+    "licence": "CC BY-SA 3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:D_925_vers_Cormet_de_Roselend_(Savoie).JPG",
+    "width": 4288
   },
   "funiculaire-de-la-grande-motte-hero.jpg": {
     "author": "Antoine Lamielle",
@@ -143,15 +198,21 @@
     "width": 3264
   },
   "telepherique-de-l-aiguille-rouge-hero.jpg": {
-    "author": "Akiry",
+    "author": "DimiTalen",
     "fetched": "2026-08-08",
-    "file": "File:Les Arcs - telepherique aiguille rouge.jpg",
-    "height": 1728,
-    "licence": "CC BY-SA 4.0",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "File:Aiguille Rouge gondola at top station, Les Arcs, February 2010.jpg",
+    "height": 1659,
+    "licence": "CC0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "replaced": {
+      "author": "Akiry",
+      "file": "File:Les Arcs - telepherique aiguille rouge.jpg",
+      "licence": "CC BY-SA 4.0",
+      "reason": "swapped to CC0 (no attribution obligation) and larger"
+    },
     "source": "Wikimedia Commons",
-    "source_url": "https://commons.wikimedia.org/wiki/File:Les_Arcs_-_telepherique_aiguille_rouge.jpg",
-    "width": 2304
+    "source_url": "https://commons.wikimedia.org/wiki/File:Aiguille_Rouge_gondola_at_top_station,_Les_Arcs,_February_2010.jpg",
+    "width": 2495
   },
   "telepherique-de-la-grande-motte-hero.jpg": {
     "author": "Ian Gratton from Sutton-n-Craven, North Yorkshire, England",

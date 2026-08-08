@@ -1,0 +1,416 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-08",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "telecabine",
+  "commune": "Bourg-Saint-Maurice",
+  "date_modified_human": "8 août 2026",
+  "date_published_human": null,
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "checked": "2026-08-08",
+    "confidence": "low",
+    "flag_reason": "Aucun passage Google Places sur le 73 : champs de fraîcheur non renseignés.",
+    "google_match": null,
+    "google_status": "UNKNOWN",
+    "hours": null,
+    "outcome": "NOT_RUN",
+    "phone": null,
+    "place_id": null,
+    "rating": null,
+    "rating_count": null,
+    "registry": null,
+    "site_reachable": null,
+    "status": "UNVERIFIED",
+    "website": null
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": null,
+  "i18n": {
+    "en": {
+      "activities": [
+        {
+          "description": "A suspended footbridge at the summit, built in 2018 with the Réserve Naturelle Nationale des Hauts de Villaroger. 360° views over the French, Italian and Swiss Alps. Free access per the tourist office.",
+          "tag": null,
+          "title": "The Aiguille Rouge footbridge"
+        },
+        {
+          "description": "Orientation table and café at the intermediate stage, before the final ascent.",
+          "tag": null,
+          "title": "The Varet panoramic terrace"
+        },
+        {
+          "description": "From 3,226 m down to Villaroger (1,200 m): 2,000 m of vertical over 7 km, black then red — from the Varet glacier to the apple trees of Villaroger.",
+          "tag": "Winter",
+          "title": "Ski the Aiguille Rouge run"
+        },
+        {
+          "description": "The Aiguille Rouge is on the operator's list of summer lifts where dogs are allowed, on a lead.",
+          "tag": "Summer",
+          "title": "Bring your dog up"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Téléphérique de l'Aiguille Rouge</strong> serves the highest point of the Les Arcs ski area, above Arc 2000, in the commune of Bourg-Saint-Maurice. Its operator, ADS Domaine de Montagne, states an arrival at 3,226 m. The Aiguille Rouge summit itself is given as 3,227 m by topographic sources, while IGN returns 3,226.3 m on its own summit point: the one-metre gap is a discrepancy between sources, not a measured difference. Station and summit remain two different points, and they are constantly conflated.</p><p>At the top: a 360° panorama over the French, Italian and Swiss Alps, a suspended footbridge built in 2018 with the Réserve Naturelle Nationale des Hauts de Villaroger, and an orientation table. One stage lower, the Varet panoramic terrace — which the operator places at 2,700 m — has an orientation table and a café. That figure is the operator's for the terrace and must not be read as the bottom-station altitude, which no operator source publishes.</p><p>It is also the start of the Aiguille Rouge run, which drops from 3,226 m to Villaroger (1,200 m): 2,000 m of vertical over 7 km, black then red. In summer, this is one of the few lifts where dogs on a lead are explicitly allowed.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Paid",
+        "best_season": "4 July – 29 August 2026 per the English page (28 August per the French one)",
+        "commune": "Bourg-Saint-Maurice",
+        "dogs": "Allowed on a lead (named list of summer lifts)",
+        "duration": null,
+        "parking": "Arc 2000: Lac des Combes, P2 and P3 free this summer",
+        "tarif": "Pass Aiguille Rouge €16 (13+) / €13 (5–12)",
+        "type": "Panoramic cable car"
+      },
+      "faq": [
+        {
+          "a": "3,226 m per its operator. The Aiguille Rouge summit is given as 3,227 m by topographic sources and 3,226.3 m by IGN: the one-metre gap comes from the sources, not from a measurement. Station and summit remain two different points.",
+          "q": "How high does the Aiguille Rouge cable car go?"
+        },
+        {
+          "a": "The Pass Aiguille Rouge costs €16 from age 13 and €13 from 5 to 12. It covers one Varet ascent, one Aiguille Rouge ascent and the free descent. Free under 5.",
+          "q": "What does a pedestrian ride cost?"
+        },
+        {
+          "a": "Yes. The operator publishes the list of summer lifts where dogs are allowed and the Aiguille Rouge is on it. They must be kept on a lead.",
+          "q": "Are dogs allowed?"
+        },
+        {
+          "a": "The operator publishes them live only, from 13 June. We do not repeat hours found elsewhere, for want of a source.",
+          "q": "What are the opening hours?"
+        },
+        {
+          "a": "No page says so. The only sourced references are to a paid queue-jump: €9, €4.50 with the Pass Essentiel, one free per day with the Pass Premium.",
+          "q": "Is the cable car included in the ski pass?"
+        }
+      ],
+      "hero": {
+        "badge": "Paid · Highest point of the ski area",
+        "lead": "The Téléphérique de l'Aiguille Rouge rises to 3,226 m per its operator, above Arc 2000. A 360° panorama, a suspended footbridge, and the start of the descent to Villaroger: 2,000 m of vertical over 7 km."
+      },
+      "hero_alt": "Téléphérique de l'Aiguille Rouge, Les Arcs, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Arc 2000, commune of Bourg-Saint-Maurice (73700). Q-Park car parks at the foot of the Varet gondola.",
+        "public_transport": null
+      },
+      "meta_description": "Top station at 3,226 m per the operator, the highest point of the ski area. Summer 2026: open from 4 July. Pass Aiguille Rouge €16 / €13. Dogs allowed on a lead.",
+      "meta_title": "Téléphérique de l'Aiguille Rouge (Les Arcs) · Verified facts 2026",
+      "name": "Aiguille Rouge Cable Car",
+      "name_alternates": [
+        "Téléphérique de l'Aiguille Rouge",
+        "Aiguille Rouge",
+        "Varet – Aiguille Rouge"
+      ],
+      "practical_info": [
+        {
+          "k": "Altitude",
+          "v": "Top station 3,226 m per the operator (3,220 m per skiresort.com). The Aiguille Rouge summit is given as 3,227 m by topographic sources: a different point."
+        },
+        {
+          "k": "Operator",
+          "v": "ADS Domaine de Montagne — 04 79 04 25 03"
+        },
+        {
+          "k": "Summer 2026 dates",
+          "v": "Open from Saturday 4 July 2026. The last day is not reliable: the operator's English page lists the lift to Saturday 29 August, while a reading of the French page gave 28 August. It is not listed open in the “Preview” period (12 June – 3 July) or “Ultimate” (30 August – 13 September).",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Opening hours",
+          "v": "Not published. The operator states lift hours are available live only, from 13 June."
+        },
+        {
+          "k": "Prices",
+          "v": "Pass Aiguille Rouge €16 (13+) / €13 (5–12): one Varet ascent + one Aiguille Rouge ascent, free descent. Single ascent on other lifts €9.50 / €7.50. Day pass €24 / €20. Free under 5. 50% for disabled visitors with a medical certificate, at the desk. Family pack −€10 per person from 3 people.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Ski pass",
+          "v": "Inclusion is not documented. The only references are to a paid queue-jump: €9, €4.50 with the Pass Essentiel, one free per day with the Pass Premium."
+        },
+        {
+          "k": "Parking",
+          "v": "Arc 2000, at the foot of the Varet gondola (Q-Park): Lac des Combes free for summer, Mont Blanc closed this summer, P2 and P3 free this summer. Tel. 04 28 01 16 20."
+        },
+        {
+          "k": "Dogs",
+          "v": "Dogs are allowed in summer on a named list of lifts that includes the Aiguille Rouge, on a lead."
+        },
+        {
+          "k": "Accessibility",
+          "v": null
+        },
+        {
+          "k": "Journey time",
+          "v": null
+        },
+        {
+          "k": "Coordinates",
+          "v": "45.553072° N, 6.841814° E — the installation's centroid in the IGN POI index. IGN places the “Aiguille Rouge” summit in the commune of Villaroger, at 45.551819 / 6.848611."
+        }
+      ],
+      "schema_amenities": [
+        "Panoramic footbridge",
+        "Orientation table"
+      ],
+      "when_to_visit": "<p>In summer 2026 the lift is listed open from 4 July only — neither in the early-season window (12 June – 3 July) nor the late one (30 August – 13 September). Hours are published live only.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Passerelle suspendue au sommet, réalisée en 2018 avec la Réserve Naturelle Nationale des Hauts de Villaroger. Panorama à 360° sur les Alpes françaises, italiennes et suisses. Accès gratuit selon l'office de tourisme.",
+          "tag": null,
+          "title": "La passerelle de l'Aiguille Rouge"
+        },
+        {
+          "description": "Table d'orientation et café à l'étage intermédiaire, avant la montée finale.",
+          "tag": null,
+          "title": "La terrasse panoramique du Varet"
+        },
+        {
+          "description": "De 3 226 m à Villaroger (1 200 m) : 2 000 m de dénivelé sur 7 km, piste noire puis rouge — du glacier du Varet aux pommiers de Villaroger.",
+          "tag": "Hiver",
+          "title": "Descendre la piste de l'Aiguille Rouge"
+        },
+        {
+          "description": "L'Aiguille Rouge figure sur la liste des remontées où les chiens sont admis en été, tenus en laisse.",
+          "tag": "Été",
+          "title": "Monter avec son chien"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Le <strong>téléphérique de l'Aiguille Rouge</strong> dessert le point le plus haut du domaine des Arcs, au-dessus d'Arc 2000, sur la commune de Bourg-Saint-Maurice. Son exploitant, ADS Domaine de Montagne, annonce une arrivée à 3 226 m. Le sommet de l'Aiguille Rouge lui-même est donné à 3 227 m par des sources topographiques, tandis que l'IGN renvoie 3 226,3 m sur son propre point sommital : l'écart d'un mètre est un écart de source, pas un dénivelé mesuré. Gare et sommet restent deux points différents, et ils sont constamment confondus.</p><p>Au sommet : un panorama à 360° sur les Alpes françaises, italiennes et suisses, une passerelle suspendue réalisée en 2018 avec la Réserve Naturelle Nationale des Hauts de Villaroger, une table d'orientation. Un étage plus bas, la terrasse panoramique du Varet, que l'exploitant situe à 2 700 m, offre une table d'orientation et un café — ce chiffre est celui de l'exploitant pour la terrasse et ne doit pas être lu comme l'altitude de la gare aval, qu'aucune source exploitant ne publie.</p><p>C'est aussi le départ de la piste de l'Aiguille Rouge, qui descend de 3 226 m à Villaroger (1 200 m) : 2 000 m de dénivelé sur 7 km, en noire puis en rouge. En été, l'Aiguille Rouge fait partie des rares remontées où les chiens tenus en laisse sont explicitement admis.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Payant",
+        "best_season": "4 juillet – 29 août 2026 selon la page anglaise (28 août selon la page française)",
+        "commune": "Bourg-Saint-Maurice",
+        "dogs": "Admis, tenus en laisse (liste des remontées autorisées en été)",
+        "duration": null,
+        "parking": "Arc 2000 : Lac des Combes, P2 et P3 gratuits cet été",
+        "tarif": "Pass Aiguille Rouge 16 € (13 ans et +) / 13 € (5–12 ans)",
+        "type": "Téléphérique panoramique"
+      },
+      "faq": [
+        {
+          "a": "3 226 m selon son exploitant. Le sommet de l'Aiguille Rouge est donné à 3 227 m par des sources topographiques et à 3 226,3 m par l'IGN : l'écart d'un mètre vient des sources, pas d'une mesure. La gare et le sommet restent deux points différents.",
+          "q": "À quelle altitude arrive le téléphérique de l'Aiguille Rouge ?"
+        },
+        {
+          "a": "Le Pass Aiguille Rouge coûte 16 € à partir de 13 ans et 13 € de 5 à 12 ans. Il comprend une montée au Varet, une montée à l'Aiguille Rouge et la descente gratuite. Gratuit avant 5 ans.",
+          "q": "Combien coûte la montée à pied ?"
+        },
+        {
+          "a": "Oui. L'exploitant publie la liste des remontées où les chiens sont admis en été et l'Aiguille Rouge en fait partie. Ils doivent être tenus en laisse.",
+          "q": "Les chiens sont-ils admis ?"
+        },
+        {
+          "a": "L'exploitant ne les publie qu'en direct, à partir du 13 juin. Nous ne reprenons aucun horaire trouvé ailleurs, faute de source.",
+          "q": "Quels sont les horaires ?"
+        },
+        {
+          "a": "Aucune page ne le dit. Les seules mentions sourcées portent sur un coupe-file payant : 9 €, 4,50 € avec le Pass Essentiel, un gratuit par jour avec le Pass Premium.",
+          "q": "Le téléphérique est-il inclus dans le forfait de ski ?"
+        }
+      ],
+      "hero": {
+        "badge": "Payant · Point le plus haut du domaine",
+        "lead": "Le téléphérique de l'Aiguille Rouge monte à 3 226 m selon son exploitant, au-dessus d'Arc 2000. Panorama à 360°, passerelle suspendue, et le départ de la descente vers Villaroger : 2 000 m de dénivelé sur 7 km."
+      },
+      "hero_alt": "Téléphérique de l'Aiguille Rouge, Les Arcs, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Arc 2000, commune de Bourg-Saint-Maurice (73700). Parkings Q-Park au pied de la télécabine du Varet.",
+        "public_transport": null
+      },
+      "meta_description": "Gare amont à 3 226 m selon l'exploitant, le point le plus haut du domaine. Été 2026 : ouvert à partir du 4 juillet. Pass Aiguille Rouge 16 € / 13 €. Chiens admis en laisse.",
+      "meta_title": "Téléphérique de l'Aiguille Rouge (Les Arcs) · Faits vérifiés 2026",
+      "name": "Téléphérique de l'Aiguille Rouge",
+      "name_alternates": [
+        "Aiguille Rouge",
+        "Varet – Aiguille Rouge",
+        "Téléphérique Aiguille Rouge Les Arcs"
+      ],
+      "practical_info": [
+        {
+          "k": "Altitude",
+          "v": "Gare amont 3 226 m selon l'exploitant (3 220 m selon skiresort.com). Le sommet de l'Aiguille Rouge est donné à 3 227 m par les sources topographiques : c'est un autre point."
+        },
+        {
+          "k": "Exploitant",
+          "v": "ADS Domaine de Montagne — 04 79 04 25 03"
+        },
+        {
+          "k": "Dates été 2026",
+          "v": "Ouvert à partir du samedi 4 juillet 2026. Le dernier jour n'est pas fiable : la page anglaise de l'exploitant liste l'appareil jusqu'au samedi 29 août, une lecture de la page française a donné le 28 août. L'appareil n'est pas listé ouvert sur les périodes « Preview » (12 juin – 3 juillet) ni « Ultimate » (30 août – 13 septembre).",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Horaires",
+          "v": "Non publiés. L'exploitant indique que les horaires des remontées ne sont disponibles qu'en direct à partir du 13 juin."
+        },
+        {
+          "k": "Tarifs",
+          "v": "Pass Aiguille Rouge 16 € (13 ans et +) / 13 € (5–12 ans) : une montée Varet + une montée Aiguille Rouge, descente gratuite. Montée simple sur les autres remontées 9,50 € / 7,50 €. Journée 24 € / 20 €. Gratuit moins de 5 ans. 50 % pour les personnes en situation de handicap sur certificat médical, en caisse. Pack famille −10 €/personne dès 3 personnes.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Forfait de ski",
+          "v": "L'inclusion n'est pas documentée. Les seules mentions sont un coupe-file payant : 9 €, 4,50 € avec le Pass Essentiel, un gratuit par jour avec le Pass Premium."
+        },
+        {
+          "k": "Parking",
+          "v": "Arc 2000, au pied de la télécabine du Varet (Q-Park) : Lac des Combes gratuit pour l'été, Mont Blanc fermé cet été, P2 et P3 gratuits cet été. Tél. 04 28 01 16 20."
+        },
+        {
+          "k": "Animaux",
+          "v": "Chiens admis en été sur une liste de remontées qui inclut l'Aiguille Rouge, tenus en laisse."
+        },
+        {
+          "k": "Accessibilité",
+          "v": null
+        },
+        {
+          "k": "Durée de trajet",
+          "v": null
+        },
+        {
+          "k": "Coordonnées",
+          "v": "45.553072° N, 6.841814° E — centroïde de l'appareil dans l'index POI de l'IGN. L'IGN situe le sommet « Aiguille Rouge » sur la commune de Villaroger, à 45.551819 / 6.848611."
+        }
+      ],
+      "schema_amenities": [
+        "Passerelle panoramique",
+        "Table d'orientation"
+      ],
+      "when_to_visit": "<p>En été 2026, l'appareil est listé ouvert à partir du 4 juillet seulement — ni sur la période d'avant-saison (12 juin – 3 juillet) ni sur l'arrière-saison (30 août – 13 septembre). Les horaires ne sont publiés qu'en direct.</p>"
+    }
+  },
+  "latitude": 45.553072,
+  "longitude": 6.841814,
+  "official_site_url": "https://www.lesarcs-peiseyvallandry.com/en/varet-aiguille-rouge",
+  "partners": [],
+  "postal_code": "73700",
+  "price_currency": "EUR",
+  "price_from": 16.0,
+  "price_tiers": [
+    {
+      "name": "Pass Aiguille Rouge — 13 ans et plus",
+      "note": "Une montée Varet + une montée Aiguille Rouge, descente gratuite.",
+      "price": 16.0
+    },
+    {
+      "name": "Pass Aiguille Rouge — 5–12 ans",
+      "note": null,
+      "price": 13.0
+    },
+    {
+      "name": "Montée simple (autres remontées) — 13 ans et plus",
+      "note": "7,50 € pour les 5–12 ans.",
+      "price": 9.5
+    },
+    {
+      "name": "Forfait piéton 1 jour — 13 ans et plus",
+      "note": "20 € pour les 5–12 ans.",
+      "price": 24.0
+    },
+    {
+      "name": "Gratuité et réductions",
+      "note": "Gratuit moins de 5 ans. 50 % pour les personnes en situation de handicap sur présentation d'un certificat médical, en caisse. Pack famille −10 €/personne à partir de 3 personnes.",
+      "price": null
+    }
+  ],
+  "research_log": [
+    "IGN data.geopf.fr, index POI : téléphérique attribué à Bourg-Saint-Maurice, sommet « Aiguille Rouge » attribué à Villaroger, centroïde de l'appareil 45.553072 / 6.841814, sommet 45.551819 / 6.848611.",
+    "IGN BDTOPO_V3, couche transport_par_cable, filtre toponyme « Aiguille Rouge » : sommet bas de la ligne 45.55445427 / 6.83626044, sommet haut 45.55170022 / 6.84732466.",
+    "Exploitant (lesarcs-peiseyvallandry.com) : « cable car lift to 3,226 meters » ; en été, les chiens ne sont admis que sur les remontées Cabriolet, Varet, Villards, Vallandry, Funiculaire, Dahu, Transarc 1 et 2 et Aiguille Rouge, tenus en laisse ; l'Aiguille Rouge est listée ouverte du samedi 4 juillet au samedi 29 août 2026 et n'est pas listée sur les périodes « Preview » (12 juin – 3 juillet) ni « Ultimate » (30 août – 13 septembre).",
+    "Les Arcs, tarifs Espace Montagne : Pass Aiguille Rouge 16 € (13 ans et +) / 13 € (5–12 ans), une montée Varet + une montée Aiguille Rouge, descente gratuite ; montée simple 9,50 € / 7,50 € ; jour 24 € / 20 € ; gratuit moins de 5 ans ; 50 % handicap sur certificat médical en caisse ; pack famille −10 €/personne dès 3 personnes.",
+    "OT Peisey-Vallandry : exploitant ADS Domaine de Montagne, Le Chalet des Villards, Arc 1800, 73700, tél. +33 4 79 04 25 03 ; passerelle de l'Aiguille Rouge réalisée avec la Réserve Naturelle Nationale des Hauts de Villaroger en 2018, accès gratuit.",
+    "Commune de Bourg-Saint-Maurice : parkings d'Arc 2000 (Q-Park) — Lac des Combes gratuit pour l'été, Mont Blanc fermé cet été, P2 et P3 gratuits cet été, tél. 04 28 01 16 20.",
+    "Les Arcs : la piste de l'Aiguille Rouge part de 3 226 m et descend à Villaroger à 1 200 m, 2 000 m de dénivelé, 7 km, piste noire puis rouge."
+  ],
+  "schema_org": {
+    "amenities": [
+      "Passerelle panoramique",
+      "Table d'orientation"
+    ],
+    "is_free": false,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "telepherique-de-l-aiguille-rouge",
+  "sources": [
+    {
+      "name": "Les Arcs / Peisey-Vallandry — Varet & Aiguille Rouge",
+      "url": "https://www.lesarcs-peiseyvallandry.com/en/varet-aiguille-rouge"
+    },
+    {
+      "name": "Les Arcs / Peisey-Vallandry — Pass Aiguille Rouge",
+      "url": "https://www.lesarcs-peiseyvallandry.com/en/pass-aiguille-rouge"
+    },
+    {
+      "name": "Les Arcs / Peisey-Vallandry — ouverture des remontées, VTT, piétons, bike park",
+      "url": "https://www.lesarcs-peiseyvallandry.com/en/lifts-opening-vtt-pedestrian-bike-park-status"
+    },
+    {
+      "name": "Les Arcs — tarifs Espace Montagne (randonnée)",
+      "url": "https://en.lesarcs.com/hiking/mountain-area-prices"
+    },
+    {
+      "name": "Office de Tourisme de Peisey-Vallandry — ADS, société des remontées mécaniques",
+      "url": "https://www.peisey-vallandry.com/prestataires/ads-societe-des-remontees-mecaniques.html"
+    },
+    {
+      "name": "Office de Tourisme de Peisey-Vallandry — la passerelle de l'Aiguille Rouge",
+      "url": "https://www.peisey-vallandry.com/la-passerelle-de-l-aiguille-rouge.html"
+    },
+    {
+      "name": "Commune de Bourg-Saint-Maurice — parkings d'Arc 2000",
+      "url": "https://www.bourgsaintmaurice.fr/pratique/mobilite/parkings/arc-2000"
+    },
+    {
+      "name": "IGN — géocodeur POI data.geopf.fr",
+      "url": "https://data.geopf.fr/geocodage/search?q=Aiguille+Rouge&limit=15&index=poi"
+    },
+    {
+      "name": "Les Arcs — la piste de l'Aiguille Rouge",
+      "url": "https://www.lesarcs.com/blog/decouvrez-la-piste-de-laiguille-rouge"
+    },
+    {
+      "name": "Skiresort — remontées Les Arcs / Peisey-Vallandry (Paradiski)",
+      "url": "https://www.skiresort.com/en/ski-resort/les-arcs-peisey-vallandry-paradiski/ski-lifts/l87035/"
+    }
+  ],
+  "sparse_data": false,
+  "status": "draft",
+  "type": "montagne",
+  "verify_flags": [
+    "GARE CONTRE SOMMET — le piège central. L'exploitant écrit que le téléphérique atteint 3 226 m. Le sommet de l'Aiguille Rouge est donné à 3 227 m par les sources topographiques, et l'IGN RGE ALTI renvoie 3 226,3 m sur son propre point sommital. Ne jamais écrire « le téléphérique vous emmène au sommet à 3 227 m » : l'exploitant n'a jamais publié 3 227.",
+    "ALTITUDE GARE AMONT CONTRADICTOIRE — 3 226 m (exploitant) contre 3 220 m (skiresort.com).",
+    "ALTITUDE GARE AVAL CONTRADICTOIRE — 2 687 m (skiresort.com) contre 2 691,3 m (altitude du terrain au point bas de la ligne câble IGN BDTOPO). Par ailleurs 3 226 − 533 = 2 693, ce qui ne colle pas avec 2 687 : le dénivelé de 533 m et le chiffre de 2 687 m viennent de la même page et sont incohérents entre eux d'environ 6 m. Aucune source exploitant ne donne la gare aval.",
+    "HOMONYMIE — l'IGN renvoie un second appareil nommé « Aiguille Rouge », un télésiège vers 45.482 / 6.905 côté Tignes / Val-d'Isère, sans rapport. Il existe aussi un « Signal de l'Aiguille Rouge » distinct à 45.558423 / 6.85155, altitude IGN 3 024 m.",
+    "DEUX COMMUNES — l'IGN place le téléphérique à Bourg-Saint-Maurice (73700) et le sommet « Aiguille Rouge » à Villaroger (73640).",
+    "HORAIRES QUOTIDIENS NON PUBLIÉS — l'exploitant ne publie ses horaires qu'« en live » à partir du 13 juin. Tout horaire trouvé ailleurs serait non sourcé.",
+    "INCLUSION DANS LE FORFAIT NON RÉSOLUE — les seuls faits sourcés sont un coupe-file payant (9 € plein tarif, 4,50 € avec le Pass Essentiel, un gratuit par jour avec le Pass Premium). Aucune page ne dit si l'accès simple est inclus dans le forfait hiver. Ne pas écrire « inclus dans le forfait de ski ».",
+    "DURÉE DE TRAJET DE SECONDE MAIN — « environ 2 minutes » n'apparaît que sur skiresort.com, jamais sur une page exploitant. Champ null.",
+    "CARACTÉRISTIQUES TECHNIQUES DE SECONDE MAIN — 70 places, 1 120 p/h, Habegger 1981, cabines 2018 : seulement skiresort.com et un forum d'amateurs, jamais l'exploitant. Reportées en prose avec attribution, pas en champ structuré.",
+    "FICHE PÉRIMÉE — la page en.lesarcs.com « translate-to-english-les-remontees-pietonnes » indique encore des forfaits « valables uniquement pendant l'été 2023 ». Inutilisable pour 2026.",
+    "DATE DE FERMETURE ESTIVALE — la page anglaise d'ouverture liste l'Aiguille Rouge sous la période « du samedi 4 juillet au samedi 29 août » sans note de fermeture anticipée, mais une lecture de la page française a produit « fermeture le 28 août ». Vérifier avant de publier un dernier jour ferme.",
+    "PMR — inconnu, pas « non ». Aucune déclaration d'accessibilité propre à cet appareil sur aucune page exploitant ou communale. Le seul signal est la réduction de 50 % accordée aux personnes en situation de handicap.",
+    "CIRKWI — la coordonnée GPS publiée par Cirkwi (45.5674891, 6.8291404) est fausse : l'altitude IGN en ce point est 2 163,64 m, soit environ 1 060 m sous le sommet. Ne pas l'utiliser."
+  ]
+}

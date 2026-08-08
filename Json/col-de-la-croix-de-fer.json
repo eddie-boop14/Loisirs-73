@@ -1,0 +1,402 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-08",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "point-de-vue",
+  "commune": "Saint-Sorlin-d'Arves",
+  "date_modified_human": "8 août 2026",
+  "date_published_human": null,
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "checked": "2026-08-08",
+    "confidence": "low",
+    "flag_reason": "Aucun passage Google Places sur le 73 : champs de fraîcheur non renseignés.",
+    "google_match": null,
+    "google_status": "UNKNOWN",
+    "hours": null,
+    "outcome": "NOT_RUN",
+    "phone": null,
+    "place_id": null,
+    "rating": null,
+    "rating_count": null,
+    "registry": null,
+    "site_reachable": null,
+    "status": "UNVERIFIED",
+    "website": null
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": null,
+  "i18n": {
+    "en": {
+      "activities": [
+        {
+          "description": "From Saint-Jean-de-Maurienne: 29.3 km at 6% average for 1,620 m of climbing on the D926, with three consecutive tunnels between kilometres 12 and 13. On the Isère side profiles range from 29 to 31.6 km depending on the foot.",
+          "tag": null,
+          "title": "Ride up the col"
+        },
+        {
+          "description": "Lac Bramant, Lac Blanc and a third lake, starting at the col. Open 1 May to 10 November subject to snow, free access, free parking.",
+          "tag": "Summer",
+          "title": "Walk to the three lakes"
+        },
+        {
+          "description": "Picnic area, orientation table and free parking at the summit; motorhomes allowed.",
+          "tag": null,
+          "title": "Picnic at the col"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Col de la Croix de Fer</strong> lies in the commune of Saint-Sorlin-d'Arves (73530), in Savoie, per IGN. It links the Maurienne valley, to the east, with the Oisans, to the west, in the Isère. The road is written RD926 by Vélo Maurienne and D926 by other sources on the Savoie side; on the Isère side the préfecture writes D526.</p><p>Its altitude is not settled: four figures circulate — 2,064, 2,065, 2,067 and 2,068 m — each carried by serious sources. No IGN elevation data could be obtained. We do not pick a winner.</p><p>Its immediate neighbour is the <strong>Col du Glandon</strong>, three kilometres to the west, at 1,924 m, on the RD927: the Glandon's south-west approach shares its road with the Croix de Fer except for the last two hundred metres. The two cols do not share an altitude, a road number, or an opening date — a month apart in 2026.</p>"
+      },
+      "events": "<p>L'Étape du Tour on 19 July 2026 and stage 20 of the Tour de France on 25 July 2026 both close the D526 between Vaujany and the col.</p>",
+      "facts": {
+        "access": "Free",
+        "best_season": "Late May – early November",
+        "commune": "Saint-Sorlin-d'Arves",
+        "dogs": null,
+        "parking": "Free, motorhomes allowed",
+        "stroller": null,
+        "type": "Road pass and viewpoint",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "Sources give four figures: 2,064, 2,065, 2,067 and 2,068 m. The Saint-Sorlin-d'Arves tourist office writes 2,067 m. No IGN elevation data could be obtained, so we do not pick a winner.",
+          "q": "How high is the Col de la Croix de Fer?"
+        },
+        {
+          "a": "No. The Glandon is three kilometres to the west, at 1,924 m, on the RD927. The two roads are shared except for the last two hundred metres. In 2026 the Croix de Fer opened a month before the Glandon.",
+          "q": "Is the Col de la Croix de Fer the same as the Col du Glandon?"
+        },
+        {
+          "a": "The Département de la Savoie announced an opening on 20 May 2026, under alternating traffic. We found no source confirming it actually opened that day. Check savoie-route.fr before setting off.",
+          "q": "Is the Col de la Croix de Fer open in 2026?"
+        },
+        {
+          "a": "A chalet appears in search results but all of its pages are inaccessible to us. We publish neither its existence, nor its hours, nor its season. Confirmed: free parking, a picnic area and an orientation table.",
+          "q": "Is there a restaurant at the col?"
+        },
+        {
+          "a": "Not in 2026. The official site for the 28 June 2026 event lists the Col du Glandon, the Télégraphe, the Galibier, the Lautaret and Alpe d'Huez. The Tour de France, on the other hand, crosses both cols on 25 July 2026.",
+          "q": "Does the Marmotte go over the Col de la Croix de Fer?"
+        }
+      ],
+      "hero": {
+        "badge": "Free access · RD926 / D526",
+        "lead": "The Col de la Croix de Fer links the Maurienne, at Saint-Jean-de-Maurienne, to the Oisans, in the Isère. It must not be confused on any point with the Col du Glandon, three kilometres to the west, which shares its road until the last two hundred metres."
+      },
+      "hero_alt": "Col de la Croix de Fer between the Maurienne and the Oisans, Savoie",
+      "how_to_get_there": {
+        "bike": "From Saint-Jean-de-Maurienne: 29.3 km at 6% average for 1,620 m of climbing, with three consecutive tunnels between kilometres 12 and 13. From Allemond: 29 km, +1,507 m, 6.5% average. From Le Bourg-d'Oisans: 31 km and +1,576 m per the Bourg d'Oisans tourist office (the Allemond figure is Route des Grandes Alpes). These figures only mean anything alongside their starting point. The Tour de France crosses on 25 July 2026, stage 20.",
+        "car": "On the RD926 from Saint-Jean-de-Maurienne to the east, or the D526 from Vaujany and the Oisans to the west. Closed in winter. Live status on savoie-route.fr for the Savoie side.",
+        "public_transport": null
+      },
+      "meta_description": "Between the Maurienne and the Oisans on the RD926 and the D526. Opening announced for 20 May 2026 under alternating traffic. Free parking, picnic area, start of the three-lakes walk.",
+      "meta_title": "Col de la Croix de Fer · 2026 opening, access, lakes",
+      "name": "Col de la Croix de Fer",
+      "name_alternates": [
+        "Croix de Fer",
+        "Col de la Croix-de-Fer",
+        "Col de la Croix de Fer (RD926)"
+      ],
+      "practical_info": [
+        {
+          "k": "Altitude",
+          "v": "2,067 m per the Saint-Sorlin-d'Arves tourist office. Other sources give 2,064, 2,065 or 2,068 m. Unresolved."
+        },
+        {
+          "k": "Coordinates",
+          "v": "45.227482° N, 6.203515° E (IGN POI index)"
+        },
+        {
+          "k": "2026 opening",
+          "v": "The Département de la Savoie release of 23 April 2026 announces a 20–22 May 2026 window covering both the Croix de Fer and the Petit-Saint-Bernard, each under alternating traffic; 20 May is the date the press carries for the Croix de Fer. No source confirms it actually opened on that date, or where the alternating section applies.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "2026 closing",
+          "v": null
+        },
+        {
+          "k": "Price",
+          "v": "Free, open access"
+        },
+        {
+          "k": "Parking",
+          "v": "Free at the col. Motorhomes allowed."
+        },
+        {
+          "k": "Dogs",
+          "v": null
+        },
+        {
+          "k": "Accessibility",
+          "v": null
+        },
+        {
+          "k": "Col du Glandon",
+          "v": "The neighbouring pass, three kilometres to the west, at 1,924 m, on the RD927. It opened on 19 June 2026 and only from Saint-Colomban-des-Villards, because a drainage structure was being replaced after mudflows. Do not conflate the two."
+        },
+        {
+          "k": "2026 temporary closures",
+          "v": "The D526 between Vaujany and the col is closed on 19 July 2026 from 06:30 to 11:30 (L'Étape du Tour) and from 18:00 on 24 July 2026 (Tour de France stage 20 on 25 July).",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Isère side",
+          "v": "A rockfall at Vaujany closing the RD526 in both directions was reported by the regional press, but we could neither read nor date the article. Check road status on the Isère side before crossing."
+        }
+      ],
+      "schema_amenities": [
+        "Free parking",
+        "Picnic area",
+        "Orientation table"
+      ],
+      "when_to_visit": "<p>The road is open from late May to early November. In 2026 the announced opening is 20 May, under alternating traffic. No closing date is published. The neighbouring Col du Glandon opened a month later, on 19 June, and only from Saint-Colomban-des-Villards.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Depuis Saint-Jean-de-Maurienne : 29,3 km à 6 % de moyenne pour 1 620 m de dénivelé par la D926, avec trois tunnels successifs entre le 12e et le 13e kilomètre. Côté Isère, les profils varient de 29 à 31,6 km selon le pied choisi.",
+          "tag": null,
+          "title": "Monter au col à vélo"
+        },
+        {
+          "description": "Le lac Bramant, le lac Blanc et un troisième lac, au départ du col. Itinéraire ouvert du 1er mai au 10 novembre sous réserve d'enneigement, accès libre, parking gratuit.",
+          "tag": "Été",
+          "title": "Randonner aux trois lacs"
+        },
+        {
+          "description": "Aire de pique-nique, table d'orientation et parking gratuit au sommet ; camping-cars autorisés.",
+          "tag": null,
+          "title": "Pique-niquer au col"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Le <strong>col de la Croix de Fer</strong> se trouve sur la commune de Saint-Sorlin-d'Arves (73530), en Savoie, selon l'IGN. Il relie la vallée de la Maurienne, côté est, à celle de l'Oisans, côté ouest, en Isère. La route est écrite RD926 par Vélo Maurienne et D926 par d'autres sources côté Savoie ; côté Isère, la préfecture écrit D526.</p><p>Son altitude n'est pas établie : quatre chiffres circulent, 2 064, 2 065, 2 067 et 2 068 m, portés chacun par des sources sérieuses. Aucune donnée altimétrique de l'IGN n'a pu être obtenue. Nous ne tranchons pas.</p><p>Le voisin immédiat est le <strong>col du Glandon</strong>, à trois kilomètres à l'ouest, à 1 924 m, par la RD927 : la route du versant sud-ouest du Glandon est commune avec celle de la Croix de Fer à l'exception des deux cents derniers mètres. Les deux cols n'ont ni la même altitude, ni la même route, ni les mêmes dates d'ouverture — un mois d'écart en 2026.</p>"
+      },
+      "events": "<p>L'Étape du Tour le 19 juillet 2026 et l'étape 20 du Tour de France le 25 juillet 2026 ferment la D526 entre Vaujany et le col.</p>",
+      "facts": {
+        "access": "Libre · Gratuit",
+        "best_season": "Fin mai – début novembre",
+        "commune": "Saint-Sorlin-d'Arves",
+        "dogs": null,
+        "parking": "Gratuit, camping-cars autorisés",
+        "stroller": null,
+        "type": "Col routier et point de vue",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "Les sources donnent quatre chiffres : 2 064, 2 065, 2 067 et 2 068 m. L'office de tourisme de Saint-Sorlin-d'Arves écrit 2 067 m. Aucune donnée altimétrique de l'IGN n'a pu être obtenue, nous ne tranchons pas.",
+          "q": "Quelle est l'altitude du col de la Croix de Fer ?"
+        },
+        {
+          "a": "Non. Le Glandon est à trois kilomètres à l'ouest, à 1 924 m, par la RD927. Les deux routes sont communes à l'exception des deux cents derniers mètres. En 2026, la Croix de Fer a ouvert un mois avant le Glandon.",
+          "q": "Le col de la Croix de Fer est-il le même que le col du Glandon ?"
+        },
+        {
+          "a": "Le Département de la Savoie a annoncé une ouverture au 20 mai 2026, sous circulation alternée. Nous n'avons trouvé aucune source confirmant l'ouverture effective à cette date. Vérifiez sur savoie-route.fr avant de partir.",
+          "q": "Le col de la Croix de Fer est-il ouvert en 2026 ?"
+        },
+        {
+          "a": "Un chalet apparaît dans les résultats de recherche mais toutes ses pages nous sont inaccessibles. Nous ne publions ni son existence, ni ses horaires, ni sa saison. Sont confirmés : parking gratuit, aire de pique-nique et table d'orientation.",
+          "q": "Y a-t-il un restaurant au col ?"
+        },
+        {
+          "a": "Non, pas en 2026. Le site officiel de l'épreuve du 28 juin 2026 liste le col du Glandon, le Télégraphe, le Galibier, le Lautaret et l'Alpe d'Huez. Le Tour de France, lui, franchit les deux cols le 25 juillet 2026.",
+          "q": "La Marmotte passe-t-elle par le col de la Croix de Fer ?"
+        }
+      ],
+      "hero": {
+        "badge": "Accès libre · RD926 / D526",
+        "lead": "Le col de la Croix de Fer relie la Maurienne, à Saint-Jean-de-Maurienne, à l'Oisans, en Isère. Il ne faut le confondre sur aucun point avec le col du Glandon, à trois kilomètres à l'ouest, qui partage sa route jusqu'aux deux cents derniers mètres."
+      },
+      "hero_alt": "Col de la Croix de Fer entre Maurienne et Oisans, Savoie",
+      "how_to_get_there": {
+        "bike": "Depuis Saint-Jean-de-Maurienne : 29,3 km à 6 % de moyenne pour 1 620 m de dénivelé, avec trois tunnels successifs entre le 12e et le 13e kilomètre. Depuis Allemond : 29 km, +1 507 m, 6,5 % de moyenne (Route des Grandes Alpes). Depuis Le Bourg-d'Oisans : 31 km et +1 576 m selon l'office de tourisme de Bourg d'Oisans. Les chiffres n'ont de sens qu'accompagnés de leur point de départ. Le Tour de France y passe le 25 juillet 2026, étape 20.",
+        "car": "Par la RD926 depuis Saint-Jean-de-Maurienne à l'est, ou par la D526 depuis Vaujany et l'Oisans à l'ouest. Route fermée l'hiver. Statut en temps réel sur savoie-route.fr côté Savoie.",
+        "public_transport": null
+      },
+      "meta_description": "Entre la Maurienne et l'Oisans par la RD926 et la D526. Ouverture annoncée au 20 mai 2026 sous alternat. Parking gratuit, aire de pique-nique, départ des trois lacs.",
+      "meta_title": "Col de la Croix de Fer · Ouverture 2026, accès, lacs",
+      "name": "Col de la Croix de Fer",
+      "name_alternates": [
+        "Croix de Fer",
+        "Col de la Croix-de-Fer",
+        "Col de la Croix de Fer (RD926)"
+      ],
+      "practical_info": [
+        {
+          "k": "Altitude",
+          "v": "2 067 m selon l'office de tourisme de Saint-Sorlin-d'Arves. D'autres sources donnent 2 064, 2 065 ou 2 068 m. Non tranché."
+        },
+        {
+          "k": "Coordonnées",
+          "v": "45.227482° N, 6.203515° E (index POI de l'IGN)"
+        },
+        {
+          "k": "Ouverture 2026",
+          "v": "Le communiqué du Département de la Savoie du 23 avril 2026 annonce une fenêtre du 20 au 22 mai 2026 couvrant la Croix de Fer et le Petit-Saint-Bernard, tous deux sous alternat ; le 20 mai est la date reprise par la presse pour la Croix de Fer. Aucune source ne confirme l'ouverture effective à cette date ni ne précise où l'alternat s'applique.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Fermeture 2026",
+          "v": null
+        },
+        {
+          "k": "Tarif",
+          "v": "Gratuit, accès libre"
+        },
+        {
+          "k": "Parking",
+          "v": "Gratuit au col. Camping-cars autorisés."
+        },
+        {
+          "k": "Animaux",
+          "v": null
+        },
+        {
+          "k": "Accessibilité",
+          "v": null
+        },
+        {
+          "k": "Col du Glandon",
+          "v": "Col voisin, à trois kilomètres à l'ouest, à 1 924 m, par la RD927. Ouvert le 19 juin 2026 et accessible uniquement depuis Saint-Colomban-des-Villards, en raison du remplacement d'un ouvrage de drainage après des coulées de boue. Ne pas confondre les deux cols."
+        },
+        {
+          "k": "Fermetures ponctuelles 2026",
+          "v": "D526 entre Vaujany et le col fermée le 19 juillet 2026 de 6h30 à 11h30 (L'Étape du Tour) et à partir du 24 juillet 2026 à 18h (Tour de France, étape 20 du 25 juillet).",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Versant Isère",
+          "v": "Un éboulement rocheux à Vaujany coupant la RD526 dans les deux sens a été rapporté par la presse régionale, sans que nous ayons pu lire ni dater l'article. Vérifiez l'état de la route côté Isère avant de passer."
+        }
+      ],
+      "schema_amenities": [
+        "Parking gratuit",
+        "Aire de pique-nique",
+        "Table d'orientation"
+      ],
+      "when_to_visit": "<p>La route est ouverte de la fin mai au début novembre. En 2026, l'ouverture annoncée est le 20 mai, sous alternat. Aucune date de fermeture n'est publiée. Le col du Glandon, voisin, a ouvert un mois plus tard, le 19 juin, et seulement depuis Saint-Colomban-des-Villards.</p>"
+    }
+  },
+  "latitude": 45.227482,
+  "longitude": 6.203515,
+  "official_site_url": "https://www.saintsorlindarves.com/col-de-la-croix-de-fer",
+  "partners": [],
+  "postal_code": "73530",
+  "price_currency": null,
+  "price_from": null,
+  "price_tiers": [],
+  "research_log": [
+    "IGN data.geopf.fr, index POI : « Col de la Croix de Fer », commune Saint-Sorlin-d'Arves, département 73, 45.227482 / 6.203515.",
+    "OT Saint-Sorlin-d'Arves : altitude 2 067 m, parking gratuit, aire de pique-nique, table d'orientation, camping-cars autorisés.",
+    "Vélo Maurienne, info live : Croix de Fer 2 065 m, RD926 ; Glandon 1 924 m, RD927 ; fermeture prévue le 1er lundi de novembre pour la Croix de Fer et le 2e lundi pour le Glandon, à titre indicatif.",
+    "Département de la Savoie, communiqué du 23 avril 2026 : ouverture des 20 au 22 mai pour la Croix de Fer et le Petit-Saint-Bernard, tous deux sous alternat ; Glandon au 19 juin 2026, accessible uniquement depuis Saint-Colomban-des-Villards, remplacement d'un ouvrage de drainage après coulées de boue.",
+    "Préfecture de l'Isère : D526 entre Vaujany et le col de la Croix de Fer fermée le 19 juillet 2026 de 6h30 à 11h30 pour L'Étape du Tour.",
+    "Oisans Tourisme, dépliant Tour de France 2026 : étape 20 le 25 juillet 2026, altitude du col donnée à 2 064 m, D526 entre Vaujany (carrefour D526/D43a) et le col fermée à partir du 24 juillet 2026 à 18h ; les spectateurs postés au col doivent redescendre vers Saint-Sorlin-d'Arves.",
+    "Vélo Maurienne, Tour de France 2026 : étape 20 samedi 25 juillet, Le Bourg-d'Oisans → Alpe d'Huez, 171 km et 5 600 m de dénivelé, cols du Glandon, de la Croix de Fer, du Télégraphe et du Galibier ; passage à Saint-Jean-de-Maurienne au km 61,6, coureurs attendus à 13h00.",
+    "La Toussuire : montée depuis Saint-Jean-de-Maurienne (rond-point Opinel) 29,3 km, 6 % de moyenne, +1 620 m, par la D926, avec trois tunnels successifs entre le 12e et le 13e kilomètre.",
+    "SJA 73 : randonnée des trois lacs au départ du col — lac Bramant, lac Blanc et un troisième lac ; ouverte du 1er mai au 10 novembre sous réserve d'enneigement ; accès libre, parking gratuit ; GPS du col 45.227651 / 6.203112.",
+    "Marmotte Granfondo Alpes : édition du 28 juin 2026, 177 km et 5 000 m de dénivelé, Bourg d'Oisans → Alpe d'Huez, cols du Glandon, du Télégraphe, du Galibier, du Lautaret puis Alpe d'Huez — la Croix de Fer n'est pas citée."
+  ],
+  "schema_org": {
+    "amenities": [
+      "Parking gratuit",
+      "Aire de pique-nique",
+      "Table d'orientation"
+    ],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "col-de-la-croix-de-fer",
+  "sources": [
+    {
+      "name": "Office de Tourisme de Saint-Sorlin-d'Arves — col de la Croix de Fer",
+      "url": "https://www.saintsorlindarves.com/col-de-la-croix-de-fer"
+    },
+    {
+      "name": "Explore Savoie — col de la Croix de Fer",
+      "url": "https://www.explore-savoie.com/sites-naturels/col-de-la-croix-de-fer-5287535/"
+    },
+    {
+      "name": "Vélo Maurienne — info live, cols",
+      "url": "https://www.velo-maurienne.com/info-live/"
+    },
+    {
+      "name": "Département de la Savoie — communiqué déneigement et ouverture des grands cols (23 avril 2026)",
+      "url": "https://www.savoie.fr/web/sw_175572/04-23-26-cp-deneigement-et-ouverture-des-grands-cols"
+    },
+    {
+      "name": "ODS Radio — quelles dates pour la réouverture des grands cols",
+      "url": "https://www.odsradio.com/news/locales/108800/savoie-quelles-dates-pour-la-reouverture-des-grands-cols"
+    },
+    {
+      "name": "Préfecture de l'Isère — L'Étape du Tour de France 2026, restrictions de circulation",
+      "url": "https://www.isere.gouv.fr/Actualites/Actualites2/L-Etape-du-Tour-de-France-2026-amateurs-Restrictions-de-circulation"
+    },
+    {
+      "name": "Vélo Maurienne — Tour de France 2026",
+      "url": "https://www.velo-maurienne.com/evenements/tour-de-france-2026/"
+    },
+    {
+      "name": "Oisans Tourisme — dépliant Tour de France 2026, étapes 19 et 20 (PDF)",
+      "url": "https://www.oisans.com/app/uploads/2026/06/oisans-depliant-tdf-etapes19-20-2026-def-web.pdf"
+    },
+    {
+      "name": "IGN — géocodeur POI data.geopf.fr",
+      "url": "https://data.geopf.fr/geocodage/search?q=Col+de+la+Croix+de+Fer&index=poi&limit=5"
+    },
+    {
+      "name": "Société de Jeunesse Alpine 73 — les trois lacs depuis le col de la Croix de Fer",
+      "url": "https://www.sja73.com/les-trois-lacs-depuis-le-col-de-la-croix-de-fer.html"
+    },
+    {
+      "name": "La Toussuire — monter au col de la Croix de Fer à vélo",
+      "url": "https://la-toussuire.com/en/details/cycling-up-col-de-la-croix-de-fer-74643-En/"
+    },
+    {
+      "name": "Marmotte Granfondo Alpes 2026",
+      "url": "https://marmottegranfondoalpes.com/en/"
+    },
+    {
+      "name": "Route des Grandes Alpes — col de la Croix de Fer (profil versant Isère)",
+      "url": "https://en.routedesgrandesalpes.com/grands-cols/croix-de-fer"
+    },
+    {
+      "name": "Office de Tourisme de Bourg d'Oisans — col de la Croix de Fer",
+      "url": "https://uk.bourgdoisans.com/equipement/col-de-croix-de-fer-mountain-pass/"
+    }
+  ],
+  "sparse_data": false,
+  "status": "draft",
+  "type": "nature",
+  "verify_flags": [
+    "ALTITUDE — quatre chiffres en circulation, aucun arbitré. 2 067 m (OT Saint-Sorlin-d'Arves, Explore Savoie, La Toussuire, Savoie News) ; 2 065 m (Vélo Maurienne, Wikipédia FR) ; 2 064 m (dépliant Tour de France d'Oisans Tourisme, Route des Grandes Alpes, cols-cyclisme, Bike Oisans) ; 2 068 m (climbfinder, sport-passion). Aucune source altimétrique IGN n'a pu être atteinte.",
+    "COL DU GLANDON — le col voisin, à ne confondre sur aucun point. Altitude 1 924 m contre 2 064–2 068 m pour la Croix de Fer. Route RD927 contre RD926 côté Savoie et D526 côté Isère. Wikipédia FR précise que la route du versant sud-ouest du Glandon est commune avec celle de la Croix de Fer à l'exception des deux cents derniers mètres, et que le Glandon est à trois kilomètres à l'ouest. Aucune source ne dit « 2 km » : ne pas publier ce chiffre.",
+    "OUVERTURE 2026 — la Croix de Fer au 20 mai 2026, « circulation sous alternat », et le Glandon au 19 juin 2026, accessible uniquement depuis Saint-Colomban-des-Villards en raison du remplacement d'un ouvrage de drainage après des coulées de boue. Un mois d'écart : publier la date du Glandon sur une page Croix de Fer ferait monter les gens un mois trop tôt.",
+    "L'OUVERTURE 2026 EST UNE DATE ANNONCÉE, PAS CONFIRMÉE — le 20 mai 2026 vient d'un communiqué du Département de la Savoie daté du 23 avril 2026. Aucune source trouvée ne confirme que le col a effectivement ouvert ce jour-là, ni n'explique où s'applique l'alternat ni s'il est toujours en vigueur. Écrire « ouverture annoncée par le Département de la Savoie ».",
+    "FERMETURE 2026 — introuvable. Au 8 août 2026, aucune annonce de fermeture. Seule existe la règle indicative « fermeture prévue le 1er lundi de novembre » pour la Croix de Fer et « le 2e lundi » pour le Glandon, explicitement données « à titre indicatif, susceptibles d'évoluer sans préavis ». Il existe un précédent de fermeture hivernale anticipée de la Croix de Fer.",
+    "LA MARMOTTE 2026 PASSE PAR LE GLANDON, PAS PAR LA CROIX DE FER — le site officiel de l'épreuve du 28 juin 2026 liste Glandon, Télégraphe, Galibier, Lautaret et Alpe d'Huez. Les guides cyclistes se trompent régulièrement là-dessus.",
+    "LE TOUR DE FRANCE 2026 FRANCHIT LES DEUX — étape 20 du samedi 25 juillet 2026, Le Bourg-d'Oisans → Alpe d'Huez, 171 km et 5 600 m de dénivelé, via le col du Glandon puis le col de la Croix de Fer, puis le Télégraphe et le Galibier.",
+    "GPS — trois des sources consultées donnent des coordonnées qui ne sont PAS le sommet : La Toussuire (45.276973, 6.345058) et climbfinder (45.27107, 6.33945) pointent le départ de la montée à Saint-Jean-de-Maurienne, l'OT de Bourg d'Oisans (45.114234, 6.005749) le fond de vallée en Isère. Seuls l'index POI de l'IGN (45.227482, 6.203515) et sja73.com (45.227651, 6.203112) pointent le col.",
+    "VERSANT ISÈRE — un éboulement non vérifié. France 3 Isère a publié « Éboulement rocheux à Vaujany : la RD526 coupée dans les deux sens de circulation pour une durée indéterminée ». L'article est bloqué aux robots et n'a pas pu être lu ni daté. La RD526 est l'accès direct au col depuis l'Isère. Ne pas publier « ouvert depuis l'Isère » tant qu'inforoute / Itinisère n'a pas été vérifié à la main.",
+    "L'ARRÊTÉ DE FERMETURE HIVERNALE CÔTÉ ISÈRE n'a pas été obtenu (arrêté N°2025-33921, Département de l'Isère, direction territoriale de l'Oisans : le fichier renvoie 404). Aucune date de fermeture côté Isère dans cette fiche.",
+    "ÉQUIPEMENTS DU SOMMET MINCES ET EN PARTIE NON VÉRIFIÉS — confirmés : parking gratuit, aire de pique-nique, table d'orientation, camping-cars autorisés (OT Saint-Sorlin-d'Arves). La croix de fer elle-même n'est sourcée que par cols-cyclisme, pas par une source officielle. Un « Chalet du Col de la Croix de Fer » apparaît dans les résultats de recherche mais toutes ses pages renvoient 403 : ne pas publier de restaurant, ni ses horaires, ni sa saison. Toilettes, chiens et PMR : rien nulle part.",
+    "PROFILS — les écarts atteignent 3,4 km et 2,2 points de pente selon le pied choisi (Saint-Jean-de-Maurienne, Rochetaillée, Allemond, Le Bourg-d'Oisans). Toute mention « 29 km à 6 % » doit nommer son point de départ, sinon elle est fausse.",
+    "NOMBRE DE PASSAGES DU TOUR — « 21 fois depuis 1947 » (Wikipédia FR) et « 21 fois entre 1947 et 2022 » (Route des Grandes Alpes) sont tous deux antérieurs à la traversée du 25 juillet 2026. Ne pas écrire 21 comme total courant."
+  ]
+}

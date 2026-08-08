@@ -1,0 +1,407 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-08",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "point-de-vue",
+  "commune": "Saint-François-Longchamp",
+  "date_modified_human": "8 août 2026",
+  "date_published_human": null,
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "checked": "2026-08-08",
+    "confidence": "low",
+    "flag_reason": "Aucun passage Google Places sur le 73 : champs de fraîcheur non renseignés.",
+    "google_match": null,
+    "google_status": "UNKNOWN",
+    "hours": null,
+    "outcome": "NOT_RUN",
+    "phone": null,
+    "place_id": null,
+    "rating": null,
+    "rating_count": null,
+    "registry": null,
+    "site_reachable": null,
+    "status": "UNVERIFIED",
+    "website": null
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": null,
+  "i18n": {
+    "en": {
+      "activities": [
+        {
+          "description": "South side from La Chambre: 19 km, about 1,520 m of climbing, 8% average, 13.5% maximum. North side: sources vary with the chosen foot, from 24.4 km from La Léchère to 28 km from Aigueblanche.",
+          "tag": null,
+          "title": "Ride up the col"
+        },
+        {
+          "description": "Orientation table and car park at the col.",
+          "tag": null,
+          "title": "Read the orientation table"
+        },
+        {
+          "description": "“The col bistro”, a bar-restaurant at the summit, address Col de la Madeleine 73130 Montgellafrey. The only published season runs 13 December 2025 to 10 April 2026, daily — that is, the ski season, when the road is closed. No summer 2026 opening is published, for this place or for the col's other café-restaurant: call before relying on it.",
+          "tag": null,
+          "title": "Stop at La Banquise 2000"
+        },
+        {
+          "description": "The col is inside the ski area linking Saint-François-Longchamp to Valmorel. It is then reached by lift or on skis, not by road.",
+          "tag": "Winter",
+          "title": "Ski Le Grand Domaine"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Col de la Madeleine</strong> crosses the ridge between the Maurienne valley, at La Chambre (73130), and the Tarentaise, at La Léchère (73260), by way of Saint-François-Longchamp and Celliers. The road is written RD 213 by the préfecture, by the La Léchère town hall and by the Département on its roadworks pages — but the Département also wrote RD 9213 in 2023, and cycling sources write D213 on both sides, or D94 for the north ramp from Feissons-sur-Isère.</p><p>Three altitudes circulate: 1,993 m per IGN, 2,000 m on the stele and the road signs — also the Tour de France's figure — and 1,984 m, which matches older signage and is still published in 2026 by some sources. We do not pick a winner.</p><p>At the col: a car park, an orientation table, two café-restaurants including La Banquise 2000, a shop, coach access and motorhomes allowed. Note that winter access means two different things: the road is closed and snowbound in winter, but the col sits inside the Le Grand Domaine ski area between Saint-François-Longchamp and Valmorel, and the summit restaurant runs all winter — reached by lift or on skis, not by car.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free",
+        "best_season": "Late May – early November",
+        "commune": "Saint-François-Longchamp",
+        "dogs": null,
+        "parking": "Car park at the col",
+        "stroller": null,
+        "type": "Road pass and viewpoint",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "1,993 m per IGN. The stele and the road signs read 2,000 m, the figure the Tour de France also uses, and the older signage read 1,984 m — still published by some sources in 2026.",
+          "q": "How high is the Col de la Madeleine?"
+        },
+        {
+          "a": "It reopened on Friday 29 May 2026 at 12:00 per two press relays of the Département de la Savoie. No 2026 closing date is published: check savoie-route.fr.",
+          "q": "Is the Col de la Madeleine open in 2026?"
+        },
+        {
+          "a": "Not by car: the road is closed and snowbound. The col does sit inside the Le Grand Domaine ski area, though, and the summit restaurant runs through the ski season, reached by lift or on skis.",
+          "q": "Can you reach the col in winter?"
+        },
+        {
+          "a": "No. Access is free, with a car park at the col, coach access and motorhomes allowed.",
+          "q": "Is there a charge to reach the Col de la Madeleine?"
+        },
+        {
+          "a": "This road sees recurrent works. In 2025 a rockfall-protection operation between Le Crozat and Peychet banned motorbikes and bicycles for its entire duration. Check road status before setting off.",
+          "q": "Are there roadworks on the col road?"
+        }
+      ],
+      "hero": {
+        "badge": "Free access · RD 213",
+        "lead": "The Col de la Madeleine links the Maurienne, at La Chambre, to the Tarentaise, at La Léchère, by way of Saint-François-Longchamp. Its altitude is 1,993 m per IGN, but the road signs and the stele read 2,000 m and the old signage read 1,984 m."
+      },
+      "hero_alt": "Col de la Madeleine between the Maurienne and the Tarentaise, Savoie",
+      "how_to_get_there": {
+        "bike": "South side from La Chambre: 19.00 km, +1,522 m, 8.01% average, 13.5% maximum (Cols Cyclisme); 19.3 km, +1,521 m, 8% (Route des Grandes Alpes). North side, depending on the chosen foot: 25.9 km at 6.5% from Feissons-sur-Isère (Route des Grandes Alpes) or 27.5 km at 5.8% for the same ramp (Quäldich). First Tour de France crossing in 1969, on the Chamonix–Briançon stage, the road having been tarred for the occasion. The Tour de France Femmes finished a stage at the col on 2 August 2025 (Cycling French Alps).",
+        "car": "On the RD 213 from La Chambre to the south or La Léchère to the north, via Saint-François-Longchamp and Celliers. Closed in winter. Live status on savoie-route.fr.",
+        "public_transport": null
+      },
+      "meta_description": "Open since 29 May 2026. Between La Chambre in the Maurienne and La Léchère in the Tarentaise, on the RD 213. Free access. 1,993 m per IGN, 2,000 m on the stele.",
+      "meta_title": "Col de la Madeleine · 2026 opening, altitude, access",
+      "name": "Col de la Madeleine",
+      "name_alternates": [
+        "Madeleine",
+        "Col de la Madeleine (RD 213)"
+      ],
+      "practical_info": [
+        {
+          "k": "Altitude",
+          "v": "1,993 m per IGN, 2,000 m on the stele and the road signs, 1,984 m on the older signage still quoted by some sources."
+        },
+        {
+          "k": "Coordinates",
+          "v": "45.435426° N, 6.375963° E"
+        },
+        {
+          "k": "2026 opening",
+          "v": "Friday 29 May 2026 at 12:00, per two press relays of the Département de la Savoie. The departmental release itself could not be read.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "2026 closing",
+          "v": null
+        },
+        {
+          "k": "Price",
+          "v": "Free, open access"
+        },
+        {
+          "k": "Parking",
+          "v": "Car park at the col. Coach access, motorhomes allowed."
+        },
+        {
+          "k": "Dogs",
+          "v": null
+        },
+        {
+          "k": "Accessibility",
+          "v": null
+        },
+        {
+          "k": "Food",
+          "v": "Two café-restaurants at the summit, including La Banquise 2000 (toilets, terrace, garden room, fireplace, high chairs). Shop. No summer 2026 season is published: the only sourced season is a winter one."
+        },
+        {
+          "k": "Roadworks",
+          "v": "Recurrent works on the RD 213. In 2025, rockfall protection between Le Crozat and Peychet from 22 September to 21 November, with motorbikes and bicycles banned for the whole works period. A press headline — “Le col de la Madeleine sera fermé en semaine du 3 au 21 juin” — also circulates without a year we could establish; if it is June 2026, it contradicts a clean 29 May opening. Check before setting off."
+        },
+        {
+          "k": "Contact",
+          "v": "04 79 59 10 56 — the number carried by Explore Savoie's “col de la Madeleine” listing. The source does not name who answers."
+        }
+      ],
+      "schema_amenities": [
+        "Car park",
+        "Orientation table",
+        "Food"
+      ],
+      "when_to_visit": "<p>The road is open from late May to early November. In 2026 it opened on 29 May; no closing date is published yet. Be wary of tourist listings announcing “20/05 to 17/11”: that is a composite of past seasons, not a 2026 calendar.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Versant sud depuis La Chambre : 19 km, environ 1 520 m de dénivelé, 8 % de moyenne, 13,5 % au maximum. Versant nord : les sources divergent selon le pied choisi, entre 24,4 km depuis La Léchère et 28 km depuis Aigueblanche.",
+          "tag": null,
+          "title": "Monter au col à vélo"
+        },
+        {
+          "description": "Table d'orientation et parking au col.",
+          "tag": null,
+          "title": "Lire la table d'orientation"
+        },
+        {
+          "description": "« Le bistro du col », bar-restaurant au sommet, adresse Col de la Madeleine 73130 Montgellafrey. La seule saison publiée va du 13 décembre 2025 au 10 avril 2026, tous les jours — c'est-à-dire la saison de ski, quand la route est fermée. Aucune ouverture estivale 2026 n'est publiée, ni pour cet établissement ni pour l'autre café-restaurant du col : appelez avant de compter dessus.",
+          "tag": null,
+          "title": "S'arrêter à La Banquise 2000"
+        },
+        {
+          "description": "Le col est à l'intérieur du domaine skiable reliant Saint-François-Longchamp à Valmorel. On y accède alors par les remontées ou à ski, pas par la route.",
+          "tag": "Hiver",
+          "title": "Skier Le Grand Domaine"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Le <strong>col de la Madeleine</strong> franchit la ligne de crête entre la vallée de la Maurienne, à La Chambre (73130), et celle de la Tarentaise, à La Léchère (73260), en passant par Saint-François-Longchamp et Celliers. La route est écrite RD 213 par la préfecture, par la mairie de La Léchère et par le Département sur ses pages travaux — mais le Département a aussi écrit RD 9213 en 2023, et les sources cyclistes écrivent D213 des deux côtés ou D94 pour la rampe nord depuis Feissons-sur-Isère.</p><p>Trois altitudes circulent : 1 993 m selon l'IGN, 2 000 m sur la stèle et sur les panneaux de voirie — c'est aussi le chiffre du Tour de France — et 1 984 m, qui correspond à une ancienne signalétique et qui reste publié en 2026 par certaines sources. Nous ne tranchons pas.</p><p>Au col : un parking, une table d'orientation, deux café-restaurants dont La Banquise 2000, une boutique, un accès autocar et l'autorisation des camping-cars. Attention, l'accès hivernal recouvre deux choses différentes : la route est fermée et enneigée l'hiver, mais le col se trouve à l'intérieur du domaine skiable Le Grand Domaine, entre Saint-François-Longchamp et Valmorel, et le restaurant du sommet fonctionne tout l'hiver — atteint par les remontées ou à ski, pas en voiture.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Libre · Gratuit",
+        "best_season": "Fin mai – début novembre",
+        "commune": "Saint-François-Longchamp",
+        "dogs": null,
+        "parking": "Parking au col",
+        "stroller": null,
+        "type": "Col routier et point de vue",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "1 993 m selon l'IGN. La stèle et les panneaux de voirie affichent 2 000 m, chiffre également retenu par le Tour de France, et l'ancienne signalétique indiquait 1 984 m — un chiffre encore publié par certaines sources en 2026.",
+          "q": "Quelle est l'altitude du col de la Madeleine ?"
+        },
+        {
+          "a": "Il a rouvert le vendredi 29 mai 2026 à 12h selon deux relais de presse reprenant le Département de la Savoie. Aucune date de fermeture 2026 n'est publiée : vérifiez sur savoie-route.fr.",
+          "q": "Le col de la Madeleine est-il ouvert en 2026 ?"
+        },
+        {
+          "a": "Pas en voiture : la route est fermée et enneigée. Le col est en revanche à l'intérieur du domaine skiable Le Grand Domaine et le restaurant du sommet fonctionne pendant la saison de ski, atteint par les remontées ou à ski.",
+          "q": "Peut-on monter au col en hiver ?"
+        },
+        {
+          "a": "Non. L'accès est libre et gratuit, avec un parking au col, l'accès autocar et les camping-cars autorisés.",
+          "q": "L'accès au col de la Madeleine est-il payant ?"
+        },
+        {
+          "a": "Cette route connaît des chantiers récurrents. En 2025, une opération de sécurisation contre les chutes de blocs entre Le Crozat et Peychet a interdit les motos et les vélos pendant toute sa durée. Vérifiez l'état de la route avant de partir.",
+          "q": "Y a-t-il des travaux sur la route du col ?"
+        }
+      ],
+      "hero": {
+        "badge": "Accès libre · RD 213",
+        "lead": "Le col de la Madeleine relie la Maurienne, à La Chambre, à la Tarentaise, à La Léchère, en passant par Saint-François-Longchamp. Son altitude est de 1 993 m selon l'IGN, mais la voirie et la stèle affichent 2 000 m et l'ancienne signalétique 1 984 m."
+      },
+      "hero_alt": "Col de la Madeleine entre Maurienne et Tarentaise, Savoie",
+      "how_to_get_there": {
+        "bike": "Versant sud depuis La Chambre : 19,00 km, +1 522 m, 8,01 % de moyenne, 13,5 % maximum (Cols Cyclisme) ; 19,3 km, +1 521 m, 8 % (Route des Grandes Alpes). Versant nord, selon le pied choisi : 25,9 km à 6,5 % depuis Feissons-sur-Isère (Route des Grandes Alpes) ou 27,5 km à 5,8 % pour la même rampe (Quäldich). Premier passage du Tour de France en 1969, sur l'étape Chamonix–Briançon, la route ayant été goudronnée pour l'occasion. Le Tour de France Femmes y a placé une arrivée d'étape le 2 août 2025 (Cycling French Alps).",
+        "car": "Par la RD 213 depuis La Chambre au sud ou depuis La Léchère au nord, via Saint-François-Longchamp et Celliers. Route fermée l'hiver. Statut en temps réel sur savoie-route.fr.",
+        "public_transport": null
+      },
+      "meta_description": "Ouvert depuis le 29 mai 2026. Entre La Chambre en Maurienne et La Léchère en Tarentaise, par la RD 213. Accès libre. Altitude 1 993 m selon l'IGN, 2 000 m sur la stèle.",
+      "meta_title": "Col de la Madeleine · Ouverture 2026, altitude, accès",
+      "name": "Col de la Madeleine",
+      "name_alternates": [
+        "Madeleine",
+        "Col de la Madeleine (RD 213)"
+      ],
+      "practical_info": [
+        {
+          "k": "Altitude",
+          "v": "1 993 m selon l'IGN, 2 000 m sur la stèle et les panneaux de voirie, 1 984 m sur l'ancienne signalétique encore reprise par certaines sources."
+        },
+        {
+          "k": "Coordonnées",
+          "v": "45.435426° N, 6.375963° E"
+        },
+        {
+          "k": "Ouverture 2026",
+          "v": "Vendredi 29 mai 2026 à 12h, selon deux relais de presse reprenant le Département de la Savoie. Le communiqué départemental lui-même n'a pas pu être consulté.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Fermeture 2026",
+          "v": null
+        },
+        {
+          "k": "Tarif",
+          "v": "Gratuit, accès libre"
+        },
+        {
+          "k": "Parking",
+          "v": "Parking au col. Accès autocar, camping-cars autorisés."
+        },
+        {
+          "k": "Animaux",
+          "v": null
+        },
+        {
+          "k": "Accessibilité",
+          "v": null
+        },
+        {
+          "k": "Restauration",
+          "v": "Deux café-restaurants au sommet, dont La Banquise 2000 (toilettes, terrasse, salle jardin, cheminée, chaises bébé). Boutique. Aucune saison estivale 2026 n'est publiée : la seule saison sourcée est hivernale."
+        },
+        {
+          "k": "Travaux",
+          "v": "Chantiers récurrents sur la RD 213. En 2025, sécurisation contre les chutes de blocs entre Le Crozat et Peychet du 22 septembre au 21 novembre, avec interdiction des motos et des vélos pendant toute la durée du chantier. Par ailleurs un titre de presse — « Le col de la Madeleine sera fermé en semaine du 3 au 21 juin » — circule sans que nous ayons pu établir son année ; s'il s'agit de juin 2026, il contredit une ouverture nette au 29 mai. Vérifier avant de partir."
+        },
+        {
+          "k": "Contact",
+          "v": "04 79 59 10 56 — numéro porté par la fiche « col de la Madeleine » d'Explore Savoie. La source ne nomme pas le titulaire."
+        }
+      ],
+      "schema_amenities": [
+        "Parking",
+        "Table d'orientation",
+        "Restauration"
+      ],
+      "when_to_visit": "<p>La route est ouverte de la fin mai au début novembre. En 2026 elle a ouvert le 29 mai ; aucune date de fermeture n'est publiée à ce jour. Méfiez-vous des fiches touristiques qui annoncent « du 20/05 au 17/11 » : c'est un composite d'anciennes saisons, pas un calendrier 2026.</p>"
+    }
+  },
+  "latitude": 45.435426,
+  "longitude": 6.375963,
+  "official_site_url": "https://www.saintfrancoislongchamp.com/en/patrimoine-naturel/col-de-la-madeleine-saint-francois-longchamp/",
+  "partners": [],
+  "postal_code": "73130",
+  "price_currency": null,
+  "price_from": null,
+  "price_tiers": [],
+  "research_log": [
+    "In Auvergne-Rhône-Alpes : altitude 1 993 m selon l'IGN, indiquée à 2 000 m par la voirie ; GPS 45.435426 / 6.375963 ; équipements parking et table d'orientation ; accès autocar, camping-cars autorisés, boutique, restauration ; route enneigée et fermée l'hiver.",
+    "Route des Grandes Alpes : 1 993 m, la stèle affiche 2 000 m, l'ancienne signalétique indiquait 1 984 m ; versant sud depuis La Chambre 19,3 km, +1 521 m, 8 % de moyenne ; versant nord depuis Feissons-sur-Isère 25,9 km, +1 617 m, 6,5 % ; route goudronnée en 1969 pour le premier passage du Tour ; deux café-restaurants au sommet dont La Banquise 2000.",
+    "Nos Alpes et Savoie News : réouverture du col le vendredi 29 mai 2026, à 12h.",
+    "Savoie News, chantiers : RD 213, sécurisation entre Le Crozat et Peychet du 22 septembre au 21 novembre 2025, 280 000 €, fermetures 8h30–12h30 et 13h30–18h, motards et cyclistes interdits pendant toute la durée du chantier.",
+    "Commune de La Léchère : RD 213 fermée au niveau de la Combe des Plans, en amont de Celliers-dessus, du 7 octobre 2024 à 8h au 9 octobre 2024 à 17h.",
+    "Préfecture de la Savoie : Tour de France Hommes, étape 18 le jeudi 24 juillet 2025, RD 213 fermée dans les deux sens de 10h à 17h de Saint-Étienne-de-Cuines à Saint-François-Longchamp et de 12h à 17h au col.",
+    "Vélo Maurienne : ouverture prévue le 4e vendredi de mai, fermeture prévue le 1er lundi de novembre, informations données à titre indicatif.",
+    "La Banquise 2000 : « le bistro du col », bar-restaurant, adresse Col de la Madeleine 73130 Montgellafrey ; ouvert du 13 décembre 2025 au 10 avril 2026 tous les jours ; toilettes, terrasse, salle jardin, cheminée, chaises bébé.",
+    "Cols Cyclisme : versant sud depuis La Chambre 19,00 km, +1 522 m, 8,01 % de moyenne, 13,5 % maximum."
+  ],
+  "schema_org": {
+    "amenities": [
+      "Parking",
+      "Table d'orientation",
+      "Restauration"
+    ],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "col-de-la-madeleine",
+  "sources": [
+    {
+      "name": "In Auvergne-Rhône-Alpes — fiche col de la Madeleine",
+      "url": "https://www.inauvergnerhonealpes.com/fiches/col-de-la-madeleine/"
+    },
+    {
+      "name": "Office de Tourisme de Saint-François-Longchamp — col de la Madeleine",
+      "url": "https://www.saintfrancoislongchamp.com/en/patrimoine-naturel/col-de-la-madeleine-saint-francois-longchamp/"
+    },
+    {
+      "name": "Route des Grandes Alpes — col de la Madeleine",
+      "url": "https://en.routedesgrandesalpes.com/grands-cols/col-de-la-madeleine"
+    },
+    {
+      "name": "Savoie News — trois accès de montagne rouvrent à la circulation",
+      "url": "https://www.savoie-news.fr/reportages/societe/article/3-acces-de-montagne-rouvrent-a-la-circulation"
+    },
+    {
+      "name": "Nos Alpes — réouverture du Petit-Saint-Bernard et de la Madeleine",
+      "url": "https://nosalpes.eu/fr/2026/05/19/reouverture-du-petit-saint-bernard-le-vendredi-22-mai-2026-le-mont-cenis-a-nouveau/"
+    },
+    {
+      "name": "Savoie News — des chantiers structurants engagés sur les routes départementales",
+      "url": "https://www.savoie-news.fr/reportages/circulation/article/des-chantiers-structurants-engages-sur-les-routes-departementales"
+    },
+    {
+      "name": "Commune de La Léchère — fermeture ponctuelle de la route du col de la Madeleine",
+      "url": "https://www.la-lechere.fr/fermeture-ponctuelle-route-du-col-de-la-madeleine/"
+    },
+    {
+      "name": "Préfecture de la Savoie — Tour de France Hommes, parcours et restrictions",
+      "url": "https://www.savoie.gouv.fr/Actualites/Actualites/Tour-de-France-Hommes-Parcours-horaires-restrictions-de-circulation-et-conseils"
+    },
+    {
+      "name": "Vélo Maurienne — info live, cols",
+      "url": "https://www.velo-maurienne.com/info-live/"
+    },
+    {
+      "name": "La Banquise 2000 — bistrot du col",
+      "url": "https://www.labanquise2000.fr/"
+    },
+    {
+      "name": "Cols Cyclisme — col de la Madeleine depuis La Chambre",
+      "url": "https://www.cols-cyclisme.com/vanoise/france/col-de-la-madeleine-depuis-la-chambre-c50.htm"
+    },
+    {
+      "name": "Explore Savoie — fiche col de la Madeleine (contact, période indicative)",
+      "url": "https://www.explore-savoie.com/sit/col-de-la-madeleine-320255/"
+    },
+    {
+      "name": "Quäldich — col de la Madeleine (profils versant nord)",
+      "url": "https://www.quaeldich.de/paesse/col-de-la-madeleine/"
+    },
+    {
+      "name": "Cycling French Alps — Tour de France 2025 (arrivée du Tour de France Femmes au col)",
+      "url": "https://www.cycling-french-alps.com/events/tour-de-france-2025/"
+    }
+  ],
+  "sparse_data": false,
+  "status": "draft",
+  "type": "nature",
+  "verify_flags": [
+    "ALTITUDE — trois chiffres en circulation, pas deux. 1 993 m selon l'IGN (relayé par inauvergnerhonealpes), 2 000 m indiqué par la voirie et par la stèle, et repris par le Tour de France, et 1 984 m, encore publié en 2026 par alti-mag et par nosalpes, que routedesgrandesalpes explique comme une ancienne signalétique. Ne pas écrire « 1 993 m (signalé 2 000 m) » comme si 1 984 m n'avait jamais existé : une vieille photo du col montre 1 984.",
+    "LE PIÈGE PRINCIPAL — la période « du 20/05 au 17/11 : ouvert tous les jours » qui figure sur les fiches APIDAE et sur les portails d'offices de tourisme est un composite périmé : le 20 mai correspond à l'ouverture 2025 et le 17 novembre à la fermeture 2022. Ce n'est pas une saison 2026. C'est le champ qui a l'air le plus officiel et c'est celui qui est faux.",
+    "OUVERTURE 2026 — vendredi 29 mai 2026 à 12h, selon deux relais de presse (nosalpes.eu et savoie-news) reprenant le Département de la Savoie. Le communiqué départemental lui-même (savoie.fr, PDF d'avril 2026) et inforoute73 sont bloqués aux robots depuis ce bac à sable : la date n'a pas pu être vérifiée sur la page du Département. À revérifier sur savoie-route.fr.",
+    "FERMETURE 2026 — n'existe pas encore. Au 8 août 2026, rien n'est publié. Le seul élément disponible est une règle indicative, « fermeture prévue le 1er lundi de novembre », explicitement donnée « à titre indicatif, susceptible d'évoluer sans préavis ». Ne pas l'imprimer comme une date. Précédents : 17 novembre 2022, 4 novembre 2024 à titre indicatif, 19 novembre 2024 en réel.",
+    "NUMÉRO DE ROUTE RÉELLEMENT INSTABLE — le Département a écrit « RD 9213 » en 2023 et « RD 213 » en 2025 (préfecture, page travaux, mairie de La Léchère). Les sources cyclistes écrivent D213 des deux côtés ; quaeldich écrit D94 pour la rampe nord depuis Feissons-sur-Isère et D213 seulement pour le sud. « D213A » n'a été trouvé nulle part. Citer selon la source, ne pas normaliser.",
+    "LA VILLE DE DÉPART NORD N'EST PAS ARRÊTÉE, donc aucun profil nord ne peut être cité sans nommer son pied : Feissons-sur-Isère (25,9 km à 6,5 % ou 27,5 km à 5,8 %), Aigueblanche (28 km à 5,4 %, avec 3 km de descente au milieu), La Léchère (24,4 km à 6,2 %). Ce ne sont pas des contradictions entre elles, ce sont des pieds différents.",
+    "GPS — les coordonnées de climbfinder (45.3597 N, 6.2994 E) sont le pied de la montée à La Chambre, pas le col : elles placent le point à environ 9 km de là, dans la vallée. Les trois relevés cohérents se groupent vers 45.4347–45.4354 N et 6.3720–6.3760 E.",
+    "NOMBRE DE PASSAGES DU TOUR DE FRANCE — quatre chiffres différents : 28 en 2025 (routedesgrandesalpes), 28 avec « dernier passage 2020 » (ledicodutour, donc périmé), 27 jusqu'en 2020 (sport-passion), 25 avec « hors catégorie lors de ses 12 derniers passages » (cycling-french-alps). Ne pas publier de nombre. Faits sûrs et sourcés : première traversée en 1969 (étape 10 Chamonix–Briançon, Gandarias premier au sommet), route goudronnée pour ce passage de 1969, étape 18 des hommes le 24 juillet 2025, et arrivée d'étape du Tour de France Femmes au col le 2 août 2025.",
+    "L'ACCÈS HIVERNAL EST DEUX CHOSES DIFFÉRENTES, souvent confondues. La route du col est fermée et enneigée l'hiver. Mais le col lui-même est à l'intérieur du domaine skiable Le Grand Domaine et le restaurant du sommet, La Banquise 2000, fonctionne du 13 décembre 2025 au 10 avril 2026, tous les jours — atteint par les remontées ou à ski, pas en voiture. Aucune source ne dit explicitement jusqu'où la route est déneigée. Ne pas affirmer de limite de déneigement.",
+    "CHANTIERS RÉCURRENTS SUR CETTE ROUTE — 7 au 9 octobre 2024, RD 213 à la Combe des Plans en amont de Celliers-dessus (mairie de La Léchère). 22 septembre – 21 novembre 2025, sécurisation contre les chutes de blocs entre Le Crozat et Peychet, 280 000 €, avec motards ET cyclistes interdits pendant toute la durée du chantier. Par ailleurs un titre de presse existe — « Le col de la Madeleine sera fermé en semaine du 3 au 21 juin » — dont l'année n'a pas pu être établie, les deux versions de l'article étant bloquées. Si c'est juin 2026, cela contredit directement une ouverture nette au 29 mai 2026. Non résolu.",
+    "COMMUNE DU SOMMET AMBIGUË — les fiches d'office de tourisme donnent 73130 Saint-François-Longchamp ; le restaurant du sommet donne sa propre adresse comme 73130 Montgellafrey. Les deux figurent séparément sur les listes de codes postaux. Signalé plutôt que tranché.",
+    "PMR ET CHIENS AU COL : introuvables. La seule donnée « animaux » concerne le restaurant, et une même fiche d'office de tourisme y indique simultanément « animaux acceptés » et « animaux non acceptés ». Ne rien écrire.",
+    "NE PAS RÉCUPÉRER LES DONNÉES DE LA BOUCLE DE RANDONNÉE — « Le Col de la Madeleine – B25 » sur valmorel.com est un itinéraire pédestre, pas la route. Son « accès libre du 01/06 au 31/10 » et son « altitude maximale 2 185 m » appartiennent à la marche."
+  ]
+}

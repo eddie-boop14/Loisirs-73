@@ -1,0 +1,1289 @@
+{
+  "generique-aquatique-bassin-natation.jpg": {
+    "keywords": [
+      "aquaparc",
+      "aquatique",
+      "bassin",
+      "eau",
+      "natation",
+      "piscine"
+    ],
+    "type": "aquatique"
+  },
+  "generique-aquatique-piscine-couverte.jpg": {
+    "keywords": [
+      "aquaparc",
+      "aquatique",
+      "baignade",
+      "couvert",
+      "couverte",
+      "eau",
+      "indoor",
+      "intérieur",
+      "intérieure",
+      "nager",
+      "natation",
+      "piscine"
+    ],
+    "type": "aquatique"
+  },
+  "generique-aquatique-piscine-exterieur.jpg": {
+    "keywords": [
+      "aquaparc",
+      "aquatique",
+      "baignade",
+      "eau",
+      "exterieur",
+      "extérieur",
+      "extérieure",
+      "nager",
+      "natation",
+      "outdoor",
+      "piscine",
+      "plein-air"
+    ],
+    "type": "aquatique"
+  },
+  "generique-aquatique-toboggan.jpg": {
+    "keywords": [
+      "aquaparc",
+      "aquatique",
+      "eau",
+      "fun",
+      "glissade",
+      "jeux",
+      "piscine",
+      "toboggan"
+    ],
+    "type": "aquatique"
+  },
+  "generique-atelier-poterie-mains.jpg": {
+    "keywords": [
+      "argile",
+      "artisanat",
+      "atelier",
+      "créatif",
+      "céramique",
+      "mains",
+      "poterie",
+      "stage",
+      "tour",
+      "workshop"
+    ],
+    "type": "patrimoine"
+  },
+  "generique-attraction.jpg": {
+    "keywords": [
+      "attraction",
+      "fallback",
+      "générique"
+    ],
+    "type": "fallback"
+  },
+  "generique-bar-jeux.jpg": {
+    "keywords": [
+      "bar",
+      "divertissement",
+      "jeux",
+      "ludique",
+      "social"
+    ],
+    "type": "divertissement"
+  },
+  "generique-barque-aviron.jpg": {
+    "keywords": [
+      "aviron",
+      "barque",
+      "calme",
+      "eau",
+      "lac",
+      "rame",
+      "sport-eau"
+    ],
+    "type": "aquatique"
+  },
+  "generique-bowling-lanes.jpg": {
+    "keywords": [
+      "allées",
+      "bowling",
+      "jeux",
+      "lanes",
+      "quilles"
+    ],
+    "type": "divertissement"
+  },
+  "generique-bowling-strike.jpg": {
+    "keywords": [
+      "allées",
+      "bowling",
+      "jeux",
+      "quilles",
+      "strike"
+    ],
+    "type": "divertissement"
+  },
+  "generique-canal-annecy-pont-amours.jpg": {
+    "keywords": [
+      "amours",
+      "annecy",
+      "canal",
+      "eau",
+      "lac",
+      "pierre",
+      "pont",
+      "romantique",
+      "urbain",
+      "vieille-ville",
+      "vieux",
+      "ville"
+    ],
+    "type": "aquatique"
+  },
+  "generique-cascade.jpg": {
+    "keywords": [
+      "cascade",
+      "chute",
+      "eau",
+      "gorges",
+      "nature",
+      "ruisseau"
+    ],
+    "type": "aquatique"
+  },
+  "generique-chateau-brume.jpg": {
+    "keywords": [
+      "brume",
+      "chateau",
+      "château",
+      "fog",
+      "historique",
+      "monument",
+      "mystique",
+      "médiéval",
+      "patrimoine",
+      "ruines",
+      "vestiges"
+    ],
+    "type": "patrimoine"
+  },
+  "generique-chateau-toiture.jpg": {
+    "keywords": [
+      "ancien",
+      "chateau",
+      "château",
+      "fortifié",
+      "historique",
+      "monument",
+      "médiéval",
+      "patrimoine",
+      "toiture"
+    ],
+    "type": "patrimoine"
+  },
+  "generique-chateau.jpg": {
+    "keywords": [
+      "chateau",
+      "château",
+      "historique",
+      "monument",
+      "médiéval",
+      "patrimoine"
+    ],
+    "type": "patrimoine"
+  },
+  "generique-cinema.jpg": {
+    "keywords": [
+      "cinema",
+      "cinéma",
+      "film",
+      "projection",
+      "salle",
+      "écran"
+    ],
+    "type": "divertissement"
+  },
+  "generique-croisiere.jpg": {
+    "keywords": [
+      "bateau",
+      "croisiere",
+      "lac",
+      "navigation"
+    ],
+    "type": "aquatique"
+  },
+  "generique-domaine.jpg": {
+    "keywords": [
+      "domaine",
+      "paysage",
+      "étendue"
+    ],
+    "type": "parc"
+  },
+  "generique-escalade-bloc-outdoor.jpg": {
+    "keywords": [
+      "bloc",
+      "bouldering",
+      "escalade",
+      "extérieur",
+      "grimpe",
+      "outdoor",
+      "plein-air",
+      "sport",
+      "vertige"
+    ],
+    "type": "sensations"
+  },
+  "generique-escalade-bouldering.jpg": {
+    "keywords": [
+      "bloc",
+      "bouldering",
+      "escalade",
+      "grimpe",
+      "indoor",
+      "sport",
+      "vertige"
+    ],
+    "type": "sensations"
+  },
+  "generique-escalade-outdoor-falaise.jpg": {
+    "keywords": [
+      "escalade",
+      "extérieur",
+      "falaise",
+      "grimpe",
+      "outdoor",
+      "plein-air",
+      "rocher",
+      "sport",
+      "vertige"
+    ],
+    "type": "sensations"
+  },
+  "generique-escalade-wall.jpg": {
+    "keywords": [
+      "escalade",
+      "grimpe",
+      "indoor",
+      "mur",
+      "salle",
+      "sport",
+      "vertige",
+      "wall"
+    ],
+    "type": "sensations"
+  },
+  "generique-escape-game-cadenas.jpg": {
+    "keywords": [
+      "cadenas",
+      "enigme",
+      "escape",
+      "game",
+      "indoor",
+      "jeu",
+      "jeux",
+      "mystère",
+      "serrure",
+      "énigme"
+    ],
+    "type": "divertissement"
+  },
+  "generique-escape-game-exit.jpg": {
+    "keywords": [
+      "enigme",
+      "escape",
+      "exit",
+      "game",
+      "indoor",
+      "jeu",
+      "jeux",
+      "mystère",
+      "sortie",
+      "énigme",
+      "évasion"
+    ],
+    "type": "divertissement"
+  },
+  "generique-escape-game-neon.jpg": {
+    "keywords": [
+      "cyber",
+      "enigme",
+      "escape",
+      "futuriste",
+      "game",
+      "indoor",
+      "jeu",
+      "jeux",
+      "lumière",
+      "mystère",
+      "neon",
+      "énigme"
+    ],
+    "type": "divertissement"
+  },
+  "generique-famille-balade.jpg": {
+    "keywords": [
+      "balade",
+      "enfant",
+      "enfants",
+      "famille",
+      "kids",
+      "marche",
+      "petits",
+      "promenade"
+    ],
+    "type": "parc"
+  },
+  "generique-famille-foret.jpg": {
+    "keywords": [
+      "arbres",
+      "bois",
+      "enfant",
+      "enfants",
+      "famille",
+      "foret",
+      "forêt",
+      "kids",
+      "nature",
+      "petits",
+      "sapin"
+    ],
+    "type": "parc"
+  },
+  "generique-ferme-chevre.jpg": {
+    "keywords": [
+      "animal",
+      "animaux",
+      "chevre",
+      "chèvre",
+      "ferme",
+      "pédagogique",
+      "rural"
+    ],
+    "type": "parc"
+  },
+  "generique-ferme-chevres.jpg": {
+    "keywords": [
+      "animal",
+      "animaux",
+      "chevres",
+      "chèvres",
+      "ferme",
+      "pédagogique",
+      "rural"
+    ],
+    "type": "parc"
+  },
+  "generique-karting-indoor-motion.jpg": {
+    "keywords": [
+      "couvert",
+      "indoor",
+      "intérieur",
+      "kart",
+      "karting",
+      "motion",
+      "mouvement",
+      "piste",
+      "salle",
+      "sport",
+      "vitesse"
+    ],
+    "type": "divertissement"
+  },
+  "generique-karting-indoor.jpg": {
+    "keywords": [
+      "couvert",
+      "indoor",
+      "intérieur",
+      "kart",
+      "karting",
+      "piste",
+      "salle",
+      "sport",
+      "vitesse"
+    ],
+    "type": "divertissement"
+  },
+  "generique-karting-outdoor-3kids.jpg": {
+    "keywords": [
+      "3kids",
+      "enfants",
+      "extérieur",
+      "famille",
+      "kart",
+      "karting",
+      "kids",
+      "outdoor",
+      "piste",
+      "plein-air",
+      "sport",
+      "vitesse"
+    ],
+    "type": "divertissement"
+  },
+  "generique-karting-outdoor-aerial.jpg": {
+    "keywords": [
+      "aerial",
+      "aérienne",
+      "extérieur",
+      "kart",
+      "karting",
+      "outdoor",
+      "piste",
+      "plein-air",
+      "sport",
+      "vitesse",
+      "vue"
+    ],
+    "type": "divertissement"
+  },
+  "generique-karting-outdoor-track.jpg": {
+    "keywords": [
+      "extérieur",
+      "kart",
+      "karting",
+      "outdoor",
+      "piste",
+      "plein-air",
+      "sport",
+      "track",
+      "vitesse"
+    ],
+    "type": "divertissement"
+  },
+  "generique-lac-coucher-soleil.jpg": {
+    "keywords": [
+      "baignade",
+      "coucher",
+      "eau",
+      "lac",
+      "plage",
+      "rive",
+      "soleil"
+    ],
+    "type": "aquatique"
+  },
+  "generique-lac.jpg": {
+    "keywords": [
+      "baignade",
+      "eau",
+      "lac",
+      "plage",
+      "rive"
+    ],
+    "type": "aquatique"
+  },
+  "generique-lancer-de-hache.jpg": {
+    "keywords": [
+      "axe",
+      "de",
+      "défi",
+      "hache",
+      "jeux",
+      "lancer"
+    ],
+    "type": "divertissement"
+  },
+  "generique-laser-game.jpg": {
+    "keywords": [
+      "game",
+      "indoor",
+      "jeu",
+      "jeux",
+      "laser",
+      "lumière",
+      "équipe"
+    ],
+    "type": "divertissement"
+  },
+  "generique-musee-classique.jpg": {
+    "keywords": [
+      "classique",
+      "collection",
+      "culture",
+      "ecomusee",
+      "exposition",
+      "musee",
+      "musée",
+      "patrimoine",
+      "traditionnel",
+      "écomusée"
+    ],
+    "type": "patrimoine"
+  },
+  "generique-musee-grande-galerie.jpg": {
+    "keywords": [
+      "collection",
+      "culture",
+      "exposition",
+      "galerie",
+      "grande",
+      "musee",
+      "musée",
+      "patrimoine",
+      "salle",
+      "vaste"
+    ],
+    "type": "patrimoine"
+  },
+  "generique-musee-moderne.jpg": {
+    "keywords": [
+      "art",
+      "collection",
+      "contemporain",
+      "culture",
+      "design",
+      "exposition",
+      "moderne",
+      "musee",
+      "musée",
+      "patrimoine"
+    ],
+    "type": "patrimoine"
+  },
+  "generique-musee.jpg": {
+    "keywords": [
+      "collection",
+      "culture",
+      "exposition",
+      "musee",
+      "musée",
+      "patrimoine"
+    ],
+    "type": "patrimoine"
+  },
+  "generique-paddle-aviron-detail.jpg": {
+    "keywords": [
+      "aviron",
+      "barque",
+      "detail",
+      "eau",
+      "lac",
+      "paddle",
+      "rame",
+      "sport-eau",
+      "sup"
+    ],
+    "type": "aquatique"
+  },
+  "generique-parapente-decollage.jpg": {
+    "keywords": [
+      "altitude",
+      "ciel",
+      "decollage",
+      "décollage",
+      "envol",
+      "libre",
+      "parapente",
+      "sensations",
+      "vol"
+    ],
+    "type": "sensations"
+  },
+  "generique-parapente-vol.jpg": {
+    "keywords": [
+      "altitude",
+      "ciel",
+      "libre",
+      "parapente",
+      "sensations",
+      "vol"
+    ],
+    "type": "sensations"
+  },
+  "generique-parc.jpg": {
+    "keywords": [
+      "jardin",
+      "nature",
+      "parc",
+      "public",
+      "vert"
+    ],
+    "type": "parc"
+  },
+  "generique-patinoire-hockey.jpg": {
+    "keywords": [
+      "glace",
+      "hockey",
+      "patin",
+      "patinoire",
+      "sport"
+    ],
+    "type": "divertissement"
+  },
+  "generique-patinoire-patins-blancs.jpg": {
+    "keywords": [
+      "art",
+      "blancs",
+      "figure",
+      "glace",
+      "patin",
+      "patinoire",
+      "patins",
+      "sport"
+    ],
+    "type": "divertissement"
+  },
+  "generique-patinoire-skater.jpg": {
+    "keywords": [
+      "glace",
+      "patin",
+      "patinoire",
+      "skater",
+      "sport"
+    ],
+    "type": "divertissement"
+  },
+  "generique-point-de-vue.jpg": {
+    "keywords": [
+      "de",
+      "point",
+      "vue"
+    ],
+    "type": "nature"
+  },
+  "generique-port-annecy.jpg": {
+    "keywords": [
+      "annecy",
+      "bateaux",
+      "embarcadère",
+      "lac",
+      "port",
+      "vieille-ville",
+      "ville"
+    ],
+    "type": "aquatique"
+  },
+  "generique-sentier-arete-alpine.jpg": {
+    "keywords": [
+      "alpine",
+      "altitude",
+      "arete",
+      "arête",
+      "balade",
+      "chemin",
+      "crête",
+      "haute-savoie",
+      "marche",
+      "montagne",
+      "randonnée",
+      "sentier",
+      "sommet"
+    ],
+    "type": "nature"
+  },
+  "generique-sentier-automne-orange.jpg": {
+    "keywords": [
+      "automne",
+      "balade",
+      "chemin",
+      "feuillage",
+      "feuilles",
+      "marche",
+      "orange",
+      "randonnée",
+      "saison",
+      "sentier"
+    ],
+    "type": "nature"
+  },
+  "generique-sentier-automne-rouge.jpg": {
+    "keywords": [
+      "automne",
+      "balade",
+      "chemin",
+      "feuillage",
+      "feuilles",
+      "marche",
+      "randonnée",
+      "rouge",
+      "saison",
+      "sentier"
+    ],
+    "type": "nature"
+  },
+  "generique-sentier-detail-pomme-pin.jpg": {
+    "keywords": [
+      "balade",
+      "chemin",
+      "detail",
+      "marche",
+      "pin",
+      "pomme",
+      "randonnée",
+      "sentier"
+    ],
+    "type": "nature"
+  },
+  "generique-sentier-fog.jpg": {
+    "keywords": [
+      "balade",
+      "brouillard",
+      "brume",
+      "chemin",
+      "fog",
+      "marche",
+      "mystique",
+      "randonnée",
+      "sentier"
+    ],
+    "type": "nature"
+  },
+  "generique-sentier-foret-alpine.jpg": {
+    "keywords": [
+      "alpine",
+      "altitude",
+      "arbres",
+      "balade",
+      "bois",
+      "chemin",
+      "foret",
+      "forêt",
+      "haute-savoie",
+      "marche",
+      "montagne",
+      "nature",
+      "randonnée",
+      "sapin",
+      "sentier"
+    ],
+    "type": "nature"
+  },
+  "generique-sentier-foret.jpg": {
+    "keywords": [
+      "arbres",
+      "balade",
+      "bois",
+      "chemin",
+      "foret",
+      "forêt",
+      "marche",
+      "nature",
+      "randonnée",
+      "sapin",
+      "sentier"
+    ],
+    "type": "nature"
+  },
+  "generique-sentier-hiver-neige.jpg": {
+    "keywords": [
+      "balade",
+      "chemin",
+      "froid",
+      "hiver",
+      "marche",
+      "neige",
+      "randonnée",
+      "raquettes",
+      "saison",
+      "sentier"
+    ],
+    "type": "nature"
+  },
+  "generique-sentier-melezes-automne.jpg": {
+    "keywords": [
+      "arbres",
+      "automne",
+      "balade",
+      "chemin",
+      "feuillage",
+      "feuilles",
+      "marche",
+      "melezes",
+      "mélèzes",
+      "randonnée",
+      "saison",
+      "sentier"
+    ],
+    "type": "nature"
+  },
+  "generique-sentier-sommet-panorama.jpg": {
+    "keywords": [
+      "altitude",
+      "balade",
+      "chemin",
+      "marche",
+      "montagne",
+      "panorama",
+      "point-de-vue",
+      "randonnée",
+      "sentier",
+      "sommet",
+      "vue"
+    ],
+    "type": "nature"
+  },
+  "generique-sentier.jpg": {
+    "keywords": [
+      "balade",
+      "chemin",
+      "marche",
+      "randonnée",
+      "sentier"
+    ],
+    "type": "nature"
+  },
+  "generique-spa-bien-etre.jpg": {
+    "keywords": [
+      "bien",
+      "bien-être",
+      "détente",
+      "etre",
+      "relax",
+      "spa",
+      "wellness"
+    ],
+    "type": "bien-etre"
+  },
+  "generique-spa-bols-tibetains.jpg": {
+    "keywords": [
+      "bien-être",
+      "bols",
+      "détente",
+      "méditation",
+      "relax",
+      "sonore",
+      "spa",
+      "tibetains",
+      "tibétains",
+      "wellness",
+      "zen"
+    ],
+    "type": "bien-etre"
+  },
+  "generique-spa-huile-essentielle.jpg": {
+    "keywords": [
+      "bien-être",
+      "détente",
+      "essentielle",
+      "huile",
+      "massage",
+      "parfum",
+      "relax",
+      "spa",
+      "wellness"
+    ],
+    "type": "bien-etre"
+  },
+  "generique-spa-jardin-tropical.jpg": {
+    "keywords": [
+      "bien-être",
+      "botanique",
+      "détente",
+      "exotique",
+      "fleurs",
+      "jardin",
+      "paradis",
+      "parc",
+      "relax",
+      "serre",
+      "spa",
+      "tropical",
+      "wellness"
+    ],
+    "type": "bien-etre"
+  },
+  "generique-telecabine.jpg": {
+    "keywords": [
+      "altitude",
+      "cable",
+      "montagne",
+      "telecabine",
+      "télécabine",
+      "téléphérique"
+    ],
+    "type": "nature"
+  },
+  "generique-thermes-hammam.jpg": {
+    "keywords": [
+      "bain",
+      "eau-chaude",
+      "hammam",
+      "thermal",
+      "thermes",
+      "vapeur"
+    ],
+    "type": "bien-etre"
+  },
+  "generique-trampoline-park-saut.jpg": {
+    "keywords": [
+      "enfants",
+      "fun",
+      "indoor",
+      "park",
+      "saut",
+      "trampoline"
+    ],
+    "type": "divertissement"
+  },
+  "generique-voie-verte-cyclistes-lac.jpg": {
+    "keywords": [
+      "baignade",
+      "cyclisme",
+      "cyclistes",
+      "eau",
+      "lac",
+      "piste",
+      "plage",
+      "rive",
+      "route",
+      "verte",
+      "voie",
+      "vélo"
+    ],
+    "type": "nature"
+  },
+  "generique-voie-verte-cyclistes-riviere.jpg": {
+    "keywords": [
+      "cyclisme",
+      "cyclistes",
+      "piste",
+      "riviere",
+      "route",
+      "verte",
+      "voie",
+      "vélo"
+    ],
+    "type": "nature"
+  },
+  "generique-voie-verte-famille-kids.jpg": {
+    "keywords": [
+      "enfant",
+      "enfants",
+      "famille",
+      "kids",
+      "petits",
+      "piste",
+      "route",
+      "verte",
+      "voie",
+      "vélo"
+    ],
+    "type": "nature"
+  },
+  "generique-voie-verte-foret.jpg": {
+    "keywords": [
+      "arbres",
+      "bois",
+      "foret",
+      "forêt",
+      "nature",
+      "piste",
+      "route",
+      "sapin",
+      "verte",
+      "voie",
+      "vélo"
+    ],
+    "type": "nature"
+  },
+  "generique-voie-verte-urbaine.jpg": {
+    "keywords": [
+      "centre",
+      "piste",
+      "route",
+      "urbain",
+      "urbaine",
+      "verte",
+      "ville",
+      "voie",
+      "vélo"
+    ],
+    "type": "nature"
+  },
+  "generique-voie-verte.jpg": {
+    "keywords": [
+      "piste",
+      "route",
+      "verte",
+      "voie",
+      "vélo"
+    ],
+    "type": "nature"
+  },
+  "generique-vr-immersion.jpg": {
+    "keywords": [
+      "casque",
+      "expérience",
+      "futur",
+      "immersion",
+      "réalité",
+      "virtuelle",
+      "vr"
+    ],
+    "type": "divertissement"
+  },
+  "generique-vr-multi-joueurs.jpg": {
+    "keywords": [
+      "casque",
+      "collectif",
+      "futur",
+      "immersion",
+      "joueurs",
+      "multi",
+      "players",
+      "réalité",
+      "virtuelle",
+      "vr",
+      "équipe"
+    ],
+    "type": "divertissement"
+  },
+  "generique-cinema-2.jpg": {
+    "keywords": [
+      "cinema",
+      "cinéma",
+      "film",
+      "projection",
+      "salle",
+      "écran",
+      "sortie"
+    ],
+    "type": "divertissement"
+  },
+  "generique-cinema-3.jpg": {
+    "keywords": [
+      "cinema",
+      "cinéma",
+      "film",
+      "projection",
+      "salle",
+      "écran",
+      "sortie"
+    ],
+    "type": "divertissement"
+  },
+  "generique-cinema-4.jpg": {
+    "keywords": [
+      "cinema",
+      "cinéma",
+      "film",
+      "projection",
+      "salle",
+      "écran",
+      "sortie"
+    ],
+    "type": "divertissement"
+  },
+  "generique-casino.jpg": {
+    "keywords": [
+      "casino",
+      "jeux",
+      "machines",
+      "roulette",
+      "divertissement",
+      "sortie"
+    ],
+    "type": "divertissement"
+  },
+  "generique-casino-2.jpg": {
+    "keywords": [
+      "casino",
+      "jeux",
+      "machines",
+      "roulette",
+      "divertissement",
+      "sortie"
+    ],
+    "type": "divertissement"
+  },
+  "generique-simulateur.jpg": {
+    "keywords": [
+      "simulateur",
+      "simulation",
+      "course",
+      "conduite",
+      "racing",
+      "volant",
+      "sortie"
+    ],
+    "type": "divertissement"
+  },
+  "generique-pinball.jpg": {
+    "keywords": [
+      "pinball",
+      "flipper",
+      "arcade",
+      "jeux",
+      "retro",
+      "sortie"
+    ],
+    "type": "divertissement"
+  },
+  "generique-pinball-2.jpg": {
+    "keywords": [
+      "pinball",
+      "flipper",
+      "arcade",
+      "jeux",
+      "retro",
+      "sortie"
+    ],
+    "type": "divertissement"
+  },
+  "generique-arcade.jpg": {
+    "keywords": [
+      "arcade",
+      "jeux",
+      "borne",
+      "retro",
+      "gaming",
+      "sortie"
+    ],
+    "type": "divertissement"
+  },
+  "generique-arcade-2.jpg": {
+    "keywords": [
+      "arcade",
+      "jeux",
+      "borne",
+      "retro",
+      "gaming",
+      "sortie"
+    ],
+    "type": "divertissement"
+  },
+  "generique-billard.jpg": {
+    "keywords": [
+      "billard",
+      "billiards",
+      "pool",
+      "queue",
+      "boules",
+      "jeux",
+      "sortie"
+    ],
+    "type": "divertissement"
+  },
+  "generique-billard-2.jpg": {
+    "keywords": [
+      "billard",
+      "billiards",
+      "pool",
+      "queue",
+      "boules",
+      "jeux",
+      "sortie"
+    ],
+    "type": "divertissement"
+  },
+  "generique-billard-3.jpg": {
+    "keywords": [
+      "billard",
+      "billiards",
+      "pool",
+      "queue",
+      "boules",
+      "jeux",
+      "sortie"
+    ],
+    "type": "divertissement"
+  },
+  "generique-golf.jpg": {
+    "keywords": [
+      "golf",
+      "practice",
+      "swing",
+      "green",
+      "parcours",
+      "sortie"
+    ],
+    "type": "divertissement"
+  },
+  "generique-bungee.jpg": {
+    "keywords": [
+      "bungee",
+      "saut",
+      "élastique",
+      "sensations",
+      "vide",
+      "pont"
+    ],
+    "type": "sensations"
+  },
+  "generique-via-ferrata-groupe.jpg": {
+    "keywords": [
+      "via",
+      "ferrata",
+      "câble",
+      "falaise",
+      "paroi",
+      "échelle",
+      "montagne",
+      "sensations"
+    ],
+    "type": "sensations"
+  },
+  "generique-via-ferrata-lac.jpg": {
+    "keywords": [
+      "via",
+      "ferrata",
+      "câble",
+      "falaise",
+      "paroi",
+      "échelle",
+      "montagne",
+      "sensations"
+    ],
+    "type": "sensations"
+  },
+  "generique-via-ferrata-gorge.jpg": {
+    "keywords": [
+      "via",
+      "ferrata",
+      "câble",
+      "falaise",
+      "paroi",
+      "échelle",
+      "montagne",
+      "sensations"
+    ],
+    "type": "sensations"
+  },
+  "generique-speleo-explorateurs.jpg": {
+    "keywords": [
+      "spéléologie",
+      "speleo",
+      "grotte",
+      "caverne",
+      "souterrain",
+      "sensations",
+      "exploration"
+    ],
+    "type": "sensations"
+  },
+  "generique-speleo-grande-salle.jpg": {
+    "keywords": [
+      "spéléologie",
+      "speleo",
+      "grotte",
+      "caverne",
+      "souterrain",
+      "sensations",
+      "exploration"
+    ],
+    "type": "sensations"
+  },
+  "generique-orientation.jpg": {
+    "keywords": [
+      "orientation",
+      "boussole",
+      "carte",
+      "randonnée",
+      "nature",
+      "course"
+    ],
+    "type": "nature"
+  },
+  "generique-disc-golf.jpg": {
+    "keywords": [
+      "disc",
+      "golf",
+      "frisbee",
+      "panier",
+      "parcours",
+      "nature",
+      "sortie"
+    ],
+    "type": "sensations"
+  }
+}

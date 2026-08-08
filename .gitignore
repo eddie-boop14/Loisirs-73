@@ -14,3 +14,6 @@ incoming-benedicte/
 .env*
 *.bak
 *.tmp
+
+# Generic photo library copied from the 74 as a baseline — large binaries.
+# Remove this rule if the generiques should be version-controlled here.

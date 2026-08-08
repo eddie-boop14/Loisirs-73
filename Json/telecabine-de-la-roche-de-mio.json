@@ -1,0 +1,397 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-08",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "remontee-mecanique",
+  "commune": "La Plagne Tarentaise",
+  "date_modified_human": "8 août 2026",
+  "date_published_human": null,
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "checked": "2026-08-08",
+    "confidence": "low",
+    "flag_reason": "Aucun passage Google Places sur le 73 : champs de fraîcheur non renseignés.",
+    "google_match": null,
+    "google_status": "UNKNOWN",
+    "hours": null,
+    "outcome": "NOT_RUN",
+    "phone": null,
+    "place_id": null,
+    "rating": null,
+    "rating_count": null,
+    "registry": null,
+    "site_reachable": null,
+    "status": "UNVERIFIED",
+    "website": null
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": null,
+  "i18n": {
+    "en": {
+      "activities": [
+        {
+          "description": "From Plagne Bellecôte to the summit of Roche de Mio, at 2,739 m.",
+          "tag": "Summer",
+          "title": "Ride up to Roche de Mio"
+        },
+        {
+          "description": "The summit is the start of a circuit walk documented by the resort.",
+          "tag": "Summer",
+          "title": "Start a hike from the top"
+        },
+        {
+          "description": "The current machine entered service in December 2025: 10-seat cabins, 6 m/s, 3,140 people per hour.",
+          "tag": null,
+          "title": "Ride a brand-new gondola"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Roche de Mio gondola</strong> links Plagne Bellecôte to the summit of Roche de Mio, at 2,739 m, in the commune of La Plagne Tarentaise. The machine is new: it entered service in December 2025, with 10-seat cabins, a speed of 6 m/s and an advertised capacity of 3,140 people per hour. Any description mentioning 6-seat cabins describes the previous machine, now removed.</p><p>Two practical points matter more than the rest. First, <strong>it is closed on Saturdays</strong>: it runs Monday, Tuesday, Wednesday, Thursday, Friday and Sunday, from 09:00 to 17:00. Second, the operator's page titles its summer season \"Winter opening\" while giving July and August dates — the label is wrong, the dates are not.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Paid",
+        "best_season": "Summer (4 July – 29 August 2026)",
+        "commune": "La Plagne Tarentaise",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Gondola",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "From 4 July to 29 August 2026, 09:00 to 17:00, on Monday, Tuesday, Wednesday, Thursday, Friday and Sunday. It is closed on Saturdays.",
+          "q": "When does the Roche de Mio gondola run in summer 2026?"
+        },
+        {
+          "a": "No, it is closed on Saturdays. That is the only day of the week it does not run.",
+          "q": "Does the gondola run on Saturdays?"
+        },
+        {
+          "a": "2,739 m. The figure comes from secondary sources: the operator page consulted gives no altitude.",
+          "q": "How high does it go?"
+        },
+        {
+          "a": "€9 for a single ascent for ages 13 and over, €7 for ages 5-12. A pedestrian day pass is €21 and €17, a week €75 and €60. These prices were not reviewed on an operator pricing grid.",
+          "q": "How much does the ride cost?"
+        },
+        {
+          "a": "Yes, since December 2025: 10-seat cabins, 6 m/s, 3,140 people per hour. Descriptions mentioning 6-seat cabins refer to the previous machine, now removed.",
+          "q": "Is the gondola new?"
+        }
+      ],
+      "hero": {
+        "badge": "Paid · Closed Saturdays",
+        "lead": "The Roche de Mio gondola climbs from Plagne Bellecôte to 2,739 m. A new machine since December 2025, running every day except Saturday."
+      },
+      "hero_alt": "Roche de Mio gondola, Plagne Bellecôte, La Plagne Tarentaise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Bottom station at Plagne Bellecôte, commune of La Plagne Tarentaise. Plagne Bellecôte is a lift base, not a commune.",
+        "public_transport": null
+      },
+      "meta_description": "New gondola since December 2025, from Plagne Bellecôte to 2,739 m. Summer 2026: 4 July – 29 August, 09:00–17:00, closed Saturdays. Single ascent €9.",
+      "meta_title": "Roche de Mio Gondola · 2,739 m, summer 2026, prices",
+      "name": "Roche de Mio Gondola",
+      "name_alternates": [
+        "Roche de Mio",
+        "Roche de Mio gondola (Plagne Bellecôte)"
+      ],
+      "practical_info": [
+        {
+          "k": "Type",
+          "v": "Gondola, 10-seat cabins, 6 m/s, 3,140 people/hour (single source: the operator)"
+        },
+        {
+          "k": "Arrival altitude",
+          "v": "2,739 m (secondary sources; absent from the operator page consulted)"
+        },
+        {
+          "k": "Summer 2026",
+          "v": "4 July to 29 August 2026, 09:00 to 17:00. The operator's page titles this period \"Winter opening\", which is a mislabel.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Opening days",
+          "v": "Monday, Tuesday, Wednesday, Thursday, Friday and Sunday. Closed Saturdays.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Entered service",
+          "v": "December 2025. The previous machine, a Poma TCD6, has been removed."
+        },
+        {
+          "k": "Coordinates",
+          "v": "45.50728° N, 6.707604° E (DATAtourisme queue, \"Télécabine de la Roche de Mio\" row)"
+        },
+        {
+          "k": "Pedestrian prices",
+          "v": "Single ascent €9 (13+) and €7 (5-12) · day €21 and €17 · 7 consecutive days €75 and €60 · season €156 and €125. Not reviewed on an operator pricing grid."
+        },
+        {
+          "k": "Journey time",
+          "v": null
+        },
+        {
+          "k": "Dogs",
+          "v": null
+        },
+        {
+          "k": "Accessibility",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Gondola",
+        "Viewpoint",
+        "Trailhead"
+      ],
+      "when_to_visit": "<p>Summer 2026: 4 July to 29 August, 09:00 to 17:00. The thing to remember is the day, not the period: the gondola is closed on Saturdays, changeover day for resort lets.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "De Plagne Bellecôte au sommet de la Roche de Mio, à 2 739 m.",
+          "tag": "Été",
+          "title": "Monter à la Roche de Mio"
+        },
+        {
+          "description": "Le sommet est le départ d'un circuit de randonnée documenté par la station.",
+          "tag": "Été",
+          "title": "Partir en randonnée depuis le sommet"
+        },
+        {
+          "description": "L'appareil actuel a été mis en service en décembre 2025 : cabines 10 places, 6 m/s, 3 140 personnes par heure.",
+          "tag": null,
+          "title": "Prendre une télécabine neuve"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>télécabine de la Roche de Mio</strong> relie Plagne Bellecôte au sommet de la Roche de Mio, à 2 739 m, sur la commune de La Plagne Tarentaise. L'appareil est neuf : mis en service en décembre 2025, avec des cabines de 10 places, une vitesse de 6 m/s et un débit annoncé de 3 140 personnes par heure. Toute description qui parle de cabines 6 places décrit l'appareil précédent, déposé.</p><p>Deux points pratiques comptent plus que le reste. D'abord, <strong>elle est fermée le samedi</strong> : elle tourne les lundi, mardi, mercredi, jeudi, vendredi et dimanche, de 9h à 17h. Ensuite, la page de l'exploitant intitule sa saison estivale « Winter opening » tout en donnant des dates de juillet et août — le libellé est faux, les dates ne le sont pas.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Payant",
+        "best_season": "Été (4 juillet – 29 août 2026)",
+        "commune": "La Plagne Tarentaise",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Télécabine",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Du 4 juillet au 29 août 2026, de 9h à 17h, les lundi, mardi, mercredi, jeudi, vendredi et dimanche. Elle est fermée le samedi.",
+          "q": "Quand la télécabine de la Roche de Mio fonctionne-t-elle en été 2026 ?"
+        },
+        {
+          "a": "Non, elle est fermée le samedi. C'est le seul jour de la semaine où elle ne tourne pas.",
+          "q": "La télécabine fonctionne-t-elle le samedi ?"
+        },
+        {
+          "a": "2 739 m. Le chiffre vient de sources secondaires : la page de l'exploitant consultée ne donne pas d'altitude.",
+          "q": "À quelle altitude arrive-t-on ?"
+        },
+        {
+          "a": "9 € en montée simple pour les 13 ans et plus, 7 € pour les 5-12 ans. La journée piéton est à 21 € et 17 €, la semaine à 75 € et 60 €. Ces tarifs n'ont pas été revus sur une grille de l'exploitant.",
+          "q": "Combien coûte la montée ?"
+        },
+        {
+          "a": "Oui, depuis décembre 2025 : cabines 10 places, 6 m/s, 3 140 personnes par heure. Les descriptions mentionnant des cabines 6 places concernent l'appareil précédent, déposé.",
+          "q": "La télécabine est-elle récente ?"
+        }
+      ],
+      "hero": {
+        "badge": "Payant · Fermée le samedi",
+        "lead": "La télécabine de la Roche de Mio monte de Plagne Bellecôte à 2 739 m. Appareil neuf depuis décembre 2025, ouvert tous les jours sauf le samedi."
+      },
+      "hero_alt": "Télécabine de la Roche de Mio, Plagne Bellecôte, La Plagne Tarentaise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Gare de départ à Plagne Bellecôte, commune de La Plagne Tarentaise. Plagne Bellecôte est un front de neige, pas une commune.",
+        "public_transport": null
+      },
+      "meta_description": "Télécabine neuve depuis décembre 2025, de Plagne Bellecôte à 2 739 m. Été 2026 : 4 juillet – 29 août, 9h-17h, fermée le samedi. Montée simple 9 €.",
+      "meta_title": "Télécabine de la Roche de Mio · 2 739 m, été 2026, tarifs",
+      "name": "Télécabine de la Roche de Mio",
+      "name_alternates": [
+        "Roche de Mio",
+        "Télécabine Roche de Mio (Plagne Bellecôte)"
+      ],
+      "practical_info": [
+        {
+          "k": "Type",
+          "v": "Télécabine, cabines 10 places, 6 m/s, 3 140 personnes/heure (source unique : l'exploitant)"
+        },
+        {
+          "k": "Altitude d'arrivée",
+          "v": "2 739 m (sources secondaires ; absente de la page de l'exploitant consultée)"
+        },
+        {
+          "k": "Été 2026",
+          "v": "Du 4 juillet au 29 août 2026, de 9h à 17h. La page de l'exploitant intitule cette période « Winter opening », ce qui est un libellé erroné.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Jours d'ouverture",
+          "v": "Lundi, mardi, mercredi, jeudi, vendredi et dimanche. Fermée le samedi.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Mise en service",
+          "v": "Décembre 2025. L'appareil précédent, une TCD6 Poma, est déposé."
+        },
+        {
+          "k": "Coordonnées",
+          "v": "45.50728° N, 6.707604° E (queue DATAtourisme, ligne « Télécabine de la Roche de Mio »)"
+        },
+        {
+          "k": "Tarifs piétons",
+          "v": "Montée simple 9 € (13 ans et +) et 7 € (5-12 ans) · journée 21 € et 17 € · 7 jours consécutifs 75 € et 60 € · saison 156 € et 125 €. Non revus sur une grille de l'exploitant."
+        },
+        {
+          "k": "Durée du trajet",
+          "v": null
+        },
+        {
+          "k": "Animaux",
+          "v": null
+        },
+        {
+          "k": "Accessibilité",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Télécabine",
+        "Point de vue",
+        "Départ de randonnées"
+      ],
+      "when_to_visit": "<p>Été 2026 : du 4 juillet au 29 août, de 9h à 17h. Le point à retenir est le jour, pas la période : la télécabine est fermée le samedi, jour de rotation des locations en station.</p>"
+    }
+  },
+  "latitude": 45.50728,
+  "longitude": 6.707604,
+  "official_site_url": "https://www.skipass-laplagne.com/en/roche-de-mio",
+  "partners": [],
+  "postal_code": "73210",
+  "price_currency": "EUR",
+  "price_from": 9.0,
+  "price_tiers": [
+    {
+      "label": "Montée simple 13 ans et +",
+      "price": 9.0
+    },
+    {
+      "label": "Montée simple 5-12 ans",
+      "price": 7.0
+    },
+    {
+      "label": "Journée piéton 13 ans et +",
+      "price": 21.0
+    },
+    {
+      "label": "Journée piéton 5-12 ans",
+      "price": 17.0
+    },
+    {
+      "label": "7 jours consécutifs 13 ans et +",
+      "price": 75.0
+    },
+    {
+      "label": "7 jours consécutifs 5-12 ans",
+      "price": 60.0
+    },
+    {
+      "label": "Saison 13 ans et +",
+      "price": 156.0
+    },
+    {
+      "label": "Saison 5-12 ans",
+      "price": 125.0
+    }
+  ],
+  "research_log": [
+    "Relie Plagne Bellecôte au sommet de la Roche de Mio, 2 739 m.",
+    "Appareil neuf mis en service en décembre 2025 : cabines 10 places, 6 m/s, 3 140 personnes/heure (skipass-laplagne). L'appareil précédent, une TCD6 Poma Belle Plagne / Roche de Mio, est référencé comme déposé sur remontees-mecaniques.net.",
+    "Été 2026 : du 4 juillet au 29 août 2026, de 9h à 17h, ouvert les lundi, mardi, mercredi, jeudi, vendredi et dimanche — donc FERMÉ LE SAMEDI.",
+    "Tarifs piétons : montée simple 9 € (13 ans et +) et 7 € (5-12 ans) ; journée 21 € et 17 € ; 7 jours consécutifs 75 € et 60 € ; saison 156 € et 125 €.",
+    "La page de l'exploitant intitule la période estivale « Winter opening: from the 4th of July to the 29th of August 2026 » — un libellé « hiver » posé sur des dates de juillet-août."
+  ],
+  "schema_org": {
+    "amenities": [
+      "Télécabine",
+      "Point de vue",
+      "Départ de randonnées"
+    ],
+    "is_free": false,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "telecabine-de-la-roche-de-mio",
+  "sources": [
+    {
+      "name": "Skipass La Plagne — Roche de Mio",
+      "url": "https://www.skipass-laplagne.com/en/roche-de-mio"
+    },
+    {
+      "name": "Skipass La Plagne — horaires des remontées",
+      "url": "https://www.skipass-laplagne.com/en/lift-opening-hours"
+    },
+    {
+      "name": "Explore Savoie — télécabine de la Roche de Mio",
+      "url": "https://www.explore-savoie.com/trains-et-remontees-mecaniques/telecabine-de-la-roche-de-mio-346142/"
+    },
+    {
+      "name": "Infosnews — Roche de Mio, une télécabine 2.0",
+      "url": "https://www.infosnews.fr/articles/roche-de-mio-une-telecabine-2-0"
+    },
+    {
+      "name": "Wikipédia (FR) — télécabine de la Roche de Mio",
+      "url": "https://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9cabine_de_la_Roche_de_Mio"
+    },
+    {
+      "name": "Remontées-mécaniques.net — TCD6 de Belle Plagne / Roche de Mio (appareil déposé)",
+      "url": "https://www.remontees-mecaniques.net/bdd/reportage-tcd6-de-belle-plagne-roche-de-mio-poma-481.html"
+    },
+    {
+      "name": "La Plagne — randonnée circuit Roche de Mio depuis Belle Plagne",
+      "url": "https://en.la-plagne.com/explore-the-multitude-of-activities-on-offer/la-plagne-in-summer/hiking-in-the-vanoise-and-tarentaise-regions/hiking/roche-de-mio-circuit-trail"
+    },
+    {
+      "name": "La Plagne — point de vente automatique télécabine Roche de Mio, Plagne Bellecôte",
+      "url": "https://en.la-plagne.com/discover/practical/retailers-and-services/point-of-sale-automated-roche-de-mio-gondola"
+    },
+    {
+      "name": "Location Ski La Plagne — télécabine Roche de Mio",
+      "url": "https://www.locationski-laplagne.com/ski/telecabine-roche-de-mio/"
+    }
+  ],
+  "sparse_data": false,
+  "status": "draft",
+  "type": "transport",
+  "verify_flags": [
+    "L'EXPLOITANT ÉTIQUETTE SA SAISON D'ÉTÉ « WINTER OPENING » — skipass-laplagne.com écrit littéralement « Winter opening: from the 4th of July to the 29th of August 2026 ». Les dates sont estivales, le libellé est faux. Reprendre le libellé reviendrait à publier que la télécabine ouvre l'hiver du 4 juillet au 29 août.",
+    "FERMÉE LE SAMEDI — l'appareil tourne les lundi, mardi, mercredi, jeudi, vendredi et dimanche. Le samedi est le jour de rotation des locations en station : c'est précisément le jour où un visiteur de passage tenterait sa chance. Deuxième piège de jour de semaine de ce lot, après la Pointe de la Masse.",
+    "APPAREIL NEUF DEPUIS DÉCEMBRE 2025 — toute description technique antérieure décrit la TCD6 Poma déposée, pas l'appareil actuel. Les fiches encyclopédiques et les forums qui donnent 6 places par cabine sont périmés : le nouvel appareil a des cabines 10 places.",
+    "CARACTÉRISTIQUES TECHNIQUES À SOURÇAGE UNIQUE — cabines 10 places, 6 m/s et 3 140 personnes/heure ne viennent que de la page de l'exploitant. Aucune fiche technique indépendante n'a été consultée pour le nouvel appareil.",
+    "ALTITUDE À SOURÇAGE SECONDAIRE — 2 739 m n'apparaît pas sur la page de l'exploitant consultée, qui ne donne ni altitude ni durée de trajet. Le chiffre vient de relais.",
+    "DURÉE DU TRAJET NON PUBLIÉE — aucune source consultée ne la donne pour le nouvel appareil. Champ null.",
+    "TARIFS RELEVÉS EN RECHERCHE, NON REVUS SUR UNE GRILLE — la grille complète (montée simple, journée, semaine, saison, deux tranches d'âge) est cohérente en interne, mais elle n'a pas été confirmée sur une page tarifaire de l'exploitant. La tranche « 5-12 ans » implique une gratuité en dessous de 5 ans qu'aucune source n'énonce.",
+    "HORAIRES 9H-17H SANS VARIATION PUBLIÉE — aucune source ne mentionne de coupure méridienne ni de changement en fin de saison. L'absence de coupure n'est pas la même chose qu'une confirmation qu'il n'y en a pas.",
+    "LA PLAGNE TARENTAISE EST LA COMMUNE, PLAGNE BELLECÔTE LE FRONT DE NEIGE — la gare de départ est à Plagne Bellecôte, qui n'est pas une commune. La Plagne Tarentaise (73210) pèse 97 POI dans la queue du 73.",
+    "ANIMAUX, PMR, POUSSETTES : aucune source. Champs null."
+  ]
+}

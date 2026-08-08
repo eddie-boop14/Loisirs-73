@@ -1,0 +1,379 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-08",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "remontee-mecanique",
+  "commune": "Les Belleville",
+  "date_modified_human": "8 août 2026",
+  "date_published_human": null,
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "checked": "2026-08-08",
+    "confidence": "low",
+    "flag_reason": "Aucun passage Google Places sur le 73 : champs de fraîcheur non renseignés.",
+    "google_match": null,
+    "google_status": "UNKNOWN",
+    "hours": null,
+    "outcome": "NOT_RUN",
+    "phone": null,
+    "place_id": null,
+    "rating": null,
+    "rating_count": null,
+    "registry": null,
+    "site_reachable": null,
+    "status": "UNVERIFIED",
+    "website": null
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": null,
+  "i18n": {
+    "en": {
+      "activities": [
+        {
+          "description": "1,000 m of ascent in 8 minutes to 2,804 m, in the operator's own words.",
+          "tag": "Summer",
+          "title": "Ride up to the Pointe de la Masse"
+        },
+        {
+          "description": "A glass-floored cabin is offered, with a supplement no source consulted puts a figure on.",
+          "tag": null,
+          "title": "Take the glass-floored cabin"
+        },
+        {
+          "description": "Access to the machine room is advertised as included with the pedestrian ticket.",
+          "tag": null,
+          "title": "Visit the machine room"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Pointe de la Masse gondola</strong> climbs to 2,804 m above Les Menuires, in the commune of <strong>Les Belleville</strong>. It is a 10-seat detachable gondola — not a cable car, contrary to what is often written.</p><p>One fact governs everything else: <strong>it is closed from Thursday to Saturday inclusive</strong>. It runs Sunday to Wednesday only, while the rest of the Les Menuires area is open seven days a week. Les 3 Vallées state this plainly, and it is exactly the kind of detail that ruins a day out.</p><p>The operator advertises 1,000 m of ascent in 8 minutes, an optional glass-floored cabin, and machine-room access included with the pedestrian ticket.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Paid",
+        "best_season": "Summer (4 July – 28 August 2026)",
+        "commune": "Les Belleville",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Gondola",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "No. It is a 10-seat detachable gondola (TCD10), described as a \"gondola lift\" by Les Menuires. A \"Pointe de la Masse cable car\" does not exist.",
+          "q": "Is the Pointe de la Masse served by a cable car?"
+        },
+        {
+          "a": "Sunday to Wednesday only. It is closed from Thursday to Saturday inclusive, while the rest of the Les Menuires area runs 7 days a week.",
+          "q": "Which days does the gondola run?"
+        },
+        {
+          "a": "2,804 m. The operator advertises 1,000 m of ascent covered in 8 minutes.",
+          "q": "How high does it go?"
+        },
+        {
+          "a": "Yes, a glass-floored cabin is offered. No source consulted puts a figure on the supplement.",
+          "q": "Is there a glass-floored cabin?"
+        },
+        {
+          "a": "One reading gives €26.00 for a single adult ascent and €19.50 with the ascent pass, but these are not confirmed on an operator pricing page.",
+          "q": "How much does the ride cost?"
+        }
+      ],
+      "hero": {
+        "badge": "Paid · Closed Thursday to Saturday",
+        "lead": "The Pointe de la Masse gondola climbs to 2,804 m above Les Menuires. It runs Sunday to Wednesday only — the rest of the area opens every day."
+      },
+      "hero_alt": "Pointe de la Masse gondola, Les Menuires, Les Belleville, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Access via Les Menuires, commune of Les Belleville. The GPS point on this page is the summit viewpoint, not the bottom station.",
+        "public_transport": null
+      },
+      "meta_description": "Gondola to 2,804 m above Les Menuires, closed Thursday to Saturday inclusive. Glass-floored cabin and machine-room access included with the pedestrian ticket.",
+      "meta_title": "Pointe de la Masse Gondola · 2,804 m, opening days",
+      "name": "Pointe de la Masse Gondola",
+      "name_alternates": [
+        "Pointe de la Masse",
+        "La Masse",
+        "TCD10 de la Pointe de la Masse"
+      ],
+      "practical_info": [
+        {
+          "k": "Type",
+          "v": "10-seat detachable gondola (TCD10). Not a cable car."
+        },
+        {
+          "k": "Arrival altitude",
+          "v": "2,804 m"
+        },
+        {
+          "k": "Opening days",
+          "v": "Sunday to Wednesday. Closed Thursday to Saturday inclusive, unlike the rest of the Les Menuires area.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Summer 2026",
+          "v": "4 July to 28 August 2026 per Les 3 Vallées. A secondary source writes \"5 July to 29 August\".",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Duration",
+          "v": "1,000 m of ascent in 8 minutes (operator's wording)"
+        },
+        {
+          "k": "Coordinates",
+          "v": "45.299101° N, 6.509023° E — summit viewpoint per the DATAtourisme queue, not the bottom station"
+        },
+        {
+          "k": "Price",
+          "v": "€26.00 single adult ascent (18+), €19.50 with the ascent pass. Not confirmed on an operator pricing page."
+        },
+        {
+          "k": "Glass-floored cabin",
+          "v": "Offered as an option. Supplement not quantified by the sources consulted."
+        },
+        {
+          "k": "Machine room",
+          "v": "Access advertised as included with the pedestrian ticket. Hours not published."
+        },
+        {
+          "k": "Dogs",
+          "v": null
+        },
+        {
+          "k": "Accessibility",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Gondola",
+        "Viewpoint",
+        "Glass-floored cabin"
+      ],
+      "when_to_visit": "<p>Summer 2026: 4 July to 28 August per Les 3 Vallées. But the question that matters is not the period, it is the day: the gondola is closed Thursday to Saturday inclusive. Come on a Sunday, Monday, Tuesday or Wednesday.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "1 000 m de dénivelé en 8 minutes jusqu'à 2 804 m, selon la formule de l'exploitant.",
+          "tag": "Été",
+          "title": "Monter à la Pointe de la Masse"
+        },
+        {
+          "description": "Une cabine à plancher de verre est proposée, avec supplément non chiffré par les sources consultées.",
+          "tag": null,
+          "title": "Prendre la cabine à plancher de verre"
+        },
+        {
+          "description": "L'accès à la salle des machines est annoncé comme inclus avec le billet piéton.",
+          "tag": null,
+          "title": "Visiter la salle des machines"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>télécabine de la Pointe de la Masse</strong> monte à 2 804 m au-dessus des Menuires, sur la commune des <strong>Belleville</strong>. C'est une télécabine débrayable 10 places — pas un téléphérique, contrairement à ce qu'on lit souvent.</p><p>Un point commande tout le reste : <strong>elle est fermée du jeudi au samedi inclus</strong>. Elle ne tourne que du dimanche au mercredi, alors que le reste du domaine des Menuires est ouvert sept jours sur sept. C'est écrit noir sur blanc par Les 3 Vallées, et c'est le genre de détail qui gâche une journée.</p><p>L'exploitant annonce 1 000 m de dénivelé en 8 minutes, une cabine à plancher de verre en option, et l'accès à la salle des machines inclus avec le billet piéton.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Payant",
+        "best_season": "Été (4 juillet – 28 août 2026)",
+        "commune": "Les Belleville",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Télécabine",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Non. C'est une télécabine débrayable 10 places (TCD10), désignée « gondola lift » par Les Menuires. Un « téléphérique de la Pointe de la Masse » n'existe pas.",
+          "q": "La Pointe de la Masse est-elle desservie par un téléphérique ?"
+        },
+        {
+          "a": "Du dimanche au mercredi seulement. Elle est fermée du jeudi au samedi inclus, alors que le reste du domaine des Menuires tourne 7 jours sur 7.",
+          "q": "Quels jours la télécabine fonctionne-t-elle ?"
+        },
+        {
+          "a": "2 804 m. L'exploitant annonce 1 000 m de dénivelé gravis en 8 minutes.",
+          "q": "À quelle altitude arrive-t-on ?"
+        },
+        {
+          "a": "Oui, une cabine à plancher de verre est proposée. Le supplément n'est chiffré par aucune source consultée.",
+          "q": "Y a-t-il une cabine à plancher de verre ?"
+        },
+        {
+          "a": "Un relevé donne 26,00 € en montée simple adulte et 19,50 € avec le pass ascensionnel, mais ces tarifs ne sont pas confirmés sur une page tarifaire de l'exploitant.",
+          "q": "Combien coûte la montée ?"
+        }
+      ],
+      "hero": {
+        "badge": "Payant · Fermée jeudi à samedi",
+        "lead": "La télécabine de la Pointe de la Masse monte à 2 804 m au-dessus des Menuires. Elle ne tourne que du dimanche au mercredi — le reste du domaine, lui, ouvre tous les jours."
+      },
+      "hero_alt": "Télécabine de la Pointe de la Masse, Les Menuires, Les Belleville, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Accès par Les Menuires, commune des Belleville. Le point GPS de cette fiche est celui du point de vue au sommet, pas de la gare de départ.",
+        "public_transport": null
+      },
+      "meta_description": "Télécabine à 2 804 m au-dessus des Menuires, fermée du jeudi au samedi inclus. Cabine à plancher de verre et salle des machines incluse avec le billet piéton.",
+      "meta_title": "Télécabine de la Pointe de la Masse · 2 804 m, jours d'ouverture",
+      "name": "Télécabine de la Pointe de la Masse",
+      "name_alternates": [
+        "Pointe de la Masse",
+        "La Masse",
+        "TCD10 de la Pointe de la Masse"
+      ],
+      "practical_info": [
+        {
+          "k": "Type",
+          "v": "Télécabine débrayable 10 places (TCD10). Ce n'est pas un téléphérique."
+        },
+        {
+          "k": "Altitude d'arrivée",
+          "v": "2 804 m"
+        },
+        {
+          "k": "Jours d'ouverture",
+          "v": "Du dimanche au mercredi. Fermée du jeudi au samedi inclus, contrairement au reste du domaine des Menuires.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Été 2026",
+          "v": "Du 4 juillet au 28 août 2026 selon Les 3 Vallées. Une source secondaire écrit « du 5 juillet au 29 août ».",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Durée",
+          "v": "1 000 m de dénivelé en 8 minutes (formule de l'exploitant)"
+        },
+        {
+          "k": "Coordonnées",
+          "v": "45.299101° N, 6.509023° E — point de vue au sommet selon la queue DATAtourisme, pas la gare de départ"
+        },
+        {
+          "k": "Tarif",
+          "v": "26,00 € en montée simple adulte (18 ans et +), 19,50 € avec le pass ascensionnel. Non confirmés sur une page tarifaire de l'exploitant."
+        },
+        {
+          "k": "Cabine à plancher de verre",
+          "v": "Proposée en option. Supplément non chiffré par les sources consultées."
+        },
+        {
+          "k": "Salle des machines",
+          "v": "Accès annoncé comme inclus avec le billet piéton. Horaires non publiés."
+        },
+        {
+          "k": "Animaux",
+          "v": null
+        },
+        {
+          "k": "Accessibilité",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Télécabine",
+        "Point de vue",
+        "Cabine à plancher de verre"
+      ],
+      "when_to_visit": "<p>Été 2026 : du 4 juillet au 28 août selon Les 3 Vallées. Mais la question qui compte n'est pas la période, c'est le jour : la télécabine est fermée du jeudi au samedi inclus. Venir un dimanche, un lundi, un mardi ou un mercredi.</p>"
+    }
+  },
+  "latitude": 45.299101,
+  "longitude": 6.509023,
+  "official_site_url": "https://lesmenuires.com/en/pointe-de-la-masse-summer",
+  "partners": [],
+  "postal_code": "73440",
+  "price_currency": "EUR",
+  "price_from": 19.5,
+  "price_tiers": [
+    {
+      "label": "Montée simple adulte 18 ans et +",
+      "price": 26.0
+    },
+    {
+      "label": "Montée simple avec pass ascensionnel",
+      "price": 19.5
+    }
+  ],
+  "research_log": [
+    "Les Menuires : « Elevated to 2,804 metres » ; appareil décrit comme « gondola lift » / télécabine ; « operating from Sunday to Wednesday » ; « Climb 1,000 metres in just 8 minutes » ; cabine à plancher de verre disponible ; accès libre à la salle des machines inclus avec le billet piéton.",
+    "Les 3 Vallées : « Les Menuires & Saint-Martin-de-Belleville — Ski lifts open 7 days a week from 04/07 to 28/08, except the Pointe de la Masse gondola, closed from Thursday to Saturday inclusive ».",
+    "Remontées-mécaniques.net : l'appareil est référencé TCD10, soit une télécabine débrayable 10 places — et non un téléphérique.",
+    "Tarifs relevés en recherche : montée simple 26,00 € adulte (18 ans et +), ou 19,50 € avec le pass ascensionnel, option cabine à plancher de verre en supplément. Non confirmés sur une page tarifaire de l'exploitant.",
+    "Une source secondaire donne la saison des 3 Vallées « du 5 juillet au 29 août » pour cet appareil, contre 04/07–28/08 sur la page des 3 Vallées."
+  ],
+  "schema_org": {
+    "amenities": [
+      "Télécabine",
+      "Point de vue",
+      "Cabine à plancher de verre"
+    ],
+    "is_free": false,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "telecabine-de-la-pointe-de-la-masse",
+  "sources": [
+    {
+      "name": "Les Menuires — la Pointe de la Masse en été",
+      "url": "https://lesmenuires.com/en/pointe-de-la-masse-summer"
+    },
+    {
+      "name": "Les Menuires — cabine à plancher de verre",
+      "url": "https://lesmenuires.com/en/gondola-lift-floor-glass"
+    },
+    {
+      "name": "Les Menuires — remontées piétonnes",
+      "url": "https://lesmenuires.com/en/pedestrian-access-gondolas-chairlifts"
+    },
+    {
+      "name": "Les 3 Vallées — ouvertures été 2026",
+      "url": "https://www.les3vallees.com/en/news/3-vallees-openings"
+    },
+    {
+      "name": "Skipass Les Menuires — dates d'ouverture et horaires de la station",
+      "url": "https://www.skipass-lesmenuires.com/en/faqdates-opening"
+    },
+    {
+      "name": "Les Menuires — PDF des remontées mécaniques été",
+      "url": "https://static.lesmenuires.com/files/remontees-mecaniques-ete.pdf"
+    },
+    {
+      "name": "Remontées-mécaniques.net — TCD10 de la Pointe de la Masse, Les Menuires",
+      "url": "https://www.remontees-mecaniques.net/forums/index.php?showtopic=41608"
+    },
+    {
+      "name": "Komoot — Pointe de la Masse",
+      "url": "https://www.komoot.com/highlight/3279155"
+    }
+  ],
+  "sparse_data": false,
+  "status": "draft",
+  "type": "transport",
+  "verify_flags": [
+    "CE N'EST PAS UN TÉLÉPHÉRIQUE — l'appareil est une TÉLÉCABINE débrayable 10 places (TCD10), désignée « gondola lift » par Les Menuires. La confusion est facile à 2 804 m et elle est fausse. Toute fiche, tout slug ou tout titre disant « téléphérique de la Pointe de la Masse » désigne un appareil qui n'existe pas.",
+    "FERMÉE DU JEUDI AU SAMEDI INCLUS — c'est le fait le plus lourd de conséquence de cette fiche. La télécabine ne tourne que du dimanche au mercredi, alors que tout le reste du domaine des Menuires est ouvert 7 jours sur 7. Un visiteur qui monte un vendredi trouve l'appareil à l'arrêt. Même classe de piège que le Vanoise Express.",
+    "DEUX SAISONS PUBLIÉES — Les 3 Vallées donnent Les Menuires du 04/07 au 28/08 2026 ; une source secondaire écrit « du 5 juillet au 29 août » pour cet appareil. Un jour d'écart à chaque bout, non arbitré.",
+    "LA PAGE DES 3 VALLÉES SE CONTREDIT — elle annonce une saison globale « July 4 – August 28, 2026 » puis donne Courchevel et Orelle jusqu'au 30/08 et Méribel jusqu'au 29/08. Pour Les Menuires les deux dates coïncident, mais la page n'est pas fiable comme référence globale.",
+    "TARIFS NON CONFIRMÉS PAR L'EXPLOITANT — 26,00 € en montée simple et 19,50 € avec pass ascensionnel proviennent d'un relevé de recherche, pas d'une page tarifaire des Menuires. Le supplément pour la cabine à plancher de verre n'est pas chiffré. À reconfirmer avant publication.",
+    "« 1 000 M DE DÉNIVELÉ EN 8 MINUTES » EST UNE FORMULE DE L'EXPLOITANT — elle implique une gare de départ vers 1 800 m, ce qu'aucune source ne confirme explicitement. Ne pas en déduire l'altitude du départ.",
+    "GPS = POINT DE VUE AU SOMMET — 45.299101 / 6.509023 vient de la ligne « Point de vue - Pointe de la Masse » de la queue DATAtourisme, pas de la gare de départ.",
+    "LES BELLEVILLE EST LA COMMUNE, LES MENUIRES LA STATION — Les Belleville (73440) regroupe Les Menuires, Val Thorens et Saint-Martin-de-Belleville, et pèse 131 POI dans la queue du 73, troisième commune du département. Écrire « commune des Menuires » serait faux.",
+    "ACCÈS À LA SALLE DES MACHINES INCLUS — Les Menuires l'annoncent « free access » avec le billet piéton. C'est inhabituel et vérifiable sur place ; aucune source ne précise les horaires de cette visite.",
+    "DURÉE, ANIMAUX, PMR, POUSSETTES : hors les 8 minutes annoncées, aucune source. Champs null."
+  ]
+}

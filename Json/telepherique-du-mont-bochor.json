@@ -1,0 +1,372 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-08",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "remontee-mecanique",
+  "commune": "Pralognan-la-Vanoise",
+  "date_modified_human": "8 août 2026",
+  "date_published_human": null,
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "checked": "2026-08-08",
+    "confidence": "low",
+    "flag_reason": "Aucun passage Google Places sur le 73 : champs de fraîcheur non renseignés.",
+    "google_match": null,
+    "google_status": "UNKNOWN",
+    "hours": null,
+    "outcome": "NOT_RUN",
+    "phone": null,
+    "place_id": null,
+    "rating": null,
+    "rating_count": null,
+    "registry": null,
+    "site_reachable": null,
+    "status": "UNVERIFIED",
+    "website": null
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": null,
+  "i18n": {
+    "en": {
+      "activities": [
+        {
+          "description": "The summit carries an orientation table, placed at 2,023 m on the promontory according to secondary sources.",
+          "tag": "Summer",
+          "title": "Ride up to Mont Bochor"
+        },
+        {
+          "description": "Several trails leave the summit, including those to the Col Rosset and the Col de la Vanoise, a gateway to the national park.",
+          "tag": "Summer",
+          "title": "Head for the Col de la Vanoise"
+        },
+        {
+          "description": "The tourist office runs a behind-the-scenes guided visit of the machinery. No dates or price recorded.",
+          "tag": null,
+          "title": "Tour the cable car machinery"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Mont-Bochor cable car</strong> climbs from the village of Pralognan-la-Vanoise to the Mont Bochor promontory, where an orientation table stands at 2,023 m according to secondary sources. It is the most direct mechanised access to the Col Rosset and Col de la Vanoise trails, one of the gateways to the national park.</p><p>Two timetable details govern a visit. First a <strong>midday break</strong>: the machine stops from 12:45 to 13:30. Second, the June pattern: <strong>from 6 to 26 June 2026 it runs only on Wednesdays, Saturdays and Sundays</strong>, going daily only from 27 June until 30 August.</p><p>The tourist office publishes no prices on its lifts page: the figures circulating elsewhere come from aggregators and are not repeated here.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Paid",
+        "best_season": "Summer (27 June – 30 August 2026)",
+        "commune": "Pralognan-la-Vanoise",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Cable car",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "From 27 June to 30 August 2026, daily. From 6 to 26 June, on Wednesdays, Saturdays and Sundays only.",
+          "q": "When does the Mont-Bochor cable car run in summer 2026?"
+        },
+        {
+          "a": "08:15 to 12:45, then 13:30 to 17:10. There is indeed a 45-minute break at midday.",
+          "q": "What are the hours?"
+        },
+        {
+          "a": "Secondary sources place the orientation table at 2,023 m on the promontory. No source gives the altitude of the top station itself, and the official page gives none at all.",
+          "q": "How high does the cable car go?"
+        },
+        {
+          "a": "The tourist office's official page publishes no prices and points to a separate ticketing site. Figures circulating elsewhere are unconfirmed and are not repeated here.",
+          "q": "How much does the ride cost?"
+        },
+        {
+          "a": "Yes: the Col Rosset and Col de la Vanoise trails leave from the summit, the latter being a gateway to the Vanoise national park. Park regulations are documented by none of the sources consulted.",
+          "q": "Can you hike from the top?"
+        }
+      ],
+      "hero": {
+        "badge": "Paid · Closed 12:45–13:30",
+        "lead": "The Mont-Bochor cable car climbs from Pralognan to the promontory and its orientation table at 2,023 m. In June it runs only three days a week."
+      },
+      "hero_alt": "Mont-Bochor cable car, Pralognan-la-Vanoise, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Bottom station in the village of Pralognan-la-Vanoise. The GPS point on this page is a summit trail, not the bottom station.",
+        "public_transport": null
+      },
+      "meta_description": "Cable car from Pralognan to the Mont Bochor promontory and its orientation table at 2,023 m. Closed 12:45–13:30; in June it runs three days a week.",
+      "meta_title": "Mont-Bochor Cable Car (Pralognan) · Summer 2026 hours",
+      "name": "Mont-Bochor Cable Car",
+      "name_alternates": [
+        "Mont Bochor",
+        "Pralognan cable car"
+      ],
+      "practical_info": [
+        {
+          "k": "Type",
+          "v": "Cable car"
+        },
+        {
+          "k": "Altitude",
+          "v": "Orientation table at 2,023 m on the promontory (secondary sources). The top station's altitude is published by no source."
+        },
+        {
+          "k": "Summer 2026",
+          "v": "27 June to 30 August 2026, daily. From 6 to 26 June 2026, Wednesdays, Saturdays and Sundays only.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Hours",
+          "v": "08:15–12:45 and 13:30–17:10. A 45-minute midday break.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Frequency",
+          "v": "One departure every 20 minutes (secondary sources)"
+        },
+        {
+          "k": "Coordinates",
+          "v": "45.386327° N, 6.730179° E — a summit trail per the DATAtourisme queue, not the bottom station in the village"
+        },
+        {
+          "k": "Price",
+          "v": null
+        },
+        {
+          "k": "At the top",
+          "v": "Orientation table, trailheads for the Col Rosset and the Col de la Vanoise, and a mountain-bike route"
+        },
+        {
+          "k": "Journey time",
+          "v": null
+        },
+        {
+          "k": "Dogs",
+          "v": null
+        },
+        {
+          "k": "Accessibility",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Cable car",
+        "Orientation table",
+        "Trailhead"
+      ],
+      "when_to_visit": "<p>Daily running from 27 June to 30 August 2026. Before that, from 6 to 26 June, Wednesdays, Saturdays and Sundays only. In every case, allow for the 12:45–13:30 break.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Le sommet porte une table d'orientation, située à 2 023 m sur le promontoire selon les sources secondaires.",
+          "tag": "Été",
+          "title": "Monter au Mont Bochor"
+        },
+        {
+          "description": "Du sommet partent plusieurs sentiers, dont ceux du col Rosset et du col de la Vanoise, porte d'entrée du parc national.",
+          "tag": "Été",
+          "title": "Partir vers le col de la Vanoise"
+        },
+        {
+          "description": "L'office de tourisme programme une visite commentée des coulisses de l'appareil. Ni dates ni tarif relevés.",
+          "tag": null,
+          "title": "Visiter les coulisses du téléphérique"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Le <strong>téléphérique du Mont-Bochor</strong> monte du village de Pralognan-la-Vanoise vers le promontoire du Mont Bochor, où une table d'orientation est située à 2 023 m selon les sources secondaires. C'est l'accès mécanisé le plus direct vers les sentiers du col Rosset et du col de la Vanoise, l'une des portes du parc national.</p><p>Deux détails d'horaire commandent la visite. D'abord une <strong>coupure méridienne</strong> : l'appareil s'arrête de 12h45 à 13h30. Ensuite le régime de juin : <strong>du 6 au 26 juin 2026, il ne tourne que les mercredis, samedis et dimanches</strong>, et ne passe en exploitation quotidienne qu'à partir du 27 juin, jusqu'au 30 août.</p><p>L'office de tourisme ne publie aucun tarif sur sa page des remontées : les montants qui circulent viennent de relais et ne sont pas repris ici.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Payant",
+        "best_season": "Été (27 juin – 30 août 2026)",
+        "commune": "Pralognan-la-Vanoise",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Téléphérique",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Du 27 juin au 30 août 2026, tous les jours. Du 6 au 26 juin, uniquement les mercredis, samedis et dimanches.",
+          "q": "Quand le téléphérique du Mont-Bochor fonctionne-t-il en été 2026 ?"
+        },
+        {
+          "a": "De 8h15 à 12h45, puis de 13h30 à 17h10. Il y a bien une coupure de 45 minutes à la mi-journée.",
+          "q": "Quels sont les horaires ?"
+        },
+        {
+          "a": "Les sources secondaires situent la table d'orientation à 2 023 m sur le promontoire. Aucune source ne donne l'altitude de la gare d'arrivée elle-même, et la page officielle n'en donne aucune.",
+          "q": "À quelle altitude arrive le téléphérique ?"
+        },
+        {
+          "a": "La page officielle de l'office de tourisme ne publie aucun tarif et renvoie vers une billetterie séparée. Les montants qui circulent ailleurs ne sont pas confirmés et ne sont pas repris ici.",
+          "q": "Combien coûte la montée ?"
+        },
+        {
+          "a": "Oui : les sentiers du col Rosset et du col de la Vanoise partent du sommet, ce dernier étant une porte d'entrée du parc national de la Vanoise. La réglementation du parc n'est documentée par aucune des sources consultées.",
+          "q": "Peut-on randonner depuis le sommet ?"
+        }
+      ],
+      "hero": {
+        "badge": "Payant · Coupure de 12h45 à 13h30",
+        "lead": "Le téléphérique du Mont-Bochor monte de Pralognan vers le promontoire et sa table d'orientation, à 2 023 m. En juin, il ne tourne que trois jours par semaine."
+      },
+      "hero_alt": "Téléphérique du Mont-Bochor, Pralognan-la-Vanoise, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Gare de départ au village de Pralognan-la-Vanoise. Le point GPS de cette fiche est celui d'un sentier au sommet, pas de la gare de départ.",
+        "public_transport": null
+      },
+      "meta_description": "Téléphérique de Pralognan vers le promontoire du Mont Bochor et sa table d'orientation à 2 023 m. Coupure de 12h45 à 13h30 ; en juin, trois jours par semaine.",
+      "meta_title": "Téléphérique du Mont-Bochor (Pralognan) · Horaires été 2026",
+      "name": "Téléphérique du Mont-Bochor",
+      "name_alternates": [
+        "Mont Bochor",
+        "Téléphérique de Pralognan"
+      ],
+      "practical_info": [
+        {
+          "k": "Type",
+          "v": "Téléphérique"
+        },
+        {
+          "k": "Altitude",
+          "v": "Table d'orientation à 2 023 m sur le promontoire (sources secondaires). L'altitude de la gare d'arrivée n'est publiée par aucune source."
+        },
+        {
+          "k": "Été 2026",
+          "v": "Du 27 juin au 30 août 2026, tous les jours. Du 6 au 26 juin 2026, uniquement les mercredis, samedis et dimanches.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Horaires",
+          "v": "8h15–12h45 et 13h30–17h10. Coupure méridienne de 45 minutes.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Fréquence",
+          "v": "Une rotation toutes les 20 minutes (sources secondaires)"
+        },
+        {
+          "k": "Coordonnées",
+          "v": "45.386327° N, 6.730179° E — sentier au sommet selon la queue DATAtourisme, pas la gare de départ au village"
+        },
+        {
+          "k": "Tarif",
+          "v": null
+        },
+        {
+          "k": "Au sommet",
+          "v": "Table d'orientation, départ de sentiers vers le col Rosset et le col de la Vanoise, et d'un itinéraire VTT"
+        },
+        {
+          "k": "Durée du trajet",
+          "v": null
+        },
+        {
+          "k": "Animaux",
+          "v": null
+        },
+        {
+          "k": "Accessibilité",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Téléphérique",
+        "Table d'orientation",
+        "Départ de randonnées"
+      ],
+      "when_to_visit": "<p>Exploitation quotidienne du 27 juin au 30 août 2026. Avant cela, du 6 au 26 juin, seulement les mercredis, samedis et dimanches. Dans tous les cas, tenir compte de la coupure de 12h45 à 13h30.</p>"
+    }
+  },
+  "latitude": 45.386327,
+  "longitude": 6.730179,
+  "official_site_url": "https://www.pralognan.com/remontees-mecaniques-ete/",
+  "partners": [],
+  "postal_code": "73710",
+  "price_currency": null,
+  "price_from": null,
+  "price_tiers": [],
+  "research_log": [
+    "Page officielle de l'office de tourisme (remontées mécaniques été) : du 6 au 26 juin 2026, exploitation les mercredis, samedis et dimanches ; du 27 juin au 30 août 2026, tous les jours ; horaires « 8h15 à 12h45 et de 13h30 à 17h10 ». La page ne donne ni tarif, ni altitude d'arrivée, ni fréquence, ni information sur les animaux ou l'accessibilité.",
+    "Sources secondaires : table d'orientation à 2 023 m sur le promontoire du Mont-Bochor ; rotation toutes les 20 minutes ; tarifs « à partir de 11 € » ; gratuité annoncée pour les moins de 5 ans.",
+    "Du sommet partent un itinéraire VTT et plusieurs sentiers, dont ceux du col Rosset et du col de la Vanoise — ce dernier étant une porte d'entrée du parc national de la Vanoise.",
+    "L'office de tourisme programme une visite commentée « Les coulisses du téléphérique ».",
+    "Queue DATAtourisme : les coordonnées retenues viennent de la ligne « Sentier de découverte du Mont Bochor » (45.386327 / 6.730179), un sentier au sommet, et non de la gare de départ au village."
+  ],
+  "schema_org": {
+    "amenities": [
+      "Téléphérique",
+      "Table d'orientation",
+      "Départ de randonnées"
+    ],
+    "is_free": false,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "telepherique-du-mont-bochor",
+  "sources": [
+    {
+      "name": "Pralognan-la-Vanoise — remontées mécaniques été",
+      "url": "https://www.pralognan.com/remontees-mecaniques-ete/"
+    },
+    {
+      "name": "Pralognan-la-Vanoise — téléphérique du Mont-Bochor",
+      "url": "https://www.pralognan.com/prestataire/telepherique-du-mont-bochor-247068/"
+    },
+    {
+      "name": "Pralognan-la-Vanoise — visite commentée : les coulisses du téléphérique",
+      "url": "https://www.pralognan.com/evenement/visite-commentee-les-coulisses-du-telepherique-6179620/"
+    },
+    {
+      "name": "Pralognan-la-Vanoise — sentier découverte du Mont Bochor",
+      "url": "https://www.pralognan.com/prestataire/sentier-decouverte-du-mont-bochor-sentier-pedestre-866262/"
+    },
+    {
+      "name": "Auvergne-Rhône-Alpes Tourisme — téléphérique du Mont-Bochor",
+      "url": "https://www.auvergnerhonealpes-tourisme.com/fiches/telepherique-du-mont-bochor/"
+    },
+    {
+      "name": "Cirkwi — téléphérique du Mont Bochor",
+      "url": "https://www.cirkwi.com/en/point-interet/1327990-mont-bochor-cable-car"
+    },
+    {
+      "name": "Petit Futé — téléphérique du Mont-Bochor",
+      "url": "https://www.petitfute.co.uk/v36461-pralognan-la-vanoise-73710/c1171-sports-loisirs/c291-loisirs-et-sports-d-hiver-montagne/432767-telepherique-du-mont-bochor.html"
+    },
+    {
+      "name": "Ville-data — téléphérique du Mont-Bochor, Pralognan-la-Vanoise",
+      "url": "https://ville-data.com/que-faire/loisirs-sports/Telepherique-du-Mont-Bochor/Pralognan-la-Vanoise/73-24993-73206"
+    },
+    {
+      "name": "Wikipedia (EN) — Pralognan-la-Vanoise",
+      "url": "https://en.wikipedia.org/wiki/Pralognan-la-Vanoise"
+    }
+  ],
+  "sparse_data": false,
+  "status": "draft",
+  "type": "transport",
+  "verify_flags": [
+    "COUPURE MÉRIDIENNE DE 45 MINUTES — l'appareil s'arrête de 12h45 à 13h30. C'est publié par l'office de tourisme mais absent de la plupart des relais. Un visiteur qui arrive à 13h attend trois quarts d'heure. Même piège que le Vanoise Express.",
+    "DEUX RÉGIMES D'EXPLOITATION EN JUIN — du 6 au 26 juin 2026, l'appareil ne tourne QUE les mercredis, samedis et dimanches ; il ne passe en exploitation quotidienne qu'à partir du 27 juin. Une phrase « ouvert de juin à fin août » est trompeuse pour les trois premières semaines.",
+    "ALTITUDE DE 2 023 M ATTACHÉE À LA TABLE D'ORIENTATION, PAS À LA GARE — les sources secondaires situent la table d'orientation à 2 023 m sur le promontoire. Aucune ne donne l'altitude de la gare d'arrivée du téléphérique, qui n'est pas nécessairement le même point. La page officielle ne donne aucune altitude.",
+    "TARIFS NON PUBLIÉS PAR L'EXPLOITANT — « à partir de 11 € » et la gratuité pour les moins de 5 ans viennent de relais secondaires. La page officielle de l'office de tourisme ne porte aucun tarif et renvoie vers une billetterie séparée. Champs price_from et price_tiers laissés vides : un tarif approximatif sur une remontée est une promesse qu'on ne tient pas au guichet.",
+    "FRÉQUENCE DE 20 MINUTES À SOURÇAGE SECONDAIRE — aucune source officielle ne la confirme.",
+    "GPS = SENTIER AU SOMMET, PAS LA GARE DE DÉPART — 45.386327 / 6.730179 vient de la ligne « Sentier de découverte du Mont Bochor » de la queue DATAtourisme. La gare de départ est au village de Pralognan, plus bas. Ne pas calculer de dénivelé depuis ce point.",
+    "PORTE DU PARC NATIONAL DE LA VANOISE — les sentiers du col de la Vanoise partent du sommet. La réglementation du parc (chiens, bivouac, cueillette) s'applique en aval du téléphérique et n'est documentée par aucune des sources consultées ici. Ne rien affirmer sur les chiens : à 2 000 m, à l'entrée d'un parc national, c'est la question qui se pose le plus et celle sur laquelle on a le moins de données.",
+    "APPAREIL BIEN UN TÉLÉPHÉRIQUE — contrairement à la Pointe de la Masse de ce même lot, toutes les sources consultées le désignent comme téléphérique. La désignation est cohérente.",
+    "VISITE « LES COULISSES DU TÉLÉPHÉRIQUE » PROGRAMMÉE mais ni dates, ni horaires, ni tarif relevés. Ne pas l'annoncer comme une offre permanente.",
+    "DURÉE DU TRAJET, PMR, POUSSETTES : aucune source. Champs null."
+  ]
+}

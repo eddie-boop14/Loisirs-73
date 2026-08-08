@@ -1,0 +1,372 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-08",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "point-de-vue",
+  "commune": "Courchevel",
+  "date_modified_human": "8 août 2026",
+  "date_published_human": null,
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "checked": "2026-08-08",
+    "confidence": "low",
+    "flag_reason": "Aucun passage Google Places sur le 73 : champs de fraîcheur non renseignés.",
+    "google_match": null,
+    "google_status": "UNKNOWN",
+    "hours": null,
+    "outcome": "NOT_RUN",
+    "phone": null,
+    "place_id": null,
+    "rating": null,
+    "rating_count": null,
+    "registry": null,
+    "site_reachable": null,
+    "status": "UNVERIFIED",
+    "website": null
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": null,
+  "i18n": {
+    "en": {
+      "activities": [
+        {
+          "description": "7 km from the Méribel altiport, 1,673 m to 2,304 m, with frequent gradient changes and a wall given at 23% before the pass. The tourist office recommends an e-bike.",
+          "tag": "Summer",
+          "title": "Climb the Méribel side"
+        },
+        {
+          "description": "6.5 km of dedicated road from Courchevel. This side was built in autumn 2018 and officially opened on 18 May 2019.",
+          "tag": "Summer",
+          "title": "Climb the Courchevel side"
+        },
+        {
+          "description": "The pass is the first stage of the Via 3 Vallées, a high-altitude network reserved for non-motorised two-wheelers.",
+          "tag": null,
+          "title": "Follow the Via 3 Vallées"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Col de la Loze</strong> tops out at 2,304 m between Courchevel and Méribel. It is not a road pass: the route is <strong>reserved for bicycles and e-bikes</strong>, and cars are banned. That is the most surprising fact about it, and the one not to get wrong.</p><p>The road was built in two stages: the Courchevel side in autumn 2018, officially opened on 18 May 2019, then the Méribel side in summer 2019. It runs 7 km on the Méribel side from the altiport, starting at 1,673 m, and 6.5 km on the Courchevel side. The Méribel tourist office reports frequent gradient changes above 20%, and a wall at 23% before the pass.</p><p>One correction is needed: meribel.net presents the Loze as \"the highest mountain pass of the Tour de France\". That is inaccurate. At 2,304 m it is well below the Col de l'Iseran, at 2,770 m, also crossed by the Tour.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free · Bicycles only",
+        "best_season": "Summer",
+        "commune": "Courchevel",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "High-altitude cycle road and viewpoint",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "2,304 m. Every source consulted agrees.",
+          "q": "How high is the Col de la Loze?"
+        },
+        {
+          "a": "No. The route is reserved for bicycles and e-bikes; cars are banned. That is what makes the pass unusual.",
+          "q": "Can you drive up the Col de la Loze?"
+        },
+        {
+          "a": "No. At 2,304 m it is well below the Col de l'Iseran (2,770 m), also crossed by the Tour. The wording used by meribel.net is inaccurate: the Loze was the highest stage finish of its edition, which is a different claim.",
+          "q": "Is the Col de la Loze the highest pass of the Tour de France?"
+        },
+        {
+          "a": "7 km from the Méribel altiport, starting at 1,673 m, and 6.5 km from Courchevel.",
+          "q": "How long is the climb?"
+        },
+        {
+          "a": "No official source publishes an opening period for the cycle road. The Les 3 Vallées dates cover the ski lifts, not the road.",
+          "q": "When is the road open?"
+        }
+      ],
+      "hero": {
+        "badge": "Bicycles only · 2,304 m",
+        "lead": "The Col de la Loze links Courchevel to Méribel at 2,304 m on a road closed to cars. Seven kilometres on the Méribel side, 6.5 on the Courchevel side, and a 23% wall."
+      },
+      "hero_alt": "Col de la Loze between Courchevel and Méribel, Savoie",
+      "how_to_get_there": {
+        "bike": "Méribel side: 7 km from the altiport, 1,673 m to 2,304 m, gradients frequently above 20% and a wall given at 23% before the pass. Courchevel side: 6.5 km of dedicated road. The Méribel tourist office recommends an e-bike.",
+        "car": "Not possible: the route is reserved for bicycles and e-bikes. Cars cannot reach the pass.",
+        "public_transport": null
+      },
+      "meta_description": "Pass at 2,304 m between Courchevel and Méribel, reserved for bicycles: cars banned. 7 km on the Méribel side, 6.5 on the Courchevel side, a 23% wall.",
+      "meta_title": "Col de la Loze · 2,304 m, bicycles-only road",
+      "name": "Col de la Loze",
+      "name_alternates": [
+        "La Loze",
+        "Col de la Loze (Via 3 Vallées)"
+      ],
+      "practical_info": [
+        {
+          "k": "Altitude",
+          "v": "2,304 m"
+        },
+        {
+          "k": "Coordinates",
+          "v": "45.407339° N, 6.602635° E (DATAtourisme queue, \"Point de vue - Col de la Loze\" row). No official source publishes coordinates."
+        },
+        {
+          "k": "Access",
+          "v": "Reserved for bicycles and e-bikes. Cars banned."
+        },
+        {
+          "k": "Length",
+          "v": "7 km on the Méribel side from the altiport, starting at 1,673 m · 6.5 km on the Courchevel side"
+        },
+        {
+          "k": "Gradient",
+          "v": "Frequent changes above 20%, wall given at 23% before the pass (meribel.net, uncorroborated)"
+        },
+        {
+          "k": "Seasonal opening",
+          "v": null
+        },
+        {
+          "k": "Price",
+          "v": "Free, open access"
+        },
+        {
+          "k": "Construction",
+          "v": "Courchevel side autumn 2018, official opening 18 May 2019; Méribel side summer 2019 (courchevel.com)"
+        },
+        {
+          "k": "Tour de France",
+          "v": "Stages in 2020 and 2023 per meribel.net. No other source consulted confirms this."
+        },
+        {
+          "k": "Parking",
+          "v": null
+        },
+        {
+          "k": "Dogs",
+          "v": null
+        },
+        {
+          "k": "Accessibility",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Cycle road",
+        "Viewpoint"
+      ],
+      "when_to_visit": "<p>The route is a high-altitude road, rideable in summer. No official source publishes opening or closing dates: do not transpose the Les 3 Vallées lift dates, which do not apply to this road.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "7 km depuis l'altiport de Méribel, de 1 673 m à 2 304 m, avec des changements de pente fréquents et un mur donné à 23 % avant le col. Le VAE est recommandé par l'office de tourisme.",
+          "tag": "Été",
+          "title": "Monter par le versant Méribel"
+        },
+        {
+          "description": "6,5 km de voie dédiée depuis Courchevel. Le versant a été construit à l'automne 2018 et officiellement ouvert le 18 mai 2019.",
+          "tag": "Été",
+          "title": "Monter par le versant Courchevel"
+        },
+        {
+          "description": "Le col est la première étape de la Via 3 Vallées, un réseau d'altitude réservé aux deux-roues non motorisés.",
+          "tag": null,
+          "title": "Suivre la Via 3 Vallées"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Le <strong>col de la Loze</strong> culmine à 2 304 m entre Courchevel et Méribel. Ce n'est pas un col routier : la voie est <strong>réservée aux vélos et aux VAE</strong>, les voitures y sont interdites. C'est le point qui surprend le plus, et celui qu'il ne faut pas se tromper.</p><p>La route a été construite en deux temps : le versant Courchevel à l'automne 2018, ouvert officiellement le 18 mai 2019, puis le versant Méribel à l'été 2019. Elle compte 7 km côté Méribel depuis l'altiport, à partir de 1 673 m, et 6,5 km côté Courchevel. L'office de tourisme de Méribel annonce des changements de pente fréquents dépassant 20 %, et un mur à 23 % avant le col.</p><p>Une précision s'impose : meribel.net présente la Loze comme « le plus haut col du Tour de France ». C'est inexact. À 2 304 m elle est nettement en dessous du col de l'Iseran, à 2 770 m, lui aussi franchi par le Tour.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Libre · Réservé aux vélos",
+        "best_season": "Été",
+        "commune": "Courchevel",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Route cyclable d'altitude et point de vue",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "2 304 m. Toutes les sources consultées concordent.",
+          "q": "Quelle est l'altitude du col de la Loze ?"
+        },
+        {
+          "a": "Non. La voie est réservée aux vélos et aux VAE ; les voitures y sont interdites. C'est la particularité du col.",
+          "q": "Peut-on monter au col de la Loze en voiture ?"
+        },
+        {
+          "a": "Non. À 2 304 m, il est nettement plus bas que le col de l'Iseran (2 770 m), également franchi par le Tour. La formule employée par meribel.net est inexacte : la Loze a été la plus haute arrivée d'étape de son édition, ce qui est différent.",
+          "q": "Le col de la Loze est-il le plus haut col du Tour de France ?"
+        },
+        {
+          "a": "7 km depuis l'altiport de Méribel, à partir de 1 673 m, et 6,5 km depuis Courchevel.",
+          "q": "Quelle est la longueur de la montée ?"
+        },
+        {
+          "a": "Aucune source officielle ne publie de période d'ouverture de la voie cyclable. Les dates des 3 Vallées concernent les remontées mécaniques, pas la route.",
+          "q": "À quelles dates la route est-elle ouverte ?"
+        }
+      ],
+      "hero": {
+        "badge": "Réservé aux vélos · 2 304 m",
+        "lead": "Le col de la Loze relie Courchevel à Méribel à 2 304 m par une route interdite aux voitures. Sept kilomètres côté Méribel, 6,5 côté Courchevel, et un mur à 23 %."
+      },
+      "hero_alt": "Col de la Loze entre Courchevel et Méribel, Savoie",
+      "how_to_get_there": {
+        "bike": "Versant Méribel : 7 km depuis l'altiport, de 1 673 m à 2 304 m, pentes fréquemment supérieures à 20 % et un mur donné à 23 % avant le col. Versant Courchevel : 6,5 km de voie dédiée. Le VAE est recommandé par l'office de tourisme de Méribel.",
+        "car": "Impossible : la voie est réservée aux vélos et aux VAE. Les voitures ne peuvent pas monter au col.",
+        "public_transport": null
+      },
+      "meta_description": "Col à 2 304 m entre Courchevel et Méribel, réservé aux vélos : voitures interdites. 7 km côté Méribel, 6,5 côté Courchevel, un mur à 23 %.",
+      "meta_title": "Col de la Loze · 2 304 m, route réservée aux vélos",
+      "name": "Col de la Loze",
+      "name_alternates": [
+        "La Loze",
+        "Col de la Loze (Via 3 Vallées)"
+      ],
+      "practical_info": [
+        {
+          "k": "Altitude",
+          "v": "2 304 m"
+        },
+        {
+          "k": "Coordonnées",
+          "v": "45.407339° N, 6.602635° E (queue DATAtourisme, ligne « Point de vue - Col de la Loze »). Aucune source officielle ne publie de coordonnées."
+        },
+        {
+          "k": "Accès",
+          "v": "Réservé aux vélos et aux VAE. Voitures interdites."
+        },
+        {
+          "k": "Longueur",
+          "v": "7 km côté Méribel depuis l'altiport, départ à 1 673 m · 6,5 km côté Courchevel"
+        },
+        {
+          "k": "Pente",
+          "v": "Changements fréquents dépassant 20 %, mur donné à 23 % avant le col (meribel.net, non recoupé)"
+        },
+        {
+          "k": "Ouverture saisonnière",
+          "v": null
+        },
+        {
+          "k": "Tarif",
+          "v": "Gratuit, accès libre"
+        },
+        {
+          "k": "Construction",
+          "v": "Versant Courchevel à l'automne 2018, ouverture officielle le 18 mai 2019 ; versant Méribel à l'été 2019 (courchevel.com)"
+        },
+        {
+          "k": "Tour de France",
+          "v": "Étapes en 2020 et 2023 selon meribel.net. Aucune autre source consultée ne le confirme."
+        },
+        {
+          "k": "Parking",
+          "v": null
+        },
+        {
+          "k": "Animaux",
+          "v": null
+        },
+        {
+          "k": "Accessibilité",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Route cyclable",
+        "Point de vue"
+      ],
+      "when_to_visit": "<p>La voie est une route d'altitude, praticable l'été. Aucune source officielle ne publie de dates d'ouverture ou de fermeture : ne pas transposer les dates des remontées mécaniques des 3 Vallées, qui ne concernent pas cette route.</p>"
+    }
+  },
+  "latitude": 45.407339,
+  "longitude": 6.602635,
+  "official_site_url": "https://courchevel.com/en/a/the-col-de-la-loze-1st-stage-of-the-via-3-vallees-5237408/",
+  "partners": [],
+  "postal_code": "73120",
+  "price_currency": null,
+  "price_from": null,
+  "price_tiers": [],
+  "research_log": [
+    "Méribel Tourisme : altitude 2 304 m ; voie verte « exclusively reserved for bicycles », 7 km depuis l'altiport de Méribel, départ 1 673 m, arrivée 2 304 m ; changements de pente fréquents « some exceeding 20% » et un mur à 23 % avant le col ; VAE recommandé ; étapes du Tour de France 2020 et 2023 ; la page qualifie le col de « the highest mountain pass of the Tour de France ».",
+    "Courchevel Tourisme : le col est la 1re étape de la Via 3 Vallées ; voies dédiées de 7 km côté Méribel et 6,5 km côté Courchevel ; construction en deux temps, versant Courchevel à l'automne 2018 (ouverture officielle le 18 mai 2019) puis versant Méribel à l'été 2019.",
+    "Queue DATAtourisme du 73 : le col apparaît sous DEUX communes — « Courchevel - Col de la Loze » sous 73120 Courchevel et « Point de vue - Col de la Loze » sous 73550 Les Allues (45.407339 / 6.602635). Les deux stations le revendiquent.",
+    "Recoupement interne au dépôt : la fiche col-de-l-iseran de ce même dépôt documente un col du Tour de France à 2 770 m, soit 466 m au-dessus du col de la Loze. Le superlatif de meribel.net est donc contredit par nos propres données."
+  ],
+  "schema_org": {
+    "amenities": [
+      "Route cyclable",
+      "Point de vue"
+    ],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "col-de-la-loze",
+  "sources": [
+    {
+      "name": "Courchevel Tourisme — le col de la Loze, 1re étape de la Via 3 Vallées",
+      "url": "https://courchevel.com/en/a/the-col-de-la-loze-1st-stage-of-the-via-3-vallees-5237408/"
+    },
+    {
+      "name": "Méribel Tourisme — col de la Loze",
+      "url": "https://www.meribel.net/les-sites-a-decouvrir/col-de-la-loze/"
+    },
+    {
+      "name": "Infosnews — nouveau : le col de la Loze",
+      "url": "https://www.infosnews.fr/fr/stations/courchevel/loisirs/nouveau-le-col-de-la-loze"
+    },
+    {
+      "name": "France Bleu — une nouvelle route d'altitude dédiée aux cyclistes à Courchevel",
+      "url": "https://www.francebleu.fr/infos/climat-environnement/une-nouvelle-route-d-altitude-dediee-aux-cyclistes-a-courchevel-1557246683"
+    },
+    {
+      "name": "Cols-cyclisme — col de la Loze depuis Brides-les-Bains via Méribel",
+      "url": "https://www.cols-cyclisme.com/vanoise/france/col-de-la-loze-depuis-brides-les-bains-via-meribel-c3612.htm"
+    },
+    {
+      "name": "Route des Grandes Alpes — col de la Loze, guide d'ascension",
+      "url": "https://en.routedesgrandesalpes.com/grands-cols/col-de-la-loze"
+    },
+    {
+      "name": "Alpes4ever — col de la Loze",
+      "url": "https://alpes4ever.com/france/savoie/les-plus-de-2000-m/col-de-la-loze/"
+    },
+    {
+      "name": "Explore la Vanoise — col de la Loze à vélo, entre Méribel et Courchevel",
+      "url": "https://rando.vanoise.com/fr/trek/62328-Col-de-la-Loze-a-velo%2C-entre-Meribel-et-Couchevel"
+    },
+    {
+      "name": "Les 3 Vallées — ouvertures été 2026",
+      "url": "https://www.les3vallees.com/en/news/3-vallees-openings"
+    }
+  ],
+  "sparse_data": false,
+  "status": "draft",
+  "type": "nature",
+  "verify_flags": [
+    "SUPERLATIF FAUX SUR LA PAGE DE L'OFFICE DE TOURISME — meribel.net écrit que le col de la Loze est « the highest mountain pass of the Tour de France ». À 2 304 m il ne l'est pas : le col de l'Iseran, documenté à 2 770 m par notre propre fiche, est franchi par le Tour, et la Cime de la Bonette est plus haute encore. Le col de la Loze a été la plus haute ARRIVÉE d'étape de son édition, ce qui n'est pas la même chose. Ne jamais reprendre la formule.",
+    "ROUTE INTERDITE AUX VOITURES — c'est le fait central et il est contre-intuitif pour un « col ». La voie est réservée aux vélos et VAE. Une fiche qui donnerait un itinéraire voiture ou un parking au col enverrait un automobiliste sur une route où il n'a pas le droit d'être.",
+    "DEUX COMMUNES REVENDIQUENT LE COL — la queue DATAtourisme le liste sous Courchevel (73120) ET sous Les Allues (73550), et les deux offices de tourisme le documentent. Le col est sur la limite. La fiche retient Courchevel parce que courchevel.com porte la page de référence de la Via 3 Vallées ; ce n'est pas une donnée cadastrale.",
+    "DEUX LONGUEURS SELON LE VERSANT, À NE PAS CONFONDRE — 7 km côté Méribel (départ 1 673 m) et 6,5 km côté Courchevel. meribel.net décrit le versant Méribel ; courchevel.com donne les deux. Un chiffre unique de « 7 km » sans versant est ambigu.",
+    "AUCUNE DATE D'OUVERTURE SAISONNIÈRE PUBLIÉE — ni meribel.net ni courchevel.com ne donnent de période d'ouverture de la route cyclable. Les dates des 3 Vallées (04/07–29/08 pour Méribel) concernent les REMONTÉES MÉCANIQUES, pas la voie verte. Ne pas les transposer.",
+    "PENTES MAXIMALES NON RECOUPÉES — « plus de 20 % » et « un mur à 23 % » ne viennent que de meribel.net. Aucune source indépendante consultée ne confirme ces pourcentages.",
+    "DATE D'OUVERTURE HISTORIQUE PRÉCISE MAIS À UN SEUL SOURÇAGE — le 18 mai 2019 pour l'ouverture officielle du versant Courchevel ne vient que de courchevel.com.",
+    "ANNÉES DE TOUR DE FRANCE : 2020 et 2023 sont données par meribel.net. Aucune autre source consultée ne les confirme et aucun décompte de passages n'est publié ici.",
+    "TARIF, PARKING, TOILETTES, PMR, ANIMAUX AU COL : aucune source. Champs null. Sur une route interdite aux voitures, la question du parking au col n'a de toute façon pas de réponse.",
+    "GPS PRIS SUR LA LIGNE « Point de vue - Col de la Loze » DE LA QUEUE (Les Allues) — c'est un point de vue au col, pas nécessairement le point haut de la route. Aucune source officielle ne publie de coordonnées."
+  ]
+}

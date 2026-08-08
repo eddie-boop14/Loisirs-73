@@ -1,0 +1,388 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-08",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "remontee-mecanique",
+  "commune": "Champagny-en-Vanoise",
+  "date_modified_human": "8 août 2026",
+  "date_published_human": null,
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "checked": "2026-08-08",
+    "confidence": "low",
+    "flag_reason": "Aucun passage Google Places sur le 73 : champs de fraîcheur non renseignés.",
+    "google_match": null,
+    "google_status": "UNKNOWN",
+    "hours": null,
+    "outcome": "NOT_RUN",
+    "phone": null,
+    "place_id": null,
+    "rating": null,
+    "rating_count": null,
+    "registry": null,
+    "site_reachable": null,
+    "status": "UNVERIFIED",
+    "website": null
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": null,
+  "i18n": {
+    "en": {
+      "activities": [
+        {
+          "description": "From the top, a panorama over the Vanoise glaciers, the Grand Bec and the Grande Casse.",
+          "tag": "Summer",
+          "title": "Ride up for the Vanoise view"
+        },
+        {
+          "description": "The summit is a trailhead for walking routes and mountain-bike trails.",
+          "tag": "Summer",
+          "title": "Set off hiking or riding"
+        },
+        {
+          "description": "A four-ascent booklet is offered at €27, with no published validity period.",
+          "tag": null,
+          "title": "Buy four ascents"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Champagny gondola</strong> serves the high ground above Champagny-en-Vanoise, at the gates of the Vanoise national park. From the top, sources describe a panorama over the Vanoise glaciers, the Grand Bec and the Grande Casse — but none publishes the arrival altitude.</p><p>Two timetable constraints. The lift is <strong>closed on Saturdays</strong>, except on public holidays, and it stops <strong>from 12:45 to 14:00</strong>: an hour and a quarter, the longest break recorded across this repository's pages.</p><p>Its season is also offset from the rest of La Plagne: 5 July – 28 August here, against 4 July – 29 August for Roche de Mio and the Glaciers. A day shorter at each end, under the same brand.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Paid",
+        "best_season": "Summer (5 July – 28 August 2026)",
+        "commune": "Champagny-en-Vanoise",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Gondola",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "From 5 July to 28 August 2026, on Monday, Tuesday, Wednesday, Thursday, Friday, Sunday and public holidays, from 09:00 to 12:45 then 14:00 to 17:40.",
+          "q": "When does the Champagny gondola run in summer 2026?"
+        },
+        {
+          "a": "No, unless it falls on a public holiday. Saturday is the only weekday excluded.",
+          "q": "Does the gondola run on Saturdays?"
+        },
+        {
+          "a": "Yes, from 12:45 to 14:00. That is an hour and a quarter, the longest break recorded on this site.",
+          "q": "Is there a midday break?"
+        },
+        {
+          "a": "€9 adult and €7 child for a single ascent, or €27 for four ascents. No age bracket is published for the child fare, and the booklet has no announced validity period.",
+          "q": "How much does the ride cost?"
+        },
+        {
+          "a": "No source consulted publishes it, even though they all describe the panorama from the top.",
+          "q": "How high does the gondola go?"
+        }
+      ],
+      "hero": {
+        "badge": "Paid · Closed Saturdays · Break 12:45–14:00",
+        "lead": "The Champagny gondola opens the high ground at the gates of the Vanoise. Closed on Saturdays, and stopped for an hour and a quarter at midday."
+      },
+      "hero_alt": "Champagny gondola, Champagny-en-Vanoise, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Bottom station at Champagny-en-Vanoise. Published contact: 04 79 55 06 55, info.champagny@la-plagne.com.",
+        "public_transport": null
+      },
+      "meta_description": "Gondola at Champagny-en-Vanoise, at the gates of the Vanoise. Summer 2026: 5 July – 28 August, closed Saturdays, break 12:45–14:00. Ascent €9.",
+      "meta_title": "Champagny Gondola · Summer 2026 hours and prices",
+      "name": "Champagny Gondola",
+      "name_alternates": [
+        "Télécabine de Champagny",
+        "Champagny-en-Vanoise gondola"
+      ],
+      "practical_info": [
+        {
+          "k": "Type",
+          "v": "Detachable gondola, 8 to 10 places (TCD8/10, Poma). No operator source states the capacity in service."
+        },
+        {
+          "k": "Arrival altitude",
+          "v": null
+        },
+        {
+          "k": "Summer 2026",
+          "v": "5 July to 28 August 2026. A day later and a day earlier than Roche de Mio and the Glaciers, under the same brand.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Opening days",
+          "v": "Monday, Tuesday, Wednesday, Thursday, Friday, Sunday and public holidays. Closed Saturdays outside public holidays.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Hours",
+          "v": "09:00–12:45 and 14:00–17:40. Midday break of 1h15.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Prices",
+          "v": "Single ascent €9 adult, €7 child · four ascents €27. No age bracket or validity period published."
+        },
+        {
+          "k": "Coordinates",
+          "v": "45.456202° N, 6.693066° E (DATAtourisme queue)"
+        },
+        {
+          "k": "At the top",
+          "v": "Panorama over the Vanoise glaciers, the Grand Bec and the Grande Casse; trailhead for walking and mountain-bike routes"
+        },
+        {
+          "k": "Contact",
+          "v": "04 79 55 06 55 · info.champagny@la-plagne.com"
+        },
+        {
+          "k": "Journey time",
+          "v": null
+        },
+        {
+          "k": "Dogs",
+          "v": null
+        },
+        {
+          "k": "Accessibility",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Gondola",
+        "Viewpoint",
+        "Trailhead"
+      ],
+      "when_to_visit": "<p>5 July to 28 August 2026, every day except Saturday outside public holidays. Allow for the 12:45–14:00 break: that is an hour and a quarter, not a short pause.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Depuis le sommet, panorama sur les glaciers de la Vanoise, le Grand Bec et la Grande Casse.",
+          "tag": "Été",
+          "title": "Monter pour la vue sur la Vanoise"
+        },
+        {
+          "description": "Le sommet est un point de départ de sentiers de randonnée et d'itinéraires VTT.",
+          "tag": "Été",
+          "title": "Partir en randonnée ou en VTT"
+        },
+        {
+          "description": "Un carnet de quatre montées est proposé à 27 €, sans durée de validité publiée.",
+          "tag": null,
+          "title": "Prendre quatre montées"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>télécabine de Champagny</strong> dessert le domaine d'altitude au-dessus de Champagny-en-Vanoise, aux portes du parc national de la Vanoise. Du sommet, les sources décrivent un panorama sur les glaciers de la Vanoise, le Grand Bec et la Grande Casse — mais aucune ne publie l'altitude d'arrivée.</p><p>Deux contraintes d'horaire. L'appareil est <strong>fermé le samedi</strong>, sauf jour férié, et il s'arrête <strong>de 12h45 à 14h</strong> : une heure et quart de coupure, la plus longue relevée sur les fiches de ce dépôt.</p><p>Sa saison est aussi décalée du reste de La Plagne : 5 juillet – 28 août ici, contre 4 juillet – 29 août pour la Roche de Mio et les Glaciers. Un jour de moins à chaque bout, sous la même marque.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Payant",
+        "best_season": "Été (5 juillet – 28 août 2026)",
+        "commune": "Champagny-en-Vanoise",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Télécabine",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Du 5 juillet au 28 août 2026, les lundi, mardi, mercredi, jeudi, vendredi, dimanche et jours fériés, de 9h à 12h45 puis de 14h à 17h40.",
+          "q": "Quand la télécabine de Champagny fonctionne-t-elle en été 2026 ?"
+        },
+        {
+          "a": "Non, sauf s'il tombe un jour férié. Le samedi est le seul jour de la semaine exclu.",
+          "q": "La télécabine fonctionne-t-elle le samedi ?"
+        },
+        {
+          "a": "Oui, de 12h45 à 14h. C'est une heure et quart d'arrêt, la coupure la plus longue relevée sur ce site.",
+          "q": "Y a-t-il une coupure à la mi-journée ?"
+        },
+        {
+          "a": "9 € pour un adulte et 7 € pour un enfant en montée simple, ou 27 € les quatre montées. Aucune tranche d'âge n'est publiée pour le tarif enfant, et le carnet n'a pas de durée de validité annoncée.",
+          "q": "Combien coûte la montée ?"
+        },
+        {
+          "a": "Aucune source consultée ne la publie, alors que toutes décrivent le panorama depuis le sommet.",
+          "q": "À quelle altitude arrive la télécabine ?"
+        }
+      ],
+      "hero": {
+        "badge": "Payant · Fermée le samedi · Coupure 12h45–14h",
+        "lead": "La télécabine de Champagny ouvre le domaine d'altitude aux portes de la Vanoise. Fermée le samedi, et arrêtée une heure et quart à midi."
+      },
+      "hero_alt": "Télécabine de Champagny, Champagny-en-Vanoise, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Gare de départ à Champagny-en-Vanoise. Contact publié : 04 79 55 06 55, info.champagny@la-plagne.com.",
+        "public_transport": null
+      },
+      "meta_description": "Télécabine de Champagny-en-Vanoise, aux portes de la Vanoise. Été 2026 : 5 juillet – 28 août, fermée le samedi, coupure de 12h45 à 14h. Montée 9 €.",
+      "meta_title": "Télécabine de Champagny · Horaires et tarifs été 2026",
+      "name": "Télécabine de Champagny",
+      "name_alternates": [
+        "Champagny gondola",
+        "Télécabine de Champagny-en-Vanoise"
+      ],
+      "practical_info": [
+        {
+          "k": "Type",
+          "v": "Télécabine débrayable 8 à 10 places (TCD8/10, Poma). La capacité en service n'est précisée par aucune source de l'exploitant."
+        },
+        {
+          "k": "Altitude d'arrivée",
+          "v": null
+        },
+        {
+          "k": "Été 2026",
+          "v": "Du 5 juillet au 28 août 2026. Un jour plus tard et un jour plus tôt que la Roche de Mio et les Glaciers, sous la même marque.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Jours d'ouverture",
+          "v": "Lundi, mardi, mercredi, jeudi, vendredi, dimanche et jours fériés. Fermée le samedi hors jour férié.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Horaires",
+          "v": "9h–12h45 et 14h–17h40. Coupure méridienne d'1h15.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Tarifs",
+          "v": "Montée simple 9 € adulte, 7 € enfant · quatre montées 27 €. Aucune tranche d'âge ni durée de validité publiée."
+        },
+        {
+          "k": "Coordonnées",
+          "v": "45.456202° N, 6.693066° E (queue DATAtourisme)"
+        },
+        {
+          "k": "Au sommet",
+          "v": "Panorama sur les glaciers de la Vanoise, le Grand Bec et la Grande Casse ; départ de sentiers de randonnée et d'itinéraires VTT"
+        },
+        {
+          "k": "Contact",
+          "v": "04 79 55 06 55 · info.champagny@la-plagne.com"
+        },
+        {
+          "k": "Durée du trajet",
+          "v": null
+        },
+        {
+          "k": "Animaux",
+          "v": null
+        },
+        {
+          "k": "Accessibilité",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Télécabine",
+        "Point de vue",
+        "Départ de randonnées"
+      ],
+      "when_to_visit": "<p>Du 5 juillet au 28 août 2026, tous les jours sauf le samedi hors jour férié. Prévoir la coupure de 12h45 à 14h : c'est une heure et quart, pas une pause déjeuner d'appareil.</p>"
+    }
+  },
+  "latitude": 45.456202,
+  "longitude": 6.693066,
+  "official_site_url": "https://en.la-plagne.com/landing-champagny/champagny-gondola",
+  "partners": [],
+  "postal_code": "73350",
+  "price_currency": "EUR",
+  "price_from": 9.0,
+  "price_tiers": [
+    {
+      "label": "Montée simple adulte",
+      "price": 9.0
+    },
+    {
+      "label": "Montée simple enfant",
+      "price": 7.0
+    },
+    {
+      "label": "Quatre montées",
+      "price": 27.0
+    }
+  ],
+  "research_log": [
+    "Été 2026 : du 5 juillet au 28 août 2026, les lundi, mardi, mercredi, jeudi, vendredi, dimanche et jours fériés, de 9h à 12h45 et de 14h à 17h40.",
+    "Tarifs été 2026 : montée simple 9 € adulte et 7 € enfant ; quatre montées 27 €.",
+    "Depuis le sommet, panorama sur les glaciers de la Vanoise, le Grand Bec et la Grande Casse, et sommets de plus de 3 000 m ; point de départ de sentiers de randonnée et d'itinéraires VTT.",
+    "Appareil référencé TCD8/10 Poma sur remontees-mecaniques.net, soit une télécabine débrayable de 8 à 10 places.",
+    "Contact publié : 04 79 55 06 55, info.champagny@la-plagne.com.",
+    "Recoupement interne au dépôt : nos fiches telecabine-de-la-roche-de-mio et telecabine-des-glaciers donnent la saison de La Plagne du 4 juillet au 29 août 2026. Champagny, exploitée sous la même marque, ouvre un jour plus tard et ferme un jour plus tôt."
+  ],
+  "schema_org": {
+    "amenities": [
+      "Télécabine",
+      "Point de vue",
+      "Départ de randonnées"
+    ],
+    "is_free": false,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "telecabine-de-champagny",
+  "sources": [
+    {
+      "name": "La Plagne — télécabine de Champagny",
+      "url": "https://en.la-plagne.com/landing-champagny/champagny-gondola"
+    },
+    {
+      "name": "Cirkwi — télécabine de Champagny",
+      "url": "https://www.cirkwi.com/en/point-interet/1756051-champagny-gondola"
+    },
+    {
+      "name": "Remontées-mécaniques.net — TCD8/10 de Champagny (Poma)",
+      "url": "https://www.remontees-mecaniques.net/bdd/reportage-tcd8-10-de-champagny-poma-5369.html"
+    },
+    {
+      "name": "Skiinfo — Champagny-en-Vanoise, présentation de la station",
+      "url": "https://www.skiinfo.fr/alpes-du-nord/champagny-en-vanoise/station-de-ski"
+    },
+    {
+      "name": "Justacote — télécabine de Champagny, horaires",
+      "url": "https://www.justacote.com/champagny-en-vanoise-73350/ville-et-quartier/telecabine-de-champagny-2505940.htm"
+    },
+    {
+      "name": "Wikipedia (EN) — Champagny-en-Vanoise",
+      "url": "https://en.wikipedia.org/wiki/Champagny-en-Vanoise"
+    },
+    {
+      "name": "Mappy — télécabine de Champagny, 7 place…",
+      "url": "https://fr.mappy.com/poi/573b3dc69191b072cfe3fdb3"
+    }
+  ],
+  "sparse_data": false,
+  "status": "draft",
+  "type": "transport",
+  "verify_flags": [
+    "FERMÉE LE SAMEDI, AVEC UNE EXCEPTION JOURS FÉRIÉS — l'appareil tourne les lundi, mardi, mercredi, jeudi, vendredi, dimanche « et jours fériés ». Le samedi est le seul jour exclu, sauf s'il tombe un jour férié. Troisième fermeture de samedi du secteur La Plagne dans ce dépôt, après la Roche de Mio et les Glaciers.",
+    "COUPURE MÉRIDIENNE DE 1H15 — arrêt de 12h45 à 14h. C'est la coupure la plus longue relevée dans ce dépôt, devant celle du Mont-Bochor (45 minutes). Un visiteur qui arrive à 13h attend une heure.",
+    "SAISON DÉCALÉE PAR RAPPORT AU RESTE DE LA PLAGNE — 5 juillet – 28 août ici, contre 4 juillet – 29 août pour la Roche de Mio et les Glaciers selon nos propres fiches. Un jour de moins à chaque bout, sous la même marque. Ne pas transposer les dates d'un appareil à l'autre.",
+    "ALTITUDE D'ARRIVÉE NON PUBLIÉE — aucune source consultée ne donne l'altitude du sommet de la télécabine, alors que toutes décrivent le panorama qu'on y trouve. Champ null.",
+    "DURÉE DU TRAJET NON PUBLIÉE — aucune source. Champ null.",
+    "TARIF « QUATRE MONTÉES » SANS CONDITIONS — 27 € pour quatre montées est publié sans durée de validité, sans dire si le carnet est nominatif ni s'il est partageable. Ne pas en déduire un forfait famille.",
+    "AUCUN TARIF ENFANT BORNÉ EN ÂGE — « 9 € adulte, 7 € enfant » sans tranche d'âge, là où les autres appareils de La Plagne publient « 5-12 ans » et « 13 ans et + ». Ne pas importer les bornes d'un autre appareil.",
+    "TYPE D'APPAREIL DONNÉ EN FOURCHETTE — TCD8/10, soit 8 à 10 places selon la configuration, d'après remontees-mecaniques.net. Aucune source de l'exploitant ne précise la capacité en service.",
+    "PORTE DE LA VANOISE — les sentiers qui partent du sommet mènent vers le parc national. Aucune source consultée ne documente la réglementation applicable (chiens, bivouac). Ne rien affirmer sur les animaux.",
+    "PMR, ANIMAUX, PARKING : aucune source. Champs null."
+  ]
+}

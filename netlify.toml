@@ -1,0 +1,14 @@
+# Netlify configuration for Loisirs 73
+#
+# PRE-LAUNCH: no build command. The repo root is published as-is, which serves
+# the holding page at index.html. There is no content to render yet.
+#
+# AT LAUNCH, once the engine lands (see docs/LAUNCH-PLAN.md), this becomes the
+# same shape as the 74:
+#   [build]
+#     publish = "_site"
+#     command = "python3 scripts/build_all.py"
+# plus the pretty-URL redirect and the header rules.
+
+[build]
+  publish = "."

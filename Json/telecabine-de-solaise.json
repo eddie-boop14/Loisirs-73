@@ -1,0 +1,359 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-08",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "remontee-mecanique",
+  "commune": "Val-d'Isère",
+  "date_modified_human": "8 août 2026",
+  "date_published_human": null,
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "checked": "2026-08-08",
+    "confidence": "low",
+    "flag_reason": "Aucun passage Google Places sur le 73 : champs de fraîcheur non renseignés.",
+    "google_match": null,
+    "google_status": "UNKNOWN",
+    "hours": null,
+    "outcome": "NOT_RUN",
+    "phone": null,
+    "place_id": null,
+    "rating": null,
+    "rating_count": null,
+    "registry": null,
+    "site_reachable": null,
+    "status": "UNVERIFIED",
+    "website": null
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": null,
+  "i18n": {
+    "en": {
+      "activities": [
+        {
+          "description": "The gondola links the resort to the Tête de Solaise, at 2,560 m, where several trails begin.",
+          "tag": "Summer",
+          "title": "Ride up to the Tête de Solaise"
+        },
+        {
+          "description": "Pedestrian access is advertised as free by Val d'Isère; only mountain bikes are charged, and they are not allowed on this lift.",
+          "tag": "Summer",
+          "title": "Ride up free on foot"
+        },
+        {
+          "description": "The lift is open to paragliders as well as walkers.",
+          "tag": null,
+          "title": "Launch a paraglider"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Solaise gondola</strong> links Val-d'Isère to the Tête de Solaise, at 2,560 m, where several walking trails begin.</p><p>Its distinguishing feature is rare: <strong>it is free for pedestrians</strong>. Val d'Isère publishes a dedicated page on free lifts, and the advertised prices cover mountain bikes only — €23 a day, €84 a week. Across every lift documented in this repository, this is the only free access recorded.</p><p>A second feature, less pleasant if you get it wrong: <strong>mountain bikes are not allowed</strong>. Only walkers and paragliders ride. Bikes take the Olympique cable car instead.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free for pedestrians",
+        "best_season": "Summer (4 July – 30 August 2026)",
+        "commune": "Val-d'Isère",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Gondola",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Yes for pedestrians: Val d'Isère publishes a dedicated free-lifts page, and the advertised prices cover mountain bikes only. It is the only free access recorded across the lifts documented here — worth confirming on site, precisely because it is unusual.",
+          "q": "Is the Solaise gondola free?"
+        },
+        {
+          "a": "No. It takes walkers and paragliders only. Mountain bikes must use the Olympique cable car.",
+          "q": "Can you take a mountain bike up?"
+        },
+        {
+          "a": "09:45 to 16:45, with a last ascent at 16:40 and a last descent at 16:45. Those five minutes decide whether you ride back down.",
+          "q": "What are the hours?"
+        },
+        {
+          "a": "2,560 m, at the Tête de Solaise. The figure comes from a single secondary source.",
+          "q": "How high does it go?"
+        },
+        {
+          "a": "Three lifts are announced open from 4 July to 30 August 2026. The sources consulted do not name them all: Solaise and the Olympique are among them.",
+          "q": "How many lifts are open in summer?"
+        }
+      ],
+      "hero": {
+        "badge": "Free for pedestrians · 2,560 m",
+        "lead": "The Solaise gondola climbs to 2,560 m above Val-d'Isère, free for pedestrians. Mountain bikes, however, are not allowed on it."
+      },
+      "hero_alt": "Solaise gondola, Val-d'Isère, Savoie",
+      "how_to_get_there": {
+        "bike": "Mountain bikes are not allowed on the Solaise gondola. They use the Olympique cable car, where the bike pass is €23 a day and €84 a week.",
+        "car": "Bottom station in the resort of Val-d'Isère.",
+        "public_transport": null
+      },
+      "meta_description": "Gondola free for pedestrians to the Tête de Solaise, 2,560 m, above Val-d'Isère. No mountain bikes. Summer 2026: 4 July – 30 August.",
+      "meta_title": "Solaise Gondola (Val-d'Isère) · Free for pedestrians",
+      "name": "Solaise Gondola",
+      "name_alternates": [
+        "Solaise",
+        "Tête de Solaise"
+      ],
+      "practical_info": [
+        {
+          "k": "Type",
+          "v": "Gondola"
+        },
+        {
+          "k": "Arrival altitude",
+          "v": "2,560 m, Tête de Solaise (single secondary source)"
+        },
+        {
+          "k": "Price",
+          "v": "Free for pedestrians per Val d'Isère. Prices cover mountain bikes only — which are not allowed on this lift."
+        },
+        {
+          "k": "Summer 2026",
+          "v": "Three lifts open from 4 July to 30 August 2026, including this one.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Hours",
+          "v": "09:45–16:45. Last ascent 16:40, last descent 16:45.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Restriction",
+          "v": "Walkers and paragliders only. No mountain bikes."
+        },
+        {
+          "k": "Coordinates",
+          "v": null
+        },
+        {
+          "k": "Journey time",
+          "v": null
+        },
+        {
+          "k": "Dogs",
+          "v": null
+        },
+        {
+          "k": "Accessibility",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Gondola",
+        "Viewpoint",
+        "Trailhead"
+      ],
+      "when_to_visit": "<p>4 July to 30 August 2026. The pedestrian free access is advertised without a stated period: nothing says whether it holds all season. Check at the ticket office.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "La télécabine relie la station à la tête de Solaise, à 2 560 m, point de départ de plusieurs sentiers.",
+          "tag": "Été",
+          "title": "Monter à la tête de Solaise"
+        },
+        {
+          "description": "L'accès piéton est annoncé gratuit par Val d'Isère ; seuls les VTT sont payants, et ils ne sont pas admis sur cet appareil.",
+          "tag": "Été",
+          "title": "Monter gratuitement à pied"
+        },
+        {
+          "description": "L'appareil est ouvert aux parapentistes comme aux piétons.",
+          "tag": null,
+          "title": "Décoller en parapente"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>télécabine de Solaise</strong> relie Val-d'Isère à la tête de Solaise, à 2 560 m, d'où partent plusieurs sentiers de randonnée.</p><p>Sa particularité est rare : <strong>elle est gratuite pour les piétons</strong>. Val d'Isère publie une page dédiée aux remontées gratuites, et les tarifs affichés ne concernent que les VTT — 23 € la journée, 84 € la semaine. Sur toutes les remontées documentées dans ce dépôt, c'est la seule gratuité relevée.</p><p>Deuxième particularité, moins agréable si l'on s'y trompe : <strong>les VTT n'y sont pas admis</strong>. Seuls les piétons et les parapentistes montent. C'est le téléphérique de l'Olympique qui prend les vélos.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuit pour les piétons",
+        "best_season": "Été (4 juillet – 30 août 2026)",
+        "commune": "Val-d'Isère",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Télécabine",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Oui pour les piétons : Val d'Isère publie une page dédiée aux remontées gratuites, et les tarifs affichés ne concernent que les VTT. C'est la seule gratuité relevée sur les remontées documentées ici — à revérifier sur place, précisément parce que c'est inhabituel.",
+          "q": "La télécabine de Solaise est-elle gratuite ?"
+        },
+        {
+          "a": "Non. Elle n'accepte que les piétons et les parapentistes. Les VTT doivent emprunter le téléphérique de l'Olympique.",
+          "q": "Peut-on monter avec un VTT ?"
+        },
+        {
+          "a": "De 9h45 à 16h45, avec une dernière montée à 16h40 et une dernière descente à 16h45. Ces cinq minutes décident si l'on redescend en cabine.",
+          "q": "Quels sont les horaires ?"
+        },
+        {
+          "a": "2 560 m, à la tête de Solaise. Le chiffre ne provient que d'une source secondaire.",
+          "q": "À quelle altitude arrive-t-on ?"
+        },
+        {
+          "a": "Trois remontées sont annoncées ouvertes du 4 juillet au 30 août 2026. Les sources consultées ne les nomment pas toutes : Solaise et l'Olympique en font partie.",
+          "q": "Combien de remontées sont ouvertes en été ?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratuit pour les piétons · 2 560 m",
+        "lead": "La télécabine de Solaise monte à 2 560 m au-dessus de Val-d'Isère, gratuitement pour les piétons. Les VTT, eux, n'y sont pas admis."
+      },
+      "hero_alt": "Télécabine de Solaise, Val-d'Isère, Savoie",
+      "how_to_get_there": {
+        "bike": "Les VTT ne sont pas autorisés sur la télécabine de Solaise. Ils empruntent le téléphérique de l'Olympique, où le forfait VTT est à 23 € la journée et 84 € la semaine.",
+        "car": "Gare de départ dans la station de Val-d'Isère.",
+        "public_transport": null
+      },
+      "meta_description": "Télécabine gratuite pour les piétons jusqu'à la tête de Solaise, 2 560 m, au-dessus de Val-d'Isère. VTT non admis. Été 2026 : 4 juillet – 30 août.",
+      "meta_title": "Télécabine de Solaise (Val-d'Isère) · Gratuite pour les piétons",
+      "name": "Télécabine de Solaise",
+      "name_alternates": [
+        "Solaise",
+        "Tête de Solaise"
+      ],
+      "practical_info": [
+        {
+          "k": "Type",
+          "v": "Télécabine"
+        },
+        {
+          "k": "Altitude d'arrivée",
+          "v": "2 560 m, tête de Solaise (source secondaire unique)"
+        },
+        {
+          "k": "Tarif",
+          "v": "Gratuit pour les piétons selon Val d'Isère. Les tarifs ne concernent que les VTT — qui ne sont pas admis sur cet appareil."
+        },
+        {
+          "k": "Été 2026",
+          "v": "Trois remontées ouvertes du 4 juillet au 30 août 2026, dont celle-ci.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Horaires",
+          "v": "9h45–16h45. Dernière montée 16h40, dernière descente 16h45.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Restriction",
+          "v": "Piétons et parapentistes uniquement. VTT non autorisés."
+        },
+        {
+          "k": "Coordonnées",
+          "v": null
+        },
+        {
+          "k": "Durée du trajet",
+          "v": null
+        },
+        {
+          "k": "Animaux",
+          "v": null
+        },
+        {
+          "k": "Accessibilité",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Télécabine",
+        "Point de vue",
+        "Départ de randonnées"
+      ],
+      "when_to_visit": "<p>Du 4 juillet au 30 août 2026. La gratuité piétons est annoncée sans période précise : rien n'indique si elle vaut toute la saison. Vérifier au guichet.</p>"
+    }
+  },
+  "latitude": null,
+  "longitude": null,
+  "official_site_url": "https://www.valdisere.com/en/val-disere-in-summer/free-lifts-for-pedestrians/",
+  "partners": [],
+  "postal_code": "73150",
+  "price_currency": null,
+  "price_from": null,
+  "price_tiers": [],
+  "research_log": [
+    "Été 2026 : trois remontées ouvertes du 4 juillet au 30 août 2026, donnant accès aux randonnées, au bike park et au glacier du Pisaillas.",
+    "Accès piéton gratuit : Val d'Isère publie une page dédiée intitulée « Free lifts for pedestrians ». Les tarifs ne s'appliquent qu'aux VTT : 23 € la journée et 84 € la semaine en 2026.",
+    "Télécabine de Solaise : relie la station à la tête de Solaise, 2 560 m ; ouverte de 9h45 à 16h45, dernière montée à 16h40 et dernière descente à 16h45 ; accessible aux seuls piétons et parapentistes, les VTT n'y sont pas autorisés.",
+    "Téléphérique de l'Olympique : ouvert aux piétons et aux VTTistes de 9h45 à 16h45 non-stop. Référencé sur remontees-mecaniques.net comme téléphérique bicâble 3S Doppelmayr, et non comme télécabine."
+  ],
+  "schema_org": {
+    "amenities": [
+      "Télécabine",
+      "Point de vue",
+      "Départ de randonnées"
+    ],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "telecabine-de-solaise",
+  "sources": [
+    {
+      "name": "Val d'Isère — remontées gratuites pour les piétons",
+      "url": "https://www.valdisere.com/en/val-disere-in-summer/free-lifts-for-pedestrians/"
+    },
+    {
+      "name": "Val d'Isère Ski — forfaits piétons et ski de fond",
+      "url": "https://www.valdisere.ski/en/pedestrian-cross-country-skiing-passes"
+    },
+    {
+      "name": "Val d'Isère — que faire la dernière semaine de l'été",
+      "url": "https://www.valdisere.com/en/val-disere-in-summer/what-to-do-in-the-last-week-of-summer-in-val-disere/"
+    },
+    {
+      "name": "Guide Ski — remontées mécaniques Val d'Isère été 2026",
+      "url": "https://guide-ski.fr/remontees-mecaniques-val-disere-ete/"
+    },
+    {
+      "name": "Guide Ski — Val d'Isère été 2026",
+      "url": "https://guide-ski.fr/val-disere-ete/"
+    },
+    {
+      "name": "Forfait2ski — forfaits Val d'Isère, tarifs 2026",
+      "url": "https://www.forfait2ski.com/valdisere/"
+    },
+    {
+      "name": "Remontées-mécaniques.net — téléphérique bicâble 3S de l'Olympique (Doppelmayr)",
+      "url": "https://www.remontees-mecaniques.net/bdd/reportage-3s-de-l-olympique-doppelmayr-6752.html"
+    },
+    {
+      "name": "Radio Val d'Isère — les infos avalines du 20 juillet 2026",
+      "url": "https://www.radiovaldisere.com/fiche-publication/les-infos-avalines-du-20-juillet-2026"
+    }
+  ],
+  "sparse_data": false,
+  "status": "draft",
+  "type": "transport",
+  "verify_flags": [
+    "GRATUITE POUR LES PIÉTONS — c'est le fait le plus remarquable de cette fiche et le plus rare du dépôt. Val d'Isère publie une page dédiée « Free lifts for pedestrians » ; les tarifs ne concernent que les VTT. Sur vingt-neuf autres fiches de remontées de ce dépôt, aucune n'est gratuite. À revérifier avant publication, précisément parce que c'est inhabituel.",
+    "VTT INTERDITS SUR CET APPAREIL — la télécabine de Solaise n'accepte que les piétons et les parapentistes. C'est le téléphérique de l'Olympique qui prend les VTT. Se tromper d'appareil avec un vélo, c'est remonter à pied.",
+    "DERNIÈRE MONTÉE ET DERNIÈRE DESCENTE NE SONT PAS AU MÊME HORAIRE — dernière montée à 16h40, dernière descente à 16h45. Cinq minutes qui décident si l'on redescend en cabine ou à pied depuis 2 560 m.",
+    "TROIS REMONTÉES OUVERTES, MAIS LESQUELLES ? — les sources annoncent « 3 remontées mécaniques ouvertes du 4 juillet au 30 août 2026 » sans les nommer toutes. Solaise et l'Olympique en font partie ; la troisième n'est pas identifiée par les sources consultées.",
+    "SOURÇAGE PRINCIPALEMENT SECONDAIRE — les horaires, l'altitude et la restriction VTT proviennent d'un agrégateur (guide-ski) recoupé par le titre de la page officielle de Val d'Isère. Aucune page tarifaire de l'exploitant n'a été lue directement.",
+    "ALTITUDE DE LA TÊTE DE SOLAISE À SOURÇAGE UNIQUE — 2 560 m n'est donné que par une source secondaire.",
+    "GPS ABSENT — la seule ligne « Solaise » de la queue DATAtourisme est « Itinéraire Ski tranquille Solaise » (45.446696 / 6.977534), qui décrit un itinéraire de ski et non la gare de la télécabine. Champs null.",
+    "GRATUITÉ NON DATÉE — rien n'indique si la gratuité piétons vaut pour toute la saison estivale 2026 ou seulement pour une période. Ne pas la présenter comme permanente.",
+    "VAL-D'ISÈRE PÈSE 41 POI DANS LA QUEUE DU 73 — première fiche du dépôt sur cette commune, malgré la notoriété de la station.",
+    "DURÉE DU TRAJET, ANIMAUX, PMR : aucune source. Champs null."
+  ]
+}

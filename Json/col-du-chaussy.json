@@ -1,0 +1,370 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-08",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "point-de-vue",
+  "commune": "Saint-Jean-de-Maurienne",
+  "date_modified_human": "8 août 2026",
+  "date_published_human": null,
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "checked": "2026-08-08",
+    "confidence": "low",
+    "flag_reason": "Aucun passage Google Places sur le 73 : champs de fraîcheur non renseignés.",
+    "google_match": null,
+    "google_status": "UNKNOWN",
+    "hours": null,
+    "outcome": "NOT_RUN",
+    "phone": null,
+    "place_id": null,
+    "rating": null,
+    "rating_count": null,
+    "registry": null,
+    "site_reachable": null,
+    "status": "UNVERIFIED",
+    "website": null
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": null,
+  "i18n": {
+    "en": {
+      "activities": [
+        {
+          "description": "The lower section stacks hairpins against the cliff. The count is contradicted: 18 per Maurienne Tourisme, 17 per a cycling source.",
+          "tag": null,
+          "title": "Ride the Lacets de Montvernier"
+        },
+        {
+          "description": "The whole climb is 14 km at 7.5% to the pass, the upper part running 6 to 9.5% with a 12% ramp.",
+          "tag": null,
+          "title": "Continue to the Col du Chaussy"
+        },
+        {
+          "description": "The pass is a small plateau where a secondary source reports a chapel and an inn, with no hours or season given.",
+          "tag": null,
+          "title": "Stop on the pass plateau"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Col du Chaussy</strong> tops out at 1,533 m above the Arc valley, but its fame does not come from the pass: it comes from the <strong>Lacets de Montvernier</strong>, the lower section stacked against the cliff in a run of hairpins.</p><p>Their number — precisely what makes them famous — is not stable: Maurienne Tourisme writes \"18 spectacular hairpins\", a cycling source counts 17. Their length differs too, between 4 km including the approach and 1.9 km for the hairpins alone.</p><p>The two places need separating. The Tour de France has ridden the hairpins three times — 2015, 2018, 2022 — but the pass itself only once, in 2015. The full climb is 14 km at 7.5% average.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free",
+        "best_season": null,
+        "commune": "Saint-Jean-de-Maurienne",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Road pass and hairpins",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "The sources contradict each other: \"18 spectacular hairpins\" per Maurienne Tourisme, 17 per a cycling source. It is the number the place is famous for, and it is not stable.",
+          "q": "How many hairpins are there at Montvernier?"
+        },
+        {
+          "a": "No. The hairpins are the lower section against the cliff; the pass is the high point at 1,533 m, 14 km further on. The Tour has ridden the hairpins three times and the pass only once.",
+          "q": "Are the Lacets de Montvernier and the Col du Chaussy the same place?"
+        },
+        {
+          "a": "1,533 m, a figure the sources consulted agree on.",
+          "q": "How high is the Col du Chaussy?"
+        },
+        {
+          "a": "14 km at 7.5% average, the upper part running 6 to 9.5% with a 12% ramp.",
+          "q": "How hard is the climb?"
+        },
+        {
+          "a": "No source consulted publishes an opening period. One source reports cross-country skiing at the pass in winter, which implies conditions that are not documented: check before setting off.",
+          "q": "Is the road open all year?"
+        }
+      ],
+      "hero": {
+        "badge": "Free access · 1,533 m",
+        "lead": "The Col du Chaussy tops out at 1,533 m, but its fame comes from the Lacets de Montvernier below. Seventeen or eighteen hairpins, depending which source you read."
+      },
+      "hero_alt": "Lacets de Montvernier below the Col du Chaussy, Maurienne, Savoie",
+      "how_to_get_there": {
+        "bike": "The full climb is 14 km at 7.5% average to the pass. The hairpin section is given as 4 km with 3.8 km at 7 to 9% by Maurienne Tourisme, and as 1.9 km at 8.7% by a cycling source: the two do not describe the same segment. Upper part 6 to 9.5%, with a 12% ramp.",
+        "car": "From the Arc valley, via the Lacets de Montvernier. No source consulted gives a road number or an opening period.",
+        "public_transport": null
+      },
+      "meta_description": "Pass at 1,533 m above the Maurienne, famous for the Lacets de Montvernier: 17 or 18 hairpins depending on the source. 14 km at 7.5% to the top.",
+      "meta_title": "Col du Chaussy and Lacets de Montvernier · 1,533 m",
+      "name": "Col du Chaussy",
+      "name_alternates": [
+        "Lacets de Montvernier",
+        "Col de Chaussy"
+      ],
+      "practical_info": [
+        {
+          "k": "Altitude",
+          "v": "1,533 m"
+        },
+        {
+          "k": "Coordinates",
+          "v": "45.279449° N, 6.346613° E — the \"Montée au Col du Chaussy\" row in the DATAtourisme queue, not necessarily the pass itself"
+        },
+        {
+          "k": "Lacets de Montvernier",
+          "v": "\"18 spectacular hairpins\" (Maurienne Tourisme) against 17 (cycling source). Length given as 4 km or 1.9 km depending on the segment counted."
+        },
+        {
+          "k": "Full climb",
+          "v": "14 km at 7.5% average. Upper part 6 to 9.5%, with a 12% ramp."
+        },
+        {
+          "k": "Hairpins built",
+          "v": "Six years of work between 1928 and 1934, nearly 400 m of height gain (secondary sources)"
+        },
+        {
+          "k": "Tour de France",
+          "v": "Col du Chaussy once (2015); Lacets de Montvernier three times (2015, 2018, 2022)"
+        },
+        {
+          "k": "At the pass",
+          "v": "Small plateau, chapel and inn reported by a secondary source, without hours or season. Cross-country skiing in winter."
+        },
+        {
+          "k": "Opening",
+          "v": null
+        },
+        {
+          "k": "Price",
+          "v": "Free, open access"
+        },
+        {
+          "k": "Parking",
+          "v": null
+        },
+        {
+          "k": "Dogs",
+          "v": null
+        },
+        {
+          "k": "Accessibility",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Chapel",
+        "Inn",
+        "Viewpoint"
+      ],
+      "when_to_visit": "<p>No source consulted publishes an opening period for the road. One source reports cross-country skiing at the pass in winter, which implies snow cover: check road conditions before going up out of season.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "La section basse enchaîne les lacets contre la falaise. Le nombre est contredit : 18 selon Maurienne Tourisme, 17 selon une source cycliste.",
+          "tag": null,
+          "title": "Monter les lacets de Montvernier"
+        },
+        {
+          "description": "L'ensemble fait 14 km à 7,5 % jusqu'au col, la partie haute oscillant de 6 à 9,5 % avec un passage à 12 %.",
+          "tag": null,
+          "title": "Poursuivre jusqu'au col du Chaussy"
+        },
+        {
+          "description": "Le col est un petit plateau où une source secondaire signale une chapelle et une auberge, sans horaires ni saison.",
+          "tag": null,
+          "title": "S'arrêter sur le plateau du col"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Le <strong>col du Chaussy</strong> culmine à 1 533 m au-dessus de la vallée de l'Arc, mais sa réputation ne vient pas du col : elle vient des <strong>lacets de Montvernier</strong>, la section basse qui s'accroche à la falaise en une succession d'épingles.</p><p>Leur nombre, qui est précisément ce qui fait leur célébrité, n'est pas stable : Maurienne Tourisme écrit « 18 lacets spectaculaires », une source cycliste en compte 17. Leur longueur diverge aussi, entre 4 km d'approche comprise et 1,9 km pour les seules épingles.</p><p>Il faut distinguer les deux lieux. Le Tour de France est passé aux lacets trois fois — 2015, 2018, 2022 — mais au col lui-même une seule, en 2015. L'ensemble représente 14 km à 7,5 % de moyenne.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Libre · Gratuit",
+        "best_season": null,
+        "commune": "Saint-Jean-de-Maurienne",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Col routier et lacets",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Les sources se contredisent : « 18 lacets spectaculaires » selon Maurienne Tourisme, 17 selon une source cycliste. C'est le chiffre qui fait la réputation du lieu et il n'est pas stable.",
+          "q": "Combien y a-t-il de lacets à Montvernier ?"
+        },
+        {
+          "a": "Non. Les lacets sont la section basse, contre la falaise ; le col est le point haut, à 1 533 m, 14 km plus loin. Le Tour est passé aux lacets trois fois et au col une seule.",
+          "q": "Les lacets de Montvernier et le col du Chaussy sont-ils le même endroit ?"
+        },
+        {
+          "a": "1 533 m, chiffre concordant entre les sources consultées.",
+          "q": "Quelle est l'altitude du col du Chaussy ?"
+        },
+        {
+          "a": "14 km à 7,5 % de moyenne, la partie haute oscillant de 6 à 9,5 % avec un passage à 12 %.",
+          "q": "Quelle est la difficulté de la montée ?"
+        },
+        {
+          "a": "Aucune source consultée ne publie de période d'ouverture. Une source signale du ski de fond au col l'hiver, ce qui suppose des conditions hivernales non documentées : vérifier avant de monter.",
+          "q": "La route est-elle ouverte toute l'année ?"
+        }
+      ],
+      "hero": {
+        "badge": "Accès libre · 1 533 m",
+        "lead": "Le col du Chaussy culmine à 1 533 m, mais sa réputation vient des lacets de Montvernier, en dessous. Dix-sept ou dix-huit épingles selon la source consultée."
+      },
+      "hero_alt": "Lacets de Montvernier sous le col du Chaussy, Maurienne, Savoie",
+      "how_to_get_there": {
+        "bike": "L'ensemble fait 14 km à 7,5 % de moyenne jusqu'au col. La section des lacets est donnée à 4 km avec 3,8 km entre 7 et 9 % par Maurienne Tourisme, et à 1,9 km à 8,7 % par une source cycliste : les deux ne décrivent pas le même segment. Partie haute de 6 à 9,5 %, avec un passage à 12 %.",
+        "car": "Depuis la vallée de l'Arc, par les lacets de Montvernier. Aucune source consultée ne donne de numéro de route ni de période d'ouverture.",
+        "public_transport": null
+      },
+      "meta_description": "Col à 1 533 m au-dessus de la Maurienne, célèbre pour les lacets de Montvernier : 17 ou 18 épingles selon la source. 14 km à 7,5 % jusqu'au col.",
+      "meta_title": "Col du Chaussy et lacets de Montvernier · 1 533 m",
+      "name": "Col du Chaussy",
+      "name_alternates": [
+        "Lacets de Montvernier",
+        "Col de Chaussy"
+      ],
+      "practical_info": [
+        {
+          "k": "Altitude",
+          "v": "1 533 m"
+        },
+        {
+          "k": "Coordonnées",
+          "v": "45.279449° N, 6.346613° E — point de la ligne « Montée au Col du Chaussy » de la queue DATAtourisme, pas nécessairement le col"
+        },
+        {
+          "k": "Lacets de Montvernier",
+          "v": "« 18 lacets spectaculaires » (Maurienne Tourisme) contre 17 (source cycliste). Longueur donnée à 4 km ou à 1,9 km selon le segment compté."
+        },
+        {
+          "k": "Montée complète",
+          "v": "14 km à 7,5 % de moyenne. Partie haute de 6 à 9,5 %, passage à 12 %."
+        },
+        {
+          "k": "Construction des lacets",
+          "v": "Six ans de travaux entre 1928 et 1934, près de 400 m de dénivelé (sources secondaires)"
+        },
+        {
+          "k": "Tour de France",
+          "v": "Col du Chaussy une fois (2015) ; lacets de Montvernier trois fois (2015, 2018, 2022)"
+        },
+        {
+          "k": "Au col",
+          "v": "Petit plateau, chapelle et auberge signalées par une source secondaire, sans horaires ni saison. Ski de fond l'hiver."
+        },
+        {
+          "k": "Ouverture",
+          "v": null
+        },
+        {
+          "k": "Tarif",
+          "v": "Gratuit, accès libre"
+        },
+        {
+          "k": "Parking",
+          "v": null
+        },
+        {
+          "k": "Animaux",
+          "v": null
+        },
+        {
+          "k": "Accessibilité",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Chapelle",
+        "Auberge",
+        "Point de vue"
+      ],
+      "when_to_visit": "<p>Aucune source consultée ne publie de période d'ouverture de la route. Une source signale la pratique du ski de fond au col l'hiver, ce qui implique un enneigement : vérifier l'état de la route avant de monter hors saison.</p>"
+    }
+  },
+  "latitude": 45.279449,
+  "longitude": 6.346613,
+  "official_site_url": "https://www.velo-maurienne.com/explorer/lacets-de-montvernier-et-col-du-chaussy/",
+  "partners": [],
+  "postal_code": "73300",
+  "price_currency": null,
+  "price_from": null,
+  "price_tiers": [],
+  "research_log": [
+    "Vélo Maurienne (page officielle Maurienne Tourisme) : « 18 lacets spectaculaires » ; 4 km de montée, pente oscillant entre 7 et 9 % sur 3,8 km ; col du Chaussy à 1 533 m ; ensemble 14 km à 7,5 %, partie haute de 6 à 9,5 % avec un passage à 12 % ; l'équipe de France FFC s'y entraîne régulièrement. La page ne mentionne ni dates de construction ni histoire du Tour de France.",
+    "Autres sources : « 17 lacets in just 1.9 kilometers at 8.7% average grade » ; six ans de travaux entre 1928 et 1934 pour franchir près de 400 m de dénivelé et relier la vallée de l'Arc au village de Montvernier ; col du Chaussy sur un petit plateau où l'on pratique le ski de fond l'hiver, avec une chapelle et une auberge ; Tour de France au col du Chaussy une fois (2015) et aux lacets trois fois (2015, 2018, 2022).",
+    "Queue DATAtourisme : « Montée au Col du Chaussy » est rattachée à Saint-Jean-de-Maurienne (73300), 45.279449 / 6.346613. Les lacets eux-mêmes sont sur Montvernier, aujourd'hui rattachée à la commune nouvelle de La Tour-en-Maurienne."
+  ],
+  "schema_org": {
+    "amenities": [
+      "Chapelle",
+      "Auberge",
+      "Point de vue"
+    ],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "col-du-chaussy",
+  "sources": [
+    {
+      "name": "Vélo Maurienne — lacets de Montvernier et col du Chaussy",
+      "url": "https://www.velo-maurienne.com/explorer/lacets-de-montvernier-et-col-du-chaussy/"
+    },
+    {
+      "name": "Maurienne Tourisme — lacets de Montvernier et col du Chaussy",
+      "url": "http://www.maurienne-tourisme.com/velo/les-grands-cols/chaussy/"
+    },
+    {
+      "name": "Cols-cyclisme — col de Chaussy depuis Pontamafrey",
+      "url": "https://www.cols-cyclisme.com/vanoise/france/col-de-chaussy-depuis-pontamafrey-c401.htm"
+    },
+    {
+      "name": "PJAMM Cycling — Col du Chaussy from Lacets de Montvernier",
+      "url": "https://pjammcycling.com/climb/282.Col%20du%20Chaussy%20-%20Lacets%20de%20Montvernier"
+    },
+    {
+      "name": "OpenRunner — La Tour-en-Maurienne, lacets de Montvernier, cols du Chaussy et Madeleine",
+      "url": "https://www.openrunner.com/route-details/6512284"
+    },
+    {
+      "name": "Elles font du vélo — les lacets du Montvernier en Maurienne",
+      "url": "https://ellesfontduvelo.com/2017/10/lacets-du-montvernier-en-maurienne/"
+    },
+    {
+      "name": "Bosses21 — Maurienne, lacets de Montvernier, cols du Ventour et du Chaussy",
+      "url": "https://www.bosses21.com/ma-collection/2017-2/alpes-savoie-sortie-n1/"
+    },
+    {
+      "name": "Seb76velo — les lacets de Montvernier + col du Chaussy",
+      "url": "https://seb76velo.over-blog.com/2015/07/les-lacets-de-montvernier-col-du-chaussy.html"
+    }
+  ],
+  "sparse_data": false,
+  "status": "draft",
+  "type": "nature",
+  "verify_flags": [
+    "LE NOMBRE DE LACETS EST CONTREDIT — la page officielle de Maurienne Tourisme écrit « 18 lacets spectaculaires » ; une source cycliste écrit « 17 lacets in just 1.9 kilometers ». C'est le chiffre qui fait la réputation du lieu et il n'est pas stable. Ne pas trancher.",
+    "LA LONGUEUR DES LACETS EST CONTREDITE AUSSI — 4 km de montée avec 3,8 km entre 7 et 9 % (Maurienne Tourisme) contre 1,9 km à 8,7 % (source cycliste). Les deux ne décrivent pas le même segment : l'un compte probablement l'approche, l'autre les seuls lacets. Ne pas fusionner.",
+    "LACETS ET COL SONT DEUX CHOSES DIFFÉRENTES — les lacets de Montvernier sont la section basse spectaculaire ; le col du Chaussy est le point haut, 14 km plus loin à 1 533 m. Le Tour de France est passé aux lacets trois fois (2015, 2018, 2022) mais au col une seule (2015). Confondre les deux fausse l'histoire.",
+    "COMMUNE À DEUX NIVEAUX — la queue DATAtourisme rattache la montée à Saint-Jean-de-Maurienne (73300), mais les lacets sont sur Montvernier, commune aujourd'hui fusionnée dans La Tour-en-Maurienne. La fiche retient le rattachement de la queue ; ce n'est pas une donnée cadastrale.",
+    "DATES DE CONSTRUCTION À SOURÇAGE SECONDAIRE — 1928-1934, six ans de travaux, près de 400 m de dénivelé : ces chiffres ne figurent pas sur la page officielle de Maurienne Tourisme et proviennent de relais.",
+    "GPS = POINT DE LA MONTÉE, PAS DU COL — 45.279449 / 6.346613 est le point de la ligne « Montée au Col du Chaussy » de la queue, rattachée à Saint-Jean-de-Maurienne. Ce n'est pas nécessairement le col lui-même.",
+    "SERVICES AU COL À SOURÇAGE SECONDAIRE — une chapelle et une auberge sont signalées sur le plateau du col par une source secondaire. Ni horaires, ni saison, ni nom. Ne pas annoncer une auberge ouverte.",
+    "AUCUNE DATE D'OUVERTURE OU DE FERMETURE PUBLIÉE — aucune source consultée ne donne de période d'ouverture de la route. À 1 533 m, ne pas supposer qu'elle est ouverte toute l'année ni qu'elle ferme l'hiver.",
+    "SKI DE FOND AU COL L'HIVER signalé par une source secondaire, ce qui suppose un enneigement et donc des conditions de route hivernales non documentées.",
+    "PARKING, ANIMAUX, PMR, TARIF : aucune source. Champs null."
+  ]
+}

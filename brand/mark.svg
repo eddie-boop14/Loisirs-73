@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Loisirs 73">
+  <title>Loisirs 73 — mark</title>
+  <!-- The small-size mark. The full logo.svg turns to mush below ~48px, so
+       everything that cannot survive 16 px is removed: no compass rings, no
+       distant range, no water strokes. What is left is the identity — one
+       bold snow peak and the cross of Savoy. -->
+  <defs>
+    <clipPath id="c"><rect width="512" height="512" rx="46"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="512" height="512" fill="#15496a"/>
+
+    <!-- lake: a single flat band, enough to read as water at any size -->
+    <rect y="404" width="512" height="108" fill="#0d3149"/>
+
+    <!-- one bold massif -->
+    <path fill="#3f88ab" d="M-8 404 L36 348 L176 128 L300 320 L344 268 L436 404 Z"/>
+    <path fill="#1d5273" opacity=".5" d="M176 128 L300 320 L262 360 Z"/>
+
+    <!-- snow: three broad notches, nothing finer -->
+    <path fill="#ffffff" d="M176 128 L258 254 L230 240 L206 272 L176 238 L148 272 L122 240 L96 254 Z"/>
+
+    <!-- croix de Savoie -->
+    <g transform="translate(392 116)">
+      <path fill="#ffffff" d="M-16 -58 H16 V-16 H58 V16 H16 V58 H-16 V16 H-58 V-16 H-16 Z"/>
+      <path fill="#C8102E" d="M-11 -53 H11 V-11 H53 V11 H11 V53 H-11 V11 H-53 V-11 H-11 Z"/>
+    </g>
+  </g>
+</svg>

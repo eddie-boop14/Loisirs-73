@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="Loisirs 73 — Savoie, lieu par lieu">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#17506e"/>
+      <stop offset="1" stop-color="#0d2f47"/>
+    </linearGradient>
+    <linearGradient id="rock" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4b93b5"/>
+      <stop offset="1" stop-color="#22587a"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#sky)"/>
+
+  <!-- range across the base, so the card reads as Savoie even cropped -->
+  <path fill="#2a6b8c" opacity=".35"
+        d="M-20 560 L120 470 L250 400 L390 480 L520 380 L660 470 L800 386 L940 470 L1080 396 L1220 470 L1220 660 L-20 660 Z"/>
+  <path fill="url(#rock)"
+        d="M-20 660 L90 540 L250 330 L400 520 L500 452 L620 300 L780 500 L880 420 L1010 540 L1120 600 L1220 640 L1220 660 Z"/>
+  <path fill="#1c5070" opacity=".5"
+        d="M250 330 L400 520 L352 570 Z M620 300 L780 500 L738 552 Z"/>
+  <path fill="#f1f9fe"
+        d="M250 330 L332 434 L310 424 L288 452 L262 420 L238 452 L214 422 L192 450 L168 434 Z"/>
+  <path fill="#ffffff"
+        d="M620 300 L706 408 L684 396 L660 428 L634 392 L610 428 L584 396 L560 424 L538 408 Z"/>
+  <path fill="#f1f9fe"
+        d="M880 420 L936 490 L918 480 L898 504 L878 478 L856 506 L836 480 L818 500 L800 490 Z"/>
+
+  <!-- lake -->
+  <rect y="556" width="1200" height="74" fill="#0c3049"/>
+  <path fill="#dff2fb" opacity=".85"
+        d="M-20 556 C 260 566, 470 548, 720 558 C 930 566, 1060 552, 1220 560 L1220 556 Z"/>
+
+  <!-- croix de Savoie, top right -->
+  <g transform="translate(1044 118) scale(1.05)">
+    <path fill="#ffffff" d="M-16 -58 H16 V-16 H58 V16 H16 V58 H-16 V16 H-58 V-16 H-16 Z"/>
+    <path fill="#C8102E" d="M-11 -53 H11 V-11 H53 V11 H11 V53 H-11 V11 H-53 V-11 H-11 Z"/>
+  </g>
+
+  <!-- wordmark -->
+  <g font-family="Bricolage Grotesque, Familjen Grotesk, system-ui, -apple-system, Segoe UI, Roboto, sans-serif">
+    <text x="86" y="176" fill="#ffffff" font-size="92" font-weight="800" letter-spacing="-2">Loisirs 73</text>
+    <text x="90" y="238" fill="#a8e8fa" font-size="38" font-weight="500">La Savoie, lieu par lieu.</text>
+    <text x="90" y="300" fill="#cfe6f2" font-size="26" font-weight="500" opacity=".85">Lacs · cascades · points de vue · téléphériques · châteaux · sentiers</text>
+    <text x="90" y="592" fill="#8fb6c9" font-size="22" font-weight="500">loisirs73.fr · gratuit, sans pub, chaque fait vérifié</text>
+  </g>
+</svg>

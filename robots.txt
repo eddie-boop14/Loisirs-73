@@ -1,0 +1,15 @@
+# ⚑ FLIP-AT-LAUNCH — everything is blocked on purpose until the real domain
+# goes live. index.html carries the same marker; grep FLIP-AT-LAUNCH finds both.
+#
+# Loisirs 73 has no content yet. This file exists so the holding page and the
+# *.netlify.app preview domain never enter an index: a thin placeholder ranking
+# for "loisirs Savoie" would be worse than nothing, and an indexed .netlify.app
+# becomes a duplicate of loisirs73.fr the day the real domain goes live.
+#
+# ⚑ FLIP-AT-LAUNCH — and only for the custom domain. The 74's robots.txt
+# is the model to copy; its "User-agent: * / Allow: /" group is load-bearing for
+# AI citation (OAI-SearchBot, ChatGPT-User, Claude-Web, PerplexityBot and
+# Applebot-Extended have no group of their own and are allowed by that line).
+
+User-agent: *
+Disallow: /

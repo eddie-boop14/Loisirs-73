@@ -1,0 +1,16 @@
+.claude/
+__pycache__/
+*.pyc
+
+# Built _site/ (Netlify publish target) — produced fresh on every deploy.
+_site/
+
+# Local downloads of the DATAtourisme regional export (~45 MB, rebuilt daily).
+datatourisme-reg-*.csv
+
+# Never public: contributed photo originals (promise to the photographer).
+incoming-benedicte/
+
+.env*
+*.bak
+*.tmp

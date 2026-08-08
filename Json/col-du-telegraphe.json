@@ -1,0 +1,379 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-08",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "point-de-vue",
+  "commune": "Valloire",
+  "date_modified_human": "8 août 2026",
+  "date_published_human": null,
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "checked": "2026-08-08",
+    "confidence": "low",
+    "flag_reason": "Aucun passage Google Places sur le 73 : champs de fraîcheur non renseignés.",
+    "google_match": null,
+    "google_status": "UNKNOWN",
+    "hours": null,
+    "outcome": "NOT_RUN",
+    "phone": null,
+    "place_id": null,
+    "rating": null,
+    "rating_count": null,
+    "registry": null,
+    "site_reachable": null,
+    "status": "UNVERIFIED",
+    "website": null
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": null,
+  "i18n": {
+    "en": {
+      "activities": [
+        {
+          "description": "From Saint-Michel-de-Maurienne: 11.8 km. The height gain differs by source, +856 m per the tourist office, +846 m per en.wikipedia.",
+          "tag": null,
+          "title": "Ride up the pass"
+        },
+        {
+          "description": "Built between 1885 and 1893 on the site of a Chappe optical telegraph relay. Ten minutes' walk from the pass, open in summer only, guided tours on Wednesdays and Thursdays.",
+          "tag": "Summer",
+          "title": "Visit the Fort du Télégraphe"
+        },
+        {
+          "description": "The pass is the antechamber to the Galibier: from the Maurienne, that is the only way up.",
+          "tag": null,
+          "title": "Continue to the Galibier"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Col du Télégraphe</strong> crosses at 1,566 m the barrier separating Saint-Michel-de-Maurienne from Valloire. It is the antechamber to the Galibier: from the Maurienne you cannot reach the Galibier without it.</p><p>It takes its name from the fort built between 1885 and 1893, itself raised on the site of a Chappe optical telegraph relay on the imperial Paris–Milan line. The fort is not at the pass: it is ten minutes' walk away, open in summer only and by guided tour, on Wednesdays and Thursdays.</p><p>One thing sets it apart from the other great Savoie passes: <strong>it is open all year</strong>. The Valloire tourist office's opening record shows it open from 1 January to 31 December 2026, because it serves Valloire.</p>"
+      },
+      "events": "<p>Tour de France 2026, stage 20 on Saturday 25 July, Le Bourg-d'Oisans → Alpe d'Huez, via the Col de la Croix de Fer, the Col du Télégraphe, Valloire and the Col du Galibier. No source consulted publishes closure times specific to the Télégraphe that day.</p>",
+      "facts": {
+        "access": "Free",
+        "best_season": "All year",
+        "commune": "Valloire",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Road pass and fort",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "1,566 m. It is the only pass in this batch whose altitude is not contradicted between sources.",
+          "q": "How high is the Col du Télégraphe?"
+        },
+        {
+          "a": "Yes. The Valloire tourist office's opening record shows it open every day from 1 January to 31 December 2026. At 1,566 m it serves Valloire and is not closed in winter, unlike the Galibier just above it.",
+          "q": "Is the Col du Télégraphe open in winter?"
+        },
+        {
+          "a": "No, it is about ten minutes' walk from the pass. It opens in summer only and by guided tour, on Wednesdays and Thursdays, with the Savoie Mont-Blanc heritage guides. No price is published.",
+          "q": "Can the Fort du Télégraphe be visited from the pass?"
+        },
+        {
+          "a": "11.8 km per both sources. The height gain differs: +856 m at 7.3% average per the tourist office, +846 m at 7.17% per en.wikipedia.",
+          "q": "How long is the climb from Saint-Michel-de-Maurienne?"
+        },
+        {
+          "a": "From the fort built between 1885 and 1893, itself raised on the site of a Chappe optical telegraph relay on the imperial Paris–Milan line.",
+          "q": "Where does the pass get its name?"
+        }
+      ],
+      "hero": {
+        "badge": "Free access · Open all year",
+        "lead": "The Col du Télégraphe crosses at 1,566 m between Saint-Michel-de-Maurienne and Valloire. Antechamber to the Galibier — and unlike it, open all year."
+      },
+      "hero_alt": "Col du Télégraphe above Saint-Michel-de-Maurienne, Savoie",
+      "how_to_get_there": {
+        "bike": "From Saint-Michel-de-Maurienne: 11.8 km, +856 m at 7.3% average and 9.7% maximum per the Valloire tourist office; +846 m at 7.17% and 9.8% at the summit per en.wikipedia. No profile from Valloire is published. First Tour de France crossing in 1911, Émile Georget over the top.",
+        "car": "On the Saint-Michel-de-Maurienne – Valloire axis, continuing towards the Col du Galibier. No source consulted gives a road number for the Télégraphe itself.",
+        "public_transport": null
+      },
+      "meta_description": "Pass at 1,566 m between Saint-Michel-de-Maurienne and Valloire, open all year. The fort, ten minutes' walk away, opens in summer only, Wednesdays and Thursdays.",
+      "meta_title": "Col du Télégraphe · 1,566 m, fort, open all year",
+      "name": "Col du Télégraphe",
+      "name_alternates": [
+        "Le Télégraphe",
+        "Col du Télégraphe (Valloire)"
+      ],
+      "practical_info": [
+        {
+          "k": "Altitude",
+          "v": "1,566 m (Valloire tourist office, en.wikipedia and cols-cyclisme agree)"
+        },
+        {
+          "k": "Coordinates",
+          "v": "45.2025° N, 6.444444° E (en.wikipedia)"
+        },
+        {
+          "k": "Road",
+          "v": null
+        },
+        {
+          "k": "Opening",
+          "v": "All year. The Valloire tourist office's record shows it open from 1 January to 31 December 2026.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Price",
+          "v": "Free, open access"
+        },
+        {
+          "k": "Climb from Saint-Michel-de-Maurienne",
+          "v": "11.8 km. Height gain and gradients differ: +856 m at 7.3% / 9.7% max (Valloire tourist office) against +846 m at 7.17% / 9.8% at the summit (en.wikipedia)."
+        },
+        {
+          "k": "Fort du Télégraphe",
+          "v": "Built between 1885 and 1893 on the site of a Chappe telegraph relay (imperial Paris–Milan line). Ten minutes' walk from the pass. Open in summer only, guided tours, Wednesdays and Thursdays. No price published."
+        },
+        {
+          "k": "Tour de France",
+          "v": "First crossing 1911, Émile Georget over the top. Since 1947, 37 crossings of which 19 ranked (en.wikipedia) — that count excludes 1911. Stage 20 of 25 July 2026 passes the col.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Parking",
+          "v": null
+        },
+        {
+          "k": "Dogs",
+          "v": null
+        },
+        {
+          "k": "Accessibility",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Car park",
+        "Fort du Télégraphe",
+        "Viewpoint"
+      ],
+      "when_to_visit": "<p>The pass is open all year, which sets it apart from the other great Savoie passes. The fort is reachable only in summer, on guided tours Wednesdays and Thursdays: that, not the road, is what constrains when to come.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Depuis Saint-Michel-de-Maurienne : 11,8 km. Le dénivelé diverge selon la source, +856 m pour l'office de tourisme, +846 m pour en.wikipedia.",
+          "tag": null,
+          "title": "Monter au col à vélo"
+        },
+        {
+          "description": "Construit entre 1885 et 1893 sur l'emplacement d'un relais du télégraphe de Chappe. À 10 minutes de marche du col, ouvert l'été seulement, en visite guidée les mercredis et jeudis.",
+          "tag": "Été",
+          "title": "Visiter le fort du Télégraphe"
+        },
+        {
+          "description": "Le col est l'antichambre du Galibier : c'est par son versant nord qu'on y accède depuis la Maurienne.",
+          "tag": null,
+          "title": "Enchaîner sur le Galibier"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Le <strong>col du Télégraphe</strong> franchit à 1 566 m la barre qui sépare Saint-Michel-de-Maurienne de Valloire. C'est l'antichambre du Galibier : on ne monte au Galibier depuis la Maurienne qu'en passant par lui.</p><p>Il doit son nom au fort construit entre 1885 et 1893, lui-même bâti sur l'emplacement d'un relais du télégraphe aérien de Chappe, sur la ligne impériale Paris-Milan. Le fort n'est pas au col : il est à dix minutes de marche, ouvert l'été seulement et en visite guidée, les mercredis et jeudis.</p><p>Une particularité le distingue des autres grands cols de Savoie : <strong>il est ouvert toute l'année</strong>. La fiche horaire de l'office de tourisme de Valloire le donne ouvert du 1er janvier au 31 décembre 2026, parce qu'il dessert Valloire.</p>"
+      },
+      "events": "<p>Tour de France 2026, étape 20 du samedi 25 juillet, Le Bourg-d'Oisans → Alpe d'Huez, par le col de la Croix de Fer, le col du Télégraphe, Valloire et le col du Galibier. Aucune source consultée ne publie d'horaires de fermeture propres au Télégraphe ce jour-là.</p>",
+      "facts": {
+        "access": "Libre · Gratuit",
+        "best_season": "Toute l'année",
+        "commune": "Valloire",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Col routier et fort",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "1 566 m. C'est le seul col de ce lot dont l'altitude ne fait l'objet d'aucune contradiction entre sources.",
+          "q": "Quelle est l'altitude du col du Télégraphe ?"
+        },
+        {
+          "a": "Oui. La fiche horaire de l'office de tourisme de Valloire le donne ouvert tous les jours du 1er janvier au 31 décembre 2026. À 1 566 m, il dessert Valloire et n'est pas fermé l'hiver, contrairement au Galibier juste au-dessus.",
+          "q": "Le col du Télégraphe est-il ouvert en hiver ?"
+        },
+        {
+          "a": "Non, il est à environ 10 minutes de marche du col. Il n'est ouvert que l'été et uniquement en visite guidée, les mercredis et jeudis, avec les guides du patrimoine Savoie Mont-Blanc. Aucun tarif n'est publié.",
+          "q": "Le fort du Télégraphe se visite-t-il depuis le col ?"
+        },
+        {
+          "a": "11,8 km selon les deux sources. Le dénivelé diverge : +856 m à 7,3 % de moyenne pour l'office de tourisme, +846 m à 7,17 % pour en.wikipedia.",
+          "q": "Combien fait la montée depuis Saint-Michel-de-Maurienne ?"
+        },
+        {
+          "a": "Du fort construit entre 1885 et 1893, lui-même établi sur l'emplacement d'un relais du télégraphe aérien de Chappe de la ligne impériale Paris-Milan.",
+          "q": "D'où vient le nom du col ?"
+        }
+      ],
+      "hero": {
+        "badge": "Accès libre · Ouvert toute l'année",
+        "lead": "Le col du Télégraphe franchit à 1 566 m la barre entre Saint-Michel-de-Maurienne et Valloire. Antichambre du Galibier, il est, lui, ouvert toute l'année."
+      },
+      "hero_alt": "Col du Télégraphe au-dessus de Saint-Michel-de-Maurienne, Savoie",
+      "how_to_get_there": {
+        "bike": "Depuis Saint-Michel-de-Maurienne : 11,8 km, +856 m à 7,3 % de moyenne et 9,7 % au maximum selon l'office de tourisme de Valloire ; +846 m à 7,17 % et 9,8 % au sommet selon en.wikipedia. Aucun profil depuis Valloire n'est publié. Premier passage du Tour de France en 1911, Émile Georget au sommet.",
+        "car": "Sur l'axe Saint-Michel-de-Maurienne – Valloire, qui prolonge vers le col du Galibier. Aucune source consultée ne donne de numéro de route pour le Télégraphe lui-même.",
+        "public_transport": null
+      },
+      "meta_description": "Col à 1 566 m entre Saint-Michel-de-Maurienne et Valloire, ouvert toute l'année. Le fort, à 10 minutes de marche, ne se visite que l'été, mercredis et jeudis.",
+      "meta_title": "Col du Télégraphe · 1 566 m, fort, accès toute l'année",
+      "name": "Col du Télégraphe",
+      "name_alternates": [
+        "Le Télégraphe",
+        "Col du Télégraphe (Valloire)"
+      ],
+      "practical_info": [
+        {
+          "k": "Altitude",
+          "v": "1 566 m (OT Valloire, en.wikipedia et cols-cyclisme concordent)"
+        },
+        {
+          "k": "Coordonnées",
+          "v": "45.2025° N, 6.444444° E (en.wikipedia)"
+        },
+        {
+          "k": "Route",
+          "v": null
+        },
+        {
+          "k": "Ouverture",
+          "v": "Toute l'année. La fiche horaire de l'OT de Valloire porte « ouvert » du 1er janvier au 31 décembre 2026.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Tarif",
+          "v": "Gratuit, accès libre"
+        },
+        {
+          "k": "Montée depuis Saint-Michel-de-Maurienne",
+          "v": "11,8 km. Dénivelé et pentes divergents : +856 m à 7,3 % / 9,7 % max (OT Valloire) contre +846 m à 7,17 % / 9,8 % au sommet (en.wikipedia)."
+        },
+        {
+          "k": "Fort du Télégraphe",
+          "v": "Construit entre 1885 et 1893 sur l'emplacement d'un relais du télégraphe de Chappe (ligne impériale Paris-Milan). À 10 minutes de marche du col. Ouvert l'été seulement, en visite guidée, mercredis et jeudis. Aucun tarif publié."
+        },
+        {
+          "k": "Tour de France",
+          "v": "Premier passage en 1911, Émile Georget au sommet. Depuis 1947, 37 franchissements dont 19 classés (en.wikipedia) — ce décompte exclut 1911. Étape 20 du 25 juillet 2026 par le col.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Parking",
+          "v": null
+        },
+        {
+          "k": "Animaux",
+          "v": null
+        },
+        {
+          "k": "Accessibilité",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Parking",
+        "Fort du Télégraphe",
+        "Point de vue"
+      ],
+      "when_to_visit": "<p>Le col est ouvert toute l'année, ce qui le distingue des autres grands cols de Savoie. Le fort, lui, n'est accessible que l'été, en visite guidée les mercredis et jeudis : c'est ce qui contraint la date de visite, pas la route.</p>"
+    }
+  },
+  "latitude": 45.2025,
+  "longitude": 6.444444,
+  "official_site_url": "https://www.valloire.net/en/sit/col-du-telegraphe-4774004/",
+  "partners": [],
+  "postal_code": "73450",
+  "price_currency": null,
+  "price_from": null,
+  "price_tiers": [],
+  "research_log": [
+    "OT Valloire : altitude 1 566 m ; montée depuis Saint-Michel-de-Maurienne 11,8 km, +856 m, 7,3 % de moyenne, 9,7 % au maximum ; accès libre et gratuit ; la fiche horaire indique « ouvert » tous les jours du 1er janvier au 31 décembre 2026 ; aucun numéro de route ni profil depuis Valloire.",
+    "en.wikipedia (col) : 45°12′9″N 6°26′40″E soit 45.2025 / 6.444444 ; 1 566 m ; relie Saint-Michel-de-Maurienne au nord à Valloire au sud et donne accès au col du Galibier par son versant nord ; montée depuis Saint-Michel 11,8 km, +846 m, 7,17 % de moyenne, « 9.8% at the summit » ; premier passage du Tour en 1911 avec Émile Georget au sommet ; depuis 1947, 37 franchissements dont 19 classés au meilleur grimpeur ; dernier passage en 2026 avec Richard Carapaz en tête.",
+    "en.wikipedia (fort) : le col tire son nom du fort construit entre 1885 et 1893, bâti sur l'emplacement d'un relais du télégraphe aérien de Chappe de la ligne impériale Paris-Milan ; le fort est à 10 minutes de marche du col ; ouvert seulement l'été et en visite guidée, avec les guides du patrimoine Savoie Mont-Blanc, les mercredis et jeudis (matin, après-midi et soirée).",
+    "Recoupement interne au dépôt : la fiche col-du-galibier cite l'arrêté préfectoral du Tour de France 2026, étape 20 du samedi 25 juillet, Le Bourg-d'Oisans → Alpe d'Huez, passant par le col de la Croix de Fer, le col du Télégraphe, Valloire et le col du Galibier."
+  ],
+  "schema_org": {
+    "amenities": [
+      "Parking",
+      "Fort du Télégraphe",
+      "Point de vue"
+    ],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "col-du-telegraphe",
+  "sources": [
+    {
+      "name": "Office de tourisme de Valloire — col du Télégraphe",
+      "url": "https://www.valloire.net/en/sit/col-du-telegraphe-4774004/"
+    },
+    {
+      "name": "Communauté de communes Maurienne-Galibier — col du Télégraphe",
+      "url": "https://www.maurienne-galibier.com/fr/il4-patrimoine,naturel_i4774004-col-du-telegraphe.aspx"
+    },
+    {
+      "name": "Maurienne Tourisme — col du Télégraphe",
+      "url": "http://www.maurienne-tourisme.com/visiter_bouger/col-du-telegraphe-4774004/"
+    },
+    {
+      "name": "Wikipedia (EN) — Col du Télégraphe",
+      "url": "https://en.wikipedia.org/wiki/Col_du_T%C3%A9l%C3%A9graphe"
+    },
+    {
+      "name": "Wikipedia (EN) — Fort du Télégraphe",
+      "url": "https://en.wikipedia.org/wiki/Fort_du_T%C3%A9l%C3%A9graphe"
+    },
+    {
+      "name": "Cols-cyclisme — col du Télégraphe depuis Saint-Michel-de-Maurienne",
+      "url": "https://www.cols-cyclisme.com/arves-et-grandes-rousses/france/col-du-telegraphe-depuis-saint-michel-de-maurienne-c57.htm"
+    },
+    {
+      "name": "Cols-cyclisme — col du Télégraphe depuis Valloire",
+      "url": "https://www.cols-cyclisme.com/arves-et-grandes-rousses/france/col-du-telegraphe-depuis-valloire-c56.htm"
+    },
+    {
+      "name": "Cirkwi — sentier d'interprétation du fort du Télégraphe",
+      "url": "https://www.cirkwi.com/en/circuit/381699-sentier-d-interpretation-du-fort-du-telegraphe"
+    },
+    {
+      "name": "Cirkwi — points de vue et panorama, col du Télégraphe",
+      "url": "https://www.cirkwi.com/fr/point-interet/1743321-col-du-telegraphe"
+    },
+    {
+      "name": "Alpes4ever — col du Télégraphe",
+      "url": "https://alpes4ever.com/france/savoie/les-plus-de-1500-m/col-du-telegraphe/"
+    },
+    {
+      "name": "Préfecture de la Savoie — Tour de France en Savoie, édition 2026",
+      "url": "https://www.savoie.gouv.fr/Actualites/Actualites/Tour-de-France-en-Savoie-Edition-2026"
+    }
+  ],
+  "sparse_data": false,
+  "status": "draft",
+  "type": "nature",
+  "verify_flags": [
+    "LE SEUL COL DE CE LOT OUVERT TOUTE L'ANNÉE — la fiche horaire de l'OT de Valloire porte « ouvert » du 1er janvier au 31 décembre 2026. À 1 566 m, le Télégraphe dessert Valloire et n'est pas fermé l'hiver, contrairement à l'Iseran, au Galibier, au Cormet de Roselend ou au Mont-Cenis. Ne pas lui appliquer par réflexe la phrase « fermé l'hiver » des autres cols.",
+    "DÉNIVELÉ ET PENTES DIVERGENTS SUR LA MÊME MONTÉE — depuis Saint-Michel-de-Maurienne, l'OT de Valloire donne +856 m à 7,3 % de moyenne et 9,7 % au maximum ; en.wikipedia donne +846 m à 7,17 % et 9,8 % au sommet. Les deux s'accordent sur 11,8 km. Dix mètres de dénivelé et des pentes inversées : ne pas fusionner.",
+    "AUCUN PROFIL PUBLIÉ DEPUIS VALLOIRE — l'OT de Valloire ne documente que le versant Saint-Michel. Un chiffre de montée « depuis Valloire » n'est disponible dans aucune source consultée.",
+    "LE FORT N'EST PAS AU COL — il est à 10 minutes de marche, et il n'est ouvert que l'été, en visite guidée, les mercredis et jeudis. Écrire « fort visitable au col » ferait monter quelqu'un un lundi pour trouver porte close. Aucun tarif de visite n'est publié.",
+    "NUMÉRO DE ROUTE ABSENT DE TOUTES LES SOURCES — ni l'OT de Valloire ni en.wikipedia ne donnent de numéro pour la route du col. Le Télégraphe est sur l'axe qui mène au Galibier, que la fiche du Galibier documente en RD 902 / D 902 selon la source, mais aucune source ne l'écrit pour le Télégraphe lui-même. Champ non publié.",
+    "COMPTAGE DU TOUR DE FRANCE À MANIER AVEC PRÉCAUTION — en.wikipedia écrit « depuis 1947, 37 franchissements dont 19 classés ». Ce décompte exclut le passage de 1911. Un chiffre unique de « 37 passages » serait donc faux comme total historique.",
+    "PASSAGE DU TOUR 2026 CONFIRMÉ PAR DEUX CHEMINS — en.wikipedia donne Richard Carapaz en tête au sommet en 2026 ; l'arrêté préfectoral cité par notre fiche col-du-galibier place l'étape 20 du 25 juillet 2026 par le Télégraphe. Aucune source consultée ne donne les horaires de fermeture propres au Télégraphe ce jour-là : ne pas recopier ceux du Galibier.",
+    "DATE DE CONSTRUCTION DU FORT COHÉRENTE MAIS À UN SEUL SOURÇAGE — 1885-1893 ne vient que d'en.wikipedia. Le lien avec le relais Chappe de la ligne Paris-Milan, qui explique le nom du col, vient de la même page.",
+    "ALTITUDE STABLE — 1 566 m est donné à l'identique par l'OT de Valloire, en.wikipedia et cols-cyclisme. C'est le seul col de ce lot sans contradiction d'altitude.",
+    "PARKING, TOILETTES, ANIMAUX, PMR AU COL : aucune source. Champs null."
+  ]
+}

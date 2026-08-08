@@ -1,0 +1,384 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-08",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "remontee-mecanique",
+  "commune": "Val-d'Isère",
+  "date_modified_human": "8 août 2026",
+  "date_published_human": null,
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "checked": "2026-08-08",
+    "confidence": "low",
+    "flag_reason": "Aucun passage Google Places sur le 73 : champs de fraîcheur non renseignés.",
+    "google_match": null,
+    "google_status": "UNKNOWN",
+    "hours": null,
+    "outcome": "NOT_RUN",
+    "phone": null,
+    "place_id": null,
+    "rating": null,
+    "rating_count": null,
+    "registry": null,
+    "site_reachable": null,
+    "status": "UNVERIFIED",
+    "website": null
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": null,
+  "i18n": {
+    "en": {
+      "activities": [
+        {
+          "description": "The lift takes walkers and mountain bikers alike, from 09:45 to 16:45 without a break.",
+          "tag": "Summer",
+          "title": "Ride up on foot or by bike"
+        },
+        {
+          "description": "The three open lifts give access to the bike park; the bike pass is €23 a day and €84 a week.",
+          "tag": "Summer",
+          "title": "Reach the bike park"
+        },
+        {
+          "description": "Sources list the Pisaillas glacier among the access offered by the summer lifts, without saying which lift serves it.",
+          "tag": null,
+          "title": "Approach the Pisaillas glacier"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Olympique cable car</strong> is the Val-d'Isère lift that takes mountain bikes. It is a 3S bicable cable car per its technical record — not a gondola, despite common usage.</p><p>It runs on two pricing regimes: <strong>free for pedestrians</strong> per Val d'Isère, charged for mountain bikes at €23 a day and €84 a week. The advertised price is therefore not the price of the ride: it is the price of the bike.</p><p>It runs from 09:45 to 16:45 <strong>without a break</strong> — worth noting in a département where several lifts stop for an hour at midday.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free for pedestrians · Charged for bikes",
+        "best_season": "Summer (4 July – 30 August 2026)",
+        "commune": "Val-d'Isère",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "3S bicable cable car",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Per its technical record it is a Doppelmayr 3S bicable cable car. The word \"gondola\" circulates but does not match the technical designation.",
+          "q": "Is the Olympique a gondola or a cable car?"
+        },
+        {
+          "a": "Yes, it is the only one of the two lifts documented here that accepts them: the Solaise gondola takes walkers and paragliders only.",
+          "q": "Can you take a mountain bike up?"
+        },
+        {
+          "a": "Nothing for a pedestrian, per Val d'Isère. The bike pass is €23 a day and €84 a week: those figures apply to bikes only.",
+          "q": "How much does the ride cost?"
+        },
+        {
+          "a": "09:45 to 16:45, with no midday break — the sources state this explicitly.",
+          "q": "What are the hours?"
+        },
+        {
+          "a": "No source consulted publishes it, even though the lift is presented as access to the bike park and the Pisaillas glacier.",
+          "q": "How high does it go?"
+        }
+      ],
+      "hero": {
+        "badge": "Free on foot · €23 with a bike",
+        "lead": "The Olympique cable car is the Val-d'Isère lift that takes mountain bikes. Free for pedestrians, 09:45–16:45 with no break."
+      },
+      "hero_alt": "Olympique cable car, Val-d'Isère, Savoie",
+      "how_to_get_there": {
+        "bike": "This is the lift that accepts mountain bikes at Val-d'Isère, with a pass at €23 a day and €84 a week. The Solaise gondola does not allow them.",
+        "car": "Bottom station in the resort of Val-d'Isère.",
+        "public_transport": null
+      },
+      "meta_description": "Val-d'Isère 3S cable car, free for pedestrians and €23 a day with a bike. Open 09:45–16:45 without a break, 4 July to 30 August 2026.",
+      "meta_title": "Olympique Cable Car (Val-d'Isère) · Summer 2026",
+      "name": "Olympique Cable Car",
+      "name_alternates": [
+        "Olympique",
+        "3S de l'Olympique"
+      ],
+      "practical_info": [
+        {
+          "k": "Type",
+          "v": "3S bicable cable car (Doppelmayr). Not a gondola."
+        },
+        {
+          "k": "Arrival altitude",
+          "v": null
+        },
+        {
+          "k": "Pedestrian price",
+          "v": "Free per Val d'Isère"
+        },
+        {
+          "k": "Bike pass",
+          "v": "€23 a day, €84 a week (2026)"
+        },
+        {
+          "k": "Summer 2026",
+          "v": "Three lifts open from 4 July to 30 August 2026, including this one.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Hours",
+          "v": "09:45–16:45, with no midday break.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Admission",
+          "v": "Walkers and mountain bikes. The only one of the two lifts documented here that takes bikes."
+        },
+        {
+          "k": "Access",
+          "v": "Sources list walking trails, the bike park and the Pisaillas glacier among the access offered by the three summer lifts, without allocating them."
+        },
+        {
+          "k": "Coordinates",
+          "v": null
+        },
+        {
+          "k": "Journey time",
+          "v": null
+        },
+        {
+          "k": "Dogs",
+          "v": null
+        },
+        {
+          "k": "Accessibility",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Cable car",
+        "Bike park",
+        "Glacier access"
+      ],
+      "when_to_visit": "<p>4 July to 30 August 2026, 09:45 to 16:45 without a break. Choosing between this and the Solaise gondola comes down to one thing: with a bike it is the Olympique; on foot, either — and free.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "L'appareil est ouvert aux piétons comme aux VTTistes, de 9h45 à 16h45 sans interruption.",
+          "tag": "Été",
+          "title": "Monter à pied ou en VTT"
+        },
+        {
+          "description": "Les trois remontées ouvertes donnent accès au bike park ; le forfait VTT est à 23 € la journée et 84 € la semaine.",
+          "tag": "Été",
+          "title": "Rejoindre le bike park"
+        },
+        {
+          "description": "Les sources citent le glacier du Pisaillas parmi les accès offerts par les remontées d'été, sans préciser lesquelles y mènent.",
+          "tag": null,
+          "title": "Approcher le glacier du Pisaillas"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Le <strong>téléphérique de l'Olympique</strong> est l'appareil de Val-d'Isère qui prend les VTT. C'est un téléphérique bicâble 3S selon sa fiche technique — pas une télécabine, malgré l'usage courant.</p><p>Il fonctionne à deux régimes : <strong>gratuit pour les piétons</strong> selon Val d'Isère, payant pour les VTT à 23 € la journée et 84 € la semaine. Le prix affiché n'est donc pas le prix de la montée : c'est le prix du vélo.</p><p>Il est ouvert de 9h45 à 16h45 <strong>sans interruption</strong> — ce qui mérite d'être noté dans un département où plusieurs appareils s'arrêtent une heure à midi.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuit pour les piétons · Payant pour les VTT",
+        "best_season": "Été (4 juillet – 30 août 2026)",
+        "commune": "Val-d'Isère",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Téléphérique bicâble 3S",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Selon sa fiche technique, c'est un téléphérique bicâble 3S Doppelmayr. Le mot « télécabine » circule mais ne correspond pas à la désignation technique.",
+          "q": "L'Olympique est-il une télécabine ou un téléphérique ?"
+        },
+        {
+          "a": "Oui, c'est le seul des deux appareils documentés ici à les accepter : la télécabine de Solaise ne prend que les piétons et les parapentistes.",
+          "q": "Peut-on monter avec un VTT ?"
+        },
+        {
+          "a": "Rien pour un piéton, selon Val d'Isère. Le forfait VTT est à 23 € la journée et 84 € la semaine : ces montants ne concernent que les vélos.",
+          "q": "Combien coûte la montée ?"
+        },
+        {
+          "a": "De 9h45 à 16h45, sans interruption à la mi-journée — les sources le précisent explicitement.",
+          "q": "Quels sont les horaires ?"
+        },
+        {
+          "a": "Aucune source consultée ne la publie, alors que l'appareil est présenté comme un accès au bike park et au glacier du Pisaillas.",
+          "q": "À quelle altitude arrive-t-on ?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratuit à pied · 23 € en VTT",
+        "lead": "Le téléphérique de l'Olympique est l'appareil de Val-d'Isère qui prend les VTT. Gratuit pour les piétons, 9h45–16h45 sans coupure."
+      },
+      "hero_alt": "Téléphérique de l'Olympique, Val-d'Isère, Savoie",
+      "how_to_get_there": {
+        "bike": "C'est l'appareil qui accepte les VTT à Val-d'Isère, avec un forfait à 23 € la journée et 84 € la semaine. La télécabine de Solaise ne les admet pas.",
+        "car": "Gare de départ dans la station de Val-d'Isère.",
+        "public_transport": null
+      },
+      "meta_description": "Téléphérique 3S de Val-d'Isère, gratuit pour les piétons et à 23 € la journée en VTT. Ouvert 9h45–16h45 sans coupure, du 4 juillet au 30 août 2026.",
+      "meta_title": "Téléphérique de l'Olympique (Val-d'Isère) · Été 2026",
+      "name": "Téléphérique de l'Olympique",
+      "name_alternates": [
+        "Olympique",
+        "3S de l'Olympique"
+      ],
+      "practical_info": [
+        {
+          "k": "Type",
+          "v": "Téléphérique bicâble 3S (Doppelmayr). Ce n'est pas une télécabine."
+        },
+        {
+          "k": "Altitude d'arrivée",
+          "v": null
+        },
+        {
+          "k": "Tarif piéton",
+          "v": "Gratuit selon Val d'Isère"
+        },
+        {
+          "k": "Forfait VTT",
+          "v": "23 € la journée, 84 € la semaine (2026)"
+        },
+        {
+          "k": "Été 2026",
+          "v": "Trois remontées ouvertes du 4 juillet au 30 août 2026, dont celle-ci.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Horaires",
+          "v": "9h45–16h45, sans interruption à la mi-journée.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Admission",
+          "v": "Piétons et VTT. C'est le seul des deux appareils documentés ici à prendre les vélos."
+        },
+        {
+          "k": "Accès",
+          "v": "Les sources citent les randonnées, le bike park et le glacier du Pisaillas parmi les accès offerts par les trois remontées d'été, sans répartir."
+        },
+        {
+          "k": "Coordonnées",
+          "v": null
+        },
+        {
+          "k": "Durée du trajet",
+          "v": null
+        },
+        {
+          "k": "Animaux",
+          "v": null
+        },
+        {
+          "k": "Accessibilité",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Téléphérique",
+        "Bike park",
+        "Accès glacier"
+      ],
+      "when_to_visit": "<p>Du 4 juillet au 30 août 2026, de 9h45 à 16h45 sans coupure. Le choix entre cet appareil et la télécabine de Solaise se fait sur un critère simple : avec un vélo, c'est l'Olympique ; à pied, les deux, et gratuitement.</p>"
+    }
+  },
+  "latitude": null,
+  "longitude": null,
+  "official_site_url": "https://www.valdisere.com/en/val-disere-in-summer/free-lifts-for-pedestrians/",
+  "partners": [],
+  "postal_code": "73150",
+  "price_currency": "EUR",
+  "price_from": 23.0,
+  "price_tiers": [
+    {
+      "label": "Forfait VTT 1 jour",
+      "price": 23.0
+    },
+    {
+      "label": "Forfait VTT 1 semaine",
+      "price": 84.0
+    }
+  ],
+  "research_log": [
+    "Été 2026 : trois remontées ouvertes du 4 juillet au 30 août 2026, donnant accès aux randonnées, au bike park et au glacier du Pisaillas.",
+    "Accès piéton gratuit : Val d'Isère publie une page dédiée intitulée « Free lifts for pedestrians ». Les tarifs ne s'appliquent qu'aux VTT : 23 € la journée et 84 € la semaine en 2026.",
+    "Télécabine de Solaise : relie la station à la tête de Solaise, 2 560 m ; ouverte de 9h45 à 16h45, dernière montée à 16h40 et dernière descente à 16h45 ; accessible aux seuls piétons et parapentistes, les VTT n'y sont pas autorisés.",
+    "Téléphérique de l'Olympique : ouvert aux piétons et aux VTTistes de 9h45 à 16h45 non-stop. Référencé sur remontees-mecaniques.net comme téléphérique bicâble 3S Doppelmayr, et non comme télécabine."
+  ],
+  "schema_org": {
+    "amenities": [
+      "Téléphérique",
+      "Bike park",
+      "Accès glacier"
+    ],
+    "is_free": false,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "telepherique-de-l-olympique",
+  "sources": [
+    {
+      "name": "Val d'Isère — remontées gratuites pour les piétons",
+      "url": "https://www.valdisere.com/en/val-disere-in-summer/free-lifts-for-pedestrians/"
+    },
+    {
+      "name": "Val d'Isère Ski — forfaits piétons et ski de fond",
+      "url": "https://www.valdisere.ski/en/pedestrian-cross-country-skiing-passes"
+    },
+    {
+      "name": "Val d'Isère — que faire la dernière semaine de l'été",
+      "url": "https://www.valdisere.com/en/val-disere-in-summer/what-to-do-in-the-last-week-of-summer-in-val-disere/"
+    },
+    {
+      "name": "Guide Ski — remontées mécaniques Val d'Isère été 2026",
+      "url": "https://guide-ski.fr/remontees-mecaniques-val-disere-ete/"
+    },
+    {
+      "name": "Guide Ski — Val d'Isère été 2026",
+      "url": "https://guide-ski.fr/val-disere-ete/"
+    },
+    {
+      "name": "Forfait2ski — forfaits Val d'Isère, tarifs 2026",
+      "url": "https://www.forfait2ski.com/valdisere/"
+    },
+    {
+      "name": "Remontées-mécaniques.net — téléphérique bicâble 3S de l'Olympique (Doppelmayr)",
+      "url": "https://www.remontees-mecaniques.net/bdd/reportage-3s-de-l-olympique-doppelmayr-6752.html"
+    },
+    {
+      "name": "Radio Val d'Isère — les infos avalines du 20 juillet 2026",
+      "url": "https://www.radiovaldisere.com/fiche-publication/les-infos-avalines-du-20-juillet-2026"
+    }
+  ],
+  "sparse_data": false,
+  "status": "draft",
+  "type": "transport",
+  "verify_flags": [
+    "CE N'EST PAS UNE TÉLÉCABINE — l'appareil est référencé sur remontees-mecaniques.net comme téléphérique bicâble 3S Doppelmayr. Le nom « Olympique » circule aussi avec « télécabine » : la désignation 3S est celle de la fiche technique. Deuxième correction de type dans ce dépôt, après la Pointe de la Masse.",
+    "GRATUIT POUR LES PIÉTONS, PAYANT POUR LES VTT — c'est le même appareil, deux régimes tarifaires. Les 23 € la journée et 84 € la semaine ne concernent que les VTT ; un piéton ne paie pas selon Val d'Isère. Ne pas afficher 23 € comme le prix de la montée.",
+    "SEUL APPAREIL DE VAL-D'ISÈRE À PRENDRE LES VTT parmi les deux documentés ici : la télécabine de Solaise ne les admet pas. C'est la distinction pratique entre les deux fiches.",
+    "PAS DE COUPURE MÉRIDIENNE — les sources précisent « 9h45 à 16h45 non stop ». C'est notable dans un lot où trois appareils s'arrêtent à midi ; l'absence de coupure est ici explicitement affirmée, pas déduite d'un silence.",
+    "ALTITUDE D'ARRIVÉE NON PUBLIÉE — aucune source consultée ne la donne, alors que l'appareil est présenté comme un accès au glacier du Pisaillas et au bike park. Champ null.",
+    "ACCÈS AU GLACIER DU PISAILLAS MENTIONNÉ SANS PRÉCISION — les sources écrivent que les trois remontées ouvertes donnent accès aux randonnées, au bike park et au glacier du Pisaillas, sans dire lesquelles desservent quoi. Ne pas en conclure que l'Olympique mène seul au glacier.",
+    "TROIS REMONTÉES OUVERTES, NON TOUTES NOMMÉES — du 4 juillet au 30 août 2026. Solaise et l'Olympique en font partie ; la troisième n'est pas identifiée par les sources consultées.",
+    "SOURÇAGE PRINCIPALEMENT SECONDAIRE — horaires, régime tarifaire et admission des VTT proviennent d'un agrégateur recoupé par le titre de la page officielle de Val d'Isère. Aucune page tarifaire de l'exploitant n'a été lue directement.",
+    "GPS ABSENT — aucune ligne de la queue DATAtourisme ne correspond à l'appareil sous Val-d'Isère. Attention : les lignes « Olympique » de la queue sont à Albertville (parc olympique, halle olympique), sans aucun rapport. Champs null.",
+    "DURÉE DU TRAJET, ANIMAUX, PMR : aucune source. Champs null."
+  ]
+}

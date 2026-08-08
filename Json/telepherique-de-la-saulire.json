@@ -1,0 +1,407 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-08",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "telecabine",
+  "commune": "Courchevel",
+  "date_modified_human": "8 août 2026",
+  "date_published_human": null,
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "checked": "2026-08-08",
+    "confidence": "low",
+    "flag_reason": "Aucun passage Google Places sur le 73 : champs de fraîcheur non renseignés.",
+    "google_match": null,
+    "google_status": "UNKNOWN",
+    "hours": null,
+    "outcome": "NOT_RUN",
+    "phone": null,
+    "place_id": null,
+    "rating": null,
+    "rating_count": null,
+    "registry": null,
+    "site_reachable": null,
+    "status": "UNVERIFIED",
+    "website": null
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": null,
+  "i18n": {
+    "en": {
+      "activities": [
+        {
+          "description": "360° views over the Vanoise glaciers and the Mont-Blanc massif from the top station, per the Société des 3 Vallées press pack.",
+          "tag": null,
+          "title": "The 2,710 m panorama"
+        },
+        {
+          "description": "A restaurant, Le Panoramic, and a picnic area called the Nid de la Saulire are listed at the top by Skipass Courchevel. Opening hours not published.",
+          "tag": null,
+          "title": "Lunch at Le Panoramic"
+        },
+        {
+          "description": "The top station serves the Combe de la Saulire and the Grand Couloir, both named by the Société des 3 Vallées.",
+          "tag": "Winter",
+          "title": "Ski the Combe de la Saulire and the Grand Couloir"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Téléphérique de la Saulire</strong> runs from a bottom station at 2,077 m to a top station at 2,710 m above Courchevel, in Savoie. It is operated by the Société des 3 Vallées (S3V).</p><p>The installation was entirely rebuilt by POMA, with cabins by Sigma, for €10 million. It reopened to the public on Friday 6 December 2024, with an inauguration on 12 December. Stated throughput: 1,500 people per hour. Cabin capacity is given as about 130 by S3V — explicitly reduced from the 142 of the previous cabins because the new components are heavier — while another source writes 133. We therefore do not publish that figure.</p><p>From the top there is a 360° panorama over the Vanoise glaciers and the Mont-Blanc massif. In winter the top station serves the Combe de la Saulire and the Grand Couloir. Note that the bottom station sits at 2,077 m, well above the village of Courchevel 1850: a feeder lift is needed, and no operator source states which one runs in summer 2026.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Paid",
+        "best_season": "4 July – 30 August 2026 (summer)",
+        "commune": "Courchevel",
+        "dogs": null,
+        "duration": null,
+        "parking": null,
+        "tarif": "“Sommets” pedestrian ticket €25 (one ascent, ticket desk only)",
+        "type": "Panoramic cable car"
+      },
+      "faq": [
+        {
+          "a": "2,710 m, per two Société des 3 Vallées documents. The Saulire summit itself is 2,738 m — a different point from the arrival station.",
+          "q": "How high does the Téléphérique de la Saulire go?"
+        },
+        {
+          "a": "Yes. It was rebuilt by POMA with Sigma cabins for €10 million and reopened to the public on Friday 6 December 2024. Any earlier technical figure is stale.",
+          "q": "Was the Saulire cable car rebuilt?"
+        },
+        {
+          "a": "4 July to 30 August 2026, daily, 9:30am–4:30pm per Les 3 Vallées. The pedestrian-pass pages say 28 August: check with S3V.",
+          "q": "What are the summer 2026 dates?"
+        },
+        {
+          "a": "Skipass Courchevel sells a “Sommets” ticket at €25 for one ascent, at the ticket desk only. Note that les3vallees.com states the Saulire is not accessible on the €23.50 one-day pedestrian pass. The two sources contradict each other.",
+          "q": "What does a pedestrian ride cost?"
+        },
+        {
+          "a": "No source we consulted says. We do not publish an answer without a verified one: call S3V on 04 79 08 04 09.",
+          "q": "Are dogs allowed on the Saulire cable car?"
+        }
+      ],
+      "hero": {
+        "badge": "Paid · Rebuilt in 2024",
+        "lead": "The Téléphérique de la Saulire climbs from 2,077 m to 2,710 m above Courchevel. The installation was entirely rebuilt by POMA and reopened to the public on 6 December 2024 — every figure predating that is stale."
+      },
+      "hero_alt": "Téléphérique de la Saulire, Courchevel, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "The bottom station is at 2,077 m, above the village. No operator source states which feeder lift serves the cable car in summer 2026: ask S3V.",
+        "public_transport": null
+      },
+      "meta_description": "Bottom station 2,077 m, top station 2,710 m. Rebuilt by POMA, reopened 6 December 2024. Summer 2026: 4 July – 30 August, 9:30am–4:30pm. Operated by Société des 3 Vallées.",
+      "meta_title": "Téléphérique de la Saulire (Courchevel) · Verified facts 2026",
+      "name": "Saulire Cable Car",
+      "name_alternates": [
+        "Téléphérique de la Saulire",
+        "Saulire",
+        "Sommet de la Saulire"
+      ],
+      "practical_info": [
+        {
+          "k": "Altitude",
+          "v": "Bottom station 2,077 m · top station 2,710 m (S3V). The Saulire summit, at 2,738 m, is a separate point from where the cable car arrives."
+        },
+        {
+          "k": "Operator",
+          "v": "Société des 3 Vallées (S3V)"
+        },
+        {
+          "k": "Summer 2026 hours",
+          "v": "4 July to 30 August 2026, daily, 9:30am–4:30pm (Les 3 Vallées). The pedestrian-pass pages give validity to 28 August: unresolved discrepancy.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Winter 2026-2027 hours",
+          "v": null
+        },
+        {
+          "k": "Prices",
+          "v": "“Sommets” pedestrian ticket (one ascent: Saulire, Vizelle or Chenus) €25, ticket desk only (Skipass Courchevel). Les 3 Vallées 1-day summer pedestrian pass €23.50 adult / €17.60 child 5–17, but les3vallees.com excludes the Saulire from that pass; it is covered by the 7-day (€65.50 / €49.10) and season passes. Contradiction unresolved.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Descent",
+          "v": "Free for anyone holding a transport pass proving their ascent (Les 3 Vallées)."
+        },
+        {
+          "k": "Journey time",
+          "v": null
+        },
+        {
+          "k": "Parking",
+          "v": null
+        },
+        {
+          "k": "Dogs",
+          "v": null
+        },
+        {
+          "k": "Accessibility",
+          "v": null
+        },
+        {
+          "k": "Contact",
+          "v": "S3V — 04 79 08 04 09 · contact@s3v.com",
+          "verified": "2026-08-08"
+        }
+      ],
+      "schema_amenities": [
+        "Le Panoramic restaurant",
+        "Picnic area"
+      ],
+      "when_to_visit": "<p>Summer 2026 operation runs 4 July to 30 August, daily 9:30am–4:30pm. Outside that window access depends on the ski season, whose 2026-2027 dates are not yet published.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Vue à 360° sur les glaciers de la Vanoise et le massif du Mont-Blanc depuis la gare amont, selon le dossier de presse de la Société des 3 Vallées.",
+          "tag": null,
+          "title": "Monter au panorama de la Saulire (2 710 m)"
+        },
+        {
+          "description": "Un restaurant Le Panoramic et une aire de pique-nique appelée le Nid de la Saulire sont signalés au sommet par Skipass Courchevel. Horaires non publiés.",
+          "tag": null,
+          "title": "Déjeuner au restaurant Le Panoramic"
+        },
+        {
+          "description": "La gare amont dessert la Combe de la Saulire et le Grand Couloir, cités par la Société des 3 Vallées.",
+          "tag": "Hiver",
+          "title": "Skier la Combe de la Saulire et le Grand Couloir"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Le <strong>téléphérique de la Saulire</strong> relie une gare aval située à 2 077 m à une gare amont à 2 710 m, au-dessus de Courchevel, en Savoie. Il est exploité par la Société des 3 Vallées (S3V).</p><p>L'installation a été entièrement reconstruite par POMA, cabines signées Sigma, pour un investissement de 10 millions d'euros. Elle a rouvert au public le vendredi 6 décembre 2024, avec une inauguration le 12 décembre. Débit annoncé : 1 500 personnes par heure. La capacité par cabine est donnée à environ 130 places par S3V, qui précise qu'elle a été réduite depuis les 142 places des anciennes cabines, les nouveaux composants étant plus lourds ; une autre source écrit 133. Ce chiffre n'est donc pas publié ici.</p><p>Depuis l'arrivée, le panorama est à 360° sur les glaciers de la Vanoise et le massif du Mont-Blanc. En hiver, la gare amont dessert la Combe de la Saulire et le Grand Couloir. Attention : la gare de départ est à 2 077 m, bien au-dessus du village de Courchevel 1850 — une remontée d'approche est nécessaire, et aucune source de l'exploitant n'indique laquelle pour l'été 2026.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Payant",
+        "best_season": "4 juillet – 30 août 2026 (été)",
+        "commune": "Courchevel",
+        "dogs": null,
+        "duration": null,
+        "parking": null,
+        "tarif": "Billet piéton « Sommets » 25 € (une montée, caisse uniquement)",
+        "type": "Téléphérique panoramique"
+      },
+      "faq": [
+        {
+          "a": "À 2 710 m, selon deux documents de la Société des 3 Vallées. Le sommet de la Saulire lui-même culmine à 2 738 m : c'est un point différent de la gare d'arrivée.",
+          "q": "À quelle altitude arrive le téléphérique de la Saulire ?"
+        },
+        {
+          "a": "Oui. Il a été reconstruit par POMA, cabines Sigma, pour 10 millions d'euros, et a rouvert au public le vendredi 6 décembre 2024. Toute donnée technique antérieure est périmée.",
+          "q": "Le téléphérique de la Saulire a-t-il été reconstruit ?"
+        },
+        {
+          "a": "Du 4 juillet au 30 août 2026, tous les jours, de 9h30 à 16h30 selon Les 3 Vallées. Les pages forfait piéton indiquent une validité jusqu'au 28 août : vérifier auprès de S3V.",
+          "q": "Quelles sont les dates d'ouverture en été 2026 ?"
+        },
+        {
+          "a": "Skipass Courchevel vend un billet « Sommets » à 25 € pour une montée, en caisse uniquement. Attention : les3vallees.com indique que la Saulire n'est pas accessible avec le forfait piéton 1 jour à 23,50 €. Les deux sources se contredisent.",
+          "q": "Combien coûte la montée à pied ?"
+        },
+        {
+          "a": "Aucune source consultée ne le précise. Nous ne publions pas de réponse faute d'information vérifiée : appelez S3V au 04 79 08 04 09.",
+          "q": "Les chiens sont-ils acceptés sur le téléphérique de la Saulire ?"
+        }
+      ],
+      "hero": {
+        "badge": "Payant · Reconstruit en 2024",
+        "lead": "Le téléphérique de la Saulire monte de 2 077 m à 2 710 m au-dessus de Courchevel. L'installation a été entièrement reconstruite par POMA et rouverte au public le 6 décembre 2024 : toute donnée antérieure à cette date est périmée."
+      },
+      "hero_alt": "Téléphérique de la Saulire, Courchevel, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Gare aval à 2 077 m, au-dessus du village. Aucune source de l'exploitant n'indique la remontée d'approche desservant le téléphérique en été 2026 : se renseigner auprès de S3V.",
+        "public_transport": null
+      },
+      "meta_description": "Gare aval 2 077 m, gare amont 2 710 m. Reconstruit par POMA, rouvert le 6 décembre 2024. Été 2026 : 4 juillet – 30 août, 9h30–16h30. Exploitant Société des 3 Vallées.",
+      "meta_title": "Téléphérique de la Saulire (Courchevel) · Faits vérifiés 2026",
+      "name": "Téléphérique de la Saulire",
+      "name_alternates": [
+        "Saulire",
+        "Téléphérique Saulire Courchevel",
+        "Sommet de la Saulire"
+      ],
+      "practical_info": [
+        {
+          "k": "Altitude",
+          "v": "Gare aval 2 077 m · gare amont 2 710 m (source S3V). Le sommet de la Saulire, à 2 738 m, est un point distinct de l'arrivée du téléphérique."
+        },
+        {
+          "k": "Exploitant",
+          "v": "Société des 3 Vallées (S3V)"
+        },
+        {
+          "k": "Horaires été 2026",
+          "v": "Du 4 juillet au 30 août 2026, 7 j/7, 9h30–16h30 (Les 3 Vallées). Les pages forfait piéton donnent une validité jusqu'au 28 août : écart non résolu.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Horaires hiver 2026-2027",
+          "v": null
+        },
+        {
+          "k": "Tarifs",
+          "v": "Billet piéton « Sommets » (une montée : Saulire, Vizelle ou Chenus) 25 €, vente en caisse uniquement (Skipass Courchevel). Forfait piéton été 1 jour Les 3 Vallées 23,50 € adulte / 17,60 € enfant 5–17 ans, mais les3vallees.com exclut la Saulire de ce forfait ; elle est accessible avec le 7 jours (65,50 € / 49,10 €) et la saison. Contradiction non résolue.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Descente",
+          "v": "Gratuite pour qui détient un titre de transport prouvant la montée (Les 3 Vallées)."
+        },
+        {
+          "k": "Durée de trajet",
+          "v": null
+        },
+        {
+          "k": "Parking",
+          "v": null
+        },
+        {
+          "k": "Animaux",
+          "v": null
+        },
+        {
+          "k": "Accessibilité",
+          "v": null
+        },
+        {
+          "k": "Contact",
+          "v": "S3V — 04 79 08 04 09 · contact@s3v.com",
+          "verified": "2026-08-08"
+        }
+      ],
+      "schema_amenities": [
+        "Restaurant Le Panoramic",
+        "Aire de pique-nique"
+      ],
+      "when_to_visit": "<p>L'exploitation estivale 2026 court du 4 juillet au 30 août, tous les jours de 9h30 à 16h30. En dehors de cette fenêtre, l'accès dépend de la saison de ski, dont les dates 2026-2027 ne sont pas publiées à ce jour.</p>"
+    }
+  },
+  "latitude": 45.389041,
+  "longitude": 6.614401,
+  "official_site_url": "https://www.s3v.com/en/nouveau-telepherique-saulire/",
+  "partners": [],
+  "postal_code": "73120",
+  "price_currency": "EUR",
+  "price_from": 25.0,
+  "price_tiers": [
+    {
+      "name": "Piéton « Sommets » — une montée (Saulire, Vizelle ou Chenus)",
+      "note": "Vente en caisse uniquement. Tarif enfant non publié pour ce produit.",
+      "price": 25.0
+    },
+    {
+      "name": "Forfait piéton été 1 jour Les 3 Vallées — adulte (18 ans et +)",
+      "note": "La Saulire est explicitement exclue du forfait piéton 1 jour selon les3vallees.com.",
+      "price": 23.5
+    },
+    {
+      "name": "Forfait piéton été 1 jour Les 3 Vallées — enfant (5–17 ans)",
+      "note": "Gratuit moins de 5 ans.",
+      "price": 17.6
+    },
+    {
+      "name": "Forfait piéton été 7 jours Les 3 Vallées — adulte",
+      "note": "Donne accès à la Saulire selon les3vallees.com.",
+      "price": 65.5
+    },
+    {
+      "name": "Forfait piéton été 7 jours Les 3 Vallées — enfant (5–17 ans)",
+      "note": null,
+      "price": 49.1
+    }
+  ],
+  "research_log": [
+    "S3V, communiqué de presse Saulire 2024 (PDF) : gare aval 2 077 m, gare amont 2 710 m, ~130 places par cabine, 1 500 p/h, reconstruction POMA (cabines Sigma), 10 M€.",
+    "S3V, dossier de presse automne-hiver 24/25 (PDF) : réouverture au public vendredi 6 décembre 2024, inauguration 12 décembre 2024 ; panorama 360° sur les glaciers de la Vanoise et le massif du Mont-Blanc ; accès Combe de la Saulire et Grand Couloir en hiver.",
+    "Les 3 Vallées, ouvertures été 2026 : 4 juillet – 30 août 2026, 7 j/7, 9h30–16h30.",
+    "Infosnews : dénivelé 633 m, longueur de ligne 1 710 m, 133 passagers, 3 minutes.",
+    "IGN data.geopf.fr, index POI : installation 45.389041 / 6.614401 ; sommet de la Saulire 45.383344 / 6.610318 (deux points distincts).",
+    "Les 3 Vallées, contacts sociétés de remontées : S3V +33 (0)4 79 08 04 09, contact@s3v.com."
+  ],
+  "schema_org": {
+    "amenities": [
+      "Restaurant Le Panoramic",
+      "Aire de pique-nique"
+    ],
+    "is_free": false,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "telepherique-de-la-saulire",
+  "sources": [
+    {
+      "name": "Société des 3 Vallées — communiqué de presse Saulire 2024",
+      "url": "https://www.s3v.com/app/uploads/2024/10/cp-saulire-2024.pdf"
+    },
+    {
+      "name": "Société des 3 Vallées — dossier de presse automne-hiver 24/25",
+      "url": "https://www.s3v.com/app/uploads/2024/11/societe-des-3-vallees-dossier-de-presse-automne-hiver-24-25.pdf"
+    },
+    {
+      "name": "Les 3 Vallées — ouvertures été 2026",
+      "url": "https://www.les3vallees.com/en/news/3-vallees-openings"
+    },
+    {
+      "name": "Les 3 Vallées — forfait piéton été 1 jour",
+      "url": "https://www.les3vallees.com/en/skipass/1-day-pedestrian-summer-pass"
+    },
+    {
+      "name": "Les 3 Vallées — forfait piéton été 7 jours",
+      "url": "https://www.les3vallees.com/en/skipass/7-day-pedestrian-summer-pass"
+    },
+    {
+      "name": "Skipass Courchevel — forfait piéton",
+      "url": "https://www.skipasscourchevel.com/fr/forfait-pieton"
+    },
+    {
+      "name": "Courchevel Tourisme — point de vue Sommet de la Saulire",
+      "url": "https://courchevel.com/en/a/viewpoint-sommet-saulire-7122219/"
+    },
+    {
+      "name": "IGN — géocodeur POI data.geopf.fr",
+      "url": "https://data.geopf.fr/geocodage/search?q=T%C3%A9l%C3%A9ph%C3%A9rique%20de%20la%20Saulire%20Courchevel&index=poi&limit=10"
+    },
+    {
+      "name": "Infosnews — La Saulire, une légende de retour au sommet",
+      "url": "https://www.infosnews.fr/articles/la-saulire-une-legende-de-retour-au-sommet"
+    },
+    {
+      "name": "Skipass Courchevel — blog, la Saulire",
+      "url": "https://www.skipasscourchevel.com/en/blog/saulire-courchevel"
+    },
+    {
+      "name": "Wikipedia (EN) — Sommet de la Saulire",
+      "url": "https://en.wikipedia.org/wiki/Sommet_de_la_Saulire"
+    }
+  ],
+  "sparse_data": false,
+  "status": "draft",
+  "type": "montagne",
+  "verify_flags": [
+    "ALTITUDE — ne pas confondre : 2 710 m est la gare amont du téléphérique (deux documents S3V + Infosnews). 2 738 m est le sommet de la Saulire (en.wikipedia.org/wiki/Sommet_de_la_Saulire), 28 m au-dessus de l'arrivée. 2 740 m circule sur skipasscourchevel.com et se rattache généralement à la télécabine du Pas du Lac, une autre installation, depuis Méribel-Mottaret. Seule 2 710 m est publiable comme altitude d'arrivée.",
+    "CAPACITÉ CONTRADICTOIRE — S3V écrit « environ 130 places » (explicitement réduites depuis 142 sur les anciennes cabines, les nouveaux composants étant plus lourds) ; Infosnews écrit 133. Champ laissé null.",
+    "TARIFS CONTRADICTOIRES — les3vallees.com exclut explicitement la Saulire du forfait piéton 1 jour et ne la rend accessible qu'avec les forfaits 7 jours et saison ; skipasscourchevel.com la dit couverte par le billet « Sommets » à 25 €, vendu en caisse uniquement. Les deux ne peuvent pas être complètes. À vérifier auprès de S3V avant publication d'un tarif unique.",
+    "SAISON CONTRADICTOIRE — exploitation annoncée du 4 juillet au 30 août 2026 ; les pages forfait piéton donnent une validité 4 juillet – 28 août 2026. Deux jours d'écart en fin de saison.",
+    "DÉPART — la gare aval est à 2 077 m, nettement au-dessus du village de Courchevel 1850. Une remontée d'approche est nécessaire ; aucune source opérateur ne dit laquelle en été 2026. Ne pas écrire « départ de Courchevel 1850 ».",
+    "DURÉE DE TRAJET — 3 minutes, source unique non-opérateur (Infosnews). Les deux documents S3V ne donnent pas de temps de parcours. Champ null.",
+    "GPS — l'IGN ne renvoie qu'un point POI pour l'installation entière (45.389041, 6.614401), pas deux gares distinctes. Le sommet de la Saulire est un autre point (45.383344, 6.610318). Ne pas scinder ce point unique en deux coordonnées de gare inventées.",
+    "PMR, chiens et parking : aucune donnée trouvée sur aucune source. Champs null.",
+    "DONNÉES PÉRIMÉES À REJETER — tout ce qui vient de l'installation de 1952 (2 070 m / 2 690 m, 30 places, 360 p/h, Neyret-Beylier) et toute capacité cabine antérieure à décembre 2024 (142 places)."
+  ]
+}

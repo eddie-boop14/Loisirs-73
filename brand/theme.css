@@ -1,0 +1,95 @@
+/* Loisirs 73 — design tokens
+ *
+ * Variable NAMES are identical to the 74's, on purpose: when the engine is
+ * transplanted (docs/LAUNCH-PLAN.md step 2) this file drops in and every
+ * template keeps working. Only the accent family differs.
+ *
+ * The neutrals (bg / surface / ink / line) are the 74's, unchanged — that is
+ * the family DNA. The accent moves from Haute-Savoie's forest green to
+ * Savoie's glacier blue, and a crimson identity mark carries the cross of
+ * Savoy.
+ *
+ * Every pair below was measured, not eyeballed (WCAG 2.1 contrast):
+ *   light: ink/bg 18.61 · ink-soft/bg 10.13 · ink-mute/bg 4.65 (AA)
+ *          accent/bg 8.28 · accent-ink/accent 8.66 · savoie/bg 5.63
+ *   dark:  ink/bg 17.96 · ink-soft/bg 12.39 · ink-mute/bg 6.40
+ *          accent/bg 12.11 · accent-ink/accent 12.11 · savoie/bg 5.04
+ * Nothing here falls below AA. For reference the 74's accent pair is
+ * 7.92 / 8.28 — the 73 sits at the same visual weight, deliberately.
+ *
+ * --savoie is an IDENTITY colour: the logo cross, a rare highlight. It is
+ * never a body-text colour and never a large surface. Crimson at scale reads
+ * as an error state; that is not what Savoie means.
+ *
+ * 2026 · Bleu canard édition · Edmaster & Claudius 🦆
+ */
+
+:root {
+  /* surfaces + text — shared with the 74 */
+  --bg: #fafaf7;
+  --surface: #ffffff;
+  --surface-2: #f3f3ee;
+  --ink: #0b0d10;
+  --ink-soft: #3a3f47;
+  --ink-mute: #6a727d;
+  --line: #e3e3dc;
+
+  /* accent — glacier blue (74: forest green #0a5a3a) */
+  --accent: #0b5170;
+  --accent-2: #06344a;
+  --accent-ink: #ffffff;
+  --focus: #0b5170;
+  --good: #0b5170;
+
+  /* identity — croix de Savoie. Logo and small marks only. */
+  --savoie: #C8102E;
+
+  /* warm highlight — shared with the 74 */
+  --hl: #fef0c7;
+
+  --shadow-sm: 0 1px 0 rgba(11, 13, 16, .04);
+  --shadow: 0 1px 0 rgba(11, 13, 16, .04), 0 8px 24px -12px rgba(11, 13, 16, .18);
+  --shadow-lg: 0 1px 0 rgba(11, 13, 16, .04), 0 24px 48px -16px rgba(11, 13, 16, .22);
+
+  --radius: 14px;
+  --radius-lg: 20px;
+  --max: 64rem;
+  --pad: clamp(1rem, 3vw, 2rem);
+  --pad-y: clamp(3rem, 7vw, 6rem);
+  --ease: cubic-bezier(.2, .7, .2, 1);
+
+  --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu,
+          Cantarell, "Helvetica Neue", Arial, sans-serif;
+  --mono: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+  --serif: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0b0d10;
+    --surface: #13171c;
+    --surface-2: #181d23;
+    --ink: #f4f6f8;
+    --ink-soft: #c8cfd8;
+    --ink-mute: #8b95a1;
+    --line: #262c34;
+
+    --accent: #7ad9f5;
+    --accent-2: #a8e8fa;
+    --accent-ink: #0b0d10;
+    --focus: #7ad9f5;
+    --good: #7ad9f5;
+
+    /* lifted crimson: #C8102E only reaches 3.31:1 on this background */
+    --savoie: #E8455E;
+
+    --hl: #3a2f15;
+
+    --shadow-sm: 0 1px 0 rgba(0, 0, 0, .3);
+    --shadow: 0 1px 0 rgba(0, 0, 0, .3), 0 8px 24px -12px rgba(0, 0, 0, .7);
+    --shadow-lg: 0 1px 0 rgba(0, 0, 0, .3), 0 24px 48px -16px rgba(0, 0, 0, .8);
+  }
+}
+
+/* The brand ground — the logo's field. Used behind the mark, never as page bg. */
+:root { --brand-ground: #15496a; }

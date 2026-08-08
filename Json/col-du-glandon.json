@@ -1,0 +1,378 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-08",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "point-de-vue",
+  "commune": "Saint-Colomban-des-Villards",
+  "date_modified_human": "8 août 2026",
+  "date_published_human": null,
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "checked": "2026-08-08",
+    "confidence": "low",
+    "flag_reason": "Aucun passage Google Places sur le 73 : champs de fraîcheur non renseignés.",
+    "google_match": null,
+    "google_status": "UNKNOWN",
+    "hours": null,
+    "outcome": "NOT_RUN",
+    "phone": null,
+    "place_id": null,
+    "rating": null,
+    "rating_count": null,
+    "registry": null,
+    "site_reachable": null,
+    "status": "UNVERIFIED",
+    "website": null
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": null,
+  "i18n": {
+    "en": {
+      "activities": [
+        {
+          "description": "The pass is the focal point of the Villards valley, described by the tourist office as a cycle-touring site. No climb profile is published.",
+          "tag": null,
+          "title": "Ride up the pass"
+        },
+        {
+          "description": "The Glandon and the Col de la Croix de Fer are about 2.5 km apart and are often ridden back to back.",
+          "tag": null,
+          "title": "Link up with the Croix de Fer"
+        },
+        {
+          "description": "The pass road was built in 1898 according to the Saint-Colomban-des-Villards tourist office.",
+          "tag": null,
+          "title": "A road from 1898"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Col du Glandon</strong> tops out at 1,924 m and links, per en.wikipedia, Le Bourg-d'Oisans to La Chambre — that is, the Isère to the Savoie. It is the focal point of the Villards valley, and it touches the Col de la Croix de Fer, about 2.5 km away.</p><p>In 2026 one fact outranks all others: <strong>the pass was not reachable from Saint-Colomban-des-Villards before 19 June</strong>, because of the replacement of a drainage structure undertaken after several mudslides. That is far later than the other Savoie passes, and it affects this side only.</p><p>The count of its Tour de France crossings is uncertain: the tourist office claims fourteen, en.wikipedia lists thirteen ranked appearances since 1977 while dating the first crossing to 1947. No number is published here.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free",
+        "best_season": "Late June – October",
+        "commune": "Saint-Colomban-des-Villards",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Road pass and viewpoint",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "1,924 m. The tourist office and en.wikipedia give the same figure.",
+          "q": "How high is the Col du Glandon?"
+        },
+        {
+          "a": "Much later than the other Savoie passes: access from Saint-Colomban-des-Villards was not possible before 19 June 2026, because of the replacement of a drainage structure after several mudslides. Neither the time nor the weekday is published.",
+          "q": "When did the Col du Glandon open in 2026?"
+        },
+        {
+          "a": "No. They are two distinct passes about 2.5 km apart, often ridden back to back. The 2026 works affected access to the Glandon from Saint-Colomban, not the Croix de Fer.",
+          "q": "Are the Glandon and the Col de la Croix de Fer the same pass?"
+        },
+        {
+          "a": "The sources contradict each other: fourteen crossings per the tourist office, thirteen ranked appearances since 1977 per en.wikipedia, which also dates the first crossing to 1947. Those claims are not compatible, so no number is retained.",
+          "q": "How many times has the Tour de France crossed the Glandon?"
+        },
+        {
+          "a": "en.wikipedia describes it as linking Le Bourg-d'Oisans, in the Isère, to La Chambre, in the Savoie. It straddles the two: this page treats it from its Savoyard side, Saint-Colomban-des-Villards.",
+          "q": "Is the Col du Glandon in Savoie or in Isère?"
+        }
+      ],
+      "hero": {
+        "badge": "Free access · Late opening in 2026",
+        "lead": "The Col du Glandon tops out at 1,924 m between the Isère and the Savoie, 2.5 km from the Croix de Fer. In 2026 its Savoyard side did not open before 19 June."
+      },
+      "hero_alt": "Col du Glandon from the Villards valley, Savoie",
+      "how_to_get_there": {
+        "bike": "The Villards valley is described by its tourist office as a cycle-touring site with the Glandon as its focal point. No climb profile, from La Chambre or from Le Bourg-d'Oisans, is published by the sources consulted.",
+        "car": "On the D927 per en.wikipedia — a number no French source consulted repeats. In 2026, access from Saint-Colomban-des-Villards was closed until 19 June for the replacement of a drainage structure.",
+        "public_transport": null
+      },
+      "meta_description": "Pass at 1,924 m between the Isère and the Savoie, 2.5 km from the Croix de Fer. In 2026, access from Saint-Colomban-des-Villards did not open before 19 June.",
+      "meta_title": "Col du Glandon · 1,924 m, 2026 opening, access",
+      "name": "Col du Glandon",
+      "name_alternates": [
+        "Le Glandon",
+        "Col du Glandon (D927)"
+      ],
+      "practical_info": [
+        {
+          "k": "Altitude",
+          "v": "1,924 m (Saint-Colomban tourist office and en.wikipedia agree)"
+        },
+        {
+          "k": "Coordinates",
+          "v": "45.239444° N, 6.175556° E (en.wikipedia)"
+        },
+        {
+          "k": "Road",
+          "v": "D927 per en.wikipedia. No French source consulted gives a number."
+        },
+        {
+          "k": "2026 opening",
+          "v": "No access from Saint-Colomban-des-Villards before 19 June 2026, because of the replacement of a drainage structure after several mudslides. Neither time nor weekday published.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "2026 closing",
+          "v": null
+        },
+        {
+          "k": "Price",
+          "v": "Free, open access"
+        },
+        {
+          "k": "Situation",
+          "v": "Links Le Bourg-d'Oisans (Isère) to La Chambre (Savoie) per en.wikipedia. The pass straddles two départements."
+        },
+        {
+          "k": "Neighbouring pass",
+          "v": "The Col de la Croix de Fer is about 2.5 km away. They are two distinct passes: dates for one do not apply to the other."
+        },
+        {
+          "k": "Road construction",
+          "v": "1898 per the Saint-Colomban-des-Villards tourist office (single source)."
+        },
+        {
+          "k": "Parking",
+          "v": null
+        },
+        {
+          "k": "Dogs",
+          "v": null
+        },
+        {
+          "k": "Accessibility",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Car park",
+        "Viewpoint",
+        "Trailhead"
+      ],
+      "when_to_visit": "<p>en.wikipedia describes the pass as \"normally closed from the beginning of November to mid May\", which is a seasonal habit rather than an announcement. In 2026 the Savoyard side opened far later: no access from Saint-Colomban before 19 June. No 2026 closing date is published.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Le col est le point focal de la vallée des Villards, décrite par l'office de tourisme comme un site de cyclotourisme. Aucun profil de montée n'est publié.",
+          "tag": null,
+          "title": "Monter au col à vélo"
+        },
+        {
+          "description": "Le Glandon et le col de la Croix de Fer sont distants d'environ 2,5 km et se franchissent souvent d'affilée.",
+          "tag": null,
+          "title": "Enchaîner avec la Croix de Fer"
+        },
+        {
+          "description": "La route du col a été construite en 1898 selon l'office de tourisme de Saint-Colomban-des-Villards.",
+          "tag": null,
+          "title": "Une route de 1898"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Le <strong>col du Glandon</strong> culmine à 1 924 m et relie, selon en.wikipedia, Le Bourg-d'Oisans à La Chambre — donc l'Isère à la Savoie. Il est le point focal de la vallée des Villards, et il touche le col de la Croix de Fer, à environ 2,5 km.</p><p>En 2026, un point domine tous les autres : <strong>le col n'était pas accessible depuis Saint-Colomban-des-Villards avant le 19 juin</strong>, en raison du remplacement d'un ouvrage d'assainissement entrepris après plusieurs coulées de boue. C'est une ouverture bien plus tardive que celle des autres cols de Savoie, et elle ne concerne que ce versant.</p><p>Le décompte de ses passages au Tour de France est incertain : l'office de tourisme annonce quatorze franchissements, en.wikipedia en recense treize classés depuis 1977 tout en datant le premier passage de 1947. Aucun nombre n'est publié ici.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Libre · Gratuit",
+        "best_season": "Fin juin – octobre",
+        "commune": "Saint-Colomban-des-Villards",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Col routier et point de vue",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "1 924 m. L'office de tourisme et en.wikipedia donnent le même chiffre.",
+          "q": "Quelle est l'altitude du col du Glandon ?"
+        },
+        {
+          "a": "Bien plus tard que les autres cols de Savoie : l'accès depuis Saint-Colomban-des-Villards n'a pas été possible avant le 19 juin 2026, en raison du remplacement d'un ouvrage d'assainissement après plusieurs coulées de boue. Ni l'heure ni le jour de la semaine ne sont publiés.",
+          "q": "Quand le col du Glandon a-t-il ouvert en 2026 ?"
+        },
+        {
+          "a": "Non. Ce sont deux cols distincts, distants d'environ 2,5 km, souvent franchis d'affilée. Les travaux de 2026 concernaient l'accès au Glandon depuis Saint-Colomban, pas la Croix de Fer.",
+          "q": "Le Glandon et le col de la Croix de Fer sont-ils le même col ?"
+        },
+        {
+          "a": "Les sources se contredisent : quatorze franchissements selon l'office de tourisme, treize apparitions classées depuis 1977 selon en.wikipedia, qui date par ailleurs le premier passage de 1947. Ces affirmations ne sont pas compatibles, aucun nombre n'est retenu.",
+          "q": "Combien de fois le Tour de France est-il passé au Glandon ?"
+        },
+        {
+          "a": "en.wikipedia le décrit comme reliant Le Bourg-d'Oisans, en Isère, à La Chambre, en Savoie. Il est donc à cheval : cette fiche le traite depuis son versant savoyard, Saint-Colomban-des-Villards.",
+          "q": "Le col du Glandon est-il en Savoie ou en Isère ?"
+        }
+      ],
+      "hero": {
+        "badge": "Accès libre · Ouverture tardive en 2026",
+        "lead": "Le col du Glandon culmine à 1 924 m entre Isère et Savoie, à 2,5 km de la Croix de Fer. En 2026, son versant savoyard n'a pas ouvert avant le 19 juin."
+      },
+      "hero_alt": "Col du Glandon depuis la vallée des Villards, Savoie",
+      "how_to_get_there": {
+        "bike": "La vallée des Villards est décrite par son office de tourisme comme un site de cyclotourisme dont le Glandon est le point focal. Aucun profil de montée, ni depuis La Chambre ni depuis Le Bourg-d'Oisans, n'est publié par les sources consultées.",
+        "car": "Par la D927 selon en.wikipedia — numéro qu'aucune source française consultée ne reprend. En 2026, l'accès depuis Saint-Colomban-des-Villards était fermé jusqu'au 19 juin pour le remplacement d'un ouvrage d'assainissement.",
+        "public_transport": null
+      },
+      "meta_description": "Col à 1 924 m entre Isère et Savoie, à 2,5 km de la Croix de Fer. En 2026, l'accès depuis Saint-Colomban-des-Villards n'a pas ouvert avant le 19 juin.",
+      "meta_title": "Col du Glandon · 1 924 m, ouverture 2026, accès",
+      "name": "Col du Glandon",
+      "name_alternates": [
+        "Le Glandon",
+        "Col du Glandon (D927)"
+      ],
+      "practical_info": [
+        {
+          "k": "Altitude",
+          "v": "1 924 m (OT Saint-Colomban et en.wikipedia concordent)"
+        },
+        {
+          "k": "Coordonnées",
+          "v": "45.239444° N, 6.175556° E (en.wikipedia)"
+        },
+        {
+          "k": "Route",
+          "v": "D927 selon en.wikipedia. Aucune source française consultée ne donne de numéro."
+        },
+        {
+          "k": "Ouverture 2026",
+          "v": "Pas d'accès depuis Saint-Colomban-des-Villards avant le 19 juin 2026, en raison du remplacement d'un ouvrage d'assainissement après plusieurs coulées de boue. Ni heure ni jour de la semaine publiés.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Fermeture 2026",
+          "v": null
+        },
+        {
+          "k": "Tarif",
+          "v": "Gratuit, accès libre"
+        },
+        {
+          "k": "Situation",
+          "v": "Relie Le Bourg-d'Oisans (Isère) à La Chambre (Savoie) selon en.wikipedia. Col à cheval sur deux départements."
+        },
+        {
+          "k": "Col voisin",
+          "v": "Le col de la Croix de Fer est à environ 2,5 km. Ce sont deux cols distincts : les dates de l'un ne valent pas pour l'autre."
+        },
+        {
+          "k": "Construction de la route",
+          "v": "1898 selon l'office de tourisme de Saint-Colomban-des-Villards (source unique)."
+        },
+        {
+          "k": "Parking",
+          "v": null
+        },
+        {
+          "k": "Animaux",
+          "v": null
+        },
+        {
+          "k": "Accessibilité",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Parking",
+        "Point de vue",
+        "Départ de randonnées"
+      ],
+      "when_to_visit": "<p>en.wikipedia décrit le col comme « normalement fermé de début novembre à la mi-mai », ce qui est une habitude de saison et non une annonce. En 2026, l'ouverture du versant savoyard a été bien plus tardive : pas d'accès depuis Saint-Colomban avant le 19 juin. Aucune date de fermeture 2026 n'est publiée.</p>"
+    }
+  },
+  "latitude": 45.239444,
+  "longitude": 6.175556,
+  "official_site_url": "https://www.saint-colomban.com/col-du-glandon.html",
+  "partners": [],
+  "postal_code": "73130",
+  "price_currency": null,
+  "price_from": null,
+  "price_tiers": [],
+  "research_log": [
+    "OT Saint-Colomban-des-Villards : le col du Glandon (1 924 m) est le point focal de la vallée des Villards, site de cyclotourisme ; la route a été construite en 1898 ; « crossed 14 times by the Tour de France ».",
+    "Réouverture 2026 : le col n'est pas accessible depuis Saint-Colomban-des-Villards avant le 19 juin 2026, en raison du remplacement d'un ouvrage d'assainissement entrepris après plusieurs coulées de boue.",
+    "en.wikipedia : 45°14′22″N 6°10′32″E soit 45.239444 / 6.175556 ; 1 924 m ; D927 ; relie Le Bourg-d'Oisans à La Chambre ; premier franchissement au Tour de France en 1947, Edward Klabiński premier au sommet ; le tableau des passages recense 13 apparitions classées de 1977 à 2025 ; « normally closed from the beginning of November to mid May ».",
+    "Recoupement interne au dépôt : la fiche col-de-la-croix-de-fer de ce même dépôt porte les coordonnées 45.227482 / 6.203515, soit environ 2,5 km du Glandon. Les deux cols se touchent et se franchissent souvent d'affilée."
+  ],
+  "schema_org": {
+    "amenities": [
+      "Parking",
+      "Point de vue",
+      "Départ de randonnées"
+    ],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "col-du-glandon",
+  "sources": [
+    {
+      "name": "Office de tourisme de Saint-Colomban-des-Villards — col du Glandon",
+      "url": "https://www.saint-colomban.com/col-du-glandon.html"
+    },
+    {
+      "name": "Espace Glandon — le col du Glandon",
+      "url": "http://www.saint-colomban.com/fr/il4-patrimoine,hiver_i3_p9-le-col-du-glandon.aspx"
+    },
+    {
+      "name": "Office de tourisme de Saint-Colomban-des-Villards — été",
+      "url": "https://www.saint-colomban.com/ete"
+    },
+    {
+      "name": "Wikipedia (EN) — Col du Glandon",
+      "url": "https://en.wikipedia.org/wiki/Col_du_Glandon"
+    },
+    {
+      "name": "Route des Grandes Alpes — col du Glandon",
+      "url": "https://en.routedesgrandesalpes.com/col-du-glandon"
+    },
+    {
+      "name": "Département de la Savoie — déneigement et ouverture des grands cols",
+      "url": "https://www.savoie.fr/web/sw_175572/04-23-26-cp-deneigement-et-ouverture-des-grands-cols"
+    },
+    {
+      "name": "ODS Radio — quelles dates pour la réouverture des grands cols ?",
+      "url": "https://www.odsradio.com/news/locales/108800/savoie-quelles-dates-pour-la-reouverture-des-grands-cols"
+    },
+    {
+      "name": "Alpes4ever — col du Glandon",
+      "url": "https://alpes4ever.com/france/savoie/les-plus-de-1500-m/col-du-glandon/"
+    },
+    {
+      "name": "Recoin — col du Glandon",
+      "url": "https://www.recoin.fr/tourisme/col+du+glandon.htm"
+    }
+  ],
+  "sparse_data": false,
+  "status": "draft",
+  "type": "nature",
+  "verify_flags": [
+    "ACCÈS AMPUTÉ EN 2026 ET C'EST LE FAIT LE PLUS LOURD DE CONSÉQUENCE — le col n'était pas accessible depuis Saint-Colomban-des-Villards avant le 19 juin 2026, à cause du remplacement d'un ouvrage d'assainissement après plusieurs coulées de boue. Une fiche qui annoncerait une ouverture de mi-mai comme les autres cols de Savoie enverrait un visiteur dans un chantier.",
+    "DEUX DÉCOMPTES DU TOUR DE FRANCE — l'office de tourisme de Saint-Colomban écrit « 14 fois » ; le tableau d'en.wikipedia recense 13 apparitions classées de 1977 à 2025, tout en datant le premier franchissement de 1947. Les trois affirmations ne peuvent pas être vraies ensemble : un décompte à partir de 1977 ne peut pas inclure 1947. Ne pas publier de nombre.",
+    "LE COL EST À CHEVAL SUR DEUX DÉPARTEMENTS — en.wikipedia le décrit comme reliant Le Bourg-d'Oisans (Isère) à La Chambre (Savoie). La fiche est rattachée à Saint-Colomban-des-Villards (73130), versant Savoie, parce que c'est l'office de tourisme qui le documente. Ne pas écrire que le col est « en Savoie » sans nuance.",
+    "GLANDON ET CROIX DE FER SE TOUCHENT ET SE CONFONDENT — environ 2,5 km séparent les deux cols, et notre propre fiche col-de-la-croix-de-fer les situe à 45.227482 / 6.203515 contre 45.239444 / 6.175556 ici. Les dates d'ouverture, les travaux et les fermetures de l'un ne valent pas pour l'autre : le chantier de 2026 concerne l'accès depuis Saint-Colomban, pas la Croix de Fer.",
+    "FERMETURE 2026 NON PUBLIÉE — « normalement fermé de début novembre à la mi-mai » est une habitude de saison relevée par en.wikipedia, pas une annonce du Département. Aucune date de fermeture 2026 n'existe. Null.",
+    "NUMÉRO DE ROUTE À UN SEUL SOURÇAGE — D927 ne vient que d'en.wikipedia. Aucune source française consultée ne l'écrit.",
+    "DATE DE CONSTRUCTION DE LA ROUTE À UN SEUL SOURÇAGE — 1898 ne vient que de l'office de tourisme de Saint-Colomban.",
+    "ALTITUDE STABLE — 1 924 m concordant entre l'office de tourisme et en.wikipedia. Pas de contradiction sur ce point.",
+    "AUCUN PROFIL DE MONTÉE RELEVÉ — ni depuis La Chambre ni depuis Le Bourg-d'Oisans. Aucun kilométrage ni pourcentage n'est publié ici plutôt qu'un chiffre approximatif.",
+    "PARKING, SERVICES, TOILETTES, ANIMAUX, PMR AU COL : aucune source. Champs null.",
+    "HEURE ET JOUR DE L'OUVERTURE DU 19 JUIN 2026 NON PUBLIÉS — seule la date circule. Ne pas inventer d'horaire."
+  ]
+}

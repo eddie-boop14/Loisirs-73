@@ -66,8 +66,19 @@ def nearme_button(lang, extra_style=""):
     )
 
 # Per-locale template hub to lift invariant chrome from.
+# HANDOFF-73 phase 6: ANY rendered hub serves as the chrome template — "cascades"
+# was simply the 74's first. A site without it must not inherit the name, so the
+# default is the first hub this site's roster actually declares.
+def _template_hub_fr():
+    try:
+        import build_hubs as _H
+        return next(iter(_H.ALL_BASE_HUBS))
+    except Exception:
+        return "cascades"
+
+_TPL_FR = _template_hub_fr()
 TEMPLATE_HUB = {
-    "fr": "cascades", "en": "en/waterfalls", "de": "de/wasserfaelle",
+    "fr": _TPL_FR, "en": "en/waterfalls", "de": "de/wasserfaelle",
     "it": "it/cascate", "es": "es/cascadas", "nl": "nl/watervallen",
 }
 
@@ -95,7 +106,7 @@ def register_facts_lang(lang):
     for k, v in sc["category_labels"][lang].items():
         if k in CATEGORY_LABELS:
             CATEGORY_LABELS[k][lang] = v
-    TEMPLATE_HUB[lang] = f"{lang}/{H.hub_slug_for('cascades', lang)}"
+    TEMPLATE_HUB[lang] = f"{lang}/{H.hub_slug_for(_TPL_FR, lang)}"
     OG_LOCALE[lang] = H._FACTS_OG[lang]
     _TEMPLATE_CACHE.pop(lang, None)
     STRICT_LANGS.add(lang)

@@ -101,6 +101,11 @@ CHROME = {
 def hub_locale_map(hub_dir):
     """Pull locale hub names from the FR hub's hreflang block."""
     p = ROOT / hub_dir / "index.html"
+    # HANDOFF-73 phase 6: a site whose hub pages have not been rendered yet has
+    # nothing to read alternates out of. Empty map => callers fall back to the
+    # FR slug, instead of dying on a chicken-and-egg a fresh departement cannot win.
+    if not p.exists():
+        return {"fr": hub_dir}
     h = p.read_text(encoding="utf-8")
     m = {"fr": hub_dir}
     for mt in re.finditer(
@@ -860,6 +865,11 @@ def patch_homepage_sorties(lang):
     if not home.exists():
         return False
     html = home.read_text(encoding="utf-8")
+    # HANDOFF-73 phase 6: this band is lifted from the sorties-detente hub, which
+    # is part of the 74's roster and not every site's. A site whose hub-titles.json
+    # does not declare it simply has no band to build — skip rather than KeyError.
+    if "sorties-detente" not in HUB_DISPLAY:
+        return False
     hub_slug = hub_locale_map("sorties-detente").get(lang) or "sorties-detente"
     hub_path = base / hub_slug / "index.html"
     if not hub_path.exists():

@@ -33,8 +33,8 @@ UI = {
  # Wording matches build_lieu_page's f_sister ("Aussi en" / "Also in"), which is
  # the engine's own convention in six languages. A family metaphor dates badly and
  # implies a hierarchy between two sites that are simply the same publisher.
- "sister": {"fr": "Aussi en", "en": "Also in", "de": "Auch in", "it": "Anche in",
-            "es": "También en", "nl": "Ook in"},
+ "sister": {"fr": "Même exigence en", "en": "Same standard in", "de": "Gleicher Anspruch in",
+            "it": "Stesso rigore in", "es": "El mismo rigor en", "nl": "Dezelfde maatstaf in"},
  "prep": {"fr": "Site en préparation : rien n'est indexé pour l'instant.",
           "en": "Site in preparation: nothing is indexed yet."},
 }

@@ -280,7 +280,13 @@ CHROME = {
     "f_privacy":       {"fr": "Confidentialité", "en": "Privacy", "de": "Datenschutz", "it": "Privacy", "es": "Privacidad", "nl": "Privacy"},
     "f_cgv":           {"fr": "CGV", "en": "Terms", "de": "AGB", "it": "Termini", "es": "Términos", "nl": "Algemene voorwaarden"},
     "f_copyright":     {"fr": "© 2026 Bleu canard édition · Edmaster &amp; Claudius · Tous droits réservés", "en": "© 2026 Bleu canard édition · Edmaster &amp; Claudius · All rights reserved", "de": "© 2026 Bleu canard édition · Edmaster &amp; Claudius · Alle Rechte vorbehalten", "it": "© 2026 Bleu canard édition · Edmaster &amp; Claudius · Tutti i diritti riservati", "es": "© 2026 Bleu canard édition · Edmaster &amp; Claudius · Todos los derechos reservados", "nl": "© 2026 Bleu canard édition · Edmaster &amp; Claudius · Alle rechten voorbehouden"},
-    "f_sister":        {"fr": "Aussi en", "en": "Also in", "de": "Auch in", "it": "Anche in", "es": "También en", "nl": "Ook in", "pl": "Również w", "pt": "Também em", "cs": "Také v", "ar": "أيضًا في", "he": "גם ב", "ja": "こちらも"},
+    # The sibling line states the SHARED STANDARD, not the mere existence of another
+    # site. "Also in Haute-Savoie" is a directory entry: it gives a reader no reason
+    # to click. Both sites verify every fact against an official source and disclose
+    # contradictions instead of picking one — that is the thing worth carrying across
+    # the link, and it is true on both sides. No hierarchy, no family metaphor, and
+    # nothing that drifts. Renders as: {label} {dept} : {site}.
+    "f_sister":        {"fr": "Même exigence en", "en": "Same standard in", "de": "Gleicher Anspruch in", "it": "Stesso rigore in", "es": "El mismo rigor en", "nl": "Dezelfde maatstaf in", "pl": "Ten sam standard w", "pt": "O mesmo rigor em", "cs": "Stejný standard v", "ar": "المعيار نفسه في", "he": "אותו סטנדרט ב", "ja": "同じ基準で"},
     "f_promise":       {"fr": "Sans pub. Sans tracking. Sans avis Google.", "en": "No ads. No tracking. No Google reviews.", "de": "Keine Werbung. Kein Tracking. Keine Google-Bewertungen.", "it": "Niente pubblicità. Niente tracking. Niente recensioni Google.", "es": "Sin anuncios. Sin tracking. Sin reseñas de Google.", "nl": "Geen advertenties. Geen tracking. Geen Google reviews."},
 }
 

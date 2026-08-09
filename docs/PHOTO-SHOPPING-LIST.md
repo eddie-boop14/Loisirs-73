@@ -161,7 +161,7 @@ The named ones are **photographs of specific Haute-Savoie places**. Using `col-d
 | `telecabine-du-mont-vallon` | Florian Pépellin | CC BY-SA 4.0 | 3264×2448 |
 | `telecabine-orelle-cime-caron` | Florian Pépellin | CC BY-SA 4.0 | 3264×2448 |
 | `telepherique-de-l-aiguille-rouge` | DimiTalen | CC0 | 2495×1659 |
-| `telepherique-de-l-olympique` | Aurélien PASCAUD | CC BY-SA 4.0 | 724×511 ⚠ |
+| `telepherique-de-l-olympique` | Pete Coleman from Croxley Green, | CC BY 2.0 | 1600×1066 |
 | `telepherique-de-la-grande-motte` | Ian Gratton from Sutton-n-Craven | CC BY 2.0 | 2560×1920 |
 | `telepherique-de-la-saulire` | Florian Pépellin | CC BY-SA 4.0 | 3264×2448 |
 | `telepherique-du-mont-bochor` | Rémih | CC BY-SA 4.0 | 5067×3801 |

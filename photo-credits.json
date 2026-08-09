@@ -259,15 +259,21 @@
     "width": 2495
   },
   "telepherique-de-l-olympique-hero.jpg": {
-    "author": "Aurélien PASCAUD",
+    "author": "Pete Coleman from Croxley Green, UK",
     "fetched": "2026-08-08",
-    "file": "File:Téléphérique Olympique.jpg",
-    "height": 511,
-    "licence": "CC BY-SA 4.0",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "File:L'Olympique bubble.jpg",
+    "height": 1066,
+    "licence": "CC BY 2.0",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "replaced": {
+      "author": "Aurélien PASCAUD",
+      "file": "File:Téléphérique Olympique.jpg",
+      "licence": "CC BY-SA 4.0",
+      "reason": "724x511 and location unconfirmed; replaced by a 1600x1066 file whose description names Val d'Isere and which illustrates the fr.wikipedia article for this lift"
+    },
     "source": "Wikimedia Commons",
-    "source_url": "https://commons.wikimedia.org/wiki/File:Téléphérique_Olympique.jpg",
-    "width": 724
+    "source_url": "https://commons.wikimedia.org/wiki/File:L'Olympique_bubble.jpg",
+    "width": 1600
   },
   "telepherique-de-la-grande-motte-hero.jpg": {
     "author": "Ian Gratton from Sutton-n-Craven, North Yorkshire, England",

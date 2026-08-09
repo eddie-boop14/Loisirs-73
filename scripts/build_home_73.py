@@ -18,6 +18,7 @@ import siteconfig as S
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LANGS = ("fr", "en", "de", "it", "es", "nl")
 E = lambda s: html.escape(str(s or ""), quote=True)
+_SIS = getattr(S, "SISTER", None) or {"name": S.SITE_NAME, "url": S.BASE_URL, "dept": S.DEPT_NAME}
 
 SECTIONS = [("point-de-vue", {"fr": "Cols et points de vue", "en": "Passes and viewpoints"}),
             ("telecabine", {"fr": "Téléphériques", "en": "Cable cars"}),
@@ -29,7 +30,11 @@ UI = {
           "en": "An independent guide to leisure places in Savoie. Every fact is checked against an official "
                 "source — and where sources disagree, the page says so instead of picking one."},
  "count": {"fr": "%d lieux vérifiés", "en": "%d verified places"},
- "sister": {"fr": "Le grand frère tourne déjà en Haute-Savoie :", "en": "The big brother already runs in Haute-Savoie:"},
+ # Wording matches build_lieu_page's f_sister ("Aussi en" / "Also in"), which is
+ # the engine's own convention in six languages. A family metaphor dates badly and
+ # implies a hierarchy between two sites that are simply the same publisher.
+ "sister": {"fr": "Aussi en", "en": "Also in", "de": "Auch in", "it": "Anche in",
+            "es": "También en", "nl": "Ook in"},
  "prep": {"fr": "Site en préparation : rien n'est indexé pour l'instant.",
           "en": "Site in preparation: nothing is indexed yet."},
 }
@@ -111,8 +116,9 @@ def build(lang, fiches):
             f'<p class="lede">{E(t(UI["lede"], lang))}</p>\n'
             f'<p><strong>{E(t(UI["count"], lang) % len(fiches))}</strong> · {E(t(UI["prep"], lang))}</p>\n'
             f'{nav}{secs}'
-            f'<p class="sister">{E(t(UI["sister"], lang))} '
-            f'<a href="https://loisirs74.fr" rel="noopener">loisirs74.fr</a></p>\n'
+            f'<p class="sister">{E(t(UI["sister"], lang))} {E(_SIS["dept"])}'
+            f'{" : " if lang == "fr" else ": "}'
+            f'<a href="{E(_SIS["url"])}" rel="noopener">{E(_SIS["name"])}</a></p>\n'
             f'<footer>2026 · {E(S.IMPRINT)} · Tous droits réservés</footer>\n'
             '</main>\n</body>\n</html>\n')
 

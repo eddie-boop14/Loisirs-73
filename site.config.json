@@ -13,5 +13,10 @@
   "cf_beacon_token": "",
   "region": "Auvergne-Rhône-Alpes",
   "anchor_city": "Chambéry",
-  "adjacent_scope_note": "Adjacent regions (Haute-Savoie 74, Isère 38, Hautes-Alpes 05) not covered."
+  "adjacent_scope_note": "Adjacent regions (Haute-Savoie 74, Isère 38, Hautes-Alpes 05) not covered.",
+  "sister": {
+    "name": "Loisirs 74",
+    "url": "https://loisirs74.fr",
+    "dept": "Haute-Savoie"
+  }
 }

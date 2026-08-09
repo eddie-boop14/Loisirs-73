@@ -1,0 +1,31 @@
+{
+  "name": "Cormet de Roselend",
+  "commune": "Beaufort",
+  "gps": {
+    "lat": 45.69111,
+    "lng": 6.69056
+  },
+  "type": "point-de-vue",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": null,
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": "Parking au col ; tarif non documenté",
+  "transport": null,
+  "season": "Juin – octobre",
+  "winter": {
+    "access": "closed",
+    "infrastructure": [],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": "https://www.inforoute74.fr"
+  },
+  "official_url": "https://en.areches-beaufort.com/site-naturel/le-cormet-de-roselend/",
+  "last_verified": "2026-08-08"
+}

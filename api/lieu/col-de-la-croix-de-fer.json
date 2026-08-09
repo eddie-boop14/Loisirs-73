@@ -1,0 +1,31 @@
+{
+  "name": "Col de la Croix de Fer",
+  "commune": "Saint-Sorlin-d'Arves",
+  "gps": {
+    "lat": 45.227482,
+    "lng": 6.203515
+  },
+  "type": "point-de-vue",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": null,
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": "Gratuit, camping-cars autorisés",
+  "transport": null,
+  "season": "Fin mai – début novembre",
+  "winter": {
+    "access": "closed",
+    "infrastructure": [],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": "https://www.inforoute74.fr"
+  },
+  "official_url": "https://www.saintsorlindarves.com/col-de-la-croix-de-fer",
+  "last_verified": "2026-08-08"
+}

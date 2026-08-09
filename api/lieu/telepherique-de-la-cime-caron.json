@@ -1,0 +1,47 @@
+{
+  "name": "Téléphérique de la Cime Caron",
+  "commune": "Les Belleville",
+  "gps": {
+    "lat": 45.2805688,
+    "lng": 6.5626129
+  },
+  "type": "telecabine",
+  "hours": "Du 4 juillet au 28 août 2026, 7 j/7, 9h45–16h15, dernière montée 15h45. La page anglaise du site indique 16h00 au lieu de 16h15.",
+  "prices": {
+    "from": 23.5,
+    "currency": "EUR",
+    "tiers": [
+      {
+        "name": "Accès piéton Cime Caron depuis Val Thorens — adulte (été 2026)",
+        "price": 23.5,
+        "note": "Aucune source n'indique s'il s'agit d'un aller simple ou d'un aller-retour."
+      },
+      {
+        "name": "Accès piéton Cime Caron depuis Val Thorens — enfant (été 2026)",
+        "price": 17.6,
+        "note": null
+      },
+      {
+        "name": "Gratuité",
+        "price": null,
+        "note": "Gratuit 3–5 ans sur justificatif de naissance et pièce d'identité. Accès piéton interdit aux moins de 3 ans."
+      }
+    ],
+    "is_free": false,
+    "note": "23,50 € adulte · 17,60 € enfant (été 2026)"
+  },
+  "access_pmr": null,
+  "parking": "Parkings couverts payants P1 et P2 à Val Thorens",
+  "transport": null,
+  "season": "4 juillet – 28 août 2026 (été)",
+  "winter": {
+    "access": null,
+    "infrastructure": [],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
+  "official_url": "https://www.valthorens.com/equipement/telepherique-de-la-cime-caron/",
+  "last_verified": "2026-08-08"
+}

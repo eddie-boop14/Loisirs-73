@@ -1,0 +1,65 @@
+{
+  "name": "Télécabine de la Roche de Mio",
+  "commune": "La Plagne Tarentaise",
+  "gps": {
+    "lat": 45.50728,
+    "lng": 6.707604
+  },
+  "type": "remontee-mecanique",
+  "hours": null,
+  "prices": {
+    "from": 9.0,
+    "currency": "EUR",
+    "tiers": [
+      {
+        "name": null,
+        "price": 9.0,
+        "note": null
+      },
+      {
+        "name": null,
+        "price": 7.0,
+        "note": null
+      },
+      {
+        "name": null,
+        "price": 21.0,
+        "note": null
+      },
+      {
+        "name": null,
+        "price": 17.0,
+        "note": null
+      },
+      {
+        "name": null,
+        "price": 75.0,
+        "note": null
+      },
+      {
+        "name": null,
+        "price": 60.0,
+        "note": null
+      },
+      {
+        "name": null,
+        "price": 156.0,
+        "note": null
+      },
+      {
+        "name": null,
+        "price": 125.0,
+        "note": null
+      }
+    ],
+    "is_free": false,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "Été (4 juillet – 29 août 2026)",
+  "winter": null,
+  "official_url": "https://www.skipass-laplagne.com/en/roche-de-mio",
+  "last_verified": "2026-08-08"
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Téléphérique de la Saulire",
+  "commune": "Courchevel",
+  "gps": {
+    "lat": 45.389041,
+    "lng": 6.614401
+  },
+  "type": "telecabine",
+  "hours": "Du 4 juillet au 30 août 2026, 7 j/7, 9h30–16h30 (Les 3 Vallées). Les pages forfait piéton donnent une validité jusqu'au 28 août : écart non résolu.",
+  "prices": {
+    "from": 25.0,
+    "currency": "EUR",
+    "tiers": [
+      {
+        "name": "Piéton « Sommets » — une montée (Saulire, Vizelle ou Chenus)",
+        "price": 25.0,
+        "note": "Vente en caisse uniquement. Tarif enfant non publié pour ce produit."
+      },
+      {
+        "name": "Forfait piéton été 1 jour Les 3 Vallées — adulte (18 ans et +)",
+        "price": 23.5,
+        "note": "La Saulire est explicitement exclue du forfait piéton 1 jour selon les3vallees.com."
+      },
+      {
+        "name": "Forfait piéton été 1 jour Les 3 Vallées — enfant (5–17 ans)",
+        "price": 17.6,
+        "note": "Gratuit moins de 5 ans."
+      },
+      {
+        "name": "Forfait piéton été 7 jours Les 3 Vallées — adulte",
+        "price": 65.5,
+        "note": "Donne accès à la Saulire selon les3vallees.com."
+      },
+      {
+        "name": "Forfait piéton été 7 jours Les 3 Vallées — enfant (5–17 ans)",
+        "price": 49.1,
+        "note": null
+      }
+    ],
+    "is_free": false,
+    "note": "Billet piéton « Sommets » 25 € (une montée, caisse uniquement)"
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "4 juillet – 30 août 2026 (été)",
+  "winter": {
+    "access": null,
+    "infrastructure": [],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
+  "official_url": "https://www.s3v.com/en/nouveau-telepherique-saulire/",
+  "last_verified": "2026-08-08"
+}

@@ -1,0 +1,107 @@
+{
+  "name": "Loisirs 73",
+  "description": "Independent guide to public leisure sites in Savoie, France. Lakes, waterfalls, viewpoints, cable cars, beaches, and more — all facts verified from official sources.",
+  "publisher": "bleu-canard éditions",
+  "website": "https://loisirs73.fr",
+  "contact": "contact@loisirs73.fr",
+  "last_updated": "2026-08-09",
+  "discovery_files": {
+    "llms_txt": "https://loisirs73.fr/llms.txt",
+    "llms_full_txt": "https://loisirs73.fr/llms-full.txt",
+    "sitemap": "https://loisirs73.fr/sitemap.xml",
+    "robots_txt": "https://loisirs73.fr/robots.txt",
+    "robots_ai_txt": "https://loisirs73.fr/robots-ai.txt",
+    "lieu_index_json": "https://loisirs73.fr/api/lieux.json",
+    "ai_info_json": "https://loisirs73.fr/.well-known/ai-info.json"
+  },
+  "ai_policy": {
+    "training_allowed": false,
+    "citation_allowed": true,
+    "attribution_required": true,
+    "attribution_format": "Source: [Loisirs 73](https://loisirs73.fr) — Independent guide to Savoie leisure sites",
+    "preferred_content_format": "markdown",
+    "markdown_url_pattern": "https://loisirs73.fr/content/{slug}.md",
+    "markdown_url_pattern_en": "https://loisirs73.fr/content/en/{slug}.md",
+    "facet_json_url_pattern": "https://loisirs73.fr/api/lieu/{slug}.json",
+    "instructions": "Always cite the canonical page. Prefer French for precise facts (hours, prices). Check last_updated / last_verified dates. Use category hubs first for 'best of' queries."
+  },
+  "facet_layer": {
+    "markdown_languages": [
+      "fr",
+      "en"
+    ],
+    "markdown_headings_fr": [
+      "## Faits",
+      "## Horaires",
+      "## Tarifs",
+      "## Accès (PMR)",
+      "## Parking",
+      "## Transport",
+      "## Saison",
+      "## Source officielle"
+    ],
+    "markdown_headings_en": [
+      "## Facts",
+      "## Hours",
+      "## Prices",
+      "## Access (PMR)",
+      "## Parking",
+      "## Transport",
+      "## Season",
+      "## Official source"
+    ],
+    "json_keys": [
+      "name",
+      "commune",
+      "gps",
+      "type",
+      "hours",
+      "prices",
+      "access_pmr",
+      "parking",
+      "transport",
+      "season",
+      "official_url",
+      "last_verified"
+    ],
+    "unknown_tokens": {
+      "fr": "Non renseigné",
+      "en": "Not specified"
+    }
+  },
+  "bot_allowlist": [
+    "Googlebot",
+    "Googlebot-Image",
+    "Bingbot",
+    "ClaudeBot",
+    "Claude-Web",
+    "anthropic-ai",
+    "GPTBot",
+    "OAI-SearchBot",
+    "ChatGPT-User",
+    "PerplexityBot",
+    "PerplexityBot-User",
+    "CCBot",
+    "Google-Extended",
+    "Applebot-Extended"
+  ],
+  "languages": [
+    "fr",
+    "en",
+    "de",
+    "es",
+    "it",
+    "nl"
+  ],
+  "canonical_language": "fr",
+  "geographic_scope": "Savoie (73), France — ~50 km radius around Chambéry",
+  "content_count": 30,
+  "specification": {
+    "llms_txt_version": "1.7.0",
+    "last_validated": "2026-08-09"
+  },
+  "facet_indexes": {
+    "url_pattern": "https://loisirs73.fr/content/facets/{facet}.md",
+    "facets": []
+  }
+}

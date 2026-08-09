@@ -1,0 +1,57 @@
+{
+  "name": "Vanoise Express",
+  "commune": "Peisey-Nancroix",
+  "gps": {
+    "lat": 45.551125,
+    "lng": 6.763596
+  },
+  "type": "telecabine",
+  "hours": "Du 6 juillet au 28 août 2026, uniquement lundi, mardi, jeudi et vendredi, 9h00–12h45 et 14h00–17h40. Fermé mercredi, samedi et dimanche.",
+  "prices": {
+    "from": 17.0,
+    "currency": "EUR",
+    "tiers": [
+      {
+        "name": "Piéton adulte — aller simple (été 2026)",
+        "price": 11.0,
+        "note": "11 € selon le PDF tarifaire de l'exploitant et l'OT de Peisey-Vallandry ; 9 € selon les fiches SIT de La Plagne et Explore Savoie. Non résolu."
+      },
+      {
+        "name": "Piéton adulte — aller-retour (été 2026)",
+        "price": 17.0,
+        "note": "Toutes les sources concordent."
+      },
+      {
+        "name": "Piéton enfant 5–12 ans — aller simple / aller-retour",
+        "price": 9.0,
+        "note": "Aller-retour 14 €. Senior 65–74 ans : même tarif que l'enfant."
+      },
+      {
+        "name": "Gratuité",
+        "price": null,
+        "note": "Gratuit moins de 5 ans ; gratuit 75 ans et plus."
+      },
+      {
+        "name": "Piéton adulte — hiver 2025/26",
+        "price": 9.0,
+        "note": "Aller simple 9 €, aller-retour 16 €. Enfant 5–12 : 8 € / 13 €. Ne pas confondre avec la grille estivale."
+      }
+    ],
+    "is_free": false,
+    "note": "Piéton adulte AR 17 € (été 2026)"
+  },
+  "access_pmr": null,
+  "parking": "Gratuit côté Peisey (Zeschierses, Aiguilles)",
+  "transport": null,
+  "season": "6 juillet – 28 août 2026, du lundi au vendredi sauf mercredi",
+  "winter": {
+    "access": null,
+    "infrastructure": [],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
+  "official_url": "https://www.skipass-laplagne.com/",
+  "last_verified": "2026-08-08"
+}

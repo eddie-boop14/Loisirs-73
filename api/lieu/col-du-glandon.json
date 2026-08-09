@@ -1,0 +1,31 @@
+{
+  "name": "Col du Glandon",
+  "commune": "Saint-Colomban-des-Villards",
+  "gps": {
+    "lat": 45.239444,
+    "lng": 6.175556
+  },
+  "type": "point-de-vue",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": null,
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "Fin juin – octobre",
+  "winter": {
+    "access": "closed",
+    "infrastructure": [],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": "https://www.inforoute74.fr"
+  },
+  "official_url": "https://www.saint-colomban.com/col-du-glandon.html",
+  "last_verified": "2026-08-08"
+}

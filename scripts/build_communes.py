@@ -77,10 +77,22 @@ def _template_hub_fr():
         return "cascades"
 
 _TPL_FR = _template_hub_fr()
-TEMPLATE_HUB = {
-    "fr": _TPL_FR, "en": "en/waterfalls", "de": "de/wasserfaelle",
-    "it": "it/cascate", "es": "es/cascadas", "nl": "nl/watervallen",
-}
+def _template_hub_map():
+    """Locale template-hub paths derived from THIS site's roster, not the 74's
+    slugs. Falls back to the FR dir for any locale the hub has not been
+    rendered into yet, which is what a young site looks like."""
+    m = {"fr": _TPL_FR}
+    try:
+        import build_hubs as _H
+        loc = _H.hub_locale_map(_TPL_FR)
+    except Exception:
+        loc = {}
+    for lang in ("en", "de", "it", "es", "nl"):
+        slug = loc.get(lang)
+        m[lang] = f"{lang}/{slug}" if slug else _TPL_FR
+    return m
+
+TEMPLATE_HUB = _template_hub_map()
 
 OG_LOCALE = {"fr": "fr_FR", "en": "en_US", "de": "de_DE", "it": "it_IT", "es": "es_ES", "nl": "nl_NL"}
 

@@ -1,9 +1,10 @@
 {
  "_meta": {
-  "job": "HANDOFF-73 — facet hub registry (empty until the 73 has facet content)",
+  "job": "HANDOFF-73 — facet hub registry",
   "author": "Claudius",
   "edition": "Bleu canard édition · Edmaster & Claudius 🦆 2026",
-  "rules": "Info-framing throughout. Counts are computed by the builder, never authored here."
+  "rules": "Info-framing throughout. Counts computed by the builder, never authored here.",
+  "_73_note": "EMPTY. Facet hubs slice the catalogue by verified attribute (free, PMR, dogs, duration). Across the 73's 30 fiches those fields are overwhelmingly null — the research found no source for PMR, dogs or journey time on most of them, and that is recorded on each fiche. A facet hub built on nulls would advertise a filter that returns nothing. Author these when the fields are filled, not before."
  },
- "hubs": []
+ "facets": []
 }

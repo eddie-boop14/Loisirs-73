@@ -1,0 +1,21 @@
+{
+  "name": "Télécabine de Solaise",
+  "commune": "Val-d'Isère",
+  "gps": null,
+  "type": "remontee-mecanique",
+  "hours": "9h45–16h45. Dernière montée 16h40, dernière descente 16h45.",
+  "prices": {
+    "from": null,
+    "currency": null,
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "Été (4 juillet – 30 août 2026)",
+  "winter": null,
+  "official_url": "https://www.valdisere.com/en/val-disere-in-summer/free-lifts-for-pedestrians/",
+  "last_verified": "2026-08-08"
+}

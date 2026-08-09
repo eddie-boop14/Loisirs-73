@@ -1,0 +1,31 @@
+{
+  "name": "Col de l'Iseran",
+  "commune": "Bonneval-sur-Arc",
+  "gps": {
+    "lat": 45.417117,
+    "lng": 7.030693
+  },
+  "type": "point-de-vue",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": null,
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": "Gratuit, quelques mètres au-dessus du col",
+  "transport": null,
+  "season": "Mi-juin – début novembre",
+  "winter": {
+    "access": "closed",
+    "infrastructure": [],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": "https://www.inforoute74.fr"
+  },
+  "official_url": "https://www.bonneval-sur-arc.com/patrimoine-naturel/col-de-liseran-bonneval-sur-arc",
+  "last_verified": "2026-08-08"
+}

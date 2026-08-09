@@ -1,0 +1,31 @@
+{
+  "name": "Col du Chaussy",
+  "commune": "Saint-Jean-de-Maurienne",
+  "gps": {
+    "lat": 45.279449,
+    "lng": 6.346613
+  },
+  "type": "point-de-vue",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": null,
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": null,
+  "winter": {
+    "access": null,
+    "infrastructure": [],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
+  "official_url": "https://www.velo-maurienne.com/explorer/lacets-de-montvernier-et-col-du-chaussy/",
+  "last_verified": "2026-08-08"
+}

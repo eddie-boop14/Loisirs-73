@@ -1,0 +1,31 @@
+{
+  "name": "Col du Mont-Cenis",
+  "commune": "Val-Cenis",
+  "gps": {
+    "lat": 45.260278,
+    "lng": 6.900833
+  },
+  "type": "point-de-vue",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": null,
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "Juin – octobre",
+  "winter": {
+    "access": "closed",
+    "infrastructure": [],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": "https://www.inforoute74.fr"
+  },
+  "official_url": "https://www.valcenis.com/en/decouvrir-val-cenis/ouverture-fermeture-du-col/",
+  "last_verified": "2026-08-08"
+}

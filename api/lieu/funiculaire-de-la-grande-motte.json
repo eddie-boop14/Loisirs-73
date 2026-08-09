@@ -1,0 +1,24 @@
+{
+  "name": "Funiculaire de la Grande Motte",
+  "commune": "Tignes",
+  "gps": {
+    "lat": 45.452671,
+    "lng": 6.897683
+  },
+  "type": "remontee-mecanique",
+  "hours": "6h45–16h05 en début de saison, 9h30–17h05 ensuite. Aucune date de bascule publiée.",
+  "prices": {
+    "from": null,
+    "currency": null,
+    "tiers": [],
+    "is_free": false,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "Été (20 juin – 31 août 2026)",
+  "winter": null,
+  "official_url": "https://www.skipass-tignes.com/en/summer-opening-hours",
+  "last_verified": "2026-08-08"
+}

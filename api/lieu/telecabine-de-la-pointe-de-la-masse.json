@@ -1,0 +1,35 @@
+{
+  "name": "Télécabine de la Pointe de la Masse",
+  "commune": "Les Belleville",
+  "gps": {
+    "lat": 45.299101,
+    "lng": 6.509023
+  },
+  "type": "remontee-mecanique",
+  "hours": null,
+  "prices": {
+    "from": 19.5,
+    "currency": "EUR",
+    "tiers": [
+      {
+        "name": null,
+        "price": 26.0,
+        "note": null
+      },
+      {
+        "name": null,
+        "price": 19.5,
+        "note": null
+      }
+    ],
+    "is_free": false,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "Été (4 juillet – 28 août 2026)",
+  "winter": null,
+  "official_url": "https://lesmenuires.com/en/pointe-de-la-masse-summer",
+  "last_verified": "2026-08-08"
+}

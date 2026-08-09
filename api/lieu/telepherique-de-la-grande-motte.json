@@ -1,0 +1,51 @@
+{
+  "name": "Téléphérique de la Grande Motte",
+  "commune": "Tignes",
+  "gps": null,
+  "type": "telecabine",
+  "hours": null,
+  "prices": {
+    "from": 25.0,
+    "currency": "EUR",
+    "tiers": [
+      {
+        "name": "Piéton — funiculaire seul (été 2026)",
+        "price": 12.0,
+        "note": "7 € tarif enfant / senior. Aller simple ou aller-retour non précisé."
+      },
+      {
+        "name": "Piéton — funiculaire + téléphérique (été 2026)",
+        "price": 25.0,
+        "note": "15 € tarif enfant / senior."
+      },
+      {
+        "name": "Piéton — funiculaire + téléphérique + « roof » (été 2026)",
+        "price": 35.0,
+        "note": "25 € tarif enfant / senior. La nature du produit « roof » n'est pas établie : terrasse panoramique ou toit de cabine selon les sources."
+      }
+    ],
+    "is_free": false,
+    "note": "25 € funiculaire + téléphérique (15 € enfant / senior)"
+  },
+  "access_pmr": {
+    "status": "non_accessible",
+    "detail": "Les fauteuils roulants ne sont autorisés sur aucune remontée en été 2026. Les personnes blessées aux membres inférieurs ne sont pas autorisées ; les personnes blessées aux membres supérieurs le sont sur le funiculaire Perce-Neige uniquement.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_url": "https://assets.ctfassets.net/4a1jxa5u6hbl/KTsk5rYT9NTbWHWGrOOKH/72177a8c57c7224aece74e194de1f2b7/Conditions_acces_ETE_26_diffusion_site_glacier.pdf",
+    "source_name": "Tignes — conditions d'accès été 2026 (site glacier)"
+  },
+  "parking": null,
+  "transport": null,
+  "season": "20 juin – 28 août 2026 (exploitation piétons)",
+  "winter": {
+    "access": null,
+    "infrastructure": [],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
+  "official_url": "https://www.skipass-tignes.com/en/altitude-experiences",
+  "last_verified": "2026-08-08"
+}

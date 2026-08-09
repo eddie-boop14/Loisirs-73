@@ -1,0 +1,40 @@
+{
+  "name": "Télécabine de Champagny",
+  "commune": "Champagny-en-Vanoise",
+  "gps": {
+    "lat": 45.456202,
+    "lng": 6.693066
+  },
+  "type": "remontee-mecanique",
+  "hours": "9h–12h45 et 14h–17h40. Coupure méridienne d'1h15.",
+  "prices": {
+    "from": 9.0,
+    "currency": "EUR",
+    "tiers": [
+      {
+        "name": null,
+        "price": 9.0,
+        "note": null
+      },
+      {
+        "name": null,
+        "price": 7.0,
+        "note": null
+      },
+      {
+        "name": null,
+        "price": 27.0,
+        "note": null
+      }
+    ],
+    "is_free": false,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "Été (5 juillet – 28 août 2026)",
+  "winter": null,
+  "official_url": "https://en.la-plagne.com/landing-champagny/champagny-gondola",
+  "last_verified": "2026-08-08"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Télécabine du Mont Vallon",
+  "commune": "Les Allues",
+  "gps": {
+    "lat": 45.328541,
+    "lng": 6.609849
+  },
+  "type": "remontee-mecanique",
+  "hours": null,
+  "prices": {
+    "from": 23.5,
+    "currency": "EUR",
+    "tiers": [
+      {
+        "name": null,
+        "price": 23.5,
+        "note": null
+      },
+      {
+        "name": null,
+        "price": 65.5,
+        "note": null
+      }
+    ],
+    "is_free": false,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "Été (4 juillet – 29 août 2026)",
+  "winter": null,
+  "official_url": "https://www.meribel.net/station-ete/remontees-mecaniques-ete/",
+  "last_verified": "2026-08-08"
+}

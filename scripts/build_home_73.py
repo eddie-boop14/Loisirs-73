@@ -53,6 +53,18 @@ def card(d, lang):
             f'<span class="cc">{E(d["commune"])}</span></a></li>')
 
 def build(lang, fiches):
+    # Hub nav — every hub in the roster must be reachable from the homepage or the
+    # reachability gate reports it as an orphan, which is exactly what it is for.
+    hubmap = {"points-de-vue": {"fr": "points-de-vue", "en": "viewpoints"},
+              "telecabines": {"fr": "telecabines", "en": "cable-cars"},
+              "que-faire": {"fr": "que-faire", "en": "what-to-do"}}
+    hublab = {"points-de-vue": {"fr": "Cols et points de vue", "en": "Passes and viewpoints"},
+              "telecabines": {"fr": "Téléphériques et télécabines", "en": "Cable cars and gondolas"},
+              "que-faire": {"fr": "Que faire en Savoie", "en": "What to do in Savoie"}}
+    nav = '<nav class="hubs"><ul>' + "".join(
+        f'<li><a href="/' + ("" if lang == "fr" else f"{lang}/")
+        + E(hubmap[h].get(lang) or hubmap[h]["fr"]) + '/">'
+        + E(t(hublab[h], lang)) + '</a></li>' for h in hubmap) + '</ul></nav>\n'
     secs = ""
     for cat, label in SECTIONS:
         items = [f for f in fiches if f.get("category") == cat]
@@ -72,6 +84,8 @@ def build(lang, fiches):
            "h1{font-size:clamp(1.9rem,1.4rem + 2.4vw,2.9rem);letter-spacing:-.02em;margin:1.4rem 0 .6rem}"
            "h2{font-size:1.15rem;margin:2.4rem 0 .8rem}"
            ".lede{font-size:1.06rem;max-width:44rem}"
+           ".hubs ul{list-style:none;padding:0;display:flex;flex-wrap:wrap;gap:.6rem;margin:1.4rem 0}"
+           ".hubs a{display:inline-block;padding:.45rem .9rem;border:1px solid #e3e3dc;border-radius:999px;text-decoration:none;color:inherit}"
            ".grid{list-style:none;padding:0;margin:0;display:grid;gap:1rem;"
            "grid-template-columns:repeat(auto-fill,minmax(230px,1fr))}"
            ".card a{display:block;border:1px solid #e3e3dc;border-radius:12px;overflow:hidden;"
@@ -96,7 +110,7 @@ def build(lang, fiches):
             f'<h1>{E(t(UI["tagline"], lang))}</h1>\n'
             f'<p class="lede">{E(t(UI["lede"], lang))}</p>\n'
             f'<p><strong>{E(t(UI["count"], lang) % len(fiches))}</strong> · {E(t(UI["prep"], lang))}</p>\n'
-            f'{secs}'
+            f'{nav}{secs}'
             f'<p class="sister">{E(t(UI["sister"], lang))} '
             f'<a href="https://loisirs74.fr" rel="noopener">loisirs74.fr</a></p>\n'
             f'<footer>2026 · {E(S.IMPRINT)} · Tous droits réservés</footer>\n'

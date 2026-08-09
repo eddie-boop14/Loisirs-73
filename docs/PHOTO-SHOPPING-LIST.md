@@ -1,6 +1,6 @@
 # Loisirs 73 — hero photo shopping list
 
-**30 fiches · 28 heroes sourced · 2 to go.** Every fiche is `status: draft` with `hero_image: null`; the standing rule is hero-photo-before-publish, so this list is the whole gap between draft and published.
+**30 fiches · all 30 heroes sourced. ✅** Every fiche is `status: draft` with `hero_image: null`; the standing rule is hero-photo-before-publish, so this list is the whole gap between draft and published.
 
 Generated from `Json/*.json` on 2026-08-08 — not transcribed by hand.
 
@@ -20,7 +20,7 @@ Generated from `Json/*.json` on 2026-08-08 — not transcribed by hand.
 | 4 | **Col du Galibier**<br>`col-du-galibier` | Valloire (73450) | Route du sommet 2 642 m | [search](https://commons.wikimedia.org/w/index.php?search=Col+du+Galibier+Valloire&title=Special:MediaSearch&type=image) | ✅ |
 | 5 | **Col du Petit-Saint-Bernard**<br>`col-du-petit-saint-bernard` | Séez (73700) | 2 188 m | [search](https://commons.wikimedia.org/w/index.php?search=Col+du+Petit-Saint-Bernard+S%C3%A9ez&title=Special:MediaSearch&type=image) | ✅ |
 | 6 | **Téléphérique de l'Aiguille Rouge**<br>`telepherique-de-l-aiguille-rouge` | Bourg-Saint-Maurice (73700) | Gare amont 3 226 m selon l | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9ph%C3%A9rique+de+l%27Aiguille+Rouge+Bourg-Saint-Maurice&title=Special:MediaSearch&type=image) | ✅ |
-| 7 | **Téléphérique de la Cime Caron**<br>`telepherique-de-la-cime-caron` | Les Belleville (73440) | Gare aval 2 320 m | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9ph%C3%A9rique+de+la+Cime+Caron+Les+Belleville&title=Special:MediaSearch&type=image) | ☐ |
+| 7 | **Téléphérique de la Cime Caron**<br>`telepherique-de-la-cime-caron` | Les Belleville (73440) | Gare aval 2 320 m | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9ph%C3%A9rique+de+la+Cime+Caron+Les+Belleville&title=Special:MediaSearch&type=image) | ✅ |
 | 8 | **Téléphérique de la Grande Motte**<br>`telepherique-de-la-grande-motte` | Tignes (73320) | Téléphérique 3 034 m → 3 4 | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9ph%C3%A9rique+de+la+Grande+Motte+Tignes&title=Special:MediaSearch&type=image) | ✅ |
 | 9 | **Téléphérique de la Saulire**<br>`telepherique-de-la-saulire` | Courchevel (73120) | Gare aval 2 077 m | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9ph%C3%A9rique+de+la+Saulire+Courchevel&title=Special:MediaSearch&type=image) | ✅ |
 | 10 | **Vanoise Express**<br>`vanoise-express` | Peisey-Nancroix (73210) | Plan-Peisey 1 612 m | [search](https://commons.wikimedia.org/w/index.php?search=Vanoise+Express+Peisey-Nancroix&title=Special:MediaSearch&type=image) | ✅ |
@@ -39,7 +39,7 @@ Generated from `Json/*.json` on 2026-08-08 — not transcribed by hand.
 | 23 | **Col du Mollard**<br>`col-du-mollard` | Albiez-Montrond (73300) | 1 638 m | [search](https://commons.wikimedia.org/w/index.php?search=Col+du+Mollard+Albiez-Montrond&title=Special:MediaSearch&type=image) | ✅ |
 | 24 | **Cormet d'Arêches**<br>`cormet-d-areches` | Beaufort (73270) | 2 107 m | [search](https://commons.wikimedia.org/w/index.php?search=Cormet+d%27Ar%C3%AAches+Beaufort&title=Special:MediaSearch&type=image) | ✅ |
 | 25 | **Signal de Bisanne**<br>`signal-de-bisanne` | Hauteluce (73620) | 1 930 m. La station, où s' | [search](https://commons.wikimedia.org/w/index.php?search=Signal+de+Bisanne+Hauteluce&title=Special:MediaSearch&type=image) | ✅ |
-| 26 | **Télécabine de Champagny**<br>`telecabine-de-champagny` | Champagny-en-Vanoise (73350) | — | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9cabine+de+Champagny+Champagny-en-Vanoise&title=Special:MediaSearch&type=image) | ☐ |
+| 26 | **Télécabine de Champagny**<br>`telecabine-de-champagny` | Champagny-en-Vanoise (73350) | — | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9cabine+de+Champagny+Champagny-en-Vanoise&title=Special:MediaSearch&type=image) | ✅ |
 | 27 | **Télécabine de Solaise**<br>`telecabine-de-solaise` | Val-d'Isère (73150) | 2 560 m, tête de Solaise | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9cabine+de+Solaise+Val-d%27Is%C3%A8re&title=Special:MediaSearch&type=image) | ✅ |
 | 28 | **Télécabine des Glaciers**<br>`telecabine-des-glaciers` | La Plagne Tarentaise (73210) | « Plus de 3 000 m » | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9cabine+des+Glaciers+La+Plagne+Tarentaise&title=Special:MediaSearch&type=image) | ✅ |
 | 29 | **Télécabine Orelle – Cime Caron**<br>`telecabine-orelle-cime-caron` | Orelle (73140) | « 3 200 m » selon une sour | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9cabine+Orelle+%E2%80%93+Cime+Caron+Orelle&title=Special:MediaSearch&type=image) | ✅ |
@@ -55,7 +55,7 @@ Generated from `Json/*.json` on 2026-08-08 — not transcribed by hand.
 - ✅ `col-du-galibier` — Col du Galibier, Valloire
 - ✅ `col-du-petit-saint-bernard` — Col du Petit-Saint-Bernard, Séez
 - ✅ `telepherique-de-l-aiguille-rouge` — Téléphérique de l'Aiguille Rouge, Bourg-Saint-Maurice
-- ☐ `telepherique-de-la-cime-caron` — Téléphérique de la Cime Caron, Les Belleville
+- ✅ `telepherique-de-la-cime-caron` — Téléphérique de la Cime Caron, Les Belleville
 - ✅ `telepherique-de-la-grande-motte` — Téléphérique de la Grande Motte, Tignes
 - ✅ `telepherique-de-la-saulire` — Téléphérique de la Saulire, Courchevel
 - ✅ `vanoise-express` — Vanoise Express, Peisey-Nancroix
@@ -80,7 +80,7 @@ Generated from `Json/*.json` on 2026-08-08 — not transcribed by hand.
 - ✅ `col-du-mollard` — Col du Mollard, Albiez-Montrond
 - ✅ `cormet-d-areches` — Cormet d'Arêches, Beaufort
 - ✅ `signal-de-bisanne` — Signal de Bisanne, Hauteluce
-- ☐ `telecabine-de-champagny` — Télécabine de Champagny, Champagny-en-Vanoise
+- ✅ `telecabine-de-champagny` — Télécabine de Champagny, Champagny-en-Vanoise
 - ✅ `telecabine-de-solaise` — Télécabine de Solaise, Val-d'Isère
 - ✅ `telecabine-des-glaciers` — Télécabine des Glaciers, La Plagne Tarentaise
 - ✅ `telecabine-orelle-cime-caron` — Télécabine Orelle – Cime Caron, Orelle
@@ -154,6 +154,7 @@ The named ones are **photographs of specific Haute-Savoie places**. Using `col-d
 | `cormet-de-roselend` | Florian Pépellin | CC BY-SA 3.0 | 4288×3216 |
 | `funiculaire-de-la-grande-motte` | Antoine Lamielle | CC BY-SA 4.0 | 6000×4000 |
 | `signal-de-bisanne` | Rémih | CC BY-SA 4.0 | 5184×3888 |
+| `telecabine-de-champagny` | Florian Pépellin | CC BY-SA 4.0 | 3264×2448 |
 | `telecabine-de-la-pointe-de-la-masse` | Florian Pépellin | CC BY-SA 4.0 | 3264×2448 |
 | `telecabine-de-la-roche-de-mio` | Rémih | CC BY-SA 4.0 | 4608×3456 |
 | `telecabine-de-solaise` | Rémih | CC BY-SA 4.0 | 5184×3888 |
@@ -162,6 +163,7 @@ The named ones are **photographs of specific Haute-Savoie places**. Using `col-d
 | `telecabine-orelle-cime-caron` | Florian Pépellin | CC BY-SA 4.0 | 3264×2448 |
 | `telepherique-de-l-aiguille-rouge` | DimiTalen | CC0 | 2495×1659 |
 | `telepherique-de-l-olympique` | Pete Coleman from Croxley Green, | CC BY 2.0 | 1600×1066 |
+| `telepherique-de-la-cime-caron` | Rémih | CC BY-SA 4.0 | 5067×3801 |
 | `telepherique-de-la-grande-motte` | Ian Gratton from Sutton-n-Craven | CC BY 2.0 | 2560×1920 |
 | `telepherique-de-la-saulire` | Florian Pépellin | CC BY-SA 4.0 | 3264×2448 |
 | `telepherique-du-mont-bochor` | Rémih | CC BY-SA 4.0 | 5067×3801 |

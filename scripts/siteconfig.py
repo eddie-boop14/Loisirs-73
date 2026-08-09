@@ -68,6 +68,7 @@ ADJACENT_SCOPE_NOTE = _cfg.get("adjacent_scope_note", "")
 # build_lieu_page.sister_link_html() for why this stays off until the sibling
 # actually resolves.
 SISTER = _cfg.get("sister") or None
+SISTER_PROXIMITY_KM = _cfg.get("sister_proximity_km") or 0
 
 # Regex-safe forms. Engine scripts parse their OWN rendered HTML looking for
 # site URLs; those patterns must be built from the configured domain, never

@@ -2222,7 +2222,15 @@ _REL_LABELS = {
            "free": "Gratis", "paid": "Betaald", "route": "Route", "site": "Officiële website"},
 }
 _REL_LANGS = tuple(locales.VISIBLE)  # isolation-ok: carousel name/commune index spans the visible roster (new langs fall back to FR until their prose lands)
-_REL_CSS = """.related{padding:clamp(2rem,4vw,3.5rem) 0;border-top:1px solid var(--line);margin-bottom:5rem}
+# Cross-department cards are rare by design (see _sister_rel_cards): only the
+# handful of fiches within sister_proximity_km of the border get one. Keep
+# their rules out of _REL_CSS so the other pages don't carry dead selectors.
+_SIS_CSS = """
+.sister-card{position:relative}
+.sis-badge{position:absolute;top:.5rem;left:.5rem;z-index:2;background:rgba(11,81,112,.94);color:#fff;font-size:.68rem;font-weight:700;letter-spacing:.04em;text-transform:uppercase;padding:.2rem .5rem;border-radius:999px}
+"""
+_REL_CSS = """
+.related{padding:clamp(2rem,4vw,3.5rem) 0;border-top:1px solid var(--line);margin-bottom:5rem}
 .related .wrap{max-width:64rem;margin-inline:auto;padding-inline:clamp(1rem,3vw,2rem)}
 .related .kicker{font-size:.8125rem;font-weight:700;color:var(--accent);text-transform:uppercase;letter-spacing:.08em;margin-bottom:.65rem}
 .related h2{font-size:clamp(1.3rem,1.1rem + .8vw,1.85rem);line-height:1.15;letter-spacing:-.015em;font-weight:800;margin:0 0 .4rem;color:var(--ink)}
@@ -2436,13 +2444,72 @@ def related_carousel(d, lang):
         return ""
     labels = _REL_LABELS.get(lang, _REL_LABELS["fr"])
     cards = "\n".join(_render_rel_card(s, lang, labels) for s in rels if s in _REL_INDEX)
+    sis = _sister_rel_cards(d, lang)
+    cards += sis
     if not cards:
         return ""
-    return (f'<section class="block related" id="related">\n  <style>\n{_REL_CSS}\n</style>\n'
+    css = _REL_CSS + (_SIS_CSS if sis else "")
+    return (f'<section class="block related" id="related">\n  <style>\n{css}\n</style>\n'
             f'  <div class="wrap">\n    <p class="kicker">{labels["kicker"]}</p>\n'
             f'    <h2>{labels["h2"]}</h2>\n    <p class="lead">{labels["lead"]}</p>\n'
             f'    <div class="carousel">{cards}</div>\n  </div>\n</section>')
 
+
+
+# --- cross-department proximity -------------------------------------------
+# The sibling site covers the next departement, and near a shared border the
+# genuinely closest place is often on the other side of it. Those cards come
+# from data/sister-proximity.json and are ALWAYS badged as the sibling site:
+# an unmarked external card would read as our own content, and the reader
+# would not know they are about to leave.
+#
+# The radius is deliberately tight (site.config.json: sister_proximity_km).
+# Measured on this catalogue, 25 km yields a handful of honest pairs and 60 km
+# yields four figures — but 60 km on an alpine road is ninety minutes, and
+# calling that "a proximite" would be a lie told by arithmetic.
+_SIS_IDX = None
+
+
+def _sister_places():
+    global _SIS_IDX
+    if _SIS_IDX is None:
+        try:
+            _SIS_IDX = json.loads((REPO / "data" / "sister-proximity.json")
+                                  .read_text(encoding="utf-8")).get("places", [])
+        except Exception:
+            _SIS_IDX = []
+    return _SIS_IDX
+
+
+def _sister_rel_cards(d, lang, limit=2):
+    sis = getattr(siteconfig, "SISTER", None)
+    radius = float(getattr(siteconfig, "SISTER_PROXIMITY_KM", 0) or 0)
+    lat, lon = d.get("latitude"), d.get("longitude")
+    if not sis or not radius or lat is None or lon is None:
+        return ""
+    near = []
+    for pl in _sister_places():
+        dist = _haversine(lat, lon, pl["lat"], pl["lon"])
+        if dist <= radius:
+            near.append((dist, pl))
+    if not near:
+        return ""
+    near.sort(key=lambda t: t[0])
+    lbl = {"fr": "Sur", "en": "On", "de": "Auf", "it": "Su", "es": "En", "nl": "Op"}.get(lang, "Sur")
+    out = []
+    for dist, pl in near[:limit]:
+        img = (f'<img src="{attr(pl["hero"])}" alt="" loading="lazy">' if pl.get("hero")
+               else '<span class="ph"></span>')
+        # Send the reader to the sibling's page in the language they are
+        # already reading — its locale trees mirror ours (/en/<slug>).
+        url = pl["url"] if lang == "fr" else f'{sis["url"].rstrip("/")}/{lang}/{pl["slug"]}'
+        name = (pl.get("names") or {}).get(lang) or pl["name"]
+        out.append(
+            f'<a class="rel-card sister-card" href="{attr(url)}" rel="noopener">'
+            f'<span class="sis-badge">{esc(lbl)} {esc(sis["name"])}</span>{img}'
+            f'<span class="rc-t">{esc(name)}</span>'
+            f'<span class="rc-c">{esc(pl.get("commune") or "")} · {dist:.0f} km</span></a>')
+    return "\n" + "\n".join(out)
 
 # ---------------------------------------------------------------------------
 # Baignade cluster (HANDOFF 01): "L'essentiel" facts block + "Plages voisines"

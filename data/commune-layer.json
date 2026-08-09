@@ -1,0 +1,274 @@
+{
+ "manifest": "commune-layer-73-22",
+ "generated": "2026-08-08",
+ "tier": "ski-domain launch bucket",
+ "note": "Communes derived from the fiche layer, not authored by hand: one entry per commune that owns at least one fiche. Centroid is the mean of the fiches' coordinates and is absent where none carry one.",
+ "communes": [
+  {
+   "commune": "Albiez-Montrond",
+   "slug": "albiez-montrond",
+   "postal_code": "73300",
+   "department": "Savoie",
+   "lieux_count": 1,
+   "intro_fr": "Village de Maurienne sous les Aiguilles d'Arves, Albiez-Montrond commande la montée du col du Mollard et ses lacets.",
+   "intro_en": "A Maurienne village below the Aiguilles d'Arves, Albiez-Montrond commands the climb to the Col du Mollard and its hairpins."
+  },
+  {
+   "commune": "Beaufort",
+   "slug": "beaufort",
+   "postal_code": "73270",
+   "department": "Savoie",
+   "lieux_count": 2,
+   "intro_fr": "Capitale du Beaufortain et de son fromage, Beaufort ouvre sur deux cormets d'altitude — Roselend et Arêches — dont l'un n'est pas goudronné jusqu'au sommet.",
+   "intro_en": "Capital of the Beaufortain and of its cheese, Beaufort opens onto two high cormets — Roselend and Arêches — one of which is not surfaced to the top.",
+   "centroid": {
+    "lat": 45.6911,
+    "lon": 6.6906
+   }
+  },
+  {
+   "commune": "Bonneval-sur-Arc",
+   "slug": "bonneval-sur-arc",
+   "postal_code": "73480",
+   "department": "Savoie",
+   "lieux_count": 1,
+   "intro_fr": "Dernier village de la haute Maurienne, Bonneval-sur-Arc garde le versant est du col de l'Iseran.",
+   "intro_en": "The last village of the upper Maurienne, Bonneval-sur-Arc guards the eastern side of the Col de l'Iseran.",
+   "centroid": {
+    "lat": 45.4171,
+    "lon": 7.0307
+   }
+  },
+  {
+   "commune": "Bourg-Saint-Maurice",
+   "slug": "bourg-saint-maurice",
+   "postal_code": "73700",
+   "department": "Savoie",
+   "lieux_count": 1,
+   "intro_fr": "Porte de la haute Tarentaise, Bourg-Saint-Maurice donne accès aux Arcs et au téléphérique de l'Aiguille Rouge.",
+   "intro_en": "Gateway to the upper Tarentaise, Bourg-Saint-Maurice gives access to Les Arcs and the Aiguille Rouge cable car.",
+   "centroid": {
+    "lat": 45.5531,
+    "lon": 6.8418
+   }
+  },
+  {
+   "commune": "Champagny-en-Vanoise",
+   "slug": "champagny-en-vanoise",
+   "postal_code": "73350",
+   "department": "Savoie",
+   "lieux_count": 1,
+   "intro_fr": "Aux portes du parc national de la Vanoise, Champagny relie sa vallée au domaine d'altitude par une télécabine.",
+   "intro_en": "At the gates of the Vanoise national park, Champagny links its valley to the high ground by gondola.",
+   "centroid": {
+    "lat": 45.4562,
+    "lon": 6.6931
+   }
+  },
+  {
+   "commune": "Courchevel",
+   "slug": "courchevel",
+   "postal_code": "73120",
+   "department": "Savoie",
+   "lieux_count": 2,
+   "intro_fr": "Station des 3 Vallées, Courchevel tient le téléphérique de la Saulire et un versant du col de la Loze, route d'altitude interdite aux voitures.",
+   "intro_en": "A Trois Vallées resort, Courchevel holds the Saulire cable car and one side of the Col de la Loze, a high road closed to cars.",
+   "centroid": {
+    "lat": 45.3982,
+    "lon": 6.6085
+   }
+  },
+  {
+   "commune": "Hauteluce",
+   "slug": "hauteluce",
+   "postal_code": "73620",
+   "department": "Savoie",
+   "lieux_count": 2,
+   "intro_fr": "Commune du Beaufortain, Hauteluce porte la station des Saisies, son col ouvert toute l'année et le Signal de Bisanne.",
+   "intro_en": "A Beaufortain commune, Hauteluce carries the Les Saisies resort, its year-round pass and the Signal de Bisanne."
+  },
+  {
+   "commune": "La Plagne Tarentaise",
+   "slug": "la-plagne-tarentaise",
+   "postal_code": "73210",
+   "department": "Savoie",
+   "lieux_count": 2,
+   "intro_fr": "Cœur de La Plagne, la commune aligne les remontées d'altitude, de la Roche de Mio au glacier de Bellecôte.",
+   "intro_en": "The heart of La Plagne, the commune lines up the high lifts, from Roche de Mio to the Bellecôte glacier.",
+   "centroid": {
+    "lat": 45.5004,
+    "lon": 6.7217
+   }
+  },
+  {
+   "commune": "Les Allues",
+   "slug": "les-allues",
+   "postal_code": "73550",
+   "department": "Savoie",
+   "lieux_count": 1,
+   "intro_fr": "Commune de Méribel et première du département par le nombre de lieux recensés, Les Allues monte au Mont Vallon à 2 952 m.",
+   "intro_en": "The commune of Méribel and the department's densest by recorded places, Les Allues climbs to Mont Vallon at 2,952 m.",
+   "centroid": {
+    "lat": 45.3285,
+    "lon": 6.6098
+   }
+  },
+  {
+   "commune": "Les Belleville",
+   "slug": "les-belleville",
+   "postal_code": "73440",
+   "department": "Savoie",
+   "lieux_count": 2,
+   "intro_fr": "Commune des Menuires, de Val Thorens et de Saint-Martin, Les Belleville culmine à la Cime Caron.",
+   "intro_en": "The commune of Les Menuires, Val Thorens and Saint-Martin, Les Belleville tops out at the Cime Caron.",
+   "centroid": {
+    "lat": 45.2898,
+    "lon": 6.5358
+   }
+  },
+  {
+   "commune": "Orelle",
+   "slug": "orelle",
+   "postal_code": "73140",
+   "department": "Savoie",
+   "lieux_count": 1,
+   "intro_fr": "Petite commune de Maurienne, Orelle est la porte sud des 3 Vallées par la liaison vers la Cime Caron.",
+   "intro_en": "A small Maurienne commune, Orelle is the southern gateway to Les Trois Vallées via the link to the Cime Caron."
+  },
+  {
+   "commune": "Peisey-Nancroix",
+   "slug": "peisey-nancroix",
+   "postal_code": "73210",
+   "department": "Savoie",
+   "lieux_count": 1,
+   "intro_fr": "Peisey-Nancroix tient une extrémité du Vanoise Express, qui franchit la vallée vers La Plagne.",
+   "intro_en": "Peisey-Nancroix holds one end of the Vanoise Express, which spans the valley towards La Plagne.",
+   "centroid": {
+    "lat": 45.5511,
+    "lon": 6.7636
+   }
+  },
+  {
+   "commune": "Pralognan-la-Vanoise",
+   "slug": "pralognan-la-vanoise",
+   "postal_code": "73710",
+   "department": "Savoie",
+   "lieux_count": 1,
+   "intro_fr": "Village-porte du parc national de la Vanoise, Pralognan monte au Mont Bochor par téléphérique.",
+   "intro_en": "A gateway village to the Vanoise national park, Pralognan climbs to Mont Bochor by cable car.",
+   "centroid": {
+    "lat": 45.3863,
+    "lon": 6.7302
+   }
+  },
+  {
+   "commune": "Saint-Colomban-des-Villards",
+   "slug": "saint-colomban-des-villards",
+   "postal_code": "73130",
+   "department": "Savoie",
+   "lieux_count": 1,
+   "intro_fr": "Au fond de la vallée des Villards, Saint-Colomban commande le versant savoyard du col du Glandon.",
+   "intro_en": "At the head of the Villards valley, Saint-Colomban commands the Savoyard side of the Col du Glandon.",
+   "centroid": {
+    "lat": 45.2394,
+    "lon": 6.1756
+   }
+  },
+  {
+   "commune": "Saint-François-Longchamp",
+   "slug": "saint-francois-longchamp",
+   "postal_code": "73130",
+   "department": "Savoie",
+   "lieux_count": 1,
+   "intro_fr": "Station de Maurienne, Saint-François-Longchamp tient le versant sud du col de la Madeleine.",
+   "intro_en": "A Maurienne resort, Saint-François-Longchamp holds the southern side of the Col de la Madeleine.",
+   "centroid": {
+    "lat": 45.4354,
+    "lon": 6.376
+   }
+  },
+  {
+   "commune": "Saint-Jean-de-Maurienne",
+   "slug": "saint-jean-de-maurienne",
+   "postal_code": "73300",
+   "department": "Savoie",
+   "lieux_count": 1,
+   "intro_fr": "Sous-préfecture de la Maurienne, Saint-Jean commande la montée du col du Chaussy par les lacets de Montvernier.",
+   "intro_en": "Sub-prefecture of the Maurienne, Saint-Jean commands the climb to the Col du Chaussy via the Lacets de Montvernier.",
+   "centroid": {
+    "lat": 45.2794,
+    "lon": 6.3466
+   }
+  },
+  {
+   "commune": "Saint-Sorlin-d'Arves",
+   "slug": "saint-sorlin-d-arves",
+   "postal_code": "73530",
+   "department": "Savoie",
+   "lieux_count": 1,
+   "intro_fr": "Village des Arves, Saint-Sorlin ouvre sur le col de la Croix de Fer.",
+   "intro_en": "A village of the Arves, Saint-Sorlin opens onto the Col de la Croix de Fer.",
+   "centroid": {
+    "lat": 45.2275,
+    "lon": 6.2035
+   }
+  },
+  {
+   "commune": "Séez",
+   "slug": "seez",
+   "postal_code": "73700",
+   "department": "Savoie",
+   "lieux_count": 1,
+   "intro_fr": "Sur la route du Petit-Saint-Bernard, Séez garde le dernier col français avant l'Italie.",
+   "intro_en": "On the road to the Petit-Saint-Bernard, Séez guards the last French pass before Italy."
+  },
+  {
+   "commune": "Tignes",
+   "slug": "tignes",
+   "postal_code": "73320",
+   "department": "Savoie",
+   "lieux_count": 2,
+   "intro_fr": "Tignes monte au glacier de la Grande Motte par deux appareils en série : un funiculaire en tunnel, puis un téléphérique.",
+   "intro_en": "Tignes climbs to the Grande Motte glacier by two machines in series: a funicular in tunnel, then a cable car.",
+   "centroid": {
+    "lat": 45.4527,
+    "lon": 6.8977
+   }
+  },
+  {
+   "commune": "Val-Cenis",
+   "slug": "val-cenis",
+   "postal_code": "73480",
+   "department": "Savoie",
+   "lieux_count": 1,
+   "intro_fr": "Val-Cenis ouvre la haute Maurienne vers l'Italie par le col du Mont-Cenis et sa retenue.",
+   "intro_en": "Val-Cenis opens the upper Maurienne towards Italy via the Col du Mont-Cenis and its reservoir.",
+   "centroid": {
+    "lat": 45.2603,
+    "lon": 6.9008
+   }
+  },
+  {
+   "commune": "Val-d'Isère",
+   "slug": "val-d-isere",
+   "postal_code": "73150",
+   "department": "Savoie",
+   "lieux_count": 2,
+   "intro_fr": "Val-d'Isère aligne ses remontées d'altitude au-dessus de l'Isère naissante, dont une gratuite aux piétons l'été.",
+   "intro_en": "Val-d'Isère lines up its high lifts above the infant Isère, one of them free to pedestrians in summer."
+  },
+  {
+   "commune": "Valloire",
+   "slug": "valloire",
+   "postal_code": "73450",
+   "department": "Savoie",
+   "lieux_count": 2,
+   "intro_fr": "Entre Télégraphe et Galibier, Valloire tient deux des cols les plus franchis du Tour de France.",
+   "intro_en": "Between the Télégraphe and the Galibier, Valloire holds two of the most-crossed passes of the Tour de France.",
+   "centroid": {
+    "lat": 45.1333,
+    "lon": 6.4261
+   }
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+[
+ {
+  "slug": "cols-de-savoie",
+  "kicker": {
+   "fr": "Loisirs 73 · Savoie",
+   "en": "Loisirs 73 · Savoie"
+  },
+  "title": {
+   "fr": "Les grands cols de Savoie : altitudes, ouvertures, accès — loisirs73",
+   "en": "The great passes of Savoie: altitudes, openings, access — loisirs73"
+  },
+  "lead": {
+   "fr": "Iseran, Galibier, Madeleine, Croix de Fer, Mont-Cenis : les cols routiers de Savoie, avec ce que les sources disent vraiment de leur altitude et de leur date d'ouverture — contradictions comprises.",
+   "en": "Iseran, Galibier, Madeleine, Croix de Fer, Mont-Cenis: the road passes of Savoie, with what the sources actually say about their altitude and opening date — contradictions included."
+  },
+  "intent_id": "cols-savoie"
+ },
+ {
+  "slug": "remontees-mecaniques-savoie",
+  "kicker": {
+   "fr": "Loisirs 73 · Savoie",
+   "en": "Loisirs 73 · Savoie"
+  },
+  "title": {
+   "fr": "Téléphériques et télécabines de Savoie : horaires et tarifs vérifiés — loisirs73",
+   "en": "Savoie cable cars and gondolas: verified hours and prices — loisirs73"
+  },
+  "lead": {
+   "fr": "Les appareils d'altitude de Savoie, avec les jours de fermeture hebdomadaire et les coupures de midi que les pages de station mentionnent rarement.",
+   "en": "Savoie's high-altitude lifts, with the weekly closing days and midday breaks that resort pages rarely mention."
+  },
+  "intent_id": "remontees-savoie"
+ },
+ {
+  "slug": "les-3-vallees-en-altitude",
+  "kicker": {
+   "fr": "Loisirs 73 · Savoie",
+   "en": "Loisirs 73 · Savoie"
+  },
+  "title": {
+   "fr": "Les 3 Vallées en altitude : les points hauts accessibles — loisirs73",
+   "en": "Les Trois Vallées up high: the reachable high points — loisirs73"
+  },
+  "lead": {
+   "fr": "Saulire, Mont Vallon, Pointe de la Masse, Cime Caron : les sommets des 3 Vallées que l'on atteint sans marcher, et les jours où les appareils ne tournent pas.",
+   "en": "Saulire, Mont Vallon, Pointe de la Masse, Cime Caron: the Trois Vallées summits you can reach without walking, and the days the lifts do not run."
+  },
+  "intent_id": "trois-vallees-altitude"
+ },
+ {
+  "slug": "cols-de-maurienne-a-velo",
+  "kicker": {
+   "fr": "Loisirs 73 · Savoie",
+   "en": "Loisirs 73 · Savoie"
+  },
+  "title": {
+   "fr": "Les cols de Maurienne à vélo : profils et ouvertures — loisirs73",
+   "en": "The Maurienne cycling passes: profiles and openings — loisirs73"
+  },
+  "lead": {
+   "fr": "Galibier, Télégraphe, Croix de Fer, Glandon, Mollard, Chaussy : la vallée la plus dense en cols de France, avec les écarts de chiffres entre sources plutôt qu'une moyenne inventée.",
+   "en": "Galibier, Télégraphe, Croix de Fer, Glandon, Mollard, Chaussy: the densest pass valley in France, with the gaps between sources shown rather than an invented average."
+  },
+  "intent_id": "cols-maurienne-velo"
+ },
+ {
+  "slug": "tarentaise-en-altitude",
+  "kicker": {
+   "fr": "Loisirs 73 · Savoie",
+   "en": "Loisirs 73 · Savoie"
+  },
+  "title": {
+   "fr": "La Tarentaise en altitude : glaciers, funiculaire et téléphériques — loisirs73",
+   "en": "The Tarentaise up high: glaciers, funicular and cable cars — loisirs73"
+  },
+  "lead": {
+   "fr": "De la Grande Motte au glacier de Bellecôte, les appareils qui montent le plus haut de Savoie — et les cinq dates de fin de saison qui circulent pour un même site.",
+   "en": "From the Grande Motte to the Bellecôte glacier, the lifts that climb highest in Savoie — and the five end-of-season dates circulating for a single site."
+  },
+  "intent_id": "tarentaise-altitude"
+ },
+ {
+  "slug": "cols-du-beaufortain",
+  "kicker": {
+   "fr": "Loisirs 73 · Savoie",
+   "en": "Loisirs 73 · Savoie"
+  },
+  "title": {
+   "fr": "Les cormets du Beaufortain : Roselend et Arêches — loisirs73",
+   "en": "The cormets of the Beaufortain: Roselend and Arêches — loisirs73"
+  },
+  "lead": {
+   "fr": "Deux cols savoyards que l'on appelle cormets, dont l'un n'est pas goudronné jusqu'au sommet. La différence compte avant de s'y engager.",
+   "en": "Two Savoyard passes called cormets, one of which is not surfaced to the top. The difference matters before you set off."
+  },
+  "intent_id": "beaufortain-cols"
+ }
+]

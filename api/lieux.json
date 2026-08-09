@@ -1,4 +1,635 @@
 {
-  "count": 0,
-  "lieux": []
+  "count": 30,
+  "lieux": [
+    {
+      "slug": "col-de-l-iseran",
+      "name": "Col de l'Iseran",
+      "category": "point-de-vue",
+      "commune": "Bonneval-sur-Arc",
+      "postal_code": "73480",
+      "latitude": 45.417117,
+      "longitude": 7.030693,
+      "urls": {
+        "fr": "https://loisirs73.fr/col-de-l-iseran",
+        "en": "https://loisirs73.fr/en/col-de-l-iseran",
+        "de": "https://loisirs73.fr/de/col-de-l-iseran",
+        "it": "https://loisirs73.fr/it/col-de-l-iseran",
+        "es": "https://loisirs73.fr/es/col-de-l-iseran",
+        "nl": "https://loisirs73.fr/nl/col-de-l-iseran"
+      },
+      "facet_md": "https://loisirs73.fr/content/col-de-l-iseran.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/col-de-l-iseran.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/col-de-l-iseran.json",
+      "photo": "/img/points-de-vue/col-de-l-iseran-hero.jpg"
+    },
+    {
+      "slug": "col-de-la-croix-de-fer",
+      "name": "Col de la Croix de Fer",
+      "category": "point-de-vue",
+      "commune": "Saint-Sorlin-d'Arves",
+      "postal_code": "73530",
+      "latitude": 45.227482,
+      "longitude": 6.203515,
+      "urls": {
+        "fr": "https://loisirs73.fr/col-de-la-croix-de-fer",
+        "en": "https://loisirs73.fr/en/col-de-la-croix-de-fer",
+        "de": "https://loisirs73.fr/de/col-de-la-croix-de-fer",
+        "it": "https://loisirs73.fr/it/col-de-la-croix-de-fer",
+        "es": "https://loisirs73.fr/es/col-de-la-croix-de-fer",
+        "nl": "https://loisirs73.fr/nl/col-de-la-croix-de-fer"
+      },
+      "facet_md": "https://loisirs73.fr/content/col-de-la-croix-de-fer.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/col-de-la-croix-de-fer.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/col-de-la-croix-de-fer.json",
+      "photo": "/img/points-de-vue/col-de-la-croix-de-fer-hero.jpg"
+    },
+    {
+      "slug": "col-de-la-loze",
+      "name": "Col de la Loze",
+      "category": "point-de-vue",
+      "commune": "Courchevel",
+      "postal_code": "73120",
+      "latitude": 45.407339,
+      "longitude": 6.602635,
+      "urls": {
+        "fr": "https://loisirs73.fr/col-de-la-loze",
+        "en": "https://loisirs73.fr/en/col-de-la-loze",
+        "de": "https://loisirs73.fr/de/col-de-la-loze",
+        "it": "https://loisirs73.fr/it/col-de-la-loze",
+        "es": "https://loisirs73.fr/es/col-de-la-loze",
+        "nl": "https://loisirs73.fr/nl/col-de-la-loze"
+      },
+      "facet_md": "https://loisirs73.fr/content/col-de-la-loze.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/col-de-la-loze.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/col-de-la-loze.json",
+      "photo": "/img/points-de-vue/col-de-la-loze-hero.jpg"
+    },
+    {
+      "slug": "col-de-la-madeleine",
+      "name": "Col de la Madeleine",
+      "category": "point-de-vue",
+      "commune": "Saint-François-Longchamp",
+      "postal_code": "73130",
+      "latitude": 45.435426,
+      "longitude": 6.375963,
+      "urls": {
+        "fr": "https://loisirs73.fr/col-de-la-madeleine",
+        "en": "https://loisirs73.fr/en/col-de-la-madeleine",
+        "de": "https://loisirs73.fr/de/col-de-la-madeleine",
+        "it": "https://loisirs73.fr/it/col-de-la-madeleine",
+        "es": "https://loisirs73.fr/es/col-de-la-madeleine",
+        "nl": "https://loisirs73.fr/nl/col-de-la-madeleine"
+      },
+      "facet_md": "https://loisirs73.fr/content/col-de-la-madeleine.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/col-de-la-madeleine.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/col-de-la-madeleine.json",
+      "photo": "/img/points-de-vue/col-de-la-madeleine-hero.jpg"
+    },
+    {
+      "slug": "col-des-saisies",
+      "name": "Col des Saisies",
+      "category": "point-de-vue",
+      "commune": "Hauteluce",
+      "postal_code": "73620",
+      "latitude": null,
+      "longitude": null,
+      "urls": {
+        "fr": "https://loisirs73.fr/col-des-saisies",
+        "en": "https://loisirs73.fr/en/col-des-saisies",
+        "de": "https://loisirs73.fr/de/col-des-saisies",
+        "it": "https://loisirs73.fr/it/col-des-saisies",
+        "es": "https://loisirs73.fr/es/col-des-saisies",
+        "nl": "https://loisirs73.fr/nl/col-des-saisies"
+      },
+      "facet_md": "https://loisirs73.fr/content/col-des-saisies.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/col-des-saisies.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/col-des-saisies.json",
+      "photo": "/img/points-de-vue/col-des-saisies-hero.jpg"
+    },
+    {
+      "slug": "col-du-chaussy",
+      "name": "Col du Chaussy",
+      "category": "point-de-vue",
+      "commune": "Saint-Jean-de-Maurienne",
+      "postal_code": "73300",
+      "latitude": 45.279449,
+      "longitude": 6.346613,
+      "urls": {
+        "fr": "https://loisirs73.fr/col-du-chaussy",
+        "en": "https://loisirs73.fr/en/col-du-chaussy",
+        "de": "https://loisirs73.fr/de/col-du-chaussy",
+        "it": "https://loisirs73.fr/it/col-du-chaussy",
+        "es": "https://loisirs73.fr/es/col-du-chaussy",
+        "nl": "https://loisirs73.fr/nl/col-du-chaussy"
+      },
+      "facet_md": "https://loisirs73.fr/content/col-du-chaussy.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/col-du-chaussy.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/col-du-chaussy.json",
+      "photo": "/img/points-de-vue/col-du-chaussy-hero.jpg"
+    },
+    {
+      "slug": "col-du-galibier",
+      "name": "Col du Galibier",
+      "category": "point-de-vue",
+      "commune": "Valloire",
+      "postal_code": "73450",
+      "latitude": 45.06419,
+      "longitude": 6.407758,
+      "urls": {
+        "fr": "https://loisirs73.fr/col-du-galibier",
+        "en": "https://loisirs73.fr/en/col-du-galibier",
+        "de": "https://loisirs73.fr/de/col-du-galibier",
+        "it": "https://loisirs73.fr/it/col-du-galibier",
+        "es": "https://loisirs73.fr/es/col-du-galibier",
+        "nl": "https://loisirs73.fr/nl/col-du-galibier"
+      },
+      "facet_md": "https://loisirs73.fr/content/col-du-galibier.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/col-du-galibier.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/col-du-galibier.json",
+      "photo": "/img/points-de-vue/col-du-galibier-hero.jpg"
+    },
+    {
+      "slug": "col-du-glandon",
+      "name": "Col du Glandon",
+      "category": "point-de-vue",
+      "commune": "Saint-Colomban-des-Villards",
+      "postal_code": "73130",
+      "latitude": 45.239444,
+      "longitude": 6.175556,
+      "urls": {
+        "fr": "https://loisirs73.fr/col-du-glandon",
+        "en": "https://loisirs73.fr/en/col-du-glandon",
+        "de": "https://loisirs73.fr/de/col-du-glandon",
+        "it": "https://loisirs73.fr/it/col-du-glandon",
+        "es": "https://loisirs73.fr/es/col-du-glandon",
+        "nl": "https://loisirs73.fr/nl/col-du-glandon"
+      },
+      "facet_md": "https://loisirs73.fr/content/col-du-glandon.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/col-du-glandon.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/col-du-glandon.json",
+      "photo": "/img/points-de-vue/col-du-glandon-hero.jpg"
+    },
+    {
+      "slug": "col-du-mollard",
+      "name": "Col du Mollard",
+      "category": "point-de-vue",
+      "commune": "Albiez-Montrond",
+      "postal_code": "73300",
+      "latitude": null,
+      "longitude": null,
+      "urls": {
+        "fr": "https://loisirs73.fr/col-du-mollard",
+        "en": "https://loisirs73.fr/en/col-du-mollard",
+        "de": "https://loisirs73.fr/de/col-du-mollard",
+        "it": "https://loisirs73.fr/it/col-du-mollard",
+        "es": "https://loisirs73.fr/es/col-du-mollard",
+        "nl": "https://loisirs73.fr/nl/col-du-mollard"
+      },
+      "facet_md": "https://loisirs73.fr/content/col-du-mollard.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/col-du-mollard.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/col-du-mollard.json",
+      "photo": "/img/points-de-vue/col-du-mollard-hero.jpg"
+    },
+    {
+      "slug": "col-du-mont-cenis",
+      "name": "Col du Mont-Cenis",
+      "category": "point-de-vue",
+      "commune": "Val-Cenis",
+      "postal_code": "73480",
+      "latitude": 45.260278,
+      "longitude": 6.900833,
+      "urls": {
+        "fr": "https://loisirs73.fr/col-du-mont-cenis",
+        "en": "https://loisirs73.fr/en/col-du-mont-cenis",
+        "de": "https://loisirs73.fr/de/col-du-mont-cenis",
+        "it": "https://loisirs73.fr/it/col-du-mont-cenis",
+        "es": "https://loisirs73.fr/es/col-du-mont-cenis",
+        "nl": "https://loisirs73.fr/nl/col-du-mont-cenis"
+      },
+      "facet_md": "https://loisirs73.fr/content/col-du-mont-cenis.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/col-du-mont-cenis.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/col-du-mont-cenis.json",
+      "photo": "/img/points-de-vue/col-du-mont-cenis-hero.jpg"
+    },
+    {
+      "slug": "col-du-petit-saint-bernard",
+      "name": "Col du Petit-Saint-Bernard",
+      "category": "point-de-vue",
+      "commune": "Séez",
+      "postal_code": "73700",
+      "latitude": null,
+      "longitude": null,
+      "urls": {
+        "fr": "https://loisirs73.fr/col-du-petit-saint-bernard",
+        "en": "https://loisirs73.fr/en/col-du-petit-saint-bernard",
+        "de": "https://loisirs73.fr/de/col-du-petit-saint-bernard",
+        "it": "https://loisirs73.fr/it/col-du-petit-saint-bernard",
+        "es": "https://loisirs73.fr/es/col-du-petit-saint-bernard",
+        "nl": "https://loisirs73.fr/nl/col-du-petit-saint-bernard"
+      },
+      "facet_md": "https://loisirs73.fr/content/col-du-petit-saint-bernard.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/col-du-petit-saint-bernard.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/col-du-petit-saint-bernard.json",
+      "photo": "/img/points-de-vue/col-du-petit-saint-bernard-hero.jpg"
+    },
+    {
+      "slug": "col-du-telegraphe",
+      "name": "Col du Télégraphe",
+      "category": "point-de-vue",
+      "commune": "Valloire",
+      "postal_code": "73450",
+      "latitude": 45.2025,
+      "longitude": 6.444444,
+      "urls": {
+        "fr": "https://loisirs73.fr/col-du-telegraphe",
+        "en": "https://loisirs73.fr/en/col-du-telegraphe",
+        "de": "https://loisirs73.fr/de/col-du-telegraphe",
+        "it": "https://loisirs73.fr/it/col-du-telegraphe",
+        "es": "https://loisirs73.fr/es/col-du-telegraphe",
+        "nl": "https://loisirs73.fr/nl/col-du-telegraphe"
+      },
+      "facet_md": "https://loisirs73.fr/content/col-du-telegraphe.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/col-du-telegraphe.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/col-du-telegraphe.json",
+      "photo": "/img/points-de-vue/col-du-telegraphe-hero.jpg"
+    },
+    {
+      "slug": "cormet-d-areches",
+      "name": "Cormet d'Arêches",
+      "category": "point-de-vue",
+      "commune": "Beaufort",
+      "postal_code": "73270",
+      "latitude": null,
+      "longitude": null,
+      "urls": {
+        "fr": "https://loisirs73.fr/cormet-d-areches",
+        "en": "https://loisirs73.fr/en/cormet-d-areches",
+        "de": "https://loisirs73.fr/de/cormet-d-areches",
+        "it": "https://loisirs73.fr/it/cormet-d-areches",
+        "es": "https://loisirs73.fr/es/cormet-d-areches",
+        "nl": "https://loisirs73.fr/nl/cormet-d-areches"
+      },
+      "facet_md": "https://loisirs73.fr/content/cormet-d-areches.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/cormet-d-areches.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/cormet-d-areches.json",
+      "photo": "/img/points-de-vue/cormet-d-areches-hero.jpg"
+    },
+    {
+      "slug": "cormet-de-roselend",
+      "name": "Cormet de Roselend",
+      "category": "point-de-vue",
+      "commune": "Beaufort",
+      "postal_code": "73270",
+      "latitude": 45.69111,
+      "longitude": 6.69056,
+      "urls": {
+        "fr": "https://loisirs73.fr/cormet-de-roselend",
+        "en": "https://loisirs73.fr/en/cormet-de-roselend",
+        "de": "https://loisirs73.fr/de/cormet-de-roselend",
+        "it": "https://loisirs73.fr/it/cormet-de-roselend",
+        "es": "https://loisirs73.fr/es/cormet-de-roselend",
+        "nl": "https://loisirs73.fr/nl/cormet-de-roselend"
+      },
+      "facet_md": "https://loisirs73.fr/content/cormet-de-roselend.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/cormet-de-roselend.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/cormet-de-roselend.json",
+      "photo": "/img/points-de-vue/cormet-de-roselend-hero.jpg"
+    },
+    {
+      "slug": "funiculaire-de-la-grande-motte",
+      "name": "Funiculaire de la Grande Motte",
+      "category": "remontee-mecanique",
+      "commune": "Tignes",
+      "postal_code": "73320",
+      "latitude": 45.452671,
+      "longitude": 6.897683,
+      "urls": {
+        "fr": "https://loisirs73.fr/funiculaire-de-la-grande-motte",
+        "en": "https://loisirs73.fr/en/funiculaire-de-la-grande-motte",
+        "de": "https://loisirs73.fr/de/funiculaire-de-la-grande-motte",
+        "it": "https://loisirs73.fr/it/funiculaire-de-la-grande-motte",
+        "es": "https://loisirs73.fr/es/funiculaire-de-la-grande-motte",
+        "nl": "https://loisirs73.fr/nl/funiculaire-de-la-grande-motte"
+      },
+      "facet_md": "https://loisirs73.fr/content/funiculaire-de-la-grande-motte.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/funiculaire-de-la-grande-motte.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/funiculaire-de-la-grande-motte.json",
+      "photo": "/img/telecabines/funiculaire-de-la-grande-motte-hero.jpg"
+    },
+    {
+      "slug": "signal-de-bisanne",
+      "name": "Signal de Bisanne",
+      "category": "point-de-vue",
+      "commune": "Hauteluce",
+      "postal_code": "73620",
+      "latitude": null,
+      "longitude": null,
+      "urls": {
+        "fr": "https://loisirs73.fr/signal-de-bisanne",
+        "en": "https://loisirs73.fr/en/signal-de-bisanne",
+        "de": "https://loisirs73.fr/de/signal-de-bisanne",
+        "it": "https://loisirs73.fr/it/signal-de-bisanne",
+        "es": "https://loisirs73.fr/es/signal-de-bisanne",
+        "nl": "https://loisirs73.fr/nl/signal-de-bisanne"
+      },
+      "facet_md": "https://loisirs73.fr/content/signal-de-bisanne.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/signal-de-bisanne.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/signal-de-bisanne.json",
+      "photo": "/img/points-de-vue/signal-de-bisanne-hero.jpg"
+    },
+    {
+      "slug": "telecabine-de-champagny",
+      "name": "Télécabine de Champagny",
+      "category": "remontee-mecanique",
+      "commune": "Champagny-en-Vanoise",
+      "postal_code": "73350",
+      "latitude": 45.456202,
+      "longitude": 6.693066,
+      "urls": {
+        "fr": "https://loisirs73.fr/telecabine-de-champagny",
+        "en": "https://loisirs73.fr/en/telecabine-de-champagny",
+        "de": "https://loisirs73.fr/de/telecabine-de-champagny",
+        "it": "https://loisirs73.fr/it/telecabine-de-champagny",
+        "es": "https://loisirs73.fr/es/telecabine-de-champagny",
+        "nl": "https://loisirs73.fr/nl/telecabine-de-champagny"
+      },
+      "facet_md": "https://loisirs73.fr/content/telecabine-de-champagny.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/telecabine-de-champagny.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/telecabine-de-champagny.json",
+      "photo": "/img/telecabines/telecabine-de-champagny-hero.jpg"
+    },
+    {
+      "slug": "telecabine-de-la-pointe-de-la-masse",
+      "name": "Télécabine de la Pointe de la Masse",
+      "category": "remontee-mecanique",
+      "commune": "Les Belleville",
+      "postal_code": "73440",
+      "latitude": 45.299101,
+      "longitude": 6.509023,
+      "urls": {
+        "fr": "https://loisirs73.fr/telecabine-de-la-pointe-de-la-masse",
+        "en": "https://loisirs73.fr/en/telecabine-de-la-pointe-de-la-masse",
+        "de": "https://loisirs73.fr/de/telecabine-de-la-pointe-de-la-masse",
+        "it": "https://loisirs73.fr/it/telecabine-de-la-pointe-de-la-masse",
+        "es": "https://loisirs73.fr/es/telecabine-de-la-pointe-de-la-masse",
+        "nl": "https://loisirs73.fr/nl/telecabine-de-la-pointe-de-la-masse"
+      },
+      "facet_md": "https://loisirs73.fr/content/telecabine-de-la-pointe-de-la-masse.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/telecabine-de-la-pointe-de-la-masse.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/telecabine-de-la-pointe-de-la-masse.json",
+      "photo": "/img/telecabines/telecabine-de-la-pointe-de-la-masse-hero.jpg"
+    },
+    {
+      "slug": "telecabine-de-la-roche-de-mio",
+      "name": "Télécabine de la Roche de Mio",
+      "category": "remontee-mecanique",
+      "commune": "La Plagne Tarentaise",
+      "postal_code": "73210",
+      "latitude": 45.50728,
+      "longitude": 6.707604,
+      "urls": {
+        "fr": "https://loisirs73.fr/telecabine-de-la-roche-de-mio",
+        "en": "https://loisirs73.fr/en/telecabine-de-la-roche-de-mio",
+        "de": "https://loisirs73.fr/de/telecabine-de-la-roche-de-mio",
+        "it": "https://loisirs73.fr/it/telecabine-de-la-roche-de-mio",
+        "es": "https://loisirs73.fr/es/telecabine-de-la-roche-de-mio",
+        "nl": "https://loisirs73.fr/nl/telecabine-de-la-roche-de-mio"
+      },
+      "facet_md": "https://loisirs73.fr/content/telecabine-de-la-roche-de-mio.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/telecabine-de-la-roche-de-mio.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/telecabine-de-la-roche-de-mio.json",
+      "photo": "/img/telecabines/telecabine-de-la-roche-de-mio-hero.jpg"
+    },
+    {
+      "slug": "telecabine-de-solaise",
+      "name": "Télécabine de Solaise",
+      "category": "remontee-mecanique",
+      "commune": "Val-d'Isère",
+      "postal_code": "73150",
+      "latitude": null,
+      "longitude": null,
+      "urls": {
+        "fr": "https://loisirs73.fr/telecabine-de-solaise",
+        "en": "https://loisirs73.fr/en/telecabine-de-solaise",
+        "de": "https://loisirs73.fr/de/telecabine-de-solaise",
+        "it": "https://loisirs73.fr/it/telecabine-de-solaise",
+        "es": "https://loisirs73.fr/es/telecabine-de-solaise",
+        "nl": "https://loisirs73.fr/nl/telecabine-de-solaise"
+      },
+      "facet_md": "https://loisirs73.fr/content/telecabine-de-solaise.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/telecabine-de-solaise.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/telecabine-de-solaise.json",
+      "photo": "/img/telecabines/telecabine-de-solaise-hero.jpg"
+    },
+    {
+      "slug": "telecabine-des-glaciers",
+      "name": "Télécabine des Glaciers",
+      "category": "remontee-mecanique",
+      "commune": "La Plagne Tarentaise",
+      "postal_code": "73210",
+      "latitude": 45.493497,
+      "longitude": 6.735714,
+      "urls": {
+        "fr": "https://loisirs73.fr/telecabine-des-glaciers",
+        "en": "https://loisirs73.fr/en/telecabine-des-glaciers",
+        "de": "https://loisirs73.fr/de/telecabine-des-glaciers",
+        "it": "https://loisirs73.fr/it/telecabine-des-glaciers",
+        "es": "https://loisirs73.fr/es/telecabine-des-glaciers",
+        "nl": "https://loisirs73.fr/nl/telecabine-des-glaciers"
+      },
+      "facet_md": "https://loisirs73.fr/content/telecabine-des-glaciers.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/telecabine-des-glaciers.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/telecabine-des-glaciers.json",
+      "photo": "/img/telecabines/telecabine-des-glaciers-hero.jpg"
+    },
+    {
+      "slug": "telecabine-du-mont-vallon",
+      "name": "Télécabine du Mont Vallon",
+      "category": "remontee-mecanique",
+      "commune": "Les Allues",
+      "postal_code": "73550",
+      "latitude": 45.328541,
+      "longitude": 6.609849,
+      "urls": {
+        "fr": "https://loisirs73.fr/telecabine-du-mont-vallon",
+        "en": "https://loisirs73.fr/en/telecabine-du-mont-vallon",
+        "de": "https://loisirs73.fr/de/telecabine-du-mont-vallon",
+        "it": "https://loisirs73.fr/it/telecabine-du-mont-vallon",
+        "es": "https://loisirs73.fr/es/telecabine-du-mont-vallon",
+        "nl": "https://loisirs73.fr/nl/telecabine-du-mont-vallon"
+      },
+      "facet_md": "https://loisirs73.fr/content/telecabine-du-mont-vallon.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/telecabine-du-mont-vallon.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/telecabine-du-mont-vallon.json",
+      "photo": "/img/telecabines/telecabine-du-mont-vallon-hero.jpg"
+    },
+    {
+      "slug": "telecabine-orelle-cime-caron",
+      "name": "Télécabine Orelle – Cime Caron",
+      "category": "remontee-mecanique",
+      "commune": "Orelle",
+      "postal_code": "73140",
+      "latitude": null,
+      "longitude": null,
+      "urls": {
+        "fr": "https://loisirs73.fr/telecabine-orelle-cime-caron",
+        "en": "https://loisirs73.fr/en/telecabine-orelle-cime-caron",
+        "de": "https://loisirs73.fr/de/telecabine-orelle-cime-caron",
+        "it": "https://loisirs73.fr/it/telecabine-orelle-cime-caron",
+        "es": "https://loisirs73.fr/es/telecabine-orelle-cime-caron",
+        "nl": "https://loisirs73.fr/nl/telecabine-orelle-cime-caron"
+      },
+      "facet_md": "https://loisirs73.fr/content/telecabine-orelle-cime-caron.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/telecabine-orelle-cime-caron.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/telecabine-orelle-cime-caron.json",
+      "photo": "/img/telecabines/telecabine-orelle-cime-caron-hero.jpg"
+    },
+    {
+      "slug": "telepherique-de-l-aiguille-rouge",
+      "name": "Téléphérique de l'Aiguille Rouge",
+      "category": "telecabine",
+      "commune": "Bourg-Saint-Maurice",
+      "postal_code": "73700",
+      "latitude": 45.553072,
+      "longitude": 6.841814,
+      "urls": {
+        "fr": "https://loisirs73.fr/telepherique-de-l-aiguille-rouge",
+        "en": "https://loisirs73.fr/en/telepherique-de-l-aiguille-rouge",
+        "de": "https://loisirs73.fr/de/telepherique-de-l-aiguille-rouge",
+        "it": "https://loisirs73.fr/it/telepherique-de-l-aiguille-rouge",
+        "es": "https://loisirs73.fr/es/telepherique-de-l-aiguille-rouge",
+        "nl": "https://loisirs73.fr/nl/telepherique-de-l-aiguille-rouge"
+      },
+      "facet_md": "https://loisirs73.fr/content/telepherique-de-l-aiguille-rouge.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/telepherique-de-l-aiguille-rouge.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/telepherique-de-l-aiguille-rouge.json",
+      "photo": "/img/telecabines/telepherique-de-l-aiguille-rouge-hero.jpg"
+    },
+    {
+      "slug": "telepherique-de-l-olympique",
+      "name": "Téléphérique de l'Olympique",
+      "category": "remontee-mecanique",
+      "commune": "Val-d'Isère",
+      "postal_code": "73150",
+      "latitude": null,
+      "longitude": null,
+      "urls": {
+        "fr": "https://loisirs73.fr/telepherique-de-l-olympique",
+        "en": "https://loisirs73.fr/en/telepherique-de-l-olympique",
+        "de": "https://loisirs73.fr/de/telepherique-de-l-olympique",
+        "it": "https://loisirs73.fr/it/telepherique-de-l-olympique",
+        "es": "https://loisirs73.fr/es/telepherique-de-l-olympique",
+        "nl": "https://loisirs73.fr/nl/telepherique-de-l-olympique"
+      },
+      "facet_md": "https://loisirs73.fr/content/telepherique-de-l-olympique.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/telepherique-de-l-olympique.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/telepherique-de-l-olympique.json",
+      "photo": "/img/telecabines/telepherique-de-l-olympique-hero.jpg"
+    },
+    {
+      "slug": "telepherique-de-la-cime-caron",
+      "name": "Téléphérique de la Cime Caron",
+      "category": "telecabine",
+      "commune": "Les Belleville",
+      "postal_code": "73440",
+      "latitude": 45.2805688,
+      "longitude": 6.5626129,
+      "urls": {
+        "fr": "https://loisirs73.fr/telepherique-de-la-cime-caron",
+        "en": "https://loisirs73.fr/en/telepherique-de-la-cime-caron",
+        "de": "https://loisirs73.fr/de/telepherique-de-la-cime-caron",
+        "it": "https://loisirs73.fr/it/telepherique-de-la-cime-caron",
+        "es": "https://loisirs73.fr/es/telepherique-de-la-cime-caron",
+        "nl": "https://loisirs73.fr/nl/telepherique-de-la-cime-caron"
+      },
+      "facet_md": "https://loisirs73.fr/content/telepherique-de-la-cime-caron.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/telepherique-de-la-cime-caron.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/telepherique-de-la-cime-caron.json",
+      "photo": "/img/telecabines/telepherique-de-la-cime-caron-hero.jpg"
+    },
+    {
+      "slug": "telepherique-de-la-grande-motte",
+      "name": "Téléphérique de la Grande Motte",
+      "category": "telecabine",
+      "commune": "Tignes",
+      "postal_code": "73320",
+      "latitude": null,
+      "longitude": null,
+      "urls": {
+        "fr": "https://loisirs73.fr/telepherique-de-la-grande-motte",
+        "en": "https://loisirs73.fr/en/telepherique-de-la-grande-motte",
+        "de": "https://loisirs73.fr/de/telepherique-de-la-grande-motte",
+        "it": "https://loisirs73.fr/it/telepherique-de-la-grande-motte",
+        "es": "https://loisirs73.fr/es/telepherique-de-la-grande-motte",
+        "nl": "https://loisirs73.fr/nl/telepherique-de-la-grande-motte"
+      },
+      "facet_md": "https://loisirs73.fr/content/telepherique-de-la-grande-motte.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/telepherique-de-la-grande-motte.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/telepherique-de-la-grande-motte.json",
+      "photo": "/img/telecabines/telepherique-de-la-grande-motte-hero.jpg"
+    },
+    {
+      "slug": "telepherique-de-la-saulire",
+      "name": "Téléphérique de la Saulire",
+      "category": "telecabine",
+      "commune": "Courchevel",
+      "postal_code": "73120",
+      "latitude": 45.389041,
+      "longitude": 6.614401,
+      "urls": {
+        "fr": "https://loisirs73.fr/telepherique-de-la-saulire",
+        "en": "https://loisirs73.fr/en/telepherique-de-la-saulire",
+        "de": "https://loisirs73.fr/de/telepherique-de-la-saulire",
+        "it": "https://loisirs73.fr/it/telepherique-de-la-saulire",
+        "es": "https://loisirs73.fr/es/telepherique-de-la-saulire",
+        "nl": "https://loisirs73.fr/nl/telepherique-de-la-saulire"
+      },
+      "facet_md": "https://loisirs73.fr/content/telepherique-de-la-saulire.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/telepherique-de-la-saulire.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/telepherique-de-la-saulire.json",
+      "photo": "/img/telecabines/telepherique-de-la-saulire-hero.jpg"
+    },
+    {
+      "slug": "telepherique-du-mont-bochor",
+      "name": "Téléphérique du Mont-Bochor",
+      "category": "remontee-mecanique",
+      "commune": "Pralognan-la-Vanoise",
+      "postal_code": "73710",
+      "latitude": 45.386327,
+      "longitude": 6.730179,
+      "urls": {
+        "fr": "https://loisirs73.fr/telepherique-du-mont-bochor",
+        "en": "https://loisirs73.fr/en/telepherique-du-mont-bochor",
+        "de": "https://loisirs73.fr/de/telepherique-du-mont-bochor",
+        "it": "https://loisirs73.fr/it/telepherique-du-mont-bochor",
+        "es": "https://loisirs73.fr/es/telepherique-du-mont-bochor",
+        "nl": "https://loisirs73.fr/nl/telepherique-du-mont-bochor"
+      },
+      "facet_md": "https://loisirs73.fr/content/telepherique-du-mont-bochor.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/telepherique-du-mont-bochor.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/telepherique-du-mont-bochor.json",
+      "photo": "/img/telecabines/telepherique-du-mont-bochor-hero.jpg"
+    },
+    {
+      "slug": "vanoise-express",
+      "name": "Vanoise Express",
+      "category": "telecabine",
+      "commune": "Peisey-Nancroix",
+      "postal_code": "73210",
+      "latitude": 45.551125,
+      "longitude": 6.763596,
+      "urls": {
+        "fr": "https://loisirs73.fr/vanoise-express",
+        "en": "https://loisirs73.fr/en/vanoise-express",
+        "de": "https://loisirs73.fr/de/vanoise-express",
+        "it": "https://loisirs73.fr/it/vanoise-express",
+        "es": "https://loisirs73.fr/es/vanoise-express",
+        "nl": "https://loisirs73.fr/nl/vanoise-express"
+      },
+      "facet_md": "https://loisirs73.fr/content/vanoise-express.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/vanoise-express.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/vanoise-express.json",
+      "photo": "/img/telecabines/vanoise-express-hero.jpg"
+    }
+  ]
 }

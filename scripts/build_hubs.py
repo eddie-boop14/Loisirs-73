@@ -726,6 +726,23 @@ HUB_DISPLAY = {
 }
 ALL_BASE_HUBS = list(HUB_DISPLAY.keys())
 
+# HANDOFF-73 phase 6 — the hub ROSTER is per-site, the wording is not.
+# HUB_FILTERS above is the engine's full taxonomy; a given site only owns the
+# subset it has fiches for. data/hub-titles.json is that subset (it is already
+# authored per site and already carries {dept}/{site} placeholders), so it is
+# the natural roster. Without this, a new departement inherits the 74's
+# cascades/chateaux/lacs-plages and build_hubs dies looking for pages that were
+# never meant to exist here.
+try:
+    _roster = set(json.loads(
+        (ROOT / "data" / "hub-titles.json").read_text(encoding="utf-8"))["titles"])
+except Exception:
+    _roster = None
+if _roster:
+    HUB_FILTERS = {k: v for k, v in HUB_FILTERS.items() if k in _roster}
+    HUB_DISPLAY = {k: v for k, v in HUB_DISPLAY.items() if k in _roster}
+    ALL_BASE_HUBS = list(HUB_DISPLAY.keys())
+
 
 # Homepage "Sorties & détente" section — curated lead order (real heroes first),
 # cards lifted from the locale sorties-detente hub so the homepage can't drift.

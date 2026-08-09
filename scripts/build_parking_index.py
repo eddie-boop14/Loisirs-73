@@ -57,7 +57,7 @@ OVERPASS = "https://overpass-api.de/api/interpreter"
 UA = f"{siteconfig.SITE_NAME.replace(' ', '')}-parking-index/1.0 ({siteconfig.PHOTOS_EMAIL})"
 
 # Haute-Savoie bbox (S, W, N, E).
-BBOX = (45.55, 5.75, 46.45, 7.10)
+BBOX = siteconfig.BBOX or (45.55, 5.75, 46.45, 7.10)  # config first; literal is the 74 fallback
 
 MAX_DIST_M = 600
 TOP_N = 3
@@ -199,7 +199,7 @@ def main():
 
     today = date.today().isoformat()
     print(f"build_parking_index — verification date {today}")
-    print("Querying Overpass for amenity=parking in Haute-Savoie ...")
+    print(f"Querying Overpass for amenity=parking in {siteconfig.DEPT_NAME} ...")
     osm = overpass_query(args.offline)
     feed_ts = osm.get("osm3s", {}).get("timestamp_osm_base", "")
     print(f"  OSM data timestamp: {feed_ts}")

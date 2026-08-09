@@ -35,6 +35,14 @@ UI = {
  # implies a hierarchy between two sites that are simply the same publisher.
  "sister": {"fr": "Même exigence en", "en": "Same standard in", "de": "Gleicher Anspruch in",
             "it": "Stesso rigore in", "es": "El mismo rigor en", "nl": "Dezelfde maatstaf in"},
+ # The sibling panel carries the proposition, not just the name. Same publisher,
+ # same verification rule — that is the reason to cross the departmental border.
+ "sis_kicker": {"fr": "L'autre département", "en": "The other department"},
+ "sis_body": {"fr": "Même éditeur, même règle : chaque fait vérifié auprès d'une source officielle, "
+                    "et les contradictions affichées plutôt qu'arbitrées.",
+              "en": "Same publisher, same rule: every fact checked against an official source, "
+                    "and contradictions shown rather than quietly resolved."},
+ "sis_go": {"fr": "Ouvrir loisirs74.fr", "en": "Open loisirs74.fr"},
  "prep": {"fr": "Site en préparation : rien n'est indexé pour l'instant.",
           "en": "Site in preparation: nothing is indexed yet."},
 }
@@ -79,27 +87,52 @@ def build(lang, fiches):
                  + "".join(card(f, lang) for f in items) + "</ul></section>\n")
     alts = "".join(f'<link rel="alternate" hreflang="{L}" href="{S.BASE_URL}/'
                    + ("" if L == "fr" else f"{L}/") + '"/>\n' for L in LANGS)
-    css = ("*{box-sizing:border-box}body{margin:0;background:#fafaf7;color:#0b0d10;"
-           "font:16px/1.6 system-ui,-apple-system,'Segoe UI',Roboto,sans-serif}"
-           "@media(prefers-color-scheme:dark){body{background:#0b0d10;color:#f4f6f8}"
-           ".card a{background:#13171c;border-color:#262c34}}"
-           "main{max-width:64rem;margin:0 auto;padding:2rem 1.25rem}"
-           ".mark{display:inline-flex;align-items:center;gap:.6rem;font-weight:700}"
-           ".mark img{width:30px;height:30px;border-radius:8px}"
-           "h1{font-size:clamp(1.9rem,1.4rem + 2.4vw,2.9rem);letter-spacing:-.02em;margin:1.4rem 0 .6rem}"
-           "h2{font-size:1.15rem;margin:2.4rem 0 .8rem}"
-           ".lede{font-size:1.06rem;max-width:44rem}"
-           ".hubs ul{list-style:none;padding:0;display:flex;flex-wrap:wrap;gap:.6rem;margin:1.4rem 0}"
-           ".hubs a{display:inline-block;padding:.45rem .9rem;border:1px solid #e3e3dc;border-radius:999px;text-decoration:none;color:inherit}"
-           ".grid{list-style:none;padding:0;margin:0;display:grid;gap:1rem;"
-           "grid-template-columns:repeat(auto-fill,minmax(230px,1fr))}"
-           ".card a{display:block;border:1px solid #e3e3dc;border-radius:12px;overflow:hidden;"
-           "background:#fff;text-decoration:none;color:inherit}"
-           ".card img{width:100%;height:150px;object-fit:cover;display:block}"
-           ".ct{display:block;padding:.6rem .7rem .1rem;font-weight:600}"
-           ".cc{display:block;padding:0 .7rem .7rem;color:#6a727d;font-size:.85rem}"
-           "footer{margin-top:3rem;padding-top:1.2rem;border-top:1px solid #e3e3dc;"
-           "color:#6a727d;font-size:.85rem}a{color:#0b5170}")
+    css = (
+        # Tokens first, so every colour has a light value before anything overrides it.
+        ":root{--bg:#fafaf7;--surface:#fff;--line:#e3e3dc;--ink:#0b0d10;--ink-soft:#3a3f47;"
+        "--ink-mute:#6a727d;--accent:#0b5170}"
+        "*{box-sizing:border-box}"
+        "body{margin:0;background:var(--bg);color:var(--ink);"
+        "font:16px/1.6 system-ui,-apple-system,'Segoe UI',Roboto,sans-serif}"
+        "main{max-width:64rem;margin:0 auto;padding:2rem 1.25rem}"
+        ".mark{display:inline-flex;align-items:center;gap:.6rem;font-weight:700}"
+        ".mark img{width:30px;height:30px;border-radius:8px}"
+        "h1{font-size:clamp(1.9rem,1.4rem + 2.4vw,2.9rem);letter-spacing:-.02em;margin:1.4rem 0 .6rem}"
+        "h2{font-size:1.15rem;margin:2.4rem 0 .8rem}"
+        ".lede{font-size:1.06rem;max-width:44rem;color:var(--ink-soft)}"
+        ".hubs ul{list-style:none;padding:0;display:flex;flex-wrap:wrap;gap:.6rem;margin:1.4rem 0}"
+        ".hubs a{display:inline-block;padding:.45rem .9rem;border:1px solid var(--line);"
+        "border-radius:999px;text-decoration:none;color:var(--ink)}"
+        ".grid{list-style:none;padding:0;margin:0;display:grid;gap:1rem;"
+        "grid-template-columns:repeat(auto-fill,minmax(230px,1fr))}"
+        ".card a{display:block;border:1px solid var(--line);border-radius:12px;overflow:hidden;"
+        "background:var(--surface);text-decoration:none}"
+        ".card img{width:100%;height:150px;object-fit:cover;display:block;background:var(--line)}"
+        # Explicit colour, never `inherit`: a card sits on --surface, not on --bg, and
+        # inheriting the body colour is what made these titles invisible in dark mode.
+        ".ct{display:block;padding:.6rem .7rem .1rem;font-weight:600;color:var(--ink)}"
+        ".cc{display:block;padding:0 .7rem .7rem;color:var(--ink-mute);font-size:.85rem}"
+        "a{color:var(--accent)}"
+        "footer{margin-top:3rem;padding-top:1.2rem;border-top:1px solid var(--line);"
+        "color:var(--ink-mute);font-size:.85rem}"
+        # Sister block — a real panel, not a footnote.
+        ".sis{margin:3rem 0 0;border:1px solid var(--line);border-radius:16px;padding:1.4rem 1.5rem;"
+        "background:var(--surface);display:flex;gap:1.1rem;align-items:center;flex-wrap:wrap}"
+        ".sis img{width:56px;height:56px;border-radius:12px;flex:0 0 auto}"
+        ".sis .txt{flex:1 1 16rem;min-width:0}"
+        ".sis .k{display:block;font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;"
+        "color:var(--ink-mute);margin-bottom:.15rem}"
+        ".sis .n{display:block;font-size:1.25rem;font-weight:700;color:var(--ink);letter-spacing:-.01em}"
+        ".sis p{margin:.35rem 0 0;color:var(--ink-soft);font-size:.95rem}"
+        ".sis .go{flex:0 0 auto;display:inline-block;padding:.6rem 1.1rem;border-radius:999px;"
+        "background:var(--accent);color:#fff;text-decoration:none;font-weight:600}"
+        # Dark overrides LAST so they win on equal specificity. This ordering was the bug:
+        # the base .card a{background:#fff} used to come after the dark block and beat it,
+        # leaving white cards with near-white inherited text.
+        "@media(prefers-color-scheme:dark){:root{--bg:#0b0d10;--surface:#13171c;--line:#262c34;"
+        "--ink:#f4f6f8;--ink-soft:#c8cfd8;--ink-mute:#8b95a1;--accent:#7ad9f5}"
+        ".sis .go{color:#06202c}}")
+
     return (f'<!doctype html>\n<html lang="{lang}">\n<head>\n<meta charset="utf-8">\n'
             '<meta name="viewport" content="width=device-width, initial-scale=1">\n'
             '<!-- FLIP-AT-LAUNCH: the two robots metas below block this site until the real domain\n'
@@ -116,9 +149,13 @@ def build(lang, fiches):
             f'<p class="lede">{E(t(UI["lede"], lang))}</p>\n'
             f'<p><strong>{E(t(UI["count"], lang) % len(fiches))}</strong> · {E(t(UI["prep"], lang))}</p>\n'
             f'{nav}{secs}'
-            f'<p class="sister">{E(t(UI["sister"], lang))} {E(_SIS["dept"])}'
-            f'{" : " if lang == "fr" else ": "}'
-            f'<a href="{E(_SIS["url"])}" rel="noopener">{E(_SIS["name"])}</a></p>\n'
+            f'<aside class="sis">'
+            f'<img src="/img/sister/loisirs74-mark.png" alt="" width="56" height="56" loading="lazy">'
+            f'<span class="txt"><span class="k">{E(t(UI["sis_kicker"], lang))}</span>'
+            f'<span class="n">{E(_SIS["name"])} · {E(_SIS["dept"])}</span>'
+            f'<p>{E(t(UI["sis_body"], lang))}</p></span>'
+            f'<a class="go" href="{E(_SIS["url"])}" rel="noopener">{E(t(UI["sis_go"], lang))}</a>'
+            f'</aside>\n'
             f'<footer>2026 · {E(S.IMPRINT)} · Tous droits réservés</footer>\n'
             '</main>\n</body>\n</html>\n')
 

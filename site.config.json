@@ -18,5 +18,11 @@
     "name": "Loisirs 74",
     "url": "https://loisirs74.fr",
     "dept": "Haute-Savoie"
+  },
+  "bbox": {
+    "south": 45.05,
+    "west": 5.6,
+    "north": 45.95,
+    "east": 7.2
   }
 }

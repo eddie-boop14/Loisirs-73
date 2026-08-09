@@ -1,4 +1,316 @@
 {
- "_note": "EMPTY for the 73. This index is derived by scripts/build_parking_index.py from the Overpass API over the DEPARTMENT'S OWN bounding box. The 74's file describes Haute-Savoie car parks and would annotate Savoie pages with parking that is 100 km away. Run the builder against a Savoie bbox to populate it.",
- "entries": {}
+  "_meta": {
+    "generated": "2026-08-09",
+    "source": "OpenStreetMap",
+    "license": "ODbL",
+    "attribution": "© les contributeurs d'OpenStreetMap sous licence ODbL",
+    "feed_timestamp": "2026-08-09T21:49:51Z",
+    "max_distance_m": 600,
+    "top_n": 3,
+    "counts": {
+      "lieux_total": 30,
+      "lieux_with_parking": 13,
+      "lieux_empty": 8,
+      "lieux_null_coords": 9,
+      "parkings_kept": 6603
+    }
+  },
+  "col-de-l-iseran": {
+    "verified": "2026-08-09",
+    "source": "OpenStreetMap",
+    "license": "ODbL",
+    "parkings": [
+      {
+        "name": null,
+        "status": "free",
+        "distance_m": 45,
+        "lat": 45.417357,
+        "lon": 7.031163
+      }
+    ]
+  },
+  "col-de-la-croix-de-fer": {
+    "verified": "2026-08-09",
+    "source": "OpenStreetMap",
+    "license": "ODbL",
+    "parkings": [
+      {
+        "name": null,
+        "status": "free",
+        "distance_m": 33,
+        "lat": 45.227244,
+        "lon": 6.203756
+      },
+      {
+        "name": null,
+        "status": "free",
+        "distance_m": 66,
+        "lat": 45.227473,
+        "lon": 6.202669
+      }
+    ]
+  },
+  "col-de-la-madeleine": {
+    "verified": "2026-08-09",
+    "source": "OpenStreetMap",
+    "license": "ODbL",
+    "parkings": [
+      {
+        "name": "Col de la Madeleine",
+        "status": "free",
+        "distance_m": 10,
+        "lat": 45.435375,
+        "lon": 6.375852
+      }
+    ]
+  },
+  "col-du-chaussy": {
+    "verified": "2026-08-09",
+    "source": "OpenStreetMap",
+    "license": "ODbL",
+    "parkings": [
+      {
+        "name": "Champ de foire",
+        "status": "free",
+        "distance_m": 22,
+        "lat": 45.279609,
+        "lon": 6.346789,
+        "capacity": 200
+      },
+      {
+        "name": "Florimond",
+        "status": "free",
+        "distance_m": 55,
+        "lat": 45.27907,
+        "lon": 6.346154,
+        "capacity": 40
+      },
+      {
+        "name": "Saint Jean - sortie NO",
+        "status": "unknown",
+        "distance_m": 97,
+        "lat": 45.280309,
+        "lon": 6.346414
+      }
+    ]
+  },
+  "col-du-galibier": {
+    "verified": "2026-08-09",
+    "source": "OpenStreetMap",
+    "license": "ODbL",
+    "parkings": [
+      {
+        "name": null,
+        "status": "free",
+        "distance_m": 5,
+        "lat": 45.06415,
+        "lon": 6.407737
+      },
+      {
+        "name": null,
+        "status": "free",
+        "distance_m": 251,
+        "lat": 45.062829,
+        "lon": 6.4103
+      },
+      {
+        "name": null,
+        "status": "free",
+        "distance_m": 287,
+        "lat": 45.062001,
+        "lon": 6.405827
+      }
+    ]
+  },
+  "col-du-glandon": {
+    "verified": "2026-08-09",
+    "source": "OpenStreetMap",
+    "license": "ODbL",
+    "parkings": [
+      {
+        "name": null,
+        "status": "free",
+        "distance_m": 23,
+        "lat": 45.239516,
+        "lon": 6.175283
+      }
+    ]
+  },
+  "col-du-mont-cenis": {
+    "verified": "2026-08-09",
+    "source": "OpenStreetMap",
+    "license": "ODbL",
+    "parkings": [
+      {
+        "name": null,
+        "status": "free",
+        "distance_m": 33,
+        "lat": 45.260005,
+        "lon": 6.900681
+      },
+      {
+        "name": "Col du Mont-Cenis 1",
+        "status": "free",
+        "distance_m": 49,
+        "lat": 45.260192,
+        "lon": 6.900214
+      },
+      {
+        "name": null,
+        "status": "free",
+        "distance_m": 65,
+        "lat": 45.259707,
+        "lon": 6.901012
+      }
+    ]
+  },
+  "col-du-telegraphe": {
+    "verified": "2026-08-09",
+    "source": "OpenStreetMap",
+    "license": "ODbL",
+    "parkings": [
+      {
+        "name": null,
+        "status": "free",
+        "distance_m": 13,
+        "lat": 45.202477,
+        "lon": 6.444279
+      }
+    ]
+  },
+  "cormet-de-roselend": {
+    "verified": "2026-08-09",
+    "source": "OpenStreetMap",
+    "license": "ODbL",
+    "parkings": [
+      {
+        "name": null,
+        "status": "free",
+        "distance_m": 40,
+        "lat": 45.691062,
+        "lon": 6.690055
+      },
+      {
+        "name": null,
+        "status": "free",
+        "distance_m": 109,
+        "lat": 45.691331,
+        "lon": 6.689197
+      },
+      {
+        "name": "Cormet de Roselend",
+        "status": "free",
+        "distance_m": 111,
+        "lat": 45.691838,
+        "lon": 6.691538
+      }
+    ]
+  },
+  "funiculaire-de-la-grande-motte": {
+    "verified": "2026-08-09",
+    "source": "OpenStreetMap",
+    "license": "ODbL",
+    "parkings": [
+      {
+        "name": "Place de la Vanoise",
+        "status": "free",
+        "distance_m": 270,
+        "lat": 45.454341,
+        "lon": 6.900196
+      },
+      {
+        "name": null,
+        "status": "free",
+        "distance_m": 440,
+        "lat": 45.45617,
+        "lon": 6.90031
+      },
+      {
+        "name": "Parking de la Grande-Motte",
+        "status": "paid",
+        "distance_m": 527,
+        "lat": 45.457397,
+        "lon": 6.898262
+      }
+    ]
+  },
+  "telecabine-de-champagny": {
+    "verified": "2026-08-09",
+    "source": "OpenStreetMap",
+    "license": "ODbL",
+    "parkings": [
+      {
+        "name": null,
+        "status": "paid",
+        "distance_m": 41,
+        "lat": 45.456347,
+        "lon": 6.693544
+      },
+      {
+        "name": null,
+        "status": "paid",
+        "distance_m": 59,
+        "lat": 45.455721,
+        "lon": 6.692756
+      },
+      {
+        "name": null,
+        "status": "free",
+        "distance_m": 59,
+        "lat": 45.456095,
+        "lon": 6.693808
+      }
+    ]
+  },
+  "telecabine-de-la-roche-de-mio": {
+    "verified": "2026-08-09",
+    "source": "OpenStreetMap",
+    "license": "ODbL",
+    "parkings": [
+      {
+        "name": "Parking Aval",
+        "status": "unknown",
+        "distance_m": 107,
+        "lat": 45.50793,
+        "lon": 6.706596
+      },
+      {
+        "name": "Parking Amont",
+        "status": "paid",
+        "distance_m": 180,
+        "lat": 45.508898,
+        "lon": 6.707556,
+        "capacity": 706
+      }
+    ]
+  },
+  "vanoise-express": {
+    "verified": "2026-08-09",
+    "source": "OpenStreetMap",
+    "license": "ODbL",
+    "parkings": [
+      {
+        "name": "P prive chalet Irène",
+        "status": "unknown",
+        "distance_m": 241,
+        "lat": 45.548988,
+        "lon": 6.763114
+      },
+      {
+        "name": null,
+        "status": "free",
+        "distance_m": 248,
+        "lat": 45.553165,
+        "lon": 6.762318,
+        "capacity": 10
+      },
+      {
+        "name": null,
+        "status": "free",
+        "distance_m": 328,
+        "lat": 45.553897,
+        "lon": 6.762146
+      }
+    ]
+  }
 }

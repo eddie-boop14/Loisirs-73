@@ -55,6 +55,13 @@ PHOTOS_EMAIL = _req("photos_email")
 CF_BEACON_TOKEN = _cfg.get("cf_beacon_token", "")
 REGION = _cfg.get("region", "")
 ANCHOR_CITY = _cfg.get("anchor_city", "")
+
+# Department envelope (S, W, N, E) — used by the Overpass and feed builders to
+# pre-filter national datasets down to this site's ground. Hardcoding it means a
+# new departement silently indexes its neighbour's car parks.
+_bb = _cfg.get("bbox") or {}
+BBOX = ((_bb.get("south"), _bb.get("west"), _bb.get("north"), _bb.get("east"))
+        if _bb else None)
 ADJACENT_SCOPE_NOTE = _cfg.get("adjacent_scope_note", "")
 
 # Optional sibling site. Absent = no cross-link rendered anywhere. See

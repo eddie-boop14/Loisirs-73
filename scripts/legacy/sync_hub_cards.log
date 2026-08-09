@@ -1,0 +1,64 @@
+=== /attractions/ family — remove reclassified + add ===
+  [skip] /home/user/Loisir-74/attractions/index.html — missing
+  [skip] /home/user/Loisir-74/en/attractions/index.html — missing
+  [skip] /home/user/Loisir-74/de/attraktionen/index.html — missing
+  [skip] /home/user/Loisir-74/it/attrazioni/index.html — missing
+  [skip] /home/user/Loisir-74/es/atraciones/index.html — missing
+=== /bases-de-loisirs/ family — add reclassified ===
+  bases-de-loisirs: 76 → 76 cards (removed 0, added 0, dropped 0 empty sections, 48 communes)
+  en/leisure-parks: 76 → 76 cards (removed 0, added 0, dropped 0 empty sections, 48 communes)
+  de/freizeitparks: 76 → 76 cards (removed 0, added 0, dropped 0 empty sections, 48 communes)
+  it/aree-recreative: 76 → 76 cards (removed 0, added 0, dropped 0 empty sections, 48 communes)
+  es/areas-de-ocio: 76 → 76 cards (removed 0, added 0, dropped 0 empty sections, 48 communes)
+=== /divers/ family — add reclassified ===
+  [skip] /home/user/Loisir-74/divers/index.html — missing
+  [skip] /home/user/Loisir-74/en/other/index.html — missing
+  [skip] /home/user/Loisir-74/de/sonstiges/index.html — missing
+  [skip] /home/user/Loisir-74/it/altro/index.html — missing
+  [skip] /home/user/Loisir-74/es/otros/index.html — missing
+=== other hubs — additive only (no removals) ===
+  [skip] /home/user/Loisir-74/lacs/index.html — missing
+  en/lakes: 16 → 16 cards (removed 0, added 0, dropped 0 empty sections, 0 communes)
+  de/seen: 16 → 16 cards (removed 0, added 0, dropped 0 empty sections, 0 communes)
+  it/laghi: 16 → 16 cards (removed 0, added 0, dropped 0 empty sections, 0 communes)
+  es/lagos: 16 → 16 cards (removed 0, added 0, dropped 0 empty sections, 0 communes)
+  [skip] /home/user/Loisir-74/plages/index.html — missing
+  [skip] /home/user/Loisir-74/en/beaches/index.html — missing
+  [skip] /home/user/Loisir-74/de/straende/index.html — missing
+  [skip] /home/user/Loisir-74/it/spiagge/index.html — missing
+  [skip] /home/user/Loisir-74/es/playas/index.html — missing
+  cascades: 16 → 16 cards (removed 0, added 0, dropped 0 empty sections, 13 communes)
+  en/waterfalls: 16 → 16 cards (removed 0, added 0, dropped 0 empty sections, 13 communes)
+  de/wasserfaelle: 16 → 16 cards (removed 0, added 0, dropped 0 empty sections, 13 communes)
+  it/cascate: 16 → 16 cards (removed 0, added 0, dropped 0 empty sections, 13 communes)
+  es/cascadas: 16 → 16 cards (removed 0, added 0, dropped 0 empty sections, 13 communes)
+  points-de-vue: 28 → 28 cards (removed 0, added 0, dropped 0 empty sections, 24 communes)
+  en/viewpoints: 28 → 28 cards (removed 0, added 0, dropped 0 empty sections, 24 communes)
+  de/aussichtspunkte: 28 → 28 cards (removed 0, added 0, dropped 0 empty sections, 24 communes)
+  it/punti-panoramici: 28 → 28 cards (removed 0, added 0, dropped 0 empty sections, 24 communes)
+  es/miradores: 28 → 28 cards (removed 0, added 0, dropped 0 empty sections, 24 communes)
+  sentiers: 15 → 15 cards (removed 0, added 0, dropped 0 empty sections, 13 communes)
+  en/trails: 15 → 15 cards (removed 0, added 0, dropped 0 empty sections, 13 communes)
+  de/wanderwege: 15 → 15 cards (removed 0, added 0, dropped 0 empty sections, 13 communes)
+  it/sentieri: 15 → 15 cards (removed 0, added 0, dropped 0 empty sections, 13 communes)
+  es/senderos: 15 → 15 cards (removed 0, added 0, dropped 0 empty sections, 13 communes)
+  voies-vertes: 5 → 5 cards (removed 0, added 0, dropped 0 empty sections, 5 communes)
+  en/greenways: 5 → 5 cards (removed 0, added 0, dropped 0 empty sections, 5 communes)
+  de/radwege: 5 → 5 cards (removed 0, added 0, dropped 0 empty sections, 5 communes)
+  it/vie-verdi: 5 → 5 cards (removed 0, added 0, dropped 0 empty sections, 5 communes)
+  es/vias-verdes: 5 → 5 cards (removed 0, added 0, dropped 0 empty sections, 5 communes)
+  telecabines: 12 → 12 cards (removed 0, added 0, dropped 0 empty sections, 7 communes)
+  en/cable-cars: 12 → 12 cards (removed 0, added 0, dropped 0 empty sections, 7 communes)
+  de/seilbahnen: 12 → 12 cards (removed 0, added 0, dropped 0 empty sections, 7 communes)
+  it/funivie: 12 → 12 cards (removed 0, added 0, dropped 0 empty sections, 7 communes)
+  es/telefericos: 12 → 12 cards (removed 0, added 0, dropped 0 empty sections, 7 communes)
+  musees: 25 → 25 cards (removed 0, added 0, dropped 0 empty sections, 16 communes)
+  en/museums: 25 → 25 cards (removed 0, added 0, dropped 0 empty sections, 16 communes)
+  de/museen: 25 → 25 cards (removed 0, added 0, dropped 0 empty sections, 16 communes)
+  it/musei: 25 → 25 cards (removed 0, added 0, dropped 0 empty sections, 16 communes)
+  es/museos: 25 → 25 cards (removed 0, added 0, dropped 0 empty sections, 16 communes)
+  chateaux: 21 → 21 cards (removed 0, added 0, dropped 0 empty sections, 18 communes)
+  en/castles: 21 → 21 cards (removed 0, added 0, dropped 0 empty sections, 18 communes)
+  de/schloesser: 21 → 21 cards (removed 0, added 0, dropped 0 empty sections, 18 communes)
+  it/castelli: 21 → 21 cards (removed 0, added 0, dropped 0 empty sections, 18 communes)
+  es/castillos: 21 → 21 cards (removed 0, added 0, dropped 0 empty sections, 18 communes)

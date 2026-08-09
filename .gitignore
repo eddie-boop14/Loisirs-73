@@ -17,3 +17,7 @@ incoming-benedicte/
 
 # Generic photo library copied from the 74 as a baseline — large binaries.
 # Remove this rule if the generiques should be version-controlled here.
+
+# Engine byproducts — regenerated on every build.
+scripts/__pycache__/
+reports/

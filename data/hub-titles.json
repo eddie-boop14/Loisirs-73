@@ -1,0 +1,133 @@
+{
+ "_comment": "Hub page titles, one per hub x prose language. AUTHORED content, not logic — this is why it lives in data/ and not in build_hubs.py. {dept} and {site} are substituted from site.config.json at build time, so a new departement inherits the wording for free and only re-authors what it wants to say differently.",
+ "titles": {
+  "cascades": {
+   "fr": "Cascades & gorges de {dept} · {site}",
+   "en": "Waterfalls & gorges of {dept} · {site}",
+   "de": "Wasserfälle & Schluchten · {dept} · {site}",
+   "it": "Cascate & gole della {dept} · {site}",
+   "es": "Cascadas y gargantas de {dept} · {site}",
+   "nl": "Watervallen & kloven · {dept} · {site}"
+  },
+  "chateaux": {
+   "fr": "Châteaux de {dept} · {site}",
+   "en": "Castles of {dept} · {site}",
+   "de": "Schlösser der {dept} · {site}",
+   "it": "Castelli della {dept} · {site}",
+   "es": "Castillos de {dept} · {site}",
+   "nl": "Kastelen van {dept} · {site}"
+  },
+  "musees": {
+   "fr": "Musées de {dept} · {site}",
+   "en": "Museums of {dept} · {site}",
+   "de": "Museen in {dept} · {site}",
+   "it": "Musei della {dept} · {site}",
+   "es": "Museos de {dept} · {site}",
+   "nl": "Musea van {dept} · {site}"
+  },
+  "points-de-vue": {
+   "fr": "Points de vue de {dept} · {site}",
+   "en": "Viewpoints of {dept} · {site}",
+   "de": "Aussichtspunkte · {dept} · {site}",
+   "it": "Punti panoramici · {dept} · {site}",
+   "es": "Miradores de {dept} · {site}",
+   "nl": "Uitzichtpunten · {dept} · {site}"
+  },
+  "stations-de-ski": {
+   "fr": "Stations de ski de {dept} · {site}",
+   "en": "Ski resorts of {dept} · {site}",
+   "de": "Skigebiete der {dept} · {site}",
+   "it": "Stazioni sciistiche della {dept} · {site}",
+   "es": "Estaciones de esquí de {dept} · {site}",
+   "nl": "Skigebieden van {dept} · {site}"
+  },
+  "sentiers": {
+   "fr": "Sentiers de randonnée · {dept} · {site}",
+   "en": "Hiking trails · {dept} · {site}",
+   "de": "Wanderwege · {dept} · {site}",
+   "it": "Sentieri escursionistici · {dept} · {site}",
+   "es": "Senderos · {dept} · {site}",
+   "nl": "Wandelpaden · {dept} · {site}"
+  },
+  "telecabines": {
+   "fr": "Télécabines de {dept} · {site}",
+   "en": "Cable cars of {dept} · {site}",
+   "de": "Seilbahnen in {dept} · {site}",
+   "it": "Funivie della {dept} · {site}",
+   "es": "Teleféricos · {dept} · {site}",
+   "nl": "Kabelbanen · {dept} · {site}"
+  },
+  "voies-vertes": {
+   "fr": "Voies vertes de {dept} · {site}",
+   "en": "Greenways of {dept} · {site}",
+   "de": "Grüne Wege · {dept} · {site}",
+   "it": "Vie verdi della {dept} · {site}",
+   "es": "Vías verdes · {dept} · {site}",
+   "nl": "Fietsroutes · {dept} · {site}"
+  },
+  "lacs-plages": {
+   "fr": "Lacs & plages de {dept} · {site}",
+   "en": "Lakes & beaches · {dept} · {site}",
+   "de": "Seen & Strände · {dept} · {site}",
+   "it": "Laghi & spiagge · {dept} · {site}",
+   "es": "Lagos & playas · {dept} · {site}",
+   "nl": "Meren & stranden · {dept} · {site}"
+  },
+  "bases-de-loisirs": {
+   "fr": "Bases de loisirs · {dept} · {site}",
+   "en": "Leisure parks · {dept} · {site}",
+   "de": "Freizeitparks · {dept} · {site}",
+   "it": "Aree ricreative · {dept} · {site}",
+   "es": "Áreas de ocio · {dept} · {site}",
+   "nl": "Recreatieparken · {dept} · {site}"
+  },
+  "baignade-nautisme": {
+   "fr": "Baignade & nautisme · {dept} · {site}",
+   "en": "Swimming & watersports · {dept} · {site}",
+   "de": "Baden & Wassersport · {dept} · {site}",
+   "it": "Nuoto & sport acquatici · {dept} · {site}",
+   "es": "Baño & deportes acuáticos · {dept} · {site}",
+   "nl": "Zwemmen & watersport · {dept} · {site}"
+  },
+  "parcs-jardins": {
+   "fr": "Parcs & jardins de {dept} · {site}",
+   "en": "Parks & gardens of {dept} · {site}",
+   "de": "Parks & Gärten · {dept} · {site}",
+   "it": "Parchi & giardini · {dept} · {site}",
+   "es": "Parques & jardines · {dept} · {site}",
+   "nl": "Parken & tuinen · {dept} · {site}"
+  },
+  "que-faire": {
+   "fr": "Que faire en {dept} · {site}",
+   "en": "What to do in {dept} · {site}",
+   "de": "Was tun in der {dept} · {site}",
+   "it": "Cosa fare in {dept} · {site}",
+   "es": "Qué hacer en {dept} · {site}",
+   "nl": "Wat te doen in {dept} · {site}"
+  },
+  "sensations-plein-air": {
+   "fr": "Sensations plein air · {dept} · {site}",
+   "en": "Outdoor thrills · {dept} · {site}",
+   "de": "Outdoor-Nervenkitzel · {dept} · {site}",
+   "it": "Brividi all'aria aperta · {dept} · {site}",
+   "es": "Sensaciones al aire libre · {dept} · {site}",
+   "nl": "Buitenavontuur · {dept} · {site}"
+  },
+  "sorties-detente": {
+   "fr": "Sorties & détente · {dept} · {site}",
+   "en": "Outings & relax · {dept} · {site}",
+   "de": "Ausflüge & Erholung · {dept} · {site}",
+   "it": "Uscite & relax · {dept} · {site}",
+   "es": "Salidas & relax · {dept} · {site}",
+   "nl": "Uitstapjes & ontspanning · {dept} · {site}"
+  },
+  "sport-jeux": {
+   "fr": "Sports & jeux · {dept} · {site}",
+   "en": "Sports & games · {dept} · {site}",
+   "de": "Sport & Spiele · {dept} · {site}",
+   "it": "Sport & giochi · {dept} · {site}",
+   "es": "Deportes & juegos · {dept} · {site}",
+   "nl": "Sport & spelen · {dept} · {site}"
+  }
+ }
+}

@@ -1,5 +1,5 @@
 {
-  "_comment": "THE per-site identity file — the only file that changes between loisirs74/73/38/…  Engine scripts read it via scripts/siteconfig.py and must never hardcode these values.",
+  "_comment": "THE per-site identity file — the only file that changes between loisirs74/73/38/…  Engine scripts read it via scripts/siteconfig.py and must never hardcode these values. department.name_i18n is deliberately ABSENT here: the 73 freezes the French place name in every language per docs/LAUNCH-PLAN.md, so dept_name(lang) falls back to \"Savoie\" everywhere. The 74 needs it because it renders \"Alta Savoia\" and \"Alta Saboya\".",
   "domain": "loisirs73.fr",
   "base_url": "https://loisirs73.fr",
   "site_name": "Loisirs 73",
@@ -11,5 +11,7 @@
   "contact_email": "contact@loisirs73.fr",
   "photos_email": "photos@loisirs73.fr",
   "cf_beacon_token": "",
-  "region": "Auvergne-Rhône-Alpes"
+  "region": "Auvergne-Rhône-Alpes",
+  "anchor_city": "Chambéry",
+  "adjacent_scope_note": "Adjacent regions (Haute-Savoie 74, Isère 38, Hautes-Alpes 05) not covered."
 }

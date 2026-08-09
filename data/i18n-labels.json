@@ -1,0 +1,1087 @@
+{
+  "_meta": {
+    "purpose": "Closed label vocabulary. Translate ONCE per language, native-review, lock. Facts (numbers/€/hours/URLs/GPS) are language-independent and NEVER live here.",
+    "languages": {
+      "fr": "reference",
+      "en": "reference",
+      "ar": "TODO+RTL+review",
+      "he": "TODO+RTL+review",
+      "pl": "TODO+review",
+      "pt": "TODO+review",
+      "cs": "TODO+review",
+      "ja": "reviewed"
+    },
+    "review_gate": "A language does not publish until its block is filled AND reviewed:true by a native/pro check (correctness, not fluency).",
+    "reviewed": {
+      "fr": true,
+      "en": true,
+      "ar": "router-haiku+sonnet-3x-2026-06-30+render-ai-2026-07-01",
+      "he": "router-haiku+sonnet-3x-2026-06-30+render-ai-2026-07-01",
+      "pl": "ai-consensus-3x-2026-06-29+render-ai-2026-07-01",
+      "pt": "ai-consensus-3x-2026-06-29+render-ai-2026-07-01",
+      "cs": "ai-consensus-3x-2026-06-30+render-ai-2026-07-01",
+      "ja": "router-haiku+sonnet-3x-2026-06-30+render-ai-2026-07-01"
+    },
+    "rtl": [
+      "ar",
+      "he"
+    ],
+    "review_method": {
+      "pl": "multi-agent back-translation consensus (3x, blind) + polarity sentinel | render-verified (HANDOFF-16): headless Layer A (RTL/bidi/glyph/no-tofu) + vision comprehension Layer B, 0 escalations",
+      "pt": "multi-agent back-translation consensus (3x, blind) + polarity sentinel | render-verified (HANDOFF-16): headless Layer A (RTL/bidi/glyph/no-tofu) + vision comprehension Layer B, 0 escalations",
+      "cs": "multi-agent back-translation consensus (3x, blind) + polarity sentinel; surveillance key re-verified after reference fix | render-verified (HANDOFF-16): headless Layer A (RTL/bidi/glyph/no-tofu) + vision comprehension Layer B, 0 escalations",
+      "ar": "tiered router (Haiku bulk + Sonnet on polar/label-drift/splits, 3x blind); RENDER HELD for native spot-check + RTL engine (Phase C) | render-verified (HANDOFF-16): headless Layer A (RTL/bidi/glyph/no-tofu) + vision comprehension Layer B, 0 escalations",
+      "he": "tiered router (Haiku bulk + Sonnet on polar/label-drift/splits, 3x blind); RENDER HELD for native spot-check + RTL engine (Phase C) | render-verified (HANDOFF-16): headless Layer A (RTL/bidi/glyph/no-tofu) + vision comprehension Layer B, 0 escalations",
+      "ja": "multi-agent back-translation consensus (Haiku bulk + Sonnet on polar/enum + surveillance trap, 3x blind); LTR, no RTL engine | render-verified (HANDOFF-16): headless Layer A (RTL/bidi/glyph/no-tofu) + vision comprehension Layer B, 0 escalations"
+    }
+  },
+  "fact_labels": {
+    "type": {
+      "fr": "Type",
+      "en": "Type",
+      "ar": "النوع",
+      "he": "סוג",
+      "pl": "Typ",
+      "pt": "Tipo",
+      "cs": "Typ",
+      "ja": "種類"
+    },
+    "access": {
+      "fr": "Accès",
+      "en": "Access",
+      "ar": "الوصول",
+      "he": "גישה",
+      "pl": "Dojazd",
+      "pt": "Acesso",
+      "cs": "Přístup",
+      "ja": "アクセス"
+    },
+    "commune": {
+      "fr": "Commune",
+      "en": "Town",
+      "ar": "البلدة",
+      "he": "יישוב",
+      "pl": "Miejscowość",
+      "pt": "Município",
+      "cs": "Obec",
+      "ja": "市町村"
+    },
+    "duration": {
+      "fr": "Durée",
+      "en": "Duration",
+      "ar": "المدة",
+      "he": "משך",
+      "pl": "Czas trwania",
+      "pt": "Duração",
+      "cs": "Doba trvání",
+      "ja": "所要時間"
+    },
+    "tarif": {
+      "fr": "Tarif",
+      "en": "Price",
+      "ar": "السعر",
+      "he": "מחיר",
+      "pl": "Cena",
+      "pt": "Preço",
+      "cs": "Cena",
+      "ja": "料金"
+    },
+    "parking": {
+      "fr": "Parking",
+      "en": "Parking",
+      "ar": "موقف السيارات",
+      "he": "חניה",
+      "pl": "Parking",
+      "pt": "Estacionamento",
+      "cs": "Parkování",
+      "ja": "駐車場"
+    },
+    "dogs": {
+      "fr": "Chiens",
+      "en": "Dogs",
+      "ar": "الكلاب",
+      "he": "כלבים",
+      "pl": "Psy",
+      "pt": "Cães",
+      "cs": "Psi",
+      "ja": "犬"
+    },
+    "stroller": {
+      "fr": "Poussette",
+      "en": "Stroller",
+      "ar": "عربة الأطفال",
+      "he": "עגלת תינוק",
+      "pl": "Wózek dziecięcy",
+      "pt": "Carrinho de bebé",
+      "cs": "Kočárek",
+      "ja": "ベビーカー"
+    },
+    "best_season": {
+      "fr": "Meilleure saison",
+      "en": "Best season",
+      "ar": "أفضل موسم",
+      "he": "העונה הטובה ביותר",
+      "pl": "Najlepsza pora roku",
+      "pt": "Melhor época",
+      "cs": "Nejlepší období",
+      "ja": "ベストシーズン"
+    },
+    "altitude": {
+      "fr": "Altitude",
+      "en": "Altitude",
+      "ar": "الارتفاع",
+      "he": "גובה",
+      "pl": "Wysokość",
+      "pt": "Altitude",
+      "cs": "Nadmořská výška",
+      "ja": "標高"
+    },
+    "lac": {
+      "fr": "Lac",
+      "en": "Lake",
+      "ar": "البحيرة",
+      "he": "אגם",
+      "pl": "Jezioro",
+      "pt": "Lago",
+      "cs": "Jezero",
+      "ja": "湖"
+    },
+    "surveillance": {
+      "fr": "Surveillance",
+      "en": "Lifeguard supervision",
+      "ar": "مراقبة الشاطئ",
+      "he": "השגחת מציל",
+      "pl": "Nadzór ratowniczy",
+      "pt": "Vigilância balnear",
+      "cs": "Plážový dohled",
+      "ja": "ライフガード監視"
+    },
+    "pavillon_bleu": {
+      "fr": "Pavillon Bleu",
+      "en": "Blue Flag",
+      "ar": "العلم الأزرق",
+      "he": "הדגל הכחול",
+      "pl": "Błękitna Flaga",
+      "pt": "Bandeira Azul",
+      "cs": "Modrá vlajka",
+      "ja": "ブルーフラッグ"
+    },
+    "difficulty": {
+      "fr": "Difficulté",
+      "en": "Difficulty",
+      "ar": "الصعوبة",
+      "he": "רמת קושי",
+      "pl": "Trudność",
+      "pt": "Dificuldade",
+      "cs": "Obtížnost",
+      "ja": "難易度"
+    },
+    "acces_pmr": {
+      "fr": "Accès PMR",
+      "en": "Wheelchair access",
+      "ar": "وصول الكراسي المتحركة",
+      "he": "נגישות לכיסא גלגלים",
+      "pl": "Dostęp dla wózków inwalidzkich",
+      "pt": "Acesso para cadeira de rodas",
+      "cs": "Bezbariérový přístup",
+      "ja": "車椅子アクセス"
+    },
+    "adresse": {
+      "fr": "Adresse",
+      "en": "Address",
+      "ar": "العنوان",
+      "he": "כתובת",
+      "pl": "Adres",
+      "pt": "Morada",
+      "cs": "Adresa",
+      "ja": "住所"
+    },
+    "horaires": {
+      "fr": "Horaires",
+      "en": "Opening hours",
+      "ar": "ساعات العمل",
+      "he": "שעות פתיחה",
+      "pl": "Godziny otwarcia",
+      "pt": "Horário de funcionamento",
+      "cs": "Otevírací doba",
+      "ja": "営業時間"
+    },
+    "telephone": {
+      "fr": "Téléphone",
+      "en": "Phone",
+      "ar": "الهاتف",
+      "he": "טלפון",
+      "pl": "Telefon",
+      "pt": "Telefone",
+      "cs": "Telefon",
+      "ja": "電話"
+    },
+    "site_officiel": {
+      "fr": "Site officiel",
+      "en": "Official website",
+      "ar": "الموقع الرسمي",
+      "he": "אתר רשמי",
+      "pl": "Oficjalna strona",
+      "pt": "Site oficial",
+      "cs": "Oficiální web",
+      "ja": "公式サイト"
+    },
+    "itineraire": {
+      "fr": "Itinéraire",
+      "en": "Directions",
+      "ar": "الاتجاهات",
+      "he": "הוראות הגעה",
+      "pl": "Trasa dojazdu",
+      "pt": "Como chegar",
+      "cs": "Trasa",
+      "ja": "行き方"
+    }
+  },
+  "fact_values": {
+    "gratuit": {
+      "fr": "Gratuit",
+      "en": "Free",
+      "ar": "مجاني",
+      "he": "חינם",
+      "pl": "Bezpłatnie",
+      "pt": "Gratuito",
+      "cs": "Zdarma",
+      "ja": "無料"
+    },
+    "payant": {
+      "fr": "Payant",
+      "en": "Paid",
+      "ar": "مدفوع",
+      "he": "בתשלום",
+      "pl": "Płatne",
+      "pt": "Pago",
+      "cs": "Placené",
+      "ja": "有料"
+    },
+    "oui": {
+      "fr": "Oui",
+      "en": "Yes",
+      "ar": "نعم",
+      "he": "כן",
+      "pl": "Tak",
+      "pt": "Sim",
+      "cs": "Ano",
+      "ja": "はい"
+    },
+    "non": {
+      "fr": "Non",
+      "en": "No",
+      "ar": "لا",
+      "he": "לא",
+      "pl": "Nie",
+      "pt": "Não",
+      "cs": "Ne",
+      "ja": "いいえ"
+    },
+    "surveillee": {
+      "fr": "Plage surveillée",
+      "en": "Lifeguarded",
+      "ar": "شاطئ بحراسة",
+      "he": "חוף עם מציל",
+      "pl": "Strzeżone",
+      "pt": "Com vigilância",
+      "cs": "Hlídaná pláž",
+      "ja": "ライフガードあり"
+    },
+    "non_surveillee": {
+      "fr": "Non surveillée",
+      "en": "No lifeguard",
+      "ar": "بدون حراسة",
+      "he": "ללא מציל",
+      "pl": "Niestrzeżone",
+      "pt": "Sem vigilância",
+      "cs": "Nehlídaná",
+      "ja": "ライフガードなし"
+    },
+    "pmr_accessible": {
+      "fr": "Accessible",
+      "en": "Accessible",
+      "ar": "متاح للوصول",
+      "he": "נגיש",
+      "pl": "Dostępne",
+      "pt": "Acessível",
+      "cs": "Přístupné",
+      "ja": "アクセス可能"
+    },
+    "pmr_partiel": {
+      "fr": "Partiellement accessible",
+      "en": "Partly accessible",
+      "ar": "متاح جزئيًا",
+      "he": "נגיש חלקית",
+      "pl": "Częściowo dostępne",
+      "pt": "Parcialmente acessível",
+      "cs": "Částečně přístupné",
+      "ja": "一部アクセス可能"
+    },
+    "pmr_non": {
+      "fr": "Non accessible",
+      "en": "Not accessible",
+      "ar": "غير متاح للوصول",
+      "he": "לא נגיש",
+      "pl": "Niedostępne",
+      "pt": "Não acessível",
+      "cs": "Nepřístupné",
+      "ja": "アクセス不可"
+    },
+    "pmr_non_renseigne": {
+      "fr": "Non renseignée",
+      "en": "Not stated",
+      "ar": "غير محدد",
+      "he": "לא צוין",
+      "pl": "Brak informacji",
+      "pt": "Não especificado",
+      "cs": "Neuvedeno",
+      "ja": "情報なし"
+    },
+    "ouvert": {
+      "fr": "Ouvert",
+      "en": "Open",
+      "ar": "مفتوح",
+      "he": "פתוח",
+      "pl": "Otwarte",
+      "pt": "Aberto",
+      "cs": "Otevřeno",
+      "ja": "営業中"
+    },
+    "ferme": {
+      "fr": "Fermé",
+      "en": "Closed",
+      "ar": "مغلق",
+      "he": "סגור",
+      "pl": "Zamknięte",
+      "pt": "Fechado",
+      "cs": "Zavřeno",
+      "ja": "休業中"
+    },
+    "saisonnier": {
+      "fr": "Saisonnier",
+      "en": "Seasonal",
+      "ar": "موسمي",
+      "he": "עונתי",
+      "pl": "Sezonowo",
+      "pt": "Sazonal",
+      "cs": "Sezónní",
+      "ja": "季節営業"
+    },
+    "dogs_ok": {
+      "fr": "Autorisés",
+      "en": "Allowed",
+      "ar": "مسموح",
+      "he": "מותר",
+      "pl": "Dozwolone",
+      "pt": "Permitidos",
+      "cs": "Povoleni",
+      "ja": "許可"
+    },
+    "dogs_no": {
+      "fr": "Interdits",
+      "en": "Not allowed",
+      "ar": "ممنوع",
+      "he": "אסור",
+      "pl": "Niedozwolone",
+      "pt": "Não permitidos",
+      "cs": "Zakázáni",
+      "ja": "禁止"
+    }
+  },
+  "descriptors_by_type": {
+    "plage": {
+      "fr": "Plage",
+      "en": "Beach",
+      "ar": "شاطئ",
+      "he": "חוף",
+      "pl": "Plaża",
+      "pt": "Praia",
+      "cs": "Pláž",
+      "ja": "ビーチ"
+    },
+    "lac": {
+      "fr": "Lac",
+      "en": "Lake",
+      "ar": "بحيرة",
+      "he": "אגם",
+      "pl": "Jezioro",
+      "pt": "Lago",
+      "cs": "Jezero",
+      "ja": "湖"
+    },
+    "cascade": {
+      "fr": "Cascade",
+      "en": "Waterfall",
+      "ar": "شلال",
+      "he": "מפל",
+      "pl": "Wodospad",
+      "pt": "Cascata",
+      "cs": "Vodopád",
+      "ja": "滝"
+    },
+    "gorges": {
+      "fr": "Gorges",
+      "en": "Gorge",
+      "ar": "مضيق",
+      "he": "ערוץ",
+      "pl": "Wąwóz",
+      "pt": "Desfiladeiro",
+      "cs": "Soutěska",
+      "ja": "渓谷"
+    },
+    "chateau": {
+      "fr": "Château",
+      "en": "Castle",
+      "ar": "قلعة",
+      "he": "טירה",
+      "pl": "Zamek",
+      "pt": "Castelo",
+      "cs": "Zámek",
+      "ja": "城"
+    },
+    "musee": {
+      "fr": "Musée",
+      "en": "Museum",
+      "ar": "متحف",
+      "he": "מוזיאון",
+      "pl": "Muzeum",
+      "pt": "Museu",
+      "cs": "Muzeum",
+      "ja": "博物館"
+    },
+    "telecabine": {
+      "fr": "Télécabine",
+      "en": "Cable car",
+      "ar": "تلفريك",
+      "he": "רכבל",
+      "pl": "Kolej gondolowa",
+      "pt": "Teleférico",
+      "cs": "Kabinková lanovka",
+      "ja": "ゴンドラ"
+    },
+    "point_de_vue": {
+      "fr": "Point de vue",
+      "en": "Viewpoint",
+      "ar": "نقطة مشاهدة",
+      "he": "נקודת תצפית",
+      "pl": "Punkt widokowy",
+      "pt": "Miradouro",
+      "cs": "Vyhlídka",
+      "ja": "展望台"
+    },
+    "sentier": {
+      "fr": "Sentier",
+      "en": "Trail",
+      "ar": "مسار",
+      "he": "שביל",
+      "pl": "Szlak",
+      "pt": "Trilho",
+      "cs": "Stezka",
+      "ja": "トレイル"
+    },
+    "parc": {
+      "fr": "Parc",
+      "en": "Park",
+      "ar": "حديقة",
+      "he": "פארק",
+      "pl": "Park",
+      "pt": "Parque",
+      "cs": "Park",
+      "ja": "公園"
+    },
+    "voie_verte": {
+      "fr": "Voie verte",
+      "en": "Greenway",
+      "ar": "ممر أخضر",
+      "he": "נתיב ירוק",
+      "pl": "Zielony szlak",
+      "pt": "Via verde",
+      "cs": "Zelená stezka",
+      "ja": "緑道"
+    },
+    "base_loisirs": {
+      "fr": "Base de loisirs",
+      "en": "Leisure park",
+      "ar": "منتزه ترفيهي",
+      "he": "פארק נופש",
+      "pl": "Park rekreacyjny",
+      "pt": "Parque de lazer",
+      "cs": "Rekreační areál",
+      "ja": "レジャーパーク"
+    },
+    "eglise": {
+      "fr": "Église",
+      "en": "Church",
+      "ar": "كنيسة",
+      "he": "כנסייה",
+      "pl": "Kościół",
+      "pt": "Igreja",
+      "cs": "Kostel",
+      "ja": "教会"
+    }
+  },
+  "ui_chrome": {
+    "accueil": {
+      "fr": "Accueil",
+      "en": "Home",
+      "ar": "الرئيسية",
+      "he": "דף הבית",
+      "pl": "Strona główna",
+      "pt": "Início",
+      "cs": "Domů",
+      "ja": "ホーム"
+    },
+    "l_essentiel": {
+      "fr": "L'essentiel",
+      "en": "Key facts",
+      "ar": "أبرز المعلومات",
+      "he": "עיקרי הדברים",
+      "pl": "Najważniejsze informacje",
+      "pt": "Informações essenciais",
+      "cs": "To podstatné",
+      "ja": "基本情報"
+    },
+    "voir_fiche": {
+      "fr": "Voir la fiche",
+      "en": "View details",
+      "ar": "عرض التفاصيل",
+      "he": "הצג פרטים",
+      "pl": "Zobacz szczegóły",
+      "pt": "Ver detalhes",
+      "cs": "Zobrazit detail",
+      "ja": "詳細を見る"
+    },
+    "plages_voisines": {
+      "fr": "Plages voisines",
+      "en": "Nearby beaches",
+      "ar": "الشواطئ القريبة",
+      "he": "חופים בקרבת מקום",
+      "pl": "Pobliskie plaże",
+      "pt": "Praias próximas",
+      "cs": "Pláže v okolí",
+      "ja": "近くのビーチ"
+    },
+    "questions_frequentes": {
+      "fr": "Questions fréquentes",
+      "en": "FAQ",
+      "ar": "الأسئلة الشائعة",
+      "he": "שאלות נפוצות",
+      "pl": "Najczęstsze pytania",
+      "pt": "Perguntas frequentes",
+      "cs": "Časté dotazy",
+      "ja": "よくある質問"
+    },
+    "y_aller": {
+      "fr": "Y aller & se garer",
+      "en": "Getting there & parking",
+      "ar": "الوصول وركن السيارة",
+      "he": "הגעה וחניה",
+      "pl": "Dojazd i parking",
+      "pt": "Como chegar e estacionar",
+      "cs": "Doprava a parkování",
+      "ja": "行き方・駐車場"
+    },
+    "source_officielle": {
+      "fr": "Source officielle",
+      "en": "Official source",
+      "ar": "المصدر الرسمي",
+      "he": "מקור רשמי",
+      "pl": "Źródło oficjalne",
+      "pt": "Fonte oficial",
+      "cs": "Oficiální zdroj",
+      "ja": "公式情報源"
+    },
+    "source_prefix": {
+      "fr": "Source :",
+      "en": "Source:",
+      "ar": "المصدر:",
+      "he": "מקור:",
+      "pl": "Źródło:",
+      "pt": "Fonte:",
+      "cs": "Zdroj:",
+      "ja": "情報源:"
+    },
+    "pres_de_moi": {
+      "fr": "Près de moi",
+      "en": "Near me",
+      "ar": "بالقرب مني",
+      "he": "קרוב אליי",
+      "pl": "W pobliżu",
+      "pt": "Perto de mim",
+      "cs": "V mém okolí",
+      "ja": "現在地周辺"
+    },
+    "rechercher": {
+      "fr": "Rechercher",
+      "en": "Search",
+      "ar": "بحث",
+      "he": "חיפוש",
+      "pl": "Szukaj",
+      "pt": "Pesquisar",
+      "cs": "Hledat",
+      "ja": "検索"
+    },
+    "toutes_categories": {
+      "fr": "Toutes les catégories",
+      "en": "All categories",
+      "ar": "جميع الفئات",
+      "he": "כל הקטגוריות",
+      "pl": "Wszystkie kategorie",
+      "pt": "Todas as categorias",
+      "cs": "Všechny kategorie",
+      "ja": "すべてのカテゴリ"
+    },
+    "voir_carte": {
+      "fr": "Voir sur la carte",
+      "en": "View on map",
+      "ar": "عرض على الخريطة",
+      "he": "הצג במפה",
+      "pl": "Pokaż na mapie",
+      "pt": "Ver no mapa",
+      "cs": "Zobrazit na mapě",
+      "ja": "地図で見る"
+    }
+  },
+  "hub_names": {
+    "cascades": {
+      "fr": "Cascades",
+      "en": "Waterfalls",
+      "ar": "الشلالات",
+      "he": "מפלים",
+      "pl": "Wodospady",
+      "pt": "Cascatas",
+      "cs": "Vodopády",
+      "ja": "滝"
+    },
+    "chateaux": {
+      "fr": "Châteaux",
+      "en": "Castles",
+      "ar": "القلاع",
+      "he": "טירות",
+      "pl": "Zamki",
+      "pt": "Castelos",
+      "cs": "Zámky",
+      "ja": "城"
+    },
+    "lacs-plages": {
+      "fr": "Lacs & plages",
+      "en": "Lakes & beaches",
+      "ar": "البحيرات والشواطئ",
+      "he": "אגמים וחופים",
+      "pl": "Jeziora i plaże",
+      "pt": "Lagos e praias",
+      "cs": "Jezera a pláže",
+      "ja": "湖とビーチ"
+    },
+    "musees": {
+      "fr": "Musées",
+      "en": "Museums",
+      "ar": "المتاحف",
+      "he": "מוזיאונים",
+      "pl": "Muzea",
+      "pt": "Museus",
+      "cs": "Muzea",
+      "ja": "博物館"
+    },
+    "parcs-jardins": {
+      "fr": "Parcs & jardins",
+      "en": "Parks & gardens",
+      "ar": "الحدائق والمتنزهات",
+      "he": "פארקים וגנים",
+      "pl": "Parki i ogrody",
+      "pt": "Parques e jardins",
+      "cs": "Parky a zahrady",
+      "ja": "公園と庭園"
+    },
+    "points-de-vue": {
+      "fr": "Points de vue",
+      "en": "Viewpoints",
+      "ar": "نقاط المشاهدة",
+      "he": "נקודות תצפית",
+      "pl": "Punkty widokowe",
+      "pt": "Miradouros",
+      "cs": "Vyhlídky",
+      "ja": "展望台"
+    },
+    "sentiers": {
+      "fr": "Sentiers",
+      "en": "Trails",
+      "ar": "المسارات",
+      "he": "שבילים",
+      "pl": "Szlaki",
+      "pt": "Trilhos",
+      "cs": "Stezky",
+      "ja": "トレイル"
+    },
+    "telecabines": {
+      "fr": "Télécabines",
+      "en": "Cable cars",
+      "ar": "التلفريك",
+      "he": "רכבלים",
+      "pl": "Koleje gondolowe",
+      "pt": "Teleféricos",
+      "cs": "Kabinkové lanovky",
+      "ja": "ゴンドラ"
+    },
+    "voies-vertes": {
+      "fr": "Voies vertes",
+      "en": "Greenways",
+      "ar": "الممرات الخضراء",
+      "he": "נתיבים ירוקים",
+      "pl": "Zielone szlaki",
+      "pt": "Vias verdes",
+      "cs": "Zelené stezky",
+      "ja": "緑道"
+    },
+    "baignade-nautisme": {
+      "fr": "Baignade & nautisme",
+      "en": "Swimming & watersports",
+      "ar": "السباحة والرياضات المائية",
+      "he": "שחייה וספורט ימי",
+      "pl": "Kąpiel i sporty wodne",
+      "pt": "Banhos e desportos aquáticos",
+      "cs": "Koupání a vodní sporty",
+      "ja": "水泳とウォータースポーツ"
+    },
+    "bases-de-loisirs": {
+      "fr": "Bases de loisirs",
+      "en": "Leisure parks",
+      "ar": "المنتزهات الترفيهية",
+      "he": "פארקי נופש",
+      "pl": "Parki rekreacyjne",
+      "pt": "Parques de lazer",
+      "cs": "Rekreační areály",
+      "ja": "レジャーパーク"
+    },
+    "que-faire": {
+      "fr": "Que faire",
+      "en": "What to do",
+      "ar": "ماذا تفعل",
+      "he": "מה לעשות",
+      "pl": "Co robić",
+      "pt": "O que fazer",
+      "cs": "Co dělat",
+      "ja": "楽しみ方"
+    },
+    "sensations-plein-air": {
+      "fr": "Sensations plein air",
+      "en": "Outdoor thrills",
+      "ar": "مغامرات في الهواء الطلق",
+      "he": "ריגושים בחיק הטבע",
+      "pl": "Emocje na świeżym powietrzu",
+      "pt": "Emoções ao ar livre",
+      "cs": "Zážitky pod širým nebem",
+      "ja": "アウトドア・アクティビティ"
+    },
+    "sorties-detente": {
+      "fr": "Sorties détente",
+      "en": "Relaxing outings",
+      "ar": "رحلات استرخاء",
+      "he": "בילויים מרגיעים",
+      "pl": "Relaksujące wycieczki",
+      "pt": "Passeios relaxantes",
+      "cs": "Výlety pro odpočinek",
+      "ja": "のんびりおでかけ"
+    },
+    "sport-jeux": {
+      "fr": "Sport & jeux",
+      "en": "Sport & games",
+      "ar": "الرياضة والألعاب",
+      "he": "ספורט ומשחקים",
+      "pl": "Sport i zabawa",
+      "pt": "Desporto e jogos",
+      "cs": "Sport a hry",
+      "ja": "スポーツと遊び"
+    },
+    "stations-de-ski": {
+      "fr": "Stations de ski",
+      "en": "Ski resorts",
+      "ar": "محطات التزلج",
+      "he": "אתרי סקי",
+      "pl": "Stacje narciarskie",
+      "pt": "Estações de esqui",
+      "cs": "Lyžařská střediska",
+      "ja": "スキー場"
+    }
+  },
+  "months": {
+    "01": {
+      "fr": "janvier",
+      "en": "January",
+      "ar": "يناير",
+      "he": "ינואר",
+      "pl": "styczeń",
+      "pt": "janeiro",
+      "cs": "leden",
+      "ja": "1月"
+    },
+    "02": {
+      "fr": "février",
+      "en": "February",
+      "ar": "فبراير",
+      "he": "פברואר",
+      "pl": "luty",
+      "pt": "fevereiro",
+      "cs": "únor",
+      "ja": "2月"
+    },
+    "03": {
+      "fr": "mars",
+      "en": "March",
+      "ar": "مارس",
+      "he": "מרץ",
+      "pl": "marzec",
+      "pt": "março",
+      "cs": "březen",
+      "ja": "3月"
+    },
+    "04": {
+      "fr": "avril",
+      "en": "April",
+      "ar": "أبريل",
+      "he": "אפריל",
+      "pl": "kwiecień",
+      "pt": "abril",
+      "cs": "duben",
+      "ja": "4月"
+    },
+    "05": {
+      "fr": "mai",
+      "en": "May",
+      "ar": "مايو",
+      "he": "מאי",
+      "pl": "maj",
+      "pt": "maio",
+      "cs": "květen",
+      "ja": "5月"
+    },
+    "06": {
+      "fr": "juin",
+      "en": "June",
+      "ar": "يونيو",
+      "he": "יוני",
+      "pl": "czerwiec",
+      "pt": "junho",
+      "cs": "červen",
+      "ja": "6月"
+    },
+    "07": {
+      "fr": "juillet",
+      "en": "July",
+      "ar": "يوليو",
+      "he": "יולי",
+      "pl": "lipiec",
+      "pt": "julho",
+      "cs": "červenec",
+      "ja": "7月"
+    },
+    "08": {
+      "fr": "août",
+      "en": "August",
+      "ar": "أغسطس",
+      "he": "אוגוסט",
+      "pl": "sierpień",
+      "pt": "agosto",
+      "cs": "srpen",
+      "ja": "8月"
+    },
+    "09": {
+      "fr": "septembre",
+      "en": "September",
+      "ar": "سبتمبر",
+      "he": "ספטמבר",
+      "pl": "wrzesień",
+      "pt": "setembro",
+      "cs": "září",
+      "ja": "9月"
+    },
+    "10": {
+      "fr": "octobre",
+      "en": "October",
+      "ar": "أكتوبر",
+      "he": "אוקטובר",
+      "pl": "październik",
+      "pt": "outubro",
+      "cs": "říjen",
+      "ja": "10月"
+    },
+    "11": {
+      "fr": "novembre",
+      "en": "November",
+      "ar": "نوفمبر",
+      "he": "נובמבר",
+      "pl": "listopad",
+      "pt": "novembro",
+      "cs": "listopad",
+      "ja": "11月"
+    },
+    "12": {
+      "fr": "décembre",
+      "en": "December",
+      "ar": "ديسمبر",
+      "he": "דצמבר",
+      "pl": "grudzień",
+      "pt": "dezembro",
+      "cs": "prosinec",
+      "ja": "12月"
+    }
+  },
+  "tarif_tiers": {
+    "_comment": "Controlled tier categories for the HTML price grid. FACTS langs (pl,pt,cs,ar,he,ja) render category label + number only (no FR free-text); PROSE langs keep the full FR tier name.",
+    "from": {
+      "fr": "à partir de",
+      "en": "from",
+      "de": "ab",
+      "it": "a partire da",
+      "es": "desde",
+      "nl": "vanaf",
+      "pl": "od",
+      "pt": "a partir de",
+      "cs": "od",
+      "ar": "ابتداءً من",
+      "he": "החל מ־",
+      "ja": "～"
+    },
+    "adulte": {
+      "fr": "Adulte",
+      "en": "Adult",
+      "de": "Erwachsene",
+      "it": "Adulto",
+      "es": "Adulto",
+      "nl": "Volwassene",
+      "pl": "Dorosły",
+      "pt": "Adulto",
+      "cs": "Dospělý",
+      "ar": "بالغ",
+      "he": "מבוגר",
+      "ja": "大人"
+    },
+    "enfant": {
+      "fr": "Enfant",
+      "en": "Child",
+      "de": "Kind",
+      "it": "Bambino",
+      "es": "Niño",
+      "nl": "Kind",
+      "pl": "Dziecko",
+      "pt": "Criança",
+      "cs": "Dítě",
+      "ar": "طفل",
+      "he": "ילד",
+      "ja": "子供"
+    },
+    "jeune": {
+      "fr": "Jeune",
+      "en": "Youth",
+      "de": "Jugendliche",
+      "it": "Giovane",
+      "es": "Joven",
+      "nl": "Jongere",
+      "pl": "Młodzież",
+      "pt": "Jovem",
+      "cs": "Mládež",
+      "ar": "شاب",
+      "he": "צעיר",
+      "ja": "ジュニア"
+    },
+    "senior": {
+      "fr": "Sénior",
+      "en": "Senior",
+      "de": "Senioren",
+      "it": "Senior",
+      "es": "Sénior",
+      "nl": "Senior",
+      "pl": "Senior",
+      "pt": "Sénior",
+      "cs": "Senior",
+      "ar": "كبار السن",
+      "he": "קשיש",
+      "ja": "シニア"
+    },
+    "famille": {
+      "fr": "Famille",
+      "en": "Family",
+      "de": "Familie",
+      "it": "Famiglia",
+      "es": "Familia",
+      "nl": "Gezin",
+      "pl": "Rodzina",
+      "pt": "Família",
+      "cs": "Rodina",
+      "ar": "عائلة",
+      "he": "משפחה",
+      "ja": "家族"
+    },
+    "saison": {
+      "fr": "Saison",
+      "en": "Season",
+      "de": "Saison",
+      "it": "Stagionale",
+      "es": "Temporada",
+      "nl": "Seizoen",
+      "pl": "Sezon",
+      "pt": "Época",
+      "cs": "Sezóna",
+      "ar": "موسم",
+      "he": "עונה",
+      "ja": "シーズン"
+    },
+    "court": {
+      "fr": "Forfait court",
+      "en": "Short pass",
+      "de": "Kurzpass",
+      "it": "Ridotto orario",
+      "es": "Pase corto",
+      "nl": "Korte pas",
+      "pl": "Karnet krótki",
+      "pt": "Passe curto",
+      "cs": "Krátká jízdenka",
+      "ar": "تذكرة قصيرة",
+      "he": "כרטיס קצר",
+      "ja": "短時間券"
+    },
+    "debutant": {
+      "fr": "Débutant",
+      "en": "Beginner",
+      "de": "Anfänger",
+      "it": "Principiante",
+      "es": "Principiante",
+      "nl": "Beginner",
+      "pl": "Początkujący",
+      "pt": "Iniciante",
+      "cs": "Začátečník",
+      "ar": "مبتدئ",
+      "he": "מתחיל",
+      "ja": "初心者"
+    },
+    "nordique": {
+      "fr": "Nordique",
+      "en": "Nordic",
+      "de": "Nordisch",
+      "it": "Nordico",
+      "es": "Nórdico",
+      "nl": "Noords",
+      "pl": "Biegowy",
+      "pt": "Nórdico",
+      "cs": "Běžecké",
+      "ar": "تزلج ريفي",
+      "he": "סקי צולב",
+      "ja": "クロスカントリー"
+    },
+    "autre": {
+      "fr": "Forfait",
+      "en": "Pass",
+      "de": "Pass",
+      "it": "Forfait",
+      "es": "Forfait",
+      "nl": "Pas",
+      "pl": "Karnet",
+      "pt": "Passe",
+      "cs": "Jízdenka",
+      "ar": "تذكرة",
+      "he": "כרטיס",
+      "ja": "パス"
+    }
+  }
+}

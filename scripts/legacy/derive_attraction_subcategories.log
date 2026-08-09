@@ -1,0 +1,73 @@
+WRITE    accrobranche-foret-aventures-manigod                    -> accrobranche   via category=accrobranche
+WRITE    acro-aventures-reignier                                 -> accrobranche   via slug-prefix=acro-aventures-
+WRITE    acro-aventures-talloires                                -> accrobranche   via slug-prefix=acro-aventures-
+WRITE    aquaparc-aqualis-cluses                                 -> aquatique      via category=aquaparc
+WRITE    aquaparc-chateau-bleu-annemasse                         -> aquatique      via category=aquaparc
+WRITE    aquaparc-thonon-piscine-olympique-thonon                -> aquatique      via category=aquaparc
+WRITE    aquariaz                                                -> divers         via fallback
+WRITE    base-nautique-doussard-doussard                         -> wakepark       via category=base-nautique [REVIEW: outdoor]
+WRITE    base-nautique-marquisats-annecy                         -> wakepark       via category=base-nautique [REVIEW: outdoor]
+WRITE    base-nautique-sciez-sciez                               -> wakepark       via category=base-nautique [REVIEW: outdoor]
+WRITE    bowling-aerodrome-annemasse                             -> bowling        via category=bowling
+WRITE    bowling-le-bowl-annecy                                  -> bowling        via category=bowling
+WRITE    bowling-margencel-margencel                             -> bowling        via category=bowling
+WRITE    bowling-sevrier-sevrier                                 -> bowling        via category=bowling
+WRITE    cascade-aventure                                        -> divers         via fallback
+WRITE    casino-evian-resort-evian                               -> casino         via category=casino
+WRITE    casino-imperial-palace-annecy                           -> casino         via category=casino
+WRITE    cote-2000-aventure                                      -> divers         via fallback
+WRITE    croisiere-bateaux-annecy-annecy                         -> croisiere      via category=croisiere [REVIEW: outdoor]
+WRITE    croisiere-cgn-evian                                     -> croisiere      via category=croisiere [REVIEW: outdoor]
+WRITE    croisiere-cgn-thonon                                    -> croisiere      via category=croisiere [REVIEW: outdoor]
+WRITE    croisiere-cgn-yvoire                                    -> croisiere      via category=croisiere [REVIEW: outdoor]
+WRITE    indiana-ventures-saint-paul-en-chablais                 -> divers         via fallback
+WRITE    jardin-cimes-passy                                      -> jardin         via category=jardin [REVIEW: outdoor]
+WRITE    jardin-des-cinq-sens                                    -> jardin         via slug-prefix=jardin- [REVIEW: outdoor]
+WRITE    jardin-jaysinia-samoens                                 -> jardin         via category=jardin [REVIEW: outdoor]
+WRITE    karting-mk-circuit-scientrier                           -> karting        via category=karting
+WRITE    karting-mont-blanc-passy                                -> karting        via category=karting
+WRITE    karting-onlykart-roche-sur-foron                        -> karting        via category=karting
+WRITE    karting-rumilly-rumilly                                 -> karting        via category=karting
+WRITE    karting-team-bouvier-pringy                             -> karting        via category=karting
+WRITE    les-aigles-du-leman                                     -> divers         via fallback
+WRITE    parc-aventure-mont-blanc-saint-gervais                  -> accrobranche   via category=accrobranche
+WRITE    parc-de-merlet                                          -> divers         via fallback
+WRITE    parcours-aventure-de-sciez                              -> divers         via fallback
+WRITE    passy-accro-lac                                         -> accrobranche   via slug-prefix=passy-accro-
+WRITE    patinoire-jean-regis-annecy                             -> patinoire      via category=patinoire
+WRITE    patinoire-palais-megeve                                 -> patinoire      via category=patinoire
+WRITE    patinoire-richard-bozon-chamonix                        -> patinoire      via category=patinoire
+WRITE    voile-cercle-thonon-thonon                              -> wakepark       via category=base-nautique [REVIEW: outdoor]
+WRITE    wakepark-ponton-embarcadere-saint-jorioz                -> wakepark       via category=wakepark [REVIEW: outdoor]
+WRITE    wakepark-tna-cable-park-arenthon                        -> wakepark       via category=wakepark [REVIEW: outdoor]
+
+=== Summary ===
+written: 42
+skipped (already current): 0
+
+Buckets:
+  accrobranche    5  ['accrobranche-foret-aventures-manigod', 'acro-aventures-reignier', 'acro-aventures-talloires', 'parc-aventure-mont-blanc-saint-gervais', 'passy-accro-lac']
+  aquatique       3  ['aquaparc-aqualis-cluses', 'aquaparc-chateau-bleu-annemasse', 'aquaparc-thonon-piscine-olympique-thonon']
+  bowling         4  ['bowling-aerodrome-annemasse', 'bowling-le-bowl-annecy', 'bowling-margencel-margencel', 'bowling-sevrier-sevrier']
+  casino          2  ['casino-evian-resort-evian', 'casino-imperial-palace-annecy']
+  croisiere       4  ['croisiere-bateaux-annecy-annecy', 'croisiere-cgn-evian', 'croisiere-cgn-thonon', 'croisiere-cgn-yvoire']
+  divers          7  ['aquariaz', 'cascade-aventure', 'cote-2000-aventure', 'indiana-ventures-saint-paul-en-chablais', 'les-aigles-du-leman', 'parc-de-merlet', 'parcours-aventure-de-sciez']
+  jardin          3  ['jardin-cimes-passy', 'jardin-des-cinq-sens', 'jardin-jaysinia-samoens']
+  karting         5  ['karting-mk-circuit-scientrier', 'karting-mont-blanc-passy', 'karting-onlykart-roche-sur-foron', 'karting-rumilly-rumilly', 'karting-team-bouvier-pringy']
+  patinoire       3  ['patinoire-jean-regis-annecy', 'patinoire-palais-megeve', 'patinoire-richard-bozon-chamonix']
+  wakepark        6  ['base-nautique-doussard-doussard', 'base-nautique-marquisats-annecy', 'base-nautique-sciez-sciez', 'voile-cercle-thonon-thonon', 'wakepark-ponton-embarcadere-saint-jorioz', 'wakepark-tna-cable-park-arenthon']
+
+Flagged outdoor (review):
+  base-nautique-doussard-doussard -> wakepark
+  base-nautique-marquisats-annecy -> wakepark
+  base-nautique-sciez-sciez -> wakepark
+  croisiere-bateaux-annecy-annecy -> croisiere
+  croisiere-cgn-evian -> croisiere
+  croisiere-cgn-thonon -> croisiere
+  croisiere-cgn-yvoire -> croisiere
+  jardin-cimes-passy -> jardin
+  jardin-des-cinq-sens -> jardin
+  jardin-jaysinia-samoens -> jardin
+  voile-cercle-thonon-thonon -> wakepark
+  wakepark-ponton-embarcadere-saint-jorioz -> wakepark
+  wakepark-tna-cable-park-arenthon -> wakepark

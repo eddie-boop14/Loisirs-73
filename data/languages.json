@@ -1,0 +1,107 @@
+{
+  "_meta": {
+    "doc": "Single source of truth for the locale roster (HANDOFF-10 Job 1). Every builder, the picker, and hreflang derive the language list + endonym + direction from here via scripts/locales.py — no hardcoded LANGS anywhere. Adding a language is a data edit + render, not a multi-file hunt.",
+    "status_model": {
+      "published": "Complete tree (homepage + 15 localized-slug hubs + communes + all fiches), present in sitemap + hreflang + the language picker. render_mode=prose for the 6 originals (fr/en/de/it/es/nl); render_mode=facts for the facts-first full trees (pl/pt/cs/ja/ar/he, rendered by build_fulltree_lang, render-verified). All 12 published since HANDOFF-20 (2026-07-01).",
+      "staged-indexable": "Marquee pilot (~20 pages): indexable + self-canonical, OWN URLs listed in sitemap.xml, but NOT in any hreflang cluster and NOT in the picker. (No language currently in this state — pl/pt/cs graduated to published facts-first full trees; the pilot lane is retired.)",
+      "staged": "Pilot rendered noindex: absent from sitemap, hreflang, and picker. (No language currently in this state.)",
+      "held": "Vocabulary-verified but render-blocked. No rendered tree; absent from sitemap, hreflang, and picker. (No language currently in this state — ar/he/ja graduated to published once the full-tree RTL/dir path was render-verified at scale, HANDOFF-20.)"
+    },
+    "provenance_note": "Translation provenance (the `reviewed` method string + its clean verify report) is owned SOLELY by data/i18n-labels.json under gate_i18n_labels.py. It is deliberately NOT duplicated here. gate_locale_status.py cross-validates that each language's `status` is consistent with that single source.",
+    "render_roster_derivation": {
+      "published_all": "status == published, in declared order (fr first) — the 6-language hreflang/breadcrumb/intent-hub roster.",
+      "secondary": "published minus root (fr) — the en/de/it/es/nl subdirectory roster used by build_site, build_hubs, fix_hreflang_sitemap, build_catalog_index, ingest_translations, gate_canonical_selfref.",
+      "staged_indexable": "status == staged-indexable — deployed to _site + own sitemap URLs, never picker/hreflang.",
+      "held": "status == held — never rendered."
+    },
+    "order": [
+      "fr",
+      "en",
+      "de",
+      "it",
+      "es",
+      "nl",
+      "pl",
+      "pt",
+      "cs",
+      "ar",
+      "he",
+      "ja"
+    ]
+  },
+  "languages": {
+    "fr": {
+      "endonym": "Français",
+      "dir": "ltr",
+      "status": "published",
+      "root": true,
+      "render_mode": "prose"
+    },
+    "en": {
+      "endonym": "English",
+      "dir": "ltr",
+      "status": "published",
+      "render_mode": "prose"
+    },
+    "de": {
+      "endonym": "Deutsch",
+      "dir": "ltr",
+      "status": "published",
+      "render_mode": "prose"
+    },
+    "it": {
+      "endonym": "Italiano",
+      "dir": "ltr",
+      "status": "published",
+      "render_mode": "prose"
+    },
+    "es": {
+      "endonym": "Español",
+      "dir": "ltr",
+      "status": "published",
+      "render_mode": "prose"
+    },
+    "nl": {
+      "endonym": "Nederlands",
+      "dir": "ltr",
+      "status": "published",
+      "render_mode": "prose"
+    },
+    "pl": {
+      "endonym": "Polski",
+      "dir": "ltr",
+      "status": "published",
+      "render_mode": "facts"
+    },
+    "pt": {
+      "endonym": "Português",
+      "dir": "ltr",
+      "status": "published",
+      "render_mode": "facts"
+    },
+    "cs": {
+      "endonym": "Čeština",
+      "dir": "ltr",
+      "status": "published",
+      "render_mode": "facts"
+    },
+    "ar": {
+      "endonym": "العربية",
+      "dir": "rtl",
+      "status": "published",
+      "render_mode": "facts"
+    },
+    "he": {
+      "endonym": "עברית",
+      "dir": "rtl",
+      "status": "published",
+      "render_mode": "facts"
+    },
+    "ja": {
+      "endonym": "日本語",
+      "dir": "ltr",
+      "status": "published",
+      "render_mode": "facts"
+    }
+  }
+}

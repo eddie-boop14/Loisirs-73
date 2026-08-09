@@ -1,0 +1,122 @@
+{
+ "fr": {
+  "def": "◎ Près de moi",
+  "loading": "…localisation",
+  "on": "◎ Au plus proche",
+  "off": "géoloc indisponible",
+  "title": "À proximité",
+  "sub": "Les lieux les plus proches de vous",
+  "cta": "Voir",
+  "km": "km"
+ },
+ "en": {
+  "def": "◎ Near me",
+  "loading": "…locating",
+  "on": "◎ Closest first",
+  "off": "geolocation unavailable",
+  "title": "Nearby",
+  "sub": "The places closest to you",
+  "cta": "View",
+  "km": "km"
+ },
+ "de": {
+  "def": "◎ In meiner Nähe",
+  "loading": "…wird geortet",
+  "on": "◎ Am nächsten zuerst",
+  "off": "Standort nicht verfügbar",
+  "title": "In der Nähe",
+  "sub": "Die nächstgelegenen Orte",
+  "cta": "Ansehen",
+  "km": "km"
+ },
+ "it": {
+  "def": "◎ Vicino a me",
+  "loading": "…localizzazione",
+  "on": "◎ Più vicini",
+  "off": "geolocalizzazione non disponibile",
+  "title": "Nelle vicinanze",
+  "sub": "I luoghi più vicini a te",
+  "cta": "Vedi",
+  "km": "km"
+ },
+ "es": {
+  "def": "◎ Cerca de mí",
+  "loading": "…localizando",
+  "on": "◎ Los más cercanos",
+  "off": "geolocalización no disponible",
+  "title": "Cerca",
+  "sub": "Los lugares más cercanos a ti",
+  "cta": "Ver",
+  "km": "km"
+ },
+ "nl": {
+  "def": "◎ Bij mij in de buurt",
+  "loading": "…lokaliseren",
+  "on": "◎ Dichtstbijzijnde",
+  "off": "geolocatie niet beschikbaar",
+  "title": "In de buurt",
+  "sub": "De dichtstbijzijnde plekken",
+  "cta": "Bekijk",
+  "km": "km"
+ },
+ "pl": {
+  "def": "◎ Blisko mnie",
+  "loading": "…lokalizowanie",
+  "on": "◎ Najbliżej najpierw",
+  "off": "geolokalizacja niedostępna",
+  "title": "W pobliżu",
+  "sub": "Miejsca najbliżej Ciebie",
+  "cta": "Zobacz",
+  "km": "km"
+ },
+ "pt": {
+  "def": "◎ Perto de mim",
+  "loading": "…a localizar",
+  "on": "◎ Mais próximos primeiro",
+  "off": "geolocalização indisponível",
+  "title": "Por perto",
+  "sub": "Os locais mais próximos de si",
+  "cta": "Ver",
+  "km": "km"
+ },
+ "cs": {
+  "def": "◎ Blízko mě",
+  "loading": "…zjišťuji polohu",
+  "on": "◎ Od nejbližších",
+  "off": "geolokace nedostupná",
+  "title": "V okolí",
+  "sub": "Místa nejblíže vám",
+  "cta": "Zobrazit",
+  "km": "km"
+ },
+ "ja": {
+  "def": "◎ 現在地",
+  "loading": "…測位中",
+  "on": "◎ 近い順",
+  "off": "位置情報を利用できません",
+  "title": "近くのスポット",
+  "sub": "あなたに最も近いスポット",
+  "cta": "見る",
+  "km": "km"
+ },
+ "ar": {
+  "def": "◎ بالقرب مني",
+  "loading": "…جارٍ تحديد الموقع",
+  "on": "◎ الأقرب أولًا",
+  "off": "تحديد الموقع غير متاح",
+  "title": "بالجوار",
+  "sub": "الأماكن الأقرب إليك",
+  "cta": "عرض",
+  "km": "km"
+ },
+ "he": {
+  "def": "◎ קרוב אליי",
+  "loading": "…מאתר מיקום",
+  "on": "◎ הקרובים תחילה",
+  "off": "שירות מיקום לא זמין",
+  "title": "בקרבת מקום",
+  "sub": "האתרים הקרובים אליכם ביותר",
+  "cta": "צפייה",
+  "km": "km"
+ }
+}

@@ -29,6 +29,7 @@ Usage:
 2026 · Bleu canard édition · Edmaster & Claudius 🦆
 """
 import argparse
+import siteconfig  # HANDOFF-73 phase 5: per-site identity
 import csv
 import datetime
 import json
@@ -117,7 +118,7 @@ def first_website(contacts):
 def download(url, dest):
     print(f"downloading {url}")
     req = urllib.request.Request(url, headers={
-        "User-Agent": "loisirs-dt-extract/1.0 (+https://loisirs74.fr)"})
+        "User-Agent": f"loisirs-dt-extract/1.0 (+{siteconfig.BASE_URL})"})
     with urllib.request.urlopen(req, timeout=300) as r, open(dest, "wb") as f:
         total = 0
         while True:

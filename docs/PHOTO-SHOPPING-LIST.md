@@ -136,11 +136,11 @@ The named ones are **photographs of specific Haute-Savoie places**. Using `col-d
 
 ## Sourced so far
 
-| Fiche | Author | Licence | Pixels |
+| Fiche | Author | Licence | Pixels (+gallery) |
 |---|---|---|---|
 | `col-de-l-iseran` | genevieveromier | CC BY 2.0 | 800×532 ⚠ |
-| `col-de-la-croix-de-fer` | Sjaak Kempe from Groningen, The  | CC BY 2.0 | 5184×3456 |
-| `col-de-la-loze` | Kuba Turek https://www.horydoly. | CC BY-SA 4.0 | 1024×569 ⚠ |
+| `col-de-la-croix-de-fer` | Sjaak Kempe from Groningen, Th | CC BY 2.0 | 5184×3456 |
+| `col-de-la-loze` | Kuba Turek https://www.horydol | CC BY-SA 4.0 | 1024×569 ⚠ |
 | `col-de-la-madeleine` | Anthospace | CC BY-SA 3.0 | 2592×1944 |
 | `col-des-saisies` | Rémih | CC BY-SA 4.0 | 5184×3888 |
 | `col-du-chaussy` | Florian Pépellin | CC BY-SA 3.0 | 2048×1536 |
@@ -154,17 +154,17 @@ The named ones are **photographs of specific Haute-Savoie places**. Using `col-d
 | `cormet-de-roselend` | Florian Pépellin | CC BY-SA 3.0 | 4288×3216 |
 | `funiculaire-de-la-grande-motte` | Antoine Lamielle | CC BY-SA 4.0 | 6000×4000 |
 | `signal-de-bisanne` | Rémih | CC BY-SA 4.0 | 5184×3888 |
-| `telecabine-de-champagny` | Florian Pépellin | CC BY-SA 4.0 | 3264×2448 |
+| `telecabine-de-champagny` | Florian Pépellin | CC BY-SA 4.0 | 3264×2448 +1 |
 | `telecabine-de-la-pointe-de-la-masse` | Florian Pépellin | CC BY-SA 4.0 | 3264×2448 |
 | `telecabine-de-la-roche-de-mio` | Rémih | CC BY-SA 4.0 | 4608×3456 |
 | `telecabine-de-solaise` | Rémih | CC BY-SA 4.0 | 5184×3888 |
-| `telecabine-des-glaciers` | Florian Pépellin | CC BY-SA 4.0 | 3264×2448 |
+| `telecabine-des-glaciers` | Rémih | CC BY-SA 4.0 | 4608×3456 +1 |
 | `telecabine-du-mont-vallon` | Florian Pépellin | CC BY-SA 4.0 | 3264×2448 |
-| `telecabine-orelle-cime-caron` | Florian Pépellin | CC BY-SA 4.0 | 3264×2448 |
+| `telecabine-orelle-cime-caron` | Remontees | CC BY-SA 4.0 | 5184×3888 +1 |
 | `telepherique-de-l-aiguille-rouge` | DimiTalen | CC0 | 2495×1659 |
-| `telepherique-de-l-olympique` | Pete Coleman from Croxley Green, | CC BY 2.0 | 1600×1066 |
-| `telepherique-de-la-cime-caron` | Rémih | CC BY-SA 4.0 | 5067×3801 |
-| `telepherique-de-la-grande-motte` | Ian Gratton from Sutton-n-Craven | CC BY 2.0 | 2560×1920 |
+| `telepherique-de-l-olympique` | Pete Coleman from Croxley Gree | CC BY 2.0 | 1600×1066 |
+| `telepherique-de-la-cime-caron` | Rémih | CC BY-SA 4.0 | 5067×3801 +1 |
+| `telepherique-de-la-grande-motte` | Ian Gratton from Sutton-n-Crav | CC BY 2.0 | 2560×1920 |
 | `telepherique-de-la-saulire` | Florian Pépellin | CC BY-SA 4.0 | 3264×2448 |
 | `telepherique-du-mont-bochor` | Rémih | CC BY-SA 4.0 | 5067×3801 |
 | `vanoise-express` | Florian Pépellin | CC BY-SA 4.0 | 2772×2112 |

@@ -33,8 +33,14 @@
     "status": "UNVERIFIED",
     "website": null
   },
-  "gallery_photos": [],
-  "hero_credit": "Florian Pépellin · CC BY-SA 4.0 · Wikimedia Commons",
+  "gallery_photos": [
+    {
+      "alt": "La télécabine des Glaciers au glacier de Bellecôte",
+      "credit": "Rémih · CC BY-SA 4.0 · Wikimedia Commons",
+      "src": "/img/telecabines/telecabine-des-glaciers-1.jpg"
+    }
+  ],
+  "hero_credit": "Rémih · CC BY-SA 4.0 · Wikimedia Commons",
   "hero_image": "/img/telecabines/telecabine-des-glaciers-hero.jpg",
   "i18n": {
     "en": {
@@ -368,6 +374,7 @@
     "ANCRAGE DANS LE ROCHER ET NON DANS LE PERGÉLISOL — détail technique remarquable mais issu d'une seule source secondaire. Attribuer, ne pas asserter.",
     "DATE DE MISE EN SERVICE À SOURÇAGE SECONDAIRE — « décembre, saison 2023/2024 ». La page officielle ne la donne pas.",
     "TARIFS IDENTIQUES À CEUX DE LA ROCHE DE MIO — 9 € et 7 € en montée simple, 21 € et 17 € la journée. Il n'est pas établi si ces montants couvrent les deux appareils ou chacun séparément. Vérifier au guichet avant d'annoncer un prix total.",
-    "DURÉE, ANIMAUX, PMR : hors les « moins de 15 minutes » depuis la Roche de Mio, aucune source. Champs null."
+    "DURÉE, ANIMAUX, PMR : hors les « moins de 15 minutes » depuis la Roche de Mio, aucune source. Champs null.",
+    "COMMUNE — les clichés Commons de cet appareil sont rattachés à CHAMPAGNY-EN-VANOISE (le glacier de Bellecôte est sur son territoire), alors que cette fiche le rattache à La Plagne Tarentaise, d'où part l'accès. Les deux se défendent ; aucune source ne tranche. Un cliché est même rattaché à Peisey-Nancroix. Ne pas présenter la commune comme établie."
   ]
 }

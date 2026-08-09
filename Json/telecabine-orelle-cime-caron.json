@@ -33,8 +33,14 @@
     "status": "UNVERIFIED",
     "website": null
   },
-  "gallery_photos": [],
-  "hero_credit": "Florian Pépellin · CC BY-SA 4.0 · Wikimedia Commons",
+  "gallery_photos": [
+    {
+      "alt": "Le tracé complet de la télécabine d'Orelle-Caron jusqu'au sommet",
+      "credit": "Myosotis alpestre · CC BY-SA 4.0 · Wikimedia Commons",
+      "src": "/img/telecabines/telecabine-orelle-cime-caron-1.jpg"
+    }
+  ],
+  "hero_credit": "Remontees · CC BY-SA 4.0 · Wikimedia Commons",
   "hero_image": "/img/telecabines/telecabine-orelle-cime-caron-hero.jpg",
   "i18n": {
     "en": {

@@ -175,6 +175,17 @@
     "source_url": "https://commons.wikimedia.org/wiki/File:Col_du_Joly_@_Signal_de_Bisanne.jpg",
     "width": 5184
   },
+  "telecabine-de-champagny-1.jpg": {
+    "author": "Rémih",
+    "fetched": "2026-08-08",
+    "file": "File:Grande Rochette @ Télécabine de Champagny.jpg",
+    "height": 3456,
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Grande_Rochette_@_Télécabine_de_Champagny.jpg",
+    "width": 4608
+  },
   "telecabine-de-champagny-hero.jpg": {
     "author": "Florian Pépellin",
     "fetched": "2026-08-08",
@@ -219,16 +230,33 @@
     "source_url": "https://commons.wikimedia.org/wiki/File:Télécabine_de_Solaise_@_Tête_du_Solaise.jpg",
     "width": 5184
   },
-  "telecabine-des-glaciers-hero.jpg": {
-    "author": "Florian Pépellin",
+  "telecabine-des-glaciers-1.jpg": {
+    "author": "Rémih",
     "fetched": "2026-08-08",
-    "file": "File:Sous Bellecôte et Télécabine Glaciers à La Plagne (février 2024).JPG",
-    "height": 2448,
+    "file": "File:Télécabine des Glaciers 08.jpg",
+    "height": 3456,
     "licence": "CC BY-SA 4.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "source": "Wikimedia Commons",
-    "source_url": "https://commons.wikimedia.org/wiki/File:Sous_Bellecôte_et_Télécabine_Glaciers_à_La_Plagne_(février_2024).JPG",
-    "width": 3264
+    "source_url": "https://commons.wikimedia.org/wiki/File:Télécabine_des_Glaciers_08.jpg",
+    "width": 4608
+  },
+  "telecabine-des-glaciers-hero.jpg": {
+    "author": "Rémih",
+    "fetched": "2026-08-08",
+    "file": "File:Télécabine des Glaciers 01.jpg",
+    "height": 3456,
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "replaced": {
+      "author": "Florian Pépellin",
+      "file": "File:Sous Bellecôte et Télécabine Glaciers à La Plagne (février 2024).JPG",
+      "licence": "CC BY-SA 4.0",
+      "reason": "the gondola as subject rather than framed beneath Bellecote, and 4608px against 3264"
+    },
+    "source": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Télécabine_des_Glaciers_01.jpg",
+    "width": 4608
   },
   "telecabine-du-mont-vallon-hero.jpg": {
     "author": "Florian Pépellin",
@@ -241,16 +269,33 @@
     "source_url": "https://commons.wikimedia.org/wiki/File:Mont_Vallon_vu_de_Val_Thorens_en_hiver_(2019).JPG",
     "width": 3264
   },
-  "telecabine-orelle-cime-caron-hero.jpg": {
-    "author": "Florian Pépellin",
+  "telecabine-orelle-cime-caron-1.jpg": {
+    "author": "Myosotis alpestre",
     "fetched": "2026-08-08",
-    "file": "File:Télécabine Orelle-Caron vers Plan Bouchet (avril 2022).JPG",
-    "height": 2448,
+    "file": "File:Télécabine d'Orelle-Caron, tracé jusqu'au sommet.jpg",
+    "height": 1800,
     "licence": "CC BY-SA 4.0",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "source": "Wikimedia Commons",
-    "source_url": "https://commons.wikimedia.org/wiki/File:Télécabine_Orelle-Caron_vers_Plan_Bouchet_(avril_2022).JPG",
-    "width": 3264
+    "source_url": "https://commons.wikimedia.org/wiki/File:Télécabine_d'Orelle-Caron,_tracé_jusqu'au_sommet.jpg",
+    "width": 3406
+  },
+  "telecabine-orelle-cime-caron-hero.jpg": {
+    "author": "Remontees",
+    "fetched": "2026-08-08",
+    "file": "File:Gare-aval-telecabine-orelle-caron2.jpg",
+    "height": 3888,
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "replaced": {
+      "author": "Florian Pépellin",
+      "file": "File:Télécabine Orelle-Caron vers Plan Bouchet (avril 2022).JPG",
+      "licence": "CC BY-SA 4.0",
+      "reason": "resolves the section ambiguity flagged on the previous file (its name said Orelle->Plan Bouchet, its description said Plan Bouchet->Cime Caron); this one is unambiguously the Orelle bottom station, and 5184px against 3264"
+    },
+    "source": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Gare-aval-telecabine-orelle-caron2.jpg",
+    "width": 5184
   },
   "telepherique-de-l-aiguille-rouge-hero.jpg": {
     "author": "DimiTalen",
@@ -285,6 +330,17 @@
     "source": "Wikimedia Commons",
     "source_url": "https://commons.wikimedia.org/wiki/File:L'Olympique_bubble.jpg",
     "width": 1600
+  },
+  "telepherique-de-la-cime-caron-1.jpg": {
+    "author": "Rémih",
+    "fetched": "2026-08-08",
+    "file": "File:Cime de Caron sommet @ Col du Gollet.jpg",
+    "height": 3888,
+    "licence": "CC BY-SA 4.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Cime_de_Caron_sommet_@_Col_du_Gollet.jpg",
+    "width": 5184
   },
   "telepherique-de-la-cime-caron-hero.jpg": {
     "author": "Rémih",

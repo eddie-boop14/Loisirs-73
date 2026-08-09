@@ -1,6 +1,6 @@
 # Loisirs 73 — hero photo shopping list
 
-**30 fiches · 26 heroes sourced · 4 to go.** Every fiche is `status: draft` with `hero_image: null`; the standing rule is hero-photo-before-publish, so this list is the whole gap between draft and published.
+**30 fiches · 28 heroes sourced · 2 to go.** Every fiche is `status: draft` with `hero_image: null`; the standing rule is hero-photo-before-publish, so this list is the whole gap between draft and published.
 
 Generated from `Json/*.json` on 2026-08-08 — not transcribed by hand.
 
@@ -33,7 +33,7 @@ Generated from `Json/*.json` on 2026-08-08 — not transcribed by hand.
 | 17 | **Télécabine de la Pointe de la Masse**<br>`telecabine-de-la-pointe-de-la-masse` | Les Belleville (73440) | 2 804 m | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9cabine+de+la+Pointe+de+la+Masse+Les+Belleville&title=Special:MediaSearch&type=image) | ✅ |
 | 18 | **Télécabine de la Roche de Mio**<br>`telecabine-de-la-roche-de-mio` | La Plagne Tarentaise (73210) | 2 739 m | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9cabine+de+la+Roche+de+Mio+La+Plagne+Tarentaise&title=Special:MediaSearch&type=image) | ✅ |
 | 19 | **Télécabine du Mont Vallon**<br>`telecabine-du-mont-vallon` | Les Allues (73550) | 2 952 m | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9cabine+du+Mont+Vallon+Les+Allues&title=Special:MediaSearch&type=image) | ✅ |
-| 20 | **Téléphérique du Mont-Bochor**<br>`telepherique-du-mont-bochor` | Pralognan-la-Vanoise (73710) | Table d'orientation à 2 02 | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9ph%C3%A9rique+du+Mont-Bochor+Pralognan-la-Vanoise&title=Special:MediaSearch&type=image) | ☐ |
+| 20 | **Téléphérique du Mont-Bochor**<br>`telepherique-du-mont-bochor` | Pralognan-la-Vanoise (73710) | Table d'orientation à 2 02 | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9ph%C3%A9rique+du+Mont-Bochor+Pralognan-la-Vanoise&title=Special:MediaSearch&type=image) | ✅ |
 | 21 | **Col des Saisies**<br>`col-des-saisies` | Hauteluce (73620) | 1 650 m | [search](https://commons.wikimedia.org/w/index.php?search=Col+des+Saisies+Hauteluce&title=Special:MediaSearch&type=image) | ✅ |
 | 22 | **Col du Chaussy**<br>`col-du-chaussy` | Saint-Jean-de-Maurienne (73300) | 1 533 m | [search](https://commons.wikimedia.org/w/index.php?search=Col+du+Chaussy+Saint-Jean-de-Maurienne&title=Special:MediaSearch&type=image) | ✅ |
 | 23 | **Col du Mollard**<br>`col-du-mollard` | Albiez-Montrond (73300) | 1 638 m | [search](https://commons.wikimedia.org/w/index.php?search=Col+du+Mollard+Albiez-Montrond&title=Special:MediaSearch&type=image) | ✅ |
@@ -43,7 +43,7 @@ Generated from `Json/*.json` on 2026-08-08 — not transcribed by hand.
 | 27 | **Télécabine de Solaise**<br>`telecabine-de-solaise` | Val-d'Isère (73150) | 2 560 m, tête de Solaise | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9cabine+de+Solaise+Val-d%27Is%C3%A8re&title=Special:MediaSearch&type=image) | ✅ |
 | 28 | **Télécabine des Glaciers**<br>`telecabine-des-glaciers` | La Plagne Tarentaise (73210) | « Plus de 3 000 m » | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9cabine+des+Glaciers+La+Plagne+Tarentaise&title=Special:MediaSearch&type=image) | ✅ |
 | 29 | **Télécabine Orelle – Cime Caron**<br>`telecabine-orelle-cime-caron` | Orelle (73140) | « 3 200 m » selon une sour | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9cabine+Orelle+%E2%80%93+Cime+Caron+Orelle&title=Special:MediaSearch&type=image) | ✅ |
-| 30 | **Téléphérique de l'Olympique**<br>`telepherique-de-l-olympique` | Val-d'Isère (73150) | — | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9ph%C3%A9rique+de+l%27Olympique+Val-d%27Is%C3%A8re&title=Special:MediaSearch&type=image) | ☐ |
+| 30 | **Téléphérique de l'Olympique**<br>`telepherique-de-l-olympique` | Val-d'Isère (73150) | — | [search](https://commons.wikimedia.org/w/index.php?search=T%C3%A9l%C3%A9ph%C3%A9rique+de+l%27Olympique+Val-d%27Is%C3%A8re&title=Special:MediaSearch&type=image) | ✅ |
 
 ## Grouped by batch
 
@@ -71,7 +71,7 @@ Generated from `Json/*.json` on 2026-08-08 — not transcribed by hand.
 - ✅ `telecabine-de-la-pointe-de-la-masse` — Télécabine de la Pointe de la Masse, Les Belleville
 - ✅ `telecabine-de-la-roche-de-mio` — Télécabine de la Roche de Mio, La Plagne Tarentaise
 - ✅ `telecabine-du-mont-vallon` — Télécabine du Mont Vallon, Les Allues
-- ☐ `telepherique-du-mont-bochor` — Téléphérique du Mont-Bochor, Pralognan-la-Vanoise
+- ✅ `telepherique-du-mont-bochor` — Téléphérique du Mont-Bochor, Pralognan-la-Vanoise
 
 ### Batch 03 — 10 fiches
 
@@ -84,7 +84,7 @@ Generated from `Json/*.json` on 2026-08-08 — not transcribed by hand.
 - ✅ `telecabine-de-solaise` — Télécabine de Solaise, Val-d'Isère
 - ✅ `telecabine-des-glaciers` — Télécabine des Glaciers, La Plagne Tarentaise
 - ✅ `telecabine-orelle-cime-caron` — Télécabine Orelle – Cime Caron, Orelle
-- ☐ `telepherique-de-l-olympique` — Téléphérique de l'Olympique, Val-d'Isère
+- ✅ `telepherique-de-l-olympique` — Téléphérique de l'Olympique, Val-d'Isère
 
 
 ---
@@ -161,8 +161,10 @@ The named ones are **photographs of specific Haute-Savoie places**. Using `col-d
 | `telecabine-du-mont-vallon` | Florian Pépellin | CC BY-SA 4.0 | 3264×2448 |
 | `telecabine-orelle-cime-caron` | Florian Pépellin | CC BY-SA 4.0 | 3264×2448 |
 | `telepherique-de-l-aiguille-rouge` | DimiTalen | CC0 | 2495×1659 |
+| `telepherique-de-l-olympique` | Aurélien PASCAUD | CC BY-SA 4.0 | 724×511 ⚠ |
 | `telepherique-de-la-grande-motte` | Ian Gratton from Sutton-n-Craven | CC BY 2.0 | 2560×1920 |
 | `telepherique-de-la-saulire` | Florian Pépellin | CC BY-SA 4.0 | 3264×2448 |
+| `telepherique-du-mont-bochor` | Rémih | CC BY-SA 4.0 | 5067×3801 |
 | `vanoise-express` | Florian Pépellin | CC BY-SA 4.0 | 2772×2112 |
 
 Full provenance — Commons file name, licence URL, source page, fetch date — is in

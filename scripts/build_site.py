@@ -71,6 +71,7 @@ COPY_ROOT_FILES_GLOB = [
     "site.webmanifest",
     "sitemap.xml",
     "llms.txt", "llms-full.txt", "robots.txt", "robots-ai.txt",
+    "5a95126a64e5a8af65889718abd8029b.txt",  # IndexNow key (public by protocol)
     "catalog-index.json", "lieux.json", "photo-credits.json",
     "_headers", "_redirects",        # Netlify control files
     "a100618930894cd2bc77bacba5002b64.txt",  # Indeed/Bing verification

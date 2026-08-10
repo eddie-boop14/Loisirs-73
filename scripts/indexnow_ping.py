@@ -43,7 +43,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import locales  # noqa: E402
 
 HOST = siteconfig.DOMAIN
-KEY = "e8aa76cdaf4348d390571ff658e649ca"
+KEY = "5a95126a64e5a8af65889718abd8029b"
 KEY_LOCATION = f"https://{HOST}/{KEY}.txt"
 ENDPOINT = "https://api.indexnow.org/indexnow"
 DEFAULT_SITEMAP = f"https://{HOST}/sitemap.xml"

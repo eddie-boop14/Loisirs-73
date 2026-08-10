@@ -1,0 +1,73 @@
+name: IndexNow ping (manual)
+
+# ▶️  Run it: Actions tab → "IndexNow ping (manual)" → Run workflow
+#
+# HANDOFF-33: push URLs to the IndexNow endpoint (Bing, Seznam, Naver,
+# Yandex, …). Google ignores IndexNow — the GSC sitemap path is separate.
+#
+# ⚠️ MANUAL-ONLY — NEVER add a cron or a deploy hook (post-bot rule:
+# nothing fires without a human). dry-run is the default and sends
+# NOTHING; mode=send is Edmaster's word, one click, auditable in
+# reports/indexnow-pings.json on the branch this runs against.
+
+on:
+  workflow_dispatch:
+    inputs:
+      scope:
+        description: "What to submit (test-single = ONE FR URL, the HANDOFF-33 proof ping)"
+        required: true
+        type: choice
+        options: [test-single, lang, all]
+        default: test-single
+      lang:
+        description: "Language tree (used when scope=lang)"
+        required: false
+        type: choice
+        options: [fr, en, de, it, es, nl, pl, pt, cs, ja, ar, he]
+        default: pt
+      mode:
+        description: "dry-run (prints counts, sends nothing) or send (fires — Edmaster's word)"
+        required: true
+        type: choice
+        options: [dry-run, send]
+        default: dry-run
+
+permissions:
+  contents: read
+
+jobs:
+  indexnow:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Ping (or dry-run)
+        run: |
+          ARGS=""
+          if [ "${{ github.event.inputs.scope }}" = "all" ]; then
+            ARGS="--all"
+          elif [ "${{ github.event.inputs.scope }}" = "test-single" ]; then
+            echo "https://loisirs73.fr/plage-de-saint-jorioz" > /tmp/one-url.txt
+            ARGS="--urls /tmp/one-url.txt"
+          else
+            ARGS="--lang ${{ github.event.inputs.lang }}"
+          fi
+          if [ "${{ github.event.inputs.mode }}" = "send" ]; then
+            ARGS="$ARGS --send"
+          fi
+          echo "python3 scripts/indexnow_ping.py $ARGS"
+          python3 scripts/indexnow_ping.py $ARGS
+
+      - name: Upload ping log (audit trail)
+        if: github.event.inputs.mode == 'send'
+        continue-on-error: true
+        uses: actions/upload-artifact@v4
+        with:
+          name: indexnow-ping-log-${{ github.run_id }}
+          path: reports/indexnow-pings.json
+          if-no-files-found: error

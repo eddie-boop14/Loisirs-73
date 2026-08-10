@@ -24,6 +24,85 @@
   "hero_credit": null,
   "hero_image": "/img/generique/generique-cascade.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Vom Fremdenverkehrsamt Valmorel veröffentlichter Rundweg ab dem Parkplatz Sport 2000, +499 m, mit einem technischen Singletrail im Aufstieg und einem Abstieg, der Vorsicht verlangt.",
+          "tag": "Leicht",
+          "title": "Rundweg um die Wasserfälle des Morel"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>Cascade du Morel</strong> ist nicht von allein entstanden: Ihr fast 80 Meter hoher Fall tritt aus einem Ableitungstunnel aus, der ab 1902 auf fast einem Kilometer Länge in den Fels getrieben wurde. Das Département, das den Ort dokumentiert, erinnert an den Grund: Zwischen 1620 und 1908 verursachte der Wildbach mehr als vierzig Hochwasser und Erdrutsche, bevor die großen Verbauungsarbeiten kamen — Staumauer 1896, 57 Sperren 1907, fast 90 Hektar aufgeforstet.</p><p>Der <strong>Sentier du Morel</strong> führt heute an mehr als fünfzig Wasserfällen entlang, über rund 200 Meter Höhenunterschied, nahe dem Weiler Bellecombe. Das Fremdenverkehrsamt von Valmorel veröffentlicht einen Rundweg « Balade autour des cascades du Morel » ab dem Parkplatz Sport 2000 Mottet Sports (333 rue de la Petite Prairie, Grand-Aigueblanche), als leicht eingestuft mit +499 m — sein Tourenblatt warnt vor einem etwas technischen Singletrail im Aufstieg und mahnt beim Abstieg zum Wasserfall zur Vorsicht.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Kostenlos",
+        "best_season": "Von Juni bis September",
+        "commune": "Grand-Aigueblanche",
+        "dogs": null,
+        "parking": "Parkplatz Sport 2000 Mottet Sports, 333 rue de la Petite Prairie",
+        "stroller": null,
+        "type": "Wasserfall",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "Der fast 80 m hohe Hauptfall tritt aus einem Ableitungstunnel aus, der ab 1902 auf fast einem Kilometer in den Fels getrieben wurde — im Rahmen der Verbauung des Wildbachs nach mehr als vierzig zwischen 1620 und 1908 verzeichneten Hochwassern und Erdrutschen.",
+          "q": "Warum spricht man von einem « künstlichen » Wasserfall?"
+        },
+        {
+          "a": "Das Département nennt mehr als fünfzig entlang des Sentier du Morel, gestaffelt über rund 200 m Höhenunterschied nahe dem Weiler Bellecombe.",
+          "q": "Wie viele Wasserfälle sieht man?"
+        },
+        {
+          "a": "Vom Parkplatz Sport 2000 Mottet Sports, 333 rue de la Petite Prairie in Grand-Aigueblanche, laut dem Tourenblatt des Fremdenverkehrsamts von Valmorel.",
+          "q": "Wo startet die Wanderung?"
+        },
+        {
+          "a": "Das Tourenblatt stuft den Rundweg als « leicht » mit +499 m ein, weist aber auf einen etwas technischen Aufstiegspfad hin und mahnt beim Abstieg zum Wasserfall zur Vorsicht. Vorsichtshalber feuchte Tage meiden.",
+          "q": "Ist es schwierig?"
+        }
+      ],
+      "hero": {
+        "badge": "≈80 m · Kostenlos",
+        "lead": "Der Wildbach Morel stürzt fast 80 Meter in die Tiefe — ein Fall, der einem ab 1902 in den Fels getriebenen Ableitungstunnel entspringt. Der Weg zeigt mehr als fünfzig davon."
+      },
+      "hero_alt": "Cascade du Morel bei Aigueblanche, Tarentaise, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "A430, dann N90 bis Grand-Aigueblanche; Parkplatz Sport 2000 Mottet Sports, 333 rue de la Petite Prairie.",
+        "public_transport": null
+      },
+      "meta_description": "Fast 80 m hoher Fall aus einem ab 1902 in den Fels getriebenen Ableitungstunnel, an einem Weg entlang von mehr als 50 Wasserfällen des Morel. Kostenlos, von Juni bis September.",
+      "meta_title": "Cascade du Morel · 80 m, Weg der 50 Wasserfälle",
+      "name": "Cascade du Morel",
+      "name_alternates": [
+        "Sentier du Morel"
+      ],
+      "practical_info": [
+        {
+          "k": "Start",
+          "v": "Parkplatz Sport 2000 Mottet Sports, 333 rue de la Petite Prairie, 73260 Grand-Aigueblanche"
+        },
+        {
+          "k": "Saison",
+          "v": "Von Juni bis September (Département)"
+        },
+        {
+          "k": "Höhe",
+          "v": "Hauptfall von fast 80 m; mehr als 50 Wasserfälle entlang des Weges"
+        },
+        {
+          "k": "Vorsicht",
+          "v": "Technischer Singletrail im Aufstieg, Vorsicht beim Abstieg geboten (Tourenblatt des Fremdenverkehrsamts)"
+        }
+      ],
+      "schema_amenities": [
+        "Markierter Weg"
+      ],
+      "when_to_visit": "<p>Von Juni bis September laut Département. Das Tourenblatt mahnt beim Abstieg zur Vorsicht — ein Gelände, das man bei feuchtem Wetter meiden sollte.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -103,6 +182,85 @@
       ],
       "when_to_visit": "<p>June to September per the Département. The walk sheet asks for care on the descent — terrain to avoid in wet weather.</p>"
     },
+    "es": {
+      "activities": [
+        {
+          "description": "Circuito publicado por la oficina de turismo de Valmorel desde el aparcamiento Sport 2000, +499 m, con un single técnico en subida y una bajada que exige atención.",
+          "tag": "Fácil",
+          "title": "Paseo alrededor de las cascadas del Morel"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>cascada del Morel</strong> no nació por sí sola: su salto de casi 80 metros sale de un túnel de derivación excavado en la roca a lo largo de casi un kilómetro a partir de 1902. El Departamento, que documenta el sitio, recuerda el porqué: entre 1620 y 1908, el torrente causó más de cuarenta crecidas y deslizamientos de tierra, antes de las grandes obras de corrección — presa en 1896, 57 diques de retención en 1907, casi 90 hectáreas reforestadas.</p><p>El <strong>sendero del Morel</strong> bordea hoy más de cincuenta cascadas en unos 200 metros de desnivel, cerca de la aldea de Bellecombe. La oficina de turismo de Valmorel publica un circuito « Balade autour des cascades du Morel » con salida del aparcamiento Sport 2000 Mottet Sports (333 rue de la Petite Prairie, Grand-Aigueblanche), clasificado fácil con +499 m — su ficha advierte de un single en subida algo técnico y pide atención en la bajada hacia la cascada.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuito",
+        "best_season": "De junio a septiembre",
+        "commune": "Grand-Aigueblanche",
+        "dogs": null,
+        "parking": "Aparcamiento Sport 2000 Mottet Sports, 333 rue de la Petite Prairie",
+        "stroller": null,
+        "type": "Cascada",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "El salto principal, de casi 80 m, sale de un túnel de derivación excavado en la roca a lo largo de casi un kilómetro a partir de 1902, en el marco de las obras de corrección del torrente tras más de cuarenta crecidas y deslizamientos registrados entre 1620 y 1908.",
+          "q": "¿Por qué se habla de una cascada « artificial »?"
+        },
+        {
+          "a": "El Departamento anuncia más de cincuenta a lo largo del sendero del Morel, escalonadas en unos 200 m de desnivel cerca de la aldea de Bellecombe.",
+          "q": "¿Cuántas cascadas se ven?"
+        },
+        {
+          "a": "Del aparcamiento Sport 2000 Mottet Sports, 333 rue de la Petite Prairie en Grand-Aigueblanche, según la ficha de senderismo de la oficina de turismo de Valmorel.",
+          "q": "¿De dónde sale el paseo?"
+        },
+        {
+          "a": "La ficha clasifica el circuito como « fácil » con +499 m, pero señala un sendero en subida algo técnico y pide atención en la bajada hacia la cascada. Por prudencia, evitar los días húmedos.",
+          "q": "¿Es difícil?"
+        }
+      ],
+      "hero": {
+        "badge": "≈80 m · Gratuito",
+        "lead": "El torrente del Morel cae desde casi 80 metros — un salto nacido de un túnel de derivación excavado en la roca a partir de 1902. El sendero muestra más de cincuenta."
+      },
+      "hero_alt": "Cascada del Morel cerca de Aigueblanche, Tarentaise, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "A430 y después N90 hasta Grand-Aigueblanche; aparcamiento Sport 2000 Mottet Sports, 333 rue de la Petite Prairie.",
+        "public_transport": null
+      },
+      "meta_description": "Salto de casi 80 m nacido de un túnel de derivación excavado desde 1902, en un sendero que bordea más de 50 cascadas del Morel. Gratuito, de junio a septiembre.",
+      "meta_title": "Cascade du Morel · 80 m, sendero de las 50 cascadas",
+      "name": "Cascade du Morel",
+      "name_alternates": [
+        "Sentier du Morel"
+      ],
+      "practical_info": [
+        {
+          "k": "Salida",
+          "v": "Aparcamiento Sport 2000 Mottet Sports, 333 rue de la Petite Prairie, 73260 Grand-Aigueblanche"
+        },
+        {
+          "k": "Temporada",
+          "v": "De junio a septiembre (Departamento)"
+        },
+        {
+          "k": "Altura",
+          "v": "Salto principal de casi 80 m; más de 50 cascadas a lo largo del sendero"
+        },
+        {
+          "k": "Prudencia",
+          "v": "Single técnico en subida, atención requerida en la bajada (ficha de la oficina de turismo)"
+        }
+      ],
+      "schema_amenities": [
+        "Sendero señalizado"
+      ],
+      "when_to_visit": "<p>De junio a septiembre según el Departamento. La ficha de senderismo pide atención en la bajada — un terreno que conviene evitar con tiempo húmedo.</p>"
+    },
     "fr": {
       "activities": [
         {
@@ -181,6 +339,164 @@
         "Sentier balisé"
       ],
       "when_to_visit": "<p>De juin à septembre selon le Département. La fiche rando demande de la vigilance à la descente — un terrain à éviter par temps humide.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Anello pubblicato dall'ufficio del turismo di Valmorel dal parcheggio Sport 2000, +499 m, con un single track un po' tecnico in salita e una discesa che richiede attenzione.",
+          "tag": "Facile",
+          "title": "Passeggiata attorno alle cascate del Morel"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>Cascade du Morel</strong> non è nata da sola: il suo salto di quasi 80 metri esce da un tunnel di derivazione scavato nella roccia per quasi un chilometro a partire dal 1902. Il Dipartimento, che documenta il sito, ricorda il perché: tra il 1620 e il 1908 il torrente ha causato più di quaranta piene e frane, prima dei grandi lavori di sistemazione — una diga nel 1896, 57 briglie nel 1907, quasi 90 ettari rimboschiti.</p><p>Il <strong>sentiero del Morel</strong> costeggia oggi più di cinquanta cascate su circa 200 metri di dislivello, vicino alla frazione di Bellecombe. L'ufficio del turismo di Valmorel pubblica un anello « Balade autour des cascades du Morel » in partenza dal parcheggio Sport 2000 Mottet Sports (333 rue de la Petite Prairie, Grand-Aigueblanche), classificato facile con +499 m — la sua scheda avverte di un single track un po' tecnico in salita e chiede attenzione nella discesa verso la cascata.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuito",
+        "best_season": "Da giugno a settembre",
+        "commune": "Grand-Aigueblanche",
+        "dogs": null,
+        "parking": "Parcheggio Sport 2000 Mottet Sports, 333 rue de la Petite Prairie",
+        "stroller": null,
+        "type": "Cascata",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "Il salto principale, di quasi 80 m, esce da un tunnel di derivazione scavato nella roccia per quasi un chilometro a partire dal 1902, nell'ambito dei lavori di sistemazione del torrente dopo più di quaranta piene e frane censite tra il 1620 e il 1908.",
+          "q": "Perché si parla di una cascata « artificiale »?"
+        },
+        {
+          "a": "Il Dipartimento ne annuncia più di cinquanta lungo il sentiero del Morel, disposte su circa 200 m di dislivello vicino alla frazione di Bellecombe.",
+          "q": "Quante cascate si vedono?"
+        },
+        {
+          "a": "Dal parcheggio Sport 2000 Mottet Sports, 333 rue de la Petite Prairie a Grand-Aigueblanche, secondo la scheda escursionistica dell'ufficio del turismo di Valmorel.",
+          "q": "Da dove parte la passeggiata?"
+        },
+        {
+          "a": "La scheda classifica l'anello « facile » con +499 m, ma segnala un sentiero un po' tecnico in salita e chiede attenzione nella discesa verso la cascata. Per prudenza, evitare i giorni umidi.",
+          "q": "È difficile?"
+        }
+      ],
+      "hero": {
+        "badge": "≈80 m · Gratuito",
+        "lead": "Il torrente del Morel precipita per quasi 80 metri — un salto nato da un tunnel di derivazione scavato nella roccia a partire dal 1902. Il sentiero ne mostra più di cinquanta."
+      },
+      "hero_alt": "Cascade du Morel vicino ad Aigueblanche, Tarentaise, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "A430 poi N90 fino a Grand-Aigueblanche; parcheggio Sport 2000 Mottet Sports, 333 rue de la Petite Prairie.",
+        "public_transport": null
+      },
+      "meta_description": "Salto di quasi 80 m nato da un tunnel di derivazione scavato dal 1902, su un sentiero che costeggia più di 50 cascate del Morel. Gratuito, da giugno a settembre.",
+      "meta_title": "Cascade du Morel · 80 m, sentiero delle 50 cascate",
+      "name": "Cascade du Morel",
+      "name_alternates": [
+        "Sentier du Morel"
+      ],
+      "practical_info": [
+        {
+          "k": "Partenza",
+          "v": "Parcheggio Sport 2000 Mottet Sports, 333 rue de la Petite Prairie, 73260 Grand-Aigueblanche"
+        },
+        {
+          "k": "Stagione",
+          "v": "Da giugno a settembre (Dipartimento)"
+        },
+        {
+          "k": "Altezza",
+          "v": "Salto principale di quasi 80 m; più di 50 cascate lungo il sentiero"
+        },
+        {
+          "k": "Prudenza",
+          "v": "Single track tecnico in salita, attenzione richiesta in discesa (scheda dell'ufficio del turismo)"
+        }
+      ],
+      "schema_amenities": [
+        "Sentiero segnalato"
+      ],
+      "when_to_visit": "<p>Da giugno a settembre secondo il Dipartimento. La scheda escursionistica chiede attenzione in discesa — un terreno da evitare con tempo umido.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Lus gepubliceerd door het toeristenbureau van Valmorel vanaf de parkeerplaats Sport 2000, +499 m, met een wat technisch smal pad in de klim en een afdaling die oplettendheid vraagt.",
+          "tag": "Gemakkelijk",
+          "title": "Wandeling langs de watervallen van de Morel"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>cascade du Morel</strong> is niet vanzelf ontstaan: zijn val van bijna 80 meter komt uit een omleidingstunnel die vanaf 1902 over bijna een kilometer in de rots werd uitgehakt. Het Departement, dat het terrein documenteert, legt uit waarom: tussen 1620 en 1908 veroorzaakte de bergbeek meer dan veertig overstromingen en aardverschuivingen, vóór de grote correctiewerken — een dam in 1896, 57 drempels in 1907, bijna 90 hectare herbebost.</p><p>Het <strong>sentier du Morel</strong> loopt vandaag langs meer dan vijftig watervallen over ongeveer 200 meter hoogteverschil, bij het gehucht Bellecombe. Het toeristenbureau van Valmorel publiceert een lus « Balade autour des cascades du Morel » vanaf de parkeerplaats Sport 2000 Mottet Sports (333 rue de la Petite Prairie, Grand-Aigueblanche), geclassificeerd als gemakkelijk met +499 m — de routebeschrijving waarschuwt voor een wat technisch smal pad in de klim en vraagt oplettendheid bij de afdaling naar de waterval.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": "Van juni tot september",
+        "commune": "Grand-Aigueblanche",
+        "dogs": null,
+        "parking": "Parkeerplaats Sport 2000 Mottet Sports, 333 rue de la Petite Prairie",
+        "stroller": null,
+        "type": "Waterval",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "De hoofdval, van bijna 80 m, komt uit een omleidingstunnel die vanaf 1902 over bijna een kilometer in de rots werd uitgehakt, in het kader van de correctiewerken aan de bergbeek na meer dan veertig geregistreerde overstromingen en aardverschuivingen tussen 1620 en 1908.",
+          "q": "Waarom spreekt men van een « kunstmatige » waterval?"
+        },
+        {
+          "a": "Het Departement vermeldt er meer dan vijftig langs het sentier du Morel, verdeeld over ongeveer 200 m hoogteverschil bij het gehucht Bellecombe.",
+          "q": "Hoeveel watervallen ziet men?"
+        },
+        {
+          "a": "Vanaf de parkeerplaats Sport 2000 Mottet Sports, 333 rue de la Petite Prairie in Grand-Aigueblanche, volgens de wandelfiche van het toeristenbureau van Valmorel.",
+          "q": "Waar vertrekt de wandeling?"
+        },
+        {
+          "a": "De fiche classificeert de lus als « gemakkelijk » met +499 m, maar signaleert een wat technisch pad in de klim en vraagt oplettendheid bij de afdaling naar de waterval. Vermijd uit voorzichtigheid vochtige dagen.",
+          "q": "Is het moeilijk?"
+        }
+      ],
+      "hero": {
+        "badge": "≈80 m · Gratis",
+        "lead": "De bergbeek van de Morel valt bijna 80 meter naar beneden — een val die is ontstaan uit een omleidingstunnel die vanaf 1902 in de rots werd uitgehakt. Het pad toont er meer dan vijftig."
+      },
+      "hero_alt": "Cascade du Morel bij Aigueblanche, Tarentaise, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "A430 en daarna N90 tot Grand-Aigueblanche; parkeerplaats Sport 2000 Mottet Sports, 333 rue de la Petite Prairie.",
+        "public_transport": null
+      },
+      "meta_description": "Val van bijna 80 m, ontstaan uit een omleidingstunnel uit 1902, aan een pad dat langs meer dan 50 watervallen van de Morel loopt. Gratis, van juni tot september.",
+      "meta_title": "Cascade du Morel · 80 m, pad van de 50 watervallen",
+      "name": "Cascade du Morel",
+      "name_alternates": [
+        "Sentier du Morel"
+      ],
+      "practical_info": [
+        {
+          "k": "Vertrek",
+          "v": "Parkeerplaats Sport 2000 Mottet Sports, 333 rue de la Petite Prairie, 73260 Grand-Aigueblanche"
+        },
+        {
+          "k": "Seizoen",
+          "v": "Van juni tot september (Departement)"
+        },
+        {
+          "k": "Hoogte",
+          "v": "Hoofdval van bijna 80 m; meer dan 50 watervallen langs het pad"
+        },
+        {
+          "k": "Voorzichtigheid",
+          "v": "Technisch smal pad in de klim, oplettendheid gevraagd bij de afdaling (fiche toeristenbureau)"
+        }
+      ],
+      "schema_amenities": [
+        "Bewegwijzerd pad"
+      ],
+      "when_to_visit": "<p>Van juni tot september volgens het Departement. De wandelfiche vraagt oplettendheid bij de afdaling — terrein dat u bij vochtig weer beter vermijdt.</p>"
     }
   },
   "latitude": null,

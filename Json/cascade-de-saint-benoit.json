@@ -24,6 +24,87 @@
   "hero_credit": null,
   "hero_image": "/img/generique/generique-cascade.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Picknickplatz, Schatten und Liegewiesen am Fuß der 90 Meter hohen Kaskade, neben der chapelle Saint-Benoît.",
+          "tag": "Frei",
+          "title": "Picknick am Fuß des Wasserfalls"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>Cascade de Saint-Benoît</strong> stürzt <strong>90 Meter</strong> in die Tiefe, direkt an der D215, der Touristenstraße zu den Festungen des Esseillon zwischen Aussois und Avrieux, neben der chapelle Saint-Benoît. Am Fuß: Picknickplatz, Schatten und Liegewiesen, alles frei zugänglich.</p><p>Bei der Anfahrt heißt es Schilder lesen: Die <strong>Straße ist im Winter für jeglichen Verkehr gesperrt</strong>, und im Sommer ist sie nur bergauf in Richtung der Festungen befahrbar, mit <strong>sehr begrenzten Parkmöglichkeiten</strong>. Die Alternative, die das Fremdenverkehrsamt nennt: im Sommer 30 Minuten zu Fuß von der Bushaltestelle Avrieux Centre.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Kostenlos",
+        "best_season": "Sommer (Straße geöffnet, nur bergauf)",
+        "commune": "Avrieux",
+        "dogs": null,
+        "parking": "Sehr begrenzt (Quelle: Fremdenverkehrsamt)",
+        "stroller": null,
+        "type": "Wasserfall",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "Nicht über die Straße: Sie ist im Winter für jeglichen Verkehr gesperrt, so das Fremdenverkehrsamt von Haute Maurienne Vanoise.",
+          "q": "Kommt man im Winter hin?"
+        },
+        {
+          "a": "Über die D215, ausschließlich bergauf (Richtung Festungen), mit sehr begrenzten Parkmöglichkeiten — oder zu Fuß, in 30 Minuten von der Bushaltestelle Avrieux Centre.",
+          "q": "Wie kommt man im Sommer hin?"
+        },
+        {
+          "a": "90 Meter, laut Fremdenverkehrsamt — einer der großen sichtbaren Wasserfälle der Haute Maurienne.",
+          "q": "Wie hoch ist der Wasserfall?"
+        },
+        {
+          "a": "Ein Picknickplatz, Schatten und Liegewiesen am Fuß des Wasserfalls, neben der chapelle Saint-Benoît.",
+          "q": "Was gibt es vor Ort?"
+        }
+      ],
+      "hero": {
+        "badge": "90 m · Kostenlos",
+        "lead": "An der Straße zu den Festungen des Esseillon, zwischen Aussois und Avrieux, stürzt der Wasserfall 90 Meter neben der chapelle Saint-Benoît in die Tiefe. Picknickplatz, Schatten und Liegewiesen am Fuß."
+      },
+      "hero_alt": "Cascade de Saint-Benoît bei der Kapelle, Avrieux, Haute Maurienne, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D215 (Straße zu den Festungen des Esseillon) zwischen Aussois und Avrieux — im Sommer nur bergauf, Straße im Winter gesperrt, Parkmöglichkeiten sehr begrenzt.",
+        "public_transport": "Im Sommer: 30 Minuten zu Fuß von der Haltestelle Avrieux Centre."
+      },
+      "meta_description": "90 m hoher Wasserfall an der Touristenstraße zu den Festungen des Esseillon, nahe der chapelle Saint-Benoît. Kostenlos; Straße im Winter gesperrt, im Sommer Einbahn bergauf, sehr wenige Parkplätze.",
+      "meta_title": "Cascade de Saint-Benoît (Avrieux) · 90 m, Anfahrt, Winter",
+      "name": "Cascade de Saint-Benoît",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Adresse",
+          "v": "RD215G, 73500 Avrieux — nahe der chapelle Saint-Benoît"
+        },
+        {
+          "k": "Höhe",
+          "v": "90 m"
+        },
+        {
+          "k": "Straße",
+          "v": "Im Winter für jeglichen Verkehr gesperrt; im Sommer Einbahn bergauf"
+        },
+        {
+          "k": "Parkplatz",
+          "v": "Sehr begrenzt (Fremdenverkehrsamt) — im Sommer besser Bus + 30 min zu Fuß"
+        },
+        {
+          "k": "Vor Ort",
+          "v": "Picknickplatz, Schatten, Liegewiesen"
+        }
+      ],
+      "schema_amenities": [
+        "Picknickplatz"
+      ],
+      "when_to_visit": "<p>Im Sommer, wenn die Straße geöffnet ist (nur bergauf) — oder zu Fuß von Avrieux Centre. Im Winter ist die Straße für jeglichen Verkehr gesperrt.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -105,6 +186,87 @@
       ],
       "when_to_visit": "<p>In summer, when the road is open (uphill direction) — or on foot from Avrieux Centre. In winter the road is closed to all traffic.</p>"
     },
+    "es": {
+      "activities": [
+        {
+          "description": "Zona de pícnic, sombra y praderas de hierba al pie de los 90 metros de la cascada, junto a la chapelle Saint-Benoît.",
+          "tag": "Libre",
+          "title": "Pícnic al pie del salto"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>Cascade de Saint-Benoît</strong> cae desde <strong>90 metros</strong> al borde de la D215, la carretera turística de los fuertes del Esseillon entre Aussois y Avrieux, junto a la chapelle Saint-Benoît. Al pie: zona de pícnic, sombra y praderas de hierba, todo de acceso libre.</p><p>El acceso exige leer los paneles: la <strong>carretera está cerrada a toda circulación en invierno</strong>, y en verano solo se toma en sentido ascendente hacia los fuertes, con un <strong>aparcamiento muy limitado</strong>. La alternativa que da la oficina de turismo: en verano, 30 minutos a pie desde la parada de autobús Avrieux Centre.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuito",
+        "best_season": "Verano (carretera abierta, sentido ascendente)",
+        "commune": "Avrieux",
+        "dogs": null,
+        "parking": "Muy limitado (fuente: oficina de turismo)",
+        "stroller": null,
+        "type": "Cascada",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "Por carretera no: está cerrada a toda circulación durante el invierno, según la oficina de turismo de Haute Maurienne Vanoise.",
+          "q": "¿Se puede ir en invierno?"
+        },
+        {
+          "a": "Por la D215 únicamente en sentido ascendente (hacia los fuertes), con un aparcamiento muy limitado, o a pie, en 30 minutos desde la parada de autobús Avrieux Centre.",
+          "q": "¿Cómo llegar en verano?"
+        },
+        {
+          "a": "90 metros, según la oficina de turismo: uno de los grandes saltos visibles de la Haute Maurienne.",
+          "q": "¿Qué altura tiene el salto?"
+        },
+        {
+          "a": "Una zona de pícnic, sombra y praderas de hierba al pie de la cascada, junto a la chapelle Saint-Benoît.",
+          "q": "¿Qué hay en el lugar?"
+        }
+      ],
+      "hero": {
+        "badge": "90 m · Gratuito",
+        "lead": "En la carretera de los fuertes del Esseillon, entre Aussois y Avrieux, la cascada cae desde 90 metros junto a la chapelle Saint-Benoît. Zona de pícnic, sombra y praderas de hierba al pie."
+      },
+      "hero_alt": "Cascade de Saint-Benoît junto a la capilla, Avrieux, Haute Maurienne, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D215 (carretera de los fuertes del Esseillon) entre Aussois y Avrieux — solo sentido ascendente en verano, carretera cerrada en invierno, aparcamiento muy limitado.",
+        "public_transport": "En verano: 30 minutos a pie desde la parada Avrieux Centre."
+      },
+      "meta_description": "Salto de 90 m en la carretera turística de los fuertes del Esseillon, cerca de la chapelle Saint-Benoît. Gratuito; carretera cerrada en invierno, sentido único ascendente en verano, aparcamiento muy limitado.",
+      "meta_title": "Cascade de Saint-Benoît (Avrieux) · 90 m, acceso, invierno",
+      "name": "Cascade de Saint-Benoît",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Dirección",
+          "v": "RD215G, 73500 Avrieux — cerca de la chapelle Saint-Benoît"
+        },
+        {
+          "k": "Altura",
+          "v": "90 m"
+        },
+        {
+          "k": "Carretera",
+          "v": "Cerrada a toda circulación en invierno; sentido único ascendente en verano"
+        },
+        {
+          "k": "Aparcamiento",
+          "v": "Muy limitado (oficina de turismo) — mejor autobús + 30 min a pie en verano"
+        },
+        {
+          "k": "En el lugar",
+          "v": "Zona de pícnic, sombra, praderas de hierba"
+        }
+      ],
+      "schema_amenities": [
+        "Zona de pícnic"
+      ],
+      "when_to_visit": "<p>En verano, cuando la carretera está abierta (sentido ascendente), o a pie desde Avrieux Centre. En invierno, la carretera está cerrada a toda circulación.</p>"
+    },
     "fr": {
       "activities": [
         {
@@ -185,6 +347,168 @@
         "Aire de pique-nique"
       ],
       "when_to_visit": "<p>En été, quand la route est ouverte (sens montant) — ou à pied depuis Avrieux Centre. L'hiver, la route est fermée à toute circulation.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Area picnic, ombra e spiaggette erbose ai piedi dei 90 metri della cascata, accanto alla chapelle Saint-Benoît.",
+          "tag": "Libero",
+          "title": "Picnic ai piedi del salto"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>Cascade de Saint-Benoît</strong> precipita per <strong>90 metri</strong> a bordo della D215, la strada turistica dei forti dell'Esseillon tra Aussois e Avrieux, accanto alla chapelle Saint-Benoît. Alla base: area picnic, ombra e spiaggette erbose, il tutto ad accesso libero.</p><p>L'accesso richiede di leggere i cartelli: la <strong>strada è chiusa a ogni circolazione in inverno</strong> e in estate si percorre solo in salita verso i forti, con un <strong>parcheggio molto limitato</strong>. L'alternativa suggerita dall'ufficio del turismo: in estate, 30 minuti a piedi dalla fermata dell'autobus Avrieux Centre.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuito",
+        "best_season": "Estate (strada aperta, senso in salita)",
+        "commune": "Avrieux",
+        "dogs": null,
+        "parking": "Molto limitato (fonte: ufficio del turismo)",
+        "stroller": null,
+        "type": "Cascata",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "Non in auto: la strada è chiusa a ogni circolazione nel periodo invernale, secondo l'ufficio del turismo di Haute Maurienne Vanoise.",
+          "q": "Ci si può andare in inverno?"
+        },
+        {
+          "a": "Dalla D215 solo in senso di salita (verso i forti), con un parcheggio molto limitato — oppure a piedi, in 30 minuti dalla fermata dell'autobus Avrieux Centre.",
+          "q": "Come arrivarci in estate?"
+        },
+        {
+          "a": "90 metri, secondo l'ufficio del turismo — uno dei grandi salti visibili della Haute Maurienne.",
+          "q": "Quanto è alto il salto?"
+        },
+        {
+          "a": "Un'area picnic, ombra e spiaggette erbose ai piedi della cascata, accanto alla chapelle Saint-Benoît.",
+          "q": "Cosa si trova sul posto?"
+        }
+      ],
+      "hero": {
+        "badge": "90 m · Gratuito",
+        "lead": "Sulla strada dei forti dell'Esseillon, tra Aussois e Avrieux, la cascata precipita per 90 metri accanto alla chapelle Saint-Benoît. Area picnic, ombra e spiaggette erbose alla base."
+      },
+      "hero_alt": "Cascade de Saint-Benoît presso la cappella, Avrieux, Haute Maurienne, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D215 (strada dei forti dell'Esseillon) tra Aussois e Avrieux — solo in salita in estate, strada chiusa in inverno, parcheggio molto limitato.",
+        "public_transport": "In estate: 30 minuti a piedi dalla fermata Avrieux Centre."
+      },
+      "meta_description": "Salto di 90 m sulla strada turistica dei forti dell'Esseillon, vicino alla chapelle Saint-Benoît. Gratuito; strada chiusa in inverno, senso unico in salita in estate, parcheggio molto limitato.",
+      "meta_title": "Cascade de Saint-Benoît (Avrieux) · 90 m, accesso, inverno",
+      "name": "Cascade de Saint-Benoît",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Indirizzo",
+          "v": "RD215G, 73500 Avrieux — vicino alla chapelle Saint-Benoît"
+        },
+        {
+          "k": "Altezza",
+          "v": "90 m"
+        },
+        {
+          "k": "Strada",
+          "v": "Chiusa a ogni circolazione in inverno; senso unico in salita in estate"
+        },
+        {
+          "k": "Parcheggio",
+          "v": "Molto limitato (ufficio del turismo) — meglio l'autobus + 30 min a piedi in estate"
+        },
+        {
+          "k": "Sul posto",
+          "v": "Area picnic, ombra, spiaggette erbose"
+        }
+      ],
+      "schema_amenities": [
+        "Area picnic"
+      ],
+      "when_to_visit": "<p>In estate, quando la strada è aperta (senso in salita) — oppure a piedi da Avrieux Centre. In inverno la strada è chiusa a ogni circolazione.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Picknickplek, schaduw en grasstrandjes aan de voet van de 90 meter hoge waterval, naast de chapelle Saint-Benoît.",
+          "tag": "Vrij toegankelijk",
+          "title": "Picknicken aan de voet van de waterval"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>Cascade de Saint-Benoît</strong> stort <strong>90 meter</strong> naar beneden langs de D215, de toeristische route van de forten van de Esseillon tussen Aussois en Avrieux, naast de chapelle Saint-Benoît. Aan de voet: een picknickplek, schaduw en grasstrandjes, allemaal vrij toegankelijk.</p><p>Voor de toegang moet u de borden goed lezen: de <strong>weg is in de winter voor alle verkeer gesloten</strong>, en in de zomer mag u er alleen omhoog rijden richting de forten, met een <strong>zeer beperkte parkeergelegenheid</strong>. Het alternatief van het toeristenbureau: in de zomer 30 minuten te voet vanaf de bushalte Avrieux Centre.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": "Zomer (weg open, alleen omhoog)",
+        "commune": "Avrieux",
+        "dogs": null,
+        "parking": "Zeer beperkt (bron: toeristenbureau)",
+        "stroller": null,
+        "type": "Waterval",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "Niet via de weg: die is in de winterperiode voor alle verkeer gesloten, volgens het toeristenbureau van Haute Maurienne Vanoise.",
+          "q": "Kan men er in de winter naartoe?"
+        },
+        {
+          "a": "Via de D215, uitsluitend in stijgende richting (naar de forten), met zeer beperkte parkeergelegenheid — of te voet, in 30 minuten vanaf de bushalte Avrieux Centre.",
+          "q": "Hoe komt men er in de zomer?"
+        },
+        {
+          "a": "90 meter, volgens het toeristenbureau — een van de grootste zichtbare watervallen van de Haute Maurienne.",
+          "q": "Hoe hoog is de waterval?"
+        },
+        {
+          "a": "Een picknickplek, schaduw en grasstrandjes aan de voet van de waterval, naast de chapelle Saint-Benoît.",
+          "q": "Wat is er ter plaatse?"
+        }
+      ],
+      "hero": {
+        "badge": "90 m · Gratis",
+        "lead": "Aan de route van de forten van de Esseillon, tussen Aussois en Avrieux, stort de waterval 90 meter naar beneden naast de chapelle Saint-Benoît. Picknickplek, schaduw en grasstrandjes aan de voet."
+      },
+      "hero_alt": "Cascade de Saint-Benoît bij de kapel, Avrieux, Haute Maurienne, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D215 (route van de forten van de Esseillon) tussen Aussois en Avrieux — in de zomer alleen omhoog, weg gesloten in de winter, zeer beperkte parkeergelegenheid.",
+        "public_transport": "In de zomer: 30 minuten te voet vanaf de halte Avrieux Centre."
+      },
+      "meta_description": "Waterval van 90 m aan de toeristische route van de forten van de Esseillon, bij de chapelle Saint-Benoît. Gratis; weg gesloten in de winter, in de zomer eenrichtingsverkeer omhoog, zeer beperkt parkeren.",
+      "meta_title": "Cascade de Saint-Benoît (Avrieux) · 90 m, toegang, winter",
+      "name": "Cascade de Saint-Benoît",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Adres",
+          "v": "RD215G, 73500 Avrieux — bij de chapelle Saint-Benoît"
+        },
+        {
+          "k": "Hoogte",
+          "v": "90 m"
+        },
+        {
+          "k": "Weg",
+          "v": "In de winter voor alle verkeer gesloten; in de zomer eenrichtingsverkeer omhoog"
+        },
+        {
+          "k": "Parkeren",
+          "v": "Zeer beperkt (toeristenbureau) — in de zomer liever de bus + 30 min te voet"
+        },
+        {
+          "k": "Ter plaatse",
+          "v": "Picknickplek, schaduw, grasstrandjes"
+        }
+      ],
+      "schema_amenities": [
+        "Picknickplek"
+      ],
+      "when_to_visit": "<p>In de zomer, wanneer de weg open is (alleen omhoog) — of te voet vanaf Avrieux Centre. In de winter is de weg voor alle verkeer gesloten.</p>"
     }
   },
   "latitude": null,

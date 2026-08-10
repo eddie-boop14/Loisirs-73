@@ -24,6 +24,95 @@
   "hero_credit": null,
   "hero_image": "/img/generique/generique-cascade.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Weg über zwei freitragende Stege auf halber Höhe der Felswände, bis zur Cascade de Grésy und ihrer Stele von 1813.",
+          "tag": "≤1h hin und zurück",
+          "title": "Stegparcours"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>Gorges du Sierroz</strong> sind eine Schlucht, die vom Gemeindeverband Grand Lac saniert und nach jahrzehntelanger Schließung im Sommer 2021 wieder für die Öffentlichkeit geöffnet wurde. Der Weg führt über zwei <strong>freitragende Stege</strong>, die auf halber Höhe an den Felsen hängen — hin und zurück höchstens eine Stunde bis zur Cascade de Grésy. Das Gelände ist als nationales Kulturerbe eingestuft.</p><p>Am Wasserfall steht eine <strong>1813 von der reine Hortense errichtete Stele</strong>, neben restaurierten Industriegebäuden — Sägewerk, Mühlen, Ölpresse. Der Zugang ist frei, das ganze Jahr über, täglich; der Parkplatz liegt an der Route des Bauges, und der Eingang ist 10–20 Minuten zu Fuß von einer Bushaltestelle entfernt. Das Fremdenverkehrsamt gibt den Parcours als selbstständig mit dem Rollstuhl befahrbar an — eine Seltenheit für eine Schlucht.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Kostenlos",
+        "best_season": "Ganzjährig",
+        "commune": "Grésy-sur-Aix",
+        "dogs": null,
+        "parking": "Route des Bauges",
+        "stroller": "Barrierefreier Parcours (laut Fremdenverkehrsamt selbstständig mit dem Rollstuhl)",
+        "type": "Schlucht und Wasserfall",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Höchstens eine Stunde hin und zurück bis zur Cascade de Grésy, so das Fremdenverkehrsamt.",
+          "q": "Wie lange dauert der Besuch?"
+        },
+        {
+          "a": "Ja — das Fremdenverkehrsamt von Aix-les-Bains Riviera des Alpes gibt ihn als „selbstständig mit dem Rollstuhl befahrbar“ an. Für eine Schlucht ist das außergewöhnlich.",
+          "q": "Ist das Gelände mit dem Rollstuhl zugänglich?"
+        },
+        {
+          "a": "Eine 1813 von der reine Hortense an der Cascade de Grésy errichtete Stele, neben den restaurierten Industriegebäuden: Sägewerk, Mühlen, Ölpresse.",
+          "q": "Was ist die Stele der reine Hortense?"
+        },
+        {
+          "a": "Seit dem Sommer 2021: Die lange geschlossene Schlucht wurde vom Gemeindeverband Grand Lac saniert. Das Gelände ist als nationales Kulturerbe eingestuft.",
+          "q": "Seit wann kann man die Schlucht besichtigen?"
+        },
+        {
+          "a": "Der Eingang liegt 10–20 Minuten zu Fuß von einer Bushaltestelle entfernt, so das Fremdenverkehrsamt. Mit dem Auto: Parkplatz an der Route des Bauges.",
+          "q": "Wie kommt man ohne Auto hin?"
+        }
+      ],
+      "hero": {
+        "badge": "Kostenlos · Ganzjährig",
+        "lead": "Jahrzehntelang geschlossen, wurde die Schlucht des Sierroz im Sommer 2021 wiedereröffnet: Zwei auf halber Höhe an den Felswänden hängende Stege führen in höchstens einer Stunde hin und zurück zur Cascade de Grésy."
+      },
+      "hero_alt": "Stege der Gorges du Sierroz zur Cascade de Grésy, Grésy-sur-Aix, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Von Aix-les-Bains Richtung Grésy-sur-Aix; Parkplatz an der Route des Bauges.",
+        "public_transport": "Bushaltestelle 10–20 Minuten zu Fuß vom Eingang (laut Fremdenverkehrsamt)."
+      },
+      "meta_description": "Sanierte Schlucht, 2021 wiedereröffnet: freitragende Stege bis zur Cascade de Grésy und ihrer Stele der reine Hortense (1813). Kostenlos, ganzjährig, rollstuhlgerecht.",
+      "meta_title": "Gorges du Sierroz · Stege, Cascade de Grésy, kostenlos",
+      "name": "Gorges du Sierroz und Cascade de Grésy",
+      "name_alternates": [
+        "Cascade de Grésy"
+      ],
+      "practical_info": [
+        {
+          "k": "Adresse",
+          "v": "Route des Bauges, 73100 Grésy-sur-Aix"
+        },
+        {
+          "k": "Öffnungszeiten",
+          "v": "Ganzjährig, täglich — freier Zugang"
+        },
+        {
+          "k": "Dauer",
+          "v": "Höchstens 1h hin und zurück"
+        },
+        {
+          "k": "Barrierefreiheit",
+          "v": "Selbstständig mit dem Rollstuhl (Quelle: Fremdenverkehrsamt)"
+        },
+        {
+          "k": "Kulturerbe",
+          "v": "Geschütztes Gelände; Stele der reine Hortense (1813), restauriertes Sägewerk, Mühlen und Ölpresse"
+        }
+      ],
+      "schema_amenities": [
+        "Gesicherte Stege",
+        "Barrierefrei zugänglich",
+        "Parkplatz"
+      ],
+      "when_to_visit": "<p>Ganzjährig täglich geöffnet, freier Zugang. Die Wasserführung des Sierroz ist nach Regenfällen und zur Schneeschmelze am eindrucksvollsten.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -113,6 +202,95 @@
       ],
       "when_to_visit": "<p>Open year-round, daily, free access. The Sierroz flows hardest after rain and at snowmelt.</p>"
     },
+    "es": {
+      "activities": [
+        {
+          "description": "Recorrido por dos pasarelas voladas a media altura de las paredes, hasta la cascada de Grésy y su estela de 1813.",
+          "tag": "≤1h ida y vuelta",
+          "title": "Recorrido de las pasarelas"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Las <strong>gargantas del Sierroz</strong> son un cañón rehabilitado por la comunidad de aglomeración Grand Lac y abierto al público desde el verano de 2021, tras décadas de cierre. El recorrido utiliza dos <strong>pasarelas voladas</strong> ancladas a media altura de las rocas, para una ida y vuelta de una hora como máximo hasta la cascada de Grésy. El sitio está clasificado como patrimonio nacional.</p><p>Junto a la cascada se alza una <strong>estela erigida por la reina Hortensia en 1813</strong>, al lado de edificios industriales restaurados — aserradero, molinos, prensa de aceite. El acceso es libre, todo el año, todos los días; el aparcamiento está en la route des Bauges, y la entrada se encuentra a 10-20 minutos a pie de una parada de autobús. La oficina de turismo anuncia el recorrido accesible en silla de ruedas de forma autónoma — una rareza para un sitio de gargantas.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuito",
+        "best_season": "Todo el año",
+        "commune": "Grésy-sur-Aix",
+        "dogs": null,
+        "parking": "Route des Bauges",
+        "stroller": "Recorrido accesible (silla de ruedas de forma autónoma según la oficina de turismo)",
+        "type": "Gargantas y cascada",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Una hora de ida y vuelta como máximo hasta la cascada de Grésy, según la oficina de turismo.",
+          "q": "¿Cuánto dura la visita?"
+        },
+        {
+          "a": "Sí — la oficina de turismo de Aix-les-Bains Riviera des Alpes lo anuncia « accesible en silla de ruedas de forma autónoma ». Es excepcional para unas gargantas.",
+          "q": "¿Es el sitio accesible en silla de ruedas?"
+        },
+        {
+          "a": "Una estela erigida en 1813 por la reina Hortensia junto a la cascada de Grésy, al lado de los edificios industriales restaurados: aserradero, molinos, prensa de aceite.",
+          "q": "¿Qué es la estela de la reina Hortensia?"
+        },
+        {
+          "a": "Desde el verano de 2021: el cañón, cerrado durante mucho tiempo, fue rehabilitado por la comunidad de aglomeración Grand Lac. El sitio está clasificado como patrimonio nacional.",
+          "q": "¿Desde cuándo se pueden visitar las gargantas?"
+        },
+        {
+          "a": "La entrada está a 10-20 minutos a pie de una parada de autobús, según la oficina de turismo. En coche, aparcamiento en la route des Bauges.",
+          "q": "¿Cómo ir sin coche?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratuito · Todo el año",
+        "lead": "Cerrado durante décadas, el cañón del Sierroz reabrió en el verano de 2021: dos pasarelas ancladas a media altura de las paredes llevan a la cascada de Grésy en una hora de ida y vuelta como máximo."
+      },
+      "hero_alt": "Pasarelas de las gargantas del Sierroz hacia la cascada de Grésy, Grésy-sur-Aix, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Desde Aix-les-Bains, dirección Grésy-sur-Aix; aparcamiento en la route des Bauges.",
+        "public_transport": "Parada de autobús a 10-20 minutos a pie de la entrada (oficina de turismo)."
+      },
+      "meta_description": "Cañón rehabilitado reabierto en 2021: pasarelas voladas hasta la cascada de Grésy y su estela de la reina Hortensia (1813). Gratuito, todo el año, accesible en silla de ruedas.",
+      "meta_title": "Gorges du Sierroz · Pasarelas, cascada de Grésy, gratuito",
+      "name": "Gargantas del Sierroz y cascada de Grésy",
+      "name_alternates": [
+        "Cascade de Grésy"
+      ],
+      "practical_info": [
+        {
+          "k": "Dirección",
+          "v": "Route des Bauges, 73100 Grésy-sur-Aix"
+        },
+        {
+          "k": "Horarios",
+          "v": "Todo el año, todos los días — acceso libre"
+        },
+        {
+          "k": "Duración",
+          "v": "1h de ida y vuelta como máximo"
+        },
+        {
+          "k": "Accesibilidad",
+          "v": "Silla de ruedas de forma autónoma (fuente: oficina de turismo)"
+        },
+        {
+          "k": "Patrimonio",
+          "v": "Sitio clasificado; estela de la reina Hortensia (1813), aserradero, molinos, prensa restaurados"
+        }
+      ],
+      "schema_amenities": [
+        "Pasarelas aseguradas",
+        "Accesible PMR",
+        "Aparcamiento"
+      ],
+      "when_to_visit": "<p>Abierto todo el año, todos los días, con acceso libre. El caudal del Sierroz es más espectacular después de las lluvias y durante el deshielo.</p>"
+    },
     "fr": {
       "activities": [
         {
@@ -201,6 +379,184 @@
         "Parking"
       ],
       "when_to_visit": "<p>Ouvert toute l'année, tous les jours, en accès libre. Le débit du Sierroz est plus spectaculaire après les pluies et à la fonte.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Percorso su due passerelle a sbalzo a mezza altezza delle pareti, fino alla cascata di Grésy e alla sua stele del 1813.",
+          "tag": "≤1h a/r",
+          "title": "Percorso delle passerelle"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Le <strong>gole del Sierroz</strong> sono un canyon riqualificato dalla comunità d'agglomerazione Grand Lac e aperto al pubblico dall'estate 2021, dopo decenni di chiusura. Il percorso segue due <strong>passerelle a sbalzo</strong> agganciate a mezza altezza delle rocce, per un'andata e ritorno di un'ora al massimo fino alla cascata di Grésy. Il sito è classificato patrimonio nazionale.</p><p>Presso la cascata si erge una <strong>stele fatta erigere dalla reine Hortense nel 1813</strong>, accanto a edifici industriali restaurati — segheria, mulini, frantoio. L'accesso è libero, tutto l'anno, tutti i giorni; il parcheggio è in route des Bauges e l'ingresso si trova a 10-20 minuti a piedi da una fermata dell'autobus. L'ufficio del turismo annuncia il percorso accessibile in sedia a rotelle in autonomia — una rarità per un sito di gole.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuito",
+        "best_season": "Tutto l'anno",
+        "commune": "Grésy-sur-Aix",
+        "dogs": null,
+        "parking": "Route des Bauges",
+        "stroller": "Percorso accessibile (sedia a rotelle in autonomia secondo l'ufficio del turismo)",
+        "type": "Gole e cascata",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Un'ora andata e ritorno al massimo fino alla cascata di Grésy, secondo l'ufficio del turismo.",
+          "q": "Quanto dura la visita?"
+        },
+        {
+          "a": "Sì — l'ufficio del turismo di Aix-les-Bains Riviera des Alpes lo annuncia « accessibile in sedia a rotelle in autonomia ». Un fatto eccezionale per delle gole.",
+          "q": "Il sito è accessibile in sedia a rotelle?"
+        },
+        {
+          "a": "Una stele fatta erigere nel 1813 dalla reine Hortense presso la cascata di Grésy, accanto agli edifici industriali restaurati: segheria, mulini, frantoio.",
+          "q": "Che cos'è la stele della reine Hortense?"
+        },
+        {
+          "a": "Dall'estate 2021: il canyon, a lungo chiuso, è stato riqualificato dalla comunità d'agglomerazione Grand Lac. Il sito è classificato patrimonio nazionale.",
+          "q": "Da quando si possono visitare le gole?"
+        },
+        {
+          "a": "L'ingresso è a 10-20 minuti a piedi da una fermata dell'autobus, secondo l'ufficio del turismo. In auto, parcheggio in route des Bauges.",
+          "q": "Come arrivarci senza auto?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratuito · Tutto l'anno",
+        "lead": "Chiuso per decenni, il canyon del Sierroz ha riaperto nell'estate 2021: due passerelle agganciate a mezza altezza delle pareti portano alla cascata di Grésy in un'ora andata e ritorno al massimo."
+      },
+      "hero_alt": "Passerelle delle gole del Sierroz verso la cascata di Grésy, Grésy-sur-Aix, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Da Aix-les-Bains, direzione Grésy-sur-Aix; parcheggio in route des Bauges.",
+        "public_transport": "Fermata dell'autobus a 10-20 minuti a piedi dall'ingresso (ufficio del turismo)."
+      },
+      "meta_description": "Canyon riqualificato riaperto nel 2021: passerelle a sbalzo fino alla cascata di Grésy e alla stele della reine Hortense (1813). Gratuito, tutto l'anno, accessibile in sedia a rotelle.",
+      "meta_title": "Gorges du Sierroz · Passerelle, cascata di Grésy, gratuito",
+      "name": "Gole del Sierroz e cascata di Grésy",
+      "name_alternates": [
+        "Cascade de Grésy"
+      ],
+      "practical_info": [
+        {
+          "k": "Indirizzo",
+          "v": "Route des Bauges, 73100 Grésy-sur-Aix"
+        },
+        {
+          "k": "Orari",
+          "v": "Tutto l'anno, tutti i giorni — accesso libero"
+        },
+        {
+          "k": "Durata",
+          "v": "1h andata e ritorno al massimo"
+        },
+        {
+          "k": "Accessibilità",
+          "v": "Sedia a rotelle in autonomia (fonte: ufficio del turismo)"
+        },
+        {
+          "k": "Patrimonio",
+          "v": "Sito classificato; stele della reine Hortense (1813), segheria, mulini, frantoio restaurati"
+        }
+      ],
+      "schema_amenities": [
+        "Passerelle messe in sicurezza",
+        "Accessibile ai disabili",
+        "Parcheggio"
+      ],
+      "when_to_visit": "<p>Aperto tutto l'anno, tutti i giorni, ad accesso libero. La portata del Sierroz è più spettacolare dopo le piogge e durante il disgelo.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Route over twee uitkragende loopbruggen halverwege de rotswanden, tot aan de cascade de Grésy en zijn gedenksteen uit 1813.",
+          "tag": "≤1u heen en terug",
+          "title": "Route over de loopbruggen"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>gorges du Sierroz</strong> zijn een kloof die door de agglomeratiegemeenschap Grand Lac werd hersteld en sinds de zomer van 2021 voor het publiek open is, na tientallen jaren van sluiting. De route loopt over twee <strong>uitkragende loopbruggen</strong> die halverwege de rotsen hangen, voor een heen-en-terugwandeling van maximaal een uur tot aan de cascade de Grésy. Het terrein is geklasseerd als nationaal erfgoed.</p><p>Bij de waterval staat een <strong>gedenksteen die reine Hortense in 1813 liet oprichten</strong>, naast gerestaureerde industriële gebouwen — zagerij, molens, oliepers. De toegang is vrij, het hele jaar, alle dagen; de parkeerplaats ligt aan de route des Bauges, en de ingang bevindt zich op 10-20 minuten lopen van een bushalte. Het toeristenbureau kondigt de route aan als zelfstandig toegankelijk met een rolstoel — een zeldzaamheid voor een kloofterrein.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": "Het hele jaar",
+        "commune": "Grésy-sur-Aix",
+        "dogs": null,
+        "parking": "Route des Bauges",
+        "stroller": "Toegankelijke route (zelfstandig met rolstoel volgens het toeristenbureau)",
+        "type": "Kloof en waterval",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Maximaal een uur heen en terug tot aan de cascade de Grésy, volgens het toeristenbureau.",
+          "q": "Hoe lang duurt het bezoek?"
+        },
+        {
+          "a": "Ja — het toeristenbureau van Aix-les-Bains Riviera des Alpes kondigt de route aan als „zelfstandig toegankelijk met een rolstoel”. Dat is uitzonderlijk voor een kloof.",
+          "q": "Is het terrein toegankelijk met een rolstoel?"
+        },
+        {
+          "a": "Een gedenksteen die in 1813 door reine Hortense werd opgericht bij de cascade de Grésy, naast de gerestaureerde industriële gebouwen: zagerij, molens, oliepers.",
+          "q": "Wat is de gedenksteen van reine Hortense?"
+        },
+        {
+          "a": "Sinds de zomer van 2021: de lang gesloten kloof werd hersteld door de agglomeratiegemeenschap Grand Lac. Het terrein is geklasseerd als nationaal erfgoed.",
+          "q": "Sinds wanneer kan men de kloof bezoeken?"
+        },
+        {
+          "a": "De ingang ligt op 10-20 minuten lopen van een bushalte, volgens het toeristenbureau. Met de auto: parkeerplaats aan de route des Bauges.",
+          "q": "Hoe komt men er zonder auto?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratis · Het hele jaar",
+        "lead": "Na tientallen jaren van sluiting ging de kloof van de Sierroz in de zomer van 2021 weer open: twee loopbruggen halverwege de rotswanden leiden in maximaal een uur heen en terug naar de cascade de Grésy."
+      },
+      "hero_alt": "Loopbruggen van de gorges du Sierroz naar de cascade de Grésy, Grésy-sur-Aix, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Vanuit Aix-les-Bains, richting Grésy-sur-Aix; parkeerplaats aan de route des Bauges.",
+        "public_transport": "Bushalte op 10-20 minuten lopen van de ingang (toeristenbureau)."
+      },
+      "meta_description": "Herstelde kloof, heropend in 2021: uitkragende loopbruggen tot aan de cascade de Grésy en de gedenksteen van reine Hortense (1813). Gratis, het hele jaar, rolstoeltoegankelijk.",
+      "meta_title": "Gorges du Sierroz · Loopbruggen, cascade de Grésy, gratis",
+      "name": "Gorges du Sierroz en cascade de Grésy",
+      "name_alternates": [
+        "Cascade de Grésy"
+      ],
+      "practical_info": [
+        {
+          "k": "Adres",
+          "v": "Route des Bauges, 73100 Grésy-sur-Aix"
+        },
+        {
+          "k": "Openingstijden",
+          "v": "Het hele jaar, alle dagen — vrije toegang"
+        },
+        {
+          "k": "Duur",
+          "v": "Maximaal 1u heen en terug"
+        },
+        {
+          "k": "Toegankelijkheid",
+          "v": "Zelfstandig met rolstoel (bron: toeristenbureau)"
+        },
+        {
+          "k": "Erfgoed",
+          "v": "Geklasseerd terrein; gedenksteen van reine Hortense (1813), gerestaureerde zagerij, molens en pers"
+        }
+      ],
+      "schema_amenities": [
+        "Beveiligde loopbruggen",
+        "Toegankelijk voor mindervaliden",
+        "Parkeerplaats"
+      ],
+      "when_to_visit": "<p>Het hele jaar open, alle dagen, met vrije toegang. Het debiet van de Sierroz is het meest spectaculair na regen en tijdens de smeltperiode.</p>"
     }
   },
   "latitude": 45.719531,

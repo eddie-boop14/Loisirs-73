@@ -24,6 +24,86 @@
   "hero_credit": null,
   "hero_image": "/img/generique/generique-cascade.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Rundweg ab Chaffardon zum Aussichtspunkt über dem 60 m hohen Wasserfall — Felsband und drahtseilversicherte Passage, mittleres Niveau.",
+          "tag": "≈1h",
+          "title": "Rundweg zum Aussichtspunkt der la Doria"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>grande cascade de la Doria</strong> stürzt <strong>60 Meter</strong> in den Bauges in die Tiefe, oberhalb von Chambéry. Der Rundweg startet am Parkplatz Chaffardon, Route de Lovettaz in Saint-Jean-d'Arvey, und erreicht in etwa einer Stunde einen Aussichtspunkt über dem Wasserfall. Die beiden offiziellen Quellen nennen nicht ganz dieselben Zahlen — 2,2 km und +113 m bei Chambéry Montagnes, 2,4 km und +119 m beim Parc des Bauges — wir lassen beide stehen.</p><p>Diese Runde sollte man nicht unterschätzen: Der Parc weist auf ein <strong>Felsband</strong> am oberen Weg und dann eine <strong>drahtseilversicherte Passage</strong> im Abstieg hin und rät bei feuchtem Wetter von der Route ab, da sie rutschig wird. Dafür beschert starker Regen der la Doria eine außergewöhnliche Wasserführung — der beste Moment ist kurz danach, bei trockenem Weg.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Kostenlos",
+        "best_season": "1. Mai – 31. Oktober",
+        "commune": "Saint-Jean-d'Arvey",
+        "dogs": null,
+        "parking": "Parkplatz Chaffardon, Route de Lovettaz",
+        "stroller": "Nicht für Kinderwagen geeignet (Parc)",
+        "type": "Wasserfall",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "Sie verlangt Trittsicherheit: Felsband am oberen Weg, drahtseilversicherte Passage im Abstieg. Der Parc des Bauges rät bei feuchtem Wetter davon ab, da die Route rutschig wird.",
+          "q": "Ist der Rundweg gefährlich?"
+        },
+        {
+          "a": "Die offiziellen Quellen widersprechen sich leicht: 2,2 km und +113 m laut Chambéry Montagnes, 2,4 km und +119 m laut Parc des Bauges. Rechnen Sie in beiden Fällen mit einer Stunde.",
+          "q": "Wie lang ist der Rundweg genau?"
+        },
+        {
+          "a": "Nach starken Regenfällen: Der Parc gibt an, dass sie der la Doria eine außergewöhnliche Wasserführung bescheren. Danach abwarten, bis der Weg trocken ist.",
+          "q": "Wann ist der Wasserfall am schönsten?"
+        },
+        {
+          "a": "Vom Parkplatz Chaffardon, Route de Lovettaz, in Saint-Jean-d'Arvey. Route geöffnet vom 1. Mai bis 31. Oktober, je nach Schneelage und Wetter.",
+          "q": "Wo startet man?"
+        }
+      ],
+      "hero": {
+        "badge": "60 m · Runde 1h",
+        "lead": "Die la Doria stürzt 60 Meter oberhalb des Talkessels von Chambéry in die Tiefe. Ein einstündiger Rundweg führt zum Aussichtspunkt — mit Felsband und drahtseilversicherter Passage, bei feuchtem Wetter zu meiden."
+      },
+      "hero_alt": "Grande cascade de la Doria, Saint-Jean-d'Arvey, Massif des Bauges, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Von Chambéry über die D912 nach Saint-Jean-d'Arvey; Parkplatz Chaffardon, Route de Lovettaz.",
+        "public_transport": null
+      },
+      "meta_description": "60 m hoher Wasserfall oberhalb von Chambéry: einstündiger Rundweg ab dem Parkplatz Chaffardon, mit Felsband und drahtseilversicherter Passage. Kostenlos, vom 1. Mai bis 31. Oktober, bei feuchtem Wetter nicht zu empfehlen.",
+      "meta_title": "Grande cascade de la Doria · Runde 1h, Seilpassagen",
+      "name": "Grande cascade de la Doria",
+      "name_alternates": [
+        "Cascade de la Doria"
+      ],
+      "practical_info": [
+        {
+          "k": "Start",
+          "v": "Parkplatz Chaffardon, Route de Lovettaz, 73230 Saint-Jean-d'Arvey"
+        },
+        {
+          "k": "Rundweg",
+          "v": "2,2 km/+113 m (Fremdenverkehrsamt) oder 2,4 km/+119 m (Parc) · ≈1h — die Quellen weichen voneinander ab"
+        },
+        {
+          "k": "Saison",
+          "v": "Vom 1. Mai bis 31. Oktober, je nach Schnee und Wetter"
+        },
+        {
+          "k": "Vorsicht",
+          "v": "Felsband + drahtseilversicherte Passage; bei feuchtem Wetter nicht zu empfehlen; nicht für Kinderwagen geeignet"
+        }
+      ],
+      "schema_amenities": [
+        "Markierter Weg",
+        "Aussichtspunkt"
+      ],
+      "when_to_visit": "<p>Vom 1. Mai bis 31. Oktober. Nach starken Regenfällen ist die Wasserführung außergewöhnlich — die Route mit Seilpassage und Felsband geht man aber nur bei trockenem Weg.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -104,6 +184,86 @@
       ],
       "when_to_visit": "<p>1 May to 31 October. The flow is exceptional after heavy rain — but the cabled, corniche route wants a dry trail.</p>"
     },
+    "es": {
+      "activities": [
+        {
+          "description": "Circuito desde Chaffardon hasta el mirador que domina el salto de 60 m — cornisa y tramo equipado con cable, nivel intermedio.",
+          "tag": "≈1h",
+          "title": "Circuito del mirador de la Doria"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>grande cascade de la Doria</strong> cae desde <strong>60 metros</strong> en los Bauges, por encima de Chambéry. El circuito parte del aparcamiento de Chaffardon, route de Lovettaz en Saint-Jean-d'Arvey, y llega en una hora aproximadamente a un mirador que domina el salto. Las dos fuentes oficiales no dan exactamente las mismas cifras — 2,2 km y +113 m según Chambéry Montagnes, 2,4 km y +119 m según el Parc des Bauges — así que dejamos ambas.</p><p>No es un paseo que convenga subestimar: el Parc señala un <strong>tramo en cornisa</strong> en el sendero superior y luego un <strong>tramo equipado con cable</strong> en el descenso, y desaconseja el itinerario con tiempo húmedo, porque se vuelve resbaladizo. A cambio, los periodos de lluvias intensas dan a la Doria un caudal excepcional: el mejor momento para verla es justo después, con el sendero seco.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuito",
+        "best_season": "1 de mayo – 31 de octubre",
+        "commune": "Saint-Jean-d'Arvey",
+        "dogs": null,
+        "parking": "Aparcamiento de Chaffardon, route de Lovettaz",
+        "stroller": "No apto para cochecitos de bebé (Parc)",
+        "type": "Cascada",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "Exige pisar con seguridad: tramo en cornisa en el sendero superior y tramo equipado con cable en el descenso. El Parc des Bauges la desaconseja con tiempo húmedo, porque se vuelve resbaladiza.",
+          "q": "¿Es peligroso el circuito?"
+        },
+        {
+          "a": "Las fuentes oficiales se contradicen ligeramente: 2,2 km y +113 m según Chambéry Montagnes, 2,4 km y +119 m según el Parc des Bauges. Cuente una hora en ambos casos.",
+          "q": "¿Cuál es la longitud exacta del circuito?"
+        },
+        {
+          "a": "Después de lluvias intensas: el Parc indica que dan a la Doria un caudal excepcional. Espere luego a que el sendero esté seco para ir.",
+          "q": "¿Cuándo está más bonita la cascada?"
+        },
+        {
+          "a": "Desde el aparcamiento de Chaffardon, route de Lovettaz, en Saint-Jean-d'Arvey. Itinerario abierto del 1 de mayo al 31 de octubre, según las condiciones de nieve y meteorología.",
+          "q": "¿Desde dónde se sale?"
+        }
+      ],
+      "hero": {
+        "badge": "60 m · Circuito 1h",
+        "lead": "La Doria cae desde 60 metros por encima del valle de Chambéry. Un circuito de una hora lleva al mirador — cornisa y tramo con cable incluidos, a evitar con tiempo húmedo."
+      },
+      "hero_alt": "Grande cascade de la Doria, Saint-Jean-d'Arvey, macizo de los Bauges, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Desde Chambéry, D912 hacia Saint-Jean-d'Arvey; aparcamiento de Chaffardon, route de Lovettaz.",
+        "public_transport": null
+      },
+      "meta_description": "Salto de 60 m por encima de Chambéry: circuito de 1h desde el aparcamiento de Chaffardon, con tramo en cornisa y tramo equipado con cable. Gratuito, del 1 de mayo al 31 de octubre, desaconsejado con tiempo húmedo.",
+      "meta_title": "Grande cascade de la Doria · Circuito 1h, tramos con cable",
+      "name": "Grande cascade de la Doria",
+      "name_alternates": [
+        "Cascade de la Doria"
+      ],
+      "practical_info": [
+        {
+          "k": "Salida",
+          "v": "Aparcamiento de Chaffardon, route de Lovettaz, 73230 Saint-Jean-d'Arvey"
+        },
+        {
+          "k": "Circuito",
+          "v": "2,2 km/+113 m (of. de turismo) o 2,4 km/+119 m (Parc) · ≈1h — las fuentes divergen"
+        },
+        {
+          "k": "Temporada",
+          "v": "Del 1 de mayo al 31 de octubre, según nieve y meteorología"
+        },
+        {
+          "k": "Precaución",
+          "v": "Cornisa + tramo con cable; desaconsejado con tiempo húmedo; no apto para cochecitos de bebé"
+        }
+      ],
+      "schema_amenities": [
+        "Sendero señalizado",
+        "Mirador"
+      ],
+      "when_to_visit": "<p>Del 1 de mayo al 31 de octubre. El caudal es excepcional tras lluvias intensas — pero el itinerario, con cable y en cornisa, se hace con el sendero seco.</p>"
+    },
     "fr": {
       "activities": [
         {
@@ -183,6 +343,166 @@
         "Belvédère"
       ],
       "when_to_visit": "<p>Du 1er mai au 31 octobre. Le débit est exceptionnel après de fortes pluies — mais l'itinéraire, câblé et en corniche, se fait sur sentier sec.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Anello in partenza da Chaffardon verso il belvedere che domina il salto di 60 m — cengia e tratto attrezzato con cavo, livello intermedio.",
+          "tag": "≈1h",
+          "title": "Anello del belvedere de la Doria"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>grande cascata de la Doria</strong> precipita per <strong>60 metri</strong> nelle Bauges, sopra Chambéry. L'anello parte dal parcheggio di Chaffardon, route de Lovettaz a Saint-Jean-d'Arvey, e raggiunge in circa un'ora un belvedere che domina il salto. Le due fonti ufficiali non danno esattamente gli stessi numeri — 2,2 km e +113 m per Chambéry Montagnes, 2,4 km e +119 m per il Parc des Bauges — li riportiamo entrambi.</p><p>Non è una passeggiata da sottovalutare: il Parco segnala un <strong>tratto in cengia</strong> sul sentiero superiore e poi un <strong>tratto attrezzato con cavo</strong> in discesa, e sconsiglia l'itinerario con tempo umido, perché diventa scivoloso. In compenso, i periodi di forte pioggia regalano alla Doria una portata eccezionale — il momento migliore per vederla è subito dopo, su sentiero asciutto.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuito",
+        "best_season": "1° maggio – 31 ottobre",
+        "commune": "Saint-Jean-d'Arvey",
+        "dogs": null,
+        "parking": "Parcheggio di Chaffardon, route de Lovettaz",
+        "stroller": "Non adatto ai passeggini (Parco)",
+        "type": "Cascata",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "Richiede piede sicuro: tratto in cengia sul sentiero superiore, tratto attrezzato con cavo in discesa. Il Parc des Bauges la sconsiglia con tempo umido, perché diventa scivolosa.",
+          "q": "L'anello è pericoloso?"
+        },
+        {
+          "a": "Le fonti ufficiali si contraddicono leggermente: 2,2 km e +113 m secondo Chambéry Montagnes, 2,4 km e +119 m secondo il Parc des Bauges. Contate un'ora in entrambi i casi.",
+          "q": "Qual è la lunghezza esatta dell'anello?"
+        },
+        {
+          "a": "Dopo forti piogge: il Parco indica che regalano alla Doria una portata eccezionale. Aspettate poi un sentiero asciutto per andarci.",
+          "q": "Quando la cascata è più bella?"
+        },
+        {
+          "a": "Dal parcheggio di Chaffardon, route de Lovettaz, a Saint-Jean-d'Arvey. Itinerario aperto dal 1° maggio al 31 ottobre, secondo le condizioni di innevamento e meteo.",
+          "q": "Da dove si parte?"
+        }
+      ],
+      "hero": {
+        "badge": "60 m · Anello 1h",
+        "lead": "La Doria precipita per 60 metri sopra la valle di Chambéry. Un anello di un'ora porta al belvedere — cengia e tratto attrezzato con cavo compresi, da evitare con tempo umido."
+      },
+      "hero_alt": "Grande cascata de la Doria, Saint-Jean-d'Arvey, massiccio delle Bauges, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Da Chambéry, D912 verso Saint-Jean-d'Arvey; parcheggio di Chaffardon, route de Lovettaz.",
+        "public_transport": null
+      },
+      "meta_description": "Salto di 60 m sopra Chambéry: anello di 1h dal parcheggio di Chaffardon, con tratto in cengia e tratto attrezzato con cavo. Gratuito, dal 1° maggio al 31 ottobre, sconsigliato con tempo umido.",
+      "meta_title": "Grande cascade de la Doria · Anello 1h, tratti attrezzati",
+      "name": "Grande cascade de la Doria",
+      "name_alternates": [
+        "Cascade de la Doria"
+      ],
+      "practical_info": [
+        {
+          "k": "Partenza",
+          "v": "Parcheggio di Chaffardon, route de Lovettaz, 73230 Saint-Jean-d'Arvey"
+        },
+        {
+          "k": "Anello",
+          "v": "2,2 km/+113 m (ufficio del turismo) o 2,4 km/+119 m (Parco) · ≈1h — le fonti divergono"
+        },
+        {
+          "k": "Stagione",
+          "v": "Dal 1° maggio al 31 ottobre, secondo neve e meteo"
+        },
+        {
+          "k": "Prudenza",
+          "v": "Cengia + tratto attrezzato con cavo; sconsigliato con tempo umido; non adatto ai passeggini"
+        }
+      ],
+      "schema_amenities": [
+        "Sentiero segnalato",
+        "Belvedere"
+      ],
+      "when_to_visit": "<p>Dal 1° maggio al 31 ottobre. La portata è eccezionale dopo forti piogge — ma l'itinerario, attrezzato e in cengia, va percorso su sentiero asciutto.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Rondwandeling vanaf Chaffardon naar het uitzichtpunt boven de 60 m hoge waterval — richelpassage en met kabels gezekerd stuk, gemiddeld niveau.",
+          "tag": "≈1u",
+          "title": "Rondwandeling naar het uitzichtpunt van la Doria"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>grande cascade de la Doria</strong> stort <strong>60 meter</strong> naar beneden in de Bauges, boven Chambéry. De rondwandeling vertrekt vanaf de parkeerplaats van Chaffardon, route de Lovettaz in Saint-Jean-d'Arvey, en bereikt in ongeveer een uur een uitzichtpunt boven de waterval. De twee officiële bronnen geven niet helemaal dezelfde cijfers — 2,2 km en +113 m volgens Chambéry Montagnes, 2,4 km en +119 m volgens het Parc des Bauges — we vermelden ze allebei.</p><p>Onderschat deze wandeling niet: het Parc wijst op een <strong>passage langs een richel</strong> op het bovenste pad en daarna een <strong>met kabels gezekerd stuk</strong> in de afdaling, en raadt de route af bij vochtig weer, omdat ze dan glad wordt. Daar staat tegenover dat periodes van zware regen la Doria een uitzonderlijk debiet geven — het beste moment om haar te zien is net daarna, op een droog pad.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": "1 mei – 31 oktober",
+        "commune": "Saint-Jean-d'Arvey",
+        "dogs": null,
+        "parking": "Parkeerplaats van Chaffardon, route de Lovettaz",
+        "stroller": "Niet geschikt voor kinderwagens (Parc)",
+        "type": "Waterval",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "Ze vraagt vaste voeten: een passage langs een richel op het bovenste pad, een met kabels gezekerd stuk in de afdaling. Het Parc des Bauges raadt de route af bij vochtig weer, omdat ze dan glad wordt.",
+          "q": "Is de rondwandeling gevaarlijk?"
+        },
+        {
+          "a": "De officiële bronnen spreken elkaar licht tegen: 2,2 km en +113 m volgens Chambéry Montagnes, 2,4 km en +119 m volgens het Parc des Bauges. Reken in beide gevallen op een uur.",
+          "q": "Hoe lang is de rondwandeling precies?"
+        },
+        {
+          "a": "Na zware regenval: het Parc geeft aan dat die la Doria een uitzonderlijk debiet geeft. Wacht daarna wel op een droog pad om erheen te gaan.",
+          "q": "Wanneer is de waterval het mooist?"
+        },
+        {
+          "a": "Vanaf de parkeerplaats van Chaffardon, route de Lovettaz, in Saint-Jean-d'Arvey. Route open van 1 mei tot 31 oktober, afhankelijk van sneeuw en weersomstandigheden.",
+          "q": "Waar vertrekt men?"
+        }
+      ],
+      "hero": {
+        "badge": "60 m · Rondwandeling 1u",
+        "lead": "La Doria stort 60 meter naar beneden boven de bergengte van Chambéry. Een rondwandeling van een uur leidt naar het uitzichtpunt — inclusief richel en met kabels gezekerd stuk, te vermijden bij vochtig weer."
+      },
+      "hero_alt": "Grande cascade de la Doria, Saint-Jean-d'Arvey, massief van de Bauges, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Vanuit Chambéry, D912 richting Saint-Jean-d'Arvey; parkeerplaats van Chaffardon, route de Lovettaz.",
+        "public_transport": null
+      },
+      "meta_description": "Waterval van 60 m boven Chambéry: rondwandeling van 1u vanaf de parkeerplaats van Chaffardon, met een richelpassage en een met kabels gezekerd stuk. Gratis, van 1 mei tot 31 oktober, afgeraden bij vochtig weer.",
+      "meta_title": "Grande cascade de la Doria · Rondwandeling 1u, gezekerde passages",
+      "name": "Grande cascade de la Doria",
+      "name_alternates": [
+        "Cascade de la Doria"
+      ],
+      "practical_info": [
+        {
+          "k": "Vertrekpunt",
+          "v": "Parkeerplaats van Chaffardon, route de Lovettaz, 73230 Saint-Jean-d'Arvey"
+        },
+        {
+          "k": "Rondwandeling",
+          "v": "2,2 km/+113 m (toeristenbureau) of 2,4 km/+119 m (Parc) · ≈1u — de bronnen lopen uiteen"
+        },
+        {
+          "k": "Seizoen",
+          "v": "Van 1 mei tot 31 oktober, afhankelijk van sneeuw en weer"
+        },
+        {
+          "k": "Voorzichtigheid",
+          "v": "Richel + met kabels gezekerd stuk; afgeraden bij vochtig weer; niet geschikt voor kinderwagens"
+        }
+      ],
+      "schema_amenities": [
+        "Bewegwijzerd pad",
+        "Uitzichtpunt"
+      ],
+      "when_to_visit": "<p>Van 1 mei tot 31 oktober. Het debiet is uitzonderlijk na zware regenval — maar de route, met kabels en richel, doet u op een droog pad.</p>"
     }
   },
   "latitude": null,

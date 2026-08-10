@@ -24,6 +24,85 @@
   "hero_credit": null,
   "hero_image": "/img/generique/generique-cascade.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Offizielle Route des Parc des Bauges, sehr leicht, ab Attilly oder dem Badesee von Le Châtelard. Der Abschnitt um den See ist für alle zugänglich.",
+          "tag": "7,5 km · ≈2h",
+          "title": "Rundweg zur Cascade du Pissieu"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>Cascade du Pissieu</strong> ist eine Kalktuffquelle: eine Quelle, an der Calcit ausfällt und sich Mineralisches und Pflanzliches mischen. Der Parc naturel régional des Bauges, der die Route veröffentlicht, weist darauf hin, dass ihre Schüttung nie versiegt — die Karstquelle ist mit dem Höhlensystem der <strong>Tanne du Cochon</strong> verbunden, einem der tiefsten Schächte der Savoie mit 825 m Höhenunterschied.</p><p>Der offizielle Rundweg des Parks ist <strong>7,5 km lang, etwa 2 Stunden</strong>, als sehr leicht eingestuft, ab dem Parkplatz Nant d'Aillon in Attilly oder ab dem Badesee von Le Châtelard. Eine kleine administrative Feinheit, die wir so stehen lassen: Das Tourenblatt des Parks führt die Route unter Aillon-le-Vieux, während das IGN den Wasserfall in Le Châtelard verortet — und ihn « Pissieux » schreibt. Die Schüttung kann zur Schneeschmelze oder nach einem Gewitter beeindruckend sein.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Kostenlos",
+        "best_season": "Maximale Schüttung zur Schmelze und nach Gewittern",
+        "commune": "Le Châtelard",
+        "dogs": null,
+        "parking": "Parkplatz Nant d'Aillon (Attilly) oder Badesee von Le Châtelard",
+        "stroller": "Abschnitt am See für alle zugänglich (Park); nicht der Weg zum Wasserfall",
+        "type": "Tuffkaskade"
+      },
+      "faq": [
+        {
+          "a": "Nein: Der offizielle Rundweg des Parc des Bauges ist 7,5 km lang, dauert etwa 2 Stunden und ist als « sehr leicht » eingestuft, ab dem Parkplatz Nant d'Aillon in Attilly oder ab dem Badesee von Le Châtelard.",
+          "q": "Ist die Wanderung schwierig?"
+        },
+        {
+          "a": "Weil sie von einer Karstquelle gespeist wird, die mit dem Höhlensystem der Tanne du Cochon verbunden ist, einem der tiefsten Schächte der Savoie (825 m Höhenunterschied). Der Park weist darauf hin, dass die Schüttung nie versiegt.",
+          "q": "Warum fällt der Wasserfall nie trocken?"
+        },
+        {
+          "a": "Eine Quelle, an der Calcit ausfällt und Tuff bildet: Der Wasserfall baut sein eigenes Gestein auf, zwischen Mineralischem und Pflanzlichem.",
+          "q": "Was ist eine Kalktuffquelle?"
+        },
+        {
+          "a": "Das Tourenblatt des Parks führt die Route unter Aillon-le-Vieux; das IGN verortet den Wasserfall in Le Châtelard (und schreibt « Pissieux »). Die beiden Quellen widersprechen sich — wir weisen darauf hin, statt zu entscheiden.",
+          "q": "In welcher Gemeinde liegt der Wasserfall?"
+        }
+      ],
+      "hero": {
+        "badge": "Rundweg 7,5 km · Kostenlos",
+        "lead": "Eine nie versiegende Karstquelle speist diese Tuffkaskade der Bauges, verbunden mit der Tanne du Cochon — 825 Meter unterirdischer Höhenunterschied."
+      },
+      "hero_alt": "Cascade du Pissieu im Massiv der Bauges, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D912 ins Herz der Bauges; Parkplatz Nant d'Aillon in Attilly oder Badesee von Le Châtelard.",
+        "public_transport": null
+      },
+      "meta_description": "Tuffkaskade der Bauges, gespeist von der Tanne du Cochon, einem der tiefsten Schächte der Savoie (825 m). Sehr leichter Rundweg von 7,5 km, etwa 2h, kostenlos.",
+      "meta_title": "Cascade du Pissieu (Bauges) · Sehr leichter Rundweg, 7,5 km",
+      "name": "Cascade du Pissieu",
+      "name_alternates": [
+        "Cascade du Pissieux"
+      ],
+      "practical_info": [
+        {
+          "k": "Start",
+          "v": "Parkplatz Nant d'Aillon, Attilly — oder Badesee von Le Châtelard"
+        },
+        {
+          "k": "Rundweg",
+          "v": "7,5 km · ≈2h · sehr leicht (Parc des Bauges)"
+        },
+        {
+          "k": "Barrierefreiheit",
+          "v": "Der Abschnitt um den See ist für alle zugänglich; nicht der Weg zum Wasserfall"
+        },
+        {
+          "k": "Schüttung",
+          "v": "Beeindruckend zur Schneeschmelze oder nach einem Gewitter (Park)"
+        }
+      ],
+      "schema_amenities": [
+        "Markierter Weg",
+        "Barrierefreier See"
+      ],
+      "when_to_visit": "<p>Der Park meldet eine beeindruckende Schüttung zur Schneeschmelze und nach Gewittern — die besten Zeiten, um die Tuffkaskade wasserführend zu sehen.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -103,6 +182,85 @@
       ],
       "when_to_visit": "<p>The Parc notes an impressive flow at snowmelt and after storms — the best moments to see the tufière in full water.</p>"
     },
+    "es": {
+      "activities": [
+        {
+          "description": "Itinerario oficial del Parc des Bauges, muy fácil, desde Attilly o el lago del Châtelard. El tramo alrededor del lago es accesible para todos.",
+          "tag": "7,5 km · ≈2h",
+          "title": "Circuito de la Cascade du Pissieu"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>Cascade du Pissieu</strong> es una cascada de toba: un manantial donde la calcita precipita, mezclando lo mineral y lo vegetal. El Parc naturel régional des Bauges, que publica el itinerario, precisa que su caudal nunca se detiene: la surgencia está conectada con la red de la <strong>Tanne du Cochon</strong>, una de las simas más profundas de Savoie, con 825 m de desnivel.</p><p>El circuito oficial del Parc tiene <strong>7,5 km, unas 2 horas</strong>, clasificado como muy fácil, con salida desde el aparcamiento del Nant d'Aillon en Attilly o desde el lago del Châtelard. Una pequeña curiosidad administrativa que dejamos tal cual: la ficha del Parc sitúa el itinerario en Aillon-le-Vieux, mientras que el IGN ubica la cascada en Le Châtelard, y la escribe « Pissieux ». El caudal puede ser impresionante durante el deshielo o después de una tormenta.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuito",
+        "best_season": "Caudal máximo durante el deshielo y tras las tormentas",
+        "commune": "Le Châtelard",
+        "dogs": null,
+        "parking": "Aparcamiento del Nant d'Aillon (Attilly) o lago del Châtelard",
+        "stroller": "Tramo del lago accesible para todos (Parc); no así el sendero de la cascada",
+        "type": "Cascada de toba"
+      },
+      "faq": [
+        {
+          "a": "No: el circuito oficial del Parc des Bauges tiene 7,5 km, unas 2 horas, y está clasificado como « muy fácil », desde el aparcamiento del Nant d'Aillon en Attilly o desde el lago del Châtelard.",
+          "q": "¿Es difícil el paseo?"
+        },
+        {
+          "a": "Porque la alimenta una surgencia conectada con la red kárstica de la Tanne du Cochon, una de las simas más profundas de Savoie (825 m de desnivel). El Parc precisa que el caudal nunca se detiene.",
+          "q": "¿Por qué la cascada nunca se seca?"
+        },
+        {
+          "a": "Un manantial donde la calcita precipita formando toba: la cascada construye su propia roca, entre lo mineral y lo vegetal.",
+          "q": "¿Qué es una cascada de toba?"
+        },
+        {
+          "a": "La ficha del Parc sitúa el itinerario en Aillon-le-Vieux; el IGN ubica la cascada en Le Châtelard (y la escribe « Pissieux »). Las dos fuentes se contradicen: lo señalamos en lugar de zanjar la cuestión.",
+          "q": "¿En qué municipio está la cascada?"
+        }
+      ],
+      "hero": {
+        "badge": "Circuito 7,5 km · Gratuito",
+        "lead": "Una surgencia que nunca se detiene alimenta esta cascada de toba de los Bauges, conectada con la Tanne du Cochon: 825 metros de desnivel subterráneo."
+      },
+      "hero_alt": "Cascade du Pissieu en el macizo de los Bauges, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D912 en el corazón de los Bauges; aparcamiento del Nant d'Aillon en Attilly, o lago del Châtelard.",
+        "public_transport": null
+      },
+      "meta_description": "Cascada de toba de los Bauges alimentada por la Tanne du Cochon, una de las simas más profundas de Savoie (825 m). Circuito muy fácil de 7,5 km, unas 2h, gratuito.",
+      "meta_title": "Cascade du Pissieu (Bauges) · Circuito 7,5 km muy fácil",
+      "name": "Cascade du Pissieu",
+      "name_alternates": [
+        "Cascade du Pissieux"
+      ],
+      "practical_info": [
+        {
+          "k": "Salida",
+          "v": "Aparcamiento del Nant d'Aillon, Attilly — o lago del Châtelard"
+        },
+        {
+          "k": "Circuito",
+          "v": "7,5 km · ≈2h · muy fácil (Parc des Bauges)"
+        },
+        {
+          "k": "Accesibilidad",
+          "v": "El tramo alrededor del lago es accesible para todos; no así el sendero de la cascada"
+        },
+        {
+          "k": "Caudal",
+          "v": "Impresionante durante el deshielo o después de una tormenta (Parc)"
+        }
+      ],
+      "schema_amenities": [
+        "Sendero señalizado",
+        "Lago accesible"
+      ],
+      "when_to_visit": "<p>El Parc señala un caudal impresionante durante el deshielo y después de las tormentas: los mejores momentos para ver la cascada de toba con agua.</p>"
+    },
     "fr": {
       "activities": [
         {
@@ -181,6 +339,164 @@
         "Plan d'eau accessible"
       ],
       "when_to_visit": "<p>Le Parc signale un débit impressionnant à la fonte des neiges et après les orages — les meilleures périodes pour voir la tufière en eau.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Itinerario ufficiale del Parc des Bauges, molto facile, da Attilly o dal laghetto del Châtelard. Il tratto attorno al laghetto è accessibile a tutti.",
+          "tag": "7,5 km · ≈2h",
+          "title": "Anello della Cascade du Pissieu"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>Cascade du Pissieu</strong> è una sorgente pietrificante: un'acqua in cui la calcite precipita, mescolando il minerale e il vegetale. Il Parc naturel régional des Bauges, che pubblica l'itinerario, precisa che la sua portata non si ferma mai — la risorgenza è collegata al sistema della <strong>Tanne du Cochon</strong>, uno degli abissi più profondi della Savoie con 825 m di dislivello.</p><p>L'anello ufficiale del Parco misura <strong>7,5 km, circa 2 ore</strong>, classificato molto facile, in partenza dal parcheggio del Nant d'Aillon ad Attilly o dal laghetto del Châtelard. Piccola sottigliezza amministrativa che lasciamo così com'è: la scheda del Parco colloca l'itinerario sotto Aillon-le-Vieux, mentre l'IGN situa la cascata al Châtelard — e la scrive « Pissieux ». La portata può essere impressionante al disgelo o dopo un temporale.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuito",
+        "best_season": "Portata massima al disgelo e dopo i temporali",
+        "commune": "Le Châtelard",
+        "dogs": null,
+        "parking": "Parcheggio del Nant d'Aillon (Attilly) o laghetto del Châtelard",
+        "stroller": "Tratto del laghetto accessibile a tutti (Parco); non il sentiero della cascata",
+        "type": "Cascata pietrificante"
+      },
+      "faq": [
+        {
+          "a": "No: l'anello ufficiale del Parc des Bauges misura 7,5 km per circa 2 ore ed è classificato « molto facile », dal parcheggio del Nant d'Aillon ad Attilly o dal laghetto del Châtelard.",
+          "q": "La passeggiata è difficile?"
+        },
+        {
+          "a": "Perché è alimentata da una risorgenza legata al sistema carsico della Tanne du Cochon, uno degli abissi più profondi della Savoie (825 m di dislivello). Il Parco precisa che la portata non si ferma mai.",
+          "q": "Perché la cascata non si prosciuga mai?"
+        },
+        {
+          "a": "Una sorgente in cui la calcite precipita formando il tufo calcareo: la cascata costruisce la propria roccia, tra minerale e vegetale.",
+          "q": "Che cos'è una sorgente pietrificante?"
+        },
+        {
+          "a": "La scheda del Parco colloca l'itinerario sotto Aillon-le-Vieux; l'IGN situa la cascata al Châtelard (e la scrive « Pissieux »). Le due fonti si contraddicono — preferiamo segnalarlo piuttosto che decidere.",
+          "q": "In quale comune si trova la cascata?"
+        }
+      ],
+      "hero": {
+        "badge": "Anello 7,5 km · Gratuito",
+        "lead": "Una risorgenza che non si ferma mai alimenta questa cascata pietrificante delle Bauges, collegata alla Tanne du Cochon — 825 metri di dislivello sotterraneo."
+      },
+      "hero_alt": "Cascade du Pissieu nel massiccio delle Bauges, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D912 nel cuore delle Bauges; parcheggio del Nant d'Aillon ad Attilly, o laghetto del Châtelard.",
+        "public_transport": null
+      },
+      "meta_description": "Cascata pietrificante delle Bauges alimentata dalla Tanne du Cochon, uno degli abissi più profondi della Savoie (825 m). Anello molto facile di 7,5 km, circa 2h, gratuito.",
+      "meta_title": "Cascade du Pissieu (Bauges) · Anello 7,5 km molto facile",
+      "name": "Cascade du Pissieu",
+      "name_alternates": [
+        "Cascade du Pissieux"
+      ],
+      "practical_info": [
+        {
+          "k": "Partenza",
+          "v": "Parcheggio del Nant d'Aillon, Attilly — o laghetto del Châtelard"
+        },
+        {
+          "k": "Anello",
+          "v": "7,5 km · ≈2h · molto facile (Parc des Bauges)"
+        },
+        {
+          "k": "Accessibilità",
+          "v": "Il tratto attorno al laghetto è accessibile a tutti; non il sentiero della cascata"
+        },
+        {
+          "k": "Portata",
+          "v": "Impressionante al disgelo o dopo un temporale (Parco)"
+        }
+      ],
+      "schema_amenities": [
+        "Sentiero segnalato",
+        "Laghetto accessibile"
+      ],
+      "when_to_visit": "<p>Il Parco segnala una portata impressionante al disgelo e dopo i temporali — i periodi migliori per vedere la cascata pietrificante in piena attività.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Officiële route van het Parc des Bauges, zeer gemakkelijk, vanaf Attilly of het meertje van Le Châtelard. Het gedeelte rond het meertje is voor iedereen toegankelijk.",
+          "tag": "7,5 km · ≈2u",
+          "title": "Rondwandeling naar de Cascade du Pissieu"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>Cascade du Pissieu</strong> is een tufsteenbron: een bron waar calciet neerslaat en mineraal en plantengroei zich vermengen. Het Parc naturel régional des Bauges, dat de route publiceert, meldt dat het debiet nooit stilvalt — de karstbron staat in verbinding met het stelsel van de <strong>Tanne du Cochon</strong>, een van de diepste grotten van Savoie met 825 m hoogteverschil.</p><p>De officiële rondwandeling van het Parc is <strong>7,5 km, ongeveer 2 uur</strong>, geklasseerd als zeer gemakkelijk, met vertrek vanaf de parkeerplaats Nant d'Aillon in Attilly of vanaf het meertje van Le Châtelard. Een administratief detail dat we laten zoals het is: de fiche van het Parc plaatst de route onder Aillon-le-Vieux, terwijl het IGN de waterval in Le Châtelard situeert — en hem als „Pissieux” spelt. Het debiet kan indrukwekkend zijn bij het smelten van de sneeuw of na een onweersbui.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": "Maximaal debiet bij smeltwater en na onweer",
+        "commune": "Le Châtelard",
+        "dogs": null,
+        "parking": "Parkeerplaats Nant d'Aillon (Attilly) of meertje van Le Châtelard",
+        "stroller": "Gedeelte rond het meertje voor iedereen toegankelijk (Parc); het pad naar de waterval niet",
+        "type": "Tufsteenwaterval"
+      },
+      "faq": [
+        {
+          "a": "Nee: de officiële rondwandeling van het Parc des Bauges is 7,5 km lang, duurt ongeveer 2 uur en is geklasseerd als „zeer gemakkelijk”, vanaf de parkeerplaats Nant d'Aillon in Attilly of vanaf het meertje van Le Châtelard.",
+          "q": "Is de wandeling moeilijk?"
+        },
+        {
+          "a": "Omdat hij wordt gevoed door een karstbron die verbonden is met het ondergrondse stelsel van de Tanne du Cochon, een van de diepste grotten van Savoie (825 m hoogteverschil). Het Parc meldt dat het debiet nooit stilvalt.",
+          "q": "Waarom valt de waterval nooit droog?"
+        },
+        {
+          "a": "Een bron waar calciet neerslaat en tufsteen vormt: de waterval bouwt zijn eigen rots, tussen mineraal en plantengroei in.",
+          "q": "Wat is een tufsteenbron?"
+        },
+        {
+          "a": "De fiche van het Parc plaatst de route onder Aillon-le-Vieux; het IGN situeert de waterval in Le Châtelard (en schrijft „Pissieux”). De twee bronnen spreken elkaar tegen — we vermelden het liever dan een knoop door te hakken.",
+          "q": "In welke gemeente ligt de waterval?"
+        }
+      ],
+      "hero": {
+        "badge": "Rondwandeling 7,5 km · Gratis",
+        "lead": "Een karstbron die nooit stilvalt voedt deze tufsteenwaterval in de Bauges, verbonden met de Tanne du Cochon — 825 meter ondergronds hoogteverschil."
+      },
+      "hero_alt": "Cascade du Pissieu in het massief van de Bauges, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D912 in het hart van de Bauges; parkeerplaats Nant d'Aillon in Attilly, of meertje van Le Châtelard.",
+        "public_transport": null
+      },
+      "meta_description": "Tufsteenwaterval in de Bauges, gevoed door de Tanne du Cochon, een van de diepste grotten van Savoie (825 m). Zeer gemakkelijke rondwandeling van 7,5 km, ongeveer 2u, gratis.",
+      "meta_title": "Cascade du Pissieu (Bauges) · Zeer gemakkelijke rondwandeling van 7,5 km",
+      "name": "Cascade du Pissieu",
+      "name_alternates": [
+        "Cascade du Pissieux"
+      ],
+      "practical_info": [
+        {
+          "k": "Vertrekpunt",
+          "v": "Parkeerplaats Nant d'Aillon, Attilly — of meertje van Le Châtelard"
+        },
+        {
+          "k": "Rondwandeling",
+          "v": "7,5 km · ≈2u · zeer gemakkelijk (Parc des Bauges)"
+        },
+        {
+          "k": "Toegankelijkheid",
+          "v": "Het gedeelte rond het meertje is voor iedereen toegankelijk; het pad naar de waterval niet"
+        },
+        {
+          "k": "Debiet",
+          "v": "Indrukwekkend bij het smelten van de sneeuw of na een onweersbui (Parc)"
+        }
+      ],
+      "schema_amenities": [
+        "Bewegwijzerd pad",
+        "Toegankelijk meertje"
+      ],
+      "when_to_visit": "<p>Het Parc meldt een indrukwekkend debiet bij het smelten van de sneeuw en na onweersbuien — de beste periodes om de tufsteenbron in volle werking te zien.</p>"
     }
   },
   "latitude": 45.677406,

@@ -24,6 +24,83 @@
   "hero_credit": null,
   "hero_image": "/img/generique/generique-cascade.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Markierter Rundweg von 1,5 km und 100 m Höhenunterschied, Niveau Blau, von der Place du Barioz über den Chemin des Bieux.",
+          "tag": "1h30",
+          "title": "Runde de la Fraîche"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>Cascade de la Fraîche</strong> erreicht man vom Ortszentrum von Pralognan-la-Vanoise über einen markierten Rundweg ab der Place du Barioz: Man folgt dem Chemin des Bieux bis zu einer Kehre, an der der ausgeschilderte Pfad beginnt. Das Fremdenverkehrsamt gibt im Schnitt 1h30 an, 1,5 km, 100 m Höhenunterschied, Niveau Blau — ein Familienausflug, kostenlos, Hunde sind erlaubt.</p><p>Ein Hinweis des Fremdenverkehrsamts verdient es, wörtlich wiederholt zu werden: nicht zu früh aufbrechen, denn am frühen Morgen liegt der Wasserfall im Schatten. Die Route ist vom 15. Mai bis 30. Oktober als geöffnet angegeben.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Kostenlos",
+        "best_season": "15. Mai – 30. Oktober",
+        "commune": "Pralognan-la-Vanoise",
+        "dogs": "Erlaubt",
+        "parking": null,
+        "stroller": null,
+        "type": "Wasserfall",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "Nein: Das Fremdenverkehrsamt stuft sie als Niveau Blau (mäßig) ein, mit 1,5 km und 100 m Höhenunterschied für rund 1h30 als Rundweg.",
+          "q": "Ist die Wanderung schwierig?"
+        },
+        {
+          "a": "Von der Place du Barioz im Zentrum von Pralognan-la-Vanoise. Man folgt dem Chemin des Bieux bis zu einer Kehre, an der der markierte Pfad beginnt.",
+          "q": "Wo startet man?"
+        },
+        {
+          "a": "Ja, das Fremdenverkehrsamt gibt dies für diesen Rundweg ausdrücklich an. Aber Achtung: In der ganz nahen Kernzone des Parc national de la Vanoise sind sie verboten.",
+          "q": "Sind Hunde erlaubt?"
+        },
+        {
+          "a": "Nicht zu früh: Das Fremdenverkehrsamt weist darauf hin, dass der Wasserfall am frühen Morgen im Schatten liegt.",
+          "q": "Zu welcher Uhrzeit sollte man gehen?"
+        }
+      ],
+      "hero": {
+        "badge": "Runde 1h30 · Kostenlos",
+        "lead": "Von der Place du Barioz führt ein markierter Rundweg von etwa 1h30 — 1,5 km, 100 m Höhenunterschied, Niveau Blau — zur Cascade de la Fraîche, am Tor zur Vanoise."
+      },
+      "hero_alt": "Cascade de la Fraîche in Pralognan-la-Vanoise, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Bis Pralognan-la-Vanoise (D915), dann zu Fuß von der Place du Barioz im Zentrum des Ortes.",
+        "public_transport": null
+      },
+      "meta_description": "Leichter Rundweg von 1h30 ab der Place du Barioz in Pralognan-la-Vanoise zur Cascade de la Fraîche. Kostenlos, Hunde erlaubt, geöffnet vom 15. Mai bis 30. Oktober.",
+      "meta_title": "Cascade de la Fraîche (Pralognan) · Runde 1h30, kostenlos",
+      "name": "Cascade de la Fraîche",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Start",
+          "v": "Place du Barioz, 73710 Pralognan-la-Vanoise"
+        },
+        {
+          "k": "Rundweg",
+          "v": "≈1h30 · 1,5 km · +100 m · Niveau Blau"
+        },
+        {
+          "k": "Saison",
+          "v": "Vom 15. Mai bis 30. Oktober"
+        },
+        {
+          "k": "Hunde",
+          "v": "Auf diesem Rundweg erlaubt"
+        }
+      ],
+      "schema_amenities": [
+        "Markierter Weg"
+      ],
+      "when_to_visit": "<p>Vom 15. Mai bis 30. Oktober. Den frühen Morgen meiden: Der Wasserfall liegt dann im Schatten — der Hinweis stammt vom Fremdenverkehrsamt selbst.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -101,6 +178,83 @@
       ],
       "when_to_visit": "<p>15 May to 30 October. Avoid early morning: the waterfall is in shade — the advice comes from the tourist office itself.</p>"
     },
+    "es": {
+      "activities": [
+        {
+          "description": "Circuito señalizado de 1,5 km y 100 m de desnivel, nivel azul, desde la place du Barioz por el chemin des Bieux.",
+          "tag": "1h30",
+          "title": "Circuito de la Fraîche"
+        }
+      ],
+      "body": {
+        "what_is": "<p>A la <strong>cascada de la Fraîche</strong> se llega desde el centro de Pralognan-la-Vanoise por un circuito señalizado que sale de la place du Barioz: se sigue el chemin des Bieux hasta una curva cerrada donde arranca el sendero indicado. La oficina de turismo da 1h30 de media, 1,5 km, 100 m de desnivel, nivel azul — una salida familiar, gratuita, donde se aceptan perros.</p><p>Un consejo de la oficina de turismo merece repetirse tal cual: no salir demasiado temprano, porque a primera hora de la mañana la cascada está a la sombra. El itinerario se anuncia abierto del 15 de mayo al 30 de octubre.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuito",
+        "best_season": "15 de mayo – 30 de octubre",
+        "commune": "Pralognan-la-Vanoise",
+        "dogs": "Aceptados",
+        "parking": null,
+        "stroller": null,
+        "type": "Cascada",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "No: la oficina de turismo la clasifica como nivel azul (moderado), con 1,5 km y 100 m de desnivel para aproximadamente 1h30 en circuito.",
+          "q": "¿Es difícil el paseo?"
+        },
+        {
+          "a": "De la place du Barioz, en el centro de Pralognan-la-Vanoise. Se sigue el chemin des Bieux hasta una curva cerrada donde comienza el sendero señalizado.",
+          "q": "¿De dónde se sale?"
+        },
+        {
+          "a": "Sí, la oficina de turismo lo indica explícitamente para este circuito. Atención, no obstante: el corazón del Parc national de la Vanoise, muy cercano, los prohíbe.",
+          "q": "¿Se aceptan perros?"
+        },
+        {
+          "a": "No demasiado temprano: la oficina de turismo precisa que a primera hora de la mañana la cascada está a la sombra.",
+          "q": "¿A qué hora ir?"
+        }
+      ],
+      "hero": {
+        "badge": "Circuito 1h30 · Gratuito",
+        "lead": "Desde la place du Barioz, un circuito señalizado de aproximadamente 1h30 — 1,5 km, 100 m de desnivel, nivel azul — lleva a la cascada de la Fraîche, a las puertas de la Vanoise."
+      },
+      "hero_alt": "Cascada de la Fraîche en Pralognan-la-Vanoise, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Hasta Pralognan-la-Vanoise (D915), después a pie desde la place du Barioz en el centro de la estación.",
+        "public_transport": null
+      },
+      "meta_description": "Circuito fácil de 1h30 desde la place du Barioz en Pralognan-la-Vanoise hasta la cascada de la Fraîche. Gratuito, perros aceptados, abierto del 15 de mayo al 30 de octubre.",
+      "meta_title": "Cascade de la Fraîche (Pralognan) · Circuito 1h30, gratuito",
+      "name": "Cascade de la Fraîche",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Salida",
+          "v": "Place du Barioz, 73710 Pralognan-la-Vanoise"
+        },
+        {
+          "k": "Circuito",
+          "v": "≈1h30 · 1,5 km · +100 m · nivel azul"
+        },
+        {
+          "k": "Temporada",
+          "v": "Del 15 de mayo al 30 de octubre"
+        },
+        {
+          "k": "Perros",
+          "v": "Aceptados en este circuito"
+        }
+      ],
+      "schema_amenities": [
+        "Sendero señalizado"
+      ],
+      "when_to_visit": "<p>Del 15 de mayo al 30 de octubre. Evitar la primera hora de la mañana: la cascada está a la sombra — el consejo viene de la propia oficina de turismo.</p>"
+    },
     "fr": {
       "activities": [
         {
@@ -177,6 +331,160 @@
         "Sentier balisé"
       ],
       "when_to_visit": "<p>Du 15 mai au 30 octobre. Éviter le début de matinée : la cascade est à l'ombre — le conseil vient de l'office de tourisme lui-même.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Anello segnalato di 1,5 km e 100 m di dislivello, livello blu, dalla place du Barioz per il chemin des Bieux.",
+          "tag": "1h30",
+          "title": "Anello de la Fraîche"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>Cascade de la Fraîche</strong> si raggiunge dal centro di Pralognan-la-Vanoise con un anello segnalato in partenza dalla place du Barioz: si segue il chemin des Bieux fino a un tornante dove inizia il sentiero indicato. L'ufficio del turismo indica in media 1h30, 1,5 km, 100 m di dislivello, livello blu — una gita per famiglie, gratuita, dove i cani sono ammessi.</p><p>Un consiglio dell'ufficio del turismo merita di essere ripetuto così com'è: non partire troppo presto, perché a inizio mattinata la cascata è in ombra. L'itinerario è annunciato aperto dal 15 maggio al 30 ottobre.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuito",
+        "best_season": "15 maggio – 30 ottobre",
+        "commune": "Pralognan-la-Vanoise",
+        "dogs": "Ammessi",
+        "parking": null,
+        "stroller": null,
+        "type": "Cascata",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "No: l'ufficio del turismo la classifica livello blu (moderato), con 1,5 km e 100 m di dislivello per circa 1h30 ad anello.",
+          "q": "La passeggiata è difficile?"
+        },
+        {
+          "a": "Dalla place du Barioz, nel centro di Pralognan-la-Vanoise. Si segue il chemin des Bieux fino a un tornante dove inizia il sentiero segnalato.",
+          "q": "Da dove si parte?"
+        },
+        {
+          "a": "Sì, l'ufficio del turismo lo indica esplicitamente per questo anello. Attenzione però: la zona centrale del Parco nazionale della Vanoise, vicinissima, li vieta.",
+          "q": "I cani sono ammessi?"
+        },
+        {
+          "a": "Non troppo presto: l'ufficio del turismo precisa che a inizio mattinata la cascata è in ombra.",
+          "q": "A che ora conviene andarci?"
+        }
+      ],
+      "hero": {
+        "badge": "Anello 1h30 · Gratuito",
+        "lead": "Dalla place du Barioz, un anello segnalato di circa 1h30 — 1,5 km, 100 m di dislivello, livello blu — porta alla Cascade de la Fraîche, alle porte della Vanoise."
+      },
+      "hero_alt": "Cascade de la Fraîche a Pralognan-la-Vanoise, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Fino a Pralognan-la-Vanoise (D915), poi a piedi dalla place du Barioz nel centro della località.",
+        "public_transport": null
+      },
+      "meta_description": "Anello facile di 1h30 dalla place du Barioz a Pralognan-la-Vanoise verso la Cascade de la Fraîche. Gratuito, cani ammessi, aperto dal 15 maggio al 30 ottobre.",
+      "meta_title": "Cascade de la Fraîche (Pralognan) · Anello 1h30, gratuito",
+      "name": "Cascade de la Fraîche",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Partenza",
+          "v": "Place du Barioz, 73710 Pralognan-la-Vanoise"
+        },
+        {
+          "k": "Anello",
+          "v": "≈1h30 · 1,5 km · +100 m · livello blu"
+        },
+        {
+          "k": "Stagione",
+          "v": "Dal 15 maggio al 30 ottobre"
+        },
+        {
+          "k": "Cani",
+          "v": "Ammessi su questo anello"
+        }
+      ],
+      "schema_amenities": [
+        "Sentiero segnalato"
+      ],
+      "when_to_visit": "<p>Dal 15 maggio al 30 ottobre. Evitare l'inizio della mattinata: la cascata è in ombra — il consiglio arriva dall'ufficio del turismo stesso.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Bewegwijzerde lus van 1,5 km en 100 m hoogteverschil, niveau blauw, vanaf de place du Barioz via de chemin des Bieux.",
+          "tag": "1h30",
+          "title": "Lus van la Fraîche"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>cascade de la Fraîche</strong> bereikt u vanuit het centrum van Pralognan-la-Vanoise via een bewegwijzerde lus die vertrekt op de place du Barioz: u volgt de chemin des Bieux tot een haarspeldbocht waar het aangegeven pad begint. Het toeristenbureau geeft gemiddeld 1u30 aan, 1,5 km, 100 m hoogteverschil, niveau blauw — een uitstap voor het hele gezin, gratis, waar honden welkom zijn.</p><p>Een advies van het toeristenbureau verdient het om letterlijk herhaald te worden: vertrek niet te vroeg, want in de vroege ochtend ligt de waterval in de schaduw. De route is aangekondigd als open van 15 mei tot 30 oktober.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": "15 mei – 30 oktober",
+        "commune": "Pralognan-la-Vanoise",
+        "dogs": "Toegestaan",
+        "parking": null,
+        "stroller": null,
+        "type": "Waterval",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "Nee: het toeristenbureau classificeert de lus als niveau blauw (gematigd), met 1,5 km en 100 m hoogteverschil voor ongeveer 1u30 rondgaand.",
+          "q": "Is de wandeling moeilijk?"
+        },
+        {
+          "a": "Vanaf de place du Barioz, in het centrum van Pralognan-la-Vanoise. U volgt de chemin des Bieux tot een haarspeldbocht waar het bewegwijzerde pad begint.",
+          "q": "Waar vertrekt men?"
+        },
+        {
+          "a": "Ja, het toeristenbureau vermeldt dit uitdrukkelijk voor deze lus. Let wel: in de nabijgelegen kernzone van het Parc national de la Vanoise zijn honden verboden.",
+          "q": "Zijn honden toegestaan?"
+        },
+        {
+          "a": "Niet te vroeg: het toeristenbureau geeft aan dat de waterval in de vroege ochtend in de schaduw ligt.",
+          "q": "Hoe laat gaat men er het best heen?"
+        }
+      ],
+      "hero": {
+        "badge": "Lus 1u30 · Gratis",
+        "lead": "Vanaf de place du Barioz leidt een bewegwijzerde lus van ongeveer 1u30 — 1,5 km, 100 m hoogteverschil, niveau blauw — naar de cascade de la Fraîche, aan de poorten van de Vanoise."
+      },
+      "hero_alt": "Cascade de la Fraîche in Pralognan-la-Vanoise, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Tot Pralognan-la-Vanoise (D915), daarna te voet vanaf de place du Barioz in het centrum van het dorp.",
+        "public_transport": null
+      },
+      "meta_description": "Gemakkelijke lus van 1u30 vanaf de place du Barioz in Pralognan-la-Vanoise naar de cascade de la Fraîche. Gratis, honden toegestaan, open van 15 mei tot 30 oktober.",
+      "meta_title": "Cascade de la Fraîche (Pralognan) · Lus 1u30, gratis",
+      "name": "Cascade de la Fraîche",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Vertrek",
+          "v": "Place du Barioz, 73710 Pralognan-la-Vanoise"
+        },
+        {
+          "k": "Lus",
+          "v": "≈1u30 · 1,5 km · +100 m · niveau blauw"
+        },
+        {
+          "k": "Seizoen",
+          "v": "Van 15 mei tot 30 oktober"
+        },
+        {
+          "k": "Honden",
+          "v": "Toegestaan op deze lus"
+        }
+      ],
+      "schema_amenities": [
+        "Bewegwijzerd pad"
+      ],
+      "when_to_visit": "<p>Van 15 mei tot 30 oktober. Vermijd de vroege ochtend: de waterval ligt dan in de schaduw — het advies komt van het toeristenbureau zelf.</p>"
     }
   },
   "latitude": 45.379288,

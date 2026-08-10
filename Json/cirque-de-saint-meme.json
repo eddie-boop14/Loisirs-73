@@ -24,6 +24,100 @@
   "hero_credit": null,
   "hero_image": "/img/generique/generique-cascade.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Kleine markierte Runde von 30 Minuten am Fuß der Felswände, vom Parkplatz aus über die asphaltierte Straße erreichbar.",
+          "tag": "30 min",
+          "title": "Runde durch den Talschluss des Cirque"
+        },
+        {
+          "description": "Rundweg von 1h30, der an den vier Wasserfällen des Guiers Vif entlangführt: Sources, Grande Cascade, Cascade Isolée und Pisse du Guiers.",
+          "tag": "1h30",
+          "title": "Wasserfallweg"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Der <strong>Cirque de Saint-Même</strong> schließt das Tal des Guiers Vif ab, genau auf der Grenze Savoie–Isère, auf der Seite von Saint-Pierre-d'Entremont. Vier Wasserfälle folgen hier aufeinander — Cascade des Sources, Grande Cascade, Cascade Isolée und Pisse du Guiers — verbunden durch zwei markierte Rundwege: 30 Minuten für den Talschluss des Cirque, 1h30 für den Wasserfallweg.</p><p>Der Zugang zum Gelände ist frei, aber der <strong>Parkplatz ist in der Saison gebührenpflichtig</strong>: 5 € pro Auto oder Wohnmobil, 3 € pro Motorrad, 15 € pro Reisebus, Kassenstelle besetzt von 9h bis 17h. Für 2026 kündigt das Fremdenverkehrsamt die Wochenenden und Feiertage vom 4. April bis 4. Juli an, täglich vom 4. Juli bis 31. August, dann die Wochenenden vom 5. bis 27. September — die Seite der Gemeinde zeigt noch die Daten von 2024 mit denselben Tarifen; wir entscheiden das nicht. Den Rest des Jahres ist der Zugang frei.</p><p>Das Gelände ist zu Stoßzeiten stark besucht und der Parkplatz füllt sich regelmäßig, wie das Fremdenverkehrsamt selbst mitteilt. Wohnmobile sind von 20h bis 8h nicht zugelassen. Die Straße ist vom Parkplatz bis in den Kessel des Cirque asphaltiert, was einen Zugang im Rollstuhl mit Begleitung ermöglicht.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Kostenlos (Parkplatz in der Saison gebührenpflichtig)",
+        "best_season": "April – September (Gebühr); freier Zugang den Rest des Jahres",
+        "commune": "Saint-Pierre-d'Entremont",
+        "dogs": null,
+        "parking": "In der Saison gebührenpflichtig: 5 € Auto, 3 € Motorrad, 15 € Reisebus (9h–17h)",
+        "stroller": "Asphaltierte Straße vom Parkplatz bis in den Kessel des Cirque",
+        "type": "Talkessel und Wasserfälle",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Das Gelände ist frei zugänglich; gebührenpflichtig ist in der Saison das Parken: 5 € pro Auto oder Wohnmobil, 3 € pro Motorrad, 15 € pro Reisebus, Gebühr von 9h bis 17h. Den Rest des Jahres ist der Zugang frei.",
+          "q": "Ist der Cirque de Saint-Même kostenpflichtig?"
+        },
+        {
+          "a": "Für 2026 kündigt das Fremdenverkehrsamt der Chartreuse an: Wochenenden und Feiertage vom 4. April bis 4. Juli, täglich vom 4. Juli bis 31. August, Wochenenden vom 5. bis 27. September. Die Seite der Gemeinde zeigt noch die Daten von 2024 (gleiche Tarife) — die beiden Quellen widersprechen sich, und wir weisen darauf hin, statt uns festzulegen.",
+          "q": "Welche Daten hat die gebührenpflichtige Saison?"
+        },
+        {
+          "a": "Zwei markierte Rundwege starten am Gelände: 30 Minuten für den Talschluss des Cirque, 1h30 für den Wasserfallweg, der zu den Fällen hinaufführt.",
+          "q": "Wie lange dauern die Spaziergänge?"
+        },
+        {
+          "a": "Die Straße ist vom Parkplatz bis in den Kessel des Cirque asphaltiert, und es gibt Behindertenparkplätze. Das Fremdenverkehrsamt spricht von einem möglichen Zugang mit Begleitung; die Wasserfallwege selbst sind nicht geeignet.",
+          "q": "Kann man mit dem Rollstuhl dorthin?"
+        },
+        {
+          "a": "Nein. Die Gemeinde untersagt dies von 20h bis 8h, im Rahmen der saisonalen Regelung des Geländes.",
+          "q": "Kann man mit dem Wohnmobil vor Ort übernachten?"
+        }
+      ],
+      "hero": {
+        "badge": "4 Wasserfälle · Chartreuse",
+        "lead": "Im Talschluss des Cirque stürzt der Guiers Vif in vier Wasserfällen herab: Sources, Grande Cascade, Cascade Isolée und Pisse du Guiers. Zwei markierte Rundwege, 30 Minuten oder 1h30."
+      },
+      "hero_alt": "Cirque de Saint-Même und Wasserfälle des Guiers Vif, Saint-Pierre-d'Entremont, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Von Saint-Pierre-d'Entremont über die Straße zum Cirque bis zum in der Saison gebührenpflichtigen Parkplatz (Gebühr 9h–17h). Wohnmobile von 20h bis 8h nicht zugelassen.",
+        "public_transport": null
+      },
+      "meta_description": "Vier Wasserfälle des Guiers Vif im Talschluss eines Bergkessels der Chartreuse. Parkplatz in der Saison gebührenpflichtig (5 € Auto), freier Zugang den Rest des Jahres. Rundwege von 30 min und 1h30.",
+      "meta_title": "Cirque de Saint-Même · Wasserfälle, Parken 2026, Anfahrt",
+      "name": "Cirque de Saint-Même",
+      "name_alternates": [
+        "Cascades du Guiers Vif"
+      ],
+      "practical_info": [
+        {
+          "k": "Adresse",
+          "v": "Cirque de Saint-Même, 73670 Saint-Pierre-d'Entremont"
+        },
+        {
+          "k": "Parken",
+          "v": "5 € Auto oder Wohnmobil, 3 € Motorrad, 15 € Reisebus — in der Saison, 9h bis 17h"
+        },
+        {
+          "k": "Rundwege",
+          "v": "30 min (Talschluss des Cirque) und 1h30 (Wasserfallweg)"
+        },
+        {
+          "k": "Besucherandrang",
+          "v": "Starker Andrang zu Stoßzeiten; Parkplatz regelmäßig voll (Quelle: Fremdenverkehrsamt)"
+        },
+        {
+          "k": "Winter",
+          "v": "Freier Zugang außerhalb der Saison; Sanitäranlagen geschlossen, um Frostschäden zu vermeiden"
+        }
+      ],
+      "schema_amenities": [
+        "Parkplatz in der Saison gebührenpflichtig",
+        "Markierte Wege",
+        "Behindertenparkplätze"
+      ],
+      "when_to_visit": "<p>Gebührenpflichtig von April bis September (Daten 2026 siehe oben), freier Zugang den Rest des Jahres. Das Fremdenverkehrsamt meldet starken Andrang: am besten früh am Morgen und außerhalb der Wochenenden kommen.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -118,6 +212,100 @@
       ],
       "when_to_visit": "<p>Paid April to September (2026 dates above), free access the rest of the year. The tourist office reports heavy crowds: aim for early mornings outside weekends.</p>"
     },
+    "es": {
+      "activities": [
+        {
+          "description": "Pequeño circuito señalizado de 30 minutos al pie de las paredes, accesible desde el aparcamiento por la carretera asfaltada.",
+          "tag": "30 min",
+          "title": "Circuito del fondo del circo"
+        },
+        {
+          "description": "Circuito de 1h30 que remonta a lo largo de las cuatro cascadas del Guiers Vif: Sources, Grande Cascade, Cascade Isolée y Pisse du Guiers.",
+          "tag": "1h30",
+          "title": "Sendero de las cascadas"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>circo de Saint-Même</strong> cierra el valle del Guiers Vif, a caballo entre los límites de Savoie e Isère, del lado de Saint-Pierre-d'Entremont. Cuatro cascadas se suceden allí — Cascade des Sources, Grande Cascade, Cascade Isolée y Pisse du Guiers — unidas por dos circuitos señalizados: 30 minutos para el fondo del circo, 1h30 para el sendero de las cascadas.</p><p>El acceso al sitio es libre, pero el <strong>aparcamiento es de pago en temporada</strong>: 5 € por coche o autocaravana, 3 € por moto, 15 € por autocar, con peaje atendido de 9h a 17h. Para 2026, la oficina de turismo anuncia los fines de semana y festivos del 4 de abril al 4 de julio, todos los días del 4 de julio al 31 de agosto, y después los fines de semana del 5 al 27 de septiembre — la página del municipio muestra todavía las fechas de 2024 con las mismas tarifas; no zanjamos la cuestión. El resto del año, el acceso es libre.</p><p>El sitio está muy concurrido en las horas punta y el aparcamiento se llena con regularidad, como reconoce la propia oficina de turismo. Las autocaravanas no están autorizadas de 20h a 8h. La carretera está asfaltada desde el aparcamiento hasta el recinto del circo, lo que permite el acceso en silla de ruedas con acompañamiento.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuito (aparcamiento de pago en temporada)",
+        "best_season": "Abril – septiembre (peaje); acceso libre el resto del año",
+        "commune": "Saint-Pierre-d'Entremont",
+        "dogs": null,
+        "parking": "De pago en temporada: 5 € coche, 3 € moto, 15 € autocar (9h–17h)",
+        "stroller": "Carretera asfaltada del aparcamiento al recinto del circo",
+        "type": "Circo y cascadas",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "El acceso al sitio es libre; lo que es de pago en temporada es el estacionamiento: 5 € por coche o autocaravana, 3 € por moto, 15 € por autocar, peaje de 9h a 17h. El resto del año, el acceso es libre.",
+          "q": "¿Es de pago el circo de Saint-Même?"
+        },
+        {
+          "a": "Para 2026, la oficina de turismo de Chartreuse anuncia: fines de semana y festivos del 4 de abril al 4 de julio, todos los días del 4 de julio al 31 de agosto, fines de semana del 5 al 27 de septiembre. La página del municipio muestra todavía las fechas de 2024 (mismas tarifas) — las dos fuentes se contradicen y lo señalamos en lugar de elegir.",
+          "q": "¿Cuáles son las fechas de la temporada de pago?"
+        },
+        {
+          "a": "Dos circuitos señalizados parten del sitio: 30 minutos para el fondo del circo, 1h30 para el sendero de las cascadas que sube hacia los saltos de agua.",
+          "q": "¿Cuánto duran los paseos?"
+        },
+        {
+          "a": "La carretera está asfaltada desde el aparcamiento hasta el recinto del circo y existen plazas PMR. La oficina de turismo menciona un acceso posible con acompañamiento; los senderos de las cascadas, en cambio, no están adaptados.",
+          "q": "¿Se puede ir en silla de ruedas?"
+        },
+        {
+          "a": "No. El municipio lo prohíbe de 20h a 8h, en el marco de la reglamentación estacional del sitio.",
+          "q": "¿Se puede pasar la noche en el lugar en autocaravana?"
+        }
+      ],
+      "hero": {
+        "badge": "4 cascadas · Chartreuse",
+        "lead": "Al fondo del circo, el Guiers Vif cae en cuatro cascadas: Sources, Grande Cascade, Cascade Isolée y Pisse du Guiers. Dos circuitos señalizados, 30 minutos o 1h30."
+      },
+      "hero_alt": "Circo de Saint-Même y cascadas del Guiers Vif, Saint-Pierre-d'Entremont, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Desde Saint-Pierre-d'Entremont, carretera del circo hasta el aparcamiento, de pago en temporada (peaje 9h–17h). Autocaravanas prohibidas de 20h a 8h.",
+        "public_transport": null
+      },
+      "meta_description": "Cuatro cascadas del Guiers Vif al fondo de un circo de Chartreuse. Aparcamiento de pago en temporada (5 € coche), acceso libre el resto del año. Circuitos de 30 min y 1h30.",
+      "meta_title": "Cirque de Saint-Même · Cascadas, aparcamiento 2026, acceso",
+      "name": "Cirque de Saint-Même",
+      "name_alternates": [
+        "Cascades du Guiers Vif"
+      ],
+      "practical_info": [
+        {
+          "k": "Dirección",
+          "v": "Cirque de Saint-Même, 73670 Saint-Pierre-d'Entremont"
+        },
+        {
+          "k": "Aparcamiento",
+          "v": "5 € coche o autocaravana, 3 € moto, 15 € autocar — en temporada, de 9h a 17h"
+        },
+        {
+          "k": "Circuitos",
+          "v": "30 min (fondo del circo) y 1h30 (sendero de las cascadas)"
+        },
+        {
+          "k": "Afluencia",
+          "v": "Gran afluencia en horas punta; aparcamiento completo con regularidad (fuente: oficina de turismo)"
+        },
+        {
+          "k": "Invierno",
+          "v": "Acceso libre fuera de temporada; sanitarios cerrados para evitar los daños de las heladas"
+        }
+      ],
+      "schema_amenities": [
+        "Aparcamiento de pago en temporada",
+        "Senderos señalizados",
+        "Plazas PMR"
+      ],
+      "when_to_visit": "<p>De pago de abril a septiembre (fechas 2026 arriba), acceso libre el resto del año. La oficina de turismo señala gran afluencia: conviene apuntar a primera hora de la mañana fuera de los fines de semana.</p>"
+    },
     "fr": {
       "activities": [
         {
@@ -211,6 +399,194 @@
         "Places PMR"
       ],
       "when_to_visit": "<p>Payant d'avril à septembre (dates 2026 ci-dessus), accès libre le reste de l'année. L'office de tourisme signale de fortes affluences : viser les débuts de matinée hors week-end.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Piccolo anello segnalato di 30 minuti ai piedi delle pareti, raggiungibile dal parcheggio tramite la strada asfaltata.",
+          "tag": "30 min",
+          "title": "Anello del fondo del Cirque"
+        },
+        {
+          "description": "Anello di 1h30 che risale lungo le quattro cascate del Guiers Vif: Sources, Grande Cascade, Cascade Isolée e Pisse du Guiers.",
+          "tag": "1h30",
+          "title": "Sentiero delle cascate"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Il <strong>Cirque de Saint-Même</strong> chiude il vallone del Guiers Vif, a cavallo del confine Savoie–Isère, sul versante di Saint-Pierre-d'Entremont. Quattro cascate si susseguono — Cascade des Sources, Grande Cascade, Cascade Isolée e Pisse du Guiers — collegate da due anelli segnalati: 30 minuti per il fondo del circo, 1h30 per il sentiero delle cascate.</p><p>L'accesso al sito è libero, ma il <strong>parcheggio è a pagamento in stagione</strong>: 5 € per auto o camper, 3 € per moto, 15 € per pullman, con casello attivo dalle 9 alle 17. Per il 2026, l'ufficio del turismo annuncia i weekend e i giorni festivi dal 4 aprile al 4 luglio, tutti i giorni dal 4 luglio al 31 agosto, poi i weekend dal 5 al 27 settembre — la pagina del comune riporta ancora le date 2024 con le stesse tariffe; non prendiamo posizione. Il resto dell'anno l'accesso è libero.</p><p>Il sito è molto frequentato nelle ore di punta e il parcheggio si riempie regolarmente, come segnala lo stesso ufficio del turismo. I camper non sono ammessi dalle 20 alle 8. La strada è asfaltata dal parcheggio fino all'interno del circo, il che consente l'accesso in sedia a rotelle con accompagnamento.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuito (parcheggio a pagamento in stagione)",
+        "best_season": "Aprile – settembre (pedaggio); accesso libero il resto dell'anno",
+        "commune": "Saint-Pierre-d'Entremont",
+        "dogs": null,
+        "parking": "A pagamento in stagione: 5 € auto, 3 € moto, 15 € pullman (9–17)",
+        "stroller": "Strada asfaltata dal parcheggio all'interno del circo",
+        "type": "Circo e cascate",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Il sito è ad accesso libero; è il parcheggio a essere a pagamento in stagione: 5 € per auto o camper, 3 € per moto, 15 € per pullman, casello dalle 9 alle 17. Il resto dell'anno l'accesso è libero.",
+          "q": "Il Cirque de Saint-Même è a pagamento?"
+        },
+        {
+          "a": "Per il 2026, l'ufficio del turismo della Chartreuse annuncia: weekend e festivi dal 4 aprile al 4 luglio, tutti i giorni dal 4 luglio al 31 agosto, weekend dal 5 al 27 settembre. La pagina del comune riporta ancora le date 2024 (stesse tariffe) — le due fonti si contraddicono e preferiamo segnalarlo piuttosto che scegliere.",
+          "q": "Quali sono le date della stagione a pagamento?"
+        },
+        {
+          "a": "Dal sito partono due anelli segnalati: 30 minuti per il fondo del circo, 1h30 per il sentiero delle cascate che risale verso i salti d'acqua.",
+          "q": "Quanto durano le passeggiate?"
+        },
+        {
+          "a": "La strada è asfaltata dal parcheggio fino all'interno del circo e sono presenti posti riservati ai disabili. L'ufficio del turismo parla di un accesso possibile con accompagnamento; i sentieri delle cascate, invece, non sono adatti.",
+          "q": "Si può visitare in sedia a rotelle?"
+        },
+        {
+          "a": "No. Il comune lo vieta dalle 20 alle 8, nell'ambito della regolamentazione stagionale del sito.",
+          "q": "Si può passare la notte sul posto in camper?"
+        }
+      ],
+      "hero": {
+        "badge": "4 cascate · Chartreuse",
+        "lead": "In fondo al circo, il Guiers Vif precipita in quattro cascate: Sources, Grande Cascade, Cascade Isolée e Pisse du Guiers. Due anelli segnalati, 30 minuti o 1h30."
+      },
+      "hero_alt": "Cirque de Saint-Même e cascate del Guiers Vif, Saint-Pierre-d'Entremont, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Da Saint-Pierre-d'Entremont, strada del circo fino al parcheggio a pagamento in stagione (casello 9–17). Camper vietati dalle 20 alle 8.",
+        "public_transport": null
+      },
+      "meta_description": "Quattro cascate del Guiers Vif in fondo a un circo della Chartreuse. Parcheggio a pagamento in stagione (5 € auto), accesso libero il resto dell'anno. Anelli da 30 min e 1h30.",
+      "meta_title": "Cirque de Saint-Même · Cascate, parcheggio 2026, accesso",
+      "name": "Cirque de Saint-Même",
+      "name_alternates": [
+        "Cascades du Guiers Vif"
+      ],
+      "practical_info": [
+        {
+          "k": "Indirizzo",
+          "v": "Cirque de Saint-Même, 73670 Saint-Pierre-d'Entremont"
+        },
+        {
+          "k": "Parcheggio",
+          "v": "5 € auto o camper, 3 € moto, 15 € pullman — in stagione, dalle 9 alle 17"
+        },
+        {
+          "k": "Anelli",
+          "v": "30 min (fondo del circo) e 1h30 (sentiero delle cascate)"
+        },
+        {
+          "k": "Affluenza",
+          "v": "Grande affluenza nelle ore di punta; parcheggio spesso al completo (fonte: ufficio del turismo)"
+        },
+        {
+          "k": "Inverno",
+          "v": "Accesso libero fuori stagione; servizi igienici chiusi per evitare i danni del gelo"
+        }
+      ],
+      "schema_amenities": [
+        "Parcheggio a pagamento in stagione",
+        "Sentieri segnalati",
+        "Posti riservati ai disabili"
+      ],
+      "when_to_visit": "<p>A pagamento da aprile a settembre (date 2026 qui sopra), accesso libero il resto dell'anno. L'ufficio del turismo segnala una forte affluenza: meglio puntare sulle prime ore del mattino fuori dai weekend.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Kleine bewegwijzerde lus van 30 minuten aan de voet van de rotswanden, vanaf de parkeerplaats bereikbaar via de geasfalteerde weg.",
+          "tag": "30 min",
+          "title": "Lus door het achterste deel van het cirque"
+        },
+        {
+          "description": "Lus van 1u30 die langs de vier watervallen van de Guiers Vif omhoogloopt: Sources, Grande Cascade, Cascade Isolée en Pisse du Guiers.",
+          "tag": "1h30",
+          "title": "Watervallenpad"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Het <strong>cirque de Saint-Même</strong> sluit het dal van de Guiers Vif af, op de grens Savoie–Isère, aan de kant van Saint-Pierre-d'Entremont. Vier watervallen volgen elkaar hier op — Cascade des Sources, Grande Cascade, Cascade Isolée en Pisse du Guiers — verbonden door twee bewegwijzerde lussen: 30 minuten voor het achterste deel van het cirque, 1u30 voor het watervallenpad.</p><p>De toegang tot het terrein is vrij, maar het <strong>parkeren is in het seizoen betaald</strong>: 5 € per auto of camper, 3 € per motor, 15 € per touringcar, met tolheffing van 9u tot 17u. Voor 2026 kondigt het toeristenbureau de weekends en feestdagen van 4 april tot 4 juli aan, alle dagen van 4 juli tot 31 augustus, en vervolgens de weekends van 5 tot 27 september — de pagina van de gemeente toont nog de data van 2024 met dezelfde tarieven; wij doen daarover geen uitspraak. De rest van het jaar is de toegang vrij.</p><p>Het terrein is op piekmomenten zeer druk bezocht en de parkeerplaats staat regelmatig vol, zoals het toeristenbureau zelf aangeeft. Campers zijn niet toegestaan van 20u tot 8u. De weg is geasfalteerd van de parkeerplaats tot binnen het cirque, waardoor toegang met een rolstoel onder begeleiding mogelijk is.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis (parkeren betaald in het seizoen)",
+        "best_season": "April – september (tolheffing); vrije toegang de rest van het jaar",
+        "commune": "Saint-Pierre-d'Entremont",
+        "dogs": null,
+        "parking": "Betaald in het seizoen: 5 € auto, 3 € motor, 15 € touringcar (9u–17u)",
+        "stroller": "Geasfalteerde weg van de parkeerplaats tot binnen het cirque",
+        "type": "Cirque en watervallen",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Het terrein is vrij toegankelijk; het is het parkeren dat in het seizoen betaald is: 5 € per auto of camper, 3 € per motor, 15 € per touringcar, tolheffing van 9u tot 17u. De rest van het jaar is de toegang vrij.",
+          "q": "Is het cirque de Saint-Même betalend?"
+        },
+        {
+          "a": "Voor 2026 kondigt het toeristenbureau van de Chartreuse aan: weekends en feestdagen van 4 april tot 4 juli, alle dagen van 4 juli tot 31 augustus, weekends van 5 tot 27 september. De pagina van de gemeente toont nog de data van 2024 (dezelfde tarieven) — de twee bronnen spreken elkaar tegen en wij vermelden dat liever dan te kiezen.",
+          "q": "Wat zijn de data van het betaalde seizoen?"
+        },
+        {
+          "a": "Twee bewegwijzerde lussen vertrekken vanaf het terrein: 30 minuten voor het achterste deel van het cirque, 1u30 voor het watervallenpad dat naar de watervallen omhoogloopt.",
+          "q": "Hoe lang duren de wandelingen?"
+        },
+        {
+          "a": "De weg is geasfalteerd van de parkeerplaats tot binnen het cirque en er zijn parkeerplaatsen voor mindervaliden. Het toeristenbureau spreekt van mogelijke toegang onder begeleiding; de watervallenpaden zelf zijn niet aangepast.",
+          "q": "Kan men er met een rolstoel komen?"
+        },
+        {
+          "a": "Nee. De gemeente verbiedt dit van 20u tot 8u, in het kader van de seizoensgebonden regelgeving van het terrein.",
+          "q": "Kan men er 's nachts met de camper overnachten?"
+        }
+      ],
+      "hero": {
+        "badge": "4 watervallen · Chartreuse",
+        "lead": "Achter in het cirque stort de Guiers Vif zich in vier watervallen naar beneden: Sources, Grande Cascade, Cascade Isolée en Pisse du Guiers. Twee bewegwijzerde lussen, 30 minuten of 1u30."
+      },
+      "hero_alt": "Cirque de Saint-Même en watervallen van de Guiers Vif, Saint-Pierre-d'Entremont, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Vanuit Saint-Pierre-d'Entremont via de weg naar het cirque tot de parkeerplaats, betaald in het seizoen (tolheffing 9u–17u). Campers verboden van 20u tot 8u.",
+        "public_transport": null
+      },
+      "meta_description": "Vier watervallen van de Guiers Vif achter in een cirque van de Chartreuse. Parkeren betaald in het seizoen (5 € auto), vrije toegang de rest van het jaar. Lussen van 30 min en 1u30.",
+      "meta_title": "Cirque de Saint-Même · Watervallen, parkeren 2026, toegang",
+      "name": "Cirque de Saint-Même",
+      "name_alternates": [
+        "Cascades du Guiers Vif"
+      ],
+      "practical_info": [
+        {
+          "k": "Adres",
+          "v": "Cirque de Saint-Même, 73670 Saint-Pierre-d'Entremont"
+        },
+        {
+          "k": "Parkeren",
+          "v": "5 € auto of camper, 3 € motor, 15 € touringcar — in het seizoen, 9u tot 17u"
+        },
+        {
+          "k": "Lussen",
+          "v": "30 min (achterste deel van het cirque) en 1u30 (watervallenpad)"
+        },
+        {
+          "k": "Drukte",
+          "v": "Grote drukte op piekmomenten; parkeerplaats regelmatig vol (bron: toeristenbureau)"
+        },
+        {
+          "k": "Winter",
+          "v": "Vrije toegang buiten het seizoen; sanitair gesloten om vorstschade te voorkomen"
+        }
+      ],
+      "schema_amenities": [
+        "Parkeren betaald in het seizoen",
+        "Bewegwijzerde paden",
+        "Parkeerplaatsen voor mindervaliden"
+      ],
+      "when_to_visit": "<p>Betaald van april tot september (data 2026 hierboven), vrije toegang de rest van het jaar. Het toeristenbureau meldt grote drukte: mik op de vroege ochtend buiten het weekend.</p>"
     }
   },
   "latitude": 45.392787,

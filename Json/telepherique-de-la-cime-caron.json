@@ -1,13 +1,13 @@
 {
   "acces_pmr": {
     "checked": "2026-08-08",
-    "confidence": "low",
+    "confidence": "declarative",
     "detail": "Caron 3200 se dit accessible en fauteuil roulant par les remontées et des passerelles couvertes. Les poussettes sont interdites sur les remontées et l'accès est déconseillé aux enfants de moins de 7 ans.",
     "equipment": null,
     "handiplage_level": null,
     "source_name": "Caron 3200",
     "source_url": "https://www.caron3200.com/en/getting-to-caron-3200/access-practical-information/",
-    "status": "assiste",
+    "status": "accessible",
     "tourisme_handicap": null
   },
   "category": "telecabine",

@@ -30,7 +30,14 @@
     "is_free": false,
     "note": "23,50 € adulte · 17,60 € enfant (été 2026)"
   },
-  "access_pmr": null,
+  "access_pmr": {
+    "status": "accessible",
+    "detail": "Caron 3200 se dit accessible en fauteuil roulant par les remontées et des passerelles couvertes. Les poussettes sont interdites sur les remontées et l'accès est déconseillé aux enfants de moins de 7 ans.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_url": "https://www.caron3200.com/en/getting-to-caron-3200/access-practical-information/",
+    "source_name": "Caron 3200"
+  },
   "parking": "Parkings couverts payants P1 et P2 à Val Thorens",
   "transport": null,
   "season": "4 juillet – 28 août 2026 (été)",

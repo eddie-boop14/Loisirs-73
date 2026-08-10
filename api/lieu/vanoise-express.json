@@ -40,7 +40,14 @@
     "is_free": false,
     "note": "Piéton adulte AR 17 € (été 2026)"
   },
-  "access_pmr": null,
+  "access_pmr": {
+    "status": "partiel",
+    "detail": "Accessible en fauteuil roulant avec assistance selon l'Office de Tourisme de Peisey-Vallandry. Aucune mention sur le site de l'exploitant.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_url": "https://www.peisey-vallandry.com/le-telepherique-vanoise-express.html",
+    "source_name": "Office de Tourisme de Peisey-Vallandry"
+  },
   "parking": "Gratuit côté Peisey (Zeschierses, Aiguilles)",
   "transport": null,
   "season": "6 juillet – 28 août 2026, du lundi au vendredi sauf mercredi",

@@ -385,6 +385,7 @@
     "GPS ABSENT — aucune ligne de la queue DATAtourisme ne correspond à l'appareil sous Orelle (73140), et aucune source ne publie de coordonnées. Champs null.",
     "ORELLE PÈSE 21 POI DANS LA QUEUE DU 73 — c'est une petite commune de Maurienne qui sert de porte d'entrée aux 3 Vallées. Ne pas la confondre avec Val Thorens, qui est sur la commune des Belleville, de l'autre côté de la crête.",
     "DATE DE MISE EN SERVICE DE LA NOUVELLE LIAISON NON RELEVÉE — les sources disent qu'elle remplace le 3 Vallées Express « pour cette nouvelle saison » sans millésime exploitable. Champ non publié.",
-    "ANIMAUX, PMR, VTT : aucune source. Champs null."
+    "ANIMAUX, PMR, VTT : aucune source. Champs null.",
+    "ACCES_PMR_UNVERIFIED — no official accessibility source found for this site. Status stays null rather than being inferred from the terrain."
   ]
 }

@@ -1,13 +1,13 @@
 {
   "acces_pmr": {
     "checked": "2026-08-08",
-    "confidence": "low",
+    "confidence": "declarative",
     "detail": "Accessible en fauteuil roulant avec assistance selon l'Office de Tourisme de Peisey-Vallandry. Aucune mention sur le site de l'exploitant.",
     "equipment": null,
     "handiplage_level": null,
     "source_name": "Office de Tourisme de Peisey-Vallandry",
     "source_url": "https://www.peisey-vallandry.com/le-telepherique-vanoise-express.html",
-    "status": "assiste",
+    "status": "partiel",
     "tourisme_handicap": null
   },
   "category": "telecabine",

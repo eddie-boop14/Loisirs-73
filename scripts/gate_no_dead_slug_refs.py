@@ -41,12 +41,16 @@ def _live(root):
 
 
 def _index_slugs(path):
-    """Top-level keys (minus _meta) + every nested 'slug' string value,
-    excluding the declared non-fiche namespaces."""
+    """Top-level keys (minus the underscore-prefixed ones) + every nested
+    'slug' string value, excluding the declared non-fiche namespaces.
+
+    A leading underscore is this codebase's convention for metadata — _meta,
+    _note, _comment. Skipping only the literal "_meta" made the gate read a
+    _note key as a fiche slug and demand Json/_note.json."""
     fname = os.path.basename(path)
     excluded = tuple(pfx for f, pfx in NON_FICHE_SUBTREES if f == fname)
     d = json.loads(open(path, encoding="utf-8").read())
-    refs = [k for k in d if k != "_meta"]
+    refs = [k for k in d if not k.startswith("_")]
 
     def walk(o, trail):
         if any(trail[:len(pfx)] == pfx for pfx in excluded):

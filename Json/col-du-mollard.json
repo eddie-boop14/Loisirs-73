@@ -367,6 +367,7 @@
     "PASSAGES DU TOUR DE FRANCE À SOURÇAGE SECONDAIRE — 2006, 2012 et 2015 ne sont pas confirmés par une source officielle du Tour ni par la préfecture.",
     "LA ROUTE DE L'OPINEL EST UN NOM D'USAGE pour la descente, employé par les sources cyclistes. Aucune source officielle ne le confirme comme dénomination routière.",
     "PARKING, SERVICES, ANIMAUX, PMR, TARIF : aucune source. Champs null.",
-    "PHOTO — le cliché retenu est en FORMAT PORTRAIT (1200x1600), le seul du dépôt. Tous les autres hero sont en paysage et le gabarit du moteur attend du paysage : il sera recadré agressivement. Sujet correct (le col), format à remplacer dès qu'une vue paysage existe."
+    "PHOTO — le cliché retenu est en FORMAT PORTRAIT (1200x1600), le seul du dépôt. Tous les autres hero sont en paysage et le gabarit du moteur attend du paysage : il sera recadré agressivement. Sujet correct (le col), format à remplacer dès qu'une vue paysage existe.",
+    "ACCES_PMR_UNVERIFIED — no official accessibility source found for this site. Status stays null rather than being inferred from the terrain."
   ]
 }

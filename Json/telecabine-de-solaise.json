@@ -357,6 +357,7 @@
     "GPS ABSENT — la seule ligne « Solaise » de la queue DATAtourisme est « Itinéraire Ski tranquille Solaise » (45.446696 / 6.977534), qui décrit un itinéraire de ski et non la gare de la télécabine. Champs null.",
     "GRATUITÉ NON DATÉE — rien n'indique si la gratuité piétons vaut pour toute la saison estivale 2026 ou seulement pour une période. Ne pas la présenter comme permanente.",
     "VAL-D'ISÈRE PÈSE 41 POI DANS LA QUEUE DU 73 — première fiche du dépôt sur cette commune, malgré la notoriété de la station.",
-    "DURÉE DU TRAJET, ANIMAUX, PMR : aucune source. Champs null."
+    "DURÉE DU TRAJET, ANIMAUX, PMR : aucune source. Champs null.",
+    "ACCES_PMR_UNVERIFIED — no official accessibility source found for this site. Status stays null rather than being inferred from the terrain."
   ]
 }

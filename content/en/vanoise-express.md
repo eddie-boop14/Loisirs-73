@@ -49,7 +49,8 @@ Du 6 juillet au 28 août 2026, uniquement lundi, mardi, jeudi et vendredi, 9h00�
 
 ## Access (PMR)
 
-Not specified
+- Status: Partially accessible
+- Source: Office de Tourisme de Peisey-Vallandry — https://www.peisey-vallandry.com/le-telepherique-vanoise-express.html
 
 ## Parking
 

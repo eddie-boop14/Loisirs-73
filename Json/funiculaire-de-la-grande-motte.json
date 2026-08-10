@@ -374,6 +374,7 @@
     "DATES DE CHANTIER PRÉCISES MAIS À SOURÇAGE SECONDAIRE — études 1987, percement du 13 décembre 1989 au 1er octobre 1991, mise en service le 14 avril 1993. Ces dates viennent des pages encyclopédiques et de remontees-mecaniques.net, pas de l'exploitant.",
     "CAPACITÉ 334 PLACES À SOURCE UNIQUE — le chiffre vient de la fiche technique remontees-mecaniques.net (désignation FUNI 334, Von Roll). Aucune source de l'exploitant ne le confirme.",
     "GPS = GARE DE DÉPART, PAS LE SOMMET — 45.452671 / 6.897683 est le point de la queue DATAtourisme, situé à Val Claret. L'arrivée est au glacier, bien plus haut : ne pas calculer de distance ou d'altitude depuis ce point.",
-    "PMR, ANIMAUX, DURÉE DU TRAJET : aucune source. Champs null."
+    "PMR, ANIMAUX, DURÉE DU TRAJET : aucune source. Champs null.",
+    "ACCES_PMR_UNVERIFIED — no official accessibility source found for this site. Status stays null rather than being inferred from the terrain."
   ]
 }

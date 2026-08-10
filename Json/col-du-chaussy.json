@@ -365,6 +365,7 @@
     "SERVICES AU COL À SOURÇAGE SECONDAIRE — une chapelle et une auberge sont signalées sur le plateau du col par une source secondaire. Ni horaires, ni saison, ni nom. Ne pas annoncer une auberge ouverte.",
     "AUCUNE DATE D'OUVERTURE OU DE FERMETURE PUBLIÉE — aucune source consultée ne donne de période d'ouverture de la route. À 1 533 m, ne pas supposer qu'elle est ouverte toute l'année ni qu'elle ferme l'hiver.",
     "SKI DE FOND AU COL L'HIVER signalé par une source secondaire, ce qui suppose un enneigement et donc des conditions de route hivernales non documentées.",
-    "PARKING, ANIMAUX, PMR, TARIF : aucune source. Champs null."
+    "PARKING, ANIMAUX, PMR, TARIF : aucune source. Champs null.",
+    "ACCES_PMR_UNVERIFIED — no official accessibility source found for this site. Status stays null rather than being inferred from the terrain."
   ]
 }

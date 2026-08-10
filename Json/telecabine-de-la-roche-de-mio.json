@@ -395,6 +395,7 @@
     "TARIFS RELEVÉS EN RECHERCHE, NON REVUS SUR UNE GRILLE — la grille complète (montée simple, journée, semaine, saison, deux tranches d'âge) est cohérente en interne, mais elle n'a pas été confirmée sur une page tarifaire de l'exploitant. La tranche « 5-12 ans » implique une gratuité en dessous de 5 ans qu'aucune source n'énonce.",
     "HORAIRES 9H-17H SANS VARIATION PUBLIÉE — aucune source ne mentionne de coupure méridienne ni de changement en fin de saison. L'absence de coupure n'est pas la même chose qu'une confirmation qu'il n'y en a pas.",
     "LA PLAGNE TARENTAISE EST LA COMMUNE, PLAGNE BELLECÔTE LE FRONT DE NEIGE — la gare de départ est à Plagne Bellecôte, qui n'est pas une commune. La Plagne Tarentaise (73210) pèse 97 POI dans la queue du 73.",
-    "ANIMAUX, PMR, POUSSETTES : aucune source. Champs null."
+    "ANIMAUX, PMR, POUSSETTES : aucune source. Champs null.",
+    "ACCES_PMR_UNVERIFIED — no official accessibility source found for this site. Status stays null rather than being inferred from the terrain."
   ]
 }

@@ -406,6 +406,7 @@
     "DURÉE DE TRAJET — 3 minutes, source unique non-opérateur (Infosnews). Les deux documents S3V ne donnent pas de temps de parcours. Champ null.",
     "GPS — l'IGN ne renvoie qu'un point POI pour l'installation entière (45.389041, 6.614401), pas deux gares distinctes. Le sommet de la Saulire est un autre point (45.383344, 6.610318). Ne pas scinder ce point unique en deux coordonnées de gare inventées.",
     "PMR, chiens et parking : aucune donnée trouvée sur aucune source. Champs null.",
-    "DONNÉES PÉRIMÉES À REJETER — tout ce qui vient de l'installation de 1952 (2 070 m / 2 690 m, 30 places, 360 p/h, Neyret-Beylier) et toute capacité cabine antérieure à décembre 2024 (142 places)."
+    "DONNÉES PÉRIMÉES À REJETER — tout ce qui vient de l'installation de 1952 (2 070 m / 2 690 m, 30 places, 360 p/h, Neyret-Beylier) et toute capacité cabine antérieure à décembre 2024 (142 places).",
+    "ACCES_PMR_UNVERIFIED — no official accessibility source found for this site. Status stays null rather than being inferred from the terrain."
   ]
 }

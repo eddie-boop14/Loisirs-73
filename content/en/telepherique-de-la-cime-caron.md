@@ -47,7 +47,8 @@ Du 4 juillet au 28 août 2026, 7 j/7, 9h45–16h15, dernière montée 15h45. La 
 
 ## Access (PMR)
 
-Not specified
+- Status: Accessible
+- Source: Caron 3200 — https://www.caron3200.com/en/getting-to-caron-3200/access-practical-information/
 
 ## Parking
 

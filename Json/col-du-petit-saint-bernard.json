@@ -423,6 +423,7 @@
     "GPS DU COL INTROUVABLE — les coordonnées de la page cyclo d'Explore Savoie (45.621759 / 6.80182) sont le point de départ à Séez, à environ 28 km en aval. Le seul relevé proche sourcé est celui de Chanousia (45.6803 N / 6.8839 E), qui est à environ 800 m de la frontière et n'est PAS le col. Champs latitude et longitude à null.",
     "PROFILS CYCLO — 27 km, +1 280 m, environ 5 % depuis Séez, contre 27,50 km, +1 289 m, 4,69 % de moyenne et 8,1 % maximum depuis Bourg-Saint-Maurice. La même page d'Explore Savoie écrit à la fois « 27 km » et « 28 km ». Ne pas mélanger une distance depuis Séez avec une pente depuis Bourg-Saint-Maurice.",
     "LA FICHE APIDAE donne la saison « du 31/05 au 25/10 » : c'est un enregistrement récurrent générique, pas la réalité 2026 (ouverture réelle les 22 et 24 mai). Les saisons issues d'APIDAE sur tout le jeu de données savoyard sont indicatives.",
-    "CHIENS ET GRATUITÉ ne sont sourcés que par la fiche touristique APIDAE (« Free of charge », « Pets Allowed », « Parking nearby ») — un champ de base de données touristique, pas un arrêté municipal ou départemental. Chanousia exige de son côté que les chiens soient tenus en laisse. PMR du col : introuvable."
+    "CHIENS ET GRATUITÉ ne sont sourcés que par la fiche touristique APIDAE (« Free of charge », « Pets Allowed », « Parking nearby ») — un champ de base de données touristique, pas un arrêté municipal ou départemental. Chanousia exige de son côté que les chiens soient tenus en laisse. PMR du col : introuvable.",
+    "ACCES_PMR_UNVERIFIED — no official accessibility source found for this site. Status stays null rather than being inferred from the terrain."
   ]
 }

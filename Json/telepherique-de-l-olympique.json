@@ -383,6 +383,7 @@
     "SOURÇAGE PRINCIPALEMENT SECONDAIRE — horaires, régime tarifaire et admission des VTT proviennent d'un agrégateur recoupé par le titre de la page officielle de Val d'Isère. Aucune page tarifaire de l'exploitant n'a été lue directement.",
     "GPS ABSENT — aucune ligne de la queue DATAtourisme ne correspond à l'appareil sous Val-d'Isère. Attention : les lignes « Olympique » de la queue sont à Albertville (parc olympique, halle olympique), sans aucun rapport. Champs null.",
     "DURÉE DU TRAJET, ANIMAUX, PMR : aucune source. Champs null.",
-    "PHOTO — la localisation est désormais établie : le cliché retenu est décrit « L'Olympique bubble. Télécabine, Val d'Isère, France » et illustre l'article fr.wikipedia « Téléphérique de l'Olympique ». Le doute qui subsiste porte sur l'ÉPOQUE, pas sur le lieu : la photo est datée de janvier 2006, alors que cette fiche décrit un téléphérique bicâble 3S Doppelmayr. Si le 3S est postérieur à 2006, l'image montre l'appareil précédent. Même piège que la Roche de Mio. À confirmer avant toute légende affirmant « le 3S »."
+    "PHOTO — la localisation est désormais établie : le cliché retenu est décrit « L'Olympique bubble. Télécabine, Val d'Isère, France » et illustre l'article fr.wikipedia « Téléphérique de l'Olympique ». Le doute qui subsiste porte sur l'ÉPOQUE, pas sur le lieu : la photo est datée de janvier 2006, alors que cette fiche décrit un téléphérique bicâble 3S Doppelmayr. Si le 3S est postérieur à 2006, l'image montre l'appareil précédent. Même piège que la Roche de Mio. À confirmer avant toute légende affirmant « le 3S ».",
+    "ACCES_PMR_UNVERIFIED — no official accessibility source found for this site. Status stays null rather than being inferred from the terrain."
   ]
 }

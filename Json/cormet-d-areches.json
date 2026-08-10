@@ -352,6 +352,7 @@
     "PROFILS DE MONTÉE NON RELEVÉS — les fiches cols-cyclisme existent pour les versants Beaufort et Aime mais leurs chiffres n'ont pas été extraits. Aucun kilométrage n'est avancé.",
     "COMMUNE RETENUE PAR DÉFAUT — la fiche est rattachée à Beaufort (73270) parce que c'est l'office de tourisme d'Arêches-Beaufort qui la documente. Le col relie deux vallées et aucune source ne précise la limite communale au point haut.",
     "AUCUN SERVICE DOCUMENTÉ AU COL — ni parking, ni refuge, ni point d'eau mentionné par les sources. Ne rien inventer par analogie avec le Cormet de Roselend.",
-    "ANIMAUX, PMR, TARIF : aucune source. Champs null."
+    "ANIMAUX, PMR, TARIF : aucune source. Champs null.",
+    "ACCES_PMR_UNVERIFIED — no official accessibility source found for this site. Status stays null rather than being inferred from the terrain."
   ]
 }

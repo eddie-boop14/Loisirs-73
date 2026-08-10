@@ -1,4 +1,4 @@
 {
- "_note": "EMPTY for the 73. This index is derived by scripts/build_transport_index.py from the Overpass API over the DEPARTMENT'S OWN bounding box. The 74's file describes Haute-Savoie car parks and would annotate Savoie pages with transport that is 100 km away. Run the builder against a Savoie bbox to populate it.",
- "entries": {}
+  "_meta": {},
+  "_note": "EMPTY for the 73. This index is derived by scripts/build_transport_index.py from the Overpass API over the DEPARTMENT'S OWN bounding box. The 74's file describes Haute-Savoie car parks and would annotate Savoie pages with transport that is 100 km away. Run the builder against a Savoie bbox to populate it."
 }

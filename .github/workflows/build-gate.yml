@@ -1,0 +1,180 @@
+name: Build gate (loisirs73)
+
+# Runs build_all on every push to main and every PR. This repo had no CI at
+# all: the engine arrived with 32 gates and nothing ran them, so a red build
+# reached production unopposed. gate_link_integrity alone was sitting at 51
+# broken internal targets across 1384 links, including the footer's own
+# mentions-légales and privacy links, for as long as the site had been up.
+#
+# Asserts, in order:
+#   - no silent key drop / mass field deletion vs the previous commit
+#   - the offline tripwire tests (circuit breakers, gate seeds, robots.txt)
+#   - schema + vocabulary gates on Json/
+#   - build_all (every gate inside it)
+#   - the post-render gates: links, canonicals, meta, i18n, winter, intent
+#   - byte-stable double build
+#
+# Any failure blocks the build -> Netlify (or any deploy) sees red.
+#
+# NOT run here, and why: tests/test_error_is_not_data.py and
+# tests/test_translate_push_gitadd.py exercise check_*/sweep_* and the
+# translate workflow, none of which exist in this repo yet. They are kept in
+# tests/ so they start working the day that tooling lands, rather than being
+# deleted and forgotten.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  build-gate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # full history: push 'before' / PR base must resolve
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Compute key-drop baseline
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            BASE="${{ github.event.pull_request.base.sha }}"
+          else
+            BASE="${{ github.event.before }}"
+            case "$BASE" in 0000000000000000000000000000000000000000|"") BASE="HEAD~1" ;; esac
+          fi
+          echo "BASE=$BASE" >> "$GITHUB_ENV"
+          echo "key-drop baseline = $BASE"
+
+      - name: No-silent-key-drop gate
+        run: python3 scripts/gate_no_key_drop.py --base "$BASE"
+
+      - name: Bot-commit sanity gate (no mass deletion of verified fields)
+        run: python3 scripts/gate_bot_commit_sanity.py --base "$BASE"
+
+      - name: Offline tripwire tests
+        # Prove the seeded-defect gates still catch their defect, and that the
+        # authored robots.txt parses. Pre-launch, the robots test asserts the
+        # site-wide block is intact rather than the launched shape.
+        run: |
+          python3 tests/test_gate_bot_commit_sanity.py
+          python3 tests/test_gate_no_dead_slug_refs.py
+          python3 tests/test_gate_no_escaped_tags.py
+          python3 tests/test_gate_facet_layer.py
+          python3 tests/test_gate_meta_uniqueness.py
+          python3 tests/test_gate_protected_placements.py
+          python3 tests/test_json_repair.py
+          python3 tests/test_robots_txt.py
+          python3 tests/test_translate_batch.py
+          python3 tests/test_translate_local.py
+
+      - name: No-dead-slug-refs gate (indexes point only at live fiches)
+        run: python3 scripts/gate_no_dead_slug_refs.py
+
+      - name: No-duplicate-lieux gate
+        run: python3 scripts/gate_no_duplicate_lieux.py
+
+      - name: No-orphan-geo-verified gate
+        run: python3 scripts/gate_geo_verified.py
+
+      - name: i18n label vocabulary gate (no half-shipped language)
+        run: python3 scripts/gate_i18n_labels.py
+
+      - name: Duck-quack coverage gate (every published lang quacks natively)
+        run: python3 scripts/gate_duck_quacks.py
+
+      - name: Multi-hub membership gate (valid hubs[], no dilution)
+        run: python3 scripts/gate_hubs_membership.py
+
+      - name: Accessibility (PMR) schema gate
+        run: python3 scripts/gate_acces_pmr.py
+
+      - name: Venue-centroid gate (fail ≥3 on one point, warn on 2)
+        run: python3 scripts/gate_venue_centroid.py
+
+      - name: Run build_all (every gate inside)
+        run: python3 scripts/build_all.py --no-site
+
+      - name: No-escaped-tags gate (authored prose never renders as &lt;tags&gt;)
+        run: python3 scripts/gate_no_escaped_tags.py
+
+      - name: Meta-uniqueness gate (every page introduces itself)
+        run: python3 scripts/gate_meta_uniqueness.py
+
+      - name: Canonical self-reference gate
+        run: python3 scripts/gate_canonical_selfref.py
+
+      - name: Locale-status gate (only published langs in hreflang/picker)
+        run: python3 scripts/gate_locale_status.py
+
+      - name: Render-verify gate (no unbacked +render-ai provenance)
+        # The 73 inherited a +render-ai claim from the 74 describing a run that
+        # never happened here. This gate is what makes that impossible to
+        # re-introduce.
+        run: python3 scripts/gate_render_verified.py
+
+      - name: i18n FR-leak ratchet (no new FR-scaffold in a non-FR lang)
+        run: python3 scripts/gate_i18n_leak.py
+
+      - name: Hero-integrity gate (every published fiche has a credited hero)
+        run: python3 scripts/gate_hero_integrity.py
+
+      - name: Published-verified gate
+        run: python3 scripts/gate_published_verified.py
+
+      - name: Intent-hub registry gate (≥3 members, 6 locales, schema)
+        run: python3 scripts/gate_intent_hubs.py
+
+      - name: Intent-nav gate (outbound nav + breadcrumb + placement)
+        run: python3 scripts/gate_intent_nav.py
+
+      - name: AI content layer gate
+        run: python3 scripts/gate_ai_content.py
+
+      - name: Facet-layer STRICT gate
+        run: python3 scripts/gate_facet_layer.py
+
+      - name: Access-cost model gate (one derived state per fiche)
+        run: python3 scripts/gate_access_cost.py
+
+      - name: Winter-schema gate
+        # Includes rule 4c: no other département's road service anywhere in the
+        # corpus. inforoute74.fr shipped on 126 Savoie pages before it existed.
+        run: python3 scripts/gate_winter_schema.py
+
+      - name: Reachability gate (strict, 0 orphans)
+        run: python3 scripts/check_reachability.py
+
+      - name: Build _site/ (publish target)
+        run: python3 scripts/build_site.py
+
+      - name: Link-integrity gate (no internal 404s in _site/)
+        run: python3 scripts/gate_link_integrity.py
+
+      - name: Redirect-shadow gate (no 301 source shadows a built 200 path)
+        run: python3 scripts/gate_redirect_shadows.py
+
+      - name: Byte-stable double build
+        # build_all has just run. Snapshot, rebuild, diff. Two consecutive
+        # builds must be md5-identical or the pipeline is not idempotent.
+        run: |
+          find . -name '*.html' -not -path './_site/*' | sort \
+            | xargs md5sum | sort > /tmp/h1.txt
+          python3 scripts/build_all.py --no-site > /dev/null
+          find . -name '*.html' -not -path './_site/*' | sort \
+            | xargs md5sum | sort > /tmp/h2.txt
+          if ! diff -q /tmp/h1.txt /tmp/h2.txt >/dev/null; then
+            echo "::error::Build is not byte-stable across cycles"
+            diff /tmp/h1.txt /tmp/h2.txt | head -20
+            exit 1
+          fi
+          echo "[ok] byte-stable: $(wc -l < /tmp/h1.txt) HTMLs identical across two consecutive builds"

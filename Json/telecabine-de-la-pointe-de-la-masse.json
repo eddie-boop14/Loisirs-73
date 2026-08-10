@@ -377,6 +377,7 @@
     "GPS = POINT DE VUE AU SOMMET — 45.299101 / 6.509023 vient de la ligne « Point de vue - Pointe de la Masse » de la queue DATAtourisme, pas de la gare de départ.",
     "LES BELLEVILLE EST LA COMMUNE, LES MENUIRES LA STATION — Les Belleville (73440) regroupe Les Menuires, Val Thorens et Saint-Martin-de-Belleville, et pèse 131 POI dans la queue du 73, troisième commune du département. Écrire « commune des Menuires » serait faux.",
     "ACCÈS À LA SALLE DES MACHINES INCLUS — Les Menuires l'annoncent « free access » avec le billet piéton. C'est inhabituel et vérifiable sur place ; aucune source ne précise les horaires de cette visite.",
-    "DURÉE, ANIMAUX, PMR, POUSSETTES : hors les 8 minutes annoncées, aucune source. Champs null."
+    "DURÉE, ANIMAUX, PMR, POUSSETTES : hors les 8 minutes annoncées, aucune source. Champs null.",
+    "ACCES_PMR_UNVERIFIED — no official accessibility source found for this site. Status stays null rather than being inferred from the terrain."
   ]
 }

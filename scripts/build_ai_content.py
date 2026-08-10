@@ -681,7 +681,8 @@ def render_llms_index(fiches):
                   "cascade": "Waterfalls", "lac": "Lakes", "plage": "Beaches", "chateau": "Castles",
                   "musee": "Museums", "sentier": "Trails", "base-de-loisirs": "Leisure parks",
                   "voie-verte": "Greenways", "station": "Ski resorts", "attraction": "Attractions"}
-    category_line = ", ".join(cat_labels.get(c, c.replace("-", " ").capitalize()) for c in cats)
+    category_line = (siteconfig.AI_CATEGORY_LINE
+                     or ", ".join(cat_labels.get(c, c.replace("-", " ").capitalize()) for c in cats))
     import locales as _loc
     hints = "".join("\n- " + h for h in siteconfig.AI_FETCH_HINTS)
     trip = siteconfig.AI_TRIP_CONTEXT or f"the {siteconfig.DEPT_NAME} area"

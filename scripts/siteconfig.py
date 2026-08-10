@@ -79,6 +79,7 @@ ROAD_INFO_HOST = _ri.get("host") or ""
 _ai = _cfg.get("ai_scope") or {}
 AI_TRIP_CONTEXT = _ai.get("trip_context") or ""
 AI_FETCH_HINTS = _ai.get("fetch_hints") or []
+AI_CATEGORY_LINE = _ai.get("category_line") or ""
 
 # Optional sibling site. Absent = no cross-link rendered anywhere. See
 # build_lieu_page.sister_link_html() for why this stays off until the sibling

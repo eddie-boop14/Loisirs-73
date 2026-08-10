@@ -99,9 +99,5 @@
   "specification": {
     "llms_txt_version": "1.7.0",
     "last_validated": "2026-08-10"
-  },
-  "facet_indexes": {
-    "url_pattern": "https://loisirs73.fr/content/facets/{facet}.md",
-    "facets": []
   }
 }

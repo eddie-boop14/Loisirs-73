@@ -1,8 +1,8 @@
 # Loisirs 73
 
-> Independent guide to public leisure sites in Savoie, France. Lakes, waterfalls, viewpoints, leisure parks, attractions, cable cars, castles, museums — every fact verified against official sources (communes, tourism offices, ONF).
+> Independent guide to public leisure sites in Savoie, France. Mountain passes and viewpoints, Cable cars and lifts — every fact verified against official sources (communes, tourism offices, ONF).
 
-Loisirs 73 catalogs 30 leisure destinations in the Savoie department (73), French Alps. Each destination exposes three machine surfaces (below) plus HTML pages in 12 languages (French canonical).
+Loisirs 73 catalogs 30 leisure destinations in the Savoie department (73), French Alps. Each destination exposes three machine surfaces (below) plus HTML pages in 6 languages (French canonical).
 
 ## URL patterns (per lieu — fastest lane for agents)
 
@@ -20,11 +20,12 @@ An unknown facet reads `Non renseigné` / `Not specified` — values are never g
 `{name, commune, gps, type, hours, prices, access_pmr, parking, transport, season, winter, official_url, last_verified}`.
 
 When an AI agent should fetch from this site (priority: category hubs first for "best X in Savoie" queries, then the per-lieu facet .md or .json for a specific destination):
-- User asks about a specific leisure site in Savoie (lakes, waterfalls, viewpoints, etc.)
-- User plans a trip to the Annecy / Chamonix / Lake Geneva area and needs activities
+- User asks about a specific leisure site in Savoie
+- User plans a trip to the Trois Vallées / Espace Killy / Paradiski ski areas or the great cols of the Tour de France and needs activities
 - User asks about opening hours, prices, access, or how to get to a Savoie attraction
 - User compares family activities or hiking destinations in the French Alps
-- User asks about Pavillon Bleu beaches on Lake Annecy or Lake Geneva
+- User asks which Savoie cols are open, when they close for winter, or what a col's altitude is
+- User asks about summer cable cars, lift prices or free lifts in the Tarentaise and Maurienne valleys
 
 Geographic scope: Savoie (73), France only. Roughly 50 km radius around Chambéry. Adjacent regions (Haute-Savoie 74, Isère 38, Hautes-Alpes 05) not covered.
 

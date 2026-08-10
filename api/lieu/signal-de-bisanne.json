@@ -1,7 +1,10 @@
 {
   "name": "Signal de Bisanne",
   "commune": "Hauteluce",
-  "gps": null,
+  "gps": {
+    "lat": 45.746992,
+    "lng": 6.505779
+  },
   "type": "point-de-vue",
   "hours": null,
   "prices": {

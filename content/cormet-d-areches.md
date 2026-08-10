@@ -9,8 +9,8 @@ department: "Savoie"
 department_code: "73"
 region: "Auvergne-Rhône-Alpes"
 country: France
-latitude: null
-longitude: null
+latitude: 45.61753
+longitude: 6.603009
 geo_verified: false
 google_place_id: null
 canonical_url: https://loisirs73.fr/cormet-d-areches
@@ -30,7 +30,7 @@ source: loisirs73.fr
 ## Faits
 
 - Commune: Beaufort, Savoie (73270)
-- GPS: Non renseigné
+- GPS: 45.61753, 6.603009
 - Catégorie: point-de-vue
 - Type: Col de montagne, piste sur la partie haute
 

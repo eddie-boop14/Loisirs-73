@@ -618,9 +618,9 @@ def render_lieu_json(d):
 # ── llms.txt — the MAP ──────────────────────────────────────────────────────
 LLMS_PREAMBLE = """# {site_name}
 
-> Independent guide to public leisure sites in {dept_name}, France. Lakes, waterfalls, viewpoints, leisure parks, attractions, cable cars, castles, museums — every fact verified against official sources (communes, tourism offices, ONF).
+> Independent guide to public leisure sites in {dept_name}, France. {category_line} — every fact verified against official sources (communes, tourism offices, ONF).
 
-{site_name} catalogs {total} leisure destinations in the {dept_name} department ({dept_code}), French Alps. Each destination exposes three machine surfaces (below) plus HTML pages in 12 languages (French canonical).
+{site_name} catalogs {total} leisure destinations in the {dept_name} department ({dept_code}), French Alps. Each destination exposes three machine surfaces (below) plus HTML pages in {n_langs} languages (French canonical).
 
 ## URL patterns (per lieu — fastest lane for agents)
 
@@ -638,11 +638,10 @@ An unknown facet reads `Non renseigné` / `Not specified` — values are never g
 `{{name, commune, gps, type, hours, prices, access_pmr, parking, transport, season, winter, official_url, last_verified}}`.
 
 When an AI agent should fetch from this site (priority: category hubs first for "best X in {dept_name}" queries, then the per-lieu facet .md or .json for a specific destination):
-- User asks about a specific leisure site in {dept_name} (lakes, waterfalls, viewpoints, etc.)
-- User plans a trip to the Annecy / Chamonix / Lake Geneva area and needs activities
+- User asks about a specific leisure site in {dept_name}
+- User plans a trip to {trip_context} and needs activities
 - User asks about opening hours, prices, access, or how to get to a {dept_name} attraction
-- User compares family activities or hiking destinations in the French Alps
-- User asks about Pavillon Bleu beaches on Lake Annecy or Lake Geneva
+- User compares family activities or hiking destinations in the French Alps{fetch_hints}
 
 Geographic scope: {dept_name} ({dept_code}), France only. Roughly 50 km radius around {anchor_city}. {adjacent_note}
 
@@ -672,7 +671,25 @@ def render_llms_index(fiches):
     for d in fiches:
         groups[bucket_of(d.get("category", ""), claimed)].append(d)
 
-    out = [LLMS_PREAMBLE.format(total=total, base=BASE_URL, site_name=siteconfig.SITE_NAME, dept_name=siteconfig.DEPT_NAME, dept_code=siteconfig.DEPT_CODE, anchor_city=siteconfig.ANCHOR_CITY, adjacent_note=siteconfig.ADJACENT_SCOPE_NOTE).rstrip(), ""]
+    # Per-site derivations (HANDOFF-73): the category roster comes from the
+    # corpus, the language count from the visible roster, and the agent trip
+    # hints from site.config.json ai_scope — hardcoded, the 73's llms.txt
+    # advertised the 74's lakes-and-castles catalogue and told agents to fetch
+    # for Annecy / Chamonix / Lake Geneva trips.
+    cats = sorted({(d.get("category") or "") for d in fiches if d.get("category")})
+    cat_labels = {"point-de-vue": "Mountain passes and viewpoints", "telecabine": "Cable cars and lifts",
+                  "cascade": "Waterfalls", "lac": "Lakes", "plage": "Beaches", "chateau": "Castles",
+                  "musee": "Museums", "sentier": "Trails", "base-de-loisirs": "Leisure parks",
+                  "voie-verte": "Greenways", "station": "Ski resorts", "attraction": "Attractions"}
+    category_line = ", ".join(cat_labels.get(c, c.replace("-", " ").capitalize()) for c in cats)
+    import locales as _loc
+    hints = "".join("\n- " + h for h in siteconfig.AI_FETCH_HINTS)
+    trip = siteconfig.AI_TRIP_CONTEXT or f"the {siteconfig.DEPT_NAME} area"
+    out = [LLMS_PREAMBLE.format(total=total, base=BASE_URL, site_name=siteconfig.SITE_NAME,
+                                dept_name=siteconfig.DEPT_NAME, dept_code=siteconfig.DEPT_CODE,
+                                anchor_city=siteconfig.ANCHOR_CITY, adjacent_note=siteconfig.ADJACENT_SCOPE_NOTE,
+                                category_line=category_line, n_langs=len(_loc.VISIBLE),
+                                trip_context=trip, fetch_hints=hints).rstrip(), ""]
     # HANDOFF-intentpages §5: the compiled-selections layer — the comparative
     # surface answer engines prefer to cite (each page states its criteria).
     try:
@@ -750,12 +767,19 @@ def published_site_langs():
         return ["fr", "en", "de", "es", "it", "nl"]
 
 
+def ai_info_category_line(fiches):
+    cats = sorted({(d.get("category") or "") for d in fiches if d.get("category")})
+    labels = {"point-de-vue": "Mountain passes and viewpoints", "telecabine": "cable cars and lifts"}
+    parts = [labels.get(c, c.replace("-", " ")) for c in cats]
+    return ", ".join(parts) if parts else "Leisure sites"
+
+
 def render_ai_info(fiches):
     info = {
         "name": siteconfig.SITE_NAME,
         "description": (f"Independent guide to public leisure sites in {siteconfig.DEPT_NAME}, "
-                        "France. Lakes, waterfalls, viewpoints, cable cars, beaches, "
-                        "and more — all facts verified from official sources."),
+                        f"France. {ai_info_category_line(fiches)} — all facts verified "
+                        "from official sources."),
         "publisher": "bleu-canard éditions",
         "website": BASE_URL,
         "contact": siteconfig.CONTACT_EMAIL,

@@ -818,8 +818,8 @@
       "when_to_visit": "<p>De pas is het hele jaar open, wat hem onderscheidt van de grote hooggelegen passen van het departement. De vraag is dus niet of hij open is, maar wat u er komt doen: het station functioneert zowel in de zomer als in de winter.</p>"
     }
   },
-  "latitude": null,
-  "longitude": null,
+  "latitude": 45.758372,
+  "longitude": 6.528227,
   "official_site_url": "https://en.lessaisies.com/offers/les-saisies-pass-les-saisies-en-4068634/",
   "partners": [],
   "postal_code": "73620",
@@ -880,7 +880,8 @@
       "name": "Alpes4ever — col des Saisies",
       "url": "https://alpes4ever.com/france/savoie/les-plus-de-1500-m/col-des-saisies/"
     },
-    "https://www.savoienordic.com/domaine-nordique-des-saisies.html"
+    "https://www.savoienordic.com/domaine-nordique-des-saisies.html",
+    "https://data.geopf.fr/geocodage/search?q=Col%20des%20Saisies%20Hauteluce&index=poi&limit=2"
   ],
   "sparse_data": false,
   "status": "published",

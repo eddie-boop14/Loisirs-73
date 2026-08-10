@@ -1,7 +1,10 @@
 {
   "name": "Col du Petit-Saint-Bernard",
   "commune": "Séez",
-  "gps": null,
+  "gps": {
+    "lat": 45.680445,
+    "lng": 6.883892
+  },
   "type": "point-de-vue",
   "hours": null,
   "prices": {

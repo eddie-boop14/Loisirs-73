@@ -9,8 +9,8 @@ department: "Savoie"
 department_code: "73"
 region: "Auvergne-Rhône-Alpes"
 country: France
-latitude: null
-longitude: null
+latitude: 45.680445
+longitude: 6.883892
 geo_verified: false
 google_place_id: null
 canonical_url: https://loisirs73.fr/col-du-petit-saint-bernard
@@ -30,7 +30,7 @@ source: loisirs73.fr
 ## Faits
 
 - Commune: Séez, Savoie (73700)
-- GPS: Non renseigné
+- GPS: 45.680445, 6.883892
 - Catégorie: point-de-vue
 - Type: Col routier frontalier et site archéologique
 

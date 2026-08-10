@@ -73,6 +73,13 @@ _ri = _cfg.get("road_info") or {}
 ROAD_INFO_URL = _ri.get("url") or ""
 ROAD_INFO_HOST = _ri.get("host") or ""
 
+# Agent-guidance strings for llms.txt — per-site content, not engine text.
+# Hardcoded, the 73's llms.txt told AI agents to fetch from this site when a
+# user "plans a trip to the Annecy / Chamonix / Lake Geneva area".
+_ai = _cfg.get("ai_scope") or {}
+AI_TRIP_CONTEXT = _ai.get("trip_context") or ""
+AI_FETCH_HINTS = _ai.get("fetch_hints") or []
+
 # Optional sibling site. Absent = no cross-link rendered anywhere. See
 # build_lieu_page.sister_link_html() for why this stays off until the sibling
 # actually resolves.

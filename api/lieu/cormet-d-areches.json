@@ -1,7 +1,10 @@
 {
   "name": "Cormet d'Arêches",
   "commune": "Beaufort",
-  "gps": null,
+  "gps": {
+    "lat": 45.61753,
+    "lng": 6.603009
+  },
   "type": "point-de-vue",
   "hours": null,
   "prices": {

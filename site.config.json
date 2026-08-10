@@ -31,5 +31,12 @@
     "north": 45.95,
     "east": 7.2
   },
-  "sister_proximity_km": 30
+  "sister_proximity_km": 30,
+  "ai_scope": {
+    "trip_context": "the Trois Vallées / Espace Killy / Paradiski ski areas or the great cols of the Tour de France",
+    "fetch_hints": [
+      "User asks which Savoie cols are open, when they close for winter, or what a col's altitude is",
+      "User asks about summer cable cars, lift prices or free lifts in the Tarentaise and Maurienne valleys"
+    ]
+  }
 }

@@ -9,8 +9,8 @@ department: "Savoie"
 department_code: "73"
 region: "Auvergne-Rhône-Alpes"
 country: France
-latitude: null
-longitude: null
+latitude: 45.758372
+longitude: 6.528227
 geo_verified: false
 google_place_id: null
 canonical_url: https://loisirs73.fr/col-des-saisies
@@ -30,7 +30,7 @@ source: loisirs73.fr
 ## Faits
 
 - Commune: Hauteluce, Savoie (73620)
-- GPS: Non renseigné
+- GPS: 45.758372, 6.528227
 - Catégorie: point-de-vue
 - Type: Col routier et station
 

@@ -834,8 +834,8 @@
       "when_to_visit": "<p>De weg is open van eind mei tot de eerste sneeuw. In 2026 ging hij open op 22 en 24 mei, afhankelijk van de zijde; er is geen sluitingsdatum gepubliceerd. Komt u voor de tuin Chanousia, dan is het venster veel smaller en staat de einddatum niet vast: opening aangekondigd op 6 juli 2026, sluiting op 13 september volgens de tuin of op 14 september volgens een regionale bron.</p>"
     }
   },
-  "latitude": null,
-  "longitude": null,
+  "latitude": 45.680445,
+  "longitude": 6.883892,
   "official_site_url": "https://www.explore-savoie.com/en/sit/petit-saint-bernard-pass-90289/",
   "partners": [],
   "postal_code": "73700",
@@ -934,7 +934,8 @@
     {
       "name": "Wikipedia (EN) — Little St Bernard Pass (cromlech, passages du Tour de France)",
       "url": "https://en.wikipedia.org/wiki/Little_St_Bernard_Pass"
-    }
+    },
+    "https://data.geopf.fr/geocodage/search?q=Col%20du%20Petit-Saint-Bernard%20S%C3%A9ez&index=poi&limit=2"
   ],
   "sparse_data": true,
   "status": "published",

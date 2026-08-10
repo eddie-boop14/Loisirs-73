@@ -1,7 +1,10 @@
 {
   "name": "Télécabine Orelle – Cime Caron",
   "commune": "Orelle",
-  "gps": null,
+  "gps": {
+    "lat": 45.253241,
+    "lng": 6.565538
+  },
   "type": "telecabine",
   "hours": null,
   "prices": {

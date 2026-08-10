@@ -1,7 +1,10 @@
 {
   "name": "Col des Saisies",
   "commune": "Hauteluce",
-  "gps": null,
+  "gps": {
+    "lat": 45.758372,
+    "lng": 6.528227
+  },
   "type": "point-de-vue",
   "hours": null,
   "prices": {

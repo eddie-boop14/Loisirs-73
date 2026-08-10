@@ -9,8 +9,8 @@ department: "Savoie"
 department_code: "73"
 region: "Auvergne-Rhône-Alpes"
 country: France
-latitude: null
-longitude: null
+latitude: 45.210421
+longitude: 6.337094
 geo_verified: false
 google_place_id: null
 canonical_url: https://loisirs73.fr/en/col-du-mollard
@@ -30,7 +30,7 @@ source: loisirs73.fr
 ## Facts
 
 - Commune: Albiez-Montrond, Savoie (73300)
-- GPS: Not specified
+- GPS: 45.210421, 6.337094
 - Category: point-de-vue
 - Type: Road pass and viewpoint
 

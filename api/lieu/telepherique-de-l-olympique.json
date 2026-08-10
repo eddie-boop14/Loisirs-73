@@ -1,7 +1,10 @@
 {
   "name": "Téléphérique de l'Olympique",
   "commune": "Val-d'Isère",
-  "gps": null,
+  "gps": {
+    "lat": 45.444432,
+    "lng": 6.961164
+  },
   "type": "telecabine",
   "hours": "9h45–16h45, sans interruption à la mi-journée.",
   "prices": {

@@ -833,8 +833,8 @@
       "when_to_visit": "<p>Van 4 juli tot 30 augustus 2026, van 9u45 tot 16u45 zonder onderbreking. De keuze tussen deze installatie en de Gondelbaan Solaise berust op een eenvoudig criterium: met een fiets is het de Olympique; te voet beide, en gratis.</p>"
     }
   },
-  "latitude": null,
-  "longitude": null,
+  "latitude": 45.444432,
+  "longitude": 6.961164,
   "official_site_url": "https://www.valdisere.com/en/val-disere-in-summer/free-lifts-for-pedestrians/",
   "partners": [],
   "postal_code": "73150",
@@ -899,7 +899,8 @@
     {
       "name": "Radio Val d'Isère — les infos avalines du 20 juillet 2026",
       "url": "https://www.radiovaldisere.com/fiche-publication/les-infos-avalines-du-20-juillet-2026"
-    }
+    },
+    "https://data.geopf.fr/geocodage/search?q=T%C3%A9l%C3%A9ph%C3%A9rique%20de%20l%27Olympique%20Val-d%27Is%C3%A8re&index=poi&limit=2"
   ],
   "sparse_data": false,
   "status": "published",

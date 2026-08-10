@@ -9,8 +9,8 @@ department: "Savoie"
 department_code: "73"
 region: "Auvergne-Rhône-Alpes"
 country: France
-latitude: null
-longitude: null
+latitude: 45.746992
+longitude: 6.505779
 geo_verified: false
 google_place_id: null
 canonical_url: https://loisirs73.fr/en/signal-de-bisanne
@@ -30,7 +30,7 @@ source: loisirs73.fr
 ## Facts
 
 - Commune: Hauteluce, Savoie (73620)
-- GPS: Not specified
+- GPS: 45.746992, 6.505779
 - Category: point-de-vue
 - Type: Road summit and viewpoint
 

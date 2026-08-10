@@ -1,0 +1,79 @@
+# robots-ai.txt — explicit AI bot policy for loisirs73.fr
+# Spec: https://www.ai-visibility.org.uk/specifications/robots-ai-txt/
+# Last updated: 2026-07-25
+#
+# SUPPLEMENTARY POLICY — robots.txt is authoritative. Major crawlers read
+# robots.txt, not this file. This file documents intent + attribution for
+# AI operators who choose to honour the ai-visibility.org.uk convention.
+# Nothing here may be stricter than robots.txt for a citation bot: every
+# citation agent below is "Allow: /" in both files.
+
+# Default for any AI crawler not explicitly listed
+User-agent: *
+Allow: /
+Disallow: /merci-signalement
+Disallow: /merci-partenaire
+
+# ──────────────────────────────────────────────────────────────
+# CITATION-allowed (these bots can read and cite our content)
+# ──────────────────────────────────────────────────────────────
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: PerplexityBot-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# ──────────────────────────────────────────────────────────────
+# TRAINING-restricted (allow citation; do NOT use for model training)
+# ──────────────────────────────────────────────────────────────
+User-agent: GPTBot
+# GPTBot is OpenAI's TRAINING crawler — it is not the citation path, so this
+# rule cannot affect citation. (Citation runs through OAI-SearchBot and
+# ChatGPT-User, both Allow: / above and in robots.txt.) Denying the raw
+# markdown + json mirrors denies a training slice only; the HTML pages that
+# citation actually reads stay open.
+# Mirrors robots.txt exactly — the two files must not disagree.
+Allow: /
+Disallow: /content/
+Disallow: /api/
+
+User-agent: CCBot
+Allow: /
+# Note: Common Crawl is used for many model training datasets.
+# Content licensed for citation, not model training. See /.well-known/ai-info.json
+
+# ──────────────────────────────────────────────────────────────
+# Discovery
+# ──────────────────────────────────────────────────────────────
+Discovery: https://loisirs73.fr/llms.txt
+Discovery: https://loisirs73.fr/llms-full.txt
+Discovery: https://loisirs73.fr/.well-known/ai-info.json
+Discovery: https://loisirs73.fr/api/lieux.json
+
+# ──────────────────────────────────────────────────────────────
+# Attribution requirements
+# ──────────────────────────────────────────────────────────────
+# Attribution: Required for citation. Format: "Source: loisirs73.fr"
+# Original-Content: All textual content is original research.
+# Photo-Licensing: See per-photo licenses in YAML frontmatter of /content/{slug}.md files.

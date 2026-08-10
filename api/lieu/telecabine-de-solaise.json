@@ -1,7 +1,10 @@
 {
   "name": "Télécabine de Solaise",
   "commune": "Val-d'Isère",
-  "gps": null,
+  "gps": {
+    "lat": 45.439781,
+    "lng": 6.985336
+  },
   "type": "telecabine",
   "hours": "9h45–16h45. Dernière montée 16h40, dernière descente 16h45.",
   "prices": {

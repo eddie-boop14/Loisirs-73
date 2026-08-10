@@ -785,8 +785,8 @@
       "when_to_visit": "<p>Van 4 juli tot 30 augustus 2026. De gratis toegang voor voetgangers wordt aangekondigd zonder precieze periode: niets geeft aan of die het hele seizoen geldt. Controleren aan het loket.</p>"
     }
   },
-  "latitude": null,
-  "longitude": null,
+  "latitude": 45.439781,
+  "longitude": 6.985336,
   "official_site_url": "https://www.valdisere.com/en/val-disere-in-summer/free-lifts-for-pedestrians/",
   "partners": [],
   "postal_code": "73150",
@@ -842,7 +842,8 @@
     {
       "name": "Radio Val d'Isère — les infos avalines du 20 juillet 2026",
       "url": "https://www.radiovaldisere.com/fiche-publication/les-infos-avalines-du-20-juillet-2026"
-    }
+    },
+    "https://data.geopf.fr/geocodage/search?q=T%C3%A9l%C3%A9cabine%20de%20Solaise%20Val-d%27Is%C3%A8re&index=poi&limit=2"
   ],
   "sparse_data": false,
   "status": "published",

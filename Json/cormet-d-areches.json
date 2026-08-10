@@ -776,8 +776,8 @@
       "when_to_visit": "<p>Het toeristenbureau geeft de col als « doorgaans bereikbaar van 15 juni tot 15 oktober », maar gebruikt dezelfde zin voor een andere col: te beschouwen als een orde van grootte, niet als een periode. Er is geen datum voor 2026 gepubliceerd. Controleer de staat van de weg, en bedenk dat het bovenste deel onverhard is.</p>"
     }
   },
-  "latitude": null,
-  "longitude": null,
+  "latitude": 45.61753,
+  "longitude": 6.603009,
   "official_site_url": "https://en.areches-beaufort.com/site-naturel/le-cormet-dareches/",
   "partners": [],
   "postal_code": "73270",
@@ -829,7 +829,8 @@
     {
       "name": "Alpes4ever — Cormet d'Arêches",
       "url": "https://alpes4ever.com/france/savoie/les-plus-de-2000-m/cormet-dareches/"
-    }
+    },
+    "https://data.geopf.fr/geocodage/search?q=Cormet%20d%27Ar%C3%AAches&index=poi&limit=2"
   ],
   "sparse_data": false,
   "status": "published",

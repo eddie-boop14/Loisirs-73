@@ -9,8 +9,8 @@ department: "Savoie"
 department_code: "73"
 region: "Auvergne-Rhône-Alpes"
 country: France
-latitude: null
-longitude: null
+latitude: 45.253241
+longitude: 6.565538
 geo_verified: false
 google_place_id: null
 canonical_url: https://loisirs73.fr/telecabine-orelle-cime-caron
@@ -30,7 +30,7 @@ source: loisirs73.fr
 ## Faits
 
 - Commune: Orelle, Savoie (73140)
-- GPS: Non renseigné
+- GPS: 45.253241, 6.565538
 - Catégorie: telecabine
 - Type: Télécabine en deux tronçons
 

@@ -811,8 +811,8 @@
       "when_to_visit": "<p>Geen enkele geraadpleegde bron publiceert een openingsperiode. Op 1 638 m heeft de weg vermoedelijk te maken met sneeuw, maar niets is gedocumenteerd: controleer dit voordat u buiten het seizoen omhoog rijdt.</p>"
     }
   },
-  "latitude": null,
-  "longitude": null,
+  "latitude": 45.210421,
+  "longitude": 6.337094,
   "official_site_url": "http://www.maurienne-tourisme.com/velo/les-grands-cols/mollard/",
   "partners": [],
   "postal_code": "73300",
@@ -869,7 +869,8 @@
       "name": "Alpes4ever — col du Mollard",
       "url": "https://alpes4ever.com/france/savoie/les-plus-de-1500-m/col-du-mollard/"
     },
-    "https://www.explore-maurienne.com/decouvrir/les-plus-grands-cols/"
+    "https://www.explore-maurienne.com/decouvrir/les-plus-grands-cols/",
+    "https://data.geopf.fr/geocodage/search?q=Col%20du%20Mollard%20Albiez-Montrond&index=poi&limit=2"
   ],
   "sparse_data": false,
   "status": "published",

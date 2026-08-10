@@ -1,7 +1,10 @@
 {
   "name": "Téléphérique de la Grande Motte",
   "commune": "Tignes",
-  "gps": null,
+  "gps": {
+    "lat": 45.417423,
+    "lng": 6.880884
+  },
   "type": "telecabine",
   "hours": null,
   "prices": {

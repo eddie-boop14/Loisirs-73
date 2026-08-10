@@ -820,8 +820,8 @@
       "when_to_visit": "<p>Geen enkele geraadpleegde bron publiceert een openingsperiode voor de toegangsweg. De top is een uitzichtpunt over de Beaufortain, per fiets bereikbaar via twee flanken van zeer ongelijke moeilijkheid.</p>"
     }
   },
-  "latitude": null,
-  "longitude": null,
+  "latitude": 45.746992,
+  "longitude": 6.505779,
   "official_site_url": "https://fr.wikipedia.org/wiki/Mont%C3%A9e_de_Bisanne",
   "partners": [],
   "postal_code": "73620",
@@ -882,7 +882,8 @@
       "name": "Alpes4ever — Signal de Bisanne",
       "url": "https://alpes4ever.com/france/savoie/les-plus-de-1500-m/signal-de-bisanne/"
     },
-    "https://en.lessaisies.com/offers/orientation-table-of-signal-de-bisanne-les-saisies-en-4070271/"
+    "https://en.lessaisies.com/offers/orientation-table-of-signal-de-bisanne-les-saisies-en-4070271/",
+    "https://data.geopf.fr/geocodage/search?q=Signal%20de%20Bisanne%20Villard-sur-Doron&index=poi&limit=2"
   ],
   "sparse_data": false,
   "status": "published",

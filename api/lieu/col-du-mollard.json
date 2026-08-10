@@ -1,7 +1,10 @@
 {
   "name": "Col du Mollard",
   "commune": "Albiez-Montrond",
-  "gps": null,
+  "gps": {
+    "lat": 45.210421,
+    "lng": 6.337094
+  },
   "type": "point-de-vue",
   "hours": null,
   "prices": {

@@ -9,8 +9,8 @@ department: "Savoie"
 department_code: "73"
 region: "Auvergne-Rhône-Alpes"
 country: France
-latitude: null
-longitude: null
+latitude: 45.417423
+longitude: 6.880884
 geo_verified: false
 google_place_id: null
 canonical_url: https://loisirs73.fr/telepherique-de-la-grande-motte
@@ -30,7 +30,7 @@ source: loisirs73.fr
 ## Faits
 
 - Commune: Tignes, Savoie (73320)
-- GPS: Non renseigné
+- GPS: 45.417423, 6.880884
 - Catégorie: telecabine
 - Type: Téléphérique de glacier
 

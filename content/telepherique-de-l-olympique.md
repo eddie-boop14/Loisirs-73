@@ -9,8 +9,8 @@ department: "Savoie"
 department_code: "73"
 region: "Auvergne-Rhône-Alpes"
 country: France
-latitude: null
-longitude: null
+latitude: 45.444432
+longitude: 6.961164
 geo_verified: false
 google_place_id: null
 canonical_url: https://loisirs73.fr/telepherique-de-l-olympique
@@ -30,7 +30,7 @@ source: loisirs73.fr
 ## Faits
 
 - Commune: Val-d'Isère, Savoie (73150)
-- GPS: Non renseigné
+- GPS: 45.444432, 6.961164
 - Catégorie: telecabine
 - Type: Téléphérique bicâble 3S
 

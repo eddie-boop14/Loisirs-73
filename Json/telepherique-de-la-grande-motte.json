@@ -773,8 +773,8 @@
       "when_to_visit": "<p>Om te skiën: van 20 juni tot 15 juli 2026 volgens de exploitant. Om te voet omhoog te gaan: tot 28 augustus 2026 volgens dezelfde bron, maar drie andere einddata circuleren. Bel of schrijf ALTTA voordat u op weg gaat.</p>"
     }
   },
-  "latitude": null,
-  "longitude": null,
+  "latitude": 45.417423,
+  "longitude": 6.880884,
   "official_site_url": "https://www.skipass-tignes.com/en/altitude-experiences",
   "partners": [],
   "postal_code": "73320",
@@ -853,7 +853,8 @@
     {
       "name": "Parlons Politique — Tignes confie la gestion du domaine à Altta au 1er juin 2026",
       "url": "https://www.parlons-politique.fr/politique-locale/tignes-se-libere-de-la-compagnie-des-alpes-gestion-du-domaine-confiee-le-1er-juin-2026-a-altta-pour-souverainete-locale-tourisme-et-transition-energetique_6687/"
-    }
+    },
+    "https://data.geopf.fr/geocodage/search?q=T%C3%A9l%C3%A9ph%C3%A9rique%20de%20la%20Grande%20Motte%20Tignes&index=poi&limit=2"
   ],
   "sparse_data": true,
   "status": "published",

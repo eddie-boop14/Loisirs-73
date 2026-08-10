@@ -236,7 +236,7 @@
           "commune": "Chambéry"
         },
         "it": {
-          "name": "Château des ducs de Savoie",
+          "name": "Il Château des ducs de Savoie",
           "commune": "Chambéry"
         },
         "es": {
@@ -794,6 +794,42 @@
       "access_state": "free"
     },
     {
+      "slug": "espace-alu-saint-michel-de-maurienne",
+      "categories": [
+        "musee"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Espace Alu",
+          "commune": "Saint-Michel-de-Maurienne"
+        },
+        "en": {
+          "name": "Espace Alu",
+          "commune": "Saint-Michel-de-Maurienne"
+        },
+        "de": {
+          "name": "Espace Alu",
+          "commune": "Saint-Michel-de-Maurienne"
+        },
+        "it": {
+          "name": "Espace Alu",
+          "commune": "Saint-Michel-de-Maurienne"
+        },
+        "es": {
+          "name": "Espace Alu",
+          "commune": "Saint-Michel-de-Maurienne"
+        },
+        "nl": {
+          "name": "Espace Alu",
+          "commune": "Saint-Michel-de-Maurienne"
+        }
+      },
+      "latitude": 45.219223,
+      "longitude": 6.47305,
+      "is_free": false,
+      "access_state": "paid"
+    },
+    {
       "slug": "fort-de-tamie-mercury",
       "categories": [
         "chateau"
@@ -970,6 +1006,186 @@
       },
       "latitude": null,
       "longitude": null,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
+      "slug": "les-charmettes-maison-jean-jacques-rousseau-chambery",
+      "categories": [
+        "musee"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Les Charmettes, maison de Jean-Jacques Rousseau",
+          "commune": "Chambéry"
+        },
+        "en": {
+          "name": "Les Charmettes, Jean-Jacques Rousseau's house",
+          "commune": "Chambéry"
+        },
+        "de": {
+          "name": "Les Charmettes, maison de Jean-Jacques Rousseau",
+          "commune": "Chambéry"
+        },
+        "it": {
+          "name": "Les Charmettes, maison de Jean-Jacques Rousseau",
+          "commune": "Chambéry"
+        },
+        "es": {
+          "name": "Les Charmettes, maison de Jean-Jacques Rousseau",
+          "commune": "Chambéry"
+        },
+        "nl": {
+          "name": "Les Charmettes, maison de Jean-Jacques Rousseau",
+          "commune": "Chambéry"
+        }
+      },
+      "latitude": 45.553063,
+      "longitude": 5.929634,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
+      "slug": "musee-des-beaux-arts-chambery",
+      "categories": [
+        "musee"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Musée des Beaux-Arts de Chambéry",
+          "commune": "Chambéry"
+        },
+        "en": {
+          "name": "Musée des Beaux-Arts de Chambéry",
+          "commune": "Chambéry"
+        },
+        "de": {
+          "name": "Musée des Beaux-Arts de Chambéry",
+          "commune": "Chambéry"
+        },
+        "it": {
+          "name": "Musée des Beaux-Arts de Chambéry",
+          "commune": "Chambéry"
+        },
+        "es": {
+          "name": "Musée des Beaux-Arts de Chambéry",
+          "commune": "Chambéry"
+        },
+        "nl": {
+          "name": "Musée des Beaux-Arts de Chambéry",
+          "commune": "Chambéry"
+        }
+      },
+      "latitude": 45.568142,
+      "longitude": 5.919733,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
+      "slug": "musee-opinel-saint-jean-de-maurienne",
+      "categories": [
+        "musee"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Musée Opinel",
+          "commune": "Saint-Jean-de-Maurienne"
+        },
+        "en": {
+          "name": "Musée Opinel",
+          "commune": "Saint-Jean-de-Maurienne"
+        },
+        "de": {
+          "name": "Musée Opinel",
+          "commune": "Saint-Jean-de-Maurienne"
+        },
+        "it": {
+          "name": "Musée Opinel",
+          "commune": "Saint-Jean-de-Maurienne"
+        },
+        "es": {
+          "name": "Musée Opinel",
+          "commune": "Saint-Jean-de-Maurienne"
+        },
+        "nl": {
+          "name": "Musée Opinel",
+          "commune": "Saint-Jean-de-Maurienne"
+        }
+      },
+      "latitude": 45.277676,
+      "longitude": 6.347212,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
+      "slug": "musee-ours-des-cavernes-entremont-le-vieux",
+      "categories": [
+        "musee"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Musée de l'Ours des Cavernes",
+          "commune": "Entremont-le-Vieux"
+        },
+        "en": {
+          "name": "Musée de l'Ours des Cavernes",
+          "commune": "Entremont-le-Vieux"
+        },
+        "de": {
+          "name": "Musée de l'Ours des Cavernes",
+          "commune": "Entremont-le-Vieux"
+        },
+        "it": {
+          "name": "Musée de l'Ours des Cavernes",
+          "commune": "Entremont-le-Vieux"
+        },
+        "es": {
+          "name": "Musée de l'Ours des Cavernes",
+          "commune": "Entremont-le-Vieux"
+        },
+        "nl": {
+          "name": "Musée de l'Ours des Cavernes",
+          "commune": "Entremont-le-Vieux"
+        }
+      },
+      "latitude": 45.451618,
+      "longitude": 5.882135,
+      "is_free": false,
+      "access_state": "paid"
+    },
+    {
+      "slug": "musee-savoisien-chambery",
+      "categories": [
+        "musee"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Musée Savoisien",
+          "commune": "Chambéry"
+        },
+        "en": {
+          "name": "Musée Savoisien",
+          "commune": "Chambéry"
+        },
+        "de": {
+          "name": "Musée Savoisien",
+          "commune": "Chambéry"
+        },
+        "it": {
+          "name": "Musée Savoisien",
+          "commune": "Chambéry"
+        },
+        "es": {
+          "name": "Musée Savoisien",
+          "commune": "Chambéry"
+        },
+        "nl": {
+          "name": "Musée Savoisien",
+          "commune": "Chambéry"
+        }
+      },
+      "latitude": 45.565554,
+      "longitude": 5.922699,
       "is_free": true,
       "access_state": "free"
     },
@@ -1548,6 +1764,42 @@
       "longitude": 6.000118,
       "is_free": true,
       "access_state": "free"
+    },
+    {
+      "slug": "tremplin-92-maison-des-jeux-olympiques-albertville",
+      "categories": [
+        "musee"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Tremplin 92, Montagne et Olympisme",
+          "commune": "Albertville"
+        },
+        "en": {
+          "name": "Tremplin 92, Montagne et Olympisme",
+          "commune": "Albertville"
+        },
+        "de": {
+          "name": "Tremplin 92, Montagne et Olympisme",
+          "commune": "Albertville"
+        },
+        "it": {
+          "name": "Tremplin 92, Montagne et Olympisme",
+          "commune": "Albertville"
+        },
+        "es": {
+          "name": "Tremplin 92, Montagne et Olympisme",
+          "commune": "Albertville"
+        },
+        "nl": {
+          "name": "Tremplin 92, Montagne et Olympisme",
+          "commune": "Albertville"
+        }
+      },
+      "latitude": 45.663657,
+      "longitude": 6.373546,
+      "is_free": false,
+      "access_state": "paid"
     },
     {
       "slug": "vanoise-express",

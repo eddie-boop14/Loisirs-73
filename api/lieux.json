@@ -1,5 +1,5 @@
 {
-  "count": 44,
+  "count": 51,
   "lieux": [
     {
       "slug": "cascade-de-la-fraiche",
@@ -464,6 +464,27 @@
       "photo": "/img/points-de-vue/cormet-de-roselend-hero.jpg"
     },
     {
+      "slug": "espace-alu-saint-michel-de-maurienne",
+      "name": "Espace Alu",
+      "category": "musee",
+      "commune": "Saint-Michel-de-Maurienne",
+      "postal_code": "73140",
+      "latitude": 45.219223,
+      "longitude": 6.47305,
+      "urls": {
+        "fr": "https://loisirs73.fr/espace-alu-saint-michel-de-maurienne",
+        "en": "https://loisirs73.fr/en/espace-alu-saint-michel-de-maurienne",
+        "de": "https://loisirs73.fr/de/espace-alu-saint-michel-de-maurienne",
+        "it": "https://loisirs73.fr/it/espace-alu-saint-michel-de-maurienne",
+        "es": "https://loisirs73.fr/es/espace-alu-saint-michel-de-maurienne",
+        "nl": "https://loisirs73.fr/nl/espace-alu-saint-michel-de-maurienne"
+      },
+      "facet_md": "https://loisirs73.fr/content/espace-alu-saint-michel-de-maurienne.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/espace-alu-saint-michel-de-maurienne.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/espace-alu-saint-michel-de-maurienne.json",
+      "photo": "/img/generique/generique-musee-moderne.jpg"
+    },
+    {
       "slug": "fort-de-tamie-mercury",
       "name": "Fort de Tamié",
       "category": "chateau",
@@ -567,6 +588,111 @@
       "facet_md_en": "https://loisirs73.fr/content/en/grande-cascade-de-la-doria.md",
       "facet_json": "https://loisirs73.fr/api/lieu/grande-cascade-de-la-doria.json",
       "photo": "/img/generique/generique-cascade.jpg"
+    },
+    {
+      "slug": "les-charmettes-maison-jean-jacques-rousseau-chambery",
+      "name": "Les Charmettes, maison de Jean-Jacques Rousseau",
+      "category": "musee",
+      "commune": "Chambéry",
+      "postal_code": "73000",
+      "latitude": 45.553063,
+      "longitude": 5.929634,
+      "urls": {
+        "fr": "https://loisirs73.fr/les-charmettes-maison-jean-jacques-rousseau-chambery",
+        "en": "https://loisirs73.fr/en/les-charmettes-maison-jean-jacques-rousseau-chambery",
+        "de": "https://loisirs73.fr/de/les-charmettes-maison-jean-jacques-rousseau-chambery",
+        "it": "https://loisirs73.fr/it/les-charmettes-maison-jean-jacques-rousseau-chambery",
+        "es": "https://loisirs73.fr/es/les-charmettes-maison-jean-jacques-rousseau-chambery",
+        "nl": "https://loisirs73.fr/nl/les-charmettes-maison-jean-jacques-rousseau-chambery"
+      },
+      "facet_md": "https://loisirs73.fr/content/les-charmettes-maison-jean-jacques-rousseau-chambery.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/les-charmettes-maison-jean-jacques-rousseau-chambery.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/les-charmettes-maison-jean-jacques-rousseau-chambery.json",
+      "photo": "/img/generique/generique-jardin-allee-roses.jpg"
+    },
+    {
+      "slug": "musee-des-beaux-arts-chambery",
+      "name": "Musée des Beaux-Arts de Chambéry",
+      "category": "musee",
+      "commune": "Chambéry",
+      "postal_code": "73000",
+      "latitude": 45.568142,
+      "longitude": 5.919733,
+      "urls": {
+        "fr": "https://loisirs73.fr/musee-des-beaux-arts-chambery",
+        "en": "https://loisirs73.fr/en/musee-des-beaux-arts-chambery",
+        "de": "https://loisirs73.fr/de/musee-des-beaux-arts-chambery",
+        "it": "https://loisirs73.fr/it/musee-des-beaux-arts-chambery",
+        "es": "https://loisirs73.fr/es/musee-des-beaux-arts-chambery",
+        "nl": "https://loisirs73.fr/nl/musee-des-beaux-arts-chambery"
+      },
+      "facet_md": "https://loisirs73.fr/content/musee-des-beaux-arts-chambery.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/musee-des-beaux-arts-chambery.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/musee-des-beaux-arts-chambery.json",
+      "photo": "/img/generique/generique-musee-classique.jpg"
+    },
+    {
+      "slug": "musee-opinel-saint-jean-de-maurienne",
+      "name": "Musée Opinel",
+      "category": "musee",
+      "commune": "Saint-Jean-de-Maurienne",
+      "postal_code": "73300",
+      "latitude": 45.277676,
+      "longitude": 6.347212,
+      "urls": {
+        "fr": "https://loisirs73.fr/musee-opinel-saint-jean-de-maurienne",
+        "en": "https://loisirs73.fr/en/musee-opinel-saint-jean-de-maurienne",
+        "de": "https://loisirs73.fr/de/musee-opinel-saint-jean-de-maurienne",
+        "it": "https://loisirs73.fr/it/musee-opinel-saint-jean-de-maurienne",
+        "es": "https://loisirs73.fr/es/musee-opinel-saint-jean-de-maurienne",
+        "nl": "https://loisirs73.fr/nl/musee-opinel-saint-jean-de-maurienne"
+      },
+      "facet_md": "https://loisirs73.fr/content/musee-opinel-saint-jean-de-maurienne.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/musee-opinel-saint-jean-de-maurienne.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/musee-opinel-saint-jean-de-maurienne.json",
+      "photo": "/img/generique/generique-musee-moderne.jpg"
+    },
+    {
+      "slug": "musee-ours-des-cavernes-entremont-le-vieux",
+      "name": "Musée de l'Ours des Cavernes",
+      "category": "musee",
+      "commune": "Entremont-le-Vieux",
+      "postal_code": "73670",
+      "latitude": 45.451618,
+      "longitude": 5.882135,
+      "urls": {
+        "fr": "https://loisirs73.fr/musee-ours-des-cavernes-entremont-le-vieux",
+        "en": "https://loisirs73.fr/en/musee-ours-des-cavernes-entremont-le-vieux",
+        "de": "https://loisirs73.fr/de/musee-ours-des-cavernes-entremont-le-vieux",
+        "it": "https://loisirs73.fr/it/musee-ours-des-cavernes-entremont-le-vieux",
+        "es": "https://loisirs73.fr/es/musee-ours-des-cavernes-entremont-le-vieux",
+        "nl": "https://loisirs73.fr/nl/musee-ours-des-cavernes-entremont-le-vieux"
+      },
+      "facet_md": "https://loisirs73.fr/content/musee-ours-des-cavernes-entremont-le-vieux.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/musee-ours-des-cavernes-entremont-le-vieux.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/musee-ours-des-cavernes-entremont-le-vieux.json",
+      "photo": "/img/generique/generique-musee.jpg"
+    },
+    {
+      "slug": "musee-savoisien-chambery",
+      "name": "Musée Savoisien",
+      "category": "musee",
+      "commune": "Chambéry",
+      "postal_code": "73000",
+      "latitude": 45.565554,
+      "longitude": 5.922699,
+      "urls": {
+        "fr": "https://loisirs73.fr/musee-savoisien-chambery",
+        "en": "https://loisirs73.fr/en/musee-savoisien-chambery",
+        "de": "https://loisirs73.fr/de/musee-savoisien-chambery",
+        "it": "https://loisirs73.fr/it/musee-savoisien-chambery",
+        "es": "https://loisirs73.fr/es/musee-savoisien-chambery",
+        "nl": "https://loisirs73.fr/nl/musee-savoisien-chambery"
+      },
+      "facet_md": "https://loisirs73.fr/content/musee-savoisien-chambery.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/musee-savoisien-chambery.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/musee-savoisien-chambery.json",
+      "photo": "/img/generique/generique-musee.jpg"
     },
     {
       "slug": "redoute-marie-therese-avrieux",
@@ -903,6 +1029,27 @@
       "facet_md_en": "https://loisirs73.fr/content/en/tours-de-chignin.md",
       "facet_json": "https://loisirs73.fr/api/lieu/tours-de-chignin.json",
       "photo": "/img/generique/generique-chateau.jpg"
+    },
+    {
+      "slug": "tremplin-92-maison-des-jeux-olympiques-albertville",
+      "name": "Tremplin 92, Montagne et Olympisme",
+      "category": "musee",
+      "commune": "Albertville",
+      "postal_code": "73200",
+      "latitude": 45.663657,
+      "longitude": 6.373546,
+      "urls": {
+        "fr": "https://loisirs73.fr/tremplin-92-maison-des-jeux-olympiques-albertville",
+        "en": "https://loisirs73.fr/en/tremplin-92-maison-des-jeux-olympiques-albertville",
+        "de": "https://loisirs73.fr/de/tremplin-92-maison-des-jeux-olympiques-albertville",
+        "it": "https://loisirs73.fr/it/tremplin-92-maison-des-jeux-olympiques-albertville",
+        "es": "https://loisirs73.fr/es/tremplin-92-maison-des-jeux-olympiques-albertville",
+        "nl": "https://loisirs73.fr/nl/tremplin-92-maison-des-jeux-olympiques-albertville"
+      },
+      "facet_md": "https://loisirs73.fr/content/tremplin-92-maison-des-jeux-olympiques-albertville.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/tremplin-92-maison-des-jeux-olympiques-albertville.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/tremplin-92-maison-des-jeux-olympiques-albertville.json",
+      "photo": "/img/generique/generique-musee-grande-galerie.jpg"
     },
     {
       "slug": "vanoise-express",

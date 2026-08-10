@@ -1,0 +1,24 @@
+{
+  "name": "Les Charmettes, maison de Jean-Jacques Rousseau",
+  "commune": "Chambéry",
+  "gps": {
+    "lat": 45.553063,
+    "lng": 5.929634
+  },
+  "type": "musee",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "Avril–octobre du mardi au dimanche ; week-ends seulement de novembre à mars",
+  "winter": null,
+  "official_url": "https://www.chambery.fr/231-venir-aux-charmettes.htm",
+  "last_verified": null
+}

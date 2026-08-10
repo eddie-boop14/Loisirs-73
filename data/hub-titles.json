@@ -17,6 +17,14 @@
       "it": "Castelli e forti della {dept} · {site}",
       "nl": "Kastelen en forten · {dept} · {site}"
     },
+    "musees": {
+      "de": "Museen · {dept} · {site}",
+      "en": "Museums of {dept} · {site}",
+      "es": "Museos de {dept} · {site}",
+      "fr": "Musées de {dept} · {site}",
+      "it": "Musei della {dept} · {site}",
+      "nl": "Musea · {dept} · {site}"
+    },
     "points-de-vue": {
       "de": "Aussichtspunkte · {dept} · {site}",
       "en": "Viewpoints of {dept} · {site}",

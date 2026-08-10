@@ -1,103 +1,103 @@
 {
-  "total_fiches": 44,
+  "total_fiches": 51,
   "per_lang": {
     "fr": {
-      "pages_built": 44,
+      "pages_built": 51,
       "fallback_pages": 0,
       "fields_fallback_counts": {},
-      "body_truly_translated": 44,
+      "body_truly_translated": 51,
       "body_fr_residue": 0,
       "body_missing": 0
     },
     "en": {
-      "pages_built": 44,
+      "pages_built": 51,
       "fallback_pages": 0,
       "fields_fallback_counts": {},
-      "body_truly_translated": 44,
+      "body_truly_translated": 51,
       "body_fr_residue": 0,
       "body_missing": 0
     },
     "de": {
-      "pages_built": 44,
+      "pages_built": 51,
       "fallback_pages": 7,
       "fields_fallback_counts": {
-        "body.activities": 7,
-        "body": 7,
-        "body.how_to_get_there": 7,
-        "hero_alt": 7,
-        "schema_amenities": 7,
-        "facts": 7,
-        "body.practical_info": 7,
+        "name_alternates": 4,
         "hero": 7,
         "faq": 7,
         "body.when_to_visit": 7,
-        "name": 7,
-        "name_alternates": 4
+        "body": 7,
+        "body.how_to_get_there": 7,
+        "schema_amenities": 7,
+        "hero_alt": 7,
+        "body.practical_info": 7,
+        "facts": 7,
+        "body.activities": 7,
+        "name": 7
       },
-      "body_truly_translated": 37,
+      "body_truly_translated": 44,
       "body_fr_residue": 0,
       "body_missing": 7
     },
     "it": {
-      "pages_built": 44,
+      "pages_built": 51,
       "fallback_pages": 7,
       "fields_fallback_counts": {
-        "body.activities": 7,
-        "body": 7,
-        "body.how_to_get_there": 7,
-        "hero_alt": 7,
-        "schema_amenities": 7,
-        "facts": 7,
-        "body.practical_info": 7,
+        "name_alternates": 4,
         "hero": 7,
         "faq": 7,
         "body.when_to_visit": 7,
-        "name": 7,
-        "name_alternates": 4
+        "body": 7,
+        "body.how_to_get_there": 7,
+        "schema_amenities": 7,
+        "hero_alt": 7,
+        "body.practical_info": 7,
+        "facts": 7,
+        "body.activities": 7,
+        "name": 7
       },
-      "body_truly_translated": 37,
+      "body_truly_translated": 44,
       "body_fr_residue": 0,
       "body_missing": 7
     },
     "es": {
-      "pages_built": 44,
+      "pages_built": 51,
       "fallback_pages": 7,
       "fields_fallback_counts": {
-        "body.activities": 7,
-        "body": 7,
-        "body.how_to_get_there": 7,
-        "hero_alt": 7,
-        "schema_amenities": 7,
-        "facts": 7,
-        "body.practical_info": 7,
+        "name_alternates": 4,
         "hero": 7,
         "faq": 7,
         "body.when_to_visit": 7,
-        "name": 7,
-        "name_alternates": 4
+        "body": 7,
+        "body.how_to_get_there": 7,
+        "schema_amenities": 7,
+        "hero_alt": 7,
+        "body.practical_info": 7,
+        "facts": 7,
+        "body.activities": 7,
+        "name": 7
       },
-      "body_truly_translated": 37,
+      "body_truly_translated": 44,
       "body_fr_residue": 0,
       "body_missing": 7
     },
     "nl": {
-      "pages_built": 44,
+      "pages_built": 51,
       "fallback_pages": 7,
       "fields_fallback_counts": {
-        "body.activities": 7,
-        "body": 7,
-        "body.how_to_get_there": 7,
-        "hero_alt": 7,
-        "schema_amenities": 7,
-        "facts": 7,
-        "body.practical_info": 7,
+        "name_alternates": 4,
         "hero": 7,
         "faq": 7,
         "body.when_to_visit": 7,
-        "name": 7,
-        "name_alternates": 4
+        "body": 7,
+        "body.how_to_get_there": 7,
+        "schema_amenities": 7,
+        "hero_alt": 7,
+        "body.practical_info": 7,
+        "facts": 7,
+        "body.activities": 7,
+        "name": 7
       },
-      "body_truly_translated": 37,
+      "body_truly_translated": 44,
       "body_fr_residue": 0,
       "body_missing": 7
     }
@@ -112,40 +112,40 @@
   "fallback_slugs": {
     "en": [],
     "de": [
-      "chateau-de-miolans-saint-pierre-d-albigny",
-      "chateau-de-thomas-ii-le-bourget-du-lac",
-      "chateau-des-ducs-de-savoie-chambery",
-      "fort-de-tamie-mercury",
-      "fort-victor-emmanuel-aussois",
-      "redoute-marie-therese-avrieux",
-      "tours-de-chignin"
+      "espace-alu-saint-michel-de-maurienne",
+      "les-charmettes-maison-jean-jacques-rousseau-chambery",
+      "musee-des-beaux-arts-chambery",
+      "musee-opinel-saint-jean-de-maurienne",
+      "musee-ours-des-cavernes-entremont-le-vieux",
+      "musee-savoisien-chambery",
+      "tremplin-92-maison-des-jeux-olympiques-albertville"
     ],
     "it": [
-      "chateau-de-miolans-saint-pierre-d-albigny",
-      "chateau-de-thomas-ii-le-bourget-du-lac",
-      "chateau-des-ducs-de-savoie-chambery",
-      "fort-de-tamie-mercury",
-      "fort-victor-emmanuel-aussois",
-      "redoute-marie-therese-avrieux",
-      "tours-de-chignin"
+      "espace-alu-saint-michel-de-maurienne",
+      "les-charmettes-maison-jean-jacques-rousseau-chambery",
+      "musee-des-beaux-arts-chambery",
+      "musee-opinel-saint-jean-de-maurienne",
+      "musee-ours-des-cavernes-entremont-le-vieux",
+      "musee-savoisien-chambery",
+      "tremplin-92-maison-des-jeux-olympiques-albertville"
     ],
     "es": [
-      "chateau-de-miolans-saint-pierre-d-albigny",
-      "chateau-de-thomas-ii-le-bourget-du-lac",
-      "chateau-des-ducs-de-savoie-chambery",
-      "fort-de-tamie-mercury",
-      "fort-victor-emmanuel-aussois",
-      "redoute-marie-therese-avrieux",
-      "tours-de-chignin"
+      "espace-alu-saint-michel-de-maurienne",
+      "les-charmettes-maison-jean-jacques-rousseau-chambery",
+      "musee-des-beaux-arts-chambery",
+      "musee-opinel-saint-jean-de-maurienne",
+      "musee-ours-des-cavernes-entremont-le-vieux",
+      "musee-savoisien-chambery",
+      "tremplin-92-maison-des-jeux-olympiques-albertville"
     ],
     "nl": [
-      "chateau-de-miolans-saint-pierre-d-albigny",
-      "chateau-de-thomas-ii-le-bourget-du-lac",
-      "chateau-des-ducs-de-savoie-chambery",
-      "fort-de-tamie-mercury",
-      "fort-victor-emmanuel-aussois",
-      "redoute-marie-therese-avrieux",
-      "tours-de-chignin"
+      "espace-alu-saint-michel-de-maurienne",
+      "les-charmettes-maison-jean-jacques-rousseau-chambery",
+      "musee-des-beaux-arts-chambery",
+      "musee-opinel-saint-jean-de-maurienne",
+      "musee-ours-des-cavernes-entremont-le-vieux",
+      "musee-savoisien-chambery",
+      "tremplin-92-maison-des-jeux-olympiques-albertville"
     ]
   }
 }

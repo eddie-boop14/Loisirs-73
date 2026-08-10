@@ -1,0 +1,236 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-10",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "musee",
+  "commune": "Chambéry",
+  "date_modified_human": "10 août 2026",
+  "date_published_human": "10 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-10",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-musee-classique.jpg",
+  "i18n": {
+    "en": {
+      "activities": [
+        {
+          "description": "The museum's holdings are free to visit, Tuesday to Sunday, 10:00–18:00.",
+          "tag": "Free",
+          "title": "Permanent collections"
+        },
+        {
+          "description": "The paid programme — €5.50 full, €2.50 reduced — free like everything else on the first Sunday of the month.",
+          "tag": "€5.50",
+          "title": "Temporary exhibitions"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>musée des Beaux-Arts de Chambéry</strong>, on place du Palais de Justice, splits its offer cleanly: the <strong>permanent collections are free</strong>, and temporary exhibitions cost €5.50 full price, €2.50 reduced. <strong>On the first Sunday of each month, entry is free</strong> — exhibitions included.</p><p>The museum opens Tuesday to Sunday, 10:00–18:00, and closes <strong>on Mondays and public holidays</strong> — the city publishes both, where other museums open on holidays.</p><p>For regulars, an annual pass covers both the Beaux-Arts and Les Charmettes, Jean-Jacques Rousseau's house: €11 for Chambéry residents, €17 for others, with guided visits, lectures and audioguides included.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Permanent collections free; temporary exhibitions €5.50",
+        "best_season": "Year-round, Tuesday to Sunday; closed Mondays and public holidays",
+        "commune": "Chambéry",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Fine-arts museum"
+      },
+      "faq": [
+        {
+          "a": "The permanent collections, yes. Temporary exhibitions are paid: €5.50 full price, €2.50 reduced — except on the first Sunday of the month, when everything is free.",
+          "q": "Is entry free?"
+        },
+        {
+          "a": "Tuesday to Sunday, 10:00–18:00. Closed on Mondays and public holidays.",
+          "q": "What are the opening hours?"
+        },
+        {
+          "a": "No — the city of Chambéry explicitly lists closure on Mondays and public holidays.",
+          "q": "Does the museum open on public holidays?"
+        },
+        {
+          "a": "Yes: €11 a year for Chambéry residents, €17 for non-residents. It gives unlimited access to the Beaux-Arts and Les Charmettes, with guided visits, lectures and audioguides.",
+          "q": "Is there an annual pass?"
+        },
+        {
+          "a": "Place du Palais de Justice, 73000 Chambéry.",
+          "q": "Where is the museum?"
+        }
+      ],
+      "hero": {
+        "badge": "Free collections · Chambéry",
+        "lead": "On place du Palais de Justice, the permanent collections are free to visit; temporary exhibitions cost €5.50, and everything is free on the first Sunday of the month."
+      },
+      "hero_alt": "Musée des Beaux-Arts on place du Palais de Justice, Chambéry, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Central Chambéry, place du Palais de Justice; city parking.",
+        "public_transport": null
+      },
+      "meta_description": "Chambéry's fine-arts museum: free permanent collections, exhibitions at €5.50, free on the first Sunday of the month. Official sources only.",
+      "meta_title": "Musée des Beaux-Arts de Chambéry · Free collections, hours",
+      "name": "Musée des Beaux-Arts de Chambéry",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Address",
+          "v": "Place du Palais de Justice, 73000 Chambéry"
+        },
+        {
+          "k": "Permanent collections",
+          "v": "Free entry"
+        },
+        {
+          "k": "Temporary exhibitions",
+          "v": "€5.50 full, €2.50 reduced; free on the first Sunday of the month"
+        },
+        {
+          "k": "Hours",
+          "v": "Tuesday–Sunday 10:00–18:00; closed Mondays and public holidays"
+        },
+        {
+          "k": "Annual pass",
+          "v": "€11 residents, €17 non-residents — Beaux-Arts + Les Charmettes, 1 year"
+        }
+      ],
+      "schema_amenities": [
+        "Free permanent collections",
+        "Free first Sunday of the month",
+        "Audioguides (pass holders)"
+      ],
+      "when_to_visit": "<p>Tuesday to Sunday, 10:00–18:00. The first Sunday of the month is the smart pick: free entry, exhibitions included. Closed Mondays and public holidays.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Le fonds du musée se visite gratuitement, du mardi au dimanche de 10h à 18h.",
+          "tag": "Gratuit",
+          "title": "Collections permanentes"
+        },
+        {
+          "description": "Programmation payante — 5,50 € plein, 2,50 € réduit — gratuite comme le reste le premier dimanche du mois.",
+          "tag": "5,50 €",
+          "title": "Expositions temporaires"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Le <strong>musée des Beaux-Arts de Chambéry</strong>, place du Palais de Justice, sépare nettement ses deux offres : les <strong>collections permanentes sont gratuites</strong>, et les expositions temporaires coûtent 5,50 € plein tarif, 2,50 € en réduit. <strong>Le premier dimanche de chaque mois, l'entrée est gratuite</strong> — expositions comprises.</p><p>Le musée ouvre du mardi au dimanche de 10h à 18h et ferme <strong>les lundis et les jours fériés</strong> — la ville publie bien les deux, là où d'autres musées ouvrent les fériés.</p><p>Pour les habitués, un abonnement annuel couvre à la fois le musée des Beaux-Arts et Les Charmettes, maison de Jean-Jacques Rousseau : 11 € pour les Chambériens, 17 € pour les autres, avec visites commentées, conférences et audioguides inclus.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Collections permanentes gratuites ; expositions temporaires 5,50 €",
+        "best_season": "Toute l'année, du mardi au dimanche ; fermé lundis et jours fériés",
+        "commune": "Chambéry",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Musée des beaux-arts"
+      },
+      "faq": [
+        {
+          "a": "Les collections permanentes, oui. Les expositions temporaires sont payantes : 5,50 € plein tarif, 2,50 € réduit — sauf le premier dimanche du mois, où tout est gratuit.",
+          "q": "L'entrée est-elle gratuite ?"
+        },
+        {
+          "a": "Du mardi au dimanche, de 10h à 18h. Fermeture les lundis et les jours fériés.",
+          "q": "Quels sont les horaires ?"
+        },
+        {
+          "a": "Non — la ville de Chambéry indique explicitement la fermeture les lundis et jours fériés.",
+          "q": "Le musée ouvre-t-il les jours fériés ?"
+        },
+        {
+          "a": "Oui : 11 € par an pour les Chambériens, 17 € pour les non-Chambériens. Il donne un accès illimité au musée des Beaux-Arts et aux Charmettes, avec visites commentées, conférences et audioguides.",
+          "q": "Existe-t-il un abonnement ?"
+        },
+        {
+          "a": "Place du Palais de Justice, 73000 Chambéry.",
+          "q": "Où se trouve le musée ?"
+        }
+      ],
+      "hero": {
+        "badge": "Collections gratuites · Chambéry",
+        "lead": "Place du Palais de Justice, les collections permanentes se visitent gratuitement ; les expositions temporaires sont à 5,50 €, et tout devient gratuit le premier dimanche du mois."
+      },
+      "hero_alt": "Musée des Beaux-Arts, place du Palais de Justice, Chambéry, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Centre de Chambéry, place du Palais de Justice ; stationnement en ville.",
+        "public_transport": null
+      },
+      "meta_description": "Le musée des Beaux-Arts de Chambéry : collections permanentes gratuites, expositions 5,50 €, gratuit le premier dimanche du mois. Sources officielles.",
+      "meta_title": "Musée des Beaux-Arts de Chambéry · Collections gratuites, horaires",
+      "name": "Musée des Beaux-Arts de Chambéry",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Adresse",
+          "v": "Place du Palais de Justice, 73000 Chambéry"
+        },
+        {
+          "k": "Collections permanentes",
+          "v": "Entrée gratuite"
+        },
+        {
+          "k": "Expositions temporaires",
+          "v": "5,50 € plein, 2,50 € réduit ; gratuit le 1er dimanche du mois"
+        },
+        {
+          "k": "Horaires",
+          "v": "Mardi–dimanche 10h–18h ; fermé lundis et jours fériés"
+        },
+        {
+          "k": "Abonnement",
+          "v": "11 € Chambériens, 17 € non-Chambériens — Beaux-Arts + Les Charmettes, 1 an"
+        }
+      ],
+      "schema_amenities": [
+        "Collections permanentes gratuites",
+        "Gratuit le 1er dimanche du mois",
+        "Audioguides (abonnés)"
+      ],
+      "when_to_visit": "<p>Du mardi au dimanche, 10h–18h. Le premier dimanche du mois est le bon calcul : entrée gratuite, expositions comprises. Fermé lundis et jours fériés.</p>"
+    }
+  },
+  "latitude": 45.568142,
+  "longitude": 5.919733,
+  "official_site_url": "https://www.chambery.fr/220-venir-au-musee.htm",
+  "partners": [],
+  "postal_code": "73000",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-10, official source: ville de Chambéry. Permanent collections free; temporary exhibitions 5,50 €/2,50 €; closed Mondays AND public holidays (the city says both, unlike museums that open on fériés); first Sunday of the month free. Coordinates from IGN POI geocoder (name+category match).",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "musee-des-beaux-arts-chambery",
+  "sources": [
+    "https://www.chambery.fr/220-venir-au-musee.htm",
+    "https://data.geopf.fr/geocodage/search?q=Mus%C3%A9e%20des%20Beaux-Arts%20Chamb%C3%A9ry&index=poi&limit=2"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "patrimoine",
+  "verify_flags": [
+    "ACCES_PMR_UNVERIFIED — no official accessibility source found for this site. Status stays null rather than being inferred from the terrain."
+  ]
+}

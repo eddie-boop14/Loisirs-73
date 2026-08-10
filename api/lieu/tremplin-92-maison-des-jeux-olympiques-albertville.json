@@ -1,0 +1,24 @@
+{
+  "name": "Tremplin 92, Montagne et Olympisme",
+  "commune": "Albertville",
+  "gps": {
+    "lat": 45.663657,
+    "lng": 6.373546
+  },
+  "type": "musee",
+  "hours": "Lun-sam 9h–12h et 14h–18h ; dimanche 9h30–11h30 et 14h–17h30 ; fermé fériés",
+  "prices": {
+    "from": 7,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": false,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "Toute l'année ; horaires élargis en juillet-août",
+  "winter": null,
+  "official_url": "https://www.tremplin92.org/",
+  "last_verified": null
+}

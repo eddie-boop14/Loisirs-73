@@ -1,0 +1,239 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-10",
+    "confidence": "declarative",
+    "detail": "« Site, bâtiment totalement accessible. Accessible en fauteuil roulant en autonomie », selon la fiche du Département.",
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": "patrimoines.savoie.fr",
+    "source_url": "https://patrimoines.savoie.fr/web/280_DBEvenement/espace-alu",
+    "status": "accessible",
+    "tourisme_handicap": null
+  },
+  "category": "musee",
+  "commune": "Saint-Michel-de-Maurienne",
+  "date_modified_human": "10 août 2026",
+  "date_published_human": "10 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-10",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-musee-moderne.jpg",
+  "i18n": {
+    "en": {
+      "activities": [
+        {
+          "description": "The story of aluminium in the Maurienne, on your own (€8) or with the audio-guide (+€1).",
+          "tag": "€8",
+          "title": "Self-guided or audio-guided visit"
+        },
+        {
+          "description": "The accompanied visit at €10 adult, €6 child; escape game and special formats on reservation.",
+          "tag": "€10",
+          "title": "'Les essentiels' guided tour"
+        }
+      ],
+      "body": {
+        "what_is": "<p>'La Maurienne et l'aluminium, c'est toute une histoire !' The <strong>Espace Alu</strong>, on the church square of Saint-Michel-de-Maurienne, traces <strong>more than 100 years of aluminium industry</strong> in the valley.</p><p>The self-guided visit costs <strong>€8 per adult</strong>, €4 per child aged 7-18, €6 reduced — free under 7. The audio-guide adds €1; the 'les essentiels' guided tour is €10 adult and €6 child.</p><p>The 2026 hours published by the Département: from 6 July to 30 August, Monday-Friday 10:00–13:00 and 14:00–19:00, weekends and holidays 10:00–13:00 and 14:00–18:30; then from 31 August to 11 September, Monday-Friday 14:00–18:00, closed holidays. In spring (7 March – 14 June), the museum opened <strong>by reservation only</strong> — guided visit, expert visit, escape game or birthdays. The site and building are <strong>fully accessible, by wheelchair without assistance</strong>.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Paid: €8 adult, €4 child (7-18), €6 reduced; free under 7",
+        "best_season": "Summer (6 July – 30 August 2026); in spring, reservation only",
+        "commune": "Saint-Michel-de-Maurienne",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Industrial-history museum"
+      },
+      "faq": [
+        {
+          "a": "Self-guided visit: €8 adult, €4 child (7-18), €6 reduced, free under 7. Audio-guide: +€1. 'Les essentiels' guided tour: €10 adult, €6 child.",
+          "q": "How much is entry?"
+        },
+        {
+          "a": "From 6 July to 30 August: Monday-Friday 10:00–13:00 and 14:00–19:00; weekends and holidays 10:00–13:00 and 14:00–18:30. From 31 August to 11 September: Monday-Friday 14:00–18:00, closed holidays.",
+          "q": "What are the summer 2026 hours?"
+        },
+        {
+          "a": "From 7 March to 14 June the museum opened by reservation only: guided visit, expert visit, escape game or children's birthdays — the régime published by the museum itself.",
+          "q": "Can you visit in spring?"
+        },
+        {
+          "a": "Yes: 'Site, bâtiment totalement accessible. Accessible en fauteuil roulant en autonomie', per the departmental listing.",
+          "q": "Is the museum wheelchair accessible?"
+        },
+        {
+          "a": "Over 100 years of aluminium history in the Maurienne: electrometallurgy, the valley's plants and the lives built around them.",
+          "q": "What does the museum cover?"
+        }
+      ],
+      "hero": {
+        "badge": "€8 · Saint-Michel-de-Maurienne",
+        "lead": "The aluminium museum tells over 100 years of the valley's industry: self-guided visit at €8, audio-guide, guided tours — and a fully accessible building."
+      },
+      "hero_alt": "Espace Alu, the aluminium museum, Saint-Michel-de-Maurienne, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Saint-Michel-de-Maurienne, on the church square; the town sits on the Maurienne's A43 axis.",
+        "public_transport": null
+      },
+      "meta_description": "The Espace Alu in Saint-Michel-de-Maurienne: 100 years of aluminium in the valley, €8 entry, wheelchair accessible without assistance. Official sources.",
+      "meta_title": "Espace Alu · Aluminium museum, 2026 prices, Maurienne",
+      "name": "Espace Alu",
+      "name_alternates": [
+        "Aluminium museum"
+      ],
+      "practical_info": [
+        {
+          "k": "Address",
+          "v": "Place de l'église, 73140 Saint-Michel-de-Maurienne"
+        },
+        {
+          "k": "Prices",
+          "v": "€8 adult, €4 child 7-18, €6 reduced, free under 7"
+        },
+        {
+          "k": "Summer 2026",
+          "v": "6 July – 30 August: Mon-Fri 10:00–13:00 / 14:00–19:00; weekends and holidays to 18:30"
+        },
+        {
+          "k": "Spring",
+          "v": "7 March – 14 June: reservation only"
+        },
+        {
+          "k": "Accessibility",
+          "v": "Fully accessible, wheelchair without assistance (official source)"
+        }
+      ],
+      "schema_amenities": [
+        "Wheelchair accessible without assistance",
+        "Audio-guides",
+        "Escape game on reservation"
+      ],
+      "when_to_visit": "<p>Summer for the full hours (6 July – 30 August 2026). Off season, check the museum's site — in spring 2026 everything ran on reservation.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Le parcours sur l'épopée de l'aluminium en Maurienne, seul (8 €) ou avec audio-guide (+1 €).",
+          "tag": "8 €",
+          "title": "Visite autonome ou audio-guidée"
+        },
+        {
+          "description": "La visite accompagnée à 10 € adulte, 6 € enfant ; escape game et formats spéciaux sur réservation.",
+          "tag": "10 €",
+          "title": "Visite guidée « les essentiels »"
+        }
+      ],
+      "body": {
+        "what_is": "<p>« La Maurienne et l'aluminium, c'est toute une histoire ! » L'<strong>Espace Alu</strong>, place de l'église à Saint-Michel-de-Maurienne, retrace <strong>plus de 100 ans d'industrie de l'aluminium</strong> dans la vallée.</p><p>La visite autonome coûte <strong>8 € par adulte</strong>, 4 € par enfant de 7 à 18 ans, 6 € en tarif réduit — gratuit pour les moins de 7 ans. L'audio-guide s'ajoute pour 1 € ; la visite guidée « les essentiels » passe à 10 € adulte et 6 € enfant.</p><p>Les horaires 2026 publiés par le Département : du 6 juillet au 30 août, du lundi au vendredi de 10h à 13h et de 14h à 19h, les week-ends et jours fériés de 10h à 13h et de 14h à 18h30 ; puis du 31 août au 11 septembre, du lundi au vendredi de 14h à 18h, fermé les jours fériés. Au printemps (7 mars – 14 juin), le musée n'ouvrait que <strong>sur réservation</strong> — visite guidée, visite expert, escape game ou anniversaires. Le site et le bâtiment sont <strong>totalement accessibles, en fauteuil roulant en autonomie</strong>.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Payant : 8 € adulte, 4 € enfant (7-18 ans), 6 € réduit ; gratuit moins de 7 ans",
+        "best_season": "Été (du 6 juillet au 30 août 2026) ; au printemps, uniquement sur réservation",
+        "commune": "Saint-Michel-de-Maurienne",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Musée d'histoire industrielle"
+      },
+      "faq": [
+        {
+          "a": "Visite autonome : 8 € adulte, 4 € enfant (7-18 ans), 6 € tarif réduit, gratuit pour les moins de 7 ans. Audio-guide : +1 €. Visite guidée « les essentiels » : 10 € adulte, 6 € enfant.",
+          "q": "Combien coûte l'entrée ?"
+        },
+        {
+          "a": "Du 6 juillet au 30 août : lundi-vendredi 10h–13h et 14h–19h ; week-ends et fériés 10h–13h et 14h–18h30. Du 31 août au 11 septembre : lundi-vendredi 14h–18h, fermé les fériés.",
+          "q": "Quels sont les horaires d'été 2026 ?"
+        },
+        {
+          "a": "Du 7 mars au 14 juin, le musée ouvrait uniquement sur réservation : visite guidée, visite expert, escape game ou anniversaires enfants — le régime publié par le musée.",
+          "q": "Peut-on visiter au printemps ?"
+        },
+        {
+          "a": "Oui : « Site, bâtiment totalement accessible. Accessible en fauteuil roulant en autonomie », selon la fiche départementale.",
+          "q": "Le musée est-il accessible en fauteuil roulant ?"
+        },
+        {
+          "a": "Plus de 100 ans d'histoire de l'aluminium en Maurienne : l'électrométallurgie, les usines de la vallée et les vies qui s'y sont attachées.",
+          "q": "Que raconte le musée ?"
+        }
+      ],
+      "hero": {
+        "badge": "8 € · Saint-Michel-de-Maurienne",
+        "lead": "Le musée de l'aluminium raconte plus de 100 ans d'industrie dans la vallée : visite autonome à 8 €, audio-guide, visites guidées — et un bâtiment totalement accessible."
+      },
+      "hero_alt": "Espace Alu, musée de l'aluminium, Saint-Michel-de-Maurienne, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Saint-Michel-de-Maurienne, place de l'église ; la ville est sur l'axe de la Maurienne (A43).",
+        "public_transport": null
+      },
+      "meta_description": "L'Espace Alu à Saint-Michel-de-Maurienne : 100 ans d'aluminium en Maurienne, 8 € l'entrée, accessible en fauteuil en autonomie. Sources officielles.",
+      "meta_title": "Espace Alu · Musée de l'aluminium, tarifs 2026, Maurienne",
+      "name": "Espace Alu",
+      "name_alternates": [
+        "Musée de l'aluminium"
+      ],
+      "practical_info": [
+        {
+          "k": "Adresse",
+          "v": "Place de l'église, 73140 Saint-Michel-de-Maurienne"
+        },
+        {
+          "k": "Tarifs",
+          "v": "8 € adulte, 4 € enfant 7-18 ans, 6 € réduit, gratuit −7 ans"
+        },
+        {
+          "k": "Été 2026",
+          "v": "6 juillet – 30 août : lun-ven 10h–13h / 14h–19h ; week-ends et fériés jusqu'à 18h30"
+        },
+        {
+          "k": "Printemps",
+          "v": "7 mars – 14 juin : uniquement sur réservation"
+        },
+        {
+          "k": "Accessibilité",
+          "v": "Totalement accessible, fauteuil en autonomie (source officielle)"
+        }
+      ],
+      "schema_amenities": [
+        "Accessible en fauteuil en autonomie",
+        "Audio-guides",
+        "Escape game sur réservation"
+      ],
+      "when_to_visit": "<p>L'été aux horaires pleins (6 juillet – 30 août 2026). Hors saison, vérifier le régime sur le site du musée — au printemps 2026, tout passait par la réservation.</p>"
+    }
+  },
+  "latitude": 45.219223,
+  "longitude": 6.47305,
+  "official_site_url": "https://espacealu.fr/",
+  "partners": [],
+  "postal_code": "73140",
+  "price_currency": "EUR",
+  "price_from": 8,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-10, official sources: espacealu.fr + patrimoines.savoie.fr. Summer 2026 hours as published by the Département; spring régime (7 March – 14 June) was reservation-only per the museum's own site. PMR accessible/declarative on the Département's wording. Coordinates from IGN POI geocoder (name+category match).",
+  "schema_org": {
+    "amenities": [],
+    "is_free": false,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "espace-alu-saint-michel-de-maurienne",
+  "sources": [
+    "https://espacealu.fr/",
+    "https://patrimoines.savoie.fr/web/280_DBEvenement/espace-alu",
+    "https://data.geopf.fr/geocodage/search?q=Espace%20Alu%20Saint-Michel-de-Maurienne&index=poi&limit=2"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "patrimoine",
+  "verify_flags": []
+}

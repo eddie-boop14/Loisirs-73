@@ -1,0 +1,242 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-10",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "musee",
+  "commune": "Albertville",
+  "date_modified_human": "10 août 2026",
+  "date_published_human": "10 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-10",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-musee-grande-galerie.jpg",
+  "i18n": {
+    "en": {
+      "activities": [
+        {
+          "description": "The 1992 Games' legacy on the territory, in interactive modules: sound showers, touch terminals, a scent module.",
+          "tag": "500 m²",
+          "title": "Permanent exhibition"
+        },
+        {
+          "description": "Group package on mandatory reservation — €90 per the museum, €80 per the town hall; both grids are published.",
+          "tag": "On reservation",
+          "title": "Guided tour"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Tremplin 92, Montagne et Olympisme</strong> is the museum of Albertville's 1992 Winter Olympic Games, housed in the <strong>Halle Olympique</strong> — access is through its entrance. It carries the collections of the <strong>Maison des Jeux Olympiques d'Albertville et de la Savoie</strong>, across 500 m² of permanent exhibition: sound showers, touch terminals, a scent module, the Games' legacy on the territory told interactively.</p><p>On prices, the two official sources disagree: the museum's site lists <strong>€7 full, €5 reduced, €5 group, €90 guided-tour package</strong> on reservation; Albertville's town hall publishes €6, €4, €4 and €80. Free for accompanied under-12s in both grids. We give both and do not arbitrate. The same caution applies to Sundays outside summer — Sunday hours published by the museum (9:30–11:30 and 14:00–17:30) but absent from the town hall's page — and even to the Halle's address: 110 avenue Joseph Fontanet per the museum, 15 avenue de Winnenden per the town hall.</p><p>The museum's hours: year-round, Monday-Saturday 9:00–12:00 and 14:00–18:00, Sunday 9:30–11:30 and 14:00–17:30, closed public holidays; in July-August, Monday-Saturday 9:00–12:00 and 13:30–18:30, Sundays and holidays 14:00–18:00.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Paid: €7 full, €5 reduced per the official site (the town hall lists €6/€4)",
+        "best_season": "Year-round; extended hours in July-August",
+        "commune": "Albertville",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Olympic museum"
+      },
+      "faq": [
+        {
+          "a": "The museum's own site lists €7 full, €5 reduced, €5 group (from 15 people); Albertville's town hall publishes €6, €4 and €4. Both grids stand — we do not arbitrate. Free for accompanied children under 12.",
+          "q": "How much is entry?"
+        },
+        {
+          "a": "Inside Albertville's Halle Olympique, through its main entrance. The street address itself differs by source: 110 avenue Joseph Fontanet (museum) or 15 avenue de Winnenden (town hall).",
+          "q": "Where is the museum?"
+        },
+        {
+          "a": "The museum's site publishes Sunday hours year-round (9:30–11:30 and 14:00–17:30; 14:00–18:00 in July-August); the town hall's page lists none outside summer. We flag the gap.",
+          "q": "Does it open on Sundays?"
+        },
+        {
+          "a": "500 m² of permanent exhibition on the Albertville 1992 Games and their legacy: Olympic collections, sound showers, touch terminals, a scent module.",
+          "q": "What is there to see?"
+        },
+        {
+          "a": "Yes, on mandatory reservation: €90 for the package per the museum, €80 per the town hall.",
+          "q": "Are there guided tours?"
+        }
+      ],
+      "hero": {
+        "badge": "€7 · Halle Olympique",
+        "lead": "The legacy of the 1992 Winter Games — the Maison des Jeux Olympiques collections, interactive modules, 500 m² of exhibition — inside Albertville's Halle Olympique."
+      },
+      "hero_alt": "Tremplin 92, Mountain and Olympism space, Halle Olympique, Albertville",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Albertville's Halle Olympique; access to Tremplin 92 is through the Halle's entrance.",
+        "public_transport": null
+      },
+      "meta_description": "Tremplin 92, Albertville's Mountain and Olympism space: the legacy of the 1992 Games, 500 m² of exhibition inside the Halle Olympique. Official sources.",
+      "meta_title": "Tremplin 92 · Albertville Olympic museum, prices, hours",
+      "name": "Tremplin 92, Montagne et Olympisme",
+      "name_alternates": [
+        "Maison des Jeux Olympiques d'Albertville et de la Savoie"
+      ],
+      "practical_info": [
+        {
+          "k": "Address",
+          "v": "Halle Olympique, Albertville — 110 av. Joseph Fontanet (museum) / 15 av. de Winnenden (town hall)"
+        },
+        {
+          "k": "Prices",
+          "v": "€7/€5 (museum's site) — €6/€4 (town hall); free under 12 accompanied"
+        },
+        {
+          "k": "Hours",
+          "v": "Mon-Sat 9:00–12:00 and 14:00–18:00; Sunday 9:30–11:30 and 14:00–17:30; closed holidays"
+        },
+        {
+          "k": "July-August",
+          "v": "Mon-Sat 9:00–12:00 and 13:30–18:30; Sundays and holidays 14:00–18:00"
+        },
+        {
+          "k": "Guided tour",
+          "v": "On reservation: €90 (museum) / €80 (town hall)"
+        }
+      ],
+      "schema_amenities": [
+        "Interactive modules",
+        "Free under 12 accompanied",
+        "Guided tours on reservation"
+      ],
+      "when_to_visit": "<p>Year-round outside public holidays; in July-August afternoons stretch to 18:30 and Sundays open 14:00–18:00.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "L'héritage des Jeux de 1992 sur le territoire, en modules interactifs : douches sonores, bornes tactiles, module olfactif.",
+          "tag": "500 m²",
+          "title": "Exposition permanente"
+        },
+        {
+          "description": "Forfait groupe sur réservation obligatoire — 90 € selon le musée, 80 € selon la mairie ; les deux grilles sont publiées.",
+          "tag": "Sur réservation",
+          "title": "Visite guidée"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Tremplin 92, Montagne et Olympisme</strong> est le musée des Jeux Olympiques d'hiver d'Albertville 1992, installé dans la <strong>Halle Olympique</strong> — l'accès se fait par son entrée. Il porte les collections de la <strong>Maison des Jeux Olympiques d'Albertville et de la Savoie</strong>, sur 500 m² d'exposition permanente : douches sonores, bornes tactiles, module olfactif, l'héritage des Jeux sur le territoire raconté en interactif.</p><p>Sur les tarifs, les deux sources officielles ne disent pas la même chose : le site du musée affiche <strong>7 € plein, 5 € réduit, 5 € groupe, forfait visite guidée 90 €</strong> sur réservation ; la mairie d'Albertville publie 6 €, 4 €, 4 € et 80 €. Gratuit pour les moins de 12 ans accompagnés dans les deux grilles. Nous donnons les deux et ne tranchons pas. Même prudence sur le dimanche hors été — horaires dominicaux publiés par le musée (9h30–11h30 et 14h–17h30), absents de la page de la mairie — et jusque sur l'adresse de la Halle : 110 avenue Joseph Fontanet pour le musée, 15 avenue de Winnenden pour la mairie.</p><p>Les horaires du musée : toute l'année, lundi-samedi 9h–12h et 14h–18h, dimanche 9h30–11h30 et 14h–17h30, fermé les jours fériés ; en juillet-août, lundi-samedi 9h–12h et 13h30–18h30, dimanche et fériés 14h–18h.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Payant : 7 € plein, 5 € réduit selon le site officiel (la mairie affiche 6 €/4 €)",
+        "best_season": "Toute l'année ; horaires élargis en juillet-août",
+        "commune": "Albertville",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Musée olympique"
+      },
+      "faq": [
+        {
+          "a": "Le site officiel du musée affiche 7 € plein tarif, 5 € réduit, 5 € groupe (dès 15 personnes) ; la mairie d'Albertville publie 6 €, 4 € et 4 €. Les deux grilles coexistent — nous ne tranchons pas. Gratuit pour les moins de 12 ans accompagnés.",
+          "q": "Combien coûte l'entrée ?"
+        },
+        {
+          "a": "Dans la Halle Olympique d'Albertville, par son entrée principale. L'adresse elle-même diverge selon la source : 110 avenue Joseph Fontanet (musée) ou 15 avenue de Winnenden (mairie).",
+          "q": "Où se trouve le musée ?"
+        },
+        {
+          "a": "Le site du musée publie des horaires dominicaux toute l'année (9h30–11h30 et 14h–17h30 ; 14h–18h en juillet-août) ; la page de la mairie n'en mentionne pas hors été. Nous signalons l'écart.",
+          "q": "Le musée ouvre-t-il le dimanche ?"
+        },
+        {
+          "a": "500 m² d'exposition permanente sur les Jeux d'Albertville 1992 et leur héritage : collections olympiques, douches sonores, bornes tactiles, module olfactif.",
+          "q": "Que voit-on à Tremplin 92 ?"
+        },
+        {
+          "a": "Oui, sur réservation obligatoire : 90 € le forfait selon le musée, 80 € selon la mairie.",
+          "q": "Y a-t-il des visites guidées ?"
+        }
+      ],
+      "hero": {
+        "badge": "7 € · Halle Olympique",
+        "lead": "L'héritage des Jeux d'hiver de 1992 — collections de la Maison des Jeux Olympiques, modules interactifs, 500 m² d'exposition — dans la Halle Olympique d'Albertville."
+      },
+      "hero_alt": "Tremplin 92, espace Montagne et Olympisme, Halle Olympique d'Albertville",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Halle Olympique d'Albertville ; l'accès à Tremplin 92 se fait par l'entrée de la Halle.",
+        "public_transport": null
+      },
+      "meta_description": "Tremplin 92, l'espace Montagne et Olympisme d'Albertville : l'héritage des Jeux de 1992, 500 m² d'exposition dans la Halle Olympique. Sources officielles.",
+      "meta_title": "Tremplin 92 · Musée des JO d'Albertville, tarifs, horaires",
+      "name": "Tremplin 92, Montagne et Olympisme",
+      "name_alternates": [
+        "Maison des Jeux Olympiques d'Albertville et de la Savoie"
+      ],
+      "practical_info": [
+        {
+          "k": "Adresse",
+          "v": "Halle Olympique, Albertville — 110 av. Joseph Fontanet (musée) / 15 av. de Winnenden (mairie)"
+        },
+        {
+          "k": "Tarifs",
+          "v": "7 €/5 € (site du musée) — 6 €/4 € (mairie) ; gratuit −12 ans accompagnés"
+        },
+        {
+          "k": "Horaires",
+          "v": "Lun-sam 9h–12h et 14h–18h ; dimanche 9h30–11h30 et 14h–17h30 ; fermé fériés"
+        },
+        {
+          "k": "Juillet-août",
+          "v": "Lun-sam 9h–12h et 13h30–18h30 ; dimanche et fériés 14h–18h"
+        },
+        {
+          "k": "Visite guidée",
+          "v": "Sur réservation : 90 € (musée) / 80 € (mairie)"
+        }
+      ],
+      "schema_amenities": [
+        "Modules interactifs",
+        "Gratuit −12 ans accompagnés",
+        "Visites guidées sur réservation"
+      ],
+      "when_to_visit": "<p>Toute l'année hors jours fériés ; en juillet-août les après-midis s'étendent jusqu'à 18h30 et le dimanche ouvre 14h–18h.</p>"
+    }
+  },
+  "latitude": 45.663657,
+  "longitude": 6.373546,
+  "official_site_url": "https://www.tremplin92.org/",
+  "partners": [],
+  "postal_code": "73200",
+  "price_currency": "EUR",
+  "price_from": 7,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-10, official sources: tremplin92.org + ville d'Albertville. THREE contradictions kept verbatim between the two official sources: prices (7/5/90 € vs 6/4/80 €), Sunday opening outside July-August (listed vs absent), and even the Halle Olympique's street address (110 avenue Joseph Fontanet vs 15 avenue de Winnenden). Coordinates: Halle Olympique via IGN POI geocoder (the exhibition space lives inside it; the historic Maison des JO POI sits at the old rue Pargoud site).",
+  "schema_org": {
+    "amenities": [],
+    "is_free": false,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "tremplin-92-maison-des-jeux-olympiques-albertville",
+  "sources": [
+    "https://www.tremplin92.org/infos-pratiques/",
+    "https://www.tremplin92.org/",
+    "https://www.albertville.fr/ma-commune/patrimoine-et-tourisme/tourisme/",
+    "https://data.geopf.fr/geocodage/search?q=Halle%20Olympique%20Albertville&index=poi&limit=2"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "patrimoine",
+  "verify_flags": [
+    "ACCES_PMR_UNVERIFIED — no official accessibility source found for this site. Status stays null rather than being inferred from the terrain."
+  ]
+}

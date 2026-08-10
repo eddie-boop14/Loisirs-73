@@ -24,6 +24,99 @@
   "hero_credit": null,
   "hero_image": "/img/generique/generique-chateau.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Der geführte Rundgang führt in die Sainte-Chapelle aus dem 15. Jahrhundert — Renaissance-Glasfenster, Trompe-l'œil-Malereien aus dem 19. Jahrhundert — und erzählt die Geschichte der Maison de Savoie.",
+          "tag": "7,50 €",
+          "title": "Führung durch Sainte-Chapelle und Schloss"
+        },
+        {
+          "description": "Außergewöhnlicher Aufstieg zu den 70 Glocken der Tour Yolande, die normalerweise dem Carillonneur vorbehalten sind. Reservierung erforderlich.",
+          "tag": "19 €",
+          "title": "Exklusivführung zum Grand Carillon"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Das <strong>Château des ducs de Savoie</strong> überragt die Altstadt von Chambéry seit dem 13. Jahrhundert. Einst Residenz der Grafen und später der Herzöge von Savoie, beherbergt es heute die Dienststellen des Départements und die Präfektur der Savoie — deshalb ist es <strong>nur im Rahmen einer Führung zugänglich</strong>, wie die offizielle Quelle unmissverständlich festhält.</p><p>Die Führung führt in die <strong>Sainte-Chapelle</strong>, einen im 15. Jahrhundert erbauten Schauplatz der Geschichte der Maison de Savoie, mit Glasfenstern aus der Renaissance und Trompe-l'œil-Malereien aus dem 19. Jahrhundert. In der Tour Yolande reiht der <strong>Grand Carillon</strong> 70 Glocken aneinander: das größte Carillon Frankreichs, eines der 8 größten der Welt. Der Zugang ist normalerweise strikt dem Carillonneur vorbehalten — vereinzelte „Exklusivführungen“ öffnen ihn dem Publikum (19 €, Reservierung erforderlich; Termine 2026: 8. August und 12. September).</p><p>2026 finden die Führungen täglich vom 23. Juli bis 22. August statt (Beginn ab 10:30, 11:30, 14:30, 15:30 und 17:00 Uhr), anschließend vom 5. bis 26. September unter der Woche von Dienstag bis Freitag sowie an den Wochenenden ab 14:30 Uhr. Voller Tarif 7,50 €, ermäßigt 5,50 €, kostenlos für Kinder unter 12 Jahren. An den Europäischen Tagen des Kulturerbes ist der Eintritt frei und kostenlos.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Innenräume nur mit Führung; kostenlos an den Europäischen Tagen des Kulturerbes",
+        "best_season": "Ganzjährig, je nach Kalender der Führungen",
+        "commune": "Chambéry",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Wehrhaftes Schloss, Sitz der Macht"
+      },
+      "faq": [
+        {
+          "a": "Nein. Das Schloss beherbergt die Dienststellen des Départements und die Präfektur der Savoie: Es ist nur im Rahmen einer Führung zugänglich. Der Ehrenhof und die Außenanlagen lassen sich dagegen frei besichtigen.",
+          "q": "Kann man das Schloss auf eigene Faust besichtigen?"
+        },
+        {
+          "a": "Voller Tarif 7,50 €, ermäßigter Tarif 5,50 €, kostenlos für Kinder unter 12 Jahren, gemäß dem von der Stadt Chambéry veröffentlichten Programm 2026.",
+          "q": "Was kostet die Führung?"
+        },
+        {
+          "a": "Untergebracht in der Tour Yolande, zählt es 70 Glocken — das größte Carillon Frankreichs, eines der 8 größten der Welt. Der Zugang ist normalerweise dem Carillonneur vorbehalten; Exklusivführungen öffnen ihn punktuell (19 €, Reservierung erforderlich, Termine 2026: 8. August und 12. September).",
+          "q": "Was ist das Grand Carillon?"
+        },
+        {
+          "a": "Die im 15. Jahrhundert erbaute Kapelle bewahrt Glasfenster aus der Renaissance und Trompe-l'œil-Malereien aus dem 19. Jahrhundert. Sie ist das Herzstück der Führung.",
+          "q": "Was sieht man in der Sainte-Chapelle?"
+        },
+        {
+          "a": "Ja: An den Europäischen Tagen des Kulturerbes ist der Eintritt in das Schloss laut der Quelle des Départements frei und kostenlos.",
+          "q": "Gibt es kostenlose Termine?"
+        }
+      ],
+      "hero": {
+        "badge": "Führung · Chambéry",
+        "lead": "Sitz der Grafen und später der Herzöge von Savoie, heute Präfektur und Sitz des Départements. Die Innenräume — darunter die Sainte-Chapelle aus dem 15. Jahrhundert — sind nur im Rahmen einer Führung zu besichtigen."
+      },
+      "hero_alt": "Château des ducs de Savoie und seine Sainte-Chapelle, Chambéry, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Im Herzen der Altstadt von Chambéry, Place du Château; Parkmöglichkeiten in der Stadt.",
+        "public_transport": null
+      },
+      "meta_description": "Das Château des ducs de Savoie in Chambéry: Sainte-Chapelle aus dem 15. Jahrhundert, Grand Carillon mit 70 Glocken, Führungen 2026 für 7,50 €. Offizielle Quellen.",
+      "meta_title": "Château des ducs de Savoie · Führungen 2026, Sainte-Chapelle",
+      "name": "Château des ducs de Savoie",
+      "name_alternates": [
+        "Ancien Château des Ducs de Savoie"
+      ],
+      "practical_info": [
+        {
+          "k": "Adresse",
+          "v": "Place du Château, 73000 Chambéry"
+        },
+        {
+          "k": "Preise 2026",
+          "v": "7,50 € voller Tarif, 5,50 € ermäßigt, kostenlos unter 12 Jahren"
+        },
+        {
+          "k": "Sommer 2026",
+          "v": "Täglich vom 23. Juli bis 22. August — Beginn ab 10:30, 11:30, 14:30, 15:30 und 17:00 Uhr"
+        },
+        {
+          "k": "September 2026",
+          "v": "Vom 5. bis 26. September: Dienstag bis Freitag sowie an Wochenenden ab 14:30 Uhr"
+        },
+        {
+          "k": "Exklusivführung Carillon",
+          "v": "19 €, Reservierung erforderlich — 8. August und 12. September 2026"
+        }
+      ],
+      "schema_amenities": [
+        "Führungen",
+        "Sainte-Chapelle",
+        "Grand Carillon mit 70 Glocken"
+      ],
+      "when_to_visit": "<p>Die täglichen Termine konzentrieren sich auf den Sommer (23. Juli – 22. August 2026); im September finden die Führungen nachmittags von Dienstag bis Freitag sowie am Wochenende statt. Für das Carillon empfiehlt es sich, die beiden Exklusivtermine des Jahres anzupeilen.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -117,6 +210,99 @@
       ],
       "when_to_visit": "<p>Daily departures cluster in summer (23 July – 22 August 2026); in September, afternoon tours Tuesday to Friday and at weekends. For the carillon, aim for the year's two privilege dates.</p>"
     },
+    "es": {
+      "activities": [
+        {
+          "description": "El circuito guiado entra en la Sainte-Chapelle del siglo XV — vidrieras renacentistas, trampantojos del siglo XIX — y relata la historia de la Maison de Savoie.",
+          "tag": "7,50 €",
+          "title": "Visita guiada de la Sainte-Chapelle y el castillo"
+        },
+        {
+          "description": "Subida excepcional hacia las 70 campanas de la Tour Yolande, habitualmente reservadas al carillonista. Reserva obligatoria.",
+          "tag": "19 €",
+          "title": "Visita privilegio del Gran Carillón"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>Château des ducs de Savoie</strong> domina el casco antiguo de Chambéry desde el siglo XIII. Residencia de los condes y luego duques de Savoie, hoy alberga los servicios del Departamento y la prefectura de la Savoie — por eso solo es <strong>accesible en visita guiada</strong>, como indica sin rodeos la fuente oficial.</p><p>La visita entra en la <strong>Sainte-Chapelle</strong>, lugar emblemático de la historia de la Maison de Savoie construido en el siglo XV, con sus vidrieras de época renacentista y sus pinturas en trampantojo del siglo XIX. En la Tour Yolande, el <strong>Gran Carillón</strong> alinea 70 campanas: el mayor carillón de Francia, entre los 8 más grandes del mundo. Su acceso está habitualmente reservado en exclusiva al carillonista — algunas «visitas privilegio» puntuales lo abren al público (19 €, reserva obligatoria; fechas 2026: 8 de agosto y 12 de septiembre).</p><p>En 2026, las visitas guiadas están programadas todos los días del 23 de julio al 22 de agosto (salidas a partir de las 10:30, 11:30, 14:30, 15:30 y 17:00), y luego del 5 al 26 de septiembre entre semana de martes a viernes y los fines de semana a partir de las 14:30. Tarifa completa 7,50 €, reducida 5,50 €, gratis para menores de 12 años. La entrada es libre y gratuita durante las Jornadas Europeas del Patrimonio.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Interiores solo en visita guiada; gratis durante las Jornadas Europeas del Patrimonio",
+        "best_season": "Todo el año, según el calendario de visitas guiadas",
+        "commune": "Chambéry",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Castillo fortificado, sede del poder"
+      },
+      "faq": [
+        {
+          "a": "No. El castillo alberga los servicios del Departamento y la prefectura de la Savoie: solo es accesible en visita guiada. El patio de honor y los exteriores, en cambio, se pueden ver libremente.",
+          "q": "¿Se puede visitar el castillo por libre?"
+        },
+        {
+          "a": "Tarifa completa 7,50 €, tarifa reducida 5,50 €, gratis para menores de 12 años, según la programación 2026 publicada por la ciudad de Chambéry.",
+          "q": "¿Cuánto cuesta la visita guiada?"
+        },
+        {
+          "a": "Instalado en la Tour Yolande, cuenta con 70 campanas — el mayor carillón de Francia, entre los 8 más grandes del mundo. El acceso está habitualmente reservado al carillonista; algunas visitas privilegio lo abren puntualmente (19 €, reserva obligatoria, fechas 2026: 8 de agosto y 12 de septiembre).",
+          "q": "¿Qué es el Gran Carillón?"
+        },
+        {
+          "a": "Construida en el siglo XV, conserva vidrieras de época renacentista y pinturas en trampantojo del siglo XIX. Es el corazón de la visita guiada.",
+          "q": "¿Qué se ve en la Sainte-Chapelle?"
+        },
+        {
+          "a": "Sí: durante las Jornadas Europeas del Patrimonio, la entrada al castillo es libre y gratuita, según la fuente departamental.",
+          "q": "¿Existen franjas gratuitas?"
+        }
+      ],
+      "hero": {
+        "badge": "Visita guiada · Chambéry",
+        "lead": "Sede de los condes y luego duques de Savoie, hoy prefectura y Departamento. Los interiores — incluida la Sainte-Chapelle del siglo XV — solo se visitan en visita guiada."
+      },
+      "hero_alt": "Château des ducs de Savoie y su Sainte-Chapelle, Chambéry, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "En pleno centro histórico de Chambéry, place du Château; aparcamiento en la ciudad.",
+        "public_transport": null
+      },
+      "meta_description": "El Château des ducs de Savoie en Chambéry: Sainte-Chapelle del siglo XV, Gran Carillón de 70 campanas, visitas guiadas 2026 a 7,50 €. Fuentes oficiales.",
+      "meta_title": "Château des ducs de Savoie · Visitas 2026, Sainte-Chapelle",
+      "name": "Château des ducs de Savoie",
+      "name_alternates": [
+        "Ancien Château des Ducs de Savoie"
+      ],
+      "practical_info": [
+        {
+          "k": "Dirección",
+          "v": "Place du Château, 73000 Chambéry"
+        },
+        {
+          "k": "Tarifas 2026",
+          "v": "7,50 € completa, 5,50 € reducida, gratis menores de 12 años"
+        },
+        {
+          "k": "Verano 2026",
+          "v": "Todos los días del 23 de julio al 22 de agosto — salidas a partir de las 10:30, 11:30, 14:30, 15:30 y 17:00"
+        },
+        {
+          "k": "Septiembre 2026",
+          "v": "Del 5 al 26 de septiembre: de martes a viernes y fines de semana a partir de las 14:30"
+        },
+        {
+          "k": "Visita privilegio del carillón",
+          "v": "19 €, reserva obligatoria — 8 de agosto y 12 de septiembre de 2026"
+        }
+      ],
+      "schema_amenities": [
+        "Visitas guiadas",
+        "Sainte-Chapelle",
+        "Gran Carillón de 70 campanas"
+      ],
+      "when_to_visit": "<p>Las salidas diarias se concentran en verano (23 de julio – 22 de agosto de 2026); en septiembre, visitas por la tarde de martes a viernes y los fines de semana. Para el carillón, apunte a las dos fechas privilegio del año.</p>"
+    },
     "fr": {
       "activities": [
         {
@@ -209,6 +395,192 @@
         "Grand Carillon de 70 cloches"
       ],
       "when_to_visit": "<p>Les départs quotidiens se concentrent sur l'été (23 juillet – 22 août 2026) ; en septembre, visites l'après-midi du mardi au vendredi et le week-end. Pour le carillon, viser les deux dates privilège de l'année.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Il percorso guidato entra nella Sainte-Chapelle del XV secolo — vetrate rinascimentali, trompe-l'œil ottocenteschi — e racconta la storia della Maison de Savoie.",
+          "tag": "7,50 €",
+          "title": "Visita guidata della Sainte-Chapelle e del castello"
+        },
+        {
+          "description": "Salita eccezionale alle 70 campane della Tour Yolande, di norma riservate al carillonneur. Prenotazione obbligatoria.",
+          "tag": "19 €",
+          "title": "Visita privilegio del Grand Carillon"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Il <strong>Château des ducs de Savoie</strong> domina la Chambéry vecchia fin dal XIII secolo. Residenza dei conti e poi dei duchi di Savoie, ospita oggi gli uffici del Dipartimento e la prefettura della Savoie — per questo è <strong>accessibile solo con visita guidata</strong>, come precisa senza giri di parole la fonte ufficiale.</p><p>La visita entra nella <strong>Sainte-Chapelle</strong>, luogo simbolo della storia della Maison de Savoie costruito nel XV secolo, con le sue vetrate d'epoca rinascimentale e le pitture in trompe-l'œil del XIX secolo. Nella Tour Yolande, il <strong>Grand Carillon</strong> allinea 70 campane: il carillon più grande di Francia, tra gli 8 più grandi al mondo. L'accesso è di norma strettamente riservato al carillonneur — alcune « visite privilegio » puntuali lo aprono al pubblico (19 €, prenotazione obbligatoria; date 2026: 8 agosto e 12 settembre).</p><p>Nel 2026 le visite guidate sono in programma tutti i giorni dal 23 luglio al 22 agosto (partenze a partire dalle 10:30, 11:30, 14:30, 15:30 e 17:00), poi dal 5 al 26 settembre nei giorni feriali dal martedì al venerdì e nei fine settimana a partire dalle 14:30. Tariffa intera 7,50 €, ridotta 5,50 €, gratis per i minori di 12 anni. L'ingresso è libero e gratuito durante le Giornate europee del patrimonio.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Interni visitabili solo con visita guidata; ingresso gratuito durante le Giornate europee del patrimonio",
+        "best_season": "Tutto l'anno, secondo il calendario delle visite guidate",
+        "commune": "Chambéry",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Castello fortificato, sede del potere"
+      },
+      "faq": [
+        {
+          "a": "No. Il castello ospita gli uffici del Dipartimento e la prefettura della Savoie: è accessibile solo con visita guidata. La corte d'onore e gli esterni, invece, si possono ammirare liberamente.",
+          "q": "Si può visitare il castello liberamente?"
+        },
+        {
+          "a": "Tariffa intera 7,50 €, ridotta 5,50 €, gratis per i minori di 12 anni, secondo il programma 2026 pubblicato dalla città di Chambéry.",
+          "q": "Quanto costa la visita guidata?"
+        },
+        {
+          "a": "Ospitato nella Tour Yolande, conta 70 campane — il carillon più grande di Francia, tra gli 8 più grandi al mondo. L'accesso è di norma riservato al carillonneur; visite privilegio lo aprono al pubblico in date puntuali (19 €, prenotazione obbligatoria, date 2026: 8 agosto e 12 settembre).",
+          "q": "Che cos'è il Grand Carillon?"
+        },
+        {
+          "a": "Costruita nel XV secolo, conserva vetrate d'epoca rinascimentale e pitture in trompe-l'œil del XIX secolo. È il cuore della visita guidata.",
+          "q": "Cosa si vede nella Sainte-Chapelle?"
+        },
+        {
+          "a": "Sì: durante le Giornate europee del patrimonio l'ingresso al castello è libero e gratuito, secondo la fonte dipartimentale.",
+          "q": "Esistono ingressi gratuiti?"
+        }
+      ],
+      "hero": {
+        "badge": "Visita guidata · Chambéry",
+        "lead": "Sede dei conti e poi dei duchi di Savoie, oggi prefettura e Dipartimento. Gli interni — tra cui la Sainte-Chapelle del XV secolo — si visitano solo con visita guidata."
+      },
+      "hero_alt": "Il Château des ducs de Savoie con la sua Sainte-Chapelle, Chambéry, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Nel cuore del centro storico di Chambéry, place du Château; parcheggi in città.",
+        "public_transport": null
+      },
+      "meta_description": "Il Château des ducs de Savoie a Chambéry: Sainte-Chapelle del XV secolo, Grand Carillon di 70 campane, visite guidate 2026 a 7,50 €. Fonti ufficiali.",
+      "meta_title": "Château des ducs de Savoie · Visite 2026, Sainte-Chapelle",
+      "name": "Il Château des ducs de Savoie",
+      "name_alternates": [
+        "Ancien Château des Ducs de Savoie"
+      ],
+      "practical_info": [
+        {
+          "k": "Indirizzo",
+          "v": "Place du Château, 73000 Chambéry"
+        },
+        {
+          "k": "Tariffe 2026",
+          "v": "7,50 € intera, 5,50 € ridotta, gratis sotto i 12 anni"
+        },
+        {
+          "k": "Estate 2026",
+          "v": "Tutti i giorni dal 23 luglio al 22 agosto — partenze a partire dalle 10:30, 11:30, 14:30, 15:30, 17:00"
+        },
+        {
+          "k": "Settembre 2026",
+          "v": "Dal 5 al 26 settembre: dal martedì al venerdì e nei fine settimana a partire dalle 14:30"
+        },
+        {
+          "k": "Visita privilegio del carillon",
+          "v": "19 €, prenotazione obbligatoria — 8 agosto e 12 settembre 2026"
+        }
+      ],
+      "schema_amenities": [
+        "Visite guidate",
+        "La Sainte-Chapelle",
+        "Grand Carillon di 70 campane"
+      ],
+      "when_to_visit": "<p>Le partenze quotidiane si concentrano in estate (23 luglio – 22 agosto 2026); a settembre, visite al pomeriggio dal martedì al venerdì e nel fine settimana. Per il carillon, puntate sulle due date privilegio dell'anno.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "De rondleiding voert door de vijftiende-eeuwse Sainte-Chapelle — met renaissanceglasramen en negentiende-eeuwse trompe-l'oeilschilderingen — en vertelt het verhaal van het Maison de Savoie.",
+          "tag": "7,50 €",
+          "title": "Rondleiding Sainte-Chapelle en kasteel"
+        },
+        {
+          "description": "Uitzonderlijke beklimming naar de 70 klokken van de Tour Yolande, normaal voorbehouden aan de beiaardier. Reserveren verplicht.",
+          "tag": "19 €",
+          "title": "Privilegebezoek aan de Grand Carillon"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Het <strong>Château des ducs de Savoie</strong> torent al sinds de dertiende eeuw boven het oude Chambéry uit. Het kasteel was de residentie van de graven en later hertogen van Savoie en huisvest tegenwoordig de diensten van het departement en de prefectuur van de Savoie — daarom is het <strong>alleen met een rondleiding toegankelijk</strong>, zoals de officiële bron onomwonden stelt.</p><p>Het bezoek gaat de <strong>Sainte-Chapelle</strong> binnen, een hoogtepunt in de geschiedenis van het Maison de Savoie, gebouwd in de vijftiende eeuw, met glasramen uit de renaissance en trompe-l'oeilschilderingen uit de negentiende eeuw. In de Tour Yolande hangen de 70 klokken van de <strong>Grand Carillon</strong>: de grootste beiaard van Frankrijk en een van de 8 grootste ter wereld. De toegang is normaal strikt voorbehouden aan de beiaardier — incidentele „privilegebezoeken\" stellen hem open voor het publiek (19 €, reserveren verplicht; data 2026: 8 augustus en 12 september).</p><p>In 2026 zijn er dagelijks rondleidingen van 23 juli tot en met 22 augustus (vertrek vanaf 10.30, 11.30, 14.30, 15.30 en 17 uur), en daarna van 5 tot en met 26 september doordeweeks van dinsdag tot en met vrijdag en in het weekend vanaf 14.30 uur. Vol tarief 7,50 €, gereduceerd 5,50 €, gratis voor kinderen onder de 12 jaar. Tijdens de Europese Open Monumentendagen is de toegang vrij en gratis.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Interieurs alleen met rondleiding; gratis tijdens de Europese Open Monumentendagen",
+        "best_season": "Het hele jaar door, volgens de kalender van de rondleidingen",
+        "commune": "Chambéry",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Versterkt kasteel, machtszetel"
+      },
+      "faq": [
+        {
+          "a": "Nee. Het kasteel huisvest de diensten van het departement en de prefectuur van de Savoie: het is alleen toegankelijk met een rondleiding. De erehof en de buitenkant zijn wel vrij te bezichtigen.",
+          "q": "Kan ik het kasteel op eigen houtje bezoeken?"
+        },
+        {
+          "a": "Vol tarief 7,50 €, gereduceerd tarief 5,50 €, gratis voor kinderen onder de 12 jaar, volgens het door de stad Chambéry gepubliceerde programma voor 2026.",
+          "q": "Hoeveel kost de rondleiding?"
+        },
+        {
+          "a": "De beiaard hangt in de Tour Yolande en telt 70 klokken — de grootste beiaard van Frankrijk, een van de 8 grootste ter wereld. De toegang is normaal voorbehouden aan de beiaardier; privilegebezoeken stellen hem af en toe open (19 €, reserveren verplicht, data 2026: 8 augustus en 12 september).",
+          "q": "Wat is de Grand Carillon?"
+        },
+        {
+          "a": "De kapel werd gebouwd in de vijftiende eeuw en bewaart glasramen uit de renaissance en trompe-l'oeilschilderingen uit de negentiende eeuw. Ze vormt het hart van de rondleiding.",
+          "q": "Wat is er te zien in de Sainte-Chapelle?"
+        },
+        {
+          "a": "Ja: tijdens de Europese Open Monumentendagen is de toegang tot het kasteel vrij en gratis, aldus de departementale bron.",
+          "q": "Zijn er gratis momenten?"
+        }
+      ],
+      "hero": {
+        "badge": "Rondleiding · Chambéry",
+        "lead": "Zetel van de graven en later hertogen van Savoie, tegenwoordig prefectuur en departement. De interieurs — waaronder de vijftiende-eeuwse Sainte-Chapelle — zijn alleen met een rondleiding te bezoeken."
+      },
+      "hero_alt": "Château des ducs de Savoie en zijn Sainte-Chapelle, Chambéry, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "In het hart van het historische centrum van Chambéry, aan de Place du Château; parkeren in de stad.",
+        "public_transport": null
+      },
+      "meta_description": "Het Château des ducs de Savoie in Chambéry: vijftiende-eeuwse Sainte-Chapelle, Grand Carillon met 70 klokken, rondleidingen 2026 voor 7,50 €. Officiële bronnen.",
+      "meta_title": "Château des ducs de Savoie · Bezoeken 2026, Sainte-Chapelle",
+      "name": "Château des ducs de Savoie",
+      "name_alternates": [
+        "Ancien Château des Ducs de Savoie"
+      ],
+      "practical_info": [
+        {
+          "k": "Adres",
+          "v": "Place du Château, 73000 Chambéry"
+        },
+        {
+          "k": "Tarieven 2026",
+          "v": "7,50 € vol tarief, 5,50 € gereduceerd, gratis onder de 12 jaar"
+        },
+        {
+          "k": "Zomer 2026",
+          "v": "Dagelijks van 23 juli tot en met 22 augustus — vertrek vanaf 10.30, 11.30, 14.30, 15.30 en 17 uur"
+        },
+        {
+          "k": "September 2026",
+          "v": "Van 5 tot en met 26 september: dinsdag tot en met vrijdag en in het weekend vanaf 14.30 uur"
+        },
+        {
+          "k": "Privilegebezoek beiaard",
+          "v": "19 €, reserveren verplicht — 8 augustus en 12 september 2026"
+        }
+      ],
+      "schema_amenities": [
+        "Rondleidingen",
+        "Sainte-Chapelle",
+        "Grand Carillon met 70 klokken"
+      ],
+      "when_to_visit": "<p>De dagelijkse vertrektijden concentreren zich in de zomer (23 juli – 22 augustus 2026); in september zijn er middagbezoeken van dinsdag tot en met vrijdag en in het weekend. Voor de beiaard mikt u het best op de twee privilegedata van het jaar.</p>"
     }
   },
   "latitude": 45.564536,

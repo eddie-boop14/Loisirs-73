@@ -434,9 +434,14 @@
           "category": "point-de-vue",
           "slug": "col-du-chaussy",
           "title_fr": "Col du Chaussy"
+        },
+        {
+          "category": "musee",
+          "slug": "musee-opinel-saint-jean-de-maurienne",
+          "title_fr": "Musée Opinel"
         }
       ],
-      "lieux_count": 1,
+      "lieux_count": 2,
       "postal_code": "73300",
       "research_log": [],
       "slug": "saint-jean-de-maurienne",
@@ -757,9 +762,24 @@
           "category": "chateau",
           "slug": "chateau-des-ducs-de-savoie-chambery",
           "title_fr": "Château des ducs de Savoie"
+        },
+        {
+          "category": "musee",
+          "slug": "musee-savoisien-chambery",
+          "title_fr": "Musée Savoisien"
+        },
+        {
+          "category": "musee",
+          "slug": "musee-des-beaux-arts-chambery",
+          "title_fr": "Musée des Beaux-Arts de Chambéry"
+        },
+        {
+          "category": "musee",
+          "slug": "les-charmettes-maison-jean-jacques-rousseau-chambery",
+          "title_fr": "Les Charmettes, maison de Jean-Jacques Rousseau"
         }
       ],
-      "lieux_count": 1,
+      "lieux_count": 4,
       "postal_code": "73000",
       "research_log": "Added with the châteaux batch, 2026-08-10.",
       "slug": "chambery",
@@ -870,10 +890,73 @@
       "slug": "chignin",
       "stats": {},
       "verify_flags": []
+    },
+    {
+      "commune": "Saint-Michel-de-Maurienne",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "Gateway town of the industrial Maurienne, Saint-Michel-de-Maurienne tells a century of the valley's aluminium at the Espace Alu.",
+      "intro_fr": "Ville-porte de la Maurienne industrielle, Saint-Michel-de-Maurienne raconte à l'Espace Alu un siècle d'aluminium dans la vallée.",
+      "lieux": [
+        {
+          "category": "musee",
+          "slug": "espace-alu-saint-michel-de-maurienne",
+          "title_fr": "Espace Alu"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73140",
+      "research_log": "Added with the musées batch, 2026-08-10.",
+      "slug": "saint-michel-de-maurienne",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
+      "commune": "Entremont-le-Vieux",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "In the heart of the Chartreuse's Entremonts, Entremont-le-Vieux keeps the memory of the Balme à Collomb's cave bear.",
+      "intro_fr": "Au cœur des Entremonts en Chartreuse, Entremont-le-Vieux garde la mémoire de l'ours des cavernes de la Balme à Collomb.",
+      "lieux": [
+        {
+          "category": "musee",
+          "slug": "musee-ours-des-cavernes-entremont-le-vieux",
+          "title_fr": "Musée de l'Ours des Cavernes"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73670",
+      "research_log": "Added with the musées batch, 2026-08-10.",
+      "slug": "entremont-le-vieux",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
+      "commune": "Albertville",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "Olympic city of 1992, Albertville carries the Winter Games' legacy in its Halle Olympique and the Tremplin 92 space.",
+      "intro_fr": "Ville olympique de 1992, Albertville porte l'héritage des Jeux d'hiver dans sa Halle Olympique et l'espace Tremplin 92.",
+      "lieux": [
+        {
+          "category": "musee",
+          "slug": "tremplin-92-maison-des-jeux-olympiques-albertville",
+          "title_fr": "Tremplin 92, Montagne et Olympisme"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73200",
+      "research_log": "Added with the musées batch, 2026-08-10.",
+      "slug": "albertville",
+      "stats": {},
+      "verify_flags": []
     }
   ],
   "generated": "2026-08-08",
-  "manifest": "commune-layer-73-28",
+  "manifest": "commune-layer-73-31",
   "note": "Communes derived from the fiche layer, not authored by hand: one entry per commune that owns at least one fiche. Centroid is the mean of the fiches' coordinates and is absent where none carry one.",
   "tier": "ski-domain launch bucket"
 }

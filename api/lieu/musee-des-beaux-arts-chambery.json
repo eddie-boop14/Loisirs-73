@@ -1,0 +1,24 @@
+{
+  "name": "Musée des Beaux-Arts de Chambéry",
+  "commune": "Chambéry",
+  "gps": {
+    "lat": 45.568142,
+    "lng": 5.919733
+  },
+  "type": "musee",
+  "hours": "Mardi–dimanche 10h–18h ; fermé lundis et jours fériés",
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "Toute l'année, du mardi au dimanche ; fermé lundis et jours fériés",
+  "winter": null,
+  "official_url": "https://www.chambery.fr/220-venir-au-musee.htm",
+  "last_verified": null
+}

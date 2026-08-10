@@ -1,0 +1,24 @@
+{
+  "name": "Musée Savoisien",
+  "commune": "Chambéry",
+  "gps": {
+    "lat": 45.565554,
+    "lng": 5.922699
+  },
+  "type": "musee",
+  "hours": "Tous les jours sauf mardi, 10h–12h30 et 13h30–18h",
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "Toute l'année sauf mardis, quatre jours fériés et deux semaines de janvier",
+  "winter": null,
+  "official_url": "https://patrimoines.savoie.fr/web/psp_30197/musee-savoisien-accueil",
+  "last_verified": null
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Musée de l'Ours des Cavernes",
+  "commune": "Entremont-le-Vieux",
+  "gps": {
+    "lat": 45.451618,
+    "lng": 5.882135
+  },
+  "type": "musee",
+  "hours": null,
+  "prices": {
+    "from": 7,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": false,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "Fenêtres saisonnières 2026 : vacances scolaires, été 10h–12h30 / 14h–18h",
+  "winter": null,
+  "official_url": "https://musee-ours-cavernes.com/",
+  "last_verified": null
+}

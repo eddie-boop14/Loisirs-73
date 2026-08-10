@@ -24,6 +24,99 @@
   "hero_credit": null,
   "hero_image": "/img/generique/generique-chateau-toiture.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Der restaurierte Turm erklärt die geschützten Sümpfe der Südküste des Lac du Bourget - Juli-August, Dienstag bis Sonntag, 14:00-18:00 Uhr.",
+          "tag": "2 €",
+          "title": "Tour de la Poterne Museum"
+        },
+        {
+          "description": "Das Fremdenverkehrsamt und die Fondation Facim verbinden die Klosterkirche von Le Bourget-du-Lac mit den Ruinen von Thomas II.",
+          "tag": "Mit dem Tourismusbüro",
+          "title": "Geführte Tour vom Priorat zum Schloss"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Am südlichen Ende des Lac du Bourget, die<strong>Schloss Thomas II</strong>wurde auf Land gebaut, das in<strong>1248 von Thomas II von Savoy</strong>Bruder des Grafen Amédée IV. Ein Jagd-Rendezvous und See Residenz der Grafen von Savoyen, wurde es fast vollständig durch Feuer zerstört. Von der Gemeinde zurückgekauft, war es<strong>klassifiziert Monument historique am 21. März 1983</strong>.</p><p>Der heutige Besuch besteht aus zwei Teilen:<strong>Der Innenhof des Schlosses ist frei zugänglich</strong>und die Wiederherstellung<strong>Tour de la Poterne</strong>beherbergt einen Museumsraum, der die Schlüssel zu den geschützten Sümpfen der Südküste des Sees gibt. Der Turm öffnet im Juli und August, Dienstag bis Sonntag, 14:00-18:00 - 2 € pro Erwachsener, 1 € pro Kind.</p><p>Das Tourismusbüro führt auch Führungen durch, die die Klosterkirche von Le Bourget-du-Lac mit dem Schloss Thomas II und dem Fondation Facim verbinden. Um die Ruinen herum ist das Ufer ein geschütztes Naturgebiet, das zu Fuß erkundet wird.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Innenhof frei; Tour de la Poterne €2 (Juli-August)",
+        "best_season": "Juli-August für den Turm; Innenhof und Sümpfe das ganze Jahr über",
+        "commune": "Le Bourget-du-Lac",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Ruinierte Burg, aufgeführt Monument historique"
+      },
+      "faq": [
+        {
+          "a": "Der Innenhof des Schlosses ist frei. Nur der Museumsturm – der Tour de la Poterne – kostet: 2 € für Erwachsene, 1 € für Kinder.",
+          "q": "Ist der Zugang bezahlt?"
+        },
+        {
+          "a": "Im Juli und August, Dienstag bis Sonntag, 14:00-18:00 - der Kalender, wie von der Gemeinde veröffentlicht.",
+          "q": "Wann ist der Tour de la Poterne geöffnet?"
+        },
+        {
+          "a": "Thomas II von Savoyen, Bruder des Grafen Amédée IV, erwarb das Land 1248 und baute diese Seewohnung.",
+          "q": "Wer war Thomas II?"
+        },
+        {
+          "a": "Es wurde fast vollständig durch Feuer zerstört. Die Gemeinde kaufte es zurück und ist seit dem 21. März 1983 ein börsennotiertes Monument historique.",
+          "q": "Warum liegt das Schloss in Trümmern?"
+        },
+        {
+          "a": "Es befindet sich im Tour de la Poterne und erklärt die geschützten Sümpfe der Südküste des Lac du Bourget.",
+          "q": "Was deckt der Museumsraum ab?"
+        }
+      ],
+      "hero": {
+        "badge": "Freier Innenhof · Le Bourget-du-Lac",
+        "lead": "Eine Residenz der Grafen von Savoyen begann 1248 am Ufer des Lac du Bourget, zerstört durch Feuer, aufgeführt 1983. Freier Innenhof ganzjährig, Museumsturm im Sommer."
+      },
+      "hero_alt": "Ruinen des Schlosses Thomas II in der Nähe des Lac du Bourget, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Am südlichen Ende des Lac du Bourget, in der Gemeinde Le Bourget-du-Lac; das Schloss ist vom Dorf aus ausgeschildert.",
+        "public_transport": null
+      },
+      "meta_description": "Das Schloss Thomas II im Le Bourget-du-Lac: freier Innenhof, Museumsturm im Sommer (€2), geschützte Sümpfe. Nur offizielle Quellen.",
+      "meta_title": "Château de Thomas II · Ruinen am See, Lac du Bourget",
+      "name": "Château de Thomas II",
+      "name_alternates": [
+        "Château Thomas II"
+      ],
+      "practical_info": [
+        {
+          "k": "Anschrift",
+          "v": "Château de Thomas II, 73370 Le Bourget-du-Lac"
+        },
+        {
+          "k": "Innenhof",
+          "v": "Freier Zugang ganzjährig"
+        },
+        {
+          "k": "Tour de la Poterne",
+          "v": "Juli-August, Dienstag-Sonntag 14:00-18:00 - €2 Erwachsener, €1 Kind"
+        },
+        {
+          "k": "Liste",
+          "v": "Monument historique seit 21. März 1983"
+        },
+        {
+          "k": "Geführte Touren",
+          "v": "Von der Klosterkirche bis zum Schloss, mit dem Tourismusbüro und Fondation Facim"
+        }
+      ],
+      "schema_amenities": [
+        "Freier Innenhof",
+        "Museumsraum",
+        "Geschützte Sümpfe in der Nähe"
+      ],
+      "when_to_visit": "<p>Juli-August, um die Tour de la Poterne zu betreten (Dienstag-Sonntag, 14:00-18:00). Den Rest des Jahres bleibt der Innenhof geöffnet und die geschützten Küstensümpfe können besichtigt werden.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -117,6 +210,99 @@
       ],
       "when_to_visit": "<p>July-August to enter the Tour de la Poterne (Tuesday–Sunday, 14:00–18:00). The rest of the year, the courtyard stays open and the protected shoreline marshes can be walked.</p>"
     },
+    "es": {
+      "activities": [
+        {
+          "description": "La torre restaurada explica las marismas protegidas de la costa sur del Lago de Bourget: julio a agosto, martes a domingo, 14:00 a 18:00.",
+          "tag": "€2",
+          "title": "Museo Tour de la Poterne"
+        },
+        {
+          "description": "La oficina turística y la Fondation Facim vinculan la iglesia de priori de Le Bourget-du-Lac a las ruinas de Thomas II.",
+          "tag": "Con la oficina de turismo",
+          "title": "Visita guiada de priory al castillo"
+        }
+      ],
+      "body": {
+        "what_is": "<p>En el extremo sur de la Lac du Bourget, el<strong>château de Thomas II</strong>fue construido sobre terrenos adquiridos en<strong>1248 por Thomas II de Savoy</strong>Hermano del Conde Amédée IV. Un lugar de caza y residencia junto al lago de los condes de Savoy, fue casi completamente destruido por el fuego. Regresada por la comuna, fue<strong>clasificado Monument historique el 21 de marzo de 1983</strong>.</p><p>La visita de hoy viene en dos partes: la<strong>patio interior del castillo es libremente accesible</strong>, y el restaurado<strong>Tour de la Poterne</strong>alberga un espacio museo que da las llaves de las marismas protegidas de la costa sur del lago. La torre se abre en julio y agosto, de martes a domingo, 14:00-18:00 — €2 por adulto, €1 por niño.</p><p>La oficina turística también realiza visitas guiadas que unen la iglesia de priori de Le Bourget-du-Lac al castillo Thomas II, con el Fondation Facim. Alrededor de las ruinas, la costa es un área natural protegida explorada a pie.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Patio interior libre; Tour de la Poterne €2 (julio-agosto)",
+        "best_season": "Julio-agosto para la torre; patio y marismas todo el año",
+        "commune": "Le Bourget-du-Lac",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Castillo rizado, lista Monument historique"
+      },
+      "faq": [
+        {
+          "a": "El patio interior del castillo es gratis. Sólo la torre del museo — el Tour de la Poterne— cobra: 2 € adulto, 1 € niño.",
+          "q": "¿Se paga el acceso?"
+        },
+        {
+          "a": "En julio y agosto, de martes a domingo, de 14:00 a 18:00 — el calendario publicado por la comuna.",
+          "q": "¿Cuándo está el Tour de la Poterne abierto?"
+        },
+        {
+          "a": "Thomas II de Savoy, hermano del Conde Amédée IV, adquirió la tierra en 1248 y construyó esta residencia junto al lago.",
+          "q": "¿Quién era Thomas II?"
+        },
+        {
+          "a": "Fue casi completamente destruido por el fuego. La comuna lo compró y ha sido una Monument historique listada desde el 21 de marzo de 1983.",
+          "q": "¿Por qué está el castillo en ruinas?"
+        },
+        {
+          "a": "Instalado en la Tour de la Poterne, ofrece la clave para comprender las marismas protegidas de la costa sur del Lac du Bourget.",
+          "q": "¿Qué cubre el espacio del museo?"
+        }
+      ],
+      "hero": {
+        "badge": "Patio libre · Le Bourget-du-Lac",
+        "lead": "Una residencia de los condes de Savoy comenzó en 1248 a orillas de la Lac du Bourget, arruinada por el fuego, lista en 1983. Patio libre todo el año, torre museo en verano."
+      },
+      "hero_alt": "Ruinas del castillo de Thomas II cerca del Lac du Bourget, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "En el extremo sur de la Lac du Bourget, en la comuna de Le Bourget-du-Lac; el castillo está señalizado desde el pueblo.",
+        "public_transport": null
+      },
+      "meta_description": "El castillo de Thomas II en Le Bourget-du-Lac: patio libre, torre de museo en verano (€2), pantanos protegidos. Fuentes oficiales solamente.",
+      "meta_title": "Château de Thomas II · Ruinas de Lakeside, Lac du Bourget",
+      "name": "Château de Thomas II",
+      "name_alternates": [
+        "Château Thomas II"
+      ],
+      "practical_info": [
+        {
+          "k": "Dirección",
+          "v": "Château de Thomas II, 73370 Le Bourget-du-Lac"
+        },
+        {
+          "k": "Courtyard",
+          "v": "Acceso gratuito todo el año"
+        },
+        {
+          "k": "Tour de la Poterne",
+          "v": "Julio-agosto, martes–domingo 14:00–18:00 — €2 adulto, €1 niño"
+        },
+        {
+          "k": "Lista",
+          "v": "Monument historique desde el 21 marzo 1983"
+        },
+        {
+          "k": "Visitas guiadas",
+          "v": "Desde la iglesia anterior al castillo, con la oficina turística y Fondation Facim"
+        }
+      ],
+      "schema_amenities": [
+        "Patio libre",
+        "Espacio del museo",
+        "Marshes protegidos cerca"
+      ],
+      "when_to_visit": "<p>Julio-agosto para entrar en la Tour de la Poterne ( Martes – Domingo, 14:00-18:00). El resto del año, el patio permanece abierto y se pueden caminar las marismas protegidas de costa.</p>"
+    },
     "fr": {
       "activities": [
         {
@@ -209,6 +395,192 @@
         "Marais protégés à proximité"
       ],
       "when_to_visit": "<p>Juillet-août pour entrer dans la tour de la Poterne (mardi–dimanche, 14h–18h). Le reste de l'année, la cour reste libre et les marais protégés du littoral se parcourent à pied.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "La torre restaurata spiega le paludi protette della sponda meridionale dell'Lac du Bourget — luglio-agosto, da martedì a domenica, 14:00-18:00.",
+          "tag": "€ 2",
+          "title": "Museo Tour de la Poterne"
+        },
+        {
+          "description": "L'ufficio turistico e l'Fondation Facim collegano la chiesa precedente di Le Bourget-du-Lac alle rovine di Thomas II.",
+          "tag": "Con l'ufficio turistico",
+          "title": "Visita guidata da priorato al castello"
+        }
+      ],
+      "body": {
+        "what_is": "<p>All'estremità meridionale dell'Lac du Bourget,<strong>château de Thomas II</strong>è stato costruito su terra acquisita in<strong>1248 di Thomas II di Savoia</strong>Fratello del Conte Amédée IV. Un appuntamento di caccia e residenza sul lago dei conti di Savoia, fu quasi interamente distrutta dal fuoco. Tolta dal comune, era<strong>classificato Monument historique il 21 marzo 1983</strong>.</p><p>La visita di oggi arriva in due parti: la<strong>cortile interno del castello è liberamente accessibile</strong>, e il restaurato<strong>Tour de la Poterne</strong>ospita uno spazio museale che dà le chiavi alle paludi protette della riva meridionale del lago. La torre si apre in luglio e agosto, da martedì a domenica, 14:00-18:00 — €2 per adulto, €1 per bambino.</p><p>L'ufficio turistico gestisce anche visite guidate che collegano la chiesa precedente di Le Bourget-du-Lac al castello Thomas II, con la Fondation Facim. Intorno alle rovine, la riva è un'area naturale protetta esplorata a piedi.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Cortile interno gratuito; Tour de la Poterne €2 (luglio-agosto)",
+        "best_season": "Luglio-agosto per la torre; cortile e paludi tutto l'anno",
+        "commune": "Le Bourget-du-Lac",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Castello in rovina, elencato Monument historique"
+      },
+      "faq": [
+        {
+          "a": "Il cortile interno del castello è gratuito. Solo la torre museale — la Tour de la Poterne — oneri: 2 adulti, 1 bambino.",
+          "q": "L'accesso è pagato?"
+        },
+        {
+          "a": "Nel mese di luglio e agosto, da martedì a domenica, 14:00-18:00 — il calendario come pubblicato dal comune.",
+          "q": "Quando è aperta la Tour de la Poterne?"
+        },
+        {
+          "a": "Thomas II di Savoia, fratello del conte Amédée IV, acquisì la terra nel 1248 e costruì questa residenza sul lago.",
+          "q": "Chi era Thomas II?"
+        },
+        {
+          "a": "Fu quasi completamente distrutta dal fuoco. Il comune lo riacquistò, ed è stato un Monument historique elencato dal 21 marzo 1983.",
+          "q": "Perché il castello è in rovina?"
+        },
+        {
+          "a": "Situato nella Tour de la Poterne, spiega le paludi protette della sponda meridionale della Lac du Bourget.",
+          "q": "Cosa copre lo spazio del museo?"
+        }
+      ],
+      "hero": {
+        "badge": "Cortile libero · Le Bourget-du-Lac",
+        "lead": "Una residenza dei conti di Savoia iniziata nel 1248 sulla riva del Lac du Bourget, rovinata dal fuoco, elencata nel 1983. Cortile gratuito tutto l'anno, torre museale in estate."
+      },
+      "hero_alt": "Rovine del castello di Thomas II vicino alla Lac du Bourget, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "All'estremità meridionale dell'Lac du Bourget, nel comune di Le Bourget-du-Lac; il castello è segnalato dal villaggio.",
+        "public_transport": null
+      },
+      "meta_description": "Il castello di Thomas II a Le Bourget-du-Lac: cortile gratuito, torre museale in estate (€2), paludi protetti. Solo fonti ufficiali.",
+      "meta_title": "Château de Thomas II · Rovine lungo il lago, Lac du Bourget",
+      "name": "Château de Thomas II",
+      "name_alternates": [
+        "Château Thomas II"
+      ],
+      "practical_info": [
+        {
+          "k": "Indirizzo",
+          "v": "Château de Thomas II, 73370 Le Bourget-du-Lac"
+        },
+        {
+          "k": "Corte di giustizia",
+          "v": "Accesso gratuito tutto l'anno"
+        },
+        {
+          "k": "Tour de la Poterne",
+          "v": "Luglio-agosto, martedì-domenica 14:00–18:00 — €2 adulto, € 1 bambino"
+        },
+        {
+          "k": "Elenco",
+          "v": "Monument historique dal 21 marzo 1983"
+        },
+        {
+          "k": "Visite guidate",
+          "v": "Dalla chiesa precedente al castello, con l'ufficio turistico e Fondation Facim"
+        }
+      ],
+      "schema_amenities": [
+        "Cortile gratuito",
+        "Spazio museo",
+        "paludi protetti nelle vicinanze"
+      ],
+      "when_to_visit": "<p>Luglio-agosto per entrare nella Tour de la Poterne (martedì – domenica, 14:00–18:00). Il resto dell'anno, il cortile rimane aperto e le paludi costiere protette possono essere camminate.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "De gerestaureerde toren verklaart de beschermde moerassen van de zuidelijke kust van de Lac du Bourget — juli-augustus, dinsdag tot zondag, 14:00–18:00.",
+          "tag": "2 euro",
+          "title": "Tour de la Poterne museum"
+        },
+        {
+          "description": "Het VVV-kantoor en de Fondation Facim verbinden de priorijkerk van Le Bourget-du-Lac met de ruïnes van Thomas II.",
+          "tag": "Met het toeristenbureau",
+          "title": "Rondleiding van priorij naar kasteel"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Aan het zuidelijke einde van de Lac du Bourget, de <strong>château de Thomas II</strong> werd gebouwd op grond die in <strong>1248 door Thomas II van Savoie</strong>, broer van Graaf Amédée IV, werd verworven. Een jachtverblijf en lakeside residentie van de graven van Savoie, het werd bijna helemaal verwoest door brand. Teruggekocht door de gemeente, het is <strong>geclassificeerd Monument historique op 21 maart 1983</strong>.</p><p>Het bezoek van vandaag heeft twee delen: de <strong>binnenplaats van het kasteel is vrij toegankelijk</strong>, en de gerestaureerde <strong>Tour de la Poterne</strong> herbergt een museumruimte die de sleutels geeft tot inzicht in de beschermde moerassen van de zuidelijke oever van het meer. De toren is open in juli en augustus, dinsdag tot zondag, 14:00–18:00 — €2 per volwassene, €1 per kind.</p><p>Het toeristenkantoor programmeert ook geleide tours die de priorijkerk van Le Bourget-du-Lac verbinden met château Thomas II, met de Fondation Facim. Rond de ruïnes is de oever een beschermd natuurgebied dat te voet kan worden verkend.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Binnenplaats gratis; Tour de la Poterne € 2 (juli-augustus)",
+        "best_season": "Juli-augustus voor de toren; binnenplaats en moerassen het hele jaar door",
+        "commune": "Le Bourget-du-Lac",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Geruïneerd kasteel, vermeld Monument historique"
+      },
+      "faq": [
+        {
+          "a": "De binnenplaats van het kasteel is gratis. Alleen de museumtoren — de Tour de la Poterne — vraagt om toegang: €2 volwassene, €1 kind.",
+          "q": "Wordt toegang betaald?"
+        },
+        {
+          "a": "In juli en augustus, dinsdag tot zondag, 14:00–18:00 — de kalender zoals gepubliceerd door de gemeente.",
+          "q": "Wanneer is de Tour de la Poterne open?"
+        },
+        {
+          "a": "Thomas II van Savoye, broer van graaf Amédée IV, verwierf het land in 1248 en bouwde deze residentie aan het meer.",
+          "q": "Wie was Thomas II?"
+        },
+        {
+          "a": "Het werd bijna volledig vernietigd door vuur. De gemeente kocht het terug en is sinds 21 maart 1983 een op de lijst geplaatste Monument historique.",
+          "q": "Waarom is het kasteel in puin?"
+        },
+        {
+          "a": "Het ligt in de Tour de la Poterne, het verklaart de beschermde moerassen van de zuidelijke kust van de Lac du Bourget.",
+          "q": "Wat dekt het museumruimte?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratis binnenplaats · Le Bourget-du-Lac",
+        "lead": "Een residentie van de graven van Savoy begon in 1248 aan de oever van de Lac du Bourget, geruïneerd door brand, vermeld in 1983. Gratis binnenplaats het hele jaar door, museum toren in de zomer."
+      },
+      "hero_alt": "Ruïnes van het château de Thomas II nabij de Lac du Bourget, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Aan het zuidelijke uiteinde van de Lac du Bourget, in de gemeente Le Bourget-du-Lac; het kasteel is aangegeven vanuit het dorp.",
+        "public_transport": null
+      },
+      "meta_description": "Het château de Thomas II op Le Bourget-du-Lac: gratis binnenplaats, museumtoren in de zomer (€2), beschermde moerassen. Alleen officiële bronnen.",
+      "meta_title": "Château de Thomas II · Ruïnes aan het meer, Lac du Bourget",
+      "name": "Château de Thomas II",
+      "name_alternates": [
+        "Château Thomas II"
+      ],
+      "practical_info": [
+        {
+          "k": "Adres",
+          "v": "Château de Thomas II, 73370 Le Bourget-du-Lac"
+        },
+        {
+          "k": "Binnenplaats",
+          "v": "Gratis toegang het hele jaar door"
+        },
+        {
+          "k": "Tour de la Poterne",
+          "v": "Juli-augustus, dinsdag–zondag 14:00–18:00 — €2 volwassene, €1 kind"
+        },
+        {
+          "k": "Lijst",
+          "v": "Monument historique sinds 21 maart 1983"
+        },
+        {
+          "k": "Rondleidingen",
+          "v": "Van de priorijkerk naar het kasteel, met het toeristenbureau en Fondation Facim"
+        }
+      ],
+      "schema_amenities": [
+        "Gratis binnenplaats",
+        "Museumruimte",
+        "Beschermde moerassen in de buurt"
+      ],
+      "when_to_visit": "<p>Juli-augustus om de Tour de la Poterne in te voeren (dinsdag–zondag, 14:00–18:00). De rest van het jaar blijft de binnenplaats open en kunnen de beschermde moerassen van de oever te voet worden verkend.</p>"
     }
   },
   "latitude": 45.651514,

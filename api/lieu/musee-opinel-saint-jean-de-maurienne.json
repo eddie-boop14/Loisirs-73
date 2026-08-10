@@ -1,0 +1,31 @@
+{
+  "name": "Musée Opinel",
+  "commune": "Saint-Jean-de-Maurienne",
+  "gps": {
+    "lat": 45.277676,
+    "lng": 6.347212
+  },
+  "type": "musee",
+  "hours": "9h–18h30 non stop",
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": {
+    "status": "accessible",
+    "detail": "« Musée de plain-pied, entièrement accessible aux personnes à mobilité réduite », selon la page officielle du musée.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_url": "https://www.opinel.com/fr-fr/le-musee/infos-pratiques",
+    "source_name": "Opinel (site officiel)"
+  },
+  "parking": null,
+  "transport": null,
+  "season": "Toute l'année ; 7j/7 en juillet-août, fermé dimanches et fériés le reste de l'année",
+  "winter": null,
+  "official_url": "https://www.opinel.com/fr-fr/le-musee/infos-pratiques",
+  "last_verified": null
+}

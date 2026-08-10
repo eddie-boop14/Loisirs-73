@@ -24,6 +24,97 @@
   "hero_credit": null,
   "hero_image": "/img/generique/generique-chateau-brume.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Vom 12. Jahrhundert bis zum Staatsgefängnis der Herzöge: Abfahrten Montags um 14:00 und Dienstag bis Sonntag um 14:00, 15:30 und 17:00 Uhr.",
+          "tag": "Keine Buchung",
+          "title": "Historische geführte Tour"
+        },
+        {
+          "description": "Ein Spaziergang durch den Heilkräutergarten, dann den Tour Saint-Pierre hinauf: Die Aussicht verläuft von Mont Blanc bis zum Vercors.",
+          "tag": "Panorama",
+          "title": "Jardin de Simples und Tour Saint-Pierre"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die<strong>Schloss von Miolans</strong>Verriegelt den Combe de Savoie von seinem Sporn über Saint-Pierre-d'Albigny. Erbaut aus dem 12. Jahrhundert um einen primitiven Burg und im 14. und 15. Jahrhundert erweitert, ist es ein<strong>klassifiziert Monument historique</strong>Einst militärisch obsolet, verwandelten die Herzöge von Savoyen es in eine<strong>Staatsgefängnis</strong>— Hier wurde der Marquis de Sade, der am 9. Dezember vom Gouverneur von Savoie verhaftet wurde, eingesperrt.</p><p>Im Jahr 1869 von der Familie Guiter gekauft, die es restauriert, gepflegt und der Öffentlichkeit zugänglich gemacht hat, wird das Schloss in der Saison besucht:<strong>10 € pro Erwachsenem, 5 € pro Kind</strong>Historische Führungen, keine Buchung erforderlich, verlassen Montags um 14:00 und Dienstag bis Sonntag um 14:00, 15:30 und 17:00 Uhr. Die Wanderung überquert den Jardin de Simples und erklimmt den Tour Saint-Pierre, dessen Panorama sich von Mont Blanc bis zum Vercors erstreckt.</p><p>2026 Öffnung: täglich 10:00-18:00 vom 4. bis 19. April (Frühlingsferien), dann täglich 10:00-20:00 im Sommer - bis zum 30. August nach der offiziellen Website, bis zum 31. August nach dem Cœur de Savoie Tourismusbüro; die beiden Quellen widersprechen sich um einen Tag und wir entscheiden nicht. Picknick im Inneren des Schlosses ist verboten.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Bezahlter Eintritt: 10 € Erwachsener, 5 € Kind",
+        "best_season": "Geöffnet für die Frühlingsferien dann im Sommer (siehe 2026 Perioden)",
+        "commune": "Saint-Pierre-d'Albigny",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Mittelalterliche Festung, aufgeführt Monument historique"
+      },
+      "faq": [
+        {
+          "a": "10 € pro Erwachsenem und 5 € pro Kind pro offizieller Website; das Tourismusbüro fügt einen Erwachsenengruppenpreis von 8 € hinzu.",
+          "q": "Wie viel kostet der Eintritt?"
+        },
+        {
+          "a": "Täglich 10:00-18:00 vom 4. bis 19. April, dann täglich 10:00-20:00 im Sommer - bis zum 30. August nach der offiziellen Website, 31. August nach dem Tourismusbüro. Beide Daten werden veröffentlicht; wir geben sie so, wie sie stehen.",
+          "q": "Wann ist das Schloss 2026 geöffnet?"
+        },
+        {
+          "a": "Ja. Die herzöge von savoy hatten die festung in ein staatsgefängnis verwandelt; die abteilungsquelle verzeichnet seine festnahme am 9 dezember durch den gouverneur von Savoie und seine inhaftierung in millionlans.",
+          "q": "War der Marquis de Sade wirklich hier eingesperrt?"
+        },
+        {
+          "a": "Ja, historische Führungen ohne Buchung: Montags um 14:00 Uhr und Dienstag bis Sonntag um 14:00 Uhr, 15:30 Uhr und 17:00 Uhr.",
+          "q": "Gibt es geführte Touren?"
+        },
+        {
+          "a": "Nicht drinnen: Die Regeln des Schlosses verbieten es ausdrücklich.",
+          "q": "Können Sie vor Ort ein Picknick machen?"
+        }
+      ],
+      "hero": {
+        "badge": "10 € · Saint-Pierre-d'Albigny",
+        "lead": "Eine denkmalgeschützte Festung auf ihrem Felssporn über dem Combe de Savoie: Bleibe aus dem 12. Jahrhundert, das Staatsgefängnis der Herzöge - der Marquis de Sade wurde hier eingesperrt - und ein Panorama von Mont Blanc zum Vercors."
+      },
+      "hero_alt": "Château de Miolans auf seinem Felssporn, Saint-Pierre-d'Albigny, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Über Saint-Pierre-d'Albigny in der Combe de Savoie; ausgeschilderte Straße vom Dorf.",
+        "public_transport": null
+      },
+      "meta_description": "Château de Miolans über Saint-Pierre-d'Albigny: 12. Jahrhundert halten, die Herzöge Staatsgefängnis, das die Marquis de Sade gehalten, 2026 Stunden und Preise überprüft.",
+      "meta_title": "Château de Miolans · 2026 Stunden, Preise, Sades Gefängnis",
+      "name": "Château de Miolans",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Anschrift",
+          "v": "Château de Miolans, 73250 Saint-Pierre-d'Albigny"
+        },
+        {
+          "k": "Preise",
+          "v": "10 € Erwachsener, 5 € Kind; Erwachsenengruppe 8 € (Touristenbüro)"
+        },
+        {
+          "k": "Frühjahr 2026",
+          "v": "4-19 April, täglich 10:00-18:00"
+        },
+        {
+          "k": "Sommer 2026",
+          "v": "Täglich 10:00 bis 20:00 Uhr - Ende 30. August (offizielle Website) oder 31. August (Tourist Office)"
+        },
+        {
+          "k": "Geführte Touren",
+          "v": "Keine Buchung: Montag 14:00; Dienstag-Sonntag 14:00, 15:30, 17:00"
+        }
+      ],
+      "schema_amenities": [
+        "Führungen ohne Buchung",
+        "Jardin de Simples",
+        "Mont Blanc – Vercors Panorama"
+      ],
+      "when_to_visit": "<p>Eine kurze Saison: Frühlingsferien (4. bis 19. April 2026) dann täglich durch den Sommer bis Ende August. Sommertage laufen bis 20:00 Uhr - die am späten Nachmittag geführten Slots (17:00 Uhr) sind die sanftesten.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -115,6 +206,97 @@
       ],
       "when_to_visit": "<p>A short season: spring holidays (4–19 April 2026) then daily through summer until late August. Summer days run to 20:00 — the late-afternoon guided slots (17:00) are the gentlest.</p>"
     },
+    "es": {
+      "activities": [
+        {
+          "description": "Del donjon del siglo XII a la prisión de Estado de los duques: salidas los lunes a las 14:00 y de martes a domingo a las 14:00, 15:30 y 17:00.",
+          "tag": "Sin reserva",
+          "title": "Visita guiada histórica"
+        },
+        {
+          "description": "Un paseo por el jardín medicinal-herb, luego por el Tour Saint-Pierre: la vista se extiende desde Mont Blanc hasta el Vercors.",
+          "tag": "Panorama",
+          "title": "Jardin de Simples y Tour Saint-Pierre"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>château de Miolans</strong> cierra la Combe de Savoie desde su espolón por encima de Saint-Pierre-d'Albigny. Construido a partir del siglo XII alrededor de un donjon primitivo y ampliado en los siglos XIV y XV, es un <strong>Monumento histórico clasificado</strong>. Una vez militarmente obsoleto, fue transformado por los duques de Savoie en <strong>prisión de Estado</strong> — fue aquí donde el marqués de Sade, arrestado el 9 de diciembre por el gobernador de Savoie, fue encarcelado.</p><p>Comprado en 1869 por la familia Guiter, que lo restauró, lo mantiene y lo abrió al público, el castillo se visita en temporada: <strong>10 € por adulto, 5 € por niño</strong>. Visitas guiadas históricas, sin necesidad de reserva, salen los lunes a las 14:00 y de martes a domingo a las 14:00, 15:30 y 17:00. El paseo atraviesa el Jardín de Simples y asciende a la Tour Saint-Pierre, cuyo panorama se extiende desde Mont Blanc hasta los Vercors.</p><p>Apertura 2026: todos los días de 10:00 a 18:00 del 4 al 19 de abril (vacaciones de primavera), luego todos los días de 10:00 a 20:00 en verano — hasta el 30 de agosto según el sitio oficial, hasta el 31 de agosto según la oficina de turismo Cœur de Savoie; las dos fuentes discrepan en un día y no arbitramos. Picnic prohibido en el interior del castillo.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Entrada pagada: 10 € adulto, 5 € niño",
+        "best_season": "Abierto para las vacaciones de primavera en verano (ver 2026 períodos)",
+        "commune": "Saint-Pierre-d'Albigny",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Fortaleza medieval, lista Monument historique"
+      },
+      "faq": [
+        {
+          "a": "10 € por adulto y 5 € por niño por sitio oficial; la oficina turística agrega una tasa de grupo de adultos de 8 €.",
+          "q": "¿Cuánto es la entrada?"
+        },
+        {
+          "a": "De las 10.00 a las 18.00 horas del 4 al 19 de abril, a las 10.00 a las 20:00 horas del verano, hasta el 30 de agosto por el sitio oficial, el 31 de agosto por la oficina de turismo. Ambas fechas son publicadas; les damos como están.",
+          "q": "¿Cuándo abre el castillo en 2026?"
+        },
+        {
+          "a": "Sí. Los duques de Savoy habían convertido la fortaleza en una prisión estatal; la fuente departamental registra su detención el 9 de diciembre por el gobernador de Savoie y su confinamiento en Miolans.",
+          "q": "¿La Marquis de Sade estaba realmente encarcelada aquí?"
+        },
+        {
+          "a": "Sí, visitas guiadas históricas sin reserva: lunes a las 14:00 y martes a domingo a las 14:00, 15:30 y 17:00.",
+          "q": "¿Hay visitas guiadas?"
+        },
+        {
+          "a": "No dentro: las reglas del castillo lo prohíben expresamente.",
+          "q": "¿Puedes picnic en el sitio?"
+        }
+      ],
+      "hero": {
+        "badge": "10 € · Saint-Pierre-d'Albigny",
+        "lead": "Fortaleza clasificada Monumento histórico sobre su espolón por encima de la Combe de Savoie: donjon del siglo XII, prisión de Estado de los duques — el marqués de Sade fue encarcelado aquí — y panorama de Mont Blanc a los Vercors."
+      },
+      "hero_alt": "Château de Miolans en su chorro rocoso, Saint-Pierre-d'Albigny, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Sobre Saint-Pierre-d'Albigny en el Combe de Savoie; carretera señalizada desde el pueblo.",
+        "public_transport": null
+      },
+      "meta_description": "Château de Miolans en Saint-Pierre-d'Albigny: donjon del siglo XII, prisión de Estado donde fue encarcelado el marqués de Sade, horarios y precios 2026 verificados.",
+      "meta_title": "Château de Miolans · 2026 horas, precios, prisión de Sade",
+      "name": "Château de Miolans",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Dirección",
+          "v": "Château de Miolans, 73250 Saint-Pierre-d'Albigny"
+        },
+        {
+          "k": "Precios",
+          "v": "10 € adulto, 5 € niño; grupo adulto 8 € (oficina turística)"
+        },
+        {
+          "k": "Primavera 2026",
+          "v": "4 a 19 de abril, todos los días de 10:00 a 18:00"
+        },
+        {
+          "k": "Verano 2026",
+          "v": "De las 10.00 a las 20:00 horas del día, que termina el 30 de agosto (sitio oficial) o el 31 de agosto (oficina turística)"
+        },
+        {
+          "k": "Visitas guiadas",
+          "v": "Sin reserva: Lunes 14:00; Martes – Domingo 14:00, 15:30, 17:00"
+        }
+      ],
+      "schema_amenities": [
+        "Visitas guiadas sin reserva",
+        "Jardin de Simples",
+        "Mont Blanc – Vercors panorama"
+      ],
+      "when_to_visit": "<p>Una temporada corta: vacaciones de primavera (4–19 abril 2026) luego diariamente a través del verano hasta finales de agosto. Días de verano corren a las 20:00 — las tragamonedas guiadas de tarde de tarde (17:00) son las más suaves.</p>"
+    },
     "fr": {
       "activities": [
         {
@@ -205,6 +387,188 @@
         "Panorama Mont Blanc – Vercors"
       ],
       "when_to_visit": "<p>Saison courte : vacances de printemps (4–19 avril 2026) puis l'été jusqu'à fin août, tous les jours. En été, les journées s'étirent jusqu'à 20h — les créneaux guidés de fin d'après-midi (17h) sont les plus doux.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Da un donjon del XII secolo alla prigione di stato dei duchi: partenze lunedì alle 14:00 e martedì alla domenica alle 14:00, 15:30 e 17:00.",
+          "tag": "Nessuna prenotazione",
+          "title": "Visita guidata storica"
+        },
+        {
+          "description": "Una passeggiata attraverso il giardino medico-erba, poi su Tour Saint-Pierre: la vista va da Mont Blanc a Vercors.",
+          "tag": "Panorama",
+          "title": "Jardin de Simples e Tour Saint-Pierre"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Il <strong>château de Miolans</strong> domina la Combe de Savoie dal suo sperone sopra Saint-Pierre-d'Albigny. Edificato dal XII secolo intorno a un donjon primitivo e ampliato nei XIV e XV secoli, è <strong>classificato Monument historique</strong>. Divenuto militarmente obsoleto, fu trasformato dai duchi di Savoie in <strong>prigione di stato</strong> — era qui che il Marquis de Sade, arrestato il 9 dicembre dal governatore di Savoie, fu rinchiuso.</p><p>Riacquistato nel 1869 dalla famiglia Guiter, che lo ha restaurato, lo mantiene e lo apre al pubblico, il castello si visita in stagione: <strong>10 € per adulto, 5 € per bambino</strong>. Visite guidate storiche, senza prenotazione, partono lunedì alle 14:00 e martedì a domenica alle 14:00, 15:30 e 17:00. La passeggiata passa per il Jardin de Simples e sale alla Tour Saint-Pierre, il cui panorama si estende da Mont Blanc al Vercors.</p><p>Apertura 2026: tutti i giorni dalle 10:00 alle 18:00 dal 4 al 19 aprile (vacanze di primavera), poi tutti i giorni dalle 10:00 alle 20:00 in estate — fino al 30 agosto secondo il sito ufficiale, fino al 31 agosto secondo l'ufficio turistico Cœur de Savoie; le due fonti si contraddicono di un giorno e non abbiamo posizione. Picnic proibito all'interno del castello.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Ingresso a pagamento: €10 adulto, €5 bambino",
+        "best_season": "Aperto per le vacanze primaverili poi in estate (vedi 2026 periodi)",
+        "commune": "Saint-Pierre-d'Albigny",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Rocca medievale, elencato Monument historique"
+      },
+      "faq": [
+        {
+          "a": "€ 10 per adulto e €5 per bambino per il sito ufficiale; l'ufficio turistico aggiunge un tasso di gruppo adulto di € 8.",
+          "q": "Quanto costa?"
+        },
+        {
+          "a": "Quotidiano 10:00-18:00 dal 4 al 19 aprile, poi ogni giorno 10:00-20:00 in estate — fino al 30 agosto per il sito ufficiale, 31 agosto per l'ufficio turistico. Entrambe le date sono pubblicate; le diamo come stanno.",
+          "q": "Quando è aperto il castello nel 2026?"
+        },
+        {
+          "a": "Si'. I duchi di Savoia avevano trasformato la fortezza in una prigione di stato; la fonte dipartimentale registra il suo arresto il 9 dicembre dal governatore di Savoie e il suo confinamento a Miolans.",
+          "q": "L'Marquis de Sade era davvero imprigionato qui?"
+        },
+        {
+          "a": "Sì, visite guidate storiche senza prenotazione: lunedì alle 14:00, e martedì alla domenica alle 14:00, 15:30 e 17:00.",
+          "q": "Ci sono visite guidate?"
+        },
+        {
+          "a": "Non dentro: le regole del castello lo proibiscono espressamente.",
+          "q": "Puoi fare un picnic in loco?"
+        }
+      ],
+      "hero": {
+        "badge": "€10 · Saint-Pierre-d'Albigny",
+        "lead": "Fortezza classificata Monument historique su suo sperone roccioso sopra la Combe de Savoie: donjon del XII secolo, prigione di stato dei duchi — il Marquis de Sade vi fu rinchiuso — e panorama da Mont Blanc al Vercors."
+      },
+      "hero_alt": "Château de Miolans sul suo sperone roccioso, Saint-Pierre-d'Albigny, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Sopra Saint-Pierre-d'Albigny nella Combe de Savoie; strada segnalato dal villaggio.",
+        "public_transport": null
+      },
+      "meta_description": "Château de Miolans sopra Saint-Pierre-d'Albigny: donjon del XII secolo, prigione di stato dei duchi che ha rinchiuso il Marquis de Sade, 2026 orari e prezzi verificati.",
+      "meta_title": "Château de Miolans · 2026 ore, prezzi, prigione di Sade",
+      "name": "Château de Miolans",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Indirizzo",
+          "v": "Château de Miolans, 73250 Saint-Pierre-d'Albigny"
+        },
+        {
+          "k": "Prezzi",
+          "v": "€10 adulto, €5 bambino; gruppo adulto €8 (ufficio turistico)"
+        },
+        {
+          "k": "Primavera 2026",
+          "v": "4-19 aprile, tutti i giorni 10:00-18:00"
+        },
+        {
+          "k": "Estate 2026",
+          "v": "Quotidiano 10:00-20:00 — fine 30 agosto (sito ufficiale) o 31 agosto (ufficio turistico)"
+        },
+        {
+          "k": "Visite guidate",
+          "v": "Nessuna prenotazione: Lunedì 14:00; Martedì–Sunday 14:00, 15:30, 17:00"
+        }
+      ],
+      "schema_amenities": [
+        "Visite guidate senza prenotazione",
+        "Jardin de Simples",
+        "Mont Blanc – Panorama Vercors"
+      ],
+      "when_to_visit": "<p>Una breve stagione: vacanze primaverili (4-19 aprile 2026) poi ogni giorno attraverso l'estate fino alla fine di agosto. Le giornate estive vanno alle 20:00 — le slot guidate del tardo pomeriggio (17:00) sono le più gentili.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Vanaf de 12e eeuw naar de hertoggevangenis: vertrek maandag om 14:00 en dinsdag tot zondag om 14:00, 15:30 en 17:00.",
+          "tag": "Geen boeking",
+          "title": "Historische rondleiding"
+        },
+        {
+          "description": "Een wandeling door de medicinal-herb tuin, dan omhoog de Tour Saint-Pierre: het uitzicht loopt van Mont Blanc naar de Vercors.",
+          "tag": "Panorama",
+          "title": "Jardin de Simples en Tour Saint-Pierre"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>château de Miolans</strong> vergrendelt de Combe de Savoie van zijn spoor boven Saint-Pierre-d'Albigny. Gebouwd uit de 12e eeuw rond een primitieve toren en vergroot in de 14e en 15e eeuw, is het een <strong>geclassificeerde Monument historique</strong>. Eens militair verouderd, de hertogen van Savoie veranderden het in een <strong>staatsgevangenis</strong> — hier werd de Marquis de Sade, op 9 december gearresteerd door de gouverneur van Savoie, opgesloten.</p><p>Gekocht in 1869 door de familie Guiter, die het restaureerde, onderhoudt en openstelde voor het publiek, wordt het kasteel in het seizoen bezocht: <strong>€10 per volwassene, €5 per kind</strong>. Historische rondleidingen, geen boeking nodig, vertrekken maandag om 14:00 en dinsdag tot zondag om 14:00, 15:30 en 17:00. De wandeling kruist de Jardin de Simples en klimt de Tour Saint-Pierre, waarvan het panorama zich uitstrekt van Mont Blanc tot de Vercors.</p><p>2026 opening: alle dagen 10:00–18:00 van 4 tot 19 april (voorjaarsvakantie), dan alle dagen 10:00–20:00 in de zomer — tot 30 augustus volgens de officiële website, tot 31 augustus volgens het Cœur de Savoie toeristenkantoor; de twee bronnen verschillen één dag en we nemen geen standpunt in. Picknicken in het kasteel is verboden.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Betaalde entree: €10 volwassene, €5 kind",
+        "best_season": "Open voor de lentevakantie dan in de zomer (zie 2026 periodes)",
+        "commune": "Saint-Pierre-d'Albigny",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Middeleeuwse vesting, vermeld Monument historique"
+      },
+      "faq": [
+        {
+          "a": "€ 10 per volwassene en € 5 per kind per officiële website; het VVV-kantoor voegt een groepstarief van € 8 toe.",
+          "q": "Hoeveel kost de toegang?"
+        },
+        {
+          "a": "Alle dagen 10:00–18:00 van 4 tot 19 april, dan alle dagen 10:00–20:00 in de zomer — tot 30 augustus volgens de officiële website, 31 augustus volgens het toeristenkantoor. Beide data worden gepubliceerd; we geven ze zoals ze staan.",
+          "q": "Wanneer is het kasteel geopend in 2026?"
+        },
+        {
+          "a": "Ja. De hertogen van Savoye hadden het fort in een staatsgevangenis veranderd; de departementale bron registreert zijn arrestatie op 9 december door de gouverneur van Savoie en zijn opsluiting in Miolans.",
+          "q": "Was de Marquis de Sade hier echt gevangen?"
+        },
+        {
+          "a": "Ja, historische rondleidingen zonder boeking: maandag om 14:00, en dinsdag tot zondag om 14:00, 15:30 en 17:00.",
+          "q": "Zijn er rondleidingen?"
+        },
+        {
+          "a": "Niet binnen: de regels van het kasteel verbieden het uitdrukkelijk.",
+          "q": "Kun je ter plaatse picknicken?"
+        }
+      ],
+      "hero": {
+        "badge": "€ 10 · Saint-Pierre-d'Albigny",
+        "lead": "Een geklasseerd fort op zijn rotsspoor boven de Combe de Savoie: 12e-eeuwse toren, de hertogen staatsgevangenis — de Marquis de Sade was hier opgesloten — en panorama van Mont Blanc tot de Vercors."
+      },
+      "hero_alt": "Château de Miolans op zijn rotsachtige spoor, Saint-Pierre-d'Albigny, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Boven Saint-Pierre-d'Albigny in de Combe de Savoie; aangegeven weg vanaf het dorp.",
+        "public_transport": null
+      },
+      "meta_description": "Château de Miolans boven Saint-Pierre-d'Albigny: 12e-eeuwse bewaring, de staatsgevangenis van de hertogen die de Marquis de Sade hield, 2026 uur en prijzen geverifieerd.",
+      "meta_title": "Château de Miolans · 2026 uur, prijzen, Sade's gevangenis",
+      "name": "Château de Miolans",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Adres",
+          "v": "Château de Miolans, 73250 Saint-Pierre-d'Albigny"
+        },
+        {
+          "k": "Prijzen",
+          "v": "€ 10 volwassene, € 5 kind; volwassen groep € 8 (toeristische kantoor)"
+        },
+        {
+          "k": "Voorjaar 2026",
+          "v": "4–19 april, alle dagen 10:00–18:00"
+        },
+        {
+          "k": "Zomer 2026",
+          "v": "Alle dagen 10:00–20:00 — eindigend 30 augustus (officiële website) of 31 augustus (toeristenkantoor)"
+        },
+        {
+          "k": "Rondleidingen",
+          "v": "Geen reservering: maandag 14:00; dinsdag–zondag 14:00, 15:30, 17:00"
+        }
+      ],
+      "schema_amenities": [
+        "Rondleidingen zonder boeking",
+        "Jardin de Simples",
+        "Panorama Mont Blanc – Vercors"
+      ],
+      "when_to_visit": "<p>Kort seizoen: voorjaarsvakantie (4–19 april 2026) en dan de zomer tot einde augustus, alle dagen. Zomerdagen lopen tot 20:00 — de gidsen slots in de late middag (17:00) zijn het zachtst.</p>"
     }
   },
   "latitude": 45.580204,

@@ -1,8 +1,8 @@
 # Loisirs 73
 
-> Independent guide to public leisure sites in Savoie, France. Waterfalls, Castles, Mountain passes and viewpoints, Cable cars and lifts — every fact verified against official sources (communes, tourism offices, ONF).
+> Independent guide to public leisure sites in Savoie, France. Waterfalls, Castles, Museums, Mountain passes and viewpoints, Cable cars and lifts — every fact verified against official sources (communes, tourism offices, ONF).
 
-Loisirs 73 catalogs 44 leisure destinations in the Savoie department (73), French Alps. Each destination exposes three machine surfaces (below) plus HTML pages in 6 languages (French canonical).
+Loisirs 73 catalogs 51 leisure destinations in the Savoie department (73), French Alps. Each destination exposes three machine surfaces (below) plus HTML pages in 6 languages (French canonical).
 
 ## URL patterns (per lieu — fastest lane for agents)
 
@@ -33,7 +33,7 @@ Content quality signals: Every fact has a cited source. No marketing language. I
 
 ## Discovery files
 
-- [llms-full.txt — full content concatenated](https://loisirs73.fr/llms-full.txt): All 44 leisure sites' FR facet md — single file for full ingestion.
+- [llms-full.txt — full content concatenated](https://loisirs73.fr/llms-full.txt): All 51 leisure sites' FR facet md — single file for full ingestion.
 - [API — lieux index JSON](https://loisirs73.fr/api/lieux.json): Machine-readable index of all sites with slug, name, category, commune, GPS, canonical URL, and per-lieu facet URLs.
 - [Sitemap index](https://loisirs73.fr/sitemap.xml): Standard XML sitemap with lastmod, hreflang, image entries.
 - [.well-known/ai-info.json](https://loisirs73.fr/.well-known/ai-info.json): Discovery manifest with all AI-related endpoints.
@@ -57,8 +57,9 @@ Use these when the question spans many sites (e.g. "which waterfalls have parkin
 - [Points de vue](https://loisirs73.fr/content/points-de-vue.md): 15 lieux.
 - [Téléphériques & télécabines](https://loisirs73.fr/content/telecabines.md): 15 lieux.
 - [Châteaux](https://loisirs73.fr/content/chateaux.md): 7 lieux.
+- [Musées](https://loisirs73.fr/content/musees.md): 7 lieux.
 
-## All lieux by category (44 total)
+## All lieux by category (51 total)
 
 ### Cascades (7 lieux)
 
@@ -115,3 +116,13 @@ Use these when the question spans many sites (e.g. "which waterfalls have parkin
 - [Fort Victor-Emmanuel (Aussois)](https://loisirs73.fr/content/fort-victor-emmanuel-aussois.md): Le fort Victor-Emmanuel à Aussois, pièce maîtresse de la barrière de l'Esseillon : accès libre toute l'année, place d'armes, chapelle, pénitencier.…
 - [Redoute Marie-Thérèse (Avrieux)](https://loisirs73.fr/content/redoute-marie-therese-avrieux.md): La redoute Marie-Thérèse à Avrieux, fort sarde de l'Esseillon devenu centre d'interprétation : horaires, tarifs 2026 et accessibilité, aux sources…
 - [Tours de Chignin (Chignin)](https://loisirs73.fr/content/tours-de-chignin.md): Les tours de Chignin, Monument historique dans le vignoble savoyard : sept tours selon le Département, boucle très facile de 3,3 km. Sources…
+
+### Musées (7 lieux)
+
+- [Espace Alu (Saint-Michel-de-Maurienne)](https://loisirs73.fr/content/espace-alu-saint-michel-de-maurienne.md): L'Espace Alu à Saint-Michel-de-Maurienne : 100 ans d'aluminium en Maurienne, 8 € l'entrée, accessible en fauteuil en autonomie. Sources officielles.
+- [Les Charmettes, maison de Jean-Jacques Rousseau (Chambéry)](https://loisirs73.fr/content/les-charmettes-maison-jean-jacques-rousseau-chambery.md): Les Charmettes à Chambéry, maison de Jean-Jacques Rousseau : entrée gratuite, audioguide 1 €, jardins en accès libre toute l'année. Sources…
+- [Musée de l'Ours des Cavernes (Entremont-le-Vieux)](https://loisirs73.fr/content/musee-ours-des-cavernes-entremont-le-vieux.md): Le musée de l'Ours des Cavernes à Entremont-le-Vieux : l'Ursus spelaeus de la Balme à Collomb, 7 € adulte, ouvertures saisonnières 2026. Sources…
+- [Musée des Beaux-Arts de Chambéry (Chambéry)](https://loisirs73.fr/content/musee-des-beaux-arts-chambery.md): Le musée des Beaux-Arts de Chambéry : collections permanentes gratuites, expositions 5,50 €, gratuit le premier dimanche du mois. Sources officielles.
+- [Musée Opinel (Saint-Jean-de-Maurienne)](https://loisirs73.fr/content/musee-opinel-saint-jean-de-maurienne.md): Le musée Opinel à Saint-Jean-de-Maurienne : entrée libre et gratuite, 700 m² sur le couteau savoyard de Joseph Opinel, accessible de plain-pied.
+- [Musée Savoisien (Chambéry)](https://loisirs73.fr/content/musee-savoisien-chambery.md): Le Musée Savoisien à Chambéry : entrée libre et gratuite, histoire et cultures de la Savoie, cloître ouvert. Horaires et fermetures aux sources…
+- [Tremplin 92, Montagne et Olympisme (Albertville)](https://loisirs73.fr/content/tremplin-92-maison-des-jeux-olympiques-albertville.md): Tremplin 92, l'espace Montagne et Olympisme d'Albertville : l'héritage des Jeux de 1992, 500 m² d'exposition dans la Halle Olympique. Sources…

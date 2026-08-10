@@ -24,6 +24,98 @@
   "hero_credit": null,
   "hero_image": "/img/generique/generique-chateau-toiture.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Paradeplatz, Kapelle, Brotöfen, Gefängnis: Die Festung kann das ganze Jahr über frei erkundet werden.",
+          "tag": "frei",
+          "title": "Freie Wanderung durch das Fort"
+        },
+        {
+          "description": "Wenn Schnee die Straße schließt, wird die Festung zu Fuß oder auf Schneeschuhen erreicht - das Winterregime, wie vom Tourismusamt veröffentlicht.",
+          "tag": "Winter",
+          "title": "Schneeschuhwandern zum Esseillon"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Fort Victor-Emmanuel</strong>Stufen hinunter den Hang über der Arc Schlucht bei Aussois, ein Teil der<strong>Esseillon Barriere</strong>: fünf sardische Festungen im frühen 19. Jahrhundert gebaut, um gegen Französisch Invasion zu schützen. Konstruiert, um ein Haus<strong>Garnison von 1.500 Mann</strong>Es ist das Herzstück des Ensembles.</p><p>Der Zugang ist<strong>frei, ganzjährig, jeden Tag</strong>— das Tourismusbüro Aussois veröffentlicht es genau so. Freies Wandern innerhalb der Festung nimmt den Paradeplatz, die Kapelle, die Brotöfen und das Gefängnis. Gruppenbesuche können auf Anfrage arrangiert werden.</p><p>Eine Quelle Winter Vorbehalt: Die Zufahrtsstraße ist für den Verkehr je nach Schneebedingungen gesperrt. Die Festung bleibt dann zu Fuß oder auf Schneeschuhen erreichbar.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Freier Zugang, selbstgeführte Besuche",
+        "best_season": "Ganzjährig; Straßensperre für den Verkehr je nach Schneebedingungen",
+        "commune": "Aussois",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "19. Jahrhundert Sardinische Festung"
+      },
+      "faq": [
+        {
+          "a": "Nein. Das Tourismusbüro Aussois listet freien Zugang mit selbstgeführten individuellen Besuchen auf, ganzjährig, jeden Tag.",
+          "q": "Gibt es eine Eintrittsgebühr?"
+        },
+        {
+          "a": "Kostenloses Wandern nimmt den Paradeplatz, die Kapelle, die Brotöfen und das Gefängnis.",
+          "q": "Was kannst du drinnen sehen?"
+        },
+        {
+          "a": "Eine Kette von fünf sardischen Festungen, die im frühen 19. Jahrhundert gegen die französische Invasion gebaut wurden. Victor-Emmanuel ist der größte, gebaut für eine Garnison von 1.500 Männern.",
+          "q": "Was ist die Esseillon Barriere?"
+        },
+        {
+          "a": "Das Gelände bleibt offen, aber die Zufahrtsstraße ist je nach Schneebedingungen für den Verkehr gesperrt; Der Zugang erfolgt dann zu Fuß oder zu Schneeschuhen.",
+          "q": "Kannst du im Winter gehen?"
+        },
+        {
+          "a": "Individuelle Besuche sind selbstgeführt; Gruppenbesuche können auf Anfrage beim Tourismusbüro arrangiert werden.",
+          "q": "Gibt es geführte Touren?"
+        }
+      ],
+      "hero": {
+        "badge": "Freier Zugang · Haute Maurienne",
+        "lead": "Die imposanteste der fünf sardischen Festungen des Esseillon, gebaut für 1.500 Männer. Freies Wandern das ganze Jahr über - obwohl die Zufahrtsstraße mit dem Schnee schließt."
+      },
+      "hero_alt": "Fort Victor-Emmanuel, Esseillon Barriere, Aussois, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Von Aussois, die Esseillon Straße; für den Verkehr je nach Schneebedingungen geschlossen.",
+        "public_transport": null
+      },
+      "meta_description": "Fort Victor-Emmanuel in Aussois, Herzstück der Esseillon-Barriere: ganzjährig freier Zugang, Paradeplatz, Kapelle, Gefängnis. Nur offizielle Quellen.",
+      "meta_title": "Fort Victor-Emmanuel · Esseillon, freier Zugang, Aussois",
+      "name": "Fort Victor-Emmanuel",
+      "name_alternates": [
+        "Barrière de l'Esseillon — Fort Victor-Emmanuel"
+      ],
+      "practical_info": [
+        {
+          "k": "Anschrift",
+          "v": "Barrière de l'Esseillon, 73500 Aussois"
+        },
+        {
+          "k": "Preis",
+          "v": "Freier Zugang, selbstgeführte Besuche"
+        },
+        {
+          "k": "Öffnung",
+          "v": "Ganzjährig, jeden Tag"
+        },
+        {
+          "k": "Winter",
+          "v": "Straßensperre für den Schneeverkehr; Zufahrt zu Fuß oder Schneeschuhe"
+        },
+        {
+          "k": "Gruppen",
+          "v": "Besuche auf Anfrage"
+        }
+      ],
+      "schema_amenities": [
+        "Freier Zugang",
+        "Gruppenbesuche auf Anfrage"
+      ],
+      "when_to_visit": "<p>Ganzjährig, jeden Tag. Der Winter ändert nur den Ansatz: Die Straße ist je nach Schnee, Zufahrt zu Fuß oder Schneeschuhen geschlossen.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -116,6 +208,98 @@
       ],
       "when_to_visit": "<p>Year-round, every day. Winter only changes the approach: road closed depending on snow, access on foot or snowshoes.</p>"
     },
+    "es": {
+      "activities": [
+        {
+          "description": "Campo de desfile, capilla, hornos de pan, penitenciaría: el fuerte se puede explorar libremente, todo el año.",
+          "tag": "Gratis",
+          "title": "Libre vagando por el fuerte"
+        },
+        {
+          "description": "Cuando la nieve cierra el camino, el fuerte se alcanza a pie o en raquetas de nieve — el régimen de invierno publicado por la oficina turística.",
+          "tag": "Invierno",
+          "title": "Snowshoeing al Esseillon"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>Fort Victor-Emmanuel</strong> se extiende sobre la ladera de la garganta del Arco en Aussois, parte de la <strong>Barrera de l'Esseillon</strong>: cinco fuertes sardos construidos a principios del siglo XIX para protegerse contra las invasiones francesas. Construido para albergar una <strong>guarnición de 1.500 hombres</strong>, es la pieza maestra del conjunto.</p><p>El acceso es <strong>gratuito, todo el año, todos los días</strong> — la oficina de turismo de Aussois lo publica así. La libre deambulación dentro del fuerte permite descubrir la plaza de armas, la capilla, los hornos de pan y la penitenciaría. Se pueden organizar visitas de grupos bajo solicitud.</p><p>Una advertencia sobre el invierno: la carretera de acceso está cerrada al tráfico según las condiciones de nieve. El acceso sigue siendo posible a pie o con raquetas de nieve.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Acceso libre, visitas autoguiadas",
+        "best_season": "Año-redo; carretera cerrada al tráfico dependiendo de las condiciones de nieve",
+        "commune": "Aussois",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Fuerte sardo del siglo XIX"
+      },
+      "faq": [
+        {
+          "a": "No. La oficina turística de Aussois lista acceso gratuito con visitas individuales autoguiadas, todo el año, todos los días.",
+          "q": "¿Hay una cuota de entrada?"
+        },
+        {
+          "a": "La libre vagabunda en el suelo del desfile, la capilla, los hornos de pan y la penitenciaría.",
+          "q": "¿Qué puedes ver dentro?"
+        },
+        {
+          "a": "Una cadena de cinco fuertes sardos construidos a principios del siglo XIX contra la invasión francesa. Victor-Emmanuel es el más grande, construido para una guarnición de 1.500 hombres.",
+          "q": "¿Cuál es la barrera Esseillon?"
+        },
+        {
+          "a": "El sitio se mantiene abierto, pero la carretera de acceso está cerrada al tráfico dependiendo de las condiciones de nieve; el acceso se encuentra a pie o de nieve.",
+          "q": "¿Puedes ir en invierno?"
+        },
+        {
+          "a": "Las visitas individuales son autoguiadas; las visitas a grupos se pueden organizar bajo petición con la oficina de turismo.",
+          "q": "¿Hay visitas guiadas?"
+        }
+      ],
+      "hero": {
+        "badge": "Acceso gratuito · Haute Maurienne",
+        "lead": "El más imponente de los cinco fuertes sardos de Esseillon, construido para 1.500 hombres. Viajar gratis todo el año, aunque el camino de acceso se cierra con la nieve."
+      },
+      "hero_alt": "Fort Victor-Emmanuel, barrera Esseillon, Aussois, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Desde Aussois, la carretera Esseillon; cerrada al tráfico dependiendo de las condiciones de nieve.",
+        "public_transport": null
+      },
+      "meta_description": "Fort Victor-Emmanuel en Aussois, pieza central de la barrera Esseillon: acceso libre todo el año, terreno de desfile, capilla, penitenciaria. Fuentes oficiales solamente.",
+      "meta_title": "Fort Victor-Emmanuel · Esseillon, acceso gratuito, Aussois",
+      "name": "Fort Victor-Emmanuel",
+      "name_alternates": [
+        "Barrière de l'Esseillon — Fort Victor-Emmanuel"
+      ],
+      "practical_info": [
+        {
+          "k": "Dirección",
+          "v": "Barrière de l'Esseillon, 73500 Aussois"
+        },
+        {
+          "k": "Precio",
+          "v": "Acceso libre, visitas guiadas por cuenta propia"
+        },
+        {
+          "k": "Apertura",
+          "v": "Todo el año, todos los días"
+        },
+        {
+          "k": "Invierno",
+          "v": "Camino cerrado al tráfico dependiendo de la nieve; acceso a pie o raquetas de nieve"
+        },
+        {
+          "k": "Grupos",
+          "v": "Visitas bajo petición"
+        }
+      ],
+      "schema_amenities": [
+        "Acceso gratuito",
+        "Visitas a grupos bajo petición"
+      ],
+      "when_to_visit": "<p>Todo el año, todos los días. El invierno sólo cambia el enfoque: la carretera cerrada dependiendo de la nieve, el acceso a pie o a las nieves.</p>"
+    },
     "fr": {
       "activities": [
         {
@@ -207,6 +391,190 @@
         "Visites de groupes sur demande"
       ],
       "when_to_visit": "<p>Toute l'année tous les jours. L'hiver change seulement l'approche : route fermée selon l'enneigement, accès à pied ou en raquettes.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Parata terra, cappella, forni di pane, penitenziario: il forte può essere esplorato liberamente, tutto l'anno.",
+          "tag": "Gratis",
+          "title": "Libero vagare attraverso il forte"
+        },
+        {
+          "description": "Quando la neve chiude la strada, il forte è raggiunto a piedi o su racchette da neve — il regime invernale come pubblicato dall'ufficio turistico.",
+          "tag": "Inverno",
+          "title": "Racchette da neve per Esseillon"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Il <strong>fort Victor-Emmanuel</strong> si estende al di sopra della gola dell'Arc, ad Aussois, all'interno della <strong>barriera di Esseillon</strong>: cinque forti sardi edificati all'inizio del XIX secolo per protezione dalle invasioni francesi. Costruito per accogliere una <strong>guarnigione di 1.500 uomini</strong>, è il capolavoro dell'insieme.</p><p>L'accesso è <strong>libero, tutto l'anno, ogni giorno</strong> — l'ufficio turistico di Aussois lo pubblica così. La libera passeggiata all'interno del forte permette di scoprire la piazza d'armi, la cappella, i forni del pane e il penitenziario. Le visite di gruppo si organizzano su richiesta.</p><p>Una riserva invernale, anch'essa documentata: la strada di accesso è chiusa al traffico a seconda delle condizioni di neve. L'accesso rimane allora possibile a piedi o con racchette da neve.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Accesso gratuito, visite guidate",
+        "best_season": "Tutto l'anno; strada chiusa al traffico a seconda delle condizioni della neve",
+        "commune": "Aussois",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Fortezza sarda del XIX secolo"
+      },
+      "faq": [
+        {
+          "a": "No. L'ufficio turistico Aussois elenca l'accesso gratuito con visite individuali guidate, tutto l'anno, ogni giorno.",
+          "q": "C'è una quota di iscrizione?"
+        },
+        {
+          "a": "Il libero girovagare prende nel terreno di parata, la cappella, i forni di pane e il penitenziario.",
+          "q": "Cosa vedi dentro?"
+        },
+        {
+          "a": "Una catena di cinque forti sardi costruita all'inizio del XIX secolo contro l'invasione francese. Victor-Emmanuel è il più grande, costruito per una guarnigione di 1.500 uomini.",
+          "q": "Qual è la barriera Esseillon?"
+        },
+        {
+          "a": "Il sito rimane aperto, ma la strada di accesso è chiusa al traffico a seconda delle condizioni della neve; l'accesso è quindi a piedi o ciaspole.",
+          "q": "Puoi andare in inverno?"
+        },
+        {
+          "a": "Le visite individuali sono guidate autonomamente; le visite di gruppo possono essere organizzate su richiesta con l'ufficio turistico.",
+          "q": "Ci sono visite guidate?"
+        }
+      ],
+      "hero": {
+        "badge": "Accesso libero · Haute Maurienne",
+        "lead": "Il più imponente dei cinque forti sardi di Esseillon, costruito per 1.500 uomini. Errazione libera tutto l'anno — anche se la strada di accesso si chiude con la neve."
+      },
+      "hero_alt": "Fort Victor-Emmanuel, Esseillon barriera, Aussois, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Da Aussois, la strada Esseillon; chiuso al traffico a seconda delle condizioni della neve.",
+        "public_transport": null
+      },
+      "meta_description": "Fort Victor-Emmanuel in Aussois, centrotavola della barriera Esseillon: accesso gratuito tutto l'anno, parata, cappella, penitenziario. Solo fonti ufficiali.",
+      "meta_title": "Fort Victor-Emmanuel · Esseillon, accesso gratuito, Aussois",
+      "name": "Fort Victor-Emmanuel",
+      "name_alternates": [
+        "Barrière de l'Esseillon — Fort Victor-Emmanuel"
+      ],
+      "practical_info": [
+        {
+          "k": "Indirizzo",
+          "v": "Barrière de l'Esseillon, 73500 Aussois"
+        },
+        {
+          "k": "Prezzo",
+          "v": "Libero — accesso aperto, visite guidate"
+        },
+        {
+          "k": "Apertura",
+          "v": "Tutto l'anno, ogni giorno"
+        },
+        {
+          "k": "Inverno",
+          "v": "Strada chiusa al traffico a seconda della neve; accesso a piedi o racchette da neve"
+        },
+        {
+          "k": "Gruppi",
+          "v": "Visite su richiesta"
+        }
+      ],
+      "schema_amenities": [
+        "Accesso gratuito",
+        "Visite di gruppo su richiesta"
+      ],
+      "when_to_visit": "<p>Tutto l'anno, ogni giorno. L'inverno cambia solo l'approccio: strada chiusa a seconda della neve, accesso a piedi o racchette da neve.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Paradegrond, kapel, broodovens, gevangenis: het fort kan het hele jaar vrij worden verkend.",
+          "tag": "Vrij",
+          "title": "Gratis wandelen door het fort"
+        },
+        {
+          "description": "Wanneer de sneeuw sluit de weg, het fort is te voet of op sneeuwschoenen te bereiken",
+          "tag": "Winter",
+          "title": "Sneeuwschoenen naar de Esseillon"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Fort Victor-Emmanuel</strong>stapt af de helling boven de Arc kloof op Aussois, deel van de<strong>Esseillon-barrière</strong>: vijf Sardijnse forten gebouwd in het begin van de 19e eeuw om te beschermen tegen Franse invasie. Gebouwd om een<strong>garnizoen van 1500 man</strong>Het is het middenstuk van het ensemble.</p><p>Toegang is<strong>gratis, het hele jaar door, elke dag</strong>Het Aussois VVV publiceert het precies zo. Gratis wandelen in het fort neemt in de parade grond, de kapel, de broodovens en de gevangenis. Groepsbezoeken kunnen op verzoek worden geregeld.</p><p>Een bron van wintergroet: de toegangsweg is gesloten voor het verkeer, afhankelijk van de sneeuwomstandigheden. Het fort blijft dan bereikbaar te voet of op sneeuwschoenen.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis toegang, zelfgeleide bezoeken",
+        "best_season": "Het hele jaar door; voor het verkeer gesloten weg afhankelijk van sneeuwomstandigheden",
+        "commune": "Aussois",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "19e-eeuws Sardinisch fort"
+      },
+      "faq": [
+        {
+          "a": "Nee. Het Aussois VVV-kantoor geeft gratis toegang met individuele bezoeken, het hele jaar door, elke dag.",
+          "q": "Is er een inschrijfgeld?"
+        },
+        {
+          "a": "Gratis wandelen neemt in de parade grond, de kapel, de broodovens en de gevangenis.",
+          "q": "Wat zie je binnen?"
+        },
+        {
+          "a": "Een keten van vijf Sardijnse forten gebouwd in het begin van de 19e eeuw tegen Franse invasie. Victor-Emmanuel is de grootste, gebouwd voor een garnizoen van 1500 man.",
+          "q": "Wat is de Esseillon-barrière?"
+        },
+        {
+          "a": "De site blijft open, maar de toegangsweg is gesloten voor verkeer afhankelijk van de sneeuwomstandigheden; toegang is dan te voet of sneeuwschoenen.",
+          "q": "Kun je in de winter gaan?"
+        },
+        {
+          "a": "Individuele bezoeken zijn zelfgeleid; groepsbezoeken kunnen op aanvraag worden geregeld bij het VVV.",
+          "q": "Zijn er rondleidingen?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratis toegang · Haute Maurienne",
+        "lead": "De meest imposante van de vijf Sardijnse forten van de Esseillon, gebouwd voor 1500 man. Gratis zwerven het hele jaar door, hoewel de toegangsweg sluit met de sneeuw."
+      },
+      "hero_alt": "Fort Victor-Emmanuel, Esseillon-barrière, Aussois, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Vanaf Aussois, de Esseillon weg; gesloten voor verkeer afhankelijk van sneeuw omstandigheden.",
+        "public_transport": null
+      },
+      "meta_description": "Fort Victor-Emmanuel in Aussois, middenstuk van de Esseillon-barrière: het hele jaar door gratis toegang, paradegrond, kapel, gevangenis. Alleen officiële bronnen.",
+      "meta_title": "Fort Victor-Emmanuel · Esseillon, gratis toegang, Aussois",
+      "name": "Fort Victor-Emmanuel",
+      "name_alternates": [
+        "Barrière de l'Esseillon — Fort Victor-Emmanuel"
+      ],
+      "practical_info": [
+        {
+          "k": "Adres",
+          "v": "Barrière de l'Esseillon, 73500 Aussois"
+        },
+        {
+          "k": "Prijs",
+          "v": "Gratis open toegang, zelfgeleide bezoeken"
+        },
+        {
+          "k": "Opening",
+          "v": "Het hele jaar door, elke dag"
+        },
+        {
+          "k": "Winter",
+          "v": "Weg gesloten voor verkeer afhankelijk van sneeuw; toegang te voet of sneeuwschoenen"
+        },
+        {
+          "k": "Groepen",
+          "v": "Bezoeken op aanvraag"
+        }
+      ],
+      "schema_amenities": [
+        "Vrije toegang",
+        "Groepsbezoeken op verzoek"
+      ],
+      "when_to_visit": "<p>Het hele jaar, elke dag. De winter verandert alleen de aanpak: weg gesloten afhankelijk van sneeuw, toegang te voet of sneeuwschoenen.</p>"
     }
   },
   "latitude": 45.212323,

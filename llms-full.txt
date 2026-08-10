@@ -1,9 +1,9 @@
 # Loisirs 73 — Full content dump
 
 Generated: 2026-08-10
-Total lieux: 44
+Total lieux: 51
 
-This file concatenates the FR facet markdown of all 44 leisure sites in Savoie. Each section is a standalone markdown document with YAML frontmatter and the fixed facet heading canon. Sections are separated by `===` rulers.
+This file concatenates the FR facet markdown of all 51 leisure sites in Savoie. Each section is a standalone markdown document with YAML frontmatter and the fixed facet heading canon. Sections are separated by `===` rulers.
 
 For programmatic access, fetch individual files at https://loisirs73.fr/content/{slug}.md (FR), https://loisirs73.fr/content/en/{slug}.md (EN), or https://loisirs73.fr/api/lieu/{slug}.json (typed JSON).
 
@@ -1540,6 +1540,74 @@ https://en.areches-beaufort.com/site-naturel/le-cormet-de-roselend/
 ================================================================================
 
 ---
+slug: espace-alu-saint-michel-de-maurienne
+name: "Espace Alu"
+category: musee
+category_label: "Musée"
+commune: "Saint-Michel-de-Maurienne"
+postal_code: "73140"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.219223
+longitude: 6.47305
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/espace-alu-saint-michel-de-maurienne
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/espace-alu-saint-michel-de-maurienne.json
+photo_url: /img/generique/generique-musee-moderne.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-10
+source: loisirs73.fr
+---
+
+# Espace Alu
+
+## Faits
+
+- Commune: Saint-Michel-de-Maurienne, Savoie (73140)
+- GPS: 45.219223, 6.47305
+- Catégorie: musee
+- Type: Musée d'histoire industrielle
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+- À partir de: 8 EUR
+
+## Accès (PMR)
+
+- Statut: Accessible
+- Détail: « Site, bâtiment totalement accessible. Accessible en fauteuil roulant en autonomie », selon la fiche du Département.
+- Source: patrimoines.savoie.fr — https://patrimoines.savoie.fr/web/280_DBEvenement/espace-alu
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Été (du 6 juillet au 30 août 2026) ; au printemps, uniquement sur réservation
+
+## Source officielle
+
+https://espacealu.fr/
+
+================================================================================
+
+---
 slug: fort-de-tamie-mercury
 name: "Fort de Tamié"
 category: chateau
@@ -1880,6 +1948,338 @@ Non renseigné
 ## Source officielle
 
 https://rando.parcdesbauges.com/trek/44527-La-grande-cascade
+
+================================================================================
+
+---
+slug: les-charmettes-maison-jean-jacques-rousseau-chambery
+name: "Les Charmettes, maison de Jean-Jacques Rousseau"
+category: musee
+category_label: "Musée"
+commune: "Chambéry"
+postal_code: "73000"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.553063
+longitude: 5.929634
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/les-charmettes-maison-jean-jacques-rousseau-chambery
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/les-charmettes-maison-jean-jacques-rousseau-chambery.json
+photo_url: /img/generique/generique-jardin-allee-roses.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-10
+source: loisirs73.fr
+---
+
+# Les Charmettes, maison de Jean-Jacques Rousseau
+
+## Faits
+
+- Commune: Chambéry, Savoie (73000)
+- GPS: 45.553063, 5.929634
+- Catégorie: musee
+- Type: Maison d'écrivain, musée
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Avril–octobre du mardi au dimanche ; week-ends seulement de novembre à mars
+
+## Source officielle
+
+https://www.chambery.fr/231-venir-aux-charmettes.htm
+
+================================================================================
+
+---
+slug: musee-des-beaux-arts-chambery
+name: "Musée des Beaux-Arts de Chambéry"
+category: musee
+category_label: "Musée"
+commune: "Chambéry"
+postal_code: "73000"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.568142
+longitude: 5.919733
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/musee-des-beaux-arts-chambery
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/musee-des-beaux-arts-chambery.json
+photo_url: /img/generique/generique-musee-classique.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-10
+source: loisirs73.fr
+---
+
+# Musée des Beaux-Arts de Chambéry
+
+## Faits
+
+- Commune: Chambéry, Savoie (73000)
+- GPS: 45.568142, 5.919733
+- Catégorie: musee
+- Type: Musée des beaux-arts
+
+## Horaires
+
+Mardi–dimanche 10h–18h ; fermé lundis et jours fériés
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Toute l'année, du mardi au dimanche ; fermé lundis et jours fériés
+
+## Source officielle
+
+https://www.chambery.fr/220-venir-au-musee.htm
+
+================================================================================
+
+---
+slug: musee-opinel-saint-jean-de-maurienne
+name: "Musée Opinel"
+category: musee
+category_label: "Musée"
+commune: "Saint-Jean-de-Maurienne"
+postal_code: "73300"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.277676
+longitude: 6.347212
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/musee-opinel-saint-jean-de-maurienne
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/musee-opinel-saint-jean-de-maurienne.json
+photo_url: /img/generique/generique-musee-moderne.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-10
+source: loisirs73.fr
+---
+
+# Musée Opinel
+
+## Faits
+
+- Commune: Saint-Jean-de-Maurienne, Savoie (73300)
+- GPS: 45.277676, 6.347212
+- Catégorie: musee
+- Type: Musée d'entreprise et de savoir-faire
+
+## Horaires
+
+9h–18h30 non stop
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+- Statut: Accessible
+- Détail: « Musée de plain-pied, entièrement accessible aux personnes à mobilité réduite », selon la page officielle du musée.
+- Source: Opinel (site officiel) — https://www.opinel.com/fr-fr/le-musee/infos-pratiques
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Toute l'année ; 7j/7 en juillet-août, fermé dimanches et fériés le reste de l'année
+
+## Source officielle
+
+https://www.opinel.com/fr-fr/le-musee/infos-pratiques
+
+================================================================================
+
+---
+slug: musee-ours-des-cavernes-entremont-le-vieux
+name: "Musée de l'Ours des Cavernes"
+category: musee
+category_label: "Musée"
+commune: "Entremont-le-Vieux"
+postal_code: "73670"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.451618
+longitude: 5.882135
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/musee-ours-des-cavernes-entremont-le-vieux
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/musee-ours-des-cavernes-entremont-le-vieux.json
+photo_url: /img/generique/generique-musee.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-10
+source: loisirs73.fr
+---
+
+# Musée de l'Ours des Cavernes
+
+## Faits
+
+- Commune: Entremont-le-Vieux, Savoie (73670)
+- GPS: 45.451618, 5.882135
+- Catégorie: musee
+- Type: Musée de préhistoire et de paléontologie
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+- À partir de: 7 EUR
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Fenêtres saisonnières 2026 : vacances scolaires, été 10h–12h30 / 14h–18h
+
+## Source officielle
+
+https://musee-ours-cavernes.com/
+
+================================================================================
+
+---
+slug: musee-savoisien-chambery
+name: "Musée Savoisien"
+category: musee
+category_label: "Musée"
+commune: "Chambéry"
+postal_code: "73000"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.565554
+longitude: 5.922699
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/musee-savoisien-chambery
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/musee-savoisien-chambery.json
+photo_url: /img/generique/generique-musee.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-10
+source: loisirs73.fr
+---
+
+# Musée Savoisien
+
+## Faits
+
+- Commune: Chambéry, Savoie (73000)
+- GPS: 45.565554, 5.922699
+- Catégorie: musee
+- Type: Musée d'histoire et des cultures de la Savoie
+
+## Horaires
+
+Tous les jours sauf mardi, 10h–12h30 et 13h30–18h
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Toute l'année sauf mardis, quatre jours fériés et deux semaines de janvier
+
+## Source officielle
+
+https://patrimoines.savoie.fr/web/psp_30197/musee-savoisien-accueil
 
 ================================================================================
 
@@ -3035,6 +3435,72 @@ Toute l'année ; les vignes sont belles de l'été aux couleurs d'automne
 ## Source officielle
 
 https://patrimoines.savoie.fr/web/psp_25182/les-tours-de-chignin
+
+================================================================================
+
+---
+slug: tremplin-92-maison-des-jeux-olympiques-albertville
+name: "Tremplin 92, Montagne et Olympisme"
+category: musee
+category_label: "Musée"
+commune: "Albertville"
+postal_code: "73200"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.663657
+longitude: 6.373546
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/tremplin-92-maison-des-jeux-olympiques-albertville
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/tremplin-92-maison-des-jeux-olympiques-albertville.json
+photo_url: /img/generique/generique-musee-grande-galerie.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-10
+source: loisirs73.fr
+---
+
+# Tremplin 92, Montagne et Olympisme
+
+## Faits
+
+- Commune: Albertville, Savoie (73200)
+- GPS: 45.663657, 6.373546
+- Catégorie: musee
+- Type: Musée olympique
+
+## Horaires
+
+Lun-sam 9h–12h et 14h–18h ; dimanche 9h30–11h30 et 14h–17h30 ; fermé fériés
+
+## Tarifs
+
+- À partir de: 7 EUR
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Toute l'année ; horaires élargis en juillet-août
+
+## Source officielle
+
+https://www.tremplin92.org/
 
 ================================================================================
 

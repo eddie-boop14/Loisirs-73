@@ -1,7 +1,7 @@
 # Phase 4 — photo assignments (gate artifact)
 
 **Date**: 2026-06-14
-**Total assignments**: 44 (one per (hub × slug) on the FR canonical hub)
+**Total assignments**: 51 (one per (hub × slug) on the FR canonical hub)
 
 ## Per-hub diversity
 
@@ -9,6 +9,7 @@
 |---|---:|---:|---:|
 | `cascades` | 7 | 1 | 7 |
 | `chateaux` | 7 | 3 | 3 |
+| `musees` | 7 | 5 | 2 |
 | `points-de-vue` | 15 | 15 | 1 |
 | `telecabines` | 15 | 15 | 1 |
 
@@ -30,6 +31,13 @@
 | `chateaux` | `fort-victor-emmanuel-aussois` | `patrimoine` | `generique-chateau-toiture.jpg` | — | json hero (local) |
 | `chateaux` | `redoute-marie-therese-avrieux` | `patrimoine` | `generique-chateau.jpg` | — | json hero (local) |
 | `chateaux` | `tours-de-chignin` | `patrimoine` | `generique-chateau.jpg` | — | json hero (local) |
+| `musees` | `espace-alu-saint-michel-de-maurienne` | `patrimoine` | `generique-musee-moderne.jpg` | — | json hero (local) |
+| `musees` | `les-charmettes-maison-jean-jacques-rousseau-chambery` | `patrimoine` | `generique-jardin-allee-roses.jpg` | — | json hero (local) |
+| `musees` | `musee-des-beaux-arts-chambery` | `patrimoine` | `generique-musee-classique.jpg` | — | json hero (local) |
+| `musees` | `musee-opinel-saint-jean-de-maurienne` | `patrimoine` | `generique-musee-moderne.jpg` | — | json hero (local) |
+| `musees` | `musee-ours-des-cavernes-entremont-le-vieux` | `patrimoine` | `generique-musee.jpg` | — | json hero (local) |
+| `musees` | `musee-savoisien-chambery` | `patrimoine` | `generique-musee.jpg` | — | json hero (local) |
+| `musees` | `tremplin-92-maison-des-jeux-olympiques-albertville` | `patrimoine` | `generique-musee-grande-galerie.jpg` | — | json hero (local) |
 | `points-de-vue` | `col-de-l-iseran` | `nature` | `col-de-l-iseran-hero.jpg` | — | json hero (local) |
 | `points-de-vue` | `col-de-la-croix-de-fer` | `nature` | `col-de-la-croix-de-fer-hero.jpg` | — | json hero (local) |
 | `points-de-vue` | `col-de-la-loze` | `nature` | `col-de-la-loze-hero.jpg` | — | json hero (local) |

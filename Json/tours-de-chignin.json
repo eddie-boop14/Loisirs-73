@@ -24,6 +24,97 @@
   "hero_credit": null,
   "hero_image": "/img/generique/generique-chateau.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Ein Spaziergang, der vom Parc des Bauges durch den Weinberg markiert wird, vom Parking du Clos Dénarié vorbei am tour de la Boichère und dem château de Bourdeau.",
+          "tag": "3,3 km · sehr einfach",
+          "title": "Chignin Towers Loop"
+        },
+        {
+          "description": "Die ehemalige tour de la Biguerne, die von den Kartäuserbrüdern zu Ehren von Saint Anthelme in eine Kapelle umgewandelt wurde, wurde in Chignin geboren.",
+          "tag": "1877",
+          "title": "Kapelle Saint-Anthelme"
+        }
+      ],
+      "body": {
+        "what_is": "<p>\"Sept!\" - sieben - \"ist die Anzahl der Türme, die bei Chignin stehen\", kündigt das Département an. Die<strong>Tours de Chignin</strong>, a<strong>klassifiziert Monument historique</strong>Punktieren Sie den Weinberg über dem Combe de Savoie. Neben der Kapelle und der Tour de 'la Place', die immer noch in der Landschaft prominent und restauriert ist, sind die anderen Ruinen. 1877 wurde der tour de la Biguerne von den Kartäuserbrüdern in eine<strong>Kapelle zu Ehren von Saint Anthelme</strong>, geboren am Chignin.</p><p>In ihrem Alter gehen die beiden offiziellen Quellen auseinander: Das Département datiert sie auf die<strong>13. Jahrhundert</strong>, \"als die Seigneury von Chignin geteilt wurde, baute jeder Nachkomme seinen eigenen Turm\"; Die Parc naturel régional des Bauges sagt, dass sie \"wahrscheinlich im 11. oder 12. gebaut wurden\" und zählt<strong>5 Türme noch sichtbar</strong>in der Landschaft. Wir geben beide lesungen so, wie sie stehen.</p><p>Es gibt<strong>Kein Ticketschalter und kein Innenbesuch</strong>Die Türme werden von den öffentlichen Wegen des Weinbergs entdeckt. Die Parc Waymarks eine sehr einfache<strong>3,3 km Schleife</strong>vom Parking du Clos Dénarié, vorbei am tour de la Boichère und am château de Bourdeau.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Frei – die Türme sind von den öffentlichen Wegen des Weinbergs aus zu sehen",
+        "best_season": "Ganzjährig; die Reben leuchten vom Sommer in die Herbstfarben",
+        "commune": "Chignin",
+        "dogs": null,
+        "parking": "Parking du Clos Dénarié, Chignin (Loop Trailhead)",
+        "stroller": null,
+        "type": "Ruinierte mittelalterliche Türme, aufgeführt Monument historique"
+      },
+      "faq": [
+        {
+          "a": "Nein. Die Türme sind Ruinen (plus eine restaurierte Turmkapelle), die von den Weinbergpfaden aus gesehen werden; keine offizielle Quelle veröffentlicht ein Einreiseregime oder Ticketing.",
+          "q": "Kannst du in die Türme gehen?"
+        },
+        {
+          "a": "Sieben nach dem Département de la Savoie; das Parc des Bauges stellt fest, dass 5 noch in der Landschaft sichtbar sind. Beide Zählungen werden so veröffentlicht, wie sie stehen.",
+          "q": "Wie viele Türme gibt es?"
+        },
+        {
+          "a": "Das Département datiert sie auf das 13. Jahrhundert, an der Teilung der Seigneury von Chignin; der Parc des Bauges schreibt \"wahrscheinlich im 11. oder 12.\". Die Quellen sind anderer Meinung und wir entscheiden nicht.",
+          "q": "Wie alt sind sie?"
+        },
+        {
+          "a": "Eine sehr einfache 3,3 km lange Schleife, die vom Parc des Bauges vom Parking du Clos Dénarié in Chignin markiert wird. Der Trail passiert den tour de la Boichère und dann den château de Bourdeau.",
+          "q": "Welcher Spaziergang zeigt sie am besten?"
+        },
+        {
+          "a": "1877 verwandelten die Brüder Kartäuser die tour de la Biguerne in eine Kapelle zu Ehren von Saint Anthelme.",
+          "q": "Warum gibt es eine Kapelle zwischen den Türmen?"
+        }
+      ],
+      "hero": {
+        "badge": "Freier Zugang · Chignin Weinberge",
+        "lead": "Sieben mittelalterliche Türme - fünf noch sichtbar, sagt der Parc des Bauges - erheben sich aus den Reben von Chignin. Kein Ticketschalter: Ein sehr einfacher 3,3 km langer Weg geht zu ihren Füßen."
+      },
+      "hero_alt": "Mittelalterliche Türme von Chignin inmitten der Weinberge, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "In Chignin, zwischen Chambéry und Montmélian; Parken Sie am Parking du Clos Dénarié, dem Wegbereiter der markierten Schleife.",
+        "public_transport": null
+      },
+      "meta_description": "Die Türme von Chignin, ein denkmalgeschütztes Denkmal in den Weinbergen von Savoie: sieben Türme pro Département, eine sehr einfache 3,3 km lange Schleife. Nur offizielle Quellen.",
+      "meta_title": "Tours de Chignin · Ruinierte Türme in den Reben, 3,3 km Schleife",
+      "name": "Tours de Chignin",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Anschrift",
+          "v": "Tours de Chignin, 73800 Chignin"
+        },
+        {
+          "k": "Preis",
+          "v": "Frei — von den öffentlichen Wegen des Weinbergs aus gesehen"
+        },
+        {
+          "k": "Schleife",
+          "v": "3,3 km, sehr einfach, vom Parking du Clos Dénarié"
+        },
+        {
+          "k": "Liste",
+          "v": "Monument historique"
+        },
+        {
+          "k": "Auf dem Trail",
+          "v": "Tour de la Boichère, château de Bourdeau, Kapelle Saint-Anthelme"
+        }
+      ],
+      "schema_amenities": [
+        "Markierungspfad",
+        "Freier Zugang",
+        "Parken am Trailhead"
+      ],
+      "when_to_visit": "<p>Ganzjährig: Die Schleife ist sehr einfach und die Türme zeigen sich zu jeder Jahreszeit. Der Weinberg gibt sein bestes Licht vom Sommer bis in die Herbstfarben.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -115,6 +206,97 @@
       ],
       "when_to_visit": "<p>Year-round: the loop is very easy and the towers show in every season. The vineyard gives its best light from summer into the autumn colours.</p>"
     },
+    "es": {
+      "activities": [
+        {
+          "description": "Un paseo marcado por el Parc des Bauges a través del viñedo, desde el Parking du Clos Dénarié pasando por el tour de la Boichère y el château de Bourdeau.",
+          "tag": "3.3 km · muy fácil",
+          "title": "Chignin torres bucle"
+        },
+        {
+          "description": "El antiguo tour de la Biguerne, convertido en una capilla por los hermanos cartuchos en honor de Saint Anthelme, nacido en Chignin.",
+          "tag": "1877",
+          "title": "capilla de Saint-Anthelme"
+        }
+      ],
+      "body": {
+        "what_is": "<p>« ¡Siete! Es el número de torres que se yerguen en Chignin », anuncia el Departamento. Las <strong>torres de Chignin</strong>, clasificadas como <strong>Monumento histórico</strong>, puntúan el viñedo por encima de la Combe de Savoie. Excepto la capilla y la torre de « la Place », aún muy visibles en el paisaje y restauradas, las otras son ruinas. En 1877, la torre de la Biguerne fue transformada por los hermanos cartujos en una <strong>capilla en honor de Saint Anthelme</strong>, nacido en Chignin.</p><p>Sobre su edad, las dos fuentes oficiales divergen: el Departamento las data del <strong>siglo XIII</strong>, « cuando la seigneuría de Chignin se dividió, cada descendiente construyó su propia torre »; el Parc naturel régional des Bauges dice que fueron « probablemente construidas en el XI o XII » y cuenta <strong>5 torres todavía visibles</strong> en el paisaje. Damos ambas lecturas tal como están.</p><p>No hay <strong>taquilla ni visita interior</strong>: las torres se descubren desde los senderos públicos del viñedo. El Parc señaliza un sendero muy fácil de <strong>3,3 km</strong> que parte del Parking du Clos Dénarié, pasando por la torre de la Boichère y el château de Bourdeau.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Libre: las torres son vistas desde los caminos públicos del viñedo",
+        "best_season": "Alrededor del año; las viñas brillan desde el verano hasta los colores del otoño",
+        "commune": "Chignin",
+        "dogs": null,
+        "parking": "Parking du Clos Dénarié, Chignin (cabeza de ruta)",
+        "stroller": null,
+        "type": "torres medievales en ruinas, lista Monument historique"
+      },
+      "faq": [
+        {
+          "a": "No. Las torres son ruinas (más una torre-chapel restaurada) vista desde los caminos viñedos; ninguna fuente oficial publica cualquier régimen de entrada o ticketing.",
+          "q": "¿Puedes entrar en las torres?"
+        },
+        {
+          "a": "Siete según el departamento de la Savoie; el Parc des Bauges señala que 5 siguen siendo visibles en el paisaje. Ambos recuentos se publican como están.",
+          "q": "¿Cuántas torres hay?"
+        },
+        {
+          "a": "El Departamento las data del siglo XIII, en la división de la seigneuría de Chignin; el Parc des Bauges escribe « probablemente en el XI o XII ». Las fuentes se contradicen y no arbitramos.",
+          "q": "¿Cuántos años tienen?"
+        },
+        {
+          "a": "Un bucle muy fácil 3.3 km marcado por el Parc des Bauges, desde el Parking du Clos Dénarié en Chignin. El sendero pasa por la tour de la Boichère y luego la château de Bourdeau.",
+          "q": "¿Qué paseo les muestra mejor?"
+        },
+        {
+          "a": "En 1877 los hermanos cartuchos convirtieron la tour de la Biguerne en una capilla en honor de Saint Anthelme.",
+          "q": "¿Por qué hay una capilla entre las torres?"
+        }
+      ],
+      "hero": {
+        "badge": "Acceso gratuito · Viñedos Chignin",
+        "lead": "Siete torres medievales — cinco todavía visibles, dice el Parc des Bauges— se levantan de las vides de Chignin. Sin taquilla: una ruta de 3,3 km muy fácil pasa a sus pies."
+      },
+      "hero_alt": "Torres medievales de Chignin en medio de los viñedos, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "En Chignin, entre Chambéry y Montmélian; parque en el Parking du Clos Dénarié, el sendero del bucle marcado.",
+        "public_transport": null
+      },
+      "meta_description": "Las torres de Chignin, un monumento listado en los viñedos de Savoie: siete torres por el departamento, un bucle de 3.3 km muy fácil. Fuentes oficiales solamente.",
+      "meta_title": "Tours de Chignin · Torres rugidas en las vides, bucle de 3,3 km",
+      "name": "Tours de Chignin",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Dirección",
+          "v": "Tours de Chignin, 73800 Chignin"
+        },
+        {
+          "k": "Precio",
+          "v": "Libre — visto desde los caminos públicos del viñedo"
+        },
+        {
+          "k": "Loop",
+          "v": "3.3 km, muy fácil, desde el Parking du Clos Dénarié"
+        },
+        {
+          "k": "Lista",
+          "v": "Monument historique"
+        },
+        {
+          "k": "En el sendero",
+          "v": "Tour de la Boichère, château de Bourdeau, capilla de Saint-Anthelme"
+        }
+      ],
+      "schema_amenities": [
+        "Sendero Waymarked",
+        "Acceso gratuito",
+        "Estacionamiento en el sendero"
+      ],
+      "when_to_visit": "<p>Alrededor del año: el bucle es muy fácil y las torres se muestran en cada temporada. El viñedo da su mejor luz desde el verano hasta los colores de otoño.</p>"
+    },
     "fr": {
       "activities": [
         {
@@ -205,6 +387,188 @@
         "Parking au départ"
       ],
       "when_to_visit": "<p>Toute l'année : la boucle est très facile et les tours se voient en toute saison. Le vignoble donne ses plus belles lumières de l'été aux couleurs d'automne.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Una passeggiata segnata dall'Parc des Bauges attraverso il vigneto, dal parcheggio du Clos Dénarié passando per la tour de la Boichère e la château de Bourdeau.",
+          "tag": "3.3 km · molto facile",
+          "title": "Chignin torri anello"
+        },
+        {
+          "description": "L'ex tour de la Biguerne, trasformato in una cappella dai fratelli cartesiani in onore di Saint Anthelme, nato a Chignin.",
+          "tag": "1877",
+          "title": "Cappella Saint-Anthelme"
+        }
+      ],
+      "body": {
+        "what_is": "<p>«Sept !» — sette — «è il numero di torri che si elevano a Chignin», annuncia il Département. Le <strong>tours de Chignin</strong>, <strong>classificate Monument historique</strong>, punteggiano il vigneto sopra la Combe de Savoie. Oltre alla cappella e alla tour de «la Place», ancora ben visibili nel paesaggio e restaurate, le altre sono in rovina. Nel 1877, la tour de la Biguerne fu trasformata dai fratelli Certosini in una <strong>cappella in onore di san Anthelme</strong>, nato a Chignin.</p><p>Per quanto riguarda la loro età, le due fonti ufficiali divergono: il Département le data al <strong>XIII secolo</strong>, «al momento della divisione della signoria di Chignin, ogni discendente costruendo la sua propria torre»; il Parc naturel régional des Bauges dice che furono «probabilmente costruite nell'XI o XII» e conta <strong>5 torri ancora visibili</strong> nel paesaggio. Diamo entrambe le letture così come stanno.</p><p>Non c'è <strong>biglietteria né visita interna</strong>: le torri si scoprono dai sentieri pubblici del vigneto. Il Parc segnala un anello molto facile di <strong>3,3 km</strong> a partire dal parcheggio del Clos Dénarié, che passa davanti alla tour de la Boichère e al château de Bourdeau.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis — le torri sono viste dai sentieri pubblici della vigna",
+        "best_season": "Tutto l'anno; le viti brillano dall'estate ai colori autunnali",
+        "commune": "Chignin",
+        "dogs": null,
+        "parking": "Parcheggio du Clos Dénarié, Chignin (viaggiato)",
+        "stroller": null,
+        "type": "Torri medievali, elencate Monument historique"
+      },
+      "faq": [
+        {
+          "a": "No. Le torri sono rovine (più una torre-chapel restaurata) viste dai vignaioli; nessuna fonte ufficiale pubblica alcun regime di ingresso o biglietto.",
+          "q": "Puoi entrare nelle torri?"
+        },
+        {
+          "a": "Sette secondo il Département de la Savoie; l'Parc des Bauges nota che 5 sono ancora visibili nel paesaggio. Entrambi i conti sono pubblicati come stanno.",
+          "q": "Quante torri ci sono?"
+        },
+        {
+          "a": "Il Département li risale al XIII secolo, alla divisione del seigneury di Chignin; l'Parc des Bauges scrive 'probabilmente nell'XI o XII'. Le fonti non sono d'accordo e non ci arbitriamo.",
+          "q": "Quanti anni hanno?"
+        },
+        {
+          "a": "Un loop molto facile a 3,3 km, segnalato dalla Parc des Bauges, dal parcheggio du Clos Dénarié in Chignin. Il sentiero passa la tour de la Boichère poi la château de Bourdeau.",
+          "q": "Quale passeggiata li mostra meglio?"
+        },
+        {
+          "a": "Nel 1877 i fratelli cartesiani trasformarono l'tour de la Biguerne in una cappella in onore di Saint Anthelme.",
+          "q": "Perché c'è una cappella tra le torri?"
+        }
+      ],
+      "hero": {
+        "badge": "Accesso libero · vigneti Chignin",
+        "lead": "Sette torri medievali — cinque ancora visibili, dice il Parc des Bauges — sorgono dalle viti di Chignin. Nessun biglietteria: un sentiero molto facile a 3,3 km passa ai loro piedi."
+      },
+      "hero_alt": "Torri medievali di Chignin tra i vigneti, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "In Chignin, tra Chambéry e Montmélian; parcheggiare al parcheggio du Clos Dénarié, il sentiero del loop segnalato.",
+        "public_transport": null
+      },
+      "meta_description": "Le torri di Chignin, un monumento elencato nei vigneti di Savoie: sette torri per il Département, un anello molto facile a 3,3 km. Solo fonti ufficiali.",
+      "meta_title": "Tours de Chignin · Torri in rovina nelle viti, ciclo di 3,3 km",
+      "name": "Tours de Chignin",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Indirizzo",
+          "v": "Tours de Chignin, 73800 Chignin"
+        },
+        {
+          "k": "Prezzo",
+          "v": "Libero — visto dai sentieri pubblici della vigna"
+        },
+        {
+          "k": "Loop",
+          "v": "3.3 km, molto facile, dal parcheggio du Clos Dénarié"
+        },
+        {
+          "k": "Elenco",
+          "v": "Monument historique"
+        },
+        {
+          "k": "Sulla scia",
+          "v": "Tour de la Boichère, château de Bourdeau, cappella Saint-Anthelme"
+        }
+      ],
+      "schema_amenities": [
+        "Sentiero segnalato",
+        "Accesso gratuito",
+        "Parcheggio sul sentiero"
+      ],
+      "when_to_visit": "<p>Anno dopo anno: il loop è molto facile e le torri mostrano in ogni stagione. Il vigneto dà la sua migliore luce dall'estate ai colori autunnali.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Een wandeling gemarkeerd door de Parc des Bauges door de wijngaard, vanaf de Parking du Clos Dénarié langs de tour de la Boichère en de château de Bourdeau.",
+          "tag": "3,3 km · zeer gemakkelijk",
+          "title": "Chignin torens loop"
+        },
+        {
+          "description": "De voormalige tour de la Biguerne werd een kapel van de Carthusiaanse broers ter ere van Saint Anthelme, geboren te Chignin.",
+          "tag": "1877",
+          "title": "Sint-Anthelmekapel"
+        }
+      ],
+      "body": {
+        "what_is": "<p>'Sept !' Zeven 'is het aantal torens staan op Chignin', kondigt het departement. De<strong>tours de Chignin</strong>, a<strong>geclassificeerde Monument historique</strong>, lees de wijngaard boven de Combe de Savoie. Afgezien van de kapel en de tour de 'la Place', nog steeds prominent in het landschap en gerestaureerd, zijn de anderen ruïnes. In 1877 veranderde de tour de la Biguerne door de Carthusiaanse broers in een<strong>kapel ter ere van Saint Anthelme</strong>, geboren te Chignin.</p><p>Op hun leeftijd lopen de twee officiële bronnen uiteen: het departement dateert van de<strong>13e eeuw</strong>, 'toen de seigneury van Chignin verdeeld was, bouwde elke afstammeling zijn eigen toren', zegt de Parc naturel régional des Bauges dat ze waarschijnlijk gebouwd waren in de 11e of 12e en telt<strong>5 torens nog zichtbaar</strong>in het landschap. We geven beide metingen in hun huidige vorm.</p><p>Die is er.<strong>geen ticketkantoor en geen interieurbezoek</strong>De torens worden ontdekt vanaf de openbare paden van de wijngaard. Het Parc waymarks een zeer gemakkelijk<strong>3,3 km lus</strong>van de Parking du Clos Dénarié, langs de tour de la Boichère en de château de Bourdeau.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "De torens zijn gratis te zien vanaf de openbare paden van de wijngaard",
+        "best_season": "Het hele jaar door; de wijnstokken gloeien van zomer tot herfstkleuren",
+        "commune": "Chignin",
+        "dogs": null,
+        "parking": "Parking du Clos Dénarié, Chignin (looppad)",
+        "stroller": null,
+        "type": "Geruïneerde middeleeuwse torens, vermeld Monument historique"
+      },
+      "faq": [
+        {
+          "a": "Nee. De torens zijn ruïnes (plus een gerestaureerde toren-kapel) gezien vanaf de wijngaard paden; geen officiële bron publiceert enige toegangsregeling of ticketing.",
+          "q": "Kun je de torens in?"
+        },
+        {
+          "a": "Zeven volgens het Département de la Savoie; de Parc des Bauges merkt op dat er nog 5 zichtbaar zijn in het landschap. Beide tellingen worden in hun huidige vorm gepubliceerd.",
+          "q": "Hoeveel torens zijn er?"
+        },
+        {
+          "a": "Het departement dateert uit de 13e eeuw, in de verdeling van de seigneurie van Chignin; de Parc des Bauges schrijft 'waarschijnlijk in de 11e of 12e'. De bronnen zijn het daar niet mee eens en wij zijn niet willekeurig.",
+          "q": "Hoe oud zijn ze?"
+        },
+        {
+          "a": "Een zeer eenvoudige 3.3 km lus gemarkeerd door de Parc des Bauges, van de Parking du Clos Dénarié in Chignin. Het pad passeert de tour de la Boichère dan de château de Bourdeau.",
+          "q": "Welke wandeling laat ze het beste zien?"
+        },
+        {
+          "a": "In 1877 maakten de gebroeders Carthus de tour de la Biguerne tot een kapel ter ere van Saint Anthelme.",
+          "q": "Waarom is er een kapel tussen de torens?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratis toegang · Chignin wijngaarden",
+        "lead": "Zeven middeleeuwse torens, vijf nog steeds zichtbaar, zegt de Parc des Bauges stijgen uit de wijnstokken van Chignin. Geen ticketkantoor: een zeer gemakkelijke 3,3 km pad passeert aan hun voeten."
+      },
+      "hero_alt": "Middeleeuwse torens van Chignin te midden van de wijngaarden, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "In Chignin, tussen Chambéry en Montmélian; parkeren bij de Parking du Clos Dénarié, de waymarked loop's trailhead.",
+        "public_transport": null
+      },
+      "meta_description": "De torens van Chignin, een monument in de wijngaarden van Savoie: zeven torens per Département, een zeer eenvoudige 3,3 km lus. Alleen officiële bronnen.",
+      "meta_title": "Tours de Chignin · Geruïneerde torens in de wijnstokken, 3,3 km lus",
+      "name": "Tours de Chignin",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Adres",
+          "v": "Tours de Chignin, 73800 Chignin"
+        },
+        {
+          "k": "Prijs",
+          "v": "Gratis te zien vanaf de openbare paden van de wijngaard"
+        },
+        {
+          "k": "Loop",
+          "v": "3,3 km, zeer gemakkelijk, van de Parking du Clos Dénarié"
+        },
+        {
+          "k": "Lijst",
+          "v": "Monument historique"
+        },
+        {
+          "k": "Op het pad",
+          "v": "Tour de la Boichère, château de Bourdeau, Saint-Anthelme kapel"
+        }
+      ],
+      "schema_amenities": [
+        "Waymarked trail",
+        "Vrije toegang",
+        "Parkeren bij het spoorpunt"
+      ],
+      "when_to_visit": "<p>Het hele jaar door: de lus is zeer eenvoudig en de torens tonen zich in elk seizoen. De wijngaard geeft zijn beste licht van de zomer in de herfstkleuren.</p>"
     }
   },
   "latitude": 45.525744,

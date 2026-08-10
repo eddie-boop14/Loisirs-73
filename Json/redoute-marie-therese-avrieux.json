@@ -24,6 +24,99 @@
   "hero_credit": null,
   "hero_image": "/img/generique/generique-chateau.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Ein permanenter zweisprachiger französisch-italienischer Museumsraum: die Architekturgeschichte der Festung und der Esseillon-Militärstätte.",
+          "tag": "4 €",
+          "title": "Dolmetschzentrum für Festungen"
+        },
+        {
+          "description": "Dienstags (6. Januar – 28. April) oder Mittwochs (2. Juli – 27. August) im Jahr 2026, Anmeldung an der Rezeption des Forts oder am 06 78 22 48 38.",
+          "tag": "Max 45 Personen",
+          "title": "Geführte Tour durch die Redoute"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die<strong>Redoute Marie-Thérèse</strong>hält die Avrieux Seite des Tals, gegenüber den vier anderen Forts der<strong>Esseillon Barriere</strong>in Haute Maurienne Vanoise. Das befestigte Ensemble wurde von der<strong>Königreich Sardinien</strong>Anfang des 19. Jahrhunderts, um den Weg nach Italien zu versperren; die Werke tragen die Vornamen der savoyischen Königsfamilie.</p><p>Seit 2007 beherbergt die Redoute eine<strong>Dolmetschzentrum</strong>für die Öffentlichkeit zugänglich, der Architekturgeschichte der Befestigung gewidmet, mit einem permanenten zweisprachigen französisch-italienischen Museumsraum zur Geschichte der Militäranlage. Eintritt: 4 € Vollpreis, 2 € Kind, frei unter 7, Familienpass 10 €. Im Jahr 2026, Führungen laufen dienstags 14:00-15:30 (6. Januar - 28. April) und Mittwochs 15:00-16:00 (2. Juli - 27. August), begrenzt auf 45 Personen, melden Sie sich an der Rezeption des Forts oder am 06 78 22 48 38 an - die communauté de communes listet diese Touren bei 6 € Erwachsenen und 4 € Kind auf, während das Tourismusbüro und das Département Posteintritt bei 4 € / 2 €; beide Preisgitter stehen und wir geben sie wie veröffentlicht.</p><p>Selten für eine Bergfestung: Die offizielle Auflistung erklärt das Gelände<strong>Rollstuhl ohne Hilfe</strong>, die 3 Zimmer, den Laden und das Restaurant.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Bezahltes Dolmetschzentrum: €4 voll, €2 Kind, Familienpass €10",
+        "best_season": "Sommer (täglich); dienstags nur im Winter",
+        "commune": "Avrieux",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Redoubt aus Sardinien, Dolmetschzentrum"
+      },
+      "faq": [
+        {
+          "a": "4 € Vollpreis, 2 € Kind, kostenlos unter 7, Familienpass 10 € - das Tourismusbüro und das Raster des Départements. Die communauté de communes listet €6 / €4 für die Führungen 2026 auf: zwei Raster existieren und wir entscheiden nicht.",
+          "q": "Wie viel kostet der Eintritt?"
+        },
+        {
+          "a": "Vom 1. Juli bis 31. August, täglich 10:30-18:00 Uhr mit Mittagsschluss 12:30-13:30; vom 1. Januar bis 16. April, dienstags 14:00-15:30 Uhr.",
+          "q": "Was sind die 2026 Stunden?"
+        },
+        {
+          "a": "Ja: Dienstags 14:00-15:30 vom 6. Januar bis 28. April und Mittwochs 15:00-16:00 vom 2. Juli bis 27. August - maximal 45 Personen, Anmeldung an der Rezeption oder am 06 78 22 48 38. Eine Tour mit einem Guide du Patrimoine Savoie Mont Blanc ist auch auf Anfrage erhältlich.",
+          "q": "Gibt es geführte Touren?"
+        },
+        {
+          "a": "Ja, nach der offiziellen Auflistung: \"zugänglich en fauteuil roulant en autonomie\", mit stufenlosem Zugang zu den 3 Zimmern, dem Laden und dem Restaurant.",
+          "q": "Ist der Rollstuhl zugänglich?"
+        },
+        {
+          "a": "Ein permanenter zweisprachiger französisch-italienischer Museumsraum, der die Geschichte des Militärgeländes nachzeichnet, wurde 2007 im Interpretationszentrum für die Öffentlichkeit eröffnet.",
+          "q": "Was ist drin?"
+        }
+      ],
+      "hero": {
+        "badge": "4 € · Avrieux",
+        "lead": "Eine der fünf Festungen der Esseillon-Barriere, die im frühen 19. Jahrhundert vom Königreich Sardinien erbaut wurde, ist heute ein Interpretationszentrum, das ohne Hilfe vom Rollstuhl aus zugänglich ist."
+      },
+      "hero_alt": "Redoute Marie-Thérèse, Esseillon Barriere, Avrieux, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Über die RD 1006 in Haute Maurienne; die Redoute sitzt an der Straße auf der Avrieux Seite, gegenüber den Aussois Forts.",
+        "public_transport": null
+      },
+      "meta_description": "Die Redoute Marie-Thérèse in Avrieux, einer sardischen Festung des Esseillon, wurde zum Interpretationszentrum: 2026 Stunden, Preise und Zugänglichkeit, offizielle Quellen.",
+      "meta_title": "Redoute Marie-Thérèse · Interpretationszentrum, 2026 Preise",
+      "name": "Redoute Marie-Thérèse",
+      "name_alternates": [
+        "Barrière de l'Esseillon — Redoute Marie-Thérèse"
+      ],
+      "practical_info": [
+        {
+          "k": "Anschrift",
+          "v": "Redoute Marie-Thérèse, 73500 Avrieux"
+        },
+        {
+          "k": "Preise",
+          "v": "€4 voll, €2 Kind, frei unter 7, Familienpass €10 (2026 Führung: €6 / €4 pro CC)"
+        },
+        {
+          "k": "Sommer 2026",
+          "v": "1. Juli – 31. August, täglich 10:30-18:00 Uhr (geschlossen 12:30–13:30 Uhr)"
+        },
+        {
+          "k": "Winter– Frühling",
+          "v": "1. Januar – 16. April, Dienstags 14:00–15:30"
+        },
+        {
+          "k": "Zugänglichkeit",
+          "v": "Rollstuhl ohne Hilfe — 3 Zimmer, Geschäft, Restaurant (offizielle Quelle)"
+        }
+      ],
+      "schema_amenities": [
+        "Zweisprachiger Museumsraum",
+        "Rollstuhl ohne Hilfe zugänglich",
+        "Geschäft und Restaurant"
+      ],
+      "when_to_visit": "<p>Sommer ist die eigentliche Jahreszeit: täglich 10:30-18:00 vom 1. Juli bis 31. August 2026. Außerhalb des Sommers sind nur dienstagnachmittags (1. Januar bis 16. April) geöffnet.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -117,6 +210,99 @@
       ],
       "when_to_visit": "<p>Summer is the real season: daily 10:30–18:00 from 1 July to 31 August 2026. Outside summer, only Tuesday afternoons open (1 January – 16 April).</p>"
     },
+    "es": {
+      "activities": [
+        {
+          "description": "Un espacio permanente bilingüe francés-italiano: la historia arquitectónica de la fortificación y del emplazamiento militar Esseillon.",
+          "tag": "€4",
+          "title": "Centro de interpretación de la fortificación"
+        },
+        {
+          "description": "Martes (6 de enero a 28 de abril) o miércoles (2 de julio a 27 de agosto) en 2026, registro en la recepción del fuerte o el 06 78 22 48 38.",
+          "tag": "Max 45 personas",
+          "title": "Visita guiada de la redoubt"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>Redoute Marie-Thérèse</strong> guarda la orilla de Avrieux frente a los otros cuatro fuertes de la <strong>Barrera de l'Esseillon</strong> en Haute Maurienne Vanoise. El conjunto fortificado fue construido por el <strong>Reino de Cerdeña</strong> a principios del siglo XIX para bloquear el camino a Italia; los trabajos llevan los nombres de la familia real de Savoie.</p><p>Desde 2007, la redota alberga un <strong>centro de interpretación</strong> abierto al público, dedicado a la historia arquitectónica de la fortificación, con un espacio muséográfico permanente bilingüe francés-italiano sobre la historia del sitio militar. Entrada: 4 € tarifa completa, 2 € niño, gratuito menores de 7 años, pase familiar 10 €. En 2026, visitas guiadas se llevan a cabo los martes de 14:00 a 15:30 (6 de enero a 28 de abril) y los miércoles de 15:00 a 16:00 (2 de julio a 27 de agosto), limitadas a 45 personas, inscripción en la recepción del fuerte o al 06 78 22 48 38 — la comunidad de comunas publica 6 € adulto y 4 € niño para estas visitas, mientras que la oficina de turismo y el Departamento anuncian 4 €/2 €; ambas grillas coexisten y no arbitramos.</p><p>Raro para una fortaleza de montaña: la ficha oficial anuncia el sitio <strong>accesible en silla de ruedas de forma autónoma</strong>, cubriendo las 3 salas, la tienda y el restaurante.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Centro de interpretación pagado: 4 € completo, 2 € niño, familia pasar 10 €",
+        "best_season": "Verano (por día); martes sólo en primavera",
+        "commune": "Avrieux",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Centro de interpretación sarda"
+      },
+      "faq": [
+        {
+          "a": "€4 precio completo, €2 niño, gratis menos de 7, pase familiar €10 — la oficina turística y la cuadrícula del departamento. La comuna de comunas enumera €6/€4 para las 2026 visitas guiadas: coexisten dos rejillas y no arbitramos.",
+          "q": "¿Cuánto es la entrada?"
+        },
+        {
+          "a": "Del 1 de julio al 31 de agosto, todos los días de 10:30 a 18:00 con cierre de mediodía 12:30 a 13:30; del 1 de enero al 16 de abril, martes 14:00 a 15:30.",
+          "q": "¿Cuáles son las 2026 horas?"
+        },
+        {
+          "a": "Sí: Martes 14:00–15:30 del 6 de enero al 28 de abril, y miércoles 15:00 a 16:00 del 2 de julio al 27 de agosto - 45 personas máximo, registro en recepción o el 06 78 22 48 38. Un tour con Guide du Patrimoine Savoie Mont Blanc también está disponible bajo petición.",
+          "q": "¿Hay visitas guiadas?"
+        },
+        {
+          "a": "Sí, por el listado oficial: 'accesible en fauteuil roulant en autonomie', con acceso gratuito a las 3 habitaciones, la tienda y el restaurante.",
+          "q": "¿Es accesible la silla de ruedas del sitio?"
+        },
+        {
+          "a": "Un espacio permanente bilingüe francés-italiano que traza la historia del sitio militar, dentro del centro de interpretación se abrió al público en 2007.",
+          "q": "¿Qué hay dentro?"
+        }
+      ],
+      "hero": {
+        "badge": "4 € · Avrieux",
+        "lead": "Uno de los cinco fuertes de la Barrera de l'Esseillon, construido por el Reino de Cerdeña a principios del siglo XIX — ahora centro de interpretación, accesible de forma autónoma."
+      },
+      "hero_alt": "Redoute Marie-Thérèse, barrera Esseillon, Avrieux, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Via the RD 1006 in Haute Maurienne; the redoubt sits by the road on the Avrieux side, facing the Aussois forts.",
+        "public_transport": null
+      },
+      "meta_description": "El Redoute Marie-Thérèse en Avrieux, un fuerte sardo del Esseillon convertido centro de interpretación: 2026 horas, precios y accesibilidad, fuentes oficiales.",
+      "meta_title": "Redoute Marie-Thérèse · Centro de Interpretación, 2026 precios",
+      "name": "Redoute Marie-Thérèse",
+      "name_alternates": [
+        "Barrière de l'Esseillon — Redoute Marie-Thérèse"
+      ],
+      "practical_info": [
+        {
+          "k": "Dirección",
+          "v": "Redoute Marie-Thérèse, 73500 Avrieux"
+        },
+        {
+          "k": "Precios",
+          "v": "€4 completo, €2 niño, gratuito bajo 7, pase familiar €10 (2026 tour guiado: €6/€4 por CC)"
+        },
+        {
+          "k": "Verano 2026",
+          "v": "1 de julio – 31 de agosto, todos los días 10:30–18:00 (cerrados 12:30–13:30)"
+        },
+        {
+          "k": "Pendiente de invierno",
+          "v": "1 enero – 16 abril, martes 14:00–15:30"
+        },
+        {
+          "k": "Accesibilidad",
+          "v": "Silla de ruedas sin asistencia — 3 habitaciones, tienda, restaurante (fuente oficial)"
+        }
+      ],
+      "schema_amenities": [
+        "Espacio museístico bilingüe",
+        "Silla de ruedas accesible sin asistencia",
+        "Tienda y restaurante"
+      ],
+      "when_to_visit": "<p>El verano es la temporada real: todos los días de 10:30-18:00 del 1 de julio al 31 de agosto de 2026. Fuera del verano, sólo se abren las tardes de martes (1 de enero a 16 de abril).</p>"
+    },
     "fr": {
       "activities": [
         {
@@ -209,6 +395,192 @@
         "Boutique et restaurant"
       ],
       "when_to_visit": "<p>L'été est la vraie saison : tous les jours de 10h30 à 18h du 1er juillet au 31 août 2026. Hors été, seuls les mardis après-midi ouvrent (1er janvier – 16 avril).</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Uno spazio museale permanente bilingue francese-italiano: la storia architettonica della fortificazione e del sito militare Esseillon.",
+          "tag": "€ 4",
+          "title": "Centro di interpretazione della fortificazione"
+        },
+        {
+          "description": "Martedì (6 gennaio – 28 aprile) o mercoledì (2 luglio – 27 agosto) nel 2026, iscrizione alla reception del forte o il 06 78 22 48 38.",
+          "tag": "Max 45 persone",
+          "title": "Visita guidata del redoubt"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>redoute Marie-Thérèse</strong> domina il lato di Avrieux della valle, di fronte ai quattro altri forti della <strong>barriera di Esseillon</strong>, in Haute Maurienne Vanoise. L'insieme fortificato è stato costruito dal <strong>Regno di Sardegna</strong> all'inizio del XIX secolo per sbarrare la strada verso l'Italia; le opere portano i nomi della famiglia reale di Savoie.</p><p>Dal 2007 la redoute ospita un <strong>centro di interpretazione</strong> aperto al pubblico, dedicato alla storia architettonica della fortificazione, con uno spazio museale permanente bilingue francese-italiano sulla storia del sito militare. Ingresso: 4 € tariffa intera, 2 € bambino, gratuito sotto i 7 anni, abbonamento famiglia 10 €. Nel 2026, visite guidate il martedì dalle 14:00 alle 15:30 (6 gennaio – 28 aprile) e il mercoledì dalle 15:00 alle 16:00 (2 luglio – 27 agosto), limitate a 45 persone, iscrizione alla reception del forte o al 06 78 22 48 38 — la comunità di comuni pubblica per queste visite tariffe di 6 € adulto e 4 € bambino, mentre l'ufficio turistico e il Département indicano 4 €/2 €; le due scale coesistono e le diamo tali quali.</p><p>Raro per una fortezza di montagna: la scheda ufficiale annuncia un sito <strong>accessibile in sedia a rotelle in autonomia</strong>, per le 3 sale, il negozio e il ristorante.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Centro di interpretazione a pagamento: €4 pieno, €2 bambino, pass familiare €10",
+        "best_season": "Estate (daily); Martedì solo in inverno-primavera",
+        "commune": "Avrieux",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Redoubt sarda, centro di interpretazione"
+      },
+      "faq": [
+        {
+          "a": "€4 prezzo pieno, €2 bambino, gratuito sotto 7, pass familiare €10 — l'ufficio turistico e la griglia di Département. Il Comune di Comune elenca €6/€4 per le 2026 visite guidate: due reti coesistono e non arbitriamo.",
+          "q": "Quanto costa?"
+        },
+        {
+          "a": "Dal 1° luglio al 31 agosto, tutti i giorni 10:30-18:00 con chiusura di mezzogiorno 12:30-13:30; dal 1° gennaio al 16 aprile, martedì 14:00-15:30.",
+          "q": "Quali sono le 2026 ore?"
+        },
+        {
+          "a": "Sì: martedì 14:00–15:30 dal 6 gennaio al 28 aprile, e mercoledì 15:00–16:00 dal 2 luglio al 27 agosto — massimo 45 persone, iscrizione alla reception o il 06 78 22 48 38. Su richiesta è disponibile anche un tour con Guide du Patrimoine Savoie Mont Blanc.",
+          "q": "Ci sono visite guidate?"
+        },
+        {
+          "a": "Sì, per l'elenco ufficiale: 'accessible en fauteuil roulant en autonomie', con accesso gratuito alle 3 camere, al negozio e al ristorante.",
+          "q": "La sedia a rotelle è accessibile?"
+        },
+        {
+          "a": "Uno spazio museale permanente bilingue francese-italiano che traccia la storia del sito militare, all'interno del centro di interpretazione aperto al pubblico nel 2007.",
+          "q": "Cosa c'è dentro?"
+        }
+      ],
+      "hero": {
+        "badge": "€4 · Avrieux",
+        "lead": "Uno dei cinque forti della barriera Esseillon, costruito dal Regno di Sardegna all'inizio del XIX secolo — ora un centro di interpretazione, accessibile alla sedia a rotelle senza assistenza."
+      },
+      "hero_alt": "Redoute Marie-Thérèse, Esseillon barriera, Avrieux, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Attraverso la RD 1006 in Haute Maurienne; il redoubt si trova vicino alla strada sul lato Avrieux, di fronte alle fortificazioni Aussois.",
+        "public_transport": null
+      },
+      "meta_description": "L'Redoute Marie-Thérèse di Avrieux, un forte sardo dello Esseillon ha trasformato il centro di interpretazione: 2026 ore, prezzi e accessibilità, fonti ufficiali.",
+      "meta_title": "Redoute Marie-Thérèse · Centro di interpretazione, 2026 prezzi",
+      "name": "Redoute Marie-Thérèse",
+      "name_alternates": [
+        "Barrière de l'Esseillon — Redoute Marie-Thérèse"
+      ],
+      "practical_info": [
+        {
+          "k": "Indirizzo",
+          "v": "Redoute Marie-Thérèse, 73500 Avrieux"
+        },
+        {
+          "k": "Prezzi",
+          "v": "€4 pieno, €2 bambino, gratuito sotto 7, pass familiare €10 (2026 visita guidata: €6/€4 per il CC)"
+        },
+        {
+          "k": "Estate 2026",
+          "v": "1 luglio – 31 agosto, tutti i giorni 10:30-18:00 (chiuso 12:30-13:30)"
+        },
+        {
+          "k": "Inverno – primavera",
+          "v": "1 gennaio – 16 aprile, martedì 14:00–15:30"
+        },
+        {
+          "k": "Accessibilità",
+          "v": "Sedia a rotelle senza assistenza — 3 camere, negozio, ristorante (fonte ufficiale)"
+        }
+      ],
+      "schema_amenities": [
+        "Spazio museale bilingue",
+        "Seggiolone accessibile senza assistenza",
+        "Negozio e ristorante"
+      ],
+      "when_to_visit": "<p>L'estate è la stagione reale: tutti i giorni 10:30-18:00 dal 1 luglio al 31 agosto 2026. Fuori estate, aperto solo martedì pomeriggio (1 gennaio – 16 aprile).</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Een permanente tweetalige Frans-Italiaanse museum ruimte: de architectonische geschiedenis van vestingwerken en van de Esseillon militaire site.",
+          "tag": "4 EUR",
+          "title": "Verstevigingsinterpretatiecentrum"
+        },
+        {
+          "description": "Dinsdag (6 januari 28 april) of woensdag (2 juli 27 augustus) in 2026, aanmelden bij de receptie van het fort of op 06 78 22 48 38.",
+          "tag": "Max. 45 personen",
+          "title": "Rondleiding door de redoubt"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>Redoute Marie-Thérèse</strong> houdt de Avrieux zijde van de vallei vast, tegenover de vier andere forten van de <strong>Esseillon-barrière</strong> in Haute Maurienne Vanoise. Het versterkte ensemble werd gebouwd door het <strong>Koninkrijk Sardinië</strong> in het begin van de 19e eeuw om de weg naar Italië te versperren; de werken dragen de voornamen van de koninklijke familie Savoie.</p><p>Sinds 2007 herbergt de redoute een <strong>interpretatiecentrum</strong> open voor het publiek, gewijd aan de architectonische geschiedenis van vestingwerk, met een permanente tweetalige Frans-Italiaanse museumruimte over de geschiedenis van de militaire site. Entree: €4 volledig tarief, €2 kind, gratis onder de 7 jaar, familiekaart €10. In 2026 vinden geleide rondleidingen plaats op dinsdag 14:00–15:30 (6 januari – 28 april) en woensdag 15:00–16:00 (2 juli – 27 augustus), beperkt tot 45 personen, aanmelden bij de receptie van het fort of op 06 78 22 48 38 — de gemeenschapsraad publiceert voor deze rondleidingen tarieven van €6 volwassene en €4 kind, terwijl het toeristenkantoor en het departement entree posten op €4/€2; beide prijsgrepen staan vast en we geven ze zoals gepubliceerd.</p><p>Zeldzaam voor een bergfort: de officiële vermelding stelt de site <strong>rolstoeltoegankelijk zonder assistentie</strong>, omvattend de 3 kamers, de winkel en het restaurant.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Betaald tolkcentrum: € 4 vol, € 2 kind, familiepas € 10",
+        "best_season": "Zomer (dagelijks); Dinsdag alleen in winter-voorjaar",
+        "commune": "Avrieux",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Sardijnse redoubt, interpretatiecentrum"
+      },
+      "faq": [
+        {
+          "a": "€ 4 volledige prijs, € 2 kind, gratis onder de 7, familiekaart € 10 .. het VVV-kantoor en het rooster van het departement. De communé communé telt €6/€4 voor de rondleidingen van 2026: twee netwerken bestaan naast elkaar en we doen geen arbitrage.",
+          "q": "Hoeveel kost de toegang?"
+        },
+        {
+          "a": "Van 1 juli tot en met 31 augustus, dagelijks 10:30–18:00 met middagsluitng 12:30–13:30; van 1 januari tot en met 16 april, dinsdag 14:00–15:30.",
+          "q": "Wat zijn de 2026 uur?"
+        },
+        {
+          "a": "Ja: dinsdag 14:00–15:30 van 6 januari tot 28 april, en woensdag 15:00–16:00 van 2 juli tot 27 augustus — 45 personen maximum, aanmelden bij receptie of op 06 78 22 48 38. Een rondleiding met een Guide du Patrimoine Savoie Mont Blanc is ook beschikbaar op aanvraag.",
+          "q": "Zijn er rondleidingen?"
+        },
+        {
+          "a": "Ja, per officiële vermelding: 'toegankelijk en fauteuil roulant en autonome', met traploze toegang tot de 3 kamers, de winkel en het restaurant.",
+          "q": "Is de site rolstoel toegankelijk?"
+        },
+        {
+          "a": "Een permanente tweetalige Frans-Italiaanse museumruimte die de geschiedenis van de militaire site traceert, binnen het tolkcentrum dat in 2007 voor het publiek werd geopend.",
+          "q": "Wat zit erin?"
+        }
+      ],
+      "hero": {
+        "badge": "4 € · Avrieux",
+        "lead": "Een van de vijf forten van de Esseillon barrière, gebouwd door het Koninkrijk Sardinië in het begin van de 19e eeuw"
+      },
+      "hero_alt": "Redoute Marie-Thérèse, Esseillon-barrière, Avrieux, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Via de RD 1006 in Haute Maurienne; het redoubt ligt langs de weg aan de Avrieux kant, tegenover de Aussois forten.",
+        "public_transport": null
+      },
+      "meta_description": "De Redoute Marie-Thérèse in Avrieux, een Sardinisch fort van het Esseillon draaide tolkcentrum: 2026 uur, prijzen en bereikbaarheid, officiële bronnen.",
+      "meta_title": "Redoute Marie-Thérèse · Interpretatiecentrum, prijzen 2026",
+      "name": "Redoute Marie-Thérèse",
+      "name_alternates": [
+        "Barrière de l'Esseillon — Redoute Marie-Thérèse"
+      ],
+      "practical_info": [
+        {
+          "k": "Adres",
+          "v": "Redoute Marie-Thérèse, 73500 Avrieux"
+        },
+        {
+          "k": "Prijzen",
+          "v": "€ 4 volledig, € 2 kind, gratis onder de 7, familiekaart € 10 (2026 rondleiding: € 6 / € 4 per CC)"
+        },
+        {
+          "k": "Zomer 2026",
+          "v": "1 juli: 31 augustus: dagelijks 10:30:18:00 (gesloten 12:30:13:30)"
+        },
+        {
+          "k": "Winterspring",
+          "v": "1 januari 16 april 14:00 15:30"
+        },
+        {
+          "k": "Toegankelijkheid",
+          "v": "Rolstoel zonder assistentie — 3 kamers, winkel, restaurant (officiële bron)"
+        }
+      ],
+      "schema_amenities": [
+        "Tweetalige museumruimte",
+        "Rolstoel toegankelijk zonder assistentie",
+        "Winkel en restaurant"
+      ],
+      "when_to_visit": "<p>Zomer is het echte seizoen: dagelijks 10:30–18:00 van 1 juli tot 31 augustus 2026. Buiten de zomer, alleen dinsdagmiddagen geopend (1 januari – 16 april).</p>"
     }
   },
   "latitude": 45.208363,

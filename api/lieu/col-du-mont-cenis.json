@@ -20,8 +20,10 @@
   "season": "Juin – octobre",
   "winter": {
     "access": "closed",
-    "infrastructure": [],
-    "snow_view": null,
+    "infrastructure": [
+      "ski_alpin"
+    ],
+    "snow_view": "alpes",
     "equipment": "loi_montagne_ii",
     "col_chains": false,
     "inforoute": "https://savoie-route.fr"

@@ -58,8 +58,8 @@ Non renseigné
 
 Fin mai – début novembre
 - Fenêtre d'accès hiver: Fermé (route fermée l'hiver) — État en temps réel : savoie-route.fr
-- Infrastructure hiver: Non renseigné
-- Panorama enneigé: Non renseigné
+- Infrastructure hiver: Ski de rando
+- Panorama enneigé: Vue Mont-Blanc dégagée
 - Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
 
 ## Source officielle

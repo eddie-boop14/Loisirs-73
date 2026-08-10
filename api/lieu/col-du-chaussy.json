@@ -19,12 +19,16 @@
   "transport": null,
   "season": null,
   "winter": {
-    "access": null,
-    "infrastructure": [],
-    "snow_view": null,
+    "access": "partial",
+    "infrastructure": [
+      "ski_fond",
+      "raquettes",
+      "luge"
+    ],
+    "snow_view": "alpes",
     "equipment": "loi_montagne_ii",
     "col_chains": false,
-    "inforoute": null
+    "inforoute": "https://savoie-route.fr"
   },
   "official_url": "https://www.velo-maurienne.com/explorer/lacets-de-montvernier-et-col-du-chaussy/",
   "last_verified": "2026-08-08"

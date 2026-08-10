@@ -37,6 +37,137 @@
   "hero_credit": "Rémih · CC BY-SA 4.0 · Wikimedia Commons",
   "hero_image": "/img/points-de-vue/signal-de-bisanne-hero.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "14,35 km mit durchschnittlich 8,5 % von Villard-sur-Doron oder 4,35 km mit 8,1 % vom Col des Saisies: zwei sehr unterschiedliche Anstiege.",
+          "tag": null,
+          "title": "Mit dem Rad zum Signal fahren"
+        },
+        {
+          "description": "Der Gipfel überragt den Ort Les Saisies und das Beaufortain-Massiv.",
+          "tag": null,
+          "title": "Die Aussicht auf das Beaufortain genießen"
+        },
+        {
+          "description": "Das Gelände ist bei der FFVL unter „Les Saisies (Signal de Bisanne)\" verzeichnet. Zu den Zugangsbedingungen wurden keine Angaben gefunden.",
+          "tag": null,
+          "title": "Mit dem Gleitschirm starten"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Das <strong>Signal de Bisanne</strong> erreicht 1 930 m im Beaufortain, oberhalb des Ortes Les Saisies, auf dem Gebiet der Gemeinde Hauteluce. Die Quellen bezeichnen es als höchsten Punkt der Liftanlagen des Gebiets.</p><p>In die Geschichte der Tour de France ging es 2016 ein, auf der 19. Etappe, bei seiner ersten Befahrung als Anstieg der höchsten Kategorie (hors catégorie) eingestuft. Eine Präzisierung ist nötig: <strong>Das Feld hielt auf Höhe der Station an, bei 1 723 m</strong>, und nicht am Gipfel, 207 m weiter oben.</p><p>Die beiden Anstiege haben nichts gemeinsam: 14,35 km mit 8,5 % von Villard-sur-Doron gegenüber 4,35 km mit 8,1 % vom Col des Saisies.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Frei zugänglich · Kostenlos",
+        "best_season": null,
+        "commune": "Hauteluce",
+        "dogs": null,
+        "parking": null,
+        "snow_view": "mont_blanc",
+        "stroller": null,
+        "type": "Mit dem Auto erreichbarer Gipfel und Aussichtspunkt",
+        "winter_access": null,
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "1 930 m. Nicht zu verwechseln mit den 1 723 m der Station, wo die Etappe der Tour 2016 endete.",
+          "q": "Wie hoch liegt das Signal de Bisanne?"
+        },
+        {
+          "a": "Nicht bis zum Gipfel. 2016, auf der 19. Etappe, hielt das Feld auf Höhe der Station an, bei 1 723 m, also 207 m unterhalb des Signal. Es war die erste Befahrung von Bisanne bei der Tour, eingestuft als hors catégorie.",
+          "q": "Ist die Tour de France auf das Signal de Bisanne gefahren?"
+        },
+        {
+          "a": "Das hängt ganz vom Anstieg ab: 14,35 km mit durchschnittlich 8,5 % von Villard-sur-Doron, aber nur 4,35 km mit 8,1 % vom Col des Saisies.",
+          "q": "Wie schwer ist der Anstieg?"
+        },
+        {
+          "a": "Der Gipfel überragt Les Saisies auf dem Gebiet der Gemeinde Hauteluce, doch der DATAtourisme-Datensatz ordnet den Startplatz Villard-sur-Doron zu. Keine Quelle klärt den Verlauf der Gemeindegrenze am Gipfel.",
+          "q": "In welcher Gemeinde liegt das Signal?"
+        },
+        {
+          "a": "Das Gelände ist bei der FFVL verzeichnet, doch in den eingesehenen Quellen wurden weder Zugangsbedingungen noch Saison oder Regeln gefunden.",
+          "q": "Kann man dort mit dem Gleitschirm starten?"
+        }
+      ],
+      "hero": {
+        "badge": "Freier Zugang · 1 930 m",
+        "lead": "Das Signal de Bisanne überragt Les Saisies auf 1 930 m. Die Tour de France fuhr 2016 hinauf — hielt aber 207 m tiefer an, bei der Station."
+      },
+      "hero_alt": "Signal de Bisanne oberhalb von Les Saisies, Beaufortain, Savoie",
+      "how_to_get_there": {
+        "bike": "Zwei sehr unterschiedliche Anstiege: 14,35 km mit durchschnittlich 8,5 % von Villard-sur-Doron oder 4,35 km mit 8,1 % vom Col des Saisies. Erste Befahrung bei der Tour de France 2016, 19. Etappe, hors catégorie, mit Wertungsankunft bei der Station auf 1 723 m.",
+        "car": "Oberhalb des Ortes Les Saisies, Gemeinde Hauteluce. Keine der eingesehenen Quellen nennt eine Straßennummer oder Öffnungszeiten.",
+        "public_transport": null
+      },
+      "meta_description": "Gipfel auf 1 930 m oberhalb von Les Saisies. Die Tour de France 2016 endete bei 1 723 m an der Station, nicht am Signal. Zwei Anstiege, 14,35 km oder 4,35 km.",
+      "meta_title": "Signal de Bisanne · 1 930 m, Anstieg, Tour de France",
+      "name": "Signal de Bisanne",
+      "name_alternates": [
+        "Montée de Bisanne",
+        "Mont Bisanne"
+      ],
+      "practical_info": [
+        {
+          "k": "Höhe",
+          "v": "1 930 m. Die Station, wo die Etappe der Tour 2016 endete, liegt auf 1 723 m."
+        },
+        {
+          "k": "Koordinaten",
+          "v": null
+        },
+        {
+          "k": "Anstieg von Villard-sur-Doron",
+          "v": "14,35 km mit durchschnittlich 8,5 %"
+        },
+        {
+          "k": "Anstieg vom Col des Saisies",
+          "v": "4,35 km mit durchschnittlich 8,1 %"
+        },
+        {
+          "k": "Tour de France",
+          "v": "Erste Befahrung 2016, 19. Etappe, Südseite, hors catégorie. Die Wertung wurde an der Station auf 1 723 m abgenommen."
+        },
+        {
+          "k": "Gemeinde",
+          "v": "Hauteluce. Der DATAtourisme-Datensatz ordnet den Startplatz Villard-sur-Doron zu: Keine Quelle klärt den Grenzverlauf am Gipfel."
+        },
+        {
+          "k": "Gleitschirmfliegen",
+          "v": "Gelände bei der FFVL unter „Les Saisies (Signal de Bisanne)\" verzeichnet. Keine Zugangsbedingungen bekannt."
+        },
+        {
+          "k": "Liftanlagen",
+          "v": "Wird als höchster Punkt der Liftanlagen des Gebiets bezeichnet. Zu den Betriebszeiten des Sessellifts Bisanne wurden keine Angaben gefunden."
+        },
+        {
+          "k": "Preis",
+          "v": "Kostenlos, freier Zugang"
+        },
+        {
+          "k": "Parkplatz",
+          "v": null
+        },
+        {
+          "k": "Tiere",
+          "v": null
+        },
+        {
+          "k": "Barrierefreiheit",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Aussichtspunkt",
+        "Gleitschirm-Startplatz"
+      ],
+      "when_to_visit": "<p>Keine der eingesehenen Quellen veröffentlicht Öffnungszeiten der Zufahrtsstraße. Der Gipfel ist ein Aussichtspunkt über das Beaufortain, mit dem Rad über zwei sehr ungleich schwere Anstiege erreichbar.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -163,6 +294,137 @@
         "Paragliding launch"
       ],
       "when_to_visit": "<p>No source consulted publishes an opening period for the access road. The summit is a viewpoint over the Beaufortain, reachable by bike on two sides of very unequal difficulty.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "14,35 km al 8,5 % de media desde Villard-sur-Doron, o 4,35 km al 8,1 % desde el col des Saisies: dos vertientes muy diferentes.",
+          "tag": null,
+          "title": "Subir al Signal en bicicleta"
+        },
+        {
+          "description": "La cima domina la estación de Les Saisies y el macizo del Beaufortain.",
+          "tag": null,
+          "title": "Contemplar la vista sobre el Beaufortain"
+        },
+        {
+          "description": "El sitio está registrado por la FFVL bajo el nombre « Les Saisies (Signal de Bisanne) ». No se ha encontrado ninguna condición de acceso.",
+          "tag": null,
+          "title": "Despegar en parapente"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>Signal de Bisanne</strong> culmina a 1 930 m en el Beaufortain, por encima de la estación de Les Saisies, en el municipio de Hauteluce. Las fuentes lo presentan como el punto más alto de los remontes mecánicos del sector.</p><p>Entró en la historia del Tour de Francia en 2016, en la etapa 19, clasificado fuera de categoría en su primera ascensión. Conviene precisar una cosa: <strong>el pelotón se detuvo a la altura de la estación, a 1 723 m</strong>, y no en la cima, 207 m más arriba.</p><p>Las dos vertientes no tienen nada que ver entre sí: 14,35 km al 8,5 % desde Villard-sur-Doron, frente a 4,35 km al 8,1 % desde el col des Saisies.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Libre · Gratuito",
+        "best_season": null,
+        "commune": "Hauteluce",
+        "dogs": null,
+        "parking": null,
+        "snow_view": "mont_blanc",
+        "stroller": null,
+        "type": "Cima accesible por carretera y mirador",
+        "winter_access": null,
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "1 930 m. No confundir con los 1 723 m de la estación, donde terminaba la etapa del Tour 2016.",
+          "q": "¿Cuál es la altitud del Signal de Bisanne?"
+        },
+        {
+          "a": "No hasta la cima. En 2016, en la etapa 19, el pelotón se detuvo a la altura de la estación, a 1 723 m, es decir 207 m por debajo del Signal. Fue la primera ascensión de Bisanne en el Tour, clasificada fuera de categoría.",
+          "q": "¿Ha subido el Tour de Francia al Signal de Bisanne?"
+        },
+        {
+          "a": "Depende por completo de la vertiente: 14,35 km al 8,5 % de media desde Villard-sur-Doron, pero solo 4,35 km al 8,1 % desde el col des Saisies.",
+          "q": "¿Qué dificultad tiene la subida?"
+        },
+        {
+          "a": "La cima domina Les Saisies, en el municipio de Hauteluce, pero la ficha DATAtourisme sitúa la zona de despegue bajo Villard-sur-Doron. Ninguna fuente aclara el límite municipal en la cima.",
+          "q": "¿En qué municipio se encuentra el Signal?"
+        },
+        {
+          "a": "El sitio está registrado por la FFVL, pero no se ha encontrado ninguna condición de acceso, temporada ni norma en las fuentes consultadas.",
+          "q": "¿Se puede despegar en parapente?"
+        }
+      ],
+      "hero": {
+        "badge": "Acceso libre · 1 930 m",
+        "lead": "El Signal de Bisanne domina Les Saisies a 1 930 m. El Tour de Francia subió en 2016, pero se detuvo 207 m más abajo, en la estación."
+      },
+      "hero_alt": "Signal de Bisanne por encima de Les Saisies, Beaufortain, Savoie",
+      "how_to_get_there": {
+        "bike": "Dos vertientes muy diferentes: 14,35 km al 8,5 % de media desde Villard-sur-Doron, o 4,35 km al 8,1 % desde el col des Saisies. Primera ascensión en el Tour de Francia en 2016, etapa 19, fuera de categoría, con llegada de la clasificación en la estación a 1 723 m.",
+        "car": "Por encima de la estación de Les Saisies, municipio de Hauteluce. Ninguna fuente consultada indica el número de carretera ni el periodo de apertura.",
+        "public_transport": null
+      },
+      "meta_description": "Cima a 1 930 m por encima de Les Saisies. El Tour de Francia 2016 se detuvo a 1 723 m, en la estación, no en el Signal. Dos vertientes, 14,35 km o 4,35 km.",
+      "meta_title": "Signal de Bisanne · 1 930 m, subida, Tour de Francia",
+      "name": "Signal de Bisanne",
+      "name_alternates": [
+        "Montée de Bisanne",
+        "Mont Bisanne"
+      ],
+      "practical_info": [
+        {
+          "k": "Altitud",
+          "v": "1 930 m. La estación, donde terminaba la etapa del Tour 2016, está a 1 723 m."
+        },
+        {
+          "k": "Coordenadas",
+          "v": null
+        },
+        {
+          "k": "Subida desde Villard-sur-Doron",
+          "v": "14,35 km al 8,5 % de media"
+        },
+        {
+          "k": "Subida desde el col des Saisies",
+          "v": "4,35 km al 8,1 % de media"
+        },
+        {
+          "k": "Tour de Francia",
+          "v": "Primera ascensión en 2016, etapa 19, vertiente sur, fuera de categoría. La clasificación se juzgaba en la estación, a 1 723 m."
+        },
+        {
+          "k": "Municipio",
+          "v": "Hauteluce. La ficha DATAtourisme sitúa la zona de despegue bajo Villard-sur-Doron: ninguna fuente aclara el límite en la cima."
+        },
+        {
+          "k": "Parapente",
+          "v": "Sitio registrado por la FFVL bajo el nombre « Les Saisies (Signal de Bisanne) ». No se ha encontrado ninguna condición de acceso."
+        },
+        {
+          "k": "Remontes",
+          "v": "Presentado como el punto más alto de los remontes del sector. No se ha encontrado ningún dato de explotación del telesilla de Bisanne."
+        },
+        {
+          "k": "Tarifa",
+          "v": "Gratuito, acceso libre"
+        },
+        {
+          "k": "Aparcamiento",
+          "v": null
+        },
+        {
+          "k": "Animales",
+          "v": null
+        },
+        {
+          "k": "Accesibilidad",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Mirador",
+        "Zona de despegue de parapente"
+      ],
+      "when_to_visit": "<p>Ninguna fuente consultada publica el periodo de apertura de la carretera de acceso. La cima es un mirador sobre el Beaufortain, accesible en bicicleta por dos vertientes de dificultad muy desigual.</p>"
     },
     "fr": {
       "activities": [
@@ -294,6 +556,268 @@
         "Aire d'envol parapente"
       ],
       "when_to_visit": "<p>Aucune source consultée ne publie de période d'ouverture de la route d'accès. Le sommet est un point de vue sur le Beaufortain, accessible en vélo par deux versants de difficulté très inégale.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "14,35 km all'8,5 % di pendenza media da Villard-sur-Doron, oppure 4,35 km all'8,1 % dal col des Saisies: due versanti molto diversi.",
+          "tag": null,
+          "title": "Salire al Signal in bicicletta"
+        },
+        {
+          "description": "La cima domina la stazione di Les Saisies e il massiccio del Beaufortain.",
+          "tag": null,
+          "title": "Godersi la vista sul Beaufortain"
+        },
+        {
+          "description": "Il sito è censito dalla FFVL come « Les Saisies (Signal de Bisanne) ». Non è stata rilevata alcuna condizione di accesso.",
+          "tag": null,
+          "title": "Decollare in parapendio"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Il <strong>Signal de Bisanne</strong> culmina a 1 930 m nel Beaufortain, sopra la stazione di Les Saisies, nel comune di Hauteluce. Le fonti lo presentano come il punto più alto degli impianti di risalita del settore.</p><p>È entrato nella storia del Tour de France nel 2016, alla tappa 19, classificato hors catégorie alla sua prima ascesa. Una precisazione è d'obbligo: <strong>il gruppo si è fermato all'altezza della stazione, a 1 723 m</strong>, e non in cima, 207 m più in alto.</p><p>I due versanti non hanno nulla in comune: 14,35 km all'8,5 % da Villard-sur-Doron, contro 4,35 km all'8,1 % dal col des Saisies.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Libero · Gratuito",
+        "best_season": null,
+        "commune": "Hauteluce",
+        "dogs": null,
+        "parking": null,
+        "snow_view": "mont_blanc",
+        "stroller": null,
+        "type": "Cima raggiungibile su strada e punto panoramico",
+        "winter_access": null,
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "1 930 m. Da non confondere con i 1 723 m della stazione, dove si fermava la tappa del Tour 2016.",
+          "q": "Qual è l'altitudine del Signal de Bisanne?"
+        },
+        {
+          "a": "Non fino in cima. Nel 2016, alla tappa 19, il gruppo si è fermato all'altezza della stazione, a 1 723 m, cioè 207 m sotto il Signal. Era la prima ascesa di Bisanne nel Tour, classificata hors catégorie.",
+          "q": "Il Tour de France è salito al Signal de Bisanne?"
+        },
+        {
+          "a": "Dipende interamente dal versante: 14,35 km all'8,5 % di pendenza media da Villard-sur-Doron, ma solo 4,35 km all'8,1 % dal col des Saisies.",
+          "q": "Quanto è difficile la salita?"
+        },
+        {
+          "a": "La cima domina Les Saisies, nel comune di Hauteluce, ma la scheda DATAtourisme colloca l'area di decollo sotto Villard-sur-Doron. Nessuna fonte chiarisce il confine comunale in cima.",
+          "q": "In quale comune si trova il Signal?"
+        },
+        {
+          "a": "Il sito è censito dalla FFVL, ma nelle fonti consultate non è stata rilevata alcuna condizione di accesso, stagione o regola.",
+          "q": "Si può decollare in parapendio?"
+        }
+      ],
+      "hero": {
+        "badge": "Accesso libero · 1 930 m",
+        "lead": "Il Signal de Bisanne domina Les Saisies a 1 930 m. Il Tour de France vi è salito nel 2016 — ma si è fermato 207 m più in basso, alla stazione."
+      },
+      "hero_alt": "Signal de Bisanne sopra Les Saisies, Beaufortain, Savoie",
+      "how_to_get_there": {
+        "bike": "Due versanti molto diversi: 14,35 km all'8,5 % di pendenza media da Villard-sur-Doron, oppure 4,35 km all'8,1 % dal col des Saisies. Prima ascesa al Tour de France nel 2016, tappa 19, hors catégorie, con arrivo della classifica alla stazione a 1 723 m.",
+        "car": "Sopra la stazione di Les Saisies, comune di Hauteluce. Nessuna fonte consultata indica il numero della strada né un periodo di apertura.",
+        "public_transport": null
+      },
+      "meta_description": "Cima a 1 930 m sopra Les Saisies. Il Tour de France 2016 si è fermato a 1 723 m, alla stazione, non al Signal. Due versanti, 14,35 km o 4,35 km.",
+      "meta_title": "Signal de Bisanne · 1 930 m, salita, Tour de France",
+      "name": "Signal de Bisanne",
+      "name_alternates": [
+        "Montée de Bisanne",
+        "Mont Bisanne"
+      ],
+      "practical_info": [
+        {
+          "k": "Altitudine",
+          "v": "1 930 m. La stazione, dove si fermava la tappa del Tour 2016, è a 1 723 m."
+        },
+        {
+          "k": "Coordinate",
+          "v": null
+        },
+        {
+          "k": "Salita da Villard-sur-Doron",
+          "v": "14,35 km all'8,5 % di pendenza media"
+        },
+        {
+          "k": "Salita dal col des Saisies",
+          "v": "4,35 km all'8,1 % di pendenza media"
+        },
+        {
+          "k": "Tour de France",
+          "v": "Prima ascesa nel 2016, tappa 19, versante sud, hors catégorie. La classifica era giudicata alla stazione, a 1 723 m."
+        },
+        {
+          "k": "Comune",
+          "v": "Hauteluce. La scheda DATAtourisme colloca l'area di decollo sotto Villard-sur-Doron: nessuna fonte chiarisce il confine in cima."
+        },
+        {
+          "k": "Parapendio",
+          "v": "Sito censito dalla FFVL come « Les Saisies (Signal de Bisanne) ». Nessuna condizione di accesso rilevata."
+        },
+        {
+          "k": "Impianti di risalita",
+          "v": "Presentato come il punto più alto degli impianti del settore. Non è stato rilevato alcun dato di esercizio della seggiovia di Bisanne."
+        },
+        {
+          "k": "Tariffa",
+          "v": "Gratuito, accesso libero"
+        },
+        {
+          "k": "Parcheggio",
+          "v": null
+        },
+        {
+          "k": "Animali",
+          "v": null
+        },
+        {
+          "k": "Accessibilità",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Punto panoramico",
+        "Area di decollo parapendio"
+      ],
+      "when_to_visit": "<p>Nessuna fonte consultata pubblica un periodo di apertura della strada di accesso. La cima è un punto panoramico sul Beaufortain, raggiungibile in bicicletta da due versanti di difficoltà molto diversa.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "14,35 km met gemiddeld 8,5 % vanaf Villard-sur-Doron, of 4,35 km met 8,1 % vanaf de Col des Saisies: twee zeer verschillende flanken.",
+          "tag": null,
+          "title": "De Signal per fiets beklimmen"
+        },
+        {
+          "description": "De top ligt boven het skioord Les Saisies en het massief van de Beaufortain.",
+          "tag": null,
+          "title": "Het uitzicht op de Beaufortain bekijken"
+        },
+        {
+          "description": "De site staat bij de FFVL geregistreerd als « Les Saisies (Signal de Bisanne) ». Er zijn geen toegangsvoorwaarden aangetroffen.",
+          "tag": null,
+          "title": "Starten met de parapente"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>Signal de Bisanne</strong> culmineert op 1 930 m in de Beaufortain, boven het skioord Les Saisies, in de gemeente Hauteluce. De bronnen presenteren hem als het hoogste punt van de skiliften in het gebied.</p><p>Hij kwam in 2016 in de geschiedenis van de Tour de France terecht, in etappe 19, geklasseerd als buitencategorie bij de eerste beklimming. Eén precisering is nodig: <strong>het peloton stopte ter hoogte van het skioord, op 1 723 m</strong>, en niet op de top, 207 m hoger.</p><p>De twee flanken verschillen sterk: 14,35 km met 8,5 % vanaf Villard-sur-Doron, tegenover 4,35 km met 8,1 % vanaf de Col des Saisies.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Vrij toegankelijk · Gratis",
+        "best_season": null,
+        "commune": "Hauteluce",
+        "dogs": null,
+        "parking": null,
+        "snow_view": "mont_blanc",
+        "stroller": null,
+        "type": "Per weg bereikbare top en uitzichtpunt",
+        "winter_access": null,
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "1 930 m. Niet te verwarren met de 1 723 m van het skioord, waar de Tour-etappe van 2016 eindigde.",
+          "q": "Wat is de hoogte van de Signal de Bisanne?"
+        },
+        {
+          "a": "Niet tot de top. In 2016, in etappe 19, stopte het peloton ter hoogte van het skioord, op 1 723 m, dus 207 m onder de Signal. Het was de eerste beklimming van Bisanne in de Tour, geklasseerd als buitencategorie.",
+          "q": "Heeft de Tour de France de Signal de Bisanne beklommen?"
+        },
+        {
+          "a": "Dat hangt volledig van de flank af: 14,35 km met gemiddeld 8,5 % vanaf Villard-sur-Doron, maar slechts 4,35 km met 8,1 % vanaf de Col des Saisies.",
+          "q": "Hoe zwaar is de klim?"
+        },
+        {
+          "a": "De top ligt boven Les Saisies, in de gemeente Hauteluce, maar het DATAtourisme-record plaatst de startplaats voor parapente onder Villard-sur-Doron. Geen enkele bron geeft uitsluitsel over de gemeentegrens op de top.",
+          "q": "In welke gemeente ligt de Signal?"
+        },
+        {
+          "a": "De site staat geregistreerd bij de FFVL, maar in de geraadpleegde bronnen zijn geen toegangsvoorwaarden, seizoenen of regels aangetroffen.",
+          "q": "Kunt u er met een parapente starten?"
+        }
+      ],
+      "hero": {
+        "badge": "Vrije toegang · 1 930 m",
+        "lead": "De Signal de Bisanne ligt op 1 930 m boven Les Saisies. De Tour de France klom er in 2016 omhoog — maar stopte 207 m lager, bij het skioord."
+      },
+      "hero_alt": "Signal de Bisanne boven Les Saisies, Beaufortain, Savoie",
+      "how_to_get_there": {
+        "bike": "Twee zeer verschillende flanken: 14,35 km met gemiddeld 8,5 % vanaf Villard-sur-Doron, of 4,35 km met 8,1 % vanaf de Col des Saisies. Eerste beklimming in de Tour de France in 2016, etappe 19, buitencategorie, met de aankomst van het klassement bij het skioord op 1 723 m.",
+        "car": "Boven het skioord Les Saisies, gemeente Hauteluce. Geen enkele geraadpleegde bron vermeldt een wegnummer of een openingsperiode.",
+        "public_transport": null
+      },
+      "meta_description": "Top op 1 930 m boven Les Saisies. De Tour de France 2016 stopte er op 1 723 m, bij het skioord, niet bij de Signal. Twee flanken, 14,35 km of 4,35 km.",
+      "meta_title": "Signal de Bisanne · 1 930 m, klim, Tour de France",
+      "name": "Signal de Bisanne",
+      "name_alternates": [
+        "Montée de Bisanne",
+        "Mont Bisanne"
+      ],
+      "practical_info": [
+        {
+          "k": "Hoogte",
+          "v": "1 930 m. Het skioord, waar de Tour-etappe van 2016 eindigde, ligt op 1 723 m."
+        },
+        {
+          "k": "Coördinaten",
+          "v": null
+        },
+        {
+          "k": "Klim vanaf Villard-sur-Doron",
+          "v": "14,35 km met gemiddeld 8,5 %"
+        },
+        {
+          "k": "Klim vanaf de Col des Saisies",
+          "v": "4,35 km met gemiddeld 8,1 %"
+        },
+        {
+          "k": "Tour de France",
+          "v": "Eerste beklimming in 2016, etappe 19, zuidflank, buitencategorie. Het klassement werd opgemaakt bij het skioord, op 1 723 m."
+        },
+        {
+          "k": "Gemeente",
+          "v": "Hauteluce. Het DATAtourisme-record plaatst de startplaats onder Villard-sur-Doron: geen enkele bron geeft uitsluitsel over de grens op de top."
+        },
+        {
+          "k": "Parapente",
+          "v": "Site geregistreerd bij de FFVL als « Les Saisies (Signal de Bisanne) ». Geen toegangsvoorwaarden aangetroffen."
+        },
+        {
+          "k": "Liften",
+          "v": "Gepresenteerd als het hoogste punt van de liften in het gebied. Er zijn geen exploitatiegegevens van de stoeltjeslift van Bisanne aangetroffen."
+        },
+        {
+          "k": "Tarief",
+          "v": "Gratis, vrije toegang"
+        },
+        {
+          "k": "Parkeren",
+          "v": null
+        },
+        {
+          "k": "Dieren",
+          "v": null
+        },
+        {
+          "k": "Toegankelijkheid",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Uitzichtpunt",
+        "Startplaats parapente"
+      ],
+      "when_to_visit": "<p>Geen enkele geraadpleegde bron publiceert een openingsperiode voor de toegangsweg. De top is een uitzichtpunt over de Beaufortain, per fiets bereikbaar via twee flanken van zeer ongelijke moeilijkheid.</p>"
     }
   },
   "latitude": null,

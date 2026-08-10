@@ -43,6 +43,140 @@
   "hero_credit": "Florian Pépellin · CC BY-SA 4.0 · Wikimedia Commons",
   "hero_image": "/img/telecabines/telecabine-de-champagny-hero.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Vom Gipfel Panorama auf die Gletscher der Vanoise, den Grand Bec und die Grande Casse.",
+          "tag": "Sommer",
+          "title": "Für die Aussicht auf die Vanoise hinauffahren"
+        },
+        {
+          "description": "Der Gipfel ist Ausgangspunkt von Wanderwegen und Mountainbike-Strecken.",
+          "tag": "Sommer",
+          "title": "Zum Wandern oder Mountainbiken aufbrechen"
+        },
+        {
+          "description": "Ein Viererblock für vier Bergfahrten wird für 27 € angeboten, ohne veröffentlichte Gültigkeitsdauer.",
+          "tag": null,
+          "title": "Vier Bergfahrten nehmen"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>Gondelbahn Champagny</strong> erschließt das Höhengebiet oberhalb von Champagny-en-Vanoise, am Rand des Parc national de la Vanoise. Vom Gipfel beschreiben die Quellen ein Panorama auf die Gletscher der Vanoise, den Grand Bec und die Grande Casse — doch keine veröffentlicht die Ankunftshöhe.</p><p>Zwei Einschränkungen bei den Betriebszeiten. Die Bahn ist <strong>samstags geschlossen</strong>, außer an Feiertagen, und sie steht <strong>von 12:45 bis 14 Uhr</strong> still: eine Stunde und Viertelstunde Unterbrechung, die längste, die auf den Seiten dieses Verzeichnisses erfasst wurde.</p><p>Auch ihre Saison weicht vom Rest von La Plagne ab: hier 5. Juli – 28. August, gegenüber 4. Juli – 29. August für die Roche de Mio und Les Glaciers. Ein Tag weniger an jedem Ende, unter derselben Marke.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Kostenpflichtig",
+        "best_season": "Sommer (5. Juli – 28. August 2026)",
+        "commune": "Champagny-en-Vanoise",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Gondelbahn",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Vom 5. Juli bis 28. August 2026, montags, dienstags, mittwochs, donnerstags, freitags, sonntags und an Feiertagen, von 9 bis 12:45 Uhr und von 14 bis 17:40 Uhr.",
+          "q": "Wann fährt die Gondelbahn Champagny im Sommer 2026?"
+        },
+        {
+          "a": "Nein, außer wenn ein Feiertag darauf fällt. Der Samstag ist der einzige ausgeschlossene Wochentag.",
+          "q": "Fährt die Gondelbahn samstags?"
+        },
+        {
+          "a": "Ja, von 12:45 bis 14 Uhr. Das ist eine Stunde und Viertelstunde Stillstand, die längste Unterbrechung, die auf dieser Website erfasst wurde.",
+          "q": "Gibt es eine Mittagspause?"
+        },
+        {
+          "a": "9 € für Erwachsene und 7 € für Kinder bei einer einfachen Bergfahrt, oder 27 € für vier Bergfahrten. Für den Kindertarif ist keine Altersgrenze veröffentlicht, und für den Viererblock ist keine Gültigkeitsdauer angegeben.",
+          "q": "Was kostet die Bergfahrt?"
+        },
+        {
+          "a": "Keine der eingesehenen Quellen veröffentlicht sie, obwohl alle das Panorama vom Gipfel beschreiben.",
+          "q": "Auf welcher Höhe kommt die Gondelbahn an?"
+        }
+      ],
+      "hero": {
+        "badge": "Kostenpflichtig · Samstags geschlossen · Unterbrechung 12:45–14 Uhr",
+        "lead": "Die Gondelbahn Champagny erschließt das Höhengebiet am Rand der Vanoise. Samstags geschlossen, mittags eine Stunde und Viertelstunde Stillstand."
+      },
+      "hero_alt": "Gondelbahn Champagny, Champagny-en-Vanoise, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Talstation in Champagny-en-Vanoise. Veröffentlichter Kontakt: 04 79 55 06 55, info.champagny@la-plagne.com.",
+        "public_transport": null
+      },
+      "meta_description": "Gondelbahn Champagny-en-Vanoise, am Rand der Vanoise. Sommer 2026: 5. Juli – 28. August, samstags geschlossen, Unterbrechung von 12:45 bis 14 Uhr. Bergfahrt 9 €.",
+      "meta_title": "Gondelbahn Champagny · Betriebszeiten und Preise Sommer 2026",
+      "name": "Gondelbahn Champagny",
+      "name_alternates": [
+        "Champagny gondola",
+        "Télécabine de Champagny-en-Vanoise"
+      ],
+      "practical_info": [
+        {
+          "k": "Typ",
+          "v": "Kuppelbare Gondelbahn mit 8 bis 10 Plätzen (TCD8/10, Poma). Die Kapazität im Betrieb wird von keiner Quelle des Betreibers genannt."
+        },
+        {
+          "k": "Ankunftshöhe",
+          "v": null
+        },
+        {
+          "k": "Sommer 2026",
+          "v": "Vom 5. Juli bis 28. August 2026. Ein Tag später und ein Tag früher als die Roche de Mio und Les Glaciers, unter derselben Marke.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Betriebstage",
+          "v": "Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Sonntag und Feiertage. Samstags geschlossen, außer an Feiertagen.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Betriebszeiten",
+          "v": "9–12:45 Uhr und 14–17:40 Uhr. Mittagsunterbrechung von 1 Stunde 15 Minuten.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Preise",
+          "v": "Einfache Bergfahrt 9 € Erwachsene, 7 € Kinder · vier Bergfahrten 27 €. Weder Altersgrenze noch Gültigkeitsdauer veröffentlicht."
+        },
+        {
+          "k": "Koordinaten",
+          "v": "45.456202° N, 6.693066° E (DATAtourisme-Datensatz)"
+        },
+        {
+          "k": "Am Gipfel",
+          "v": "Panorama auf die Gletscher der Vanoise, den Grand Bec und die Grande Casse; Ausgangspunkt von Wanderwegen und Mountainbike-Strecken"
+        },
+        {
+          "k": "Kontakt",
+          "v": "04 79 55 06 55 · info.champagny@la-plagne.com"
+        },
+        {
+          "k": "Fahrtdauer",
+          "v": null
+        },
+        {
+          "k": "Tiere",
+          "v": null
+        },
+        {
+          "k": "Barrierefreiheit",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Gondelbahn",
+        "Aussichtspunkt",
+        "Ausgangspunkt für Wanderungen"
+      ],
+      "when_to_visit": "<p>Vom 5. Juli bis 28. August 2026, täglich außer samstags (Feiertage ausgenommen). Die Unterbrechung von 12:45 bis 14 Uhr einplanen: Das ist eine Stunde und Viertelstunde, keine kurze Betriebspause.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -173,6 +307,140 @@
         "Trailhead"
       ],
       "when_to_visit": "<p>5 July to 28 August 2026, every day except Saturday outside public holidays. Allow for the 12:45–14:00 break: that is an hour and a quarter, not a short pause.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "Desde la cima, panorama sobre los glaciares de la Vanoise, el Grand Bec y la Grande Casse.",
+          "tag": "Verano",
+          "title": "Subir por la vista sobre la Vanoise"
+        },
+        {
+          "description": "La cima es punto de partida de senderos de excursionismo e itinerarios de BTT.",
+          "tag": "Verano",
+          "title": "Salir de excursión o en BTT"
+        },
+        {
+          "description": "Se ofrece un bono de cuatro subidas a 27 €, sin periodo de validez publicado.",
+          "tag": null,
+          "title": "Comprar cuatro subidas"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>Telecabina de Champagny</strong> da servicio al dominio de altura situado por encima de Champagny-en-Vanoise, a las puertas del Parc national de la Vanoise. Desde la cima, las fuentes describen un panorama sobre los glaciares de la Vanoise, el Grand Bec y la Grande Casse, pero ninguna publica la altitud de llegada.</p><p>Dos limitaciones de horario. La instalación está <strong>cerrada los sábados</strong>, salvo festivos, y se detiene <strong>de 12h45 a 14h</strong>: una hora y cuarto de interrupción, la más larga registrada en las fichas de este repertorio.</p><p>Su temporada también está desfasada respecto al resto de La Plagne: del 5 de julio al 28 de agosto aquí, frente al 4 de julio – 29 de agosto de la Roche de Mio y Les Glaciers. Un día menos en cada extremo, bajo la misma marca.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "De pago",
+        "best_season": "Verano (5 de julio – 28 de agosto de 2026)",
+        "commune": "Champagny-en-Vanoise",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Telecabina",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Del 5 de julio al 28 de agosto de 2026, los lunes, martes, miércoles, jueves, viernes, domingos y festivos, de 9h a 12h45 y de 14h a 17h40.",
+          "q": "¿Cuándo funciona la Telecabina de Champagny en verano de 2026?"
+        },
+        {
+          "a": "No, salvo que coincida con un festivo. El sábado es el único día de la semana excluido.",
+          "q": "¿Funciona la telecabina los sábados?"
+        },
+        {
+          "a": "Sí, de 12h45 a 14h. Es una parada de una hora y cuarto, la interrupción más larga registrada en este sitio.",
+          "q": "¿Hay una interrupción a mediodía?"
+        },
+        {
+          "a": "9 € por adulto y 7 € por niño en subida sencilla, o 27 € las cuatro subidas. No se publica ningún tramo de edad para la tarifa infantil, y el bono no tiene periodo de validez anunciado.",
+          "q": "¿Cuánto cuesta la subida?"
+        },
+        {
+          "a": "Ninguna fuente consultada la publica, aunque todas describen el panorama desde la cima.",
+          "q": "¿A qué altitud llega la telecabina?"
+        }
+      ],
+      "hero": {
+        "badge": "De pago · Cerrada los sábados · Interrupción 12h45–14h",
+        "lead": "La Telecabina de Champagny abre el dominio de altura a las puertas de la Vanoise. Cerrada los sábados, y detenida una hora y cuarto a mediodía."
+      },
+      "hero_alt": "Telecabina de Champagny, Champagny-en-Vanoise, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Estación de salida en Champagny-en-Vanoise. Contacto publicado: 04 79 55 06 55, info.champagny@la-plagne.com.",
+        "public_transport": null
+      },
+      "meta_description": "Telecabina de Champagny-en-Vanoise, a las puertas de la Vanoise. Verano 2026: 5 de julio – 28 de agosto, cerrada los sábados, interrupción de 12h45 a 14h. Subida 9 €.",
+      "meta_title": "Telecabina de Champagny · Horarios y tarifas verano 2026",
+      "name": "Telecabina de Champagny",
+      "name_alternates": [
+        "Champagny gondola",
+        "Télécabine de Champagny-en-Vanoise"
+      ],
+      "practical_info": [
+        {
+          "k": "Tipo",
+          "v": "Telecabina desembragable de 8 a 10 plazas (TCD8/10, Poma). Ninguna fuente del operador precisa la capacidad en servicio."
+        },
+        {
+          "k": "Altitud de llegada",
+          "v": null
+        },
+        {
+          "k": "Verano 2026",
+          "v": "Del 5 de julio al 28 de agosto de 2026. Un día más tarde y un día más temprano que la Roche de Mio y Les Glaciers, bajo la misma marca.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Días de apertura",
+          "v": "Lunes, martes, miércoles, jueves, viernes, domingos y festivos. Cerrada los sábados salvo festivos.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Horarios",
+          "v": "9h–12h45 y 14h–17h40. Interrupción de mediodía de 1h15.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Tarifas",
+          "v": "Subida sencilla 9 € adulto, 7 € niño · cuatro subidas 27 €. No se publica ningún tramo de edad ni periodo de validez."
+        },
+        {
+          "k": "Coordenadas",
+          "v": "45.456202° N, 6.693066° E (ficha DATAtourisme)"
+        },
+        {
+          "k": "En la cima",
+          "v": "Panorama sobre los glaciares de la Vanoise, el Grand Bec y la Grande Casse; salida de senderos de excursionismo e itinerarios de BTT"
+        },
+        {
+          "k": "Contacto",
+          "v": "04 79 55 06 55 · info.champagny@la-plagne.com"
+        },
+        {
+          "k": "Duración del trayecto",
+          "v": null
+        },
+        {
+          "k": "Animales",
+          "v": null
+        },
+        {
+          "k": "Accesibilidad",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Telecabina",
+        "Mirador",
+        "Salida de excursiones"
+      ],
+      "when_to_visit": "<p>Del 5 de julio al 28 de agosto de 2026, todos los días salvo los sábados no festivos. Hay que contar con la interrupción de 12h45 a 14h: es una hora y cuarto, no una simple pausa de mediodía.</p>"
     },
     "fr": {
       "activities": [
@@ -307,6 +575,274 @@
         "Départ de randonnées"
       ],
       "when_to_visit": "<p>Du 5 juillet au 28 août 2026, tous les jours sauf le samedi hors jour férié. Prévoir la coupure de 12h45 à 14h : c'est une heure et quart, pas une pause déjeuner d'appareil.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Dalla cima, panorama sui ghiacciai della Vanoise, il Grand Bec e la Grande Casse.",
+          "tag": "Estate",
+          "title": "Salire per la vista sulla Vanoise"
+        },
+        {
+          "description": "La cima è un punto di partenza di sentieri escursionistici e itinerari per mountain bike.",
+          "tag": "Estate",
+          "title": "Partire in escursione o in mountain bike"
+        },
+        {
+          "description": "Un carnet di quattro salite è proposto a 27 €, senza durata di validità pubblicata.",
+          "tag": null,
+          "title": "Acquistare quattro salite"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>Cabinovia di Champagny</strong> serve il comprensorio in quota sopra Champagny-en-Vanoise, alle porte del parc national de la Vanoise. Dalla cima, le fonti descrivono un panorama sui ghiacciai della Vanoise, il Grand Bec e la Grande Casse — ma nessuna pubblica l'altitudine di arrivo.</p><p>Due vincoli di orario. L'impianto è <strong>chiuso il sabato</strong>, salvo giorni festivi, e si ferma <strong>dalle 12h45 alle 14h</strong>: un'ora e un quarto di interruzione, la più lunga rilevata sulle schede di questo archivio.</p><p>Anche la sua stagione è sfalsata rispetto al resto di La Plagne: 5 luglio – 28 agosto qui, contro 4 luglio – 29 agosto per la Roche de Mio e i Glaciers. Un giorno in meno a ciascuna estremità, sotto lo stesso marchio.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "A pagamento",
+        "best_season": "Estate (5 luglio – 28 agosto 2026)",
+        "commune": "Champagny-en-Vanoise",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Cabinovia",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Dal 5 luglio al 28 agosto 2026, il lunedì, martedì, mercoledì, giovedì, venerdì, la domenica e i giorni festivi, dalle 9h alle 12h45 e poi dalle 14h alle 17h40.",
+          "q": "Quando funziona la cabinovia di Champagny nell'estate 2026?"
+        },
+        {
+          "a": "No, salvo che cada in un giorno festivo. Il sabato è l'unico giorno della settimana escluso.",
+          "q": "La cabinovia funziona il sabato?"
+        },
+        {
+          "a": "Sì, dalle 12h45 alle 14h. È un'ora e un quarto di fermo, l'interruzione più lunga rilevata su questo sito.",
+          "q": "C'è un'interruzione a metà giornata?"
+        },
+        {
+          "a": "9 € per un adulto e 7 € per un bambino in salita singola, oppure 27 € per quattro salite. Nessuna fascia di età è pubblicata per la tariffa bambino, e il carnet non ha una durata di validità annunciata.",
+          "q": "Quanto costa la salita?"
+        },
+        {
+          "a": "Nessuna fonte consultata la pubblica, mentre tutte descrivono il panorama dalla cima.",
+          "q": "A quale altitudine arriva la cabinovia?"
+        }
+      ],
+      "hero": {
+        "badge": "A pagamento · Chiusa il sabato · Interruzione 12h45–14h",
+        "lead": "La cabinovia di Champagny apre il comprensorio in quota alle porte della Vanoise. Chiusa il sabato, e ferma un'ora e un quarto a mezzogiorno."
+      },
+      "hero_alt": "Télécabine de Champagny, Champagny-en-Vanoise, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Stazione di partenza a Champagny-en-Vanoise. Contatto pubblicato: 04 79 55 06 55, info.champagny@la-plagne.com.",
+        "public_transport": null
+      },
+      "meta_description": "Cabinovia di Champagny-en-Vanoise, alle porte della Vanoise. Estate 2026: 5 luglio – 28 agosto, chiusa il sabato, interruzione dalle 12h45 alle 14h. Salita 9 €.",
+      "meta_title": "Télécabine de Champagny · Orari e tariffe estate 2026",
+      "name": "Télécabine de Champagny",
+      "name_alternates": [
+        "Champagny gondola",
+        "Télécabine de Champagny-en-Vanoise"
+      ],
+      "practical_info": [
+        {
+          "k": "Tipo",
+          "v": "Cabinovia ad ammorsamento automatico da 8 a 10 posti (TCD8/10, Poma). La capacità in servizio non è precisata da alcuna fonte del gestore."
+        },
+        {
+          "k": "Altitudine di arrivo",
+          "v": null
+        },
+        {
+          "k": "Estate 2026",
+          "v": "Dal 5 luglio al 28 agosto 2026. Un giorno più tardi e un giorno più presto rispetto alla Roche de Mio e ai Glaciers, sotto lo stesso marchio.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Giorni di apertura",
+          "v": "Lunedì, martedì, mercoledì, giovedì, venerdì, domenica e giorni festivi. Chiusa il sabato non festivo.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Orari",
+          "v": "9h–12h45 e 14h–17h40. Interruzione di metà giornata di 1h15.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Tariffe",
+          "v": "Salita singola 9 € adulto, 7 € bambino · quattro salite 27 €. Nessuna fascia di età né durata di validità pubblicata."
+        },
+        {
+          "k": "Coordinate",
+          "v": "45.456202° N, 6.693066° E (scheda DATAtourisme)"
+        },
+        {
+          "k": "In cima",
+          "v": "Panorama sui ghiacciai della Vanoise, il Grand Bec e la Grande Casse; partenza di sentieri escursionistici e itinerari per mountain bike"
+        },
+        {
+          "k": "Contatto",
+          "v": "04 79 55 06 55 · info.champagny@la-plagne.com"
+        },
+        {
+          "k": "Durata del tragitto",
+          "v": null
+        },
+        {
+          "k": "Animali",
+          "v": null
+        },
+        {
+          "k": "Accessibilità",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Cabinovia",
+        "Punto panoramico",
+        "Partenza di escursioni"
+      ],
+      "when_to_visit": "<p>Dal 5 luglio al 28 agosto 2026, tutti i giorni salvo il sabato non festivo. Tenere conto dell'interruzione dalle 12h45 alle 14h: è un'ora e un quarto, non una semplice pausa pranzo dell'impianto.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Vanaf de top een panorama over de gletsjers van de Vanoise, de Grand Bec en de Grande Casse.",
+          "tag": "Zomer",
+          "title": "Omhoog voor het uitzicht op de Vanoise"
+        },
+        {
+          "description": "De top is een vertrekpunt van wandelpaden en mountainbikeroutes.",
+          "tag": "Zomer",
+          "title": "Vertrekken voor een wandeling of mountainbiketocht"
+        },
+        {
+          "description": "Er wordt een carnet van vier ritten omhoog aangeboden voor 27 €, zonder gepubliceerde geldigheidsduur.",
+          "tag": null,
+          "title": "Vier ritten omhoog nemen"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>gondelbaan van Champagny</strong> ontsluit het hooggelegen gebied boven Champagny-en-Vanoise, aan de poorten van het Parc national de la Vanoise. Vanaf de top beschrijven de bronnen een panorama over de gletsjers van de Vanoise, de Grand Bec en de Grande Casse — maar geen enkele publiceert de aankomsthoogte.</p><p>Twee beperkingen in de openingstijden. De installatie is <strong>op zaterdag gesloten</strong>, behalve op feestdagen, en staat stil <strong>van 12h45 tot 14h</strong>: vijf kwartier onderbreking, de langste die op de fiches van dit archief is aangetroffen.</p><p>Ook het seizoen wijkt af van de rest van La Plagne: 5 juli – 28 augustus hier, tegenover 4 juli – 29 augustus voor de Roche de Mio en Les Glaciers. Een dag minder aan elk uiteinde, onder hetzelfde merk.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Betaald",
+        "best_season": "Zomer (5 juli – 28 augustus 2026)",
+        "commune": "Champagny-en-Vanoise",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Gondelbaan",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Van 5 juli tot 28 augustus 2026, op maandag, dinsdag, woensdag, donderdag, vrijdag, zondag en feestdagen, van 9h tot 12h45 en van 14h tot 17h40.",
+          "q": "Wanneer draait de gondelbaan van Champagny in de zomer van 2026?"
+        },
+        {
+          "a": "Nee, behalve als er een feestdag op valt. Zaterdag is de enige uitgesloten weekdag.",
+          "q": "Draait de gondelbaan op zaterdag?"
+        },
+        {
+          "a": "Ja, van 12h45 tot 14h. Dat is vijf kwartier stilstand, de langste onderbreking die op deze site is aangetroffen.",
+          "q": "Is er een onderbreking midden op de dag?"
+        },
+        {
+          "a": "9 € voor een volwassene en 7 € voor een kind voor een enkele rit omhoog, of 27 € voor vier ritten. Er is geen leeftijdsgrens gepubliceerd voor het kindertarief, en het carnet heeft geen aangekondigde geldigheidsduur.",
+          "q": "Hoeveel kost de rit omhoog?"
+        },
+        {
+          "a": "Geen enkele geraadpleegde bron publiceert die, terwijl ze allemaal het panorama vanaf de top beschrijven.",
+          "q": "Op welke hoogte komt de gondelbaan aan?"
+        }
+      ],
+      "hero": {
+        "badge": "Betaald · Zaterdag gesloten · Onderbreking 12h45–14h",
+        "lead": "De gondelbaan van Champagny ontsluit het hooggelegen gebied aan de poorten van de Vanoise. Op zaterdag gesloten, en midden op de dag vijf kwartier stilgelegd."
+      },
+      "hero_alt": "Gondelbaan Champagny, Champagny-en-Vanoise, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Dalstation in Champagny-en-Vanoise. Gepubliceerd contact: 04 79 55 06 55, info.champagny@la-plagne.com.",
+        "public_transport": null
+      },
+      "meta_description": "Gondelbaan van Champagny-en-Vanoise, aan de poorten van de Vanoise. Zomer 2026: 5 juli – 28 augustus, zaterdag gesloten, onderbreking van 12h45 tot 14h. Rit omhoog 9 €.",
+      "meta_title": "Gondelbaan Champagny · Openingstijden en tarieven zomer 2026",
+      "name": "Gondelbaan Champagny",
+      "name_alternates": [
+        "Champagny gondola",
+        "Télécabine de Champagny-en-Vanoise"
+      ],
+      "practical_info": [
+        {
+          "k": "Type",
+          "v": "Ontkoppelbare gondelbaan met 8 tot 10 plaatsen (TCD8/10, Poma). Geen enkele bron van de exploitant vermeldt de capaciteit in bedrijf."
+        },
+        {
+          "k": "Aankomsthoogte",
+          "v": null
+        },
+        {
+          "k": "Zomer 2026",
+          "v": "Van 5 juli tot 28 augustus 2026. Een dag later en een dag eerder dan de Roche de Mio en Les Glaciers, onder hetzelfde merk.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Openingsdagen",
+          "v": "Maandag, dinsdag, woensdag, donderdag, vrijdag, zondag en feestdagen. Zaterdag gesloten, behalve op feestdagen.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Openingstijden",
+          "v": "9h–12h45 en 14h–17h40. Middagonderbreking van 1h15.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Tarieven",
+          "v": "Enkele rit omhoog 9 € volwassene, 7 € kind · vier ritten 27 €. Geen leeftijdsgrens of geldigheidsduur gepubliceerd."
+        },
+        {
+          "k": "Coördinaten",
+          "v": "45.456202° N, 6.693066° E (DATAtourisme-record)"
+        },
+        {
+          "k": "Op de top",
+          "v": "Panorama over de gletsjers van de Vanoise, de Grand Bec en de Grande Casse; vertrekpunt van wandelpaden en mountainbikeroutes"
+        },
+        {
+          "k": "Contact",
+          "v": "04 79 55 06 55 · info.champagny@la-plagne.com"
+        },
+        {
+          "k": "Reisduur",
+          "v": null
+        },
+        {
+          "k": "Dieren",
+          "v": null
+        },
+        {
+          "k": "Toegankelijkheid",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Gondelbaan",
+        "Uitzichtpunt",
+        "Vertrekpunt van wandelingen"
+      ],
+      "when_to_visit": "<p>Van 5 juli tot 28 augustus 2026, dagelijks behalve op zaterdag buiten feestdagen. Houd rekening met de onderbreking van 12h45 tot 14h: dat is vijf kwartier, geen korte lunchpauze van de installatie.</p>"
     }
   },
   "latitude": 45.456202,

@@ -37,6 +37,134 @@
   "hero_credit": "Arlyn Asch from San Diego · CC BY 2.0 · Wikimedia Commons",
   "hero_image": "/img/points-de-vue/col-du-mollard-hero.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "45 Kehren auf rund 12 km, mit je nach Quelle 6 oder 7 % durchschnittlicher Steigung, unterhalb der Aiguilles d'Arves.",
+          "tag": null,
+          "title": "Die 45 Kehren hinauffahren"
+        },
+        {
+          "description": "Eine Rundtour führt über den Col de la Confrérie bei Albiez-le-Jeune, auf einer wenig befahrenen Straße.",
+          "tag": null,
+          "title": "Rundtour über den Col de la Confrérie"
+        },
+        {
+          "description": "Ein Brunnen am Pass erlaubt es, die Trinkflaschen vor der Abfahrt über die von den Radfahrern so genannte Route de l'Opinel aufzufüllen.",
+          "tag": null,
+          "title": "Am Pass auffüllen vor der Abfahrt"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Der <strong>Col du Mollard</strong> wird von Maurienne Tourisme mit 1 638 m angegeben, von cols-cyclisme mit 1 630 m. Er öffnet sich zum Weiler Le Mollard, dem oberen Teil des Dorfes Albiez-Montrond, unterhalb der Aiguilles d'Arves.</p><p>Sein Ruf beruht auf seinen <strong>45 Kehren</strong> — eine Zahl, die sich nur auf eine einzige Quellenfamilie stützt und die keine der konsultierten unabhängigen Seiten nachgezählt hat. Der Anstieg misst rund 12 km mit 6 oder 7 % durchschnittlicher Steigung; die Spanne legt nahe, dass die Quellen zwei Auffahrten zusammenfassen.</p><p>Direkt neben dem Pass liegt ein See, und die Quellen schreiben, dass man darin baden kann. Keine erwähnt Aufsicht, Saison oder Wasserqualität: Diese Fiche verzeichnet den See, keine überwachte Badestelle.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Frei zugänglich · Kostenlos",
+        "best_season": null,
+        "commune": "Albiez-Montrond",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Straßenpass und Aussichtspunkt",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Zwei Zahlen: 1 638 m bei Maurienne Tourisme, 1 630 m bei cols-cyclisme. Acht Meter Unterschied, nicht entschieden.",
+          "q": "Wie hoch liegt der Col du Mollard?"
+        },
+        {
+          "a": "Die Quellen nennen 45 Kehren. Die Zahl stammt nur aus einer Familie von Seiten und wurde von keiner konsultierten unabhängigen Quelle nachgezählt.",
+          "q": "Wie viele Kehren hat der Anstieg?"
+        },
+        {
+          "a": "Neben dem Pass liegt ein See, und die Quellen schreiben, dass man darin baden kann; keine erwähnt jedoch Aufsicht, Saison oder eine Kontrolle der Wasserqualität. Nichts erlaubt es, ihn als ausgewiesene Badestelle anzukündigen.",
+          "q": "Kann man am Pass baden?"
+        },
+        {
+          "a": "Keine der konsultierten Quellen veröffentlicht Öffnungs- oder Sperrzeiten der Straße.",
+          "q": "Ist die Passstraße ganzjährig geöffnet?"
+        },
+        {
+          "a": "Durchfahrten werden für 2006, 2012 und 2015 von Sekundärquellen gemeldet, ohne Bestätigung durch eine offizielle Quelle.",
+          "q": "Ist die Tour de France über den Col du Mollard gefahren?"
+        }
+      ],
+      "hero": {
+        "badge": "Freier Zugang · 45 Kehren",
+        "lead": "Der Col du Mollard öffnet sich zum gleichnamigen Weiler oberhalb von Albiez-Montrond, unterhalb der Aiguilles d'Arves. Fünfundvierzig Kehren, laut einer Quelle, die niemand gegenprüft."
+      },
+      "hero_alt": "Col du Mollard oberhalb von Albiez-Montrond, Maurienne, Savoie",
+      "how_to_get_there": {
+        "bike": "Rund 12 km mit 6 oder 7 % durchschnittlicher Steigung und 45 Kehren. Die Spanne bei der Steigung legt nahe, dass die Quellen mehrere Auffahrten zusammenfassen: Anstieg von Saint-Jean-de-Maurienne, über Albiez-Montrond oder über Albiez-le-Jeune und den Col de la Confrérie.",
+        "car": "Über Albiez-Montrond vom Tal des Arc aus. Keine der konsultierten Quellen nennt eine Straßennummer oder Öffnungszeiten.",
+        "public_transport": null
+      },
+      "meta_description": "Pass auf 1 638 m oberhalb von Albiez-Montrond, bekannt für seine 45 Kehren. Ein See und ein Brunnen am Pass; eine überwachte Badestelle ist nicht dokumentiert.",
+      "meta_title": "Col du Mollard · 45 Kehren, Höhe, Anfahrt",
+      "name": "Col du Mollard",
+      "name_alternates": [
+        "Le Mollard",
+        "Col du Mollard (Albiez-Montrond)"
+      ],
+      "practical_info": [
+        {
+          "k": "Höhe",
+          "v": "1 638 m (Maurienne Tourisme) · 1 630 m (cols-cyclisme). Zwei Zahlen, nicht entschieden."
+        },
+        {
+          "k": "Koordinaten",
+          "v": null
+        },
+        {
+          "k": "Kehren",
+          "v": "45, eine Zahl aus einer einzigen Quellenfamilie, nicht gegengeprüft"
+        },
+        {
+          "k": "Anstieg",
+          "v": "Rund 12 km, je nach Quelle 6 bis 7 % durchschnittliche Steigung"
+        },
+        {
+          "k": "Lage",
+          "v": "Tor zum Weiler Le Mollard, oberer Teil von Albiez-Montrond, unterhalb der Aiguilles d'Arves"
+        },
+        {
+          "k": "Am Pass",
+          "v": "Ein See und ein Brunnen. Die Quellen erwähnen das Baden, ohne Aufsicht, Saison oder Wasserqualität zu nennen."
+        },
+        {
+          "k": "Öffnung",
+          "v": null
+        },
+        {
+          "k": "Preis",
+          "v": "Kostenlos, freier Zugang"
+        },
+        {
+          "k": "Tour de France",
+          "v": "Durchfahrten gemeldet für 2006, 2012 und 2015 (Sekundärquellen)"
+        },
+        {
+          "k": "Parkplatz",
+          "v": null
+        },
+        {
+          "k": "Haustiere",
+          "v": null
+        },
+        {
+          "k": "Barrierefreiheit",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "See",
+        "Brunnen",
+        "Aussichtspunkt"
+      ],
+      "when_to_visit": "<p>Keine der konsultierten Quellen veröffentlicht Öffnungszeiten. Auf 1 638 m ist die Straße vermutlich vom Schnee betroffen, dokumentiert ist jedoch nichts: vor einer Auffahrt außerhalb der Saison den Zustand prüfen.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -165,6 +293,134 @@
       ],
       "when_to_visit": "<p>No source consulted publishes an opening period. At 1,638 m the road is likely affected by snow, but nothing is documented: check before going up out of season.</p>"
     },
+    "es": {
+      "activities": [
+        {
+          "description": "45 curvas de herradura en unos 12 km, al 6 o 7 % de media según las fuentes, bajo las Aiguilles d'Arves.",
+          "tag": null,
+          "title": "Subir los 45 lacets"
+        },
+        {
+          "description": "Un circuito pasa por el col de la Confrérie, en Albiez-le-Jeune, por una carretera poco frecuentada.",
+          "tag": null,
+          "title": "Cerrar el circuito por el col de la Confrérie"
+        },
+        {
+          "description": "Una fuente en el col permite llenar los bidones antes del descenso por lo que los ciclistas llaman la route de l'Opinel.",
+          "tag": null,
+          "title": "Llenar los bidones en el col antes del descenso"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>col du Mollard</strong> figura a 1 638 m según Maurienne Tourisme y a 1 630 m según cols-cyclisme. Abre sobre la aldea del Mollard, parte alta del pueblo de Albiez-Montrond, bajo las Aiguilles d'Arves.</p><p>Su reputación se debe a sus <strong>45 curvas de herradura</strong> — una cifra que solo se apoya en una única familia de fuentes y que ninguna página independiente consultada recuenta. La subida suma unos 12 km al 6 o 7 % de media, una horquilla que sugiere que las fuentes agregan dos vertientes.</p><p>Un lago se encuentra justo al lado del col y las fuentes escriben que uno puede bañarse en él. Ninguna menciona vigilancia, temporada ni calidad del agua: la ficha señala el lago, no un baño supervisado.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Acceso libre · Gratuito",
+        "best_season": null,
+        "commune": "Albiez-Montrond",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Col de carretera y mirador",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Dos cifras: 1 638 m en Maurienne Tourisme, 1 630 m en cols-cyclisme. Ocho metros de diferencia, sin arbitrar.",
+          "q": "¿Cuál es la altitud del col du Mollard?"
+        },
+        {
+          "a": "Las fuentes anuncian 45 curvas de herradura. La cifra solo procede de una familia de páginas y no ha sido recontada por ninguna fuente independiente consultada.",
+          "q": "¿Cuántas curvas de herradura tiene la subida?"
+        },
+        {
+          "a": "Un lago se encuentra al lado del col y las fuentes escriben que uno puede bañarse en él, pero ninguna menciona vigilancia, temporada ni control de la calidad del agua. Nada permite anunciarlo como una zona de baño acondicionada.",
+          "q": "¿Se puede uno bañar en el col?"
+        },
+        {
+          "a": "Ninguna fuente consultada publica un periodo de apertura o de cierre de la carretera.",
+          "q": "¿Está abierta la carretera del col todo el año?"
+        },
+        {
+          "a": "Fuentes secundarias señalan pasos en 2006, 2012 y 2015, no confirmados por una fuente oficial.",
+          "q": "¿Ha pasado el Tour de Francia por el col du Mollard?"
+        }
+      ],
+      "hero": {
+        "badge": "Acceso libre · 45 lacets",
+        "lead": "El col du Mollard abre sobre la aldea del mismo nombre, encima de Albiez-Montrond, bajo las Aiguilles d'Arves. Cuarenta y cinco curvas de herradura, según una fuente que nadie contrasta."
+      },
+      "hero_alt": "Col du Mollard sobre Albiez-Montrond, Maurienne, Savoie",
+      "how_to_get_there": {
+        "bike": "Unos 12 km al 6 o 7 % de media y 45 curvas de herradura. La horquilla de pendiente sugiere que las fuentes agregan varias vertientes: subida desde Saint-Jean-de-Maurienne, por Albiez-Montrond o vía Albiez-le-Jeune y el col de la Confrérie.",
+        "car": "Por Albiez-Montrond desde el valle del Arc. Ninguna fuente consultada da un número de carretera ni un periodo de apertura.",
+        "public_transport": null
+      },
+      "meta_description": "Col a 1 638 m sobre Albiez-Montrond, conocido por sus 45 curvas de herradura. Un lago y una fuente en el col; no se documenta ningún baño supervisado.",
+      "meta_title": "Col du Mollard · 45 lacets, altitud, acceso",
+      "name": "Col du Mollard",
+      "name_alternates": [
+        "Le Mollard",
+        "Col du Mollard (Albiez-Montrond)"
+      ],
+      "practical_info": [
+        {
+          "k": "Altitud",
+          "v": "1 638 m (Maurienne Tourisme) · 1 630 m (cols-cyclisme). Dos cifras, sin arbitrar."
+        },
+        {
+          "k": "Coordenadas",
+          "v": null
+        },
+        {
+          "k": "Curvas de herradura",
+          "v": "45, cifra procedente de una sola familia de fuentes y sin contrastar"
+        },
+        {
+          "k": "Subida",
+          "v": "Unos 12 km, del 6 al 7 % de media según las fuentes"
+        },
+        {
+          "k": "Situación",
+          "v": "Puerta de la aldea del Mollard, parte alta de Albiez-Montrond, bajo las Aiguilles d'Arves"
+        },
+        {
+          "k": "En el col",
+          "v": "Un lago y una fuente. Las fuentes evocan el baño sin mencionar vigilancia, temporada ni calidad del agua."
+        },
+        {
+          "k": "Apertura",
+          "v": null
+        },
+        {
+          "k": "Tarifa",
+          "v": "Gratuito, acceso libre"
+        },
+        {
+          "k": "Tour de Francia",
+          "v": "Pasos señalados en 2006, 2012 y 2015 (fuentes secundarias)"
+        },
+        {
+          "k": "Aparcamiento",
+          "v": null
+        },
+        {
+          "k": "Animales",
+          "v": null
+        },
+        {
+          "k": "Accesibilidad",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Lago",
+        "Fuente",
+        "Mirador"
+      ],
+      "when_to_visit": "<p>Ninguna fuente consultada publica un periodo de apertura. A 1 638 m, la carretera se ve verosímilmente afectada por la nieve, pero nada está documentado: comprobar antes de subir fuera de temporada.</p>"
+    },
     "fr": {
       "activities": [
         {
@@ -193,9 +449,14 @@
         "commune": "Albiez-Montrond",
         "dogs": null,
         "parking": null,
+        "snow_view": "alpes",
         "stroller": null,
         "type": "Col routier et point de vue",
-        "winter_access": null
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin",
+          "luge"
+        ]
       },
       "faq": [
         {
@@ -292,6 +553,262 @@
         "Point de vue"
       ],
       "when_to_visit": "<p>Aucune source consultée ne publie de période d'ouverture. À 1 638 m, la route est vraisemblablement concernée par l'enneigement, mais rien n'est documenté : vérifier avant de monter hors saison.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "45 tornanti su circa 12 km, al 6 o 7 % di media a seconda delle fonti, sotto le Aiguilles d'Arves.",
+          "tag": null,
+          "title": "Salire i 45 tornanti"
+        },
+        {
+          "description": "Un anello passa per il col de la Confrérie, ad Albiez-le-Jeune, su una strada poco frequentata.",
+          "tag": null,
+          "title": "Chiudere l'anello per il col de la Confrérie"
+        },
+        {
+          "description": "Una fontana al colle permette di riempire le borracce prima della discesa lungo quella che i ciclisti chiamano la route de l'Opinel.",
+          "tag": null,
+          "title": "Riempire le borracce al colle prima della discesa"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Il <strong>col du Mollard</strong> è indicato a 1 638 m da Maurienne Tourisme e a 1 630 m da cols-cyclisme. Si apre sulla frazione del Mollard, parte alta del villaggio di Albiez-Montrond, sotto le Aiguilles d'Arves.</p><p>La sua reputazione si deve ai suoi <strong>45 tornanti</strong> — una cifra che poggia su una sola famiglia di fonti e che nessuna pagina indipendente consultata riconta. La salita misura circa 12 km al 6 o 7 % di media, forchetta che suggerisce che le fonti aggregano due versanti.</p><p>Un lago si trova proprio accanto al colle e le fonti scrivono che ci si può fare il bagno. Nessuna menziona sorveglianza, stagione né qualità dell'acqua: la scheda segnala il lago, non una balneazione regolamentata.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Libero · Gratuito",
+        "best_season": null,
+        "commune": "Albiez-Montrond",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Colle stradale e punto panoramico",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Due cifre: 1 638 m per Maurienne Tourisme, 1 630 m su cols-cyclisme. Otto metri di differenza, non arbitrati.",
+          "q": "Qual è l'altitudine del col du Mollard?"
+        },
+        {
+          "a": "Le fonti annunciano 45 tornanti. La cifra proviene da una sola famiglia di pagine e non è stata ricontata da alcuna fonte indipendente consultata.",
+          "q": "Quanti tornanti conta la salita?"
+        },
+        {
+          "a": "Un lago si trova accanto al colle e le fonti scrivono che ci si può fare il bagno, ma nessuna menziona sorveglianza, stagione né controllo della qualità dell'acqua. Nulla permette di annunciarlo come una balneazione attrezzata.",
+          "q": "Ci si può fare il bagno al colle?"
+        },
+        {
+          "a": "Nessuna fonte consultata pubblica un periodo di apertura o di chiusura della strada.",
+          "q": "La strada del colle è aperta tutto l'anno?"
+        },
+        {
+          "a": "Passaggi sono segnalati nel 2006, 2012 e 2015 da fonti secondarie, non confermati da una fonte ufficiale.",
+          "q": "Il Tour de France è passato al col du Mollard?"
+        }
+      ],
+      "hero": {
+        "badge": "Accesso libero · 45 tornanti",
+        "lead": "Il col du Mollard si apre sulla frazione omonima, sopra Albiez-Montrond, sotto le Aiguilles d'Arves. Quarantacinque tornanti, secondo una fonte che nessuno verifica in modo incrociato."
+      },
+      "hero_alt": "Col du Mollard sopra Albiez-Montrond, Maurienne, Savoie",
+      "how_to_get_there": {
+        "bike": "Circa 12 km al 6 o 7 % di media e 45 tornanti. La forchetta di pendenza suggerisce che le fonti aggregano più versanti: salita da Saint-Jean-de-Maurienne, per Albiez-Montrond o via Albiez-le-Jeune e il col de la Confrérie.",
+        "car": "Per Albiez-Montrond dalla valle dell'Arc. Nessuna fonte consultata dà un numero di strada né un periodo di apertura.",
+        "public_transport": null
+      },
+      "meta_description": "Colle a 1 638 m sopra Albiez-Montrond, noto per i suoi 45 tornanti. Un lago e una fontana al colle; nessuna balneazione regolamentata è documentata.",
+      "meta_title": "Col du Mollard · 45 tornanti, altitudine, accesso",
+      "name": "Col du Mollard",
+      "name_alternates": [
+        "Le Mollard",
+        "Col du Mollard (Albiez-Montrond)"
+      ],
+      "practical_info": [
+        {
+          "k": "Altitudine",
+          "v": "1 638 m (Maurienne Tourisme) · 1 630 m (cols-cyclisme). Due cifre, non arbitrate."
+        },
+        {
+          "k": "Coordinate",
+          "v": null
+        },
+        {
+          "k": "Tornanti",
+          "v": "45, cifra proveniente da una sola famiglia di fonti e non verificata in modo incrociato"
+        },
+        {
+          "k": "Salita",
+          "v": "Circa 12 km, dal 6 al 7 % di media a seconda delle fonti"
+        },
+        {
+          "k": "Posizione",
+          "v": "Porta della frazione del Mollard, parte alta di Albiez-Montrond, sotto le Aiguilles d'Arves"
+        },
+        {
+          "k": "Al colle",
+          "v": "Un lago e una fontana. Le fonti evocano la balneazione senza menzionare sorveglianza, stagione né qualità dell'acqua."
+        },
+        {
+          "k": "Apertura",
+          "v": null
+        },
+        {
+          "k": "Tariffa",
+          "v": "Gratuito, accesso libero"
+        },
+        {
+          "k": "Tour de France",
+          "v": "Passaggi segnalati nel 2006, 2012 e 2015 (fonti secondarie)"
+        },
+        {
+          "k": "Parcheggio",
+          "v": null
+        },
+        {
+          "k": "Animali",
+          "v": null
+        },
+        {
+          "k": "Accessibilità",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Lago",
+        "Fontana",
+        "Punto panoramico"
+      ],
+      "when_to_visit": "<p>Nessuna fonte consultata pubblica un periodo di apertura. A 1 638 m, la strada è verosimilmente interessata dall'innevamento, ma nulla è documentato: verificare prima di salire fuori stagione.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "45 haarspeldbochten over ongeveer 12 km, met gemiddeld 6 of 7 % volgens de bronnen, onder de Aiguilles d'Arves.",
+          "tag": null,
+          "title": "De 45 haarspeldbochten beklimmen"
+        },
+        {
+          "description": "Een lus loopt via de col de la Confrérie, bij Albiez-le-Jeune, over een rustige weg.",
+          "tag": null,
+          "title": "Een lus via de col de la Confrérie"
+        },
+        {
+          "description": "Een fontein op de col maakt het mogelijk de bidons te vullen vóór de afdaling via wat wielrenners de route de l'Opinel noemen.",
+          "tag": null,
+          "title": "Bidons vullen op de col vóór de afdaling"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>col du Mollard</strong> wordt door Maurienne Tourisme op 1 638 m gegeven en door cols-cyclisme op 1 630 m. Hij komt uit bij het gehucht Le Mollard, het hoogste deel van het dorp Albiez-Montrond, onder de Aiguilles d'Arves.</p><p>Zijn reputatie berust op zijn <strong>45 haarspeldbochten</strong> — een cijfer dat slechts op één familie van bronnen steunt en dat geen enkele geraadpleegde onafhankelijke pagina natelt. De klim is ongeveer 12 km lang met gemiddeld 6 of 7 %, een marge die suggereert dat de bronnen twee zijden samenvoegen.</p><p>Vlak naast de col ligt een meer en de bronnen schrijven dat men er kan zwemmen. Geen enkele vermeldt toezicht, seizoen of waterkwaliteit: deze fiche signaleert het meer, geen begeleide zwemgelegenheid.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Vrij toegankelijk · Gratis",
+        "best_season": null,
+        "commune": "Albiez-Montrond",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Bergpas en uitzichtpunt",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Twee cijfers: 1 638 m bij Maurienne Tourisme, 1 630 m op cols-cyclisme. Acht meter verschil, zonder uitsluitsel.",
+          "q": "Hoe hoog ligt de col du Mollard?"
+        },
+        {
+          "a": "De bronnen melden 45 haarspeldbochten. Het cijfer komt slechts uit één familie van pagina's en is door geen enkele geraadpleegde onafhankelijke bron nageteld.",
+          "q": "Hoeveel haarspeldbochten telt de klim?"
+        },
+        {
+          "a": "Naast de col ligt een meer en de bronnen schrijven dat men er kan zwemmen, maar geen enkele vermeldt toezicht, seizoen of controle van de waterkwaliteit. Niets rechtvaardigt het om dit als een ingerichte zwemplek aan te kondigen.",
+          "q": "Kan men zwemmen bij de col?"
+        },
+        {
+          "a": "Geen enkele geraadpleegde bron publiceert een openings- of sluitingsperiode van de weg.",
+          "q": "Is de weg over de col het hele jaar open?"
+        },
+        {
+          "a": "Passages worden door secundaire bronnen gemeld in 2006, 2012 en 2015, niet bevestigd door een officiële bron.",
+          "q": "Is de Tour de France over de col du Mollard gekomen?"
+        }
+      ],
+      "hero": {
+        "badge": "Vrije toegang · 45 haarspeldbochten",
+        "lead": "De col du Mollard komt uit bij het gelijknamige gehucht, boven Albiez-Montrond, onder de Aiguilles d'Arves. Vijfenveertig haarspeldbochten, volgens een bron die door niemand wordt bevestigd."
+      },
+      "hero_alt": "Col du Mollard boven Albiez-Montrond, Maurienne, Savoie",
+      "how_to_get_there": {
+        "bike": "Ongeveer 12 km met gemiddeld 6 of 7 % en 45 haarspeldbochten. De marge in het stijgingspercentage suggereert dat de bronnen meerdere zijden samenvoegen: klim vanuit Saint-Jean-de-Maurienne, via Albiez-Montrond of via Albiez-le-Jeune en de col de la Confrérie.",
+        "car": "Via Albiez-Montrond vanuit het dal van de Arc. Geen enkele geraadpleegde bron geeft een wegnummer of een openingsperiode.",
+        "public_transport": null
+      },
+      "meta_description": "Col op 1 638 m boven Albiez-Montrond, bekend om zijn 45 haarspeldbochten. Een meer en een fontein op de col; er is geen begeleide zwemgelegenheid gedocumenteerd.",
+      "meta_title": "Col du Mollard · 45 haarspeldbochten, hoogte, toegang",
+      "name": "Col du Mollard",
+      "name_alternates": [
+        "Le Mollard",
+        "Col du Mollard (Albiez-Montrond)"
+      ],
+      "practical_info": [
+        {
+          "k": "Hoogte",
+          "v": "1 638 m (Maurienne Tourisme) · 1 630 m (cols-cyclisme). Twee cijfers, zonder uitsluitsel."
+        },
+        {
+          "k": "Coördinaten",
+          "v": null
+        },
+        {
+          "k": "Haarspeldbochten",
+          "v": "45, een cijfer uit één enkele familie van bronnen en niet bevestigd"
+        },
+        {
+          "k": "Klim",
+          "v": "Ongeveer 12 km, gemiddeld 6 tot 7 % volgens de bronnen"
+        },
+        {
+          "k": "Ligging",
+          "v": "Toegangspoort tot het gehucht Le Mollard, het hoogste deel van Albiez-Montrond, onder de Aiguilles d'Arves"
+        },
+        {
+          "k": "Op de col",
+          "v": "Een meer en een fontein. De bronnen noemen zwemmen zonder toezicht, seizoen of waterkwaliteit te vermelden."
+        },
+        {
+          "k": "Opening",
+          "v": null
+        },
+        {
+          "k": "Tarief",
+          "v": "Gratis, vrije toegang"
+        },
+        {
+          "k": "Tour de France",
+          "v": "Passages gemeld in 2006, 2012 en 2015 (secundaire bronnen)"
+        },
+        {
+          "k": "Parkeren",
+          "v": null
+        },
+        {
+          "k": "Dieren",
+          "v": null
+        },
+        {
+          "k": "Toegankelijkheid",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Meer",
+        "Fontein",
+        "Uitzichtpunt"
+      ],
+      "when_to_visit": "<p>Geen enkele geraadpleegde bron publiceert een openingsperiode. Op 1 638 m heeft de weg vermoedelijk te maken met sneeuw, maar niets is gedocumenteerd: controleer dit voordat u buiten het seizoen omhoog rijdt.</p>"
     }
   },
   "latitude": null,
@@ -351,7 +868,8 @@
     {
       "name": "Alpes4ever — col du Mollard",
       "url": "https://alpes4ever.com/france/savoie/les-plus-de-1500-m/col-du-mollard/"
-    }
+    },
+    "https://www.explore-maurienne.com/decouvrir/les-plus-grands-cols/"
   ],
   "sparse_data": false,
   "status": "published",

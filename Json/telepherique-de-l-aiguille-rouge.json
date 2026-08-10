@@ -37,6 +37,141 @@
   "hero_credit": "DimiTalen · CC0 · Wikimedia Commons",
   "hero_image": "/img/telecabines/telepherique-de-l-aiguille-rouge-hero.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Hängesteg am Gipfel, 2018 gemeinsam mit dem Nationalen Naturreservat Hauts de Villaroger errichtet. 360°-Panorama auf die französischen, italienischen und Schweizer Alpen. Zugang laut Tourismusbüro kostenlos.",
+          "tag": null,
+          "title": "Der Steg der Aiguille Rouge"
+        },
+        {
+          "description": "Orientierungstafel und Café auf der Zwischenebene, vor dem letzten Aufstieg.",
+          "tag": null,
+          "title": "Die Panoramaterrasse des Varet"
+        },
+        {
+          "description": "Von 3 226 m nach Villaroger (1 200 m): 2 000 m Höhenunterschied auf 7 km, erst schwarze, dann rote Piste — vom Varet-Gletscher zu den Apfelbäumen von Villaroger.",
+          "tag": "Winter",
+          "title": "Die Piste der Aiguille Rouge hinunterfahren"
+        },
+        {
+          "description": "Die Aiguille Rouge steht auf der Liste der Lifte, auf denen Hunde im Sommer an der Leine zugelassen sind.",
+          "tag": "Sommer",
+          "title": "Mit dem Hund hinauffahren"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>Seilbahn Aiguille Rouge</strong> bedient den höchsten Punkt des Gebiets von Les Arcs, oberhalb von Arc 2000, auf dem Gebiet der Gemeinde Bourg-Saint-Maurice. Ihr Betreiber, ADS Domaine de Montagne, gibt eine Ankunft auf 3 226 m an. Der Gipfel der Aiguille Rouge selbst wird von topografischen Quellen mit 3 227 m angegeben, während das IGN für seinen eigenen Gipfelpunkt 3 226,3 m nennt: Der Unterschied von einem Meter ist ein Quellenunterschied, kein gemessener Höhenunterschied. Bergstation und Gipfel bleiben zwei verschiedene Punkte, und sie werden ständig verwechselt.</p><p>Am Gipfel: ein 360°-Panorama auf die französischen, italienischen und Schweizer Alpen, ein 2018 gemeinsam mit dem Nationalen Naturreservat Hauts de Villaroger errichteter Hängesteg, eine Orientierungstafel. Eine Ebene tiefer bietet die Panoramaterrasse des Varet, die der Betreiber auf 2 700 m verortet, eine Orientierungstafel und ein Café — diese Zahl ist die Angabe des Betreibers für die Terrasse und darf nicht als Höhe der Talstation gelesen werden, die keine Betreiberquelle veröffentlicht.</p><p>Hier beginnt auch die Piste der Aiguille Rouge, die von 3 226 m nach Villaroger (1 200 m) hinabführt: 2 000 m Höhenunterschied auf 7 km, erst schwarz, dann rot. Im Sommer gehört die Aiguille Rouge zu den wenigen Liften, auf denen Hunde an der Leine ausdrücklich zugelassen sind.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Kostenpflichtig",
+        "best_season": "4. Juli – 29. August 2026 laut der englischen Seite (28. August laut der französischen Seite)",
+        "commune": "Bourg-Saint-Maurice",
+        "dogs": "Zugelassen, an der Leine (Liste der im Sommer erlaubten Lifte)",
+        "duration": null,
+        "parking": "Arc 2000: Lac des Combes, P2 und P3 diesen Sommer kostenlos",
+        "snow_view": "alpes",
+        "tarif": "Pass Aiguille Rouge 16 € (ab 13 Jahren) / 13 € (5–12 Jahre)",
+        "type": "Panorama-Seilbahn",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "3 226 m laut ihrem Betreiber. Der Gipfel der Aiguille Rouge wird von topografischen Quellen mit 3 227 m und vom IGN mit 3 226,3 m angegeben: Der Unterschied von einem Meter stammt aus den Quellen, nicht aus einer Messung. Bergstation und Gipfel bleiben zwei verschiedene Punkte.",
+          "q": "Auf welcher Höhe kommt die Seilbahn Aiguille Rouge an?"
+        },
+        {
+          "a": "Der Pass Aiguille Rouge kostet 16 € ab 13 Jahren und 13 € von 5 bis 12 Jahren. Er umfasst eine Bergfahrt zum Varet, eine Bergfahrt zur Aiguille Rouge und die kostenlose Talfahrt. Kostenlos unter 5 Jahren.",
+          "q": "Was kostet die Bergfahrt für Fußgänger?"
+        },
+        {
+          "a": "Ja. Der Betreiber veröffentlicht die Liste der Lifte, auf denen Hunde im Sommer zugelassen sind, und die Aiguille Rouge gehört dazu. Sie müssen an der Leine geführt werden.",
+          "q": "Sind Hunde zugelassen?"
+        },
+        {
+          "a": "Der Betreiber veröffentlicht sie nur live, ab dem 13. Juni. Wir übernehmen keine anderswo gefundenen Betriebszeiten, da eine Quelle fehlt.",
+          "q": "Wie sind die Betriebszeiten?"
+        },
+        {
+          "a": "Keine Seite sagt es. Die einzigen belegten Angaben betreffen einen kostenpflichtigen Schnellzugang: 9 €, 4,50 € mit dem Pass Essentiel, einer pro Tag kostenlos mit dem Pass Premium.",
+          "q": "Ist die Seilbahn im Skipass enthalten?"
+        }
+      ],
+      "hero": {
+        "badge": "Kostenpflichtig · Höchster Punkt des Gebiets",
+        "lead": "Die Seilbahn Aiguille Rouge steigt laut ihrem Betreiber auf 3 226 m, oberhalb von Arc 2000. 360°-Panorama, Hängesteg und der Start der Abfahrt nach Villaroger: 2 000 m Höhenunterschied auf 7 km."
+      },
+      "hero_alt": "Seilbahn Aiguille Rouge, Les Arcs, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Arc 2000, Gemeinde Bourg-Saint-Maurice (73700). Q-Park-Parkplätze am Fuß der Gondelbahn Varet.",
+        "public_transport": null
+      },
+      "meta_description": "Bergstation auf 3 226 m laut Betreiber, der höchste Punkt des Gebiets. Sommer 2026: geöffnet ab dem 4. Juli. Pass Aiguille Rouge 16 € / 13 €. Hunde an der Leine zugelassen.",
+      "meta_title": "Seilbahn Aiguille Rouge (Les Arcs) · Geprüfte Fakten 2026",
+      "name": "Seilbahn Aiguille Rouge",
+      "name_alternates": [
+        "Aiguille Rouge",
+        "Varet – Aiguille Rouge",
+        "Téléphérique Aiguille Rouge Les Arcs"
+      ],
+      "practical_info": [
+        {
+          "k": "Höhe",
+          "v": "Bergstation 3 226 m laut Betreiber (3 220 m laut skiresort.com). Der Gipfel der Aiguille Rouge wird von den topografischen Quellen mit 3 227 m angegeben: Das ist ein anderer Punkt."
+        },
+        {
+          "k": "Betreiber",
+          "v": "ADS Domaine de Montagne — 04 79 04 25 03"
+        },
+        {
+          "k": "Termine Sommer 2026",
+          "v": "Geöffnet ab Samstag, 4. Juli 2026. Der letzte Tag ist nicht gesichert: Die englische Seite des Betreibers führt die Bahn bis Samstag, 29. August, eine Lesung der französischen Seite ergab den 28. August. Die Bahn ist weder in den Zeiträumen „Preview\" (12. Juni – 3. Juli) noch „Ultimate\" (30. August – 13. September) als geöffnet gelistet.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Betriebszeiten",
+          "v": "Nicht veröffentlicht. Der Betreiber gibt an, dass die Betriebszeiten der Lifte erst ab dem 13. Juni live verfügbar sind."
+        },
+        {
+          "k": "Preise",
+          "v": "Pass Aiguille Rouge 16 € (ab 13 Jahren) / 13 € (5–12 Jahre): eine Bergfahrt Varet + eine Bergfahrt Aiguille Rouge, Talfahrt kostenlos. Einfache Bergfahrt auf den anderen Liften 9,50 € / 7,50 €. Tageskarte 24 € / 20 €. Kostenlos unter 5 Jahren. 50 % für Menschen mit Behinderung gegen ärztliches Attest, an der Kasse. Familienpaket −10 €/Person ab 3 Personen.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Skipass",
+          "v": "Die Einbeziehung ist nicht dokumentiert. Die einzigen Angaben betreffen einen kostenpflichtigen Schnellzugang: 9 €, 4,50 € mit dem Pass Essentiel, einer pro Tag kostenlos mit dem Pass Premium."
+        },
+        {
+          "k": "Parkplatz",
+          "v": "Arc 2000, am Fuß der Gondelbahn Varet (Q-Park): Lac des Combes im Sommer kostenlos, Mont Blanc diesen Sommer geschlossen, P2 und P3 diesen Sommer kostenlos. Tel. 04 28 01 16 20."
+        },
+        {
+          "k": "Tiere",
+          "v": "Hunde im Sommer zugelassen auf einer Liste von Liften, die die Aiguille Rouge einschließt, an der Leine."
+        },
+        {
+          "k": "Barrierefreiheit",
+          "v": null
+        },
+        {
+          "k": "Fahrtdauer",
+          "v": null
+        },
+        {
+          "k": "Koordinaten",
+          "v": "45.553072° N, 6.841814° E — Zentroid der Bahn im POI-Index des IGN. Das IGN verortet den Gipfel „Aiguille Rouge\" auf dem Gebiet der Gemeinde Villaroger, bei 45.551819 / 6.848611."
+        }
+      ],
+      "schema_amenities": [
+        "Panoramasteg",
+        "Orientierungstafel"
+      ],
+      "when_to_visit": "<p>Im Sommer 2026 ist die Bahn erst ab dem 4. Juli als geöffnet gelistet — weder in der Vorsaison (12. Juni – 3. Juli) noch in der Nachsaison (30. August – 13. September). Die Betriebszeiten werden nur live veröffentlicht.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -167,6 +302,141 @@
         "Orientation table"
       ],
       "when_to_visit": "<p>In summer 2026 the lift is listed open from 4 July only — neither in the early-season window (12 June – 3 July) nor the late one (30 August – 13 September). Hours are published live only.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "Pasarela suspendida en la cima, realizada en 2018 con la Réserve Naturelle Nationale des Hauts de Villaroger. Panorama de 360° sobre los Alpes franceses, italianos y suizos. Acceso gratuito según la oficina de turismo.",
+          "tag": null,
+          "title": "La pasarela de l'Aiguille Rouge"
+        },
+        {
+          "description": "Mesa de orientación y café en el nivel intermedio, antes de la subida final.",
+          "tag": null,
+          "title": "La terraza panorámica del Varet"
+        },
+        {
+          "description": "De 3 226 m a Villaroger (1 200 m): 2 000 m de desnivel en 7 km, pista negra y después roja — del glaciar del Varet a los manzanos de Villaroger.",
+          "tag": "Invierno",
+          "title": "Bajar la pista de l'Aiguille Rouge"
+        },
+        {
+          "description": "L'Aiguille Rouge figura en la lista de remontes donde los perros están admitidos en verano, con correa.",
+          "tag": "Verano",
+          "title": "Subir con su perro"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>Teleférico de l'Aiguille Rouge</strong> da acceso al punto más alto del dominio de Les Arcs, por encima de Arc 2000, en el municipio de Bourg-Saint-Maurice. Su operador, ADS Domaine de Montagne, anuncia una llegada a 3 226 m. La cima de l'Aiguille Rouge en sí figura a 3 227 m en fuentes topográficas, mientras que el IGN devuelve 3 226,3 m en su propio punto de cima: la diferencia de un metro es una diferencia de fuente, no un desnivel medido. Estación y cima siguen siendo dos puntos distintos, y se confunden constantemente.</p><p>En la cima: un panorama de 360° sobre los Alpes franceses, italianos y suizos, una pasarela suspendida realizada en 2018 con la Réserve Naturelle Nationale des Hauts de Villaroger, una mesa de orientación. Un nivel más abajo, la terraza panorámica del Varet, que el operador sitúa a 2 700 m, ofrece una mesa de orientación y un café — esta cifra es la del operador para la terraza y no debe leerse como la altitud de la estación inferior, que ninguna fuente del operador publica.</p><p>Es también la salida de la pista de l'Aiguille Rouge, que baja de 3 226 m a Villaroger (1 200 m): 2 000 m de desnivel en 7 km, en negra y después en roja. En verano, l'Aiguille Rouge forma parte de los pocos remontes donde los perros con correa están explícitamente admitidos.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "De pago",
+        "best_season": "4 de julio – 29 de agosto de 2026 según la página inglesa (28 de agosto según la página francesa)",
+        "commune": "Bourg-Saint-Maurice",
+        "dogs": "Admitidos, con correa (lista de remontes autorizados en verano)",
+        "duration": null,
+        "parking": "Arc 2000: Lac des Combes, P2 y P3 gratuitos este verano",
+        "snow_view": "alpes",
+        "tarif": "Pass Aiguille Rouge 16 € (13 años o más) / 13 € (5–12 años)",
+        "type": "Teleférico panorámico",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "3 226 m según su operador. La cima de l'Aiguille Rouge figura a 3 227 m en fuentes topográficas y a 3 226,3 m según el IGN: la diferencia de un metro procede de las fuentes, no de una medición. La estación y la cima siguen siendo dos puntos distintos.",
+          "q": "¿A qué altitud llega el Teleférico de l'Aiguille Rouge?"
+        },
+        {
+          "a": "El Pass Aiguille Rouge cuesta 16 € a partir de 13 años y 13 € de 5 a 12 años. Incluye una subida al Varet, una subida a l'Aiguille Rouge y la bajada gratuita. Gratis para menores de 5 años.",
+          "q": "¿Cuánto cuesta la subida a pie?"
+        },
+        {
+          "a": "Sí. El operador publica la lista de remontes donde los perros están admitidos en verano y l'Aiguille Rouge figura en ella. Deben ir con correa.",
+          "q": "¿Están admitidos los perros?"
+        },
+        {
+          "a": "El operador solo los publica en directo, a partir del 13 de junio. No recogemos ningún horario encontrado en otro lugar, a falta de fuente.",
+          "q": "¿Cuáles son los horarios?"
+        },
+        {
+          "a": "Ninguna página lo dice. Las únicas menciones con fuente se refieren a un acceso prioritario de pago: 9 €, 4,50 € con el Pass Essentiel, uno gratuito al día con el Pass Premium.",
+          "q": "¿Está incluido el teleférico en el forfait de esquí?"
+        }
+      ],
+      "hero": {
+        "badge": "De pago · Punto más alto del dominio",
+        "lead": "El Teleférico de l'Aiguille Rouge sube a 3 226 m según su operador, por encima de Arc 2000. Panorama de 360°, pasarela suspendida, y la salida del descenso hacia Villaroger: 2 000 m de desnivel en 7 km."
+      },
+      "hero_alt": "Teleférico de l'Aiguille Rouge, Les Arcs, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Arc 2000, municipio de Bourg-Saint-Maurice (73700). Aparcamientos Q-Park al pie de la telecabina del Varet.",
+        "public_transport": null
+      },
+      "meta_description": "Estación superior a 3 226 m según el operador, el punto más alto del dominio. Verano 2026: abierto a partir del 4 de julio. Pass Aiguille Rouge 16 € / 13 €. Perros admitidos con correa.",
+      "meta_title": "Teleférico de l'Aiguille Rouge (Les Arcs) · Datos verificados 2026",
+      "name": "Teleférico de l'Aiguille Rouge",
+      "name_alternates": [
+        "Aiguille Rouge",
+        "Varet – Aiguille Rouge",
+        "Téléphérique Aiguille Rouge Les Arcs"
+      ],
+      "practical_info": [
+        {
+          "k": "Altitud",
+          "v": "Estación superior a 3 226 m según el operador (3 220 m según skiresort.com). La cima de l'Aiguille Rouge figura a 3 227 m en las fuentes topográficas: es otro punto."
+        },
+        {
+          "k": "Operador",
+          "v": "ADS Domaine de Montagne — 04 79 04 25 03"
+        },
+        {
+          "k": "Fechas verano 2026",
+          "v": "Abierto a partir del sábado 4 de julio de 2026. El último día no es fiable: la página inglesa del operador lista la instalación hasta el sábado 29 de agosto, una lectura de la página francesa dio el 28 de agosto. La instalación no está listada como abierta en los periodos « Preview » (12 de junio – 3 de julio) ni « Ultimate » (30 de agosto – 13 de septiembre).",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Horarios",
+          "v": "No publicados. El operador indica que los horarios de los remontes solo están disponibles en directo a partir del 13 de junio."
+        },
+        {
+          "k": "Tarifas",
+          "v": "Pass Aiguille Rouge 16 € (13 años o más) / 13 € (5–12 años): una subida Varet + una subida Aiguille Rouge, bajada gratuita. Subida sencilla en los demás remontes 9,50 € / 7,50 €. Día 24 € / 20 €. Gratis para menores de 5 años. 50 % para personas con discapacidad con certificado médico, en taquilla. Pack familia −10 €/persona a partir de 3 personas.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Forfait de esquí",
+          "v": "La inclusión no está documentada. Las únicas menciones son un acceso prioritario de pago: 9 €, 4,50 € con el Pass Essentiel, uno gratuito al día con el Pass Premium."
+        },
+        {
+          "k": "Aparcamiento",
+          "v": "Arc 2000, al pie de la telecabina del Varet (Q-Park): Lac des Combes gratuito en verano, Mont Blanc cerrado este verano, P2 y P3 gratuitos este verano. Tel. 04 28 01 16 20."
+        },
+        {
+          "k": "Animales",
+          "v": "Perros admitidos en verano en una lista de remontes que incluye l'Aiguille Rouge, con correa."
+        },
+        {
+          "k": "Accesibilidad",
+          "v": null
+        },
+        {
+          "k": "Duración del trayecto",
+          "v": null
+        },
+        {
+          "k": "Coordenadas",
+          "v": "45.553072° N, 6.841814° E — centroide de la instalación en el índice POI del IGN. El IGN sitúa la cima « Aiguille Rouge » en el municipio de Villaroger, en 45.551819 / 6.848611."
+        }
+      ],
+      "schema_amenities": [
+        "Pasarela panorámica",
+        "Mesa de orientación"
+      ],
+      "when_to_visit": "<p>En verano de 2026, la instalación está listada como abierta solo a partir del 4 de julio — ni en el periodo de pretemporada (12 de junio – 3 de julio) ni en el de postemporada (30 de agosto – 13 de septiembre). Los horarios solo se publican en directo.</p>"
     },
     "fr": {
       "activities": [
@@ -302,6 +572,276 @@
         "Table d'orientation"
       ],
       "when_to_visit": "<p>En été 2026, l'appareil est listé ouvert à partir du 4 juillet seulement — ni sur la période d'avant-saison (12 juin – 3 juillet) ni sur l'arrière-saison (30 août – 13 septembre). Les horaires ne sont publiés qu'en direct.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Passerella sospesa in cima, realizzata nel 2018 con la Réserve Naturelle Nationale des Hauts de Villaroger. Panorama a 360° sulle Alpi francesi, italiane e svizzere. Accesso gratuito secondo l'ufficio del turismo.",
+          "tag": null,
+          "title": "La passerella dell'Aiguille Rouge"
+        },
+        {
+          "description": "Tavola di orientamento e caffè al piano intermedio, prima della salita finale.",
+          "tag": null,
+          "title": "La terrazza panoramica del Varet"
+        },
+        {
+          "description": "Da 3 226 m a Villaroger (1 200 m): 2 000 m di dislivello su 7 km, pista nera poi rossa — dal ghiacciaio del Varet ai meli di Villaroger.",
+          "tag": "Inverno",
+          "title": "Scendere la pista dell'Aiguille Rouge"
+        },
+        {
+          "description": "L'Aiguille Rouge figura nell'elenco degli impianti dove i cani sono ammessi in estate, tenuti al guinzaglio.",
+          "tag": "Estate",
+          "title": "Salire con il proprio cane"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>Funivia dell'Aiguille Rouge</strong> serve il punto più alto del comprensorio di Les Arcs, sopra Arc 2000, nel comune di Bourg-Saint-Maurice. Il suo gestore, ADS Domaine de Montagne, annuncia un arrivo a 3 226 m. La cima dell'Aiguille Rouge stessa è indicata a 3 227 m da fonti topografiche, mentre l'IGN restituisce 3 226,3 m sul proprio punto sommitale: lo scarto di un metro è uno scarto tra fonti, non un dislivello misurato. Stazione e cima restano due punti diversi, e vengono costantemente confusi.</p><p>In cima: un panorama a 360° sulle Alpi francesi, italiane e svizzere, una passerella sospesa realizzata nel 2018 con la Réserve Naturelle Nationale des Hauts de Villaroger, una tavola di orientamento. Un piano più in basso, la terrazza panoramica del Varet, che il gestore colloca a 2 700 m, offre una tavola di orientamento e un caffè — questo dato è quello del gestore per la terrazza e non va letto come l'altitudine della stazione a valle, che nessuna fonte del gestore pubblica.</p><p>È anche il punto di partenza della pista dell'Aiguille Rouge, che scende da 3 226 m a Villaroger (1 200 m): 2 000 m di dislivello su 7 km, in nera poi in rossa. In estate, l'Aiguille Rouge è tra i pochi impianti dove i cani tenuti al guinzaglio sono esplicitamente ammessi.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "A pagamento",
+        "best_season": "4 luglio – 29 agosto 2026 secondo la pagina inglese (28 agosto secondo la pagina francese)",
+        "commune": "Bourg-Saint-Maurice",
+        "dogs": "Ammessi, tenuti al guinzaglio (elenco degli impianti autorizzati in estate)",
+        "duration": null,
+        "parking": "Arc 2000: Lac des Combes, P2 e P3 gratuiti questa estate",
+        "snow_view": "alpes",
+        "tarif": "Pass Aiguille Rouge 16 € (13 anni e oltre) / 13 € (5–12 anni)",
+        "type": "Funivia panoramica",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "3 226 m secondo il suo gestore. La cima dell'Aiguille Rouge è indicata a 3 227 m da fonti topografiche e a 3 226,3 m dall'IGN: lo scarto di un metro viene dalle fonti, non da una misurazione. La stazione e la cima restano due punti diversi.",
+          "q": "A quale altitudine arriva la funivia dell'Aiguille Rouge?"
+        },
+        {
+          "a": "Il Pass Aiguille Rouge costa 16 € dai 13 anni in su e 13 € dai 5 ai 12 anni. Comprende una salita al Varet, una salita all'Aiguille Rouge e la discesa gratuita. Gratuito sotto i 5 anni.",
+          "q": "Quanto costa la salita a piedi?"
+        },
+        {
+          "a": "Sì. Il gestore pubblica l'elenco degli impianti dove i cani sono ammessi in estate e l'Aiguille Rouge ne fa parte. Devono essere tenuti al guinzaglio.",
+          "q": "I cani sono ammessi?"
+        },
+        {
+          "a": "Il gestore li pubblica solo in tempo reale, a partire dal 13 giugno. Non riprendiamo alcun orario trovato altrove, in mancanza di una fonte.",
+          "q": "Quali sono gli orari?"
+        },
+        {
+          "a": "Nessuna pagina lo dice. Le sole menzioni documentate riguardano un salta-fila a pagamento: 9 €, 4,50 € con il Pass Essentiel, uno gratuito al giorno con il Pass Premium.",
+          "q": "La funivia è inclusa nello skipass?"
+        }
+      ],
+      "hero": {
+        "badge": "A pagamento · Punto più alto del comprensorio",
+        "lead": "La funivia dell'Aiguille Rouge sale a 3 226 m secondo il suo gestore, sopra Arc 2000. Panorama a 360°, passerella sospesa, e la partenza della discesa verso Villaroger: 2 000 m di dislivello su 7 km."
+      },
+      "hero_alt": "Téléphérique de l'Aiguille Rouge, Les Arcs, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Arc 2000, comune di Bourg-Saint-Maurice (73700). Parcheggi Q-Park ai piedi della cabinovia del Varet.",
+        "public_transport": null
+      },
+      "meta_description": "Stazione a monte a 3 226 m secondo il gestore, il punto più alto del comprensorio. Estate 2026: aperto a partire dal 4 luglio. Pass Aiguille Rouge 16 € / 13 €. Cani ammessi al guinzaglio.",
+      "meta_title": "Téléphérique de l'Aiguille Rouge (Les Arcs) · Fatti verificati 2026",
+      "name": "Téléphérique de l'Aiguille Rouge",
+      "name_alternates": [
+        "Aiguille Rouge",
+        "Varet – Aiguille Rouge",
+        "Téléphérique Aiguille Rouge Les Arcs"
+      ],
+      "practical_info": [
+        {
+          "k": "Altitudine",
+          "v": "Stazione a monte 3 226 m secondo il gestore (3 220 m secondo skiresort.com). La cima dell'Aiguille Rouge è indicata a 3 227 m dalle fonti topografiche: è un altro punto."
+        },
+        {
+          "k": "Gestore",
+          "v": "ADS Domaine de Montagne — 04 79 04 25 03"
+        },
+        {
+          "k": "Date estate 2026",
+          "v": "Aperto a partire da sabato 4 luglio 2026. L'ultimo giorno non è affidabile: la pagina inglese del gestore elenca l'impianto fino a sabato 29 agosto, una lettura della pagina francese ha dato il 28 agosto. L'impianto non è elencato aperto nei periodi « Preview » (12 giugno – 3 luglio) né « Ultimate » (30 agosto – 13 settembre).",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Orari",
+          "v": "Non pubblicati. Il gestore indica che gli orari degli impianti sono disponibili solo in tempo reale a partire dal 13 giugno."
+        },
+        {
+          "k": "Tariffe",
+          "v": "Pass Aiguille Rouge 16 € (13 anni e oltre) / 13 € (5–12 anni): una salita al Varet + una salita all'Aiguille Rouge, discesa gratuita. Salita singola sugli altri impianti 9,50 € / 7,50 €. Giornata 24 € / 20 €. Gratuito sotto i 5 anni. 50 % per le persone con disabilità su certificato medico, in cassa. Pack famiglia −10 €/persona a partire da 3 persone.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Skipass",
+          "v": "L'inclusione non è documentata. Le sole menzioni riguardano un salta-fila a pagamento: 9 €, 4,50 € con il Pass Essentiel, uno gratuito al giorno con il Pass Premium."
+        },
+        {
+          "k": "Parcheggio",
+          "v": "Arc 2000, ai piedi della cabinovia del Varet (Q-Park): Lac des Combes gratuito per l'estate, Mont Blanc chiuso questa estate, P2 e P3 gratuiti questa estate. Tel. 04 28 01 16 20."
+        },
+        {
+          "k": "Animali",
+          "v": "Cani ammessi in estate su un elenco di impianti che include l'Aiguille Rouge, tenuti al guinzaglio."
+        },
+        {
+          "k": "Accessibilità",
+          "v": null
+        },
+        {
+          "k": "Durata del tragitto",
+          "v": null
+        },
+        {
+          "k": "Coordinate",
+          "v": "45.553072° N, 6.841814° E — centroide dell'impianto nell'indice POI dell'IGN. L'IGN colloca la cima « Aiguille Rouge » nel comune di Villaroger, a 45.551819 / 6.848611."
+        }
+      ],
+      "schema_amenities": [
+        "Passerella panoramica",
+        "Tavola di orientamento"
+      ],
+      "when_to_visit": "<p>Nell'estate 2026, l'impianto è elencato aperto solo a partire dal 4 luglio — né nel periodo di pre-stagione (12 giugno – 3 luglio) né in quello di fine stagione (30 agosto – 13 settembre). Gli orari sono pubblicati solo in tempo reale.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Hangbrug op de top, in 2018 gerealiseerd met de Réserve Naturelle Nationale des Hauts de Villaroger. Panorama van 360° over de Franse, Italiaanse en Zwitserse Alpen. Gratis toegang volgens het toeristenbureau.",
+          "tag": null,
+          "title": "De loopbrug van de Aiguille Rouge"
+        },
+        {
+          "description": "Oriëntatietafel en café op de tussenverdieping, vóór de laatste klim.",
+          "tag": null,
+          "title": "Het panoramaterras van de Varet"
+        },
+        {
+          "description": "Van 3 226 m naar Villaroger (1 200 m): 2 000 m hoogteverschil over 7 km, eerst een zwarte en dan een rode piste — van de gletsjer van de Varet tot de appelbomen van Villaroger.",
+          "tag": "Winter",
+          "title": "De piste van de Aiguille Rouge afdalen"
+        },
+        {
+          "description": "De Aiguille Rouge staat op de lijst van liften waar honden in de zomer zijn toegestaan, aangelijnd.",
+          "tag": "Zomer",
+          "title": "Met uw hond omhoog"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>Kabelbaan Aiguille Rouge</strong> bedient het hoogste punt van het skigebied van Les Arcs, boven Arc 2000, in de gemeente Bourg-Saint-Maurice. De exploitant, ADS Domaine de Montagne, meldt een aankomst op 3 226 m. De top van de Aiguille Rouge zelf wordt door topografische bronnen op 3 227 m gegeven, terwijl het IGN 3 226,3 m aangeeft voor het eigen toppunt: het verschil van één meter is een bronverschil, geen gemeten hoogteverschil. Station en top blijven twee verschillende punten, en ze worden voortdurend verward.</p><p>Op de top: een panorama van 360° over de Franse, Italiaanse en Zwitserse Alpen, een hangbrug die in 2018 werd gerealiseerd met de Réserve Naturelle Nationale des Hauts de Villaroger, een oriëntatietafel. Een verdieping lager biedt het panoramaterras van de Varet, dat de exploitant op 2 700 m situeert, een oriëntatietafel en een café — dit cijfer is dat van de exploitant voor het terras en mag niet worden gelezen als de hoogte van het dalstation, die geen enkele bron van de exploitant publiceert.</p><p>Het is ook het vertrekpunt van de piste van de Aiguille Rouge, die afdaalt van 3 226 m naar Villaroger (1 200 m): 2 000 m hoogteverschil over 7 km, eerst zwart en dan rood. In de zomer behoort de Aiguille Rouge tot de weinige liften waar aangelijnde honden uitdrukkelijk zijn toegestaan.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Betalend",
+        "best_season": "4 juli – 29 augustus 2026 volgens de Engelse pagina (28 augustus volgens de Franse pagina)",
+        "commune": "Bourg-Saint-Maurice",
+        "dogs": "Toegestaan, aangelijnd (lijst van in de zomer toegestane liften)",
+        "duration": null,
+        "parking": "Arc 2000: Lac des Combes, P2 en P3 deze zomer gratis",
+        "snow_view": "alpes",
+        "tarif": "Pass Aiguille Rouge 16 € (13 jaar en ouder) / 13 € (5–12 jaar)",
+        "type": "Panoramische kabelbaan",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "3 226 m volgens de exploitant. De top van de Aiguille Rouge wordt door topografische bronnen op 3 227 m gegeven en door het IGN op 3 226,3 m: het verschil van één meter komt van de bronnen, niet van een meting. Het station en de top blijven twee verschillende punten.",
+          "q": "Op welke hoogte komt de Kabelbaan Aiguille Rouge aan?"
+        },
+        {
+          "a": "De Pass Aiguille Rouge kost 16 € vanaf 13 jaar en 13 € van 5 tot 12 jaar. Hij omvat een rit omhoog naar de Varet, een rit omhoog naar de Aiguille Rouge en de gratis afdaling. Gratis onder de 5 jaar.",
+          "q": "Hoeveel kost de rit voor voetgangers?"
+        },
+        {
+          "a": "Ja. De exploitant publiceert de lijst van liften waar honden in de zomer zijn toegestaan en de Aiguille Rouge staat erop. Ze moeten aangelijnd zijn.",
+          "q": "Zijn honden toegestaan?"
+        },
+        {
+          "a": "De exploitant publiceert ze alleen live, vanaf 13 juni. Wij nemen geen elders gevonden openingstijden over, bij gebrek aan een bron.",
+          "q": "Wat zijn de openingstijden?"
+        },
+        {
+          "a": "Geen enkele pagina zegt het. De enige gedocumenteerde vermeldingen betreffen een betaalde voorrangspas: 9 €, 4,50 € met de Pass Essentiel, één gratis per dag met de Pass Premium.",
+          "q": "Is de kabelbaan inbegrepen in de skipas?"
+        }
+      ],
+      "hero": {
+        "badge": "Betalend · Hoogste punt van het skigebied",
+        "lead": "De Kabelbaan Aiguille Rouge klimt naar 3 226 m volgens de exploitant, boven Arc 2000. Panorama van 360°, hangbrug, en het vertrekpunt van de afdaling naar Villaroger: 2 000 m hoogteverschil over 7 km."
+      },
+      "hero_alt": "Kabelbaan Aiguille Rouge, Les Arcs, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Arc 2000, gemeente Bourg-Saint-Maurice (73700). Q-Park-parkeerplaatsen aan de voet van de gondelbaan van de Varet.",
+        "public_transport": null
+      },
+      "meta_description": "Bergstation op 3 226 m volgens de exploitant, het hoogste punt van het skigebied. Zomer 2026: open vanaf 4 juli. Pass Aiguille Rouge 16 € / 13 €. Honden aangelijnd toegestaan.",
+      "meta_title": "Kabelbaan Aiguille Rouge (Les Arcs) · Geverifieerde feiten 2026",
+      "name": "Kabelbaan Aiguille Rouge",
+      "name_alternates": [
+        "Aiguille Rouge",
+        "Varet – Aiguille Rouge",
+        "Téléphérique Aiguille Rouge Les Arcs"
+      ],
+      "practical_info": [
+        {
+          "k": "Hoogte",
+          "v": "Bergstation 3 226 m volgens de exploitant (3 220 m volgens skiresort.com). De top van de Aiguille Rouge wordt door topografische bronnen op 3 227 m gegeven: dat is een ander punt."
+        },
+        {
+          "k": "Exploitant",
+          "v": "ADS Domaine de Montagne — 04 79 04 25 03"
+        },
+        {
+          "k": "Data zomer 2026",
+          "v": "Open vanaf zaterdag 4 juli 2026. De laatste dag is niet betrouwbaar: de Engelse pagina van de exploitant vermeldt de installatie tot zaterdag 29 augustus, een lezing van de Franse pagina gaf 28 augustus. De installatie staat niet als open vermeld in de periodes « Preview » (12 juni – 3 juli) en « Ultimate » (30 augustus – 13 september).",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Openingstijden",
+          "v": "Niet gepubliceerd. De exploitant geeft aan dat de openingstijden van de liften pas vanaf 13 juni live beschikbaar zijn."
+        },
+        {
+          "k": "Tarieven",
+          "v": "Pass Aiguille Rouge 16 € (13 jaar en ouder) / 13 € (5–12 jaar): één rit Varet + één rit Aiguille Rouge, gratis afdaling. Enkele rit op de andere liften 9,50 € / 7,50 €. Dagkaart 24 € / 20 €. Gratis onder de 5 jaar. 50 % voor personen met een handicap op medisch attest, aan de kassa. Familiepakket −10 €/persoon vanaf 3 personen.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Skipas",
+          "v": "De inbegrepenheid is niet gedocumenteerd. De enige vermeldingen betreffen een betaalde voorrangspas: 9 €, 4,50 € met de Pass Essentiel, één gratis per dag met de Pass Premium."
+        },
+        {
+          "k": "Parkeren",
+          "v": "Arc 2000, aan de voet van de gondelbaan van de Varet (Q-Park): Lac des Combes gratis in de zomer, Mont Blanc deze zomer gesloten, P2 en P3 deze zomer gratis. Tel. 04 28 01 16 20."
+        },
+        {
+          "k": "Dieren",
+          "v": "Honden in de zomer toegestaan op een lijst van liften waarop de Aiguille Rouge staat, aangelijnd."
+        },
+        {
+          "k": "Toegankelijkheid",
+          "v": null
+        },
+        {
+          "k": "Reisduur",
+          "v": null
+        },
+        {
+          "k": "Coördinaten",
+          "v": "45.553072° N, 6.841814° E — centroïde van de installatie in de POI-index van het IGN. Het IGN situeert de top « Aiguille Rouge » in de gemeente Villaroger, op 45.551819 / 6.848611."
+        }
+      ],
+      "schema_amenities": [
+        "Panoramische loopbrug",
+        "Oriëntatietafel"
+      ],
+      "when_to_visit": "<p>In de zomer van 2026 staat de installatie pas vanaf 4 juli als open vermeld — noch in het voorseizoen (12 juni – 3 juli), noch in het naseizoen (30 augustus – 13 september). De openingstijden worden alleen live gepubliceerd.</p>"
     }
   },
   "latitude": 45.553072,

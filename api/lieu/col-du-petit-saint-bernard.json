@@ -17,8 +17,10 @@
   "season": "Fin mai – début novembre (route) · début juillet – mi-septembre (Chanousia)",
   "winter": {
     "access": "closed",
-    "infrastructure": [],
-    "snow_view": null,
+    "infrastructure": [
+      "ski_alpin"
+    ],
+    "snow_view": "mont_blanc",
     "equipment": "loi_montagne_ii",
     "col_chains": false,
     "inforoute": "https://savoie-route.fr"

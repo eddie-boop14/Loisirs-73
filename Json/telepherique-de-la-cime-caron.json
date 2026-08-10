@@ -43,6 +43,138 @@
   "hero_credit": "Rémih · CC BY-SA 4.0 · Wikimedia Commons",
   "hero_image": "/img/telecabines/telepherique-de-la-cime-caron-hero.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Angekündigte 360°-Sicht auf mehr als 1 000 Gipfel von Caron 3200 aus.",
+          "tag": null,
+          "title": "Das Gipfelpanorama"
+        },
+        {
+          "description": "Gebäude mit 800 m² auf vier Ebenen: Panoramarestaurant, Rooftop-Terrasse mit 260 m², Weinbar, Boutique, Ausstellungs- und Vorführraum. Betriebszeiten Sommer 2026 nicht veröffentlicht.",
+          "tag": null,
+          "title": "Caron 3200: Restaurant, Rooftop, Weinbar"
+        },
+        {
+          "description": "Etwa 30 Minuten ab Val Thorens: Gondelbahn Cairn, dann Gondelbahn Caron, dann die Seilbahn. Im Sommer 2026 ist die Gondelbahn Cairn geschlossen, kostenlose Shuttlebusse fahren zur Gondelbahn Caron.",
+          "tag": null,
+          "title": "Den Gipfel vom Ort aus erreichen"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>Seilbahn Cime Caron</strong> startet auf 2 320 m und kommt am Gipfelkamm an, unterhalb des gleichnamigen Gipfels, oberhalb von Val Thorens, auf dem Gebiet der Gemeinde Les Belleville. Betrieben wird sie von der SETAM im Rahmen einer Konzession des Syndicat Mixte pour l'aménagement de Les Belleville.</p><p>Die Anlage ist eine im Januar 1983 in Betrieb genommene Poma-Seilbahn: 866 m Höhenunterschied, 2 054 m Länge, 11 m/s auf der Strecke, etwa fünf Minuten Fahrt laut dem Bericht des BEA-TT. Es ist keine neue Anlage. Die beiden Kabinen wurden bei der Kollision vom 19. November 2024 zerstört; sie wurden durch Kabinen von Calag Gangloff ersetzt, und die Seilbahn wurde am 22. November 2025 wiedereröffnet. Ihre genaue Kapazität lässt sich nicht verlässlich angeben: Der Hersteller schreibt 150 Plätze, die Lokalpresse bis zu 124.</p><p>Die Höhe der Bergstation wird vom BEA-TT mit 3 193 m und von anderen Quellen mit 3 186 m angegeben. Achtung: „Caron 3200\" ist der kommerzielle Name des Ankunftsgebäudes, keine Höhenangabe. Dieses Gebäude mit 800 m² auf vier Ebenen beherbergt ein Panoramarestaurant, eine Rooftop-Terrasse mit 260 m², eine Weinbar, eine Boutique und einen Ausstellungsraum, mit 360°-Sicht.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Kostenpflichtig",
+        "best_season": "4. Juli – 28. August 2026 (Sommer)",
+        "commune": "Les Belleville",
+        "dogs": null,
+        "duration": "Etwa 5 Minuten (BEA-TT)",
+        "parking": "Kostenpflichtige Parkhäuser P1 und P2 in Val Thorens",
+        "snow_view": "mont_blanc",
+        "tarif": "23,50 € Erwachsene · 17,60 € Kinder (Sommer 2026)",
+        "type": "Panorama-Seilbahn",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Nein. Die Anlage ist die Poma-Seilbahn von 1983. Nur die beiden Kabinen, zerstört bei der Kollision vom 19. November 2024, wurden ersetzt; die Seilbahn wurde am 22. November 2025 wiedereröffnet.",
+          "q": "Ist die Seilbahn Cime Caron neu?"
+        },
+        {
+          "a": "3 193 m laut dem Bericht des BEA-TT, 3 186 m laut anderen Quellen. Der Gipfel der Cime de Caron wird mit 3 195 m angegeben. „Caron 3200\" ist der Name des Ankunftsgebäudes, keine Höhenangabe.",
+          "q": "Auf welcher Höhe kommt sie an?"
+        },
+        {
+          "a": "Vom 4. Juli bis 28. August 2026, täglich, von 9:45 bis 16:15 Uhr, letzte Bergfahrt um 15:45 Uhr. Die englische Version der Website nennt 16:00 Uhr.",
+          "q": "Wie sind die Betriebszeiten im Sommer 2026?"
+        },
+        {
+          "a": "23,50 € für Erwachsene und 17,60 € für Kinder im Sommer 2026. Keine Quelle sagt, ob es sich um eine einfache Fahrt oder eine Hin- und Rückfahrt handelt.",
+          "q": "Was kostet die Bergfahrt für Fußgänger?"
+        },
+        {
+          "a": "Nein. Die Gondelbahn Orelle-Caron, eröffnet im Dezember 2021, ist eine andere Anlage, die denselben Gipfel von der Maurienne aus erreicht. Ihre Merkmale gelten nicht für die Seilbahn von Val Thorens.",
+          "q": "Ist die Cime Caron mit der Verbindung ab Orelle zu verwechseln?"
+        }
+      ],
+      "hero": {
+        "badge": "Kostenpflichtig · Neue Kabinen seit November 2025",
+        "lead": "Die Seilbahn Cime Caron steigt von 2 320 m zum Gipfelkamm oberhalb von Val Thorens. Die Anlage stammt von 1983; ihre beiden Kabinen, zerstört im November 2024, wurden ersetzt, und die Seilbahn wurde am 22. November 2025 wiedereröffnet."
+      },
+      "hero_alt": "Seilbahn Cime Caron oberhalb von Val Thorens, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Val Thorens, Gemeinde Les Belleville (73440). Kostenpflichtige Parkhäuser P1 und P2, Reservierung über Valtho Parc.",
+        "public_transport": "Im Sommer 2026 fahren kostenlose Shuttlebusse zur Gondelbahn Caron, da die Gondelbahn Cairn geschlossen ist."
+      },
+      "meta_description": "Von 2 320 m auf etwa 3 190 m oberhalb von Val Thorens. Neue Kabinen seit dem 22. November 2025. Sommer 2026: 4. Juli – 28. August, 9:45–16:15 Uhr, letzte Bergfahrt 15:45 Uhr.",
+      "meta_title": "Seilbahn Cime Caron (Val Thorens) · Geprüfte Fakten 2026",
+      "name": "Seilbahn Cime Caron",
+      "name_alternates": [
+        "Cime Caron",
+        "Cime de Caron",
+        "Caron 3200",
+        "Téléphérique Cime Caron Val Thorens"
+      ],
+      "practical_info": [
+        {
+          "k": "Höhe",
+          "v": "Talstation 2 320 m · Bergstation 3 193 m laut BEA-TT, 3 186 m laut anderen Quellen. Der Gipfel der Cime de Caron wird mit 3 195 m angegeben. „Caron 3200\" ist ein kommerzieller Name."
+        },
+        {
+          "k": "Betreiber",
+          "v": "SETAM"
+        },
+        {
+          "k": "Betriebszeiten Sommer 2026",
+          "v": "Vom 4. Juli bis 28. August 2026, 7 Tage/Woche, 9:45–16:15 Uhr, letzte Bergfahrt 15:45 Uhr. Die englische Seite der Website nennt 16:00 Uhr statt 16:15 Uhr.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Preise Sommer 2026",
+          "v": "Fußgängerzugang Cime Caron ab Val Thorens: 23,50 € Erwachsene, 17,60 € Kinder. Keine Quelle präzisiert, ob es sich um eine einfache Fahrt oder eine Hin- und Rückfahrt handelt. Kostenlos von 3 bis 5 Jahren gegen Nachweis; Zugang für Kinder unter 3 Jahren verboten.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Pässe",
+          "v": "Drei widersprüchliche Angaben zur Einbeziehung in einen Pass bestehen nebeneinander. Vor dem Kauf an der Kasse nachfragen."
+        },
+        {
+          "k": "Fahrtdauer",
+          "v": "Etwa 5 Minuten (BEA-TT). Die oft zitierten 4 min 20 s beschreiben die Konfiguration vor 2025."
+        },
+        {
+          "k": "Parkplatz",
+          "v": "Kostenpflichtige Parkhäuser P1 und P2 in Val Thorens (P2: 10 rue du Soleil, 73440 Les Belleville), Reservierung Valtho Parc 04 79 00 02 49."
+        },
+        {
+          "k": "Tiere",
+          "v": null
+        },
+        {
+          "k": "Barrierefreiheit",
+          "v": "Caron 3200 gibt an, über die Lifte und überdachte Stege rollstuhlgerecht erreichbar zu sein. Kinderwagen auf den Liften verboten; Zugang für Kinder unter 7 Jahren nicht empfohlen."
+        },
+        {
+          "k": "Koordinaten",
+          "v": "45.2805688° N, 6.5626129° E — Talstationspunkt allein aus OpenStreetMap, nicht durch eine Betreiberquelle bestätigt."
+        },
+        {
+          "k": "Kontakt",
+          "v": "SETAM 04 79 00 07 08 · Caron 3200 04 79 00 80 20"
+        }
+      ],
+      "schema_amenities": [
+        "Panoramarestaurant",
+        "Rooftop-Terrasse",
+        "Boutique"
+      ],
+      "when_to_visit": "<p>Der Sommerbetrieb 2026 läuft vom 4. Juli bis 28. August, täglich, mit letzter Bergfahrt um 15:45 Uhr. Die auf der Betreiberseite angekündigten Wintertermine (21. November 2026 – 2. Mai 2027) sind vorläufig.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -169,6 +301,138 @@
         "Shop"
       ],
       "when_to_visit": "<p>Summer 2026 operation runs 4 July to 28 August, daily, with a last ascent at 3:45pm. The winter dates on the operator's listing (21 November 2026 – 2 May 2027) are forward-looking.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "Vista de 360° anunciada sobre más de 1 000 cimas desde Caron 3200.",
+          "tag": null,
+          "title": "El panorama de la cima"
+        },
+        {
+          "description": "Edificio de 800 m² en cuatro niveles: restaurante panorámico, terraza rooftop de 260 m², bar de vinos, tienda, sala de exposición y de proyección. Horarios de verano 2026 no publicados.",
+          "tag": null,
+          "title": "Caron 3200: restaurante, rooftop, bar de vinos"
+        },
+        {
+          "description": "Unos 30 minutos desde Val Thorens: telecabina Cairn, después telecabina Caron, y por último el teleférico. En verano de 2026 la telecabina Cairn está cerrada y unas lanzaderas gratuitas dan acceso a la telecabina Caron.",
+          "tag": null,
+          "title": "Llegar a la cima desde la estación"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>Teleférico de la Cime Caron</strong> parte de 2 320 m y llega a la cresta somital, bajo la cima del mismo nombre, por encima de Val Thorens, en el municipio de Les Belleville. Lo explota la SETAM en el marco de una delegación del Syndicat Mixte para el acondicionamiento de Les Belleville.</p><p>La instalación es un teleférico Poma puesto en servicio en enero de 1983: 866 m de desnivel, 2 054 m de longitud, 11 m/s en línea, unos cinco minutos de trayecto según el informe del BEA-TT. No es una instalación nueva. Las dos cabinas fueron destruidas en la colisión del 19 de noviembre de 2024; fueron sustituidas por cabinas Calag Gangloff y el teleférico reabrió el 22 de noviembre de 2025. Su capacidad exacta no puede publicarse: el constructor escribe 150 plazas, la prensa local hasta 124.</p><p>La altitud de la estación superior figura en 3 193 m según el BEA-TT y en 3 186 m según otras fuentes. Atención: « Caron 3200 » es el nombre comercial del edificio de llegada, no una altitud. Este edificio de 800 m² en cuatro niveles alberga un restaurante panorámico, una terraza rooftop de 260 m², un bar de vinos, una tienda y una sala de exposición, con vista de 360°.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "De pago",
+        "best_season": "4 de julio – 28 de agosto de 2026 (verano)",
+        "commune": "Les Belleville",
+        "dogs": null,
+        "duration": "Unos 5 minutos (BEA-TT)",
+        "parking": "Aparcamientos cubiertos de pago P1 y P2 en Val Thorens",
+        "snow_view": "mont_blanc",
+        "tarif": "23,50 € adulto · 17,60 € niño (verano 2026)",
+        "type": "Teleférico panorámico",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "No. La instalación es el teleférico Poma de 1983. Solo las dos cabinas, destruidas en la colisión del 19 de noviembre de 2024, fueron sustituidas; el teleférico reabrió el 22 de noviembre de 2025.",
+          "q": "¿Es nuevo el Teleférico de la Cime Caron?"
+        },
+        {
+          "a": "3 193 m según el informe del BEA-TT, 3 186 m según otras fuentes. La cima de la Cime de Caron figura a 3 195 m. « Caron 3200 » es el nombre del edificio de llegada, no una altitud.",
+          "q": "¿A qué altitud llega?"
+        },
+        {
+          "a": "Del 4 de julio al 28 de agosto de 2026, todos los días, de 9h45 a 16h15, última subida a las 15h45. La versión inglesa del sitio indica las 16h00.",
+          "q": "¿Cuáles son los horarios en verano de 2026?"
+        },
+        {
+          "a": "23,50 € por adulto y 17,60 € por niño en verano de 2026. Ninguna fuente dice si se trata de un trayecto sencillo o de ida y vuelta.",
+          "q": "¿Cuánto cuesta la subida a pie?"
+        },
+        {
+          "a": "No. La telecabina Orelle-Caron, abierta en diciembre de 2021, es una instalación diferente que alcanza la misma cima desde la Maurienne. Sus características no se aplican al teleférico de Val Thorens.",
+          "q": "¿Hay que confundir la Cime Caron con el enlace desde Orelle?"
+        }
+      ],
+      "hero": {
+        "badge": "De pago · Cabinas nuevas desde noviembre de 2025",
+        "lead": "El Teleférico de la Cime Caron sube de 2 320 m a la cresta somital por encima de Val Thorens. La instalación data de 1983; sus dos cabinas, destruidas en noviembre de 2024, fueron sustituidas y el teleférico reabrió el 22 de noviembre de 2025."
+      },
+      "hero_alt": "Teleférico de la Cime Caron por encima de Val Thorens, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Val Thorens, municipio de Les Belleville (73440). Aparcamientos cubiertos de pago P1 y P2, reserva Valtho Parc.",
+        "public_transport": "En verano de 2026, unas lanzaderas gratuitas dan acceso a la telecabina Caron, ya que la telecabina Cairn está cerrada."
+      },
+      "meta_description": "De 2 320 m a unos 3 190 m por encima de Val Thorens. Cabinas nuevas desde el 22 de noviembre de 2025. Verano 2026: 4 de julio – 28 de agosto, 9h45–16h15, última subida 15h45.",
+      "meta_title": "Teleférico de la Cime Caron (Val Thorens) · Datos verificados 2026",
+      "name": "Teleférico de la Cime Caron",
+      "name_alternates": [
+        "Cime Caron",
+        "Cime de Caron",
+        "Caron 3200",
+        "Téléphérique Cime Caron Val Thorens"
+      ],
+      "practical_info": [
+        {
+          "k": "Altitud",
+          "v": "Estación inferior 2 320 m · estación superior 3 193 m según el BEA-TT, 3 186 m según otras fuentes. La cima de la Cime de Caron figura a 3 195 m. « Caron 3200 » es un nombre comercial."
+        },
+        {
+          "k": "Operador",
+          "v": "SETAM"
+        },
+        {
+          "k": "Horarios verano 2026",
+          "v": "Del 4 de julio al 28 de agosto de 2026, 7 días a la semana, 9h45–16h15, última subida 15h45. La página inglesa del sitio indica las 16h00 en lugar de las 16h15.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Tarifas verano 2026",
+          "v": "Acceso peatonal Cime Caron desde Val Thorens: 23,50 € adulto, 17,60 € niño. Ninguna fuente precisa si se trata de un trayecto sencillo o de ida y vuelta. Gratis de 3 a 5 años con justificante; acceso prohibido a los menores de 3 años.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Forfaits",
+          "v": "Coexisten tres afirmaciones contradictorias sobre la inclusión en un forfait. Conviene informarse en taquilla antes de comprar."
+        },
+        {
+          "k": "Duración del trayecto",
+          "v": "Unos 5 minutos (BEA-TT). Los 4 min 20 s citados a menudo describen la configuración anterior a 2025."
+        },
+        {
+          "k": "Aparcamiento",
+          "v": "Aparcamientos cubiertos de pago P1 y P2 en Val Thorens (P2: 10 rue du Soleil, 73440 Les Belleville), reserva Valtho Parc 04 79 00 02 49."
+        },
+        {
+          "k": "Animales",
+          "v": null
+        },
+        {
+          "k": "Accesibilidad",
+          "v": "Caron 3200 se anuncia accesible en silla de ruedas a través de los remontes y de pasarelas cubiertas. Carritos de bebé prohibidos en los remontes; acceso desaconsejado a los menores de 7 años."
+        },
+        {
+          "k": "Coordenadas",
+          "v": "45.2805688° N, 6.5626129° E — punto de la estación inferior procedente únicamente de OpenStreetMap, no confirmado por una fuente del operador."
+        },
+        {
+          "k": "Contacto",
+          "v": "SETAM 04 79 00 07 08 · Caron 3200 04 79 00 80 20"
+        }
+      ],
+      "schema_amenities": [
+        "Restaurante panorámico",
+        "Terraza rooftop",
+        "Tienda"
+      ],
+      "when_to_visit": "<p>La explotación estival de 2026 va del 4 de julio al 28 de agosto, todos los días, con última subida a las 15h45. Las fechas invernales anunciadas en la ficha del operador (21 de noviembre de 2026 – 2 de mayo de 2027) son prospectivas.</p>"
     },
     "fr": {
       "activities": [
@@ -301,6 +565,270 @@
         "Boutique"
       ],
       "when_to_visit": "<p>L'exploitation estivale 2026 court du 4 juillet au 28 août, tous les jours, avec une dernière montée à 15h45. Les dates hivernales annoncées sur la fiche exploitant (21 novembre 2026 – 2 mai 2027) sont prospectives.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Vista a 360° annunciata su oltre 1 000 cime da Caron 3200.",
+          "tag": null,
+          "title": "Il panorama sommitale"
+        },
+        {
+          "description": "Edificio di 800 m² su quattro livelli: ristorante panoramico, terrazza rooftop di 260 m², enoteca, boutique, sala espositiva e di proiezione. Orari dell'estate 2026 non pubblicati.",
+          "tag": null,
+          "title": "Caron 3200: ristorante, rooftop, enoteca"
+        },
+        {
+          "description": "Circa 30 minuti da Val Thorens: cabinovia Cairn, poi cabinovia Caron, poi la funivia. Nell'estate 2026 la cabinovia Cairn è chiusa e navette gratuite servono la cabinovia Caron.",
+          "tag": null,
+          "title": "Raggiungere la cima dalla stazione"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>Funivia della Cime Caron</strong> parte da 2 320 m e arriva alla cresta sommitale, sotto la cima omonima, sopra Val Thorens, nel comune di Les Belleville. È gestita dalla SETAM nell'ambito di una delega del Syndicat Mixte per la pianificazione di Les Belleville.</p><p>L'impianto è una funivia Poma messa in servizio nel gennaio 1983: 866 m di dislivello, 2 054 m di lunghezza, 11 m/s in linea, circa cinque minuti di tragitto secondo il rapporto del BEA-TT. Non è un'installazione nuova. Le due cabine sono state distrutte nella collisione del 19 novembre 2024; sono state sostituite da cabine Calag Gangloff e la funivia ha riaperto il 22 novembre 2025. La loro capacità esatta non è pubblicabile: il costruttore scrive 150 posti, la stampa locale fino a 124.</p><p>L'altitudine della stazione a monte è indicata a 3 193 m dal BEA-TT e a 3 186 m da altre fonti. Attenzione: « Caron 3200 » è il nome commerciale dell'edificio di arrivo, non un'altitudine. Questo edificio di 800 m² su quattro livelli ospita un ristorante panoramico, una terrazza rooftop di 260 m², un'enoteca, una boutique e una sala espositiva, con vista a 360°.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "A pagamento",
+        "best_season": "4 luglio – 28 agosto 2026 (estate)",
+        "commune": "Les Belleville",
+        "dogs": null,
+        "duration": "Circa 5 minuti (BEA-TT)",
+        "parking": "Parcheggi coperti a pagamento P1 e P2 a Val Thorens",
+        "snow_view": "mont_blanc",
+        "tarif": "23,50 € adulto · 17,60 € bambino (estate 2026)",
+        "type": "Funivia panoramica",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "No. L'installazione è la funivia Poma del 1983. Solo le due cabine, distrutte nella collisione del 19 novembre 2024, sono state sostituite; la funivia ha riaperto il 22 novembre 2025.",
+          "q": "La funivia della Cime Caron è nuova?"
+        },
+        {
+          "a": "3 193 m secondo il rapporto del BEA-TT, 3 186 m secondo altre fonti. La cima della Cime de Caron è indicata a 3 195 m. « Caron 3200 » è il nome dell'edificio di arrivo, non un'altitudine.",
+          "q": "A quale altitudine arriva?"
+        },
+        {
+          "a": "Dal 4 luglio al 28 agosto 2026, tutti i giorni, dalle 9h45 alle 16h15, ultima salita alle 15h45. La versione inglese del sito indica le 16h00.",
+          "q": "Quali sono gli orari nell'estate 2026?"
+        },
+        {
+          "a": "23,50 € per un adulto e 17,60 € per un bambino nell'estate 2026. Nessuna fonte dice se si tratti di sola andata o di andata e ritorno.",
+          "q": "Quanto costa la salita a piedi?"
+        },
+        {
+          "a": "No. La cabinovia Orelle-Caron, aperta nel dicembre 2021, è un'installazione diversa che raggiunge la stessa cima dalla Maurienne. Le sue caratteristiche non si applicano alla funivia di Val Thorens.",
+          "q": "Bisogna confondere la Cime Caron con il collegamento da Orelle?"
+        }
+      ],
+      "hero": {
+        "badge": "A pagamento · Cabine nuove dal novembre 2025",
+        "lead": "La funivia della Cime Caron sale da 2 320 m alla cresta sommitale sopra Val Thorens. L'impianto risale al 1983; le sue due cabine, distrutte nel novembre 2024, sono state sostituite e la funivia ha riaperto il 22 novembre 2025."
+      },
+      "hero_alt": "Téléphérique de la Cime Caron sopra Val Thorens, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Val Thorens, comune di Les Belleville (73440). Parcheggi coperti a pagamento P1 e P2, prenotazione Valtho Parc.",
+        "public_transport": "Nell'estate 2026, navette gratuite servono la cabinovia Caron, essendo chiusa la cabinovia Cairn."
+      },
+      "meta_description": "Da 2 320 m a circa 3 190 m sopra Val Thorens. Cabine nuove dal 22 novembre 2025. Estate 2026: 4 luglio – 28 agosto, 9h45–16h15, ultima salita 15h45.",
+      "meta_title": "Téléphérique de la Cime Caron (Val Thorens) · Fatti verificati 2026",
+      "name": "Téléphérique de la Cime Caron",
+      "name_alternates": [
+        "Cime Caron",
+        "Cime de Caron",
+        "Caron 3200",
+        "Téléphérique Cime Caron Val Thorens"
+      ],
+      "practical_info": [
+        {
+          "k": "Altitudine",
+          "v": "Stazione a valle 2 320 m · stazione a monte 3 193 m secondo il BEA-TT, 3 186 m secondo altre fonti. La cima della Cime de Caron è indicata a 3 195 m. « Caron 3200 » è un nome commerciale."
+        },
+        {
+          "k": "Gestore",
+          "v": "SETAM"
+        },
+        {
+          "k": "Orari estate 2026",
+          "v": "Dal 4 luglio al 28 agosto 2026, 7 gg/7, 9h45–16h15, ultima salita 15h45. La pagina inglese del sito indica le 16h00 invece delle 16h15.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Tariffe estate 2026",
+          "v": "Accesso pedonale Cime Caron da Val Thorens: 23,50 € adulto, 17,60 € bambino. Nessuna fonte precisa se si tratti di sola andata o di andata e ritorno. Gratuito dai 3 ai 5 anni con documento giustificativo; accesso vietato ai bambini sotto i 3 anni.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Forfait",
+          "v": "Tre affermazioni contraddittorie coesistono sull'inclusione in un forfait. Informarsi in cassa prima di acquistare."
+        },
+        {
+          "k": "Durata del tragitto",
+          "v": "Circa 5 minuti (BEA-TT). I 4 min 20 s spesso citati descrivono la configurazione precedente al 2025."
+        },
+        {
+          "k": "Parcheggio",
+          "v": "Parcheggi coperti a pagamento P1 e P2 a Val Thorens (P2: 10 rue du Soleil, 73440 Les Belleville), prenotazione Valtho Parc 04 79 00 02 49."
+        },
+        {
+          "k": "Animali",
+          "v": null
+        },
+        {
+          "k": "Accessibilità",
+          "v": "Caron 3200 si dichiara accessibile in sedia a rotelle tramite gli impianti e passerelle coperte. Passeggini vietati sugli impianti; accesso sconsigliato ai bambini sotto i 7 anni."
+        },
+        {
+          "k": "Coordinate",
+          "v": "45.2805688° N, 6.5626129° E — punto della stazione a valle tratto dal solo OpenStreetMap, non confermato da una fonte del gestore."
+        },
+        {
+          "k": "Contatto",
+          "v": "SETAM 04 79 00 07 08 · Caron 3200 04 79 00 80 20"
+        }
+      ],
+      "schema_amenities": [
+        "Ristorante panoramico",
+        "Terrazza rooftop",
+        "Boutique"
+      ],
+      "when_to_visit": "<p>L'esercizio estivo 2026 va dal 4 luglio al 28 agosto, tutti i giorni, con ultima salita alle 15h45. Le date invernali annunciate sulla scheda del gestore (21 novembre 2026 – 2 maggio 2027) sono previsionali.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Aangekondigd uitzicht van 360° op meer dan 1 000 toppen vanaf Caron 3200.",
+          "tag": null,
+          "title": "Het panorama op de top"
+        },
+        {
+          "description": "Gebouw van 800 m² op vier niveaus: panoramarestaurant, rooftopterras van 260 m², wijnbar, winkel, expositie- en projectiezaal. Openingstijden zomer 2026 niet gepubliceerd.",
+          "tag": null,
+          "title": "Caron 3200: restaurant, rooftop, wijnbar"
+        },
+        {
+          "description": "Ongeveer 30 minuten vanuit Val Thorens: gondelbaan Cairn, dan gondelbaan Caron, dan de kabelbaan. In de zomer van 2026 is de gondelbaan Cairn gesloten en rijden er gratis pendelbussen naar de gondelbaan Caron.",
+          "tag": null,
+          "title": "De top bereiken vanuit het skidorp"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>Kabelbaan Cime Caron</strong> vertrekt op 2 320 m en komt aan op de topkam, onder de gelijknamige top, boven Val Thorens, in de gemeente Les Belleville. Hij wordt geëxploiteerd door de SETAM in het kader van een concessie van het Syndicat Mixte pour l'aménagement de Les Belleville.</p><p>De installatie is een Poma-kabelbaan die in januari 1983 in gebruik is genomen: 866 m hoogteverschil, 2 054 m lengte, 11 m/s onderweg, ongeveer vijf minuten reistijd volgens het rapport van het BEA-TT. Het is geen nieuwe installatie. De twee cabines werden vernield bij de botsing van 19 november 2024; ze zijn vervangen door cabines van Calag Gangloff en de kabelbaan heropende op 22 november 2025. Hun exacte capaciteit is niet vast te stellen: de constructeur schrijft 150 plaatsen, de lokale pers tot 124.</p><p>De hoogte van het bergstation wordt door het BEA-TT op 3 193 m gegeven en door andere bronnen op 3 186 m. Let op: « Caron 3200 » is de commerciële naam van het aankomstgebouw, geen hoogte. Dit gebouw van 800 m² op vier niveaus herbergt een panoramarestaurant, een rooftopterras van 260 m², een wijnbar, een winkel en een expositiezaal, met uitzicht van 360°.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Betalend",
+        "best_season": "4 juli – 28 augustus 2026 (zomer)",
+        "commune": "Les Belleville",
+        "dogs": null,
+        "duration": "Ongeveer 5 minuten (BEA-TT)",
+        "parking": "Betaalde overdekte parkeergarages P1 en P2 in Val Thorens",
+        "snow_view": "mont_blanc",
+        "tarif": "23,50 € volwassene · 17,60 € kind (zomer 2026)",
+        "type": "Panoramische kabelbaan",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Nee. De installatie is de Poma-kabelbaan van 1983. Alleen de twee cabines, vernield bij de botsing van 19 november 2024, zijn vervangen; de kabelbaan heropende op 22 november 2025.",
+          "q": "Is de Kabelbaan Cime Caron nieuw?"
+        },
+        {
+          "a": "3 193 m volgens het rapport van het BEA-TT, 3 186 m volgens andere bronnen. De top van de Cime de Caron wordt op 3 195 m gegeven. « Caron 3200 » is de naam van het aankomstgebouw, geen hoogte.",
+          "q": "Op welke hoogte komt hij aan?"
+        },
+        {
+          "a": "Van 4 juli tot 28 augustus 2026, dagelijks, van 9u45 tot 16u15, laatste rit omhoog om 15u45. De Engelse versie van de site vermeldt 16u00.",
+          "q": "Wat zijn de openingstijden in de zomer van 2026?"
+        },
+        {
+          "a": "23,50 € voor een volwassene en 17,60 € voor een kind in de zomer van 2026. Geen enkele bron zegt of het om een enkele rit of een retour gaat.",
+          "q": "Hoeveel kost de rit voor voetgangers?"
+        },
+        {
+          "a": "Nee. De gondelbaan Orelle-Caron, geopend in december 2021, is een andere installatie die dezelfde top bereikt vanuit de Maurienne. Haar kenmerken gelden niet voor de kabelbaan van Val Thorens.",
+          "q": "Mag men de Cime Caron verwarren met de verbinding vanuit Orelle?"
+        }
+      ],
+      "hero": {
+        "badge": "Betalend · Nieuwe cabines sinds november 2025",
+        "lead": "De Kabelbaan Cime Caron klimt van 2 320 m naar de topkam boven Val Thorens. De installatie dateert van 1983; de twee cabines, vernield in november 2024, zijn vervangen en de kabelbaan heropende op 22 november 2025."
+      },
+      "hero_alt": "Kabelbaan Cime Caron boven Val Thorens, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Val Thorens, gemeente Les Belleville (73440). Betaalde overdekte parkeergarages P1 en P2, reserveren via Valtho Parc.",
+        "public_transport": "In de zomer van 2026 rijden er gratis pendelbussen naar de gondelbaan Caron, aangezien de gondelbaan Cairn gesloten is."
+      },
+      "meta_description": "Van 2 320 m naar ongeveer 3 190 m boven Val Thorens. Nieuwe cabines sinds 22 november 2025. Zomer 2026: 4 juli – 28 augustus, 9u45–16u15, laatste rit omhoog 15u45.",
+      "meta_title": "Kabelbaan Cime Caron (Val Thorens) · Geverifieerde feiten 2026",
+      "name": "Kabelbaan Cime Caron",
+      "name_alternates": [
+        "Cime Caron",
+        "Cime de Caron",
+        "Caron 3200",
+        "Téléphérique Cime Caron Val Thorens"
+      ],
+      "practical_info": [
+        {
+          "k": "Hoogte",
+          "v": "Dalstation 2 320 m · bergstation 3 193 m volgens het BEA-TT, 3 186 m volgens andere bronnen. De top van de Cime de Caron wordt op 3 195 m gegeven. « Caron 3200 » is een commerciële naam."
+        },
+        {
+          "k": "Exploitant",
+          "v": "SETAM"
+        },
+        {
+          "k": "Openingstijden zomer 2026",
+          "v": "Van 4 juli tot 28 augustus 2026, 7 d/7, 9u45–16u15, laatste rit omhoog 15u45. De Engelse pagina van de site vermeldt 16u00 in plaats van 16u15.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Tarieven zomer 2026",
+          "v": "Voetgangerstoegang Cime Caron vanuit Val Thorens: 23,50 € volwassene, 17,60 € kind. Geen enkele bron preciseert of het om een enkele rit of een retour gaat. Gratis van 3 tot 5 jaar op vertoon van een bewijs; toegang verboden voor kinderen onder de 3 jaar.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Passen",
+          "v": "Drie tegenstrijdige beweringen bestaan naast elkaar over de inbegrepenheid in een pas. Informeer aan de kassa vóór aankoop."
+        },
+        {
+          "k": "Reisduur",
+          "v": "Ongeveer 5 minuten (BEA-TT). De vaak genoemde 4 min 20 s beschrijven de configuratie van vóór 2025."
+        },
+        {
+          "k": "Parkeren",
+          "v": "Betaalde overdekte parkeergarages P1 en P2 in Val Thorens (P2: 10 rue du Soleil, 73440 Les Belleville), reserveren via Valtho Parc 04 79 00 02 49."
+        },
+        {
+          "k": "Dieren",
+          "v": null
+        },
+        {
+          "k": "Toegankelijkheid",
+          "v": "Caron 3200 noemt zichzelf rolstoeltoegankelijk via de liften en overdekte loopbruggen. Kinderwagens verboden op de liften; toegang afgeraden voor kinderen onder de 7 jaar."
+        },
+        {
+          "k": "Coördinaten",
+          "v": "45.2805688° N, 6.5626129° E — punt van het dalstation uitsluitend afkomstig van OpenStreetMap, niet bevestigd door een bron van de exploitant."
+        },
+        {
+          "k": "Contact",
+          "v": "SETAM 04 79 00 07 08 · Caron 3200 04 79 00 80 20"
+        }
+      ],
+      "schema_amenities": [
+        "Panoramarestaurant",
+        "Rooftopterras",
+        "Winkel"
+      ],
+      "when_to_visit": "<p>De zomerexploitatie van 2026 loopt van 4 juli tot 28 augustus, dagelijks, met een laatste rit omhoog om 15u45. De winterdata die op de fiche van de exploitant staan (21 november 2026 – 2 mei 2027) zijn voorlopig.</p>"
     }
   },
   "latitude": 45.2805688,

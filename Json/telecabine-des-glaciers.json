@@ -43,6 +43,130 @@
   "hero_credit": "Rémih · CC BY-SA 4.0 · Wikimedia Commons",
   "hero_image": "/img/telecabines/telecabine-des-glaciers-hero.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Von der Roche de Mio aus erreicht die Bahn in weniger als 15 Minuten mehr als 3 000 m.",
+          "tag": "Sommer",
+          "title": "Über 3 000 m hinauffahren"
+        },
+        {
+          "description": "Der Zugang erfolgt in zwei Etappen: Gondelbahn Roche de Mio ab Plagne Bellecôte, dann Gondelbahn des Glaciers.",
+          "tag": null,
+          "title": "Ab Plagne Bellecôte umsteigen"
+        },
+        {
+          "description": "Kinder unter 5 Jahren fahren laut offizieller Seite kostenlos.",
+          "tag": null,
+          "title": "Mit der Familie hinauffahren"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>Gondelbahn des Glaciers</strong> verlängert die Gondelbahn Roche de Mio und erreicht laut der offiziellen Seite von La Plagne „mehr als 3 000 Meter in weniger als 15 Minuten\". Eine Sekundärquelle nennt 3 080 m, eine andere beschreibt eine Verbindung zwischen 2 700 und 3 000 m: Der Betreiber selbst verzichtet auf eine genaue Zahl.</p><p>Zwei praktische Punkte. Sie ist <strong>samstags geschlossen</strong>, ebenso wie die Roche de Mio, die zu ihr führt — nur eine der beiden zu prüfen genügt nicht. Und sie ist <strong>Fußgängern vorbehalten</strong>: weder Skifahrer noch Mountainbikes.</p><p>Sie hat die Gondelbahn Bellecôte ersetzt, und der Gletscher von Bellecôte wird nicht mehr betrieben: Jede Seite, die dort Sommerskilauf beschreibt, ist veraltet.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Kostenpflichtig",
+        "best_season": "Sommer (4. Juli – 29. August 2026)",
+        "commune": "La Plagne Tarentaise",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Gondelbahn",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Vom 4. Juli bis 29. August 2026, von 9:35 bis 16:40 Uhr, montags, dienstags, mittwochs, donnerstags, freitags und sonntags. Samstags geschlossen, und nur bei günstigen Wetterbedingungen.",
+          "q": "Wann fährt die Gondelbahn des Glaciers?"
+        },
+        {
+          "a": "Die offizielle Seite schreibt „mehr als 3 000 Meter\", ohne eine genaue Zahl zu nennen. Eine Sekundärquelle nennt 3 080 m, eine andere beschreibt eine Verbindung, die bei 3 000 m endet. Nichts ist entschieden.",
+          "q": "Auf welcher Höhe kommt man an?"
+        },
+        {
+          "a": "Nein. Die Fahrt und ihre Dauer werden ab der Roche de Mio gerechnet: Zuerst muss man die Gondelbahn Roche de Mio ab Plagne Bellecôte nehmen.",
+          "q": "Kann man direkt vom Ort aus hinauffahren?"
+        },
+        {
+          "a": "Nein, sie ist Fußgängern vorbehalten. Weder Skifahrer noch Mountainbikes.",
+          "q": "Kann man mit dem Mountainbike hinauffahren?"
+        },
+        {
+          "a": "Nein, der Gletscher von Bellecôte wird nicht mehr betrieben. Die Gondelbahn des Glaciers hat die Gondelbahn Bellecôte ersetzt; Seiten, die dort Sommerskilauf beschreiben, sind veraltet.",
+          "q": "Kann man im Sommer auf dem Gletscher Ski fahren?"
+        }
+      ],
+      "hero": {
+        "badge": "Kostenpflichtig · Nur Fußgänger · Samstags geschlossen",
+        "lead": "Die Gondelbahn des Glaciers verlängert die Roche de Mio auf über 3 000 m. Fußgängern vorbehalten, samstags geschlossen und vom Wetter abhängig."
+      },
+      "hero_alt": "Gondelbahn des Glaciers, La Plagne Tarentaise, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Zugang mit zwei Bahnen ab Plagne Bellecôte: Gondelbahn Roche de Mio, dann Gondelbahn des Glaciers. Mountainbikes sind auf der zweiten nicht zugelassen.",
+        "public_transport": null
+      },
+      "meta_description": "Fußgänger-Gondelbahn auf über 3 000 m, in Verlängerung der Roche de Mio. Sommer 2026: 4. Juli – 29. August, samstags geschlossen. Einfache Bergfahrt 9 €.",
+      "meta_title": "Gondelbahn des Glaciers (La Plagne) · Sommer 2026, Preise",
+      "name": "Gondelbahn des Glaciers",
+      "name_alternates": [
+        "Les Glaciers",
+        "Télécabine de Bellecôte (ancien nom)"
+      ],
+      "practical_info": [
+        {
+          "k": "Typ",
+          "v": "Gondelbahn, Kabinen mit 10 Plätzen. Fußgängern vorbehalten."
+        },
+        {
+          "k": "Ankunftshöhe",
+          "v": "„Mehr als 3 000 m\" (offizielle Seite) · 3 080 m (Sekundärquelle) · „Verbindung 2 700–3 000 m\" (andere Quelle). Nicht entschieden."
+        },
+        {
+          "k": "Sommer 2026",
+          "v": "Vom 4. Juli bis 29. August 2026, von 9:35 bis 16:40 Uhr, nur bei günstigen Wetterbedingungen.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Betriebstage",
+          "v": "Montag, Dienstag, Mittwoch, Donnerstag, Freitag und Sonntag. Samstags geschlossen, wie die Roche de Mio, die zu ihr führt.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Zugang",
+          "v": "Von der Roche de Mio aus, die selbst per Gondelbahn ab Plagne Bellecôte erreicht wird. Weniger als 15 Minuten für den zweiten Abschnitt."
+        },
+        {
+          "k": "Koordinaten",
+          "v": "45.493497° N, 6.735714° E (DATAtourisme-Datensatz)"
+        },
+        {
+          "k": "Fußgängerpreise",
+          "v": "Einfache Bergfahrt 9 € (ab 13 Jahren) und 7 € (5–12 Jahre) · Tageskarte 21 € und 17 € · kostenlos für Kinder unter 5 Jahren. Identisch mit denen der Roche de Mio; ob sie beide Bahnen abdecken, ist nicht belegt."
+        },
+        {
+          "k": "Gletscher von Bellecôte",
+          "v": "Wird nicht mehr betrieben. Die Bahn hat die Gondelbahn Bellecôte ersetzt, deren Name noch kursiert."
+        },
+        {
+          "k": "Tiere",
+          "v": null
+        },
+        {
+          "k": "Barrierefreiheit",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Gondelbahn",
+        "Aussichtspunkt"
+      ],
+      "when_to_visit": "<p>Vom 4. Juli bis 29. August 2026, außer samstags, und nur bei günstigem Wetter — ein Vorbehalt, den die offizielle Seite ausdrücklich nennt. Auf über 3 000 m am besten noch am selben Morgen nachfragen.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -163,6 +287,130 @@
         "Viewpoint"
       ],
       "when_to_visit": "<p>4 July to 29 August 2026, except Saturdays, and subject to favourable weather — a condition the official page states explicitly. Above 3,000 m, check on the morning itself.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "Desde la Roche de Mio, la instalación alcanza más de 3 000 m en menos de 15 minutos.",
+          "tag": "Verano",
+          "title": "Subir por encima de los 3 000 m"
+        },
+        {
+          "description": "El acceso se hace en dos tramos: Telecabina de la Roche de Mio desde Plagne Bellecôte, y después Telecabina des Glaciers.",
+          "tag": null,
+          "title": "Encadenar desde Plagne Bellecôte"
+        },
+        {
+          "description": "Los menores de 5 años viajan gratis según la página oficial.",
+          "tag": null,
+          "title": "Subir en familia"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>Telecabina des Glaciers</strong> prolonga la Telecabina de la Roche de Mio y alcanza, según la página oficial de La Plagne, « más de 3 000 metros en menos de 15 minutos ». Una fuente secundaria propone 3 080 m, otra describe un enlace entre 2 700 y 3 000 m: el operador, por su parte, no da la cifra precisa.</p><p>Dos puntos prácticos. Está <strong>cerrada los sábados</strong>, igual que la Roche de Mio que le da acceso — no basta con verificar solo una de las dos. Y está <strong>reservada a los peatones</strong>: ni esquiadores, ni BTT.</p><p>Sustituyó a la telecabina de Bellecôte, y el glaciar de Bellecôte ya no se explota: toda página que describa esquí de verano en ese lugar está desfasada.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "De pago",
+        "best_season": "Verano (4 de julio – 29 de agosto de 2026)",
+        "commune": "La Plagne Tarentaise",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Telecabina",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Del 4 de julio al 29 de agosto de 2026, de 9h35 a 16h40, los lunes, martes, miércoles, jueves, viernes y domingos. Cerrada los sábados, y sujeta a condiciones meteorológicas favorables.",
+          "q": "¿Cuándo funciona la Telecabina des Glaciers?"
+        },
+        {
+          "a": "La página oficial escribe « más de 3 000 metros » sin dar una cifra precisa. Una fuente secundaria propone 3 080 m, otra describe un enlace que se detiene a 3 000 m. Nada está arbitrado.",
+          "q": "¿A qué altitud se llega?"
+        },
+        {
+          "a": "No. El trayecto y su duración se cuentan desde la Roche de Mio: primero hay que tomar la Telecabina de la Roche de Mio desde Plagne Bellecôte.",
+          "q": "¿Se puede subir directamente desde la estación?"
+        },
+        {
+          "a": "No, está reservada a los peatones. Ni esquiadores ni BTT.",
+          "q": "¿Se puede subir con una BTT?"
+        },
+        {
+          "a": "No, el glaciar de Bellecôte ya no se explota. La Telecabina des Glaciers sustituyó a la telecabina de Bellecôte; las páginas que describen esquí de verano en ese lugar están desfasadas.",
+          "q": "¿Se puede esquiar en el glaciar en verano?"
+        }
+      ],
+      "hero": {
+        "badge": "De pago · Solo peatones · Cerrada los sábados",
+        "lead": "La Telecabina des Glaciers prolonga la Roche de Mio por encima de los 3 000 m. Reservada a los peatones, cerrada los sábados, y pendiente de la meteorología."
+      },
+      "hero_alt": "Telecabina des Glaciers, La Plagne Tarentaise, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Acceso en dos instalaciones desde Plagne Bellecôte: Telecabina de la Roche de Mio, y después Telecabina des Glaciers. Las BTT no están admitidas en la segunda.",
+        "public_transport": null
+      },
+      "meta_description": "Telecabina peatonal por encima de los 3 000 m, en la prolongación de la Roche de Mio. Verano 2026: 4 de julio – 29 de agosto, cerrada los sábados. Subida sencilla 9 €.",
+      "meta_title": "Telecabina des Glaciers (La Plagne) · Verano 2026, tarifas",
+      "name": "Telecabina des Glaciers",
+      "name_alternates": [
+        "Les Glaciers",
+        "Télécabine de Bellecôte (ancien nom)"
+      ],
+      "practical_info": [
+        {
+          "k": "Tipo",
+          "v": "Telecabina, cabinas de 10 plazas. Reservada a los peatones."
+        },
+        {
+          "k": "Altitud de llegada",
+          "v": "« Más de 3 000 m » (página oficial) · 3 080 m (fuente secundaria) · « enlace 2 700–3 000 m » (otra fuente). Sin arbitrar."
+        },
+        {
+          "k": "Verano 2026",
+          "v": "Del 4 de julio al 29 de agosto de 2026, de 9h35 a 16h40, sujeta a condiciones meteorológicas favorables.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Días de apertura",
+          "v": "Lunes, martes, miércoles, jueves, viernes y domingos. Cerrada los sábados, igual que la Roche de Mio que le da acceso.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Acceso",
+          "v": "Desde la Roche de Mio, a la que se llega en telecabina desde Plagne Bellecôte. Menos de 15 minutos para el segundo tramo."
+        },
+        {
+          "k": "Coordenadas",
+          "v": "45.493497° N, 6.735714° E (ficha DATAtourisme)"
+        },
+        {
+          "k": "Tarifas peatonales",
+          "v": "Subida sencilla 9 € (13 años o más) y 7 € (5-12 años) · día 21 € y 17 € · gratis para los menores de 5 años. Idénticas a las de la Roche de Mio; la cobertura de las dos instalaciones no está establecida."
+        },
+        {
+          "k": "Glaciar de Bellecôte",
+          "v": "Ya no se explota. La instalación sustituyó a la telecabina de Bellecôte, cuyo nombre sigue circulando."
+        },
+        {
+          "k": "Animales",
+          "v": null
+        },
+        {
+          "k": "Accesibilidad",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Telecabina",
+        "Mirador"
+      ],
+      "when_to_visit": "<p>Del 4 de julio al 29 de agosto de 2026, salvo los sábados, y sujeta a meteorología favorable — reserva que la página oficial plantea explícitamente. A más de 3 000 m, conviene informarse esa misma mañana.</p>"
     },
     "fr": {
       "activities": [
@@ -287,6 +535,254 @@
         "Point de vue"
       ],
       "when_to_visit": "<p>Du 4 juillet au 29 août 2026, sauf le samedi, et sous réserve de météo favorable — réserve que la page officielle pose explicitement. À plus de 3 000 m, se renseigner le matin même.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Dalla Roche de Mio, l'impianto raggiunge oltre 3 000 m in meno di 15 minuti.",
+          "tag": "Estate",
+          "title": "Salire oltre i 3 000 m"
+        },
+        {
+          "description": "L'accesso avviene in due tempi: cabinovia della Roche de Mio da Plagne Bellecôte, poi cabinovia dei Glaciers.",
+          "tag": null,
+          "title": "Concatenare gli impianti da Plagne Bellecôte"
+        },
+        {
+          "description": "I bambini sotto i 5 anni viaggiano gratuitamente secondo la pagina ufficiale.",
+          "tag": null,
+          "title": "Salire in famiglia"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>Cabinovia dei Glaciers</strong> prolunga la cabinovia della Roche de Mio e raggiunge, secondo la pagina ufficiale di La Plagne, « oltre 3 000 metri in meno di 15 minuti ». Una fonte secondaria propone 3 080 m, un'altra descrive un collegamento tra 2 700 e 3 000 m: il gestore, dal canto suo, non fornisce il dato preciso.</p><p>Due punti pratici. È <strong>chiusa il sabato</strong>, come la Roche de Mio che la serve — verificarne una sola delle due non basta. Ed è <strong>riservata ai pedoni</strong>: né sciatori, né mountain bike.</p><p>Ha sostituito la cabinovia di Bellecôte, e il ghiacciaio di Bellecôte non è più sfruttato: ogni pagina che descrive sci estivo in questo luogo è superata.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "A pagamento",
+        "best_season": "Estate (4 luglio – 29 agosto 2026)",
+        "commune": "La Plagne Tarentaise",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Cabinovia",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Dal 4 luglio al 29 agosto 2026, dalle 9h35 alle 16h40, il lunedì, martedì, mercoledì, giovedì, venerdì e la domenica. Chiusa il sabato, e con riserva di condizioni meteo favorevoli.",
+          "q": "Quando funziona la cabinovia dei Glaciers?"
+        },
+        {
+          "a": "La pagina ufficiale scrive « oltre 3 000 metri » senza fornire un dato preciso. Una fonte secondaria propone 3 080 m, un'altra descrive un collegamento che si ferma a 3 000 m. Nulla è stato chiarito.",
+          "q": "A quale altitudine si arriva?"
+        },
+        {
+          "a": "No. Il tragitto e la sua durata sono conteggiati dalla Roche de Mio: bisogna prima prendere la cabinovia della Roche de Mio da Plagne Bellecôte.",
+          "q": "Si può salire direttamente dalla stazione?"
+        },
+        {
+          "a": "No, è riservata ai pedoni. Né sciatori né mountain bike.",
+          "q": "Si può salire con una mountain bike?"
+        },
+        {
+          "a": "No, il ghiacciaio di Bellecôte non è più sfruttato. La cabinovia dei Glaciers ha sostituito la cabinovia di Bellecôte; le pagine che descrivono sci estivo in questo luogo sono superate.",
+          "q": "Si può sciare sul ghiacciaio in estate?"
+        }
+      ],
+      "hero": {
+        "badge": "A pagamento · Solo pedoni · Chiusa il sabato",
+        "lead": "La cabinovia dei Glaciers prolunga la Roche de Mio oltre i 3 000 m. Riservata ai pedoni, chiusa il sabato, e soggetta al meteo."
+      },
+      "hero_alt": "Télécabine des Glaciers, La Plagne Tarentaise, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Accesso con due impianti da Plagne Bellecôte: cabinovia della Roche de Mio, poi cabinovia dei Glaciers. Le mountain bike non sono ammesse sul secondo.",
+        "public_transport": null
+      },
+      "meta_description": "Cabinovia pedonale oltre i 3 000 m, nel prolungamento della Roche de Mio. Estate 2026: 4 luglio – 29 agosto, chiusa il sabato. Salita singola 9 €.",
+      "meta_title": "Télécabine des Glaciers (La Plagne) · Estate 2026, tariffe",
+      "name": "Télécabine des Glaciers",
+      "name_alternates": [
+        "Les Glaciers",
+        "Télécabine de Bellecôte (ancien nom)"
+      ],
+      "practical_info": [
+        {
+          "k": "Tipo",
+          "v": "Cabinovia, cabine da 10 posti. Riservata ai pedoni."
+        },
+        {
+          "k": "Altitudine di arrivo",
+          "v": "« Oltre 3 000 m » (pagina ufficiale) · 3 080 m (fonte secondaria) · « collegamento 2 700–3 000 m » (altra fonte). Non chiarito."
+        },
+        {
+          "k": "Estate 2026",
+          "v": "Dal 4 luglio al 29 agosto 2026, dalle 9h35 alle 16h40, con riserva di condizioni meteo favorevoli.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Giorni di apertura",
+          "v": "Lunedì, martedì, mercoledì, giovedì, venerdì e domenica. Chiusa il sabato, come la Roche de Mio che la serve.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Accesso",
+          "v": "Dalla Roche de Mio, a sua volta raggiunta in cabinovia da Plagne Bellecôte. Meno di 15 minuti per il secondo tronco."
+        },
+        {
+          "k": "Coordinate",
+          "v": "45.493497° N, 6.735714° E (scheda DATAtourisme)"
+        },
+        {
+          "k": "Tariffe pedoni",
+          "v": "Salita singola 9 € (13 anni e oltre) e 7 € (5-12 anni) · giornata 21 € e 17 € · gratuito per i bambini sotto i 5 anni. Identiche a quelle della Roche de Mio; la copertura dei due impianti non è accertata."
+        },
+        {
+          "k": "Ghiacciaio di Bellecôte",
+          "v": "Non è più sfruttato. L'impianto ha sostituito la cabinovia di Bellecôte, il cui nome circola ancora."
+        },
+        {
+          "k": "Animali",
+          "v": null
+        },
+        {
+          "k": "Accessibilità",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Cabinovia",
+        "Punto panoramico"
+      ],
+      "when_to_visit": "<p>Dal 4 luglio al 29 agosto 2026, tranne il sabato, e con riserva di meteo favorevole — riserva che la pagina ufficiale pone esplicitamente. A oltre 3 000 m, informarsi la mattina stessa.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Vanaf de Roche de Mio bereikt de installatie meer dan 3 000 m in minder dan 15 minuten.",
+          "tag": "Zomer",
+          "title": "Tot boven 3 000 m omhooggaan"
+        },
+        {
+          "description": "De toegang verloopt in twee etappes: de gondelbaan van de Roche de Mio vanaf Plagne Bellecôte, daarna de gondelbaan Les Glaciers.",
+          "tag": null,
+          "title": "Doorschakelen vanaf Plagne Bellecôte"
+        },
+        {
+          "description": "Kinderen onder de 5 jaar reizen gratis volgens de officiële pagina.",
+          "tag": null,
+          "title": "Met het gezin omhooggaan"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>gondelbaan Les Glaciers</strong> ligt in het verlengde van de gondelbaan van de Roche de Mio en bereikt, volgens de officiële pagina van La Plagne, « meer dan 3 000 meter in minder dan 15 minuten ». Een secundaire bron noemt 3 080 m, een andere beschrijft een verbinding tussen 2 700 en 3 000 m: de exploitant zelf geeft geen precies cijfer.</p><p>Twee praktische punten. Hij is <strong>op zaterdag gesloten</strong>, net als de Roche de Mio die hem bedient — slechts een van beide controleren volstaat niet. En hij is <strong>uitsluitend voor voetgangers</strong>: geen skiërs, geen mountainbikes.</p><p>Hij heeft de gondelbaan van Bellecôte vervangen, en de gletsjer van Bellecôte wordt niet meer geëxploiteerd: elke pagina die zomerski op deze plek beschrijft, is verouderd.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Betaald",
+        "best_season": "Zomer (4 juli – 29 augustus 2026)",
+        "commune": "La Plagne Tarentaise",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Gondelbaan",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Van 4 juli tot 29 augustus 2026, van 9h35 tot 16h40, op maandag, dinsdag, woensdag, donderdag, vrijdag en zondag. Zaterdag gesloten, en onder voorbehoud van gunstige weersomstandigheden.",
+          "q": "Wanneer draait de gondelbaan Les Glaciers?"
+        },
+        {
+          "a": "De officiële pagina schrijft « meer dan 3 000 meter » zonder een precies cijfer te geven. Een secundaire bron noemt 3 080 m, een andere beschrijft een verbinding die stopt op 3 000 m. Niets is beslecht.",
+          "q": "Op welke hoogte komt u aan?"
+        },
+        {
+          "a": "Nee. Het traject en de duur worden gerekend vanaf de Roche de Mio: u moet eerst de gondelbaan van de Roche de Mio nemen vanaf Plagne Bellecôte.",
+          "q": "Kunt u er rechtstreeks vanuit het skioord naartoe?"
+        },
+        {
+          "a": "Nee, hij is uitsluitend voor voetgangers. Geen skiërs, geen mountainbikes.",
+          "q": "Kunt u met een mountainbike omhoog?"
+        },
+        {
+          "a": "Nee, de gletsjer van Bellecôte wordt niet meer geëxploiteerd. De gondelbaan Les Glaciers heeft de gondelbaan van Bellecôte vervangen; pagina's die zomerski op deze plek beschrijven, zijn verouderd.",
+          "q": "Kunt u in de zomer op de gletsjer skiën?"
+        }
+      ],
+      "hero": {
+        "badge": "Betaald · Alleen voetgangers · Zaterdag gesloten",
+        "lead": "De gondelbaan Les Glaciers verlengt de Roche de Mio tot boven 3 000 m. Uitsluitend voor voetgangers, zaterdag gesloten, en afhankelijk van het weer."
+      },
+      "hero_alt": "Gondelbaan Les Glaciers, La Plagne Tarentaise, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Toegang met twee installaties vanaf Plagne Bellecôte: de gondelbaan van de Roche de Mio, daarna de gondelbaan Les Glaciers. Mountainbikes worden op de tweede niet toegelaten.",
+        "public_transport": null
+      },
+      "meta_description": "Voetgangersgondelbaan tot boven 3 000 m, in het verlengde van de Roche de Mio. Zomer 2026: 4 juli – 29 augustus, zaterdag gesloten. Enkele rit omhoog 9 €.",
+      "meta_title": "Gondelbaan Les Glaciers (La Plagne) · Zomer 2026, tarieven",
+      "name": "Gondelbaan Les Glaciers",
+      "name_alternates": [
+        "Les Glaciers",
+        "Télécabine de Bellecôte (ancien nom)"
+      ],
+      "practical_info": [
+        {
+          "k": "Type",
+          "v": "Gondelbaan, cabines met 10 plaatsen. Uitsluitend voor voetgangers."
+        },
+        {
+          "k": "Aankomsthoogte",
+          "v": "« Meer dan 3 000 m » (officiële pagina) · 3 080 m (secundaire bron) · « verbinding 2 700–3 000 m » (andere bron). Niet beslecht."
+        },
+        {
+          "k": "Zomer 2026",
+          "v": "Van 4 juli tot 29 augustus 2026, van 9h35 tot 16h40, onder voorbehoud van gunstige weersomstandigheden.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Openingsdagen",
+          "v": "Maandag, dinsdag, woensdag, donderdag, vrijdag en zondag. Zaterdag gesloten, net als de Roche de Mio die hem bedient.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Toegang",
+          "v": "Vanaf de Roche de Mio, die zelf per gondelbaan vanaf Plagne Bellecôte wordt bereikt. Minder dan 15 minuten voor het tweede deel."
+        },
+        {
+          "k": "Coördinaten",
+          "v": "45.493497° N, 6.735714° E (DATAtourisme-record)"
+        },
+        {
+          "k": "Voetgangerstarieven",
+          "v": "Enkele rit omhoog 9 € (13 jaar en ouder) en 7 € (5-12 jaar) · dagkaart 21 € en 17 € · gratis voor kinderen onder de 5 jaar. Gelijk aan die van de Roche de Mio; of ze beide installaties dekken is niet vastgesteld."
+        },
+        {
+          "k": "Gletsjer van Bellecôte",
+          "v": "Wordt niet meer geëxploiteerd. De installatie heeft de gondelbaan van Bellecôte vervangen, waarvan de naam nog circuleert."
+        },
+        {
+          "k": "Dieren",
+          "v": null
+        },
+        {
+          "k": "Toegankelijkheid",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Gondelbaan",
+        "Uitzichtpunt"
+      ],
+      "when_to_visit": "<p>Van 4 juli tot 29 augustus 2026, behalve op zaterdag, en onder voorbehoud van gunstig weer — een voorbehoud dat de officiële pagina uitdrukkelijk maakt. Op meer dan 3 000 m: informeer op de ochtend zelf.</p>"
     }
   },
   "latitude": 45.493497,

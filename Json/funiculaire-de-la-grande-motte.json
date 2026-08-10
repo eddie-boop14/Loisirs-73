@@ -37,6 +37,139 @@
   "hero_credit": "Antoine Lamielle · CC BY-SA 4.0 · Wikimedia Commons",
   "hero_image": "/img/telecabines/funiculaire-de-la-grande-motte-hero.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Die Standseilbahn verbindet Val Claret im Tunnel mit dem Gletscher der Grande Motte, auf 3 490 m Länge.",
+          "tag": "Sommer",
+          "title": "Zum Gletscher hinauffahren, ohne das Tageslicht zu sehen"
+        },
+        {
+          "description": "Oberhalb der Standseilbahn übernimmt die Seilbahn Grande Motte. Es sind zwei getrennte Anlagen, in Reihe geschaltet.",
+          "tag": null,
+          "title": "Mit der Seilbahn weiterfahren"
+        },
+        {
+          "description": "In Betrieb genommen am 14. April 1993 nach einem Vortrieb vom 13. Dezember 1989 bis zum 1. Oktober 1991.",
+          "tag": null,
+          "title": "Eine zweijährige Tunnelbaustelle"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>Standseilbahn Grande Motte</strong>, genannt Perce-Neige, fährt von Val Claret hinauf zum Gletscher der Grande Motte in Tignes. Sie verläuft fast vollständig unterirdisch: 3 490 m Tunnel, mit Ausnahme eines kurzen Mittelabschnitts, in dem zwei parallele Tunnel das Kreuzen der Züge ermöglichen. Die Sekundärquellen stellen sie als die längste Standseilbahn Frankreichs vor.</p><p>Sie darf nicht mit der Seilbahn Grande Motte verwechselt werden, die oberhalb übernimmt und Gegenstand einer eigenen Fiche ist. Die Standseilbahn fährt in Val Claret ab; die Seilbahn nicht.</p><p>Sommer 2026: Betrieb vom 20. Juni bis 31. August, täglich, mit zwei Zeitfenstern — 6h45 bis 16h05 zu Saisonbeginn, danach 9h30 bis 17h05. Keine Quelle veröffentlicht das Datum des Wechsels zwischen beiden.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Kostenpflichtig",
+        "best_season": "Sommer (20. Juni – 31. August 2026)",
+        "commune": "Tignes",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Standseilbahn",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "3 490 m, fast vollständig im Tunnel. Die Sekundärquellen stellen sie als die längste Standseilbahn Frankreichs vor; keine Quelle des Betreibers behauptet das.",
+          "q": "Wie lang ist die Standseilbahn Grande Motte?"
+        },
+        {
+          "a": "Nein. Die Standseilbahn fährt in Val Claret ab und steigt zum Gletscher hinauf; die Seilbahn Grande Motte übernimmt oberhalb. Es sind zwei Anlagen in Reihe, jede mit ihrer eigenen Fiche.",
+          "q": "Sind die Standseilbahn und die Seilbahn Grande Motte dieselbe Anlage?"
+        },
+        {
+          "a": "Vom 20. Juni bis 31. August 2026, täglich. Achtung: Vier weitere Saisonend-Daten sind für das Gebiet der Grande Motte im Umlauf, zwischen dem 15. Juli und dem 6. September. Prüfen Sie vor der Auffahrt.",
+          "q": "Wann fährt die Standseilbahn im Sommer 2026?"
+        },
+        {
+          "a": "Zwei Zeitfenster sind veröffentlicht, 6h45–16h05 zu Saisonbeginn und danach 9h30–17h05, aber keine Quelle sagt, an welchem Datum von einem zum anderen gewechselt wird.",
+          "q": "Um wie viel Uhr öffnet die Standseilbahn?"
+        },
+        {
+          "a": "Am 14. April 1993. Der Tunnelvortrieb dauerte vom 13. Dezember 1989 bis zum 1. Oktober 1991, nach geologischen Untersuchungen im Jahr 1987.",
+          "q": "Seit wann existiert die Standseilbahn?"
+        }
+      ],
+      "hero": {
+        "badge": "Kostenpflichtig · 3 490 m Tunnel",
+        "lead": "Der Perce-Neige fährt von Val Claret durch 3 490 m Tunnel zum Gletscher der Grande Motte hinauf. Sommer 2026: vom 20. Juni bis 31. August — eines von fünf veröffentlichten End-Daten für dieses Gebiet."
+      },
+      "hero_alt": "Standseilbahn Grande Motte, Val Claret, Tignes",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Abfahrt in Val Claret, in Tignes. Der GPS-Punkt dieser Fiche ist der der Talstation, nicht der der Ankunft am Gletscher.",
+        "public_transport": null
+      },
+      "meta_description": "Standseilbahn von 3 490 m im Tunnel, von Val Claret zum Gletscher der Grande Motte. Sommer 2026: 20. Juni – 31. August. Nicht zu verwechseln mit der Seilbahn oberhalb.",
+      "meta_title": "Standseilbahn Grande Motte (Tignes) · Sommer 2026, Zeiten",
+      "name": "Standseilbahn Grande Motte",
+      "name_alternates": [
+        "Perce-Neige",
+        "Funiculaire du Perce-Neige",
+        "Funiculaire de Tignes"
+      ],
+      "practical_info": [
+        {
+          "k": "Typ",
+          "v": "Unterirdische Standseilbahn"
+        },
+        {
+          "k": "Länge",
+          "v": "3 490 m, in einem einzigen Tunnel bis auf einen kurzen Mittelabschnitt mit zwei parallelen Tunneln für das Kreuzen der Züge"
+        },
+        {
+          "k": "Koordinaten",
+          "v": "45.452671° N, 6.897683° O — Talstation in Val Claret, nicht die Ankunft am Gletscher"
+        },
+        {
+          "k": "Sommer 2026",
+          "v": "Vom 20. Juni bis 31. August 2026, täglich. Vier weitere Saisonend-Daten sind für dieses Gebiet im Umlauf: 15. Juli, 28. August, 30. August und 6. September.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Zeiten",
+          "v": "6h45–16h05 zu Saisonbeginn, danach 9h30–17h05. Kein Wechseldatum veröffentlicht.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Inbetriebnahme",
+          "v": "14. April 1993. Vortrieb vom 13. Dezember 1989 bis zum 1. Oktober 1991, geologische Untersuchungen 1987."
+        },
+        {
+          "k": "Anlage",
+          "v": "FUNI 334, Von Roll, 334 Plätze pro Zug (einzige Quelle: remontees-mecaniques.net)"
+        },
+        {
+          "k": "Betreiber",
+          "v": "SPL ALTTA seit dem 1. Juni 2026, als Nachfolger der Compagnie des Alpes über die STGM"
+        },
+        {
+          "k": "Preis",
+          "v": null
+        },
+        {
+          "k": "Fahrtdauer",
+          "v": null
+        },
+        {
+          "k": "Haustiere",
+          "v": null
+        },
+        {
+          "k": "Barrierefreiheit",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Standseilbahn",
+        "Gletscherzugang"
+      ],
+      "when_to_visit": "<p>Sommerbetrieb vom 20. Juni bis 31. August 2026 laut Betreiber. Für dieses Gebiet kursieren fünf verschiedene Saisonend-Daten, je nach Quelle und beschriebenem Gegenstand (Ski, Lifte, Gletscher): Prüfen Sie das Datum am selben Tag, statt sich auf eine Saisonseite zu verlassen.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -166,6 +299,139 @@
         "Glacier access"
       ],
       "when_to_visit": "<p>Summer running from 20 June to 31 August 2026 per the operator. This site carries five different end-of-season dates depending on the source and on what is being described (skiing, lifts, glacier): check on the day rather than trusting a seasonal page.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "El funicular une Val Claret con el glaciar de la Grande Motte en túnel, a lo largo de 3 490 m.",
+          "tag": "Verano",
+          "title": "Subir al glaciar sin ver la luz del día"
+        },
+        {
+          "description": "Por encima del funicular, el teleférico de la Grande Motte toma el relevo. Son dos instalaciones distintas, en serie.",
+          "tag": null,
+          "title": "Encadenar con el teleférico"
+        },
+        {
+          "description": "Puesto en servicio el 14 de abril de 1993 tras una perforación realizada del 13 de diciembre de 1989 al 1 de octubre de 1991.",
+          "tag": null,
+          "title": "Una obra de túnel de dos años"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>funicular de la Grande Motte</strong>, llamado Perce-Neige, sube de Val Claret hacia el glaciar de la Grande Motte en Tignes. Es casi enteramente subterráneo: 3 490 m de túnel, salvo una corta sección intermedia donde dos túneles paralelos permiten el cruce de los trenes. Las fuentes secundarias lo presentan como el funicular más largo de Francia.</p><p>No debe confundirse con el teleférico de la Grande Motte, que toma el relevo por encima y es objeto de una ficha distinta. El funicular sale de Val Claret; el teleférico, no.</p><p>Verano 2026: explotación del 20 de junio al 31 de agosto, todos los días, con dos franjas horarias — de 6h45 a 16h05 al principio de la temporada, de 9h30 a 17h05 después. Ninguna fuente publica la fecha del cambio entre las dos.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "De pago",
+        "best_season": "Verano (20 de junio – 31 de agosto de 2026)",
+        "commune": "Tignes",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Funicular",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "3 490 m, casi íntegramente en túnel. Las fuentes secundarias lo presentan como el funicular más largo de Francia; ninguna fuente del operador lo afirma.",
+          "q": "¿Cuál es la longitud del funicular de la Grande Motte?"
+        },
+        {
+          "a": "No. El funicular sale de Val Claret y sube al glaciar; el teleférico de la Grande Motte toma el relevo por encima. Son dos instalaciones en serie, cada una con su ficha.",
+          "q": "¿Son el funicular y el teleférico de la Grande Motte la misma instalación?"
+        },
+        {
+          "a": "Del 20 de junio al 31 de agosto de 2026, todos los días. Atención: circulan otras cuatro fechas de fin de temporada para el sitio de la Grande Motte, entre el 15 de julio y el 6 de septiembre. Verifique antes de subir.",
+          "q": "¿Cuándo funciona el funicular en verano de 2026?"
+        },
+        {
+          "a": "Se publican dos franjas, 6h45–16h05 al principio de la temporada y 9h30–17h05 después, pero ninguna fuente dice en qué fecha se pasa de una a otra.",
+          "q": "¿A qué hora abre el funicular?"
+        },
+        {
+          "a": "El 14 de abril de 1993. La perforación del túnel duró del 13 de diciembre de 1989 al 1 de octubre de 1991, tras estudios geológicos realizados en 1987.",
+          "q": "¿Desde cuándo existe el funicular?"
+        }
+      ],
+      "hero": {
+        "badge": "De pago · 3 490 m de túnel",
+        "lead": "El Perce-Neige sube de Val Claret al glaciar de la Grande Motte por 3 490 m de túnel. Verano 2026: del 20 de junio al 31 de agosto — una de las cinco fechas de fin publicadas para este sitio."
+      },
+      "hero_alt": "Funicular de la Grande Motte, Val Claret, Tignes",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Salida en Val Claret, en Tignes. El punto GPS de esta ficha es el de la estación de salida, no el de la llegada al glaciar.",
+        "public_transport": null
+      },
+      "meta_description": "Funicular de 3 490 m en túnel, de Val Claret al glaciar de la Grande Motte. Verano 2026: 20 de junio – 31 de agosto. No confundir con el teleférico de más arriba.",
+      "meta_title": "Funicular de la Grande Motte (Tignes) · Verano 2026, horarios",
+      "name": "Funicular de la Grande Motte",
+      "name_alternates": [
+        "Perce-Neige",
+        "Funiculaire du Perce-Neige",
+        "Funiculaire de Tignes"
+      ],
+      "practical_info": [
+        {
+          "k": "Tipo",
+          "v": "Funicular subterráneo"
+        },
+        {
+          "k": "Longitud",
+          "v": "3 490 m, en túnel único salvo una corta sección intermedia con dos túneles paralelos para el cruce de los trenes"
+        },
+        {
+          "k": "Coordenadas",
+          "v": "45.452671° N, 6.897683° E — estación de salida en Val Claret, no la llegada al glaciar"
+        },
+        {
+          "k": "Verano 2026",
+          "v": "Del 20 de junio al 31 de agosto de 2026, todos los días. Circulan otras cuatro fechas de fin de temporada para este sitio: 15 de julio, 28 de agosto, 30 de agosto y 6 de septiembre.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Horarios",
+          "v": "6h45–16h05 al principio de la temporada, 9h30–17h05 después. Ninguna fecha de cambio publicada.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Puesta en servicio",
+          "v": "14 de abril de 1993. Perforación del 13 de diciembre de 1989 al 1 de octubre de 1991, estudios geológicos en 1987."
+        },
+        {
+          "k": "Instalación",
+          "v": "FUNI 334, Von Roll, 334 plazas por tren (fuente única: remontees-mecaniques.net)"
+        },
+        {
+          "k": "Operador",
+          "v": "SPL ALTTA desde el 1 de junio de 2026, en sustitución de la Compagnie des Alpes a través de la STGM"
+        },
+        {
+          "k": "Tarifa",
+          "v": null
+        },
+        {
+          "k": "Duración del trayecto",
+          "v": null
+        },
+        {
+          "k": "Animales",
+          "v": null
+        },
+        {
+          "k": "Accesibilidad",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Funicular",
+        "Acceso al glaciar"
+      ],
+      "when_to_visit": "<p>Explotación estival del 20 de junio al 31 de agosto de 2026 según el operador. Este sitio acumula cinco fechas de fin de temporada diferentes según la fuente y el objeto descrito (esquí, remontes, glaciar): verifique la fecha el mismo día en lugar de fiarse de una página de temporada.</p>"
     },
     "fr": {
       "activities": [
@@ -299,6 +565,272 @@
         "Accès glacier"
       ],
       "when_to_visit": "<p>Exploitation estivale du 20 juin au 31 août 2026 selon l'exploitant. Ce site cumule cinq dates de fin de saison différentes selon la source et l'objet décrit (ski, remontées, glacier) : vérifiez la date le jour même plutôt que de vous fier à une page saisonnière.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "La funicolare collega Val Claret al ghiacciaio della Grande Motte in galleria, su 3 490 m.",
+          "tag": "Estate",
+          "title": "Salire al ghiacciaio senza vedere la luce del giorno"
+        },
+        {
+          "description": "Sopra la funicolare, la Funivia della Grande Motte prende il testimone. Sono due impianti distinti, in serie.",
+          "tag": null,
+          "title": "Proseguire con la funivia"
+        },
+        {
+          "description": "Messa in servizio il 14 aprile 1993 dopo uno scavo condotto dal 13 dicembre 1989 al 1° ottobre 1991.",
+          "tag": null,
+          "title": "Un cantiere di galleria di due anni"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>Funicolare della Grande Motte</strong>, detta Perce-Neige, sale da Val Claret verso il ghiacciaio della Grande Motte a Tignes. È quasi interamente sotterranea: 3 490 m di galleria, ad eccezione di una corta sezione mediana in cui due gallerie parallele permettono ai convogli di incrociarsi. Le fonti secondarie la presentano come la funicolare più lunga di Francia.</p><p>Non va confusa con la Funivia della Grande Motte, che prende il testimone più in alto ed è oggetto di una scheda distinta. La funicolare parte da Val Claret; la funivia, no.</p><p>Estate 2026: esercizio dal 20 giugno al 31 agosto, tutti i giorni, con due fasce orarie — dalle 6h45 alle 16h05 a inizio stagione, dalle 9h30 alle 17h05 in seguito. Nessuna fonte pubblica la data di passaggio tra le due.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "A pagamento",
+        "best_season": "Estate (20 giugno – 31 agosto 2026)",
+        "commune": "Tignes",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Funicolare",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "3 490 m, quasi integralmente in galleria. Le fonti secondarie la presentano come la funicolare più lunga di Francia; nessuna fonte del gestore lo afferma.",
+          "q": "Qual è la lunghezza della Funicolare della Grande Motte?"
+        },
+        {
+          "a": "No. La funicolare parte da Val Claret e sale al ghiacciaio; la Funivia della Grande Motte prende il testimone più in alto. Sono due impianti in serie, ciascuno con la propria scheda.",
+          "q": "La funicolare e la funivia della Grande Motte sono lo stesso impianto?"
+        },
+        {
+          "a": "Dal 20 giugno al 31 agosto 2026, tutti i giorni. Attenzione: circolano quattro altre date di fine stagione per il sito della Grande Motte, tra il 15 luglio e il 6 settembre. Verificate prima di salire.",
+          "q": "Quando funziona la funicolare nell'estate 2026?"
+        },
+        {
+          "a": "Due fasce sono pubblicate, 6h45–16h05 a inizio stagione e 9h30–17h05 in seguito, ma nessuna fonte dice in quale data si passa dall'una all'altra.",
+          "q": "A che ora apre la funicolare?"
+        },
+        {
+          "a": "Il 14 aprile 1993. Lo scavo della galleria è durato dal 13 dicembre 1989 al 1° ottobre 1991, dopo studi geologici condotti nel 1987.",
+          "q": "Da quando esiste la funicolare?"
+        }
+      ],
+      "hero": {
+        "badge": "A pagamento · 3 490 m di galleria",
+        "lead": "Il Perce-Neige sale da Val Claret al ghiacciaio della Grande Motte attraverso 3 490 m di galleria. Estate 2026: dal 20 giugno al 31 agosto — una delle cinque date di fine pubblicate per questo sito."
+      },
+      "hero_alt": "Funicolare della Grande Motte, Val Claret, Tignes",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Partenza a Val Claret, a Tignes. Il punto GPS di questa scheda è quello della stazione di partenza, non dell'arrivo al ghiacciaio.",
+        "public_transport": null
+      },
+      "meta_description": "Funicolare di 3 490 m in galleria, da Val Claret al ghiacciaio della Grande Motte. Estate 2026: 20 giugno – 31 agosto. Da non confondere con la funivia più in alto.",
+      "meta_title": "Funicolare della Grande Motte (Tignes) · Estate 2026, orari",
+      "name": "Funicolare della Grande Motte",
+      "name_alternates": [
+        "Perce-Neige",
+        "Funiculaire du Perce-Neige",
+        "Funiculaire de Tignes"
+      ],
+      "practical_info": [
+        {
+          "k": "Tipo",
+          "v": "Funicolare sotterranea"
+        },
+        {
+          "k": "Lunghezza",
+          "v": "3 490 m, in galleria unica salvo una corta sezione mediana a due gallerie parallele per l'incrocio dei convogli"
+        },
+        {
+          "k": "Coordinate",
+          "v": "45.452671° N, 6.897683° E — stazione di partenza a Val Claret, non l'arrivo al ghiacciaio"
+        },
+        {
+          "k": "Estate 2026",
+          "v": "Dal 20 giugno al 31 agosto 2026, tutti i giorni. Quattro altre date di fine stagione circolano per questo sito: 15 luglio, 28 agosto, 30 agosto e 6 settembre.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Orari",
+          "v": "6h45–16h05 a inizio stagione, 9h30–17h05 in seguito. Nessuna data di passaggio pubblicata.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Messa in servizio",
+          "v": "14 aprile 1993. Scavo dal 13 dicembre 1989 al 1° ottobre 1991, studi geologici nel 1987."
+        },
+        {
+          "k": "Impianto",
+          "v": "FUNI 334, Von Roll, 334 posti per convoglio (fonte unica: remontees-mecaniques.net)"
+        },
+        {
+          "k": "Gestore",
+          "v": "SPL ALTTA dal 1° giugno 2026, in sostituzione della Compagnie des Alpes via STGM"
+        },
+        {
+          "k": "Tariffa",
+          "v": null
+        },
+        {
+          "k": "Durata del tragitto",
+          "v": null
+        },
+        {
+          "k": "Animali",
+          "v": null
+        },
+        {
+          "k": "Accessibilità",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Funicolare",
+        "Accesso al ghiacciaio"
+      ],
+      "when_to_visit": "<p>Esercizio estivo dal 20 giugno al 31 agosto 2026 secondo il gestore. Questo sito accumula cinque date di fine stagione diverse a seconda della fonte e dell'oggetto descritto (sci, impianti, ghiacciaio): verificate la data il giorno stesso invece di affidarvi a una pagina stagionale.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "De kabeltrein verbindt Val Claret met de gletsjer van de Grande Motte door een tunnel, over 3 490 m.",
+          "tag": "Zomer",
+          "title": "Naar de gletsjer klimmen zonder daglicht te zien"
+        },
+        {
+          "description": "Boven de kabeltrein neemt de kabelbaan van de Grande Motte het over. Het zijn twee afzonderlijke installaties, in serie.",
+          "tag": null,
+          "title": "Doorreizen met de kabelbaan"
+        },
+        {
+          "description": "In gebruik genomen op 14 april 1993 na boorwerkzaamheden van 13 december 1989 tot 1 oktober 1991.",
+          "tag": null,
+          "title": "Een tunnelbouw van twee jaar"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>Kabeltrein La Grande Motte</strong>, ook Perce-Neige genoemd, klimt van Val Claret naar de gletsjer van de Grande Motte in Tignes. Hij loopt vrijwel volledig ondergronds: 3 490 m tunnel, met uitzondering van een kort middendeel waar twee parallelle tunnels de treinstellen laten kruisen. Secundaire bronnen presenteren hem als de langste kabeltrein van Frankrijk.</p><p>Verwar hem niet met de kabelbaan van de Grande Motte, die het erboven overneemt en een eigen fiche heeft. De kabeltrein vertrekt vanuit Val Claret; de kabelbaan niet.</p><p>Zomer 2026: in bedrijf van 20 juni tot 31 augustus, dagelijks, met twee tijdvakken — 6u45 tot 16u05 aan het begin van het seizoen, daarna 9u30 tot 17u05. Geen enkele bron publiceert de datum van de overgang tussen beide.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Betalend",
+        "best_season": "Zomer (20 juni – 31 augustus 2026)",
+        "commune": "Tignes",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Kabeltrein",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "3 490 m, vrijwel volledig in een tunnel. Secundaire bronnen presenteren hem als de langste kabeltrein van Frankrijk; geen enkele bron van de exploitant bevestigt dat.",
+          "q": "Hoe lang is de Kabeltrein La Grande Motte?"
+        },
+        {
+          "a": "Nee. De kabeltrein vertrekt vanuit Val Claret en klimt naar de gletsjer; de kabelbaan van de Grande Motte neemt het erboven over. Het zijn twee installaties in serie, elk met een eigen fiche.",
+          "q": "Zijn de kabeltrein en de kabelbaan van de Grande Motte dezelfde installatie?"
+        },
+        {
+          "a": "Van 20 juni tot 31 augustus 2026, dagelijks. Let op: vier andere einddata van het seizoen circuleren voor het gebied van de Grande Motte, tussen 15 juli en 6 september. Controleer dit voordat u omhoog gaat.",
+          "q": "Wanneer rijdt de kabeltrein in de zomer van 2026?"
+        },
+        {
+          "a": "Er zijn twee tijdvakken gepubliceerd, 6u45–16u05 aan het begin van het seizoen en daarna 9u30–17u05, maar geen enkele bron zegt op welke datum men van het ene naar het andere overgaat.",
+          "q": "Hoe laat opent de kabeltrein?"
+        },
+        {
+          "a": "Op 14 april 1993. Het boren van de tunnel duurde van 13 december 1989 tot 1 oktober 1991, na geologische studies in 1987.",
+          "q": "Sinds wanneer bestaat de kabeltrein?"
+        }
+      ],
+      "hero": {
+        "badge": "Betalend · 3 490 m tunnel",
+        "lead": "De Perce-Neige klimt van Val Claret naar de gletsjer van de Grande Motte door 3 490 m tunnel. Zomer 2026: van 20 juni tot 31 augustus — een van de vijf gepubliceerde einddata voor dit gebied."
+      },
+      "hero_alt": "Kabeltrein La Grande Motte, Val Claret, Tignes",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Vertrek in Val Claret, in Tignes. Het GPS-punt van deze fiche is dat van het vertrekstation, niet van de aankomst bij de gletsjer.",
+        "public_transport": null
+      },
+      "meta_description": "Kabeltrein van 3 490 m in een tunnel, van Val Claret naar de gletsjer van de Grande Motte. Zomer 2026: 20 juni – 31 augustus. Niet te verwarren met de kabelbaan erboven.",
+      "meta_title": "Kabeltrein La Grande Motte (Tignes) · Zomer 2026, openingstijden",
+      "name": "Kabeltrein La Grande Motte",
+      "name_alternates": [
+        "Perce-Neige",
+        "Funiculaire du Perce-Neige",
+        "Funiculaire de Tignes"
+      ],
+      "practical_info": [
+        {
+          "k": "Type",
+          "v": "Ondergrondse kabeltrein"
+        },
+        {
+          "k": "Lengte",
+          "v": "3 490 m, in één tunnel behalve een kort middendeel met twee parallelle tunnels voor het kruisen van de treinstellen"
+        },
+        {
+          "k": "Coördinaten",
+          "v": "45.452671° N, 6.897683° E — vertrekstation in Val Claret, niet de aankomst bij de gletsjer"
+        },
+        {
+          "k": "Zomer 2026",
+          "v": "Van 20 juni tot 31 augustus 2026, dagelijks. Vier andere einddata van het seizoen circuleren voor dit gebied: 15 juli, 28 augustus, 30 augustus en 6 september.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Openingstijden",
+          "v": "6u45–16u05 aan het begin van het seizoen, daarna 9u30–17u05. Geen overgangsdatum gepubliceerd.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Ingebruikname",
+          "v": "14 april 1993. Boorwerkzaamheden van 13 december 1989 tot 1 oktober 1991, geologische studies in 1987."
+        },
+        {
+          "k": "Installatie",
+          "v": "FUNI 334, Von Roll, 334 plaatsen per treinstel (enige bron: remontees-mecaniques.net)"
+        },
+        {
+          "k": "Exploitant",
+          "v": "SPL ALTTA sinds 1 juni 2026, ter vervanging van de Compagnie des Alpes via STGM"
+        },
+        {
+          "k": "Tarief",
+          "v": null
+        },
+        {
+          "k": "Reisduur",
+          "v": null
+        },
+        {
+          "k": "Dieren",
+          "v": null
+        },
+        {
+          "k": "Toegankelijkheid",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Kabeltrein",
+        "Toegang gletsjer"
+      ],
+      "when_to_visit": "<p>Zomerexploitatie van 20 juni tot 31 augustus 2026 volgens de exploitant. Voor dit gebied circuleren vijf verschillende einddata van het seizoen, afhankelijk van de bron en het beschreven object (skiën, liften, gletsjer): controleer de datum op de dag zelf in plaats van te vertrouwen op een seizoenspagina.</p>"
     }
   },
   "latitude": 45.452671,

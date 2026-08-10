@@ -37,6 +37,137 @@
   "hero_credit": "Florian Pépellin · CC BY-SA 4.0 · Wikimedia Commons",
   "hero_image": "/img/points-de-vue/col-du-mont-cenis-hero.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Der Lac du Mont-Cenis ist ein Stausee, der zwei Wasserkraftwerke speist. Er wird gelegentlich für Arbeiten abgelassen.",
+          "tag": null,
+          "title": "Den See umrunden"
+        },
+        {
+          "description": "Im Winter wird die Passstraße zu L'Escargot, einer 11 km langen grünen Piste, die das Tourismusbüro als die längste Europas vorstellt — ein nicht gegengeprüfter Superlativ.",
+          "tag": "Winter",
+          "title": "L'Escargot auf Skiern hinabfahren"
+        },
+        {
+          "description": "Der Pass ist ein klassischer Anstieg der Radsport-Maurienne von Lanslebourg aus.",
+          "tag": null,
+          "title": "Mit dem Rad zum Pass hinauffahren"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Der <strong>Col du Mont-Cenis</strong> öffnet die obere Maurienne über die RD 1006 nach Italien, oberhalb von Val-Cenis. Seine Höhe wird vom Tourismusbüro mit 2 081 m angegeben, von en.wikipedia mit 2 085 m: vier Meter Unterschied, den niemand entscheidet.</p><p>Anders als mehrere Weiterverbreiter schreiben, <strong>ist der Pass kein Grenzposten</strong>. Seit dem Pariser Vertrag von 1947 liegt er vollständig in Frankreich; die Grenze verläuft weiter östlich. Der See, an dem man entlangfährt, ist ein künstlicher Stausee, der zwei Wasserkraftwerke speist.</p><p>Die Öffnung 2026 erfolgte in zwei Schritten: am Mittwoch, dem 13. Mai, für das Wochenende von Christi Himmelfahrt, dann eine erneute Sperrung für Arbeiten an der RD 1006 vor der Wiedereröffnung am Freitag, dem 22. Mai. Beide Daten sind im Umlauf, und beide sind korrekt.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Frei zugänglich · Kostenlos",
+        "best_season": "Juni – Oktober",
+        "commune": "Val-Cenis",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Straßenpass und Stausee",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "Drei Zahlen sind im Umlauf: 2 081 m auf der offiziellen Seite des Tourismusbüros von Val Cenis, 2 085 m auf en.wikipedia, 2 083 m bei Aggregatoren. Keine Quelle dokumentiert ihre Messung; diese Fiche entscheidet nicht.",
+          "q": "Wie hoch liegt der Col du Mont-Cenis?"
+        },
+        {
+          "a": "Nein. Seit dem Pariser Vertrag von 1947 liegt der Pass vollständig auf französischem Gebiet. Die italienische Grenze verläuft weiter östlich. Am Pass gibt es keinen Grenzposten.",
+          "q": "Liegt der Col du Mont-Cenis an der italienischen Grenze?"
+        },
+        {
+          "a": "In zwei Schritten. Eine erste Öffnung am Mittwoch, dem 13. Mai 2026, für das Wochenende von Christi Himmelfahrt, dann eine erneute Sperrung für Arbeiten an der RD 1006 und die Wiedereröffnung am Freitag, dem 22. Mai 2026.",
+          "q": "Wann wurde der Pass 2026 geöffnet?"
+        },
+        {
+          "a": "Das Tourismusbüro wendet eine Regel an: der zweite Montag im November, also der 9. November 2026. Dieses Datum ist ausdrücklich vorläufig und hängt vom Schnee ab; es ist keine Ankündigung des Departements.",
+          "q": "Wann wird der Pass für den Winter gesperrt?"
+        },
+        {
+          "a": "Ja: Die Passstraße wird zu L'Escargot, einer 11 km langen grünen Piste. Das Tourismusbüro stellt sie als die längste Europas vor, ein Superlativ, den keine der konsultierten unabhängigen Quellen bestätigt.",
+          "q": "Wird die Straße im Winter zur Skipiste?"
+        }
+      ],
+      "hero": {
+        "badge": "Freier Zugang · RD 1006",
+        "lead": "Der Col du Mont-Cenis öffnet die obere Maurienne nach Italien, oberhalb eines Stausees. Er ist kein Grenzposten: Seit 1947 liegt er vollständig in Frankreich."
+      },
+      "hero_alt": "Col du Mont-Cenis und sein Stausee, Val-Cenis, Savoie",
+      "how_to_get_there": {
+        "bike": "Klassischer Anstieg von Lanslebourg (Val-Cenis) aus. Vélo Maurienne veröffentlicht ein eigenes Profil; seine Zahlen wurden nicht übernommen, und hier wird keine Kilometerangabe gemacht.",
+        "car": "Über die RD 1006 von Lanslebourg aus. en.wikipedia schreibt noch « Route nationale 6 », eine herabgestufte Nummer: Die aktuellen französischen Quellen schreiben RD 1006.",
+        "public_transport": null
+      },
+      "meta_description": "Pass der oberen Maurienne oberhalb eines Wasserkraft-Stausees. Drei veröffentlichte Höhenangaben (2 081, 2 083, 2 085 m). Seit 1947 vollständig in Frankreich, trotz allem, was man liest.",
+      "meta_title": "Col du Mont-Cenis · Höhe, Öffnung 2026, See",
+      "name": "Col du Mont-Cenis",
+      "name_alternates": [
+        "Mont-Cenis",
+        "Col du Mont Cenis",
+        "Colle del Moncenisio"
+      ],
+      "practical_info": [
+        {
+          "k": "Höhe",
+          "v": "2 081 m (OT Val Cenis) · 2 085 m (en.wikipedia) · 2 083 m (Aggregatoren). Drei Zahlen, keine Entscheidung."
+        },
+        {
+          "k": "Koordinaten",
+          "v": "45.260278° N, 6.900833° O (en.wikipedia)"
+        },
+        {
+          "k": "Straße",
+          "v": "RD 1006. en.wikipedia schreibt noch « Route nationale 6 », eine herabgestufte Nummer."
+        },
+        {
+          "k": "Öffnung 2026",
+          "v": "Zwei Schritte: Mittwoch, 13. Mai 2026, für das Wochenende von Christi Himmelfahrt, dann erneute Sperrung für Arbeiten an der RD 1006, Wiedereröffnung am Freitag, dem 22. Mai 2026.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Sperrung 2026",
+          "v": "Vorläufig: Montag, 9. November 2026, nach der vom Tourismusbüro veröffentlichten Regel des zweiten Montags im November. Wetterabhängig, nicht vom Departement festgelegt.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Grenzstatus",
+          "v": "Der Pass liegt seit dem Pariser Vertrag von 1947 vollständig in Frankreich. Am Pass gibt es keinen Grenzposten."
+        },
+        {
+          "k": "Preis",
+          "v": "Kostenlos, freier Zugang"
+        },
+        {
+          "k": "See",
+          "v": "Künstlicher Stausee, der zwei Wasserkraftwerke speist und gelegentlich für Arbeiten abgelassen wird. Kein verlässliches Baudatum: Die Angabe von en.wikipedia (1921) ist nicht bestätigt."
+        },
+        {
+          "k": "Winter",
+          "v": "Die Straße wird zu L'Escargot, einer 11 km langen grünen Piste, die das Tourismusbüro als die längste Europas vorstellt — ein nicht gegengeprüfter Superlativ."
+        },
+        {
+          "k": "Parkplatz",
+          "v": null
+        },
+        {
+          "k": "Haustiere",
+          "v": null
+        },
+        {
+          "k": "Barrierefreiheit",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Parkplatz",
+        "See",
+        "Ausgangspunkt für Wanderungen"
+      ],
+      "when_to_visit": "<p>Geöffnet von Mitte Mai bis Anfang November, je nach Schneelage. 2026: Öffnung in zwei Schritten, am 13. und dann am 22. Mai; Sperrung voraussichtlich am 9. November, ohne Bestätigung. Im Winter ist die Straße eine Skipiste und nicht befahrbar.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -168,6 +299,137 @@
       ],
       "when_to_visit": "<p>Open from mid-May to early November depending on snow. In 2026: a two-stage opening on 13 and 22 May; closing expected 9 November, unconfirmed. In winter the road is a ski run and cannot be driven.</p>"
     },
+    "es": {
+      "activities": [
+        {
+          "description": "El lago del Mont-Cenis es un embalse que alimenta dos centrales hidroeléctricas. Ocasionalmente se vacía por obras.",
+          "tag": null,
+          "title": "Dar la vuelta al lago"
+        },
+        {
+          "description": "En invierno, la carretera del col se convierte en L'Escargot, una pista verde de 11 km que la oficina de turismo presenta como la más larga de Europa — un superlativo sin contrastar.",
+          "tag": "Invierno",
+          "title": "Bajar L'Escargot esquiando"
+        },
+        {
+          "description": "El col es una subida clásica de la Maurienne cicloturista desde Lanslebourg.",
+          "tag": null,
+          "title": "Subir al col en bicicleta"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>col du Mont-Cenis</strong> abre la alta Maurienne hacia Italia por la RD 1006, sobre Val-Cenis. Su altitud figura como 2 081 m según la oficina de turismo y 2 085 m según en.wikipedia: cuatro metros de diferencia que nadie arbitra.</p><p>Contrariamente a lo que escriben varios medios, <strong>el col no es un puesto fronterizo</strong>. Desde el tratado de París de 1947, se encuentra enteramente en Francia; la frontera está más al este. El lago que se bordea es un embalse artificial que alimenta dos centrales hidroeléctricas.</p><p>La apertura 2026 se hizo en dos fases: el miércoles 13 de mayo para el fin de semana de la Ascensión, después un nuevo cierre por obras en la RD 1006 antes de la reapertura del viernes 22 de mayo. Las dos fechas circulan, y las dos son exactas.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Acceso libre · Gratuito",
+        "best_season": "Junio – octubre",
+        "commune": "Val-Cenis",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Col de carretera y lago de presa",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "Circulan tres cifras: 2 081 m en la página oficial de la oficina de turismo de Val Cenis, 2 085 m en en.wikipedia, 2 083 m en agregadores. Ninguna fuente documenta su medición; la ficha no zanja la cuestión.",
+          "q": "¿Cuál es la altitud del col du Mont-Cenis?"
+        },
+        {
+          "a": "No. Desde el tratado de París de 1947, el col está enteramente en territorio francés. La frontera italiana está más al este. No hay puesto fronterizo en el col.",
+          "q": "¿Está el col du Mont-Cenis en la frontera italiana?"
+        },
+        {
+          "a": "En dos fases. Una primera apertura el miércoles 13 de mayo de 2026 para el fin de semana de la Ascensión, después un nuevo cierre por obras en la RD 1006, y la reapertura el viernes 22 de mayo de 2026.",
+          "q": "¿Cuándo abrió el col en 2026?"
+        },
+        {
+          "a": "La oficina de turismo aplica una regla: el segundo lunes de noviembre, es decir el 9 de noviembre de 2026. Esta fecha es explícitamente provisional y depende de la nieve; no es un anuncio del Departamento.",
+          "q": "¿Cuándo cierra el col para el invierno?"
+        },
+        {
+          "a": "Sí: la carretera del col se convierte en L'Escargot, una pista verde de 11 km. La oficina de turismo la presenta como la más larga de Europa, un superlativo que ninguna fuente independiente consultada confirma.",
+          "q": "¿Se convierte la carretera en pista de esquí en invierno?"
+        }
+      ],
+      "hero": {
+        "badge": "Acceso libre · RD 1006",
+        "lead": "El col du Mont-Cenis abre la alta Maurienne hacia Italia, sobre un lago de presa. No es un puesto fronterizo: desde 1947 está enteramente en Francia."
+      },
+      "hero_alt": "Col du Mont-Cenis y su embalse, Val-Cenis, Savoie",
+      "how_to_get_there": {
+        "bike": "Subida clásica desde Lanslebourg (Val-Cenis). Vélo Maurienne publica un perfil dedicado; sus cifras no se han recogido y aquí no se avanza ningún kilometraje.",
+        "car": "Por la RD 1006 desde Lanslebourg. en.wikipedia todavía escribe « Route nationale 6 », número desclasificado: las fuentes francesas actuales escriben RD 1006.",
+        "public_transport": null
+      },
+      "meta_description": "Col de la alta Maurienne sobre un embalse hidroeléctrico. Tres altitudes publicadas (2 081, 2 083, 2 085 m). Enteramente en Francia desde 1947, a pesar de lo que se lee.",
+      "meta_title": "Col du Mont-Cenis · Altitud, apertura 2026, lago",
+      "name": "Col du Mont-Cenis",
+      "name_alternates": [
+        "Mont-Cenis",
+        "Col du Mont Cenis",
+        "Colle del Moncenisio"
+      ],
+      "practical_info": [
+        {
+          "k": "Altitud",
+          "v": "2 081 m (OT Val Cenis) · 2 085 m (en.wikipedia) · 2 083 m (agregadores). Tres cifras, ningún arbitraje."
+        },
+        {
+          "k": "Coordenadas",
+          "v": "45.260278° N, 6.900833° E (en.wikipedia)"
+        },
+        {
+          "k": "Carretera",
+          "v": "RD 1006. en.wikipedia todavía escribe « Route nationale 6 », número desclasificado."
+        },
+        {
+          "k": "Apertura 2026",
+          "v": "Dos fases: miércoles 13 de mayo de 2026 para el fin de semana de la Ascensión, después nuevo cierre por obras en la RD 1006, reapertura el viernes 22 de mayo de 2026.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Cierre 2026",
+          "v": "Provisional: lunes 9 de noviembre de 2026, por aplicación de la regla del segundo lunes de noviembre publicada por la oficina de turismo. Sujeta a la meteorología, no fijada por el Departamento.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Estatus fronterizo",
+          "v": "El col está enteramente en Francia desde el tratado de París de 1947. No hay puesto fronterizo en el col."
+        },
+        {
+          "k": "Tarifa",
+          "v": "Gratuito, acceso libre"
+        },
+        {
+          "k": "Lago",
+          "v": "Embalse artificial que alimenta dos centrales hidroeléctricas, ocasionalmente vaciado por obras. Ninguna fecha de construcción fiable: la de en.wikipedia (1921) no está corroborada."
+        },
+        {
+          "k": "Invierno",
+          "v": "La carretera se convierte en L'Escargot, pista verde de 11 km, presentada por la oficina de turismo como la más larga de Europa — superlativo sin contrastar."
+        },
+        {
+          "k": "Aparcamiento",
+          "v": null
+        },
+        {
+          "k": "Animales",
+          "v": null
+        },
+        {
+          "k": "Accesibilidad",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Aparcamiento",
+        "Lago",
+        "Salida de rutas de senderismo"
+      ],
+      "when_to_visit": "<p>Abierto de mediados de mayo a principios de noviembre según la nieve. En 2026: apertura en dos fases, el 13 y después el 22 de mayo; cierre previsto el 9 de noviembre, sin confirmación. En invierno, la carretera es una pista de esquí y no es transitable.</p>"
+    },
     "fr": {
       "activities": [
         {
@@ -196,9 +458,13 @@
         "commune": "Val-Cenis",
         "dogs": null,
         "parking": null,
+        "snow_view": "alpes",
         "stroller": null,
         "type": "Col routier et lac de barrage",
-        "winter_access": "closed"
+        "winter_access": "closed",
+        "winter_infra": [
+          "ski_alpin"
+        ]
       },
       "faq": [
         {
@@ -298,6 +564,268 @@
         "Départ de randonnées"
       ],
       "when_to_visit": "<p>Ouvert de la mi-mai à début novembre selon la neige. En 2026 : ouverture en deux temps, le 13 puis le 22 mai ; fermeture prévue le 9 novembre, sans confirmation. L'hiver, la route est une piste de ski et n'est pas circulable.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Il lago del Mont-Cenis è un bacino artificiale che alimenta due centrali idroelettriche. Viene occasionalmente svuotato per lavori.",
+          "tag": null,
+          "title": "Fare il giro del lago"
+        },
+        {
+          "description": "In inverno la strada del colle diventa L'Escargot, una pista verde di 11 km che l'ufficio del turismo presenta come la più lunga d'Europa — un superlativo non verificato da fonti indipendenti.",
+          "tag": "Inverno",
+          "title": "Scendere L'Escargot con gli sci"
+        },
+        {
+          "description": "Il colle è una salita classica della Maurienne ciclistica da Lanslebourg.",
+          "tag": null,
+          "title": "Salire al colle in bicicletta"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Il <strong>col du Mont-Cenis</strong> apre l'alta Maurienne verso l'Italia lungo la RD 1006, sopra Val-Cenis. La sua altitudine è indicata a 2 081 m dall'ufficio del turismo, a 2 085 m da en.wikipedia: quattro metri di differenza che nessuno arbitra.</p><p>Contrariamente a quanto scrivono diversi siti, <strong>il colle non è un posto di frontiera</strong>. Dal trattato di Parigi del 1947 si trova interamente in Francia; la frontiera è più a est. Il lago che si costeggia è un bacino artificiale che alimenta due centrali idroelettriche.</p><p>L'apertura 2026 è avvenuta in due tempi: mercoledì 13 maggio per il fine settimana dell'Ascensione, poi una richiusura per lavori sulla RD 1006 prima della riapertura di venerdì 22 maggio. Le due date circolano, ed entrambe sono esatte.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Libero · Gratuito",
+        "best_season": "Giugno – ottobre",
+        "commune": "Val-Cenis",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Colle stradale e lago di sbarramento",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "Circolano tre cifre: 2 081 m sulla pagina ufficiale dell'ufficio del turismo di Val Cenis, 2 085 m su en.wikipedia, 2 083 m presso gli aggregatori. Nessuna fonte documenta la propria misurazione; la scheda non decide.",
+          "q": "Qual è l'altitudine del col du Mont-Cenis?"
+        },
+        {
+          "a": "No. Dal trattato di Parigi del 1947 il colle è interamente in territorio francese. La frontiera italiana è più a est. Non c'è alcun posto di frontiera al colle.",
+          "q": "Il col du Mont-Cenis è alla frontiera italiana?"
+        },
+        {
+          "a": "In due tempi. Una prima apertura mercoledì 13 maggio 2026 per il fine settimana dell'Ascensione, poi una richiusura per lavori sulla RD 1006, e la riapertura venerdì 22 maggio 2026.",
+          "q": "Quando ha aperto il colle nel 2026?"
+        },
+        {
+          "a": "L'ufficio del turismo applica una regola: il secondo lunedì di novembre, ovvero il 9 novembre 2026. Questa data è esplicitamente previsionale e dipende dalla neve; non è un annuncio del Dipartimento.",
+          "q": "Quando chiude il colle per l'inverno?"
+        },
+        {
+          "a": "Sì: la strada del colle diventa L'Escargot, una pista verde di 11 km. L'ufficio del turismo la presenta come la più lunga d'Europa, un superlativo che nessuna fonte indipendente consultata conferma.",
+          "q": "La strada diventa una pista da sci in inverno?"
+        }
+      ],
+      "hero": {
+        "badge": "Accesso libero · RD 1006",
+        "lead": "Il col du Mont-Cenis apre l'alta Maurienne verso l'Italia, sopra un lago di sbarramento. Non è un posto di frontiera: dal 1947 è interamente in Francia."
+      },
+      "hero_alt": "Col du Mont-Cenis e il suo bacino, Val-Cenis, Savoie",
+      "how_to_get_there": {
+        "bike": "Salita classica da Lanslebourg (Val-Cenis). Vélo Maurienne pubblica un profilo dedicato; le sue cifre non sono state rilevate e qui non viene indicato alcun chilometraggio.",
+        "car": "Lungo la RD 1006 da Lanslebourg. en.wikipedia scrive ancora « Route nationale 6 », numero declassato: le fonti francesi attuali scrivono RD 1006.",
+        "public_transport": null
+      },
+      "meta_description": "Colle dell'alta Maurienne sopra un bacino idroelettrico. Tre altitudini pubblicate (2 081, 2 083, 2 085 m). Interamente in Francia dal 1947, malgrado quanto si legge.",
+      "meta_title": "Col du Mont-Cenis · Altitudine, apertura 2026, lago",
+      "name": "Col du Mont-Cenis",
+      "name_alternates": [
+        "Mont-Cenis",
+        "Col du Mont Cenis",
+        "Colle del Moncenisio"
+      ],
+      "practical_info": [
+        {
+          "k": "Altitudine",
+          "v": "2 081 m (OT Val Cenis) · 2 085 m (en.wikipedia) · 2 083 m (aggregatori). Tre cifre, nessun arbitrato."
+        },
+        {
+          "k": "Coordinate",
+          "v": "45.260278° N, 6.900833° E (en.wikipedia)"
+        },
+        {
+          "k": "Strada",
+          "v": "RD 1006. en.wikipedia scrive ancora « Route nationale 6 », numero declassato."
+        },
+        {
+          "k": "Apertura 2026",
+          "v": "Due tempi: mercoledì 13 maggio 2026 per il fine settimana dell'Ascensione, poi richiusura per lavori sulla RD 1006, riapertura venerdì 22 maggio 2026.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Chiusura 2026",
+          "v": "Previsionale: lunedì 9 novembre 2026, per applicazione della regola del secondo lunedì di novembre pubblicata dall'ufficio del turismo. Soggetta al meteo, non stabilita dal Dipartimento.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Statuto di frontiera",
+          "v": "Il colle è interamente in Francia dal trattato di Parigi del 1947. Non c'è alcun posto di frontiera al colle."
+        },
+        {
+          "k": "Tariffa",
+          "v": "Gratuito, accesso libero"
+        },
+        {
+          "k": "Lago",
+          "v": "Bacino artificiale che alimenta due centrali idroelettriche, occasionalmente svuotato per lavori. Nessuna data di costruzione affidabile: quella di en.wikipedia (1921) non è corroborata."
+        },
+        {
+          "k": "Inverno",
+          "v": "La strada diventa L'Escargot, pista verde di 11 km, presentata dall'ufficio del turismo come la più lunga d'Europa — superlativo non verificato."
+        },
+        {
+          "k": "Parcheggio",
+          "v": null
+        },
+        {
+          "k": "Animali",
+          "v": null
+        },
+        {
+          "k": "Accessibilità",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Parcheggio",
+        "Lago",
+        "Partenza di escursioni"
+      ],
+      "when_to_visit": "<p>Aperto da metà maggio a inizio novembre secondo la neve. Nel 2026: apertura in due tempi, il 13 e poi il 22 maggio; chiusura prevista il 9 novembre, senza conferma. In inverno la strada è una pista da sci e non è percorribile in auto.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Het lac du Mont-Cenis is een stuwmeer dat twee waterkrachtcentrales voedt. Het wordt af en toe leeggelaten voor werkzaamheden.",
+          "tag": null,
+          "title": "Rond het meer wandelen"
+        },
+        {
+          "description": "In de winter wordt de weg over de col L'Escargot, een groene piste van 11 km die het toeristenbureau presenteert als de langste van Europa — een superlatief dat niet is bevestigd.",
+          "tag": "Winter",
+          "title": "L'Escargot afdalen op ski's"
+        },
+        {
+          "description": "De col is een klassieke klim van de Maurienne voor wielrenners vanuit Lanslebourg.",
+          "tag": null,
+          "title": "De col op de fiets beklimmen"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>col du Mont-Cenis</strong> opent de haute Maurienne richting Italië via de RD 1006, boven Val-Cenis. Zijn hoogte wordt door het toeristenbureau op 2 081 m gegeven, door en.wikipedia op 2 085 m: vier meter verschil waarover niemand uitsluitsel geeft.</p><p>In tegenstelling tot wat verschillende doorgeefkanalen schrijven, <strong>is de col geen grenspost</strong>. Sinds het Verdrag van Parijs van 1947 ligt hij volledig in Frankrijk; de grens ligt verder naar het oosten. Het meer waarlangs men rijdt is een kunstmatig stuwmeer dat twee waterkrachtcentrales voedt.</p><p>De opening van 2026 verliep in twee fasen: woensdag 13 mei voor het Hemelvaartweekend, daarna een hersluiting voor werkzaamheden aan de RD 1006 vóór de heropening op vrijdag 22 mei. Beide data circuleren, en beide zijn juist.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Vrij toegankelijk · Gratis",
+        "best_season": "Juni – oktober",
+        "commune": "Val-Cenis",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Bergpas en stuwmeer",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "Drie cijfers circuleren: 2 081 m op de officiële pagina van het toeristenbureau van Val Cenis, 2 085 m op en.wikipedia, 2 083 m bij aggregators. Geen enkele bron documenteert de meting; deze fiche hakt de knoop niet door.",
+          "q": "Hoe hoog ligt de col du Mont-Cenis?"
+        },
+        {
+          "a": "Nee. Sinds het Verdrag van Parijs van 1947 ligt de col volledig op Frans grondgebied. De Italiaanse grens ligt verder naar het oosten. Er is geen grenspost op de col.",
+          "q": "Ligt de col du Mont-Cenis op de Italiaanse grens?"
+        },
+        {
+          "a": "In twee fasen. Een eerste opening op woensdag 13 mei 2026 voor het Hemelvaartweekend, daarna een hersluiting voor werkzaamheden aan de RD 1006, en de heropening op vrijdag 22 mei 2026.",
+          "q": "Wanneer ging de col in 2026 open?"
+        },
+        {
+          "a": "Het toeristenbureau hanteert een regel: de tweede maandag van november, dus 9 november 2026. Deze datum is uitdrukkelijk voorlopig en hangt af van de sneeuw; het is geen aankondiging van het departement.",
+          "q": "Wanneer sluit de col voor de winter?"
+        },
+        {
+          "a": "Ja: de weg over de col wordt L'Escargot, een groene piste van 11 km. Het toeristenbureau presenteert haar als de langste van Europa, een superlatief dat geen enkele geraadpleegde onafhankelijke bron bevestigt.",
+          "q": "Wordt de weg in de winter een skipiste?"
+        }
+      ],
+      "hero": {
+        "badge": "Vrije toegang · RD 1006",
+        "lead": "De col du Mont-Cenis opent de haute Maurienne richting Italië, boven een stuwmeer. Hij is geen grenspost: sinds 1947 ligt hij volledig in Frankrijk."
+      },
+      "hero_alt": "Col du Mont-Cenis en zijn stuwmeer, Val-Cenis, Savoie",
+      "how_to_get_there": {
+        "bike": "Klassieke klim vanuit Lanslebourg (Val-Cenis). Vélo Maurienne publiceert een eigen profiel; de cijfers daarvan zijn niet overgenomen en er wordt hier geen kilometrage genoemd.",
+        "car": "Via de RD 1006 vanuit Lanslebourg. en.wikipedia schrijft nog « Route nationale 6 », een vervallen nummer: de huidige Franse bronnen schrijven RD 1006.",
+        "public_transport": null
+      },
+      "meta_description": "Col van de haute Maurienne boven een hydro-elektrisch stuwmeer. Drie gepubliceerde hoogtes (2 081, 2 083, 2 085 m). Volledig in Frankrijk sinds 1947, ondanks wat men leest.",
+      "meta_title": "Col du Mont-Cenis · Hoogte, opening 2026, meer",
+      "name": "Col du Mont-Cenis",
+      "name_alternates": [
+        "Mont-Cenis",
+        "Col du Mont Cenis",
+        "Colle del Moncenisio"
+      ],
+      "practical_info": [
+        {
+          "k": "Hoogte",
+          "v": "2 081 m (OT Val Cenis) · 2 085 m (en.wikipedia) · 2 083 m (aggregators). Drie cijfers, geen uitsluitsel."
+        },
+        {
+          "k": "Coördinaten",
+          "v": "45.260278° N, 6.900833° E (en.wikipedia)"
+        },
+        {
+          "k": "Weg",
+          "v": "RD 1006. en.wikipedia schrijft nog « Route nationale 6 », een vervallen nummer."
+        },
+        {
+          "k": "Opening 2026",
+          "v": "Twee fasen: woensdag 13 mei 2026 voor het Hemelvaartweekend, daarna hersluiting voor werkzaamheden aan de RD 1006, heropening op vrijdag 22 mei 2026.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Sluiting 2026",
+          "v": "Voorlopig: maandag 9 november 2026, volgens de door het toeristenbureau gepubliceerde regel van de tweede maandag van november. Afhankelijk van het weer, niet vastgesteld door het departement.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Grensstatus",
+          "v": "De col ligt volledig in Frankrijk sinds het Verdrag van Parijs van 1947. Er is geen grenspost op de col."
+        },
+        {
+          "k": "Tarief",
+          "v": "Gratis, vrije toegang"
+        },
+        {
+          "k": "Meer",
+          "v": "Kunstmatig stuwmeer dat twee waterkrachtcentrales voedt, af en toe leeggelaten voor werkzaamheden. Geen betrouwbare bouwdatum: die van en.wikipedia (1921) wordt niet bevestigd."
+        },
+        {
+          "k": "Winter",
+          "v": "De weg wordt L'Escargot, een groene piste van 11 km, door het toeristenbureau gepresenteerd als de langste van Europa — een niet bevestigd superlatief."
+        },
+        {
+          "k": "Parkeren",
+          "v": null
+        },
+        {
+          "k": "Dieren",
+          "v": null
+        },
+        {
+          "k": "Toegankelijkheid",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Parkeren",
+        "Meer",
+        "Vertrekpunt voor wandelingen"
+      ],
+      "when_to_visit": "<p>Open van half mei tot begin november, afhankelijk van de sneeuw. In 2026: opening in twee fasen, op 13 en daarna 22 mei; sluiting voorzien op 9 november, zonder bevestiging. In de winter is de weg een skipiste en niet berijdbaar.</p>"
     }
   },
   "latitude": 45.260278,

@@ -37,6 +37,131 @@
   "hero_credit": "Rémih · CC BY-SA 4.0 · Wikimedia Commons",
   "hero_image": "/img/telecabines/telecabine-de-solaise-hero.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Die Gondelbahn verbindet den Ort mit der Tête de Solaise auf 2 560 m, Ausgangspunkt mehrerer Wanderwege.",
+          "tag": "Sommer",
+          "title": "Zur Tête de Solaise hinauffahren"
+        },
+        {
+          "description": "Der Zugang für Fußgänger ist laut Val d'Isère kostenlos; nur Mountainbikes sind kostenpflichtig, und sie sind auf dieser Bahn nicht zugelassen.",
+          "tag": "Sommer",
+          "title": "Kostenlos zu Fuß hinauffahren"
+        },
+        {
+          "description": "Die Bahn steht Gleitschirmfliegern ebenso offen wie Fußgängern.",
+          "tag": null,
+          "title": "Mit dem Gleitschirm starten"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>Gondelbahn Solaise</strong> verbindet Val-d'Isère mit der Tête de Solaise auf 2 560 m, von der mehrere Wanderwege ausgehen.</p><p>Ihre Besonderheit ist selten: <strong>Für Fußgänger ist sie kostenlos</strong>. Val d'Isère veröffentlicht eine eigene Seite zu den kostenlosen Liften, und die angegebenen Preise betreffen nur Mountainbikes — 23 € pro Tag, 84 € pro Woche. Unter allen in diesem Verzeichnis dokumentierten Liften ist dies der einzige erfasste Gratiszugang.</p><p>Zweite Besonderheit, weniger angenehm, wenn man sich irrt: <strong>Mountainbikes sind nicht zugelassen</strong>. Nur Fußgänger und Gleitschirmflieger fahren hinauf. Die Räder nimmt die Seilbahn l'Olympique mit.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Kostenlos für Fußgänger",
+        "best_season": "Sommer (4. Juli – 30. August 2026)",
+        "commune": "Val-d'Isère",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Gondelbahn",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Ja, für Fußgänger: Val d'Isère veröffentlicht eine eigene Seite zu den kostenlosen Liften, und die angegebenen Preise betreffen nur Mountainbikes. Es ist der einzige erfasste Gratiszugang unter den hier dokumentierten Liften — vor Ort noch einmal prüfen, gerade weil es ungewöhnlich ist.",
+          "q": "Ist die Gondelbahn Solaise kostenlos?"
+        },
+        {
+          "a": "Nein. Sie nimmt nur Fußgänger und Gleitschirmflieger mit. Mountainbikes müssen die Seilbahn l'Olympique nutzen.",
+          "q": "Kann man mit dem Mountainbike hinauffahren?"
+        },
+        {
+          "a": "Von 9:45 bis 16:45 Uhr, mit letzter Bergfahrt um 16:40 Uhr und letzter Talfahrt um 16:45 Uhr. Diese fünf Minuten entscheiden, ob man mit der Kabine wieder hinunterkommt.",
+          "q": "Wie sind die Betriebszeiten?"
+        },
+        {
+          "a": "2 560 m, an der Tête de Solaise. Die Zahl stammt nur aus einer Sekundärquelle.",
+          "q": "Auf welcher Höhe kommt man an?"
+        },
+        {
+          "a": "Drei Lifte sind vom 4. Juli bis 30. August 2026 als geöffnet angekündigt. Die eingesehenen Quellen nennen nicht alle beim Namen: Solaise und l'Olympique gehören dazu.",
+          "q": "Wie viele Lifte sind im Sommer geöffnet?"
+        }
+      ],
+      "hero": {
+        "badge": "Kostenlos für Fußgänger · 2 560 m",
+        "lead": "Die Gondelbahn Solaise steigt auf 2 560 m oberhalb von Val-d'Isère, für Fußgänger kostenlos. Mountainbikes dagegen sind nicht zugelassen."
+      },
+      "hero_alt": "Gondelbahn Solaise, Val-d'Isère, Savoie",
+      "how_to_get_there": {
+        "bike": "Mountainbikes sind auf der Gondelbahn Solaise nicht erlaubt. Sie nutzen die Seilbahn l'Olympique, wo der Bike-Pass 23 € pro Tag und 84 € pro Woche kostet.",
+        "car": "Talstation im Ort Val-d'Isère.",
+        "public_transport": null
+      },
+      "meta_description": "Für Fußgänger kostenlose Gondelbahn zur Tête de Solaise, 2 560 m, oberhalb von Val-d'Isère. Mountainbikes nicht zugelassen. Sommer 2026: 4. Juli – 30. August.",
+      "meta_title": "Gondelbahn Solaise (Val-d'Isère) · Kostenlos für Fußgänger",
+      "name": "Gondelbahn Solaise",
+      "name_alternates": [
+        "Solaise",
+        "Tête de Solaise"
+      ],
+      "practical_info": [
+        {
+          "k": "Typ",
+          "v": "Gondelbahn"
+        },
+        {
+          "k": "Ankunftshöhe",
+          "v": "2 560 m, Tête de Solaise (einzige Sekundärquelle)"
+        },
+        {
+          "k": "Preis",
+          "v": "Kostenlos für Fußgänger laut Val d'Isère. Die Preise betreffen nur Mountainbikes — die auf dieser Bahn nicht zugelassen sind."
+        },
+        {
+          "k": "Sommer 2026",
+          "v": "Drei Lifte geöffnet vom 4. Juli bis 30. August 2026, darunter dieser.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Betriebszeiten",
+          "v": "9:45–16:45 Uhr. Letzte Bergfahrt 16:40 Uhr, letzte Talfahrt 16:45 Uhr.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Einschränkung",
+          "v": "Nur Fußgänger und Gleitschirmflieger. Mountainbikes nicht erlaubt."
+        },
+        {
+          "k": "Koordinaten",
+          "v": null
+        },
+        {
+          "k": "Fahrtdauer",
+          "v": null
+        },
+        {
+          "k": "Tiere",
+          "v": null
+        },
+        {
+          "k": "Barrierefreiheit",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Gondelbahn",
+        "Aussichtspunkt",
+        "Ausgangspunkt für Wanderungen"
+      ],
+      "when_to_visit": "<p>Vom 4. Juli bis 30. August 2026. Der Gratiszugang für Fußgänger ist ohne genauen Zeitraum angekündigt: Nichts belegt, dass er die ganze Saison gilt. Am Schalter nachfragen.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -158,6 +283,131 @@
         "Trailhead"
       ],
       "when_to_visit": "<p>4 July to 30 August 2026. The pedestrian free access is advertised without a stated period: nothing says whether it holds all season. Check at the ticket office.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "La telecabina une la estación con la tête de Solaise, a 2 560 m, punto de partida de varios senderos.",
+          "tag": "Verano",
+          "title": "Subir a la tête de Solaise"
+        },
+        {
+          "description": "Val d'Isère anuncia el acceso peatonal como gratuito; solo las BTT pagan, y no están admitidas en esta instalación.",
+          "tag": "Verano",
+          "title": "Subir gratis a pie"
+        },
+        {
+          "description": "La instalación está abierta tanto a los parapentistas como a los peatones.",
+          "tag": null,
+          "title": "Despegar en parapente"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>Telecabina de Solaise</strong> une Val-d'Isère con la tête de Solaise, a 2 560 m, de donde parten varios senderos de excursión.</p><p>Su particularidad es poco común: <strong>es gratuita para los peatones</strong>. Val d'Isère publica una página dedicada a los remontes gratuitos, y las tarifas indicadas solo afectan a las BTT — 23 € el día, 84 € la semana. De todos los remontes documentados en este repertorio, es la única gratuidad registrada.</p><p>Segunda particularidad, menos agradable si uno se equivoca: <strong>las BTT no están admitidas</strong>. Solo suben peatones y parapentistas. Es el Teleférico de l'Olympique el que acepta las bicicletas.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuito para los peatones",
+        "best_season": "Verano (4 de julio – 30 de agosto de 2026)",
+        "commune": "Val-d'Isère",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Telecabina",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Sí para los peatones: Val d'Isère publica una página dedicada a los remontes gratuitos, y las tarifas indicadas solo afectan a las BTT. Es la única gratuidad registrada entre los remontes documentados aquí — conviene verificarla in situ, precisamente porque es inusual.",
+          "q": "¿Es gratuita la Telecabina de Solaise?"
+        },
+        {
+          "a": "No. Solo acepta peatones y parapentistas. Las BTT deben tomar el Teleférico de l'Olympique.",
+          "q": "¿Se puede subir con una BTT?"
+        },
+        {
+          "a": "De 9h45 a 16h45, con última subida a las 16h40 y última bajada a las 16h45. Esos cinco minutos deciden si se baja en cabina.",
+          "q": "¿Cuáles son los horarios?"
+        },
+        {
+          "a": "2 560 m, en la tête de Solaise. La cifra procede únicamente de una fuente secundaria.",
+          "q": "¿A qué altitud se llega?"
+        },
+        {
+          "a": "Tres remontes están anunciados abiertos del 4 de julio al 30 de agosto de 2026. Las fuentes consultadas no los nombran todos: Solaise y l'Olympique figuran entre ellos.",
+          "q": "¿Cuántos remontes abren en verano?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratuito para los peatones · 2 560 m",
+        "lead": "La Telecabina de Solaise sube a 2 560 m por encima de Val-d'Isère, gratis para los peatones. Las BTT, en cambio, no están admitidas."
+      },
+      "hero_alt": "Telecabina de Solaise, Val-d'Isère, Savoie",
+      "how_to_get_there": {
+        "bike": "Las BTT no están autorizadas en la Telecabina de Solaise. Deben tomar el Teleférico de l'Olympique, donde el forfait BTT cuesta 23 € el día y 84 € la semana.",
+        "car": "Estación de salida en el centro de Val-d'Isère.",
+        "public_transport": null
+      },
+      "meta_description": "Telecabina gratuita para los peatones hasta la tête de Solaise, 2 560 m, por encima de Val-d'Isère. BTT no admitidas. Verano 2026: 4 de julio – 30 de agosto.",
+      "meta_title": "Telecabina de Solaise (Val-d'Isère) · Gratuita para los peatones",
+      "name": "Telecabina de Solaise",
+      "name_alternates": [
+        "Solaise",
+        "Tête de Solaise"
+      ],
+      "practical_info": [
+        {
+          "k": "Tipo",
+          "v": "Telecabina"
+        },
+        {
+          "k": "Altitud de llegada",
+          "v": "2 560 m, tête de Solaise (fuente secundaria única)"
+        },
+        {
+          "k": "Tarifa",
+          "v": "Gratuita para los peatones según Val d'Isère. Las tarifas solo afectan a las BTT — que no están admitidas en esta instalación."
+        },
+        {
+          "k": "Verano 2026",
+          "v": "Tres remontes abiertos del 4 de julio al 30 de agosto de 2026, entre ellos este.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Horarios",
+          "v": "9h45–16h45. Última subida 16h40, última bajada 16h45.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Restricción",
+          "v": "Solo peatones y parapentistas. BTT no autorizadas."
+        },
+        {
+          "k": "Coordenadas",
+          "v": null
+        },
+        {
+          "k": "Duración del trayecto",
+          "v": null
+        },
+        {
+          "k": "Animales",
+          "v": null
+        },
+        {
+          "k": "Accesibilidad",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Telecabina",
+        "Mirador",
+        "Salida de excursiones"
+      ],
+      "when_to_visit": "<p>Del 4 de julio al 30 de agosto de 2026. La gratuidad peatonal se anuncia sin periodo preciso: nada indica si vale para toda la temporada. Conviene verificar en taquilla.</p>"
     },
     "fr": {
       "activities": [
@@ -283,6 +533,256 @@
         "Départ de randonnées"
       ],
       "when_to_visit": "<p>Du 4 juillet au 30 août 2026. La gratuité piétons est annoncée sans période précise : rien n'indique si elle vaut toute la saison. Vérifier au guichet.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "La cabinovia collega la stazione alla tête de Solaise, a 2 560 m, punto di partenza di diversi sentieri.",
+          "tag": "Estate",
+          "title": "Salire alla tête de Solaise"
+        },
+        {
+          "description": "L'accesso pedonale è annunciato gratuito da Val d'Isère; solo le mountain bike sono a pagamento, e non sono ammesse su questo impianto.",
+          "tag": "Estate",
+          "title": "Salire gratuitamente a piedi"
+        },
+        {
+          "description": "L'impianto è aperto ai parapendisti come ai pedoni.",
+          "tag": null,
+          "title": "Decollare in parapendio"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>Cabinovia di Solaise</strong> collega Val-d'Isère alla tête de Solaise, a 2 560 m, da cui partono diversi sentieri escursionistici.</p><p>La sua particolarità è rara: <strong>è gratuita per i pedoni</strong>. Val d'Isère pubblica una pagina dedicata agli impianti gratuiti, e le tariffe indicate riguardano solo le mountain bike — 23 € al giorno, 84 € alla settimana. Tra tutti gli impianti documentati in questo archivio, è l'unica gratuità rilevata.</p><p>Seconda particolarità, meno piacevole se ci si sbaglia: <strong>le mountain bike non sono ammesse</strong>. Salgono solo i pedoni e i parapendisti. È la funivia dell'Olympique a prendere le biciclette.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuito per i pedoni",
+        "best_season": "Estate (4 luglio – 30 agosto 2026)",
+        "commune": "Val-d'Isère",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Cabinovia",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Sì per i pedoni: Val d'Isère pubblica una pagina dedicata agli impianti gratuiti, e le tariffe indicate riguardano solo le mountain bike. È l'unica gratuità rilevata tra gli impianti documentati qui — da verificare sul posto, proprio perché è insolita.",
+          "q": "La cabinovia di Solaise è gratuita?"
+        },
+        {
+          "a": "No. Accetta solo pedoni e parapendisti. Le mountain bike devono prendere la funivia dell'Olympique.",
+          "q": "Si può salire con una mountain bike?"
+        },
+        {
+          "a": "Dalle 9h45 alle 16h45, con ultima salita alle 16h40 e ultima discesa alle 16h45. Quei cinque minuti decidono se si ridiscende in cabina.",
+          "q": "Quali sono gli orari?"
+        },
+        {
+          "a": "2 560 m, alla tête de Solaise. Il dato proviene solo da una fonte secondaria.",
+          "q": "A quale altitudine si arriva?"
+        },
+        {
+          "a": "Tre impianti sono annunciati aperti dal 4 luglio al 30 agosto 2026. Le fonti consultate non li nominano tutti: Solaise e l'Olympique ne fanno parte.",
+          "q": "Quanti impianti sono aperti in estate?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratuito per i pedoni · 2 560 m",
+        "lead": "La cabinovia di Solaise sale a 2 560 m sopra Val-d'Isère, gratuitamente per i pedoni. Le mountain bike, invece, non sono ammesse."
+      },
+      "hero_alt": "Télécabine de Solaise, Val-d'Isère, Savoie",
+      "how_to_get_there": {
+        "bike": "Le mountain bike non sono autorizzate sulla cabinovia di Solaise. Prendono la funivia dell'Olympique, dove il forfait mountain bike costa 23 € al giorno e 84 € alla settimana.",
+        "car": "Stazione di partenza nella stazione di Val-d'Isère.",
+        "public_transport": null
+      },
+      "meta_description": "Cabinovia gratuita per i pedoni fino alla tête de Solaise, 2 560 m, sopra Val-d'Isère. Mountain bike non ammesse. Estate 2026: 4 luglio – 30 agosto.",
+      "meta_title": "Télécabine de Solaise (Val-d'Isère) · Gratuita per i pedoni",
+      "name": "Télécabine de Solaise",
+      "name_alternates": [
+        "Solaise",
+        "Tête de Solaise"
+      ],
+      "practical_info": [
+        {
+          "k": "Tipo",
+          "v": "Cabinovia"
+        },
+        {
+          "k": "Altitudine di arrivo",
+          "v": "2 560 m, tête de Solaise (fonte secondaria unica)"
+        },
+        {
+          "k": "Tariffa",
+          "v": "Gratuito per i pedoni secondo Val d'Isère. Le tariffe riguardano solo le mountain bike — che non sono ammesse su questo impianto."
+        },
+        {
+          "k": "Estate 2026",
+          "v": "Tre impianti aperti dal 4 luglio al 30 agosto 2026, tra cui questo.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Orari",
+          "v": "9h45–16h45. Ultima salita 16h40, ultima discesa 16h45.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Restrizione",
+          "v": "Solo pedoni e parapendisti. Mountain bike non autorizzate."
+        },
+        {
+          "k": "Coordinate",
+          "v": null
+        },
+        {
+          "k": "Durata del tragitto",
+          "v": null
+        },
+        {
+          "k": "Animali",
+          "v": null
+        },
+        {
+          "k": "Accessibilità",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Cabinovia",
+        "Punto panoramico",
+        "Partenza di escursioni"
+      ],
+      "when_to_visit": "<p>Dal 4 luglio al 30 agosto 2026. La gratuità per i pedoni è annunciata senza un periodo preciso: nulla indica se valga per tutta la stagione. Verificare alla cassa.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "De gondelbaan verbindt het skioord met de Tête de Solaise, op 2 560 m, vertrekpunt van meerdere wandelpaden.",
+          "tag": "Zomer",
+          "title": "Naar de Tête de Solaise omhooggaan"
+        },
+        {
+          "description": "De toegang voor voetgangers wordt door Val d'Isère als gratis aangekondigd; alleen mountainbikes zijn betalend, en die worden op deze installatie niet toegelaten.",
+          "tag": "Zomer",
+          "title": "Gratis te voet omhooggaan"
+        },
+        {
+          "description": "De installatie staat open voor zowel parapentisten als voetgangers.",
+          "tag": null,
+          "title": "Starten met de parapente"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>gondelbaan van Solaise</strong> verbindt Val-d'Isère met de Tête de Solaise, op 2 560 m, waar meerdere wandelpaden vertrekken.</p><p>Zijn bijzonderheid is zeldzaam: <strong>hij is gratis voor voetgangers</strong>. Val d'Isère publiceert een pagina gewijd aan de gratis liften, en de vermelde tarieven gelden alleen voor mountainbikes — 23 € per dag, 84 € per week. Van alle liften die in dit archief zijn gedocumenteerd, is dit de enige aangetroffen gratis toegang.</p><p>Tweede bijzonderheid, minder aangenaam als u zich vergist: <strong>mountainbikes worden niet toegelaten</strong>. Alleen voetgangers en parapentisten gaan mee omhoog. Het is de Kabelbaan l'Olympique die de fietsen meeneemt.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis voor voetgangers",
+        "best_season": "Zomer (4 juli – 30 augustus 2026)",
+        "commune": "Val-d'Isère",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Gondelbaan",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Ja voor voetgangers: Val d'Isère publiceert een pagina gewijd aan de gratis liften, en de vermelde tarieven gelden alleen voor mountainbikes. Het is de enige gratis toegang die op de hier gedocumenteerde liften is aangetroffen — ter plaatse te controleren, juist omdat het ongebruikelijk is.",
+          "q": "Is de gondelbaan van Solaise gratis?"
+        },
+        {
+          "a": "Nee. Hij neemt alleen voetgangers en parapentisten mee. Mountainbikes moeten de Kabelbaan l'Olympique nemen.",
+          "q": "Kunt u met een mountainbike omhoog?"
+        },
+        {
+          "a": "Van 9h45 tot 16h45, met een laatste rit omhoog om 16h40 en een laatste afdaling om 16h45. Die vijf minuten bepalen of u met de cabine terug naar beneden kunt.",
+          "q": "Wat zijn de openingstijden?"
+        },
+        {
+          "a": "2 560 m, bij de Tête de Solaise. Het cijfer komt alleen uit een secundaire bron.",
+          "q": "Op welke hoogte komt u aan?"
+        },
+        {
+          "a": "Drie liften worden aangekondigd als open van 4 juli tot 30 augustus 2026. De geraadpleegde bronnen noemen ze niet allemaal: Solaise en l'Olympique horen erbij.",
+          "q": "Hoeveel liften zijn in de zomer open?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratis voor voetgangers · 2 560 m",
+        "lead": "De gondelbaan van Solaise klimt naar 2 560 m boven Val-d'Isère, gratis voor voetgangers. Mountainbikes worden er echter niet toegelaten."
+      },
+      "hero_alt": "Gondelbaan Solaise, Val-d'Isère, Savoie",
+      "how_to_get_there": {
+        "bike": "Mountainbikes zijn niet toegestaan op de gondelbaan van Solaise. Zij nemen de Kabelbaan l'Olympique, waar de mountainbikepas 23 € per dag en 84 € per week kost.",
+        "car": "Dalstation in het skioord Val-d'Isère.",
+        "public_transport": null
+      },
+      "meta_description": "Gondelbaan, gratis voor voetgangers, naar de Tête de Solaise, 2 560 m, boven Val-d'Isère. Mountainbikes niet toegelaten. Zomer 2026: 4 juli – 30 augustus.",
+      "meta_title": "Gondelbaan Solaise (Val-d'Isère) · Gratis voor voetgangers",
+      "name": "Gondelbaan Solaise",
+      "name_alternates": [
+        "Solaise",
+        "Tête de Solaise"
+      ],
+      "practical_info": [
+        {
+          "k": "Type",
+          "v": "Gondelbaan"
+        },
+        {
+          "k": "Aankomsthoogte",
+          "v": "2 560 m, Tête de Solaise (enige secundaire bron)"
+        },
+        {
+          "k": "Tarief",
+          "v": "Gratis voor voetgangers volgens Val d'Isère. De tarieven gelden alleen voor mountainbikes — die op deze installatie niet worden toegelaten."
+        },
+        {
+          "k": "Zomer 2026",
+          "v": "Drie liften open van 4 juli tot 30 augustus 2026, waaronder deze.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Openingstijden",
+          "v": "9h45–16h45. Laatste rit omhoog 16h40, laatste afdaling 16h45.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Beperking",
+          "v": "Alleen voetgangers en parapentisten. Mountainbikes niet toegestaan."
+        },
+        {
+          "k": "Coördinaten",
+          "v": null
+        },
+        {
+          "k": "Reisduur",
+          "v": null
+        },
+        {
+          "k": "Dieren",
+          "v": null
+        },
+        {
+          "k": "Toegankelijkheid",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Gondelbaan",
+        "Uitzichtpunt",
+        "Vertrekpunt van wandelingen"
+      ],
+      "when_to_visit": "<p>Van 4 juli tot 30 augustus 2026. De gratis toegang voor voetgangers wordt aangekondigd zonder precieze periode: niets geeft aan of die het hele seizoen geldt. Controleren aan het loket.</p>"
     }
   },
   "latitude": null,

@@ -57,9 +57,9 @@ Non renseigné
 ## Saison
 
 Non renseigné
-- Fenêtre d'accès hiver: Non renseigné
-- Infrastructure hiver: Non renseigné
-- Panorama enneigé: Non renseigné
+- Fenêtre d'accès hiver: Accès partiel — État en temps réel : savoie-route.fr
+- Infrastructure hiver: Ski de fond · Raquettes · Luge
+- Panorama enneigé: Panorama alpin
 - Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
 
 ## Source officielle

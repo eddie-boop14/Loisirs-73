@@ -37,6 +37,129 @@
   "hero_credit": "Florian Pépellin · CC BY-SA 4.0 · Wikimedia Commons",
   "hero_image": "/img/telecabines/telecabine-du-mont-vallon-hero.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Ankunft auf 2 952 m nach 8 Minuten Fahrt, am Ende einer Kette von drei Liften ab Méribel-Mottaret.",
+          "tag": "Sommer",
+          "title": "Zum Mont Vallon hinauffahren"
+        },
+        {
+          "description": "Ab Méribel-Mottaret: Gondelbahn Plattières, Sessellift Plan des Mains, dann Gondelbahn Mont Vallon.",
+          "tag": null,
+          "title": "Die drei Bahnen nacheinander nehmen"
+        },
+        {
+          "description": "Der Fußgängerpass der 3 Vallées, 23,50 € pro Tag, gilt für das gesamte Gebiet und nicht nur für diese Bahn.",
+          "tag": null,
+          "title": "Den Fußgängerpass nehmen"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>Gondelbahn Mont Vallon</strong> kommt auf 2 952 m oberhalb von Méribel an, auf dem Gebiet der Gemeinde <strong>Les Allues</strong> — Méribel ist ein Skiort, Les Allues die Gemeinde. Es ist der höchste für Fußgänger erreichbare Punkt des Tals von Méribel, erreicht in 8 Minuten Fahrt.</p><p>Ein praktischer Punkt steht über allem: Man kommt nicht direkt hin. Ab Méribel-Mottaret muss man drei Bahnen nacheinander nehmen — die Gondelbahn Plattières, den Sessellift Plan des Mains, dann die Gondelbahn Mont Vallon. Keine Quelle veröffentlicht die Betriebszeiten Bahn für Bahn.</p><p>Sommer 2026: Les 3 Vallées kündigen die Lifte von Méribel an 7 Tagen der Woche vom 4. Juli bis 29. August als geöffnet an, mit Ausnahme des Pas du Lac. Dieselbe Seite zeigt jedoch im Kopf eine Gesamtsaison, die am 28. August endet.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Kostenpflichtig",
+        "best_season": "Sommer (4. Juli – 29. August 2026)",
+        "commune": "Les Allues",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Gondelbahn",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "2 952 m. Die Zahl stammt aus Sekundärquellen, nicht aus einem technischen Datenblatt des Betreibers.",
+          "q": "Auf welcher Höhe kommt die Gondelbahn Mont Vallon an?"
+        },
+        {
+          "a": "Nein. Ab Méribel-Mottaret muss man drei Bahnen nacheinander nehmen: Gondelbahn Plattières, Sessellift Plan des Mains, dann Gondelbahn Mont Vallon.",
+          "q": "Kann man in einem Zug zum Mont Vallon hinauffahren?"
+        },
+        {
+          "a": "Les 3 Vallées kündigen die Lifte von Méribel an 7 Tagen der Woche vom 4. Juli bis 29. August 2026 als geöffnet an, außer dem Pas du Lac. Dieselbe Seite zeigt zugleich eine Gesamtsaison, die am 28. August endet: Beides stimmt nicht überein.",
+          "q": "Wann fährt die Gondelbahn im Sommer 2026?"
+        },
+        {
+          "a": "23,50 € pro Tag und 65,50 € pro Woche, doch das sind Fußgängerpässe, die im gesamten Gebiet der 3 Vallées gelten. Ein Preis für eine einfache Bergfahrt zum Mont Vallon wurde nicht gefunden.",
+          "q": "Was kostet die Bergfahrt?"
+        },
+        {
+          "a": "Méribel ist ein Skiort; die Gemeinde ist Les Allues. Es ist die dichteste Gemeinde im DATAtourisme-Datensatz des Départements, mit 187 erfassten Orten.",
+          "q": "Liegt der Mont Vallon in Méribel oder in Les Allues?"
+        }
+      ],
+      "hero": {
+        "badge": "Kostenpflichtig · 2 952 m",
+        "lead": "Die Gondelbahn Mont Vallon kommt auf 2 952 m oberhalb von Méribel an, Gemeinde Les Allues. Ab Méribel-Mottaret sind drei Lifte nacheinander zu nehmen, um hinzukommen."
+      },
+      "hero_alt": "Gondelbahn Mont Vallon, Méribel, Les Allues, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Zugang über Méribel-Mottaret, Gemeinde Les Allues. Der GPS-Punkt dieser Seite ist der des Aussichtspunkts am Gipfel, nicht der der Talstation.",
+        "public_transport": null
+      },
+      "meta_description": "Ankunft auf 2 952 m oberhalb von Méribel, Gemeinde Les Allues, in 8 Minuten. Drei Lifte nacheinander ab Méribel-Mottaret. Sommer 2026: 4. Juli – 29. August.",
+      "meta_title": "Gondelbahn Mont Vallon (Méribel) · 2 952 m, Sommer 2026",
+      "name": "Gondelbahn Mont Vallon",
+      "name_alternates": [
+        "Mont Vallon",
+        "Mont Vallon Peak Experience"
+      ],
+      "practical_info": [
+        {
+          "k": "Typ",
+          "v": "Gondelbahn"
+        },
+        {
+          "k": "Ankunftshöhe",
+          "v": "2 952 m (Sekundärquellen)"
+        },
+        {
+          "k": "Fahrtdauer",
+          "v": "8 Minuten (Sekundärquellen)"
+        },
+        {
+          "k": "Koordinaten",
+          "v": "45.328541° N, 6.609849° E — Aussichtspunkt am Gipfel laut DATAtourisme-Datensatz, nicht die Talstation"
+        },
+        {
+          "k": "Fußgängerzugang",
+          "v": "Drei Bahnen ab Méribel-Mottaret: Gondelbahn Plattières, Sessellift Plan des Mains, Gondelbahn Mont Vallon"
+        },
+        {
+          "k": "Sommer 2026",
+          "v": "Lifte von Méribel an 7 Tagen der Woche geöffnet vom 4. Juli bis 29. August 2026, außer dem Pas du Lac (Les 3 Vallées). Dieselbe Seite kündigt im Kopf eine am 28. August endende Saison an.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Preis",
+          "v": "Fußgängerpass 3 Vallées: 23,50 € pro Tag, 65,50 € pro Woche. Gilt im gesamten Gebiet, es ist nicht der Preis einer einzelnen Bergfahrt."
+        },
+        {
+          "k": "Tägliche Betriebszeiten",
+          "v": null
+        },
+        {
+          "k": "Tiere",
+          "v": null
+        },
+        {
+          "k": "Barrierefreiheit",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Gondelbahn",
+        "Aussichtspunkt"
+      ],
+      "when_to_visit": "<p>Sommer 2026: vom 4. Juli bis 29. August laut Les 3 Vallées, an 7 Tagen der Woche. Das Enddatum variiert je nach Stelle der eingesehenen Seite — 28. oder 29. August — und je nach Tal. Prüfen Sie die Öffnung aller drei Bahnen, nicht nur der letzten.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -156,6 +279,129 @@
         "Viewpoint"
       ],
       "when_to_visit": "<p>Summer 2026: 4 July to 29 August per Les 3 Vallées, 7 days a week. The end date varies with where on the page you look — 28 or 29 August — and with the valley. Check that all three lifts are running, not just the last one.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "Llegada a 2 952 m tras 8 minutos de trayecto, al final de un encadenamiento de tres remontes desde Méribel-Mottaret.",
+          "tag": "Verano",
+          "title": "Subir al Mont Vallon"
+        },
+        {
+          "description": "Desde Méribel-Mottaret: telecabina des Plattières, telesilla du Plan des Mains, y después Telecabina du Mont Vallon.",
+          "tag": null,
+          "title": "Encadenar las tres instalaciones"
+        },
+        {
+          "description": "El forfait peatonal de Les 3 Vallées, a 23,50 € el día, da acceso a todo el dominio y no solo a esta instalación.",
+          "tag": null,
+          "title": "Comprar el forfait peatonal"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>Telecabina du Mont Vallon</strong> llega a 2 952 m por encima de Méribel, en el municipio de <strong>Les Allues</strong> — Méribel es una estación, Les Allues el municipio. Es el punto alto peatonal del valle de Méribel, alcanzado en 8 minutos de trayecto.</p><p>Un punto práctico domina: no se accede directamente. Desde Méribel-Mottaret hay que encadenar tres instalaciones — la telecabina des Plattières, el telesilla du Plan des Mains, y después la Telecabina du Mont Vallon. Ninguna fuente publica los horarios instalación por instalación.</p><p>Verano 2026: Les 3 Vallées anuncian los remontes de Méribel abiertos los 7 días de la semana del 4 de julio al 29 de agosto, con la excepción del Pas du Lac. La misma página muestra sin embargo, en cabecera, una temporada global que termina el 28 de agosto.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "De pago",
+        "best_season": "Verano (4 de julio – 29 de agosto de 2026)",
+        "commune": "Les Allues",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Telecabina",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "2 952 m. La cifra procede de fuentes secundarias, no de una ficha técnica del operador.",
+          "q": "¿A qué altitud llega la Telecabina du Mont Vallon?"
+        },
+        {
+          "a": "No. Desde Méribel-Mottaret hay que encadenar tres instalaciones: telecabina des Plattières, telesilla du Plan des Mains, y después Telecabina du Mont Vallon.",
+          "q": "¿Se puede subir al Mont Vallon de una sola vez?"
+        },
+        {
+          "a": "Les 3 Vallées anuncian los remontes de Méribel abiertos los 7 días de la semana del 4 de julio al 29 de agosto de 2026, salvo el Pas du Lac. La misma página muestra por otro lado una temporada global que termina el 28 de agosto: las dos informaciones no concuerdan.",
+          "q": "¿Cuándo funciona la telecabina en verano de 2026?"
+        },
+        {
+          "a": "23,50 € el día y 65,50 € la semana, pero son forfaits peatonales válidos en todo el dominio de Les 3 Vallées. No se ha encontrado ninguna tarifa de subida sencilla al Mont Vallon.",
+          "q": "¿Cuánto cuesta la subida?"
+        },
+        {
+          "a": "Méribel es una estación; el municipio es Les Allues. Es el municipio más denso de la ficha DATAtourisme del departamento, con 187 lugares censados.",
+          "q": "¿El Mont Vallon está en Méribel o en Les Allues?"
+        }
+      ],
+      "hero": {
+        "badge": "De pago · 2 952 m",
+        "lead": "La Telecabina du Mont Vallon llega a 2 952 m por encima de Méribel, municipio de Les Allues. Hay que encadenar tres remontes desde Méribel-Mottaret para llegar."
+      },
+      "hero_alt": "Telecabina du Mont Vallon, Méribel, Les Allues, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Acceso por Méribel-Mottaret, municipio de Les Allues. El punto GPS de esta ficha es el del mirador en la cima, no el de la estación de salida.",
+        "public_transport": null
+      },
+      "meta_description": "Llegada a 2 952 m por encima de Méribel, municipio de Les Allues, en 8 minutos. Tres remontes que encadenar desde Méribel-Mottaret. Verano 2026: 4 de julio – 29 de agosto.",
+      "meta_title": "Telecabina du Mont Vallon (Méribel) · 2 952 m, verano 2026",
+      "name": "Telecabina du Mont Vallon",
+      "name_alternates": [
+        "Mont Vallon",
+        "Mont Vallon Peak Experience"
+      ],
+      "practical_info": [
+        {
+          "k": "Tipo",
+          "v": "Telecabina"
+        },
+        {
+          "k": "Altitud de llegada",
+          "v": "2 952 m (fuentes secundarias)"
+        },
+        {
+          "k": "Duración del trayecto",
+          "v": "8 minutos (fuentes secundarias)"
+        },
+        {
+          "k": "Coordenadas",
+          "v": "45.328541° N, 6.609849° E — mirador en la cima según la ficha DATAtourisme, no la estación de salida"
+        },
+        {
+          "k": "Acceso peatonal",
+          "v": "Tres instalaciones desde Méribel-Mottaret: telecabina des Plattières, telesilla du Plan des Mains, Telecabina du Mont Vallon"
+        },
+        {
+          "k": "Verano 2026",
+          "v": "Remontes de Méribel abiertos los 7 días de la semana del 4 de julio al 29 de agosto de 2026, salvo el Pas du Lac (Les 3 Vallées). La misma página anuncia en cabecera una temporada que termina el 28 de agosto.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Tarifa",
+          "v": "Forfait peatonal 3 Vallées: 23,50 € el día, 65,50 € la semana. Válido en todo el dominio, no es el precio de una subida."
+        },
+        {
+          "k": "Horarios diarios",
+          "v": null
+        },
+        {
+          "k": "Animales",
+          "v": null
+        },
+        {
+          "k": "Accesibilidad",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Telecabina",
+        "Mirador"
+      ],
+      "when_to_visit": "<p>Verano 2026: del 4 de julio al 29 de agosto según Les 3 Vallées, los 7 días de la semana. La fecha de cierre varía según el lugar de la página consultada — 28 o 29 de agosto — y según el valle. Verifique la apertura de las tres instalaciones, no solo de la última.</p>"
     },
     "fr": {
       "activities": [
@@ -279,6 +525,252 @@
         "Point de vue"
       ],
       "when_to_visit": "<p>Été 2026 : du 4 juillet au 29 août selon Les 3 Vallées, 7 jours sur 7. La date de fin varie selon l'endroit de la page consultée — 28 ou 29 août — et selon la vallée. Vérifiez l'ouverture des trois appareils, pas seulement du dernier.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Arrivo a 2 952 m dopo 8 minuti di tragitto, al termine di una sequenza di tre impianti da Méribel-Mottaret.",
+          "tag": "Estate",
+          "title": "Salire al Mont Vallon"
+        },
+        {
+          "description": "Da Méribel-Mottaret: cabinovia delle Plattières, seggiovia del Plan des Mains, poi cabinovia del Mont Vallon.",
+          "tag": null,
+          "title": "Concatenare i tre impianti"
+        },
+        {
+          "description": "Il forfait pedonale delle 3 Vallées, a 23,50 € al giorno, dà accesso all'intero comprensorio e non solo a questo impianto.",
+          "tag": null,
+          "title": "Acquistare il forfait pedonale"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>Cabinovia del Mont Vallon</strong> arriva a 2 952 m sopra Méribel, nel comune di <strong>Les Allues</strong> — Méribel è una stazione, Les Allues il comune. È il punto più alto raggiungibile a piedi della valle di Méribel, raggiunto in 8 minuti di tragitto.</p><p>Un punto pratico domina: non vi si accede direttamente. Da Méribel-Mottaret, bisogna concatenare tre impianti — la cabinovia delle Plattières, la seggiovia del Plan des Mains, poi la cabinovia del Mont Vallon. Nessuna fonte pubblica gli orari impianto per impianto.</p><p>Estate 2026: Les 3 Vallées annunciano gli impianti di Méribel aperti 7 giorni su 7 dal 4 luglio al 29 agosto, ad eccezione del Pas du Lac. La stessa pagina indica tuttavia, in testa, una stagione complessiva che si ferma al 28 agosto.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "A pagamento",
+        "best_season": "Estate (4 luglio – 29 agosto 2026)",
+        "commune": "Les Allues",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Cabinovia",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "2 952 m. Il dato viene da fonti secondarie, non da una scheda tecnica del gestore.",
+          "q": "A quale altitudine arriva la cabinovia del Mont Vallon?"
+        },
+        {
+          "a": "No. Da Méribel-Mottaret bisogna concatenare tre impianti: cabinovia delle Plattières, seggiovia del Plan des Mains, poi cabinovia del Mont Vallon.",
+          "q": "Si può salire al Mont Vallon in un solo tratto?"
+        },
+        {
+          "a": "Les 3 Vallées annunciano gli impianti di Méribel aperti 7 giorni su 7 dal 4 luglio al 29 agosto 2026, tranne il Pas du Lac. La stessa pagina indica peraltro una stagione complessiva che si ferma al 28 agosto: le due informazioni non concordano.",
+          "q": "Quando funziona la cabinovia nell'estate 2026?"
+        },
+        {
+          "a": "23,50 € al giorno e 65,50 € alla settimana, ma si tratta di forfait pedonali validi su tutto il comprensorio delle 3 Vallées. Non è stata trovata alcuna tariffa di salita singola al Mont Vallon.",
+          "q": "Quanto costa la salita?"
+        },
+        {
+          "a": "Méribel è una stazione; il comune è Les Allues. È il comune più denso della scheda DATAtourisme del dipartimento, con 187 luoghi censiti.",
+          "q": "Il Mont Vallon è a Méribel o a Les Allues?"
+        }
+      ],
+      "hero": {
+        "badge": "A pagamento · 2 952 m",
+        "lead": "La cabinovia del Mont Vallon arriva a 2 952 m sopra Méribel, comune di Les Allues. Tre impianti da concatenare da Méribel-Mottaret per arrivarci."
+      },
+      "hero_alt": "Télécabine du Mont Vallon, Méribel, Les Allues, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Accesso da Méribel-Mottaret, comune di Les Allues. Il punto GPS di questa scheda è quello del punto panoramico in cima, non della stazione di partenza.",
+        "public_transport": null
+      },
+      "meta_description": "Arrivo a 2 952 m sopra Méribel, comune di Les Allues, in 8 minuti. Tre impianti da concatenare da Méribel-Mottaret. Estate 2026: 4 luglio – 29 agosto.",
+      "meta_title": "Télécabine du Mont Vallon (Méribel) · 2 952 m, estate 2026",
+      "name": "Télécabine du Mont Vallon",
+      "name_alternates": [
+        "Mont Vallon",
+        "Mont Vallon Peak Experience"
+      ],
+      "practical_info": [
+        {
+          "k": "Tipo",
+          "v": "Cabinovia"
+        },
+        {
+          "k": "Altitudine di arrivo",
+          "v": "2 952 m (fonti secondarie)"
+        },
+        {
+          "k": "Durata del tragitto",
+          "v": "8 minuti (fonti secondarie)"
+        },
+        {
+          "k": "Coordinate",
+          "v": "45.328541° N, 6.609849° E — punto panoramico in cima secondo la scheda DATAtourisme, non la stazione di partenza"
+        },
+        {
+          "k": "Accesso pedonale",
+          "v": "Tre impianti da Méribel-Mottaret: cabinovia delle Plattières, seggiovia del Plan des Mains, cabinovia del Mont Vallon"
+        },
+        {
+          "k": "Estate 2026",
+          "v": "Impianti di Méribel aperti 7 giorni su 7 dal 4 luglio al 29 agosto 2026, tranne il Pas du Lac (Les 3 Vallées). La stessa pagina annuncia in testa una stagione che si ferma al 28 agosto.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Tariffa",
+          "v": "Forfait pedonale 3 Vallées: 23,50 € al giorno, 65,50 € alla settimana. Valido su tutto il comprensorio, non è il prezzo di una salita."
+        },
+        {
+          "k": "Orari giornalieri",
+          "v": null
+        },
+        {
+          "k": "Animali",
+          "v": null
+        },
+        {
+          "k": "Accessibilità",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Cabinovia",
+        "Punto panoramico"
+      ],
+      "when_to_visit": "<p>Estate 2026: dal 4 luglio al 29 agosto secondo Les 3 Vallées, 7 giorni su 7. La data di fine varia a seconda del punto della pagina consultata — 28 o 29 agosto — e a seconda della valle. Verificate l'apertura dei tre impianti, non solo dell'ultimo.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Aankomst op 2 952 m na 8 minuten rijden, aan het einde van een aaneenschakeling van drie liften vanaf Méribel-Mottaret.",
+          "tag": "Zomer",
+          "title": "Naar de Mont Vallon omhooggaan"
+        },
+        {
+          "description": "Vanaf Méribel-Mottaret: de gondelbaan Les Plattières, de stoeltjeslift Plan des Mains, daarna de gondelbaan Mont Vallon.",
+          "tag": null,
+          "title": "De drie installaties na elkaar nemen"
+        },
+        {
+          "description": "De voetgangerspas van Les 3 Vallées, 23,50 € per dag, geeft toegang tot het hele gebied en niet alleen tot deze installatie.",
+          "tag": null,
+          "title": "De voetgangerspas nemen"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>gondelbaan van de Mont Vallon</strong> komt aan op 2 952 m boven Méribel, in de gemeente <strong>Les Allues</strong> — Méribel is een skioord, Les Allues de gemeente. Het is het hoogste voetgangerspunt van het dal van Méribel, bereikt in 8 minuten rijden.</p><p>Eén praktisch punt overheerst: u komt er niet rechtstreeks. Vanaf Méribel-Mottaret moet u drie installaties na elkaar nemen — de gondelbaan Les Plattières, de stoeltjeslift Plan des Mains, daarna de gondelbaan Mont Vallon. Geen enkele bron publiceert de openingstijden per installatie.</p><p>Zomer 2026: Les 3 Vallées kondigt de liften van Méribel aan als 7 dagen per week open van 4 juli tot 29 augustus, met uitzondering van de Pas du Lac. Dezelfde pagina toont bovenaan echter een globaal seizoen dat op 28 augustus eindigt.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Betaald",
+        "best_season": "Zomer (4 juli – 29 augustus 2026)",
+        "commune": "Les Allues",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Gondelbaan",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "2 952 m. Het cijfer komt uit secundaire bronnen, niet uit een technische fiche van de exploitant.",
+          "q": "Op welke hoogte komt de gondelbaan van de Mont Vallon aan?"
+        },
+        {
+          "a": "Nee. Vanaf Méribel-Mottaret moet u drie installaties na elkaar nemen: de gondelbaan Les Plattières, de stoeltjeslift Plan des Mains, daarna de gondelbaan Mont Vallon.",
+          "q": "Kunt u in één keer naar de Mont Vallon omhoog?"
+        },
+        {
+          "a": "Les 3 Vallées kondigt de liften van Méribel aan als 7 dagen per week open van 4 juli tot 29 augustus 2026, behalve de Pas du Lac. Dezelfde pagina toont daarnaast een globaal seizoen dat op 28 augustus eindigt: de twee komen niet overeen.",
+          "q": "Wanneer draait de gondelbaan in de zomer van 2026?"
+        },
+        {
+          "a": "23,50 € per dag en 65,50 € per week, maar dat zijn voetgangerspassen die in het hele gebied van Les 3 Vallées geldig zijn. Er is geen tarief voor een enkele rit naar de Mont Vallon gevonden.",
+          "q": "Hoeveel kost de rit omhoog?"
+        },
+        {
+          "a": "Méribel is een skioord; de gemeente is Les Allues. Het is de dichtst bezette gemeente van het DATAtourisme-bestand van het departement, met 187 geregistreerde plaatsen.",
+          "q": "Ligt de Mont Vallon in Méribel of in Les Allues?"
+        }
+      ],
+      "hero": {
+        "badge": "Betaald · 2 952 m",
+        "lead": "De gondelbaan van de Mont Vallon komt aan op 2 952 m boven Méribel, gemeente Les Allues. Drie liften na elkaar vanaf Méribel-Mottaret om er te komen."
+      },
+      "hero_alt": "Gondelbaan Mont Vallon, Méribel, Les Allues, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Toegang via Méribel-Mottaret, gemeente Les Allues. Het GPS-punt van deze fiche is dat van het uitzichtpunt op de top, niet van het dalstation.",
+        "public_transport": null
+      },
+      "meta_description": "Aankomst op 2 952 m boven Méribel, gemeente Les Allues, in 8 minuten. Drie liften na elkaar vanaf Méribel-Mottaret. Zomer 2026: 4 juli – 29 augustus.",
+      "meta_title": "Gondelbaan Mont Vallon (Méribel) · 2 952 m, zomer 2026",
+      "name": "Gondelbaan Mont Vallon",
+      "name_alternates": [
+        "Mont Vallon",
+        "Mont Vallon Peak Experience"
+      ],
+      "practical_info": [
+        {
+          "k": "Type",
+          "v": "Gondelbaan"
+        },
+        {
+          "k": "Aankomsthoogte",
+          "v": "2 952 m (secundaire bronnen)"
+        },
+        {
+          "k": "Reisduur",
+          "v": "8 minuten (secundaire bronnen)"
+        },
+        {
+          "k": "Coördinaten",
+          "v": "45.328541° N, 6.609849° E — uitzichtpunt op de top volgens het DATAtourisme-record, niet het dalstation"
+        },
+        {
+          "k": "Toegang voor voetgangers",
+          "v": "Drie installaties vanaf Méribel-Mottaret: de gondelbaan Les Plattières, de stoeltjeslift Plan des Mains, de gondelbaan Mont Vallon"
+        },
+        {
+          "k": "Zomer 2026",
+          "v": "Liften van Méribel 7 dagen per week open van 4 juli tot 29 augustus 2026, behalve de Pas du Lac (Les 3 Vallées). Dezelfde pagina kondigt bovenaan een seizoen aan dat op 28 augustus eindigt.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Tarief",
+          "v": "Voetgangerspas 3 Vallées: 23,50 € per dag, 65,50 € per week. Geldig in het hele gebied; het is niet de prijs van een enkele rit omhoog."
+        },
+        {
+          "k": "Dagelijkse openingstijden",
+          "v": null
+        },
+        {
+          "k": "Dieren",
+          "v": null
+        },
+        {
+          "k": "Toegankelijkheid",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Gondelbaan",
+        "Uitzichtpunt"
+      ],
+      "when_to_visit": "<p>Zomer 2026: van 4 juli tot 29 augustus volgens Les 3 Vallées, 7 dagen per week. De einddatum verschilt naargelang de plek op de geraadpleegde pagina — 28 of 29 augustus — en naargelang het dal. Controleer de opening van alle drie de installaties, niet alleen van de laatste.</p>"
     }
   },
   "latitude": 45.328541,

@@ -37,6 +37,131 @@
   "hero_credit": "Rémih · CC BY-SA 4.0 · Wikimedia Commons",
   "hero_image": "/img/telecabines/telecabine-de-la-roche-de-mio-hero.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Von Plagne Bellecôte zum Gipfel der Roche de Mio auf 2 739 m.",
+          "tag": "Sommer",
+          "title": "Zur Roche de Mio hinauffahren"
+        },
+        {
+          "description": "Der Gipfel ist Ausgangspunkt einer vom Skiort dokumentierten Rundwanderung.",
+          "tag": "Sommer",
+          "title": "Vom Gipfel aus wandern"
+        },
+        {
+          "description": "Die aktuelle Bahn ging im Dezember 2025 in Betrieb: Kabinen mit 10 Plätzen, 6 m/s, 3 140 Personen pro Stunde.",
+          "tag": null,
+          "title": "Eine neue Gondelbahn nehmen"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>Gondelbahn Roche de Mio</strong> verbindet Plagne Bellecôte mit dem Gipfel der Roche de Mio auf 2 739 m, auf dem Gebiet der Gemeinde La Plagne Tarentaise. Die Bahn ist neu: in Betrieb seit Dezember 2025, mit Kabinen für 10 Personen, einer Geschwindigkeit von 6 m/s und einer angegebenen Förderleistung von 3 140 Personen pro Stunde. Jede Beschreibung, die von 6er-Kabinen spricht, betrifft die abgebaute Vorgängerbahn.</p><p>Zwei praktische Punkte zählen mehr als alles andere. Erstens: <strong>Sie ist samstags geschlossen</strong>; sie fährt montags, dienstags, mittwochs, donnerstags, freitags und sonntags von 9 bis 17 Uhr. Zweitens: Die Seite des Betreibers überschreibt ihre Sommersaison mit „Winter opening\", nennt aber Daten im Juli und August — die Überschrift ist falsch, die Daten sind es nicht.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Kostenpflichtig",
+        "best_season": "Sommer (4. Juli – 29. August 2026)",
+        "commune": "La Plagne Tarentaise",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Gondelbahn",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Vom 4. Juli bis 29. August 2026, von 9 bis 17 Uhr, montags, dienstags, mittwochs, donnerstags, freitags und sonntags. Samstags ist sie geschlossen.",
+          "q": "Wann fährt die Gondelbahn Roche de Mio im Sommer 2026?"
+        },
+        {
+          "a": "Nein, samstags ist sie geschlossen. Das ist der einzige Wochentag, an dem sie nicht fährt.",
+          "q": "Fährt die Gondelbahn samstags?"
+        },
+        {
+          "a": "2 739 m. Die Zahl stammt aus Sekundärquellen: Die eingesehene Seite des Betreibers nennt keine Höhe.",
+          "q": "Auf welcher Höhe kommt man an?"
+        },
+        {
+          "a": "9 € für die einfache Bergfahrt ab 13 Jahren, 7 € für 5- bis 12-Jährige. Die Fußgänger-Tageskarte kostet 21 € und 17 €, die Wochenkarte 75 € und 60 €. Diese Preise wurden nicht anhand einer Preistabelle des Betreibers geprüft.",
+          "q": "Was kostet die Bergfahrt?"
+        },
+        {
+          "a": "Ja, seit Dezember 2025: Kabinen mit 10 Plätzen, 6 m/s, 3 140 Personen pro Stunde. Beschreibungen mit 6er-Kabinen betreffen die abgebaute Vorgängerbahn.",
+          "q": "Ist die Gondelbahn neu?"
+        }
+      ],
+      "hero": {
+        "badge": "Kostenpflichtig · Samstags geschlossen",
+        "lead": "Die Gondelbahn Roche de Mio steigt von Plagne Bellecôte auf 2 739 m. Neue Bahn seit Dezember 2025, täglich außer samstags geöffnet."
+      },
+      "hero_alt": "Gondelbahn Roche de Mio, Plagne Bellecôte, La Plagne Tarentaise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Talstation in Plagne Bellecôte, Gemeinde La Plagne Tarentaise. Plagne Bellecôte ist ein Ortsteil am Pistenrand, keine Gemeinde.",
+        "public_transport": null
+      },
+      "meta_description": "Neue Gondelbahn seit Dezember 2025, von Plagne Bellecôte auf 2 739 m. Sommer 2026: 4. Juli – 29. August, 9–17 Uhr, samstags geschlossen. Einfache Bergfahrt 9 €.",
+      "meta_title": "Gondelbahn Roche de Mio · 2 739 m, Sommer 2026, Preise",
+      "name": "Gondelbahn Roche de Mio",
+      "name_alternates": [
+        "Roche de Mio",
+        "Télécabine Roche de Mio (Plagne Bellecôte)"
+      ],
+      "practical_info": [
+        {
+          "k": "Typ",
+          "v": "Gondelbahn, Kabinen mit 10 Plätzen, 6 m/s, 3 140 Personen/Stunde (einzige Quelle: der Betreiber)"
+        },
+        {
+          "k": "Ankunftshöhe",
+          "v": "2 739 m (Sekundärquellen; fehlt auf der eingesehenen Seite des Betreibers)"
+        },
+        {
+          "k": "Sommer 2026",
+          "v": "Vom 4. Juli bis 29. August 2026, von 9 bis 17 Uhr. Die Seite des Betreibers überschreibt diesen Zeitraum mit „Winter opening\", was eine falsche Überschrift ist.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Betriebstage",
+          "v": "Montag, Dienstag, Mittwoch, Donnerstag, Freitag und Sonntag. Samstags geschlossen.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Inbetriebnahme",
+          "v": "Umstritten. Skipass-laplagne nennt Dezember 2025; eine auf den 14. April 2025 datierte Fotografie zeigt „die neue Gondelbahn\". Vermutlich wurde ein Saisonbeginn mit einer Inbetriebnahme verwechselt. Nicht geklärt."
+        },
+        {
+          "k": "Koordinaten",
+          "v": "45.50728° N, 6.707604° E (DATAtourisme-Datensatz, Eintrag „Télécabine de la Roche de Mio\")"
+        },
+        {
+          "k": "Fußgängerpreise",
+          "v": "Einfache Bergfahrt 9 € (ab 13 Jahren) und 7 € (5–12 Jahre) · Tageskarte 21 € und 17 € · 7 aufeinanderfolgende Tage 75 € und 60 € · Saison 156 € und 125 €. Nicht anhand einer Preistabelle des Betreibers geprüft."
+        },
+        {
+          "k": "Fahrtdauer",
+          "v": null
+        },
+        {
+          "k": "Tiere",
+          "v": null
+        },
+        {
+          "k": "Barrierefreiheit",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Gondelbahn",
+        "Aussichtspunkt",
+        "Ausgangspunkt für Wanderungen"
+      ],
+      "when_to_visit": "<p>Sommer 2026: vom 4. Juli bis 29. August, von 9 bis 17 Uhr. Entscheidend ist der Wochentag, nicht der Zeitraum: Die Gondelbahn ist samstags geschlossen, dem Anreisetag der Ferienwohnungswechsel im Ort.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -158,6 +283,131 @@
         "Trailhead"
       ],
       "when_to_visit": "<p>Summer 2026: 4 July to 29 August, 09:00 to 17:00. The thing to remember is the day, not the period: the gondola is closed on Saturdays, changeover day for resort lets.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "De Plagne Bellecôte a la cima de la Roche de Mio, a 2 739 m.",
+          "tag": "Verano",
+          "title": "Subir a la Roche de Mio"
+        },
+        {
+          "description": "La cima es el punto de partida de un circuito de excursión documentado por la estación.",
+          "tag": "Verano",
+          "title": "Salir de excursión desde la cima"
+        },
+        {
+          "description": "La instalación actual entró en servicio en diciembre de 2025: cabinas de 10 plazas, 6 m/s, 3 140 personas por hora.",
+          "tag": null,
+          "title": "Tomar una telecabina nueva"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>Telecabina de la Roche de Mio</strong> une Plagne Bellecôte con la cima de la Roche de Mio, a 2 739 m, en el municipio de La Plagne Tarentaise. La instalación es nueva: entró en servicio en diciembre de 2025, con cabinas de 10 plazas, una velocidad de 6 m/s y un caudal anunciado de 3 140 personas por hora. Toda descripción que hable de cabinas de 6 plazas se refiere a la instalación anterior, desmontada.</p><p>Dos puntos prácticos importan más que el resto. Primero, <strong>está cerrada los sábados</strong>: funciona los lunes, martes, miércoles, jueves, viernes y domingos, de 9h a 17h. Segundo, la página del operador titula su temporada estival « Winter opening » a la vez que da fechas de julio y agosto — el rótulo es erróneo, las fechas no.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "De pago",
+        "best_season": "Verano (4 de julio – 29 de agosto de 2026)",
+        "commune": "La Plagne Tarentaise",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Telecabina",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Del 4 de julio al 29 de agosto de 2026, de 9h a 17h, los lunes, martes, miércoles, jueves, viernes y domingos. Está cerrada los sábados.",
+          "q": "¿Cuándo funciona la Telecabina de la Roche de Mio en verano de 2026?"
+        },
+        {
+          "a": "No, está cerrada los sábados. Es el único día de la semana en que no funciona.",
+          "q": "¿Funciona la telecabina los sábados?"
+        },
+        {
+          "a": "2 739 m. La cifra procede de fuentes secundarias: la página del operador consultada no da la altitud.",
+          "q": "¿A qué altitud se llega?"
+        },
+        {
+          "a": "9 € por subida sencilla para los mayores de 13 años, 7 € para los de 5 a 12 años. El día peatonal cuesta 21 € y 17 €, la semana 75 € y 60 €. Estas tarifas no han sido verificadas en una tabla del operador.",
+          "q": "¿Cuánto cuesta la subida?"
+        },
+        {
+          "a": "Sí, desde diciembre de 2025: cabinas de 10 plazas, 6 m/s, 3 140 personas por hora. Las descripciones que mencionan cabinas de 6 plazas se refieren a la instalación anterior, desmontada.",
+          "q": "¿Es reciente la telecabina?"
+        }
+      ],
+      "hero": {
+        "badge": "De pago · Cerrada los sábados",
+        "lead": "La Telecabina de la Roche de Mio sube de Plagne Bellecôte a 2 739 m. Instalación nueva desde diciembre de 2025, abierta todos los días salvo los sábados."
+      },
+      "hero_alt": "Telecabina de la Roche de Mio, Plagne Bellecôte, La Plagne Tarentaise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Estación de salida en Plagne Bellecôte, municipio de La Plagne Tarentaise. Plagne Bellecôte es un frente de nieve, no un municipio.",
+        "public_transport": null
+      },
+      "meta_description": "Telecabina nueva desde diciembre de 2025, de Plagne Bellecôte a 2 739 m. Verano 2026: 4 de julio – 29 de agosto, 9h-17h, cerrada los sábados. Subida sencilla 9 €.",
+      "meta_title": "Telecabina de la Roche de Mio · 2 739 m, verano 2026, tarifas",
+      "name": "Telecabina de la Roche de Mio",
+      "name_alternates": [
+        "Roche de Mio",
+        "Télécabine Roche de Mio (Plagne Bellecôte)"
+      ],
+      "practical_info": [
+        {
+          "k": "Tipo",
+          "v": "Telecabina, cabinas de 10 plazas, 6 m/s, 3 140 personas/hora (fuente única: el operador)"
+        },
+        {
+          "k": "Altitud de llegada",
+          "v": "2 739 m (fuentes secundarias; ausente de la página del operador consultada)"
+        },
+        {
+          "k": "Verano 2026",
+          "v": "Del 4 de julio al 29 de agosto de 2026, de 9h a 17h. La página del operador titula este periodo « Winter opening », lo que es un rótulo erróneo.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Días de apertura",
+          "v": "Lunes, martes, miércoles, jueves, viernes y domingos. Cerrada los sábados.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Puesta en servicio",
+          "v": "Discutida. Skipass-laplagne indica diciembre de 2025; una fotografía fechada el 14 de abril de 2025 muestra « la nueva telecabina ». Probablemente un inicio de temporada confundido con una puesta en servicio. Sin resolver."
+        },
+        {
+          "k": "Coordenadas",
+          "v": "45.50728° N, 6.707604° E (ficha DATAtourisme, línea « Télécabine de la Roche de Mio »)"
+        },
+        {
+          "k": "Tarifas peatonales",
+          "v": "Subida sencilla 9 € (13 años o más) y 7 € (5-12 años) · día 21 € y 17 € · 7 días consecutivos 75 € y 60 € · temporada 156 € y 125 €. No verificados en una tabla del operador."
+        },
+        {
+          "k": "Duración del trayecto",
+          "v": null
+        },
+        {
+          "k": "Animales",
+          "v": null
+        },
+        {
+          "k": "Accesibilidad",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Telecabina",
+        "Mirador",
+        "Salida de excursiones"
+      ],
+      "when_to_visit": "<p>Verano 2026: del 4 de julio al 29 de agosto, de 9h a 17h. Lo que hay que retener es el día, no el periodo: la telecabina está cerrada los sábados, día de rotación de los alquileres en la estación.</p>"
     },
     "fr": {
       "activities": [
@@ -283,6 +533,256 @@
         "Départ de randonnées"
       ],
       "when_to_visit": "<p>Été 2026 : du 4 juillet au 29 août, de 9h à 17h. Le point à retenir est le jour, pas la période : la télécabine est fermée le samedi, jour de rotation des locations en station.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Da Plagne Bellecôte alla cima della Roche de Mio, a 2 739 m.",
+          "tag": "Estate",
+          "title": "Salire alla Roche de Mio"
+        },
+        {
+          "description": "La cima è il punto di partenza di un circuito escursionistico documentato dalla stazione.",
+          "tag": "Estate",
+          "title": "Partire in escursione dalla cima"
+        },
+        {
+          "description": "L'impianto attuale è stato messo in servizio nel dicembre 2025: cabine da 10 posti, 6 m/s, 3 140 persone all'ora.",
+          "tag": null,
+          "title": "Prendere una cabinovia nuova"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>Cabinovia della Roche de Mio</strong> collega Plagne Bellecôte alla cima della Roche de Mio, a 2 739 m, nel comune di La Plagne Tarentaise. L'impianto è nuovo: messo in servizio nel dicembre 2025, con cabine da 10 posti, una velocità di 6 m/s e una portata annunciata di 3 140 persone all'ora. Ogni descrizione che parla di cabine da 6 posti si riferisce all'impianto precedente, smantellato.</p><p>Due punti pratici contano più del resto. Innanzitutto, <strong>è chiusa il sabato</strong>: funziona il lunedì, martedì, mercoledì, giovedì, venerdì e la domenica, dalle 9h alle 17h. Inoltre, la pagina del gestore intitola la sua stagione estiva « Winter opening » pur indicando date di luglio e agosto — la dicitura è errata, le date no.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "A pagamento",
+        "best_season": "Estate (4 luglio – 29 agosto 2026)",
+        "commune": "La Plagne Tarentaise",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Cabinovia",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Dal 4 luglio al 29 agosto 2026, dalle 9h alle 17h, il lunedì, martedì, mercoledì, giovedì, venerdì e la domenica. È chiusa il sabato.",
+          "q": "Quando funziona la cabinovia della Roche de Mio nell'estate 2026?"
+        },
+        {
+          "a": "No, è chiusa il sabato. È l'unico giorno della settimana in cui non funziona.",
+          "q": "La cabinovia funziona il sabato?"
+        },
+        {
+          "a": "2 739 m. Il dato viene da fonti secondarie: la pagina del gestore consultata non indica l'altitudine.",
+          "q": "A quale altitudine si arriva?"
+        },
+        {
+          "a": "9 € per la salita singola dai 13 anni in su, 7 € per i 5-12 anni. La giornata pedonale costa 21 € e 17 €, la settimana 75 € e 60 €. Queste tariffe non sono state verificate su un listino del gestore.",
+          "q": "Quanto costa la salita?"
+        },
+        {
+          "a": "Sì, dal dicembre 2025: cabine da 10 posti, 6 m/s, 3 140 persone all'ora. Le descrizioni che menzionano cabine da 6 posti riguardano l'impianto precedente, smantellato.",
+          "q": "La cabinovia è recente?"
+        }
+      ],
+      "hero": {
+        "badge": "A pagamento · Chiusa il sabato",
+        "lead": "La cabinovia della Roche de Mio sale da Plagne Bellecôte a 2 739 m. Impianto nuovo dal dicembre 2025, aperto tutti i giorni tranne il sabato."
+      },
+      "hero_alt": "Cabinovia della Roche de Mio, Plagne Bellecôte, La Plagne Tarentaise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Stazione di partenza a Plagne Bellecôte, comune di La Plagne Tarentaise. Plagne Bellecôte è un fronte neve, non un comune.",
+        "public_transport": null
+      },
+      "meta_description": "Cabinovia nuova dal dicembre 2025, da Plagne Bellecôte a 2 739 m. Estate 2026: 4 luglio – 29 agosto, 9h-17h, chiusa il sabato. Salita singola 9 €.",
+      "meta_title": "Télécabine de la Roche de Mio · 2 739 m, estate 2026, tariffe",
+      "name": "Télécabine de la Roche de Mio",
+      "name_alternates": [
+        "Roche de Mio",
+        "Télécabine Roche de Mio (Plagne Bellecôte)"
+      ],
+      "practical_info": [
+        {
+          "k": "Tipo",
+          "v": "Cabinovia, cabine da 10 posti, 6 m/s, 3 140 persone/ora (fonte unica: il gestore)"
+        },
+        {
+          "k": "Altitudine di arrivo",
+          "v": "2 739 m (fonti secondarie; assente dalla pagina del gestore consultata)"
+        },
+        {
+          "k": "Estate 2026",
+          "v": "Dal 4 luglio al 29 agosto 2026, dalle 9h alle 17h. La pagina del gestore intitola questo periodo « Winter opening », una dicitura errata.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Giorni di apertura",
+          "v": "Lunedì, martedì, mercoledì, giovedì, venerdì e domenica. Chiusa il sabato.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Messa in servizio",
+          "v": "Controversa. Skipass-laplagne indica dicembre 2025; una fotografia datata 14 aprile 2025 mostra « la nuova cabinovia ». Probabilmente un inizio di stagione confuso con una messa in servizio. Non risolto."
+        },
+        {
+          "k": "Coordinate",
+          "v": "45.50728° N, 6.707604° E (scheda DATAtourisme, riga « Télécabine de la Roche de Mio »)"
+        },
+        {
+          "k": "Tariffe pedoni",
+          "v": "Salita singola 9 € (13 anni e oltre) e 7 € (5-12 anni) · giornata 21 € e 17 € · 7 giorni consecutivi 75 € e 60 € · stagione 156 € e 125 €. Non verificati su un listino del gestore."
+        },
+        {
+          "k": "Durata del tragitto",
+          "v": null
+        },
+        {
+          "k": "Animali",
+          "v": null
+        },
+        {
+          "k": "Accessibilità",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Cabinovia",
+        "Punto panoramico",
+        "Partenza di escursioni"
+      ],
+      "when_to_visit": "<p>Estate 2026: dal 4 luglio al 29 agosto, dalle 9h alle 17h. Il punto da ricordare è il giorno, non il periodo: la cabinovia è chiusa il sabato, giorno di cambio degli affitti in stazione.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Van Plagne Bellecôte naar de top van de Roche de Mio, op 2 739 m.",
+          "tag": "Zomer",
+          "title": "Naar de Roche de Mio omhooggaan"
+        },
+        {
+          "description": "De top is het vertrekpunt van een wandelcircuit dat door het skioord is gedocumenteerd.",
+          "tag": "Zomer",
+          "title": "Vanaf de top gaan wandelen"
+        },
+        {
+          "description": "De huidige installatie is in december 2025 in gebruik genomen: cabines met 10 plaatsen, 6 m/s, 3 140 personen per uur.",
+          "tag": null,
+          "title": "Een nieuwe gondelbaan nemen"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>gondelbaan van de Roche de Mio</strong> verbindt Plagne Bellecôte met de top van de Roche de Mio, op 2 739 m, in de gemeente La Plagne Tarentaise. De installatie is nieuw: in gebruik genomen in december 2025, met cabines van 10 plaatsen, een snelheid van 6 m/s en een aangekondigde capaciteit van 3 140 personen per uur. Elke beschrijving die spreekt van cabines met 6 plaatsen gaat over de vorige, ontmantelde installatie.</p><p>Twee praktische punten tellen zwaarder dan de rest. Ten eerste is hij <strong>op zaterdag gesloten</strong>: hij draait op maandag, dinsdag, woensdag, donderdag, vrijdag en zondag, van 9h tot 17h. Ten tweede noemt de pagina van de exploitant het zomerseizoen « Winter opening », terwijl er data in juli en augustus staan — het opschrift is fout, de data niet.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Betaald",
+        "best_season": "Zomer (4 juli – 29 augustus 2026)",
+        "commune": "La Plagne Tarentaise",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Gondelbaan",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Van 4 juli tot 29 augustus 2026, van 9h tot 17h, op maandag, dinsdag, woensdag, donderdag, vrijdag en zondag. Op zaterdag is hij gesloten.",
+          "q": "Wanneer draait de gondelbaan van de Roche de Mio in de zomer van 2026?"
+        },
+        {
+          "a": "Nee, hij is op zaterdag gesloten. Dat is de enige dag van de week waarop hij niet draait.",
+          "q": "Draait de gondelbaan op zaterdag?"
+        },
+        {
+          "a": "2 739 m. Het cijfer komt uit secundaire bronnen: de geraadpleegde pagina van de exploitant vermeldt geen hoogte.",
+          "q": "Op welke hoogte komt u aan?"
+        },
+        {
+          "a": "9 € voor een enkele rit omhoog vanaf 13 jaar, 7 € voor 5-12 jaar. De voetgangersdagkaart kost 21 € en 17 €, de weekkaart 75 € en 60 €. Deze tarieven zijn niet geverifieerd op een tarieventabel van de exploitant.",
+          "q": "Hoeveel kost de rit omhoog?"
+        },
+        {
+          "a": "Ja, sinds december 2025: cabines met 10 plaatsen, 6 m/s, 3 140 personen per uur. Beschrijvingen die cabines met 6 plaatsen noemen, betreffen de vorige, ontmantelde installatie.",
+          "q": "Is de gondelbaan recent?"
+        }
+      ],
+      "hero": {
+        "badge": "Betaald · Zaterdag gesloten",
+        "lead": "De gondelbaan van de Roche de Mio klimt van Plagne Bellecôte naar 2 739 m. Nieuwe installatie sinds december 2025, dagelijks open behalve op zaterdag."
+      },
+      "hero_alt": "Gondelbaan Roche de Mio, Plagne Bellecôte, La Plagne Tarentaise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Dalstation in Plagne Bellecôte, gemeente La Plagne Tarentaise. Plagne Bellecôte is een skifront, geen gemeente.",
+        "public_transport": null
+      },
+      "meta_description": "Nieuwe gondelbaan sinds december 2025, van Plagne Bellecôte naar 2 739 m. Zomer 2026: 4 juli – 29 augustus, 9h-17h, zaterdag gesloten. Enkele rit omhoog 9 €.",
+      "meta_title": "Gondelbaan Roche de Mio · 2 739 m, zomer 2026, tarieven",
+      "name": "Gondelbaan Roche de Mio",
+      "name_alternates": [
+        "Roche de Mio",
+        "Télécabine Roche de Mio (Plagne Bellecôte)"
+      ],
+      "practical_info": [
+        {
+          "k": "Type",
+          "v": "Gondelbaan, cabines met 10 plaatsen, 6 m/s, 3 140 personen/uur (enige bron: de exploitant)"
+        },
+        {
+          "k": "Aankomsthoogte",
+          "v": "2 739 m (secundaire bronnen; ontbreekt op de geraadpleegde pagina van de exploitant)"
+        },
+        {
+          "k": "Zomer 2026",
+          "v": "Van 4 juli tot 29 augustus 2026, van 9h tot 17h. De pagina van de exploitant noemt deze periode « Winter opening », wat een onjuist opschrift is.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Openingsdagen",
+          "v": "Maandag, dinsdag, woensdag, donderdag, vrijdag en zondag. Zaterdag gesloten.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Ingebruikname",
+          "v": "Betwist. Skipass-laplagne geeft december 2025; een foto gedateerd 14 april 2025 toont « la nouvelle télécabine ». Waarschijnlijk een seizoensstart verward met een ingebruikname. Niet opgelost."
+        },
+        {
+          "k": "Coördinaten",
+          "v": "45.50728° N, 6.707604° E (DATAtourisme-record, regel « Télécabine de la Roche de Mio »)"
+        },
+        {
+          "k": "Voetgangerstarieven",
+          "v": "Enkele rit omhoog 9 € (13 jaar en ouder) en 7 € (5-12 jaar) · dagkaart 21 € en 17 € · 7 opeenvolgende dagen 75 € en 60 € · seizoen 156 € en 125 €. Niet geverifieerd op een tarieventabel van de exploitant."
+        },
+        {
+          "k": "Reisduur",
+          "v": null
+        },
+        {
+          "k": "Dieren",
+          "v": null
+        },
+        {
+          "k": "Toegankelijkheid",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Gondelbaan",
+        "Uitzichtpunt",
+        "Vertrekpunt van wandelingen"
+      ],
+      "when_to_visit": "<p>Zomer 2026: van 4 juli tot 29 augustus, van 9h tot 17h. Het punt om te onthouden is de dag, niet de periode: de gondelbaan is op zaterdag gesloten, de wisseldag van de verhuur in het skioord.</p>"
     }
   },
   "latitude": 45.50728,

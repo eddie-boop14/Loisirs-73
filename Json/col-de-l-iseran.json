@@ -37,6 +37,132 @@
   "hero_credit": "genevieveromier · CC BY 2.0 · Wikimedia Commons",
   "hero_image": "/img/points-de-vue/col-de-l-iseran-hero.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Laut Wikipedia (EN): Nordseite von Val-d'Isère 15 km, +895 m, durchschnittlich 6 %; Südseite von Bonneval-sur-Arc 13,4 km, +977 m, 7,3 % mit Passagen über 10 %.",
+          "tag": null,
+          "title": "Den Pass mit dem Auto, dem Motorrad oder dem Fahrrad überqueren"
+        },
+        {
+          "description": "Erbaut 1938-1939 von Maurice Novarina, eingeweiht am 20. August 1939, 2003 mit dem Label „Architecture contemporaine remarquable\" ausgezeichnet.",
+          "tag": null,
+          "title": "Die Kapelle Notre-Dame-de-Toute-Prudence besichtigen"
+        },
+        {
+          "description": "Der Pass ist die einzige Straßenverbindung im Inneren des Parks. Hunde sind in der Kernzone des Parks verboten.",
+          "tag": null,
+          "title": "Ein Tor des Parc national de la Vanoise passieren"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Der <strong>Col de l'Iseran</strong> überquert die Wasserscheide zwischen dem Tal der Isère in der Tarentaise und dem Tal des Arc in der Maurienne, zwischen Val-d'Isère (73150) und Bonneval-sur-Arc (73480). Die Passstraße wird vom Tourismusbüro von Val d'Isère und in der Postadresse des Passes D902 geschrieben, vom Département de la Savoie RD 902.</p><p>Seine Höhe ist nicht eindeutig belegt: 2 770 m auf manchen Seiten, 2 764 m auf anderen — darunter zwei Seiten desselben Tourismusbüros. Wir legen uns nicht fest. Die Kapelle Notre-Dame-de-Toute-Prudence, 1938-1939 vom Architekten Maurice Novarina erbaut und am 20. August 1939 eingeweiht, liegt laut der Mérimée-Datenbank auf 2 769 m: wieder ein anderer Wert.</p><p>Es ist die einzige Straßenverbindung im Inneren des Parc national de la Vanoise. Direkte Folge für Besucher mit Hund: Angeleinte Hunde sind nur auf dem Parkplatz des Passes zugelassen, und der Nationalpark verbietet Hunde in der Kernzone des Parks, auch angeleint oder getragen, unter Androhung einer Geldbuße von 135 €.</p>"
+      },
+      "events": "<p>L'Iserane, Sonntag, 21. Juni 2026: Die D902 ist von 8h00 bis 13h00 für Fahrzeuge gesperrt.</p>",
+      "facts": {
+        "access": "Frei zugänglich · Kostenlos",
+        "best_season": "Mitte Juni – Anfang November",
+        "commune": "Bonneval-sur-Arc",
+        "dogs": "An der Leine, nur auf dem Parkplatz des Passes",
+        "parking": "Kostenlos, wenige Meter oberhalb des Passes",
+        "stroller": null,
+        "type": "Passstraße und Aussichtspunkt",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "Die offiziellen Quellen widersprechen sich: 2 770 m auf manchen Seiten, 2 764 m auf anderen, teils innerhalb derselben Tourismusbüro-Website. Wir legen uns nicht fest. Die Kapelle am Pass wird von der Mérimée-Datenbank mit 2 769 m angegeben, was noch ein anderer Wert ist.",
+          "q": "Wie hoch liegt der Col de l'Iseran?"
+        },
+        {
+          "a": "Ja. Die Tarentaise-Seite wurde am 5. Juni 2026 um 12h wieder geöffnet, die vollständige Überfahrt am 12. Juni 2026, kurz vor Mittag. Die winterliche Sperrung ist von zwei Tourismusbüros für den 2. November angekündigt, auf anderen Seiten für den 9. November.",
+          "q": "Ist der Col de l'Iseran 2026 geöffnet?"
+        },
+        {
+          "a": "Angeleinte Hunde sind nur auf dem Parkplatz des Passes zugelassen. Der Pass ist die einzige Straßenverbindung des Parc national de la Vanoise, und der Park verbietet Hunde in der Kernzone, auch angeleint oder getragen, unter Androhung einer Geldbuße von 135 €.",
+          "q": "Kann man mit Hund zum Col de l'Iseran kommen?"
+        },
+        {
+          "a": "Nein. Der Zugang ist frei und kostenlos, und der wenige Meter oberhalb des Passes gelegene Parkplatz ist ebenfalls kostenlos; er ist vom 15. Juni bis zum 15. November geöffnet, je nach Schneelage.",
+          "q": "Ist der Zugang zum Col de l'Iseran kostenpflichtig?"
+        },
+        {
+          "a": "Nächtliche Sperrungen der D902 wegen Tunnelarbeiten fanden vom 3. bis 7. August 2026 statt, von 21h bis 5h, mit Kolonnenverkehr. Über den 7. August hinaus ist keine Sperrung angekündigt, doch wir konnten keine Bestätigung des Département erhalten: Prüfen Sie savoie-route.fr.",
+          "q": "Gibt es im August 2026 Bauarbeiten an der Passstraße?"
+        }
+      ],
+      "hero": {
+        "badge": "Freier Zugang · D902",
+        "lead": "Der Col de l'Iseran verbindet Val-d'Isère in der Tarentaise mit Bonneval-sur-Arc in der Maurienne. Er ist die einzige Straßenverbindung im Inneren des Parc national de la Vanoise. Seine Höhe wird je nach Seite mit 2 770 m oder 2 764 m angegeben, auch innerhalb ein und derselben offiziellen Website."
+      },
+      "hero_alt": "Col de l'Iseran zwischen Val-d'Isère und Bonneval-sur-Arc, Savoie",
+      "how_to_get_there": {
+        "bike": "Profile laut Wikipedia (EN): Nordseite von Val-d'Isère 15 km, +895 m, durchschnittlich 6 %; von Bourg-Saint-Maurice 48 km, +1 955 m, 4,1 %; Südseite von Bonneval-sur-Arc 13,4 km, +977 m, 7,3 %; von Lanslebourg-Mont-Cenis 32,9 km, +1 371 m, 4,2 %. Der Pass ist der höchste Punkt der Route des Grandes Alpes.",
+        "car": "Über die D902 von Val-d'Isère im Norden oder von Bonneval-sur-Arc im Süden. Die Straße ist im Winter gesperrt; die Öffnungs- und Sperrtermine werden vom Département de la Savoie festgelegt und in Echtzeit auf savoie-route.fr veröffentlicht.",
+        "public_transport": null
+      },
+      "meta_description": "Seit dem 12. Juni 2026 für die Überfahrt geöffnet. Freier Zugang über die D902 zwischen Val-d'Isère und Bonneval-sur-Arc. Kostenloser Parkplatz. Einzige Straßenverbindung des Parc national de la Vanoise.",
+      "meta_title": "Col de l'Iseran · Öffnung 2026, Zugang, Hunde, Kapelle",
+      "name": "Col de l'Iseran",
+      "name_alternates": [
+        "Iseran",
+        "Col de l'Iseran (D902)"
+      ],
+      "practical_info": [
+        {
+          "k": "Adresse",
+          "v": "D902, 73480 Bonneval-sur-Arc (Seite Maurienne) / 73150 Val-d'Isère (Seite Tarentaise)"
+        },
+        {
+          "k": "Koordinaten",
+          "v": "45.417117° N, 7.030693° E"
+        },
+        {
+          "k": "Höhe",
+          "v": "2 770 m laut manchen offiziellen Seiten, 2 764 m laut anderen, auch innerhalb desselben Tourismusbüros. Widerspruch nicht entschieden."
+        },
+        {
+          "k": "Öffnung 2026",
+          "v": "Nur Tarentaise-Seite: Freitag, 5. Juni 2026 um 12h (Département de la Savoie). Vollständige Überfahrt: Freitag, 12. Juni 2026, kurz vor Mittag.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Sperrung 2026",
+          "v": "Von zwei Tourismusbüros für den 2. November 2026 angekündigt, von der Gemeinde und einer weiteren Seite desselben Tourismusbüros für den 9. November 2026. Nicht entschieden. Auf savoie-route.fr prüfen.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Preis",
+          "v": "Kostenlos, freier Zugang"
+        },
+        {
+          "k": "Parkplatz",
+          "v": "Kostenlos, wenige Meter oberhalb des Passes, geöffnet vom 15. Juni bis zum 15. November je nach Schneelage. GPS 45.41736, 7.031108."
+        },
+        {
+          "k": "Tiere",
+          "v": "Angeleinte Hunde sind nur auf dem Parkplatz des Passes zugelassen. Der Parc national de la Vanoise verbietet Hunde in der Kernzone, auch angeleint oder getragen: Geldbuße von 135 €. Einzige Ausnahme ist der Führhund mit CMI an der Leine."
+        },
+        {
+          "k": "Barrierefreiheit",
+          "v": null
+        },
+        {
+          "k": "Bauarbeiten",
+          "v": "Nächtliche Sperrungen der D902 wegen Tunnelarbeiten fanden vom 3. bis 7. August 2026 statt, von 21h bis 5h, mit stündlichem Kolonnenverkehr; dieses Zeitfenster ist vorbei. Auf der Straßenzustandsseite von Val d'Isère ist über den 7. August hinaus keine Sperrung angekündigt, doch wir konnten keine Bestätigung des Département erhalten: savoie-route.fr liefert keine Inhalte, und savoie.fr ist für Robots gesperrt. Prüfen Sie vor der Abfahrt. Separater Wechselverkehr auf der RD 902 zwischen Bourg-Saint-Maurice und Val d'Isère.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Einrichtungen am Scheitelpunkt",
+          "v": "Eine Bar, ein Restaurant, ein Souvenirladen, Toiletten und eine Orientierungsplattform werden von recoin.fr gemeldet, einem inoffiziellen Aggregator und der einzigen gefundenen Quelle. Von keiner offiziellen Quelle bestätigt: vor Ort zu prüfen."
+        }
+      ],
+      "schema_amenities": [
+        "Kostenloser Parkplatz",
+        "Kapelle"
+      ],
+      "when_to_visit": "<p>Die Straße ist von Mitte Juni bis Anfang November geöffnet. 2026 ist die vollständige Überfahrt seit dem 12. Juni offen; der angekündigte Sperrtermin schwankt je nach Quelle zwischen dem 2. und dem 9. November. Das Département kann den Pass aus Wettergründen ohne Vorankündigung sperren.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -163,6 +289,132 @@
       ],
       "when_to_visit": "<p>The road is open from mid-June to early November. In 2026 the full crossing has been open since 12 June; the announced closing date is either 2 or 9 November depending on the source. The Département can close the col without notice on weather grounds.</p>"
     },
+    "es": {
+      "activities": [
+        {
+          "description": "Según Wikipedia (EN): vertiente norte desde Val-d'Isère 15 km, +895 m, 6 % de media; vertiente sur desde Bonneval-sur-Arc 13,4 km, +977 m, 7,3 % con tramos de más del 10 %.",
+          "tag": null,
+          "title": "Cruzar el col en coche, en moto o en bicicleta"
+        },
+        {
+          "description": "Construida en 1938-1939 por Maurice Novarina, inaugurada el 20 de agosto de 1939, distinguida con el sello « Architecture contemporaine remarquable » en 2003.",
+          "tag": null,
+          "title": "Ver la capilla Notre-Dame-de-Toute-Prudence"
+        },
+        {
+          "description": "El col es el único paso por carretera en el interior del parque. Los perros están prohibidos en la zona central del parque.",
+          "tag": null,
+          "title": "Cruzar una puerta del Parc national de la Vanoise"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>col de l'Iseran</strong> franquea la línea divisoria entre el valle del Isère, en Tarentaise, y el del Arc, en Maurienne, entre Val-d'Isère (73150) y Bonneval-sur-Arc (73480). La carretera que lo cruza aparece escrita como D902 por la oficina de turismo de Val d'Isère y en la dirección postal del col, y como RD 902 por el Departamento de Savoie.</p><p>Su altitud no está establecida: 2 770 m en algunas páginas, 2 764 m en otras, incluso en dos páginas de la misma oficina de turismo. No zanjamos la cuestión. La capilla Notre-Dame-de-Toute-Prudence, construida en 1938-1939 por el arquitecto Maurice Novarina e inaugurada el 20 de agosto de 1939, está situada a 2 769 m según la base Mérimée: es todavía otro punto distinto.</p><p>Es el único paso por carretera en el interior del Parc national de la Vanoise. Consecuencia directa para los visitantes acompañados de un perro: los perros con correa solo se aceptan en el aparcamiento del col, y el Parque nacional prohíbe los perros en la zona central del parque, incluso con correa o en brazos, bajo pena de una multa de 135 €.</p>"
+      },
+      "events": "<p>L'Iserane, domingo 21 de junio de 2026: la D902 está cerrada a los vehículos de 8h00 a 13h00.</p>",
+      "facts": {
+        "access": "Acceso libre · Gratuito",
+        "best_season": "Mediados de junio – principios de noviembre",
+        "commune": "Bonneval-sur-Arc",
+        "dogs": "Con correa, únicamente en el aparcamiento del col",
+        "parking": "Gratuito, unos metros por encima del col",
+        "stroller": null,
+        "type": "Col de carretera y mirador",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "Las fuentes oficiales se contradicen: 2 770 m en algunas páginas, 2 764 m en otras, a veces dentro del mismo sitio de la oficina de turismo. No zanjamos la cuestión. La capilla del col figura a 2 769 m en la base Mérimée, lo que es todavía otro punto distinto.",
+          "q": "¿Cuál es la altitud del col de l'Iseran?"
+        },
+        {
+          "a": "Sí. La vertiente de Tarentaise reabrió el 5 de junio de 2026 a las 12h y la travesía completa el 12 de junio de 2026, poco antes del mediodía. El cierre invernal está anunciado para el 2 de noviembre por dos oficinas de turismo y para el 9 de noviembre por otras páginas.",
+          "q": "¿Está abierto el col de l'Iseran en 2026?"
+        },
+        {
+          "a": "Los perros con correa solo se aceptan en el aparcamiento del col. El col es el único paso por carretera del Parc national de la Vanoise, y el Parque prohíbe los perros en la zona central del parque, incluso con correa o en brazos, bajo pena de una multa de 135 €.",
+          "q": "¿Se puede venir con perro al col de l'Iseran?"
+        },
+        {
+          "a": "No. El acceso es libre y gratuito, y el aparcamiento situado unos metros por encima del col también es gratuito, abierto del 15 de junio al 15 de noviembre según las condiciones de nieve.",
+          "q": "¿Es de pago el acceso al col de l'Iseran?"
+        },
+        {
+          "a": "Hubo cierres nocturnos de la D902 por obras de túnel del 3 al 7 de agosto de 2026, de 21h a 5h, con paso en convoy. No se anuncia ningún cierre después del 7 de agosto, pero no hemos podido obtener confirmación del Departamento: compruébelo en savoie-route.fr.",
+          "q": "¿Hay obras en la carretera del col en agosto de 2026?"
+        }
+      ],
+      "hero": {
+        "badge": "Acceso libre · D902",
+        "lead": "El col de l'Iseran une Val-d'Isère, en Tarentaise, con Bonneval-sur-Arc, en Maurienne. Es el único paso por carretera en el interior del Parc national de la Vanoise. Su altitud figura como 2 770 m o como 2 764 m según las páginas, incluso dentro de un mismo sitio oficial."
+      },
+      "hero_alt": "Col de l'Iseran entre Val-d'Isère y Bonneval-sur-Arc, Savoie",
+      "how_to_get_there": {
+        "bike": "Perfiles según Wikipedia (EN): vertiente norte desde Val-d'Isère 15 km, +895 m, 6 % de media; desde Bourg-Saint-Maurice 48 km, +1 955 m, 4,1 %; vertiente sur desde Bonneval-sur-Arc 13,4 km, +977 m, 7,3 %; desde Lanslebourg-Mont-Cenis 32,9 km, +1 371 m, 4,2 %. El col es el punto culminante de la Route des Grandes Alpes.",
+        "car": "Por la D902 desde Val-d'Isère al norte o desde Bonneval-sur-Arc al sur. Carretera cerrada en invierno; las fechas de apertura y de cierre las decide el Departamento de Savoie y se publican en tiempo real en savoie-route.fr.",
+        "public_transport": null
+      },
+      "meta_description": "Abierto a la travesía desde el 12 de junio de 2026. Acceso libre por la D902 entre Val-d'Isère y Bonneval-sur-Arc. Aparcamiento gratuito. Único paso por carretera del Parc national de la Vanoise.",
+      "meta_title": "Col de l'Iseran · Apertura 2026, acceso, perros, capilla",
+      "name": "Col de l'Iseran",
+      "name_alternates": [
+        "Iseran",
+        "Col de l'Iseran (D902)"
+      ],
+      "practical_info": [
+        {
+          "k": "Dirección",
+          "v": "D902, 73480 Bonneval-sur-Arc (vertiente Maurienne) / 73150 Val-d'Isère (vertiente Tarentaise)"
+        },
+        {
+          "k": "Coordenadas",
+          "v": "45.417117° N, 7.030693° E"
+        },
+        {
+          "k": "Altitud",
+          "v": "2 770 m según algunas páginas oficiales, 2 764 m según otras, incluso dentro de la misma oficina de turismo. Contradicción no zanjada."
+        },
+        {
+          "k": "Apertura 2026",
+          "v": "Solo vertiente Tarentaise: viernes 5 de junio de 2026 a las 12h (Departamento de Savoie). Travesía completa: viernes 12 de junio de 2026, poco antes del mediodía.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Cierre 2026",
+          "v": "Anunciado para el 2 de noviembre de 2026 por dos oficinas de turismo y para el 9 de noviembre de 2026 por el municipio y por otra ficha de la misma oficina. Sin zanjar. Comprobar en savoie-route.fr.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Tarifa",
+          "v": "Gratuito, acceso libre"
+        },
+        {
+          "k": "Aparcamiento",
+          "v": "Gratuito, unos metros por encima del col, abierto del 15 de junio al 15 de noviembre según las condiciones de nieve. GPS 45.41736, 7.031108."
+        },
+        {
+          "k": "Animales",
+          "v": "Perros con correa aceptados únicamente en el aparcamiento del col. El Parc national de la Vanoise prohíbe los perros en la zona central del parque, incluso con correa o en brazos: multa de 135 €. Única excepción, el perro guía con tarjeta CMI llevado con correa."
+        },
+        {
+          "k": "Accesibilidad",
+          "v": null
+        },
+        {
+          "k": "Obras",
+          "v": "Hubo cierres nocturnos de la D902 por obras de túnel del 3 al 7 de agosto de 2026, de 21h a 5h, con paso en convoy cada hora; esa ventana ya ha pasado. No se anuncia ningún cierre después del 7 de agosto en la página de estado de las carreteras de Val d'Isère, pero no hemos podido obtener confirmación del Departamento: savoie-route.fr no sirve ningún contenido y savoie.fr está bloqueado a los robots. Compruébelo antes de salir. Circulación alternada aparte en la RD 902 entre Bourg-Saint-Maurice y Val d'Isère.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Equipamientos de la cima",
+          "v": "Un bar, un restaurante, una tienda de recuerdos, aseos y una mesa de orientación panorámica figuran en recoin.fr, agregador no oficial y única fuente encontrada. No confirmados por una fuente oficial: comprobar in situ."
+        }
+      ],
+      "schema_amenities": [
+        "Aparcamiento gratuito",
+        "Capilla"
+      ],
+      "when_to_visit": "<p>La carretera está abierta desde mediados de junio hasta principios de noviembre. En 2026, la travesía completa está abierta desde el 12 de junio; la fecha de cierre anunciada oscila entre el 2 y el 9 de noviembre según las fuentes. El Departamento puede cerrar el col sin previo aviso por razones meteorológicas.</p>"
+    },
     "fr": {
       "activities": [
         {
@@ -191,9 +443,13 @@
         "commune": "Bonneval-sur-Arc",
         "dogs": "En laisse, sur le parking du col uniquement",
         "parking": "Gratuit, quelques mètres au-dessus du col",
+        "snow_view": "alpes",
         "stroller": null,
         "type": "Col routier et point de vue",
-        "winter_access": "closed"
+        "winter_access": "closed",
+        "winter_infra": [
+          "ski_alpin"
+        ]
       },
       "faq": [
         {
@@ -288,6 +544,258 @@
         "Chapelle"
       ],
       "when_to_visit": "<p>La route est ouverte de la mi-juin au début novembre. En 2026, la traversée complète est ouverte depuis le 12 juin ; la date de fermeture annoncée oscille entre le 2 et le 9 novembre selon les sources. Le Département peut fermer le col sans préavis pour raisons météorologiques.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Secondo Wikipedia (EN): versante nord da Val-d'Isère 15 km, +895 m, 6 % di pendenza media; versante sud da Bonneval-sur-Arc 13,4 km, +977 m, 7,3 % con tratti oltre il 10 %.",
+          "tag": null,
+          "title": "Superare il colle in auto, in moto o in bicicletta"
+        },
+        {
+          "description": "Costruita nel 1938-1939 da Maurice Novarina, inaugurata il 20 agosto 1939, riconosciuta « Architecture contemporaine remarquable » nel 2003.",
+          "tag": null,
+          "title": "Vedere la cappella Notre-Dame-de-Toute-Prudence"
+        },
+        {
+          "description": "Il colle è l'unico passaggio stradale all'interno del parco. I cani vi sono vietati nel cuore del parco.",
+          "tag": null,
+          "title": "Varcare una porta del Parc national de la Vanoise"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Il <strong>col de l'Iseran</strong> supera la linea di displuvio tra la valle dell'Isère, in Tarentaise, e quella dell'Arc, in Maurienne, tra Val-d'Isère (73150) e Bonneval-sur-Arc (73480). La strada che lo attraversa è indicata come D902 dall'ufficio del turismo di Val d'Isère e nell'indirizzo postale del colle, RD 902 dal Département de la Savoie.</p><p>La sua altitudine non è stabilita: 2 770 m su alcune pagine, 2 764 m su altre — comprese due pagine dello stesso ufficio del turismo. Noi non decidiamo. La cappella Notre-Dame-de-Toute-Prudence, costruita nel 1938-1939 dall'architetto Maurice Novarina e inaugurata il 20 agosto 1939, si trova a 2 769 m secondo la banca dati Mérimée: è ancora un altro valore.</p><p>È l'unico passaggio stradale all'interno del Parc national de la Vanoise. Conseguenza diretta per i visitatori accompagnati da un cane: i cani al guinzaglio sono ammessi solo nel parcheggio del colle, e il Parco nazionale vieta i cani nel cuore del parco, anche al guinzaglio o in braccio, pena una multa di 135 €.</p>"
+      },
+      "events": "<p>L'Iserane, domenica 21 giugno 2026: la D902 è chiusa ai veicoli dalle 8h00 alle 13h00.</p>",
+      "facts": {
+        "access": "Libero · Gratuito",
+        "best_season": "Metà giugno – inizio novembre",
+        "commune": "Bonneval-sur-Arc",
+        "dogs": "Al guinzaglio, solo nel parcheggio del colle",
+        "parking": "Gratuito, qualche metro sopra il colle",
+        "stroller": null,
+        "type": "Colle stradale e punto panoramico",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "Le fonti ufficiali si contraddicono: 2 770 m su alcune pagine, 2 764 m su altre, talvolta all'interno dello stesso sito di un ufficio del turismo. Noi non decidiamo. La cappella del colle è indicata a 2 769 m dalla banca dati Mérimée, che è ancora un altro valore.",
+          "q": "Qual è l'altitudine del col de l'Iseran?"
+        },
+        {
+          "a": "Sì. Il versante Tarentaise ha riaperto il 5 giugno 2026 alle 12h e la traversata completa il 12 giugno 2026, poco prima di mezzogiorno. La chiusura invernale è annunciata per il 2 novembre da due uffici del turismo e per il 9 novembre da altre pagine.",
+          "q": "Il col de l'Iseran è aperto nel 2026?"
+        },
+        {
+          "a": "I cani al guinzaglio sono ammessi solo nel parcheggio del colle. Il colle è l'unico passaggio stradale del Parc national de la Vanoise, e il Parco vieta i cani nel cuore del parco, anche al guinzaglio o in braccio, pena una multa di 135 €.",
+          "q": "Si può venire con il cane al col de l'Iseran?"
+        },
+        {
+          "a": "No. L'accesso è libero e gratuito, e anche il parcheggio situato qualche metro sopra il colle è gratuito, aperto dal 15 giugno al 15 novembre salvo innevamento.",
+          "q": "L'accesso al col de l'Iseran è a pagamento?"
+        },
+        {
+          "a": "Chiusure notturne della D902 per lavori in galleria hanno avuto luogo dal 3 al 7 agosto 2026, dalle 21h alle 5h, con passaggio a convoglio. Nessuna chiusura è annunciata oltre il 7 agosto, ma non abbiamo potuto ottenere conferma dal Département: verificate su savoie-route.fr.",
+          "q": "Ci sono lavori sulla strada del colle in agosto 2026?"
+        }
+      ],
+      "hero": {
+        "badge": "Accesso libero · D902",
+        "lead": "Il col de l'Iseran collega Val-d'Isère, in Tarentaise, a Bonneval-sur-Arc, in Maurienne. È l'unico passaggio stradale all'interno del Parc national de la Vanoise. La sua altitudine è indicata a 2 770 m o a 2 764 m a seconda delle pagine, anche all'interno di uno stesso sito ufficiale."
+      },
+      "hero_alt": "Col de l'Iseran tra Val-d'Isère e Bonneval-sur-Arc, Savoie",
+      "how_to_get_there": {
+        "bike": "Profili secondo Wikipedia (EN): versante nord da Val-d'Isère 15 km, +895 m, 6 % di media; da Bourg-Saint-Maurice 48 km, +1 955 m, 4,1 %; versante sud da Bonneval-sur-Arc 13,4 km, +977 m, 7,3 %; da Lanslebourg-Mont-Cenis 32,9 km, +1 371 m, 4,2 %. Il colle è il punto più alto della Route des Grandes Alpes.",
+        "car": "Per la D902 da Val-d'Isère a nord o da Bonneval-sur-Arc a sud. Strada chiusa in inverno; le date di apertura e di chiusura sono decise dal Département de la Savoie e pubblicate in tempo reale su savoie-route.fr.",
+        "public_transport": null
+      },
+      "meta_description": "Aperto alla traversata dal 12 giugno 2026. Accesso libero per la D902 tra Val-d'Isère e Bonneval-sur-Arc. Parcheggio gratuito. Unico passaggio stradale del Parc national de la Vanoise.",
+      "meta_title": "Col de l'Iseran · Apertura 2026, accesso, cani, cappella",
+      "name": "Col de l'Iseran",
+      "name_alternates": [
+        "Iseran",
+        "Col de l'Iseran (D902)"
+      ],
+      "practical_info": [
+        {
+          "k": "Indirizzo",
+          "v": "D902, 73480 Bonneval-sur-Arc (versante Maurienne) / 73150 Val-d'Isère (versante Tarentaise)"
+        },
+        {
+          "k": "Coordinate",
+          "v": "45.417117° N, 7.030693° E"
+        },
+        {
+          "k": "Altitudine",
+          "v": "2 770 m secondo alcune pagine ufficiali, 2 764 m secondo altre, anche all'interno dello stesso ufficio del turismo. Contraddizione non risolta."
+        },
+        {
+          "k": "Apertura 2026",
+          "v": "Solo versante Tarentaise: venerdì 5 giugno 2026 alle 12h (Département de la Savoie). Traversata completa: venerdì 12 giugno 2026, poco prima di mezzogiorno.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Chiusura 2026",
+          "v": "Annunciata per il 2 novembre 2026 da due uffici del turismo e per il 9 novembre 2026 dal comune e da un'altra scheda dello stesso ufficio. Non risolto. Verificare su savoie-route.fr.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Tariffa",
+          "v": "Gratuito, accesso libero"
+        },
+        {
+          "k": "Parcheggio",
+          "v": "Gratuito, qualche metro sopra il colle, aperto dal 15 giugno al 15 novembre salvo innevamento. GPS 45.41736, 7.031108."
+        },
+        {
+          "k": "Animali",
+          "v": "Cani al guinzaglio ammessi solo nel parcheggio del colle. Il Parc national de la Vanoise vieta i cani nel cuore del parco, anche al guinzaglio o in braccio: multa di 135 €. Unica eccezione, il cane guida con CMI tenuto al guinzaglio."
+        },
+        {
+          "k": "Accessibilità",
+          "v": null
+        },
+        {
+          "k": "Lavori",
+          "v": "Chiusure notturne della D902 per lavori in galleria hanno avuto luogo dal 3 al 7 agosto 2026, dalle 21h alle 5h, con passaggio a convoglio ogni ora; questa finestra è passata. Nessuna chiusura è annunciata oltre il 7 agosto sulla pagina sullo stato delle strade di Val d'Isère, ma non abbiamo potuto ottenere conferma dal Département: savoie-route.fr non serve alcun contenuto e savoie.fr è bloccato ai robot. Verificate prima di partire. Senso unico alternato separato sulla RD 902 tra Bourg-Saint-Maurice e Val d'Isère.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Servizi in cima",
+          "v": "Un bar, un ristorante, un negozio di souvenir, servizi igienici e una terrazza di orientamento sono segnalati da recoin.fr, aggregatore non ufficiale e unica fonte trovata. Non confermati da una fonte ufficiale: da verificare sul posto."
+        }
+      ],
+      "schema_amenities": [
+        "Parcheggio gratuito",
+        "Cappella"
+      ],
+      "when_to_visit": "<p>La strada è aperta da metà giugno a inizio novembre. Nel 2026 la traversata completa è aperta dal 12 giugno; la data di chiusura annunciata oscilla tra il 2 e il 9 novembre a seconda delle fonti. Il Département può chiudere il colle senza preavviso per motivi meteorologici.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Volgens Wikipedia (EN): noordzijde vanaf Val-d'Isère 15 km, +895 m, gemiddeld 6 %; zuidzijde vanaf Bonneval-sur-Arc 13,4 km, +977 m, 7,3 % met passages van meer dan 10 %.",
+          "tag": null,
+          "title": "De pas oversteken met de auto, de motor of de fiets"
+        },
+        {
+          "description": "Gebouwd in 1938-1939 door Maurice Novarina, ingewijd op 20 augustus 1939, in 2003 erkend met het label « Architecture contemporaine remarquable ».",
+          "tag": null,
+          "title": "De kapel Notre-Dame-de-Toute-Prudence bekijken"
+        },
+        {
+          "description": "De pas is de enige verkeersweg binnen het park. Honden zijn er in de kernzone van het park verboden.",
+          "tag": null,
+          "title": "Een toegangspoort van het Parc national de la Vanoise passeren"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>Col de l'Iseran</strong> overschrijdt de waterscheiding tussen het dal van de Isère, in de Tarentaise, en dat van de Arc, in de Maurienne, tussen Val-d'Isère (73150) en Bonneval-sur-Arc (73480). De weg over de pas wordt door het toeristenbureau van Val d'Isère en in het postadres van de pas D902 genoemd, en RD 902 door het Département de la Savoie.</p><p>De hoogte staat niet vast: 2 770 m op sommige pagina's, 2 764 m op andere — ook op twee pagina's van hetzelfde toeristenbureau. Wij doen daarover geen uitspraak. De kapel Notre-Dame-de-Toute-Prudence, gebouwd in 1938-1939 door architect Maurice Novarina en ingewijd op 20 augustus 1939, ligt volgens de Mérimée-databank op 2 769 m: dat is weer een ander cijfer.</p><p>Het is de enige verkeersweg binnen het Parc national de la Vanoise. Een direct gevolg voor bezoekers met hond: aangelijnde honden worden alleen op de parkeerplaats van de pas toegelaten, en het nationaal park verbiedt honden in de kernzone, ook aangelijnd of gedragen, op straffe van een boete van 135 €.</p>"
+      },
+      "events": "<p>L'Iserane, zondag 21 juni 2026: de D902 is van 8h00 tot 13h00 gesloten voor voertuigen.</p>",
+      "facts": {
+        "access": "Vrij toegankelijk · Gratis",
+        "best_season": "Half juni – begin november",
+        "commune": "Bonneval-sur-Arc",
+        "dogs": "Aangelijnd, uitsluitend op de parkeerplaats van de pas",
+        "parking": "Gratis, enkele meters boven de pas",
+        "stroller": null,
+        "type": "Bergpas en uitzichtpunt",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "De officiële bronnen spreken elkaar tegen: 2 770 m op sommige pagina's, 2 764 m op andere, soms binnen dezelfde website van een toeristenbureau. Wij doen daarover geen uitspraak. De kapel op de pas staat in de Mérimée-databank op 2 769 m, wat weer een ander cijfer is.",
+          "q": "Hoe hoog ligt de Col de l'Iseran?"
+        },
+        {
+          "a": "Ja. De Tarentaise-zijde is op 5 juni 2026 om 12h heropend en de volledige oversteek op 12 juni 2026, kort voor de middag. De wintersluiting is aangekondigd voor 2 november door twee toeristenbureaus en voor 9 november op andere pagina's.",
+          "q": "Is de Col de l'Iseran open in 2026?"
+        },
+        {
+          "a": "Aangelijnde honden worden alleen op de parkeerplaats van de pas toegelaten. De pas is de enige verkeersweg binnen het Parc national de la Vanoise, en het park verbiedt honden in de kernzone, ook aangelijnd of gedragen, op straffe van een boete van 135 €.",
+          "q": "Mag uw hond mee naar de Col de l'Iseran?"
+        },
+        {
+          "a": "Nee. De toegang is vrij en gratis, en de parkeerplaats enkele meters boven de pas is eveneens gratis, open van 15 juni tot 15 november, afhankelijk van de sneeuwsituatie.",
+          "q": "Moet u betalen voor toegang tot de Col de l'Iseran?"
+        },
+        {
+          "a": "Van 3 tot 7 augustus 2026 was de D902 's nachts gesloten voor tunnelwerkzaamheden, van 21h tot 5h, met passage in konvooi. Na 7 augustus is geen sluiting aangekondigd, maar wij hebben geen bevestiging van het Département kunnen krijgen: controleer op savoie-route.fr.",
+          "q": "Zijn er in augustus 2026 werkzaamheden op de pasweg?"
+        }
+      ],
+      "hero": {
+        "badge": "Vrije toegang · D902",
+        "lead": "De Col de l'Iseran verbindt Val-d'Isère, in de Tarentaise, met Bonneval-sur-Arc, in de Maurienne. Het is de enige verkeersweg binnen het Parc national de la Vanoise. De hoogte wordt opgegeven als 2 770 m of 2 764 m, afhankelijk van de pagina, ook binnen één officiële website."
+      },
+      "hero_alt": "Col de l'Iseran tussen Val-d'Isère en Bonneval-sur-Arc, Savoie",
+      "how_to_get_there": {
+        "bike": "Profielen volgens Wikipedia (EN): noordzijde vanaf Val-d'Isère 15 km, +895 m, gemiddeld 6 %; vanaf Bourg-Saint-Maurice 48 km, +1 955 m, 4,1 %; zuidzijde vanaf Bonneval-sur-Arc 13,4 km, +977 m, 7,3 %; vanaf Lanslebourg-Mont-Cenis 32,9 km, +1 371 m, 4,2 %. De pas is het hoogste punt van de Route des Grandes Alpes.",
+        "car": "Via de D902 vanaf Val-d'Isère in het noorden of vanaf Bonneval-sur-Arc in het zuiden. De weg is 's winters gesloten; de openings- en sluitingsdata worden vastgesteld door het Département de la Savoie en in realtime gepubliceerd op savoie-route.fr.",
+        "public_transport": null
+      },
+      "meta_description": "Open voor de volledige oversteek sinds 12 juni 2026. Vrije toegang via de D902 tussen Val-d'Isère en Bonneval-sur-Arc. Gratis parkeerplaats. Enige verkeersweg binnen het Parc national de la Vanoise.",
+      "meta_title": "Col de l'Iseran · Opening 2026, toegang, honden, kapel",
+      "name": "Col de l'Iseran",
+      "name_alternates": [
+        "Iseran",
+        "Col de l'Iseran (D902)"
+      ],
+      "practical_info": [
+        {
+          "k": "Adres",
+          "v": "D902, 73480 Bonneval-sur-Arc (zijde Maurienne) / 73150 Val-d'Isère (zijde Tarentaise)"
+        },
+        {
+          "k": "Coördinaten",
+          "v": "45.417117° N, 7.030693° E"
+        },
+        {
+          "k": "Hoogte",
+          "v": "2 770 m volgens sommige officiële pagina's, 2 764 m volgens andere, ook binnen hetzelfde toeristenbureau. Tegenstrijdigheid niet beslecht."
+        },
+        {
+          "k": "Opening 2026",
+          "v": "Alleen de Tarentaise-zijde: vrijdag 5 juni 2026 om 12h (Département de la Savoie). Volledige oversteek: vrijdag 12 juni 2026, kort voor de middag.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Sluiting 2026",
+          "v": "Aangekondigd voor 2 november 2026 door twee toeristenbureaus en voor 9 november 2026 door de gemeente en door een andere pagina van hetzelfde bureau. Niet beslecht. Controleren op savoie-route.fr.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Tarief",
+          "v": "Gratis, vrije toegang"
+        },
+        {
+          "k": "Parkeren",
+          "v": "Gratis, enkele meters boven de pas, open van 15 juni tot 15 november, afhankelijk van de sneeuwsituatie. GPS 45.41736, 7.031108."
+        },
+        {
+          "k": "Dieren",
+          "v": "Aangelijnde honden worden uitsluitend op de parkeerplaats van de pas toegelaten. Het Parc national de la Vanoise verbiedt honden in de kernzone, ook aangelijnd of gedragen: boete van 135 €. Enige uitzondering is de aangelijnde geleidehond met CMI."
+        },
+        {
+          "k": "Toegankelijkheid",
+          "v": null
+        },
+        {
+          "k": "Werkzaamheden",
+          "v": "Van 3 tot 7 augustus 2026 was de D902 's nachts gesloten voor tunnelwerkzaamheden, van 21h tot 5h, met elk uur passage in konvooi; die periode is voorbij. Na 7 augustus is geen sluiting aangekondigd op de pagina met de wegsituatie van Val d'Isère, maar wij hebben geen bevestiging van het Département kunnen krijgen: savoie-route.fr levert geen inhoud en savoie.fr blokkeert robots. Controleer vóór vertrek. Apart beurtelings verkeer op de RD 902 tussen Bourg-Saint-Maurice en Val d'Isère.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Voorzieningen op de pashoogte",
+          "v": "Een bar, een restaurant, een souvenirwinkel, toiletten en een oriëntatiepunt met panoramatafel worden vermeld door recoin.fr, een niet-officiële aggregator en de enige gevonden bron. Niet bevestigd door een officiële bron: ter plaatse te verifiëren."
+        }
+      ],
+      "schema_amenities": [
+        "Gratis parkeerplaats",
+        "Kapel"
+      ],
+      "when_to_visit": "<p>De weg is open van half juni tot begin november. In 2026 is de volledige oversteek open sinds 12 juni; de aangekondigde sluitingsdatum varieert tussen 2 en 9 november naargelang de bron. Het Département kan de pas zonder vooraankondiging sluiten vanwege de weersomstandigheden.</p>"
     }
   },
   "latitude": 45.417117,

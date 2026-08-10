@@ -37,6 +37,138 @@
   "hero_credit": "Rémih · CC BY-SA 4.0 · Wikimedia Commons",
   "hero_image": "/img/points-de-vue/col-du-petit-saint-bernard-hero.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Öffnung von einer regionalen Quelle für den 6. Juli 2026 angekündigt; der Garten selbst schreibt « ab Juli, sofern der Schnee es zulässt » und präzisiert, normalerweise nicht vor Mitte Juli schneefrei zu sein. Schließung: 2. Sonntag im September laut dem Garten, also der 13. September 2026, gegenüber dem 14. September laut der regionalen Quelle. Täglich von 9h bis 18h durchgehend. 3,00 € Normalpreis, 2,00 € für Gruppen ab 10 Personen, kostenlos unter 10 Jahren, Führung 2,00 €, Audioguide kostenlos. Gegründet 1897 von Abbé Pierre Chanoux, etwa 800 m von der Grenze entfernt, physisch auf französischem Gebiet und verwaltungsmäßig La Thuile zugeordnet.",
+          "tag": "Sommer",
+          "title": "Den alpinen botanischen Garten Chanousia besuchen"
+        },
+        {
+          "description": "46 Steine im Abstand von 2 bis 4 m, die einen Kreis von 80 m Durchmesser laut den lokalen Quellen bilden, 72 m laut en.wikipedia. 1956 als Monument historique klassiert; die Straße wurde 2012 verlegt, um ihn zu erhalten.",
+          "tag": null,
+          "title": "Den Cromlech ansehen"
+        },
+        {
+          "description": "Im 11. Jahrhundert gegründet: Herberge mit Restaurant, Zimmer, Terrasse, Buchhandlung und Dauerausstellung über den Pass und die Tarentaise. Ein Touristeninformationsbüro ist dort seit 1995 jeden Sommer in Betrieb, 10h–18h im Juli und August, 10h30–16h30 im Juni und September, freier Zugang.",
+          "tag": null,
+          "title": "Am Hospiz Halt machen"
+        },
+        {
+          "description": "Von Séez aus: 27 km und 1 280 m Höhenunterschied, rund 5 % durchschnittliche Steigung (Explore Savoie). Von Bourg-Saint-Maurice aus: 27,50 km, 1 289 m, 4,69 % im Durchschnitt, 8,1 % maximal (Cols Cyclisme). Erste Durchfahrt der Tour de France 1949 laut en.wikipedia.",
+          "tag": null,
+          "title": "Mit dem Rad zum Pass hinauffahren"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Der <strong>Col du Petit-Saint-Bernard</strong> überquert auf 2 188 m die Grenze zwischen Frankreich und Italien oberhalb von Séez (73700), in der Tarentaise, und führt hinunter nach La Thuile im Aostatal. Das Departement Savoie und die italienische Presse schreiben RD 1090 auf französischer Seite; auf italienischer Seite ist es die SS26.</p><p>Die beiden Seiten öffnen nicht am selben Tag. 2026 hat die ANAS die SS26 am Freitag, dem 22. Mai, wieder geöffnet; auf französischer Seite verzögerte eine Lawinenablagerung bei La Rosière die Räumung, und die Überfahrt öffnete erst am Sonntag, dem 24. Mai, um 10h.</p><p>Am Pass befinden sich ein Cromlech aus 46 Steinen, die einen Kreis mit einem von den lokalen Quellen mit 80 m und von en.wikipedia mit 72 m angegebenen Durchmesser bilden, 1956 als Monument historique klassiert — die Straße wurde 2012 sogar verlegt, um ihn zu erhalten —, die Colonne de Joux, die frühere Columna Jovis, heute von einer Statue des heiligen Bernhard von Menthon gekrönt, das im 11. Jahrhundert gegründete Hospiz und der alpine botanische Garten Chanousia, 1897 von Abbé Pierre Chanoux gegründet. Seine Saison ist deutlich kürzer als die der Straße, und beide dürfen nie verwechselt werden: Der Garten selbst kündigt « von Juli bis zum 2. Sonntag im September, sofern der Schnee es zulässt » an, also den 13. September 2026, während eine regionale Quelle den 6. Juli bis 14. September nennt. Der 14. September 2026 ist ein Montag.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Frei zugänglich · Kostenlos",
+        "best_season": "Ende Mai – Anfang November (Straße) · Anfang Juli – Mitte September (Chanousia)",
+        "commune": "Séez",
+        "dogs": "Erlaubt laut der Tourismus-Fiche; in Chanousia Leinenpflicht",
+        "parking": "In der Nähe",
+        "stroller": null,
+        "type": "Grenzpass und archäologische Stätte",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "Die italienische Seite (SS26) wurde am Freitag, dem 22. Mai 2026, wieder geöffnet und die vollständige Überfahrt am Sonntag, dem 24. Mai 2026, um 10h, nachdem eine Lawinenablagerung bei La Rosière die französische Seite verzögert hatte. Beide Daten sind korrekt, jedes für seine Seite.",
+          "q": "Wann wurde der Col du Petit-Saint-Bernard 2026 geöffnet?"
+        },
+        {
+          "a": "Nein, und genau das ist die Falle. Die Straße ist seit Ende Mai geöffnet, der Garten öffnet erst im Juli — er präzisiert selbst, normalerweise nicht vor Mitte Juli schneefrei zu sein. Eine regionale Quelle nennt den 6. Juli – 14. September 2026; der Garten selbst schreibt « von Juli bis zum 2. Sonntag im September », also den 13. September 2026. Wir entscheiden das nicht.",
+          "q": "Ist der Garten Chanousia geöffnet, wenn der Pass geöffnet ist?"
+        },
+        {
+          "a": "3,00 € Normalpreis, 2,00 € für Gruppen ab 10 Personen, kostenlos unter 10 Jahren. Führung 2,00 €, Audioguide kostenlos. Geöffnet von 9h bis 18h durchgehend.",
+          "q": "Was kostet der Eintritt in den Garten Chanousia?"
+        },
+        {
+          "a": "In der Savoie (73), Gemeinde Séez. Die Website des Hospizes verortet ihn fälschlich in der Haute-Savoie: Das ist ein Fehler.",
+          "q": "Liegt der Col du Petit-Saint-Bernard in der Savoie oder der Haute-Savoie?"
+        },
+        {
+          "a": "Der Wiederaufbau einer Stützmauer bei Les Zittieux, auf dem Gebiet der Gemeinde Séez, etwa 6 km von der Grenze entfernt, hatte eine für Frühjahr 2026 geplante Phase 2, und bei der Wiedereröffnung im Mai 2026 lief der Verkehr wechselseitig einspurig. Keine Quelle bestätigt den Abschluss: Prüfen Sie vor der Abfahrt.",
+          "q": "Gibt es Bauarbeiten an der Passstraße?"
+        }
+      ],
+      "hero": {
+        "badge": "Freier Zugang · RD 1090 / SS26",
+        "lead": "Der Col du Petit-Saint-Bernard verbindet auf 2 188 m Séez in der Savoie mit La Thuile im Aostatal. Drei verschiedene Kalender überlagern sich dort: der der Straße, der des botanischen Gartens Chanousia und der des Hospizes. Verwechseln Sie sie nicht."
+      },
+      "hero_alt": "Col du Petit-Saint-Bernard zwischen Séez und La Thuile, Savoie",
+      "how_to_get_there": {
+        "bike": "Von Séez aus: 27 km und 1 280 m Höhenunterschied, rund 5 % im Durchschnitt (Explore Savoie — dieselbe Seite schreibt auch 28 km). Von Bourg-Saint-Maurice aus: 27,50 km, 1 289 m, 4,69 % im Durchschnitt, 8,1 % maximal (Cols Cyclisme). Laut en.wikipedia kam die Tour de France 1949 zum ersten Mal hier vorbei, seither dreimal, darunter 2007 und 2009.",
+        "car": "Über die RD 1090 von Séez und Bourg-Saint-Maurice auf französischer Seite, über die SS26 von La Thuile und Pré-Saint-Didier auf italienischer Seite. Die beiden Seiten werden von unterschiedlichen Behörden verwaltet — dem Departement Savoie und der ANAS — und öffnen nicht unbedingt am selben Tag.",
+        "public_transport": null
+      },
+      "meta_description": "2 188 m, Grenze Frankreich–Italien oberhalb von Séez. Auf italienischer Seite am 22. Mai 2026 geöffnet, auf französischer Seite am 24. Mai. Der Garten Chanousia öffnet erst im Juli, 3 € — nicht wenn die Straße öffnet.",
+      "meta_title": "Col du Petit-Saint-Bernard · Öffnung 2026, Chanousia, Cromlech",
+      "name": "Col du Petit-Saint-Bernard",
+      "name_alternates": [
+        "Petit-Saint-Bernard",
+        "Colle del Piccolo San Bernardo",
+        "Col du Petit-Saint-Bernard (RD 1090)"
+      ],
+      "practical_info": [
+        {
+          "k": "Höhe",
+          "v": "2 188 m (alle Quellen stimmen überein). Der Garten Chanousia liegt tiefer, auf 2 170 m laut seiner eigenen Website."
+        },
+        {
+          "k": "Koordinaten",
+          "v": null
+        },
+        {
+          "k": "Öffnung 2026",
+          "v": "Italienische Seite (SS26, ANAS): Freitag, 22. Mai 2026. Französische Seite und vollständige Überfahrt (RD 1090): Sonntag, 24. Mai 2026, um 10h, nach einer Verzögerung durch eine Lawinenablagerung bei La Rosière.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Sperrung 2026",
+          "v": null
+        },
+        {
+          "k": "Preis",
+          "v": "Kostenlos, freier Zugang. Der Garten Chanousia ist kostenpflichtig: 3,00 €."
+        },
+        {
+          "k": "Parkplatz",
+          "v": "In der Nähe, laut der Tourismus-Fiche."
+        },
+        {
+          "k": "Haustiere",
+          "v": "Erlaubt laut der Tourismus-Fiche. In Chanousia ausschließlich an der Leine."
+        },
+        {
+          "k": "Barrierefreiheit",
+          "v": "Für den Pass selbst ist nichts dokumentiert. In Chanousia: Behindertenparkplätze, gepflegte Wege und barrierefreies WC."
+        },
+        {
+          "k": "Garten Chanousia",
+          "v": "Öffnung angekündigt für den 6. Juli 2026 (regionale Quelle); der Garten schreibt « ab Juli, sofern der Schnee es zulässt » und ist normalerweise nicht vor Mitte Juli schneefrei. Schließung: 2. Sonntag im September laut dem Garten, also der 13. September 2026, gegenüber dem andernorts genannten 14. September — nicht entschieden. 9h–18h täglich. 3,00 € Normalpreis, 2,00 € für Gruppen ab 10 Personen, kostenlos unter 10 Jahren, Führung 2,00 €, Audioguide kostenlos. +39 379 158 4026 · info@chanousia.org.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Hospiz",
+          "v": "Herberge mit Restaurant, Zimmer, Terrasse, Buchhandlung, Dauerausstellung. Zugang von Anfang Juni bis zum ersten Schnee im November. Saison von Unterkunft und Restaurant 2025: 21. Juni – 23. Oktober; Daten 2026 nicht veröffentlicht. Reservierung auberge.psbernard@orange.fr."
+        },
+        {
+          "k": "Bauarbeiten",
+          "v": "Wiederaufbau einer Stützmauer bei Les Zittieux, Gemeinde Séez, etwa 6 km von der Grenze entfernt: Phase 2 für Frühjahr 2026 geplant, wechselseitig einspuriger Verkehr bei der Wiedereröffnung im Mai 2026. Keine Quelle bestätigt den Abschluss."
+        }
+      ],
+      "schema_amenities": [
+        "Picknickplatz",
+        "Touristeninformationsstelle",
+        "Alpiner botanischer Garten"
+      ],
+      "when_to_visit": "<p>Die Straße ist von Ende Mai bis zum ersten Schnee geöffnet. 2026 hat sie am 22. bzw. 24. Mai je nach Seite geöffnet; ein Sperrdatum ist nicht veröffentlicht. Wer für den Garten Chanousia kommt: Das Zeitfenster ist deutlich enger, und sein Enddatum ist nicht entschieden — Öffnung angekündigt für den 6. Juli 2026, Schließung am 13. September laut dem Garten oder am 14. September laut einer regionalen Quelle.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -169,6 +301,138 @@
       ],
       "when_to_visit": "<p>The road is open from late May until the first snows. In 2026 it opened on 22 and 24 May depending on the side; no closing date is published. If you are coming for the Chanousia garden, the window is far narrower and its end date is not settled: opening announced for 6 July 2026, closing on 13 September per the garden or 14 September per a regional source.</p>"
     },
+    "es": {
+      "activities": [
+        {
+          "description": "Apertura anunciada para el 6 de julio de 2026 por una fuente regional; el propio jardín escribe « desde julio, si la nieve lo permite » y precisa que normalmente no queda despejado de nieve antes de mediados de julio. Cierre: 2.º domingo de septiembre según el jardín, es decir el 13 de septiembre de 2026, frente al 14 de septiembre anunciado por la fuente regional. Todos los días de 9h a 18h en horario continuo. 3,00 € tarifa completa, 2,00 € para grupos de al menos 10 personas, gratuito para menores de 10 años, visita guiada 2,00 €, audioguía gratuita. Fundado en 1897 por el abate Pierre Chanoux, a unos 800 m de la frontera, físicamente en territorio francés y administrativamente adscrito a La Thuile.",
+          "tag": "Verano",
+          "title": "Visitar el jardín botánico alpino Chanousia"
+        },
+        {
+          "description": "46 piedras espaciadas de 2 a 4 m que forman un círculo de 80 m de diámetro según las fuentes locales, 72 m según en.wikipedia. Declarado monumento histórico en 1956; la carretera se desvió en 2012 para preservarlo.",
+          "tag": null,
+          "title": "Ver el crómlech"
+        },
+        {
+          "description": "Fundado en el siglo XI: albergue-restaurante, habitaciones, terraza, librería y exposición permanente sobre el col y la Tarentaise. Una oficina de información turística funciona allí cada verano desde 1995, 10h–18h en julio y agosto, 10h30–16h30 en junio y septiembre, acceso libre.",
+          "tag": null,
+          "title": "Hacer una parada en el Hospicio"
+        },
+        {
+          "description": "Desde Séez: 27 km y 1 280 m de desnivel, alrededor del 5 % de media (Explore Savoie). Desde Bourg-Saint-Maurice: 27,50 km, 1 289 m, 4,69 % de media, 8,1 % como máximo (Cols Cyclisme). Primer paso del Tour de France en 1949 según en.wikipedia.",
+          "tag": null,
+          "title": "Subir al col en bicicleta"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>col du Petit-Saint-Bernard</strong>, a 2 188 m, cruza la frontera entre Francia e Italia por encima de Séez (73700), en la Tarentaise, y baja hacia La Thuile, en el Valle de Aosta. El Departamento de la Savoie y la prensa italiana escriben RD 1090 en el lado francés; en el lado italiano es la SS26.</p><p>Las dos vertientes no abren el mismo día. En 2026, la ANAS reabrió la SS26 el viernes 22 de mayo; en el lado francés, un depósito de avalancha cerca de La Rosière retrasó la operación y la travesía no abrió hasta el domingo 24 de mayo a las 10h.</p><p>En el col se encuentran un crómlech de 46 piedras que forman un círculo de 80 m de diámetro según las fuentes locales y de 72 m según en.wikipedia, declarado monumento histórico en 1956 — la carretera se desvió de hecho en 2012 para preservarlo —, la columna de Joux, antigua Columna Jovis hoy coronada por una estatua de san Bernardo de Menthon, el Hospicio fundado en el siglo XI, y el jardín botánico alpino Chanousia, fundado en 1897 por el abate Pierre Chanoux. Su temporada es mucho más corta que la de la carretera y las dos no deben confundirse nunca: el propio jardín anuncia « de julio al 2.º domingo de septiembre, si la nieve lo permite », es decir el 13 de septiembre en 2026, mientras que una fuente regional anuncia del 6 de julio al 14 de septiembre. El 14 de septiembre de 2026 es un lunes.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Libre · Gratuito",
+        "best_season": "Finales de mayo – principios de noviembre (carretera) · principios de julio – mediados de septiembre (Chanousia)",
+        "commune": "Séez",
+        "dogs": "Admitidos según la ficha turística; con correa obligatoria en Chanousia",
+        "parking": "En las inmediaciones",
+        "stroller": null,
+        "type": "Col de carretera fronterizo y sitio arqueológico",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "La vertiente italiana (SS26) reabrió el viernes 22 de mayo de 2026 y la travesía completa el domingo 24 de mayo de 2026 a las 10h, ya que un depósito de avalancha cerca de La Rosière retrasó el lado francés. Las dos fechas son exactas, cada una para su vertiente.",
+          "q": "¿Cuándo abrió el col du Petit-Saint-Bernard en 2026?"
+        },
+        {
+          "a": "No, y esa es la trampa. La carretera está abierta desde finales de mayo, el jardín no abre hasta julio — él mismo precisa que normalmente no queda despejado de nieve antes de mediados de julio. Una fuente regional anuncia del 6 de julio al 14 de septiembre de 2026; el jardín, por su parte, escribe « de julio al 2.º domingo de septiembre », es decir el 13 de septiembre en 2026. No zanjamos la cuestión.",
+          "q": "¿Está abierto el jardín Chanousia cuando el col está abierto?"
+        },
+        {
+          "a": "3,00 € tarifa completa, 2,00 € para grupos de al menos 10 personas, gratuito para menores de 10 años. Visita guiada 2,00 €, audioguía gratuita. Abierto de 9h a 18h en horario continuo.",
+          "q": "¿Cuánto cuesta la entrada del jardín Chanousia?"
+        },
+        {
+          "a": "En Savoie (73), municipio de Séez. El sitio del Hospicio lo sitúa erróneamente en Haute-Savoie: es un error.",
+          "q": "¿Está el col du Petit-Saint-Bernard en Savoie o en Haute-Savoie?"
+        },
+        {
+          "a": "La reconstrucción de un muro de contención en Les Zittieux, en el municipio de Séez a unos 6 km de la frontera, tenía una fase 2 programada para la primavera de 2026, y la circulación era en sentido único alterno en la reapertura de mayo de 2026. Ninguna fuente confirma la finalización: verifique antes de salir.",
+          "q": "¿Hay obras en la carretera del col?"
+        }
+      ],
+      "hero": {
+        "badge": "Acceso libre · RD 1090 / SS26",
+        "lead": "El col du Petit-Saint-Bernard, a 2 188 m, une Séez, en Savoie, con La Thuile, en el Valle de Aosta. Allí se superponen tres calendarios diferentes: el de la carretera, el del jardín botánico Chanousia y el del Hospicio. No los confunda."
+      },
+      "hero_alt": "Col du Petit-Saint-Bernard entre Séez y La Thuile, Savoie",
+      "how_to_get_there": {
+        "bike": "Desde Séez: 27 km y 1 280 m de desnivel, alrededor del 5 % de media (Explore Savoie — la misma página también escribe 28 km). Desde Bourg-Saint-Maurice: 27,50 km, 1 289 m, 4,69 % de media, 8,1 % como máximo (Cols Cyclisme). Según en.wikipedia, el Tour de France pasó por primera vez en 1949, y tres veces desde entonces, entre ellas 2007 y 2009.",
+        "car": "Por la RD 1090 desde Séez y Bourg-Saint-Maurice en el lado francés, por la SS26 desde La Thuile y Pré-Saint-Didier en el lado italiano. Las dos vertientes están gestionadas por autoridades diferentes — el Departamento de la Savoie y la ANAS — y no abren necesariamente el mismo día.",
+        "public_transport": null
+      },
+      "meta_description": "2 188 m, frontera Francia-Italia por encima de Séez. Abierto en el lado italiano el 22 de mayo de 2026, en el lado francés el 24 de mayo. El jardín Chanousia no abre hasta julio, 3 € — no cuando abre la carretera.",
+      "meta_title": "Col du Petit-Saint-Bernard · Apertura 2026, Chanousia, crómlech",
+      "name": "Col du Petit-Saint-Bernard",
+      "name_alternates": [
+        "Petit-Saint-Bernard",
+        "Colle del Piccolo San Bernardo",
+        "Col du Petit-Saint-Bernard (RD 1090)"
+      ],
+      "practical_info": [
+        {
+          "k": "Altitud",
+          "v": "2 188 m (todas las fuentes coinciden). El jardín Chanousia está más abajo, a 2 170 m según su propio sitio."
+        },
+        {
+          "k": "Coordenadas",
+          "v": null
+        },
+        {
+          "k": "Apertura 2026",
+          "v": "Lado italiano (SS26, ANAS): viernes 22 de mayo de 2026. Lado francés y travesía completa (RD 1090): domingo 24 de mayo de 2026 a las 10h, tras un retraso debido a un depósito de avalancha cerca de La Rosière.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Cierre 2026",
+          "v": null
+        },
+        {
+          "k": "Tarifa",
+          "v": "Gratuito, acceso libre. El jardín Chanousia es de pago: 3,00 €."
+        },
+        {
+          "k": "Aparcamiento",
+          "v": "En las inmediaciones, según la ficha turística."
+        },
+        {
+          "k": "Animales",
+          "v": "Admitidos según la ficha turística. En Chanousia, exclusivamente con correa."
+        },
+        {
+          "k": "Accesibilidad",
+          "v": "Nada documentado para el col en sí. En Chanousia: plazas de estacionamiento para personas con discapacidad, senderos mantenidos y aseo accesible."
+        },
+        {
+          "k": "Jardín Chanousia",
+          "v": "Apertura anunciada para el 6 de julio de 2026 (fuente regional); el jardín escribe « desde julio, si la nieve lo permite » y normalmente no queda despejado de nieve antes de mediados de julio. Cierre: 2.º domingo de septiembre según el jardín, es decir el 13 de septiembre de 2026, frente al 14 de septiembre anunciado en otros medios — sin zanjar. 9h–18h todos los días. 3,00 € tarifa completa, 2,00 € grupos de al menos 10 personas, gratuito para menores de 10 años, visita guiada 2,00 €, audioguía gratuita. +39 379 158 4026 · info@chanousia.org.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Hospicio",
+          "v": "Albergue-restaurante, habitaciones, terraza, librería, exposición permanente. Acceso desde principios de junio hasta las primeras nieves de noviembre. Temporada de albergue y restaurante 2025: 21 de junio – 23 de octubre; fechas 2026 no publicadas. Reservas auberge.psbernard@orange.fr."
+        },
+        {
+          "k": "Obras",
+          "v": "Reconstrucción de un muro de contención en Les Zittieux, municipio de Séez, a unos 6 km de la frontera: fase 2 programada para la primavera de 2026, circulación en sentido único alterno en la reapertura de mayo de 2026. Ninguna fuente confirma la finalización."
+        }
+      ],
+      "schema_amenities": [
+        "Zona de pícnic",
+        "Punto de información turística",
+        "Jardín botánico alpino"
+      ],
+      "when_to_visit": "<p>La carretera está abierta desde finales de mayo hasta las primeras nieves. En 2026 abrió el 22 y el 24 de mayo según la vertiente; no se ha publicado ninguna fecha de cierre. Si viene por el jardín Chanousia, la ventana es mucho más estrecha y su fecha de fin no está zanjada: apertura anunciada para el 6 de julio de 2026, cierre el 13 de septiembre según el jardín o el 14 de septiembre según una fuente regional.</p>"
+    },
     "fr": {
       "activities": [
         {
@@ -202,9 +466,13 @@
         "commune": "Séez",
         "dogs": "Admis selon la fiche touristique ; en laisse obligatoire à Chanousia",
         "parking": "À proximité",
+        "snow_view": "mont_blanc",
         "stroller": null,
         "type": "Col routier frontalier et site archéologique",
-        "winter_access": "closed"
+        "winter_access": "closed",
+        "winter_infra": [
+          "ski_alpin"
+        ]
       },
       "faq": [
         {
@@ -300,6 +568,270 @@
         "Jardin botanique alpin"
       ],
       "when_to_visit": "<p>La route est ouverte de la fin mai jusqu'aux premières neiges. En 2026 elle a ouvert les 22 et 24 mai selon le côté ; aucune date de fermeture n'est publiée. Si vous venez pour le jardin Chanousia, la fenêtre est bien plus étroite et sa date de fin n'est pas tranchée : ouverture annoncée au 6 juillet 2026, fermeture au 13 septembre selon le jardin ou au 14 septembre selon une source régionale.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Apertura annunciata per il 6 luglio 2026 da una fonte regionale; il giardino stesso scrive « da luglio, neve permettendo » e precisa di non essere normalmente sgomberato dalla neve prima di metà luglio. Chiusura: 2a domenica di settembre secondo il giardino, ovvero il 13 settembre 2026, contro il 14 settembre annunciato dalla fonte regionale. Tutti i giorni dalle 9h alle 18h con orario continuato. 3,00 € tariffa intera, 2,00 € per i gruppi di almeno 10 persone, gratuito sotto i 10 anni, visita guidata 2,00 €, audioguida gratuita. Fondato nel 1897 dall'abate Pierre Chanoux, a circa 800 m dalla frontiera, fisicamente in territorio francese e amministrativamente legato a La Thuile.",
+          "tag": "Estate",
+          "title": "Visitare il giardino botanico alpino Chanousia"
+        },
+        {
+          "description": "46 pietre distanziate da 2 a 4 m che formano un cerchio di 80 m di diametro secondo le fonti locali, 72 m secondo en.wikipedia. Classificato monumento storico nel 1956; la strada è stata deviata nel 2012 per preservarlo.",
+          "tag": null,
+          "title": "Vedere il cromlech"
+        },
+        {
+          "description": "Fondato nell'XI secolo: locanda-ristorante, camere, terrazza, libreria ed esposizione permanente sul colle e la Tarentaise. Un ufficio di informazione turistica vi funziona ogni estate dal 1995, 10h–18h in luglio e agosto, 10h30–16h30 in giugno e settembre, accesso libero.",
+          "tag": null,
+          "title": "Fermarsi all'Hospice"
+        },
+        {
+          "description": "Da Séez: 27 km e 1 280 m di dislivello, circa il 5 % di media (Explore Savoie). Da Bourg-Saint-Maurice: 27,50 km, 1 289 m, 4,69 % di media, 8,1 % al massimo (Cols Cyclisme). Primo passaggio del Tour de France nel 1949 secondo en.wikipedia.",
+          "tag": null,
+          "title": "Salire al colle in bicicletta"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Il <strong>col du Petit-Saint-Bernard</strong>, a 2 188 m, varca la frontiera tra Francia e Italia sopra Séez (73700), in Tarentaise, e ridiscende su La Thuile, in Valle d'Aosta. Il Dipartimento della Savoie e la stampa italiana scrivono RD 1090 sul lato francese; sul lato italiano è la SS26.</p><p>I due versanti non aprono lo stesso giorno. Nel 2026 l'ANAS ha riaperto la SS26 venerdì 22 maggio; sul lato francese, un accumulo di valanga vicino a La Rosière ha ritardato l'operazione e la traversata ha aperto solo domenica 24 maggio alle 10h.</p><p>Al colle si trovano un cromlech di 46 pietre che formano un cerchio dato a 80 m di diametro dalle fonti locali e a 72 m da en.wikipedia, classificato monumento storico nel 1956 — la strada è stata peraltro deviata nel 2012 per preservarlo —, la colonna di Joux, antica Columna Jovis oggi sormontata da una statua di san Bernardo di Mentone, l'Hospice fondato nell'XI secolo, e il giardino botanico alpino Chanousia, fondato nel 1897 dall'abate Pierre Chanoux. La sua stagione è ben più corta di quella della strada e le due non vanno mai confuse: il giardino stesso annuncia « da luglio alla 2a domenica di settembre, neve permettendo », ovvero il 13 settembre nel 2026, mentre una fonte regionale annuncia dal 6 luglio al 14 settembre. Il 14 settembre 2026 è un lunedì.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Libero · Gratuito",
+        "best_season": "Fine maggio – inizio novembre (strada) · inizio luglio – metà settembre (Chanousia)",
+        "commune": "Séez",
+        "dogs": "Ammessi secondo la scheda turistica; guinzaglio obbligatorio a Chanousia",
+        "parking": "Nelle vicinanze",
+        "stroller": null,
+        "type": "Colle stradale di frontiera e sito archeologico",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "Il versante italiano (SS26) ha riaperto venerdì 22 maggio 2026 e la traversata completa domenica 24 maggio 2026 alle 10h, poiché un accumulo di valanga vicino a La Rosière ha ritardato il lato francese. Le due date sono esatte, ciascuna per il proprio versante.",
+          "q": "Quando ha aperto il col du Petit-Saint-Bernard nel 2026?"
+        },
+        {
+          "a": "No, ed è questa la trappola. La strada è aperta da fine maggio, il giardino apre solo in luglio — precisa esso stesso di non essere normalmente sgomberato dalla neve prima di metà luglio. Una fonte regionale annuncia il 6 luglio – 14 settembre 2026; il giardino, invece, scrive « da luglio alla 2a domenica di settembre », ovvero il 13 settembre nel 2026. Non decidiamo.",
+          "q": "Il giardino Chanousia è aperto quando il colle è aperto?"
+        },
+        {
+          "a": "3,00 € tariffa intera, 2,00 € per i gruppi di almeno 10 persone, gratuito sotto i 10 anni. Visita guidata 2,00 €, audioguida gratuita. Aperto dalle 9h alle 18h con orario continuato.",
+          "q": "Quanto costa l'ingresso del giardino Chanousia?"
+        },
+        {
+          "a": "In Savoie (73), comune di Séez. Il sito dell'Hospice lo situa erroneamente in Haute-Savoie: è un errore.",
+          "q": "Il col du Petit-Saint-Bernard è in Savoie o in Haute-Savoie?"
+        },
+        {
+          "a": "La ricostruzione di un muro di sostegno agli Zittieux, nel comune di Séez a circa 6 km dalla frontiera, aveva una fase 2 programmata per la primavera 2026, e la circolazione avveniva a senso unico alternato alla riapertura di maggio 2026. Nessuna fonte conferma il completamento: verificate prima di partire.",
+          "q": "Ci sono lavori sulla strada del colle?"
+        }
+      ],
+      "hero": {
+        "badge": "Accesso libero · RD 1090 / SS26",
+        "lead": "Il col du Petit-Saint-Bernard, a 2 188 m, collega Séez, in Savoie, a La Thuile, in Valle d'Aosta. Tre calendari diversi vi si sovrappongono: quello della strada, quello del giardino botanico Chanousia e quello dell'Hospice. Non confondeteli."
+      },
+      "hero_alt": "Col du Petit-Saint-Bernard tra Séez e La Thuile, Savoie",
+      "how_to_get_there": {
+        "bike": "Da Séez: 27 km e 1 280 m di dislivello, circa il 5 % di media (Explore Savoie — la stessa pagina scrive anche 28 km). Da Bourg-Saint-Maurice: 27,50 km, 1 289 m, 4,69 % di media, 8,1 % al massimo (Cols Cyclisme). Secondo en.wikipedia, il Tour de France vi è passato per la prima volta nel 1949, poi tre volte da allora, tra cui 2007 e 2009.",
+        "car": "Lungo la RD 1090 da Séez e Bourg-Saint-Maurice sul lato francese, lungo la SS26 da La Thuile e Pré-Saint-Didier sul lato italiano. I due versanti sono gestiti da autorità diverse — il Dipartimento della Savoie e l'ANAS — e non aprono necessariamente lo stesso giorno.",
+        "public_transport": null
+      },
+      "meta_description": "2 188 m, frontiera Francia-Italia sopra Séez. Aperto sul lato italiano il 22 maggio 2026, sul lato francese il 24 maggio. Il giardino Chanousia apre solo in luglio, 3 € — non quando apre la strada.",
+      "meta_title": "Col du Petit-Saint-Bernard · Apertura 2026, Chanousia, cromlech",
+      "name": "Col du Petit-Saint-Bernard",
+      "name_alternates": [
+        "Petit-Saint-Bernard",
+        "Colle del Piccolo San Bernardo",
+        "Col du Petit-Saint-Bernard (RD 1090)"
+      ],
+      "practical_info": [
+        {
+          "k": "Altitudine",
+          "v": "2 188 m (tutte le fonti concordano). Il giardino Chanousia è più in basso, a 2 170 m secondo il suo stesso sito."
+        },
+        {
+          "k": "Coordinate",
+          "v": null
+        },
+        {
+          "k": "Apertura 2026",
+          "v": "Lato italiano (SS26, ANAS): venerdì 22 maggio 2026. Lato francese e traversata completa (RD 1090): domenica 24 maggio 2026 alle 10h, dopo un ritardo dovuto a un accumulo di valanga vicino a La Rosière.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Chiusura 2026",
+          "v": null
+        },
+        {
+          "k": "Tariffa",
+          "v": "Gratuito, accesso libero. Il giardino Chanousia è a pagamento: 3,00 €."
+        },
+        {
+          "k": "Parcheggio",
+          "v": "Nelle vicinanze, secondo la scheda turistica."
+        },
+        {
+          "k": "Animali",
+          "v": "Ammessi secondo la scheda turistica. A Chanousia, esclusivamente al guinzaglio."
+        },
+        {
+          "k": "Accessibilità",
+          "v": "Nulla di documentato per il colle stesso. A Chanousia: posti auto per persone disabili, vialetti curati e WC accessibile."
+        },
+        {
+          "k": "Giardino Chanousia",
+          "v": "Apertura annunciata per il 6 luglio 2026 (fonte regionale); il giardino scrive « da luglio, neve permettendo » e non è normalmente sgomberato dalla neve prima di metà luglio. Chiusura: 2a domenica di settembre secondo il giardino, ovvero il 13 settembre 2026, contro il 14 settembre annunciato altrove — non deciso. 9h–18h tutti i giorni. 3,00 € tariffa intera, 2,00 € gruppi di almeno 10 persone, gratuito sotto i 10 anni, visita guidata 2,00 €, audioguida gratuita. +39 379 158 4026 · info@chanousia.org.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Hospice",
+          "v": "Locanda-ristorante, camere, terrazza, libreria, esposizione permanente. Accesso da inizio giugno fino alle prime nevi di novembre. Stagione gîte e ristorante 2025: 21 giugno – 23 ottobre; date 2026 non pubblicate. Prenotazione auberge.psbernard@orange.fr."
+        },
+        {
+          "k": "Lavori",
+          "v": "Ricostruzione di un muro di sostegno agli Zittieux, comune di Séez, a circa 6 km dalla frontiera: fase 2 programmata per la primavera 2026, circolazione a senso unico alternato alla riapertura di maggio 2026. Nessuna fonte conferma il completamento."
+        }
+      ],
+      "schema_amenities": [
+        "Area picnic",
+        "Punto di informazione turistica",
+        "Giardino botanico alpino"
+      ],
+      "when_to_visit": "<p>La strada è aperta da fine maggio fino alle prime nevi. Nel 2026 ha aperto il 22 e il 24 maggio a seconda del lato; nessuna data di chiusura è pubblicata. Se venite per il giardino Chanousia, la finestra è ben più stretta e la sua data di fine non è decisa: apertura annunciata per il 6 luglio 2026, chiusura il 13 settembre secondo il giardino o il 14 settembre secondo una fonte regionale.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Opening aangekondigd op 6 juli 2026 door een regionale bron; de tuin zelf schrijft « vanaf juli, indien de sneeuw het toelaat » en preciseert normaal niet vóór half juli sneeuwvrij te zijn. Sluiting: 2e zondag van september volgens de tuin, dus 13 september 2026, tegenover 14 september volgens de regionale bron. Dagelijks van 9u tot 18u doorlopend geopend. 3,00 € vol tarief, 2,00 € voor groepen vanaf 10 personen, gratis onder de 10 jaar, rondleiding 2,00 €, audiogids gratis. Gesticht in 1897 door abt Pierre Chanoux, op ongeveer 800 m van de grens, fysiek op Frans grondgebied en administratief behorend bij La Thuile.",
+          "tag": "Zomer",
+          "title": "De alpiene botanische tuin Chanousia bezoeken"
+        },
+        {
+          "description": "46 stenen op 2 tot 4 m van elkaar, die een cirkel vormen van 80 m doorsnede volgens de lokale bronnen, 72 m volgens en.wikipedia. In 1956 geklasseerd als historisch monument; de weg werd in 2012 omgelegd om hem te behouden.",
+          "tag": null,
+          "title": "De cromlech bekijken"
+        },
+        {
+          "description": "Gesticht in de 11e eeuw: herberg-restaurant, kamers, terras, boekhandel en permanente tentoonstelling over de col en de Tarentaise. Sinds 1995 is er elke zomer een toeristisch informatiepunt, 10u–18u in juli en augustus, 10u30–16u30 in juni en september, vrije toegang.",
+          "tag": null,
+          "title": "Stoppen bij de Hospice"
+        },
+        {
+          "description": "Vanuit Séez: 27 km en 1 280 m hoogteverschil, gemiddeld ongeveer 5 % (Explore Savoie). Vanuit Bourg-Saint-Maurice: 27,50 km, 1 289 m, gemiddeld 4,69 %, maximaal 8,1 % (Cols Cyclisme). Eerste passage van de Tour de France in 1949 volgens en.wikipedia.",
+          "tag": null,
+          "title": "De col op de fiets beklimmen"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>col du Petit-Saint-Bernard</strong>, op 2 188 m, overschrijdt de grens tussen Frankrijk en Italië boven Séez (73700), in de Tarentaise, en daalt af naar La Thuile, in de Valle d'Aosta. Het departement Savoie en de Italiaanse pers schrijven RD 1090 aan Franse zijde; aan Italiaanse zijde is het de SS26.</p><p>De twee zijden gaan niet op dezelfde dag open. In 2026 heropende de ANAS de SS26 op vrijdag 22 mei; aan Franse zijde vertraagde een lawinerest bij La Rosière de operatie en ging de doorgaande route pas open op zondag 24 mei om 10u.</p><p>Op de col bevinden zich een cromlech van 46 stenen die een cirkel vormen van 80 m doorsnede volgens de lokale bronnen en 72 m volgens en.wikipedia, in 1956 geklasseerd als historisch monument — de weg werd in 2012 trouwens omgelegd om hem te behouden —, de colonne de Joux, de vroegere Columna Jovis nu bekroond met een standbeeld van de heilige Bernardus van Menthon, de in de 11e eeuw gestichte Hospice, en de alpiene botanische tuin Chanousia, in 1897 gesticht door abt Pierre Chanoux. Zijn seizoen is veel korter dan dat van de weg en de twee mogen nooit worden verward: de tuin zelf kondigt aan « van juli tot de 2e zondag van september, indien de sneeuw het toelaat », dus 13 september in 2026, terwijl een regionale bron 6 juli tot 14 september aankondigt. 14 september 2026 is een maandag.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Vrij toegankelijk · Gratis",
+        "best_season": "Eind mei – begin november (weg) · begin juli – half september (Chanousia)",
+        "commune": "Séez",
+        "dogs": "Toegestaan volgens de toeristische fiche; aangelijnd verplicht in Chanousia",
+        "parking": "In de buurt",
+        "stroller": null,
+        "type": "Grensoverschrijdende bergpas en archeologische site",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "De Italiaanse zijde (SS26) heropende op vrijdag 22 mei 2026 en de volledige doorgaande route op zondag 24 mei 2026 om 10u, doordat een lawinerest bij La Rosière de Franse zijde vertraagde. Beide data zijn juist, elk voor de eigen zijde.",
+          "q": "Wanneer ging de col du Petit-Saint-Bernard in 2026 open?"
+        },
+        {
+          "a": "Nee, en dat is de valkuil. De weg is open vanaf eind mei, de tuin gaat pas in juli open — hij preciseert zelf normaal niet vóór half juli sneeuwvrij te zijn. Een regionale bron kondigt 6 juli – 14 september 2026 aan; de tuin schrijft zelf « van juli tot de 2e zondag van september », dus 13 september in 2026. Wij hakken de knoop niet door.",
+          "q": "Is de tuin Chanousia open wanneer de col open is?"
+        },
+        {
+          "a": "3,00 € vol tarief, 2,00 € voor groepen vanaf 10 personen, gratis onder de 10 jaar. Rondleiding 2,00 €, audiogids gratis. Open van 9u tot 18u doorlopend.",
+          "q": "Hoeveel kost de toegang tot de tuin Chanousia?"
+        },
+        {
+          "a": "In Savoie (73), gemeente Séez. De site van de Hospice situeert hem ten onrechte in Haute-Savoie: dat is een fout.",
+          "q": "Ligt de col du Petit-Saint-Bernard in Savoie of in Haute-Savoie?"
+        },
+        {
+          "a": "De herbouw van een steunmuur bij Les Zittieux, in de gemeente Séez op ongeveer 6 km van de grens, had een fase 2 gepland in het voorjaar van 2026, en bij de heropening van mei 2026 gold beurtelings eenrichtingsverkeer. Geen enkele bron bevestigt de voltooiing: controleer dit vóór vertrek.",
+          "q": "Zijn er werkzaamheden aan de weg over de col?"
+        }
+      ],
+      "hero": {
+        "badge": "Vrije toegang · RD 1090 / SS26",
+        "lead": "De col du Petit-Saint-Bernard, op 2 188 m, verbindt Séez, in Savoie, met La Thuile, in de Valle d'Aosta. Drie verschillende kalenders overlappen er elkaar: die van de weg, die van de botanische tuin Chanousia en die van de Hospice. Verwar ze niet."
+      },
+      "hero_alt": "Col du Petit-Saint-Bernard tussen Séez en La Thuile, Savoie",
+      "how_to_get_there": {
+        "bike": "Vanuit Séez: 27 km en 1 280 m hoogteverschil, gemiddeld ongeveer 5 % (Explore Savoie — dezelfde pagina schrijft ook 28 km). Vanuit Bourg-Saint-Maurice: 27,50 km, 1 289 m, gemiddeld 4,69 %, maximaal 8,1 % (Cols Cyclisme). Volgens en.wikipedia kwam de Tour de France er voor het eerst in 1949, daarna nog drie keer, waaronder in 2007 en 2009.",
+        "car": "Via de RD 1090 vanuit Séez en Bourg-Saint-Maurice aan Franse zijde, via de SS26 vanuit La Thuile en Pré-Saint-Didier aan Italiaanse zijde. De twee zijden worden door verschillende autoriteiten beheerd — het departement Savoie en de ANAS — en gaan niet noodzakelijk op dezelfde dag open.",
+        "public_transport": null
+      },
+      "meta_description": "2 188 m, grens Frankrijk-Italië boven Séez. Open aan Italiaanse zijde op 22 mei 2026, aan Franse zijde op 24 mei. De tuin Chanousia gaat pas in juli open, 3 € — niet wanneer de weg opengaat.",
+      "meta_title": "Col du Petit-Saint-Bernard · Opening 2026, Chanousia, cromlech",
+      "name": "Col du Petit-Saint-Bernard",
+      "name_alternates": [
+        "Petit-Saint-Bernard",
+        "Colle del Piccolo San Bernardo",
+        "Col du Petit-Saint-Bernard (RD 1090)"
+      ],
+      "practical_info": [
+        {
+          "k": "Hoogte",
+          "v": "2 188 m (alle bronnen komen overeen). De tuin Chanousia ligt lager, op 2 170 m volgens de eigen site."
+        },
+        {
+          "k": "Coördinaten",
+          "v": null
+        },
+        {
+          "k": "Opening 2026",
+          "v": "Italiaanse zijde (SS26, ANAS): vrijdag 22 mei 2026. Franse zijde en volledige doorgaande route (RD 1090): zondag 24 mei 2026 om 10u, na een vertraging door een lawinerest bij La Rosière.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Sluiting 2026",
+          "v": null
+        },
+        {
+          "k": "Tarief",
+          "v": "Gratis, vrije toegang. De tuin Chanousia is betalend: 3,00 €."
+        },
+        {
+          "k": "Parkeren",
+          "v": "In de buurt, volgens de toeristische fiche."
+        },
+        {
+          "k": "Dieren",
+          "v": "Toegestaan volgens de toeristische fiche. In Chanousia uitsluitend aangelijnd."
+        },
+        {
+          "k": "Toegankelijkheid",
+          "v": "Niets gedocumenteerd voor de col zelf. In Chanousia: parkeerplaatsen voor personen met een handicap, onderhouden paden en toegankelijk toilet."
+        },
+        {
+          "k": "Tuin Chanousia",
+          "v": "Opening aangekondigd op 6 juli 2026 (regionale bron); de tuin schrijft « vanaf juli, indien de sneeuw het toelaat » en is normaal niet vóór half juli sneeuwvrij. Sluiting: 2e zondag van september volgens de tuin, dus 13 september 2026, tegenover 14 september elders — geen uitsluitsel. 9u–18u dagelijks. 3,00 € vol tarief, 2,00 € groepen vanaf 10 personen, gratis onder de 10 jaar, rondleiding 2,00 €, audiogids gratis. +39 379 158 4026 · info@chanousia.org.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Hospice",
+          "v": "Herberg-restaurant, kamers, terras, boekhandel, permanente tentoonstelling. Toegang van begin juni tot de eerste sneeuw van november. Seizoen gîte en restaurant 2025: 21 juni – 23 oktober; data voor 2026 niet gepubliceerd. Reserveren via auberge.psbernard@orange.fr."
+        },
+        {
+          "k": "Werkzaamheden",
+          "v": "Herbouw van een steunmuur bij Les Zittieux, gemeente Séez, op ongeveer 6 km van de grens: fase 2 gepland in het voorjaar van 2026, beurtelings eenrichtingsverkeer bij de heropening van mei 2026. Geen enkele bron bevestigt de voltooiing."
+        }
+      ],
+      "schema_amenities": [
+        "Picknickplaats",
+        "Toeristisch informatiepunt",
+        "Alpiene botanische tuin"
+      ],
+      "when_to_visit": "<p>De weg is open van eind mei tot de eerste sneeuw. In 2026 ging hij open op 22 en 24 mei, afhankelijk van de zijde; er is geen sluitingsdatum gepubliceerd. Komt u voor de tuin Chanousia, dan is het venster veel smaller en staat de einddatum niet vast: opening aangekondigd op 6 juli 2026, sluiting op 13 september volgens de tuin of op 14 september volgens een regionale bron.</p>"
     }
   },
   "latitude": null,

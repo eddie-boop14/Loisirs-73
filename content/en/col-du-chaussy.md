@@ -57,9 +57,9 @@ Not specified
 ## Season
 
 Not specified
-- Winter access window: Not specified
-- Winter infrastructure: Not specified
-- Snow panorama: Not specified
+- Winter access window: Partial access — Live status: savoie-route.fr
+- Winter infrastructure: Cross-country skiing · Snowshoeing · Sledging
+- Snow panorama: Alpine panorama
 - Equipment mandated: Loi Montagne II — winter tyres or chains required (1 Nov – 31 Mar)
 
 ## Official source

@@ -37,6 +37,135 @@
   "hero_credit": "Florian Pépellin · CC BY-SA 3.0 · Wikimedia Commons",
   "hero_image": "/img/points-de-vue/cormet-de-roselend-hero.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Von Beaufort aus 20,3 km und 1 227 m Höhenunterschied mit 6,0 % im Durchschnitt; von Bourg-Saint-Maurice aus 19,3 km und 1 154 m mit 6,0 %. Diese Zahlen stammen nur von en.wikipedia und sind nicht gegengeprüft.",
+          "tag": null,
+          "title": "Den Cormet mit dem Rad hinauffahren"
+        },
+        {
+          "description": "Der Pass ist eine Durchgangsstation der Route des Grandes Alpes, zwischen dem Beaufortain und der Tarentaise.",
+          "tag": null,
+          "title": "Die Route des Grandes Alpes überqueren"
+        },
+        {
+          "description": "Der Parkplatz am Pass dient als Ausgangspunkt für mehrere Routen zu den Seen und Graten des Beaufortain. Keine Einrichtungen vor Ort.",
+          "tag": "Sommer",
+          "title": "Vom Parkplatz aus zur Wanderung aufbrechen"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Der <strong>Cormet de Roselend</strong> überwindet auf 1 968 m die Barriere zwischen dem Beaufortain und der Tarentaise und verbindet Beaufort über die D 925 mit Bourg-Saint-Maurice. Das Wort « cormet » ist savoyardisch: Es bezeichnet einen Gebirgspass, und deshalb sagt man nicht « col de Roselend ».</p><p>Der Pass ist kahl. Das Tourismusbüro von Arêches-Beaufort sagt es unumwunden: kein Restaurant, keine öffentlichen Toiletten, ein Parkplatz und sonst nichts. Wohnmobile sind zugelassen und Hunde erlaubt.</p><p>Vorsicht bei den Daten. Die Wiedereröffnung 2026 wurde von zwei Medien mit vier Stunden Unterschied angekündigt — 14h bei Savoie News, 18h bei ODS Radio — und unter einem Datum, « Freitag, 16. Mai », das nicht existiert: Der 16. Mai 2026 war ein Samstag. Am Sonntag, dem 24. Mai, war die Straße von 8h30 bis 12h für La Roselende gesperrt.</p>"
+      },
+      "events": "<p>La Roselende, Sonntag, 24. Mai 2026: Straße für Fahrzeuge von 8h30 bis 12h gesperrt, Abfahrt für Radfahrer ab 10h freigegeben. Empfang der Teilnehmer ab 8h15 in Beaufort und in Bourg-Saint-Maurice.</p>",
+      "facts": {
+        "access": "Frei zugänglich · Kostenlos",
+        "best_season": "Juni – Oktober",
+        "commune": "Beaufort",
+        "dogs": "Erlaubt (OT Arêches-Beaufort)",
+        "parking": "Parkplatz am Pass; Preis nicht dokumentiert",
+        "stroller": null,
+        "type": "Straßenpass und Aussichtspunkt",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "1 968 m. Es ist die einzige veröffentlichte Zahl, und alle konsultierten Quellen stimmen überein.",
+          "q": "Wie hoch liegt der Cormet de Roselend?"
+        },
+        {
+          "a": "Das Departement hat ihn Mitte Mai 2026 wieder geöffnet, aber die beiden verfügbaren Quellen widersprechen sich bei der Uhrzeit (14h oder 18h) und nennen ein unmögliches Datum, « Freitag, 16. Mai », obwohl der 16. Mai 2026 ein Samstag war. Ein Sperrdatum 2026 ist nicht veröffentlicht.",
+          "q": "Wann wurde der Cormet de Roselend 2026 wieder geöffnet?"
+        },
+        {
+          "a": "Nein. Das Tourismusbüro präzisiert, dass es am Pass weder Restaurant noch öffentliche Toiletten gibt, nur einen Parkplatz.",
+          "q": "Gibt es ein Restaurant oder Toiletten am Pass?"
+        },
+        {
+          "a": "Ja, Hunde sind erlaubt und Wohnmobile zugelassen, laut dem Tourismusbüro von Arêches-Beaufort.",
+          "q": "Kann man mit Hund oder Wohnmobil kommen?"
+        },
+        {
+          "a": "« Cormet » ist das savoyardische Wort für einen Gebirgspass. « Col de Roselend » zu sagen ist ein Pleonasmus; der lokale Sprachgebrauch und die Schilder sagen Cormet.",
+          "q": "Warum sagt man « cormet » und nicht « col »?"
+        }
+      ],
+      "hero": {
+        "badge": "Freier Zugang · D 925",
+        "lead": "Der Cormet de Roselend überwindet auf 1 968 m die Barriere zwischen Beaufortain und Tarentaise. Ein Parkplatz, eine Aussicht und sonst nichts: weder Restaurant noch Toiletten."
+      },
+      "hero_alt": "Cormet de Roselend, zwischen Beaufort und Bourg-Saint-Maurice, Savoie",
+      "how_to_get_there": {
+        "bike": "Von Beaufort aus: 20,3 km und 1 227 m Höhenunterschied mit 6,0 % im Durchschnitt, 9,06 % an der steilsten Stelle. Von Bourg-Saint-Maurice aus: 19,3 km und 1 154 m mit 6,0 %, 8,9 % an der steilsten Stelle. Diese Zahlen stammen ausschließlich von en.wikipedia und werden von keiner französischen Quelle bestätigt.",
+        "car": "Über die D 925 von Beaufort im Südwesten oder Bourg-Saint-Maurice im Osten. Savoie News und ODS Radio verorten die Strecke auf « den RD 902 und RD 925 »; en.wikipedia und 123 Savoie nennen nur die D 925.",
+        "public_transport": null
+      },
+      "meta_description": "Pass auf 1 968 m zwischen Beaufortain und Tarentaise, an der D 925. Weder Restaurant noch Toiletten am Pass. Wiedereröffnung 2026 je nach Quelle zu zwei verschiedenen Uhrzeiten angekündigt.",
+      "meta_title": "Cormet de Roselend · 1 968 m, Anfahrt, Öffnung 2026",
+      "name": "Cormet de Roselend",
+      "name_alternates": [
+        "Roselend",
+        "Cormet de Roselend (D 925)"
+      ],
+      "practical_info": [
+        {
+          "k": "Höhe",
+          "v": "1 968 m"
+        },
+        {
+          "k": "Koordinaten",
+          "v": "45.69111° N, 6.69056° O (en.wikipedia). Der GPS-Punkt des DATAtourisme-Datensatzes ist falsch: Er zeigt auf Brides-les-Bains, ~28 km vom Pass entfernt."
+        },
+        {
+          "k": "Straße",
+          "v": "D 925 laut en.wikipedia und 123 Savoie; « RD 902 und RD 925 » laut Savoie News und ODS Radio."
+        },
+        {
+          "k": "Öffnung 2026",
+          "v": "Mitte Mai 2026. Savoie News: « Freitag, 16. Mai um 14h »; ODS Radio: derselbe Freitag « ab 18 Uhr ». Da der 16. Mai 2026 ein Samstag war, widersprechen sich Datum und Wochentag. Ungeklärt.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Sperrung 2026",
+          "v": null
+        },
+        {
+          "k": "Preis",
+          "v": "Kostenlos, freier Zugang"
+        },
+        {
+          "k": "Parkplatz",
+          "v": "Parkplatz am Pass. Keine Quelle sagt, ob er kostenlos ist."
+        },
+        {
+          "k": "Einrichtungen am Pass",
+          "v": "Keine: weder Restaurant noch öffentliche Toiletten (OT Arêches-Beaufort)."
+        },
+        {
+          "k": "Wohnmobile",
+          "v": "Zugelassen (OT Arêches-Beaufort)"
+        },
+        {
+          "k": "Haustiere",
+          "v": "Hunde erlaubt (OT Arêches-Beaufort)"
+        },
+        {
+          "k": "Barrierefreiheit",
+          "v": null
+        },
+        {
+          "k": "Zeitweilige Sperrungen 2026",
+          "v": "Sonntag, 24. Mai 2026, 8h30–12h, La Roselende: Straße für Fahrzeuge gesperrt, Abfahrt für Radfahrer ab 10h freigegeben.",
+          "verified": "2026-08-08"
+        }
+      ],
+      "schema_amenities": [
+        "Parkplatz",
+        "Ausgangspunkt für Wanderungen"
+      ],
+      "when_to_visit": "<p>Der Pass ist im Winter gesperrt. Das Tourismusbüro nennt zwei verschiedene Zeiträume auf derselben Seite — « vom 15. Mai bis 20. Oktober » und « in der Regel vom 15. Juni bis 15. Oktober zugänglich ». Keiner davon ist eine offizielle Ankündigung des Departements: Prüfen Sie den Straßenzustand vor der Abfahrt.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -166,6 +295,135 @@
       ],
       "when_to_visit": "<p>The pass is closed in winter. The tourist office gives two different periods on the same page — \"15 May to 20 October\" and \"generally accessible from 15 June to 15 October\". Neither is an official département announcement: check the road status before setting off.</p>"
     },
+    "es": {
+      "activities": [
+        {
+          "description": "Desde Beaufort, 20,3 km y 1 227 m de desnivel al 6,0 % de media; desde Bourg-Saint-Maurice, 19,3 km y 1 154 m al 6,0 %. Estas cifras solo proceden de en.wikipedia y no están contrastadas.",
+          "tag": null,
+          "title": "Subir el Cormet en bicicleta"
+        },
+        {
+          "description": "El col es un punto de paso de la Route des Grandes Alpes, entre el Beaufortain y la Tarentaise.",
+          "tag": null,
+          "title": "Recorrer la Route des Grandes Alpes"
+        },
+        {
+          "description": "El aparcamiento del col sirve de punto de partida de varios itinerarios hacia los lagos y las crestas del Beaufortain. Ningún servicio en el lugar.",
+          "tag": "Verano",
+          "title": "Salir de senderismo desde el aparcamiento"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>Cormet de Roselend</strong> franquea a 1 968 m la barrera entre el Beaufortain y la Tarentaise, uniendo Beaufort con Bourg-Saint-Maurice por la D 925. La palabra « cormet » es saboyana: designa un col de montaña, y por eso no se dice « col de Roselend ».</p><p>El col está desnudo. La oficina de turismo de Arêches-Beaufort lo dice sin rodeos: ni restaurante, ni aseos públicos, un aparcamiento y nada más. Las autocaravanas están admitidas y los perros aceptados.</p><p>Atención a las fechas. La reapertura de 2026 fue anunciada por dos medios con cuatro horas de diferencia — 14h para Savoie News, 18h para ODS Radio — y bajo una fecha, « viernes 16 de mayo », que no existe: el 16 de mayo de 2026 era un sábado. El domingo 24 de mayo, la carretera estuvo cerrada de 8h30 a 12h por La Roselende.</p>"
+      },
+      "events": "<p>La Roselende, domingo 24 de mayo de 2026: carretera cerrada a los vehículos de 8h30 a 12h, descenso autorizado a los ciclistas a partir de las 10h. Recepción de los participantes desde las 8h15 en Beaufort y en Bourg-Saint-Maurice.</p>",
+      "facts": {
+        "access": "Libre · Gratuito",
+        "best_season": "Junio – octubre",
+        "commune": "Beaufort",
+        "dogs": "Aceptados (OT Arêches-Beaufort)",
+        "parking": "Aparcamiento en el col; tarifa no documentada",
+        "stroller": null,
+        "type": "Col de carretera y mirador",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "1 968 m. Es la única cifra publicada y todas las fuentes consultadas coinciden.",
+          "q": "¿Cuál es la altitud del Cormet de Roselend?"
+        },
+        {
+          "a": "El Departamento lo reabrió a mediados de mayo de 2026, pero las dos fuentes disponibles se contradicen sobre la hora (14h o 18h) y dan una fecha imposible, « viernes 16 de mayo », cuando el 16 de mayo de 2026 era un sábado. No se ha publicado ninguna fecha de cierre para 2026.",
+          "q": "¿Cuándo reabrió el Cormet de Roselend en 2026?"
+        },
+        {
+          "a": "No. La oficina de turismo precisa que no hay ni restaurante ni aseos públicos en el col, solo un aparcamiento.",
+          "q": "¿Hay restaurante o aseos en el col?"
+        },
+        {
+          "a": "Sí, los perros están aceptados y las autocaravanas admitidas, según la oficina de turismo de Arêches-Beaufort.",
+          "q": "¿Se puede venir con perro o en autocaravana?"
+        },
+        {
+          "a": "« Cormet » es la palabra saboyana para un col de montaña. Decir « col de Roselend » es un pleonasmo; el uso local y los carteles dicen Cormet.",
+          "q": "¿Por qué se dice « cormet » y no « col »?"
+        }
+      ],
+      "hero": {
+        "badge": "Acceso libre · D 925",
+        "lead": "El Cormet de Roselend franquea a 1 968 m la barrera entre Beaufortain y Tarentaise. Un aparcamiento, una vista, y nada más: ni restaurante ni aseos."
+      },
+      "hero_alt": "Cormet de Roselend, entre Beaufort y Bourg-Saint-Maurice, Savoie",
+      "how_to_get_there": {
+        "bike": "Desde Beaufort: 20,3 km y 1 227 m de desnivel al 6,0 % de media, 9,06 % en el tramo más empinado. Desde Bourg-Saint-Maurice: 19,3 km y 1 154 m al 6,0 %, 8,9 % en el tramo más empinado. Estas cifras proceden únicamente de en.wikipedia y no están contrastadas por ninguna fuente francesa.",
+        "car": "Por la D 925 desde Beaufort al suroeste o Bourg-Saint-Maurice al este. Savoie News y ODS Radio sitúan el itinerario en « las RD 902 y RD 925 »; en.wikipedia y 123 Savoie retienen solo la D 925.",
+        "public_transport": null
+      },
+      "meta_description": "Col a 1 968 m entre Beaufortain y Tarentaise, en la D 925. Ni restaurante ni aseos en el col. Reapertura 2026 anunciada a dos horas diferentes según las fuentes.",
+      "meta_title": "Cormet de Roselend · 1 968 m, acceso, apertura 2026",
+      "name": "Cormet de Roselend",
+      "name_alternates": [
+        "Roselend",
+        "Cormet de Roselend (D 925)"
+      ],
+      "practical_info": [
+        {
+          "k": "Altitud",
+          "v": "1 968 m"
+        },
+        {
+          "k": "Coordenadas",
+          "v": "45.69111° N, 6.69056° E (en.wikipedia). El punto GPS de la cola DATAtourisme es falso: apunta a Brides-les-Bains, a ~28 km del col."
+        },
+        {
+          "k": "Carretera",
+          "v": "D 925 según en.wikipedia y 123 Savoie; « RD 902 y RD 925 » según Savoie News y ODS Radio."
+        },
+        {
+          "k": "Apertura 2026",
+          "v": "Mediados de mayo de 2026. Savoie News: « viernes 16 de mayo a las 14h »; ODS Radio: el mismo viernes « a partir de las 18 horas ». Como el 16 de mayo de 2026 era un sábado, la fecha y el día se contradicen. Sin resolver.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Cierre 2026",
+          "v": null
+        },
+        {
+          "k": "Tarifa",
+          "v": "Gratuito, acceso libre"
+        },
+        {
+          "k": "Aparcamiento",
+          "v": "Aparcamiento en el col. Ninguna fuente dice si es gratuito."
+        },
+        {
+          "k": "Servicios en el col",
+          "v": "Ninguno: ni restaurante ni aseos públicos (OT Arêches-Beaufort)."
+        },
+        {
+          "k": "Autocaravanas",
+          "v": "Admitidas (OT Arêches-Beaufort)"
+        },
+        {
+          "k": "Animales",
+          "v": "Perros aceptados (OT Arêches-Beaufort)"
+        },
+        {
+          "k": "Accesibilidad",
+          "v": null
+        },
+        {
+          "k": "Cierres puntuales 2026",
+          "v": "Domingo 24 de mayo de 2026, 8h30–12h, La Roselende: carretera cerrada a los vehículos, descenso ciclista autorizado desde las 10h.",
+          "verified": "2026-08-08"
+        }
+      ],
+      "schema_amenities": [
+        "Aparcamiento",
+        "Punto de partida de senderismo"
+      ],
+      "when_to_visit": "<p>El col está cerrado en invierno. La oficina de turismo da dos periodos diferentes en la misma página — « del 15 de mayo al 20 de octubre » y « generalmente accesible del 15 de junio al 15 de octubre ». Ninguno es un anuncio oficial del Departamento: verifique el estado de la carretera antes de salir.</p>"
+    },
     "fr": {
       "activities": [
         {
@@ -294,6 +552,264 @@
         "Départ de randonnées"
       ],
       "when_to_visit": "<p>Le col est fermé l'hiver. L'office de tourisme donne deux périodes différentes sur la même page — « du 15 mai au 20 octobre » et « généralement accessible du 15 juin au 15 octobre ». Aucune n'est une annonce officielle du Département : vérifiez l'état de la route avant de partir.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Da Beaufort, 20,3 km e 1 227 m di dislivello al 6,0 % di media; da Bourg-Saint-Maurice, 19,3 km e 1 154 m al 6,0 %. Queste cifre provengono solo da en.wikipedia e non sono verificate da altre fonti.",
+          "tag": null,
+          "title": "Salire il Cormet in bicicletta"
+        },
+        {
+          "description": "Il colle è un punto di passaggio della Route des Grandes Alpes, tra il Beaufortain e la Tarentaise.",
+          "tag": null,
+          "title": "Percorrere la Route des Grandes Alpes"
+        },
+        {
+          "description": "Il parcheggio del colle serve da partenza per diversi itinerari verso i laghi e le creste del Beaufortain. Nessun servizio sul posto.",
+          "tag": "Estate",
+          "title": "Partire in escursione dal parcheggio"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Il <strong>Cormet de Roselend</strong> supera a 1 968 m la barriera tra il Beaufortain e la Tarentaise, collegando Beaufort a Bourg-Saint-Maurice lungo la D 925. La parola « cormet » è savoiarda: designa un colle di montagna, ed è la ragione per cui non si dice « col de Roselend ».</p><p>Il colle è spoglio. L'ufficio del turismo di Arêches-Beaufort lo dice senza giri di parole: niente ristorante, niente servizi igienici pubblici, un parcheggio e nient'altro. I camper vi sono ammessi e i cani accettati.</p><p>Attenzione alle date. La riapertura 2026 è stata annunciata da due media con quattro ore di scarto — 14h per Savoie News, 18h per ODS Radio — e con una data, « venerdì 16 maggio », che non esiste: il 16 maggio 2026 era un sabato. Domenica 24 maggio la strada è stata chiusa dalle 8h30 alle 12h per La Roselende.</p>"
+      },
+      "events": "<p>La Roselende, domenica 24 maggio 2026: strada chiusa ai veicoli dalle 8h30 alle 12h, discesa autorizzata ai ciclisti a partire dalle 10h. Accoglienza dei partecipanti dalle 8h15 a Beaufort e a Bourg-Saint-Maurice.</p>",
+      "facts": {
+        "access": "Libero · Gratuito",
+        "best_season": "Giugno – ottobre",
+        "commune": "Beaufort",
+        "dogs": "Accettati (OT Arêches-Beaufort)",
+        "parking": "Parcheggio al colle; tariffa non documentata",
+        "stroller": null,
+        "type": "Colle stradale e punto panoramico",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "1 968 m. È la sola cifra pubblicata e tutte le fonti consultate concordano.",
+          "q": "Qual è l'altitudine del Cormet de Roselend?"
+        },
+        {
+          "a": "Il Dipartimento lo ha riaperto a metà maggio 2026, ma le due fonti disponibili si contraddicono sull'ora (14h o 18h) e indicano una data impossibile, « venerdì 16 maggio », mentre il 16 maggio 2026 era un sabato. Nessuna data di chiusura 2026 è pubblicata.",
+          "q": "Quando ha riaperto il Cormet de Roselend nel 2026?"
+        },
+        {
+          "a": "No. L'ufficio del turismo precisa che al colle non ci sono né ristorante né servizi igienici pubblici, solo un parcheggio.",
+          "q": "Ci sono un ristorante o dei servizi igienici al colle?"
+        },
+        {
+          "a": "Sì, i cani sono accettati e i camper ammessi, secondo l'ufficio del turismo di Arêches-Beaufort.",
+          "q": "Si può venire con un cane o in camper?"
+        },
+        {
+          "a": "« Cormet » è la parola savoiarda per un colle di montagna. Dire « col de Roselend » è un pleonasmo; l'uso locale e i cartelli dicono Cormet.",
+          "q": "Perché si dice « cormet » e non « col »?"
+        }
+      ],
+      "hero": {
+        "badge": "Accesso libero · D 925",
+        "lead": "Il Cormet de Roselend supera a 1 968 m la barriera tra Beaufortain e Tarentaise. Un parcheggio, una vista, e nient'altro: né ristorante né servizi igienici."
+      },
+      "hero_alt": "Cormet de Roselend, tra Beaufort e Bourg-Saint-Maurice, Savoie",
+      "how_to_get_there": {
+        "bike": "Da Beaufort: 20,3 km e 1 227 m di dislivello al 6,0 % di media, 9,06 % nel punto più ripido. Da Bourg-Saint-Maurice: 19,3 km e 1 154 m al 6,0 %, 8,9 % nel punto più ripido. Queste cifre provengono unicamente da en.wikipedia e non sono confermate da alcuna fonte francese.",
+        "car": "Lungo la D 925 da Beaufort a sud-ovest o Bourg-Saint-Maurice a est. Savoie News e ODS Radio situano l'itinerario sulle « RD 902 e RD 925 »; en.wikipedia e 123 Savoie indicano la sola D 925.",
+        "public_transport": null
+      },
+      "meta_description": "Colle a 1 968 m tra Beaufortain e Tarentaise, sulla D 925. Né ristorante né servizi igienici al colle. Riapertura 2026 annunciata a due ore diverse a seconda delle fonti.",
+      "meta_title": "Cormet de Roselend · 1 968 m, accesso, apertura 2026",
+      "name": "Cormet de Roselend",
+      "name_alternates": [
+        "Roselend",
+        "Cormet de Roselend (D 925)"
+      ],
+      "practical_info": [
+        {
+          "k": "Altitudine",
+          "v": "1 968 m"
+        },
+        {
+          "k": "Coordinate",
+          "v": "45.69111° N, 6.69056° E (en.wikipedia). Il punto GPS della coda DATAtourisme è errato: punta a Brides-les-Bains, ~28 km dal colle."
+        },
+        {
+          "k": "Strada",
+          "v": "D 925 secondo en.wikipedia e 123 Savoie; « RD 902 e RD 925 » secondo Savoie News e ODS Radio."
+        },
+        {
+          "k": "Apertura 2026",
+          "v": "Metà maggio 2026. Savoie News: « venerdì 16 maggio alle 14h »; ODS Radio: lo stesso venerdì « a partire dalle 18 ». Essendo il 16 maggio 2026 un sabato, la data e il giorno si contraddicono. Non risolto.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Chiusura 2026",
+          "v": null
+        },
+        {
+          "k": "Tariffa",
+          "v": "Gratuito, accesso libero"
+        },
+        {
+          "k": "Parcheggio",
+          "v": "Parcheggio al colle. Nessuna fonte dice se è gratuito."
+        },
+        {
+          "k": "Servizi al colle",
+          "v": "Nessuno: né ristorante né servizi igienici pubblici (OT Arêches-Beaufort)."
+        },
+        {
+          "k": "Camper",
+          "v": "Ammessi (OT Arêches-Beaufort)"
+        },
+        {
+          "k": "Animali",
+          "v": "Cani accettati (OT Arêches-Beaufort)"
+        },
+        {
+          "k": "Accessibilità",
+          "v": null
+        },
+        {
+          "k": "Chiusure puntuali 2026",
+          "v": "Domenica 24 maggio 2026, 8h30–12h, La Roselende: strada chiusa ai veicoli, discesa ciclistica autorizzata dalle 10h.",
+          "verified": "2026-08-08"
+        }
+      ],
+      "schema_amenities": [
+        "Parcheggio",
+        "Partenza di escursioni"
+      ],
+      "when_to_visit": "<p>Il colle è chiuso in inverno. L'ufficio del turismo indica due periodi diversi sulla stessa pagina — « dal 15 maggio al 20 ottobre » e « generalmente accessibile dal 15 giugno al 15 ottobre ». Nessuno dei due è un annuncio ufficiale del Dipartimento: verificate lo stato della strada prima di partire.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Vanuit Beaufort 20,3 km en 1 227 m hoogteverschil met gemiddeld 6,0 %; vanuit Bourg-Saint-Maurice 19,3 km en 1 154 m met 6,0 %. Deze cijfers komen alleen van en.wikipedia en zijn niet bevestigd.",
+          "tag": null,
+          "title": "De Cormet op de fiets beklimmen"
+        },
+        {
+          "description": "De col is een doorgangspunt van de Route des Grandes Alpes, tussen de Beaufortain en de Tarentaise.",
+          "tag": null,
+          "title": "De Route des Grandes Alpes rijden"
+        },
+        {
+          "description": "De parkeerplaats op de col dient als vertrekpunt voor meerdere routes naar de meren en kammen van de Beaufortain. Geen voorzieningen ter plaatse.",
+          "tag": "Zomer",
+          "title": "Vanaf de parkeerplaats gaan wandelen"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>Cormet de Roselend</strong> overschrijdt op 1 968 m de barrière tussen de Beaufortain en de Tarentaise, en verbindt Beaufort met Bourg-Saint-Maurice via de D 925. Het woord « cormet » is Savoyaards: het duidt een bergpas aan, en daarom zegt men niet « col de Roselend ».</p><p>De col is kaal. Het toeristenbureau van Arêches-Beaufort zegt het onomwonden: geen restaurant, geen openbare toiletten, een parkeerplaats en verder niets. Campers zijn er toegestaan en honden welkom.</p><p>Let op de data. De heropening van 2026 werd door twee media aangekondigd met vier uur verschil — 14u volgens Savoie News, 18u volgens ODS Radio — en onder een datum, « vrijdag 16 mei », die niet bestaat: 16 mei 2026 was een zaterdag. Op zondag 24 mei was de weg gesloten van 8u30 tot 12u voor La Roselende.</p>"
+      },
+      "events": "<p>La Roselende, zondag 24 mei 2026: weg gesloten voor voertuigen van 8u30 tot 12u, afdaling toegestaan voor fietsers vanaf 10u. Onthaal van de deelnemers vanaf 8u15 in Beaufort en in Bourg-Saint-Maurice.</p>",
+      "facts": {
+        "access": "Vrij toegankelijk · Gratis",
+        "best_season": "Juni – oktober",
+        "commune": "Beaufort",
+        "dogs": "Toegestaan (OT Arêches-Beaufort)",
+        "parking": "Parkeerplaats op de col; tarief niet gedocumenteerd",
+        "stroller": null,
+        "type": "Bergpas en uitzichtpunt",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "1 968 m. Het is het enige gepubliceerde cijfer en alle geraadpleegde bronnen komen overeen.",
+          "q": "Hoe hoog ligt de Cormet de Roselend?"
+        },
+        {
+          "a": "Het departement heropende hem half mei 2026, maar de twee beschikbare bronnen spreken elkaar tegen over het uur (14u of 18u) en geven een onmogelijke datum, « vrijdag 16 mei », terwijl 16 mei 2026 een zaterdag was. Er is geen sluitingsdatum voor 2026 gepubliceerd.",
+          "q": "Wanneer heropende de Cormet de Roselend in 2026?"
+        },
+        {
+          "a": "Nee. Het toeristenbureau preciseert dat er op de col geen restaurant en geen openbare toiletten zijn, alleen een parkeerplaats.",
+          "q": "Is er een restaurant of zijn er toiletten op de col?"
+        },
+        {
+          "a": "Ja, honden zijn welkom en campers toegestaan, volgens het toeristenbureau van Arêches-Beaufort.",
+          "q": "Kan men met een hond of met een camper komen?"
+        },
+        {
+          "a": "« Cormet » is het Savoyaardse woord voor een bergpas. « Col de Roselend » zeggen is een pleonasme; het lokale gebruik en de borden zeggen Cormet.",
+          "q": "Waarom zegt men « cormet » en niet « col »?"
+        }
+      ],
+      "hero": {
+        "badge": "Vrije toegang · D 925",
+        "lead": "De Cormet de Roselend overschrijdt op 1 968 m de barrière tussen de Beaufortain en de Tarentaise. Een parkeerplaats, een uitzicht, en verder niets: geen restaurant en geen toiletten."
+      },
+      "hero_alt": "Cormet de Roselend, tussen Beaufort en Bourg-Saint-Maurice, Savoie",
+      "how_to_get_there": {
+        "bike": "Vanuit Beaufort: 20,3 km en 1 227 m hoogteverschil met gemiddeld 6,0 %, 9,06 % op het steilste stuk. Vanuit Bourg-Saint-Maurice: 19,3 km en 1 154 m met 6,0 %, 8,9 % op het steilste stuk. Deze cijfers komen uitsluitend van en.wikipedia en worden door geen enkele Franse bron bevestigd.",
+        "car": "Via de D 925 vanuit Beaufort in het zuidwesten of Bourg-Saint-Maurice in het oosten. Savoie News en ODS Radio situeren de route op « de RD 902 en RD 925 »; en.wikipedia en 123 Savoie houden het op alleen de D 925.",
+        "public_transport": null
+      },
+      "meta_description": "Col op 1 968 m tussen de Beaufortain en de Tarentaise, aan de D 925. Geen restaurant en geen toiletten op de col. Heropening 2026 aangekondigd op twee verschillende uren, afhankelijk van de bron.",
+      "meta_title": "Cormet de Roselend · 1 968 m, toegang, opening 2026",
+      "name": "Cormet de Roselend",
+      "name_alternates": [
+        "Roselend",
+        "Cormet de Roselend (D 925)"
+      ],
+      "practical_info": [
+        {
+          "k": "Hoogte",
+          "v": "1 968 m"
+        },
+        {
+          "k": "Coördinaten",
+          "v": "45.69111° N, 6.69056° E (en.wikipedia). Het GPS-punt van de DATAtourisme-feed is fout: het wijst naar Brides-les-Bains, ~28 km van de col."
+        },
+        {
+          "k": "Weg",
+          "v": "D 925 volgens en.wikipedia en 123 Savoie; « RD 902 en RD 925 » volgens Savoie News en ODS Radio."
+        },
+        {
+          "k": "Opening 2026",
+          "v": "Half mei 2026. Savoie News: « vrijdag 16 mei om 14u »; ODS Radio: dezelfde vrijdag « vanaf 18 uur ». Aangezien 16 mei 2026 een zaterdag was, spreken datum en dag elkaar tegen. Niet opgelost.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Sluiting 2026",
+          "v": null
+        },
+        {
+          "k": "Tarief",
+          "v": "Gratis, vrije toegang"
+        },
+        {
+          "k": "Parkeren",
+          "v": "Parkeerplaats op de col. Geen enkele bron zegt of hij gratis is."
+        },
+        {
+          "k": "Voorzieningen op de col",
+          "v": "Geen: geen restaurant en geen openbare toiletten (OT Arêches-Beaufort)."
+        },
+        {
+          "k": "Campers",
+          "v": "Toegestaan (OT Arêches-Beaufort)"
+        },
+        {
+          "k": "Dieren",
+          "v": "Honden welkom (OT Arêches-Beaufort)"
+        },
+        {
+          "k": "Toegankelijkheid",
+          "v": null
+        },
+        {
+          "k": "Tijdelijke afsluitingen 2026",
+          "v": "Zondag 24 mei 2026, 8u30–12u, La Roselende: weg gesloten voor voertuigen, afdaling voor fietsers toegestaan vanaf 10u.",
+          "verified": "2026-08-08"
+        }
+      ],
+      "schema_amenities": [
+        "Parkeren",
+        "Vertrekpunt voor wandelingen"
+      ],
+      "when_to_visit": "<p>De col is 's winters gesloten. Het toeristenbureau geeft twee verschillende periodes op dezelfde pagina — « van 15 mei tot 20 oktober » en « doorgaans bereikbaar van 15 juni tot 15 oktober ». Geen van beide is een officiële aankondiging van het departement: controleer de staat van de weg vóór vertrek.</p>"
     }
   },
   "latitude": 45.69111,

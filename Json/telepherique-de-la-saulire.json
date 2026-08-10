@@ -37,6 +37,137 @@
   "hero_credit": "Florian Pépellin · CC BY-SA 4.0 · Wikimedia Commons",
   "hero_image": "/img/telecabines/telepherique-de-la-saulire-hero.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "360°-Blick auf die Gletscher der Vanoise und das Mont-Blanc-Massiv von der Bergstation aus, laut der Pressemappe der Société des 3 Vallées.",
+          "tag": null,
+          "title": "Zum Panorama der Saulire hinauffahren (2 710 m)"
+        },
+        {
+          "description": "Ein Restaurant Le Panoramic und ein Picknickplatz namens Nid de la Saulire werden von Skipass Courchevel am Gipfel angegeben. Öffnungszeiten nicht veröffentlicht.",
+          "tag": null,
+          "title": "Im Restaurant Le Panoramic zu Mittag essen"
+        },
+        {
+          "description": "Die Bergstation erschließt die Combe de la Saulire und den Grand Couloir, die von der Société des 3 Vallées genannt werden.",
+          "tag": "Winter",
+          "title": "Die Combe de la Saulire und den Grand Couloir abfahren"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>Seilbahn La Saulire</strong> verbindet eine Talstation auf 2 077 m mit einer Bergstation auf 2 710 m, oberhalb von Courchevel, in der Savoie. Sie wird von der Société des 3 Vallées (S3V) betrieben.</p><p>Die Anlage wurde von POMA vollständig neu gebaut, mit Kabinen von Sigma, für eine Investition von 10 Millionen Euro. Sie wurde am Freitag, dem 6. Dezember 2024, wieder für das Publikum geöffnet, mit einer Einweihung am 12. Dezember. Angekündigte Förderleistung: 1 500 Personen pro Stunde. Die Kapazität pro Kabine wird von S3V mit rund 130 Plätzen angegeben, mit dem Hinweis, dass sie gegenüber den 142 Plätzen der alten Kabinen reduziert wurde, da die neuen Komponenten schwerer sind; eine andere Quelle schreibt 133. Diese Zahl wird hier daher nicht veröffentlicht.</p><p>Von der Bergstation aus reicht das Panorama über 360° auf die Gletscher der Vanoise und das Mont-Blanc-Massiv. Im Winter erschließt die Bergstation die Combe de la Saulire und den Grand Couloir. Achtung: Die Talstation liegt auf 2 077 m, deutlich oberhalb des Ortes Courchevel 1850 — ein Zubringerlift ist nötig, und keine Quelle des Betreibers gibt an, welcher es für den Sommer 2026 ist.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Kostenpflichtig",
+        "best_season": "4. Juli – 30. August 2026 (Sommer)",
+        "commune": "Courchevel",
+        "dogs": null,
+        "duration": null,
+        "parking": null,
+        "snow_view": "alpes",
+        "tarif": "Fußgängerticket « Sommets » 25 € (eine Bergfahrt, nur an der Kasse)",
+        "type": "Panorama-Seilbahn",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Auf 2 710 m, laut zwei Dokumenten der Société des 3 Vallées. Der Gipfel der Saulire selbst erreicht 2 738 m: Das ist ein anderer Punkt als die Bergstation.",
+          "q": "Auf welcher Höhe kommt die Seilbahn La Saulire an?"
+        },
+        {
+          "a": "Ja. Sie wurde von POMA neu gebaut, mit Sigma-Kabinen, für 10 Millionen Euro, und am Freitag, dem 6. Dezember 2024, wieder für das Publikum geöffnet. Alle älteren technischen Daten sind überholt.",
+          "q": "Wurde die Seilbahn La Saulire neu gebaut?"
+        },
+        {
+          "a": "Vom 4. Juli bis 30. August 2026, täglich, von 9h30 bis 16h30 laut Les 3 Vallées. Die Seiten zum Fußgängerpass geben eine Gültigkeit bis zum 28. August an: bei S3V nachfragen.",
+          "q": "Welche Öffnungsdaten gelten im Sommer 2026?"
+        },
+        {
+          "a": "Skipass Courchevel verkauft ein Ticket « Sommets » für 25 € für eine Bergfahrt, nur an der Kasse. Achtung: les3vallees.com gibt an, dass die Saulire mit dem 1-Tages-Fußgängerpass für 23,50 € nicht zugänglich ist. Die beiden Quellen widersprechen sich.",
+          "q": "Was kostet die Auffahrt zu Fuß?"
+        },
+        {
+          "a": "Keine der konsultierten Quellen präzisiert das. Mangels geprüfter Information veröffentlichen wir keine Antwort: Rufen Sie S3V unter 04 79 08 04 09 an.",
+          "q": "Sind Hunde auf der Seilbahn La Saulire erlaubt?"
+        }
+      ],
+      "hero": {
+        "badge": "Kostenpflichtig · 2024 neu gebaut",
+        "lead": "Die Seilbahn La Saulire steigt von 2 077 m auf 2 710 m oberhalb von Courchevel. Die Anlage wurde von POMA vollständig neu gebaut und am 6. Dezember 2024 wieder für das Publikum geöffnet: Alle Daten vor diesem Datum sind überholt."
+      },
+      "hero_alt": "Seilbahn La Saulire, Courchevel, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Talstation auf 2 077 m, oberhalb des Ortes. Keine Quelle des Betreibers nennt den Zubringerlift zur Seilbahn im Sommer 2026: bei S3V erkundigen.",
+        "public_transport": null
+      },
+      "meta_description": "Talstation 2 077 m, Bergstation 2 710 m. Von POMA neu gebaut, am 6. Dezember 2024 wieder geöffnet. Sommer 2026: 4. Juli – 30. August, 9h30–16h30. Betreiber Société des 3 Vallées.",
+      "meta_title": "Seilbahn La Saulire (Courchevel) · Geprüfte Fakten 2026",
+      "name": "Seilbahn La Saulire",
+      "name_alternates": [
+        "Saulire",
+        "Téléphérique Saulire Courchevel",
+        "Sommet de la Saulire"
+      ],
+      "practical_info": [
+        {
+          "k": "Höhe",
+          "v": "Talstation 2 077 m · Bergstation 2 710 m (Quelle S3V). Der Gipfel der Saulire, auf 2 738 m, ist ein anderer Punkt als die Ankunft der Seilbahn."
+        },
+        {
+          "k": "Betreiber",
+          "v": "Société des 3 Vallées (S3V)"
+        },
+        {
+          "k": "Zeiten Sommer 2026",
+          "v": "Vom 4. Juli bis 30. August 2026, 7 Tage die Woche, 9h30–16h30 (Les 3 Vallées). Die Seiten zum Fußgängerpass geben eine Gültigkeit bis zum 28. August an: Abweichung ungeklärt.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Zeiten Winter 2026-2027",
+          "v": null
+        },
+        {
+          "k": "Preise",
+          "v": "Fußgängerticket « Sommets » (eine Bergfahrt: Saulire, Vizelle oder Chenus) 25 €, Verkauf nur an der Kasse (Skipass Courchevel). Sommer-Fußgängerpass 1 Tag Les 3 Vallées 23,50 € Erwachsene / 17,60 € Kinder 5–17 Jahre, aber les3vallees.com schließt die Saulire von diesem Pass aus; zugänglich ist sie mit dem 7-Tages-Pass (65,50 € / 49,10 €) und dem Saisonpass. Widerspruch ungeklärt.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Talfahrt",
+          "v": "Kostenlos für Inhaber eines Fahrscheins, der die Bergfahrt belegt (Les 3 Vallées)."
+        },
+        {
+          "k": "Fahrtdauer",
+          "v": null
+        },
+        {
+          "k": "Parkplatz",
+          "v": null
+        },
+        {
+          "k": "Haustiere",
+          "v": null
+        },
+        {
+          "k": "Barrierefreiheit",
+          "v": null
+        },
+        {
+          "k": "Kontakt",
+          "v": "S3V — 04 79 08 04 09 · contact@s3v.com",
+          "verified": "2026-08-08"
+        }
+      ],
+      "schema_amenities": [
+        "Restaurant Le Panoramic",
+        "Picknickplatz"
+      ],
+      "when_to_visit": "<p>Der Sommerbetrieb 2026 läuft vom 4. Juli bis 30. August, täglich von 9h30 bis 16h30. Außerhalb dieses Zeitfensters hängt der Zugang von der Skisaison ab, deren Daten 2026-2027 bislang nicht veröffentlicht sind.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -163,6 +294,137 @@
         "Picnic area"
       ],
       "when_to_visit": "<p>Summer 2026 operation runs 4 July to 30 August, daily 9:30am–4:30pm. Outside that window access depends on the ski season, whose 2026-2027 dates are not yet published.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "Vista de 360° sobre los glaciares de la Vanoise y el macizo del Mont-Blanc desde la estación superior, según el dosier de prensa de la Société des 3 Vallées.",
+          "tag": null,
+          "title": "Subir al panorama de la Saulire (2 710 m)"
+        },
+        {
+          "description": "Un restaurante Le Panoramic y una zona de pícnic llamada Nid de la Saulire están señalados en la cima por Skipass Courchevel. Horarios no publicados.",
+          "tag": null,
+          "title": "Almorzar en el restaurante Le Panoramic"
+        },
+        {
+          "description": "La estación superior da servicio a la Combe de la Saulire y al Grand Couloir, citados por la Société des 3 Vallées.",
+          "tag": "Invierno",
+          "title": "Esquiar la Combe de la Saulire y el Grand Couloir"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>teleférico de la Saulire</strong> une una estación inferior situada a 2 077 m con una estación superior a 2 710 m, por encima de Courchevel, en Savoie. Lo explota la Société des 3 Vallées (S3V).</p><p>La instalación fue completamente reconstruida por POMA, con cabinas firmadas por Sigma, con una inversión de 10 millones de euros. Reabrió al público el viernes 6 de diciembre de 2024, con inauguración el 12 de diciembre. Capacidad de transporte anunciada: 1 500 personas por hora. La capacidad por cabina la da S3V en unas 130 plazas, precisando que se redujo respecto a las 142 plazas de las antiguas cabinas, al ser más pesados los nuevos componentes; otra fuente escribe 133. Esta cifra, por tanto, no se publica aquí.</p><p>Desde la llegada, el panorama es de 360° sobre los glaciares de la Vanoise y el macizo del Mont-Blanc. En invierno, la estación superior da servicio a la Combe de la Saulire y al Grand Couloir. Atención: la estación de salida está a 2 077 m, muy por encima del pueblo de Courchevel 1850 — se necesita un remonte de aproximación, y ninguna fuente del operador indica cuál para el verano de 2026.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "De pago",
+        "best_season": "4 de julio – 30 de agosto de 2026 (verano)",
+        "commune": "Courchevel",
+        "dogs": null,
+        "duration": null,
+        "parking": null,
+        "snow_view": "alpes",
+        "tarif": "Billete peatonal « Sommets » 25 € (una subida, solo en taquilla)",
+        "type": "Teleférico panorámico",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "A 2 710 m, según dos documentos de la Société des 3 Vallées. La cima de la Saulire en sí culmina a 2 738 m: es un punto diferente de la estación de llegada.",
+          "q": "¿A qué altitud llega el teleférico de la Saulire?"
+        },
+        {
+          "a": "Sí. Fue reconstruido por POMA, con cabinas Sigma, por 10 millones de euros, y reabrió al público el viernes 6 de diciembre de 2024. Cualquier dato técnico anterior está obsoleto.",
+          "q": "¿Ha sido reconstruido el teleférico de la Saulire?"
+        },
+        {
+          "a": "Del 4 de julio al 30 de agosto de 2026, todos los días, de 9h30 a 16h30 según Les 3 Vallées. Las páginas del forfait peatonal indican una validez hasta el 28 de agosto: verificar con S3V.",
+          "q": "¿Cuáles son las fechas de apertura en verano de 2026?"
+        },
+        {
+          "a": "Skipass Courchevel vende un billete « Sommets » a 25 € por una subida, solo en taquilla. Atención: les3vallees.com indica que la Saulire no es accesible con el forfait peatonal de 1 día a 23,50 €. Las dos fuentes se contradicen.",
+          "q": "¿Cuánto cuesta la subida a pie?"
+        },
+        {
+          "a": "Ninguna fuente consultada lo precisa. No publicamos una respuesta a falta de información verificada: llame a S3V al 04 79 08 04 09.",
+          "q": "¿Se aceptan los perros en el teleférico de la Saulire?"
+        }
+      ],
+      "hero": {
+        "badge": "De pago · Reconstruido en 2024",
+        "lead": "El teleférico de la Saulire sube de 2 077 m a 2 710 m por encima de Courchevel. La instalación fue completamente reconstruida por POMA y reabierta al público el 6 de diciembre de 2024: cualquier dato anterior a esa fecha está obsoleto."
+      },
+      "hero_alt": "Teleférico de la Saulire, Courchevel, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Estación inferior a 2 077 m, por encima del pueblo. Ninguna fuente del operador indica el remonte de aproximación que da servicio al teleférico en verano de 2026: informarse con S3V.",
+        "public_transport": null
+      },
+      "meta_description": "Estación inferior 2 077 m, estación superior 2 710 m. Reconstruido por POMA, reabierto el 6 de diciembre de 2024. Verano 2026: 4 de julio – 30 de agosto, 9h30–16h30. Operador Société des 3 Vallées.",
+      "meta_title": "Teleférico de la Saulire (Courchevel) · Datos verificados 2026",
+      "name": "Teleférico de la Saulire",
+      "name_alternates": [
+        "Saulire",
+        "Téléphérique Saulire Courchevel",
+        "Sommet de la Saulire"
+      ],
+      "practical_info": [
+        {
+          "k": "Altitud",
+          "v": "Estación inferior 2 077 m · estación superior 2 710 m (fuente S3V). La cima de la Saulire, a 2 738 m, es un punto distinto de la llegada del teleférico."
+        },
+        {
+          "k": "Operador",
+          "v": "Société des 3 Vallées (S3V)"
+        },
+        {
+          "k": "Horarios verano 2026",
+          "v": "Del 4 de julio al 30 de agosto de 2026, 7 días a la semana, 9h30–16h30 (Les 3 Vallées). Las páginas del forfait peatonal dan una validez hasta el 28 de agosto: discrepancia sin resolver.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Horarios invierno 2026-2027",
+          "v": null
+        },
+        {
+          "k": "Tarifas",
+          "v": "Billete peatonal « Sommets » (una subida: Saulire, Vizelle o Chenus) 25 €, venta solo en taquilla (Skipass Courchevel). Forfait peatonal de verano 1 día Les 3 Vallées 23,50 € adulto / 17,60 € niño de 5–17 años, pero les3vallees.com excluye la Saulire de este forfait; es accesible con el de 7 días (65,50 € / 49,10 €) y el de temporada. Contradicción sin resolver.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Descenso",
+          "v": "Gratuito para quien posee un título de transporte que acredite la subida (Les 3 Vallées)."
+        },
+        {
+          "k": "Duración del trayecto",
+          "v": null
+        },
+        {
+          "k": "Aparcamiento",
+          "v": null
+        },
+        {
+          "k": "Animales",
+          "v": null
+        },
+        {
+          "k": "Accesibilidad",
+          "v": null
+        },
+        {
+          "k": "Contacto",
+          "v": "S3V — 04 79 08 04 09 · contact@s3v.com",
+          "verified": "2026-08-08"
+        }
+      ],
+      "schema_amenities": [
+        "Restaurante Le Panoramic",
+        "Zona de pícnic"
+      ],
+      "when_to_visit": "<p>La explotación estival de 2026 va del 4 de julio al 30 de agosto, todos los días de 9h30 a 16h30. Fuera de esta ventana, el acceso depende de la temporada de esquí, cuyas fechas 2026-2027 no están publicadas hasta la fecha.</p>"
     },
     "fr": {
       "activities": [
@@ -294,6 +556,268 @@
         "Aire de pique-nique"
       ],
       "when_to_visit": "<p>L'exploitation estivale 2026 court du 4 juillet au 30 août, tous les jours de 9h30 à 16h30. En dehors de cette fenêtre, l'accès dépend de la saison de ski, dont les dates 2026-2027 ne sont pas publiées à ce jour.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Vista a 360° sui ghiacciai della Vanoise e il massiccio del Monte Bianco dalla stazione a monte, secondo il dossier stampa della Société des 3 Vallées.",
+          "tag": null,
+          "title": "Salire al panorama della Saulire (2 710 m)"
+        },
+        {
+          "description": "Un ristorante Le Panoramic e un'area picnic chiamata Nid de la Saulire sono segnalati in vetta da Skipass Courchevel. Orari non pubblicati.",
+          "tag": null,
+          "title": "Pranzare al ristorante Le Panoramic"
+        },
+        {
+          "description": "La stazione a monte serve la Combe de la Saulire e il Grand Couloir, citati dalla Société des 3 Vallées.",
+          "tag": "Inverno",
+          "title": "Sciare la Combe de la Saulire e il Grand Couloir"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>Funivia della Saulire</strong> collega una stazione a valle situata a 2 077 m a una stazione a monte a 2 710 m, sopra Courchevel, in Savoie. È gestita dalla Société des 3 Vallées (S3V).</p><p>L'impianto è stato interamente ricostruito da POMA, cabine firmate Sigma, per un investimento di 10 milioni di euro. Ha riaperto al pubblico venerdì 6 dicembre 2024, con un'inaugurazione il 12 dicembre. Portata annunciata: 1 500 persone all'ora. La capacità per cabina è indicata a circa 130 posti da S3V, che precisa che è stata ridotta rispetto ai 142 posti delle vecchie cabine, essendo i nuovi componenti più pesanti; un'altra fonte scrive 133. Questa cifra non viene quindi pubblicata qui.</p><p>Dall'arrivo, il panorama è a 360° sui ghiacciai della Vanoise e il massiccio del Monte Bianco. In inverno la stazione a monte serve la Combe de la Saulire e il Grand Couloir. Attenzione: la stazione di partenza è a 2 077 m, ben al di sopra del villaggio di Courchevel 1850 — è necessario un impianto di avvicinamento, e nessuna fonte del gestore indica quale per l'estate 2026.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "A pagamento",
+        "best_season": "4 luglio – 30 agosto 2026 (estate)",
+        "commune": "Courchevel",
+        "dogs": null,
+        "duration": null,
+        "parking": null,
+        "snow_view": "alpes",
+        "tarif": "Biglietto pedone « Sommets » 25 € (una salita, solo in cassa)",
+        "type": "Funivia panoramica",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "A 2 710 m, secondo due documenti della Société des 3 Vallées. La vetta della Saulire stessa culmina a 2 738 m: è un punto diverso dalla stazione di arrivo.",
+          "q": "A che altitudine arriva la Funivia della Saulire?"
+        },
+        {
+          "a": "Sì. È stata ricostruita da POMA, cabine Sigma, per 10 milioni di euro, e ha riaperto al pubblico venerdì 6 dicembre 2024. Ogni dato tecnico anteriore è superato.",
+          "q": "La Funivia della Saulire è stata ricostruita?"
+        },
+        {
+          "a": "Dal 4 luglio al 30 agosto 2026, tutti i giorni, dalle 9h30 alle 16h30 secondo Les 3 Vallées. Le pagine del forfait pedone indicano una validità fino al 28 agosto: verificare presso S3V.",
+          "q": "Quali sono le date di apertura nell'estate 2026?"
+        },
+        {
+          "a": "Skipass Courchevel vende un biglietto « Sommets » a 25 € per una salita, solo in cassa. Attenzione: les3vallees.com indica che la Saulire non è accessibile con il forfait pedone 1 giorno a 23,50 €. Le due fonti si contraddicono.",
+          "q": "Quanto costa la salita a piedi?"
+        },
+        {
+          "a": "Nessuna fonte consultata lo precisa. Non pubblichiamo una risposta in mancanza di informazioni verificate: chiamate S3V allo 04 79 08 04 09.",
+          "q": "I cani sono accettati sulla Funivia della Saulire?"
+        }
+      ],
+      "hero": {
+        "badge": "A pagamento · Ricostruita nel 2024",
+        "lead": "La Funivia della Saulire sale da 2 077 m a 2 710 m sopra Courchevel. L'impianto è stato interamente ricostruito da POMA e riaperto al pubblico il 6 dicembre 2024: ogni dato anteriore a questa data è superato."
+      },
+      "hero_alt": "Funivia della Saulire, Courchevel, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Stazione a valle a 2 077 m, sopra il villaggio. Nessuna fonte del gestore indica l'impianto di avvicinamento che serve la funivia nell'estate 2026: informarsi presso S3V.",
+        "public_transport": null
+      },
+      "meta_description": "Stazione a valle 2 077 m, stazione a monte 2 710 m. Ricostruita da POMA, riaperta il 6 dicembre 2024. Estate 2026: 4 luglio – 30 agosto, 9h30–16h30. Gestore Société des 3 Vallées.",
+      "meta_title": "Funivia della Saulire (Courchevel) · Fatti verificati 2026",
+      "name": "Funivia della Saulire",
+      "name_alternates": [
+        "Saulire",
+        "Téléphérique Saulire Courchevel",
+        "Sommet de la Saulire"
+      ],
+      "practical_info": [
+        {
+          "k": "Altitudine",
+          "v": "Stazione a valle 2 077 m · stazione a monte 2 710 m (fonte S3V). La vetta della Saulire, a 2 738 m, è un punto distinto dall'arrivo della funivia."
+        },
+        {
+          "k": "Gestore",
+          "v": "Société des 3 Vallées (S3V)"
+        },
+        {
+          "k": "Orari estate 2026",
+          "v": "Dal 4 luglio al 30 agosto 2026, 7 giorni su 7, 9h30–16h30 (Les 3 Vallées). Le pagine del forfait pedone indicano una validità fino al 28 agosto: scarto non risolto.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Orari inverno 2026-2027",
+          "v": null
+        },
+        {
+          "k": "Tariffe",
+          "v": "Biglietto pedone « Sommets » (una salita: Saulire, Vizelle o Chenus) 25 €, vendita solo in cassa (Skipass Courchevel). Forfait pedone estate 1 giorno Les 3 Vallées 23,50 € adulto / 17,60 € bambino 5–17 anni, ma les3vallees.com esclude la Saulire da questo forfait; è accessibile con il 7 giorni (65,50 € / 49,10 €) e lo stagionale. Contraddizione non risolta.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Discesa",
+          "v": "Gratuita per chi possiede un titolo di trasporto che dimostra la salita (Les 3 Vallées)."
+        },
+        {
+          "k": "Durata del tragitto",
+          "v": null
+        },
+        {
+          "k": "Parcheggio",
+          "v": null
+        },
+        {
+          "k": "Animali",
+          "v": null
+        },
+        {
+          "k": "Accessibilità",
+          "v": null
+        },
+        {
+          "k": "Contatto",
+          "v": "S3V — 04 79 08 04 09 · contact@s3v.com",
+          "verified": "2026-08-08"
+        }
+      ],
+      "schema_amenities": [
+        "Ristorante Le Panoramic",
+        "Area picnic"
+      ],
+      "when_to_visit": "<p>L'esercizio estivo 2026 va dal 4 luglio al 30 agosto, tutti i giorni dalle 9h30 alle 16h30. Al di fuori di questa finestra, l'accesso dipende dalla stagione sciistica, le cui date 2026-2027 non sono pubblicate a oggi.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Uitzicht van 360° op de gletsjers van de Vanoise en het massief van de Mont-Blanc vanaf het bergstation, volgens het persdossier van de Société des 3 Vallées.",
+          "tag": null,
+          "title": "Naar het panorama van de Saulire klimmen (2 710 m)"
+        },
+        {
+          "description": "Een restaurant Le Panoramic en een picknickplaats genaamd Nid de la Saulire worden op de top gemeld door Skipass Courchevel. Openingstijden niet gepubliceerd.",
+          "tag": null,
+          "title": "Lunchen in restaurant Le Panoramic"
+        },
+        {
+          "description": "Het bergstation bedient de Combe de la Saulire en de Grand Couloir, genoemd door de Société des 3 Vallées.",
+          "tag": "Winter",
+          "title": "De Combe de la Saulire en de Grand Couloir skiën"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>Kabelbaan La Saulire</strong> verbindt een dalstation op 2 077 m met een bergstation op 2 710 m, boven Courchevel, in Savoie. Hij wordt geëxploiteerd door de Société des 3 Vallées (S3V).</p><p>De installatie is volledig herbouwd door POMA, met cabines van Sigma, voor een investering van 10 miljoen euro. Zij heropende voor het publiek op vrijdag 6 december 2024, met een inhuldiging op 12 december. Aangekondigde capaciteit: 1 500 personen per uur. De capaciteit per cabine wordt door S3V op ongeveer 130 plaatsen gegeven, met de precisering dat zij is verminderd ten opzichte van de 142 plaatsen van de oude cabines, omdat de nieuwe onderdelen zwaarder zijn; een andere bron schrijft 133. Dit cijfer wordt hier dus niet gepubliceerd.</p><p>Vanaf de aankomst is er een panorama van 360° op de gletsjers van de Vanoise en het massief van de Mont-Blanc. In de winter bedient het bergstation de Combe de la Saulire en de Grand Couloir. Let op: het vertrekstation ligt op 2 077 m, ruim boven het dorp Courchevel 1850 — een aanvoerlift is nodig, en geen enkele bron van de exploitant geeft aan welke dat is voor de zomer van 2026.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Betalend",
+        "best_season": "4 juli – 30 augustus 2026 (zomer)",
+        "commune": "Courchevel",
+        "dogs": null,
+        "duration": null,
+        "parking": null,
+        "snow_view": "alpes",
+        "tarif": "Voetgangersticket « Sommets » 25 € (één rit omhoog, alleen aan de kassa)",
+        "type": "Panoramische kabelbaan",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Op 2 710 m, volgens twee documenten van de Société des 3 Vallées. De top van de Saulire zelf ligt op 2 738 m: dat is een ander punt dan het aankomststation.",
+          "q": "Op welke hoogte komt de Kabelbaan La Saulire aan?"
+        },
+        {
+          "a": "Ja. Hij is herbouwd door POMA, met cabines van Sigma, voor 10 miljoen euro, en heropende voor het publiek op vrijdag 6 december 2024. Alle eerdere technische gegevens zijn verouderd.",
+          "q": "Is de Kabelbaan La Saulire herbouwd?"
+        },
+        {
+          "a": "Van 4 juli tot 30 augustus 2026, dagelijks, van 9u30 tot 16u30 volgens Les 3 Vallées. De pagina's over de voetgangerspas vermelden een geldigheid tot 28 augustus: navragen bij S3V.",
+          "q": "Wat zijn de openingsdata in de zomer van 2026?"
+        },
+        {
+          "a": "Skipass Courchevel verkoopt een ticket « Sommets » van 25 € voor één rit omhoog, alleen aan de kassa. Let op: les3vallees.com geeft aan dat de Saulire niet toegankelijk is met de voetgangerspas van 1 dag van 23,50 €. De twee bronnen spreken elkaar tegen.",
+          "q": "Hoeveel kost de rit voor voetgangers?"
+        },
+        {
+          "a": "Geen enkele geraadpleegde bron preciseert het. Wij publiceren geen antwoord bij gebrek aan geverifieerde informatie: bel S3V op 04 79 08 04 09.",
+          "q": "Worden honden toegelaten op de Kabelbaan La Saulire?"
+        }
+      ],
+      "hero": {
+        "badge": "Betalend · Herbouwd in 2024",
+        "lead": "De Kabelbaan La Saulire klimt van 2 077 m naar 2 710 m boven Courchevel. De installatie is volledig herbouwd door POMA en heropende voor het publiek op 6 december 2024: alle gegevens van vóór die datum zijn verouderd."
+      },
+      "hero_alt": "Kabelbaan La Saulire, Courchevel, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Dalstation op 2 077 m, boven het dorp. Geen enkele bron van de exploitant geeft aan welke aanvoerlift de kabelbaan bedient in de zomer van 2026: informeer bij S3V.",
+        "public_transport": null
+      },
+      "meta_description": "Dalstation 2 077 m, bergstation 2 710 m. Herbouwd door POMA, heropend op 6 december 2024. Zomer 2026: 4 juli – 30 augustus, 9u30–16u30. Exploitant Société des 3 Vallées.",
+      "meta_title": "Kabelbaan La Saulire (Courchevel) · Geverifieerde feiten 2026",
+      "name": "Kabelbaan La Saulire",
+      "name_alternates": [
+        "Saulire",
+        "Téléphérique Saulire Courchevel",
+        "Sommet de la Saulire"
+      ],
+      "practical_info": [
+        {
+          "k": "Hoogte",
+          "v": "Dalstation 2 077 m · bergstation 2 710 m (bron S3V). De top van de Saulire, op 2 738 m, is een ander punt dan de aankomst van de kabelbaan."
+        },
+        {
+          "k": "Exploitant",
+          "v": "Société des 3 Vallées (S3V)"
+        },
+        {
+          "k": "Openingstijden zomer 2026",
+          "v": "Van 4 juli tot 30 augustus 2026, 7 d/7, 9u30–16u30 (Les 3 Vallées). De pagina's over de voetgangerspas geven een geldigheid tot 28 augustus: verschil niet opgelost.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Openingstijden winter 2026-2027",
+          "v": null
+        },
+        {
+          "k": "Tarieven",
+          "v": "Voetgangersticket « Sommets » (één rit omhoog: Saulire, Vizelle of Chenus) 25 €, alleen verkoop aan de kassa (Skipass Courchevel). Voetgangerspas zomer 1 dag Les 3 Vallées 23,50 € volwassene / 17,60 € kind 5–17 jaar, maar les3vallees.com sluit de Saulire uit van deze pas; zij is toegankelijk met de 7-daagse (65,50 € / 49,10 €) en de seizoenspas. Tegenstrijdigheid niet opgelost.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Afdaling",
+          "v": "Gratis voor wie een vervoersbewijs heeft dat de rit omhoog aantoont (Les 3 Vallées)."
+        },
+        {
+          "k": "Reisduur",
+          "v": null
+        },
+        {
+          "k": "Parkeren",
+          "v": null
+        },
+        {
+          "k": "Dieren",
+          "v": null
+        },
+        {
+          "k": "Toegankelijkheid",
+          "v": null
+        },
+        {
+          "k": "Contact",
+          "v": "S3V — 04 79 08 04 09 · contact@s3v.com",
+          "verified": "2026-08-08"
+        }
+      ],
+      "schema_amenities": [
+        "Restaurant Le Panoramic",
+        "Picknickplaats"
+      ],
+      "when_to_visit": "<p>De zomerexploitatie van 2026 loopt van 4 juli tot 30 augustus, dagelijks van 9u30 tot 16u30. Buiten dit venster hangt de toegang af van het skiseizoen, waarvan de data voor 2026-2027 tot op heden niet zijn gepubliceerd.</p>"
     }
   },
   "latitude": 45.389041,

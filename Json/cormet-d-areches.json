@@ -37,6 +37,129 @@
   "hero_credit": "Rémih · CC BY-SA 4.0 · Wikimedia Commons",
   "hero_image": "/img/points-de-vue/cormet-d-areches-hero.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Der Pass verbindet das Tal von Beaufort und Arêches mit dem Tal von Aime, quer durch das Massiv des Beaufortain.",
+          "tag": null,
+          "title": "Den Beaufortain durchqueren"
+        },
+        {
+          "description": "Die letzten 3,2 Kilometer sind eine Piste mit 8–9 % durchschnittlicher Steigung. Der Asphalt endet in Pichu.",
+          "tag": null,
+          "title": "Auf der Piste zu Ende fahren"
+        },
+        {
+          "description": "Anstiegsprofile existieren von Beaufort und von Aime aus; ihre Zahlen wurden hier nicht übernommen.",
+          "tag": null,
+          "title": "Über die eine oder die andere Seite hinauffahren"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Der <strong>Cormet d'Arêches</strong> erreicht 2 107 m im Massiv des Beaufortain und verbindet das Tal von Beaufort, über Arêches, mit dem Tal von Aime.</p><p>Ein Punkt überragt alle anderen: <strong>Die Straße ist nicht bis zum Pass asphaltiert</strong>. Der Belag endet in Pichu, und die letzten 3,2 Kilometer werden zu einer Piste, deren durchschnittliche Steigung zwischen 8 und 9 % schwankt. Die letzten Kilometer beider Seiten sind unbefestigt oder in schlechtem Zustand. Dies ist kein gewöhnlicher Straßenpass.</p><p>Nicht zu verwechseln mit dem Cormet de Roselend, 139 m tiefer, im selben Massiv und vom selben Tourismusbüro dokumentiert — das übrigens für beide dieselbe Formulierung zur Zugänglichkeit verwendet.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Frei zugänglich · Kostenlos",
+        "best_season": null,
+        "commune": "Beaufort",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Gebirgspass, Piste im oberen Teil",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "2 107 m. Die konsultierten Quellen stimmen überein.",
+          "q": "Wie hoch liegt der Cormet d'Arêches?"
+        },
+        {
+          "a": "Nein. Der Asphalt endet in Pichu, und die letzten 3,2 Kilometer sind eine Piste mit 8–9 % durchschnittlicher Steigung. Die letzten Kilometer beider Seiten sind unbefestigt oder in schlechtem Zustand.",
+          "q": "Ist die Straße bis zum Pass asphaltiert?"
+        },
+        {
+          "a": "Nein, es sind zwei verschiedene Pässe des Beaufortain: Der Cormet d'Arêches liegt auf 2 107 m, der Cormet de Roselend auf 1 968 m, an einer anderen Straße.",
+          "q": "Ist das dasselbe wie der Cormet de Roselend?"
+        },
+        {
+          "a": "Das Tourismusbüro schreibt « in der Regel vom 15. Juni bis 15. Oktober zugänglich », verwendet aber exakt denselben Satz für einen anderen Pass. Es ist kein offizieller Zeitraum, und für 2026 sind keine Daten veröffentlicht.",
+          "q": "Wann ist der Pass zugänglich?"
+        },
+        {
+          "a": "Keine der konsultierten Quellen erwähnt einen Parkplatz, eine Hütte oder eine Wasserstelle am Pass.",
+          "q": "Gibt es Einrichtungen am Pass?"
+        }
+      ],
+      "hero": {
+        "badge": "Freier Zugang · Piste auf 3,2 km",
+        "lead": "Der Cormet d'Arêches überquert den Beaufortain auf 2 107 m. Der Asphalt endet in Pichu: Die letzten 3,2 Kilometer sind eine Piste mit 8–9 %."
+      },
+      "hero_alt": "Cormet d'Arêches, Massiv des Beaufortain, Savoie",
+      "how_to_get_there": {
+        "bike": "Anstiegsprofile existieren von Beaufort und von Aime aus; ihre Zahlen wurden nicht übernommen, und hier wird keine Kilometerangabe gemacht. Die letzten 3,2 Kilometer sind eine Piste mit 8–9 % durchschnittlicher Steigung.",
+        "car": "Von Beaufort über Arêches oder vom Tal von Aime aus. Die Straße ist nur bis Pichu asphaltiert: Der obere Teil ist eine Piste, und die letzten Kilometer beider Seiten sind unbefestigt oder in schlechtem Zustand.",
+        "public_transport": null
+      },
+      "meta_description": "Pass des Beaufortain auf 2 107 m. Der Asphalt endet in Pichu: Die letzten 3,2 Kilometer sind eine Piste mit 8–9 %. Nicht zu verwechseln mit dem Cormet de Roselend.",
+      "meta_title": "Cormet d'Arêches · 2 107 m, Piste, Anfahrt",
+      "name": "Cormet d'Arêches",
+      "name_alternates": [
+        "Cormet d'Areches",
+        "Cormet d'Arêches (Beaufortain)"
+      ],
+      "practical_info": [
+        {
+          "k": "Höhe",
+          "v": "2 107 m"
+        },
+        {
+          "k": "Koordinaten",
+          "v": null
+        },
+        {
+          "k": "Straßenzustand",
+          "v": "Nur bis Pichu asphaltiert. Die letzten 3,2 Kilometer sind eine Piste mit 8–9 % durchschnittlicher Steigung; die letzten Kilometer beider Seiten sind unbefestigt oder in schlechtem Zustand."
+        },
+        {
+          "k": "Verbindet",
+          "v": "Das Tal von Beaufort, über Arêches, mit dem Tal von Aime"
+        },
+        {
+          "k": "Saisonale Zugänglichkeit",
+          "v": "Das Tourismusbüro schreibt « in der Regel vom 15. Juni bis 15. Oktober zugänglich », eine Formulierung, die es wortgleich für den Cormet de Roselend verwendet. Es ist kein offizieller Zeitraum."
+        },
+        {
+          "k": "Öffnung 2026",
+          "v": null
+        },
+        {
+          "k": "Sperrung 2026",
+          "v": null
+        },
+        {
+          "k": "Preis",
+          "v": "Kostenlos, freier Zugang"
+        },
+        {
+          "k": "Einrichtungen am Pass",
+          "v": "Keine dokumentiert"
+        },
+        {
+          "k": "Haustiere",
+          "v": null
+        },
+        {
+          "k": "Barrierefreiheit",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Aussichtspunkt",
+        "Ausgangspunkt für Wanderungen"
+      ],
+      "when_to_visit": "<p>Das Tourismusbüro gibt den Pass als « in der Regel vom 15. Juni bis 15. Oktober zugänglich » an, verwendet denselben Satz aber für einen anderen Pass: als Größenordnung zu verstehen, nicht als Zeitraum. Für 2026 sind keine Daten veröffentlicht. Den Straßenzustand prüfen und daran denken, dass der obere Teil eine Piste ist.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -160,6 +283,129 @@
       ],
       "when_to_visit": "<p>The tourist office calls the pass \"generally accessible from June 15 to October 15\", but uses the same phrase for another pass: treat it as an order of magnitude, not a period. No 2026 dates are published. Check road conditions, and remember the upper section is a track.</p>"
     },
+    "es": {
+      "activities": [
+        {
+          "description": "El col une el valle de Beaufort y Arêches con el valle de Aime, a través del macizo del Beaufortain.",
+          "tag": null,
+          "title": "Atravesar el Beaufortain"
+        },
+        {
+          "description": "Los últimos 3,2 kilómetros son una pista al 8-9 % de media. El asfalto termina en Pichu.",
+          "tag": null,
+          "title": "Terminar por la pista"
+        },
+        {
+          "description": "Existen fichas de ascensión desde Beaufort y desde Aime, cuyas cifras no se han recogido aquí.",
+          "tag": null,
+          "title": "Subir por una u otra vertiente"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>Cormet d'Arêches</strong> culmina a 2 107 m en el macizo del Beaufortain y une el valle de Beaufort, por Arêches, con el valle de Aime.</p><p>Un punto domina todos los demás: <strong>la carretera no está asfaltada hasta el col</strong>. El firme termina en Pichu, y los últimos 3,2 kilómetros se convierten en una pista cuya pendiente media oscila entre el 8 y el 9 %. Los últimos kilómetros de ambas vertientes están sin asfaltar o degradados. No es un col de carretera ordinario.</p><p>No debe confundirse con el Cormet de Roselend, 139 m más abajo, en el mismo macizo y documentado por la misma oficina de turismo — que además emplea para los dos la misma fórmula de accesibilidad.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Libre · Gratuito",
+        "best_season": null,
+        "commune": "Beaufort",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Col de montaña, pista en la parte alta",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "2 107 m. Las fuentes consultadas coinciden.",
+          "q": "¿Cuál es la altitud del Cormet d'Arêches?"
+        },
+        {
+          "a": "No. El asfalto termina en Pichu y los últimos 3,2 kilómetros son una pista al 8-9 % de media. Los últimos kilómetros de ambas vertientes están sin asfaltar o degradados.",
+          "q": "¿Está asfaltada la carretera hasta el col?"
+        },
+        {
+          "a": "No, son dos cols distintos del Beaufortain: el Cormet d'Arêches está a 2 107 m, el Cormet de Roselend a 1 968 m, en otra carretera.",
+          "q": "¿Es lo mismo que el Cormet de Roselend?"
+        },
+        {
+          "a": "La oficina de turismo escribe « generalmente accesible del 15 de junio al 15 de octubre », pero emplea exactamente la misma frase para otro col. No es un periodo oficial y no se ha publicado ninguna fecha para 2026.",
+          "q": "¿Cuándo es accesible el col?"
+        },
+        {
+          "a": "Ninguna fuente consultada menciona aparcamiento, refugio ni punto de agua en el col.",
+          "q": "¿Hay servicios en el col?"
+        }
+      ],
+      "hero": {
+        "badge": "Acceso libre · Pista en 3,2 km",
+        "lead": "El Cormet d'Arêches franquea el Beaufortain a 2 107 m. El asfalto termina en Pichu: los últimos 3,2 kilómetros son una pista al 8-9 %."
+      },
+      "hero_alt": "Cormet d'Arêches, macizo del Beaufortain, Savoie",
+      "how_to_get_there": {
+        "bike": "Existen fichas de ascensión desde Beaufort y desde Aime; sus cifras no se han recogido y aquí no se avanza ningún kilometraje. Los últimos 3,2 kilómetros son una pista al 8-9 % de media.",
+        "car": "Desde Beaufort por Arêches, o desde el valle de Aime. La carretera solo está asfaltada hasta Pichu: la parte alta es una pista, y los últimos kilómetros de ambas vertientes están sin asfaltar o degradados.",
+        "public_transport": null
+      },
+      "meta_description": "Col del Beaufortain a 2 107 m. El asfalto termina en Pichu: los últimos 3,2 kilómetros son una pista al 8-9 %. No confundir con el Cormet de Roselend.",
+      "meta_title": "Cormet d'Arêches · 2 107 m, pista, acceso",
+      "name": "Cormet d'Arêches",
+      "name_alternates": [
+        "Cormet d'Areches",
+        "Cormet d'Arêches (Beaufortain)"
+      ],
+      "practical_info": [
+        {
+          "k": "Altitud",
+          "v": "2 107 m"
+        },
+        {
+          "k": "Coordenadas",
+          "v": null
+        },
+        {
+          "k": "Estado de la carretera",
+          "v": "Asfaltada solo hasta Pichu. Los últimos 3,2 kilómetros son una pista al 8-9 % de media; los últimos kilómetros de ambas vertientes están sin asfaltar o degradados."
+        },
+        {
+          "k": "Une",
+          "v": "El valle de Beaufort, por Arêches, con el valle de Aime"
+        },
+        {
+          "k": "Accesibilidad estacional",
+          "v": "La oficina de turismo escribe « generalmente accesible del 15 de junio al 15 de octubre », fórmula que emplea de forma idéntica para el Cormet de Roselend. No es un periodo oficial."
+        },
+        {
+          "k": "Apertura 2026",
+          "v": null
+        },
+        {
+          "k": "Cierre 2026",
+          "v": null
+        },
+        {
+          "k": "Tarifa",
+          "v": "Gratuito, acceso libre"
+        },
+        {
+          "k": "Servicios en el col",
+          "v": "Ninguno documentado"
+        },
+        {
+          "k": "Animales",
+          "v": null
+        },
+        {
+          "k": "Accesibilidad",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Mirador",
+        "Punto de partida de senderismo"
+      ],
+      "when_to_visit": "<p>La oficina de turismo da el col « generalmente accesible del 15 de junio al 15 de octubre », pero emplea la misma frase para otro col: debe tratarse como un orden de magnitud, no como un periodo. No se ha publicado ninguna fecha para 2026. Verificar el estado de la carretera, y recordar que la parte alta es una pista.</p>"
+    },
     "fr": {
       "activities": [
         {
@@ -190,7 +436,7 @@
         "parking": null,
         "stroller": null,
         "type": "Col de montagne, piste sur la partie haute",
-        "winter_access": null
+        "winter_access": "closed"
       },
       "faq": [
         {
@@ -282,6 +528,252 @@
         "Départ de randonnées"
       ],
       "when_to_visit": "<p>L'office de tourisme donne le col « généralement accessible du 15 juin au 15 octobre », mais emploie la même phrase pour un autre col : à traiter comme un ordre de grandeur, pas comme une période. Aucune date 2026 n'est publiée. Vérifier l'état de la route, et se rappeler que la partie haute est une piste.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Il colle collega la valle di Beaufort e Arêches alla valle di Aime, attraverso il massiccio del Beaufortain.",
+          "tag": null,
+          "title": "Attraversare il Beaufortain"
+        },
+        {
+          "description": "Gli ultimi 3,2 chilometri sono uno sterrato all'8-9 % di media. L'asfalto finisce a Pichu.",
+          "tag": null,
+          "title": "Finire sullo sterrato"
+        },
+        {
+          "description": "Esistono schede di salita da Beaufort e da Aime, le cui cifre non sono state rilevate qui.",
+          "tag": null,
+          "title": "Salire dall'uno o dall'altro versante"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Il <strong>Cormet d'Arêches</strong> culmina a 2 107 m nel massiccio del Beaufortain e collega la valle di Beaufort, per Arêches, alla valle di Aime.</p><p>Un punto domina tutti gli altri: <strong>la strada non è asfaltata fino al colle</strong>. Il manto stradale finisce a Pichu, e gli ultimi 3,2 chilometri diventano uno sterrato la cui pendenza media oscilla tra l'8 e il 9 %. Gli ultimi chilometri di entrambi i versanti sono non asfaltati o degradati. Non è un colle stradale ordinario.</p><p>Da non confondere con il Cormet de Roselend, 139 m più in basso, nello stesso massiccio e documentato dallo stesso ufficio del turismo — che peraltro impiega per entrambi la stessa formula di accessibilità.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Libero · Gratuito",
+        "best_season": null,
+        "commune": "Beaufort",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Colle di montagna, sterrato nella parte alta",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "2 107 m. Le fonti consultate concordano.",
+          "q": "Qual è l'altitudine del Cormet d'Arêches?"
+        },
+        {
+          "a": "No. L'asfalto finisce a Pichu e gli ultimi 3,2 chilometri sono uno sterrato all'8-9 % di media. Gli ultimi chilometri di entrambi i versanti sono non asfaltati o degradati.",
+          "q": "La strada è asfaltata fino al colle?"
+        },
+        {
+          "a": "No, sono due colli distinti del Beaufortain: il Cormet d'Arêches è a 2 107 m, il Cormet de Roselend a 1 968 m, su un'altra strada.",
+          "q": "È la stessa cosa del Cormet de Roselend?"
+        },
+        {
+          "a": "L'ufficio del turismo scrive « generalmente accessibile dal 15 giugno al 15 ottobre », ma impiega esattamente la stessa frase per un altro colle. Non è un periodo ufficiale e nessuna data 2026 è pubblicata.",
+          "q": "Quando è accessibile il colle?"
+        },
+        {
+          "a": "Nessuna fonte consultata menziona parcheggio, rifugio o punto d'acqua al colle.",
+          "q": "Ci sono servizi al colle?"
+        }
+      ],
+      "hero": {
+        "badge": "Accesso libero · Sterrato per 3,2 km",
+        "lead": "Il Cormet d'Arêches attraversa il Beaufortain a 2 107 m. L'asfalto finisce a Pichu: gli ultimi 3,2 chilometri sono uno sterrato all'8-9 %."
+      },
+      "hero_alt": "Cormet d'Arêches, massiccio del Beaufortain, Savoie",
+      "how_to_get_there": {
+        "bike": "Esistono schede di salita da Beaufort e da Aime; le loro cifre non sono state rilevate e qui non viene indicato alcun chilometraggio. Gli ultimi 3,2 chilometri sono uno sterrato all'8-9 % di media.",
+        "car": "Da Beaufort per Arêches, o dalla valle di Aime. La strada è asfaltata solo fino a Pichu: la parte alta è uno sterrato, e gli ultimi chilometri di entrambi i versanti sono non asfaltati o degradati.",
+        "public_transport": null
+      },
+      "meta_description": "Colle del Beaufortain a 2 107 m. L'asfalto finisce a Pichu: gli ultimi 3,2 chilometri sono uno sterrato all'8-9 %. Da non confondere con il Cormet de Roselend.",
+      "meta_title": "Cormet d'Arêches · 2 107 m, sterrato, accesso",
+      "name": "Cormet d'Arêches",
+      "name_alternates": [
+        "Cormet d'Areches",
+        "Cormet d'Arêches (Beaufortain)"
+      ],
+      "practical_info": [
+        {
+          "k": "Altitudine",
+          "v": "2 107 m"
+        },
+        {
+          "k": "Coordinate",
+          "v": null
+        },
+        {
+          "k": "Stato della strada",
+          "v": "Asfaltata solo fino a Pichu. Gli ultimi 3,2 chilometri sono uno sterrato all'8-9 % di media; gli ultimi chilometri di entrambi i versanti sono non asfaltati o degradati."
+        },
+        {
+          "k": "Collega",
+          "v": "La valle di Beaufort, per Arêches, alla valle di Aime"
+        },
+        {
+          "k": "Accessibilità stagionale",
+          "v": "L'ufficio del turismo scrive « generalmente accessibile dal 15 giugno al 15 ottobre », formula che impiega in modo identico per il Cormet de Roselend. Non è un periodo ufficiale."
+        },
+        {
+          "k": "Apertura 2026",
+          "v": null
+        },
+        {
+          "k": "Chiusura 2026",
+          "v": null
+        },
+        {
+          "k": "Tariffa",
+          "v": "Gratuito, accesso libero"
+        },
+        {
+          "k": "Servizi al colle",
+          "v": "Nessuno documentato"
+        },
+        {
+          "k": "Animali",
+          "v": null
+        },
+        {
+          "k": "Accessibilità",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Punto panoramico",
+        "Partenza di escursioni"
+      ],
+      "when_to_visit": "<p>L'ufficio del turismo indica il colle « generalmente accessibile dal 15 giugno al 15 ottobre », ma impiega la stessa frase per un altro colle: da trattare come un ordine di grandezza, non come un periodo. Nessuna data 2026 è pubblicata. Verificare lo stato della strada, e ricordare che la parte alta è uno sterrato.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "De col verbindt het dal van Beaufort en Arêches met het dal van Aime, dwars door het massief van de Beaufortain.",
+          "tag": null,
+          "title": "De Beaufortain oversteken"
+        },
+        {
+          "description": "De laatste 3,2 kilometer zijn een onverharde weg met gemiddeld 8-9 %. Het asfalt houdt op bij Pichu.",
+          "tag": null,
+          "title": "Eindigen op de onverharde weg"
+        },
+        {
+          "description": "Er bestaan klimfiches vanuit Beaufort en vanuit Aime, waarvan de cijfers hier niet zijn overgenomen.",
+          "tag": null,
+          "title": "Klimmen via de ene of de andere zijde"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>Cormet d'Arêches</strong> ligt op 2 107 m in het massief van de Beaufortain en verbindt het dal van Beaufort, via Arêches, met het dal van Aime.</p><p>Eén punt springt eruit: <strong>de weg is niet tot aan de col geasfalteerd</strong>. De verharding houdt op bij Pichu, en de laatste 3,2 kilometer worden een onverharde weg met een gemiddelde helling tussen 8 en 9 %. De laatste kilometers van beide zijden zijn onverhard of in slechte staat. Dit is geen gewone bergpas voor auto's.</p><p>Niet te verwarren met de Cormet de Roselend, 139 m lager, in hetzelfde massief en gedocumenteerd door hetzelfde toeristenbureau — dat voor beide overigens dezelfde formulering over de bereikbaarheid gebruikt.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Vrij toegankelijk · Gratis",
+        "best_season": null,
+        "commune": "Beaufort",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Bergpas, onverhard op het bovenste deel",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "2 107 m. De geraadpleegde bronnen komen overeen.",
+          "q": "Hoe hoog ligt de Cormet d'Arêches?"
+        },
+        {
+          "a": "Nee. Het asfalt houdt op bij Pichu en de laatste 3,2 kilometer zijn een onverharde weg met gemiddeld 8-9 %. De laatste kilometers van beide zijden zijn onverhard of in slechte staat.",
+          "q": "Is de weg tot aan de col geasfalteerd?"
+        },
+        {
+          "a": "Nee, het zijn twee afzonderlijke cols in de Beaufortain: de Cormet d'Arêches ligt op 2 107 m, de Cormet de Roselend op 1 968 m, aan een andere weg.",
+          "q": "Is dit hetzelfde als de Cormet de Roselend?"
+        },
+        {
+          "a": "Het toeristenbureau schrijft « doorgaans bereikbaar van 15 juni tot 15 oktober », maar gebruikt exact dezelfde zin voor een andere col. Het is geen officiële periode en er is geen datum voor 2026 gepubliceerd.",
+          "q": "Wanneer is de col bereikbaar?"
+        },
+        {
+          "a": "Geen enkele geraadpleegde bron vermeldt een parkeerplaats, een berghut of een waterpunt op de col.",
+          "q": "Zijn er voorzieningen op de col?"
+        }
+      ],
+      "hero": {
+        "badge": "Vrije toegang · Onverhard over 3,2 km",
+        "lead": "De Cormet d'Arêches doorkruist de Beaufortain op 2 107 m. Het asfalt houdt op bij Pichu: de laatste 3,2 kilometer zijn een onverharde weg met 8-9 %."
+      },
+      "hero_alt": "Cormet d'Arêches, massief van de Beaufortain, Savoie",
+      "how_to_get_there": {
+        "bike": "Er bestaan klimfiches vanuit Beaufort en vanuit Aime; hun cijfers zijn niet overgenomen en er wordt hier geen kilometrage genoemd. De laatste 3,2 kilometer zijn een onverharde weg met gemiddeld 8-9 %.",
+        "car": "Vanuit Beaufort via Arêches, of vanuit het dal van Aime. De weg is alleen tot Pichu geasfalteerd: het bovenste deel is onverhard, en de laatste kilometers van beide zijden zijn onverhard of in slechte staat.",
+        "public_transport": null
+      },
+      "meta_description": "Col in de Beaufortain op 2 107 m. Het asfalt houdt op bij Pichu: de laatste 3,2 kilometer zijn een onverharde weg met 8-9 %. Niet te verwarren met de Cormet de Roselend.",
+      "meta_title": "Cormet d'Arêches · 2 107 m, onverharde weg, toegang",
+      "name": "Cormet d'Arêches",
+      "name_alternates": [
+        "Cormet d'Areches",
+        "Cormet d'Arêches (Beaufortain)"
+      ],
+      "practical_info": [
+        {
+          "k": "Hoogte",
+          "v": "2 107 m"
+        },
+        {
+          "k": "Coördinaten",
+          "v": null
+        },
+        {
+          "k": "Staat van de weg",
+          "v": "Alleen tot Pichu geasfalteerd. De laatste 3,2 kilometer zijn een onverharde weg met gemiddeld 8-9 %; de laatste kilometers van beide zijden zijn onverhard of in slechte staat."
+        },
+        {
+          "k": "Verbindt",
+          "v": "Het dal van Beaufort, via Arêches, met het dal van Aime"
+        },
+        {
+          "k": "Seizoensbereikbaarheid",
+          "v": "Het toeristenbureau schrijft « doorgaans bereikbaar van 15 juni tot 15 oktober », een formulering die het woordelijk ook voor de Cormet de Roselend gebruikt. Het is geen officiële periode."
+        },
+        {
+          "k": "Opening 2026",
+          "v": null
+        },
+        {
+          "k": "Sluiting 2026",
+          "v": null
+        },
+        {
+          "k": "Tarief",
+          "v": "Gratis, vrije toegang"
+        },
+        {
+          "k": "Voorzieningen op de col",
+          "v": "Geen gedocumenteerd"
+        },
+        {
+          "k": "Dieren",
+          "v": null
+        },
+        {
+          "k": "Toegankelijkheid",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Uitzichtpunt",
+        "Vertrekpunt voor wandelingen"
+      ],
+      "when_to_visit": "<p>Het toeristenbureau geeft de col als « doorgaans bereikbaar van 15 juni tot 15 oktober », maar gebruikt dezelfde zin voor een andere col: te beschouwen als een orde van grootte, niet als een periode. Er is geen datum voor 2026 gepubliceerd. Controleer de staat van de weg, en bedenk dat het bovenste deel onverhard is.</p>"
     }
   },
   "latitude": null,

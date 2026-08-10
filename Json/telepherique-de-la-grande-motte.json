@@ -37,6 +37,129 @@
   "hero_credit": "Ian Gratton from Sutton-n-Craven, North Yorkshire, England · CC BY 2.0 · Wikimedia Commons",
   "hero_image": "/img/telecabines/telepherique-de-la-grande-motte-hero.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Die Bergstation liegt auf 3 456 m. Eine Panoramaterrasse wird beschrieben, aber nur auf den englischen Seiten der Website des Skiorts, deren Preisinhalte sich als Stand 2024 erweisen: Wir veröffentlichen sie nicht als bestätigte Einrichtung, und wir übernehmen mangels verlässlicher Quelle keine Liste sichtbarer Gipfel.",
+          "tag": null,
+          "title": "Zum Gletscher der Grande Motte hinauffahren (3 456 m)"
+        },
+        {
+          "description": "Von Val Claret auf 3 032 m im Tunnel: 921 m Höhenunterschied, 334 Personen pro Bergfahrt. Länge mit 3 491 m oder 3 484 m und Fahrtdauer mit 4 min 51 s oder 6 min je nach Quelle angegeben; Jahr der Inbetriebnahme 1993 oder 1989. In den MYTIGNES-Karten ab 3 Tagen enthalten.",
+          "tag": null,
+          "title": "Die Standseilbahn Perce-Neige nehmen"
+        },
+        {
+          "description": "Angekündigt nur vom 20. Juni bis 15. Juli 2026, zwischen 3 456 m und 2 724 m. Vor der Auffahrt prüfen: Die Saison wurde stark verkürzt.",
+          "tag": "Sommer",
+          "title": "Im Sommer auf dem Gletscher Ski fahren"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>Seilbahn Grande Motte</strong> verbindet 3 034 m mit 3 456 m oberhalb von Tignes, auf dem gleichnamigen Gletscher. Man erreicht sie zunächst mit der Standseilbahn Perce-Neige, die vom Val Claret im Tunnel bis auf 3 032 m hinauffährt — dessen Höhe von einer Quelle mit 2 111 m und von einer anderen mit 2 100 m angegeben wird.</p><p>Die Seilbahn ist eine Von-Roll-Anlage von 1975, modernisiert zwischen 2016 und 2018, 1 696 m schräge Länge bei 421 m Höhenunterschied, rund fünf Minuten Fahrt. Ihre Kapazität pro Kabine ist nicht publizierbar: Die Anlage wird historisch als « TPH115 » bezeichnet, aber bei der Renovierung wurden Kabinen mit 100 Plätzen eingebaut.</p><p>Seit dem 1. Juni 2026 wird das Gebiet von der SPL ALTTA betrieben, die die Compagnie des Alpes und ihre Tochter STGM abgelöst hat. Der wichtigste Punkt für einen Besucher 2026: Das Sommerskifahren auf dem Gletscher ist nur vom 20. Juni bis 15. Juli angekündigt, während der Liftbetrieb für Fußgänger bis zum 28. August angekündigt ist. Vier Saisonend-Daten kursieren auf den offiziellen Kanälen, und keine Quelle bringt sie in Einklang.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Kostenpflichtig",
+        "best_season": "20. Juni – 28. August 2026 (Betrieb für Fußgänger)",
+        "commune": "Tignes",
+        "dogs": "Im Sommer auf keinem Lift erlaubt",
+        "duration": null,
+        "parking": null,
+        "tarif": "25 € Standseilbahn + Seilbahn (15 € Kind / Senior)",
+        "type": "Gletscher-Seilbahn",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Nein. Der Ticketverkauf des Betreibers kündigt das Sommerskifahren 2026 nur vom 20. Juni bis 15. Juli an. Nach diesem Datum scheint der Zugang zu den Liften Fußgängern und Mountainbikern vorbehalten zu sein, aber keine Quelle schreibt das ausdrücklich.",
+          "q": "Kann man den ganzen Sommer auf dem Gletscher der Grande Motte Ski fahren?"
+        },
+        {
+          "a": "Standseilbahn allein 12 € (7 € Kind / Senior); Standseilbahn + Seilbahn 25 € (15 €); mit der Option « roof » 35 € (25 €). Keine Quelle sagt, ob es sich um eine einfache Fahrt oder um Hin- und Rückfahrt handelt.",
+          "q": "Was kostet die Auffahrt zu Fuß?"
+        },
+        {
+          "a": "Nein. Die von Tignes veröffentlichten Zugangsbedingungen für den Sommer 2026 geben an, dass der Rollstuhl auf keinem Lift zugelassen ist. Personen mit Verletzungen an den oberen Gliedmaßen sind ausschließlich auf der Standseilbahn Perce-Neige zugelassen.",
+          "q": "Sind Rollstühle zugelassen?"
+        },
+        {
+          "a": "Nein. Die Zugangsbedingungen für den Sommer 2026 geben an, dass Tiere auf keinem Lift zugelassen sind.",
+          "q": "Sind Hunde erlaubt?"
+        },
+        {
+          "a": "Die SPL ALTTA seit dem 1. Juni 2026, als Nachfolger der Compagnie des Alpes über ihre Tochter STGM. Einige offizielle Seiten führen noch den früheren Betreiber auf.",
+          "q": "Wer betreibt das Skigebiet von Tignes?"
+        }
+      ],
+      "hero": {
+        "badge": "Kostenpflichtig · Sommerski 2026 verkürzt",
+        "lead": "Die Seilbahn Grande Motte steigt von 3 034 m auf 3 456 m oberhalb von Tignes, an der Endstation der Standseilbahn Perce-Neige. 2026 läuft das Sommerskifahren nur vom 20. Juni bis 15. Juli: Das ist die Angabe, die vor der Auffahrt zu prüfen ist."
+      },
+      "hero_alt": "Seilbahn Grande Motte oberhalb von Tignes, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Val Claret, Tignes (73320). Bislang keine belegten Parkinformationen.",
+        "public_transport": null
+      },
+      "meta_description": "Von 3 034 m auf 3 456 m oberhalb von Tignes, am Ende der Standseilbahn Perce-Neige. Sommerski 2026: nur 20. Juni – 15. Juli. Weder Tiere noch Rollstühle auf den Liften.",
+      "meta_title": "Seilbahn Grande Motte (Tignes) · Geprüfte Fakten 2026",
+      "name": "Seilbahn Grande Motte",
+      "name_alternates": [
+        "Grande Motte",
+        "Glacier de la Grande Motte",
+        "Funiculaire Perce-Neige"
+      ],
+      "practical_info": [
+        {
+          "k": "Höhe",
+          "v": "Seilbahn 3 034 m → 3 456 m. Standseilbahn Perce-Neige: Ankunft 3 032 m, Abfahrt je nach Quelle mit 2 111 m oder 2 100 m angegeben."
+        },
+        {
+          "k": "Betreiber",
+          "v": "SPL ALTTA seit dem 1. Juni 2026 (zuvor Compagnie des Alpes über die STGM). Bestätigter Kontakt: info@altta.fr."
+        },
+        {
+          "k": "Sommerski 2026",
+          "v": "Vom 20. Juni bis 15. Juli 2026 laut dem Ticketverkauf des Betreibers.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Betrieb für Fußgänger 2026",
+          "v": "Vom 20. Juni bis 28. August 2026 laut der Seite « Höhenerlebnisse » des Betreibers. Drei weitere End-Daten kursieren: 15. Juli, 30. August und 6. September. Ungeklärt.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Fußgängerpreise 2026",
+          "v": "Standseilbahn allein 12 € / 7 €. Standseilbahn + Seilbahn 25 € / 15 €. Mit der Option « roof » 35 € / 25 €. Keine Quelle gibt an, ob es sich um eine einfache Fahrt oder um Hin- und Rückfahrt handelt.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Haustiere",
+          "v": "Im Sommer 2026 auf keinem Lift zugelassen."
+        },
+        {
+          "k": "Barrierefreiheit",
+          "v": "Rollstuhl im Sommer 2026 auf keinem Lift zugelassen. Personen mit Verletzungen an den unteren Gliedmaßen nicht zugelassen; mit Verletzungen an den oberen Gliedmaßen ausschließlich auf der Standseilbahn Perce-Neige zugelassen. Kinderwagen verboten."
+        },
+        {
+          "k": "Kinder",
+          "v": "Babytrage für Kinder unter 90 cm auf dem Perce-Neige vorgeschrieben, auf den anderen Liften nicht zugelassen. Fußgänger unter 1,25 m in Begleitung eines Erwachsenen."
+        },
+        {
+          "k": "Parkplatz",
+          "v": null
+        },
+        {
+          "k": "GPS-Koordinaten",
+          "v": null
+        }
+      ],
+      "schema_amenities": [],
+      "when_to_visit": "<p>Zum Skifahren: vom 20. Juni bis 15. Juli 2026 laut Betreiber. Für die Auffahrt zu Fuß: bis zum 28. August 2026 laut derselben Quelle, aber drei weitere End-Daten sind im Umlauf. Rufen Sie ALTTA an oder schreiben Sie, bevor Sie sich auf den Weg machen.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -156,6 +279,129 @@
       ],
       "schema_amenities": [],
       "when_to_visit": "<p>To ski: 20 June to 15 July 2026 per the operator. To ride up on foot: to 28 August 2026 per the same source, but three other end dates circulate. Contact ALTTA before travelling.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "La llegada está a 3 456 m. Allí se describe una terraza panorámica, pero únicamente en las páginas inglesas del sitio de la estación, cuyo contenido tarifario resulta datar de 2024: no la publicamos como equipamiento confirmado, y no recogemos ninguna lista de cimas visibles a falta de fuente fiable.",
+          "tag": null,
+          "title": "Subir al glaciar de la Grande Motte (3 456 m)"
+        },
+        {
+          "description": "Del Val Claret a 3 032 m en túnel: 921 m de desnivel, 334 personas en la subida. Longitud indicada en 3 491 m o 3 484 m y duración en 4 min 51 s o 6 min según las fuentes; año de puesta en servicio 1993 o 1989. Incluido en las tarjetas MYTIGNES de 3 días o más.",
+          "tag": null,
+          "title": "Tomar el Funicular Perce-Neige"
+        },
+        {
+          "description": "Anunciado solo del 20 de junio al 15 de julio de 2026, entre 3 456 m y 2 724 m. Verifique antes de subir: la temporada se ha acortado mucho.",
+          "tag": "Verano",
+          "title": "Esquiar en el glaciar en verano"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>Teleférico de la Grande Motte</strong> une los 3 034 m con los 3 456 m por encima de Tignes, en el glaciar del mismo nombre. Se accede primero por el Funicular Perce-Neige, que sube en túnel hasta 3 032 m desde el Val Claret — cuya altitud figura en 2 111 m según una fuente y en 2 100 m según otra.</p><p>El teleférico es un Von Roll de 1975, modernizado entre 2016 y 2018, con 1 696 m de longitud desarrollada para 421 m de desnivel, unos cinco minutos de trayecto. Su capacidad por cabina no puede publicarse: la instalación se designa históricamente « TPH115 » pero la renovación instaló cabinas de 100 plazas.</p><p>Desde el 1 de junio de 2026, el dominio lo explota la SPL ALTTA, que sustituyó a la Compagnie des Alpes y a su filial STGM. El punto más importante para un visitante en 2026: el esquí de verano en el glaciar se anuncia solo del 20 de junio al 15 de julio, mientras que la explotación de los remontes para los peatones se anuncia hasta el 28 de agosto. Cuatro fechas de fin de temporada circulan en los soportes oficiales y ninguna fuente las reconcilia.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "De pago",
+        "best_season": "20 de junio – 28 de agosto de 2026 (explotación peatonal)",
+        "commune": "Tignes",
+        "dogs": "No admitidos en ningún remonte en verano",
+        "duration": null,
+        "parking": null,
+        "tarif": "25 € funicular + teleférico (15 € niño / sénior)",
+        "type": "Teleférico de glaciar",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "No. La taquilla del operador anuncia el esquí de verano 2026 solo del 20 de junio al 15 de julio. Después de esa fecha, el acceso a los remontes parece reservado a peatones y ciclistas de BTT, pero ninguna fuente lo escribe explícitamente.",
+          "q": "¿Se puede esquiar todo el verano en el glaciar de la Grande Motte?"
+        },
+        {
+          "a": "Funicular solo 12 € (7 € niño / sénior); funicular + teleférico 25 € (15 €); con la opción « roof » 35 € (25 €). Ninguna fuente dice si se trata de un trayecto sencillo o de ida y vuelta.",
+          "q": "¿Cuánto cuesta la subida a pie?"
+        },
+        {
+          "a": "No. Las condiciones de acceso del verano 2026 publicadas por Tignes indican que la silla de ruedas no está autorizada en ningún remonte. Las personas con lesiones en los miembros superiores están admitidas únicamente en el Funicular Perce-Neige.",
+          "q": "¿Se aceptan las sillas de ruedas?"
+        },
+        {
+          "a": "No. Las condiciones de acceso del verano 2026 indican que los animales no están autorizados en ningún remonte.",
+          "q": "¿Están admitidos los perros?"
+        },
+        {
+          "a": "La SPL ALTTA desde el 1 de junio de 2026, en sustitución de la Compagnie des Alpes a través de su filial STGM. Algunas páginas oficiales todavía listan al antiguo operador.",
+          "q": "¿Quién explota el dominio de Tignes?"
+        }
+      ],
+      "hero": {
+        "badge": "De pago · Esquí de verano acortado en 2026",
+        "lead": "El Teleférico de la Grande Motte sube de 3 034 m a 3 456 m por encima de Tignes, en el término del Funicular Perce-Neige. En 2026 el esquí de verano solo va del 20 de junio al 15 de julio: es el dato que hay que verificar antes de subir."
+      },
+      "hero_alt": "Teleférico de la Grande Motte por encima de Tignes, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Val Claret, Tignes (73320). Ninguna información de aparcamiento con fuente hasta la fecha.",
+        "public_transport": null
+      },
+      "meta_description": "De 3 034 m a 3 456 m por encima de Tignes, al final del Funicular Perce-Neige. Esquí de verano 2026: solo del 20 de junio al 15 de julio. Ni animales ni sillas de ruedas en los remontes.",
+      "meta_title": "Teleférico de la Grande Motte (Tignes) · Datos verificados 2026",
+      "name": "Teleférico de la Grande Motte",
+      "name_alternates": [
+        "Grande Motte",
+        "Glacier de la Grande Motte",
+        "Funiculaire Perce-Neige"
+      ],
+      "practical_info": [
+        {
+          "k": "Altitud",
+          "v": "Teleférico 3 034 m → 3 456 m. Funicular Perce-Neige: llegada 3 032 m, salida indicada en 2 111 m o 2 100 m según la fuente."
+        },
+        {
+          "k": "Operador",
+          "v": "SPL ALTTA desde el 1 de junio de 2026 (antes Compagnie des Alpes a través de la STGM). Contacto confirmado: info@altta.fr."
+        },
+        {
+          "k": "Esquí de verano 2026",
+          "v": "Del 20 de junio al 15 de julio de 2026 según la taquilla del operador.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Explotación peatonal 2026",
+          "v": "Del 20 de junio al 28 de agosto de 2026 según la página « experiencias de altura » del operador. Circulan otras tres fechas de cierre: 15 de julio, 30 de agosto y 6 de septiembre. Sin resolver.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Tarifas peatonales 2026",
+          "v": "Funicular solo 12 € / 7 €. Funicular + teleférico 25 € / 15 €. Con la opción « roof » 35 € / 25 €. Ninguna fuente indica si se trata de un trayecto sencillo o de ida y vuelta.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Animales",
+          "v": "No autorizados en ningún remonte en verano de 2026."
+        },
+        {
+          "k": "Accesibilidad",
+          "v": "Silla de ruedas no autorizada en ningún remonte en verano de 2026. Personas con lesiones en los miembros inferiores no autorizadas; con lesiones en los miembros superiores autorizadas únicamente en el Funicular Perce-Neige. Carritos de bebé prohibidos."
+        },
+        {
+          "k": "Niños",
+          "v": "Portabebés obligatorio para los niños de menos de 90 cm en el Perce-Neige, no autorizado en los demás remontes. Peatones de menos de 1,25 m acompañados de un adulto."
+        },
+        {
+          "k": "Aparcamiento",
+          "v": null
+        },
+        {
+          "k": "Coordenadas GPS",
+          "v": null
+        }
+      ],
+      "schema_amenities": [],
+      "when_to_visit": "<p>Para esquiar: del 20 de junio al 15 de julio de 2026 según el operador. Para subir a pie: hasta el 28 de agosto de 2026 según la misma fuente, pero circulan otras tres fechas de cierre. Llame o escriba a ALTTA antes de desplazarse.</p>"
     },
     "fr": {
       "activities": [
@@ -279,6 +525,252 @@
       ],
       "schema_amenities": [],
       "when_to_visit": "<p>Pour skier : du 20 juin au 15 juillet 2026 selon l'exploitant. Pour monter à pied : jusqu'au 28 août 2026 selon la même source, mais trois autres dates de fin circulent. Appelez ou écrivez à ALTTA avant de vous déplacer.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "L'arrivo è a 3 456 m. Una terrazza panoramica vi è descritta, ma unicamente dalle pagine inglesi del sito della stazione, il cui contenuto tariffario risulta risalire al 2024: non la pubblichiamo come attrezzatura confermata, e non riprendiamo alcuna lista di vette visibili in mancanza di una fonte affidabile.",
+          "tag": null,
+          "title": "Salire al ghiacciaio della Grande Motte (3 456 m)"
+        },
+        {
+          "description": "Da Val Claret a 3 032 m in galleria: 921 m di dislivello, 334 persone in salita. Lunghezza indicata a 3 491 m o 3 484 m e durata a 4 min 51 s o 6 min a seconda delle fonti; anno di messa in servizio 1993 o 1989. Incluso nelle tessere MYTIGNES da 3 giorni in su.",
+          "tag": null,
+          "title": "Prendere la funicolare Perce-Neige"
+        },
+        {
+          "description": "Annunciato solo dal 20 giugno al 15 luglio 2026, tra 3 456 m e 2 724 m. Verificare prima di salire: la stagione è stata fortemente accorciata.",
+          "tag": "Estate",
+          "title": "Sciare sul ghiacciaio in estate"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>Funivia della Grande Motte</strong> collega 3 034 m a 3 456 m sopra Tignes, sul ghiacciaio omonimo. Vi si accede prima con la funicolare Perce-Neige, che sale in galleria fino a 3 032 m da Val Claret — la cui altitudine è indicata a 2 111 m da una fonte e a 2 100 m da un'altra.</p><p>La funivia è una Von Roll del 1975, modernizzata tra il 2016 e il 2018, 1 696 m di lunghezza sviluppata per 421 m di dislivello, circa cinque minuti di tragitto. La sua capacità per cabina non è pubblicabile: l'impianto è storicamente designato « TPH115 » ma la ristrutturazione ha installato cabine da 100 posti.</p><p>Dal 1° giugno 2026 il comprensorio è gestito dalla SPL ALTTA, che ha sostituito la Compagnie des Alpes e la sua filiale STGM. Il punto più importante per un visitatore 2026: lo sci estivo sul ghiacciaio è annunciato solo dal 20 giugno al 15 luglio, mentre l'esercizio degli impianti per i pedoni è annunciato fino al 28 agosto. Quattro date di fine stagione circolano sui supporti ufficiali e nessuna fonte le riconcilia.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "A pagamento",
+        "best_season": "20 giugno – 28 agosto 2026 (esercizio pedoni)",
+        "commune": "Tignes",
+        "dogs": "Non ammessi su alcun impianto in estate",
+        "duration": null,
+        "parking": null,
+        "tarif": "25 € funicolare + funivia (15 € bambino / senior)",
+        "type": "Funivia di ghiacciaio",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "No. La biglietteria del gestore annuncia lo sci estivo 2026 solo dal 20 giugno al 15 luglio. Dopo questa data, l'accesso agli impianti sembra riservato ai pedoni e ai ciclisti di mountain bike, ma nessuna fonte lo scrive esplicitamente.",
+          "q": "Si può sciare tutta l'estate sul ghiacciaio della Grande Motte?"
+        },
+        {
+          "a": "Solo funicolare 12 € (7 € bambino / senior); funicolare + funivia 25 € (15 €); con l'opzione « roof » 35 € (25 €). Nessuna fonte dice se si tratta di sola andata o di andata e ritorno.",
+          "q": "Quanto costa la salita a piedi?"
+        },
+        {
+          "a": "No. Le condizioni di accesso estate 2026 pubblicate da Tignes indicano che la sedia a rotelle non è autorizzata su alcun impianto. Le persone con lesioni agli arti superiori sono ammesse unicamente sulla funicolare Perce-Neige.",
+          "q": "Le sedie a rotelle sono accettate?"
+        },
+        {
+          "a": "No. Le condizioni di accesso estate 2026 indicano che gli animali non sono autorizzati su alcun impianto.",
+          "q": "I cani sono ammessi?"
+        },
+        {
+          "a": "La SPL ALTTA dal 1° giugno 2026, in sostituzione della Compagnie des Alpes tramite la sua filiale STGM. Alcune pagine ufficiali elencano ancora il vecchio gestore.",
+          "q": "Chi gestisce il comprensorio di Tignes?"
+        }
+      ],
+      "hero": {
+        "badge": "A pagamento · Sci estivo accorciato nel 2026",
+        "lead": "La Funivia della Grande Motte sale da 3 034 m a 3 456 m sopra Tignes, al capolinea della funicolare Perce-Neige. Nel 2026 lo sci estivo dura solo dal 20 giugno al 15 luglio: è il dato da verificare prima di salire."
+      },
+      "hero_alt": "Funivia della Grande Motte sopra Tignes, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Val Claret, Tignes (73320). Nessuna informazione sul parcheggio documentata a oggi.",
+        "public_transport": null
+      },
+      "meta_description": "Da 3 034 m a 3 456 m sopra Tignes, al termine della funicolare Perce-Neige. Sci estivo 2026: solo 20 giugno – 15 luglio. Né animali né sedie a rotelle sugli impianti.",
+      "meta_title": "Funivia della Grande Motte (Tignes) · Fatti verificati 2026",
+      "name": "Funivia della Grande Motte",
+      "name_alternates": [
+        "Grande Motte",
+        "Glacier de la Grande Motte",
+        "Funiculaire Perce-Neige"
+      ],
+      "practical_info": [
+        {
+          "k": "Altitudine",
+          "v": "Funivia 3 034 m → 3 456 m. Funicolare Perce-Neige: arrivo 3 032 m, partenza indicata a 2 111 m o 2 100 m a seconda della fonte."
+        },
+        {
+          "k": "Gestore",
+          "v": "SPL ALTTA dal 1° giugno 2026 (in precedenza Compagnie des Alpes tramite la STGM). Contatto confermato: info@altta.fr."
+        },
+        {
+          "k": "Sci estivo 2026",
+          "v": "Dal 20 giugno al 15 luglio 2026 secondo la biglietteria del gestore.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Esercizio pedoni 2026",
+          "v": "Dal 20 giugno al 28 agosto 2026 secondo la pagina « esperienze d'altitudine » del gestore. Tre altre date di fine circolano: 15 luglio, 30 agosto e 6 settembre. Non risolto.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Tariffe pedoni 2026",
+          "v": "Solo funicolare 12 € / 7 €. Funicolare + funivia 25 € / 15 €. Con l'opzione « roof » 35 € / 25 €. Nessuna fonte indica se si tratta di sola andata o di andata e ritorno.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Animali",
+          "v": "Non autorizzati su alcun impianto nell'estate 2026."
+        },
+        {
+          "k": "Accessibilità",
+          "v": "Sedia a rotelle non autorizzata su alcun impianto nell'estate 2026. Persone con lesioni agli arti inferiori non autorizzate; con lesioni agli arti superiori autorizzate unicamente sulla funicolare Perce-Neige. Passeggini vietati."
+        },
+        {
+          "k": "Bambini",
+          "v": "Marsupio obbligatorio per i bambini sotto i 90 cm sul Perce-Neige, non autorizzato sugli altri impianti. Pedoni sotto 1,25 m accompagnati da un adulto."
+        },
+        {
+          "k": "Parcheggio",
+          "v": null
+        },
+        {
+          "k": "Coordinate GPS",
+          "v": null
+        }
+      ],
+      "schema_amenities": [],
+      "when_to_visit": "<p>Per sciare: dal 20 giugno al 15 luglio 2026 secondo il gestore. Per salire a piedi: fino al 28 agosto 2026 secondo la stessa fonte, ma tre altre date di fine circolano. Chiamate o scrivete ad ALTTA prima di mettervi in viaggio.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "De aankomst ligt op 3 456 m. Er wordt een panoramaterras beschreven, maar alleen door de Engelse pagina's van de site van het skidorp, waarvan de tariefinformatie uit 2024 blijkt te dateren: wij publiceren het niet als een bevestigde voorziening, en wij nemen geen lijst van zichtbare toppen over bij gebrek aan een betrouwbare bron.",
+          "tag": null,
+          "title": "Naar de gletsjer van de Grande Motte klimmen (3 456 m)"
+        },
+        {
+          "description": "Van Val Claret naar 3 032 m door een tunnel: 921 m hoogteverschil, 334 personen per rit omhoog. Lengte gegeven als 3 491 m of 3 484 m en duur als 4 min 51 s of 6 min afhankelijk van de bron; jaar van ingebruikname 1993 of 1989. Inbegrepen in de MYTIGNES-kaarten van 3 dagen en meer.",
+          "tag": null,
+          "title": "De kabeltrein Perce-Neige nemen"
+        },
+        {
+          "description": "Aangekondigd van 20 juni tot slechts 15 juli 2026, tussen 3 456 m en 2 724 m. Controleer dit voordat u omhoog gaat: het seizoen is sterk ingekort.",
+          "tag": "Zomer",
+          "title": "In de zomer skiën op de gletsjer"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>Kabelbaan La Grande Motte</strong> verbindt 3 034 m met 3 456 m boven Tignes, op de gelijknamige gletsjer. Men bereikt hem eerst via de kabeltrein Perce-Neige, die door een tunnel klimt tot 3 032 m vanuit Val Claret — waarvan de hoogte door de ene bron op 2 111 m en door de andere op 2 100 m wordt gegeven.</p><p>De kabelbaan is een Von Roll uit 1975, gemoderniseerd tussen 2016 en 2018, 1 696 m ontwikkelde lengte voor 421 m hoogteverschil, ongeveer vijf minuten reistijd. De capaciteit per cabine is niet vast te stellen: de installatie wordt van oudsher « TPH115 » genoemd, maar bij de renovatie zijn cabines van 100 plaatsen geïnstalleerd.</p><p>Sinds 1 juni 2026 wordt het skigebied geëxploiteerd door de SPL ALTTA, die de Compagnie des Alpes en haar dochter STGM heeft vervangen. Het belangrijkste punt voor een bezoeker in 2026: het zomerskiën op de gletsjer is aangekondigd van 20 juni tot slechts 15 juli, terwijl de exploitatie van de liften voor voetgangers is aangekondigd tot 28 augustus. Vier einddata van het seizoen circuleren op de officiële kanalen en geen enkele bron brengt ze met elkaar in overeenstemming.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Betalend",
+        "best_season": "20 juni – 28 augustus 2026 (exploitatie voetgangers)",
+        "commune": "Tignes",
+        "dogs": "In de zomer op geen enkele lift toegestaan",
+        "duration": null,
+        "parking": null,
+        "tarif": "25 € kabeltrein + kabelbaan (15 € kind / senior)",
+        "type": "Gletsjerkabelbaan",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Nee. De kassa van de exploitant kondigt het zomerskiën 2026 aan van 20 juni tot slechts 15 juli. Na die datum lijkt de toegang tot de liften voorbehouden aan voetgangers en mountainbikers, maar geen enkele bron schrijft dat uitdrukkelijk.",
+          "q": "Kan men de hele zomer skiën op de gletsjer van de Grande Motte?"
+        },
+        {
+          "a": "Alleen de kabeltrein 12 € (7 € kind / senior); kabeltrein + kabelbaan 25 € (15 €); met de optie « roof » 35 € (25 €). Geen enkele bron zegt of het om een enkele rit of een retour gaat.",
+          "q": "Hoeveel kost de rit voor voetgangers?"
+        },
+        {
+          "a": "Nee. De door Tignes gepubliceerde toegangsvoorwaarden voor de zomer van 2026 geven aan dat de rolstoel op geen enkele lift is toegestaan. Personen met een blessure aan de bovenste ledematen worden alleen op de kabeltrein Perce-Neige toegelaten.",
+          "q": "Worden rolstoelen toegelaten?"
+        },
+        {
+          "a": "Nee. De toegangsvoorwaarden voor de zomer van 2026 geven aan dat dieren op geen enkele lift zijn toegestaan.",
+          "q": "Zijn honden toegestaan?"
+        },
+        {
+          "a": "De SPL ALTTA sinds 1 juni 2026, ter vervanging van de Compagnie des Alpes via haar dochter STGM. Sommige officiële pagina's vermelden nog de vorige exploitant.",
+          "q": "Wie exploiteert het skigebied van Tignes?"
+        }
+      ],
+      "hero": {
+        "badge": "Betalend · Zomerskiën ingekort in 2026",
+        "lead": "De Kabelbaan La Grande Motte klimt van 3 034 m naar 3 456 m boven Tignes, aan het eindpunt van de kabeltrein Perce-Neige. In 2026 loopt het zomerskiën slechts van 20 juni tot 15 juli: dat is het gegeven om te controleren voordat u omhoog gaat."
+      },
+      "hero_alt": "Kabelbaan La Grande Motte boven Tignes, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Val Claret, Tignes (73320). Tot op heden geen gedocumenteerde parkeerinformatie.",
+        "public_transport": null
+      },
+      "meta_description": "Van 3 034 m naar 3 456 m boven Tignes, aan het einde van de kabeltrein Perce-Neige. Zomerskiën 2026: alleen 20 juni – 15 juli. Geen dieren en geen rolstoelen op de liften.",
+      "meta_title": "Kabelbaan La Grande Motte (Tignes) · Geverifieerde feiten 2026",
+      "name": "Kabelbaan La Grande Motte",
+      "name_alternates": [
+        "Grande Motte",
+        "Glacier de la Grande Motte",
+        "Funiculaire Perce-Neige"
+      ],
+      "practical_info": [
+        {
+          "k": "Hoogte",
+          "v": "Kabelbaan 3 034 m → 3 456 m. Kabeltrein Perce-Neige: aankomst 3 032 m, vertrek gegeven als 2 111 m of 2 100 m afhankelijk van de bron."
+        },
+        {
+          "k": "Exploitant",
+          "v": "SPL ALTTA sinds 1 juni 2026 (voorheen Compagnie des Alpes via de STGM). Bevestigd contact: info@altta.fr."
+        },
+        {
+          "k": "Zomerskiën 2026",
+          "v": "Van 20 juni tot 15 juli 2026 volgens de kassa van de exploitant.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Exploitatie voetgangers 2026",
+          "v": "Van 20 juni tot 28 augustus 2026 volgens de pagina « hoogte-ervaringen » van de exploitant. Drie andere einddata circuleren: 15 juli, 30 augustus en 6 september. Niet opgelost.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Tarieven voetgangers 2026",
+          "v": "Alleen de kabeltrein 12 € / 7 €. Kabeltrein + kabelbaan 25 € / 15 €. Met de optie « roof » 35 € / 25 €. Geen enkele bron geeft aan of het om een enkele rit of een retour gaat.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Dieren",
+          "v": "In de zomer van 2026 op geen enkele lift toegestaan."
+        },
+        {
+          "k": "Toegankelijkheid",
+          "v": "Rolstoel op geen enkele lift toegestaan in de zomer van 2026. Personen met een blessure aan de onderste ledematen niet toegelaten; met een blessure aan de bovenste ledematen alleen toegelaten op de kabeltrein Perce-Neige. Kinderwagens verboden."
+        },
+        {
+          "k": "Kinderen",
+          "v": "Draagzak verplicht voor kinderen kleiner dan 90 cm op de Perce-Neige, niet toegestaan op de andere liften. Voetgangers kleiner dan 1,25 m onder begeleiding van een volwassene."
+        },
+        {
+          "k": "Parkeren",
+          "v": null
+        },
+        {
+          "k": "GPS-coördinaten",
+          "v": null
+        }
+      ],
+      "schema_amenities": [],
+      "when_to_visit": "<p>Om te skiën: van 20 juni tot 15 juli 2026 volgens de exploitant. Om te voet omhoog te gaan: tot 28 augustus 2026 volgens dezelfde bron, maar drie andere einddata circuleren. Bel of schrijf ALTTA voordat u op weg gaat.</p>"
     }
   },
   "latitude": null,

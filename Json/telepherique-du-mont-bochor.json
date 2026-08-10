@@ -37,6 +37,137 @@
   "hero_credit": "Rémih · CC BY-SA 4.0 · Wikimedia Commons",
   "hero_image": "/img/telecabines/telepherique-du-mont-bochor-hero.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Auf dem Gipfel steht eine Orientierungstafel, laut den Sekundärquellen auf 2 023 m auf dem Felsvorsprung gelegen.",
+          "tag": "Sommer",
+          "title": "Auf den Mont Bochor hinauffahren"
+        },
+        {
+          "description": "Vom Gipfel gehen mehrere Wege ab, darunter die zum Col Rosset und zum Col de la Vanoise, einem Eingangstor des Nationalparks.",
+          "tag": "Sommer",
+          "title": "Zum Col de la Vanoise aufbrechen"
+        },
+        {
+          "description": "Das Tourismusbüro bietet eine kommentierte Besichtigung hinter den Kulissen der Anlage an. Weder Daten noch Preis erfasst.",
+          "tag": null,
+          "title": "Die Kulissen der Seilbahn besichtigen"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>Seilbahn Mont-Bochor</strong> fährt vom Dorf Pralognan-la-Vanoise hinauf zum Felsvorsprung des Mont Bochor, wo laut den Sekundärquellen eine Orientierungstafel auf 2 023 m steht. Es ist der direkteste mechanische Zugang zu den Wegen zum Col Rosset und zum Col de la Vanoise, einem der Eingangstore des Nationalparks.</p><p>Zwei Details der Betriebszeiten bestimmen den Besuch. Zunächst eine <strong>Mittagspause</strong>: Die Anlage steht von 12h45 bis 13h30 still. Dann der Juni-Rhythmus: <strong>Vom 6. bis 26. Juni 2026 fährt sie nur mittwochs, samstags und sonntags</strong> und geht erst ab dem 27. Juni in den täglichen Betrieb über, bis zum 30. August.</p><p>Das Tourismusbüro veröffentlicht auf seiner Liftseite keinen Preis: Die kursierenden Beträge stammen von Weiterverbreitern und werden hier nicht übernommen.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Kostenpflichtig",
+        "best_season": "Sommer (27. Juni – 30. August 2026)",
+        "commune": "Pralognan-la-Vanoise",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Seilbahn",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin",
+          "raquettes",
+          "ski_rando"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Vom 27. Juni bis 30. August 2026, täglich. Vom 6. bis 26. Juni nur mittwochs, samstags und sonntags.",
+          "q": "Wann fährt die Seilbahn Mont-Bochor im Sommer 2026?"
+        },
+        {
+          "a": "Von 8h15 bis 12h45, dann von 13h30 bis 17h10. Es gibt tatsächlich eine 45-minütige Pause zur Mittagszeit.",
+          "q": "Wie sind die Betriebszeiten?"
+        },
+        {
+          "a": "Die Sekundärquellen verorten die Orientierungstafel auf 2 023 m auf dem Felsvorsprung. Keine Quelle nennt die Höhe der Bergstation selbst, und die offizielle Seite gibt keine an.",
+          "q": "Auf welcher Höhe kommt die Seilbahn an?"
+        },
+        {
+          "a": "Die offizielle Seite des Tourismusbüros veröffentlicht keinen Preis und verweist auf einen separaten Ticketverkauf. Die andernorts kursierenden Beträge sind nicht bestätigt und werden hier nicht übernommen.",
+          "q": "Was kostet die Auffahrt?"
+        },
+        {
+          "a": "Ja: Die Wege zum Col Rosset und zum Col de la Vanoise beginnen am Gipfel, letzterer ist ein Eingangstor des Parc national de la Vanoise. Die Regeln des Parks sind von keiner der konsultierten Quellen dokumentiert.",
+          "q": "Kann man vom Gipfel aus wandern?"
+        }
+      ],
+      "hero": {
+        "badge": "Kostenpflichtig · Pause von 12h45 bis 13h30",
+        "lead": "Die Seilbahn Mont-Bochor fährt von Pralognan hinauf zum Felsvorsprung und seiner Orientierungstafel auf 2 023 m. Im Juni fährt sie nur an drei Tagen pro Woche."
+      },
+      "hero_alt": "Seilbahn Mont-Bochor, Pralognan-la-Vanoise, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Talstation im Dorf Pralognan-la-Vanoise. Der GPS-Punkt dieser Fiche ist der eines Weges am Gipfel, nicht der Talstation.",
+        "public_transport": null
+      },
+      "meta_description": "Seilbahn von Pralognan zum Felsvorsprung des Mont Bochor und seiner Orientierungstafel auf 2 023 m. Pause von 12h45 bis 13h30; im Juni drei Tage pro Woche.",
+      "meta_title": "Seilbahn Mont-Bochor (Pralognan) · Zeiten Sommer 2026",
+      "name": "Seilbahn Mont-Bochor",
+      "name_alternates": [
+        "Mont Bochor",
+        "Téléphérique de Pralognan"
+      ],
+      "practical_info": [
+        {
+          "k": "Typ",
+          "v": "Seilbahn"
+        },
+        {
+          "k": "Höhe",
+          "v": "Orientierungstafel auf 2 023 m auf dem Felsvorsprung (Sekundärquellen). Die Höhe der Bergstation wird von keiner Quelle veröffentlicht."
+        },
+        {
+          "k": "Sommer 2026",
+          "v": "Vom 27. Juni bis 30. August 2026, täglich. Vom 6. bis 26. Juni 2026 nur mittwochs, samstags und sonntags.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Zeiten",
+          "v": "8h15–12h45 und 13h30–17h10. Mittagspause von 45 Minuten.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Taktung",
+          "v": "Eine Fahrt alle 20 Minuten (Sekundärquellen)"
+        },
+        {
+          "k": "Koordinaten",
+          "v": "45.386327° N, 6.730179° O — Weg am Gipfel laut dem DATAtourisme-Datensatz, nicht die Talstation im Dorf"
+        },
+        {
+          "k": "Preis",
+          "v": null
+        },
+        {
+          "k": "Am Gipfel",
+          "v": "Orientierungstafel, Ausgangspunkt der Wege zum Col Rosset und zum Col de la Vanoise sowie einer Mountainbike-Strecke"
+        },
+        {
+          "k": "Fahrtdauer",
+          "v": null
+        },
+        {
+          "k": "Haustiere",
+          "v": null
+        },
+        {
+          "k": "Barrierefreiheit",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Seilbahn",
+        "Orientierungstafel",
+        "Ausgangspunkt für Wanderungen"
+      ],
+      "when_to_visit": "<p>Täglicher Betrieb vom 27. Juni bis 30. August 2026. Davor, vom 6. bis 26. Juni, nur mittwochs, samstags und sonntags. In jedem Fall die Pause von 12h45 bis 13h30 einplanen.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -162,6 +293,137 @@
         "Trailhead"
       ],
       "when_to_visit": "<p>Daily running from 27 June to 30 August 2026. Before that, from 6 to 26 June, Wednesdays, Saturdays and Sundays only. In every case, allow for the 12:45–13:30 break.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "La cima cuenta con una mesa de orientación, situada a 2 023 m en el promontorio según las fuentes secundarias.",
+          "tag": "Verano",
+          "title": "Subir al Mont Bochor"
+        },
+        {
+          "description": "De la cima parten varios senderos, entre ellos los del col Rosset y del col de la Vanoise, puerta de entrada del parque nacional.",
+          "tag": "Verano",
+          "title": "Salir hacia el col de la Vanoise"
+        },
+        {
+          "description": "La oficina de turismo programa una visita comentada entre bastidores de la instalación. Ni fechas ni tarifa recogidas.",
+          "tag": null,
+          "title": "Visitar los entresijos del teleférico"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>teleférico del Mont-Bochor</strong> sube del pueblo de Pralognan-la-Vanoise hacia el promontorio del Mont Bochor, donde una mesa de orientación se sitúa a 2 023 m según las fuentes secundarias. Es el acceso mecanizado más directo hacia los senderos del col Rosset y del col de la Vanoise, una de las puertas del parque nacional.</p><p>Dos detalles de horario condicionan la visita. Primero una <strong>pausa al mediodía</strong>: la instalación se detiene de 12h45 a 13h30. Después el régimen de junio: <strong>del 6 al 26 de junio de 2026, solo funciona los miércoles, sábados y domingos</strong>, y no pasa a explotación diaria hasta el 27 de junio, hasta el 30 de agosto.</p><p>La oficina de turismo no publica ninguna tarifa en su página de remontes: los importes que circulan proceden de intermediarios y no se recogen aquí.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "De pago",
+        "best_season": "Verano (27 de junio – 30 de agosto de 2026)",
+        "commune": "Pralognan-la-Vanoise",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Teleférico",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin",
+          "raquettes",
+          "ski_rando"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Del 27 de junio al 30 de agosto de 2026, todos los días. Del 6 al 26 de junio, únicamente los miércoles, sábados y domingos.",
+          "q": "¿Cuándo funciona el teleférico del Mont-Bochor en verano de 2026?"
+        },
+        {
+          "a": "De 8h15 a 12h45, y luego de 13h30 a 17h10. Hay efectivamente una pausa de 45 minutos a mediodía.",
+          "q": "¿Cuáles son los horarios?"
+        },
+        {
+          "a": "Las fuentes secundarias sitúan la mesa de orientación a 2 023 m en el promontorio. Ninguna fuente da la altitud de la estación de llegada en sí, y la página oficial no da ninguna.",
+          "q": "¿A qué altitud llega el teleférico?"
+        },
+        {
+          "a": "La página oficial de la oficina de turismo no publica ninguna tarifa y remite a una taquilla separada. Los importes que circulan en otros medios no están confirmados y no se recogen aquí.",
+          "q": "¿Cuánto cuesta la subida?"
+        },
+        {
+          "a": "Sí: los senderos del col Rosset y del col de la Vanoise parten de la cima, siendo este último una puerta de entrada del Parc national de la Vanoise. La reglamentación del parque no está documentada por ninguna de las fuentes consultadas.",
+          "q": "¿Se puede hacer senderismo desde la cima?"
+        }
+      ],
+      "hero": {
+        "badge": "De pago · Pausa de 12h45 a 13h30",
+        "lead": "El teleférico del Mont-Bochor sube de Pralognan hacia el promontorio y su mesa de orientación, a 2 023 m. En junio, solo funciona tres días por semana."
+      },
+      "hero_alt": "Teleférico del Mont-Bochor, Pralognan-la-Vanoise, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Estación de salida en el pueblo de Pralognan-la-Vanoise. El punto GPS de esta ficha es el de un sendero en la cima, no el de la estación de salida.",
+        "public_transport": null
+      },
+      "meta_description": "Teleférico de Pralognan hacia el promontorio del Mont Bochor y su mesa de orientación a 2 023 m. Pausa de 12h45 a 13h30; en junio, tres días por semana.",
+      "meta_title": "Teleférico del Mont-Bochor (Pralognan) · Horarios verano 2026",
+      "name": "Teleférico del Mont-Bochor",
+      "name_alternates": [
+        "Mont Bochor",
+        "Téléphérique de Pralognan"
+      ],
+      "practical_info": [
+        {
+          "k": "Tipo",
+          "v": "Teleférico"
+        },
+        {
+          "k": "Altitud",
+          "v": "Mesa de orientación a 2 023 m en el promontorio (fuentes secundarias). La altitud de la estación de llegada no la publica ninguna fuente."
+        },
+        {
+          "k": "Verano 2026",
+          "v": "Del 27 de junio al 30 de agosto de 2026, todos los días. Del 6 al 26 de junio de 2026, únicamente los miércoles, sábados y domingos.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Horarios",
+          "v": "8h15–12h45 y 13h30–17h10. Pausa de 45 minutos a mediodía.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Frecuencia",
+          "v": "Una rotación cada 20 minutos (fuentes secundarias)"
+        },
+        {
+          "k": "Coordenadas",
+          "v": "45.386327° N, 6.730179° E — sendero en la cima según la cola DATAtourisme, no la estación de salida en el pueblo"
+        },
+        {
+          "k": "Tarifa",
+          "v": null
+        },
+        {
+          "k": "En la cima",
+          "v": "Mesa de orientación, salida de senderos hacia el col Rosset y el col de la Vanoise, y de un itinerario de BTT"
+        },
+        {
+          "k": "Duración del trayecto",
+          "v": null
+        },
+        {
+          "k": "Animales",
+          "v": null
+        },
+        {
+          "k": "Accesibilidad",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Teleférico",
+        "Mesa de orientación",
+        "Punto de partida de senderismo"
+      ],
+      "when_to_visit": "<p>Explotación diaria del 27 de junio al 30 de agosto de 2026. Antes de eso, del 6 al 26 de junio, solo los miércoles, sábados y domingos. En todos los casos, tener en cuenta la pausa de 12h45 a 13h30.</p>"
     },
     "fr": {
       "activities": [
@@ -293,6 +555,268 @@
         "Départ de randonnées"
       ],
       "when_to_visit": "<p>Exploitation quotidienne du 27 juin au 30 août 2026. Avant cela, du 6 au 26 juin, seulement les mercredis, samedis et dimanches. Dans tous les cas, tenir compte de la coupure de 12h45 à 13h30.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "La vetta ospita una tavola di orientamento, situata a 2 023 m sul promontorio secondo le fonti secondarie.",
+          "tag": "Estate",
+          "title": "Salire al Mont Bochor"
+        },
+        {
+          "description": "Dalla vetta partono diversi sentieri, tra cui quelli del col Rosset e del col de la Vanoise, porta d'ingresso del parco nazionale.",
+          "tag": "Estate",
+          "title": "Partire verso il col de la Vanoise"
+        },
+        {
+          "description": "L'ufficio del turismo programma una visita commentata dietro le quinte dell'impianto. Né date né tariffa rilevate.",
+          "tag": null,
+          "title": "Visitare le quinte della funivia"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>Funivia del Mont-Bochor</strong> sale dal villaggio di Pralognan-la-Vanoise verso il promontorio del Mont Bochor, dove una tavola di orientamento è situata a 2 023 m secondo le fonti secondarie. È l'accesso meccanizzato più diretto verso i sentieri del col Rosset e del col de la Vanoise, una delle porte del parco nazionale.</p><p>Due dettagli di orario condizionano la visita. Anzitutto una <strong>pausa di mezzogiorno</strong>: l'impianto si ferma dalle 12h45 alle 13h30. Poi il regime di giugno: <strong>dal 6 al 26 giugno 2026 funziona solo il mercoledì, il sabato e la domenica</strong>, e passa all'esercizio quotidiano solo a partire dal 27 giugno, fino al 30 agosto.</p><p>L'ufficio del turismo non pubblica alcuna tariffa sulla sua pagina degli impianti: gli importi che circolano provengono da siti terzi e non vengono ripresi qui.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "A pagamento",
+        "best_season": "Estate (27 giugno – 30 agosto 2026)",
+        "commune": "Pralognan-la-Vanoise",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Funivia",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin",
+          "raquettes",
+          "ski_rando"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Dal 27 giugno al 30 agosto 2026, tutti i giorni. Dal 6 al 26 giugno, solo il mercoledì, il sabato e la domenica.",
+          "q": "Quando funziona la Funivia del Mont-Bochor nell'estate 2026?"
+        },
+        {
+          "a": "Dalle 8h15 alle 12h45, poi dalle 13h30 alle 17h10. C'è effettivamente una pausa di 45 minuti a metà giornata.",
+          "q": "Quali sono gli orari?"
+        },
+        {
+          "a": "Le fonti secondarie situano la tavola di orientamento a 2 023 m sul promontorio. Nessuna fonte indica l'altitudine della stazione di arrivo stessa, e la pagina ufficiale non ne indica alcuna.",
+          "q": "A che altitudine arriva la funivia?"
+        },
+        {
+          "a": "La pagina ufficiale dell'ufficio del turismo non pubblica alcuna tariffa e rinvia a una biglietteria separata. Gli importi che circolano altrove non sono confermati e non vengono ripresi qui.",
+          "q": "Quanto costa la salita?"
+        },
+        {
+          "a": "Sì: i sentieri del col Rosset e del col de la Vanoise partono dalla vetta, quest'ultimo essendo una porta d'ingresso del Parc national de la Vanoise. La regolamentazione del parco non è documentata da alcuna delle fonti consultate.",
+          "q": "Si può fare escursionismo dalla vetta?"
+        }
+      ],
+      "hero": {
+        "badge": "A pagamento · Pausa dalle 12h45 alle 13h30",
+        "lead": "La Funivia del Mont-Bochor sale da Pralognan verso il promontorio e la sua tavola di orientamento, a 2 023 m. In giugno funziona solo tre giorni a settimana."
+      },
+      "hero_alt": "Funivia del Mont-Bochor, Pralognan-la-Vanoise, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Stazione di partenza nel villaggio di Pralognan-la-Vanoise. Il punto GPS di questa scheda è quello di un sentiero in vetta, non della stazione di partenza.",
+        "public_transport": null
+      },
+      "meta_description": "Funivia da Pralognan verso il promontorio del Mont Bochor e la sua tavola di orientamento a 2 023 m. Pausa dalle 12h45 alle 13h30; in giugno, tre giorni a settimana.",
+      "meta_title": "Funivia del Mont-Bochor (Pralognan) · Orari estate 2026",
+      "name": "Funivia del Mont-Bochor",
+      "name_alternates": [
+        "Mont Bochor",
+        "Téléphérique de Pralognan"
+      ],
+      "practical_info": [
+        {
+          "k": "Tipo",
+          "v": "Funivia"
+        },
+        {
+          "k": "Altitudine",
+          "v": "Tavola di orientamento a 2 023 m sul promontorio (fonti secondarie). L'altitudine della stazione di arrivo non è pubblicata da alcuna fonte."
+        },
+        {
+          "k": "Estate 2026",
+          "v": "Dal 27 giugno al 30 agosto 2026, tutti i giorni. Dal 6 al 26 giugno 2026, solo il mercoledì, il sabato e la domenica.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Orari",
+          "v": "8h15–12h45 e 13h30–17h10. Pausa di mezzogiorno di 45 minuti.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Frequenza",
+          "v": "Una rotazione ogni 20 minuti (fonti secondarie)"
+        },
+        {
+          "k": "Coordinate",
+          "v": "45.386327° N, 6.730179° E — sentiero in vetta secondo la coda DATAtourisme, non la stazione di partenza nel villaggio"
+        },
+        {
+          "k": "Tariffa",
+          "v": null
+        },
+        {
+          "k": "In vetta",
+          "v": "Tavola di orientamento, partenza di sentieri verso il col Rosset e il col de la Vanoise, e di un itinerario per mountain bike"
+        },
+        {
+          "k": "Durata del tragitto",
+          "v": null
+        },
+        {
+          "k": "Animali",
+          "v": null
+        },
+        {
+          "k": "Accessibilità",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Funivia",
+        "Tavola di orientamento",
+        "Partenza di escursioni"
+      ],
+      "when_to_visit": "<p>Esercizio quotidiano dal 27 giugno al 30 agosto 2026. Prima di allora, dal 6 al 26 giugno, solo il mercoledì, il sabato e la domenica. In ogni caso, tenere conto della pausa dalle 12h45 alle 13h30.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Op de top staat een oriëntatietafel, gelegen op 2 023 m op de uitloper volgens de secundaire bronnen.",
+          "tag": "Zomer",
+          "title": "Naar de Mont Bochor klimmen"
+        },
+        {
+          "description": "Vanaf de top vertrekken meerdere paden, waaronder die naar de col Rosset en de col de la Vanoise, toegangspoort tot het nationaal park.",
+          "tag": "Zomer",
+          "title": "Op weg naar de col de la Vanoise"
+        },
+        {
+          "description": "Het toeristenbureau programmeert een rondleiding achter de schermen van de installatie. Data noch tarief genoteerd.",
+          "tag": null,
+          "title": "Achter de schermen van de kabelbaan kijken"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>Kabelbaan Mont-Bochor</strong> klimt van het dorp Pralognan-la-Vanoise naar de uitloper van de Mont Bochor, waar volgens de secundaire bronnen een oriëntatietafel op 2 023 m staat. Het is de meest directe mechanische toegang tot de paden naar de col Rosset en de col de la Vanoise, een van de poorten van het nationaal park.</p><p>Twee details van de dienstregeling bepalen het bezoek. Eerst een <strong>middagpauze</strong>: de installatie ligt stil van 12u45 tot 13u30. Daarna het juniregime: <strong>van 6 tot 26 juni 2026 draait hij alleen op woensdag, zaterdag en zondag</strong>, en pas vanaf 27 juni gaat hij over op dagelijkse exploitatie, tot 30 augustus.</p><p>Het toeristenbureau publiceert geen enkel tarief op zijn liftenpagina: de bedragen die circuleren komen van doorgeefkanalen en worden hier niet overgenomen.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Betalend",
+        "best_season": "Zomer (27 juni – 30 augustus 2026)",
+        "commune": "Pralognan-la-Vanoise",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Kabelbaan",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin",
+          "raquettes",
+          "ski_rando"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Van 27 juni tot 30 augustus 2026, dagelijks. Van 6 tot 26 juni alleen op woensdag, zaterdag en zondag.",
+          "q": "Wanneer werkt de Kabelbaan Mont-Bochor in de zomer van 2026?"
+        },
+        {
+          "a": "Van 8u15 tot 12u45, en daarna van 13u30 tot 17u10. Er is inderdaad een onderbreking van 45 minuten rond het middaguur.",
+          "q": "Wat zijn de openingstijden?"
+        },
+        {
+          "a": "De secundaire bronnen situeren de oriëntatietafel op 2 023 m op de uitloper. Geen enkele bron geeft de hoogte van het aankomststation zelf, en de officiële pagina geeft er geen.",
+          "q": "Op welke hoogte komt de kabelbaan aan?"
+        },
+        {
+          "a": "De officiële pagina van het toeristenbureau publiceert geen tarief en verwijst naar een aparte kassa. De bedragen die elders circuleren zijn niet bevestigd en worden hier niet overgenomen.",
+          "q": "Hoeveel kost de rit omhoog?"
+        },
+        {
+          "a": "Ja: de paden naar de col Rosset en de col de la Vanoise vertrekken vanaf de top, waarbij die laatste een toegangspoort is tot het Parc national de la Vanoise. De reglementering van het park wordt door geen van de geraadpleegde bronnen gedocumenteerd.",
+          "q": "Kan men wandelen vanaf de top?"
+        }
+      ],
+      "hero": {
+        "badge": "Betalend · Onderbreking van 12u45 tot 13u30",
+        "lead": "De Kabelbaan Mont-Bochor klimt van Pralognan naar de uitloper en zijn oriëntatietafel, op 2 023 m. In juni draait hij slechts drie dagen per week."
+      },
+      "hero_alt": "Kabelbaan Mont-Bochor, Pralognan-la-Vanoise, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Vertrekstation in het dorp Pralognan-la-Vanoise. Het GPS-punt van deze fiche is dat van een pad op de top, niet van het vertrekstation.",
+        "public_transport": null
+      },
+      "meta_description": "Kabelbaan van Pralognan naar de uitloper van de Mont Bochor en zijn oriëntatietafel op 2 023 m. Onderbreking van 12u45 tot 13u30; in juni drie dagen per week.",
+      "meta_title": "Kabelbaan Mont-Bochor (Pralognan) · Openingstijden zomer 2026",
+      "name": "Kabelbaan Mont-Bochor",
+      "name_alternates": [
+        "Mont Bochor",
+        "Téléphérique de Pralognan"
+      ],
+      "practical_info": [
+        {
+          "k": "Type",
+          "v": "Kabelbaan"
+        },
+        {
+          "k": "Hoogte",
+          "v": "Oriëntatietafel op 2 023 m op de uitloper (secundaire bronnen). De hoogte van het aankomststation wordt door geen enkele bron gepubliceerd."
+        },
+        {
+          "k": "Zomer 2026",
+          "v": "Van 27 juni tot 30 augustus 2026, dagelijks. Van 6 tot 26 juni 2026 alleen op woensdag, zaterdag en zondag.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Openingstijden",
+          "v": "8u15–12u45 en 13u30–17u10. Middagpauze van 45 minuten.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Frequentie",
+          "v": "Een rit elke 20 minuten (secundaire bronnen)"
+        },
+        {
+          "k": "Coördinaten",
+          "v": "45.386327° N, 6.730179° E — pad op de top volgens de DATAtourisme-feed, niet het vertrekstation in het dorp"
+        },
+        {
+          "k": "Tarief",
+          "v": null
+        },
+        {
+          "k": "Op de top",
+          "v": "Oriëntatietafel, vertrekpunt van paden naar de col Rosset en de col de la Vanoise, en van een mountainbikeroute"
+        },
+        {
+          "k": "Reisduur",
+          "v": null
+        },
+        {
+          "k": "Dieren",
+          "v": null
+        },
+        {
+          "k": "Toegankelijkheid",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Kabelbaan",
+        "Oriëntatietafel",
+        "Vertrekpunt voor wandelingen"
+      ],
+      "when_to_visit": "<p>Dagelijkse exploitatie van 27 juni tot 30 augustus 2026. Daarvóór, van 6 tot 26 juni, alleen op woensdag, zaterdag en zondag. Houd in alle gevallen rekening met de onderbreking van 12u45 tot 13u30.</p>"
     }
   },
   "latitude": 45.386327,

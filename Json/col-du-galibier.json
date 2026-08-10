@@ -37,6 +37,134 @@
   "hero_credit": "MOSSOT · CC BY-SA 3.0 · Wikimedia Commons",
   "hero_image": "/img/points-de-vue/col-du-galibier-hero.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Von Valloire: 18,2 km und 1 242 m Höhenunterschied laut Tourismusbüro, 17 km und 1 212 m mit 7,2 % laut Gemeindeverband. Von Saint-Michel-de-Maurienne 34,8 km und 2 085 m einschließlich des Col du Télégraphe. Seit 1979 hors catégorie.",
+          "tag": null,
+          "title": "Mit dem Fahrrad zum Pass hinauffahren"
+        },
+        {
+          "description": "Errichtet 1949 am Pass, Gemeinde Le Monêtier-les-Bains (05), Architekt Alexandre Audouze-Tabourin, Inschrift „A LA GLOIRE DE HENRI-DESGRANGES\". Marmortafel 1974 von den Audax hinzugefügt.",
+          "tag": null,
+          "title": "Das Denkmal Henri Desgrange besichtigen"
+        },
+        {
+          "description": "Aufgestellt vom Parc national des Écrins 1988: die Meije, der Grand Galibier, der Mont-Blanc.",
+          "tag": null,
+          "title": "Die Orientierungstafel lesen"
+        },
+        {
+          "description": "Auf 2 556 m, 100 m unterhalb des Passes, Gemeinde Le Monêtier-les-Bains: Bar-Restaurant, Mittagessen von 12h bis 14h30 im Sommer, 16 Schlafplätze in 5 Schlafsälen, Laden. Sommer 2026: vom 29. Mai bis zum 28. September, täglich.",
+          "tag": "Sommer",
+          "title": "Einkehr in der Refuge du Galibier"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Der <strong>Col du Galibier</strong> überquert die Grenze zwischen Savoie und den Hautes-Alpes, zwischen Valloire (73450) im Norden und Le Monêtier-les-Bains (05220) im Süden, in Richtung des Col du Lautaret. Das Tourismusbüro von Valloire und die Präfektur schreiben RD902 und RD902B; die Hautes-Alpes-Seite schreibt D902 und D902b.</p><p>Es gibt zwei Durchfahrten, und genau das wird von allen verwechselt. Der Tunnel auf 2 556 m, 370 m lang und 4 m breit, mit ampelgeregeltem Wechselverkehr, umgeht den Scheitel rund 5 km weiter unten; Radfahrer sind dort verboten. Die Scheitelstraße auf 2 642 m führt über den Pass selbst. 2026 wurde der Tunnel am Freitag, 29. Mai um Mittag wieder geöffnet und die Scheitelstraße am Freitag, 5. Juni um 12h.</p><p>Am Pass: das Denkmal Henri Desgrange, 1949 vom Architekten Alexandre Audouze-Tabourin errichtet und 1974 um eine Marmortafel ergänzt, sowie eine Orientierungstafel, 1988 vom Parc national des Écrins aufgestellt, die die Meije, den Grand Galibier und den Mont-Blanc benennt. Das Denkmal wie auch die Refuge du Galibier liegen auf dem Gebiet der Gemeinde Le Monêtier-les-Bains in den Hautes-Alpes, nicht auf der Savoie-Seite.</p>"
+      },
+      "events": "<p>Cols réservés 2026: 29. Juni, 16. Juli und 4. August, von 9h bis 12h, Scheitelstraße für Autos und Motorräder gesperrt. Galibier Challenge am 7. Juni 2026 von 9h bis 15h. L'Étape du Tour am 19. Juli 2026 von 8h30 bis 18h. Tour de France, Etappe 20, am 25. Juli 2026 von 10h bis 18h30.</p>",
+      "facts": {
+        "access": "Frei zugänglich · Kostenlos",
+        "best_season": "Juni – Oktober",
+        "commune": "Valloire",
+        "dogs": null,
+        "parking": "Parkplatz am Scheitel, Busse zugelassen; Preis nicht dokumentiert",
+        "stroller": null,
+        "type": "Passstraße und Aussichtspunkt",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "Die Scheitelstraße liegt auf 2 642 m und der Tunnel auf 2 556 m: Das sind zwei verschiedene Durchfahrten. Eine dritte Zahl, 2 645 m, kursiert in der Radsportpresse, die sie der Scheitelstraße zuordnet, wie sie zwischen 1979 und 2017 befahren wurde.",
+          "q": "Wie hoch liegt der Col du Galibier?"
+        },
+        {
+          "a": "Ja. Der Tunnel wurde am 29. Mai 2026 um Mittag wieder geöffnet und die Scheitelstraße am 5. Juni 2026 um 12h. Für 2026 ist kein Sperrtermin veröffentlicht: Prüfen Sie savoie-route.fr vor der Auffahrt.",
+          "q": "Ist der Col du Galibier 2026 geöffnet?"
+        },
+        {
+          "a": "Nein. Radfahrer sind im Tunnel verboten. Solange die Scheitelstraße nicht geöffnet ist, ist der Pass mit dem Fahrrad nicht passierbar.",
+          "q": "Kann man den Galibier mit dem Fahrrad durch den Tunnel überqueren?"
+        },
+        {
+          "a": "Die Refuge du Galibier liegt auf 2 556 m, rund 100 m unterhalb des Passes, auf dem Gebiet der Gemeinde Le Monêtier-les-Bains in den Hautes-Alpes — also nicht auf der Valloire-Seite. Sommer 2026: geöffnet vom 29. Mai bis zum 28. September, täglich.",
+          "q": "Gibt es eine Berghütte am Col du Galibier?"
+        },
+        {
+          "a": "Ja. Die Etappe 20 am Samstag, 25. Juli 2026 führt zu einer Sperrung in beiden Richtungen von 10h bis 18h30, und das Parken am Scheitel ist ab dem 24. Juli um 18h verboten.",
+          "q": "Ist die Passstraße während der Tour de France 2026 gesperrt?"
+        }
+      ],
+      "hero": {
+        "badge": "Freier Zugang · RD902B",
+        "lead": "Der Col du Galibier verbindet Valloire in Savoie mit dem Col du Lautaret in den Hautes-Alpes. Zwei Straßen, zwei Höhen, zwei Öffnungstermine: Der Tunnel auf 2 556 m wurde am 29. Mai 2026 wieder geöffnet, die Scheitelstraße auf 2 642 m am 5. Juni."
+      },
+      "hero_alt": "Col du Galibier oberhalb von Valloire, Savoie",
+      "how_to_get_there": {
+        "bike": "Von Valloire: 18,2 km und 1 242 m Höhenunterschied (OT Valloire), 17 km und 1 212 m mit 7,2 % (CC Maurienne-Galibier), 18,1 km und 1 245 m mit 6,9 % (en.wikipedia) — die Quellen weichen voneinander ab. Von Saint-Michel-de-Maurienne: 34,8 km und 2 085 m mit dem Col du Télégraphe. Erste Überquerung durch die Tour de France am 10. Juli 1911, Émile Georget als Erster am Scheitel. Radfahrer sind im Tunnel verboten: Vor der Öffnung der Scheitelstraße ist der Galibier mit dem Fahrrad nicht passierbar.",
+        "car": "Von Valloire über die RD902B im Norden oder vom Col du Lautaret im Süden. Der Tunnel (RD902) öffnet jedes Frühjahr vor der Scheitelstraße und umgeht sie rund 5 km weiter unten. Status in Echtzeit auf savoie-route.fr.",
+        "public_transport": null
+      },
+      "meta_description": "Scheitelstraße auf 2 642 m, Tunnel auf 2 556 m: zwei getrennte Öffnungen 2026, am 29. Mai und am 5. Juni. Freier Zugang von Valloire. Radfahrer im Tunnel verboten.",
+      "meta_title": "Col du Galibier · Öffnung 2026, Tunnel, Denkmal Desgrange",
+      "name": "Col du Galibier",
+      "name_alternates": [
+        "Galibier",
+        "Col du Galibier (RD902B)",
+        "Tunnel du Galibier"
+      ],
+      "practical_info": [
+        {
+          "k": "Höhe",
+          "v": "Scheitelstraße 2 642 m · Tunnel 2 556 m. Eine dritte Zahl, 2 645 m, kursiert in der Radsportpresse und entspricht der zwischen 1979 und 2017 befahrenen Scheitelstraße."
+        },
+        {
+          "k": "Koordinaten",
+          "v": "45.06419° N, 6.407758° E"
+        },
+        {
+          "k": "Öffnung 2026",
+          "v": "Tunnel: Freitag, 29. Mai 2026 um Mittag (Alpes 1). Scheitelstraße: Freitag, 5. Juni 2026 um 12h, bestätigt von valloire.net und Savoie News — der Artikel von Alpes 1 vom 29. Mai nannte dieses Datum nur im Konjunktiv. Achtung, die französische Seite von valloire.net zeigt für den Tunnel ein Datum vom 29. Juni an, was chronologisch unmöglich ist.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Sperrung 2026",
+          "v": null
+        },
+        {
+          "k": "Preis",
+          "v": "Kostenlos, freier Zugang"
+        },
+        {
+          "k": "Parkplatz",
+          "v": "Parkplatz am Scheitel, Busse zugelassen. Keine Quelle präzisiert, ob er kostenlos oder kostenpflichtig ist."
+        },
+        {
+          "k": "Maße",
+          "v": "Tunnel: Höhe unter 4,10 m, Breite unter 3,2 m, maximal 19 t, Radfahrer verboten, ampelgeregelter Wechselverkehr. Scheitelstraße: nur Fahrzeuge unter 3,5 t."
+        },
+        {
+          "k": "Tiere",
+          "v": null
+        },
+        {
+          "k": "Barrierefreiheit",
+          "v": null
+        },
+        {
+          "k": "Punktuelle Sperrungen 2026",
+          "v": "7. Juni 9h–15h (Galibier Challenge); 29. Juni, 16. Juli und 4. August 9h–12h (cols réservés, Autos und Motorräder verboten); 19. Juli 8h30–18h (L'Étape du Tour); 25. Juli 10h–18h30 in beiden Richtungen (Tour de France, Etappe 20), Parken am Scheitel ab dem 24. Juli 18h verboten.",
+          "verified": "2026-08-08"
+        }
+      ],
+      "schema_amenities": [
+        "Parkplatz",
+        "Orientierungstafel",
+        "Denkmal Henri Desgrange"
+      ],
+      "when_to_visit": "<p>Die Scheitelstraße ist von Anfang Juni bis Ende Oktober geöffnet, die Sperrung kommt mit dem ersten Schnee. 2026 hat sie am 5. Juni geöffnet; bis heute ist kein Sperrtermin veröffentlicht. Mehrere vollständige Sperrungen prägen den Sommer, vor allem am Vormittag.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -165,6 +293,134 @@
       ],
       "when_to_visit": "<p>The summit road is open from early June to late October, closing with the first snow. In 2026 it opened on 5 June; no closing date is published yet. Several full closures punctuate the summer, mostly in the morning.</p>"
     },
+    "es": {
+      "activities": [
+        {
+          "description": "Desde Valloire: 18,2 km y 1 242 m de desnivel según la oficina de turismo, 17 km y 1 212 m al 7,2 % según la mancomunidad de municipios. Desde Saint-Michel-de-Maurienne, 34,8 km y 2 085 m incluyendo el col du Télégraphe. Fuera de categoría desde 1979.",
+          "tag": null,
+          "title": "Subir al col en bicicleta"
+        },
+        {
+          "description": "Erigido en 1949 en el col, municipio de Le Monêtier-les-Bains (05), arquitecto Alexandre Audouze-Tabourin, inscripción « A LA GLOIRE DE HENRI-DESGRANGES ». Placa de mármol añadida en 1974 por los Audax.",
+          "tag": null,
+          "title": "Ver el monumento Henri Desgrange"
+        },
+        {
+          "description": "Instalada por el Parc national des Écrins en 1988: la Meije, el Grand Galibier, el Mont-Blanc.",
+          "tag": null,
+          "title": "Leer la mesa de orientación"
+        },
+        {
+          "description": "A 2 556 m, a 100 m bajo el col, municipio de Le Monêtier-les-Bains: bar-restaurante, almuerzo de 12h a 14h30 en verano, 16 plazas en 5 dormitorios, tienda. Verano 2026: del 29 de mayo al 28 de septiembre, todos los días.",
+          "tag": "Verano",
+          "title": "Parar en el refugio del Galibier"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>col du Galibier</strong> franquea el límite entre Savoie y Hautes-Alpes, entre Valloire (73450) al norte y Le Monêtier-les-Bains (05220) al sur, en dirección al col du Lautaret. La oficina de turismo de Valloire y la prefectura escriben RD902 y RD902B; la vertiente de Hautes-Alpes escribe D902 y D902b.</p><p>Hay dos pasos, y es el punto que todo el mundo confunde. El túnel, a 2 556 m, de 370 m de longitud y 4 m de ancho, con circulación alternada por semáforos, rodea la cima unos 5 km más abajo; los ciclistas están prohibidos en él. La carretera de la cima, a 2 642 m, pasa por el col mismo. En 2026 el túnel reabrió el viernes 29 de mayo al mediodía y la carretera de la cima el viernes 5 de junio a las 12h.</p><p>En el col: el monumento Henri Desgrange, erigido en 1949 por el arquitecto Alexandre Audouze-Tabourin y completado con una placa de mármol en 1974, y una mesa de orientación instalada por el Parc national des Écrins en 1988, que identifica la Meije, el Grand Galibier y el Mont-Blanc. Tanto el monumento como el refugio del Galibier se encuentran en el municipio de Le Monêtier-les-Bains, en Hautes-Alpes, y no en el lado de Savoie.</p>"
+      },
+      "events": "<p>Cols reservados 2026: 29 de junio, 16 de julio y 4 de agosto, de 9h a 12h, carretera de la cima prohibida a coches y motos. Galibier Challenge el 7 de junio de 2026 de 9h a 15h. L'Étape du Tour el 19 de julio de 2026 de 8h30 a 18h. Tour de Francia, etapa 20, el 25 de julio de 2026 de 10h a 18h30.</p>",
+      "facts": {
+        "access": "Acceso libre · Gratuito",
+        "best_season": "Junio – octubre",
+        "commune": "Valloire",
+        "dogs": null,
+        "parking": "Aparcamiento en la cima, autocares admitidos; tarifa no documentada",
+        "stroller": null,
+        "type": "Col de carretera y mirador",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "La carretera de la cima está a 2 642 m y el túnel a 2 556 m: son dos pasos diferentes. Una tercera cifra, 2 645 m, circula en la prensa ciclista, que la vincula a la carretera de la cima tal como se utilizaba entre 1979 y 2017.",
+          "q": "¿Cuál es la altitud del col du Galibier?"
+        },
+        {
+          "a": "Sí. El túnel reabrió el 29 de mayo de 2026 al mediodía y la carretera de la cima el 5 de junio de 2026 a las 12h. No se publica ninguna fecha de cierre 2026: compruébelo en savoie-route.fr antes de subir.",
+          "q": "¿Está abierto el col du Galibier en 2026?"
+        },
+        {
+          "a": "No. Los ciclistas están prohibidos en el túnel. Mientras la carretera de la cima no esté abierta, el col no es franqueable en bicicleta.",
+          "q": "¿Se puede cruzar el Galibier en bicicleta por el túnel?"
+        },
+        {
+          "a": "El refugio del Galibier está a 2 556 m, a unos 100 m bajo el col, en el municipio de Le Monêtier-les-Bains, en Hautes-Alpes — por tanto no en el lado de Valloire. Verano 2026: abierto del 29 de mayo al 28 de septiembre, todos los días.",
+          "q": "¿Hay un refugio en el col du Galibier?"
+        },
+        {
+          "a": "Sí. La etapa 20, el sábado 25 de julio de 2026, conlleva un cierre en ambos sentidos de 10h a 18h30, y el estacionamiento está prohibido en la cima desde el 24 de julio a las 18h.",
+          "q": "¿Está cerrada la carretera del col durante el Tour de Francia 2026?"
+        }
+      ],
+      "hero": {
+        "badge": "Acceso libre · RD902B",
+        "lead": "El col du Galibier une Valloire, en Savoie, con el col du Lautaret, en Hautes-Alpes. Dos carreteras, dos altitudes, dos fechas de apertura: el túnel a 2 556 m reabrió el 29 de mayo de 2026, la carretera de la cima a 2 642 m el 5 de junio."
+      },
+      "hero_alt": "Col du Galibier sobre Valloire, Savoie",
+      "how_to_get_there": {
+        "bike": "Desde Valloire: 18,2 km y 1 242 m de desnivel (OT Valloire), 17 km y 1 212 m al 7,2 % (CC Maurienne-Galibier), 18,1 km y 1 245 m al 6,9 % (en.wikipedia) — las fuentes divergen. Desde Saint-Michel-de-Maurienne: 34,8 km y 2 085 m con el col du Télégraphe. Primer paso del Tour de Francia el 10 de julio de 1911, Émile Georget primero en la cima. Los ciclistas están prohibidos en el túnel: antes de la apertura de la carretera de la cima, el Galibier no es franqueable en bicicleta.",
+        "car": "Desde Valloire por la RD902B al norte, o desde el col du Lautaret al sur. El túnel (RD902) abre antes que la carretera de la cima cada primavera y la rodea unos 5 km más abajo. Estado en tiempo real en savoie-route.fr.",
+        "public_transport": null
+      },
+      "meta_description": "Carretera de la cima a 2 642 m, túnel a 2 556 m: dos aperturas distintas en 2026, el 29 de mayo y el 5 de junio. Acceso libre desde Valloire. Ciclistas prohibidos en el túnel.",
+      "meta_title": "Col du Galibier · Apertura 2026, túnel, monumento Desgrange",
+      "name": "Col du Galibier",
+      "name_alternates": [
+        "Galibier",
+        "Col du Galibier (RD902B)",
+        "Tunnel du Galibier"
+      ],
+      "practical_info": [
+        {
+          "k": "Altitud",
+          "v": "Carretera de la cima 2 642 m · túnel 2 556 m. Una tercera cifra, 2 645 m, circula en la prensa ciclista y corresponde a la carretera de la cima utilizada entre 1979 y 2017."
+        },
+        {
+          "k": "Coordenadas",
+          "v": "45.06419° N, 6.407758° E"
+        },
+        {
+          "k": "Apertura 2026",
+          "v": "Túnel: viernes 29 de mayo de 2026 al mediodía (Alpes 1). Carretera de la cima: viernes 5 de junio de 2026 a las 12h, confirmado por valloire.net y Savoie News — el artículo de Alpes 1 del 29 de mayo solo daba esta fecha en condicional. Atención, la página francesa de valloire.net muestra para el túnel una fecha del 29 de junio, cronológicamente imposible.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Cierre 2026",
+          "v": null
+        },
+        {
+          "k": "Tarifa",
+          "v": "Gratuito, acceso libre"
+        },
+        {
+          "k": "Aparcamiento",
+          "v": "Aparcamiento en la cima, autocares admitidos. Ninguna fuente precisa si es gratuito o de pago."
+        },
+        {
+          "k": "Gálibos",
+          "v": "Túnel: altura inferior a 4,10 m, anchura inferior a 3,2 m, 19 t máximo, ciclistas prohibidos, circulación alternada por semáforos. Carretera de la cima: únicamente vehículos de menos de 3,5 t."
+        },
+        {
+          "k": "Animales",
+          "v": null
+        },
+        {
+          "k": "Accesibilidad",
+          "v": null
+        },
+        {
+          "k": "Cierres puntuales 2026",
+          "v": "7 de junio 9h–15h (Galibier Challenge); 29 de junio, 16 de julio y 4 de agosto 9h–12h (cols reservados, coches y motos prohibidos); 19 de julio 8h30–18h (L'Étape du Tour); 25 de julio 10h–18h30 en ambos sentidos (Tour de Francia, etapa 20), estacionamiento prohibido en la cima desde el 24 de julio a las 18h.",
+          "verified": "2026-08-08"
+        }
+      ],
+      "schema_amenities": [
+        "Aparcamiento",
+        "Mesa de orientación",
+        "Monumento Henri Desgrange"
+      ],
+      "when_to_visit": "<p>La carretera de la cima está abierta de principios de junio a finales de octubre, y el cierre llega con las primeras nieves. En 2026 abrió el 5 de junio; a día de hoy no se publica ninguna fecha de cierre. Varios cierres completos jalonan el verano, sobre todo por la mañana.</p>"
+    },
     "fr": {
       "activities": [
         {
@@ -198,9 +454,13 @@
         "commune": "Valloire",
         "dogs": null,
         "parking": "Parking au sommet, autocars admis ; tarif non documenté",
+        "snow_view": "alpes",
         "stroller": null,
         "type": "Col routier et point de vue",
-        "winter_access": "closed"
+        "winter_access": "closed",
+        "winter_infra": [
+          "ski_rando"
+        ]
       },
       "faq": [
         {
@@ -292,6 +552,262 @@
         "Monument Henri Desgrange"
       ],
       "when_to_visit": "<p>La route du sommet est ouverte de début juin à la fin octobre, la fermeture arrivant avec les premières neiges. En 2026 elle a ouvert le 5 juin ; aucune date de fermeture n'est publiée à ce jour. Plusieurs fermetures complètes ponctuent l'été, surtout le matin.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Da Valloire: 18,2 km e 1 242 m di dislivello secondo l'ufficio del turismo, 17 km e 1 212 m al 7,2 % secondo la comunità di comuni. Da Saint-Michel-de-Maurienne, 34,8 km e 2 085 m includendo il col du Télégraphe. Fuori categoria dal 1979.",
+          "tag": null,
+          "title": "Salire al colle in bicicletta"
+        },
+        {
+          "description": "Eretto nel 1949 al colle, comune di Le Monêtier-les-Bains (05), architetto Alexandre Audouze-Tabourin, iscrizione « A LA GLOIRE DE HENRI-DESGRANGES ». Lapide di marmo aggiunta nel 1974 dagli Audax.",
+          "tag": null,
+          "title": "Vedere il monumento Henri Desgrange"
+        },
+        {
+          "description": "Installata dal Parc national des Écrins nel 1988: la Meije, il Grand Galibier, il Mont-Blanc.",
+          "tag": null,
+          "title": "Leggere la tavola di orientamento"
+        },
+        {
+          "description": "A 2 556 m, 100 m sotto il colle, comune di Le Monêtier-les-Bains: bar-ristorante, pranzo dalle 12h alle 14h30 in estate, 16 posti letto in 5 dormitori, negozio. Estate 2026: dal 29 maggio al 28 settembre, tutti i giorni.",
+          "tag": "Estate",
+          "title": "Fermarsi al rifugio del Galibier"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Il <strong>col du Galibier</strong> supera il confine tra la Savoie e le Hautes-Alpes, tra Valloire (73450) a nord e Le Monêtier-les-Bains (05220) a sud, in direzione del col du Lautaret. L'ufficio del turismo di Valloire e la prefettura scrivono RD902 e RD902B; il versante Hautes-Alpes scrive D902 e D902b.</p><p>Ci sono due passaggi, ed è il punto che tutti confondono. Il tunnel, a 2 556 m, lungo 370 m e largo 4 m, a senso unico alternato regolato da semafori, aggira la cima circa 5 km più in basso; i ciclisti vi sono vietati. La strada della cima, a 2 642 m, passa per il colle stesso. Nel 2026 il tunnel ha riaperto venerdì 29 maggio a mezzogiorno e la strada della cima venerdì 5 giugno alle 12h.</p><p>Al colle: il monumento Henri Desgrange, eretto nel 1949 dall'architetto Alexandre Audouze-Tabourin e completato da una lapide di marmo nel 1974, e una tavola di orientamento installata dal Parc national des Écrins nel 1988, che identifica la Meije, il Grand Galibier e il Mont-Blanc. Sia il monumento sia il rifugio del Galibier si trovano nel comune di Le Monêtier-les-Bains, nelle Hautes-Alpes, e non sul lato Savoie.</p>"
+      },
+      "events": "<p>Cols réservés 2026: 29 giugno, 16 luglio e 4 agosto, dalle 9h alle 12h, strada della cima vietata ad auto e moto. Galibier Challenge il 7 giugno 2026 dalle 9h alle 15h. L'Étape du Tour il 19 luglio 2026 dalle 8h30 alle 18h. Tour de France, tappa 20, il 25 luglio 2026 dalle 10h alle 18h30.</p>",
+      "facts": {
+        "access": "Libero · Gratuito",
+        "best_season": "Giugno – ottobre",
+        "commune": "Valloire",
+        "dogs": null,
+        "parking": "Parcheggio in cima, pullman ammessi; tariffa non documentata",
+        "stroller": null,
+        "type": "Colle stradale e punto panoramico",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "La strada della cima è a 2 642 m e il tunnel a 2 556 m: sono due passaggi diversi. Una terza cifra, 2 645 m, circola nella stampa ciclistica, che la collega alla strada della cima come percorsa tra il 1979 e il 2017.",
+          "q": "Qual è l'altitudine del col du Galibier?"
+        },
+        {
+          "a": "Sì. Il tunnel ha riaperto il 29 maggio 2026 a mezzogiorno e la strada della cima il 5 giugno 2026 alle 12h. Nessuna data di chiusura 2026 è pubblicata: verificate su savoie-route.fr prima di salire.",
+          "q": "Il col du Galibier è aperto nel 2026?"
+        },
+        {
+          "a": "No. I ciclisti sono vietati nel tunnel. Finché la strada della cima non è aperta, il colle non è superabile in bicicletta.",
+          "q": "Si può superare il Galibier in bicicletta per il tunnel?"
+        },
+        {
+          "a": "Il rifugio del Galibier è a 2 556 m, circa 100 m sotto il colle, nel comune di Le Monêtier-les-Bains, nelle Hautes-Alpes — quindi non sul lato Valloire. Estate 2026: aperto dal 29 maggio al 28 settembre, tutti i giorni.",
+          "q": "C'è un rifugio al col du Galibier?"
+        },
+        {
+          "a": "Sì. La tappa 20, sabato 25 luglio 2026, comporta una chiusura in entrambi i sensi dalle 10h alle 18h30, e la sosta è vietata in cima dal 24 luglio alle 18h.",
+          "q": "La strada del colle è chiusa durante il Tour de France 2026?"
+        }
+      ],
+      "hero": {
+        "badge": "Accesso libero · RD902B",
+        "lead": "Il col du Galibier collega Valloire, in Savoie, al col du Lautaret, nelle Hautes-Alpes. Due strade, due altitudini, due date di apertura: il tunnel a 2 556 m ha riaperto il 29 maggio 2026, la strada della cima a 2 642 m il 5 giugno."
+      },
+      "hero_alt": "Col du Galibier sopra Valloire, Savoie",
+      "how_to_get_there": {
+        "bike": "Da Valloire: 18,2 km e 1 242 m di dislivello (OT Valloire), 17 km e 1 212 m al 7,2 % (CC Maurienne-Galibier), 18,1 km e 1 245 m al 6,9 % (en.wikipedia) — le fonti divergono. Da Saint-Michel-de-Maurienne: 34,8 km e 2 085 m con il col du Télégraphe. Primo passaggio del Tour de France il 10 luglio 1911, Émile Georget primo in cima. I ciclisti sono vietati nel tunnel: prima dell'apertura della strada della cima, il Galibier non è superabile in bicicletta.",
+        "car": "Da Valloire per la RD902B a nord, o dal col du Lautaret a sud. Il tunnel (RD902) apre prima della strada della cima ogni primavera e la aggira circa 5 km più in basso. Stato in tempo reale su savoie-route.fr.",
+        "public_transport": null
+      },
+      "meta_description": "Strada della cima a 2 642 m, tunnel a 2 556 m: due aperture distinte nel 2026, il 29 maggio e il 5 giugno. Accesso libero da Valloire. Ciclisti vietati nel tunnel.",
+      "meta_title": "Col du Galibier · Apertura 2026, tunnel, monumento Desgrange",
+      "name": "Col du Galibier",
+      "name_alternates": [
+        "Galibier",
+        "Col du Galibier (RD902B)",
+        "Tunnel du Galibier"
+      ],
+      "practical_info": [
+        {
+          "k": "Altitudine",
+          "v": "Strada della cima 2 642 m · tunnel 2 556 m. Una terza cifra, 2 645 m, circola nella stampa ciclistica e corrisponde alla strada della cima percorsa tra il 1979 e il 2017."
+        },
+        {
+          "k": "Coordinate",
+          "v": "45.06419° N, 6.407758° E"
+        },
+        {
+          "k": "Apertura 2026",
+          "v": "Tunnel: venerdì 29 maggio 2026 a mezzogiorno (Alpes 1). Strada della cima: venerdì 5 giugno 2026 alle 12h, confermato da valloire.net e Savoie News — l'articolo di Alpes 1 del 29 maggio dava questa data solo al condizionale. Attenzione, la pagina francese di valloire.net indica per il tunnel una data del 29 giugno, cronologicamente impossibile.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Chiusura 2026",
+          "v": null
+        },
+        {
+          "k": "Tariffa",
+          "v": "Gratuito, accesso libero"
+        },
+        {
+          "k": "Parcheggio",
+          "v": "Parcheggio in cima, pullman ammessi. Nessuna fonte precisa se è gratuito o a pagamento."
+        },
+        {
+          "k": "Sagome",
+          "v": "Tunnel: altezza inferiore a 4,10 m, larghezza inferiore a 3,2 m, 19 t massimo, ciclisti vietati, senso unico alternato regolato da semafori. Strada della cima: solo veicoli sotto le 3,5 t."
+        },
+        {
+          "k": "Animali",
+          "v": null
+        },
+        {
+          "k": "Accessibilità",
+          "v": null
+        },
+        {
+          "k": "Chiusure puntuali 2026",
+          "v": "7 giugno 9h–15h (Galibier Challenge); 29 giugno, 16 luglio e 4 agosto 9h–12h (cols réservés, auto e moto vietate); 19 luglio 8h30–18h (L'Étape du Tour); 25 luglio 10h–18h30 in entrambi i sensi (Tour de France, tappa 20), sosta vietata in cima dal 24 luglio 18h.",
+          "verified": "2026-08-08"
+        }
+      ],
+      "schema_amenities": [
+        "Parcheggio",
+        "Tavola di orientamento",
+        "Monumento Henri Desgrange"
+      ],
+      "when_to_visit": "<p>La strada della cima è aperta da inizio giugno a fine ottobre, con la chiusura che arriva con le prime nevi. Nel 2026 ha aperto il 5 giugno; nessuna data di chiusura è pubblicata a oggi. Diverse chiusure complete punteggiano l'estate, soprattutto al mattino.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Vanaf Valloire: 18,2 km en 1 242 m hoogteverschil volgens het toeristenbureau, 17 km en 1 212 m met 7,2 % volgens de communauté de communes. Vanaf Saint-Michel-de-Maurienne 34,8 km en 2 085 m, inclusief de Col du Télégraphe. Buitencategorie sinds 1979.",
+          "tag": null,
+          "title": "De pas beklimmen met de fiets"
+        },
+        {
+          "description": "Opgericht in 1949 op de pas, gemeente Le Monêtier-les-Bains (05), architect Alexandre Audouze-Tabourin, met het opschrift « A LA GLOIRE DE HENRI-DESGRANGES ». Marmeren plaquette toegevoegd in 1974 door de Audax.",
+          "tag": null,
+          "title": "Het monument Henri Desgrange bekijken"
+        },
+        {
+          "description": "Geplaatst door het Parc national des Écrins in 1988: de Meije, de Grand Galibier, de Mont-Blanc.",
+          "tag": null,
+          "title": "De panoramatafel bekijken"
+        },
+        {
+          "description": "Op 2 556 m, 100 m onder de pas, gemeente Le Monêtier-les-Bains: bar-restaurant, lunch van 12h tot 14h30 in de zomer, 16 slaapplaatsen in 5 slaapzalen, winkel. Zomer 2026: van 29 mei tot 28 september, dagelijks.",
+          "tag": "Zomer",
+          "title": "Stoppen bij de berghut Refuge du Galibier"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>Col du Galibier</strong> overschrijdt de grens tussen Savoie en de Hautes-Alpes, tussen Valloire (73450) in het noorden en Le Monêtier-les-Bains (05220) in het zuiden, in de richting van de Col du Lautaret. Het toeristenbureau van Valloire en de prefectuur schrijven RD902 en RD902B; aan de kant van de Hautes-Alpes schrijft men D902 en D902b.</p><p>Er zijn twee doorgangen, en dat is het punt waarover iedereen zich vergist. De tunnel, op 2 556 m, 370 m lang en 4 m breed, met beurtelings verkeer geregeld door verkeerslichten, gaat ongeveer 5 km lager om de top heen; fietsers zijn er verboden. De topweg, op 2 642 m, gaat over de pas zelf. In 2026 is de tunnel heropend op vrijdag 29 mei om 12 uur en de topweg op vrijdag 5 juni om 12h.</p><p>Op de pas: het monument Henri Desgrange, opgericht in 1949 door architect Alexandre Audouze-Tabourin en in 1974 aangevuld met een marmeren plaquette, en een panoramatafel die in 1988 door het Parc national des Écrins is geplaatst en die de Meije, de Grand Galibier en de Mont-Blanc aanwijst. Zowel het monument als de berghut Refuge du Galibier liggen in de gemeente Le Monêtier-les-Bains, in de Hautes-Alpes, en dus niet aan de Savoie-kant.</p>"
+      },
+      "events": "<p>Cols réservés 2026: 29 juni, 16 juli en 4 augustus, van 9h tot 12h, topweg verboden voor auto's en motoren. Galibier Challenge op 7 juni 2026 van 9h tot 15h. L'Étape du Tour op 19 juli 2026 van 8h30 tot 18h. Tour de France, etappe 20, op 25 juli 2026 van 10h tot 18h30.</p>",
+      "facts": {
+        "access": "Vrij toegankelijk · Gratis",
+        "best_season": "Juni – oktober",
+        "commune": "Valloire",
+        "dogs": null,
+        "parking": "Parkeerplaats op de top, touringcars toegestaan; tarief niet gedocumenteerd",
+        "stroller": null,
+        "type": "Bergpas en uitzichtpunt",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "De topweg ligt op 2 642 m en de tunnel op 2 556 m: het zijn twee verschillende doorgangen. Een derde cijfer, 2 645 m, circuleert in de wielerpers, die het koppelt aan de topweg zoals die tussen 1979 en 2017 werd bereden.",
+          "q": "Hoe hoog ligt de Col du Galibier?"
+        },
+        {
+          "a": "Ja. De tunnel is heropend op 29 mei 2026 om 12 uur en de topweg op 5 juni 2026 om 12h. Er is geen sluitingsdatum 2026 gepubliceerd: controleer op savoie-route.fr voordat u de klim maakt.",
+          "q": "Is de Col du Galibier open in 2026?"
+        },
+        {
+          "a": "Nee. Fietsers zijn verboden in de tunnel. Zolang de topweg niet open is, is de pas niet met de fiets te overschrijden.",
+          "q": "Kunt u de Galibier met de fiets via de tunnel oversteken?"
+        },
+        {
+          "a": "De berghut Refuge du Galibier ligt op 2 556 m, ongeveer 100 m onder de pas, in de gemeente Le Monêtier-les-Bains, in de Hautes-Alpes — dus niet aan de kant van Valloire. Zomer 2026: open van 29 mei tot 28 september, dagelijks.",
+          "q": "Is er een berghut op de Col du Galibier?"
+        },
+        {
+          "a": "Ja. Etappe 20, op zaterdag 25 juli 2026, brengt een sluiting in beide richtingen mee van 10h tot 18h30, en parkeren op de top is verboden vanaf 24 juli om 18h.",
+          "q": "Is de pasweg gesloten tijdens de Tour de France 2026?"
+        }
+      ],
+      "hero": {
+        "badge": "Vrije toegang · RD902B",
+        "lead": "De Col du Galibier verbindt Valloire, in Savoie, met de Col du Lautaret, in de Hautes-Alpes. Twee wegen, twee hoogtes, twee openingsdata: de tunnel op 2 556 m is heropend op 29 mei 2026, de topweg op 2 642 m op 5 juni."
+      },
+      "hero_alt": "Col du Galibier boven Valloire, Savoie",
+      "how_to_get_there": {
+        "bike": "Vanaf Valloire: 18,2 km en 1 242 m hoogteverschil (toeristenbureau Valloire), 17 km en 1 212 m met 7,2 % (CC Maurienne-Galibier), 18,1 km en 1 245 m met 6,9 % (en.wikipedia) — de bronnen lopen uiteen. Vanaf Saint-Michel-de-Maurienne: 34,8 km en 2 085 m, inclusief de Col du Télégraphe. Eerste passage van de Tour de France op 10 juli 1911, Émile Georget als eerste boven. Fietsers zijn verboden in de tunnel: vóór de opening van de topweg is de Galibier niet met de fiets te overschrijden.",
+        "car": "Vanaf Valloire via de RD902B in het noorden, of vanaf de Col du Lautaret in het zuiden. De tunnel (RD902) opent elk voorjaar eerder dan de topweg en gaat er ongeveer 5 km lager omheen. Actuele status op savoie-route.fr.",
+        "public_transport": null
+      },
+      "meta_description": "Topweg op 2 642 m, tunnel op 2 556 m: twee afzonderlijke openingen in 2026, op 29 mei en 5 juni. Vrije toegang vanaf Valloire. Fietsers verboden in de tunnel.",
+      "meta_title": "Col du Galibier · Opening 2026, tunnel, monument Desgrange",
+      "name": "Col du Galibier",
+      "name_alternates": [
+        "Galibier",
+        "Col du Galibier (RD902B)",
+        "Tunnel du Galibier"
+      ],
+      "practical_info": [
+        {
+          "k": "Hoogte",
+          "v": "Topweg 2 642 m · tunnel 2 556 m. Een derde cijfer, 2 645 m, circuleert in de wielerpers en komt overeen met de topweg zoals die tussen 1979 en 2017 werd bereden."
+        },
+        {
+          "k": "Coördinaten",
+          "v": "45.06419° N, 6.407758° E"
+        },
+        {
+          "k": "Opening 2026",
+          "v": "Tunnel: vrijdag 29 mei 2026 om 12 uur (Alpes 1). Topweg: vrijdag 5 juni 2026 om 12h, bevestigd door valloire.net en Savoie News — het artikel van Alpes 1 van 29 mei noemde die datum alleen onder voorbehoud. Let op, de Franse pagina van valloire.net toont voor de tunnel een datum van 29 juni, wat chronologisch onmogelijk is.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Sluiting 2026",
+          "v": null
+        },
+        {
+          "k": "Tarief",
+          "v": "Gratis, vrije toegang"
+        },
+        {
+          "k": "Parkeren",
+          "v": "Parkeerplaats op de top, touringcars toegestaan. Geen enkele bron vermeldt of parkeren gratis of betaald is."
+        },
+        {
+          "k": "Afmetingen",
+          "v": "Tunnel: hoogte minder dan 4,10 m, breedte minder dan 3,2 m, maximaal 19 t, fietsers verboden, beurtelings verkeer geregeld door verkeerslichten. Topweg: uitsluitend voertuigen van minder dan 3,5 t."
+        },
+        {
+          "k": "Dieren",
+          "v": null
+        },
+        {
+          "k": "Toegankelijkheid",
+          "v": null
+        },
+        {
+          "k": "Tijdelijke sluitingen 2026",
+          "v": "7 juni 9h–15h (Galibier Challenge); 29 juni, 16 juli en 4 augustus 9h–12h (cols réservés, auto's en motoren verboden); 19 juli 8h30–18h (L'Étape du Tour); 25 juli 10h–18h30 in beide richtingen (Tour de France, etappe 20), parkeren op de top verboden vanaf 24 juli 18h.",
+          "verified": "2026-08-08"
+        }
+      ],
+      "schema_amenities": [
+        "Parkeerplaats",
+        "Panoramatafel",
+        "Monument Henri Desgrange"
+      ],
+      "when_to_visit": "<p>De topweg is open van begin juni tot eind oktober; de sluiting valt samen met de eerste sneeuw. In 2026 ging hij open op 5 juni; tot op heden is er geen sluitingsdatum gepubliceerd. Verschillende volledige sluitingen onderbreken de zomer, vooral 's ochtends.</p>"
     }
   },
   "latitude": 45.06419,
@@ -380,7 +896,8 @@
     {
       "name": "Wikipedia (EN) — Col du Galibier (profil de montée, historique du tunnel)",
       "url": "https://en.wikipedia.org/wiki/Col_du_Galibier"
-    }
+    },
+    "https://www.valloire.net/ete-outdoor/velo-cyclisme/cols-mythiques/col-du-galibier/"
   ],
   "sparse_data": false,
   "status": "published",

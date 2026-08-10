@@ -20,8 +20,11 @@
   "season": "Fin mai – début novembre",
   "winter": {
     "access": "closed",
-    "infrastructure": [],
-    "snow_view": null,
+    "infrastructure": [
+      "raquettes",
+      "ski_rando"
+    ],
+    "snow_view": "alpes",
     "equipment": "loi_montagne_ii",
     "col_chains": false,
     "inforoute": "https://savoie-route.fr"

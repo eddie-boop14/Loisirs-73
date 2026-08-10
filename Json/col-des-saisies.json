@@ -37,6 +37,137 @@
   "hero_credit": "Rémih · CC BY-SA 4.0 · Wikimedia Commons",
   "hero_image": "/img/points-de-vue/col-des-saisies-hero.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Die Südseite, von Beaufort über Hauteluce, wird als Abfolge langer Geraden und Kehren beschrieben, gesäumt von Bächen und Wasserfällen. Es ist kein beziffertes Profil veröffentlicht.",
+          "tag": null,
+          "title": "Mit dem Fahrrad zum Pass hinauffahren"
+        },
+        {
+          "description": "Der Pass verbindet das Beaufortain mit dem Val d'Arly, und er ist bewohnt: Die Station Les Saisies hat sich dort entwickelt, wo es früher nur Almhöfe gab.",
+          "tag": null,
+          "title": "Vom Beaufortain ins Val d'Arly wechseln"
+        },
+        {
+          "description": "Die Tour de France kam laut einer Radsportquelle zwischen 1979 und 2010 elfmal vorbei, und erneut auf der 18. Etappe der Tour 2020.",
+          "tag": null,
+          "title": "Den Spuren der Tour folgen"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Der <strong>Col des Saisies</strong> verbindet das Beaufortain mit dem Val d'Arly, auf dem Gebiet der Gemeinde <strong>Hauteluce</strong> — Les Saisies ist der Name der Station, nicht der der Gemeinde, auch wenn die offizielle Adresse des Passes „73620 Les Saisies\" lautet.</p><p>Seine Höhe wird von der Station mit 1 650 m angegeben und von cols-cyclisme mit 1 657 m: sieben Meter, über die niemand entscheidet.</p><p>Er ist kein Hochgebirgspass, den man im Winter sperrt. Die Website der Station gibt ihn für das ganze Jahr 2026 täglich geöffnet an, weil er eine bewohnte Station erschließt, mit Unterkünften und Restaurants vor Ort. Dort, wo es früher nur Almhöfe gab.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Frei zugänglich · Kostenlos",
+        "best_season": "Ganzjährig",
+        "commune": "Hauteluce",
+        "dogs": null,
+        "parking": null,
+        "snow_view": "mont_blanc",
+        "stroller": null,
+        "type": "Passstraße und Station",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_fond",
+          "ski_nordique",
+          "raquettes"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Zwei Zahlen sind im Umlauf: 1 650 m auf der offiziellen Website der Station, 1 657 m auf cols-cyclisme. Keine Quelle dokumentiert ihre Messung.",
+          "q": "Wie hoch liegt der Col des Saisies?"
+        },
+        {
+          "a": "Ja. Die Website der Station gibt ihn für das ganze Jahr 2026 täglich geöffnet an. Auf 1 650 m erschließt er eine bewohnte Station und wird im Winter nicht gesperrt, anders als die großen Hochgebirgspässe der Savoie.",
+          "q": "Ist der Col des Saisies im Winter geöffnet?"
+        },
+        {
+          "a": "Hauteluce. Les Saisies ist der Name der Station; 73620 ist die Postleitzahl von Hauteluce. Die offizielle Adresse des Passes, „73620 Les Saisies\", hält die Verwechslung aufrecht.",
+          "q": "Auf welcher Gemeinde liegt der Col des Saisies?"
+        },
+        {
+          "a": "Eine Radsportquelle zählt elf Überquerungen zwischen 1979 und 2010, wobei die Zählung zu diesem Datum endet. Die Tour ist seither wieder vorbeigekommen, insbesondere auf der 18. Etappe 2020. Eine aktuelle Gesamtzahl wird hier nicht veröffentlicht.",
+          "q": "Wie oft ist die Tour de France über Les Saisies gefahren?"
+        },
+        {
+          "a": "Die Station kündigt Unterkünfte, Restaurants und Aktivitäten am Pass an, aber keine Quelle nennt Öffnungszeiten oder eine Liste. Nichts Genaues wird hier veröffentlicht.",
+          "q": "Gibt es Dienstleistungen am Pass?"
+        }
+      ],
+      "hero": {
+        "badge": "Freier Zugang · Ganzjährig geöffnet",
+        "lead": "Der Col des Saisies verbindet das Beaufortain mit dem Val d'Arly, auf dem Gebiet der Gemeinde Hauteluce. Bewohnt und ganzjährig geöffnet, wird er nicht wie die großen Hochgebirgspässe gesperrt."
+      },
+      "hero_alt": "Col des Saisies, Hauteluce, Savoie",
+      "how_to_get_there": {
+        "bike": "Die Südseite steigt von Beaufort über Hauteluce an; die Quellen beschreiben sie als lange Geraden, unterbrochen von Kehren, gesäumt von Bächen und Wasserfällen. Weder Kilometerangaben noch Prozentwerte wurden erhoben.",
+        "car": "Zwischen dem Beaufortain und dem Val d'Arly. Cols-cyclisme ordnet den Anstieg den Straßen D925 und D218 zu; keine andere konsultierte Quelle nennt eine Straßennummer.",
+        "public_transport": null
+      },
+      "meta_description": "Pass auf 1 650 m zwischen Beaufortain und Val d'Arly, Gemeinde Hauteluce. Ganzjährig geöffnet: Es ist eine bewohnte Station, kein Hochgebirgspass, den man im Winter sperrt.",
+      "meta_title": "Col des Saisies · Höhe, ganzjähriger Zugang, Hauteluce",
+      "name": "Col des Saisies",
+      "name_alternates": [
+        "Les Saisies",
+        "Col des Saisies (Hauteluce)"
+      ],
+      "practical_info": [
+        {
+          "k": "Höhe",
+          "v": "1 650 m (offizielle Website der Station) · 1 657 m (cols-cyclisme). Zwei Zahlen, keine Entscheidung."
+        },
+        {
+          "k": "Koordinaten",
+          "v": null
+        },
+        {
+          "k": "Gemeinde",
+          "v": "Hauteluce. Les Saisies ist die Station; 73620 ist die Postleitzahl von Hauteluce."
+        },
+        {
+          "k": "Öffnung",
+          "v": "Ganzjährig. Die Website der Station vermerkt „All year 2026 - Open everyday\".",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Preis",
+          "v": "Kostenlos, freier Zugang"
+        },
+        {
+          "k": "Verbindet",
+          "v": "Das Tal des Beaufortain mit dem Val d'Arly"
+        },
+        {
+          "k": "Dienstleistungen",
+          "v": "Unterkünfte, Restaurants und Aktivitäten von der Station angekündigt. Weder Öffnungszeiten noch Liste veröffentlicht."
+        },
+        {
+          "k": "Tour de France",
+          "v": "Elf Überquerungen zwischen 1979 und 2010 laut einer Radsportquelle, Zählung endet 2010. Etappe 18 der Tour 2020 über Hauteluce."
+        },
+        {
+          "k": "Parkplatz",
+          "v": null
+        },
+        {
+          "k": "Tiere",
+          "v": null
+        },
+        {
+          "k": "Barrierefreiheit",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Parkplatz",
+        "Geschäfte",
+        "Aussichtspunkt"
+      ],
+      "when_to_visit": "<p>Der Pass ist ganzjährig geöffnet, was ihn von den großen Hochgebirgspässen des Département unterscheidet. Die Frage ist also nicht, ob er geöffnet ist, sondern was man dort unternehmen will: Die Station ist im Sommer wie im Winter in Betrieb.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -161,6 +292,137 @@
         "Viewpoint"
       ],
       "when_to_visit": "<p>The pass is open all year, which sets it apart from the département's high passes. The question is not whether it is open but what you are coming for: the resort runs in summer as in winter.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "La vertiente sur, desde Beaufort por Hauteluce, se describe como una sucesión de largas rectas y curvas de herradura, jalonada de arroyos y cascadas. No se publica ningún perfil con cifras.",
+          "tag": null,
+          "title": "Subir al col en bicicleta"
+        },
+        {
+          "description": "El col une el Beaufortain con el Val d'Arly, y está habitado: la estación de Les Saisies se desarrolló allí donde solo había granjas de pastos de altura.",
+          "tag": null,
+          "title": "Pasar del Beaufortain al Val d'Arly"
+        },
+        {
+          "description": "El Tour de Francia pasó por aquí once veces entre 1979 y 2010 según una fuente ciclista, y de nuevo en la etapa 18 del Tour 2020.",
+          "tag": null,
+          "title": "Seguir las huellas del Tour"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>col des Saisies</strong> une el Beaufortain con el Val d'Arly, en el municipio de <strong>Hauteluce</strong> — Les Saisies es el nombre de la estación, no el del municipio, aunque la dirección oficial del col escriba « 73620 Les Saisies ».</p><p>Su altitud figura como 1 650 m según la estación y 1 657 m según cols-cyclisme: siete metros que nadie arbitra.</p><p>No es un col de altitud que se cierre en invierno. El sitio de la estación lo da abierto todos los días durante todo el año 2026, porque da servicio a una estación habitada, con alojamientos y restaurantes in situ. Allí donde antes solo había granjas de pastos de altura.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Acceso libre · Gratuito",
+        "best_season": "Todo el año",
+        "commune": "Hauteluce",
+        "dogs": null,
+        "parking": null,
+        "snow_view": "mont_blanc",
+        "stroller": null,
+        "type": "Col de carretera y estación",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_fond",
+          "ski_nordique",
+          "raquettes"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Circulan dos cifras: 1 650 m en el sitio oficial de la estación, 1 657 m en cols-cyclisme. Ninguna fuente documenta su medición.",
+          "q": "¿Cuál es la altitud del col des Saisies?"
+        },
+        {
+          "a": "Sí. El sitio de la estación lo da abierto todos los días durante todo el año 2026. A 1 650 m da servicio a una estación habitada y no se cierra en invierno, a diferencia de los grandes cols de altitud de Savoie.",
+          "q": "¿Está abierto el col des Saisies en invierno?"
+        },
+        {
+          "a": "Hauteluce. Les Saisies es el nombre de la estación; 73620 es el código postal de Hauteluce. La dirección oficial del col, « 73620 Les Saisies », alimenta la confusión.",
+          "q": "¿En qué municipio se encuentra el col des Saisies?"
+        },
+        {
+          "a": "Una fuente ciclista cuenta once pasos entre 1979 y 2010, recuento cerrado en esa fecha. El Tour ha vuelto a pasar desde entonces, en particular en la etapa 18 de 2020. Aquí no se publica ningún total actual.",
+          "q": "¿Cuántas veces ha pasado el Tour de Francia por Les Saisies?"
+        },
+        {
+          "a": "La estación anuncia alojamientos, restaurantes y actividades en el col, pero ninguna fuente da horarios ni una lista. Aquí no se publica nada preciso.",
+          "q": "¿Hay servicios en el col?"
+        }
+      ],
+      "hero": {
+        "badge": "Acceso libre · Abierto todo el año",
+        "lead": "El col des Saisies une el Beaufortain con el Val d'Arly, en el municipio de Hauteluce. Habitado y abierto todo el año, no se cierra como los grandes cols de altitud."
+      },
+      "hero_alt": "Col des Saisies, Hauteluce, Savoie",
+      "how_to_get_there": {
+        "bike": "La vertiente sur sube desde Beaufort por Hauteluce; las fuentes la describen como largas rectas intercaladas con curvas de herradura, jalonadas de arroyos y cascadas. No se ha recogido ningún kilometraje ni porcentaje.",
+        "car": "Entre el Beaufortain y el Val d'Arly. Cols-cyclisme vincula la subida a las D925 y D218; ninguna otra fuente consultada da un número de carretera.",
+        "public_transport": null
+      },
+      "meta_description": "Col a 1 650 m entre el Beaufortain y el Val d'Arly, municipio de Hauteluce. Abierto todo el año: es una estación habitada, no un col de altitud que se cierre en invierno.",
+      "meta_title": "Col des Saisies · Altitud, acceso todo el año, Hauteluce",
+      "name": "Col des Saisies",
+      "name_alternates": [
+        "Les Saisies",
+        "Col des Saisies (Hauteluce)"
+      ],
+      "practical_info": [
+        {
+          "k": "Altitud",
+          "v": "1 650 m (sitio oficial de la estación) · 1 657 m (cols-cyclisme). Dos cifras, ningún arbitraje."
+        },
+        {
+          "k": "Coordenadas",
+          "v": null
+        },
+        {
+          "k": "Municipio",
+          "v": "Hauteluce. Les Saisies es la estación; 73620 es el código postal de Hauteluce."
+        },
+        {
+          "k": "Apertura",
+          "v": "Todo el año. El sitio de la estación indica « All year 2026 - Open everyday ».",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Tarifa",
+          "v": "Gratuito, acceso libre"
+        },
+        {
+          "k": "Une",
+          "v": "El valle del Beaufortain con el del Val d'Arly"
+        },
+        {
+          "k": "Servicios",
+          "v": "Alojamientos, restaurantes y actividades anunciados por la estación. Ni horarios ni lista publicados."
+        },
+        {
+          "k": "Tour de Francia",
+          "v": "Once pasos entre 1979 y 2010 según una fuente ciclista, recuento cerrado en 2010. Etapa 18 del Tour 2020 por Hauteluce."
+        },
+        {
+          "k": "Aparcamiento",
+          "v": null
+        },
+        {
+          "k": "Animales",
+          "v": null
+        },
+        {
+          "k": "Accesibilidad",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Aparcamiento",
+        "Comercios",
+        "Mirador"
+      ],
+      "when_to_visit": "<p>El col está abierto todo el año, lo que lo distingue de los grandes cols de altitud del departamento. La cuestión no es, por tanto, saber si está abierto sino qué se viene a hacer: la estación funciona tanto en verano como en invierno.</p>"
     },
     "fr": {
       "activities": [
@@ -292,6 +554,268 @@
         "Point de vue"
       ],
       "when_to_visit": "<p>Le col est ouvert toute l'année, ce qui le distingue des grands cols d'altitude du département. La question n'est donc pas de savoir s'il est ouvert mais ce qu'on vient y faire : la station fonctionne été comme hiver.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Il versante sud, da Beaufort per Hauteluce, è descritto come una successione di lunghi rettilinei e di tornanti, punteggiata di ruscelli e cascate. Nessun profilo con cifre è pubblicato.",
+          "tag": null,
+          "title": "Salire al colle in bicicletta"
+        },
+        {
+          "description": "Il colle collega il Beaufortain al Val d'Arly, ed è abitato: la stazione di Les Saisies vi si è sviluppata dove non c'erano che malghe d'alpeggio.",
+          "tag": null,
+          "title": "Passare dal Beaufortain al Val d'Arly"
+        },
+        {
+          "description": "Il Tour de France vi è passato undici volte tra il 1979 e il 2010 secondo una fonte ciclistica, e di nuovo nella tappa 18 del Tour 2020.",
+          "tag": null,
+          "title": "Seguire le tracce del Tour"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Il <strong>col des Saisies</strong> collega il Beaufortain al Val d'Arly, nel comune di <strong>Hauteluce</strong> — Les Saisies è il nome della stazione, non quello del comune, anche se l'indirizzo ufficiale del colle riporta « 73620 Les Saisies ».</p><p>La sua altitudine è indicata a 1 650 m dalla stazione e a 1 657 m da cols-cyclisme: sette metri che nessuno arbitra.</p><p>Non è un colle d'alta quota che si chiude d'inverno. Il sito della stazione lo dà aperto tutti i giorni per tutto il 2026, perché serve una stazione abitata, con alloggi e ristoranti sul posto. Là dove un tempo non c'erano che malghe d'alpeggio.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Libero · Gratuito",
+        "best_season": "Tutto l'anno",
+        "commune": "Hauteluce",
+        "dogs": null,
+        "parking": null,
+        "snow_view": "mont_blanc",
+        "stroller": null,
+        "type": "Colle stradale e stazione",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_fond",
+          "ski_nordique",
+          "raquettes"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Circolano due cifre: 1 650 m sul sito ufficiale della stazione, 1 657 m su cols-cyclisme. Nessuna fonte documenta la sua misurazione.",
+          "q": "Qual è l'altitudine del col des Saisies?"
+        },
+        {
+          "a": "Sì. Il sito della stazione lo dà aperto tutti i giorni per tutto il 2026. A 1 650 m serve una stazione abitata e non è chiuso d'inverno, contrariamente ai grandi colli d'alta quota della Savoie.",
+          "q": "Il col des Saisies è aperto in inverno?"
+        },
+        {
+          "a": "Hauteluce. Les Saisies è il nome della stazione; 73620 è il codice postale di Hauteluce. L'indirizzo ufficiale del colle, « 73620 Les Saisies », alimenta la confusione.",
+          "q": "In quale comune si trova il col des Saisies?"
+        },
+        {
+          "a": "Una fonte ciclistica conta undici passaggi tra il 1979 e il 2010, conteggio chiuso a quella data. Il Tour è ripassato da allora, in particolare nella tappa 18 del 2020. Nessun totale attuale è pubblicato qui.",
+          "q": "Quante volte il Tour de France è passato per Les Saisies?"
+        },
+        {
+          "a": "La stazione annuncia alloggi, ristoranti e attività al colle, ma nessuna fonte dà orari né elenchi. Nulla di preciso è pubblicato qui.",
+          "q": "Ci sono servizi al colle?"
+        }
+      ],
+      "hero": {
+        "badge": "Accesso libero · Aperto tutto l'anno",
+        "lead": "Il col des Saisies collega il Beaufortain al Val d'Arly, nel comune di Hauteluce. Abitato e aperto tutto l'anno, non si chiude come i grandi colli d'alta quota."
+      },
+      "hero_alt": "Col des Saisies, Hauteluce, Savoie",
+      "how_to_get_there": {
+        "bike": "Il versante sud sale da Beaufort per Hauteluce; le fonti lo descrivono in lunghi rettilinei intervallati da tornanti, punteggiati di ruscelli e cascate. Nessun chilometraggio né percentuale è stato rilevato.",
+        "car": "Tra il Beaufortain e il Val d'Arly. Cols-cyclisme collega la salita alle D925 e D218; nessun'altra fonte consultata dà un numero di strada.",
+        "public_transport": null
+      },
+      "meta_description": "Colle a 1 650 m tra Beaufortain e Val d'Arly, comune di Hauteluce. Aperto tutto l'anno: è una stazione abitata, non un colle d'alta quota che si chiude d'inverno.",
+      "meta_title": "Col des Saisies · Altitudine, accesso tutto l'anno, Hauteluce",
+      "name": "Col des Saisies",
+      "name_alternates": [
+        "Les Saisies",
+        "Col des Saisies (Hauteluce)"
+      ],
+      "practical_info": [
+        {
+          "k": "Altitudine",
+          "v": "1 650 m (sito ufficiale della stazione) · 1 657 m (cols-cyclisme). Due cifre, nessun arbitrato."
+        },
+        {
+          "k": "Coordinate",
+          "v": null
+        },
+        {
+          "k": "Comune",
+          "v": "Hauteluce. Les Saisies è la stazione; 73620 è il codice postale di Hauteluce."
+        },
+        {
+          "k": "Apertura",
+          "v": "Tutto l'anno. Il sito della stazione riporta « All year 2026 - Open everyday ».",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Tariffa",
+          "v": "Gratuito, accesso libero"
+        },
+        {
+          "k": "Collega",
+          "v": "La valle del Beaufortain a quella del Val d'Arly"
+        },
+        {
+          "k": "Servizi",
+          "v": "Alloggi, ristoranti e attività annunciati dalla stazione. Né orari né elenchi pubblicati."
+        },
+        {
+          "k": "Tour de France",
+          "v": "Undici passaggi tra il 1979 e il 2010 secondo una fonte ciclistica, conteggio chiuso al 2010. Tappa 18 del Tour 2020 per Hauteluce."
+        },
+        {
+          "k": "Parcheggio",
+          "v": null
+        },
+        {
+          "k": "Animali",
+          "v": null
+        },
+        {
+          "k": "Accessibilità",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Parcheggio",
+        "Negozi",
+        "Punto panoramico"
+      ],
+      "when_to_visit": "<p>Il colle è aperto tutto l'anno, il che lo distingue dai grandi colli d'alta quota del dipartimento. La questione non è quindi sapere se è aperto ma che cosa si viene a farci: la stazione funziona d'estate come d'inverno.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "De zuidzijde, vanaf Beaufort via Hauteluce, wordt beschreven als een opeenvolging van lange rechte stukken en haarspeldbochten, met onderweg beken en watervallen. Er is geen becijferd profiel gepubliceerd.",
+          "tag": null,
+          "title": "De pas beklimmen met de fiets"
+        },
+        {
+          "description": "De pas verbindt de Beaufortain met het Val d'Arly, en hij is bewoond: het station Les Saisies heeft zich hier ontwikkeld waar vroeger alleen alpenboerderijen stonden.",
+          "tag": null,
+          "title": "Van de Beaufortain naar het Val d'Arly"
+        },
+        {
+          "description": "De Tour de France passeerde hier elf keer tussen 1979 en 2010 volgens een wielerbron, en opnieuw tijdens etappe 18 van de Tour van 2020.",
+          "tag": null,
+          "title": "In de sporen van de Tour"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>Col des Saisies</strong> verbindt de Beaufortain met het Val d'Arly, in de gemeente <strong>Hauteluce</strong> — Les Saisies is de naam van het wintersportstation, niet die van de gemeente, ook al vermeldt het officiële adres van de pas « 73620 Les Saisies ».</p><p>De hoogte wordt door het station opgegeven als 1 650 m en door cols-cyclisme als 1 657 m: zeven meter waarover niemand beslist.</p><p>Het is geen hooggelegen pas die 's winters wordt gesloten. De website van het station geeft hem het hele jaar 2026 dagelijks open, omdat hij een bewoond station bedient, met accommodaties en restaurants ter plaatse. Daar waar vroeger alleen alpenboerderijen stonden.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Vrij toegankelijk · Gratis",
+        "best_season": "Het hele jaar",
+        "commune": "Hauteluce",
+        "dogs": null,
+        "parking": null,
+        "snow_view": "mont_blanc",
+        "stroller": null,
+        "type": "Bergpas en wintersportstation",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_fond",
+          "ski_nordique",
+          "raquettes"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Er circuleren twee cijfers: 1 650 m op de officiële website van het station, 1 657 m op cols-cyclisme. Geen enkele bron documenteert de meting.",
+          "q": "Hoe hoog ligt de Col des Saisies?"
+        },
+        {
+          "a": "Ja. De website van het station geeft hem het hele jaar 2026 dagelijks open. Op 1 650 m bedient hij een bewoond station en wordt hij 's winters niet gesloten, in tegenstelling tot de grote hooggelegen passen van Savoie.",
+          "q": "Is de Col des Saisies in de winter open?"
+        },
+        {
+          "a": "Hauteluce. Les Saisies is de naam van het station; 73620 is de postcode van Hauteluce. Het officiële adres van de pas, « 73620 Les Saisies », houdt de verwarring in stand.",
+          "q": "In welke gemeente ligt de Col des Saisies?"
+        },
+        {
+          "a": "Een wielerbron telt elf passages tussen 1979 en 2010, een telling die op die datum is afgesloten. De Tour is er sindsdien opnieuw geweest, met name tijdens etappe 18 van 2020. Er wordt hier geen actueel totaal gepubliceerd.",
+          "q": "Hoe vaak is de Tour de France over Les Saisies gekomen?"
+        },
+        {
+          "a": "Het station kondigt accommodaties, restaurants en activiteiten op de pas aan, maar geen enkele bron geeft openingstijden of een lijst. Er wordt hier niets concreets gepubliceerd.",
+          "q": "Zijn er voorzieningen op de pas?"
+        }
+      ],
+      "hero": {
+        "badge": "Vrije toegang · Het hele jaar open",
+        "lead": "De Col des Saisies verbindt de Beaufortain met het Val d'Arly, in de gemeente Hauteluce. Bewoond en het hele jaar open, hij wordt niet gesloten zoals de grote hooggelegen passen."
+      },
+      "hero_alt": "Col des Saisies, Hauteluce, Savoie",
+      "how_to_get_there": {
+        "bike": "De zuidzijde klimt vanaf Beaufort via Hauteluce; de bronnen beschrijven hem als lange rechte stukken, afgewisseld met haarspeldbochten, met onderweg beken en watervallen. Er is geen kilometrage of stijgingspercentage opgetekend.",
+        "car": "Tussen de Beaufortain en het Val d'Arly. Cols-cyclisme koppelt de klim aan de D925 en de D218; geen enkele andere geraadpleegde bron geeft een wegnummer.",
+        "public_transport": null
+      },
+      "meta_description": "Pas op 1 650 m tussen Beaufortain en Val d'Arly, gemeente Hauteluce. Het hele jaar open: het is een bewoond station, geen hooggelegen pas die 's winters wordt gesloten.",
+      "meta_title": "Col des Saisies · Hoogte, het hele jaar toegankelijk, Hauteluce",
+      "name": "Col des Saisies",
+      "name_alternates": [
+        "Les Saisies",
+        "Col des Saisies (Hauteluce)"
+      ],
+      "practical_info": [
+        {
+          "k": "Hoogte",
+          "v": "1 650 m (officiële website van het station) · 1 657 m (cols-cyclisme). Twee cijfers, geen arbitrage."
+        },
+        {
+          "k": "Coördinaten",
+          "v": null
+        },
+        {
+          "k": "Gemeente",
+          "v": "Hauteluce. Les Saisies is het station; 73620 is de postcode van Hauteluce."
+        },
+        {
+          "k": "Opening",
+          "v": "Het hele jaar. De website van het station vermeldt « All year 2026 - Open everyday ».",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Tarief",
+          "v": "Gratis, vrije toegang"
+        },
+        {
+          "k": "Verbindt",
+          "v": "Het dal van de Beaufortain met dat van het Val d'Arly"
+        },
+        {
+          "k": "Voorzieningen",
+          "v": "Accommodaties, restaurants en activiteiten aangekondigd door het station. Geen openingstijden of lijst gepubliceerd."
+        },
+        {
+          "k": "Tour de France",
+          "v": "Elf passages tussen 1979 en 2010 volgens een wielerbron, telling afgesloten in 2010. Etappe 18 van de Tour 2020 via Hauteluce."
+        },
+        {
+          "k": "Parkeren",
+          "v": null
+        },
+        {
+          "k": "Dieren",
+          "v": null
+        },
+        {
+          "k": "Toegankelijkheid",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Parkeerplaats",
+        "Winkels",
+        "Uitzichtpunt"
+      ],
+      "when_to_visit": "<p>De pas is het hele jaar open, wat hem onderscheidt van de grote hooggelegen passen van het departement. De vraag is dus niet of hij open is, maar wat u er komt doen: het station functioneert zowel in de zomer als in de winter.</p>"
     }
   },
   "latitude": null,

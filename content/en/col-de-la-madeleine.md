@@ -58,8 +58,8 @@ Not specified
 
 Late May – early November
 - Winter access window: Closed (road shut in winter) — Live status: savoie-route.fr
-- Winter infrastructure: Not specified
-- Snow panorama: Not specified
+- Winter infrastructure: Ski touring
+- Snow panorama: Clear Mont-Blanc view
 - Equipment mandated: Loi Montagne II — winter tyres or chains required (1 Nov – 31 Mar)
 
 ## Official source

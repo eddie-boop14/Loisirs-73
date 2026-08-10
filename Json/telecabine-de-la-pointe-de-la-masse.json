@@ -37,6 +37,136 @@
   "hero_credit": "Florian Pépellin · CC BY-SA 4.0 · Wikimedia Commons",
   "hero_image": "/img/telecabines/telecabine-de-la-pointe-de-la-masse-hero.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "1 000 m Höhenunterschied in 8 Minuten bis auf 2 804 m, so die Formel des Betreibers.",
+          "tag": "Sommer",
+          "title": "Zur Pointe de la Masse hinauffahren"
+        },
+        {
+          "description": "Eine Kabine mit Glasboden wird angeboten, mit einem Aufpreis, den die eingesehenen Quellen nicht beziffern.",
+          "tag": null,
+          "title": "Die Kabine mit Glasboden nehmen"
+        },
+        {
+          "description": "Der Zugang zum Maschinenraum ist laut Betreiber im Fußgängerticket enthalten.",
+          "tag": null,
+          "title": "Den Maschinenraum besichtigen"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>Gondelbahn Pointe de la Masse</strong> steigt auf 2 804 m oberhalb von Les Menuires, auf dem Gebiet der Gemeinde <strong>Les Belleville</strong>. Es ist eine kuppelbare Gondelbahn mit 10 Plätzen — keine Seilbahn, anders als oft zu lesen ist.</p><p>Ein Punkt bestimmt alles Weitere: <strong>Sie ist von Donnerstag bis einschließlich Samstag geschlossen</strong>. Sie fährt nur von Sonntag bis Mittwoch, während der Rest des Gebiets von Les Menuires an sieben Tagen der Woche geöffnet ist. Das steht schwarz auf weiß bei Les 3 Vallées, und es ist die Art Detail, die einen Tag verderben kann.</p><p>Der Betreiber gibt 1 000 m Höhenunterschied in 8 Minuten an, eine optionale Kabine mit Glasboden und den im Fußgängerticket enthaltenen Zugang zum Maschinenraum.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Kostenpflichtig",
+        "best_season": "Sommer (4. Juli – 28. August 2026)",
+        "commune": "Les Belleville",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Gondelbahn",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Nein. Es ist eine kuppelbare Gondelbahn mit 10 Plätzen (TCD10), von Les Menuires als „gondola lift\" bezeichnet. Eine „Seilbahn Pointe de la Masse\" existiert nicht.",
+          "q": "Wird die Pointe de la Masse von einer Seilbahn bedient?"
+        },
+        {
+          "a": "Nur von Sonntag bis Mittwoch. Sie ist von Donnerstag bis einschließlich Samstag geschlossen, während der Rest des Gebiets von Les Menuires an 7 Tagen der Woche läuft.",
+          "q": "An welchen Tagen fährt die Gondelbahn?"
+        },
+        {
+          "a": "2 804 m. Der Betreiber gibt 1 000 m Höhenunterschied in 8 Minuten an.",
+          "q": "Auf welcher Höhe kommt man an?"
+        },
+        {
+          "a": "Ja, eine Kabine mit Glasboden wird angeboten. Der Aufpreis wird von keiner eingesehenen Quelle beziffert.",
+          "q": "Gibt es eine Kabine mit Glasboden?"
+        },
+        {
+          "a": "Eine Erhebung nennt 26,00 € für die einfache Bergfahrt (Erwachsene) und 19,50 € mit dem Pass ascensionnel, doch diese Preise sind auf keiner Preisseite des Betreibers bestätigt.",
+          "q": "Was kostet die Bergfahrt?"
+        }
+      ],
+      "hero": {
+        "badge": "Kostenpflichtig · Donnerstag bis Samstag geschlossen",
+        "lead": "Die Gondelbahn Pointe de la Masse steigt auf 2 804 m oberhalb von Les Menuires. Sie fährt nur von Sonntag bis Mittwoch — der Rest des Gebiets dagegen öffnet täglich."
+      },
+      "hero_alt": "Gondelbahn Pointe de la Masse, Les Menuires, Les Belleville, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Zugang über Les Menuires, Gemeinde Les Belleville. Der GPS-Punkt dieser Seite ist der des Aussichtspunkts am Gipfel, nicht der der Talstation.",
+        "public_transport": null
+      },
+      "meta_description": "Gondelbahn auf 2 804 m oberhalb von Les Menuires, von Donnerstag bis einschließlich Samstag geschlossen. Kabine mit Glasboden und Maschinenraum im Fußgängerticket enthalten.",
+      "meta_title": "Gondelbahn Pointe de la Masse · 2 804 m, Betriebstage",
+      "name": "Gondelbahn Pointe de la Masse",
+      "name_alternates": [
+        "Pointe de la Masse",
+        "La Masse",
+        "TCD10 de la Pointe de la Masse"
+      ],
+      "practical_info": [
+        {
+          "k": "Typ",
+          "v": "Kuppelbare Gondelbahn mit 10 Plätzen (TCD10). Keine Seilbahn."
+        },
+        {
+          "k": "Ankunftshöhe",
+          "v": "2 804 m"
+        },
+        {
+          "k": "Betriebstage",
+          "v": "Von Sonntag bis Mittwoch. Von Donnerstag bis einschließlich Samstag geschlossen, anders als der Rest des Gebiets von Les Menuires.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Sommer 2026",
+          "v": "Vom 4. Juli bis 28. August 2026 laut Les 3 Vallées. Eine Sekundärquelle schreibt „vom 5. Juli bis 29. August\".",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Dauer",
+          "v": "1 000 m Höhenunterschied in 8 Minuten (Formel des Betreibers)"
+        },
+        {
+          "k": "Koordinaten",
+          "v": "45.299101° N, 6.509023° E — Aussichtspunkt am Gipfel laut DATAtourisme-Datensatz, nicht die Talstation"
+        },
+        {
+          "k": "Preis",
+          "v": "26,00 € für die einfache Bergfahrt Erwachsene (ab 18 Jahren), 19,50 € mit dem Pass ascensionnel. Auf keiner Preisseite des Betreibers bestätigt."
+        },
+        {
+          "k": "Kabine mit Glasboden",
+          "v": "Als Option angeboten. Aufpreis von den eingesehenen Quellen nicht beziffert."
+        },
+        {
+          "k": "Maschinenraum",
+          "v": "Zugang laut Betreiber im Fußgängerticket enthalten. Öffnungszeiten nicht veröffentlicht."
+        },
+        {
+          "k": "Tiere",
+          "v": null
+        },
+        {
+          "k": "Barrierefreiheit",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Gondelbahn",
+        "Aussichtspunkt",
+        "Kabine mit Glasboden"
+      ],
+      "when_to_visit": "<p>Sommer 2026: vom 4. Juli bis 28. August laut Les 3 Vallées. Doch die entscheidende Frage ist nicht der Zeitraum, sondern der Wochentag: Die Gondelbahn ist von Donnerstag bis einschließlich Samstag geschlossen. Am besten an einem Sonntag, Montag, Dienstag oder Mittwoch kommen.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -163,6 +293,136 @@
         "Glass-floored cabin"
       ],
       "when_to_visit": "<p>Summer 2026: 4 July to 28 August per Les 3 Vallées. But the question that matters is not the period, it is the day: the gondola is closed Thursday to Saturday inclusive. Come on a Sunday, Monday, Tuesday or Wednesday.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "1 000 m de desnivel en 8 minutos hasta los 2 804 m, según la fórmula del operador.",
+          "tag": "Verano",
+          "title": "Subir a la Pointe de la Masse"
+        },
+        {
+          "description": "Se ofrece una cabina con suelo de cristal, con un suplemento no cifrado por las fuentes consultadas.",
+          "tag": null,
+          "title": "Tomar la cabina con suelo de cristal"
+        },
+        {
+          "description": "El acceso a la sala de máquinas se anuncia como incluido con el billete peatonal.",
+          "tag": null,
+          "title": "Visitar la sala de máquinas"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>Telecabina de la Pointe de la Masse</strong> sube a 2 804 m por encima de Les Menuires, en el municipio de <strong>Les Belleville</strong>. Es una telecabina desembragable de 10 plazas, no un teleférico, al contrario de lo que se lee a menudo.</p><p>Un dato condiciona todo lo demás: <strong>está cerrada de jueves a sábado incluidos</strong>. Solo funciona de domingo a miércoles, mientras que el resto del dominio de Les Menuires abre los siete días de la semana. Lo publica expresamente Les 3 Vallées, y es el tipo de detalle que puede estropear una jornada.</p><p>El operador anuncia 1 000 m de desnivel en 8 minutos, una cabina con suelo de cristal opcional, y el acceso a la sala de máquinas incluido con el billete peatonal.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "De pago",
+        "best_season": "Verano (4 de julio – 28 de agosto de 2026)",
+        "commune": "Les Belleville",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Telecabina",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "No. Es una telecabina desembragable de 10 plazas (TCD10), designada « gondola lift » por Les Menuires. No existe un « téléphérique de la Pointe de la Masse ».",
+          "q": "¿Llega un teleférico a la Pointe de la Masse?"
+        },
+        {
+          "a": "Solo de domingo a miércoles. Está cerrada de jueves a sábado incluidos, mientras que el resto del dominio de Les Menuires funciona los 7 días de la semana.",
+          "q": "¿Qué días funciona la telecabina?"
+        },
+        {
+          "a": "2 804 m. El operador anuncia 1 000 m de desnivel superados en 8 minutos.",
+          "q": "¿A qué altitud se llega?"
+        },
+        {
+          "a": "Sí, se ofrece una cabina con suelo de cristal. Ninguna fuente consultada cifra el suplemento.",
+          "q": "¿Hay una cabina con suelo de cristal?"
+        },
+        {
+          "a": "Un registro indica 26,00 € por la subida sencilla de adulto y 19,50 € con el pase ascensional, pero estas tarifas no están confirmadas en una página de tarifas del operador.",
+          "q": "¿Cuánto cuesta la subida?"
+        }
+      ],
+      "hero": {
+        "badge": "De pago · Cerrada de jueves a sábado",
+        "lead": "La Telecabina de la Pointe de la Masse sube a 2 804 m por encima de Les Menuires. Solo funciona de domingo a miércoles, mientras el resto del dominio abre todos los días."
+      },
+      "hero_alt": "Telecabina de la Pointe de la Masse, Les Menuires, Les Belleville, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Acceso por Les Menuires, municipio de Les Belleville. El punto GPS de esta ficha es el del mirador en la cima, no el de la estación de salida.",
+        "public_transport": null
+      },
+      "meta_description": "Telecabina a 2 804 m por encima de Les Menuires, cerrada de jueves a sábado incluidos. Cabina con suelo de cristal y sala de máquinas incluida con el billete peatonal.",
+      "meta_title": "Telecabina de la Pointe de la Masse · 2 804 m, días de apertura",
+      "name": "Telecabina de la Pointe de la Masse",
+      "name_alternates": [
+        "Pointe de la Masse",
+        "La Masse",
+        "TCD10 de la Pointe de la Masse"
+      ],
+      "practical_info": [
+        {
+          "k": "Tipo",
+          "v": "Telecabina desembragable de 10 plazas (TCD10). No es un teleférico."
+        },
+        {
+          "k": "Altitud de llegada",
+          "v": "2 804 m"
+        },
+        {
+          "k": "Días de apertura",
+          "v": "De domingo a miércoles. Cerrada de jueves a sábado incluidos, al contrario que el resto del dominio de Les Menuires.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Verano 2026",
+          "v": "Del 4 de julio al 28 de agosto de 2026 según Les 3 Vallées. Una fuente secundaria escribe « del 5 de julio al 29 de agosto ».",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Duración",
+          "v": "1 000 m de desnivel en 8 minutos (fórmula del operador)"
+        },
+        {
+          "k": "Coordenadas",
+          "v": "45.299101° N, 6.509023° E — mirador en la cima según la ficha DATAtourisme, no la estación de salida"
+        },
+        {
+          "k": "Tarifa",
+          "v": "26,00 € por la subida sencilla de adulto (18 años o más), 19,50 € con el pase ascensional. No confirmados en una página de tarifas del operador."
+        },
+        {
+          "k": "Cabina con suelo de cristal",
+          "v": "Ofrecida como opción. Suplemento no cifrado por las fuentes consultadas."
+        },
+        {
+          "k": "Sala de máquinas",
+          "v": "Acceso anunciado como incluido con el billete peatonal. Horarios no publicados."
+        },
+        {
+          "k": "Animales",
+          "v": null
+        },
+        {
+          "k": "Accesibilidad",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Telecabina",
+        "Mirador",
+        "Cabina con suelo de cristal"
+      ],
+      "when_to_visit": "<p>Verano 2026: del 4 de julio al 28 de agosto según Les 3 Vallées. Pero la cuestión importante no es el periodo, sino el día: la telecabina está cerrada de jueves a sábado incluidos. Hay que venir un domingo, un lunes, un martes o un miércoles.</p>"
     },
     "fr": {
       "activities": [
@@ -293,6 +553,266 @@
         "Cabine à plancher de verre"
       ],
       "when_to_visit": "<p>Été 2026 : du 4 juillet au 28 août selon Les 3 Vallées. Mais la question qui compte n'est pas la période, c'est le jour : la télécabine est fermée du jeudi au samedi inclus. Venir un dimanche, un lundi, un mardi ou un mercredi.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "1 000 m di dislivello in 8 minuti fino a 2 804 m, secondo la formula del gestore.",
+          "tag": "Estate",
+          "title": "Salire alla Pointe de la Masse"
+        },
+        {
+          "description": "È proposta una cabina con pavimento in vetro, con supplemento non quantificato dalle fonti consultate.",
+          "tag": null,
+          "title": "Prendere la cabina con pavimento in vetro"
+        },
+        {
+          "description": "L'accesso alla sala macchine è annunciato come incluso nel biglietto pedonale.",
+          "tag": null,
+          "title": "Visitare la sala macchine"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>Cabinovia della Pointe de la Masse</strong> sale a 2 804 m sopra Les Menuires, nel comune di <strong>Les Belleville</strong>. È una cabinovia ad ammorsamento automatico da 10 posti — non una funivia, contrariamente a quanto si legge spesso.</p><p>Un punto condiziona tutto il resto: <strong>è chiusa dal giovedì al sabato compreso</strong>. Funziona solo dalla domenica al mercoledì, mentre il resto del comprensorio di Les Menuires è aperto sette giorni su sette. Lo scrive nero su bianco Les 3 Vallées, ed è il genere di dettaglio che rovina una giornata.</p><p>Il gestore annuncia 1 000 m di dislivello in 8 minuti, una cabina con pavimento in vetro in opzione, e l'accesso alla sala macchine incluso nel biglietto pedonale.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "A pagamento",
+        "best_season": "Estate (4 luglio – 28 agosto 2026)",
+        "commune": "Les Belleville",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Cabinovia",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "No. È una cabinovia ad ammorsamento automatico da 10 posti (TCD10), indicata come « gondola lift » da Les Menuires. Un « téléphérique de la Pointe de la Masse » non esiste.",
+          "q": "La Pointe de la Masse è servita da una funivia?"
+        },
+        {
+          "a": "Solo dalla domenica al mercoledì. È chiusa dal giovedì al sabato compreso, mentre il resto del comprensorio di Les Menuires funziona 7 giorni su 7.",
+          "q": "In quali giorni funziona la cabinovia?"
+        },
+        {
+          "a": "2 804 m. Il gestore annuncia 1 000 m di dislivello superati in 8 minuti.",
+          "q": "A quale altitudine si arriva?"
+        },
+        {
+          "a": "Sì, è proposta una cabina con pavimento in vetro. Il supplemento non è quantificato da alcuna fonte consultata.",
+          "q": "C'è una cabina con pavimento in vetro?"
+        },
+        {
+          "a": "Un rilevamento indica 26,00 € per la salita singola adulto e 19,50 € con il pass ascensionale, ma queste tariffe non sono confermate su una pagina tariffaria del gestore.",
+          "q": "Quanto costa la salita?"
+        }
+      ],
+      "hero": {
+        "badge": "A pagamento · Chiusa da giovedì a sabato",
+        "lead": "La cabinovia della Pointe de la Masse sale a 2 804 m sopra Les Menuires. Funziona solo dalla domenica al mercoledì — il resto del comprensorio, invece, apre tutti i giorni."
+      },
+      "hero_alt": "Cabinovia della Pointe de la Masse, Les Menuires, Les Belleville, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Accesso da Les Menuires, comune di Les Belleville. Il punto GPS di questa scheda è quello del punto panoramico in cima, non della stazione di partenza.",
+        "public_transport": null
+      },
+      "meta_description": "Cabinovia a 2 804 m sopra Les Menuires, chiusa dal giovedì al sabato compreso. Cabina con pavimento in vetro e sala macchine inclusa nel biglietto pedonale.",
+      "meta_title": "Télécabine de la Pointe de la Masse · 2 804 m, giorni di apertura",
+      "name": "Télécabine de la Pointe de la Masse",
+      "name_alternates": [
+        "Pointe de la Masse",
+        "La Masse",
+        "TCD10 de la Pointe de la Masse"
+      ],
+      "practical_info": [
+        {
+          "k": "Tipo",
+          "v": "Cabinovia ad ammorsamento automatico da 10 posti (TCD10). Non è una funivia."
+        },
+        {
+          "k": "Altitudine di arrivo",
+          "v": "2 804 m"
+        },
+        {
+          "k": "Giorni di apertura",
+          "v": "Dalla domenica al mercoledì. Chiusa dal giovedì al sabato compreso, a differenza del resto del comprensorio di Les Menuires.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Estate 2026",
+          "v": "Dal 4 luglio al 28 agosto 2026 secondo Les 3 Vallées. Una fonte secondaria scrive « dal 5 luglio al 29 agosto ».",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Durata",
+          "v": "1 000 m di dislivello in 8 minuti (formula del gestore)"
+        },
+        {
+          "k": "Coordinate",
+          "v": "45.299101° N, 6.509023° E — punto panoramico in cima secondo la scheda DATAtourisme, non la stazione di partenza"
+        },
+        {
+          "k": "Tariffa",
+          "v": "26,00 € per la salita singola adulto (18 anni e oltre), 19,50 € con il pass ascensionale. Non confermati su una pagina tariffaria del gestore."
+        },
+        {
+          "k": "Cabina con pavimento in vetro",
+          "v": "Proposta in opzione. Supplemento non quantificato dalle fonti consultate."
+        },
+        {
+          "k": "Sala macchine",
+          "v": "Accesso annunciato come incluso nel biglietto pedonale. Orari non pubblicati."
+        },
+        {
+          "k": "Animali",
+          "v": null
+        },
+        {
+          "k": "Accessibilità",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Cabinovia",
+        "Punto panoramico",
+        "Cabina con pavimento in vetro"
+      ],
+      "when_to_visit": "<p>Estate 2026: dal 4 luglio al 28 agosto secondo Les 3 Vallées. Ma la domanda che conta non è il periodo, è il giorno: la cabinovia è chiusa dal giovedì al sabato compreso. Venire di domenica, lunedì, martedì o mercoledì.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "1 000 m hoogteverschil in 8 minuten tot 2 804 m, volgens de formule van de exploitant.",
+          "tag": "Zomer",
+          "title": "Naar de Pointe de la Masse omhooggaan"
+        },
+        {
+          "description": "Er wordt een cabine met glazen vloer aangeboden, met een toeslag die door de geraadpleegde bronnen niet wordt becijferd.",
+          "tag": null,
+          "title": "De cabine met glazen vloer nemen"
+        },
+        {
+          "description": "De toegang tot de machinekamer wordt aangekondigd als inbegrepen bij het voetgangersticket.",
+          "tag": null,
+          "title": "De machinekamer bezoeken"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>gondelbaan van de Pointe de la Masse</strong> klimt naar 2 804 m boven Les Menuires, in de gemeente <strong>Les Belleville</strong>. Het is een ontkoppelbare gondelbaan met 10 plaatsen — geen kabelbaan, in tegenstelling tot wat vaak wordt geschreven.</p><p>Eén punt bepaalt al de rest: <strong>hij is gesloten van donderdag tot en met zaterdag</strong>. Hij draait alleen van zondag tot woensdag, terwijl de rest van het gebied van Les Menuires zeven dagen per week open is. Dat staat zwart op wit bij Les 3 Vallées, en het is het soort detail dat een dag kan bederven.</p><p>De exploitant kondigt 1 000 m hoogteverschil in 8 minuten aan, een optionele cabine met glazen vloer, en toegang tot de machinekamer inbegrepen bij het voetgangersticket.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Betaald",
+        "best_season": "Zomer (4 juli – 28 augustus 2026)",
+        "commune": "Les Belleville",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Gondelbaan",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Nee. Het is een ontkoppelbare gondelbaan met 10 plaatsen (TCD10), door Les Menuires aangeduid als « gondola lift ». Een « téléphérique de la Pointe de la Masse » bestaat niet.",
+          "q": "Wordt de Pointe de la Masse bediend door een kabelbaan?"
+        },
+        {
+          "a": "Alleen van zondag tot woensdag. Hij is gesloten van donderdag tot en met zaterdag, terwijl de rest van het gebied van Les Menuires 7 dagen per week draait.",
+          "q": "Op welke dagen draait de gondelbaan?"
+        },
+        {
+          "a": "2 804 m. De exploitant kondigt 1 000 m hoogteverschil aan, overbrugd in 8 minuten.",
+          "q": "Op welke hoogte komt u aan?"
+        },
+        {
+          "a": "Ja, er wordt een cabine met glazen vloer aangeboden. De toeslag wordt door geen enkele geraadpleegde bron becijferd.",
+          "q": "Is er een cabine met glazen vloer?"
+        },
+        {
+          "a": "Eén registratie geeft 26,00 € voor een enkele rit omhoog voor volwassenen en 19,50 € met de pass ascensionnel, maar deze tarieven zijn niet bevestigd op een tarievenpagina van de exploitant.",
+          "q": "Hoeveel kost de rit omhoog?"
+        }
+      ],
+      "hero": {
+        "badge": "Betaald · Gesloten donderdag tot zaterdag",
+        "lead": "De gondelbaan van de Pointe de la Masse klimt naar 2 804 m boven Les Menuires. Hij draait alleen van zondag tot woensdag — de rest van het gebied is wel elke dag open."
+      },
+      "hero_alt": "Gondelbaan Pointe de la Masse, Les Menuires, Les Belleville, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Toegang via Les Menuires, gemeente Les Belleville. Het GPS-punt van deze fiche is dat van het uitzichtpunt op de top, niet van het dalstation.",
+        "public_transport": null
+      },
+      "meta_description": "Gondelbaan naar 2 804 m boven Les Menuires, gesloten van donderdag tot en met zaterdag. Cabine met glazen vloer en machinekamer inbegrepen bij het voetgangersticket.",
+      "meta_title": "Gondelbaan Pointe de la Masse · 2 804 m, openingsdagen",
+      "name": "Gondelbaan Pointe de la Masse",
+      "name_alternates": [
+        "Pointe de la Masse",
+        "La Masse",
+        "TCD10 de la Pointe de la Masse"
+      ],
+      "practical_info": [
+        {
+          "k": "Type",
+          "v": "Ontkoppelbare gondelbaan met 10 plaatsen (TCD10). Het is geen kabelbaan."
+        },
+        {
+          "k": "Aankomsthoogte",
+          "v": "2 804 m"
+        },
+        {
+          "k": "Openingsdagen",
+          "v": "Van zondag tot woensdag. Gesloten van donderdag tot en met zaterdag, in tegenstelling tot de rest van het gebied van Les Menuires.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Zomer 2026",
+          "v": "Van 4 juli tot 28 augustus 2026 volgens Les 3 Vallées. Een secundaire bron schrijft « van 5 juli tot 29 augustus ».",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Duur",
+          "v": "1 000 m hoogteverschil in 8 minuten (formule van de exploitant)"
+        },
+        {
+          "k": "Coördinaten",
+          "v": "45.299101° N, 6.509023° E — uitzichtpunt op de top volgens het DATAtourisme-record, niet het dalstation"
+        },
+        {
+          "k": "Tarief",
+          "v": "26,00 € voor een enkele rit omhoog voor volwassenen (18 jaar en ouder), 19,50 € met de pass ascensionnel. Niet bevestigd op een tarievenpagina van de exploitant."
+        },
+        {
+          "k": "Cabine met glazen vloer",
+          "v": "Aangeboden als optie. Toeslag niet becijferd door de geraadpleegde bronnen."
+        },
+        {
+          "k": "Machinekamer",
+          "v": "Toegang aangekondigd als inbegrepen bij het voetgangersticket. Openingstijden niet gepubliceerd."
+        },
+        {
+          "k": "Dieren",
+          "v": null
+        },
+        {
+          "k": "Toegankelijkheid",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Gondelbaan",
+        "Uitzichtpunt",
+        "Cabine met glazen vloer"
+      ],
+      "when_to_visit": "<p>Zomer 2026: van 4 juli tot 28 augustus volgens Les 3 Vallées. Maar de vraag die telt is niet de periode, maar de dag: de gondelbaan is gesloten van donderdag tot en met zaterdag. Kom op een zondag, maandag, dinsdag of woensdag.</p>"
     }
   },
   "latitude": 45.299101,

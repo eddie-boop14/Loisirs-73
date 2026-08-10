@@ -37,6 +37,132 @@
   "hero_credit": "Florian Pépellin · CC BY-SA 4.0 · Wikimedia Commons",
   "hero_image": "/img/telecabines/vanoise-express-hero.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "1 824 m Spannweite ohne Stütze, bis zu 380 m über dem Talgrund, in zwei doppelstöckigen Kabinen.",
+          "tag": null,
+          "title": "Das Tal des Ponturin überqueren"
+        },
+        {
+          "description": "Der Vanoise Express ist die Verbindung zwischen Les Arcs und La Plagne, die zusammen das Paradiski bilden. Im Winter ist er im Paradiski-Pass enthalten.",
+          "tag": null,
+          "title": "Von einem Skigebiet ins andere wechseln"
+        },
+        {
+          "description": "Mountainbikes werden zum normalen Fußgängertarif befördert.",
+          "tag": "Sommer",
+          "title": "Mit dem Mountainbike einsteigen"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Der <strong>Vanoise Express</strong> verbindet Plan-Peisey, auf dem Gebiet der Gemeinde Peisey-Nancroix (1 612 m), mit Montchavin, einem Ortsteil von La Plagne Tarentaise (1 548 m). Er ist die Verbindung zwischen den Skigebieten von Les Arcs und La Plagne, die zusammen das Paradiski bilden. Betrieben wird er von der SELALP, einer Tochter der Compagnie des Alpes.</p><p>Die von Pomagalski (POMA) gebaute und im Dezember 2003 in Betrieb genommene Anlage überquert das Tal des Ponturin — bis zu 380 m über dem Talgrund — ohne eine einzige Stütze, dank zweier paralleler, unabhängiger Systeme. Jede doppelstöckige Kabine befördert 200 Personen plus einen Begleiter, mit 12,5 m/s, also 45 km/h. Die Überfahrt dauert 3 min 50 s laut dem Tourismusbüro von Peisey-Vallandry, 4 Minuten laut anderen Quellen.</p><p>Der Punkt, den sich ein Sommerbesucher merken sollte: 2026 fährt die Seilbahn nur an vier Tagen pro Woche — Montag, Dienstag, Donnerstag und Freitag — mit einer Pause von 12h45 bis 14h00. Mittwochs, samstags und sonntags ist sie geschlossen.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Kostenpflichtig",
+        "best_season": "6. Juli – 28. August 2026, Montag bis Freitag außer Mittwoch",
+        "commune": "Peisey-Nancroix",
+        "dogs": null,
+        "duration": "3 min 50 s laut dem OT Peisey-Vallandry (4 min andernorts)",
+        "parking": "Kostenlos auf der Peisey-Seite (Zeschierses, Aiguilles)",
+        "tarif": "Fußgänger Erwachsene hin und zurück 17 € (Sommer 2026)",
+        "type": "Doppelstöckige Seilbahn",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Nur montags, dienstags, donnerstags und freitags, vom 6. Juli bis 28. August 2026, von 9h00 bis 12h45 und von 14h00 bis 17h40. Mittwochs, samstags und sonntags ist er geschlossen.",
+          "q": "An welchen Tagen fährt der Vanoise Express im Sommer 2026?"
+        },
+        {
+          "a": "Hin- und Rückfahrt Erwachsene 17 € im Sommer 2026, eine Zahl, in der alle Quellen übereinstimmen. Die einfache Fahrt für Erwachsene wird vom Tarif-PDF des Betreibers mit 11 € und von einigen Tourismus-Fichen mit 9 € angegeben: Der Widerspruch ist nicht entschieden.",
+          "q": "Was kostet die Überfahrt zu Fuß?"
+        },
+        {
+          "a": "Im Winter ja, mit einem Paradiski-Pass. In den Fußgängerpässen von La Plagne ist er nicht enthalten. Im Sommer zahlen Fußgänger pro Fahrt.",
+          "q": "Ist der Vanoise Express im Skipass enthalten?"
+        },
+        {
+          "a": "In Plan-Peisey, auf dem Gebiet der Gemeinde Peisey-Nancroix (73210), und in Montchavin, einem Ortsteil von La Plagne Tarentaise (73210). « Peisey-Vallandry » ist ein Stationsname, kein Gemeindename.",
+          "q": "Wo genau liegen die beiden Stationen?"
+        },
+        {
+          "a": "Die Tourismus-Fichen widersprechen sich: Einige sagen ja, andere nein. Wir veröffentlichen keine Antwort. Rufen Sie vor einer Fahrt mit Tier die 04 79 09 67 00 an.",
+          "q": "Sind Hunde im Vanoise Express erlaubt?"
+        }
+      ],
+      "hero": {
+        "badge": "Kostenpflichtig · 4 Tage pro Woche im Sommer",
+        "lead": "Der Vanoise Express überquert das Tal des Ponturin ohne eine einzige Stütze, zwischen Plan-Peisey (1 612 m) und Montchavin (1 548 m), mit zwei doppelstöckigen Kabinen für 200 Personen. Im Sommer 2026 verkehrt er nur montags, dienstags, donnerstags und freitags."
+      },
+      "hero_alt": "Seilbahn Vanoise Express über dem Tal des Ponturin, Savoie",
+      "how_to_get_there": {
+        "bike": "Mountainbikes werden zum normalen Fußgängertarif befördert.",
+        "car": "Station Plan-Peisey, Viertel Le Télépôle, 73210 Peisey-Nancroix. Kostenlose öffentliche Parkplätze in der Nähe.",
+        "public_transport": "Shuttlebus nach Plan-Peisey; der Parkplatz Les Zeschierses liegt unterhalb der Shuttle-Haltestelle des Vanoise Express."
+      },
+      "meta_description": "Doppelstöckige Seilbahn zwischen Plan-Peisey (1 612 m) und Montchavin (1 548 m). Sommer 2026: 6. Juli – 28. August, nur Montag, Dienstag, Donnerstag und Freitag. Fußgänger hin und zurück 17 €.",
+      "meta_title": "Vanoise Express · Zeiten und Preise Sommer 2026 (Paradiski)",
+      "name": "Vanoise Express",
+      "name_alternates": [
+        "Téléphérique Vanoise Express",
+        "Vanoise Express Paradiski",
+        "Plan-Peisey – Montchavin"
+      ],
+      "practical_info": [
+        {
+          "k": "Höhe",
+          "v": "Plan-Peisey 1 612 m · Montchavin 1 548 m"
+        },
+        {
+          "k": "Koordinaten",
+          "v": "45.551125° N, 6.763596° O — veröffentlichter Punkt für die Station Plan-Peisey. Die beiden für diese Anlage veröffentlichten Koordinaten liegen rund 1,13 km auseinander, während die Spannweite 1 824 m beträgt: Mindestens eine der beiden ist keine Station. Als Näherungswert zu behandeln."
+        },
+        {
+          "k": "Betreiber",
+          "v": "SELALP — Société d'Exploitation de la Liaison Les Arcs La Plagne (Gruppe Compagnie des Alpes)"
+        },
+        {
+          "k": "Zeiten Sommer 2026",
+          "v": "Vom 6. Juli bis 28. August 2026, nur Montag, Dienstag, Donnerstag und Freitag, 9h00–12h45 und 14h00–17h40. Mittwochs, samstags und sonntags geschlossen.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Preise Sommer 2026",
+          "v": "Erwachsene einfache Fahrt 11 €, hin und zurück 17 €. Kinder 5–12 Jahre und Senioren 65–74 Jahre: 9 € / 14 €. Kostenlos unter 5 Jahren und ab 75 Jahren. Mountainbikes zum Fußgängertarif. Einige Fichen nennen 9 € für die einfache Fahrt Erwachsener: Widerspruch ungeklärt.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Preise Winter 2025/26",
+          "v": "Erwachsene 9 € einfache Fahrt, 16 € hin und zurück; Kinder 5–12 Jahre 8 € / 13 €. Im Paradiski-Pass enthalten.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Parkplatz",
+          "v": "Auf der Peisey-Seite sind alle öffentlichen Parkplätze kostenlos, im Sommer wie im Winter: Parkplatz Les Zeschierses (80 Plätze, unterhalb der Shuttle-Haltestelle des Vanoise Express), Parkplatz Les Aiguilles (70 Plätze, Plan-Peisey). Auf der Montchavin-Seite keine belegten Informationen."
+        },
+        {
+          "k": "Haustiere",
+          "v": null
+        },
+        {
+          "k": "Barrierefreiheit",
+          "v": "Mit Rollstuhl mit Unterstützung zugänglich laut dem Tourismusbüro von Peisey-Vallandry. Die Website des Betreibers sagt dazu nichts."
+        },
+        {
+          "k": "Kontakt",
+          "v": "04 79 09 67 00 (Fiche der Seilbahn, Peisey-Seite)"
+        }
+      ],
+      "schema_amenities": [
+        "Kostenloser Parkplatz (Peisey-Seite)",
+        "Mountainbike-Beförderung"
+      ],
+      "when_to_visit": "<p>Sommer 2026: vom 6. Juli bis 28. August, nur vier Tage pro Woche. Winter: Die Anlage fährt während der Skisaison und ist im Paradiski-Pass enthalten; die Daten 2026/27 sind nicht veröffentlicht.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -159,6 +285,132 @@
         "Bike carriage"
       ],
       "when_to_visit": "<p>Summer 2026: 6 July to 28 August, four days a week only. In winter it runs through the ski season and is included in the Paradiski pass; 2026/27 dates are not published.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "1 824 m de vano sin pilonas, hasta 380 m por encima del fondo del valle, en dos cabinas de dos pisos.",
+          "tag": null,
+          "title": "Atravesar el valle del Ponturin"
+        },
+        {
+          "description": "El Vanoise Express es el enlace entre Les Arcs y La Plagne, que forman el Paradiski. En invierno está incluido en el forfait Paradiski.",
+          "tag": null,
+          "title": "Pasar de un dominio al otro"
+        },
+        {
+          "description": "Las bicicletas de montaña se transportan a la tarifa peatonal estándar.",
+          "tag": "Verano",
+          "title": "Subir con la bicicleta de montaña"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>Vanoise Express</strong> une Plan-Peisey, en el municipio de Peisey-Nancroix (1 612 m), con Montchavin, pueblo de La Plagne Tarentaise (1 548 m). Es el enlace entre los dominios de Les Arcs y de La Plagne, que forman juntos el Paradiski. Lo explota la SELALP, filial de la Compagnie des Alpes.</p><p>La instalación, construida por Pomagalski (POMA) y puesta en servicio en diciembre de 2003, cruza el valle del Ponturin — hasta 380 m por encima del fondo del valle — sin ninguna pilona, gracias a dos sistemas paralelos independientes. Cada cabina de dos pisos transporta 200 personas más un agente, a 12,5 m/s, es decir 45 km/h. La travesía dura 3 min 50 s según la oficina de turismo de Peisey-Vallandry, 4 minutos según otras fuentes.</p><p>El punto que debe retener un visitante estival: en 2026 el teleférico solo funciona cuatro días por semana — lunes, martes, jueves y viernes — con una pausa de 12h45 a 14h00. Está cerrado los miércoles, sábados y domingos.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "De pago",
+        "best_season": "6 de julio – 28 de agosto de 2026, de lunes a viernes salvo miércoles",
+        "commune": "Peisey-Nancroix",
+        "dogs": null,
+        "duration": "3 min 50 s según la OT de Peisey-Vallandry (4 min en otras fuentes)",
+        "parking": "Gratuito en el lado de Peisey (Zeschierses, Aiguilles)",
+        "tarif": "Peatón adulto ida y vuelta 17 € (verano 2026)",
+        "type": "Teleférico de dos pisos",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Únicamente los lunes, martes, jueves y viernes, del 6 de julio al 28 de agosto de 2026, de 9h00 a 12h45 y de 14h00 a 17h40. Está cerrado los miércoles, sábados y domingos.",
+          "q": "¿Qué días funciona el Vanoise Express en verano de 2026?"
+        },
+        {
+          "a": "Ida y vuelta adulto 17 € en verano de 2026, cifra en la que todas las fuentes coinciden. El trayecto sencillo adulto figura en 11 € en el PDF de tarifas del operador y en 9 € en algunas fichas turísticas: la contradicción no está zanjada.",
+          "q": "¿Cuánto cuesta la travesía a pie?"
+        },
+        {
+          "a": "En invierno, sí, con un forfait Paradiski. No está incluido en los forfaits peatonales de La Plagne. En verano, los peatones pagan por trayecto.",
+          "q": "¿Está el Vanoise Express incluido en el forfait de esquí?"
+        },
+        {
+          "a": "En Plan-Peisey, en el municipio de Peisey-Nancroix (73210), y en Montchavin, pueblo de La Plagne Tarentaise (73210). « Peisey-Vallandry » es un nombre de estación, no de municipio.",
+          "q": "¿Dónde se encuentran exactamente las dos estaciones?"
+        },
+        {
+          "a": "Las fichas turísticas se contradicen: algunas dicen que sí, otras que no. No publicamos una respuesta. Llame al 04 79 09 67 00 antes de desplazarse con un animal.",
+          "q": "¿Se aceptan los perros en el Vanoise Express?"
+        }
+      ],
+      "hero": {
+        "badge": "De pago · 4 días por semana en verano",
+        "lead": "El Vanoise Express cruza el valle del Ponturin sin una sola pilona, entre Plan-Peisey (1 612 m) y Montchavin (1 548 m), con dos cabinas de dos pisos de 200 plazas. En verano de 2026 solo circula los lunes, martes, jueves y viernes."
+      },
+      "hero_alt": "Teleférico Vanoise Express sobre el valle del Ponturin, Savoie",
+      "how_to_get_there": {
+        "bike": "Bicicletas de montaña transportadas a la tarifa peatonal estándar.",
+        "car": "Estación de Plan-Peisey, barrio del Télépôle, 73210 Peisey-Nancroix. Aparcamientos públicos gratuitos en las inmediaciones.",
+        "public_transport": "Lanzadera que da servicio a Plan-Peisey; el aparcamiento de Les Zeschierses está situado bajo la parada de la lanzadera del Vanoise Express."
+      },
+      "meta_description": "Teleférico de dos pisos entre Plan-Peisey (1 612 m) y Montchavin (1 548 m). Verano 2026: 6 de julio – 28 de agosto, solo lunes, martes, jueves y viernes. Peatón ida y vuelta 17 €.",
+      "meta_title": "Vanoise Express · Horarios y tarifas verano 2026 (Paradiski)",
+      "name": "Vanoise Express",
+      "name_alternates": [
+        "Téléphérique Vanoise Express",
+        "Vanoise Express Paradiski",
+        "Plan-Peisey – Montchavin"
+      ],
+      "practical_info": [
+        {
+          "k": "Altitud",
+          "v": "Plan-Peisey 1 612 m · Montchavin 1 548 m"
+        },
+        {
+          "k": "Coordenadas",
+          "v": "45.551125° N, 6.763596° E — punto publicado para la estación de Plan-Peisey. Las dos coordenadas publicadas para esta instalación distan alrededor de 1,13 km cuando el vano es de 1 824 m: al menos una de las dos no es una estación. Debe tratarse como aproximada."
+        },
+        {
+          "k": "Operador",
+          "v": "SELALP — Société d'Exploitation de la Liaison Les Arcs La Plagne (grupo Compagnie des Alpes)"
+        },
+        {
+          "k": "Horarios verano 2026",
+          "v": "Del 6 de julio al 28 de agosto de 2026, únicamente lunes, martes, jueves y viernes, 9h00–12h45 y 14h00–17h40. Cerrado miércoles, sábados y domingos.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Tarifas verano 2026",
+          "v": "Adulto trayecto sencillo 11 €, ida y vuelta 17 €. Niño de 5–12 años y sénior de 65–74 años: 9 € / 14 €. Gratuito para menores de 5 años y a partir de 75 años. Bicicleta de montaña a la tarifa peatonal. Algunas fichas anuncian 9 € para el trayecto sencillo adulto: contradicción sin resolver.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Tarifas invierno 2025/26",
+          "v": "Adulto 9 € trayecto sencillo, 16 € ida y vuelta; niño de 5–12 años 8 € / 13 €. Incluido en el forfait Paradiski.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Aparcamiento",
+          "v": "En el lado de Peisey, todos los aparcamientos públicos son gratuitos, tanto en verano como en invierno: aparcamiento de Les Zeschierses (80 plazas, bajo la parada de la lanzadera del Vanoise Express), aparcamiento de Les Aiguilles (70 plazas, Plan-Peisey). En el lado de Montchavin, ninguna información con fuente."
+        },
+        {
+          "k": "Animales",
+          "v": null
+        },
+        {
+          "k": "Accesibilidad",
+          "v": "Accesible en silla de ruedas con asistencia según la oficina de turismo de Peisey-Vallandry. El sitio del operador no dice nada al respecto."
+        },
+        {
+          "k": "Contacto",
+          "v": "04 79 09 67 00 (ficha del teleférico, lado de Peisey)"
+        }
+      ],
+      "schema_amenities": [
+        "Aparcamiento gratuito (lado de Peisey)",
+        "Transporte de bicicletas de montaña"
+      ],
+      "when_to_visit": "<p>Verano 2026: del 6 de julio al 28 de agosto, solo cuatro días por semana. Invierno: la instalación funciona durante la temporada de esquí y está incluida en el forfait Paradiski; las fechas 2026/27 no están publicadas.</p>"
     },
     "fr": {
       "activities": [
@@ -285,6 +537,258 @@
         "Transport de VTT"
       ],
       "when_to_visit": "<p>Été 2026 : du 6 juillet au 28 août, quatre jours par semaine seulement. Hiver : l'appareil fonctionne pendant la saison de ski et est inclus dans le forfait Paradiski ; les dates 2026/27 ne sont pas publiées.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "1 824 m di campata senza piloni, fino a 380 m sopra il fondovalle, in due cabine a due piani.",
+          "tag": null,
+          "title": "Attraversare la valle del Ponturin"
+        },
+        {
+          "description": "Il Vanoise Express è il collegamento tra Les Arcs e La Plagne, che formano il Paradiski. In inverno è incluso nel forfait Paradiski.",
+          "tag": null,
+          "title": "Passare da un comprensorio all'altro"
+        },
+        {
+          "description": "Le mountain bike sono trasportate alla tariffa pedone standard.",
+          "tag": "Estate",
+          "title": "Salire con la propria mountain bike"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Il <strong>Vanoise Express</strong> collega Plan-Peisey, nel comune di Peisey-Nancroix (1 612 m), a Montchavin, villaggio di La Plagne Tarentaise (1 548 m). È il collegamento tra i comprensori di Les Arcs e La Plagne, che formano insieme il Paradiski. È gestito dalla SELALP, filiale della Compagnie des Alpes.</p><p>L'impianto, costruito da Pomagalski (POMA) e messo in servizio nel dicembre 2003, supera la valle del Ponturin — fino a 380 m sopra il fondovalle — senza alcun pilone, grazie a due sistemi paralleli indipendenti. Ogni cabina a due piani trasporta 200 persone più un addetto, a 12,5 m/s, ovvero 45 km/h. La traversata dura 3 min 50 s secondo l'ufficio del turismo di Peisey-Vallandry, 4 minuti secondo altre fonti.</p><p>Il punto da ricordare per un visitatore estivo: nel 2026 la funivia funziona solo quattro giorni a settimana — lunedì, martedì, giovedì e venerdì — con una pausa dalle 12h45 alle 14h00. È chiusa il mercoledì, il sabato e la domenica.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "A pagamento",
+        "best_season": "6 luglio – 28 agosto 2026, dal lunedì al venerdì salvo il mercoledì",
+        "commune": "Peisey-Nancroix",
+        "dogs": null,
+        "duration": "3 min 50 s secondo l'OT di Peisey-Vallandry (4 min altrove)",
+        "parking": "Gratuito lato Peisey (Zeschierses, Aiguilles)",
+        "tarif": "Pedone adulto A/R 17 € (estate 2026)",
+        "type": "Funivia a due piani",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Solo il lunedì, il martedì, il giovedì e il venerdì, dal 6 luglio al 28 agosto 2026, dalle 9h00 alle 12h45 poi dalle 14h00 alle 17h40. È chiusa il mercoledì, il sabato e la domenica.",
+          "q": "In quali giorni funziona il Vanoise Express nell'estate 2026?"
+        },
+        {
+          "a": "Andata e ritorno adulto 17 € nell'estate 2026, cifra su cui tutte le fonti concordano. La sola andata adulto è indicata a 11 € dal PDF tariffario del gestore e a 9 € da alcune schede turistiche: la contraddizione non è risolta.",
+          "q": "Quanto costa la traversata a piedi?"
+        },
+        {
+          "a": "In inverno sì, con un forfait Paradiski. Non è incluso nei forfait pedoni di La Plagne. In estate i pedoni pagano a tragitto.",
+          "q": "Il Vanoise Express è incluso nel forfait sci?"
+        },
+        {
+          "a": "A Plan-Peisey, nel comune di Peisey-Nancroix (73210), e a Montchavin, villaggio di La Plagne Tarentaise (73210). « Peisey-Vallandry » è un nome di stazione, non di comune.",
+          "q": "Dove si trovano esattamente le due stazioni?"
+        },
+        {
+          "a": "Le schede turistiche si contraddicono: alcune dicono sì, altre no. Non pubblichiamo una risposta. Chiamate lo 04 79 09 67 00 prima di mettervi in viaggio con un animale.",
+          "q": "I cani sono accettati sul Vanoise Express?"
+        }
+      ],
+      "hero": {
+        "badge": "A pagamento · 4 giorni a settimana in estate",
+        "lead": "Il Vanoise Express supera la valle del Ponturin senza un solo pilone, tra Plan-Peisey (1 612 m) e Montchavin (1 548 m), con due cabine a due piani da 200 posti. Nell'estate 2026 circola solo il lunedì, il martedì, il giovedì e il venerdì."
+      },
+      "hero_alt": "Funivia Vanoise Express sopra la valle del Ponturin, Savoie",
+      "how_to_get_there": {
+        "bike": "Mountain bike trasportate alla tariffa pedone standard.",
+        "car": "Stazione di Plan-Peisey, quartiere del Télépôle, 73210 Peisey-Nancroix. Parcheggi pubblici gratuiti nelle vicinanze.",
+        "public_transport": "Navetta che serve Plan-Peisey; il parcheggio degli Zeschierses è situato sotto la fermata della navetta del Vanoise Express."
+      },
+      "meta_description": "Funivia a due piani tra Plan-Peisey (1 612 m) e Montchavin (1 548 m). Estate 2026: 6 luglio – 28 agosto, solo lunedì, martedì, giovedì e venerdì. Pedone A/R 17 €.",
+      "meta_title": "Vanoise Express · Orari e tariffe estate 2026 (Paradiski)",
+      "name": "Vanoise Express",
+      "name_alternates": [
+        "Téléphérique Vanoise Express",
+        "Vanoise Express Paradiski",
+        "Plan-Peisey – Montchavin"
+      ],
+      "practical_info": [
+        {
+          "k": "Altitudine",
+          "v": "Plan-Peisey 1 612 m · Montchavin 1 548 m"
+        },
+        {
+          "k": "Coordinate",
+          "v": "45.551125° N, 6.763596° E — punto pubblicato per la stazione di Plan-Peisey. Le due coordinate pubblicate per questo impianto distano circa 1,13 km mentre la campata è di 1 824 m: almeno una delle due non è una stazione. Da trattare come approssimativa."
+        },
+        {
+          "k": "Gestore",
+          "v": "SELALP — Société d'Exploitation de la Liaison Les Arcs La Plagne (gruppo Compagnie des Alpes)"
+        },
+        {
+          "k": "Orari estate 2026",
+          "v": "Dal 6 luglio al 28 agosto 2026, solo lunedì, martedì, giovedì e venerdì, 9h00–12h45 e 14h00–17h40. Chiuso mercoledì, sabato e domenica.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Tariffe estate 2026",
+          "v": "Adulto sola andata 11 €, andata e ritorno 17 €. Bambino 5–12 anni e senior 65–74 anni: 9 € / 14 €. Gratuito sotto i 5 anni e dai 75 anni in su. Mountain bike alla tariffa pedone. Alcune schede annunciano 9 € per la sola andata adulto: contraddizione non risolta.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Tariffe inverno 2025/26",
+          "v": "Adulto 9 € sola andata, 16 € andata e ritorno; bambino 5–12 anni 8 € / 13 €. Incluso nel forfait Paradiski.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Parcheggio",
+          "v": "Lato Peisey, tutti i parcheggi pubblici sono gratuiti, sia in estate sia in inverno: parcheggio degli Zeschierses (80 posti, sotto la fermata della navetta del Vanoise Express), parcheggio delle Aiguilles (70 posti, Plan-Peisey). Lato Montchavin, nessuna informazione documentata."
+        },
+        {
+          "k": "Animali",
+          "v": null
+        },
+        {
+          "k": "Accessibilità",
+          "v": "Accessibile in sedia a rotelle con assistenza secondo l'ufficio del turismo di Peisey-Vallandry. Il sito del gestore non dice nulla al riguardo."
+        },
+        {
+          "k": "Contatto",
+          "v": "04 79 09 67 00 (scheda della funivia, lato Peisey)"
+        }
+      ],
+      "schema_amenities": [
+        "Parcheggio gratuito (lato Peisey)",
+        "Trasporto di mountain bike"
+      ],
+      "when_to_visit": "<p>Estate 2026: dal 6 luglio al 28 agosto, solo quattro giorni a settimana. Inverno: l'impianto funziona durante la stagione sciistica ed è incluso nel forfait Paradiski; le date 2026/27 non sono pubblicate.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "1 824 m overspanning zonder pyloon, tot 380 m boven de dalbodem, in twee cabines met twee verdiepingen.",
+          "tag": null,
+          "title": "Het dal van de Ponturin oversteken"
+        },
+        {
+          "description": "De Vanoise Express is de verbinding tussen Les Arcs en La Plagne, die samen het Paradiski vormen. In de winter is hij inbegrepen in de Paradiski-pas.",
+          "tag": null,
+          "title": "Van het ene skigebied naar het andere"
+        },
+        {
+          "description": "Mountainbikes worden vervoerd tegen het standaard voetgangerstarief.",
+          "tag": "Zomer",
+          "title": "Omhoog met uw mountainbike"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>Vanoise Express</strong> verbindt Plan-Peisey, in de gemeente Peisey-Nancroix (1 612 m), met Montchavin, een dorp van La Plagne Tarentaise (1 548 m). Het is de verbinding tussen de skigebieden van Les Arcs en La Plagne, die samen het Paradiski vormen. Hij wordt geëxploiteerd door de SELALP, een dochter van de Compagnie des Alpes.</p><p>De installatie, gebouwd door Pomagalski (POMA) en in gebruik genomen in december 2003, overspant het dal van de Ponturin — tot 380 m boven de dalbodem — zonder één pyloon, dankzij twee onafhankelijke parallelle systemen. Elke cabine met twee verdiepingen vervoert 200 personen plus een begeleider, met 12,5 m/s, ofwel 45 km/h. De oversteek duurt 3 min 50 s volgens het toeristenbureau van Peisey-Vallandry, 4 minuten volgens andere bronnen.</p><p>Het punt om te onthouden voor een zomerbezoeker: in 2026 werkt de kabelbaan slechts vier dagen per week — maandag, dinsdag, donderdag en vrijdag — met een onderbreking van 12u45 tot 14u00. Hij is gesloten op woensdag, zaterdag en zondag.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Betalend",
+        "best_season": "6 juli – 28 augustus 2026, van maandag tot vrijdag behalve woensdag",
+        "commune": "Peisey-Nancroix",
+        "dogs": null,
+        "duration": "3 min 50 s volgens het OT van Peisey-Vallandry (4 min elders)",
+        "parking": "Gratis aan de kant van Peisey (Zeschierses, Aiguilles)",
+        "tarif": "Voetganger volwassene retour 17 € (zomer 2026)",
+        "type": "Dubbeldekskabelbaan",
+        "winter_infra": [
+          "ski_alpin"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Alleen op maandag, dinsdag, donderdag en vrijdag, van 6 juli tot 28 augustus 2026, van 9u00 tot 12u45 en daarna van 14u00 tot 17u40. Hij is gesloten op woensdag, zaterdag en zondag.",
+          "q": "Op welke dagen werkt de Vanoise Express in de zomer van 2026?"
+        },
+        {
+          "a": "Retour volwassene 17 € in de zomer van 2026, een cijfer waarover alle bronnen het eens zijn. De enkele rit volwassene wordt door de tarieven-PDF van de exploitant op 11 € gegeven en door sommige toeristische fiches op 9 €: de tegenstrijdigheid is niet opgelost.",
+          "q": "Hoeveel kost de oversteek te voet?"
+        },
+        {
+          "a": "In de winter wel, met een Paradiski-pas. Hij is niet inbegrepen in de voetgangerspassen van La Plagne. In de zomer betalen voetgangers per rit.",
+          "q": "Is de Vanoise Express inbegrepen in de skipas?"
+        },
+        {
+          "a": "In Plan-Peisey, in de gemeente Peisey-Nancroix (73210), en in Montchavin, een dorp van La Plagne Tarentaise (73210). « Peisey-Vallandry » is de naam van een skidorp, niet van een gemeente.",
+          "q": "Waar liggen de twee stations precies?"
+        },
+        {
+          "a": "De toeristische fiches spreken elkaar tegen: sommige zeggen ja, andere nee. Wij publiceren geen antwoord. Bel 04 79 09 67 00 voordat u met een dier op weg gaat.",
+          "q": "Worden honden toegelaten op de Vanoise Express?"
+        }
+      ],
+      "hero": {
+        "badge": "Betalend · 4 dagen per week in de zomer",
+        "lead": "De Vanoise Express overspant het dal van de Ponturin zonder één pyloon, tussen Plan-Peisey (1 612 m) en Montchavin (1 548 m), met twee cabines met twee verdiepingen van 200 plaatsen. In de zomer van 2026 rijdt hij alleen op maandag, dinsdag, donderdag en vrijdag."
+      },
+      "hero_alt": "Kabelbaan Vanoise Express boven het dal van de Ponturin, Savoie",
+      "how_to_get_there": {
+        "bike": "Mountainbikes vervoerd tegen het standaard voetgangerstarief.",
+        "car": "Station Plan-Peisey, wijk Le Télépôle, 73210 Peisey-Nancroix. Gratis openbare parkeerplaatsen in de buurt.",
+        "public_transport": "Pendelbus naar Plan-Peisey; de parkeerplaats Les Zeschierses ligt onder de pendelbushalte van de Vanoise Express."
+      },
+      "meta_description": "Dubbeldekskabelbaan tussen Plan-Peisey (1 612 m) en Montchavin (1 548 m). Zomer 2026: 6 juli – 28 augustus, alleen maandag, dinsdag, donderdag en vrijdag. Voetganger retour 17 €.",
+      "meta_title": "Vanoise Express · Openingstijden en tarieven zomer 2026 (Paradiski)",
+      "name": "Vanoise Express",
+      "name_alternates": [
+        "Téléphérique Vanoise Express",
+        "Vanoise Express Paradiski",
+        "Plan-Peisey – Montchavin"
+      ],
+      "practical_info": [
+        {
+          "k": "Hoogte",
+          "v": "Plan-Peisey 1 612 m · Montchavin 1 548 m"
+        },
+        {
+          "k": "Coördinaten",
+          "v": "45.551125° N, 6.763596° E — gepubliceerd punt voor het station van Plan-Peisey. De twee voor deze installatie gepubliceerde coördinaten liggen ongeveer 1,13 km uit elkaar, terwijl de overspanning 1 824 m bedraagt: minstens één van beide is geen station. Als bij benadering te beschouwen."
+        },
+        {
+          "k": "Exploitant",
+          "v": "SELALP — Société d'Exploitation de la Liaison Les Arcs La Plagne (groep Compagnie des Alpes)"
+        },
+        {
+          "k": "Openingstijden zomer 2026",
+          "v": "Van 6 juli tot 28 augustus 2026, alleen maandag, dinsdag, donderdag en vrijdag, 9u00–12u45 en 14u00–17u40. Gesloten op woensdag, zaterdag en zondag.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Tarieven zomer 2026",
+          "v": "Volwassene enkele rit 11 €, retour 17 €. Kind 5–12 jaar en senior 65–74 jaar: 9 € / 14 €. Gratis onder de 5 jaar en vanaf 75 jaar. Mountainbike tegen voetgangerstarief. Sommige fiches melden 9 € voor de enkele rit volwassene: tegenstrijdigheid niet opgelost.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Tarieven winter 2025/26",
+          "v": "Volwassene 9 € enkele rit, 16 € retour; kind 5–12 jaar 8 € / 13 €. Inbegrepen in de Paradiski-pas.",
+          "verified": "2026-08-08"
+        },
+        {
+          "k": "Parkeren",
+          "v": "Aan de kant van Peisey zijn alle openbare parkeerplaatsen gratis, zowel in de zomer als in de winter: parkeerplaats Les Zeschierses (80 plaatsen, onder de pendelbushalte van de Vanoise Express), parkeerplaats Les Aiguilles (70 plaatsen, Plan-Peisey). Aan de kant van Montchavin geen gedocumenteerde informatie."
+        },
+        {
+          "k": "Dieren",
+          "v": null
+        },
+        {
+          "k": "Toegankelijkheid",
+          "v": "Rolstoeltoegankelijk met assistentie volgens het toeristenbureau van Peisey-Vallandry. De site van de exploitant zegt er niets over."
+        },
+        {
+          "k": "Contact",
+          "v": "04 79 09 67 00 (fiche van de kabelbaan, kant Peisey)"
+        }
+      ],
+      "schema_amenities": [
+        "Gratis parkeren (kant Peisey)",
+        "Vervoer van mountainbikes"
+      ],
+      "when_to_visit": "<p>Zomer 2026: van 6 juli tot 28 augustus, slechts vier dagen per week. Winter: de installatie werkt tijdens het skiseizoen en is inbegrepen in de Paradiski-pas; de data voor 2026/27 zijn niet gepubliceerd.</p>"
     }
   },
   "latitude": 45.551125,

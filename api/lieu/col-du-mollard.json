@@ -16,9 +16,12 @@
   "transport": null,
   "season": null,
   "winter": {
-    "access": null,
-    "infrastructure": [],
-    "snow_view": null,
+    "access": "open",
+    "infrastructure": [
+      "ski_alpin",
+      "luge"
+    ],
+    "snow_view": "alpes",
     "equipment": "loi_montagne_ii",
     "col_chains": false,
     "inforoute": null

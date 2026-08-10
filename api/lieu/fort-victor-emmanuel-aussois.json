@@ -1,0 +1,24 @@
+{
+  "name": "Fort Victor-Emmanuel",
+  "commune": "Aussois",
+  "gps": {
+    "lat": 45.212323,
+    "lng": 6.736011
+  },
+  "type": "chateau",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "Toute l'année ; route fermée à la circulation selon l'enneigement",
+  "winter": null,
+  "official_url": "https://www.aussois.com/patrimoine-culturel/fort-victor-emmanuel-in-savoie-at-aussois-aussois/",
+  "last_verified": null
+}

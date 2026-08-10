@@ -1,0 +1,241 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-10",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "chateau",
+  "commune": "Le Bourget-du-Lac",
+  "date_modified_human": "10 août 2026",
+  "date_published_human": "10 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-10",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-chateau-toiture.jpg",
+  "i18n": {
+    "en": {
+      "activities": [
+        {
+          "description": "The restored tower explains the protected marshes of the Lac du Bourget's southern shore — July-August, Tuesday to Sunday, 14:00–18:00.",
+          "tag": "€2",
+          "title": "Tour de la Poterne museum"
+        },
+        {
+          "description": "The tourist office and the Fondation Facim link the priory church of Le Bourget-du-Lac to the ruins of Thomas II.",
+          "tag": "With the tourist office",
+          "title": "Guided tour from priory to castle"
+        }
+      ],
+      "body": {
+        "what_is": "<p>At the southern end of the Lac du Bourget, the <strong>château de Thomas II</strong> was built on land acquired in <strong>1248 by Thomas II of Savoy</strong>, brother of Count Amédée IV. A hunting rendezvous and lakeside residence of the counts of Savoy, it was almost entirely destroyed by fire. Bought back by the commune, it was <strong>classified Monument historique on 21 March 1983</strong>.</p><p>Today's visit comes in two parts: the <strong>castle's inner courtyard is freely accessible</strong>, and the restored <strong>Tour de la Poterne</strong> houses a museum space giving the keys to the protected marshes of the lake's southern shore. The tower opens in July and August, Tuesday to Sunday, 14:00–18:00 — €2 per adult, €1 per child.</p><p>The tourist office also runs guided tours linking the priory church of Le Bourget-du-Lac to the château Thomas II, with the Fondation Facim. Around the ruins, the shore is a protected natural area explored on foot.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Inner courtyard free; Tour de la Poterne €2 (July-August)",
+        "best_season": "July-August for the tower; courtyard and marshes year-round",
+        "commune": "Le Bourget-du-Lac",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Ruined castle, listed Monument historique"
+      },
+      "faq": [
+        {
+          "a": "The castle's inner courtyard is free. Only the museum tower — the Tour de la Poterne — charges: €2 adult, €1 child.",
+          "q": "Is access paid?"
+        },
+        {
+          "a": "In July and August, Tuesday to Sunday, 14:00–18:00 — the calendar as published by the commune.",
+          "q": "When is the Tour de la Poterne open?"
+        },
+        {
+          "a": "Thomas II of Savoy, brother of Count Amédée IV, acquired the land in 1248 and built this lakeside residence.",
+          "q": "Who was Thomas II?"
+        },
+        {
+          "a": "It was almost entirely destroyed by fire. The commune bought it back, and it has been a listed Monument historique since 21 March 1983.",
+          "q": "Why is the castle in ruins?"
+        },
+        {
+          "a": "Set in the Tour de la Poterne, it explains the protected marshes of the southern shore of the Lac du Bourget.",
+          "q": "What does the museum space cover?"
+        }
+      ],
+      "hero": {
+        "badge": "Free courtyard · Le Bourget-du-Lac",
+        "lead": "A residence of the counts of Savoy begun in 1248 on the shore of the Lac du Bourget, ruined by fire, listed in 1983. Free courtyard year-round, museum tower in summer."
+      },
+      "hero_alt": "Ruins of the château de Thomas II near the Lac du Bourget, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "At the southern end of the Lac du Bourget, in the commune of Le Bourget-du-Lac; the castle is signposted from the village.",
+        "public_transport": null
+      },
+      "meta_description": "The château de Thomas II at Le Bourget-du-Lac: free courtyard, museum tower in summer (€2), protected marshes. Official sources only.",
+      "meta_title": "Château de Thomas II · Lakeside ruins, Lac du Bourget",
+      "name": "Château de Thomas II",
+      "name_alternates": [
+        "Château Thomas II"
+      ],
+      "practical_info": [
+        {
+          "k": "Address",
+          "v": "Château de Thomas II, 73370 Le Bourget-du-Lac"
+        },
+        {
+          "k": "Courtyard",
+          "v": "Free access year-round"
+        },
+        {
+          "k": "Tour de la Poterne",
+          "v": "July-August, Tuesday–Sunday 14:00–18:00 — €2 adult, €1 child"
+        },
+        {
+          "k": "Listing",
+          "v": "Monument historique since 21 March 1983"
+        },
+        {
+          "k": "Guided tours",
+          "v": "From the priory church to the castle, with the tourist office and Fondation Facim"
+        }
+      ],
+      "schema_amenities": [
+        "Free courtyard",
+        "Museum space",
+        "Protected marshes nearby"
+      ],
+      "when_to_visit": "<p>July-August to enter the Tour de la Poterne (Tuesday–Sunday, 14:00–18:00). The rest of the year, the courtyard stays open and the protected shoreline marshes can be walked.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "La tour restaurée explique les marais protégés du littoral sud du lac du Bourget — juillet-août, mardi à dimanche, 14h–18h.",
+          "tag": "2 €",
+          "title": "Tour de la Poterne muséographique"
+        },
+        {
+          "description": "L'office de tourisme et la Fondation Facim relient l'église du prieuré du Bourget-du-Lac aux ruines de Thomas II.",
+          "tag": "Avec l'OT",
+          "title": "Visite guidée du prieuré au château"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Au sud du lac du Bourget, le <strong>château de Thomas II</strong> fut construit sur une terre acquise en <strong>1248 par Thomas II de Savoie</strong>, frère du comte Amédée IV. Rendez-vous de chasse et résidence lacustre des comtes de Savoie, il fut presque entièrement détruit par un incendie. Racheté par la commune, il est <strong>classé Monument historique le 21 mars 1983</strong>.</p><p>La visite d'aujourd'hui est double : la <strong>cour intérieure du château est en accès libre</strong>, et la <strong>tour de la Poterne</strong>, restaurée, abrite un espace muséographique qui donne les clefs de compréhension des marais protégés du littoral sud du lac. La tour est accessible en juillet et août, du mardi au dimanche de 14h à 18h — 2 € par adulte, 1 € par enfant.</p><p>L'office de tourisme programme aussi des visites guidées qui relient l'église du prieuré du Bourget-du-Lac au château Thomas II, avec la Fondation Facim. Autour des ruines, le littoral est un espace naturel protégé qui se parcourt à pied.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Cour intérieure en accès libre ; tour de la Poterne 2 € (juillet-août)",
+        "best_season": "Juillet-août pour la tour ; la cour et les marais toute l'année",
+        "commune": "Le Bourget-du-Lac",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Château ruiné, Monument historique"
+      },
+      "faq": [
+        {
+          "a": "La cour intérieure du château est en accès libre. Seule la tour de la Poterne, muséographique, est payante : 2 € adulte, 1 € enfant.",
+          "q": "L'accès est-il payant ?"
+        },
+        {
+          "a": "En juillet et août, du mardi au dimanche, de 14h à 18h — le calendrier publié par la commune.",
+          "q": "Quand la tour de la Poterne est-elle ouverte ?"
+        },
+        {
+          "a": "Thomas II de Savoie, frère du comte Amédée IV, acquit la terre en 1248 et y fit bâtir cette résidence au bord du lac.",
+          "q": "Qui était Thomas II ?"
+        },
+        {
+          "a": "Il a été presque entièrement détruit par un incendie. La commune l'a racheté, et il est classé Monument historique depuis le 21 mars 1983.",
+          "q": "Pourquoi le château est-il en ruines ?"
+        },
+        {
+          "a": "Installé dans la tour de la Poterne, il donne les clefs de compréhension des marais protégés du littoral sud du lac du Bourget.",
+          "q": "Que raconte l'espace muséographique ?"
+        }
+      ],
+      "hero": {
+        "badge": "Cour en accès libre · Le Bourget-du-Lac",
+        "lead": "Résidence des comtes de Savoie bâtie dès 1248 au bord du lac du Bourget, ruinée par un incendie, classée Monument historique en 1983. Cour libre toute l'année, tour muséographique l'été."
+      },
+      "hero_alt": "Ruines du château de Thomas II près du lac du Bourget, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Au sud du lac du Bourget, sur la commune du Bourget-du-Lac ; le château est signalé depuis le village.",
+        "public_transport": null
+      },
+      "meta_description": "Le château de Thomas II au Bourget-du-Lac : cour en accès libre, tour de la Poterne muséographique en été (2 €), marais protégés. Sources officielles.",
+      "meta_title": "Château de Thomas II · Ruines au bord du lac du Bourget",
+      "name": "Château de Thomas II",
+      "name_alternates": [
+        "Château Thomas II"
+      ],
+      "practical_info": [
+        {
+          "k": "Adresse",
+          "v": "Château de Thomas II, 73370 Le Bourget-du-Lac"
+        },
+        {
+          "k": "Cour",
+          "v": "Accès libre toute l'année"
+        },
+        {
+          "k": "Tour de la Poterne",
+          "v": "Juillet-août, mardi–dimanche 14h–18h — 2 € adulte, 1 € enfant"
+        },
+        {
+          "k": "Classement",
+          "v": "Monument historique depuis le 21 mars 1983"
+        },
+        {
+          "k": "Visites guidées",
+          "v": "De l'église du prieuré au château, avec l'OT et la Fondation Facim"
+        }
+      ],
+      "schema_amenities": [
+        "Cour en accès libre",
+        "Espace muséographique",
+        "Marais protégés à proximité"
+      ],
+      "when_to_visit": "<p>Juillet-août pour entrer dans la tour de la Poterne (mardi–dimanche, 14h–18h). Le reste de l'année, la cour reste libre et les marais protégés du littoral se parcourent à pied.</p>"
+    }
+  },
+  "latitude": 45.651514,
+  "longitude": 5.865274,
+  "official_site_url": "https://www.lebourgetdulac.fr/chateau-de-thomas-ii-et-ses-espaces-proteges/",
+  "partners": [],
+  "postal_code": "73370",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-10, official sources only (commune du Bourget-du-Lac + OT Aix les Bains Riviera des Alpes). Ruined lakeside castle: courtyard free year-round, only the Tour de la Poterne opens (July-August, 2 EUR). Coordinates from IGN POI geocoder ('Château Thomas II', category château, name+category match).",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "chateau-de-thomas-ii-le-bourget-du-lac",
+  "sources": [
+    "https://www.lebourgetdulac.fr/chateau-de-thomas-ii-et-ses-espaces-proteges/",
+    "https://www.aixlesbains-rivieradesalpes.com/fete-et-manifestation/le-bourget-du-lac-de-leglise-du-prieure-au-chateau-thomas-ii-visite-guidee-le-bourget-du-lac/",
+    "https://data.geopf.fr/geocodage/search?q=Ch%C3%A2teau%20Thomas%20II%20Le%20Bourget-du-Lac&index=poi&limit=2"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "patrimoine",
+  "verify_flags": [
+    "ACCES_PMR_UNVERIFIED — no official accessibility source found for this site. Status stays null rather than being inferred from the terrain."
+  ]
+}

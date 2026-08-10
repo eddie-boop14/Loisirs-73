@@ -1,0 +1,31 @@
+{
+  "name": "Redoute Marie-Thérèse",
+  "commune": "Avrieux",
+  "gps": {
+    "lat": 45.208363,
+    "lng": 6.735613
+  },
+  "type": "chateau",
+  "hours": null,
+  "prices": {
+    "from": 4,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": false,
+    "note": null
+  },
+  "access_pmr": {
+    "status": "accessible",
+    "detail": "« Accessible en fauteuil roulant en autonomie » ; accès PMR aux 3 salles, à la boutique et au restaurant, selon la fiche officielle de l'office de tourisme.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_url": "https://www.la-norma.fr/patrimoine-culturel/marie-therese-castle-avrieux/",
+    "source_name": "La Norma / OT Haute Maurienne Vanoise"
+  },
+  "parking": null,
+  "transport": null,
+  "season": "Été (tous les jours) ; mardis seulement en hiver-printemps",
+  "winter": null,
+  "official_url": "https://www.redoutemarietherese.fr/",
+  "last_verified": null
+}

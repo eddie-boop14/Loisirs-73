@@ -1,0 +1,24 @@
+{
+  "name": "Château des ducs de Savoie",
+  "commune": "Chambéry",
+  "gps": {
+    "lat": 45.564536,
+    "lng": 5.917318
+  },
+  "type": "chateau",
+  "hours": null,
+  "prices": {
+    "from": 7.5,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": false,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "Toute l'année, selon le calendrier des visites guidées",
+  "winter": null,
+  "official_url": "https://patrimoines.savoie.fr/web/psp_45734/visiter-le-chateau",
+  "last_verified": null
+}

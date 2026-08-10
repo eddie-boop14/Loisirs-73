@@ -1,0 +1,237 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-10",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "chateau",
+  "commune": "Chignin",
+  "date_modified_human": "10 août 2026",
+  "date_published_human": "10 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-10",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-chateau.jpg",
+  "i18n": {
+    "en": {
+      "activities": [
+        {
+          "description": "A walk waymarked by the Parc des Bauges through the vineyard, from the Parking du Clos Dénarié past the tour de la Boichère and the château de Bourdeau.",
+          "tag": "3.3 km · very easy",
+          "title": "Chignin towers loop"
+        },
+        {
+          "description": "The former tour de la Biguerne, turned into a chapel by the Carthusian brothers in honour of Saint Anthelme, born at Chignin.",
+          "tag": "1877",
+          "title": "Saint-Anthelme chapel"
+        }
+      ],
+      "body": {
+        "what_is": "<p>'Sept !' — seven — 'is the number of towers standing at Chignin', announces the Département. The <strong>tours de Chignin</strong>, a <strong>classified Monument historique</strong>, punctuate the vineyard above the Combe de Savoie. Apart from the chapel and the tour de 'la Place', still prominent in the landscape and restored, the others are ruins. In 1877, the tour de la Biguerne was turned by the Carthusian brothers into a <strong>chapel in honour of Saint Anthelme</strong>, born at Chignin.</p><p>On their age, the two official sources diverge: the Département dates them to the <strong>13th century</strong>, 'when the seigneury of Chignin was divided, each descendant building his own tower'; the Parc naturel régional des Bauges says they were 'probably built in the 11th or 12th' and counts <strong>5 towers still visible</strong> in the landscape. We give both readings as they stand.</p><p>There is <strong>no ticket office and no interior visit</strong>: the towers are discovered from the vineyard's public paths. The Parc waymarks a very easy <strong>3.3 km loop</strong> from the Parking du Clos Dénarié, passing the tour de la Boichère and the château de Bourdeau.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free — the towers are seen from the vineyard's public paths",
+        "best_season": "Year-round; the vines glow from summer into autumn colours",
+        "commune": "Chignin",
+        "dogs": null,
+        "parking": "Parking du Clos Dénarié, Chignin (loop trailhead)",
+        "stroller": null,
+        "type": "Ruined medieval towers, listed Monument historique"
+      },
+      "faq": [
+        {
+          "a": "No. The towers are ruins (plus one restored tower-chapel) seen from the vineyard paths; no official source publishes any entry regime or ticketing.",
+          "q": "Can you go inside the towers?"
+        },
+        {
+          "a": "Seven according to the Département de la Savoie; the Parc des Bauges notes that 5 are still visible in the landscape. Both counts are published as they stand.",
+          "q": "How many towers are there?"
+        },
+        {
+          "a": "The Département dates them to the 13th century, at the division of the seigneury of Chignin; the Parc des Bauges writes 'probably in the 11th or 12th'. The sources disagree and we do not arbitrate.",
+          "q": "How old are they?"
+        },
+        {
+          "a": "A very easy 3.3 km loop waymarked by the Parc des Bauges, from the Parking du Clos Dénarié in Chignin. The trail passes the tour de la Boichère then the château de Bourdeau.",
+          "q": "Which walk shows them best?"
+        },
+        {
+          "a": "In 1877 the Carthusian brothers turned the tour de la Biguerne into a chapel in honour of Saint Anthelme.",
+          "q": "Why is there a chapel among the towers?"
+        }
+      ],
+      "hero": {
+        "badge": "Free access · Chignin vineyards",
+        "lead": "Seven medieval towers — five still visible, says the Parc des Bauges — rise from the vines of Chignin. No ticket office: a very easy 3.3 km trail passes at their feet."
+      },
+      "hero_alt": "Medieval towers of Chignin amid the vineyards, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "In Chignin, between Chambéry and Montmélian; park at the Parking du Clos Dénarié, the waymarked loop's trailhead.",
+        "public_transport": null
+      },
+      "meta_description": "The towers of Chignin, a listed monument in Savoie's vineyards: seven towers per the Département, a very easy 3.3 km loop. Official sources only.",
+      "meta_title": "Tours de Chignin · Ruined towers in the vines, 3.3 km loop",
+      "name": "Tours de Chignin",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Address",
+          "v": "Tours de Chignin, 73800 Chignin"
+        },
+        {
+          "k": "Price",
+          "v": "Free — seen from the vineyard's public paths"
+        },
+        {
+          "k": "Loop",
+          "v": "3.3 km, very easy, from the Parking du Clos Dénarié"
+        },
+        {
+          "k": "Listing",
+          "v": "Monument historique"
+        },
+        {
+          "k": "On the trail",
+          "v": "Tour de la Boichère, château de Bourdeau, Saint-Anthelme chapel"
+        }
+      ],
+      "schema_amenities": [
+        "Waymarked trail",
+        "Free access",
+        "Parking at the trailhead"
+      ],
+      "when_to_visit": "<p>Year-round: the loop is very easy and the towers show in every season. The vineyard gives its best light from summer into the autumn colours.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Balade balisée par le Parc des Bauges dans le vignoble, du parking du Clos Dénarié à la tour de la Boichère et au château de Bourdeau.",
+          "tag": "3,3 km · très facile",
+          "title": "Boucle des tours de Chignin"
+        },
+        {
+          "description": "L'ancienne tour de la Biguerne, transformée en chapelle par les frères Chartreux en l'honneur de saint Anthelme, né à Chignin.",
+          "tag": "1877",
+          "title": "Chapelle Saint-Anthelme"
+        }
+      ],
+      "body": {
+        "what_is": "<p>« Sept ! C'est le nombre de tours qui s'élèvent à Chignin », annonce le Département. Les <strong>tours de Chignin</strong>, classées <strong>Monument historique</strong>, ponctuent le vignoble au-dessus de la combe de Savoie. Hormis la chapelle et la tour de « la Place », encore très visibles dans le paysage et restaurées, les autres sont à l'état de vestiges. En 1877, la tour de la Biguerne fut transformée par les frères Chartreux en <strong>chapelle en l'honneur de saint Anthelme</strong>, né à Chignin.</p><p>Sur leur âge, les deux sources officielles divergent : le Département les date du <strong>XIIIe siècle</strong>, « lors du partage de la seigneurie de Chignin, chaque descendant édifiant sa propre tour » ; le Parc naturel régional des Bauges les dit « construites probablement au XIe ou au XIIe » et compte <strong>5 tours encore visibles</strong> dans le paysage. Nous donnons les deux lectures telles quelles.</p><p>Il n'existe <strong>ni billetterie ni visite intérieure</strong> : les tours se découvrent depuis les sentiers publics du vignoble. Le Parc balise une boucle très facile de <strong>3,3 km</strong> au départ du parking du Clos Dénarié, qui passe devant la tour de la Boichère puis le château de Bourdeau.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Libre — les tours se voient depuis les sentiers publics du vignoble",
+        "best_season": "Toute l'année ; les vignes sont belles de l'été aux couleurs d'automne",
+        "commune": "Chignin",
+        "dogs": null,
+        "parking": "Parking du Clos Dénarié, Chignin (départ de la boucle)",
+        "stroller": null,
+        "type": "Tours médiévales en ruine, Monument historique"
+      },
+      "faq": [
+        {
+          "a": "Non. Les tours sont des ruines (plus une tour-chapelle restaurée) qui se voient depuis les sentiers du vignoble ; aucune source officielle ne publie de régime d'entrée ou de billetterie.",
+          "q": "Peut-on visiter l'intérieur des tours ?"
+        },
+        {
+          "a": "Sept selon le Département de la Savoie ; le Parc des Bauges précise que 5 sont encore visibles dans le paysage. Les deux comptes sont publiés tels quels.",
+          "q": "Combien y a-t-il de tours ?"
+        },
+        {
+          "a": "Le Département les date du XIIIe siècle, lors du partage de la seigneurie de Chignin ; le Parc des Bauges écrit « probablement au XIe ou au XIIe ». Les sources se contredisent et nous ne tranchons pas.",
+          "q": "De quand datent-elles ?"
+        },
+        {
+          "a": "Une boucle très facile de 3,3 km balisée par le Parc des Bauges, au départ du parking du Clos Dénarié à Chignin. Le sentier passe devant la tour de la Boichère puis le château de Bourdeau.",
+          "q": "Quelle est la balade pour les voir ?"
+        },
+        {
+          "a": "En 1877, les frères Chartreux ont transformé la tour de la Biguerne en chapelle en l'honneur de saint Anthelme.",
+          "q": "Pourquoi une chapelle parmi les tours ?"
+        }
+      ],
+      "hero": {
+        "badge": "Accès libre · Vignoble de Chignin",
+        "lead": "Sept tours médiévales — dont cinq encore visibles selon le Parc des Bauges — émergent des vignes de Chignin. Pas de billetterie : un sentier très facile de 3,3 km passe à leurs pieds."
+      },
+      "hero_alt": "Tours médiévales de Chignin au milieu des vignes, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "À Chignin, entre Chambéry et Montmélian ; se garer au parking du Clos Dénarié, départ de la boucle balisée.",
+        "public_transport": null
+      },
+      "meta_description": "Les tours de Chignin, Monument historique dans le vignoble savoyard : sept tours selon le Département, boucle très facile de 3,3 km. Sources officielles.",
+      "meta_title": "Tours de Chignin · Ruines dans les vignes, boucle 3,3 km",
+      "name": "Tours de Chignin",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Adresse",
+          "v": "Tours de Chignin, 73800 Chignin"
+        },
+        {
+          "k": "Tarif",
+          "v": "Gratuit — vues depuis les sentiers publics du vignoble"
+        },
+        {
+          "k": "Boucle",
+          "v": "3,3 km, très facile, départ parking du Clos Dénarié"
+        },
+        {
+          "k": "Classement",
+          "v": "Monument historique"
+        },
+        {
+          "k": "Sur le sentier",
+          "v": "Tour de la Boichère, château de Bourdeau, chapelle Saint-Anthelme"
+        }
+      ],
+      "schema_amenities": [
+        "Sentier balisé",
+        "Accès libre",
+        "Parking au départ"
+      ],
+      "when_to_visit": "<p>Toute l'année : la boucle est très facile et les tours se voient en toute saison. Le vignoble donne ses plus belles lumières de l'été aux couleurs d'automne.</p>"
+    }
+  },
+  "latitude": 45.525744,
+  "longitude": 6.000118,
+  "official_site_url": "https://patrimoines.savoie.fr/web/psp_25182/les-tours-de-chignin",
+  "partners": [],
+  "postal_code": "73800",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-10, official sources only (patrimoines.savoie.fr + rando.parcdesbauges.com). Two contradictions kept verbatim: construction dated 13th century by the Département vs 'probably 11th or 12th' by the Parc des Bauges; the Département counts seven towers while the Parc says 5 are still visible in the landscape. No entry regime exists — ruins seen from public vineyard paths. Coordinates from IGN POI geocoder ('Tours de Chignin', category ruines, name+category match).",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "tours-de-chignin",
+  "sources": [
+    "https://patrimoines.savoie.fr/web/psp_25182/les-tours-de-chignin",
+    "https://rando.parcdesbauges.com/trek/20562-Les-tours-de-Chignin",
+    "https://data.geopf.fr/geocodage/search?q=Tours%20de%20Chignin&index=poi&limit=2"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "patrimoine",
+  "verify_flags": [
+    "ACCES_PMR_UNVERIFIED — no official accessibility source found for this site. Status stays null rather than being inferred from the terrain."
+  ]
+}

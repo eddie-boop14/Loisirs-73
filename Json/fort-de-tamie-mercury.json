@@ -1,0 +1,240 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-10",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "chateau",
+  "commune": "Mercury",
+  "date_modified_human": "10 août 2026",
+  "date_published_human": "10 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-10",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-chateau-brume.jpg",
+  "i18n": {
+    "en": {
+      "activities": [
+        {
+          "description": "The trail circles the 1876 ramparts: casemates, rock-cut caves, artillery positions and three belvederes over the Combe de Savoie.",
+          "tag": "Free",
+          "title": "Tour du Fort and belvederes"
+        },
+        {
+          "description": "10 treetop courses, nearly 100 obstacles and several zip-lines — including a 300-metre one — inside the fort's own ramparts.",
+          "tag": "Paid",
+          "title": "Fort adventure park"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>fort de Tamié</strong> watches over the Combe de Savoie and the Albertville gap from the Tamié pass, in the commune of Mercury. Built in <strong>1876 by 600 Italian workers</strong>, it commanded the Albertville square. Today the site is <strong>free to visit</strong>: the Tour du Fort trail, a picnic area and the panorama from its three belvederes, with casemates and caves dug into the rock and several artillery battery positions visible along the paths.</p><p>Two paid options sit alongside the free site: an <strong>audio-guide</strong> for a 2-hour walk through the fort's secrets, and an <strong>adventure park</strong> set inside the ramparts — 10 treetop courses, nearly 100 obstacles and several zip-lines including a 300-metre one.</p><p>On summer opening, the two official sources differ: the Pays d'Albertville tourist office announces daily from 28 June to 31 August, 11:00–19:00; the fort's own site says 'all summer (18 June to 31 August), 7 days a week, 11:00–19:00' — with no year stated. We give both. Pets are allowed.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free entry; paid audio-guide and adventure park",
+        "best_season": "Summer — open daily 11:00–19:00 (dates: see sourced contradiction)",
+        "commune": "Mercury",
+        "dogs": "Pets allowed (source: tourist office)",
+        "parking": null,
+        "stroller": null,
+        "type": "Séré de Rivières fort (1876)"
+      },
+      "faq": [
+        {
+          "a": "No: 'Le Fort de Tamié se visite en accès libre et gratuit', per the tourist office. The audio-guide and the adventure park are paid extras.",
+          "q": "Is there an entry fee?"
+        },
+        {
+          "a": "Daily in summer, 11:00–19:00 — from 28 June per the tourist office, from 18 June per the fort's site (year unstated). Both dates are published; we do not arbitrate.",
+          "q": "When is the fort open?"
+        },
+        {
+          "a": "The Tour du Fort trail, three belvederes over the Combe de Savoie, casemates and caves dug into the rock, several artillery battery positions, and a picnic area.",
+          "q": "What is there to see?"
+        },
+        {
+          "a": "An aerial course park inside the fort's ramparts: 10 courses, nearly 100 obstacles and several zip-lines, including a 300-metre one. A paid commercial activity, separate from the free site.",
+          "q": "What is the adventure park?"
+        },
+        {
+          "a": "Yes, the tourist office listing states pets are allowed.",
+          "q": "Can I bring my dog?"
+        }
+      ],
+      "hero": {
+        "badge": "Free entry · Mercury",
+        "lead": "Built in 1876 by 600 Italian workers to command the Albertville square, the fort is free to visit: the Tour du Fort trail, a picnic area and three belvederes."
+      },
+      "hero_alt": "Fort de Tamié above the Combe de Savoie, Mercury, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Via the Tamié pass, between Albertville and Faverges; the fort is signposted in the commune of Mercury.",
+        "public_transport": null
+      },
+      "meta_description": "Fort de Tamié above Albertville: free access, the Tour du Fort trail, three belvederes, audio-guided visits and an adventure park. Official sources only.",
+      "meta_title": "Fort de Tamié · Free entry, belvederes, adventure park",
+      "name": "Fort de Tamié",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Address",
+          "v": "Fort de Tamié, 73200 Mercury"
+        },
+        {
+          "k": "Price",
+          "v": "Free entry; paid audio-guide (2-hour walk); paid adventure park"
+        },
+        {
+          "k": "Summer",
+          "v": "Daily 11:00–19:00 — from 28 June (tourist office) or 18 June (fort's site)"
+        },
+        {
+          "k": "On site",
+          "v": "Tour du Fort trail, 3 belvederes, picnic area"
+        },
+        {
+          "k": "Pets",
+          "v": "Allowed (source: tourist office)"
+        }
+      ],
+      "schema_amenities": [
+        "Free entry",
+        "Picnic area",
+        "Three belvederes",
+        "Pets allowed"
+      ],
+      "when_to_visit": "<p>Summer, when everything is open: daily 11:00–19:00 (from 28 June or 18 June depending on the source, until 31 August). The outdoor site and its belvederes can be walked freely.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Le sentier fait le tour de l'enceinte de 1876 : casemates, cavernes creusées dans le roc, positions d'artillerie et trois belvédères sur la combe de Savoie.",
+          "tag": "Gratuit",
+          "title": "Tour du Fort et belvédères"
+        },
+        {
+          "description": "10 parcours acrobatiques en hauteur, près de 100 ateliers et plusieurs tyroliennes — dont une de 300 mètres — dans l'enceinte même du fort.",
+          "tag": "Payant",
+          "title": "Parcours aventure du fort"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Le <strong>fort de Tamié</strong> veille sur la combe de Savoie et la trouée d'Albertville depuis le col de Tamié, sur la commune de Mercury. Construit en <strong>1876 par 600 ouvriers italiens</strong>, il commandait la place d'Albertville. Aujourd'hui, le site se visite <strong>en accès libre et gratuit</strong> : sentier du Tour du Fort, aire de pique-nique et panorama depuis ses trois belvédères, avec casemates et cavernes creusées dans le roc et plusieurs positions de batteries d'artillerie visibles le long des chemins.</p><p>Deux offres payantes s'ajoutent au site gratuit : un <strong>audio-guide</strong> pour une balade de 2 heures à la découverte des secrets du fort, et un <strong>parcours aventure</strong> installé dans l'enceinte — 10 parcours acrobatiques en hauteur, près de 100 ateliers et plusieurs tyroliennes dont une de 300 mètres.</p><p>Sur l'ouverture estivale, les deux sources officielles ne disent pas la même chose : l'office de tourisme du Pays d'Albertville annonce tous les jours du 28 juin au 31 août de 11h à 19h, le site du fort « tout l'été (18 juin au 31 août), 7j/7 de 11h à 19h » — sans préciser l'année. Nous donnons les deux. Les animaux sont acceptés.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Accès libre et gratuit ; audio-guide et parcours aventure payants",
+        "best_season": "Été — ouvert tous les jours de 11h à 19h (dates : voir contradiction sourcée)",
+        "commune": "Mercury",
+        "dogs": "Animaux acceptés (source : OT)",
+        "parking": null,
+        "stroller": null,
+        "type": "Fort Séré de Rivières (1876)"
+      },
+      "faq": [
+        {
+          "a": "Non : « Le Fort de Tamié se visite en accès libre et gratuit », dit l'office de tourisme. L'audio-guide et le parcours aventure, eux, sont payants.",
+          "q": "L'entrée est-elle payante ?"
+        },
+        {
+          "a": "Tous les jours en été de 11h à 19h — du 28 juin au 31 août selon l'office de tourisme, du 18 juin au 31 août selon le site du fort (année non précisée). Les deux dates sont publiées ; nous ne tranchons pas.",
+          "q": "Quand le fort est-il ouvert ?"
+        },
+        {
+          "a": "Le sentier du Tour du Fort, trois belvédères sur la combe de Savoie, des casemates et cavernes creusées dans le roc, plusieurs positions de batteries d'artillerie, et une aire de pique-nique.",
+          "q": "Que voit-on sur place ?"
+        },
+        {
+          "a": "Un parc acrobatique installé dans l'enceinte du fort : 10 parcours en hauteur, près de 100 ateliers et plusieurs tyroliennes, dont une de 300 mètres. Activité commerciale payante, distincte du site gratuit.",
+          "q": "Qu'est-ce que le parcours aventure ?"
+        },
+        {
+          "a": "Oui, la fiche de l'office de tourisme indique que les animaux sont acceptés.",
+          "q": "Peut-on venir avec son chien ?"
+        }
+      ],
+      "hero": {
+        "badge": "Entrée gratuite · Mercury",
+        "lead": "Construit en 1876 par 600 ouvriers italiens pour commander la place d'Albertville, le fort se visite en accès libre : sentier du Tour du Fort, aire de pique-nique et trois belvédères."
+      },
+      "hero_alt": "Fort de Tamié au-dessus de la combe de Savoie, Mercury, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Par le col de Tamié, entre Albertville et Faverges ; le fort est signalé sur la commune de Mercury.",
+        "public_transport": null
+      },
+      "meta_description": "Le fort de Tamié au-dessus d'Albertville : accès libre et gratuit, sentier du Tour du Fort, trois belvédères, audio-guide et parcours aventure. Sources officielles.",
+      "meta_title": "Fort de Tamié · Entrée gratuite, belvédères, parcours aventure",
+      "name": "Fort de Tamié",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Adresse",
+          "v": "Fort de Tamié, 73200 Mercury"
+        },
+        {
+          "k": "Tarif",
+          "v": "Entrée gratuite ; audio-guide payant (balade de 2h) ; parcours aventure payant"
+        },
+        {
+          "k": "Été",
+          "v": "Tous les jours 11h–19h — dès le 28 juin (OT) ou le 18 juin (site du fort)"
+        },
+        {
+          "k": "Sur place",
+          "v": "Sentier du Tour du Fort, 3 belvédères, aire de pique-nique"
+        },
+        {
+          "k": "Animaux",
+          "v": "Acceptés (source : OT)"
+        }
+      ],
+      "schema_amenities": [
+        "Entrée gratuite",
+        "Aire de pique-nique",
+        "Trois belvédères",
+        "Animaux acceptés"
+      ],
+      "when_to_visit": "<p>L'été, quand tout est ouvert : tous les jours de 11h à 19h (28 juin ou 18 juin selon la source, jusqu'au 31 août). Le site extérieur et ses belvédères se parcourent librement.</p>"
+    }
+  },
+  "latitude": 45.671818,
+  "longitude": 6.313381,
+  "official_site_url": "https://www.fort-de-tamie.com/",
+  "partners": [],
+  "postal_code": "73200",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-10, official sources only (site du fort + OT Pays d'Albertville). Contradiction on the summer opening start kept verbatim: the OT says daily from 28 June, the fort's own site says from 18 June with no year stated — both quoted, not arbitrated. Coordinates from IGN POI geocoder ('Fort de Tamié', category ouvrage militaire, name+category match).",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "fort-de-tamie-mercury",
+  "sources": [
+    "https://www.fort-de-tamie.com/",
+    "https://www.pays-albertville.com/en/fiches/fort-of-tamie/",
+    "https://www.pays-albertville.com/eclatez-vous-cet-ete-au-parcours-aventure-du-fort-de-tamie/",
+    "https://data.geopf.fr/geocodage/search?q=Fort%20de%20Tami%C3%A9%20Mercury&index=poi&limit=2"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "patrimoine",
+  "verify_flags": [
+    "ACCES_PMR_UNVERIFIED — no official accessibility source found for this site. Status stays null rather than being inferred from the terrain."
+  ]
+}

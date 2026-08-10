@@ -1,53 +1,105 @@
 {
-  "total_fiches": 37,
+  "total_fiches": 44,
   "per_lang": {
     "fr": {
-      "pages_built": 37,
+      "pages_built": 44,
       "fallback_pages": 0,
       "fields_fallback_counts": {},
-      "body_truly_translated": 37,
+      "body_truly_translated": 44,
       "body_fr_residue": 0,
       "body_missing": 0
     },
     "en": {
-      "pages_built": 37,
+      "pages_built": 44,
       "fallback_pages": 0,
       "fields_fallback_counts": {},
-      "body_truly_translated": 37,
+      "body_truly_translated": 44,
       "body_fr_residue": 0,
       "body_missing": 0
     },
     "de": {
-      "pages_built": 37,
-      "fallback_pages": 0,
-      "fields_fallback_counts": {},
+      "pages_built": 44,
+      "fallback_pages": 7,
+      "fields_fallback_counts": {
+        "body.activities": 7,
+        "body": 7,
+        "body.how_to_get_there": 7,
+        "hero_alt": 7,
+        "schema_amenities": 7,
+        "facts": 7,
+        "body.practical_info": 7,
+        "hero": 7,
+        "faq": 7,
+        "body.when_to_visit": 7,
+        "name": 7,
+        "name_alternates": 4
+      },
       "body_truly_translated": 37,
       "body_fr_residue": 0,
-      "body_missing": 0
+      "body_missing": 7
     },
     "it": {
-      "pages_built": 37,
-      "fallback_pages": 0,
-      "fields_fallback_counts": {},
+      "pages_built": 44,
+      "fallback_pages": 7,
+      "fields_fallback_counts": {
+        "body.activities": 7,
+        "body": 7,
+        "body.how_to_get_there": 7,
+        "hero_alt": 7,
+        "schema_amenities": 7,
+        "facts": 7,
+        "body.practical_info": 7,
+        "hero": 7,
+        "faq": 7,
+        "body.when_to_visit": 7,
+        "name": 7,
+        "name_alternates": 4
+      },
       "body_truly_translated": 37,
       "body_fr_residue": 0,
-      "body_missing": 0
+      "body_missing": 7
     },
     "es": {
-      "pages_built": 37,
-      "fallback_pages": 0,
-      "fields_fallback_counts": {},
+      "pages_built": 44,
+      "fallback_pages": 7,
+      "fields_fallback_counts": {
+        "body.activities": 7,
+        "body": 7,
+        "body.how_to_get_there": 7,
+        "hero_alt": 7,
+        "schema_amenities": 7,
+        "facts": 7,
+        "body.practical_info": 7,
+        "hero": 7,
+        "faq": 7,
+        "body.when_to_visit": 7,
+        "name": 7,
+        "name_alternates": 4
+      },
       "body_truly_translated": 37,
       "body_fr_residue": 0,
-      "body_missing": 0
+      "body_missing": 7
     },
     "nl": {
-      "pages_built": 37,
-      "fallback_pages": 0,
-      "fields_fallback_counts": {},
+      "pages_built": 44,
+      "fallback_pages": 7,
+      "fields_fallback_counts": {
+        "body.activities": 7,
+        "body": 7,
+        "body.how_to_get_there": 7,
+        "hero_alt": 7,
+        "schema_amenities": 7,
+        "facts": 7,
+        "body.practical_info": 7,
+        "hero": 7,
+        "faq": 7,
+        "body.when_to_visit": 7,
+        "name": 7,
+        "name_alternates": 4
+      },
       "body_truly_translated": 37,
       "body_fr_residue": 0,
-      "body_missing": 0
+      "body_missing": 7
     }
   },
   "fr_residue_slugs": {
@@ -59,9 +111,41 @@
   },
   "fallback_slugs": {
     "en": [],
-    "de": [],
-    "it": [],
-    "es": [],
-    "nl": []
+    "de": [
+      "chateau-de-miolans-saint-pierre-d-albigny",
+      "chateau-de-thomas-ii-le-bourget-du-lac",
+      "chateau-des-ducs-de-savoie-chambery",
+      "fort-de-tamie-mercury",
+      "fort-victor-emmanuel-aussois",
+      "redoute-marie-therese-avrieux",
+      "tours-de-chignin"
+    ],
+    "it": [
+      "chateau-de-miolans-saint-pierre-d-albigny",
+      "chateau-de-thomas-ii-le-bourget-du-lac",
+      "chateau-des-ducs-de-savoie-chambery",
+      "fort-de-tamie-mercury",
+      "fort-victor-emmanuel-aussois",
+      "redoute-marie-therese-avrieux",
+      "tours-de-chignin"
+    ],
+    "es": [
+      "chateau-de-miolans-saint-pierre-d-albigny",
+      "chateau-de-thomas-ii-le-bourget-du-lac",
+      "chateau-des-ducs-de-savoie-chambery",
+      "fort-de-tamie-mercury",
+      "fort-victor-emmanuel-aussois",
+      "redoute-marie-therese-avrieux",
+      "tours-de-chignin"
+    ],
+    "nl": [
+      "chateau-de-miolans-saint-pierre-d-albigny",
+      "chateau-de-thomas-ii-le-bourget-du-lac",
+      "chateau-des-ducs-de-savoie-chambery",
+      "fort-de-tamie-mercury",
+      "fort-victor-emmanuel-aussois",
+      "redoute-marie-therese-avrieux",
+      "tours-de-chignin"
+    ]
   }
 }

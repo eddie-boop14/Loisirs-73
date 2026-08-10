@@ -29,7 +29,8 @@ _SIS = getattr(S, "SISTER", None) or {"name": S.SITE_NAME, "url": S.BASE_URL, "d
 # sat in one bucket and the Téléphérique de la Saulire in the other.
 SECTIONS = [("point-de-vue", {"fr": "Cols et points de vue", "en": "Passes and viewpoints"}),
             ("telecabine", {"fr": "Remontées mécaniques", "en": "Cable cars and lifts"}),
-            ("cascade", {"fr": "Cascades et gorges", "en": "Waterfalls and gorges"})]
+            ("cascade", {"fr": "Cascades et gorges", "en": "Waterfalls and gorges"}),
+            ("chateau", {"fr": "Châteaux et forts", "en": "Castles and forts"})]
 UI = {
  "tagline": {"fr": "La Savoie, lieu par lieu.", "en": "Savoie, place by place."},
  "lede": {"fr": "Un guide indépendant des lieux de loisirs en Savoie. Chaque fait est vérifié auprès d'une "

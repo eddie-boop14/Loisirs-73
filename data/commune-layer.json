@@ -1,748 +1,879 @@
 {
- "communes": [
-  {
-   "commune": "Albiez-Montrond",
-   "department": "Savoie",
-   "hero_image": null,
-   "hero_strategy": null,
-   "intro_en": "A Maurienne village below the Aiguilles d'Arves, Albiez-Montrond commands the climb to the Col du Mollard and its hairpins.",
-   "intro_fr": "Village de Maurienne sous les Aiguilles d'Arves, Albiez-Montrond commande la montée du col du Mollard et ses lacets.",
-   "lieux": [
+  "communes": [
     {
-     "category": "point-de-vue",
-     "slug": "col-du-mollard",
-     "title_fr": "Col du Mollard"
-    }
-   ],
-   "lieux_count": 1,
-   "postal_code": "73300",
-   "research_log": [],
-   "slug": "albiez-montrond",
-   "stats": {
-    "total": 1
-   },
-   "verify_flags": []
-  },
-  {
-   "centroid": {
-    "lat": 45.6911,
-    "lon": 6.6906
-   },
-   "commune": "Beaufort",
-   "department": "Savoie",
-   "hero_image": null,
-   "hero_strategy": null,
-   "intro_en": "Capital of the Beaufortain and of its cheese, Beaufort opens onto two high cormets — Roselend and Arêches — one of which is not surfaced to the top.",
-   "intro_fr": "Capitale du Beaufortain et de son fromage, Beaufort ouvre sur deux cormets d'altitude — Roselend et Arêches — dont l'un n'est pas goudronné jusqu'au sommet.",
-   "lieux": [
-    {
-     "category": "point-de-vue",
-     "slug": "cormet-d-areches",
-     "title_fr": "Cormet d'Arêches"
+      "commune": "Albiez-Montrond",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "A Maurienne village below the Aiguilles d'Arves, Albiez-Montrond commands the climb to the Col du Mollard and its hairpins.",
+      "intro_fr": "Village de Maurienne sous les Aiguilles d'Arves, Albiez-Montrond commande la montée du col du Mollard et ses lacets.",
+      "lieux": [
+        {
+          "category": "point-de-vue",
+          "slug": "col-du-mollard",
+          "title_fr": "Col du Mollard"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73300",
+      "research_log": [],
+      "slug": "albiez-montrond",
+      "stats": {
+        "total": 1
+      },
+      "verify_flags": []
     },
     {
-     "category": "point-de-vue",
-     "slug": "cormet-de-roselend",
-     "title_fr": "Cormet de Roselend"
-    }
-   ],
-   "lieux_count": 2,
-   "postal_code": "73270",
-   "research_log": [],
-   "slug": "beaufort",
-   "stats": {
-    "total": 2
-   },
-   "verify_flags": []
-  },
-  {
-   "centroid": {
-    "lat": 45.4171,
-    "lon": 7.0307
-   },
-   "commune": "Bonneval-sur-Arc",
-   "department": "Savoie",
-   "hero_image": null,
-   "hero_strategy": null,
-   "intro_en": "The last village of the upper Maurienne, Bonneval-sur-Arc guards the eastern side of the Col de l'Iseran.",
-   "intro_fr": "Dernier village de la haute Maurienne, Bonneval-sur-Arc garde le versant est du col de l'Iseran.",
-   "lieux": [
-    {
-     "category": "point-de-vue",
-     "slug": "col-de-l-iseran",
-     "title_fr": "Col de l'Iseran"
-    }
-   ],
-   "lieux_count": 1,
-   "postal_code": "73480",
-   "research_log": [],
-   "slug": "bonneval-sur-arc",
-   "stats": {
-    "total": 1
-   },
-   "verify_flags": []
-  },
-  {
-   "centroid": {
-    "lat": 45.5531,
-    "lon": 6.8418
-   },
-   "commune": "Bourg-Saint-Maurice",
-   "department": "Savoie",
-   "hero_image": null,
-   "hero_strategy": null,
-   "intro_en": "Gateway to the upper Tarentaise, Bourg-Saint-Maurice gives access to Les Arcs and the Aiguille Rouge cable car.",
-   "intro_fr": "Porte de la haute Tarentaise, Bourg-Saint-Maurice donne accès aux Arcs et au téléphérique de l'Aiguille Rouge.",
-   "lieux": [
-    {
-     "category": "telecabine",
-     "slug": "telepherique-de-l-aiguille-rouge",
-     "title_fr": "Téléphérique de l'Aiguille Rouge"
-    }
-   ],
-   "lieux_count": 1,
-   "postal_code": "73700",
-   "research_log": [],
-   "slug": "bourg-saint-maurice",
-   "stats": {
-    "total": 1
-   },
-   "verify_flags": []
-  },
-  {
-   "centroid": {
-    "lat": 45.4562,
-    "lon": 6.6931
-   },
-   "commune": "Champagny-en-Vanoise",
-   "department": "Savoie",
-   "hero_image": null,
-   "hero_strategy": null,
-   "intro_en": "At the gates of the Vanoise national park, Champagny links its valley to the high ground by gondola.",
-   "intro_fr": "Aux portes du parc national de la Vanoise, Champagny relie sa vallée au domaine d'altitude par une télécabine.",
-   "lieux": [
-    {
-     "category": "telecabine",
-     "slug": "telecabine-de-champagny",
-     "title_fr": "Télécabine de Champagny"
-    }
-   ],
-   "lieux_count": 1,
-   "postal_code": "73350",
-   "research_log": [],
-   "slug": "champagny-en-vanoise",
-   "stats": {
-    "total": 1
-   },
-   "verify_flags": []
-  },
-  {
-   "centroid": {
-    "lat": 45.3982,
-    "lon": 6.6085
-   },
-   "commune": "Courchevel",
-   "department": "Savoie",
-   "hero_image": null,
-   "hero_strategy": null,
-   "intro_en": "A Trois Vallées resort, Courchevel holds the Saulire cable car and one side of the Col de la Loze, a high road closed to cars.",
-   "intro_fr": "Station des 3 Vallées, Courchevel tient le téléphérique de la Saulire et un versant du col de la Loze, route d'altitude interdite aux voitures.",
-   "lieux": [
-    {
-     "category": "point-de-vue",
-     "slug": "col-de-la-loze",
-     "title_fr": "Col de la Loze"
+      "centroid": {
+        "lat": 45.6911,
+        "lon": 6.6906
+      },
+      "commune": "Beaufort",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "Capital of the Beaufortain and of its cheese, Beaufort opens onto two high cormets — Roselend and Arêches — one of which is not surfaced to the top.",
+      "intro_fr": "Capitale du Beaufortain et de son fromage, Beaufort ouvre sur deux cormets d'altitude — Roselend et Arêches — dont l'un n'est pas goudronné jusqu'au sommet.",
+      "lieux": [
+        {
+          "category": "point-de-vue",
+          "slug": "cormet-d-areches",
+          "title_fr": "Cormet d'Arêches"
+        },
+        {
+          "category": "point-de-vue",
+          "slug": "cormet-de-roselend",
+          "title_fr": "Cormet de Roselend"
+        }
+      ],
+      "lieux_count": 2,
+      "postal_code": "73270",
+      "research_log": [],
+      "slug": "beaufort",
+      "stats": {
+        "total": 2
+      },
+      "verify_flags": []
     },
     {
-     "category": "telecabine",
-     "slug": "telepherique-de-la-saulire",
-     "title_fr": "Téléphérique de la Saulire"
-    }
-   ],
-   "lieux_count": 2,
-   "postal_code": "73120",
-   "research_log": [],
-   "slug": "courchevel",
-   "stats": {
-    "total": 2
-   },
-   "verify_flags": []
-  },
-  {
-   "commune": "Hauteluce",
-   "department": "Savoie",
-   "hero_image": null,
-   "hero_strategy": null,
-   "intro_en": "A Beaufortain commune, Hauteluce carries the Les Saisies resort, its year-round pass and the Signal de Bisanne.",
-   "intro_fr": "Commune du Beaufortain, Hauteluce porte la station des Saisies, son col ouvert toute l'année et le Signal de Bisanne.",
-   "lieux": [
-    {
-     "category": "point-de-vue",
-     "slug": "col-des-saisies",
-     "title_fr": "Col des Saisies"
+      "centroid": {
+        "lat": 45.4171,
+        "lon": 7.0307
+      },
+      "commune": "Bonneval-sur-Arc",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "The last village of the upper Maurienne, Bonneval-sur-Arc guards the eastern side of the Col de l'Iseran.",
+      "intro_fr": "Dernier village de la haute Maurienne, Bonneval-sur-Arc garde le versant est du col de l'Iseran.",
+      "lieux": [
+        {
+          "category": "point-de-vue",
+          "slug": "col-de-l-iseran",
+          "title_fr": "Col de l'Iseran"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73480",
+      "research_log": [],
+      "slug": "bonneval-sur-arc",
+      "stats": {
+        "total": 1
+      },
+      "verify_flags": []
     },
     {
-     "category": "point-de-vue",
-     "slug": "signal-de-bisanne",
-     "title_fr": "Signal de Bisanne"
-    }
-   ],
-   "lieux_count": 2,
-   "postal_code": "73620",
-   "research_log": [],
-   "slug": "hauteluce",
-   "stats": {
-    "total": 2
-   },
-   "verify_flags": []
-  },
-  {
-   "centroid": {
-    "lat": 45.5004,
-    "lon": 6.7217
-   },
-   "commune": "La Plagne Tarentaise",
-   "department": "Savoie",
-   "hero_image": null,
-   "hero_strategy": null,
-   "intro_en": "The heart of La Plagne, the commune lines up the high lifts, from Roche de Mio to the Bellecôte glacier.",
-   "intro_fr": "Cœur de La Plagne, la commune aligne les remontées d'altitude, de la Roche de Mio au glacier de Bellecôte.",
-   "lieux": [
-    {
-     "category": "telecabine",
-     "slug": "telecabine-de-la-roche-de-mio",
-     "title_fr": "Télécabine de la Roche de Mio"
+      "centroid": {
+        "lat": 45.5531,
+        "lon": 6.8418
+      },
+      "commune": "Bourg-Saint-Maurice",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "Gateway to the upper Tarentaise, Bourg-Saint-Maurice gives access to Les Arcs and the Aiguille Rouge cable car.",
+      "intro_fr": "Porte de la haute Tarentaise, Bourg-Saint-Maurice donne accès aux Arcs et au téléphérique de l'Aiguille Rouge.",
+      "lieux": [
+        {
+          "category": "telecabine",
+          "slug": "telepherique-de-l-aiguille-rouge",
+          "title_fr": "Téléphérique de l'Aiguille Rouge"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73700",
+      "research_log": [],
+      "slug": "bourg-saint-maurice",
+      "stats": {
+        "total": 1
+      },
+      "verify_flags": []
     },
     {
-     "category": "telecabine",
-     "slug": "telecabine-des-glaciers",
-     "title_fr": "Télécabine des Glaciers"
-    }
-   ],
-   "lieux_count": 2,
-   "postal_code": "73210",
-   "research_log": [],
-   "slug": "la-plagne-tarentaise",
-   "stats": {
-    "total": 2
-   },
-   "verify_flags": []
-  },
-  {
-   "centroid": {
-    "lat": 45.3285,
-    "lon": 6.6098
-   },
-   "commune": "Les Allues",
-   "department": "Savoie",
-   "hero_image": null,
-   "hero_strategy": null,
-   "intro_en": "The commune of Méribel and the department's densest by recorded places, Les Allues climbs to Mont Vallon at 2,952 m.",
-   "intro_fr": "Commune de Méribel et première du département par le nombre de lieux recensés, Les Allues monte au Mont Vallon à 2 952 m.",
-   "lieux": [
-    {
-     "category": "telecabine",
-     "slug": "telecabine-du-mont-vallon",
-     "title_fr": "Télécabine du Mont Vallon"
-    }
-   ],
-   "lieux_count": 1,
-   "postal_code": "73550",
-   "research_log": [],
-   "slug": "les-allues",
-   "stats": {
-    "total": 1
-   },
-   "verify_flags": []
-  },
-  {
-   "centroid": {
-    "lat": 45.2898,
-    "lon": 6.5358
-   },
-   "commune": "Les Belleville",
-   "department": "Savoie",
-   "hero_image": null,
-   "hero_strategy": null,
-   "intro_en": "The commune of Les Menuires, Val Thorens and Saint-Martin, Les Belleville tops out at the Cime Caron.",
-   "intro_fr": "Commune des Menuires, de Val Thorens et de Saint-Martin, Les Belleville culmine à la Cime Caron.",
-   "lieux": [
-    {
-     "category": "telecabine",
-     "slug": "telecabine-de-la-pointe-de-la-masse",
-     "title_fr": "Télécabine de la Pointe de la Masse"
+      "centroid": {
+        "lat": 45.4562,
+        "lon": 6.6931
+      },
+      "commune": "Champagny-en-Vanoise",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "At the gates of the Vanoise national park, Champagny links its valley to the high ground by gondola.",
+      "intro_fr": "Aux portes du parc national de la Vanoise, Champagny relie sa vallée au domaine d'altitude par une télécabine.",
+      "lieux": [
+        {
+          "category": "telecabine",
+          "slug": "telecabine-de-champagny",
+          "title_fr": "Télécabine de Champagny"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73350",
+      "research_log": [],
+      "slug": "champagny-en-vanoise",
+      "stats": {
+        "total": 1
+      },
+      "verify_flags": []
     },
     {
-     "category": "telecabine",
-     "slug": "telepherique-de-la-cime-caron",
-     "title_fr": "Téléphérique de la Cime Caron"
-    }
-   ],
-   "lieux_count": 2,
-   "postal_code": "73440",
-   "research_log": [],
-   "slug": "les-belleville",
-   "stats": {
-    "total": 2
-   },
-   "verify_flags": []
-  },
-  {
-   "commune": "Orelle",
-   "department": "Savoie",
-   "hero_image": null,
-   "hero_strategy": null,
-   "intro_en": "A small Maurienne commune, Orelle is the southern gateway to Les Trois Vallées via the link to the Cime Caron.",
-   "intro_fr": "Petite commune de Maurienne, Orelle est la porte sud des 3 Vallées par la liaison vers la Cime Caron.",
-   "lieux": [
-    {
-     "category": "telecabine",
-     "slug": "telecabine-orelle-cime-caron",
-     "title_fr": "Télécabine Orelle – Cime Caron"
-    }
-   ],
-   "lieux_count": 1,
-   "postal_code": "73140",
-   "research_log": [],
-   "slug": "orelle",
-   "stats": {
-    "total": 1
-   },
-   "verify_flags": []
-  },
-  {
-   "centroid": {
-    "lat": 45.5511,
-    "lon": 6.7636
-   },
-   "commune": "Peisey-Nancroix",
-   "department": "Savoie",
-   "hero_image": null,
-   "hero_strategy": null,
-   "intro_en": "Peisey-Nancroix holds one end of the Vanoise Express, which spans the valley towards La Plagne.",
-   "intro_fr": "Peisey-Nancroix tient une extrémité du Vanoise Express, qui franchit la vallée vers La Plagne.",
-   "lieux": [
-    {
-     "category": "telecabine",
-     "slug": "vanoise-express",
-     "title_fr": "Vanoise Express"
-    }
-   ],
-   "lieux_count": 1,
-   "postal_code": "73210",
-   "research_log": [],
-   "slug": "peisey-nancroix",
-   "stats": {
-    "total": 1
-   },
-   "verify_flags": []
-  },
-  {
-   "centroid": {
-    "lat": 45.3863,
-    "lon": 6.7302
-   },
-   "commune": "Pralognan-la-Vanoise",
-   "department": "Savoie",
-   "hero_image": null,
-   "hero_strategy": null,
-   "intro_en": "A gateway village to the Vanoise national park, Pralognan climbs to Mont Bochor by cable car.",
-   "intro_fr": "Village-porte du parc national de la Vanoise, Pralognan monte au Mont Bochor par téléphérique.",
-   "lieux": [
-    {
-     "category": "telecabine",
-     "slug": "telepherique-du-mont-bochor",
-     "title_fr": "Téléphérique du Mont-Bochor"
-    }
-   ],
-   "lieux_count": 1,
-   "postal_code": "73710",
-   "research_log": [],
-   "slug": "pralognan-la-vanoise",
-   "stats": {
-    "total": 1
-   },
-   "verify_flags": []
-  },
-  {
-   "centroid": {
-    "lat": 45.2394,
-    "lon": 6.1756
-   },
-   "commune": "Saint-Colomban-des-Villards",
-   "department": "Savoie",
-   "hero_image": null,
-   "hero_strategy": null,
-   "intro_en": "At the head of the Villards valley, Saint-Colomban commands the Savoyard side of the Col du Glandon.",
-   "intro_fr": "Au fond de la vallée des Villards, Saint-Colomban commande le versant savoyard du col du Glandon.",
-   "lieux": [
-    {
-     "category": "point-de-vue",
-     "slug": "col-du-glandon",
-     "title_fr": "Col du Glandon"
-    }
-   ],
-   "lieux_count": 1,
-   "postal_code": "73130",
-   "research_log": [],
-   "slug": "saint-colomban-des-villards",
-   "stats": {
-    "total": 1
-   },
-   "verify_flags": []
-  },
-  {
-   "centroid": {
-    "lat": 45.4354,
-    "lon": 6.376
-   },
-   "commune": "Saint-François-Longchamp",
-   "department": "Savoie",
-   "hero_image": null,
-   "hero_strategy": null,
-   "intro_en": "A Maurienne resort, Saint-François-Longchamp holds the southern side of the Col de la Madeleine.",
-   "intro_fr": "Station de Maurienne, Saint-François-Longchamp tient le versant sud du col de la Madeleine.",
-   "lieux": [
-    {
-     "category": "point-de-vue",
-     "slug": "col-de-la-madeleine",
-     "title_fr": "Col de la Madeleine"
-    }
-   ],
-   "lieux_count": 1,
-   "postal_code": "73130",
-   "research_log": [],
-   "slug": "saint-francois-longchamp",
-   "stats": {
-    "total": 1
-   },
-   "verify_flags": []
-  },
-  {
-   "centroid": {
-    "lat": 45.2794,
-    "lon": 6.3466
-   },
-   "commune": "Saint-Jean-de-Maurienne",
-   "department": "Savoie",
-   "hero_image": null,
-   "hero_strategy": null,
-   "intro_en": "Sub-prefecture of the Maurienne, Saint-Jean commands the climb to the Col du Chaussy via the Lacets de Montvernier.",
-   "intro_fr": "Sous-préfecture de la Maurienne, Saint-Jean commande la montée du col du Chaussy par les lacets de Montvernier.",
-   "lieux": [
-    {
-     "category": "point-de-vue",
-     "slug": "col-du-chaussy",
-     "title_fr": "Col du Chaussy"
-    }
-   ],
-   "lieux_count": 1,
-   "postal_code": "73300",
-   "research_log": [],
-   "slug": "saint-jean-de-maurienne",
-   "stats": {
-    "total": 1
-   },
-   "verify_flags": []
-  },
-  {
-   "centroid": {
-    "lat": 45.2275,
-    "lon": 6.2035
-   },
-   "commune": "Saint-Sorlin-d'Arves",
-   "department": "Savoie",
-   "hero_image": null,
-   "hero_strategy": null,
-   "intro_en": "A village of the Arves, Saint-Sorlin opens onto the Col de la Croix de Fer.",
-   "intro_fr": "Village des Arves, Saint-Sorlin ouvre sur le col de la Croix de Fer.",
-   "lieux": [
-    {
-     "category": "point-de-vue",
-     "slug": "col-de-la-croix-de-fer",
-     "title_fr": "Col de la Croix de Fer"
-    }
-   ],
-   "lieux_count": 1,
-   "postal_code": "73530",
-   "research_log": [],
-   "slug": "saint-sorlin-d-arves",
-   "stats": {
-    "total": 1
-   },
-   "verify_flags": []
-  },
-  {
-   "commune": "Séez",
-   "department": "Savoie",
-   "hero_image": null,
-   "hero_strategy": null,
-   "intro_en": "On the road to the Petit-Saint-Bernard, Séez guards the last French pass before Italy.",
-   "intro_fr": "Sur la route du Petit-Saint-Bernard, Séez garde le dernier col français avant l'Italie.",
-   "lieux": [
-    {
-     "category": "point-de-vue",
-     "slug": "col-du-petit-saint-bernard",
-     "title_fr": "Col du Petit-Saint-Bernard"
-    }
-   ],
-   "lieux_count": 1,
-   "postal_code": "73700",
-   "research_log": [],
-   "slug": "seez",
-   "stats": {
-    "total": 1
-   },
-   "verify_flags": []
-  },
-  {
-   "centroid": {
-    "lat": 45.4527,
-    "lon": 6.8977
-   },
-   "commune": "Tignes",
-   "department": "Savoie",
-   "hero_image": null,
-   "hero_strategy": null,
-   "intro_en": "Tignes climbs to the Grande Motte glacier by two machines in series: a funicular in tunnel, then a cable car.",
-   "intro_fr": "Tignes monte au glacier de la Grande Motte par deux appareils en série : un funiculaire en tunnel, puis un téléphérique.",
-   "lieux": [
-    {
-     "category": "telecabine",
-     "slug": "funiculaire-de-la-grande-motte",
-     "title_fr": "Funiculaire de la Grande Motte"
+      "centroid": {
+        "lat": 45.3982,
+        "lon": 6.6085
+      },
+      "commune": "Courchevel",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "A Trois Vallées resort, Courchevel holds the Saulire cable car and one side of the Col de la Loze, a high road closed to cars.",
+      "intro_fr": "Station des 3 Vallées, Courchevel tient le téléphérique de la Saulire et un versant du col de la Loze, route d'altitude interdite aux voitures.",
+      "lieux": [
+        {
+          "category": "point-de-vue",
+          "slug": "col-de-la-loze",
+          "title_fr": "Col de la Loze"
+        },
+        {
+          "category": "telecabine",
+          "slug": "telepherique-de-la-saulire",
+          "title_fr": "Téléphérique de la Saulire"
+        }
+      ],
+      "lieux_count": 2,
+      "postal_code": "73120",
+      "research_log": [],
+      "slug": "courchevel",
+      "stats": {
+        "total": 2
+      },
+      "verify_flags": []
     },
     {
-     "category": "telecabine",
-     "slug": "telepherique-de-la-grande-motte",
-     "title_fr": "Téléphérique de la Grande Motte"
-    }
-   ],
-   "lieux_count": 2,
-   "postal_code": "73320",
-   "research_log": [],
-   "slug": "tignes",
-   "stats": {
-    "total": 2
-   },
-   "verify_flags": []
-  },
-  {
-   "centroid": {
-    "lat": 45.2603,
-    "lon": 6.9008
-   },
-   "commune": "Val-Cenis",
-   "department": "Savoie",
-   "hero_image": null,
-   "hero_strategy": null,
-   "intro_en": "Val-Cenis opens the upper Maurienne towards Italy via the Col du Mont-Cenis and its reservoir.",
-   "intro_fr": "Val-Cenis ouvre la haute Maurienne vers l'Italie par le col du Mont-Cenis et sa retenue.",
-   "lieux": [
-    {
-     "category": "point-de-vue",
-     "slug": "col-du-mont-cenis",
-     "title_fr": "Col du Mont-Cenis"
-    }
-   ],
-   "lieux_count": 1,
-   "postal_code": "73480",
-   "research_log": [],
-   "slug": "val-cenis",
-   "stats": {
-    "total": 1
-   },
-   "verify_flags": []
-  },
-  {
-   "commune": "Val-d'Isère",
-   "department": "Savoie",
-   "hero_image": null,
-   "hero_strategy": null,
-   "intro_en": "Val-d'Isère lines up its high lifts above the infant Isère, one of them free to pedestrians in summer.",
-   "intro_fr": "Val-d'Isère aligne ses remontées d'altitude au-dessus de l'Isère naissante, dont une gratuite aux piétons l'été.",
-   "lieux": [
-    {
-     "category": "telecabine",
-     "slug": "telecabine-de-solaise",
-     "title_fr": "Télécabine de Solaise"
+      "commune": "Hauteluce",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "A Beaufortain commune, Hauteluce carries the Les Saisies resort, its year-round pass and the Signal de Bisanne.",
+      "intro_fr": "Commune du Beaufortain, Hauteluce porte la station des Saisies, son col ouvert toute l'année et le Signal de Bisanne.",
+      "lieux": [
+        {
+          "category": "point-de-vue",
+          "slug": "col-des-saisies",
+          "title_fr": "Col des Saisies"
+        },
+        {
+          "category": "point-de-vue",
+          "slug": "signal-de-bisanne",
+          "title_fr": "Signal de Bisanne"
+        }
+      ],
+      "lieux_count": 2,
+      "postal_code": "73620",
+      "research_log": [],
+      "slug": "hauteluce",
+      "stats": {
+        "total": 2
+      },
+      "verify_flags": []
     },
     {
-     "category": "telecabine",
-     "slug": "telepherique-de-l-olympique",
-     "title_fr": "Téléphérique de l'Olympique"
-    }
-   ],
-   "lieux_count": 2,
-   "postal_code": "73150",
-   "research_log": [],
-   "slug": "val-d-isere",
-   "stats": {
-    "total": 2
-   },
-   "verify_flags": []
-  },
-  {
-   "centroid": {
-    "lat": 45.1333,
-    "lon": 6.4261
-   },
-   "commune": "Valloire",
-   "department": "Savoie",
-   "hero_image": null,
-   "hero_strategy": null,
-   "intro_en": "Between the Télégraphe and the Galibier, Valloire holds two of the most-crossed passes of the Tour de France.",
-   "intro_fr": "Entre Télégraphe et Galibier, Valloire tient deux des cols les plus franchis du Tour de France.",
-   "lieux": [
-    {
-     "category": "point-de-vue",
-     "slug": "col-du-galibier",
-     "title_fr": "Col du Galibier"
+      "centroid": {
+        "lat": 45.5004,
+        "lon": 6.7217
+      },
+      "commune": "La Plagne Tarentaise",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "The heart of La Plagne, the commune lines up the high lifts, from Roche de Mio to the Bellecôte glacier.",
+      "intro_fr": "Cœur de La Plagne, la commune aligne les remontées d'altitude, de la Roche de Mio au glacier de Bellecôte.",
+      "lieux": [
+        {
+          "category": "telecabine",
+          "slug": "telecabine-de-la-roche-de-mio",
+          "title_fr": "Télécabine de la Roche de Mio"
+        },
+        {
+          "category": "telecabine",
+          "slug": "telecabine-des-glaciers",
+          "title_fr": "Télécabine des Glaciers"
+        }
+      ],
+      "lieux_count": 2,
+      "postal_code": "73210",
+      "research_log": [],
+      "slug": "la-plagne-tarentaise",
+      "stats": {
+        "total": 2
+      },
+      "verify_flags": []
     },
     {
-     "category": "point-de-vue",
-     "slug": "col-du-telegraphe",
-     "title_fr": "Col du Télégraphe"
-    }
-   ],
-   "lieux_count": 2,
-   "postal_code": "73450",
-   "research_log": [],
-   "slug": "valloire",
-   "stats": {
-    "total": 2
-   },
-   "verify_flags": []
-  },
-  {
-   "commune": "Saint-Pierre-d'Entremont",
-   "slug": "saint-pierre-d-entremont",
-   "postal_code": "73670",
-   "department": "Savoie",
-   "hero_image": null,
-   "hero_strategy": null,
-   "intro_fr": "Aux portes de la Chartreuse savoyarde, Saint-Pierre-d'Entremont garde le cirque de Saint-Même et les quatre cascades du Guiers Vif.",
-   "intro_en": "At the gates of the Savoie Chartreuse, Saint-Pierre-d'Entremont guards the Cirque de Saint-Même and the four falls of the Guiers Vif.",
-   "lieux": [
+      "centroid": {
+        "lat": 45.3285,
+        "lon": 6.6098
+      },
+      "commune": "Les Allues",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "The commune of Méribel and the department's densest by recorded places, Les Allues climbs to Mont Vallon at 2,952 m.",
+      "intro_fr": "Commune de Méribel et première du département par le nombre de lieux recensés, Les Allues monte au Mont Vallon à 2 952 m.",
+      "lieux": [
+        {
+          "category": "telecabine",
+          "slug": "telecabine-du-mont-vallon",
+          "title_fr": "Télécabine du Mont Vallon"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73550",
+      "research_log": [],
+      "slug": "les-allues",
+      "stats": {
+        "total": 1
+      },
+      "verify_flags": []
+    },
     {
-     "category": "cascade",
-     "slug": "cirque-de-saint-meme",
-     "title_fr": "Cirque de Saint-Même"
-    }
-   ],
-   "lieux_count": 1,
-   "stats": {},
-   "research_log": "Added with the cascades batch, 2026-08-10.",
-   "verify_flags": []
-  },
-  {
-   "commune": "Grand-Aigueblanche",
-   "slug": "grand-aigueblanche",
-   "postal_code": "73260",
-   "department": "Savoie",
-   "hero_image": null,
-   "hero_strategy": null,
-   "intro_fr": "En Tarentaise, sous Valmorel, Grand-Aigueblanche aligne les cinquante cascades du Morel le long de son sentier de correction torrentielle.",
-   "intro_en": "In the Tarentaise below Valmorel, Grand-Aigueblanche strings the fifty falls of the Morel along its torrent-correction trail.",
-   "lieux": [
+      "centroid": {
+        "lat": 45.2898,
+        "lon": 6.5358
+      },
+      "commune": "Les Belleville",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "The commune of Les Menuires, Val Thorens and Saint-Martin, Les Belleville tops out at the Cime Caron.",
+      "intro_fr": "Commune des Menuires, de Val Thorens et de Saint-Martin, Les Belleville culmine à la Cime Caron.",
+      "lieux": [
+        {
+          "category": "telecabine",
+          "slug": "telecabine-de-la-pointe-de-la-masse",
+          "title_fr": "Télécabine de la Pointe de la Masse"
+        },
+        {
+          "category": "telecabine",
+          "slug": "telepherique-de-la-cime-caron",
+          "title_fr": "Téléphérique de la Cime Caron"
+        }
+      ],
+      "lieux_count": 2,
+      "postal_code": "73440",
+      "research_log": [],
+      "slug": "les-belleville",
+      "stats": {
+        "total": 2
+      },
+      "verify_flags": []
+    },
     {
-     "category": "cascade",
-     "slug": "cascade-du-morel",
-     "title_fr": "Cascade du Morel"
-    }
-   ],
-   "lieux_count": 1,
-   "stats": {},
-   "research_log": "Added with the cascades batch, 2026-08-10.",
-   "verify_flags": []
-  },
-  {
-   "commune": "Grésy-sur-Aix",
-   "slug": "gresy-sur-aix",
-   "postal_code": "73100",
-   "department": "Savoie",
-   "hero_image": null,
-   "hero_strategy": null,
-   "intro_fr": "Aux portes d'Aix-les-Bains, Grésy-sur-Aix rouvre depuis 2021 ses gorges du Sierroz, passerelles en encorbellement jusqu'à la cascade de Grésy.",
-   "intro_en": "At the gates of Aix-les-Bains, Grésy-sur-Aix reopened its Sierroz gorges in 2021 — cantilevered walkways to the Grésy waterfall.",
-   "lieux": [
+      "commune": "Orelle",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "A small Maurienne commune, Orelle is the southern gateway to Les Trois Vallées via the link to the Cime Caron.",
+      "intro_fr": "Petite commune de Maurienne, Orelle est la porte sud des 3 Vallées par la liaison vers la Cime Caron.",
+      "lieux": [
+        {
+          "category": "telecabine",
+          "slug": "telecabine-orelle-cime-caron",
+          "title_fr": "Télécabine Orelle – Cime Caron"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73140",
+      "research_log": [],
+      "slug": "orelle",
+      "stats": {
+        "total": 1
+      },
+      "verify_flags": []
+    },
     {
-     "category": "cascade",
-     "slug": "gorges-du-sierroz-cascade-de-gresy",
-     "title_fr": "Gorges du Sierroz et cascade de Grésy"
-    }
-   ],
-   "lieux_count": 1,
-   "stats": {},
-   "research_log": "Added with the cascades batch, 2026-08-10.",
-   "verify_flags": []
-  },
-  {
-   "commune": "Le Châtelard",
-   "slug": "le-chatelard",
-   "postal_code": "73630",
-   "department": "Savoie",
-   "hero_image": null,
-   "hero_strategy": null,
-   "intro_fr": "Chef-lieu des Bauges, Le Châtelard mène à la cascade-tufière du Pissieu, alimentée par le gouffre de la Tanne du Cochon.",
-   "intro_en": "The Bauges' main village, Le Châtelard leads to the Pissieu tufa waterfall, fed by the Tanne du Cochon chasm.",
-   "lieux": [
+      "centroid": {
+        "lat": 45.5511,
+        "lon": 6.7636
+      },
+      "commune": "Peisey-Nancroix",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "Peisey-Nancroix holds one end of the Vanoise Express, which spans the valley towards La Plagne.",
+      "intro_fr": "Peisey-Nancroix tient une extrémité du Vanoise Express, qui franchit la vallée vers La Plagne.",
+      "lieux": [
+        {
+          "category": "telecabine",
+          "slug": "vanoise-express",
+          "title_fr": "Vanoise Express"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73210",
+      "research_log": [],
+      "slug": "peisey-nancroix",
+      "stats": {
+        "total": 1
+      },
+      "verify_flags": []
+    },
     {
-     "category": "cascade",
-     "slug": "cascade-du-pissieu",
-     "title_fr": "Cascade du Pissieu"
-    }
-   ],
-   "lieux_count": 1,
-   "stats": {},
-   "research_log": "Added with the cascades batch, 2026-08-10.",
-   "verify_flags": []
-  },
-  {
-   "commune": "Avrieux",
-   "slug": "avrieux",
-   "postal_code": "73500",
-   "department": "Savoie",
-   "hero_image": null,
-   "hero_strategy": null,
-   "intro_fr": "En Haute Maurienne, sur la route des forts de l'Esseillon, Avrieux voisine la cascade de Saint-Benoît et sa chapelle.",
-   "intro_en": "In Haute Maurienne, on the Esseillon forts road, Avrieux neighbours the Saint-Benoît waterfall and its chapel.",
-   "lieux": [
+      "centroid": {
+        "lat": 45.3863,
+        "lon": 6.7302
+      },
+      "commune": "Pralognan-la-Vanoise",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "A gateway village to the Vanoise national park, Pralognan climbs to Mont Bochor by cable car.",
+      "intro_fr": "Village-porte du parc national de la Vanoise, Pralognan monte au Mont Bochor par téléphérique.",
+      "lieux": [
+        {
+          "category": "telecabine",
+          "slug": "telepherique-du-mont-bochor",
+          "title_fr": "Téléphérique du Mont-Bochor"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73710",
+      "research_log": [],
+      "slug": "pralognan-la-vanoise",
+      "stats": {
+        "total": 1
+      },
+      "verify_flags": []
+    },
     {
-     "category": "cascade",
-     "slug": "cascade-de-saint-benoit",
-     "title_fr": "Cascade de Saint-Benoît"
-    }
-   ],
-   "lieux_count": 1,
-   "stats": {},
-   "research_log": "Added with the cascades batch, 2026-08-10.",
-   "verify_flags": []
-  },
-  {
-   "commune": "Saint-Jean-d'Arvey",
-   "slug": "saint-jean-d-arvey",
-   "postal_code": "73230",
-   "department": "Savoie",
-   "hero_image": null,
-   "hero_strategy": null,
-   "intro_fr": "Balcon des Bauges au-dessus de Chambéry, Saint-Jean-d'Arvey donne accès à la grande cascade de la Doria et son belvédère.",
-   "intro_en": "A Bauges balcony above Chambéry, Saint-Jean-d'Arvey opens onto the great Doria waterfall and its viewpoint.",
-   "lieux": [
+      "centroid": {
+        "lat": 45.2394,
+        "lon": 6.1756
+      },
+      "commune": "Saint-Colomban-des-Villards",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "At the head of the Villards valley, Saint-Colomban commands the Savoyard side of the Col du Glandon.",
+      "intro_fr": "Au fond de la vallée des Villards, Saint-Colomban commande le versant savoyard du col du Glandon.",
+      "lieux": [
+        {
+          "category": "point-de-vue",
+          "slug": "col-du-glandon",
+          "title_fr": "Col du Glandon"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73130",
+      "research_log": [],
+      "slug": "saint-colomban-des-villards",
+      "stats": {
+        "total": 1
+      },
+      "verify_flags": []
+    },
     {
-     "category": "cascade",
-     "slug": "grande-cascade-de-la-doria",
-     "title_fr": "Grande cascade de la Doria"
+      "centroid": {
+        "lat": 45.4354,
+        "lon": 6.376
+      },
+      "commune": "Saint-François-Longchamp",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "A Maurienne resort, Saint-François-Longchamp holds the southern side of the Col de la Madeleine.",
+      "intro_fr": "Station de Maurienne, Saint-François-Longchamp tient le versant sud du col de la Madeleine.",
+      "lieux": [
+        {
+          "category": "point-de-vue",
+          "slug": "col-de-la-madeleine",
+          "title_fr": "Col de la Madeleine"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73130",
+      "research_log": [],
+      "slug": "saint-francois-longchamp",
+      "stats": {
+        "total": 1
+      },
+      "verify_flags": []
+    },
+    {
+      "centroid": {
+        "lat": 45.2794,
+        "lon": 6.3466
+      },
+      "commune": "Saint-Jean-de-Maurienne",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "Sub-prefecture of the Maurienne, Saint-Jean commands the climb to the Col du Chaussy via the Lacets de Montvernier.",
+      "intro_fr": "Sous-préfecture de la Maurienne, Saint-Jean commande la montée du col du Chaussy par les lacets de Montvernier.",
+      "lieux": [
+        {
+          "category": "point-de-vue",
+          "slug": "col-du-chaussy",
+          "title_fr": "Col du Chaussy"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73300",
+      "research_log": [],
+      "slug": "saint-jean-de-maurienne",
+      "stats": {
+        "total": 1
+      },
+      "verify_flags": []
+    },
+    {
+      "centroid": {
+        "lat": 45.2275,
+        "lon": 6.2035
+      },
+      "commune": "Saint-Sorlin-d'Arves",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "A village of the Arves, Saint-Sorlin opens onto the Col de la Croix de Fer.",
+      "intro_fr": "Village des Arves, Saint-Sorlin ouvre sur le col de la Croix de Fer.",
+      "lieux": [
+        {
+          "category": "point-de-vue",
+          "slug": "col-de-la-croix-de-fer",
+          "title_fr": "Col de la Croix de Fer"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73530",
+      "research_log": [],
+      "slug": "saint-sorlin-d-arves",
+      "stats": {
+        "total": 1
+      },
+      "verify_flags": []
+    },
+    {
+      "commune": "Séez",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "On the road to the Petit-Saint-Bernard, Séez guards the last French pass before Italy.",
+      "intro_fr": "Sur la route du Petit-Saint-Bernard, Séez garde le dernier col français avant l'Italie.",
+      "lieux": [
+        {
+          "category": "point-de-vue",
+          "slug": "col-du-petit-saint-bernard",
+          "title_fr": "Col du Petit-Saint-Bernard"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73700",
+      "research_log": [],
+      "slug": "seez",
+      "stats": {
+        "total": 1
+      },
+      "verify_flags": []
+    },
+    {
+      "centroid": {
+        "lat": 45.4527,
+        "lon": 6.8977
+      },
+      "commune": "Tignes",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "Tignes climbs to the Grande Motte glacier by two machines in series: a funicular in tunnel, then a cable car.",
+      "intro_fr": "Tignes monte au glacier de la Grande Motte par deux appareils en série : un funiculaire en tunnel, puis un téléphérique.",
+      "lieux": [
+        {
+          "category": "telecabine",
+          "slug": "funiculaire-de-la-grande-motte",
+          "title_fr": "Funiculaire de la Grande Motte"
+        },
+        {
+          "category": "telecabine",
+          "slug": "telepherique-de-la-grande-motte",
+          "title_fr": "Téléphérique de la Grande Motte"
+        }
+      ],
+      "lieux_count": 2,
+      "postal_code": "73320",
+      "research_log": [],
+      "slug": "tignes",
+      "stats": {
+        "total": 2
+      },
+      "verify_flags": []
+    },
+    {
+      "centroid": {
+        "lat": 45.2603,
+        "lon": 6.9008
+      },
+      "commune": "Val-Cenis",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "Val-Cenis opens the upper Maurienne towards Italy via the Col du Mont-Cenis and its reservoir.",
+      "intro_fr": "Val-Cenis ouvre la haute Maurienne vers l'Italie par le col du Mont-Cenis et sa retenue.",
+      "lieux": [
+        {
+          "category": "point-de-vue",
+          "slug": "col-du-mont-cenis",
+          "title_fr": "Col du Mont-Cenis"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73480",
+      "research_log": [],
+      "slug": "val-cenis",
+      "stats": {
+        "total": 1
+      },
+      "verify_flags": []
+    },
+    {
+      "commune": "Val-d'Isère",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "Val-d'Isère lines up its high lifts above the infant Isère, one of them free to pedestrians in summer.",
+      "intro_fr": "Val-d'Isère aligne ses remontées d'altitude au-dessus de l'Isère naissante, dont une gratuite aux piétons l'été.",
+      "lieux": [
+        {
+          "category": "telecabine",
+          "slug": "telecabine-de-solaise",
+          "title_fr": "Télécabine de Solaise"
+        },
+        {
+          "category": "telecabine",
+          "slug": "telepherique-de-l-olympique",
+          "title_fr": "Téléphérique de l'Olympique"
+        }
+      ],
+      "lieux_count": 2,
+      "postal_code": "73150",
+      "research_log": [],
+      "slug": "val-d-isere",
+      "stats": {
+        "total": 2
+      },
+      "verify_flags": []
+    },
+    {
+      "centroid": {
+        "lat": 45.1333,
+        "lon": 6.4261
+      },
+      "commune": "Valloire",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "Between the Télégraphe and the Galibier, Valloire holds two of the most-crossed passes of the Tour de France.",
+      "intro_fr": "Entre Télégraphe et Galibier, Valloire tient deux des cols les plus franchis du Tour de France.",
+      "lieux": [
+        {
+          "category": "point-de-vue",
+          "slug": "col-du-galibier",
+          "title_fr": "Col du Galibier"
+        },
+        {
+          "category": "point-de-vue",
+          "slug": "col-du-telegraphe",
+          "title_fr": "Col du Télégraphe"
+        }
+      ],
+      "lieux_count": 2,
+      "postal_code": "73450",
+      "research_log": [],
+      "slug": "valloire",
+      "stats": {
+        "total": 2
+      },
+      "verify_flags": []
+    },
+    {
+      "commune": "Saint-Pierre-d'Entremont",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "At the gates of the Savoie Chartreuse, Saint-Pierre-d'Entremont guards the Cirque de Saint-Même and the four falls of the Guiers Vif.",
+      "intro_fr": "Aux portes de la Chartreuse savoyarde, Saint-Pierre-d'Entremont garde le cirque de Saint-Même et les quatre cascades du Guiers Vif.",
+      "lieux": [
+        {
+          "category": "cascade",
+          "slug": "cirque-de-saint-meme",
+          "title_fr": "Cirque de Saint-Même"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73670",
+      "research_log": "Added with the cascades batch, 2026-08-10.",
+      "slug": "saint-pierre-d-entremont",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
+      "commune": "Grand-Aigueblanche",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "In the Tarentaise below Valmorel, Grand-Aigueblanche strings the fifty falls of the Morel along its torrent-correction trail.",
+      "intro_fr": "En Tarentaise, sous Valmorel, Grand-Aigueblanche aligne les cinquante cascades du Morel le long de son sentier de correction torrentielle.",
+      "lieux": [
+        {
+          "category": "cascade",
+          "slug": "cascade-du-morel",
+          "title_fr": "Cascade du Morel"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73260",
+      "research_log": "Added with the cascades batch, 2026-08-10.",
+      "slug": "grand-aigueblanche",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
+      "commune": "Grésy-sur-Aix",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "At the gates of Aix-les-Bains, Grésy-sur-Aix reopened its Sierroz gorges in 2021 — cantilevered walkways to the Grésy waterfall.",
+      "intro_fr": "Aux portes d'Aix-les-Bains, Grésy-sur-Aix rouvre depuis 2021 ses gorges du Sierroz, passerelles en encorbellement jusqu'à la cascade de Grésy.",
+      "lieux": [
+        {
+          "category": "cascade",
+          "slug": "gorges-du-sierroz-cascade-de-gresy",
+          "title_fr": "Gorges du Sierroz et cascade de Grésy"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73100",
+      "research_log": "Added with the cascades batch, 2026-08-10.",
+      "slug": "gresy-sur-aix",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
+      "commune": "Le Châtelard",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "The Bauges' main village, Le Châtelard leads to the Pissieu tufa waterfall, fed by the Tanne du Cochon chasm.",
+      "intro_fr": "Chef-lieu des Bauges, Le Châtelard mène à la cascade-tufière du Pissieu, alimentée par le gouffre de la Tanne du Cochon.",
+      "lieux": [
+        {
+          "category": "cascade",
+          "slug": "cascade-du-pissieu",
+          "title_fr": "Cascade du Pissieu"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73630",
+      "research_log": "Added with the cascades batch, 2026-08-10.",
+      "slug": "le-chatelard",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
+      "commune": "Avrieux",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "In Haute Maurienne, on the Esseillon forts road, Avrieux neighbours the Saint-Benoît waterfall and its chapel.",
+      "intro_fr": "En Haute Maurienne, sur la route des forts de l'Esseillon, Avrieux voisine la cascade de Saint-Benoît et sa chapelle.",
+      "lieux": [
+        {
+          "category": "cascade",
+          "slug": "cascade-de-saint-benoit",
+          "title_fr": "Cascade de Saint-Benoît"
+        },
+        {
+          "category": "chateau",
+          "slug": "redoute-marie-therese-avrieux",
+          "title_fr": "Redoute Marie-Thérèse"
+        }
+      ],
+      "lieux_count": 2,
+      "postal_code": "73500",
+      "research_log": "Added with the cascades batch, 2026-08-10.",
+      "slug": "avrieux",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
+      "commune": "Saint-Jean-d'Arvey",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "A Bauges balcony above Chambéry, Saint-Jean-d'Arvey opens onto the great Doria waterfall and its viewpoint.",
+      "intro_fr": "Balcon des Bauges au-dessus de Chambéry, Saint-Jean-d'Arvey donne accès à la grande cascade de la Doria et son belvédère.",
+      "lieux": [
+        {
+          "category": "cascade",
+          "slug": "grande-cascade-de-la-doria",
+          "title_fr": "Grande cascade de la Doria"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73230",
+      "research_log": "Added with the cascades batch, 2026-08-10.",
+      "slug": "saint-jean-d-arvey",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
+      "commune": "Chambéry",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "Historic capital of the dukes of Savoy, Chambéry keeps their castle, its Sainte-Chapelle and the largest carillon in France.",
+      "intro_fr": "Capitale historique des ducs de Savoie, Chambéry garde leur château, sa Sainte-Chapelle et le plus grand carillon de France.",
+      "lieux": [
+        {
+          "category": "chateau",
+          "slug": "chateau-des-ducs-de-savoie-chambery",
+          "title_fr": "Château des ducs de Savoie"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73000",
+      "research_log": "Added with the châteaux batch, 2026-08-10.",
+      "slug": "chambery",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
+      "commune": "Saint-Pierre-d'Albigny",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "On the Combe de Savoie's balcony, Saint-Pierre-d'Albigny carries the Miolans fortress, the dukes' state prison.",
+      "intro_fr": "Au balcon de la Combe de Savoie, Saint-Pierre-d'Albigny porte la forteresse de Miolans, prison d'État des ducs.",
+      "lieux": [
+        {
+          "category": "chateau",
+          "slug": "chateau-de-miolans-saint-pierre-d-albigny",
+          "title_fr": "Château de Miolans"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73250",
+      "research_log": "Added with the châteaux batch, 2026-08-10.",
+      "slug": "saint-pierre-d-albigny",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
+      "commune": "Aussois",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "A Haute Maurienne village below the Vanoise, Aussois guards the Sardinian forts of the Esseillon barrier.",
+      "intro_fr": "Village de Haute Maurienne au pied de la Vanoise, Aussois garde les forts sardes de la barrière de l'Esseillon.",
+      "lieux": [
+        {
+          "category": "chateau",
+          "slug": "fort-victor-emmanuel-aussois",
+          "title_fr": "Fort Victor-Emmanuel"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73500",
+      "research_log": "Added with the châteaux batch, 2026-08-10.",
+      "slug": "aussois",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
+      "commune": "Mercury",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "Above Albertville, Mercury carries the fort de Tamié and its belvederes over the Combe de Savoie.",
+      "intro_fr": "Au-dessus d'Albertville, Mercury porte le fort de Tamié et ses belvédères sur la combe de Savoie.",
+      "lieux": [
+        {
+          "category": "chateau",
+          "slug": "fort-de-tamie-mercury",
+          "title_fr": "Fort de Tamié"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73200",
+      "research_log": "Added with the châteaux batch, 2026-08-10.",
+      "slug": "mercury",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
+      "commune": "Le Bourget-du-Lac",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "On the southern shore of France's largest natural lake, Le Bourget-du-Lac watches over the ruins of the château de Thomas II.",
+      "intro_fr": "Sur la rive sud du plus grand lac naturel de France, Le Bourget-du-Lac veille sur les ruines du château de Thomas II.",
+      "lieux": [
+        {
+          "category": "chateau",
+          "slug": "chateau-de-thomas-ii-le-bourget-du-lac",
+          "title_fr": "Château de Thomas II"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73370",
+      "research_log": "Added with the châteaux batch, 2026-08-10.",
+      "slug": "le-bourget-du-lac",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
+      "commune": "Chignin",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "A winegrowing village between Chambéry and Montmélian, Chignin raises its seven medieval towers amid the vines.",
+      "intro_fr": "Village vigneron entre Chambéry et Montmélian, Chignin dresse ses sept tours médiévales au milieu des vignes.",
+      "lieux": [
+        {
+          "category": "chateau",
+          "slug": "tours-de-chignin",
+          "title_fr": "Tours de Chignin"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73800",
+      "research_log": "Added with the châteaux batch, 2026-08-10.",
+      "slug": "chignin",
+      "stats": {},
+      "verify_flags": []
     }
-   ],
-   "lieux_count": 1,
-   "stats": {},
-   "research_log": "Added with the cascades batch, 2026-08-10.",
-   "verify_flags": []
-  }
- ],
- "generated": "2026-08-08",
- "manifest": "commune-layer-73-22",
- "note": "Communes derived from the fiche layer, not authored by hand: one entry per commune that owns at least one fiche. Centroid is the mean of the fiches' coordinates and is absent where none carry one.",
- "tier": "ski-domain launch bucket"
+  ],
+  "generated": "2026-08-08",
+  "manifest": "commune-layer-73-28",
+  "note": "Communes derived from the fiche layer, not authored by hand: one entry per commune that owns at least one fiche. Centroid is the mean of the fiches' coordinates and is absent where none carry one.",
+  "tier": "ski-domain launch bucket"
 }

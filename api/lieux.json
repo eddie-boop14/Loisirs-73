@@ -1,5 +1,5 @@
 {
-  "count": 37,
+  "count": 44,
   "lieux": [
     {
       "slug": "cascade-de-la-fraiche",
@@ -84,6 +84,69 @@
       "facet_md_en": "https://loisirs73.fr/content/en/cascade-du-pissieu.md",
       "facet_json": "https://loisirs73.fr/api/lieu/cascade-du-pissieu.json",
       "photo": "/img/generique/generique-cascade.jpg"
+    },
+    {
+      "slug": "chateau-de-miolans-saint-pierre-d-albigny",
+      "name": "Château de Miolans",
+      "category": "chateau",
+      "commune": "Saint-Pierre-d'Albigny",
+      "postal_code": "73250",
+      "latitude": 45.580204,
+      "longitude": 6.186815,
+      "urls": {
+        "fr": "https://loisirs73.fr/chateau-de-miolans-saint-pierre-d-albigny",
+        "en": "https://loisirs73.fr/en/chateau-de-miolans-saint-pierre-d-albigny",
+        "de": "https://loisirs73.fr/de/chateau-de-miolans-saint-pierre-d-albigny",
+        "it": "https://loisirs73.fr/it/chateau-de-miolans-saint-pierre-d-albigny",
+        "es": "https://loisirs73.fr/es/chateau-de-miolans-saint-pierre-d-albigny",
+        "nl": "https://loisirs73.fr/nl/chateau-de-miolans-saint-pierre-d-albigny"
+      },
+      "facet_md": "https://loisirs73.fr/content/chateau-de-miolans-saint-pierre-d-albigny.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/chateau-de-miolans-saint-pierre-d-albigny.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/chateau-de-miolans-saint-pierre-d-albigny.json",
+      "photo": "/img/generique/generique-chateau-brume.jpg"
+    },
+    {
+      "slug": "chateau-de-thomas-ii-le-bourget-du-lac",
+      "name": "Château de Thomas II",
+      "category": "chateau",
+      "commune": "Le Bourget-du-Lac",
+      "postal_code": "73370",
+      "latitude": 45.651514,
+      "longitude": 5.865274,
+      "urls": {
+        "fr": "https://loisirs73.fr/chateau-de-thomas-ii-le-bourget-du-lac",
+        "en": "https://loisirs73.fr/en/chateau-de-thomas-ii-le-bourget-du-lac",
+        "de": "https://loisirs73.fr/de/chateau-de-thomas-ii-le-bourget-du-lac",
+        "it": "https://loisirs73.fr/it/chateau-de-thomas-ii-le-bourget-du-lac",
+        "es": "https://loisirs73.fr/es/chateau-de-thomas-ii-le-bourget-du-lac",
+        "nl": "https://loisirs73.fr/nl/chateau-de-thomas-ii-le-bourget-du-lac"
+      },
+      "facet_md": "https://loisirs73.fr/content/chateau-de-thomas-ii-le-bourget-du-lac.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/chateau-de-thomas-ii-le-bourget-du-lac.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/chateau-de-thomas-ii-le-bourget-du-lac.json",
+      "photo": "/img/generique/generique-chateau-toiture.jpg"
+    },
+    {
+      "slug": "chateau-des-ducs-de-savoie-chambery",
+      "name": "Château des ducs de Savoie",
+      "category": "chateau",
+      "commune": "Chambéry",
+      "postal_code": "73000",
+      "latitude": 45.564536,
+      "longitude": 5.917318,
+      "urls": {
+        "fr": "https://loisirs73.fr/chateau-des-ducs-de-savoie-chambery",
+        "en": "https://loisirs73.fr/en/chateau-des-ducs-de-savoie-chambery",
+        "de": "https://loisirs73.fr/de/chateau-des-ducs-de-savoie-chambery",
+        "it": "https://loisirs73.fr/it/chateau-des-ducs-de-savoie-chambery",
+        "es": "https://loisirs73.fr/es/chateau-des-ducs-de-savoie-chambery",
+        "nl": "https://loisirs73.fr/nl/chateau-des-ducs-de-savoie-chambery"
+      },
+      "facet_md": "https://loisirs73.fr/content/chateau-des-ducs-de-savoie-chambery.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/chateau-des-ducs-de-savoie-chambery.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/chateau-des-ducs-de-savoie-chambery.json",
+      "photo": "/img/generique/generique-chateau.jpg"
     },
     {
       "slug": "cirque-de-saint-meme",
@@ -401,6 +464,48 @@
       "photo": "/img/points-de-vue/cormet-de-roselend-hero.jpg"
     },
     {
+      "slug": "fort-de-tamie-mercury",
+      "name": "Fort de Tamié",
+      "category": "chateau",
+      "commune": "Mercury",
+      "postal_code": "73200",
+      "latitude": 45.671818,
+      "longitude": 6.313381,
+      "urls": {
+        "fr": "https://loisirs73.fr/fort-de-tamie-mercury",
+        "en": "https://loisirs73.fr/en/fort-de-tamie-mercury",
+        "de": "https://loisirs73.fr/de/fort-de-tamie-mercury",
+        "it": "https://loisirs73.fr/it/fort-de-tamie-mercury",
+        "es": "https://loisirs73.fr/es/fort-de-tamie-mercury",
+        "nl": "https://loisirs73.fr/nl/fort-de-tamie-mercury"
+      },
+      "facet_md": "https://loisirs73.fr/content/fort-de-tamie-mercury.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/fort-de-tamie-mercury.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/fort-de-tamie-mercury.json",
+      "photo": "/img/generique/generique-chateau-brume.jpg"
+    },
+    {
+      "slug": "fort-victor-emmanuel-aussois",
+      "name": "Fort Victor-Emmanuel",
+      "category": "chateau",
+      "commune": "Aussois",
+      "postal_code": "73500",
+      "latitude": 45.212323,
+      "longitude": 6.736011,
+      "urls": {
+        "fr": "https://loisirs73.fr/fort-victor-emmanuel-aussois",
+        "en": "https://loisirs73.fr/en/fort-victor-emmanuel-aussois",
+        "de": "https://loisirs73.fr/de/fort-victor-emmanuel-aussois",
+        "it": "https://loisirs73.fr/it/fort-victor-emmanuel-aussois",
+        "es": "https://loisirs73.fr/es/fort-victor-emmanuel-aussois",
+        "nl": "https://loisirs73.fr/nl/fort-victor-emmanuel-aussois"
+      },
+      "facet_md": "https://loisirs73.fr/content/fort-victor-emmanuel-aussois.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/fort-victor-emmanuel-aussois.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/fort-victor-emmanuel-aussois.json",
+      "photo": "/img/generique/generique-chateau-toiture.jpg"
+    },
+    {
       "slug": "funiculaire-de-la-grande-motte",
       "name": "Funiculaire de la Grande Motte",
       "category": "telecabine",
@@ -462,6 +567,27 @@
       "facet_md_en": "https://loisirs73.fr/content/en/grande-cascade-de-la-doria.md",
       "facet_json": "https://loisirs73.fr/api/lieu/grande-cascade-de-la-doria.json",
       "photo": "/img/generique/generique-cascade.jpg"
+    },
+    {
+      "slug": "redoute-marie-therese-avrieux",
+      "name": "Redoute Marie-Thérèse",
+      "category": "chateau",
+      "commune": "Avrieux",
+      "postal_code": "73500",
+      "latitude": 45.208363,
+      "longitude": 6.735613,
+      "urls": {
+        "fr": "https://loisirs73.fr/redoute-marie-therese-avrieux",
+        "en": "https://loisirs73.fr/en/redoute-marie-therese-avrieux",
+        "de": "https://loisirs73.fr/de/redoute-marie-therese-avrieux",
+        "it": "https://loisirs73.fr/it/redoute-marie-therese-avrieux",
+        "es": "https://loisirs73.fr/es/redoute-marie-therese-avrieux",
+        "nl": "https://loisirs73.fr/nl/redoute-marie-therese-avrieux"
+      },
+      "facet_md": "https://loisirs73.fr/content/redoute-marie-therese-avrieux.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/redoute-marie-therese-avrieux.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/redoute-marie-therese-avrieux.json",
+      "photo": "/img/generique/generique-chateau.jpg"
     },
     {
       "slug": "signal-de-bisanne",
@@ -756,6 +882,27 @@
       "facet_md_en": "https://loisirs73.fr/content/en/telepherique-du-mont-bochor.md",
       "facet_json": "https://loisirs73.fr/api/lieu/telepherique-du-mont-bochor.json",
       "photo": "/img/telecabines/telepherique-du-mont-bochor-hero.jpg"
+    },
+    {
+      "slug": "tours-de-chignin",
+      "name": "Tours de Chignin",
+      "category": "chateau",
+      "commune": "Chignin",
+      "postal_code": "73800",
+      "latitude": 45.525744,
+      "longitude": 6.000118,
+      "urls": {
+        "fr": "https://loisirs73.fr/tours-de-chignin",
+        "en": "https://loisirs73.fr/en/tours-de-chignin",
+        "de": "https://loisirs73.fr/de/tours-de-chignin",
+        "it": "https://loisirs73.fr/it/tours-de-chignin",
+        "es": "https://loisirs73.fr/es/tours-de-chignin",
+        "nl": "https://loisirs73.fr/nl/tours-de-chignin"
+      },
+      "facet_md": "https://loisirs73.fr/content/tours-de-chignin.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/tours-de-chignin.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/tours-de-chignin.json",
+      "photo": "/img/generique/generique-chateau.jpg"
     },
     {
       "slug": "vanoise-express",

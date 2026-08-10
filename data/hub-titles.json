@@ -1,37 +1,45 @@
 {
- "_comment": "Hub page titles, one per hub x prose language. AUTHORED content, not logic — this is why it lives in data/ and not in build_hubs.py. {dept} and {site} are substituted from site.config.json at build time, so a new departement inherits the wording for free and only re-authors what it wants to say differently.  73: the ROSTER is per-site even though the wording is not. Trimmed to the hubs this site has content for (points-de-vue, telecabines, que-faire); the 74's cascades/chateaux/lacs-plages and the rest were dropped rather than left to render empty. Restore an entry here when the 73 has fiches for it.",
- "titles": {
-  "points-de-vue": {
-   "fr": "Points de vue de {dept} · {site}",
-   "en": "Viewpoints of {dept} · {site}",
-   "de": "Aussichtspunkte · {dept} · {site}",
-   "it": "Punti panoramici · {dept} · {site}",
-   "es": "Miradores de {dept} · {site}",
-   "nl": "Uitzichtpunten · {dept} · {site}"
-  },
-  "telecabines": {
-   "fr": "Télécabines de {dept} · {site}",
-   "en": "Cable cars of {dept} · {site}",
-   "de": "Seilbahnen in {dept} · {site}",
-   "it": "Funivie della {dept} · {site}",
-   "es": "Teleféricos · {dept} · {site}",
-   "nl": "Kabelbanen · {dept} · {site}"
-  },
-  "que-faire": {
-   "fr": "Que faire en {dept} · {site}",
-   "en": "What to do in {dept} · {site}",
-   "de": "Was tun in der {dept} · {site}",
-   "it": "Cosa fare in {dept} · {site}",
-   "es": "Qué hacer en {dept} · {site}",
-   "nl": "Wat te doen in {dept} · {site}"
-  },
-  "cascades": {
-   "fr": "Cascades de {dept} · {site}",
-   "en": "Waterfalls of {dept} · {site}",
-   "de": "Wasserfälle · {dept} · {site}",
-   "it": "Cascate della {dept} · {site}",
-   "es": "Cascadas de {dept} · {site}",
-   "nl": "Watervallen · {dept} · {site}"
+  "_comment": "Hub page titles, one per hub x prose language. AUTHORED content, not logic — this is why it lives in data/ and not in build_hubs.py. {dept} and {site} are substituted from site.config.json at build time, so a new departement inherits the wording for free and only re-authors what it wants to say differently.  73: the ROSTER is per-site even though the wording is not. Trimmed to the hubs this site has content for (points-de-vue, telecabines, que-faire); the 74's cascades/chateaux/lacs-plages and the rest were dropped rather than left to render empty. Restore an entry here when the 73 has fiches for it.",
+  "titles": {
+    "cascades": {
+      "de": "Wasserfälle · {dept} · {site}",
+      "en": "Waterfalls of {dept} · {site}",
+      "es": "Cascadas de {dept} · {site}",
+      "fr": "Cascades de {dept} · {site}",
+      "it": "Cascate della {dept} · {site}",
+      "nl": "Watervallen · {dept} · {site}"
+    },
+    "chateaux": {
+      "de": "Schlösser und Festungen · {dept} · {site}",
+      "en": "Castles and forts of {dept} · {site}",
+      "es": "Castillos y fuertes de {dept} · {site}",
+      "fr": "Châteaux et forts de {dept} · {site}",
+      "it": "Castelli e forti della {dept} · {site}",
+      "nl": "Kastelen en forten · {dept} · {site}"
+    },
+    "points-de-vue": {
+      "de": "Aussichtspunkte · {dept} · {site}",
+      "en": "Viewpoints of {dept} · {site}",
+      "es": "Miradores de {dept} · {site}",
+      "fr": "Points de vue de {dept} · {site}",
+      "it": "Punti panoramici · {dept} · {site}",
+      "nl": "Uitzichtpunten · {dept} · {site}"
+    },
+    "que-faire": {
+      "de": "Was tun in der {dept} · {site}",
+      "en": "What to do in {dept} · {site}",
+      "es": "Qué hacer en {dept} · {site}",
+      "fr": "Que faire en {dept} · {site}",
+      "it": "Cosa fare in {dept} · {site}",
+      "nl": "Wat te doen in {dept} · {site}"
+    },
+    "telecabines": {
+      "de": "Seilbahnen in {dept} · {site}",
+      "en": "Cable cars of {dept} · {site}",
+      "es": "Teleféricos · {dept} · {site}",
+      "fr": "Télécabines de {dept} · {site}",
+      "it": "Funivie della {dept} · {site}",
+      "nl": "Kabelbanen · {dept} · {site}"
+    }
   }
- }
 }

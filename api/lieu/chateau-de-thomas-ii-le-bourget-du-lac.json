@@ -1,0 +1,24 @@
+{
+  "name": "Château de Thomas II",
+  "commune": "Le Bourget-du-Lac",
+  "gps": {
+    "lat": 45.651514,
+    "lng": 5.865274
+  },
+  "type": "chateau",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "Juillet-août pour la tour ; la cour et les marais toute l'année",
+  "winter": null,
+  "official_url": "https://www.lebourgetdulac.fr/chateau-de-thomas-ii-et-ses-espaces-proteges/",
+  "last_verified": null
+}

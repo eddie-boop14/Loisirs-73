@@ -1,9 +1,9 @@
 # Loisirs 73 — Full content dump
 
 Generated: 2026-08-10
-Total lieux: 37
+Total lieux: 44
 
-This file concatenates the FR facet markdown of all 37 leisure sites in Savoie. Each section is a standalone markdown document with YAML frontmatter and the fixed facet heading canon. Sections are separated by `===` rulers.
+This file concatenates the FR facet markdown of all 44 leisure sites in Savoie. Each section is a standalone markdown document with YAML frontmatter and the fixed facet heading canon. Sections are separated by `===` rulers.
 
 For programmatic access, fetch individual files at https://loisirs73.fr/content/{slug}.md (FR), https://loisirs73.fr/content/en/{slug}.md (EN), or https://loisirs73.fr/api/lieu/{slug}.json (typed JSON).
 
@@ -286,6 +286,204 @@ Débit maximal à la fonte et après orage
 ## Source officielle
 
 https://rando.parcdesbauges.com/trek/9605-Cascade-du-Pissieu
+
+================================================================================
+
+---
+slug: chateau-de-miolans-saint-pierre-d-albigny
+name: "Château de Miolans"
+category: chateau
+category_label: "Château"
+commune: "Saint-Pierre-d'Albigny"
+postal_code: "73250"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.580204
+longitude: 6.186815
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/chateau-de-miolans-saint-pierre-d-albigny
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/chateau-de-miolans-saint-pierre-d-albigny.json
+photo_url: /img/generique/generique-chateau-brume.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-10
+source: loisirs73.fr
+---
+
+# Château de Miolans
+
+## Faits
+
+- Commune: Saint-Pierre-d'Albigny, Savoie (73250)
+- GPS: 45.580204, 6.186815
+- Catégorie: chateau
+- Type: Forteresse médiévale, Monument historique
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+- À partir de: 10 EUR
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Ouvert aux vacances de printemps puis en été (voir périodes 2026)
+
+## Source officielle
+
+https://www.chateau-de-miolans.com/
+
+================================================================================
+
+---
+slug: chateau-de-thomas-ii-le-bourget-du-lac
+name: "Château de Thomas II"
+category: chateau
+category_label: "Château"
+commune: "Le Bourget-du-Lac"
+postal_code: "73370"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.651514
+longitude: 5.865274
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/chateau-de-thomas-ii-le-bourget-du-lac
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/chateau-de-thomas-ii-le-bourget-du-lac.json
+photo_url: /img/generique/generique-chateau-toiture.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-10
+source: loisirs73.fr
+---
+
+# Château de Thomas II
+
+## Faits
+
+- Commune: Le Bourget-du-Lac, Savoie (73370)
+- GPS: 45.651514, 5.865274
+- Catégorie: chateau
+- Type: Château ruiné, Monument historique
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Juillet-août pour la tour ; la cour et les marais toute l'année
+
+## Source officielle
+
+https://www.lebourgetdulac.fr/chateau-de-thomas-ii-et-ses-espaces-proteges/
+
+================================================================================
+
+---
+slug: chateau-des-ducs-de-savoie-chambery
+name: "Château des ducs de Savoie"
+category: chateau
+category_label: "Château"
+commune: "Chambéry"
+postal_code: "73000"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.564536
+longitude: 5.917318
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/chateau-des-ducs-de-savoie-chambery
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/chateau-des-ducs-de-savoie-chambery.json
+photo_url: /img/generique/generique-chateau.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-10
+source: loisirs73.fr
+---
+
+# Château des ducs de Savoie
+
+## Faits
+
+- Commune: Chambéry, Savoie (73000)
+- GPS: 45.564536, 5.917318
+- Catégorie: chateau
+- Type: Château fort, siège de pouvoir
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+- À partir de: 7.5 EUR
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Toute l'année, selon le calendrier des visites guidées
+
+## Source officielle
+
+https://patrimoines.savoie.fr/web/psp_45734/visiter-le-chateau
 
 ================================================================================
 
@@ -1342,6 +1540,138 @@ https://en.areches-beaufort.com/site-naturel/le-cormet-de-roselend/
 ================================================================================
 
 ---
+slug: fort-de-tamie-mercury
+name: "Fort de Tamié"
+category: chateau
+category_label: "Château"
+commune: "Mercury"
+postal_code: "73200"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.671818
+longitude: 6.313381
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/fort-de-tamie-mercury
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/fort-de-tamie-mercury.json
+photo_url: /img/generique/generique-chateau-brume.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-10
+source: loisirs73.fr
+---
+
+# Fort de Tamié
+
+## Faits
+
+- Commune: Mercury, Savoie (73200)
+- GPS: 45.671818, 6.313381
+- Catégorie: chateau
+- Type: Fort Séré de Rivières (1876)
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Été — ouvert tous les jours de 11h à 19h (dates : voir contradiction sourcée)
+
+## Source officielle
+
+https://www.fort-de-tamie.com/
+
+================================================================================
+
+---
+slug: fort-victor-emmanuel-aussois
+name: "Fort Victor-Emmanuel"
+category: chateau
+category_label: "Château"
+commune: "Aussois"
+postal_code: "73500"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.212323
+longitude: 6.736011
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/fort-victor-emmanuel-aussois
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/fort-victor-emmanuel-aussois.json
+photo_url: /img/generique/generique-chateau-toiture.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-10
+source: loisirs73.fr
+---
+
+# Fort Victor-Emmanuel
+
+## Faits
+
+- Commune: Aussois, Savoie (73500)
+- GPS: 45.212323, 6.736011
+- Catégorie: chateau
+- Type: Fort sarde du XIXe siècle
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Toute l'année ; route fermée à la circulation selon l'enneigement
+
+## Source officielle
+
+https://www.aussois.com/patrimoine-culturel/fort-victor-emmanuel-in-savoie-at-aussois-aussois/
+
+================================================================================
+
+---
 slug: funiculaire-de-la-grande-motte
 name: "Funiculaire de la Grande Motte"
 category: telecabine
@@ -1550,6 +1880,74 @@ Non renseigné
 ## Source officielle
 
 https://rando.parcdesbauges.com/trek/44527-La-grande-cascade
+
+================================================================================
+
+---
+slug: redoute-marie-therese-avrieux
+name: "Redoute Marie-Thérèse"
+category: chateau
+category_label: "Château"
+commune: "Avrieux"
+postal_code: "73500"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.208363
+longitude: 6.735613
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/redoute-marie-therese-avrieux
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/redoute-marie-therese-avrieux.json
+photo_url: /img/generique/generique-chateau.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-10
+source: loisirs73.fr
+---
+
+# Redoute Marie-Thérèse
+
+## Faits
+
+- Commune: Avrieux, Savoie (73500)
+- GPS: 45.208363, 6.735613
+- Catégorie: chateau
+- Type: Redoute sarde, centre d'interprétation
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+- À partir de: 4 EUR
+
+## Accès (PMR)
+
+- Statut: Accessible
+- Détail: « Accessible en fauteuil roulant en autonomie » ; accès PMR aux 3 salles, à la boutique et au restaurant, selon la fiche officielle de l'office de tourisme.
+- Source: La Norma / OT Haute Maurienne Vanoise — https://www.la-norma.fr/patrimoine-culturel/marie-therese-castle-avrieux/
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Été (tous les jours) ; mardis seulement en hiver-printemps
+
+## Source officielle
+
+https://www.redoutemarietherese.fr/
 
 ================================================================================
 
@@ -2571,6 +2969,72 @@ Non renseigné
 ## Source officielle
 
 https://www.pralognan.com/remontees-mecaniques-ete/
+
+================================================================================
+
+---
+slug: tours-de-chignin
+name: "Tours de Chignin"
+category: chateau
+category_label: "Château"
+commune: "Chignin"
+postal_code: "73800"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.525744
+longitude: 6.000118
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/tours-de-chignin
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/tours-de-chignin.json
+photo_url: /img/generique/generique-chateau.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-10
+source: loisirs73.fr
+---
+
+# Tours de Chignin
+
+## Faits
+
+- Commune: Chignin, Savoie (73800)
+- GPS: 45.525744, 6.000118
+- Catégorie: chateau
+- Type: Tours médiévales en ruine, Monument historique
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Parking du Clos Dénarié, Chignin (départ de la boucle)
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Toute l'année ; les vignes sont belles de l'été aux couleurs d'automne
+
+## Source officielle
+
+https://patrimoines.savoie.fr/web/psp_25182/les-tours-de-chignin
 
 ================================================================================
 

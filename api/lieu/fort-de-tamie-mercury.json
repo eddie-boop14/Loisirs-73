@@ -1,0 +1,24 @@
+{
+  "name": "Fort de Tamié",
+  "commune": "Mercury",
+  "gps": {
+    "lat": 45.671818,
+    "lng": 6.313381
+  },
+  "type": "chateau",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "Été — ouvert tous les jours de 11h à 19h (dates : voir contradiction sourcée)",
+  "winter": null,
+  "official_url": "https://www.fort-de-tamie.com/",
+  "last_verified": null
+}

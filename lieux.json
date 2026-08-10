@@ -146,6 +146,114 @@
       "access_state": "free"
     },
     {
+      "slug": "chateau-de-miolans-saint-pierre-d-albigny",
+      "categories": [
+        "chateau"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Château de Miolans",
+          "commune": "Saint-Pierre-d'Albigny"
+        },
+        "en": {
+          "name": "Château de Miolans",
+          "commune": "Saint-Pierre-d'Albigny"
+        },
+        "de": {
+          "name": "Château de Miolans",
+          "commune": "Saint-Pierre-d'Albigny"
+        },
+        "it": {
+          "name": "Château de Miolans",
+          "commune": "Saint-Pierre-d'Albigny"
+        },
+        "es": {
+          "name": "Château de Miolans",
+          "commune": "Saint-Pierre-d'Albigny"
+        },
+        "nl": {
+          "name": "Château de Miolans",
+          "commune": "Saint-Pierre-d'Albigny"
+        }
+      },
+      "latitude": 45.580204,
+      "longitude": 6.186815,
+      "is_free": false,
+      "access_state": "paid"
+    },
+    {
+      "slug": "chateau-de-thomas-ii-le-bourget-du-lac",
+      "categories": [
+        "chateau"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Château de Thomas II",
+          "commune": "Le Bourget-du-Lac"
+        },
+        "en": {
+          "name": "Château de Thomas II",
+          "commune": "Le Bourget-du-Lac"
+        },
+        "de": {
+          "name": "Château de Thomas II",
+          "commune": "Le Bourget-du-Lac"
+        },
+        "it": {
+          "name": "Château de Thomas II",
+          "commune": "Le Bourget-du-Lac"
+        },
+        "es": {
+          "name": "Château de Thomas II",
+          "commune": "Le Bourget-du-Lac"
+        },
+        "nl": {
+          "name": "Château de Thomas II",
+          "commune": "Le Bourget-du-Lac"
+        }
+      },
+      "latitude": 45.651514,
+      "longitude": 5.865274,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
+      "slug": "chateau-des-ducs-de-savoie-chambery",
+      "categories": [
+        "chateau"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Château des ducs de Savoie",
+          "commune": "Chambéry"
+        },
+        "en": {
+          "name": "Château des ducs de Savoie",
+          "commune": "Chambéry"
+        },
+        "de": {
+          "name": "Château des ducs de Savoie",
+          "commune": "Chambéry"
+        },
+        "it": {
+          "name": "Château des ducs de Savoie",
+          "commune": "Chambéry"
+        },
+        "es": {
+          "name": "Château des ducs de Savoie",
+          "commune": "Chambéry"
+        },
+        "nl": {
+          "name": "Château des ducs de Savoie",
+          "commune": "Chambéry"
+        }
+      },
+      "latitude": 45.564536,
+      "longitude": 5.917318,
+      "is_free": false,
+      "access_state": "paid"
+    },
+    {
       "slug": "cirque-de-saint-meme",
       "categories": [
         "cascade"
@@ -686,6 +794,78 @@
       "access_state": "free"
     },
     {
+      "slug": "fort-de-tamie-mercury",
+      "categories": [
+        "chateau"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Fort de Tamié",
+          "commune": "Mercury"
+        },
+        "en": {
+          "name": "Fort de Tamié",
+          "commune": "Mercury"
+        },
+        "de": {
+          "name": "Fort de Tamié",
+          "commune": "Mercury"
+        },
+        "it": {
+          "name": "Fort de Tamié",
+          "commune": "Mercury"
+        },
+        "es": {
+          "name": "Fort de Tamié",
+          "commune": "Mercury"
+        },
+        "nl": {
+          "name": "Fort de Tamié",
+          "commune": "Mercury"
+        }
+      },
+      "latitude": 45.671818,
+      "longitude": 6.313381,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
+      "slug": "fort-victor-emmanuel-aussois",
+      "categories": [
+        "chateau"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Fort Victor-Emmanuel",
+          "commune": "Aussois"
+        },
+        "en": {
+          "name": "Fort Victor-Emmanuel",
+          "commune": "Aussois"
+        },
+        "de": {
+          "name": "Fort Victor-Emmanuel",
+          "commune": "Aussois"
+        },
+        "it": {
+          "name": "Fort Victor-Emmanuel",
+          "commune": "Aussois"
+        },
+        "es": {
+          "name": "Fort Victor-Emmanuel",
+          "commune": "Aussois"
+        },
+        "nl": {
+          "name": "Fort Victor-Emmanuel",
+          "commune": "Aussois"
+        }
+      },
+      "latitude": 45.212323,
+      "longitude": 6.736011,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
       "slug": "funiculaire-de-la-grande-motte",
       "categories": [
         "telecabine"
@@ -792,6 +972,42 @@
       "longitude": null,
       "is_free": true,
       "access_state": "free"
+    },
+    {
+      "slug": "redoute-marie-therese-avrieux",
+      "categories": [
+        "chateau"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Redoute Marie-Thérèse",
+          "commune": "Avrieux"
+        },
+        "en": {
+          "name": "Redoute Marie-Thérèse",
+          "commune": "Avrieux"
+        },
+        "de": {
+          "name": "Redoute Marie-Thérèse",
+          "commune": "Avrieux"
+        },
+        "it": {
+          "name": "Redoute Marie-Thérèse",
+          "commune": "Avrieux"
+        },
+        "es": {
+          "name": "Redoute Marie-Thérèse",
+          "commune": "Avrieux"
+        },
+        "nl": {
+          "name": "Redoute Marie-Thérèse",
+          "commune": "Avrieux"
+        }
+      },
+      "latitude": 45.208363,
+      "longitude": 6.735613,
+      "is_free": false,
+      "access_state": "paid"
     },
     {
       "slug": "signal-de-bisanne",
@@ -1296,6 +1512,42 @@
       "longitude": 6.730179,
       "is_free": false,
       "access_state": "paid"
+    },
+    {
+      "slug": "tours-de-chignin",
+      "categories": [
+        "chateau"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Tours de Chignin",
+          "commune": "Chignin"
+        },
+        "en": {
+          "name": "Tours de Chignin",
+          "commune": "Chignin"
+        },
+        "de": {
+          "name": "Tours de Chignin",
+          "commune": "Chignin"
+        },
+        "it": {
+          "name": "Tours de Chignin",
+          "commune": "Chignin"
+        },
+        "es": {
+          "name": "Tours de Chignin",
+          "commune": "Chignin"
+        },
+        "nl": {
+          "name": "Tours de Chignin",
+          "commune": "Chignin"
+        }
+      },
+      "latitude": 45.525744,
+      "longitude": 6.000118,
+      "is_free": true,
+      "access_state": "free"
     },
     {
       "slug": "vanoise-express",

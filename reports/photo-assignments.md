@@ -1,13 +1,14 @@
 # Phase 4 — photo assignments (gate artifact)
 
 **Date**: 2026-06-14
-**Total assignments**: 37 (one per (hub × slug) on the FR canonical hub)
+**Total assignments**: 44 (one per (hub × slug) on the FR canonical hub)
 
 ## Per-hub diversity
 
 | hub | fiches | distinct photos | max repeat of one photo |
 |---|---:|---:|---:|
 | `cascades` | 7 | 1 | 7 |
+| `chateaux` | 7 | 3 | 3 |
 | `points-de-vue` | 15 | 15 | 1 |
 | `telecabines` | 15 | 15 | 1 |
 
@@ -22,6 +23,13 @@
 | `cascades` | `cirque-de-saint-meme` | `nature` | `generique-cascade.jpg` | — | json hero (local) |
 | `cascades` | `gorges-du-sierroz-cascade-de-gresy` | `nature` | `generique-cascade.jpg` | — | json hero (local) |
 | `cascades` | `grande-cascade-de-la-doria` | `nature` | `generique-cascade.jpg` | — | json hero (local) |
+| `chateaux` | `chateau-de-miolans-saint-pierre-d-albigny` | `patrimoine` | `generique-chateau-brume.jpg` | — | json hero (local) |
+| `chateaux` | `chateau-de-thomas-ii-le-bourget-du-lac` | `patrimoine` | `generique-chateau-toiture.jpg` | — | json hero (local) |
+| `chateaux` | `chateau-des-ducs-de-savoie-chambery` | `patrimoine` | `generique-chateau.jpg` | — | json hero (local) |
+| `chateaux` | `fort-de-tamie-mercury` | `patrimoine` | `generique-chateau-brume.jpg` | — | json hero (local) |
+| `chateaux` | `fort-victor-emmanuel-aussois` | `patrimoine` | `generique-chateau-toiture.jpg` | — | json hero (local) |
+| `chateaux` | `redoute-marie-therese-avrieux` | `patrimoine` | `generique-chateau.jpg` | — | json hero (local) |
+| `chateaux` | `tours-de-chignin` | `patrimoine` | `generique-chateau.jpg` | — | json hero (local) |
 | `points-de-vue` | `col-de-l-iseran` | `nature` | `col-de-l-iseran-hero.jpg` | — | json hero (local) |
 | `points-de-vue` | `col-de-la-croix-de-fer` | `nature` | `col-de-la-croix-de-fer-hero.jpg` | — | json hero (local) |
 | `points-de-vue` | `col-de-la-loze` | `nature` | `col-de-la-loze-hero.jpg` | — | json hero (local) |

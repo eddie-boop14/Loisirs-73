@@ -1,8 +1,8 @@
 # Loisirs 73
 
-> Independent guide to public leisure sites in Savoie, France. Waterfalls, Mountain passes and viewpoints, Cable cars and lifts — every fact verified against official sources (communes, tourism offices, ONF).
+> Independent guide to public leisure sites in Savoie, France. Waterfalls, Castles, Mountain passes and viewpoints, Cable cars and lifts — every fact verified against official sources (communes, tourism offices, ONF).
 
-Loisirs 73 catalogs 37 leisure destinations in the Savoie department (73), French Alps. Each destination exposes three machine surfaces (below) plus HTML pages in 6 languages (French canonical).
+Loisirs 73 catalogs 44 leisure destinations in the Savoie department (73), French Alps. Each destination exposes three machine surfaces (below) plus HTML pages in 6 languages (French canonical).
 
 ## URL patterns (per lieu — fastest lane for agents)
 
@@ -33,7 +33,7 @@ Content quality signals: Every fact has a cited source. No marketing language. I
 
 ## Discovery files
 
-- [llms-full.txt — full content concatenated](https://loisirs73.fr/llms-full.txt): All 37 leisure sites' FR facet md — single file for full ingestion.
+- [llms-full.txt — full content concatenated](https://loisirs73.fr/llms-full.txt): All 44 leisure sites' FR facet md — single file for full ingestion.
 - [API — lieux index JSON](https://loisirs73.fr/api/lieux.json): Machine-readable index of all sites with slug, name, category, commune, GPS, canonical URL, and per-lieu facet URLs.
 - [Sitemap index](https://loisirs73.fr/sitemap.xml): Standard XML sitemap with lastmod, hreflang, image entries.
 - [.well-known/ai-info.json](https://loisirs73.fr/.well-known/ai-info.json): Discovery manifest with all AI-related endpoints.
@@ -56,8 +56,9 @@ Use these when the question spans many sites (e.g. "which waterfalls have parkin
 - [Cascades](https://loisirs73.fr/content/cascades.md): 7 lieux.
 - [Points de vue](https://loisirs73.fr/content/points-de-vue.md): 15 lieux.
 - [Téléphériques & télécabines](https://loisirs73.fr/content/telecabines.md): 15 lieux.
+- [Châteaux](https://loisirs73.fr/content/chateaux.md): 7 lieux.
 
-## All lieux by category (37 total)
+## All lieux by category (44 total)
 
 ### Cascades (7 lieux)
 
@@ -104,3 +105,13 @@ Use these when the question spans many sites (e.g. "which waterfalls have parkin
 - [Téléphérique de la Saulire (Courchevel)](https://loisirs73.fr/content/telepherique-de-la-saulire.md): Gare aval 2 077 m, gare amont 2 710 m. Reconstruit par POMA, rouvert le 6 décembre 2024. Été 2026 : 4 juillet – 30 août, 9h30–16h30. Exploitant…
 - [Téléphérique du Mont-Bochor (Pralognan-la-Vanoise)](https://loisirs73.fr/content/telepherique-du-mont-bochor.md): Téléphérique de Pralognan vers le promontoire du Mont Bochor et sa table d'orientation à 2 023 m. Coupure de 12h45 à 13h30 ; en juin, trois jours par…
 - [Vanoise Express (Peisey-Nancroix)](https://loisirs73.fr/content/vanoise-express.md): Téléphérique double-étage entre Plan-Peisey (1 612 m) et Montchavin (1 548 m). Été 2026 : 6 juillet – 28 août, lundi, mardi, jeudi et vendredi…
+
+### Châteaux (7 lieux)
+
+- [Château de Miolans (Saint-Pierre-d'Albigny)](https://loisirs73.fr/content/chateau-de-miolans-saint-pierre-d-albigny.md): Le château de Miolans à Saint-Pierre-d'Albigny : donjon du XIIe, prison d'État où fut enfermé Sade, jardin de Simples. Ouverture et tarifs 2026…
+- [Château de Thomas II (Le Bourget-du-Lac)](https://loisirs73.fr/content/chateau-de-thomas-ii-le-bourget-du-lac.md): Le château de Thomas II au Bourget-du-Lac : cour en accès libre, tour de la Poterne muséographique en été (2 €), marais protégés. Sources officielles.
+- [Château des ducs de Savoie (Chambéry)](https://loisirs73.fr/content/chateau-des-ducs-de-savoie-chambery.md): Le château des ducs de Savoie à Chambéry : Sainte-Chapelle du XVe, Grand Carillon de 70 cloches, visites guidées 2026 à 7,50 €. Sources officielles.
+- [Fort de Tamié (Mercury)](https://loisirs73.fr/content/fort-de-tamie-mercury.md): Le fort de Tamié au-dessus d'Albertville : accès libre et gratuit, sentier du Tour du Fort, trois belvédères, audio-guide et parcours aventure.…
+- [Fort Victor-Emmanuel (Aussois)](https://loisirs73.fr/content/fort-victor-emmanuel-aussois.md): Le fort Victor-Emmanuel à Aussois, pièce maîtresse de la barrière de l'Esseillon : accès libre toute l'année, place d'armes, chapelle, pénitencier.…
+- [Redoute Marie-Thérèse (Avrieux)](https://loisirs73.fr/content/redoute-marie-therese-avrieux.md): La redoute Marie-Thérèse à Avrieux, fort sarde de l'Esseillon devenu centre d'interprétation : horaires, tarifs 2026 et accessibilité, aux sources…
+- [Tours de Chignin (Chignin)](https://loisirs73.fr/content/tours-de-chignin.md): Les tours de Chignin, Monument historique dans le vignoble savoyard : sept tours selon le Département, boucle très facile de 3,3 km. Sources…

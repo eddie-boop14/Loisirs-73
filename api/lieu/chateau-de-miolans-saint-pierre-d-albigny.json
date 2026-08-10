@@ -1,0 +1,24 @@
+{
+  "name": "Château de Miolans",
+  "commune": "Saint-Pierre-d'Albigny",
+  "gps": {
+    "lat": 45.580204,
+    "lng": 6.186815
+  },
+  "type": "chateau",
+  "hours": null,
+  "prices": {
+    "from": 10,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": false,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "Ouvert aux vacances de printemps puis en été (voir périodes 2026)",
+  "winter": null,
+  "official_url": "https://www.chateau-de-miolans.com/",
+  "last_verified": null
+}

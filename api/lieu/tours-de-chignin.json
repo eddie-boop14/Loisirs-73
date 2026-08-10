@@ -1,0 +1,24 @@
+{
+  "name": "Tours de Chignin",
+  "commune": "Chignin",
+  "gps": {
+    "lat": 45.525744,
+    "lng": 6.000118
+  },
+  "type": "chateau",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": "Parking du Clos Dénarié, Chignin (départ de la boucle)",
+  "transport": null,
+  "season": "Toute l'année ; les vignes sont belles de l'été aux couleurs d'automne",
+  "winter": null,
+  "official_url": "https://patrimoines.savoie.fr/web/psp_25182/les-tours-de-chignin",
+  "last_verified": null
+}

@@ -1,35 +1,43 @@
 {
- "_comment": "Authored per hub for Savoie (was emptied at transplant time: the 74's prose named Mont-Blanc and the Lac d'Annecy). 120-160 chars per language; patch_hub_head reads these into meta description + og:description.",
- "points-de-vue": {
-  "fr": "Les grands cols de Savoie — Iseran, Galibier, Madeleine, Croix de Fer — accès, période d'ouverture et panoramas, vérifiés aux sources officielles.",
-  "en": "The great cols of Savoie — Iseran, Galibier, Madeleine, Croix de Fer — access, opening periods and panoramas, verified against official sources.",
-  "de": "Die großen Pässe in Savoie — Iseran, Galibier, Madeleine, Croix de Fer — Zugang, Öffnungszeiten und Panoramen, geprüft an offiziellen Quellen.",
-  "it": "I grandi colli della Savoie — Iseran, Galibier, Madeleine, Croix de Fer — accesso, periodi di apertura e panorami, verificati su fonti ufficiali.",
-  "es": "Los grandes puertos de la Savoie — Iseran, Galibier, Madeleine, Croix de Fer — acceso, períodos de apertura y panoramas, verificados en fuentes oficiales.",
-  "nl": "De grote cols van Savoie — Iseran, Galibier, Madeleine, Croix de Fer — toegang, openingsperioden en panorama's, geverifieerd bij officiële bronnen."
- },
- "telecabines": {
-  "fr": "Téléphériques et télécabines de Savoie : Cime Caron, Aiguille Rouge, Grande Motte… Tarifs, horaires et accès vérifiés aux sources officielles.",
-  "en": "Cable cars and gondolas in Savoie: Cime Caron, Aiguille Rouge, Grande Motte… Prices, timetables and access verified against official sources.",
-  "de": "Seilbahnen und Gondelbahnen in Savoie: Cime Caron, Aiguille Rouge, Grande Motte… Preise, Zeiten und Zugang, geprüft an offiziellen Quellen.",
-  "it": "Funivie e cabinovie della Savoie: Cime Caron, Aiguille Rouge, Grande Motte… Tariffe, orari e accesso verificati su fonti ufficiali.",
-  "es": "Teleféricos y telecabinas de la Savoie: Cime Caron, Aiguille Rouge, Grande Motte… Tarifas, horarios y acceso verificados en fuentes oficiales.",
-  "nl": "Kabelbanen en gondelbanen in Savoie: Cime Caron, Aiguille Rouge, Grande Motte… Tarieven, tijden en toegang geverifieerd bij officiële bronnen."
- },
- "que-faire": {
-  "fr": "Que faire en Savoie : sélections compilées automatiquement depuis des fiches vérifiées — Trois Vallées, Tarentaise, Maurienne, Beaufortain.",
-  "en": "What to do in Savoie: selections compiled automatically from verified pages — Trois Vallées, Tarentaise, Maurienne, Beaufortain.",
-  "de": "Was unternehmen in Savoie: automatisch aus geprüften Seiten kompilierte Auswahlen — Trois Vallées, Tarentaise, Maurienne, Beaufortain.",
-  "it": "Cosa fare in Savoie: selezioni compilate automaticamente da schede verificate — Trois Vallées, Tarentaise, Maurienne, Beaufortain.",
-  "es": "Qué hacer en Savoie: selecciones compiladas automáticamente desde fichas verificadas — Trois Vallées, Tarentaise, Maurienne, Beaufortain.",
-  "nl": "Wat te doen in Savoie: selecties automatisch samengesteld uit geverifieerde pagina's — Trois Vallées, Tarentaise, Maurienne, Beaufortain."
- },
- "cascades": {
-  "fr": "Les cascades de Savoie — Saint-Même, Sierroz, Doria, Saint-Benoît — accès, durée des boucles et prudence, vérifiés aux sources officielles.",
-  "en": "Savoie's waterfalls — Saint-Même, Sierroz, Doria, Saint-Benoît — access, loop times and safety notes, verified against official sources.",
-  "de": "Die Wasserfälle in Savoie — Saint-Même, Sierroz, Doria, Saint-Benoît — Zugang, Rundwege und Hinweise, geprüft an offiziellen Quellen.",
-  "it": "Le cascate della Savoie — Saint-Même, Sierroz, Doria, Saint-Benoît — accesso, durata degli anelli e prudenza, verificati su fonti ufficiali.",
-  "es": "Las cascadas de la Savoie — Saint-Même, Sierroz, Doria, Saint-Benoît — acceso, duración de los bucles y precauciones, verificados en fuentes oficiales.",
-  "nl": "De watervallen van Savoie — Saint-Même, Sierroz, Doria, Saint-Benoît — toegang, lusduur en waarschuwingen, geverifieerd bij officiële bronnen."
- }
+  "_comment": "Authored per hub for Savoie (was emptied at transplant time: the 74's prose named Mont-Blanc and the Lac d'Annecy). 120-160 chars per language; patch_hub_head reads these into meta description + og:description.",
+  "cascades": {
+    "de": "Die Wasserfälle in Savoie — Saint-Même, Sierroz, Doria, Saint-Benoît — Zugang, Rundwege und Hinweise, geprüft an offiziellen Quellen.",
+    "en": "Savoie's waterfalls — Saint-Même, Sierroz, Doria, Saint-Benoît — access, loop times and safety notes, verified against official sources.",
+    "es": "Las cascadas de la Savoie — Saint-Même, Sierroz, Doria, Saint-Benoît — acceso, duración de los bucles y precauciones, verificados en fuentes oficiales.",
+    "fr": "Les cascades de Savoie — Saint-Même, Sierroz, Doria, Saint-Benoît — accès, durée des boucles et prudence, vérifiés aux sources officielles.",
+    "it": "Le cascate della Savoie — Saint-Même, Sierroz, Doria, Saint-Benoît — accesso, durata degli anelli e prudenza, verificati su fonti ufficiali.",
+    "nl": "De watervallen van Savoie — Saint-Même, Sierroz, Doria, Saint-Benoît — toegang, lusduur en waarschuwingen, geverifieerd bij officiële bronnen."
+  },
+  "chateaux": {
+    "de": "Schlösser und Festungen in Savoie — Herzogsschloss, Miolans, Esseillon, Tamié — Öffnungszeiten, Preise und Zugang 2026, geprüft an offiziellen Quellen.",
+    "en": "Savoie's castles and forts — the dukes' castle, Miolans, the Esseillon, Tamié — 2026 hours, prices and access, verified against official sources.",
+    "es": "Castillos y fuertes de la Savoie — castillo de los duques, Miolans, Esseillon, Tamié — horarios, tarifas y acceso 2026, verificados en fuentes oficiales.",
+    "fr": "Châteaux et forts de Savoie — château des ducs, Miolans, l'Esseillon, Tamié — horaires, tarifs et accès 2026, vérifiés aux sources officielles.",
+    "it": "Castelli e forti della Savoie — castello dei duchi, Miolans, Esseillon, Tamié — orari, tariffe e accesso 2026, verificati su fonti ufficiali.",
+    "nl": "Kastelen en forten van Savoie — hertogenkasteel, Miolans, Esseillon, Tamié — openingstijden, prijzen en toegang 2026, geverifieerd bij officiële bronnen."
+  },
+  "points-de-vue": {
+    "de": "Die großen Pässe in Savoie — Iseran, Galibier, Madeleine, Croix de Fer — Zugang, Öffnungszeiten und Panoramen, geprüft an offiziellen Quellen.",
+    "en": "The great cols of Savoie — Iseran, Galibier, Madeleine, Croix de Fer — access, opening periods and panoramas, verified against official sources.",
+    "es": "Los grandes puertos de la Savoie — Iseran, Galibier, Madeleine, Croix de Fer — acceso, períodos de apertura y panoramas, verificados en fuentes oficiales.",
+    "fr": "Les grands cols de Savoie — Iseran, Galibier, Madeleine, Croix de Fer — accès, période d'ouverture et panoramas, vérifiés aux sources officielles.",
+    "it": "I grandi colli della Savoie — Iseran, Galibier, Madeleine, Croix de Fer — accesso, periodi di apertura e panorami, verificati su fonti ufficiali.",
+    "nl": "De grote cols van Savoie — Iseran, Galibier, Madeleine, Croix de Fer — toegang, openingsperioden en panorama's, geverifieerd bij officiële bronnen."
+  },
+  "que-faire": {
+    "de": "Was unternehmen in Savoie: automatisch aus geprüften Seiten kompilierte Auswahlen — Trois Vallées, Tarentaise, Maurienne, Beaufortain.",
+    "en": "What to do in Savoie: selections compiled automatically from verified pages — Trois Vallées, Tarentaise, Maurienne, Beaufortain.",
+    "es": "Qué hacer en Savoie: selecciones compiladas automáticamente desde fichas verificadas — Trois Vallées, Tarentaise, Maurienne, Beaufortain.",
+    "fr": "Que faire en Savoie : sélections compilées automatiquement depuis des fiches vérifiées — Trois Vallées, Tarentaise, Maurienne, Beaufortain.",
+    "it": "Cosa fare in Savoie: selezioni compilate automaticamente da schede verificate — Trois Vallées, Tarentaise, Maurienne, Beaufortain.",
+    "nl": "Wat te doen in Savoie: selecties automatisch samengesteld uit geverifieerde pagina's — Trois Vallées, Tarentaise, Maurienne, Beaufortain."
+  },
+  "telecabines": {
+    "de": "Seilbahnen und Gondelbahnen in Savoie: Cime Caron, Aiguille Rouge, Grande Motte… Preise, Zeiten und Zugang, geprüft an offiziellen Quellen.",
+    "en": "Cable cars and gondolas in Savoie: Cime Caron, Aiguille Rouge, Grande Motte… Prices, timetables and access verified against official sources.",
+    "es": "Teleféricos y telecabinas de la Savoie: Cime Caron, Aiguille Rouge, Grande Motte… Tarifas, horarios y acceso verificados en fuentes oficiales.",
+    "fr": "Téléphériques et télécabines de Savoie : Cime Caron, Aiguille Rouge, Grande Motte… Tarifs, horaires et accès vérifiés aux sources officielles.",
+    "it": "Funivie e cabinovie della Savoie: Cime Caron, Aiguille Rouge, Grande Motte… Tariffe, orari e accesso verificati su fonti ufficiali.",
+    "nl": "Kabelbanen en gondelbanen in Savoie: Cime Caron, Aiguille Rouge, Grande Motte… Tarieven, tijden en toegang geverifieerd bij officiële bronnen."
+  }
 }

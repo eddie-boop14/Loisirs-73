@@ -33,8 +33,23 @@ def main():
     robots = os.path.join(ROOT, "robots.txt")
     if not (os.path.exists(robots) and
             "FLIP-AT-LAUNCH" in open(robots, encoding="utf-8").read()):
-        print("inject_noindex_73: no FLIP-AT-LAUNCH marker in robots.txt — "
-              "site is launched, nothing to block")
+        # LAUNCHED: the injector must now UNDO itself, not just stand down —
+        # the metas it added are still sitting in every page, and a launched
+        # site whose pages all say noindex is worse than a blocked one.
+        # Only OUR meta (identified by its marker comment) is removed; any
+        # other robots meta (studio, 404) is untouched.
+        pair = re.compile(
+            r'<!-- FLIP-AT-LAUNCH: remove this meta \(scripts/inject_noindex_73\.py\)'
+            r'[^>]*-->\n<meta name="robots" content="noindex,nofollow">\n')
+        removed = 0
+        for p in targets():
+            s = open(p, encoding="utf-8").read()
+            new, k = pair.subn("", s)
+            if k:
+                open(p, "w", encoding="utf-8").write(new)
+                removed += 1
+        print(f"inject_noindex_73: LAUNCHED — no FLIP-AT-LAUNCH marker in "
+              f"robots.txt; pre-launch meta removed from {removed} page(s)")
         return
     added = present = 0
     for p in targets():

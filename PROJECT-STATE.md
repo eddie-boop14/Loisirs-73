@@ -26,7 +26,7 @@
 | published | **30** |
 | access-cost: free / free_seasonal / paid | 16 / 0 / 14 |
 | built HTML pages | 378 |
-| sitemap URLs | 322 |
+| sitemap URLs | 358 |
 | facet hubs (data/facet-hubs.json) | 0 |
 | intent pages (data/intent-registry.json) | 6 |
 

@@ -1,15 +1,59 @@
-# ⚑ FLIP-AT-LAUNCH — everything is blocked on purpose until the real domain
-# goes live. index.html carries the same marker; grep FLIP-AT-LAUNCH finds both.
+# ⚑ DO NOT NARROW THIS GROUP. It is load-bearing for AI citation.
 #
-# Loisirs 73 has no content yet. This file exists so the holding page and the
-# *.netlify.app preview domain never enter an index: a thin placeholder ranking
-# for "loisirs Savoie" would be worse than nothing, and an indexed .netlify.app
-# becomes a duplicate of loisirs73.fr the day the real domain goes live.
-#
-# ⚑ FLIP-AT-LAUNCH — and only for the custom domain. The 74's robots.txt
-# is the model to copy; its "User-agent: * / Allow: /" group is load-bearing for
-# AI citation (OAI-SearchBot, ChatGPT-User, Claude-Web, PerplexityBot and
-# Applebot-Extended have no group of their own and are allowed by that line).
-
+# OAI-SearchBot and ChatGPT-User (the bots that cite for ChatGPT), plus
+# Claude-Web, anthropic-ai, PerplexityBot-User and Applebot-Extended, have NO
+# dedicated group in this file — they are allowed by this line alone.
+# robots-ai.txt lists them, but major crawlers do not read that file.
+# Narrowing "*" would silently cut them off the citation curve.
+# Any edit here is curve-adjacent: re-check every citation bot before changing it.
 User-agent: *
-Disallow: /
+Allow: /
+
+# Don't index thank-you pages
+Disallow: /merci-signalement
+Disallow: /merci-partenaire
+Disallow: /merci-signalement.html
+Disallow: /merci-partenaire.html
+
+# Image search bots — full access
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# AI bots — allow with citation, see robots-ai.txt for granular policy
+User-agent: ClaudeBot
+Allow: /
+
+# GPTBot = OpenAI training crawler (NOT the citation path; that is
+# OAI-SearchBot / ChatGPT-User, which fall under "User-agent: *" above and
+# stay fully allowed). Deny training on the raw markdown + json mirrors;
+# HTML pages remain open so citation is unaffected.
+# Trailing slashes are load-bearing: robots.txt matching is prefix-based, so
+# bare /content would also match a future /content-hub/ HTML page.
+# /llms-full.txt is the same corpus as /content/ in a single 811 KB file —
+# denying the mirrors while leaving the dump open would make the training
+# rule cosmetic. It is a file, not a directory: no trailing slash, and it
+# must not gain one. /llms.txt (the map, not the corpus) stays open.
+User-agent: GPTBot
+Allow: /
+Disallow: /content/
+Disallow: /api/
+Disallow: /llms-full.txt
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# Discovery files
+Sitemap: https://loisirs73.fr/sitemap.xml
+
+# AI Discovery (llms.txt v1.7.0) — agents: start at llms.txt (the map),
+# then /api/lieux.json (machine index) or /content/<slug>.md (facet mirrors).
+# See also: https://loisirs73.fr/robots-ai.txt
+# See also: https://loisirs73.fr/llms.txt
+# See also: https://loisirs73.fr/api/lieux.json
+# See also: https://loisirs73.fr/.well-known/ai-info.json

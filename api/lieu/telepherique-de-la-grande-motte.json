@@ -40,7 +40,9 @@
   "season": "20 juin – 28 août 2026 (exploitation piétons)",
   "winter": {
     "access": null,
-    "infrastructure": [],
+    "infrastructure": [
+      "ski_alpin"
+    ],
     "snow_view": null,
     "equipment": "loi_montagne_ii",
     "col_chains": false,

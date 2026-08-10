@@ -5,7 +5,7 @@
     "lat": 45.299101,
     "lng": 6.509023
   },
-  "type": "remontee-mecanique",
+  "type": "telecabine",
   "hours": null,
   "prices": {
     "from": 19.5,
@@ -29,7 +29,16 @@
   "parking": null,
   "transport": null,
   "season": "Été (4 juillet – 28 août 2026)",
-  "winter": null,
+  "winter": {
+    "access": "open",
+    "infrastructure": [
+      "ski_alpin"
+    ],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
   "official_url": "https://lesmenuires.com/en/pointe-de-la-masse-summer",
   "last_verified": "2026-08-08"
 }

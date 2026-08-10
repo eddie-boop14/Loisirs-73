@@ -64,6 +64,15 @@ BBOX = ((_bb.get("south"), _bb.get("west"), _bb.get("north"), _bb.get("east"))
         if _bb else None)
 ADJACENT_SCOPE_NOTE = _cfg.get("adjacent_scope_note", "")
 
+# The département's own live road/pass service. Winter access lines state the
+# SEASONAL régime and delegate today's state to this operator — we never assert
+# a road is open right now. Hardcoding it shipped Haute-Savoie's inforoute74.fr
+# onto 18 Savoie pages, telling a driver at the Col de l'Iseran to check the
+# wrong département. Absent = no delegation link is rendered at all.
+_ri = _cfg.get("road_info") or {}
+ROAD_INFO_URL = _ri.get("url") or ""
+ROAD_INFO_HOST = _ri.get("host") or ""
+
 # Optional sibling site. Absent = no cross-link rendered anywhere. See
 # build_lieu_page.sister_link_html() for why this stays off until the sibling
 # actually resolves.

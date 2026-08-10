@@ -10,7 +10,7 @@
     "status": null,
     "tourisme_handicap": null
   },
-  "category": "remontee-mecanique",
+  "category": "telecabine",
   "commune": "Les Allues",
   "date_modified_human": "8 août 2026",
   "date_published_human": "8 août 2026",
@@ -187,7 +187,10 @@
         "parking": null,
         "stroller": null,
         "type": "Télécabine",
-        "winter_access": "open"
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin"
+        ]
       },
       "faq": [
         {

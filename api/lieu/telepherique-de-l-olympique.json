@@ -2,7 +2,7 @@
   "name": "Téléphérique de l'Olympique",
   "commune": "Val-d'Isère",
   "gps": null,
-  "type": "remontee-mecanique",
+  "type": "telecabine",
   "hours": "9h45–16h45, sans interruption à la mi-journée.",
   "prices": {
     "from": 23.0,
@@ -26,7 +26,16 @@
   "parking": null,
   "transport": null,
   "season": "Été (4 juillet – 30 août 2026)",
-  "winter": null,
+  "winter": {
+    "access": "open",
+    "infrastructure": [
+      "ski_alpin"
+    ],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
   "official_url": "https://www.valdisere.com/en/val-disere-in-summer/free-lifts-for-pedestrians/",
   "last_verified": "2026-08-08"
 }

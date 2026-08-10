@@ -72,9 +72,11 @@ def check_md(rel, text, lang, cats, dicts, viol):
         return
     if not is_winter:
         return
-    # rule 4b (JOB B): the inforoute74 delegation suffix on the ACCESS line must be
+    # rule 4b (JOB B): the road-service delegation suffix on the ACCESS line must be
     # present exactly when the régime requires it (closed/partial OR col_chains), and
     # absent otherwise. The gate ACCEPTS the suffix (recognizes it as valid schema).
+    # The host comes from siteconfig, so this follows whichever département the site
+    # is — see rule 4c for the check that it is not somebody else's.
     facts = ((dicts.get(slug) or {}).get("i18n") or {}).get("fr", {}).get("facts") or {}
     acc_label = labels["access"]
     acc_lines = [ln for ln in winter_lines if ln.startswith(f"- {acc_label}:")]
@@ -83,9 +85,9 @@ def check_md(rel, text, lang, cats, dicts, viol):
         has = suffix in acc_lines[0]
         need = B.winter_needs_inforoute(facts)
         if need and not has:
-            viol.append(f"{rel}: access line missing the inforoute74 suffix (régime requires it)")
+            viol.append(f"{rel}: access line missing the {B.INFOROUTE_HOST} suffix (régime requires it)")
         if has and not need:
-            viol.append(f"{rel}: access line carries the inforoute74 suffix but régime doesn't require it")
+            viol.append(f"{rel}: access line carries the {B.INFOROUTE_HOST} suffix but régime doesn't require it")
     # rule 4: equipment line present and byte-exact (constant + optional col clause)
     eq_label = labels["equip"]
     eq_lines = [ln for ln in winter_lines if ln.startswith(f"- {eq_label}:")]
@@ -110,10 +112,46 @@ def check_md(rel, text, lang, cats, dicts, viol):
                 viol.append(f"{rel}: 'Mont-Blanc' altered to {bad!r} in a winter line")
 
 
+# rule 4c: no OTHER département's road service, anywhere. The winter card told
+# drivers at the Col de l'Iseran — a Savoie pass — to check inforoute74.fr,
+# because the host was hardcoded to the site the engine was written for. The
+# suffix checks above can't catch that: they compare against whatever host is
+# configured, so a wrong-but-consistent host passes all of them. This one names
+# the neighbours explicitly.
+FOREIGN_ROAD_HOSTS = (
+    "inforoute74.fr", "savoie-route.fr", "inforoute38.fr", "inforoute05.fr",
+    "inforoute01.fr", "inforoute26.fr", "inforoute07.fr", "inforoute42.fr",
+    "inforoute69.fr",
+)
+
+
+def check_foreign_road_host(viol):
+    ours = (B.INFOROUTE_HOST or "").lower()
+    others = [h for h in FOREIGN_ROAD_HOSTS if h.lower() != ours]
+    roots = [ROOT] + [os.path.join(ROOT, l) for l in ("en", "de", "it", "es", "nl")]
+    seen = {}
+    for base in roots:
+        if not os.path.isdir(base):
+            continue
+        for p in glob.glob(os.path.join(base, "*.html")) + \
+                 glob.glob(os.path.join(ROOT, "content", "**", "*.md"), recursive=True):
+            try:
+                text = open(p, encoding="utf-8").read()
+            except OSError:
+                continue
+            for h in others:
+                if h in text:
+                    seen.setdefault(h, []).append(os.path.relpath(p, ROOT))
+    for h, files in sorted(seen.items()):
+        viol.append(f"{h} — another département's road service — appears on "
+                    f"{len(files)} page(s), e.g. {', '.join(sorted(files)[:3])}")
+
+
 def main():
     dicts = slug_category()
     cats = {s: d.get("category") for s, d in dicts.items()}
     viol = []
+    check_foreign_road_host(viol)
     for d in dicts.values():
         check_json_vocab(d, viol)
     for lang, base in CONTENT.items():

@@ -1,8 +1,8 @@
 ---
 slug: telecabine-de-la-pointe-de-la-masse
 name: "Télécabine de la Pointe de la Masse"
-category: remontee-mecanique
-category_label: "Remontee mecanique"
+category: telecabine
+category_label: "Téléphérique / Télécabine"
 commune: "Les Belleville"
 postal_code: "73440"
 department: "Savoie"
@@ -31,7 +31,7 @@ source: loisirs73.fr
 
 - Commune: Les Belleville, Savoie (73440)
 - GPS: 45.299101, 6.509023
-- Catégorie: remontee-mecanique
+- Catégorie: telecabine
 - Type: Télécabine
 
 ## Horaires
@@ -59,6 +59,10 @@ Non renseigné
 ## Saison
 
 Été (4 juillet – 28 août 2026)
+- Fenêtre d'accès hiver: Ouvert (accès déneigé)
+- Infrastructure hiver: Ski alpin
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
 
 ## Source officielle
 

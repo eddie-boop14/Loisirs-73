@@ -57,9 +57,9 @@ Not specified
 ## Season
 
 Summer
-- Winter access window: Closed (road shut in winter) — Live status: inforoute74.fr
-- Winter infrastructure: Not specified
-- Snow panorama: Not specified
+- Winter access window: Closed (road shut in winter) — Live status: savoie-route.fr
+- Winter infrastructure: Alpine skiing
+- Snow panorama: Clear Mont-Blanc view
 - Equipment mandated: Loi Montagne II — winter tyres or chains required (1 Nov – 31 Mar)
 
 ## Official source

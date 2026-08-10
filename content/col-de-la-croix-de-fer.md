@@ -57,7 +57,7 @@ Non renseigné
 ## Saison
 
 Fin mai – début novembre
-- Fenêtre d'accès hiver: Fermé (route fermée l'hiver) — État en temps réel : inforoute74.fr
+- Fenêtre d'accès hiver: Fermé (route fermée l'hiver) — État en temps réel : savoie-route.fr
 - Infrastructure hiver: Non renseigné
 - Panorama enneigé: Non renseigné
 - Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)

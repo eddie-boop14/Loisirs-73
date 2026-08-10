@@ -1,6 +1,6 @@
 # Loisirs 73 — Full content dump
 
-Generated: 2026-08-09
+Generated: 2026-08-10
 Total lieux: 30
 
 This file concatenates the FR facet markdown of all 30 leisure sites in Savoie. Each section is a standalone markdown document with YAML frontmatter and the fixed facet heading canon. Sections are separated by `===` rulers.
@@ -68,7 +68,7 @@ Non renseigné
 ## Saison
 
 Mi-juin – début novembre
-- Fenêtre d'accès hiver: Fermé (route fermée l'hiver) — État en temps réel : inforoute74.fr
+- Fenêtre d'accès hiver: Fermé (route fermée l'hiver) — État en temps réel : savoie-route.fr
 - Infrastructure hiver: Non renseigné
 - Panorama enneigé: Non renseigné
 - Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
@@ -138,7 +138,7 @@ Non renseigné
 ## Saison
 
 Fin mai – début novembre
-- Fenêtre d'accès hiver: Fermé (route fermée l'hiver) — État en temps réel : inforoute74.fr
+- Fenêtre d'accès hiver: Fermé (route fermée l'hiver) — État en temps réel : savoie-route.fr
 - Infrastructure hiver: Non renseigné
 - Panorama enneigé: Non renseigné
 - Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
@@ -208,9 +208,9 @@ Non renseigné
 ## Saison
 
 Été
-- Fenêtre d'accès hiver: Fermé (route fermée l'hiver) — État en temps réel : inforoute74.fr
-- Infrastructure hiver: Non renseigné
-- Panorama enneigé: Non renseigné
+- Fenêtre d'accès hiver: Fermé (route fermée l'hiver) — État en temps réel : savoie-route.fr
+- Infrastructure hiver: Ski alpin
+- Panorama enneigé: Vue Mont-Blanc dégagée
 - Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
 
 ## Source officielle
@@ -278,7 +278,7 @@ Non renseigné
 ## Saison
 
 Fin mai – début novembre
-- Fenêtre d'accès hiver: Fermé (route fermée l'hiver) — État en temps réel : inforoute74.fr
+- Fenêtre d'accès hiver: Fermé (route fermée l'hiver) — État en temps réel : savoie-route.fr
 - Infrastructure hiver: Non renseigné
 - Panorama enneigé: Non renseigné
 - Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
@@ -349,8 +349,8 @@ Non renseigné
 
 Toute l'année
 - Fenêtre d'accès hiver: Ouvert (accès déneigé)
-- Infrastructure hiver: Non renseigné
-- Panorama enneigé: Non renseigné
+- Infrastructure hiver: Ski de fond · Ski nordique · Raquettes
+- Panorama enneigé: Vue Mont-Blanc dégagée
 - Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
 
 ## Source officielle
@@ -488,7 +488,7 @@ Non renseigné
 ## Saison
 
 Juin – octobre
-- Fenêtre d'accès hiver: Fermé (route fermée l'hiver) — État en temps réel : inforoute74.fr
+- Fenêtre d'accès hiver: Fermé (route fermée l'hiver) — État en temps réel : savoie-route.fr
 - Infrastructure hiver: Non renseigné
 - Panorama enneigé: Non renseigné
 - Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
@@ -558,7 +558,7 @@ Non renseigné
 ## Saison
 
 Fin juin – octobre
-- Fenêtre d'accès hiver: Fermé (route fermée l'hiver) — État en temps réel : inforoute74.fr
+- Fenêtre d'accès hiver: Fermé (route fermée l'hiver) — État en temps réel : savoie-route.fr
 - Infrastructure hiver: Non renseigné
 - Panorama enneigé: Non renseigné
 - Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
@@ -698,7 +698,7 @@ Non renseigné
 ## Saison
 
 Juin – octobre
-- Fenêtre d'accès hiver: Fermé (route fermée l'hiver) — État en temps réel : inforoute74.fr
+- Fenêtre d'accès hiver: Fermé (route fermée l'hiver) — État en temps réel : savoie-route.fr
 - Infrastructure hiver: Non renseigné
 - Panorama enneigé: Non renseigné
 - Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
@@ -768,7 +768,7 @@ Non renseigné
 ## Saison
 
 Fin mai – début novembre (route) · début juillet – mi-septembre (Chanousia)
-- Fenêtre d'accès hiver: Fermé (route fermée l'hiver) — État en temps réel : inforoute74.fr
+- Fenêtre d'accès hiver: Fermé (route fermée l'hiver) — État en temps réel : savoie-route.fr
 - Infrastructure hiver: Non renseigné
 - Panorama enneigé: Non renseigné
 - Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
@@ -978,7 +978,7 @@ Non renseigné
 ## Saison
 
 Juin – octobre
-- Fenêtre d'accès hiver: Fermé (route fermée l'hiver) — État en temps réel : inforoute74.fr
+- Fenêtre d'accès hiver: Fermé (route fermée l'hiver) — État en temps réel : savoie-route.fr
 - Infrastructure hiver: Non renseigné
 - Panorama enneigé: Non renseigné
 - Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
@@ -992,8 +992,8 @@ https://en.areches-beaufort.com/site-naturel/le-cormet-de-roselend/
 ---
 slug: funiculaire-de-la-grande-motte
 name: "Funiculaire de la Grande Motte"
-category: remontee-mecanique
-category_label: "Remontee mecanique"
+category: telecabine
+category_label: "Téléphérique / Télécabine"
 commune: "Tignes"
 postal_code: "73320"
 department: "Savoie"
@@ -1022,7 +1022,7 @@ source: loisirs73.fr
 
 - Commune: Tignes, Savoie (73320)
 - GPS: 45.452671, 6.897683
-- Catégorie: remontee-mecanique
+- Catégorie: telecabine
 - Type: Funiculaire
 
 ## Horaires
@@ -1048,6 +1048,10 @@ Non renseigné
 ## Saison
 
 Été (20 juin – 31 août 2026)
+- Fenêtre d'accès hiver: Ouvert (accès déneigé)
+- Infrastructure hiver: Ski alpin
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
 
 ## Source officielle
 
@@ -1115,8 +1119,8 @@ Non renseigné
 
 Non renseigné
 - Fenêtre d'accès hiver: Non renseigné
-- Infrastructure hiver: Non renseigné
-- Panorama enneigé: Non renseigné
+- Infrastructure hiver: Ski alpin
+- Panorama enneigé: Vue Mont-Blanc dégagée
 - Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
 
 ## Source officielle
@@ -1128,8 +1132,8 @@ https://fr.wikipedia.org/wiki/Mont%C3%A9e_de_Bisanne
 ---
 slug: telecabine-de-champagny
 name: "Télécabine de Champagny"
-category: remontee-mecanique
-category_label: "Remontee mecanique"
+category: telecabine
+category_label: "Téléphérique / Télécabine"
 commune: "Champagny-en-Vanoise"
 postal_code: "73350"
 department: "Savoie"
@@ -1158,7 +1162,7 @@ source: loisirs73.fr
 
 - Commune: Champagny-en-Vanoise, Savoie (73350)
 - GPS: 45.456202, 6.693066
-- Catégorie: remontee-mecanique
+- Catégorie: telecabine
 - Type: Télécabine
 
 ## Horaires
@@ -1187,6 +1191,10 @@ Non renseigné
 ## Saison
 
 Été (5 juillet – 28 août 2026)
+- Fenêtre d'accès hiver: Ouvert (accès déneigé)
+- Infrastructure hiver: Ski alpin
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
 
 ## Source officielle
 
@@ -1197,8 +1205,8 @@ https://en.la-plagne.com/landing-champagny/champagny-gondola
 ---
 slug: telecabine-de-la-pointe-de-la-masse
 name: "Télécabine de la Pointe de la Masse"
-category: remontee-mecanique
-category_label: "Remontee mecanique"
+category: telecabine
+category_label: "Téléphérique / Télécabine"
 commune: "Les Belleville"
 postal_code: "73440"
 department: "Savoie"
@@ -1227,7 +1235,7 @@ source: loisirs73.fr
 
 - Commune: Les Belleville, Savoie (73440)
 - GPS: 45.299101, 6.509023
-- Catégorie: remontee-mecanique
+- Catégorie: telecabine
 - Type: Télécabine
 
 ## Horaires
@@ -1255,6 +1263,10 @@ Non renseigné
 ## Saison
 
 Été (4 juillet – 28 août 2026)
+- Fenêtre d'accès hiver: Ouvert (accès déneigé)
+- Infrastructure hiver: Ski alpin
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
 
 ## Source officielle
 
@@ -1265,8 +1277,8 @@ https://lesmenuires.com/en/pointe-de-la-masse-summer
 ---
 slug: telecabine-de-la-roche-de-mio
 name: "Télécabine de la Roche de Mio"
-category: remontee-mecanique
-category_label: "Remontee mecanique"
+category: telecabine
+category_label: "Téléphérique / Télécabine"
 commune: "La Plagne Tarentaise"
 postal_code: "73210"
 department: "Savoie"
@@ -1295,7 +1307,7 @@ source: loisirs73.fr
 
 - Commune: La Plagne Tarentaise, Savoie (73210)
 - GPS: 45.50728, 6.707604
-- Catégorie: remontee-mecanique
+- Catégorie: telecabine
 - Type: Télécabine
 
 ## Horaires
@@ -1329,6 +1341,10 @@ Non renseigné
 ## Saison
 
 Été (4 juillet – 29 août 2026)
+- Fenêtre d'accès hiver: Ouvert (accès déneigé)
+- Infrastructure hiver: Ski alpin
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
 
 ## Source officielle
 
@@ -1339,8 +1355,8 @@ https://www.skipass-laplagne.com/en/roche-de-mio
 ---
 slug: telecabine-de-solaise
 name: "Télécabine de Solaise"
-category: remontee-mecanique
-category_label: "Remontee mecanique"
+category: telecabine
+category_label: "Téléphérique / Télécabine"
 commune: "Val-d'Isère"
 postal_code: "73150"
 department: "Savoie"
@@ -1369,7 +1385,7 @@ source: loisirs73.fr
 
 - Commune: Val-d'Isère, Savoie (73150)
 - GPS: Non renseigné
-- Catégorie: remontee-mecanique
+- Catégorie: telecabine
 - Type: Télécabine
 
 ## Horaires
@@ -1395,6 +1411,10 @@ Non renseigné
 ## Saison
 
 Été (4 juillet – 30 août 2026)
+- Fenêtre d'accès hiver: Ouvert (accès déneigé)
+- Infrastructure hiver: Ski alpin
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
 
 ## Source officielle
 
@@ -1405,8 +1425,8 @@ https://www.valdisere.com/en/val-disere-in-summer/free-lifts-for-pedestrians/
 ---
 slug: telecabine-des-glaciers
 name: "Télécabine des Glaciers"
-category: remontee-mecanique
-category_label: "Remontee mecanique"
+category: telecabine
+category_label: "Téléphérique / Télécabine"
 commune: "La Plagne Tarentaise"
 postal_code: "73210"
 department: "Savoie"
@@ -1435,7 +1455,7 @@ source: loisirs73.fr
 
 - Commune: La Plagne Tarentaise, Savoie (73210)
 - GPS: 45.493497, 6.735714
-- Catégorie: remontee-mecanique
+- Catégorie: telecabine
 - Type: Télécabine
 
 ## Horaires
@@ -1465,6 +1485,10 @@ Non renseigné
 ## Saison
 
 Été (4 juillet – 29 août 2026)
+- Fenêtre d'accès hiver: Ouvert (accès déneigé)
+- Infrastructure hiver: Ski alpin
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
 
 ## Source officielle
 
@@ -1475,8 +1499,8 @@ https://en.la-plagne.com/explore-the-multitude-of-activities-on-offer/create-you
 ---
 slug: telecabine-du-mont-vallon
 name: "Télécabine du Mont Vallon"
-category: remontee-mecanique
-category_label: "Remontee mecanique"
+category: telecabine
+category_label: "Téléphérique / Télécabine"
 commune: "Les Allues"
 postal_code: "73550"
 department: "Savoie"
@@ -1505,7 +1529,7 @@ source: loisirs73.fr
 
 - Commune: Les Allues, Savoie (73550)
 - GPS: 45.328541, 6.609849
-- Catégorie: remontee-mecanique
+- Catégorie: telecabine
 - Type: Télécabine
 
 ## Horaires
@@ -1533,6 +1557,10 @@ Non renseigné
 ## Saison
 
 Été (4 juillet – 29 août 2026)
+- Fenêtre d'accès hiver: Ouvert (accès déneigé)
+- Infrastructure hiver: Ski alpin
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
 
 ## Source officielle
 
@@ -1543,8 +1571,8 @@ https://www.meribel.net/station-ete/remontees-mecaniques-ete/
 ---
 slug: telecabine-orelle-cime-caron
 name: "Télécabine Orelle – Cime Caron"
-category: remontee-mecanique
-category_label: "Remontee mecanique"
+category: telecabine
+category_label: "Téléphérique / Télécabine"
 commune: "Orelle"
 postal_code: "73140"
 department: "Savoie"
@@ -1573,7 +1601,7 @@ source: loisirs73.fr
 
 - Commune: Orelle, Savoie (73140)
 - GPS: Non renseigné
-- Catégorie: remontee-mecanique
+- Catégorie: telecabine
 - Type: Télécabine en deux tronçons
 
 ## Horaires
@@ -1599,6 +1627,10 @@ Non renseigné
 ## Saison
 
 Été (4 juillet – 30 août 2026)
+- Fenêtre d'accès hiver: Ouvert (accès déneigé)
+- Infrastructure hiver: Ski alpin
+- Panorama enneigé: Vue Mont-Blanc dégagée
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
 
 ## Source officielle
 
@@ -1671,8 +1703,8 @@ Non renseigné
 
 4 juillet – 29 août 2026 selon la page anglaise (28 août selon la page française)
 - Fenêtre d'accès hiver: Non renseigné
-- Infrastructure hiver: Non renseigné
-- Panorama enneigé: Non renseigné
+- Infrastructure hiver: Ski alpin
+- Panorama enneigé: Panorama alpin
 - Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
 
 ## Source officielle
@@ -1684,8 +1716,8 @@ https://www.lesarcs-peiseyvallandry.com/en/varet-aiguille-rouge
 ---
 slug: telepherique-de-l-olympique
 name: "Téléphérique de l'Olympique"
-category: remontee-mecanique
-category_label: "Remontee mecanique"
+category: telecabine
+category_label: "Téléphérique / Télécabine"
 commune: "Val-d'Isère"
 postal_code: "73150"
 department: "Savoie"
@@ -1714,7 +1746,7 @@ source: loisirs73.fr
 
 - Commune: Val-d'Isère, Savoie (73150)
 - GPS: Non renseigné
-- Catégorie: remontee-mecanique
+- Catégorie: telecabine
 - Type: Téléphérique bicâble 3S
 
 ## Horaires
@@ -1742,6 +1774,10 @@ Non renseigné
 ## Saison
 
 Été (4 juillet – 30 août 2026)
+- Fenêtre d'accès hiver: Ouvert (accès déneigé)
+- Infrastructure hiver: Ski alpin
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
 
 ## Source officielle
 
@@ -1812,8 +1848,8 @@ Non renseigné
 
 4 juillet – 28 août 2026 (été)
 - Fenêtre d'accès hiver: Non renseigné
-- Infrastructure hiver: Non renseigné
-- Panorama enneigé: Non renseigné
+- Infrastructure hiver: Ski alpin
+- Panorama enneigé: Vue Mont-Blanc dégagée
 - Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
 
 ## Source officielle
@@ -1887,7 +1923,7 @@ Non renseigné
 
 20 juin – 28 août 2026 (exploitation piétons)
 - Fenêtre d'accès hiver: Non renseigné
-- Infrastructure hiver: Non renseigné
+- Infrastructure hiver: Ski alpin
 - Panorama enneigé: Non renseigné
 - Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
 
@@ -1962,8 +1998,8 @@ Non renseigné
 
 4 juillet – 30 août 2026 (été)
 - Fenêtre d'accès hiver: Non renseigné
-- Infrastructure hiver: Non renseigné
-- Panorama enneigé: Non renseigné
+- Infrastructure hiver: Ski alpin
+- Panorama enneigé: Panorama alpin
 - Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
 
 ## Source officielle
@@ -1975,8 +2011,8 @@ https://www.s3v.com/en/nouveau-telepherique-saulire/
 ---
 slug: telepherique-du-mont-bochor
 name: "Téléphérique du Mont-Bochor"
-category: remontee-mecanique
-category_label: "Remontee mecanique"
+category: telecabine
+category_label: "Téléphérique / Télécabine"
 commune: "Pralognan-la-Vanoise"
 postal_code: "73710"
 department: "Savoie"
@@ -2005,7 +2041,7 @@ source: loisirs73.fr
 
 - Commune: Pralognan-la-Vanoise, Savoie (73710)
 - GPS: 45.386327, 6.730179
-- Catégorie: remontee-mecanique
+- Catégorie: telecabine
 - Type: Téléphérique
 
 ## Horaires
@@ -2031,6 +2067,10 @@ Non renseigné
 ## Saison
 
 Été (27 juin – 30 août 2026)
+- Fenêtre d'accès hiver: Ouvert (accès déneigé)
+- Infrastructure hiver: Ski alpin · Raquettes · Ski de rando
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
 
 ## Source officielle
 
@@ -2103,7 +2143,7 @@ Non renseigné
 
 6 juillet – 28 août 2026, du lundi au vendredi sauf mercredi
 - Fenêtre d'accès hiver: Non renseigné
-- Infrastructure hiver: Non renseigné
+- Infrastructure hiver: Ski alpin
 - Panorama enneigé: Non renseigné
 - Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
 

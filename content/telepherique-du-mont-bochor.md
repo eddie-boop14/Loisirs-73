@@ -1,8 +1,8 @@
 ---
 slug: telepherique-du-mont-bochor
 name: "Téléphérique du Mont-Bochor"
-category: remontee-mecanique
-category_label: "Remontee mecanique"
+category: telecabine
+category_label: "Téléphérique / Télécabine"
 commune: "Pralognan-la-Vanoise"
 postal_code: "73710"
 department: "Savoie"
@@ -31,7 +31,7 @@ source: loisirs73.fr
 
 - Commune: Pralognan-la-Vanoise, Savoie (73710)
 - GPS: 45.386327, 6.730179
-- Catégorie: remontee-mecanique
+- Catégorie: telecabine
 - Type: Téléphérique
 
 ## Horaires
@@ -57,6 +57,10 @@ Non renseigné
 ## Saison
 
 Été (27 juin – 30 août 2026)
+- Fenêtre d'accès hiver: Ouvert (accès déneigé)
+- Infrastructure hiver: Ski alpin · Raquettes · Ski de rando
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
 
 ## Source officielle
 

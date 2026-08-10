@@ -63,8 +63,8 @@ Not specified
 
 4 July – 29 August 2026 per the English page (28 August per the French one)
 - Winter access window: Not specified
-- Winter infrastructure: Not specified
-- Snow panorama: Not specified
+- Winter infrastructure: Alpine skiing
+- Snow panorama: Alpine panorama
 - Equipment mandated: Loi Montagne II — winter tyres or chains required (1 Nov – 31 Mar)
 
 ## Official source

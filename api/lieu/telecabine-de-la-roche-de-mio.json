@@ -5,7 +5,7 @@
     "lat": 45.50728,
     "lng": 6.707604
   },
-  "type": "remontee-mecanique",
+  "type": "telecabine",
   "hours": null,
   "prices": {
     "from": 9.0,
@@ -59,7 +59,16 @@
   "parking": null,
   "transport": null,
   "season": "Été (4 juillet – 29 août 2026)",
-  "winter": null,
+  "winter": {
+    "access": "open",
+    "infrastructure": [
+      "ski_alpin"
+    ],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
   "official_url": "https://www.skipass-laplagne.com/en/roche-de-mio",
   "last_verified": "2026-08-08"
 }

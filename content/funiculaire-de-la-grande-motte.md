@@ -1,8 +1,8 @@
 ---
 slug: funiculaire-de-la-grande-motte
 name: "Funiculaire de la Grande Motte"
-category: remontee-mecanique
-category_label: "Remontee mecanique"
+category: telecabine
+category_label: "Téléphérique / Télécabine"
 commune: "Tignes"
 postal_code: "73320"
 department: "Savoie"
@@ -31,7 +31,7 @@ source: loisirs73.fr
 
 - Commune: Tignes, Savoie (73320)
 - GPS: 45.452671, 6.897683
-- Catégorie: remontee-mecanique
+- Catégorie: telecabine
 - Type: Funiculaire
 
 ## Horaires
@@ -57,6 +57,10 @@ Non renseigné
 ## Saison
 
 Été (20 juin – 31 août 2026)
+- Fenêtre d'accès hiver: Ouvert (accès déneigé)
+- Infrastructure hiver: Ski alpin
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
 
 ## Source officielle
 

@@ -36,8 +36,10 @@
   "season": "4 juillet – 28 août 2026 (été)",
   "winter": {
     "access": null,
-    "infrastructure": [],
-    "snow_view": null,
+    "infrastructure": [
+      "ski_alpin"
+    ],
+    "snow_view": "mont_blanc",
     "equipment": "loi_montagne_ii",
     "col_chains": false,
     "inforoute": null

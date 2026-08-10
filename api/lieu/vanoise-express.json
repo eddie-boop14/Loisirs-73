@@ -46,7 +46,9 @@
   "season": "6 juillet – 28 août 2026, du lundi au vendredi sauf mercredi",
   "winter": {
     "access": null,
-    "infrastructure": [],
+    "infrastructure": [
+      "ski_alpin"
+    ],
     "snow_view": null,
     "equipment": "loi_montagne_ii",
     "col_chains": false,

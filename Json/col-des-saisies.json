@@ -190,9 +190,15 @@
         "commune": "Hauteluce",
         "dogs": null,
         "parking": null,
+        "snow_view": "mont_blanc",
         "stroller": null,
         "type": "Col routier et station",
-        "winter_access": "open"
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_fond",
+          "ski_nordique",
+          "raquettes"
+        ]
       },
       "faq": [
         {
@@ -349,7 +355,8 @@
     {
       "name": "Alpes4ever — col des Saisies",
       "url": "https://alpes4ever.com/france/savoie/les-plus-de-1500-m/col-des-saisies/"
-    }
+    },
+    "https://www.savoienordic.com/domaine-nordique-des-saisies.html"
   ],
   "sparse_data": false,
   "status": "published",

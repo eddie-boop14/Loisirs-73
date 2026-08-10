@@ -298,7 +298,7 @@
     {
       "slug": "funiculaire-de-la-grande-motte",
       "name": "Funiculaire de la Grande Motte",
-      "category": "remontee-mecanique",
+      "category": "telecabine",
       "commune": "Tignes",
       "postal_code": "73320",
       "latitude": 45.452671,
@@ -340,7 +340,7 @@
     {
       "slug": "telecabine-de-champagny",
       "name": "Télécabine de Champagny",
-      "category": "remontee-mecanique",
+      "category": "telecabine",
       "commune": "Champagny-en-Vanoise",
       "postal_code": "73350",
       "latitude": 45.456202,
@@ -361,7 +361,7 @@
     {
       "slug": "telecabine-de-la-pointe-de-la-masse",
       "name": "Télécabine de la Pointe de la Masse",
-      "category": "remontee-mecanique",
+      "category": "telecabine",
       "commune": "Les Belleville",
       "postal_code": "73440",
       "latitude": 45.299101,
@@ -382,7 +382,7 @@
     {
       "slug": "telecabine-de-la-roche-de-mio",
       "name": "Télécabine de la Roche de Mio",
-      "category": "remontee-mecanique",
+      "category": "telecabine",
       "commune": "La Plagne Tarentaise",
       "postal_code": "73210",
       "latitude": 45.50728,
@@ -403,7 +403,7 @@
     {
       "slug": "telecabine-de-solaise",
       "name": "Télécabine de Solaise",
-      "category": "remontee-mecanique",
+      "category": "telecabine",
       "commune": "Val-d'Isère",
       "postal_code": "73150",
       "latitude": null,
@@ -424,7 +424,7 @@
     {
       "slug": "telecabine-des-glaciers",
       "name": "Télécabine des Glaciers",
-      "category": "remontee-mecanique",
+      "category": "telecabine",
       "commune": "La Plagne Tarentaise",
       "postal_code": "73210",
       "latitude": 45.493497,
@@ -445,7 +445,7 @@
     {
       "slug": "telecabine-du-mont-vallon",
       "name": "Télécabine du Mont Vallon",
-      "category": "remontee-mecanique",
+      "category": "telecabine",
       "commune": "Les Allues",
       "postal_code": "73550",
       "latitude": 45.328541,
@@ -466,7 +466,7 @@
     {
       "slug": "telecabine-orelle-cime-caron",
       "name": "Télécabine Orelle – Cime Caron",
-      "category": "remontee-mecanique",
+      "category": "telecabine",
       "commune": "Orelle",
       "postal_code": "73140",
       "latitude": null,
@@ -508,7 +508,7 @@
     {
       "slug": "telepherique-de-l-olympique",
       "name": "Téléphérique de l'Olympique",
-      "category": "remontee-mecanique",
+      "category": "telecabine",
       "commune": "Val-d'Isère",
       "postal_code": "73150",
       "latitude": null,
@@ -592,7 +592,7 @@
     {
       "slug": "telepherique-du-mont-bochor",
       "name": "Téléphérique du Mont-Bochor",
-      "category": "remontee-mecanique",
+      "category": "telecabine",
       "commune": "Pralognan-la-Vanoise",
       "postal_code": "73710",
       "latitude": 45.386327,

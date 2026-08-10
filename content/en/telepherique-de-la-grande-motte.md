@@ -62,7 +62,7 @@ Not specified
 
 20 June – 28 August 2026 (pedestrian operation)
 - Winter access window: Not specified
-- Winter infrastructure: Not specified
+- Winter infrastructure: Alpine skiing
 - Snow panorama: Not specified
 - Equipment mandated: Loi Montagne II — winter tyres or chains required (1 Nov – 31 Mar)
 

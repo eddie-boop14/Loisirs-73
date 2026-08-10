@@ -190,7 +190,10 @@
         "duration": "3 min 50 s selon l'OT de Peisey-Vallandry (4 min ailleurs)",
         "parking": "Gratuit côté Peisey (Zeschierses, Aiguilles)",
         "tarif": "Piéton adulte AR 17 € (été 2026)",
-        "type": "Téléphérique double-étage"
+        "type": "Téléphérique double-étage",
+        "winter_infra": [
+          "ski_alpin"
+        ]
       },
       "faq": [
         {

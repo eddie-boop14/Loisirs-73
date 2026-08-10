@@ -58,8 +58,8 @@ Non renseigné
 
 Toute l'année
 - Fenêtre d'accès hiver: Ouvert (accès déneigé)
-- Infrastructure hiver: Non renseigné
-- Panorama enneigé: Non renseigné
+- Infrastructure hiver: Ski de fond · Ski nordique · Raquettes
+- Panorama enneigé: Vue Mont-Blanc dégagée
 - Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
 
 ## Source officielle

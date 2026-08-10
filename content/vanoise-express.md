@@ -63,7 +63,7 @@ Non renseigné
 
 6 juillet – 28 août 2026, du lundi au vendredi sauf mercredi
 - Fenêtre d'accès hiver: Non renseigné
-- Infrastructure hiver: Non renseigné
+- Infrastructure hiver: Ski alpin
 - Panorama enneigé: Non renseigné
 - Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
 

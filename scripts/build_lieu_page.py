@@ -1127,7 +1127,9 @@ def season_card(d):
     svv = _bac.SNOW_VIEW[sv][lang] if sv in _bac.SNOW_VIEW else unk
     eq = _bac.EQUIP[lang] + (_bac.EQUIP_COL[lang] if fk.get("col_chains") else "")
     # JOB B: closed/partial régime or a col → state the régime + delegate live status
-    # to the Département (inforoute74). Plain external link; URL invariant.
+    # to the Département's own road service (siteconfig.ROAD_INFO_*). Plain external
+    # link. Per-site: sending a Savoie driver to Haute-Savoie's service is a wrong
+    # answer dressed as a helpful one.
     acc_suffix = ""
     if _bac.winter_needs_inforoute(fk):
         acc_suffix = (f' — {esc(_bac.WINTER_LIVE[lang])} '

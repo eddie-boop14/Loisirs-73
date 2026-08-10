@@ -5,7 +5,7 @@
     "lat": 45.386327,
     "lng": 6.730179
   },
-  "type": "remontee-mecanique",
+  "type": "telecabine",
   "hours": "8h15–12h45 et 13h30–17h10. Coupure méridienne de 45 minutes.",
   "prices": {
     "from": null,
@@ -18,7 +18,18 @@
   "parking": null,
   "transport": null,
   "season": "Été (27 juin – 30 août 2026)",
-  "winter": null,
+  "winter": {
+    "access": "open",
+    "infrastructure": [
+      "ski_alpin",
+      "raquettes",
+      "ski_rando"
+    ],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
   "official_url": "https://www.pralognan.com/remontees-mecaniques-ete/",
   "last_verified": "2026-08-08"
 }

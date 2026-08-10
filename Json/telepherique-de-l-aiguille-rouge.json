@@ -202,8 +202,12 @@
         "dogs": "Admis, tenus en laisse (liste des remontées autorisées en été)",
         "duration": null,
         "parking": "Arc 2000 : Lac des Combes, P2 et P3 gratuits cet été",
+        "snow_view": "alpes",
         "tarif": "Pass Aiguille Rouge 16 € (13 ans et +) / 13 € (5–12 ans)",
-        "type": "Téléphérique panoramique"
+        "type": "Téléphérique panoramique",
+        "winter_infra": [
+          "ski_alpin"
+        ]
       },
       "faq": [
         {
@@ -393,7 +397,8 @@
     {
       "name": "Skiresort — remontées Les Arcs / Peisey-Vallandry (Paradiski)",
       "url": "https://www.skiresort.com/en/ski-resort/les-arcs-peisey-vallandry-paradiski/ski-lifts/l87035/"
-    }
+    },
+    "https://www.hautetarentaise.fr/apidae/141069/5382-telepherique-de-l-aiguille-rouge.htm"
   ],
   "sparse_data": false,
   "status": "published",

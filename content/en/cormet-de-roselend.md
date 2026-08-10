@@ -57,7 +57,7 @@ Not specified
 ## Season
 
 June – October
-- Winter access window: Closed (road shut in winter) — Live status: inforoute74.fr
+- Winter access window: Closed (road shut in winter) — Live status: savoie-route.fr
 - Winter infrastructure: Not specified
 - Snow panorama: Not specified
 - Equipment mandated: Loi Montagne II — winter tyres or chains required (1 Nov – 31 Mar)

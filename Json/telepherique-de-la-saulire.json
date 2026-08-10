@@ -193,8 +193,12 @@
         "dogs": null,
         "duration": null,
         "parking": null,
+        "snow_view": "alpes",
         "tarif": "Billet piéton « Sommets » 25 € (une montée, caisse uniquement)",
-        "type": "Téléphérique panoramique"
+        "type": "Téléphérique panoramique",
+        "winter_infra": [
+          "ski_alpin"
+        ]
       },
       "faq": [
         {

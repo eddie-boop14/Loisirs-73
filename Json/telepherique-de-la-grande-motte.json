@@ -187,7 +187,10 @@
         "duration": null,
         "parking": null,
         "tarif": "25 € funiculaire + téléphérique (15 € enfant / senior)",
-        "type": "Téléphérique de glacier"
+        "type": "Téléphérique de glacier",
+        "winter_infra": [
+          "ski_alpin"
+        ]
       },
       "faq": [
         {

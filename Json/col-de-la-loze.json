@@ -192,9 +192,13 @@
         "commune": "Courchevel",
         "dogs": null,
         "parking": null,
+        "snow_view": "mont_blanc",
         "stroller": null,
         "type": "Route cyclable d'altitude et point de vue",
-        "winter_access": "closed"
+        "winter_access": "closed",
+        "winter_infra": [
+          "ski_alpin"
+        ]
       },
       "faq": [
         {

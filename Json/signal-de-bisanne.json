@@ -192,9 +192,13 @@
         "commune": "Hauteluce",
         "dogs": null,
         "parking": null,
+        "snow_view": "mont_blanc",
         "stroller": null,
         "type": "Sommet routier et point de vue",
-        "winter_access": null
+        "winter_access": null,
+        "winter_infra": [
+          "ski_alpin"
+        ]
       },
       "faq": [
         {
@@ -353,7 +357,8 @@
     {
       "name": "Alpes4ever — Signal de Bisanne",
       "url": "https://alpes4ever.com/france/savoie/les-plus-de-1500-m/signal-de-bisanne/"
-    }
+    },
+    "https://en.lessaisies.com/offers/orientation-table-of-signal-de-bisanne-les-saisies-en-4070271/"
   ],
   "sparse_data": false,
   "status": "published",

@@ -1,8 +1,8 @@
 ---
 slug: telecabine-de-champagny
 name: "Télécabine de Champagny"
-category: remontee-mecanique
-category_label: "Remontee mecanique"
+category: telecabine
+category_label: "Téléphérique / Télécabine"
 commune: "Champagny-en-Vanoise"
 postal_code: "73350"
 department: "Savoie"
@@ -31,7 +31,7 @@ source: loisirs73.fr
 
 - Commune: Champagny-en-Vanoise, Savoie (73350)
 - GPS: 45.456202, 6.693066
-- Catégorie: remontee-mecanique
+- Catégorie: telecabine
 - Type: Télécabine
 
 ## Horaires
@@ -60,6 +60,10 @@ Non renseigné
 ## Saison
 
 Été (5 juillet – 28 août 2026)
+- Fenêtre d'accès hiver: Ouvert (accès déneigé)
+- Infrastructure hiver: Ski alpin
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
 
 ## Source officielle
 

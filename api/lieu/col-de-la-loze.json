@@ -20,11 +20,13 @@
   "season": "Été",
   "winter": {
     "access": "closed",
-    "infrastructure": [],
-    "snow_view": null,
+    "infrastructure": [
+      "ski_alpin"
+    ],
+    "snow_view": "mont_blanc",
     "equipment": "loi_montagne_ii",
     "col_chains": false,
-    "inforoute": "https://www.inforoute74.fr"
+    "inforoute": "https://savoie-route.fr"
   },
   "official_url": "https://courchevel.com/en/a/the-col-de-la-loze-1st-stage-of-the-via-3-vallees-5237408/",
   "last_verified": "2026-08-08"

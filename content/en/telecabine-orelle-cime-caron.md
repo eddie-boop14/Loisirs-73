@@ -1,8 +1,8 @@
 ---
 slug: telecabine-orelle-cime-caron
 name: "Télécabine Orelle – Cime Caron"
-category: remontee-mecanique
-category_label: "Remontee mecanique"
+category: telecabine
+category_label: "Téléphérique / Télécabine"
 commune: "Orelle"
 postal_code: "73140"
 department: "Savoie"
@@ -31,7 +31,7 @@ source: loisirs73.fr
 
 - Commune: Orelle, Savoie (73140)
 - GPS: Not specified
-- Category: remontee-mecanique
+- Category: telecabine
 - Type: Two-section gondola
 
 ## Hours
@@ -57,6 +57,10 @@ Not specified
 ## Season
 
 Summer (4 July – 30 August 2026)
+- Winter access window: Open (cleared road)
+- Winter infrastructure: Alpine skiing
+- Snow panorama: Clear Mont-Blanc view
+- Equipment mandated: Loi Montagne II — winter tyres or chains required (1 Nov – 31 Mar)
 
 ## Official source
 

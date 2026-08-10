@@ -199,8 +199,12 @@
         "dogs": null,
         "duration": "Environ 5 minutes (BEA-TT)",
         "parking": "Parkings couverts payants P1 et P2 à Val Thorens",
+        "snow_view": "mont_blanc",
         "tarif": "23,50 € adulte · 17,60 € enfant (été 2026)",
-        "type": "Téléphérique panoramique"
+        "type": "Téléphérique panoramique",
+        "winter_infra": [
+          "ski_alpin"
+        ]
       },
       "faq": [
         {
@@ -390,7 +394,8 @@
     {
       "name": "OpenStreetMap via Overpass — nœuds aerialway=station, secteur Cime Caron",
       "url": "https://overpass.kumi.systems/api/interpreter"
-    }
+    },
+    "https://www.les3vallees.com/en/experiences/cime-caron-destination"
   ],
   "sparse_data": false,
   "status": "published",

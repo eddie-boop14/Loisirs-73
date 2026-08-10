@@ -5,7 +5,7 @@
     "lat": 45.456202,
     "lng": 6.693066
   },
-  "type": "remontee-mecanique",
+  "type": "telecabine",
   "hours": "9h–12h45 et 14h–17h40. Coupure méridienne d'1h15.",
   "prices": {
     "from": 9.0,
@@ -34,7 +34,16 @@
   "parking": null,
   "transport": null,
   "season": "Été (5 juillet – 28 août 2026)",
-  "winter": null,
+  "winter": {
+    "access": "open",
+    "infrastructure": [
+      "ski_alpin"
+    ],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
   "official_url": "https://en.la-plagne.com/landing-champagny/champagny-gondola",
   "last_verified": "2026-08-08"
 }

@@ -19,6 +19,12 @@
     "url": "https://loisirs74.fr",
     "dept": "Haute-Savoie"
   },
+  "road_info": {
+    "url": "https://savoie-route.fr",
+    "host": "savoie-route.fr",
+    "operator": "Département de la Savoie",
+    "source": "https://www.savoie.fr/web/sw_78016/savoie-route-fr-un-outil-pour-organiser-vos-deplacements"
+  },
   "bbox": {
     "south": 45.05,
     "west": 5.6,

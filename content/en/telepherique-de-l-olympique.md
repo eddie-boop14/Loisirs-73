@@ -1,8 +1,8 @@
 ---
 slug: telepherique-de-l-olympique
 name: "Téléphérique de l'Olympique"
-category: remontee-mecanique
-category_label: "Remontee mecanique"
+category: telecabine
+category_label: "Téléphérique / Télécabine"
 commune: "Val-d'Isère"
 postal_code: "73150"
 department: "Savoie"
@@ -31,7 +31,7 @@ source: loisirs73.fr
 
 - Commune: Val-d'Isère, Savoie (73150)
 - GPS: Not specified
-- Category: remontee-mecanique
+- Category: telecabine
 - Type: 3S bicable cable car
 
 ## Hours
@@ -59,6 +59,10 @@ Not specified
 ## Season
 
 Summer (4 July – 30 August 2026)
+- Winter access window: Open (cleared road)
+- Winter infrastructure: Alpine skiing
+- Snow panorama: Not specified
+- Equipment mandated: Loi Montagne II — winter tyres or chains required (1 Nov – 31 Mar)
 
 ## Official source
 

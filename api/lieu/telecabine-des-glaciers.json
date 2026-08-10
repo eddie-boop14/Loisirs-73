@@ -5,7 +5,7 @@
     "lat": 45.493497,
     "lng": 6.735714
   },
-  "type": "remontee-mecanique",
+  "type": "telecabine",
   "hours": null,
   "prices": {
     "from": 9.0,
@@ -39,7 +39,16 @@
   "parking": null,
   "transport": null,
   "season": "Été (4 juillet – 29 août 2026)",
-  "winter": null,
+  "winter": {
+    "access": "open",
+    "infrastructure": [
+      "ski_alpin"
+    ],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
   "official_url": "https://en.la-plagne.com/explore-the-multitude-of-activities-on-offer/create-your-family-memories/family-activities/glacier-gondola-lift",
   "last_verified": "2026-08-08"
 }

@@ -117,6 +117,11 @@ WINTER_ACCESS = {
 }
 
 WINTER_INFRA = {
+    # ski_alpin was absent while the engine served only Haute-Savoie, whose winter
+    # corpus is lakes, plateaux and nordic terrain. Savoie's winter identity is the
+    # linked alpine areas — Les 3 Vallées, Espace Killy, Paradiski — and without
+    # this key a Val Thorens cable car had no honest way to say what it is.
+    "ski_alpin": {"fr": "Ski alpin", "en": "Alpine skiing", "de": "Alpinski", "it": "Sci alpino", "es": "Esquí alpino", "nl": "Alpineskiën"},
     "raquettes": {"fr": "Raquettes", "en": "Snowshoeing", "de": "Schneeschuhwandern", "it": "Ciaspole", "es": "Raquetas de nieve", "nl": "Sneeuwschoenwandelen"},
     "ski_nordique": {"fr": "Ski nordique", "en": "Nordic skiing", "de": "Nordischer Skisport", "it": "Sci nordico", "es": "Esquí nórdico", "nl": "Noords skiën"},
     "ski_fond": {"fr": "Ski de fond", "en": "Cross-country skiing", "de": "Langlauf", "it": "Sci di fondo", "es": "Esquí de fondo", "nl": "Langlaufen"},
@@ -153,20 +158,26 @@ WINTER_LABELS = {
     "equip": {"fr": "Équipement obligatoire", "en": "Equipment mandated", "de": "Vorgeschriebene Ausrüstung", "it": "Equipaggiamento obbligatorio", "es": "Equipamiento obligatorio", "nl": "Verplichte uitrusting"},
 }
 
-# JOB B — the inforoute74 escape hatch. When the access régime is closed/partial or
+# JOB B — the road-service escape hatch. When the access régime is closed/partial or
 # the node carries a col, the fiche STATES THE SEASONAL RÉGIME with its source and
 # delegates live status to the Département. We never assert today's road state.
-# URL invariant; label localized (the winter card itself renders fr/en, so those two
-# are what surface — the six PROSE forms are kept for the facet layer + parity).
-INFOROUTE_URL = "https://www.inforoute74.fr"
-INFOROUTE_HOST = "inforoute74.fr"
+# The operator is per-site (HANDOFF-73): Haute-Savoie delegates to inforoute74.fr,
+# Savoie to savoie-route.fr. Label localized (the winter card itself renders fr/en,
+# so those two are what surface — the six PROSE forms are kept for the facet layer
+# + parity).
+INFOROUTE_URL = siteconfig.ROAD_INFO_URL
+INFOROUTE_HOST = siteconfig.ROAD_INFO_HOST
 WINTER_LIVE = {"fr": "État en temps réel :", "en": "Live status:", "de": "Echtzeit-Status:",
                "it": "Stato in tempo reale:", "es": "Estado en tiempo real:", "nl": "Realtime status:"}
 
 
 def winter_needs_inforoute(fk):
-    """True when the access line must carry the inforoute74 delegation link:
-    winter_access ∈ {closed, partial} OR col_chains true."""
+    """True when the access line must carry the road-service delegation link:
+    winter_access ∈ {closed, partial} OR col_chains true — and only when this
+    site has an operator configured. A site with no road_info block delegates
+    to nobody rather than to its neighbour."""
+    if not INFOROUTE_HOST:
+        return False
     return fk.get("winter_access") in ("closed", "partial") or bool(fk.get("col_chains"))
 
 

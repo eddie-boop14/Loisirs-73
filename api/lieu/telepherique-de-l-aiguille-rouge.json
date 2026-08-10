@@ -46,8 +46,10 @@
   "season": "4 juillet – 29 août 2026 selon la page anglaise (28 août selon la page française)",
   "winter": {
     "access": null,
-    "infrastructure": [],
-    "snow_view": null,
+    "infrastructure": [
+      "ski_alpin"
+    ],
+    "snow_view": "alpes",
     "equipment": "loi_montagne_ii",
     "col_chains": false,
     "inforoute": null

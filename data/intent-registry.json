@@ -1,26 +1,16 @@
 {
  "_meta": {
-  "job": "HANDOFF-73 — compiled head-term layer for the Savoie site",
   "author": "Claudius",
-  "edition": "Bleu canard édition · Edmaster & Claudius · Tous droits réservés 🦆 2026",
-  "rules": "Pages are COMPILED from the fiche layer: the member set is the selector's output, never a hand list. Titles and leads are authored per language and a language ships only when both exist — this site carries FR and EN, matching its fiches, so the other ten simply do not render. Frozen French place names verbatim in every language: Savoie, Vanoise, Tarentaise, Maurienne, Beaufortain, and all commune names.",
   "commune_sets": {
-   "TROIS_VALLEES": [
-    "Les Allues",
-    "Courchevel",
-    "Les Belleville",
-    "Orelle"
+   "BEAUFORTAIN": [
+    "Beaufort",
+    "Hauteluce"
    ],
-   "TARENTAISE": [
+   "HOTSPOTS": [
     "Les Allues",
     "Courchevel",
     "Les Belleville",
     "La Plagne Tarentaise",
-    "Peisey-Nancroix",
-    "Champagny-en-Vanoise",
-    "Pralognan-la-Vanoise",
-    "Bourg-Saint-Maurice",
-    "Séez",
     "Tignes",
     "Val-d'Isère"
    ],
@@ -35,195 +25,203 @@
     "Orelle",
     "Saint-François-Longchamp"
    ],
-   "BEAUFORTAIN": [
-    "Beaufort",
-    "Hauteluce"
-   ],
-   "HOTSPOTS": [
+   "TARENTAISE": [
     "Les Allues",
     "Courchevel",
     "Les Belleville",
     "La Plagne Tarentaise",
+    "Peisey-Nancroix",
+    "Champagny-en-Vanoise",
+    "Pralognan-la-Vanoise",
+    "Bourg-Saint-Maurice",
+    "Séez",
     "Tignes",
     "Val-d'Isère"
+   ],
+   "TROIS_VALLEES": [
+    "Les Allues",
+    "Courchevel",
+    "Les Belleville",
+    "Orelle"
    ]
-  }
+  },
+  "edition": "Bleu canard édition · Edmaster & Claudius · Tous droits réservés 🦆 2026",
+  "job": "HANDOFF-73 — compiled head-term layer for the Savoie site",
+  "rules": "Pages are COMPILED from the fiche layer: the member set is the selector's output, never a hand list. Titles and leads are authored per language and a language ships only when both exist — this site carries FR and EN, matching its fiches, so the other ten simply do not render. Frozen French place names verbatim in every language: Savoie, Vanoise, Tarentaise, Maurienne, Beaufortain, and all commune names."
  },
  "pages": [
   {
-   "id": "cols-savoie",
-   "sub": {
-    "fr": "cols-de-savoie",
-    "en": "savoie-mountain-passes"
-   },
-   "title": {
-    "fr": "Les grands cols de Savoie : altitudes, ouvertures, accès",
-    "en": "The great passes of Savoie: altitudes, openings, access"
-   },
-   "lead": {
-    "fr": "Iseran, Galibier, Madeleine, Croix de Fer, Mont-Cenis : les cols routiers de Savoie, avec ce que les sources disent vraiment de leur altitude et de leur date d'ouverture — contradictions comprises.",
-    "en": "Iseran, Galibier, Madeleine, Croix de Fer, Mont-Cenis: the road passes of Savoie, with what the sources actually say about their altitude and opening date — contradictions included."
-   },
    "criteria_note": {
-    "fr": "Sélection compilée depuis nos fiches vérifiées : le contenu de cette page est l'exacte sortie du sélecteur indiqué, jamais une liste écrite à la main. Elle se met à jour à chaque évolution des fiches.",
-    "en": "Compiled from our verified fact sheets: this page's contents are exactly the output of the stated selector, never a hand-written list. It updates whenever a sheet changes."
+    "en": "Compiled from our verified fact sheets: this page's contents are exactly the output of the stated selector, never a hand-written list. It updates whenever a sheet changes.",
+    "fr": "Sélection compilée depuis nos fiches vérifiées : le contenu de cette page est l'exacte sortie du sélecteur indiqué, jamais une liste écrite à la main. Elle se met à jour à chaque évolution des fiches."
    },
-   "selector": {
-    "categories": [
-     "point-de-vue"
-    ]
+   "id": "cols-savoie",
+   "lead": {
+    "en": "Iseran, Galibier, Madeleine, Croix de Fer, Mont-Cenis: the road passes of Savoie, with what the sources actually say about their altitude and opening date — contradictions included.",
+    "fr": "Iseran, Galibier, Madeleine, Croix de Fer, Mont-Cenis : les cols routiers de Savoie, avec ce que les sources disent vraiment de leur altitude et de leur date d'ouverture — contradictions comprises."
    },
+   "max_items": 20,
    "ranking": [
     "has_real_photo",
     "is_free",
     "facet_richness"
    ],
-   "max_items": 20
-  },
-  {
-   "id": "remontees-savoie",
-   "sub": {
-    "fr": "remontees-mecaniques-savoie",
-    "en": "savoie-cable-cars"
-   },
-   "title": {
-    "fr": "Téléphériques et télécabines de Savoie : horaires et tarifs vérifiés",
-    "en": "Savoie cable cars and gondolas: verified hours and prices"
-   },
-   "lead": {
-    "fr": "Les appareils d'altitude de Savoie, avec les jours de fermeture hebdomadaire et les coupures de midi que les pages de station mentionnent rarement.",
-    "en": "Savoie's high-altitude lifts, with the weekly closing days and midday breaks that resort pages rarely mention."
-   },
-   "criteria_note": {
-    "fr": "Sélection compilée depuis nos fiches vérifiées : le contenu de cette page est l'exacte sortie du sélecteur indiqué, jamais une liste écrite à la main. Elle se met à jour à chaque évolution des fiches.",
-    "en": "Compiled from our verified fact sheets: this page's contents are exactly the output of the stated selector, never a hand-written list. It updates whenever a sheet changes."
-   },
    "selector": {
     "categories": [
-     "telecabine",
-     "remontee-mecanique"
+     "point-de-vue"
     ]
    },
+   "sub": {
+    "en": "savoie-mountain-passes",
+    "fr": "cols-de-savoie"
+   },
+   "title": {
+    "en": "The great passes of Savoie: altitudes, openings, access",
+    "fr": "Les grands cols de Savoie : altitudes, ouvertures, accès"
+   }
+  },
+  {
+   "criteria_note": {
+    "en": "Compiled from our verified fact sheets: this page's contents are exactly the output of the stated selector, never a hand-written list. It updates whenever a sheet changes.",
+    "fr": "Sélection compilée depuis nos fiches vérifiées : le contenu de cette page est l'exacte sortie du sélecteur indiqué, jamais une liste écrite à la main. Elle se met à jour à chaque évolution des fiches."
+   },
+   "id": "remontees-savoie",
+   "lead": {
+    "en": "Savoie's high-altitude lifts, with the weekly closing days and midday breaks that resort pages rarely mention.",
+    "fr": "Les appareils d'altitude de Savoie, avec les jours de fermeture hebdomadaire et les coupures de midi que les pages de station mentionnent rarement."
+   },
+   "max_items": 20,
    "ranking": [
     "has_real_photo",
     "facet_richness"
    ],
-   "max_items": 20
-  },
-  {
-   "id": "trois-vallees-altitude",
+   "selector": {
+    "categories": [
+     "telecabine"
+    ]
+   },
    "sub": {
-    "fr": "les-3-vallees-en-altitude",
-    "en": "trois-vallees-high-points"
+    "en": "savoie-cable-cars",
+    "fr": "remontees-mecaniques-savoie"
    },
    "title": {
-    "fr": "Les 3 Vallées en altitude : les points hauts accessibles",
-    "en": "Les Trois Vallées up high: the reachable high points"
-   },
-   "lead": {
-    "fr": "Saulire, Mont Vallon, Pointe de la Masse, Cime Caron : les sommets des 3 Vallées que l'on atteint sans marcher, et les jours où les appareils ne tournent pas.",
-    "en": "Saulire, Mont Vallon, Pointe de la Masse, Cime Caron: the Trois Vallées summits you can reach without walking, and the days the lifts do not run."
-   },
+    "en": "Savoie cable cars and gondolas: verified hours and prices",
+    "fr": "Téléphériques et télécabines de Savoie : horaires et tarifs vérifiés"
+   }
+  },
+  {
    "criteria_note": {
-    "fr": "Sélection compilée depuis nos fiches vérifiées : le contenu de cette page est l'exacte sortie du sélecteur indiqué, jamais une liste écrite à la main. Elle se met à jour à chaque évolution des fiches.",
-    "en": "Compiled from our verified fact sheets: this page's contents are exactly the output of the stated selector, never a hand-written list. It updates whenever a sheet changes."
+    "en": "Compiled from our verified fact sheets: this page's contents are exactly the output of the stated selector, never a hand-written list. It updates whenever a sheet changes.",
+    "fr": "Sélection compilée depuis nos fiches vérifiées : le contenu de cette page est l'exacte sortie du sélecteur indiqué, jamais une liste écrite à la main. Elle se met à jour à chaque évolution des fiches."
    },
+   "id": "trois-vallees-altitude",
+   "lead": {
+    "en": "Saulire, Mont Vallon, Pointe de la Masse, Cime Caron: the Trois Vallées summits you can reach without walking, and the days the lifts do not run.",
+    "fr": "Saulire, Mont Vallon, Pointe de la Masse, Cime Caron : les sommets des 3 Vallées que l'on atteint sans marcher, et les jours où les appareils ne tournent pas."
+   },
+   "max_items": 20,
+   "ranking": [
+    "has_real_photo",
+    "facet_richness"
+   ],
    "selector": {
     "communes_set": "TROIS_VALLEES"
    },
-   "ranking": [
-    "has_real_photo",
-    "facet_richness"
-   ],
-   "max_items": 20
-  },
-  {
-   "id": "cols-maurienne-velo",
    "sub": {
-    "fr": "cols-de-maurienne-a-velo",
-    "en": "maurienne-cycling-passes"
+    "en": "trois-vallees-high-points",
+    "fr": "les-3-vallees-en-altitude"
    },
    "title": {
-    "fr": "Les cols de Maurienne à vélo : profils et ouvertures",
-    "en": "The Maurienne cycling passes: profiles and openings"
-   },
-   "lead": {
-    "fr": "Galibier, Télégraphe, Croix de Fer, Glandon, Mollard, Chaussy : la vallée la plus dense en cols de France, avec les écarts de chiffres entre sources plutôt qu'une moyenne inventée.",
-    "en": "Galibier, Télégraphe, Croix de Fer, Glandon, Mollard, Chaussy: the densest pass valley in France, with the gaps between sources shown rather than an invented average."
-   },
+    "en": "Les Trois Vallées up high: the reachable high points",
+    "fr": "Les 3 Vallées en altitude : les points hauts accessibles"
+   }
+  },
+  {
    "criteria_note": {
-    "fr": "Sélection compilée depuis nos fiches vérifiées : le contenu de cette page est l'exacte sortie du sélecteur indiqué, jamais une liste écrite à la main. Elle se met à jour à chaque évolution des fiches.",
-    "en": "Compiled from our verified fact sheets: this page's contents are exactly the output of the stated selector, never a hand-written list. It updates whenever a sheet changes."
+    "en": "Compiled from our verified fact sheets: this page's contents are exactly the output of the stated selector, never a hand-written list. It updates whenever a sheet changes.",
+    "fr": "Sélection compilée depuis nos fiches vérifiées : le contenu de cette page est l'exacte sortie du sélecteur indiqué, jamais une liste écrite à la main. Elle se met à jour à chaque évolution des fiches."
    },
-   "selector": {
-    "communes_set": "MAURIENNE",
-    "categories": [
-     "point-de-vue"
-    ]
+   "id": "cols-maurienne-velo",
+   "lead": {
+    "en": "Galibier, Télégraphe, Croix de Fer, Glandon, Mollard, Chaussy: the densest pass valley in France, with the gaps between sources shown rather than an invented average.",
+    "fr": "Galibier, Télégraphe, Croix de Fer, Glandon, Mollard, Chaussy : la vallée la plus dense en cols de France, avec les écarts de chiffres entre sources plutôt qu'une moyenne inventée."
    },
+   "max_items": 20,
    "ranking": [
     "is_free",
     "has_real_photo"
    ],
-   "max_items": 20
-  },
-  {
-   "id": "tarentaise-altitude",
+   "selector": {
+    "categories": [
+     "point-de-vue"
+    ],
+    "communes_set": "MAURIENNE"
+   },
    "sub": {
-    "fr": "tarentaise-en-altitude",
-    "en": "tarentaise-high-lifts"
+    "en": "maurienne-cycling-passes",
+    "fr": "cols-de-maurienne-a-velo"
    },
    "title": {
-    "fr": "La Tarentaise en altitude : glaciers, funiculaire et téléphériques",
-    "en": "The Tarentaise up high: glaciers, funicular and cable cars"
-   },
-   "lead": {
-    "fr": "De la Grande Motte au glacier de Bellecôte, les appareils qui montent le plus haut de Savoie — et les cinq dates de fin de saison qui circulent pour un même site.",
-    "en": "From the Grande Motte to the Bellecôte glacier, the lifts that climb highest in Savoie — and the five end-of-season dates circulating for a single site."
-   },
+    "en": "The Maurienne cycling passes: profiles and openings",
+    "fr": "Les cols de Maurienne à vélo : profils et ouvertures"
+   }
+  },
+  {
    "criteria_note": {
-    "fr": "Sélection compilée depuis nos fiches vérifiées : le contenu de cette page est l'exacte sortie du sélecteur indiqué, jamais une liste écrite à la main. Elle se met à jour à chaque évolution des fiches.",
-    "en": "Compiled from our verified fact sheets: this page's contents are exactly the output of the stated selector, never a hand-written list. It updates whenever a sheet changes."
+    "en": "Compiled from our verified fact sheets: this page's contents are exactly the output of the stated selector, never a hand-written list. It updates whenever a sheet changes.",
+    "fr": "Sélection compilée depuis nos fiches vérifiées : le contenu de cette page est l'exacte sortie du sélecteur indiqué, jamais une liste écrite à la main. Elle se met à jour à chaque évolution des fiches."
    },
-   "selector": {
-    "communes_set": "TARENTAISE",
-    "categories": [
-     "telecabine",
-     "remontee-mecanique"
-    ]
+   "id": "tarentaise-altitude",
+   "lead": {
+    "en": "From the Grande Motte to the Bellecôte glacier, the lifts that climb highest in Savoie — and the five end-of-season dates circulating for a single site.",
+    "fr": "De la Grande Motte au glacier de Bellecôte, les appareils qui montent le plus haut de Savoie — et les cinq dates de fin de saison qui circulent pour un même site."
    },
+   "max_items": 20,
    "ranking": [
     "has_real_photo",
     "facet_richness"
    ],
-   "max_items": 20
-  },
-  {
-   "id": "beaufortain-cols",
+   "selector": {
+    "categories": [
+     "telecabine"
+    ],
+    "communes_set": "TARENTAISE"
+   },
    "sub": {
-    "fr": "cols-du-beaufortain",
-    "en": "beaufortain-passes"
+    "en": "tarentaise-high-lifts",
+    "fr": "tarentaise-en-altitude"
    },
    "title": {
-    "fr": "Les cormets du Beaufortain : Roselend et Arêches",
-    "en": "The cormets of the Beaufortain: Roselend and Arêches"
-   },
-   "lead": {
-    "fr": "Deux cols savoyards que l'on appelle cormets, dont l'un n'est pas goudronné jusqu'au sommet. La différence compte avant de s'y engager.",
-    "en": "Two Savoyard passes called cormets, one of which is not surfaced to the top. The difference matters before you set off."
-   },
+    "en": "The Tarentaise up high: glaciers, funicular and cable cars",
+    "fr": "La Tarentaise en altitude : glaciers, funiculaire et téléphériques"
+   }
+  },
+  {
    "criteria_note": {
-    "fr": "Sélection compilée depuis nos fiches vérifiées : le contenu de cette page est l'exacte sortie du sélecteur indiqué, jamais une liste écrite à la main. Elle se met à jour à chaque évolution des fiches.",
-    "en": "Compiled from our verified fact sheets: this page's contents are exactly the output of the stated selector, never a hand-written list. It updates whenever a sheet changes."
+    "en": "Compiled from our verified fact sheets: this page's contents are exactly the output of the stated selector, never a hand-written list. It updates whenever a sheet changes.",
+    "fr": "Sélection compilée depuis nos fiches vérifiées : le contenu de cette page est l'exacte sortie du sélecteur indiqué, jamais une liste écrite à la main. Elle se met à jour à chaque évolution des fiches."
    },
+   "id": "beaufortain-cols",
+   "lead": {
+    "en": "Two Savoyard passes called cormets, one of which is not surfaced to the top. The difference matters before you set off.",
+    "fr": "Deux cols savoyards que l'on appelle cormets, dont l'un n'est pas goudronné jusqu'au sommet. La différence compte avant de s'y engager."
+   },
+   "max_items": 20,
+   "ranking": [
+    "is_free",
+    "has_real_photo"
+   ],
    "selector": {
     "communes_set": "BEAUFORTAIN"
    },
-   "ranking": [
-    "is_free",
-    "has_real_photo"
-   ],
-   "max_items": 20
+   "sub": {
+    "en": "beaufortain-passes",
+    "fr": "cols-du-beaufortain"
+   },
+   "title": {
+    "en": "The cormets of the Beaufortain: Roselend and Arêches",
+    "fr": "Les cormets du Beaufortain : Roselend et Arêches"
+   }
   }
  ]
 }

@@ -10,7 +10,7 @@
     "status": null,
     "tourisme_handicap": null
   },
-  "category": "remontee-mecanique",
+  "category": "telecabine",
   "commune": "Orelle",
   "date_modified_human": "8 août 2026",
   "date_published_human": "8 août 2026",
@@ -200,9 +200,13 @@
         "commune": "Orelle",
         "dogs": null,
         "parking": null,
+        "snow_view": "mont_blanc",
         "stroller": null,
         "type": "Télécabine en deux tronçons",
-        "winter_access": "open"
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin"
+        ]
       },
       "faq": [
         {
@@ -364,7 +368,8 @@
     {
       "name": "Remontées-mécaniques.net — TCD10 d'Orelle (Doppelmayr)",
       "url": "https://www.remontees-mecaniques.net/bdd/reportage-tcd10-d-orelle-doppelmayr-8285.html"
-    }
+    },
+    "https://www.les3vallees.com/en/experiences/cime-caron-destination"
   ],
   "sparse_data": false,
   "status": "published",

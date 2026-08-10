@@ -20,9 +20,14 @@ LANGS = ("fr", "en", "de", "it", "es", "nl")
 E = lambda s: html.escape(str(s or ""), quote=True)
 _SIS = getattr(S, "SISTER", None) or {"name": S.SITE_NAME, "url": S.BASE_URL, "dept": S.DEPT_NAME}
 
+# One bucket for the lifts. The old split ("Téléphériques" vs "Télécabines et
+# funiculaires") was an invented category the engine's vocabularies had never
+# heard of — WINTER_NODES, CATEGORY_LABEL_FR and the commune labels all knew
+# `telecabine` only, so 10 of the 15 lifts silently rendered no winter block at
+# all. The split didn't even track the names: the Téléphérique de l'Olympique
+# sat in one bucket and the Téléphérique de la Saulire in the other.
 SECTIONS = [("point-de-vue", {"fr": "Cols et points de vue", "en": "Passes and viewpoints"}),
-            ("telecabine", {"fr": "Téléphériques", "en": "Cable cars"}),
-            ("remontee-mecanique", {"fr": "Télécabines et funiculaires", "en": "Gondolas and funiculars"})]
+            ("telecabine", {"fr": "Remontées mécaniques", "en": "Cable cars and lifts"})]
 UI = {
  "tagline": {"fr": "La Savoie, lieu par lieu.", "en": "Savoie, place by place."},
  "lede": {"fr": "Un guide indépendant des lieux de loisirs en Savoie. Chaque fait est vérifié auprès d'une "

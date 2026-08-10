@@ -1,0 +1,28 @@
+{
+  "name": "Grande cascade de la Doria",
+  "commune": "Saint-Jean-d'Arvey",
+  "gps": null,
+  "type": "cascade",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": "Parking de Chaffardon, route de Lovettaz",
+  "transport": null,
+  "season": "1er mai – 31 octobre",
+  "winter": {
+    "access": "closed",
+    "infrastructure": [],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": "https://savoie-route.fr"
+  },
+  "official_url": "https://rando.parcdesbauges.com/trek/44527-La-grande-cascade",
+  "last_verified": null
+}

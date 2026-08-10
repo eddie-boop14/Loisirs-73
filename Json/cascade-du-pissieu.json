@@ -1,0 +1,212 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-10",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "cascade",
+  "commune": "Le Châtelard",
+  "date_modified_human": "10 août 2026",
+  "date_published_human": "10 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-10",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-cascade.jpg",
+  "i18n": {
+    "en": {
+      "activities": [
+        {
+          "description": "Official Parc des Bauges route, very easy, from Attilly or the Châtelard lake. The lake section is accessible to all.",
+          "tag": "7.5 km · ≈2h",
+          "title": "Cascade du Pissieu loop"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Cascade du Pissieu</strong> is a tufière: a spring where calcite precipitates, mixing mineral and plant. The Parc naturel régional des Bauges, which publishes the route, notes that its flow never stops — the spring is linked to the <strong>Tanne du Cochon</strong> cave system, one of Savoie's deepest chasms at 825 m.</p><p>The Parc's official loop is <strong>7.5 km, about 2 hours</strong>, rated very easy, from the Nant d'Aillon car park at Attilly or from the Châtelard lake. One administrative wrinkle we leave as found: the Parc files the route under Aillon-le-Vieux, while IGN places the waterfall in Le Châtelard — and spells it 'Pissieux'. The flow can be impressive at snowmelt or after a storm.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free",
+        "best_season": "Strongest flow at snowmelt and after storms",
+        "commune": "Le Châtelard",
+        "dogs": null,
+        "parking": "Nant d'Aillon car park (Attilly) or the Châtelard lake",
+        "stroller": "The lake section is accessible to all (Parc); the waterfall path is not",
+        "type": "Tufa waterfall"
+      },
+      "faq": [
+        {
+          "a": "No: the Parc des Bauges' official loop is 7.5 km, about 2 hours, rated 'very easy', from the Nant d'Aillon car park at Attilly or from the Châtelard lake.",
+          "q": "Is the walk difficult?"
+        },
+        {
+          "a": "Because it is fed by a spring linked to the Tanne du Cochon karst system, one of Savoie's deepest chasms (825 m). The Parc states the flow never stops.",
+          "q": "Why does the waterfall never dry up?"
+        },
+        {
+          "a": "A spring where calcite precipitates into tufa: the waterfall builds its own rock, between mineral and plant.",
+          "q": "What is a tufière?"
+        },
+        {
+          "a": "The Parc's sheet files the route under Aillon-le-Vieux; IGN places the fall in Le Châtelard (and spells it 'Pissieux'). The sources contradict each other — we flag it rather than decide.",
+          "q": "Which commune is the waterfall in?"
+        }
+      ],
+      "hero": {
+        "badge": "7.5 km loop · Free",
+        "lead": "A spring that never stops feeds this tufa waterfall of the Bauges, linked to the Tanne du Cochon — 825 metres of underground depth."
+      },
+      "hero_alt": "Cascade du Pissieu in the Bauges massif, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D912 into the heart of the Bauges; Nant d'Aillon car park at Attilly, or the Châtelard lake.",
+        "public_transport": null
+      },
+      "meta_description": "A tufa-forming waterfall in the Bauges fed by the Tanne du Cochon, one of Savoie's deepest chasms (825 m). Very easy 7.5 km loop, about 2h, free.",
+      "meta_title": "Cascade du Pissieu (Bauges) · Very easy 7.5 km loop",
+      "name": "Cascade du Pissieu",
+      "name_alternates": [
+        "Cascade du Pissieux"
+      ],
+      "practical_info": [
+        {
+          "k": "Start",
+          "v": "Nant d'Aillon car park, Attilly — or the Châtelard lake"
+        },
+        {
+          "k": "Loop",
+          "v": "7.5 km · ≈2h · very easy (Parc des Bauges)"
+        },
+        {
+          "k": "Accessibility",
+          "v": "The lake section is accessible to all; the waterfall path is not"
+        },
+        {
+          "k": "Flow",
+          "v": "Impressive at snowmelt or after a storm (Parc)"
+        }
+      ],
+      "schema_amenities": [
+        "Waymarked trail",
+        "Accessible lake section"
+      ],
+      "when_to_visit": "<p>The Parc notes an impressive flow at snowmelt and after storms — the best moments to see the tufière in full water.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Itinéraire officiel du Parc des Bauges, très facile, depuis Attilly ou le plan d'eau du Châtelard. La portion autour du plan d'eau est accessible à tous.",
+          "tag": "7,5 km · ≈2h",
+          "title": "Boucle de la cascade du Pissieu"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>cascade du Pissieu</strong> est une tufière : une source où la calcite précipite, mêlant le minéral et le végétal. Le Parc naturel régional des Bauges, qui publie l'itinéraire, précise que son débit ne s'arrête jamais — l'exsurgence est reliée au réseau de la <strong>Tanne du Cochon</strong>, l'un des gouffres les plus profonds de Savoie avec 825 m de dénivelé.</p><p>La boucle officielle du Parc fait <strong>7,5 km, environ 2 heures</strong>, classée très facile, au départ du parking du Nant d'Aillon à Attilly ou du plan d'eau du Châtelard. Petite subtilité administrative que nous laissons telle quelle : la fiche du Parc classe l'itinéraire sous Aillon-le-Vieux, tandis que l'IGN place la cascade au Châtelard — et l'orthographie « Pissieux ». Le débit peut être impressionnant à la fonte des neiges ou après un orage.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuit",
+        "best_season": "Débit maximal à la fonte et après orage",
+        "commune": "Le Châtelard",
+        "dogs": null,
+        "parking": "Parking du Nant d'Aillon (Attilly) ou plan d'eau du Châtelard",
+        "stroller": "Portion du plan d'eau accessible à tous (Parc) ; pas le sentier de la cascade",
+        "type": "Cascade-tufière"
+      },
+      "faq": [
+        {
+          "a": "Non : la boucle officielle du Parc des Bauges fait 7,5 km pour environ 2 heures et est classée « très facile », depuis le parking du Nant d'Aillon à Attilly ou depuis le plan d'eau du Châtelard.",
+          "q": "La balade est-elle difficile ?"
+        },
+        {
+          "a": "Parce qu'elle est alimentée par une exsurgence liée au réseau karstique de la Tanne du Cochon, l'un des gouffres les plus profonds de Savoie (825 m de dénivelé). Le Parc précise que le débit ne s'arrête jamais.",
+          "q": "Pourquoi la cascade ne s'assèche-t-elle jamais ?"
+        },
+        {
+          "a": "Une source où la calcite précipite en formant du tuf : la cascade construit sa propre roche, entre minéral et végétal.",
+          "q": "Qu'est-ce qu'une tufière ?"
+        },
+        {
+          "a": "La fiche du Parc classe l'itinéraire sous Aillon-le-Vieux ; l'IGN place la cascade au Châtelard (et l'écrit « Pissieux »). Les deux sources se contredisent — nous le signalons plutôt que de trancher.",
+          "q": "Sur quelle commune est la cascade ?"
+        }
+      ],
+      "hero": {
+        "badge": "Boucle 7,5 km · Gratuit",
+        "lead": "Une exsurgence qui ne s'arrête jamais alimente cette cascade-tufière des Bauges, reliée à la Tanne du Cochon — 825 mètres de dénivelé souterrain."
+      },
+      "hero_alt": "Cascade du Pissieu dans le massif des Bauges, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D912 dans le cœur des Bauges ; parking du Nant d'Aillon à Attilly, ou plan d'eau du Châtelard.",
+        "public_transport": null
+      },
+      "meta_description": "Cascade-tufière des Bauges alimentée par la Tanne du Cochon, l'un des gouffres les plus profonds de Savoie (825 m). Boucle très facile de 7,5 km, environ 2h, gratuite.",
+      "meta_title": "Cascade du Pissieu (Bauges) · Boucle 7,5 km très facile",
+      "name": "Cascade du Pissieu",
+      "name_alternates": [
+        "Cascade du Pissieux"
+      ],
+      "practical_info": [
+        {
+          "k": "Départ",
+          "v": "Parking du Nant d'Aillon, Attilly — ou plan d'eau du Châtelard"
+        },
+        {
+          "k": "Boucle",
+          "v": "7,5 km · ≈2h · très facile (Parc des Bauges)"
+        },
+        {
+          "k": "Accessibilité",
+          "v": "La portion autour du plan d'eau est accessible à tous ; pas le sentier de la cascade"
+        },
+        {
+          "k": "Débit",
+          "v": "Impressionnant à la fonte des neiges ou après un orage (Parc)"
+        }
+      ],
+      "schema_amenities": [
+        "Sentier balisé",
+        "Plan d'eau accessible"
+      ],
+      "when_to_visit": "<p>Le Parc signale un débit impressionnant à la fonte des neiges et après les orages — les meilleures périodes pour voir la tufière en eau.</p>"
+    }
+  },
+  "latitude": 45.677406,
+  "longitude": 6.103709,
+  "official_site_url": "https://rando.parcdesbauges.com/trek/9605-Cascade-du-Pissieu",
+  "partners": [],
+  "postal_code": "73630",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-10. Parc naturel régional des Bauges walk sheet. Contradiction kept: the walk sheet files the route under Aillon-le-Vieux while IGN places the POI in Le Châtelard; IGN also spells 'Pissieux'. Coordinates from IGN POI (name matches).",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "cascade-du-pissieu",
+  "sources": [
+    "https://rando.parcdesbauges.com/trek/9605-Cascade-du-Pissieu",
+    "https://data.geopf.fr/geocodage/search?q=cascade+du+pissieu+le+chatelard&index=poi&limit=2"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "ACCES_PMR_UNVERIFIED — no official accessibility source found for this site. Status stays null rather than being inferred from the terrain."
+  ]
+}

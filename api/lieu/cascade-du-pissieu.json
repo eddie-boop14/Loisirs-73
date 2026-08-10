@@ -1,0 +1,31 @@
+{
+  "name": "Cascade du Pissieu",
+  "commune": "Le Châtelard",
+  "gps": {
+    "lat": 45.677406,
+    "lng": 6.103709
+  },
+  "type": "cascade",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": "Parking du Nant d'Aillon (Attilly) ou plan d'eau du Châtelard",
+  "transport": null,
+  "season": "Débit maximal à la fonte et après orage",
+  "winter": {
+    "access": null,
+    "infrastructure": [],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
+  "official_url": "https://rando.parcdesbauges.com/trek/9605-Cascade-du-Pissieu",
+  "last_verified": null
+}

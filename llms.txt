@@ -1,8 +1,8 @@
 # Loisirs 73
 
-> Independent guide to public leisure sites in Savoie, France. Mountain passes and viewpoints, Cable cars and lifts — every fact verified against official sources (communes, tourism offices, ONF).
+> Independent guide to public leisure sites in Savoie, France. Waterfalls, Mountain passes and viewpoints, Cable cars and lifts — every fact verified against official sources (communes, tourism offices, ONF).
 
-Loisirs 73 catalogs 30 leisure destinations in the Savoie department (73), French Alps. Each destination exposes three machine surfaces (below) plus HTML pages in 6 languages (French canonical).
+Loisirs 73 catalogs 37 leisure destinations in the Savoie department (73), French Alps. Each destination exposes three machine surfaces (below) plus HTML pages in 6 languages (French canonical).
 
 ## URL patterns (per lieu — fastest lane for agents)
 
@@ -33,7 +33,7 @@ Content quality signals: Every fact has a cited source. No marketing language. I
 
 ## Discovery files
 
-- [llms-full.txt — full content concatenated](https://loisirs73.fr/llms-full.txt): All 30 leisure sites' FR facet md — single file for full ingestion.
+- [llms-full.txt — full content concatenated](https://loisirs73.fr/llms-full.txt): All 37 leisure sites' FR facet md — single file for full ingestion.
 - [API — lieux index JSON](https://loisirs73.fr/api/lieux.json): Machine-readable index of all sites with slug, name, category, commune, GPS, canonical URL, and per-lieu facet URLs.
 - [Sitemap index](https://loisirs73.fr/sitemap.xml): Standard XML sitemap with lastmod, hreflang, image entries.
 - [.well-known/ai-info.json](https://loisirs73.fr/.well-known/ai-info.json): Discovery manifest with all AI-related endpoints.
@@ -53,10 +53,21 @@ Use these when the question spans many sites (e.g. "which waterfalls have parkin
 
 ## Category hubs (use these for browsing by type)
 
+- [Cascades](https://loisirs73.fr/content/cascades.md): 7 lieux.
 - [Points de vue](https://loisirs73.fr/content/points-de-vue.md): 15 lieux.
 - [Téléphériques & télécabines](https://loisirs73.fr/content/telecabines.md): 15 lieux.
 
-## All lieux by category (30 total)
+## All lieux by category (37 total)
+
+### Cascades (7 lieux)
+
+- [Cascade de la Fraîche (Pralognan-la-Vanoise)](https://loisirs73.fr/content/cascade-de-la-fraiche.md): Boucle facile d'1h30 depuis la place du Barioz à Pralognan-la-Vanoise vers la cascade de la Fraîche. Gratuit, chiens acceptés, ouvert du 15 mai au 30…
+- [Cascade de Saint-Benoît (Avrieux)](https://loisirs73.fr/content/cascade-de-saint-benoit.md): Chute de 90 m sur la route touristique des forts de l'Esseillon, près de la chapelle Saint-Benoît. Gratuit ; route fermée l'hiver, sens unique…
+- [Cascade du Morel (Grand-Aigueblanche)](https://loisirs73.fr/content/cascade-du-morel.md): Chute de près de 80 m née d'un tunnel de dérivation creusé dès 1902, sur un sentier qui longe plus de 50 cascades du Morel. Gratuit, de juin à…
+- [Cascade du Pissieu (Le Châtelard)](https://loisirs73.fr/content/cascade-du-pissieu.md): Cascade-tufière des Bauges alimentée par la Tanne du Cochon, l'un des gouffres les plus profonds de Savoie (825 m). Boucle très facile de 7,5 km,…
+- [Cirque de Saint-Même (Saint-Pierre-d'Entremont)](https://loisirs73.fr/content/cirque-de-saint-meme.md): Quatre cascades du Guiers Vif au fond d'un cirque de Chartreuse. Parking payant en saison (5 € voiture), accès libre le reste de l'année. Boucles de…
+- [Gorges du Sierroz et cascade de Grésy (Grésy-sur-Aix)](https://loisirs73.fr/content/gorges-du-sierroz-cascade-de-gresy.md): Canyon réhabilité rouvert en 2021 : passerelles en encorbellement jusqu'à la cascade de Grésy et sa stèle de la reine Hortense (1813). Gratuit, toute…
+- [Grande cascade de la Doria (Saint-Jean-d'Arvey)](https://loisirs73.fr/content/grande-cascade-de-la-doria.md): Chute de 60 m au-dessus de Chambéry : boucle d'1h depuis le parking de Chaffardon, avec passage en corniche et passage câblé. Gratuit, du 1er mai au…
 
 ### Points de vue (15 lieux)
 

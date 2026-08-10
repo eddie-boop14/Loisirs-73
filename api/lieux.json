@@ -1,6 +1,111 @@
 {
-  "count": 30,
+  "count": 37,
   "lieux": [
+    {
+      "slug": "cascade-de-la-fraiche",
+      "name": "Cascade de la Fraîche",
+      "category": "cascade",
+      "commune": "Pralognan-la-Vanoise",
+      "postal_code": "73710",
+      "latitude": 45.379288,
+      "longitude": 6.727848,
+      "urls": {
+        "fr": "https://loisirs73.fr/cascade-de-la-fraiche",
+        "en": "https://loisirs73.fr/en/cascade-de-la-fraiche",
+        "de": "https://loisirs73.fr/de/cascade-de-la-fraiche",
+        "it": "https://loisirs73.fr/it/cascade-de-la-fraiche",
+        "es": "https://loisirs73.fr/es/cascade-de-la-fraiche",
+        "nl": "https://loisirs73.fr/nl/cascade-de-la-fraiche"
+      },
+      "facet_md": "https://loisirs73.fr/content/cascade-de-la-fraiche.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/cascade-de-la-fraiche.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/cascade-de-la-fraiche.json",
+      "photo": "/img/generique/generique-cascade.jpg"
+    },
+    {
+      "slug": "cascade-de-saint-benoit",
+      "name": "Cascade de Saint-Benoît",
+      "category": "cascade",
+      "commune": "Avrieux",
+      "postal_code": "73500",
+      "latitude": null,
+      "longitude": null,
+      "urls": {
+        "fr": "https://loisirs73.fr/cascade-de-saint-benoit",
+        "en": "https://loisirs73.fr/en/cascade-de-saint-benoit",
+        "de": "https://loisirs73.fr/de/cascade-de-saint-benoit",
+        "it": "https://loisirs73.fr/it/cascade-de-saint-benoit",
+        "es": "https://loisirs73.fr/es/cascade-de-saint-benoit",
+        "nl": "https://loisirs73.fr/nl/cascade-de-saint-benoit"
+      },
+      "facet_md": "https://loisirs73.fr/content/cascade-de-saint-benoit.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/cascade-de-saint-benoit.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/cascade-de-saint-benoit.json",
+      "photo": "/img/generique/generique-cascade.jpg"
+    },
+    {
+      "slug": "cascade-du-morel",
+      "name": "Cascade du Morel",
+      "category": "cascade",
+      "commune": "Grand-Aigueblanche",
+      "postal_code": "73260",
+      "latitude": null,
+      "longitude": null,
+      "urls": {
+        "fr": "https://loisirs73.fr/cascade-du-morel",
+        "en": "https://loisirs73.fr/en/cascade-du-morel",
+        "de": "https://loisirs73.fr/de/cascade-du-morel",
+        "it": "https://loisirs73.fr/it/cascade-du-morel",
+        "es": "https://loisirs73.fr/es/cascade-du-morel",
+        "nl": "https://loisirs73.fr/nl/cascade-du-morel"
+      },
+      "facet_md": "https://loisirs73.fr/content/cascade-du-morel.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/cascade-du-morel.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/cascade-du-morel.json",
+      "photo": "/img/generique/generique-cascade.jpg"
+    },
+    {
+      "slug": "cascade-du-pissieu",
+      "name": "Cascade du Pissieu",
+      "category": "cascade",
+      "commune": "Le Châtelard",
+      "postal_code": "73630",
+      "latitude": 45.677406,
+      "longitude": 6.103709,
+      "urls": {
+        "fr": "https://loisirs73.fr/cascade-du-pissieu",
+        "en": "https://loisirs73.fr/en/cascade-du-pissieu",
+        "de": "https://loisirs73.fr/de/cascade-du-pissieu",
+        "it": "https://loisirs73.fr/it/cascade-du-pissieu",
+        "es": "https://loisirs73.fr/es/cascade-du-pissieu",
+        "nl": "https://loisirs73.fr/nl/cascade-du-pissieu"
+      },
+      "facet_md": "https://loisirs73.fr/content/cascade-du-pissieu.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/cascade-du-pissieu.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/cascade-du-pissieu.json",
+      "photo": "/img/generique/generique-cascade.jpg"
+    },
+    {
+      "slug": "cirque-de-saint-meme",
+      "name": "Cirque de Saint-Même",
+      "category": "cascade",
+      "commune": "Saint-Pierre-d'Entremont",
+      "postal_code": "73670",
+      "latitude": 45.392787,
+      "longitude": 5.891337,
+      "urls": {
+        "fr": "https://loisirs73.fr/cirque-de-saint-meme",
+        "en": "https://loisirs73.fr/en/cirque-de-saint-meme",
+        "de": "https://loisirs73.fr/de/cirque-de-saint-meme",
+        "it": "https://loisirs73.fr/it/cirque-de-saint-meme",
+        "es": "https://loisirs73.fr/es/cirque-de-saint-meme",
+        "nl": "https://loisirs73.fr/nl/cirque-de-saint-meme"
+      },
+      "facet_md": "https://loisirs73.fr/content/cirque-de-saint-meme.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/cirque-de-saint-meme.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/cirque-de-saint-meme.json",
+      "photo": "/img/generique/generique-cascade.jpg"
+    },
     {
       "slug": "col-de-l-iseran",
       "name": "Col de l'Iseran",
@@ -315,6 +420,48 @@
       "facet_md_en": "https://loisirs73.fr/content/en/funiculaire-de-la-grande-motte.md",
       "facet_json": "https://loisirs73.fr/api/lieu/funiculaire-de-la-grande-motte.json",
       "photo": "/img/telecabines/funiculaire-de-la-grande-motte-hero.jpg"
+    },
+    {
+      "slug": "gorges-du-sierroz-cascade-de-gresy",
+      "name": "Gorges du Sierroz et cascade de Grésy",
+      "category": "cascade",
+      "commune": "Grésy-sur-Aix",
+      "postal_code": "73100",
+      "latitude": 45.719531,
+      "longitude": 5.920589,
+      "urls": {
+        "fr": "https://loisirs73.fr/gorges-du-sierroz-cascade-de-gresy",
+        "en": "https://loisirs73.fr/en/gorges-du-sierroz-cascade-de-gresy",
+        "de": "https://loisirs73.fr/de/gorges-du-sierroz-cascade-de-gresy",
+        "it": "https://loisirs73.fr/it/gorges-du-sierroz-cascade-de-gresy",
+        "es": "https://loisirs73.fr/es/gorges-du-sierroz-cascade-de-gresy",
+        "nl": "https://loisirs73.fr/nl/gorges-du-sierroz-cascade-de-gresy"
+      },
+      "facet_md": "https://loisirs73.fr/content/gorges-du-sierroz-cascade-de-gresy.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/gorges-du-sierroz-cascade-de-gresy.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/gorges-du-sierroz-cascade-de-gresy.json",
+      "photo": "/img/generique/generique-cascade.jpg"
+    },
+    {
+      "slug": "grande-cascade-de-la-doria",
+      "name": "Grande cascade de la Doria",
+      "category": "cascade",
+      "commune": "Saint-Jean-d'Arvey",
+      "postal_code": "73230",
+      "latitude": null,
+      "longitude": null,
+      "urls": {
+        "fr": "https://loisirs73.fr/grande-cascade-de-la-doria",
+        "en": "https://loisirs73.fr/en/grande-cascade-de-la-doria",
+        "de": "https://loisirs73.fr/de/grande-cascade-de-la-doria",
+        "it": "https://loisirs73.fr/it/grande-cascade-de-la-doria",
+        "es": "https://loisirs73.fr/es/grande-cascade-de-la-doria",
+        "nl": "https://loisirs73.fr/nl/grande-cascade-de-la-doria"
+      },
+      "facet_md": "https://loisirs73.fr/content/grande-cascade-de-la-doria.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/grande-cascade-de-la-doria.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/grande-cascade-de-la-doria.json",
+      "photo": "/img/generique/generique-cascade.jpg"
     },
     {
       "slug": "signal-de-bisanne",

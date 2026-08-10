@@ -1,0 +1,38 @@
+{
+  "name": "Gorges du Sierroz et cascade de Grésy",
+  "commune": "Grésy-sur-Aix",
+  "gps": {
+    "lat": 45.719531,
+    "lng": 5.920589
+  },
+  "type": "cascade",
+  "hours": "Toute l'année, tous les jours — accès libre",
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": {
+    "status": "accessible",
+    "detail": "« Accessible en fauteuil roulant en autonomie » selon l'office de tourisme d'Aix-les-Bains Riviera des Alpes.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_url": "https://www.aixlesbains-rivieradesalpes.com/patrimoine-naturel/gorges-du-sierroz-gresy-sur-aix/",
+    "source_name": "Aix-les-Bains Riviera des Alpes"
+  },
+  "parking": "Route des Bauges",
+  "transport": null,
+  "season": "Toute l'année",
+  "winter": {
+    "access": "open",
+    "infrastructure": [],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
+  "official_url": "https://www.gorgesdusierroz.fr/",
+  "last_verified": null
+}

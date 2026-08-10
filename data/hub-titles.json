@@ -24,6 +24,14 @@
    "it": "Cosa fare in {dept} · {site}",
    "es": "Qué hacer en {dept} · {site}",
    "nl": "Wat te doen in {dept} · {site}"
+  },
+  "cascades": {
+   "fr": "Cascades de {dept} · {site}",
+   "en": "Waterfalls of {dept} · {site}",
+   "de": "Wasserfälle · {dept} · {site}",
+   "it": "Cascate della {dept} · {site}",
+   "es": "Cascadas de {dept} · {site}",
+   "nl": "Watervallen · {dept} · {site}"
   }
  }
 }

@@ -1,0 +1,38 @@
+{
+  "name": "Cirque de Saint-Même",
+  "commune": "Saint-Pierre-d'Entremont",
+  "gps": {
+    "lat": 45.392787,
+    "lng": 5.891337
+  },
+  "type": "cascade",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": {
+    "status": "partiel",
+    "detail": "La route est goudronnée depuis le parking jusque dans l'enceinte du Cirque ; places PMR au parking. Accès en fauteuil possible avec accompagnement selon l'office de tourisme.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_url": "https://www.chartreuse-tourisme.com/offres/cirque-de-saint-meme-saint-pierre-dentremont-fr-2715680/",
+    "source_name": "Chartreuse Tourisme"
+  },
+  "parking": "Payant en saison : 5 € voiture, 3 € moto, 15 € autocar (9h–17h)",
+  "transport": null,
+  "season": "Avril – septembre (péage) ; accès libre le reste de l'année",
+  "winter": {
+    "access": "open",
+    "infrastructure": [],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
+  "official_url": "https://www.chartreuse-tourisme.com/offres/cirque-de-saint-meme-saint-pierre-dentremont-fr-2715680/",
+  "last_verified": null
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Cascade de la Fraîche",
+  "commune": "Pralognan-la-Vanoise",
+  "gps": {
+    "lat": 45.379288,
+    "lng": 6.727848
+  },
+  "type": "cascade",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "15 mai – 30 octobre",
+  "winter": {
+    "access": "closed",
+    "infrastructure": [],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": "https://savoie-route.fr"
+  },
+  "official_url": "https://www.pralognan.com/prestataire/cascade-de-la-fraiche-randonnee-pedestre-en-boucle-873965/",
+  "last_verified": null
+}

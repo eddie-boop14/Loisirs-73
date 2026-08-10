@@ -1,12 +1,13 @@
 # Phase 4 — photo assignments (gate artifact)
 
 **Date**: 2026-06-14
-**Total assignments**: 30 (one per (hub × slug) on the FR canonical hub)
+**Total assignments**: 37 (one per (hub × slug) on the FR canonical hub)
 
 ## Per-hub diversity
 
 | hub | fiches | distinct photos | max repeat of one photo |
 |---|---:|---:|---:|
+| `cascades` | 7 | 1 | 7 |
 | `points-de-vue` | 15 | 15 | 1 |
 | `telecabines` | 15 | 15 | 1 |
 
@@ -14,6 +15,13 @@
 
 | hub | slug | type | photo | score | reason |
 |---|---|---|---|---:|---|
+| `cascades` | `cascade-de-la-fraiche` | `nature` | `generique-cascade.jpg` | — | json hero (local) |
+| `cascades` | `cascade-de-saint-benoit` | `nature` | `generique-cascade.jpg` | — | json hero (local) |
+| `cascades` | `cascade-du-morel` | `nature` | `generique-cascade.jpg` | — | json hero (local) |
+| `cascades` | `cascade-du-pissieu` | `nature` | `generique-cascade.jpg` | — | json hero (local) |
+| `cascades` | `cirque-de-saint-meme` | `nature` | `generique-cascade.jpg` | — | json hero (local) |
+| `cascades` | `gorges-du-sierroz-cascade-de-gresy` | `nature` | `generique-cascade.jpg` | — | json hero (local) |
+| `cascades` | `grande-cascade-de-la-doria` | `nature` | `generique-cascade.jpg` | — | json hero (local) |
 | `points-de-vue` | `col-de-l-iseran` | `nature` | `col-de-l-iseran-hero.jpg` | — | json hero (local) |
 | `points-de-vue` | `col-de-la-croix-de-fer` | `nature` | `col-de-la-croix-de-fer-hero.jpg` | — | json hero (local) |
 | `points-de-vue` | `col-de-la-loze` | `nature` | `col-de-la-loze-hero.jpg` | — | json hero (local) |

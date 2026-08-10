@@ -28,7 +28,8 @@ _SIS = getattr(S, "SISTER", None) or {"name": S.SITE_NAME, "url": S.BASE_URL, "d
 # all. The split didn't even track the names: the Téléphérique de l'Olympique
 # sat in one bucket and the Téléphérique de la Saulire in the other.
 SECTIONS = [("point-de-vue", {"fr": "Cols et points de vue", "en": "Passes and viewpoints"}),
-            ("telecabine", {"fr": "Remontées mécaniques", "en": "Cable cars and lifts"})]
+            ("telecabine", {"fr": "Remontées mécaniques", "en": "Cable cars and lifts"}),
+            ("cascade", {"fr": "Cascades et gorges", "en": "Waterfalls and gorges"})]
 UI = {
  "tagline": {"fr": "La Savoie, lieu par lieu.", "en": "Savoie, place by place."},
  "lede": {"fr": "Un guide indépendant des lieux de loisirs en Savoie. Chaque fait est vérifié auprès d'une "
@@ -79,16 +80,18 @@ def build(lang, fiches):
     # link /de/points-de-vue/, a directory that does not exist in any locale but
     # French. Absolute URLs, because that is what the rest of the site emits and
     # what gate_link_integrity's homepage-orphan tripwire looks for.
-    hubmap = {h: _BLP.HUB_LOCALE_SLUGS[h] for h in ("points-de-vue", "telecabines", "que-faire")}
-    hublab = {"points-de-vue": {"fr": "Cols et points de vue", "en": "Passes and viewpoints",
-                                "de": "Pässe und Aussichtspunkte", "it": "Colli e punti panoramici",
-                                "es": "Puertos y miradores", "nl": "Cols en uitzichtpunten"},
-              "telecabines": {"fr": "Téléphériques et télécabines", "en": "Cable cars and gondolas",
-                              "de": "Seilbahnen und Gondeln", "it": "Funivie e cabinovie",
-                              "es": "Teleféricos y telecabinas", "nl": "Kabelbanen en gondels"},
-              "que-faire": {"fr": "Que faire en Savoie", "en": "What to do in Savoie",
-                            "de": "Was unternehmen in Savoie", "it": "Cosa fare in Savoie",
-                            "es": "Qué hacer en Savoie", "nl": "Wat te doen in Savoie"}}
+    # Roster-driven: every hub in data/hub-titles.json appears in the nav, with
+    # the engine's own display names. A hand-kept 3-hub tuple meant every new
+    # category shipped with its hub orphaned from the homepage — cascades did.
+    import build_hubs as _BH
+    hubmap = {h: _BLP.HUB_LOCALE_SLUGS[h] for h in _BH.HUB_DISPLAY
+              if h in _BLP.HUB_LOCALE_SLUGS}
+    hublab = {h: _BH.HUB_DISPLAY[h] for h in hubmap}
+    # que-faire keeps its fuller wording — a nav entry reading just "Que faire"
+    # loses the department, and this one is the site's front door to selections.
+    hublab["que-faire"] = {"fr": "Que faire en Savoie", "en": "What to do in Savoie",
+                           "de": "Was unternehmen in Savoie", "it": "Cosa fare in Savoie",
+                           "es": "Qué hacer en Savoie", "nl": "Wat te doen in Savoie"}
     nav = '<nav class="hubs"><ul>' + "".join(
         f'<li><a href="{E(S.BASE_URL)}/' + ("" if lang == "fr" else f"{lang}/")
         + E(hubmap[h].get(lang) or hubmap[h]["fr"]) + '/">'

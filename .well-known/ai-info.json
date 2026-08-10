@@ -1,6 +1,6 @@
 {
   "name": "Loisirs 73",
-  "description": "Independent guide to public leisure sites in Savoie, France. Mountain passes and viewpoints, cable cars and lifts — all facts verified from official sources.",
+  "description": "Independent guide to public leisure sites in Savoie, France. cascade, Mountain passes and viewpoints, cable cars and lifts — all facts verified from official sources.",
   "publisher": "bleu-canard éditions",
   "website": "https://loisirs73.fr",
   "contact": "contact@loisirs73.fr",
@@ -95,7 +95,7 @@
   ],
   "canonical_language": "fr",
   "geographic_scope": "Savoie (73), France — ~50 km radius around Chambéry",
-  "content_count": 30,
+  "content_count": 37,
   "specification": {
     "llms_txt_version": "1.7.0",
     "last_validated": "2026-08-10"

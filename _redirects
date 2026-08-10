@@ -1,0 +1,92 @@
+# Netlify redirects — Loisirs 73
+#
+# Every path here is one the site's own footer links. The chrome writes clean
+# URLs (/cgv, /signaler, /de/mentions-legales); the files on disk carry .html
+# and, for the two regulated pages, a phase marker. These rules join the two.
+# gate_link_integrity reads this file, so a footer link with no page and no
+# rule turns the build red rather than shipping a 404.
+#
+# Status 200 = rewrite (the clean URL stays in the address bar).
+# Status 301 = redirect (legacy or alias paths that should collapse).
+
+# --- Regulated pages (French law, published once, in French) ------------------
+# Mentions légales and the privacy policy are the publisher's statements under
+# the LCEN and the RGPD. They exist in French only and every locale points at
+# the same document — translating a legal statement would create a second text
+# that could disagree with the first.
+/mentions-legales           /mentions-legales-loisirs73-phase1.html              200
+/mentions-legales/          /mentions-legales-loisirs73-phase1.html              200
+/en/mentions-legales        /mentions-legales-loisirs73-phase1.html              200
+/de/mentions-legales        /mentions-legales-loisirs73-phase1.html              200
+/it/mentions-legales        /mentions-legales-loisirs73-phase1.html              200
+/es/mentions-legales        /mentions-legales-loisirs73-phase1.html              200
+/nl/mentions-legales        /mentions-legales-loisirs73-phase1.html              200
+
+# The legal pages' own chrome links the document with its filename under the
+# locale prefix. There is only ever one such document, at the root, so those
+# collapse onto it rather than 404.
+/en/mentions-legales-loisirs73-phase1.html  /mentions-legales-loisirs73-phase1.html  301
+/de/mentions-legales-loisirs73-phase1.html  /mentions-legales-loisirs73-phase1.html  301
+/it/mentions-legales-loisirs73-phase1.html  /mentions-legales-loisirs73-phase1.html  301
+/es/mentions-legales-loisirs73-phase1.html  /mentions-legales-loisirs73-phase1.html  301
+/nl/mentions-legales-loisirs73-phase1.html  /mentions-legales-loisirs73-phase1.html  301
+/en/mentions-legales-loisirs73.html         /mentions-legales-loisirs73-phase1.html  301
+/de/mentions-legales-loisirs73.html         /mentions-legales-loisirs73-phase1.html  301
+/it/mentions-legales-loisirs73.html         /mentions-legales-loisirs73-phase1.html  301
+/es/mentions-legales-loisirs73.html         /mentions-legales-loisirs73-phase1.html  301
+/nl/mentions-legales-loisirs73.html         /mentions-legales-loisirs73-phase1.html  301
+/mentions-legales-loisirs73.html            /mentions-legales-loisirs73-phase1.html  301
+
+# --- Privacy policy (localized) ----------------------------------------------
+/confidentialite            /politique-confidentialite-loisirs73-phase1.html     200
+/confidentialite/           /politique-confidentialite-loisirs73-phase1.html     200
+/en/confidentialite         /en/politique-confidentialite-loisirs73-phase1.html  200
+/de/confidentialite         /de/politique-confidentialite-loisirs73-phase1.html  200
+/it/confidentialite         /it/politique-confidentialite-loisirs73-phase1.html  200
+/es/confidentialite         /es/politique-confidentialite-loisirs73-phase1.html  200
+/nl/confidentialite         /nl/politique-confidentialite-loisirs73-phase1.html  200
+
+# --- Terms --------------------------------------------------------------------
+/cgv                        /cgv.html                                            200
+/cgv/                       /cgv.html                                            200
+/conditions-generales       /cgv.html                                            301
+/en/cgv                     /en/cgv.html                                         200
+/de/cgv                     /de/cgv.html                                         200
+/it/cgv                     /it/cgv.html                                         200
+/es/cgv                     /es/cgv.html                                         200
+/nl/cgv                     /nl/cgv.html                                         200
+
+# --- Report a problem ---------------------------------------------------------
+/signaler                   /signaler-info.html                                  200
+/signaler/                  /signaler-info.html                                  200
+/contact                    /signaler                                            301
+/contact.html               /signaler                                            301
+/en/contact.html            /en/signaler                                         301
+/de/contact.html            /de/signaler                                         301
+/it/contact.html            /it/signaler                                         301
+/es/contact.html            /es/signaler                                         301
+/nl/contact.html            /nl/signaler                                         301
+/en/signaler                /en/signaler-info.html                               200
+/de/signaler                /de/signaler-info.html                               200
+/it/signaler                /it/signaler-info.html                               200
+/es/signaler                /es/signaler-info.html                               200
+/nl/signaler                /nl/signaler-info.html                               200
+
+# --- Become a partner ---------------------------------------------------------
+/devenir-partenaire         /devenir-partenaire.html                             200
+/devenir-partenaire/        /devenir-partenaire.html                             200
+/partenaire                 /devenir-partenaire                                  301
+/partenaires                /devenir-partenaire                                  301
+/en/devenir-partenaire      /en/devenir-partenaire.html                          200
+/de/devenir-partenaire      /de/devenir-partenaire.html                          200
+/it/devenir-partenaire      /it/devenir-partenaire.html                          200
+/es/devenir-partenaire      /es/devenir-partenaire.html                          200
+/nl/devenir-partenaire      /nl/devenir-partenaire.html                          200
+
+# --- Partner confirmation -----------------------------------------------------
+/merci-partenaire           /merci-partenaire.html                               200
+/en/merci-partenaire        /en/merci-partenaire.html                            200
+/de/merci-partenaire        /de/merci-partenaire.html                            200
+/it/merci-partenaire        /it/merci-partenaire.html                            200
+/es/merci-partenaire        /es/merci-partenaire.html                            200
+/nl/merci-partenaire        /nl/merci-partenaire.html                            200

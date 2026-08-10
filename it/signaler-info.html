@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Segnala un'informazione — Loisirs 73</title>
+<meta name="robots" content="noindex, follow">
+<meta name="description" content="Segnala un'informazione errata, obsoleta o mancante su Loisirs 73. Grazie per la vostra attenzione.">
+<link rel="canonical" href="https://loisirs73.fr/it/signaler-info">
+<link rel="alternate" hreflang="fr" href="https://loisirs73.fr/signaler-info">
+<link rel="alternate" hreflang="en" href="https://loisirs73.fr/en/signaler-info">
+<link rel="alternate" hreflang="de" href="https://loisirs73.fr/de/signaler-info">
+<link rel="alternate" hreflang="it" href="https://loisirs73.fr/it/signaler-info">
+<link rel="alternate" hreflang="es" href="https://loisirs73.fr/es/signaler-info">
+<meta property="og:locale" content="it_IT">
+<meta property="og:url" content="https://loisirs73.fr/it/signaler-info">
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@400;500;600&family=Inter:wght@400;500;600;700&display=swap');
+:root{--ink:#0d1a0f;--paper:#faf8f3;--cream:#f1ece0;--rule:#e7e1d1;--moss:#2f5740;--moss-pale:#eef3ef;--gold:#b8822f;--gold-pale:#f0dfc0;--text:#2a2f2b;--muted:#6a706b;--r:6px;--r-lg:12px}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Inter',system-ui,sans-serif;background:var(--paper);color:var(--text);min-height:100vh;line-height:1.65}
+.topbar{background:var(--ink);color:#fff;padding:0.75rem 1.5rem;display:flex;justify-content:space-between;align-items:center;font-size:0.85rem}
+.topbar a{color:var(--gold-pale);text-decoration:none;font-weight:600}
+.topbar .brand{display:flex;align-items:center;gap:0.5rem;font-family:'Fraunces',serif;font-size:1rem}
+.hero{background:linear-gradient(135deg,var(--moss) 0%,#1e3a2a 100%);padding:3rem 1.5rem 2.5rem;text-align:center;color:#fff}
+.hero-eyebrow{font-size:0.7rem;font-weight:600;letter-spacing:0.18em;text-transform:uppercase;color:var(--gold-pale);margin-bottom:0.75rem}
+.hero h1{font-family:'Fraunces',serif;font-size:clamp(1.9rem,5vw,2.7rem);font-weight:500;line-height:1.15;margin-bottom:0.6rem;letter-spacing:-0.015em}
+.hero h1 em{font-style:italic;color:var(--gold-pale)}
+.hero p{color:rgba(255,255,255,0.78);font-size:0.95rem;max-width:520px;margin:0 auto;line-height:1.55}
+.wrap{max-width:620px;margin:0 auto;padding:2.5rem 1.5rem 4rem}
+.back{display:inline-flex;align-items:center;gap:0.5rem;font-size:0.83rem;color:var(--muted);text-decoration:none;margin-bottom:2rem}
+.back:hover{color:var(--moss)}
+.card{background:#fff;border-radius:var(--r-lg);padding:2rem 2.25rem;box-shadow:0 4px 16px rgba(13,26,15,0.06);border:1px solid var(--rule)}
+@media(max-width:520px){.card{padding:1.6rem 1.3rem}}
+.form-group{margin-bottom:1.3rem}
+.form-group label{display:block;font-size:0.78rem;font-weight:700;text-transform:uppercase;letter-spacing:0.05em;color:var(--moss);margin-bottom:0.4rem}
+.form-group .hint{font-size:0.78rem;color:var(--muted);margin-bottom:0.5rem;font-style:italic}
+.form-group input[type="text"],
+.form-group input[type="email"],
+.form-group select,
+.form-group textarea{width:100%;padding:0.75rem 0.9rem;background:#fff;border:1.5px solid var(--rule);border-radius:var(--r);font-family:inherit;font-size:0.95rem;color:var(--text);transition:border-color 0.15s}
+.form-group input:focus,
+.form-group select:focus,
+.form-group textarea:focus{outline:none;border-color:var(--moss)}
+.form-group textarea{resize:vertical;min-height:120px;line-height:1.6}
+.form-group .required{color:var(--gold);margin-left:0.2rem}
+.submit-btn{display:inline-flex;align-items:center;justify-content:center;background:var(--moss);color:#fff;padding:0.95rem 2rem;border:none;border-radius:var(--r);font-family:inherit;font-size:0.95rem;font-weight:600;cursor:pointer;width:100%;transition:background 0.15s}
+.submit-btn:hover{background:#1e3a2a}
+.intro{background:var(--moss-pale);border-left:3px solid var(--moss);padding:1rem 1.25rem;border-radius:0 var(--r) var(--r) 0;margin-bottom:1.8rem;font-size:0.9rem;line-height:1.7;color:var(--text)}
+.intro strong{color:var(--moss)}
+.privacy-note{font-size:0.78rem;color:var(--muted);margin-top:1.2rem;line-height:1.6;text-align:center}
+.privacy-note a{color:var(--gold);text-decoration:none;border-bottom:1px solid transparent}
+.privacy-note a:hover{border-bottom-color:var(--gold)}
+footer.site{background:var(--ink);color:rgba(245,241,232,0.65);padding:2rem 1.5rem;text-align:center;font-size:0.8rem;line-height:1.75;margin-top:2rem}
+footer.site a{color:var(--gold-pale);text-decoration:none}
+footer.site .credit{font-family:'Fraunces',serif;font-style:italic;color:var(--gold-pale);margin-top:0.5rem;display:block;font-size:0.75rem}
+[data-generique="true"] {}
+.card-photo:has(> img[data-generique="true"])::after,
+.hero-img:has(> img[data-generique="true"])::after,
+.hero-bg:has(> img[data-generique="true"])::after {
+  content: "Générique";
+  position: absolute;
+  bottom: .45rem;
+  right: .45rem;
+  background: rgba(13, 26, 15, 0.78);
+  color: #f0dfc0;
+  font-size: 0.62rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 0.18rem 0.5rem;
+  border-radius: 3px;
+  pointer-events: none;
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  z-index: 2;
+}
+.card-photo, .hero-img, .hero-bg {
+  position: relative;
+}
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <a href="/it/" class="brand"><img src="/logo.png" alt="" width="22" height="22" style="border-radius:5px;vertical-align:middle;margin-right:6px;"> Loisirs <em style="color:var(--gold-pale);font-style:italic">74</em></a>
+  <a href="/it/">Home</a>
+</div>
+
+<section class="hero">
+  <p class="hero-eyebrow">Hai notato un errore?</p>
+  <h1>Segnala un'<em>informazione</em></h1>
+  <p>Loisirs 73 vive grazie alla precisione delle informazioni. Se qualcosa è sbagliato, obsoleto o manca, faccelo sapere.</p>
+</section>
+
+<div class="wrap">
+
+<a href="/it/" class="back">← Torna alla home</a>
+
+<div class="card">
+
+<div class="intro">
+  <strong>Perché è importante:</strong> ogni apertura stagionale, ogni ristrutturazione, ogni cambio di tariffa può rendere obsoleta una pagina. Verifichiamo tutto tramite fonti ufficiali, ma sul campo le cose cambiano in fretta. La vostra attenzione fa la differenza.
+</div>
+
+<form name="signal-info" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/it/merci-signalement.html">
+  <input type="hidden" name="form-name" value="signal-info">
+  <p style="display:none"><label>Non compilare: <input name="bot-field"></label></p>
+
+  <div class="form-group">
+    <label for="page">Pagina interessata<span class="required">*</span></label>
+    <div class="hint">URL o nome del luogo (es. «Cascade d'Angon» o loisirs73.fr/cascade-d-angon)</div>
+    <input type="text" id="page" name="page" required placeholder="Cascade d'Angon">
+  </div>
+
+  <div class="form-group">
+    <label for="type">Tipo di errore<span class="required">*</span></label>
+    <select id="type" name="type" required>
+      <option value="">— Seleziona —</option>
+      <option value="info-periimee">Info obsoleta (orari, apertura)</option>
+      <option value="info-fausse">Informazione errata</option>
+      <option value="lien-casse">Link non funzionante / 404</option>
+      <option value="photo-incorrecte">Foto che non corrisponde</option>
+      <option value="info-manquante">Informazione mancante</option>
+      <option value="autre">Altro</option>
+    </select>
+  </div>
+
+  <div class="form-group">
+    <label for="description">Descrizione<span class="required">*</span></label>
+    <div class="hint">Siate precisi: cosa non va? Se possibile, indicate dove avete visto l'informazione corretta.</div>
+    <textarea id="description" name="description" required placeholder="Esempio: gli orari indicati dicono chiuso il lunedì, ma secondo il sito ufficiale e la mia recente visita è aperto tutti i giorni in stagione."></textarea>
+  </div>
+
+  <div class="form-group">
+    <label for="email">La vostra email <span style="color:var(--muted);font-weight:500;text-transform:none;letter-spacing:0;font-style:italic">(facoltativa)</span></label>
+    <div class="hint">Solo se desiderate essere ricontattati per chiarimenti o ricevere un ringraziamento quando la correzione sarà fatta.</div>
+    <input type="email" id="email" name="email" placeholder="voi@example.com">
+  </div>
+
+  <button type="submit" class="submit-btn">Invia la segnalazione →</button>
+
+  <p class="privacy-note">
+    I vostri dati sono utilizzati solo per gestire la vostra segnalazione. Consultate la nostra <a href="/it/politique-confidentialite-loisirs73-phase1.html">informativa sulla privacy</a>.
+  </p>
+</form>
+
+</div>
+
+</div>
+
+<footer class="site">
+  <p>© 2026 Loisirs 73 · Guida indipendente ai luoghi del tempo libero in Alta Savoia</p>
+  <p><a href="/it/mentions-legales-loisirs73-phase1.html">Note legali</a> · <a href="/it/politique-confidentialite-loisirs73-phase1.html">Privacy</a> · <a href="/it/cgv.html">Condizioni generali di vendita</a> · <a href="/it/contact.html">Contatti</a></p>
+  <span class="credit">© 2026 bleu-canard éditions · Edmaster &amp; Claudius · tutti i diritti riservati</span>
+</footer>
+
+<script src="/scripts/duck.js?v=54bf096c8b" defer></script>
+<!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": ""}'></script><!-- End Cloudflare Web Analytics --></body>
+</html>

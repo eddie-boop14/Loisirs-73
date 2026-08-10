@@ -463,6 +463,13 @@ HUB_LOCALE_SLUGS = {
     "voies-vertes":    {"fr": "voies-vertes",    "en": "greenways",      "de": "radwege",           "it": "vie-verdi",       "es": "vias-verdes",  "nl": "fietsroutes"},
     "lacs-plages":     {"fr": "lacs-plages",     "en": "lakes",          "de": "seen",              "it": "laghi",           "es": "lagos",        "nl": "meren"},
     "bases-de-loisirs":{"fr": "bases-de-loisirs","en": "leisure-parks",  "de": "freizeitparks",     "it": "aree-ricreative", "es": "areas-de-ocio","nl": "recreatieparken"},
+    # que-faire is a hub like any other and belongs in the same table. It was
+    # missing here and its slugs were being recovered from the rendered
+    # hreflang block instead — which works only on a site whose hub pages
+    # already exist, and silently falls back to the FR slug on one whose
+    # don't. That is how /de/points-de-vue/ and /de/que-faire/ came to be
+    # linked from the German homepage.
+    "que-faire":       {"fr": "que-faire",       "en": "what-to-do",     "de": "was-unternehmen",   "it": "cosa-fare",       "es": "que-hacer",    "nl": "wat-te-doen"},
 }
 
 HUB_LOCALE_LABELS = {

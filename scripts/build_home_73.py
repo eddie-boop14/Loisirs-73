@@ -14,6 +14,7 @@ from the fiches themselves, so the homepage cannot drift from the catalogue.
 import json, glob, os, sys, html
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import siteconfig as S
+import build_lieu_page as _BLP  # canonical hub slug table — single source
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LANGS = ("fr", "en", "de", "it", "es", "nl")
@@ -73,14 +74,23 @@ def card(d, lang):
 def build(lang, fiches):
     # Hub nav — every hub in the roster must be reachable from the homepage or the
     # reachability gate reports it as an orphan, which is exactly what it is for.
-    hubmap = {"points-de-vue": {"fr": "points-de-vue", "en": "viewpoints"},
-              "telecabines": {"fr": "telecabines", "en": "cable-cars"},
-              "que-faire": {"fr": "que-faire", "en": "what-to-do"}}
-    hublab = {"points-de-vue": {"fr": "Cols et points de vue", "en": "Passes and viewpoints"},
-              "telecabines": {"fr": "Téléphériques et télécabines", "en": "Cable cars and gondolas"},
-              "que-faire": {"fr": "Que faire en Savoie", "en": "What to do in Savoie"}}
+    # Slugs come from the engine's canonical table, not a second copy here — a
+    # local fr/en-only map made de/it/es/nl fall through to the French slug and
+    # link /de/points-de-vue/, a directory that does not exist in any locale but
+    # French. Absolute URLs, because that is what the rest of the site emits and
+    # what gate_link_integrity's homepage-orphan tripwire looks for.
+    hubmap = {h: _BLP.HUB_LOCALE_SLUGS[h] for h in ("points-de-vue", "telecabines", "que-faire")}
+    hublab = {"points-de-vue": {"fr": "Cols et points de vue", "en": "Passes and viewpoints",
+                                "de": "Pässe und Aussichtspunkte", "it": "Colli e punti panoramici",
+                                "es": "Puertos y miradores", "nl": "Cols en uitzichtpunten"},
+              "telecabines": {"fr": "Téléphériques et télécabines", "en": "Cable cars and gondolas",
+                              "de": "Seilbahnen und Gondeln", "it": "Funivie e cabinovie",
+                              "es": "Teleféricos y telecabinas", "nl": "Kabelbanen en gondels"},
+              "que-faire": {"fr": "Que faire en Savoie", "en": "What to do in Savoie",
+                            "de": "Was unternehmen in Savoie", "it": "Cosa fare in Savoie",
+                            "es": "Qué hacer en Savoie", "nl": "Wat te doen in Savoie"}}
     nav = '<nav class="hubs"><ul>' + "".join(
-        f'<li><a href="/' + ("" if lang == "fr" else f"{lang}/")
+        f'<li><a href="{E(S.BASE_URL)}/' + ("" if lang == "fr" else f"{lang}/")
         + E(hubmap[h].get(lang) or hubmap[h]["fr"]) + '/">'
         + E(t(hublab[h], lang)) + '</a></li>' for h in hubmap) + '</ul></nav>\n'
     secs = ""

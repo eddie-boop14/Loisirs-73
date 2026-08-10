@@ -183,6 +183,24 @@ def normalize_lang_nav():
     print(out.stdout.strip() or "(language nav normalized)")
 
 
+def rebuild_homepages():
+    """Regenerate the six locale homepages from the fiche layer.
+
+    These were hand-generated once and left out of the pipeline, so the
+    homepage silently stopped tracking the catalogue: its hub nav still
+    carried an fr/en-only slug map, which sent every other locale to the
+    French hub directory. A homepage derived from Json/ cannot drift from
+    what the site actually publishes."""
+    out = subprocess.run(
+        [sys.executable, str(SCRIPTS / "build_home_73.py")],
+        capture_output=True, text=True, cwd=str(ROOT)
+    )
+    if out.returncode != 0:
+        print(out.stdout); print(out.stderr, file=sys.stderr)
+        raise RuntimeError("build_home_73 failed")
+    print(out.stdout.strip() or "(homepages rebuilt)")
+
+
 def rebuild_hubs():
     """Regen 13 category hubs from Json/ + patch locale homepages for full
     hub coverage (closes the orphan gap from voies-vertes / sorties-detente
@@ -526,6 +544,7 @@ def main():
     run("tarif roster-completeness gate", tarif_completeness_gate)
     run("render fiche pages", render_all_fiches)
     run("rebuild catalog index", rebuild_catalog_index)
+    run("regenerate locale homepages from the fiche layer", rebuild_homepages)
     run("regenerate hubs + homepage nav", rebuild_hubs)
     run("render commune pages + reciprocal backlinks", rebuild_communes)
     run(f"render facts-first full trees (published facts langs: {', '.join(locales.FACTS_PUBLISHED)})",

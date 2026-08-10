@@ -102,9 +102,17 @@ def hub_locale_map(hub_dir):
     """Pull locale hub names from the FR hub's hreflang block."""
     p = ROOT / hub_dir / "index.html"
     # HANDOFF-73 phase 6: a site whose hub pages have not been rendered yet has
-    # nothing to read alternates out of. Empty map => callers fall back to the
-    # FR slug, instead of dying on a chicken-and-egg a fresh departement cannot win.
+    # nothing to read alternates out of. Fall back to the canonical slug table
+    # rather than to the FR slug — returning {"fr": ...} made every locale
+    # inherit the French directory, which is how the German homepage came to
+    # link /de/points-de-vue/ instead of /de/aussichtspunkte/. The table is the
+    # same one the fiche pages link against, so the two cannot drift.
     if not p.exists():
+        import build_lieu_page as _blp
+        canon = _blp.HUB_LOCALE_SLUGS.get(hub_dir)
+        if canon:
+            return {l: s for l, s in canon.items()
+                    if l == "fr" or l in locales.PROSE_SECONDARY}
         return {"fr": hub_dir}
     h = p.read_text(encoding="utf-8")
     m = {"fr": hub_dir}

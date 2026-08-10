@@ -769,6 +769,11 @@ def published_site_langs():
 
 
 def ai_info_category_line(fiches):
+    # The curated per-site line wins (ai_scope.category_line); the derived
+    # fallback is for a young corpus with a handful of categories — on a
+    # mature one it degrades into slug soup.
+    if siteconfig.AI_CATEGORY_LINE:
+        return siteconfig.AI_CATEGORY_LINE
     cats = sorted({(d.get("category") or "") for d in fiches if d.get("category")})
     labels = {"point-de-vue": "Mountain passes and viewpoints", "telecabine": "cable cars and lifts"}
     parts = [labels.get(c, c.replace("-", " ")) for c in cats]

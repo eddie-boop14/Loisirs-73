@@ -571,6 +571,13 @@ def main():
     run("emit .well-known/security.txt (RFC 9116 — Expires must never lapse)",
         rebuild_security_txt)
     run("inject Cloudflare Web Analytics beacon (every published page)", inject_analytics)
+    # FLIP-AT-LAUNCH: while robots.txt carries the marker, every rendered page
+    # gets <meta noindex> — the injector reads the marker itself and no-ops
+    # once robots.txt is flipped. It used to be a run-by-hand script, so the
+    # first full rebuild silently stripped the meta off 350+ pages.
+    run("pre-launch noindex (FLIP-AT-LAUNCH, self-disabling)",
+        lambda: subprocess.check_call(
+            [sys.executable, str(SCRIPTS / "inject_noindex_73.py")]))
     run("regenerate PROJECT-STATE.md (JOB 8 — derived, never authored)", rebuild_project_state)
     if not args.no_site:
         run("build _site/", lambda: subprocess.check_call(

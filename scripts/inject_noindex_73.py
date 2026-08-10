@@ -9,8 +9,12 @@ loisirs73.fr the day the domain points here") depends on that not happening, so
 every page carries the meta as well as the robots rule. Belt and braces, on
 purpose.
 
-AT LAUNCH: delete this script and its call in build_all, then rebuild. Grepping
-FLIP-AT-LAUNCH finds it.
+AT LAUNCH: flip robots.txt (remove its FLIP-AT-LAUNCH marker) and rebuild —
+this script reads the marker and becomes a no-op the moment it is gone, so
+launch is a one-file change rather than a multi-file hunt. It previously
+relied on being run by hand, was never wired into build_all, and the first
+full rebuild silently washed the meta off 350+ pages; robots.txt Disallow
+alone does NOT stop an externally-linked URL from being indexed.
 """
 import glob, os, re
 
@@ -26,6 +30,12 @@ def targets():
             yield p
 
 def main():
+    robots = os.path.join(ROOT, "robots.txt")
+    if not (os.path.exists(robots) and
+            "FLIP-AT-LAUNCH" in open(robots, encoding="utf-8").read()):
+        print("inject_noindex_73: no FLIP-AT-LAUNCH marker in robots.txt — "
+              "site is launched, nothing to block")
+        return
     added = present = 0
     for p in targets():
         s = open(p, encoding="utf-8").read()

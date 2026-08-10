@@ -1,7 +1,7 @@
 # Phase 4 — photo assignments (gate artifact)
 
 **Date**: 2026-06-14
-**Total assignments**: 51 (one per (hub × slug) on the FR canonical hub)
+**Total assignments**: 58 (one per (hub × slug) on the FR canonical hub)
 
 ## Per-hub diversity
 
@@ -9,6 +9,7 @@
 |---|---:|---:|---:|
 | `cascades` | 7 | 1 | 7 |
 | `chateaux` | 7 | 3 | 3 |
+| `lacs-plages` | 7 | 7 | 1 |
 | `musees` | 7 | 5 | 2 |
 | `points-de-vue` | 15 | 15 | 1 |
 | `telecabines` | 15 | 15 | 1 |
@@ -31,6 +32,13 @@
 | `chateaux` | `fort-victor-emmanuel-aussois` | `patrimoine` | `generique-chateau-toiture.jpg` | — | json hero (local) |
 | `chateaux` | `redoute-marie-therese-avrieux` | `patrimoine` | `generique-chateau.jpg` | — | json hero (local) |
 | `chateaux` | `tours-de-chignin` | `patrimoine` | `generique-chateau.jpg` | — | json hero (local) |
+| `lacs-plages` | `base-de-loisirs-gresy-sur-isere` | `nature` | `generique-plage-lac-5.jpg` | — | json hero (local) |
+| `lacs-plages` | `lac-de-carouge-saint-pierre-d-albigny` | `nature` | `generique-lac-coucher-soleil.jpg` | — | json hero (local) |
+| `lacs-plages` | `lac-saint-andre-porte-de-savoie` | `nature` | `generique-lac.jpg` | — | json hero (local) |
+| `lacs-plages` | `plage-aiguebelette-le-lac` | `aquatique` | `generique-plage-lac-4.jpg` | — | json hero (local) |
+| `lacs-plages` | `plage-base-de-loisirs-du-sougey` | `aquatique` | `generique-plage-lac-3.jpg` | — | json hero (local) |
+| `lacs-plages` | `plage-municipale-aix-les-bains-aqualac` | `aquatique` | `generique-plage-lac-1.jpg` | — | json hero (local) |
+| `lacs-plages` | `plage-municipale-le-bourget-du-lac` | `aquatique` | `generique-plage-lac-2.jpg` | — | json hero (local) |
 | `musees` | `espace-alu-saint-michel-de-maurienne` | `patrimoine` | `generique-musee-moderne.jpg` | — | json hero (local) |
 | `musees` | `les-charmettes-maison-jean-jacques-rousseau-chambery` | `patrimoine` | `generique-jardin-allee-roses.jpg` | — | json hero (local) |
 | `musees` | `musee-des-beaux-arts-chambery` | `patrimoine` | `generique-musee-classique.jpg` | — | json hero (local) |

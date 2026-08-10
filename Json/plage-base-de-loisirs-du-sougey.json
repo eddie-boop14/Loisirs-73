@@ -1,0 +1,241 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-10",
+    "confidence": "declarative",
+    "detail": "« Accessible en fauteuil roulant avec aide — Rampe d'accès », selon la fiche de l'office de tourisme du lac d'Aiguebelette.",
+    "equipment": [
+      "rampe"
+    ],
+    "handiplage_level": null,
+    "source_name": "OT Lac d'Aiguebelette",
+    "source_url": "https://www.lac-aiguebelette.com/plage/plage-de-la-base-de-loisirs-du-sougey-81194/",
+    "status": "partiel",
+    "tourisme_handicap": null
+  },
+  "category": "plage",
+  "commune": "Saint-Alban-de-Montbel",
+  "date_modified_human": "10 août 2026",
+  "date_published_human": "10 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-10",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-plage-lac-3.jpg",
+  "i18n": {
+    "en": {
+      "activities": [
+        {
+          "description": "Swimming in one of France's warmest lakes, supervised daily from 13 June to 30 August.",
+          "tag": "10:00–19:00",
+          "title": "Supervised swimming"
+        },
+        {
+          "description": "The beach backs onto the Sougey leisure base and its facilities, on the Saint-Alban-de-Montbel side.",
+          "tag": "West shore",
+          "title": "Le Sougey leisure base"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Le Sougey beach</strong>, in Saint-Alban-de-Montbel, opens the leisure base on the west shore of the <strong>Lac d'Aiguebelette</strong> — one of France's warmest lakes. From <strong>13 June to 30 August</strong>, swimming is supervised daily 10:00–19:00 and the beach is paid: €2.50 per adult on weekdays, €4 on weekends and holidays; €1 and €2 for children aged 5-12; a 10-entry card at €20; free under 5. Payment by card or paper ANCV holiday vouchers only. <strong>The rest of the year, the beach is free.</strong></p><p>The rule holds lake-wide: 'Les plages du lac d'Aiguebelette, privées ou communales, sont payantes durant toute la période de surveillance'. The <strong>car parks, though, are all free</strong> — the tourist office underlines it with an exclamation mark. Another lake rule: <strong>animals and barbecues forbidden</strong> on the beaches.</p><p>Wheelchair access is possible <strong>with assistance</strong>, via an access ramp, per the official listing.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Paid in season: €2.50 weekdays, €4 weekends (adult); free off season",
+        "best_season": "Supervised season 13 June – 30 August, 10:00–19:00",
+        "commune": "Saint-Alban-de-Montbel",
+        "dogs": "Forbidden on the Lac d'Aiguebelette's beaches",
+        "parking": "Free",
+        "stroller": null,
+        "type": "Beach on the Lac d'Aiguebelette"
+      },
+      "faq": [
+        {
+          "a": "From 13 June to 30 August: €2.50 per adult on weekdays, €4 on weekends and holidays; children 5-12 €1/€2; 10-entry card €20; free under 5. Off season, access is free.",
+          "q": "How much is entry?"
+        },
+        {
+          "a": "No — 'Les parkings, quant à eux, sont tous gratuits !', writes the lake's tourist office.",
+          "q": "Is parking paid?"
+        },
+        {
+          "a": "No: animals and barbecues are forbidden on the Lac d'Aiguebelette's beaches.",
+          "q": "Can you bring a dog?"
+        },
+        {
+          "a": "Bank card and paper ANCV holiday vouchers only, per the official listing.",
+          "q": "How do you pay?"
+        },
+        {
+          "a": "With assistance: the official listing states 'Accessible en fauteuil roulant avec aide' and an access ramp.",
+          "q": "Is the beach wheelchair accessible?"
+        }
+      ],
+      "hero": {
+        "badge": "€2.50 · Lac d'Aiguebelette",
+        "lead": "The Sougey leisure-base beach on the Lac d'Aiguebelette's west shore: supervised and paid from 13 June to 30 August, free the rest of the year — parking always free."
+      },
+      "hero_alt": "Le Sougey beach on the Lac d'Aiguebelette, Saint-Alban-de-Montbel",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "West shore of the Lac d'Aiguebelette, at Saint-Alban-de-Montbel; free parking on site.",
+        "public_transport": null
+      },
+      "meta_description": "Le Sougey beach on the Lac d'Aiguebelette: paid 13 June – 30 August 2026 (€2.50 weekdays, €4 weekends), free parking, no dogs. Official sources only.",
+      "meta_title": "Le Sougey beach · Lac d'Aiguebelette, 2026 prices",
+      "name": "Le Sougey beach",
+      "name_alternates": [
+        "Plage de la base de loisirs du Sougey"
+      ],
+      "practical_info": [
+        {
+          "k": "Address",
+          "v": "Base de loisirs du Sougey, 73610 Saint-Alban-de-Montbel"
+        },
+        {
+          "k": "Prices 2026",
+          "v": "Adult €2.50 weekdays / €4 weekends; child 5-12 €1/€2; 10-entry card €20"
+        },
+        {
+          "k": "Paid season",
+          "v": "13 June – 30 August, 10:00–19:00, daily"
+        },
+        {
+          "k": "Parking",
+          "v": "Free"
+        },
+        {
+          "k": "Lake rules",
+          "v": "Animals and barbecues forbidden on the beaches"
+        }
+      ],
+      "schema_amenities": [
+        "Free parking",
+        "PMR access ramp",
+        "Supervised swimming in season"
+      ],
+      "when_to_visit": "<p>Weekdays for the €2.50 rate; off season (before 13 June, after 30 August) the beach is free but unsupervised.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Baignade dans l'un des lacs les plus chauds de France, surveillée tous les jours du 13 juin au 30 août.",
+          "tag": "10h–19h",
+          "title": "Baignade surveillée"
+        },
+        {
+          "description": "La plage s'adosse à la base de loisirs du Sougey et à ses équipements, côté Saint-Alban-de-Montbel.",
+          "tag": "Rive ouest",
+          "title": "Base de loisirs du Sougey"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>plage du Sougey</strong>, à Saint-Alban-de-Montbel, ouvre la base de loisirs de la rive ouest du <strong>lac d'Aiguebelette</strong> — l'un des lacs les plus chauds de France. Du <strong>13 juin au 30 août</strong>, la baignade est surveillée tous les jours de 10h à 19h et la plage payante : 2,50 € par adulte en semaine, 4 € le week-end et les jours fériés ; 1 € et 2 € pour les enfants de 5 à 12 ans ; carte 10 entrées à 20 € ; gratuit avant 5 ans. Paiement par carte ou chèques vacances ANCV papier uniquement. <strong>Le reste de l'année, la plage est accessible gratuitement.</strong></p><p>La règle vaut pour tout le lac : « Les plages du lac d'Aiguebelette, privées ou communales, sont payantes durant toute la période de surveillance ». Les <strong>parkings, eux, sont tous gratuits</strong> — l'office de tourisme le souligne d'un point d'exclamation. Autre règle du lac : <strong>animaux et barbecues interdits</strong> sur les plages.</p><p>L'accès en fauteuil roulant est possible <strong>avec aide</strong>, par une rampe d'accès, selon la fiche officielle.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Payant en saison : 2,50 € semaine, 4 € week-end (adulte) ; gratuit hors saison",
+        "best_season": "Saison surveillée du 13 juin au 30 août, 10h–19h",
+        "commune": "Saint-Alban-de-Montbel",
+        "dogs": "Interdits sur les plages du lac d'Aiguebelette",
+        "parking": "Gratuit",
+        "stroller": null,
+        "type": "Plage du lac d'Aiguebelette"
+      },
+      "faq": [
+        {
+          "a": "Du 13 juin au 30 août : 2,50 € par adulte en semaine, 4 € le week-end et les jours fériés ; enfants 5-12 ans 1 € / 2 € ; carte 10 entrées 20 € ; gratuit pour les moins de 5 ans. Hors saison, l'accès est gratuit.",
+          "q": "Combien coûte l'entrée ?"
+        },
+        {
+          "a": "Non — « Les parkings, quant à eux, sont tous gratuits ! », écrit l'office de tourisme du lac.",
+          "q": "Le parking est-il payant ?"
+        },
+        {
+          "a": "Non : animaux et barbecues sont interdits sur les plages du lac d'Aiguebelette.",
+          "q": "Peut-on venir avec son chien ?"
+        },
+        {
+          "a": "Carte bancaire et chèques vacances ANCV papier uniquement, selon la fiche officielle.",
+          "q": "Comment payer ?"
+        },
+        {
+          "a": "Avec aide : la fiche officielle indique « Accessible en fauteuil roulant avec aide » et une rampe d'accès.",
+          "q": "La plage est-elle accessible en fauteuil roulant ?"
+        }
+      ],
+      "hero": {
+        "badge": "2,50 € · Lac d'Aiguebelette",
+        "lead": "La plage de la base de loisirs du Sougey, rive ouest du lac d'Aiguebelette : surveillée et payante du 13 juin au 30 août, gratuite le reste de l'année — parking toujours gratuit."
+      },
+      "hero_alt": "Plage du Sougey au bord du lac d'Aiguebelette, Saint-Alban-de-Montbel",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Rive ouest du lac d'Aiguebelette, à Saint-Alban-de-Montbel ; parkings gratuits sur place.",
+        "public_transport": null
+      },
+      "meta_description": "La plage du Sougey au lac d'Aiguebelette : payante du 13 juin au 30 août 2026 (2,50 € semaine, 4 € week-end), parking gratuit, chiens interdits. Sources officielles.",
+      "meta_title": "Plage du Sougey · Lac d'Aiguebelette, tarifs 2026",
+      "name": "Plage du Sougey",
+      "name_alternates": [
+        "Plage de la base de loisirs du Sougey"
+      ],
+      "practical_info": [
+        {
+          "k": "Adresse",
+          "v": "Base de loisirs du Sougey, 73610 Saint-Alban-de-Montbel"
+        },
+        {
+          "k": "Tarifs 2026",
+          "v": "Adulte 2,50 € semaine / 4 € week-end ; enfant 5-12 ans 1 € / 2 € ; carte 10 entrées 20 €"
+        },
+        {
+          "k": "Saison payante",
+          "v": "Du 13 juin au 30 août, 10h–19h, tous les jours"
+        },
+        {
+          "k": "Parking",
+          "v": "Gratuit"
+        },
+        {
+          "k": "Règles du lac",
+          "v": "Animaux et barbecues interdits sur les plages"
+        }
+      ],
+      "schema_amenities": [
+        "Parking gratuit",
+        "Rampe d'accès PMR",
+        "Baignade surveillée en saison"
+      ],
+      "when_to_visit": "<p>En semaine hors week-end pour le tarif à 2,50 € ; hors saison (avant le 13 juin, après le 30 août), la plage est gratuite mais non surveillée.</p>"
+    }
+  },
+  "latitude": 45.553175,
+  "longitude": 5.791196,
+  "official_site_url": "https://www.lac-aiguebelette.com/plage/plage-de-la-base-de-loisirs-du-sougey-81194/",
+  "partners": [],
+  "postal_code": "73610",
+  "price_currency": "EUR",
+  "price_from": 2.5,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-10, official source: OT Lac d'Aiguebelette (the lake's beaches page + the paid-beaches notice). All the lake's beaches are paid during the 2026 supervision window; parking free; dogs and barbecues forbidden lake-wide. Coordinates from IGN POI geocoder ('Base de Loisirs du Sougey', category parc de loisirs).",
+  "schema_org": {
+    "amenities": [],
+    "is_free": false,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "plage-base-de-loisirs-du-sougey",
+  "sources": [
+    "https://www.lac-aiguebelette.com/plage/plage-de-la-base-de-loisirs-du-sougey-81194/",
+    "https://www.lac-aiguebelette.com/actualites/les-plages-sont-payantes/",
+    "https://data.geopf.fr/geocodage/search?q=plage+du+Sougey+Saint-Alban-de-Montbel&index=poi&limit=2"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "aquatique",
+  "verify_flags": []
+}

@@ -1,6 +1,27 @@
 {
-  "count": 51,
+  "count": 58,
   "lieux": [
+    {
+      "slug": "base-de-loisirs-gresy-sur-isere",
+      "name": "Base de loisirs de Grésy-sur-Isère",
+      "category": "lac",
+      "commune": "Grésy-sur-Isère",
+      "postal_code": "73460",
+      "latitude": null,
+      "longitude": null,
+      "urls": {
+        "fr": "https://loisirs73.fr/base-de-loisirs-gresy-sur-isere",
+        "en": "https://loisirs73.fr/en/base-de-loisirs-gresy-sur-isere",
+        "de": "https://loisirs73.fr/de/base-de-loisirs-gresy-sur-isere",
+        "it": "https://loisirs73.fr/it/base-de-loisirs-gresy-sur-isere",
+        "es": "https://loisirs73.fr/es/base-de-loisirs-gresy-sur-isere",
+        "nl": "https://loisirs73.fr/nl/base-de-loisirs-gresy-sur-isere"
+      },
+      "facet_md": "https://loisirs73.fr/content/base-de-loisirs-gresy-sur-isere.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/base-de-loisirs-gresy-sur-isere.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/base-de-loisirs-gresy-sur-isere.json",
+      "photo": "/img/generique/generique-plage-lac-5.jpg"
+    },
     {
       "slug": "cascade-de-la-fraiche",
       "name": "Cascade de la Fraîche",
@@ -590,6 +611,48 @@
       "photo": "/img/generique/generique-cascade.jpg"
     },
     {
+      "slug": "lac-de-carouge-saint-pierre-d-albigny",
+      "name": "Lac de Carouge",
+      "category": "lac",
+      "commune": "Saint-Pierre-d'Albigny",
+      "postal_code": "73250",
+      "latitude": 45.557346,
+      "longitude": 6.169422,
+      "urls": {
+        "fr": "https://loisirs73.fr/lac-de-carouge-saint-pierre-d-albigny",
+        "en": "https://loisirs73.fr/en/lac-de-carouge-saint-pierre-d-albigny",
+        "de": "https://loisirs73.fr/de/lac-de-carouge-saint-pierre-d-albigny",
+        "it": "https://loisirs73.fr/it/lac-de-carouge-saint-pierre-d-albigny",
+        "es": "https://loisirs73.fr/es/lac-de-carouge-saint-pierre-d-albigny",
+        "nl": "https://loisirs73.fr/nl/lac-de-carouge-saint-pierre-d-albigny"
+      },
+      "facet_md": "https://loisirs73.fr/content/lac-de-carouge-saint-pierre-d-albigny.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/lac-de-carouge-saint-pierre-d-albigny.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/lac-de-carouge-saint-pierre-d-albigny.json",
+      "photo": "/img/generique/generique-lac-coucher-soleil.jpg"
+    },
+    {
+      "slug": "lac-saint-andre-porte-de-savoie",
+      "name": "Lac Saint-André",
+      "category": "lac",
+      "commune": "Porte-de-Savoie",
+      "postal_code": "73800",
+      "latitude": 45.494167,
+      "longitude": 5.986513,
+      "urls": {
+        "fr": "https://loisirs73.fr/lac-saint-andre-porte-de-savoie",
+        "en": "https://loisirs73.fr/en/lac-saint-andre-porte-de-savoie",
+        "de": "https://loisirs73.fr/de/lac-saint-andre-porte-de-savoie",
+        "it": "https://loisirs73.fr/it/lac-saint-andre-porte-de-savoie",
+        "es": "https://loisirs73.fr/es/lac-saint-andre-porte-de-savoie",
+        "nl": "https://loisirs73.fr/nl/lac-saint-andre-porte-de-savoie"
+      },
+      "facet_md": "https://loisirs73.fr/content/lac-saint-andre-porte-de-savoie.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/lac-saint-andre-porte-de-savoie.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/lac-saint-andre-porte-de-savoie.json",
+      "photo": "/img/generique/generique-lac.jpg"
+    },
+    {
       "slug": "les-charmettes-maison-jean-jacques-rousseau-chambery",
       "name": "Les Charmettes, maison de Jean-Jacques Rousseau",
       "category": "musee",
@@ -693,6 +756,90 @@
       "facet_md_en": "https://loisirs73.fr/content/en/musee-savoisien-chambery.md",
       "facet_json": "https://loisirs73.fr/api/lieu/musee-savoisien-chambery.json",
       "photo": "/img/generique/generique-musee.jpg"
+    },
+    {
+      "slug": "plage-aiguebelette-le-lac",
+      "name": "Plage d'Aiguebelette-le-Lac",
+      "category": "plage",
+      "commune": "Aiguebelette-le-Lac",
+      "postal_code": "73610",
+      "latitude": null,
+      "longitude": null,
+      "urls": {
+        "fr": "https://loisirs73.fr/plage-aiguebelette-le-lac",
+        "en": "https://loisirs73.fr/en/plage-aiguebelette-le-lac",
+        "de": "https://loisirs73.fr/de/plage-aiguebelette-le-lac",
+        "it": "https://loisirs73.fr/it/plage-aiguebelette-le-lac",
+        "es": "https://loisirs73.fr/es/plage-aiguebelette-le-lac",
+        "nl": "https://loisirs73.fr/nl/plage-aiguebelette-le-lac"
+      },
+      "facet_md": "https://loisirs73.fr/content/plage-aiguebelette-le-lac.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/plage-aiguebelette-le-lac.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/plage-aiguebelette-le-lac.json",
+      "photo": "/img/generique/generique-plage-lac-4.jpg"
+    },
+    {
+      "slug": "plage-base-de-loisirs-du-sougey",
+      "name": "Plage du Sougey",
+      "category": "plage",
+      "commune": "Saint-Alban-de-Montbel",
+      "postal_code": "73610",
+      "latitude": 45.553175,
+      "longitude": 5.791196,
+      "urls": {
+        "fr": "https://loisirs73.fr/plage-base-de-loisirs-du-sougey",
+        "en": "https://loisirs73.fr/en/plage-base-de-loisirs-du-sougey",
+        "de": "https://loisirs73.fr/de/plage-base-de-loisirs-du-sougey",
+        "it": "https://loisirs73.fr/it/plage-base-de-loisirs-du-sougey",
+        "es": "https://loisirs73.fr/es/plage-base-de-loisirs-du-sougey",
+        "nl": "https://loisirs73.fr/nl/plage-base-de-loisirs-du-sougey"
+      },
+      "facet_md": "https://loisirs73.fr/content/plage-base-de-loisirs-du-sougey.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/plage-base-de-loisirs-du-sougey.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/plage-base-de-loisirs-du-sougey.json",
+      "photo": "/img/generique/generique-plage-lac-3.jpg"
+    },
+    {
+      "slug": "plage-municipale-aix-les-bains-aqualac",
+      "name": "Plage municipale d'Aix-les-Bains (Aqualac)",
+      "category": "plage",
+      "commune": "Aix-les-Bains",
+      "postal_code": "73100",
+      "latitude": 45.692468,
+      "longitude": 5.892845,
+      "urls": {
+        "fr": "https://loisirs73.fr/plage-municipale-aix-les-bains-aqualac",
+        "en": "https://loisirs73.fr/en/plage-municipale-aix-les-bains-aqualac",
+        "de": "https://loisirs73.fr/de/plage-municipale-aix-les-bains-aqualac",
+        "it": "https://loisirs73.fr/it/plage-municipale-aix-les-bains-aqualac",
+        "es": "https://loisirs73.fr/es/plage-municipale-aix-les-bains-aqualac",
+        "nl": "https://loisirs73.fr/nl/plage-municipale-aix-les-bains-aqualac"
+      },
+      "facet_md": "https://loisirs73.fr/content/plage-municipale-aix-les-bains-aqualac.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/plage-municipale-aix-les-bains-aqualac.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/plage-municipale-aix-les-bains-aqualac.json",
+      "photo": "/img/generique/generique-plage-lac-1.jpg"
+    },
+    {
+      "slug": "plage-municipale-le-bourget-du-lac",
+      "name": "Plage municipale du Bourget-du-Lac",
+      "category": "plage",
+      "commune": "Le Bourget-du-Lac",
+      "postal_code": "73370",
+      "latitude": 45.655642,
+      "longitude": 5.861318,
+      "urls": {
+        "fr": "https://loisirs73.fr/plage-municipale-le-bourget-du-lac",
+        "en": "https://loisirs73.fr/en/plage-municipale-le-bourget-du-lac",
+        "de": "https://loisirs73.fr/de/plage-municipale-le-bourget-du-lac",
+        "it": "https://loisirs73.fr/it/plage-municipale-le-bourget-du-lac",
+        "es": "https://loisirs73.fr/es/plage-municipale-le-bourget-du-lac",
+        "nl": "https://loisirs73.fr/nl/plage-municipale-le-bourget-du-lac"
+      },
+      "facet_md": "https://loisirs73.fr/content/plage-municipale-le-bourget-du-lac.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/plage-municipale-le-bourget-du-lac.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/plage-municipale-le-bourget-du-lac.json",
+      "photo": "/img/generique/generique-plage-lac-2.jpg"
     },
     {
       "slug": "redoute-marie-therese-avrieux",

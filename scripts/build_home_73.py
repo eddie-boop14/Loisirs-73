@@ -31,7 +31,9 @@ SECTIONS = [("point-de-vue", {"fr": "Cols et points de vue", "en": "Passes and v
             ("telecabine", {"fr": "Remontées mécaniques", "en": "Cable cars and lifts"}),
             ("cascade", {"fr": "Cascades et gorges", "en": "Waterfalls and gorges"}),
             ("chateau", {"fr": "Châteaux et forts", "en": "Castles and forts"}),
-            ("musee", {"fr": "Musées", "en": "Museums"})]
+            ("musee", {"fr": "Musées", "en": "Museums"}),
+            # lac + plage share one homepage section, mirroring the lacs-plages hub
+            (("lac", "plage"), {"fr": "Lacs et plages", "en": "Lakes and beaches"})]
 UI = {
  "tagline": {"fr": "La Savoie, lieu par lieu.", "en": "Savoie, place by place."},
  "lede": {"fr": "Un guide indépendant des lieux de loisirs en Savoie. Chaque fait est vérifié auprès d'une "
@@ -100,7 +102,8 @@ def build(lang, fiches):
         + E(t(hublab[h], lang)) + '</a></li>' for h in hubmap) + '</ul></nav>\n'
     secs = ""
     for cat, label in SECTIONS:
-        items = [f for f in fiches if f.get("category") == cat]
+        cats = cat if isinstance(cat, tuple) else (cat,)
+        items = [f for f in fiches if f.get("category") in cats]
         if not items:
             continue
         secs += (f'<section><h2>{E(t(label, lang))}</h2><ul class="grid">'

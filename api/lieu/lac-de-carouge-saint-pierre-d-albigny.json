@@ -1,0 +1,24 @@
+{
+  "name": "Lac de Carouge",
+  "commune": "Saint-Pierre-d'Albigny",
+  "gps": {
+    "lat": 45.557346,
+    "lng": 6.169422
+  },
+  "type": "lac",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": "Payant de juin à septembre",
+  "transport": null,
+  "season": "Surveillance en juillet-août, 13h–19h (dates : voir contradiction sourcée)",
+  "winter": null,
+  "official_url": "https://saintpierredalbigny.fr/fr/rb/1606867/le-lac-de-carouge",
+  "last_verified": null
+}

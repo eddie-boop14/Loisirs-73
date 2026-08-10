@@ -1,11 +1,77 @@
 # Loisirs 73 — Full content dump
 
 Generated: 2026-08-10
-Total lieux: 51
+Total lieux: 58
 
-This file concatenates the FR facet markdown of all 51 leisure sites in Savoie. Each section is a standalone markdown document with YAML frontmatter and the fixed facet heading canon. Sections are separated by `===` rulers.
+This file concatenates the FR facet markdown of all 58 leisure sites in Savoie. Each section is a standalone markdown document with YAML frontmatter and the fixed facet heading canon. Sections are separated by `===` rulers.
 
 For programmatic access, fetch individual files at https://loisirs73.fr/content/{slug}.md (FR), https://loisirs73.fr/content/en/{slug}.md (EN), or https://loisirs73.fr/api/lieu/{slug}.json (typed JSON).
+
+================================================================================
+
+---
+slug: base-de-loisirs-gresy-sur-isere
+name: "Base de loisirs de Grésy-sur-Isère"
+category: lac
+category_label: "Lac & plage"
+commune: "Grésy-sur-Isère"
+postal_code: "73460"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: null
+longitude: null
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/base-de-loisirs-gresy-sur-isere
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/base-de-loisirs-gresy-sur-isere.json
+photo_url: /img/generique/generique-plage-lac-5.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-10
+source: loisirs73.fr
+---
+
+# Base de loisirs de Grésy-sur-Isère
+
+## Faits
+
+- Commune: Grésy-sur-Isère, Savoie (73460)
+- GPS: Non renseigné
+- Catégorie: lac
+- Type: Plan d'eau et base de loisirs
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Baignade surveillée l'été, 12h–18h (dates : voir contradiction sourcée)
+
+## Source officielle
+
+https://espaces-aquatiques-arlysere.fr/espaces-ouverts-en-ete/plan-deau-gresy-sur-isere/
 
 ================================================================================
 
@@ -1952,6 +2018,138 @@ https://rando.parcdesbauges.com/trek/44527-La-grande-cascade
 ================================================================================
 
 ---
+slug: lac-de-carouge-saint-pierre-d-albigny
+name: "Lac de Carouge"
+category: lac
+category_label: "Lac & plage"
+commune: "Saint-Pierre-d'Albigny"
+postal_code: "73250"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.557346
+longitude: 6.169422
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/lac-de-carouge-saint-pierre-d-albigny
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/lac-de-carouge-saint-pierre-d-albigny.json
+photo_url: /img/generique/generique-lac-coucher-soleil.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-10
+source: loisirs73.fr
+---
+
+# Lac de Carouge
+
+## Faits
+
+- Commune: Saint-Pierre-d'Albigny, Savoie (73250)
+- GPS: 45.557346, 6.169422
+- Catégorie: lac
+- Type: Plan d'eau et plage de la Combe de Savoie
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Payant de juin à septembre
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Surveillance en juillet-août, 13h–19h (dates : voir contradiction sourcée)
+
+## Source officielle
+
+https://saintpierredalbigny.fr/fr/rb/1606867/le-lac-de-carouge
+
+================================================================================
+
+---
+slug: lac-saint-andre-porte-de-savoie
+name: "Lac Saint-André"
+category: lac
+category_label: "Lac & plage"
+commune: "Porte-de-Savoie"
+postal_code: "73800"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.494167
+longitude: 5.986513
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/lac-saint-andre-porte-de-savoie
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/lac-saint-andre-porte-de-savoie.json
+photo_url: /img/generique/generique-lac.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-10
+source: loisirs73.fr
+---
+
+# Lac Saint-André
+
+## Faits
+
+- Commune: Porte-de-Savoie, Savoie (73800)
+- GPS: 45.494167, 5.986513
+- Catégorie: lac
+- Type: Lac naturel, Grand Site du Département
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Toute l'année pour le tour du lac ; pêche du 7 mars au 6 décembre 2026
+
+## Source officielle
+
+https://porte-de-savoie.fr/vie-locale/espaces-naturels-et-plans-deau/
+
+================================================================================
+
+---
 slug: les-charmettes-maison-jean-jacques-rousseau-chambery
 name: "Les Charmettes, maison de Jean-Jacques Rousseau"
 category: musee
@@ -2280,6 +2478,278 @@ Toute l'année sauf mardis, quatre jours fériés et deux semaines de janvier
 ## Source officielle
 
 https://patrimoines.savoie.fr/web/psp_30197/musee-savoisien-accueil
+
+================================================================================
+
+---
+slug: plage-aiguebelette-le-lac
+name: "Plage d'Aiguebelette-le-Lac"
+category: plage
+category_label: "Plage"
+commune: "Aiguebelette-le-Lac"
+postal_code: "73610"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: null
+longitude: null
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/plage-aiguebelette-le-lac
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/plage-aiguebelette-le-lac.json
+photo_url: /img/generique/generique-plage-lac-4.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-10
+source: loisirs73.fr
+---
+
+# Plage d'Aiguebelette-le-Lac
+
+## Faits
+
+- Commune: Aiguebelette-le-Lac, Savoie (73610)
+- GPS: Non renseigné
+- Catégorie: plage
+- Type: Plage du lac d'Aiguebelette
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+- À partir de: 2.5 EUR
+
+## Accès (PMR)
+
+- Statut: Accessible
+- Détail: « Accessible en fauteuil roulant en autonomie », selon la fiche de l'office de tourisme du lac d'Aiguebelette.
+- Source: OT Lac d'Aiguebelette — https://www.lac-aiguebelette.com/plage/plage-daiguebelette-le-lac-116726/
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Saison surveillée du 13 juin au 30 août, 10h–19h
+
+## Source officielle
+
+https://www.lac-aiguebelette.com/plage/plage-daiguebelette-le-lac-116726/
+
+================================================================================
+
+---
+slug: plage-base-de-loisirs-du-sougey
+name: "Plage du Sougey"
+category: plage
+category_label: "Plage"
+commune: "Saint-Alban-de-Montbel"
+postal_code: "73610"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.553175
+longitude: 5.791196
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/plage-base-de-loisirs-du-sougey
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/plage-base-de-loisirs-du-sougey.json
+photo_url: /img/generique/generique-plage-lac-3.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-10
+source: loisirs73.fr
+---
+
+# Plage du Sougey
+
+## Faits
+
+- Commune: Saint-Alban-de-Montbel, Savoie (73610)
+- GPS: 45.553175, 5.791196
+- Catégorie: plage
+- Type: Plage du lac d'Aiguebelette
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+- À partir de: 2.5 EUR
+
+## Accès (PMR)
+
+- Statut: Partiellement accessible
+- Détail: « Accessible en fauteuil roulant avec aide — Rampe d'accès », selon la fiche de l'office de tourisme du lac d'Aiguebelette.
+- Source: OT Lac d'Aiguebelette — https://www.lac-aiguebelette.com/plage/plage-de-la-base-de-loisirs-du-sougey-81194/
+
+## Parking
+
+Gratuit
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Saison surveillée du 13 juin au 30 août, 10h–19h
+
+## Source officielle
+
+https://www.lac-aiguebelette.com/plage/plage-de-la-base-de-loisirs-du-sougey-81194/
+
+================================================================================
+
+---
+slug: plage-municipale-aix-les-bains-aqualac
+name: "Plage municipale d'Aix-les-Bains (Aqualac)"
+category: plage
+category_label: "Plage"
+commune: "Aix-les-Bains"
+postal_code: "73100"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.692468
+longitude: 5.892845
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/plage-municipale-aix-les-bains-aqualac
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/plage-municipale-aix-les-bains-aqualac.json
+photo_url: /img/generique/generique-plage-lac-1.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-10
+source: loisirs73.fr
+---
+
+# Plage municipale d'Aix-les-Bains (Aqualac)
+
+## Faits
+
+- Commune: Aix-les-Bains, Savoie (73100)
+- GPS: 45.692468, 5.892845
+- Catégorie: plage
+- Type: Plage municipale du lac du Bourget
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+- Statut: Accessible
+- Détail: « Accessible en fauteuil roulant en autonomie », selon la fiche de l'office de tourisme Aix les Bains Riviera des Alpes.
+- Source: OT Aix les Bains Riviera des Alpes — https://www.aixlesbains-rivieradesalpes.com/equipement/plage-municipale-plage-aqualac-aix-les-bains/
+
+## Parking
+
+Parking payant
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Surveillance du 30 mai au 30 août 2026, 10h–19h ; site ouvert toute l'année
+
+## Source officielle
+
+https://grand-lac.fr/au-quotidien/services-a-la-population/au-quotidien/services-a-la-population/aqualac/infos-pratiques
+
+================================================================================
+
+---
+slug: plage-municipale-le-bourget-du-lac
+name: "Plage municipale du Bourget-du-Lac"
+category: plage
+category_label: "Plage"
+commune: "Le Bourget-du-Lac"
+postal_code: "73370"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.655642
+longitude: 5.861318
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/plage-municipale-le-bourget-du-lac
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/plage-municipale-le-bourget-du-lac.json
+photo_url: /img/generique/generique-plage-lac-2.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-10
+source: loisirs73.fr
+---
+
+# Plage municipale du Bourget-du-Lac
+
+## Faits
+
+- Commune: Le Bourget-du-Lac, Savoie (73370)
+- GPS: 45.655642, 5.861318
+- Catégorie: plage
+- Type: Plage municipale du lac du Bourget
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+- À partir de: 2.3 EUR
+
+## Accès (PMR)
+
+- Statut: Accessible
+- Détail: « L'ensemble de la plage est accessible aux personnes à mobilité réduite en toute autonomie », selon la fiche de l'office de tourisme.
+- Source: OT Aix les Bains Riviera des Alpes — https://www.aixlesbains-rivieradesalpes.com/equipement/plage-municipale-du-bourget-du-lac-le-bourget-du-lac/
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Saison surveillée du 13 juin au 30 août 2026
+
+## Source officielle
+
+https://www.lebourgetdulac.fr/plage-municipale/
 
 ================================================================================
 

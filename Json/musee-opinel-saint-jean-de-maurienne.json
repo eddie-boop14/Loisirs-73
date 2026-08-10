@@ -24,6 +24,99 @@
   "hero_credit": null,
   "hero_image": "/img/generique/generique-musee-moderne.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Das Buchenmesser mit der sich drehenden Ferrule, von Joseph Opinels Werkstatt bis zu einer Weltmarke - auf fast 700 m².",
+          "tag": "frei",
+          "title": "Die Opinel-Geschichte"
+        },
+        {
+          "description": "Das Museum grenzt an die Opinel-Welt von Saint-Jean-de-Maurienne, der Heimatstadt des Bestecks.",
+          "tag": "Vor Ort",
+          "title": "Museumsshop"
+        }
+      ],
+      "body": {
+        "what_is": "<p>In Saint-Jean-de-Maurienne, die<strong>Opinel Museum</strong>Devote fast<strong>700 m² zur Geschichte des berühmten Savoyer Messers</strong>Erfunden von Joseph Opinel. Eintritt ist<strong>frei</strong>und das Museum öffnet<strong>9:00-18:30 non-stop</strong>.</p><p>Der Kalender ist einfach: von Januar bis Juni und September bis Dezember, jeden Tag geöffnet<strong>Ausgenommen Sonntage und Feiertage</strong>; in<strong>Juli und August, 7 Tage die Woche geöffnet</strong>.</p><p>Das Gebäude ist<strong>einstöckig und voll zugänglich</strong>Besucher mit eingeschränkter Mobilität - die offizielle Seite des Museums erklärt es. Anschrift: 25 rue Jean Jaurès, im Zentrum von Saint-Jean-de-Maurienne.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Freier Eintritt",
+        "best_season": "Ganzjährig; 7/7 im Juli-August, sonntags und an Feiertagen den Rest des Jahres geschlossen",
+        "commune": "Saint-Jean-de-Maurienne",
+        "dogs": null,
+        "parking": null,
+        "stroller": "Einstöckiges, stufenloses Museum",
+        "type": "Firmen- und Handwerksmuseum"
+      },
+      "faq": [
+        {
+          "a": "Nein: 'Entrée libre et gratuite', nach der offiziellen Opinel-Website.",
+          "q": "Wird der Eintritt bezahlt?"
+        },
+        {
+          "a": "9:00-18:30 non-stop. Sonntags und Feiertage geschlossen von Januar bis Juni und September bis Dezember; geöffnet 7/7 im Juli und August.",
+          "q": "Was sind die Öffnungszeiten?"
+        },
+        {
+          "a": "Ja, nach der offiziellen Website: ein einstöckiges Museum, das für Besucher mit eingeschränkter Mobilität vollständig zugänglich ist.",
+          "q": "Ist der Museumsrollstuhl zugänglich?"
+        },
+        {
+          "a": "Fast 700 m² zur Geschichte des Savoyer Messers, das von Joseph Opinel erfunden wurde, in der Stadt, in der die Geschichte begann.",
+          "q": "Was gibt es zu sehen?"
+        },
+        {
+          "a": "25 rue Jean Jaurès, 73300 Saint-Jean-de-Maurienne.",
+          "q": "Wo ist das Museum?"
+        }
+      ],
+      "hero": {
+        "badge": "Freier Eintritt · Maurienne",
+        "lead": "Fast 700 m² sind dem von Joseph Opinel erfundenen Savoyard-Messer im Herzen von Saint-Jean-de-Maurienne gewidmet. Freier Eintritt, 9:00-18:30 non-stop."
+      },
+      "hero_alt": "Musée Opinel, Geschichte des Savoyard Messers, Saint-Jean-de-Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Central Saint-Jean-de-Maurienne, 25 rue Jean Jaurès; die Stadt liegt auf der Maurienne A43.",
+        "public_transport": null
+      },
+      "meta_description": "Das Opinel-Museum in Saint-Jean-de-Maurienne: freier Eintritt, 700 m² auf Joseph Opinels Savoyard-Messer, vollständig stufenlos und zugänglich.",
+      "meta_title": "Musée Opinel · Freier Eintritt, Stunden, Saint-Jean-de-Maurienne",
+      "name": "Musée Opinel",
+      "name_alternates": [
+        "Musée de l'Opinel"
+      ],
+      "practical_info": [
+        {
+          "k": "Anschrift",
+          "v": "25 rue Jean Jaurès, 73300 Saint-Jean-de-Maurienne"
+        },
+        {
+          "k": "Preis",
+          "v": "Freier Eintritt"
+        },
+        {
+          "k": "Stunden",
+          "v": "9:00-18:30 non-stop"
+        },
+        {
+          "k": "Verschlüsse",
+          "v": "Sonntage und Feiertage außerhalb Juli-August; 7/7 im Juli-August"
+        },
+        {
+          "k": "Zugänglichkeit",
+          "v": "Einstöckig, vollständig zugänglich (offizielle Quelle)"
+        }
+      ],
+      "schema_amenities": [
+        "Freier Eintritt",
+        "Stufenfrei, Rollstuhl zugänglich",
+        "Kontinuierliche Stunden"
+      ],
+      "when_to_visit": "<p>Das ganze Jahr über, 9:00-18:30 ohne Pause - außerhalb von Juli-August, vermeiden Sie einfach Sonntage und Feiertage.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -117,6 +210,99 @@
       ],
       "when_to_visit": "<p>Year-round, 9:00–18:30 without a break — outside July-August, just avoid Sundays and public holidays.</p>"
     },
+    "es": {
+      "activities": [
+        {
+          "description": "El cuchillo de haya con el ferrulo retorcido, del taller de Joseph Opinel a una marca mundial, a través de casi 700 m².",
+          "tag": "Gratis",
+          "title": "La historia de Opinel"
+        },
+        {
+          "description": "El museo se une al mundo Opinel de Saint-Jean-de-Maurienne, la ciudad natal de la corteza.",
+          "tag": "En el sitio",
+          "title": "Tienda de museos"
+        }
+      ],
+      "body": {
+        "what_is": "<p>En Saint-Jean-de-Maurienne, el<strong>Museo Opinel</strong>devotos casi<strong>700 m² a la historia del famoso cuchillo Savoyard</strong>inventado por Joseph Opinel. Entrada<strong>gratis</strong>, y el museo abre<strong>9:00-18:30 sin parar</strong>.</p><p>El calendario es simple: de enero a junio y septiembre a diciembre, abierto todos los días<strong>excepto domingos y festivos</strong>; in<strong>Julio y agosto, abierto 7 días a la semana</strong>.</p><p>El edificio es<strong>una sola planta y totalmente accesible</strong>a los visitantes con movilidad reducida — la propia página oficial del museo lo declara. Dirección: 25 rue Jean Jaurès, en el centro de Saint-Jean-de-Maurienne.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Entrada gratuita",
+        "best_season": "Año entero; 7/7 en julio-agosto, cerrado domingos y festivos el resto del año",
+        "commune": "Saint-Jean-de-Maurienne",
+        "dogs": null,
+        "parking": null,
+        "stroller": "Museo de una sola planta, sin paso",
+        "type": "Museo de la empresa y la artesanía"
+      },
+      "faq": [
+        {
+          "a": "No: 'Entrée libre et gratuite', por el sitio oficial de Opinel.",
+          "q": "¿Se paga la entrada?"
+        },
+        {
+          "a": "9:00-18:30 sin parar. Domingos cerrados y festivos de enero a junio y septiembre a diciembre; abierto 7/7 en julio y agosto.",
+          "q": "¿Cuáles son las horas de apertura?"
+        },
+        {
+          "a": "Sí, por el sitio oficial: un museo de una sola planta, totalmente accesible a los visitantes con movilidad reducida.",
+          "q": "¿La silla de ruedas del museo es accesible?"
+        },
+        {
+          "a": "Casi 700 m² en la historia del cuchillo Savoyard inventado por Joseph Opinel, en la ciudad donde comenzó la historia.",
+          "q": "¿Qué hay que ver?"
+        },
+        {
+          "a": "25 rue Jean Jaurès, 73300 Saint-Jean-de-Maurienne.",
+          "q": "¿Dónde está el museo?"
+        }
+      ],
+      "hero": {
+        "badge": "Entrada gratuita · Maurienne",
+        "lead": "Cerca de 700 m² dedicados al cuchillo Savoyard inventado por Joseph Opinel, en el corazón de Saint-Jean-de-Maurienne. Entrada libre, 9:00-18:30 sin parar."
+      },
+      "hero_alt": "Musée Opinel, historia del cuchillo Savoyard, Saint-Jean-de-Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Central Saint-Jean-de-Maurienne, 25 rue Jean Jaurès; la ciudad se encuentra en el A43 de Maurienne.",
+        "public_transport": null
+      },
+      "meta_description": "El museo Opinel en Saint-Jean-de-Maurienne: entrada gratuita, 700 m² en el cuchillo Savoyard de Joseph Opinel, totalmente libre de pasos y accesible.",
+      "meta_title": "Musée Opinel · Entrada gratuita, horas, Saint-Jean-de-Maurienne",
+      "name": "Musée Opinel",
+      "name_alternates": [
+        "Musée de l'Opinel"
+      ],
+      "practical_info": [
+        {
+          "k": "Dirección",
+          "v": "25 rue Jean Jaurès, 73300 Saint-Jean-de-Maurienne"
+        },
+        {
+          "k": "Precio",
+          "v": "Entrada gratuita"
+        },
+        {
+          "k": "Horas",
+          "v": "9:00-18:30 sin parar"
+        },
+        {
+          "k": "Cierre",
+          "v": "Domingos y festivos fuera de julio-agosto; 7/7 en julio-agosto"
+        },
+        {
+          "k": "Accesibilidad",
+          "v": "Librería, totalmente accesible (fuente oficial)"
+        }
+      ],
+      "schema_amenities": [
+        "Entrada gratuita",
+        "Sin paso, silla de ruedas accesible",
+        "Horas continuas"
+      ],
+      "when_to_visit": "<p>Alrededor de todo el año, 9:00-18:30 sin descanso — fuera de julio-agosto, simplemente evitar domingos y festivos.</p>"
+    },
     "fr": {
       "activities": [
         {
@@ -209,6 +395,192 @@
         "Horaires continus"
       ],
       "when_to_visit": "<p>Toute l'année de 9h à 18h30 sans interruption — en dehors de juillet-août, éviter simplement les dimanches et jours fériés.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Il coltello a mano di faggio con il ferrule di torsione, dal laboratorio di Joseph Opinel ad un marchio mondiale — su quasi 700 m².",
+          "tag": "Gratis",
+          "title": "La storia di Opinel"
+        },
+        {
+          "description": "Il museo confina con il mondo Opinel di Saint-Jean-de-Maurienne, la città natale della posate.",
+          "tag": "Sul sito",
+          "title": "Negozio di musei"
+        }
+      ],
+      "body": {
+        "what_is": "<p>In Saint-Jean-de-Maurienne, il<strong>Museo Opinel</strong>dedica quasi<strong>700 m² alla storia del famoso coltello Savoyard</strong>inventato da Joseph Opinel. L'ingresso è<strong>gratis</strong>, e il museo si apre<strong>9:00-18:30 non-stop</strong>.</p><p>Il calendario è semplice: da gennaio a giugno e settembre a dicembre, aperto tutti i giorni<strong>eccetto domenica e festivi</strong>;<strong>Luglio e agosto, aperto 7 giorni alla settimana</strong>.</p><p>L'edificio è<strong>singolo piano e completamente accessibile</strong>a visitatori con mobilità ridotta — la pagina ufficiale del museo lo dichiara. Indirizzo: 25 rue Jean Jaurès, nel centro di Saint-Jean-de-Maurienne.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Ingresso libero",
+        "best_season": "7/7 luglio-agosto, chiuso domenica e festivi il resto dell'anno",
+        "commune": "Saint-Jean-de-Maurienne",
+        "dogs": null,
+        "parking": null,
+        "stroller": "Museo senza scalini",
+        "type": "Museo aziendale e artigianale"
+      },
+      "faq": [
+        {
+          "a": "No: 'Entrée libre et gratuite', per il sito ufficiale Opinel.",
+          "q": "L'ingresso è pagato?"
+        },
+        {
+          "a": "9:00-18:30 non-stop. Chiuso domenica e festivi da gennaio a giugno e settembre a dicembre; aperto 7/7 in luglio e agosto.",
+          "q": "Quali sono gli orari di apertura?"
+        },
+        {
+          "a": "Sì, per il sito ufficiale: un museo a un piano, completamente accessibile ai visitatori con mobilità ridotta.",
+          "q": "La sedia a rotelle del museo è accessibile?"
+        },
+        {
+          "a": "Quasi 700 m² sulla storia del coltello Savoyard inventato da Joseph Opinel, nella città in cui è iniziata la storia.",
+          "q": "Cosa c'è da vedere?"
+        },
+        {
+          "a": "25 rue Jean Jaurès, 73300 Saint-Jean-de-Maurienne.",
+          "q": "Dov'è il museo?"
+        }
+      ],
+      "hero": {
+        "badge": "Ingresso libero · Maurienne",
+        "lead": "Quasi 700 m² dedicati al coltello Savoyard inventato da Joseph Opinel, nel cuore di Saint-Jean-de-Maurienne. Ingresso gratuito, 9:00-18:30 non-stop."
+      },
+      "hero_alt": "Musée Opinel, storia del coltello Savoyard, Saint-Jean-de-Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Central Saint-Jean-de-Maurienne, 25 rue Jean Jaurès; la città si trova sulla A43 di Maurienne.",
+        "public_transport": null
+      },
+      "meta_description": "Il museo Opinel in Saint-Jean-de-Maurienne: ingresso gratuito, 700 m² sul coltello Savoyard di Joseph Opinel, completamente gratuito e accessibile.",
+      "meta_title": "Musée Opinel · Ingresso libero, ore, Saint-Jean-de-Maurienne",
+      "name": "Musée Opinel",
+      "name_alternates": [
+        "Musée de l'Opinel"
+      ],
+      "practical_info": [
+        {
+          "k": "Indirizzo",
+          "v": "25 rue Jean Jaurès, 73300 Saint-Jean-de-Maurienne"
+        },
+        {
+          "k": "Prezzo",
+          "v": "Ingresso libero"
+        },
+        {
+          "k": "Ore",
+          "v": "9:00-18:30 non-stop"
+        },
+        {
+          "k": "Chiusura",
+          "v": "Domenica e festivi fuori luglio-agosto; 7/7 in luglio-agosto"
+        },
+        {
+          "k": "Accessibilità",
+          "v": "Singolo piano, completamente accessibile (fonte ufficiale)"
+        }
+      ],
+      "schema_amenities": [
+        "Ingresso libero",
+        "Senza barriere architettoniche, accessibile su sedia a rotelle",
+        "Ore continue"
+      ],
+      "when_to_visit": "<p>Tutto l'anno, 9:00-18:30 senza una pausa — fuori luglio-agosto, basta evitare domenica e festivi.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Het beukenmes met de verdraaide ferrule, van Joseph Opinel's werkplaats tot een wereldmerk van bijna 700 m2.",
+          "tag": "Vrij",
+          "title": "Het verhaal van de Opinel"
+        },
+        {
+          "description": "Het museum grenst aan de Opinel wereld van Saint-Jean-de-Maurienne, de thuisstad van het bestek.",
+          "tag": "Ter plaatse",
+          "title": "Museumwinkel"
+        }
+      ],
+      "body": {
+        "what_is": "<p>In Saint-Jean-de-Maurienne, de<strong>Opinel museum</strong>wijdt bijna<strong>700 m2 naar de geschiedenis van het beroemde Savoyard mes</strong>uitgevonden door Joseph Opinel. De ingang is<strong>vrij</strong>, en het museum opent<strong>9:00</strong>.</p><p>De kalender is eenvoudig: van januari tot juni en september tot december, elke dag geopend<strong>behalve op zon- en feestdagen</strong>; in<strong>Juli en augustus, 7 dagen per week geopend</strong>.</p><p>Het gebouw is<strong>één verdieping en volledig toegankelijk</strong>aan bezoekers met beperkte mobiliteit: de officiële pagina van het museum verklaart het. Adres: Jean Jaurèsstraat 25, midden Saint-Jean-de-Maurienne.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Vrije toegang",
+        "best_season": "Het hele jaar; 7/7 in juli-augustus, gesloten zondagen en feestdagen de rest van het jaar",
+        "commune": "Saint-Jean-de-Maurienne",
+        "dogs": null,
+        "parking": null,
+        "stroller": "Een verdieping, traploos museum",
+        "type": "Bedrijfs- en ambachtelijk museum"
+      },
+      "faq": [
+        {
+          "a": "No: 'Entrée libre et gratuite', per de officiële site van Opinel.",
+          "q": "Is de toegang betaald?"
+        },
+        {
+          "a": "9 uur 18.30 uur non-stop. Gesloten zondagen en feestdagen van januari tot juni en september tot december; geopend 7/7 in juli en augustus.",
+          "q": "Wat zijn de openingstijden?"
+        },
+        {
+          "a": "Ja, per officiële website: een museum met één verdieping, volledig toegankelijk voor bezoekers met beperkte mobiliteit.",
+          "q": "Is het museum rolstoeltoegankelijk?"
+        },
+        {
+          "a": "Bijna 700 m2 over de geschiedenis van het Savoyard mes uitgevonden door Joseph Opinel, in de stad waar het verhaal begon.",
+          "q": "Wat valt er te zien?"
+        },
+        {
+          "a": "Jean Jaurèsstraat 25 73300 Saint-Jean-de-Maurienne.",
+          "q": "Waar is het museum?"
+        }
+      ],
+      "hero": {
+        "badge": "Vrije toegang · Maurienne",
+        "lead": "Bijna 700 m2 gewijd aan het Savoyard mes uitgevonden door Joseph Opinel, in het hart van Saint-Jean-de-Maurienne. Gratis toegang, 9 uur 18:30 non-stop."
+      },
+      "hero_alt": "Musée Opinel, geschiedenis van het Savoyard mes, Saint-Jean-de-Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Centraal Saint-Jean-de-Maurienne, 25 rue Jean Jaurès; de stad ligt aan de Maurienne's A43.",
+        "public_transport": null
+      },
+      "meta_description": "Het Opinel museum in Saint-Jean-de-Maurienne: gratis toegang, 700 m2 op Joseph Opinel's Savoyard mes, volledig traploos en toegankelijk.",
+      "meta_title": "Musée Opinel · Vrije toegang, uren, Saint-Jean-de-Maurienne",
+      "name": "Musée Opinel",
+      "name_alternates": [
+        "Musée de l'Opinel"
+      ],
+      "practical_info": [
+        {
+          "k": "Adres",
+          "v": "Jean Jaurèsstraat 25 73300 Saint-Jean-de-Maurienne"
+        },
+        {
+          "k": "Prijs",
+          "v": "Vrije toegang"
+        },
+        {
+          "k": "Uren",
+          "v": "9:00–18:30 non-stop"
+        },
+        {
+          "k": "Sluitingen",
+          "v": "Zon- en feestdagen buiten juli-augustus; 7/7 in juli-augustus"
+        },
+        {
+          "k": "Toegankelijkheid",
+          "v": "Een verdieping, volledig toegankelijk (officiële bron)"
+        }
+      ],
+      "schema_amenities": [
+        "Vrije toegang",
+        "Staploos, rolstoeltoegankelijk",
+        "Continue uren"
+      ],
+      "when_to_visit": "<p>Het hele jaar, 9:00–18:30 zonder onderbreking — buiten juli-augustus, eenvoudig zondagen en feestdagen vermijden.</p>"
     }
   },
   "latitude": 45.277676,

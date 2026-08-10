@@ -1,0 +1,31 @@
+{
+  "name": "Plage municipale du Bourget-du-Lac",
+  "commune": "Le Bourget-du-Lac",
+  "gps": {
+    "lat": 45.655642,
+    "lng": 5.861318
+  },
+  "type": "plage",
+  "hours": null,
+  "prices": {
+    "from": 2.3,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": false,
+    "note": null
+  },
+  "access_pmr": {
+    "status": "accessible",
+    "detail": "« L'ensemble de la plage est accessible aux personnes à mobilité réduite en toute autonomie », selon la fiche de l'office de tourisme.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_url": "https://www.aixlesbains-rivieradesalpes.com/equipement/plage-municipale-du-bourget-du-lac-le-bourget-du-lac/",
+    "source_name": "OT Aix les Bains Riviera des Alpes"
+  },
+  "parking": null,
+  "transport": null,
+  "season": "Saison surveillée du 13 juin au 30 août 2026",
+  "winter": null,
+  "official_url": "https://www.lebourgetdulac.fr/plage-municipale/",
+  "last_verified": null
+}

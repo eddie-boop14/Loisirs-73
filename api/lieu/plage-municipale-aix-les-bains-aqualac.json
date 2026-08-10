@@ -1,0 +1,31 @@
+{
+  "name": "Plage municipale d'Aix-les-Bains (Aqualac)",
+  "commune": "Aix-les-Bains",
+  "gps": {
+    "lat": 45.692468,
+    "lng": 5.892845
+  },
+  "type": "plage",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": {
+    "status": "accessible",
+    "detail": "« Accessible en fauteuil roulant en autonomie », selon la fiche de l'office de tourisme Aix les Bains Riviera des Alpes.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_url": "https://www.aixlesbains-rivieradesalpes.com/equipement/plage-municipale-plage-aqualac-aix-les-bains/",
+    "source_name": "OT Aix les Bains Riviera des Alpes"
+  },
+  "parking": "Parking payant",
+  "transport": null,
+  "season": "Surveillance du 30 mai au 30 août 2026, 10h–19h ; site ouvert toute l'année",
+  "winter": null,
+  "official_url": "https://grand-lac.fr/au-quotidien/services-a-la-population/au-quotidien/services-a-la-population/aqualac/infos-pratiques",
+  "last_verified": null
+}

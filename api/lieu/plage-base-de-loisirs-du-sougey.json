@@ -1,0 +1,33 @@
+{
+  "name": "Plage du Sougey",
+  "commune": "Saint-Alban-de-Montbel",
+  "gps": {
+    "lat": 45.553175,
+    "lng": 5.791196
+  },
+  "type": "plage",
+  "hours": null,
+  "prices": {
+    "from": 2.5,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": false,
+    "note": null
+  },
+  "access_pmr": {
+    "status": "partiel",
+    "detail": "« Accessible en fauteuil roulant avec aide — Rampe d'accès », selon la fiche de l'office de tourisme du lac d'Aiguebelette.",
+    "equipment": [
+      "rampe"
+    ],
+    "handiplage_level": null,
+    "source_url": "https://www.lac-aiguebelette.com/plage/plage-de-la-base-de-loisirs-du-sougey-81194/",
+    "source_name": "OT Lac d'Aiguebelette"
+  },
+  "parking": "Gratuit",
+  "transport": null,
+  "season": "Saison surveillée du 13 juin au 30 août, 10h–19h",
+  "winter": null,
+  "official_url": "https://www.lac-aiguebelette.com/plage/plage-de-la-base-de-loisirs-du-sougey-81194/",
+  "last_verified": null
+}

@@ -1,0 +1,242 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-10",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "lac",
+  "commune": "Grésy-sur-Isère",
+  "date_modified_human": "10 août 2026",
+  "date_published_human": "10 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-10",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-plage-lac-5.jpg",
+  "i18n": {
+    "en": {
+      "activities": [
+        {
+          "description": "The lake is supervised daily in summer — late June to late August, the two sources differing by one day on dates.",
+          "tag": "12:00–18:00",
+          "title": "Supervised summer swimming"
+        },
+        {
+          "description": "Play area and picnic area at the water's edge, on a Pavillon Bleu laureate site.",
+          "tag": "Free",
+          "title": "Picnic and games"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Grésy-sur-Isère leisure base</strong>, run by Arlysère, lines up a beach, a lake, a play area, a picnic area and toilets by the Isère, in the Combe de Savoie. Access is <strong>free</strong>.</p><p>The site is a <strong>Pavillon Bleu laureate</strong> — it appears on the label's official laureate list, category Beach, and the Savoie Mont Blanc listing cites it for its sustainable-development policy.</p><p><strong>Swimming is supervised daily 12:00–18:00</strong> in summer. On the exact 2026 dates, the two official sources differ by a day: <strong>27 June to 27 August</strong> per Arlysère, the operator; 26 June to 26 August per Savoie Mont Blanc. We give both. One honesty note: the IGN geocoder has no 'lake' point at Grésy-sur-Isère — so this page ships without coordinates.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free",
+        "best_season": "Supervised summer swimming, 12:00–18:00 (dates: see sourced contradiction)",
+        "commune": "Grésy-sur-Isère",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Lake and leisure base"
+      },
+      "faq": [
+        {
+          "a": "No — 'Free of charge', says the Savoie Mont Blanc listing; Arlysère publishes no price.",
+          "q": "Is access paid?"
+        },
+        {
+          "a": "Daily 12:00–18:00 in summer — 27 June to 27 August per Arlysère, 26 June to 26 August per Savoie Mont Blanc. Both dates are published; we do not arbitrate.",
+          "q": "When is swimming supervised?"
+        },
+        {
+          "a": "The environmental label for bathing sites: the Grésy-sur-Isère base appears on pavillonbleu.org's official laureate list, category Beach.",
+          "q": "What is the Pavillon Bleu?"
+        },
+        {
+          "a": "Beach, lake, play area, picnic area and toilets, per the Savoie Mont Blanc listing.",
+          "q": "What facilities are there?"
+        },
+        {
+          "a": "The IGN geocoder knows no 'lake' or 'leisure base' POI at Grésy-sur-Isère — rather than an approximate pin, the page shows none.",
+          "q": "Why does this page have no GPS coordinates?"
+        }
+      ],
+      "hero": {
+        "badge": "Free · Pavillon Bleu",
+        "lead": "The Combe de Savoie's swimming lake, a Pavillon Bleu laureate: free access, beach, play and picnic areas, supervised summer swimming 12:00–18:00."
+      },
+      "hero_alt": "The Grésy-sur-Isère leisure-base lake, Combe de Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "In the Combe de Savoie at Grésy-sur-Isère, between Montmélian and Albertville; the base is signposted from the RD 1006.",
+        "public_transport": null
+      },
+      "meta_description": "The Grésy-sur-Isère lake: free access, Pavillon Bleu laureate, supervised summer swimming 12:00–18:00. Official sources, 2026 dates.",
+      "meta_title": "Grésy-sur-Isère leisure base · Free, Pavillon Bleu",
+      "name": "Grésy-sur-Isère leisure base",
+      "name_alternates": [
+        "Plan d'eau de Grésy-sur-Isère"
+      ],
+      "practical_info": [
+        {
+          "k": "Address",
+          "v": "Leisure base, 73460 Grésy-sur-Isère"
+        },
+        {
+          "k": "Price",
+          "v": "Free"
+        },
+        {
+          "k": "Supervision",
+          "v": "12:00–18:00 daily — 27/06-27/08 (Arlysère) or 26/06-26/08 (Savoie Mont Blanc)"
+        },
+        {
+          "k": "Label",
+          "v": "Pavillon Bleu laureate (the label's official list)"
+        },
+        {
+          "k": "Facilities",
+          "v": "Beach, play area, picnic area, toilets"
+        }
+      ],
+      "schema_amenities": [
+        "Free access",
+        "Pavillon Bleu",
+        "Play and picnic areas"
+      ],
+      "when_to_visit": "<p>Summer for supervised swimming (12:00–18:00); the Pavillon Bleu label rewards the water quality and the site's management.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Le plan d'eau se surveille tous les jours en été — fin juin à fin août, les deux sources divergeant d'un jour sur les dates.",
+          "tag": "12h–18h",
+          "title": "Baignade surveillée l'été"
+        },
+        {
+          "description": "Aire de jeux et aire de pique-nique au bord de l'eau, dans un site lauréat Pavillon Bleu.",
+          "tag": "Gratuit",
+          "title": "Pique-nique et jeux"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>base de loisirs de Grésy-sur-Isère</strong>, gérée par Arlysère, aligne plage, plan d'eau, aire de jeux, aire de pique-nique et sanitaires au bord de l'Isère, en Combe de Savoie. L'accès est <strong>gratuit</strong>.</p><p>Le site est <strong>lauréat Pavillon Bleu</strong> — il figure sur la liste officielle du label, catégorie Plage, et la fiche Savoie Mont Blanc le mentionne pour sa politique de développement durable.</p><p>La <strong>baignade est surveillée tous les jours de 12h à 18h</strong> en été. Sur les dates exactes 2026, les deux sources officielles divergent d'un jour : <strong>du 27 juin au 27 août</strong> selon Arlysère, l'exploitant ; du 26 juin au 26 août selon Savoie Mont Blanc. Nous donnons les deux. Un détail d'honnêteté : le géocodeur IGN n'a aucun point « plan d'eau » à Grésy-sur-Isère — la fiche s'affiche donc sans coordonnées.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuit",
+        "best_season": "Baignade surveillée l'été, 12h–18h (dates : voir contradiction sourcée)",
+        "commune": "Grésy-sur-Isère",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Plan d'eau et base de loisirs"
+      },
+      "faq": [
+        {
+          "a": "Non — « Free of charge », dit la fiche Savoie Mont Blanc ; aucun tarif n'est publié par Arlysère.",
+          "q": "L'accès est-il payant ?"
+        },
+        {
+          "a": "Tous les jours de 12h à 18h en été — du 27 juin au 27 août selon Arlysère, du 26 juin au 26 août selon Savoie Mont Blanc. Les deux dates sont publiées ; nous ne tranchons pas.",
+          "q": "Quand la baignade est-elle surveillée ?"
+        },
+        {
+          "a": "Le label environnemental des sites de baignade : la base de Grésy-sur-Isère figure sur la liste officielle des lauréats de pavillonbleu.org, catégorie Plage.",
+          "q": "Qu'est-ce que le Pavillon Bleu ?"
+        },
+        {
+          "a": "Plage, plan d'eau, aire de jeux, aire de pique-nique et sanitaires, selon la fiche Savoie Mont Blanc.",
+          "q": "Quels équipements trouve-t-on ?"
+        },
+        {
+          "a": "Le géocodeur IGN ne connaît aucun POI « plan d'eau » ou « base de loisirs » à Grésy-sur-Isère — plutôt qu'un point approximatif, la fiche n'en affiche pas.",
+          "q": "Pourquoi la fiche n'a-t-elle pas de coordonnées GPS ?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratuit · Pavillon Bleu",
+        "lead": "Le plan d'eau de la Combe de Savoie, lauréat Pavillon Bleu : accès gratuit, plage, aires de jeux et de pique-nique, baignade surveillée l'été de 12h à 18h."
+      },
+      "hero_alt": "Plan d'eau de la base de loisirs de Grésy-sur-Isère, Combe de Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "En Combe de Savoie, à Grésy-sur-Isère, entre Montmélian et Albertville ; la base est signalée depuis la RD 1006.",
+        "public_transport": null
+      },
+      "meta_description": "Le plan d'eau de Grésy-sur-Isère : accès gratuit, lauréat Pavillon Bleu, baignade surveillée l'été de 12h à 18h. Sources officielles, dates 2026.",
+      "meta_title": "Base de loisirs de Grésy-sur-Isère · Gratuit, Pavillon Bleu",
+      "name": "Base de loisirs de Grésy-sur-Isère",
+      "name_alternates": [
+        "Plan d'eau de Grésy-sur-Isère"
+      ],
+      "practical_info": [
+        {
+          "k": "Adresse",
+          "v": "Base de loisirs, 73460 Grésy-sur-Isère"
+        },
+        {
+          "k": "Tarif",
+          "v": "Gratuit"
+        },
+        {
+          "k": "Surveillance",
+          "v": "12h–18h tous les jours — 27/06-27/08 (Arlysère) ou 26/06-26/08 (Savoie Mont Blanc)"
+        },
+        {
+          "k": "Label",
+          "v": "Lauréat Pavillon Bleu (liste officielle du label)"
+        },
+        {
+          "k": "Équipements",
+          "v": "Plage, aire de jeux, aire de pique-nique, sanitaires"
+        }
+      ],
+      "schema_amenities": [
+        "Accès gratuit",
+        "Pavillon Bleu",
+        "Aires de jeux et de pique-nique"
+      ],
+      "when_to_visit": "<p>L'été pour la baignade surveillée (12h–18h) ; le label Pavillon Bleu récompense la qualité de l'eau et la gestion du site.</p>"
+    }
+  },
+  "latitude": null,
+  "longitude": null,
+  "official_site_url": "https://espaces-aquatiques-arlysere.fr/espaces-ouverts-en-ete/plan-deau-gresy-sur-isere/",
+  "partners": [],
+  "postal_code": "73460",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-10, official sources: Arlysère (operator) + Savoie Mont Blanc + pavillonbleu.org (the label's own laureate listing). Contradiction on the 2026 supervision dates kept: Arlysère says 27/06-27/08, Savoie Mont Blanc 26/06-26/08 — same hours, both quoted. Coordinates NULL by rule: no IGN POI matches name+category (only the commune and lieux-dits).",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "base-de-loisirs-gresy-sur-isere",
+  "sources": [
+    "https://espaces-aquatiques-arlysere.fr/espaces-ouverts-en-ete/plan-deau-gresy-sur-isere/",
+    "https://www.savoie-mont-blanc.com/en/watersports/outdoor-activities-center-gresy-sur-isere-377801/",
+    "https://pavillonbleu.org/laureats/base-de-loisirs-de-gresy-sur-isere/",
+    "https://data.geopf.fr/geocodage/search?q=plan+d+eau+Gresy-sur-Isere&index=poi&limit=3"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "ACCES_PMR_UNVERIFIED — no official accessibility source found for this site. Status stays null rather than being inferred from the terrain."
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Lac Saint-André",
+  "commune": "Porte-de-Savoie",
+  "gps": {
+    "lat": 45.494167,
+    "lng": 5.986513
+  },
+  "type": "lac",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "Toute l'année pour le tour du lac ; pêche du 7 mars au 6 décembre 2026",
+  "winter": null,
+  "official_url": "https://porte-de-savoie.fr/vie-locale/espaces-naturels-et-plans-deau/",
+  "last_verified": null
+}

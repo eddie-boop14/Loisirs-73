@@ -798,9 +798,14 @@
           "category": "chateau",
           "slug": "chateau-de-miolans-saint-pierre-d-albigny",
           "title_fr": "Château de Miolans"
+        },
+        {
+          "category": "lac",
+          "slug": "lac-de-carouge-saint-pierre-d-albigny",
+          "title_fr": "Lac de Carouge"
         }
       ],
-      "lieux_count": 1,
+      "lieux_count": 2,
       "postal_code": "73250",
       "research_log": "Added with the châteaux batch, 2026-08-10.",
       "slug": "saint-pierre-d-albigny",
@@ -861,9 +866,14 @@
           "category": "chateau",
           "slug": "chateau-de-thomas-ii-le-bourget-du-lac",
           "title_fr": "Château de Thomas II"
+        },
+        {
+          "category": "plage",
+          "slug": "plage-municipale-le-bourget-du-lac",
+          "title_fr": "Plage municipale du Bourget-du-Lac"
         }
       ],
-      "lieux_count": 1,
+      "lieux_count": 2,
       "postal_code": "73370",
       "research_log": "Added with the châteaux batch, 2026-08-10.",
       "slug": "le-bourget-du-lac",
@@ -953,10 +963,115 @@
       "slug": "albertville",
       "stats": {},
       "verify_flags": []
+    },
+    {
+      "commune": "Aix-les-Bains",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "Spa town of the Lac du Bourget, Aix-les-Bains lines a free municipal beach and an aquatic centre along France's largest natural lake.",
+      "intro_fr": "Ville thermale du lac du Bourget, Aix-les-Bains aligne plage municipale gratuite et centre aquatique au bord du plus grand lac naturel de France.",
+      "lieux": [
+        {
+          "category": "plage",
+          "slug": "plage-municipale-aix-les-bains-aqualac",
+          "title_fr": "Plage municipale d'Aix-les-Bains (Aqualac)"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73100",
+      "research_log": "Added with the lacs-plages batch, 2026-08-10.",
+      "slug": "aix-les-bains",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
+      "commune": "Saint-Alban-de-Montbel",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "On the Lac d'Aiguebelette's west shore, Saint-Alban-de-Montbel opens the Sougey leisure base and its supervised beach.",
+      "intro_fr": "Sur la rive ouest du lac d'Aiguebelette, Saint-Alban-de-Montbel ouvre la base de loisirs du Sougey et sa plage surveillée.",
+      "lieux": [
+        {
+          "category": "plage",
+          "slug": "plage-base-de-loisirs-du-sougey",
+          "title_fr": "Plage du Sougey"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73610",
+      "research_log": "Added with the lacs-plages batch, 2026-08-10.",
+      "slug": "saint-alban-de-montbel",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
+      "commune": "Aiguebelette-le-Lac",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "The village that gives its name to the emerald lake of Savoie's foothills, with its Port beach and watersport hire.",
+      "intro_fr": "Le village qui donne son nom au lac émeraude de l'avant-pays savoyard, avec sa plage du Port et ses locations nautiques.",
+      "lieux": [
+        {
+          "category": "plage",
+          "slug": "plage-aiguebelette-le-lac",
+          "title_fr": "Plage d'Aiguebelette-le-Lac"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73610",
+      "research_log": "Added with the lacs-plages batch, 2026-08-10.",
+      "slug": "aiguebelette-le-lac",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
+      "commune": "Porte-de-Savoie",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "At Les Marches, below the Granier's cliff, Porte-de-Savoie keeps the Lac Saint-André and its loop through the vines.",
+      "intro_fr": "Aux Marches, sous l'abrupt du Granier, Porte-de-Savoie garde le lac Saint-André et son tour dans les vignes.",
+      "lieux": [
+        {
+          "category": "lac",
+          "slug": "lac-saint-andre-porte-de-savoie",
+          "title_fr": "Lac Saint-André"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73800",
+      "research_log": "Added with the lacs-plages batch, 2026-08-10.",
+      "slug": "porte-de-savoie",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
+      "commune": "Grésy-sur-Isère",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "In the Combe de Savoie, Grésy-sur-Isère keeps a Pavillon Bleu laureate leisure base by the Isère.",
+      "intro_fr": "En Combe de Savoie, Grésy-sur-Isère tient une base de loisirs lauréate Pavillon Bleu au bord de l'Isère.",
+      "lieux": [
+        {
+          "category": "lac",
+          "slug": "base-de-loisirs-gresy-sur-isere",
+          "title_fr": "Base de loisirs de Grésy-sur-Isère"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73460",
+      "research_log": "Added with the lacs-plages batch, 2026-08-10.",
+      "slug": "gresy-sur-isere",
+      "stats": {},
+      "verify_flags": []
     }
   ],
   "generated": "2026-08-08",
-  "manifest": "commune-layer-73-31",
+  "manifest": "commune-layer-73-36",
   "note": "Communes derived from the fiche layer, not authored by hand: one entry per commune that owns at least one fiche. Centroid is the mean of the fiches' coordinates and is absent where none carry one.",
   "tier": "ski-domain launch bucket"
 }

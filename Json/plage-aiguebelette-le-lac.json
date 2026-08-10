@@ -1,0 +1,235 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-10",
+    "confidence": "declarative",
+    "detail": "« Accessible en fauteuil roulant en autonomie », selon la fiche de l'office de tourisme du lac d'Aiguebelette.",
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": "OT Lac d'Aiguebelette",
+    "source_url": "https://www.lac-aiguebelette.com/plage/plage-daiguebelette-le-lac-116726/",
+    "status": "accessible",
+    "tourisme_handicap": null
+  },
+  "category": "plage",
+  "commune": "Aiguebelette-le-Lac",
+  "date_modified_human": "10 août 2026",
+  "date_published_human": "10 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-10",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-plage-lac-4.jpg",
+  "i18n": {
+    "en": {
+      "activities": [
+        {
+          "description": "Swimming in the Lac d'Aiguebelette, supervised daily from 13 June to 30 August — free access off season.",
+          "tag": "10:00–19:00",
+          "title": "Supervised swimming"
+        },
+        {
+          "description": "Rowing boats, pedal boats, canoe-kayaks and paddleboards are hired right on the beach.",
+          "tag": "Hire",
+          "title": "Pedalos, canoes and paddle"
+        }
+      ],
+      "body": {
+        "what_is": "<p>At <strong>Aiguebelette-le-Lac's Port</strong>, the communal beach faces the lake from its eastern shore. As everywhere on the lake, it is <strong>paid during the supervision period</strong> — 13 June to 30 August 2026, daily 10:00–19:00: €2.50 per adult on weekdays, €4 at weekends; €1 and €2 for children aged 5-13; a 10-entry card at €20; free under 5. Bank card and Chèque-Vacances Classic accepted. <strong>'En dehors des périodes de surveillance, l'accès à la plage est libre.'</strong></p><p>On site: <strong>rowing boats and pedalos, canoe-kayaks and stand-up paddleboards for hire</strong>, children's games, deckchairs and parasols. Groups are received on weekdays, except holidays, on reservation. Animals and barbecues remain forbidden on all the lake's beaches.</p><p>The beach is <strong>wheelchair accessible without assistance</strong>, per the official listing. One honesty note: the IGN geocoder knows no 'beach' point at Aiguebelette-le-Lac — so this page ships without coordinates rather than with an approximate pin.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Paid in season: €2.50 weekdays, €4 weekends (adult); free outside supervision",
+        "best_season": "Supervised season 13 June – 30 August, 10:00–19:00",
+        "commune": "Aiguebelette-le-Lac",
+        "dogs": "Forbidden on all the lake's beaches",
+        "parking": null,
+        "stroller": null,
+        "type": "Beach on the Lac d'Aiguebelette"
+      },
+      "faq": [
+        {
+          "a": "In season (13 June – 30 August): €2.50 per adult on weekdays, €4 at weekends; children 5-13 €1/€2; 10-entry card €20; free under 5.",
+          "q": "How much is entry?"
+        },
+        {
+          "a": "'En dehors des périodes de surveillance, l'accès à la plage est libre' — so before 13 June and after 30 August.",
+          "q": "When is the beach free?"
+        },
+        {
+          "a": "Rowing boats and pedal boats, canoe-kayaks and stand-up paddleboards — plus deckchairs and parasols.",
+          "q": "What can you hire on site?"
+        },
+        {
+          "a": "Yes: 'Accessible en fauteuil roulant en autonomie', per the tourist office listing.",
+          "q": "Is the beach wheelchair accessible?"
+        },
+        {
+          "a": "No — animals and barbecues are forbidden on all the Lac d'Aiguebelette's beaches.",
+          "q": "Are dogs allowed?"
+        }
+      ],
+      "hero": {
+        "badge": "€2.50 · Lac d'Aiguebelette",
+        "lead": "The beach at Aiguebelette-le-Lac's Port: supervised daily 10:00–19:00 in season, pedalos, canoes and paddleboards for hire — and free outside supervision."
+      },
+      "hero_alt": "Aiguebelette-le-Lac beach on the lakeshore, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "At Aiguebelette-le-Lac's Port, eastern shore of the lake; free car parks as everywhere around the lake.",
+        "public_transport": null
+      },
+      "meta_description": "The Aiguebelette-le-Lac beach at Le Port: paid 13 June – 30 August 2026, pedalos, canoes and paddleboards for hire, wheelchair accessible without assistance.",
+      "meta_title": "Aiguebelette-le-Lac beach · 2026 prices, pedalos, paddle",
+      "name": "Aiguebelette-le-Lac beach",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Address",
+          "v": "Le Port, 73610 Aiguebelette-le-Lac"
+        },
+        {
+          "k": "Prices 2026",
+          "v": "Adult €2.50 weekdays / €4 weekends; child 5-13 €1/€2"
+        },
+        {
+          "k": "Season",
+          "v": "13 June – 30 August, daily 10:00–19:00"
+        },
+        {
+          "k": "Hire",
+          "v": "Pedalos, canoe-kayaks, stand-up paddle, deckchairs"
+        },
+        {
+          "k": "Groups",
+          "v": "Weekdays except holidays, on reservation"
+        }
+      ],
+      "schema_amenities": [
+        "Wheelchair accessible without assistance",
+        "Watersport hire",
+        "Children's games"
+      ],
+      "when_to_visit": "<p>Weekdays for the lower rate and quieter hire; off season the beach is free but without lifeguards or rentals.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Baignade dans le lac d'Aiguebelette, surveillée tous les jours du 13 juin au 30 août — accès libre hors saison.",
+          "tag": "10h–19h",
+          "title": "Baignade surveillée"
+        },
+        {
+          "description": "Barques, bateaux à pédales, canoës-kayaks et stand-up paddles se louent directement sur la plage.",
+          "tag": "Location",
+          "title": "Pédalos, canoës et paddle"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Au <strong>Port d'Aiguebelette-le-Lac</strong>, la plage communale regarde le lac depuis sa rive est. Comme partout sur le lac, elle est <strong>payante pendant la période de surveillance</strong> — du 13 juin au 30 août 2026, tous les jours de 10h à 19h : 2,50 € par adulte en semaine, 4 € le week-end ; 1 € et 2 € pour les enfants de 5 à 13 ans ; carte 10 entrées à 20 € ; gratuit avant 5 ans. Carte bancaire et Chèque-Vacances Classic acceptés. <strong>« En dehors des périodes de surveillance, l'accès à la plage est libre. »</strong></p><p>Sur place : <strong>location de barques et pédalos, canoës-kayaks et stand-up paddle</strong>, jeux pour enfants, transats et parasols. Les groupes sont accueillis en semaine, sauf jours fériés, sur réservation. Animaux et barbecues restent interdits sur l'ensemble des plages du lac.</p><p>La plage est <strong>accessible en fauteuil roulant en autonomie</strong>, selon la fiche officielle. Un détail d'honnêteté : le géocodeur IGN ne connaît aucun point « plage » à Aiguebelette-le-Lac — la fiche s'affiche donc sans coordonnées plutôt qu'avec un point approximatif.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Payant en saison : 2,50 € semaine, 4 € week-end (adulte) ; libre hors surveillance",
+        "best_season": "Saison surveillée du 13 juin au 30 août, 10h–19h",
+        "commune": "Aiguebelette-le-Lac",
+        "dogs": "Interdits sur l'ensemble des plages du lac",
+        "parking": null,
+        "stroller": null,
+        "type": "Plage du lac d'Aiguebelette"
+      },
+      "faq": [
+        {
+          "a": "En saison (13 juin – 30 août) : 2,50 € par adulte en semaine, 4 € le week-end ; enfants 5-13 ans 1 € / 2 € ; carte 10 entrées 20 € ; gratuit avant 5 ans.",
+          "q": "Combien coûte l'entrée ?"
+        },
+        {
+          "a": "« En dehors des périodes de surveillance, l'accès à la plage est libre » — donc avant le 13 juin et après le 30 août.",
+          "q": "Quand la plage est-elle gratuite ?"
+        },
+        {
+          "a": "Barques et bateaux à pédales, canoës-kayaks et stand-up paddles — plus transats et parasols.",
+          "q": "Que peut-on louer sur place ?"
+        },
+        {
+          "a": "Oui : « Accessible en fauteuil roulant en autonomie », selon la fiche de l'office de tourisme.",
+          "q": "La plage est-elle accessible en fauteuil roulant ?"
+        },
+        {
+          "a": "Non — animaux et barbecues sont interdits sur l'ensemble des plages du lac d'Aiguebelette.",
+          "q": "Les chiens sont-ils admis ?"
+        }
+      ],
+      "hero": {
+        "badge": "2,50 € · Lac d'Aiguebelette",
+        "lead": "La plage du Port d'Aiguebelette-le-Lac : surveillée tous les jours de 10h à 19h en saison, pédalos, canoës et paddles en location — et libre hors surveillance."
+      },
+      "hero_alt": "Plage d'Aiguebelette-le-Lac au bord du lac, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Au Port d'Aiguebelette-le-Lac, rive est du lac ; parkings gratuits comme partout autour du lac.",
+        "public_transport": null
+      },
+      "meta_description": "La plage d'Aiguebelette-le-Lac, au Port : payante du 13 juin au 30 août 2026, pédalos, canoës et paddle en location, accessible en fauteuil en autonomie.",
+      "meta_title": "Plage d'Aiguebelette-le-Lac · Tarifs 2026, pédalos, paddle",
+      "name": "Plage d'Aiguebelette-le-Lac",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Adresse",
+          "v": "Le Port, 73610 Aiguebelette-le-Lac"
+        },
+        {
+          "k": "Tarifs 2026",
+          "v": "Adulte 2,50 € semaine / 4 € week-end ; enfant 5-13 ans 1 € / 2 €"
+        },
+        {
+          "k": "Saison",
+          "v": "Du 13 juin au 30 août, tous les jours 10h–19h"
+        },
+        {
+          "k": "Locations",
+          "v": "Pédalos, canoës-kayaks, stand-up paddle, transats"
+        },
+        {
+          "k": "Groupes",
+          "v": "En semaine sauf fériés, sur réservation"
+        }
+      ],
+      "schema_amenities": [
+        "Accessible en fauteuil en autonomie",
+        "Locations nautiques",
+        "Jeux pour enfants"
+      ],
+      "when_to_visit": "<p>En semaine pour le tarif réduit et les locations tranquilles ; hors saison, la plage est libre mais sans surveillance ni locations.</p>"
+    }
+  },
+  "latitude": null,
+  "longitude": null,
+  "official_site_url": "https://www.lac-aiguebelette.com/plage/plage-daiguebelette-le-lac-116726/",
+  "partners": [],
+  "postal_code": "73610",
+  "price_currency": "EUR",
+  "price_from": 2.5,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-10, official source: OT Lac d'Aiguebelette. Coordinates NULL by rule: the IGN geocoder returns no beach POI for Aiguebelette-le-Lac (only the commune and a lieu-dit) and the name+category match rule refuses a stand-in. Address on file: Le Port, 73610 Aiguebelette-le-Lac.",
+  "schema_org": {
+    "amenities": [],
+    "is_free": false,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "plage-aiguebelette-le-lac",
+  "sources": [
+    "https://www.lac-aiguebelette.com/plage/plage-daiguebelette-le-lac-116726/",
+    "https://www.lac-aiguebelette.com/actualites/les-plages-sont-payantes/",
+    "https://data.geopf.fr/geocodage/search?q=port+Aiguebelette-le-Lac&index=poi&limit=2"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "aquatique",
+  "verify_flags": []
+}

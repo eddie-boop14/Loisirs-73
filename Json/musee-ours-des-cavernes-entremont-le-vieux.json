@@ -24,6 +24,96 @@
   "hero_credit": null,
   "hero_image": "/img/generique/generique-musee.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Der Balme à Collomb Fund und der Höhlenbär, der ihn vor mehr als 28.000 Jahren besetzte, wurden für die ganze Familie inszeniert.",
+          "tag": "7 €",
+          "title": "Ausstellung Ursus spelaeus"
+        },
+        {
+          "description": "Das Familienticket umfasst 2 Erwachsene und 2 Kinder im Alter von 6-16 Jahren; Unter-6-Jährige geben Sie frei ein.",
+          "tag": "22 €",
+          "title": "Familienbesuch"
+        }
+      ],
+      "body": {
+        "what_is": "<p>In Entremont-le-Vieux, in der Savoie Chartreuse, die<strong>Musée de l'Ours des Cavernes</strong>erzählt die Geschichte des<strong>Ursus spelaeus</strong>die die Höhle Balme à Collomb besetzte<strong>Vor mehr als 28.000 Jahren</strong>.</p><p>Preise:<strong>7 € pro Erwachsenem</strong>5 € pro Kind im Alter von 6-16 Jahren (frei unter 6), 22 € für das Familienticket (2 Erwachsene + 2 Kinder), 6 € und 4 € ermäßigt. Der Ticketschalter schließt eine Stunde vor dem Museum.</p><p>Das Museum öffnet nur in<strong>Saisonfenster</strong>, veröffentlicht für 2026: 7. Februar - 8. März und 4. April - 30. Juni, täglich 14:00-18:00; 1. Juli - 31. August, täglich 10:00-12:30 und 14:00-18:00; 1 - 30. September und 17. Oktober - 1. November, täglich 14:00-18:00; dann 19. Dezember 2026 - 3. Januar 2027, geschlossen am 25. Dezember und 1. Januar. Zwischen diesen Fenstern ist das Museum geschlossen.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Bezahlt: 7 € Erwachsener, 5 € Kind (6-16), Familie 22 €",
+        "best_season": "2026 Saisonfenster: Schulferien; Sommer 10:00-12:30 / 14:00-18:00",
+        "commune": "Entremont-le-Vieux",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Prähistorisches und Paläontologiemuseum"
+      },
+      "faq": [
+        {
+          "a": "7 € Erwachsener, 5 € Kind (6-16), frei unter 6, 22 € Familie (2 Erwachsene + 2 Kinder), 6 €4 ermäßigt.",
+          "q": "Wie viel kostet der Eintritt?"
+        },
+        {
+          "a": "In Fenstern: 7. Februar – 8. März und 4. April – 30. Juni (14:00-18:00), 1. Juli – 31. August (10:00-12:30 und 14:00-18:00), 1. 30. September und 17. Oktober – 1. November (14:00-18:00), 19. Dezember 2026 – 3. Januar 2027 (geschlossen 25. Dezember und 1. Januar).",
+          "q": "Wann ist das Museum 2026 eröffnet?"
+        },
+        {
+          "a": "Die Granier-Höhle, in der der Höhlenbär Ursus spelaeus vor mehr als 28.000 Jahren seine Spuren hinterlassen hat - der Fund, auf dem das Museum aufgebaut ist.",
+          "q": "Was ist der Balme à Collomb?"
+        },
+        {
+          "a": "Der Ticketschalter schließt 1 Stunde vor der Schließung des Museums.",
+          "q": "Bis wann kannst du eintreten?"
+        },
+        {
+          "a": "97 Allée du Musée, Épernay Weiler, 73670 Entremont-le-Vieux.",
+          "q": "Wo ist das Museum?"
+        }
+      ],
+      "hero": {
+        "badge": "7 € · Chartreuse",
+        "lead": "Der Höhlenbär, der vor mehr als 28.000 Jahren die Balme à Collomb besetzte, hat sein Museum in Entremont-le-Vieux - geöffnet in saisonalen Fenstern, Feiertagen und Sommer."
+      },
+      "hero_alt": "Das Höhlenbärenmuseum in Entremont-le-Vieux, Chartreuse, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Entremont-le-Vieux, Herzstück der Entremonts im Chartreuse; das Museum befindet sich im Weiler Épernay.",
+        "public_transport": null
+      },
+      "meta_description": "Das Höhlenbärenmuseum in Entremont-le-Vieux: der Ursus spelaeus der Balme à Collomb, 7 € für Erwachsene, 2026 Saisonfenster. Nur offizielle Quellen.",
+      "meta_title": "Musée de l'Ours des Cavernes · 2026 Stunden, Preise, Chartreuse",
+      "name": "Musée de l'Ours des Cavernes",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Anschrift",
+          "v": "97 Allée du Musée — Épernay, 73670 Entremont-le-Vieux"
+        },
+        {
+          "k": "Preise",
+          "v": "7 € Erwachsener, 5 € Kind 6-16, frei unter 6, Familie 22 €"
+        },
+        {
+          "k": "Sommer 2026",
+          "v": "1. Juli - 31. August: täglich 10:00-12:30 und 14:00-18:00"
+        },
+        {
+          "k": "Andere Fenster",
+          "v": "7 Feb – 8 Mar, 4 Apr – 30 Jun, September, 17 Oct – 1 Nov: 14:00–18:00"
+        },
+        {
+          "k": "Fahrkartenschalter",
+          "v": "Schließt 1 Stunde vor dem Museum"
+        }
+      ],
+      "schema_amenities": [
+        "Familienticket",
+        "Vor-Ort-Ticketschalter"
+      ],
+      "when_to_visit": "<p>Sommer für den ganzen Tag (10:00-12:30 und 14:00-18:00); die anderen Fenster öffnen nur Nachmittage. Zwischen den veröffentlichten Perioden ist das Museum geschlossen.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -114,6 +204,96 @@
       ],
       "when_to_visit": "<p>Summer for the full day (10:00–12:30 and 14:00–18:00); the other windows open afternoons only. Between the published periods, the museum is closed.</p>"
     },
+    "es": {
+      "activities": [
+        {
+          "description": "El hallazgo del Balme à Collomb y el oso cavernícola que lo ocupó hace más de 28.000 años, escenificado para toda la familia.",
+          "tag": "€7",
+          "title": "Exposición Ursus spelaeus"
+        },
+        {
+          "description": "El billete familiar cubre 2 adultos y 2 niños de 6 a 16 años; los menores de 6 años entran gratis.",
+          "tag": "22 €",
+          "title": "Visita de familia"
+        }
+      ],
+      "body": {
+        "what_is": "<p>En Entremont-le-Vieux, en el Savoie Chartreuse, el<strong>musée de l'Ours des Cavernes</strong>cuenta la historia de la<strong>Ursus spelaeus</strong>que ocupaba la cueva de Balme à Collomb<strong>hace más de 28.000 años</strong>.</p><p>Precios:<strong>€7 por adulto</strong>, €5 por niño de 6 a 16 años (gratuito bajo 6), €22 para el billete familiar (2 adultos + 2 niños), €6 y €4 reducido. La taquilla cierra una hora antes del museo.</p><p>El museo se abre sólo en<strong>Ventanas de temporada</strong>, publicado para 2026: 7 de febrero – 8 de marzo y 4 de abril – 30 de junio, todos los días 14:00–18:00; 1 de julio – 31 de agosto, todos los días 10:00–12:30 y 14:00–18:00; 1 – 30 de septiembre y 17 de octubre – 1 de noviembre, diariamente 14:00–18:00; luego 19 de diciembre 2026 – 3 de enero de 2027, cerrado los días 25 de diciembre y 1 de enero. Entre esas ventanas, el museo está cerrado.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagado: 7 € adulto, 5 € niño (6-16), familia 22 €",
+        "best_season": "2026 ventanas de temporada: vacaciones escolares; verano 10:00 – 12:30 / 14:00 – 18:00",
+        "commune": "Entremont-le-Vieux",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Museo de Prehistoria y paleontología"
+      },
+      "faq": [
+        {
+          "a": "€7 adulto, €5 niño (6-16), gratis bajo 6, €22 familia (2 adultos + 2 niños), €6/€4 reducido.",
+          "q": "¿Cuánto es la entrada?"
+        },
+        {
+          "a": "En las ventanas: 7 de febrero – 8 de marzo y 4 de abril – 30 de junio (14:00–18:00), 1 de julio – 31 de agosto (10:00–12:30 y 14:00–18:00), 1 – 30 de septiembre y 17 de octubre – 1 de noviembre (14:00–18:00), 19 de diciembre de 2026 – 3 de enero de 2027 (cerrado 25 de diciembre y 1 de enero).",
+          "q": "¿Cuándo abre el museo en 2026?"
+        },
+        {
+          "a": "La cueva Granier donde el oso de la cueva, Ursus spelaeus, dejó sus huellas hace más de 28.000 años, el hallazgo del museo se construye.",
+          "q": "¿Qué es el Balme à Collomb?"
+        },
+        {
+          "a": "La taquilla cierra 1 hora antes de la hora de clausura del museo.",
+          "q": "¿Hasta cuándo puedes entrar?"
+        },
+        {
+          "a": "97 Allée du Musée, Épernay hamlet, 73670 Entremont-le-Vieux.",
+          "q": "¿Dónde está el museo?"
+        }
+      ],
+      "hero": {
+        "badge": "€7 · Chartreuse",
+        "lead": "El oso cavernícola que ocupó el Balme à Collomb hace más de 28.000 años tiene su museo en Entremont-le-Vieux, abierto en ventanas de temporada, vacaciones y verano."
+      },
+      "hero_alt": "Museo del oso de la cueva en Entremont-le-Vieux, Chartreuse, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Entremont-le-Vieux, corazón de los Entremontes en la Chartreuse; el museo está en la aldea de Épernay.",
+        "public_transport": null
+      },
+      "meta_description": "El Museo del Oso de Cuevas en Entremont-le-Vieux: el eselao Ursus del Balme à Collomb, 7 € adulto, 2026 ventanas de temporada. Fuentes oficiales solamente.",
+      "meta_title": "Musée de l'Ours des Cavernes · 2026 horas, precios, Chartreuse",
+      "name": "Musée de l'Ours des Cavernes",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Dirección",
+          "v": "97 Allée du Musée — Épernay, 73670 Entremont-le-Vieux"
+        },
+        {
+          "k": "Precios",
+          "v": "€7 adulto, € 5 niño 6-16, gratis bajo 6, familia €22"
+        },
+        {
+          "k": "Verano 2026",
+          "v": "1 de julio – 31 de agosto: de 10:00 a 12:30 y de 14:00 a 18:00"
+        },
+        {
+          "k": "Otras ventanas",
+          "v": "7 feb – 8 mar, 4 abr – 30 jun, 17 oct – 1 nov: 14:00-18:00"
+        },
+        {
+          "k": "Oficina de entradas",
+          "v": "Cierra 1 hora antes del museo"
+        }
+      ],
+      "schema_amenities": [
+        "Billete familiar",
+        "Oficina de entradas del hotel"
+      ],
+      "when_to_visit": "<p>Verano para el día completo (10:00–12:30 y 14:00–18:00); las otras ventanas abren las tardes solamente. Entre los períodos publicados, el museo está cerrado.</p>"
+    },
     "fr": {
       "activities": [
         {
@@ -203,6 +383,186 @@
         "Billetterie sur place"
       ],
       "when_to_visit": "<p>L'été pour la journée complète (10h–12h30 et 14h–18h) ; les autres fenêtres ouvrent l'après-midi seulement. Entre les périodes publiées, le musée est fermé.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Il Balme à Collomb trova e l'orso di caverna che l'ha occupato più di 28.000 anni fa, in scena per tutta la famiglia.",
+          "tag": "€ 7",
+          "title": "Mostra Ursus spelaeus"
+        },
+        {
+          "description": "Il biglietto della famiglia copre 2 adulti e 2 bambini di età compresa tra 6 e 16 anni; i minori di 6 anni entrano gratuitamente.",
+          "tag": "€ 22",
+          "title": "Visita di famiglia"
+        }
+      ],
+      "body": {
+        "what_is": "<p>In Entremont-le-Vieux, nel Savoie Chartreuse, il<strong>musée de l'Ours des Cavernes</strong>racconta la storia della<strong>Ursus spelaeus</strong>che occupava la grotta Balme à Collomb<strong>più di 28.000 anni fa</strong>.</p><p>Prezzi:<strong>€7 per adulto</strong>, €5 per bambino di età compresa tra 6 e 16 anni (gratuito sotto i 6 anni), €22 per il biglietto familiare (2 adulti + 2 bambini), €6 e €4 ridotti. La biglietteria chiude un'ora prima del museo.</p><p>Il museo si apre solo in<strong>finestre stagionali</strong>, pubblicato per il 2026: 7 febbraio – 8 marzo e 4 aprile – 30 giugno, tutti i giorni 14:00–18:00; 1 luglio – 31 agosto, tutti i giorni 10:00–12:30 e 14:00–18:00; 1 – 30 settembre e 17 ottobre – 1 novembre, tutti i giorni 14:00–18:00; poi 19 dicembre 2026 – 3 gennaio 2027, chiuso il 25 dicembre e 1 gennaio. Tra quelle finestre, il museo è chiuso.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "A pagamento: €7 adulto, €5 bambino (6-16), famiglia €22",
+        "best_season": "2026 finestre stagionali: vacanze scolastiche; estate 10:00–12:30 / 14:00–18:00",
+        "commune": "Entremont-le-Vieux",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Museo di preistoria e paleontologia"
+      },
+      "faq": [
+        {
+          "a": "€7 adulto, €5 bambino (6-16), gratuito sotto i 6, €22 famiglia (2 adulti + 2 bambini), €6/€4 ridotto.",
+          "q": "Quanto costa?"
+        },
+        {
+          "a": "In finestre: 7 febbraio – 8 marzo e 4 aprile – 30 giugno (14:00–18:00), 1 luglio – 31 agosto (10:00–12:30 e 14:00–18:00), 1 – 30 settembre e 17 ottobre – 1 novembre (14:00–18:00), 19 dicembre 2026 – 3 gennaio 2027 (chiuso 25 dicembre e 1 gennaio).",
+          "q": "Quando è aperto il museo nel 2026?"
+        },
+        {
+          "a": "La grotta di Granier dove l'orso di caverna, Ursus spelaeus, ha lasciato le sue tracce più di 28.000 anni fa — il trovare il museo è costruito su.",
+          "q": "Qual è il Balme à Collomb?"
+        },
+        {
+          "a": "La biglietteria chiude 1 ora prima della chiusura del museo.",
+          "q": "Fino a quando puoi entrare?"
+        },
+        {
+          "a": "97 Allée du Musée, frazione Épernay, 73670 Entremont-le-Vieux.",
+          "q": "Dov'è il museo?"
+        }
+      ],
+      "hero": {
+        "badge": "€7 · Chartreuse",
+        "lead": "L'orso di grotta che ha occupato il Balme à Collomb più di 28.000 anni fa ha il suo museo in Entremont-le-Vieux — aperto in finestre stagionali, vacanze ed estate."
+      },
+      "hero_alt": "Museo dell'orso delle caverne in Entremont-le-Vieux, Chartreuse, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Entremont-le-Vieux, cuore degli Entremonts nello Chartreuse; il museo si trova nella frazione Épernay.",
+        "public_transport": null
+      },
+      "meta_description": "Il museo Cave Bear in Entremont-le-Vieux: l'Ursus spelaeus del Balme à Collomb, € 7 adulti, 2026 finestre stagionali. Solo fonti ufficiali.",
+      "meta_title": "Musée de l'Ours des Cavernes · 2026 ore, prezzi, Chartreuse",
+      "name": "Musée de l'Ours des Cavernes",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Indirizzo",
+          "v": "97 Allée du Musée — Épernay, 73670 Entremont-le-Vieux"
+        },
+        {
+          "k": "Prezzi",
+          "v": "€7 adulto, €5 bambino 6-16, gratis sotto 6, famiglia €22"
+        },
+        {
+          "k": "Estate 2026",
+          "v": "1 luglio – 31 agosto: tutti i giorni 10:00–12:30 e 14:00–18:00"
+        },
+        {
+          "k": "Altre finestre",
+          "v": "7 feb – 8 mar, 4 apr – 30 giu, settembre, 17 ott – 1 nov: 14:00–18:00"
+        },
+        {
+          "k": "Biglietteria",
+          "v": "Chiude 1 ora prima del museo"
+        }
+      ],
+      "schema_amenities": [
+        "Biglietto famiglia",
+        "Biglietteria in loco"
+      ],
+      "when_to_visit": "<p>Estate per il giorno intero (10:00-12:30 e 14:00-18:00); le altre finestre aperto solo pomeriggi. Tra i periodi pubblicati, il museo è chiuso.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "De Balme à Collomb vinden en de grotbeer die het meer dan 28.000 jaar geleden bezet, opgevoerd voor het hele gezin.",
+          "tag": "7 EUR",
+          "title": "Ursus spelaeus tentoonstelling"
+        },
+        {
+          "description": "Het familieticket omvat 2 volwassenen en 2 kinderen van 6-16 jaar; onder-6 jaar gratis.",
+          "tag": "22 EUR",
+          "title": "Familiebezoek"
+        }
+      ],
+      "body": {
+        "what_is": "<p>In Entremont-le-Vieux, in Savoie Chartreuse, het <strong>musée de l'Ours des Cavernes</strong> vertelt het verhaal van de <strong>Ursus spelaeus</strong> die de grot van de Balme à Collomb bewoonde <strong>meer dan 28.000 jaar geleden</strong>.</p><p>Prijzen: <strong>€7 per volwassene</strong>, €5 per kind van 6-16 jaar (gratis onder 6 jaar), €22 voor het gezinsticket (2 volwassenen + 2 kinderen), €6 en €4 gereduceerd. Het ticketkantoor sluit één uur voor het museum.</p><p>Het museum opent uitsluitend in <strong>seizoensvensters</strong>, gepubliceerd voor 2026: 7 februari – 8 maart en 4 april – 30 juni, dagelijks 14:00–18:00 ; 1 juli – 31 augustus, dagelijks 10:00–12:30 en 14:00–18:00 ; 1 – 30 september en 17 oktober – 1 november, dagelijks 14:00–18:00 ; vervolgens 19 december 2026 – 3 januari 2027, gesloten 25 december en 1 januari. Buiten deze periodes is het museum gesloten.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Betaald: € 7 volwassene, € 5 kind (6-16), familie € 22",
+        "best_season": "2026 seizoensvensters: schoolvakanties, zomer 10:00–12:30 / 14:00–18:00",
+        "commune": "Entremont-le-Vieux",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Prehistorie en paleontologie museum"
+      },
+      "faq": [
+        {
+          "a": "€7 volwassene, €5 kind (6-16), gratis onder 6, €22 familie (2 volwassenen + 2 kinderen), €6/€4 verminderd.",
+          "q": "Hoeveel kost de toegang?"
+        },
+        {
+          "a": "In vensters: 7 februari – 8 maart en 4 april – 30 juni (14:00–18:00), 1 juli – 31 augustus (10:00–12:30 en 14:00–18:00), 1 – 30 september en 17 oktober – 1 november (14:00–18:00), 19 december 2026 – 3 januari 2027 (gesloten 25 december en 1 januari).",
+          "q": "Wanneer is het museum geopend in 2026?"
+        },
+        {
+          "a": "De grot van Granier, waar de grotbeer, Ursus spelaeus, meer dan 28.000 jaar geleden zijn sporen achterliet, de vondst waarop het museum is gebouwd.",
+          "q": "Wat is de Balme à Collomb?"
+        },
+        {
+          "a": "Het ticketkantoor sluit 1 uur voor sluitingstijd van het museum.",
+          "q": "Tot wanneer kun je binnenkomen?"
+        },
+        {
+          "a": "97 Allée du Musée, Épernay, 73670 Entremont-le-Vieux.",
+          "q": "Waar is het museum?"
+        }
+      ],
+      "hero": {
+        "badge": "7 € · Chartreuse",
+        "lead": "De grotbeer die meer dan 28.000 jaar geleden de Balme à Collomb bezette, heeft zijn museum in Entremont-le-Vieux geopend in seizoensgebonden ramen, feestdagen en zomer."
+      },
+      "hero_alt": "Het Cave Bear museum in Entremont-le-Vieux, Chartreuse, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Entremont-le-Vieux, hart van de Entremonts in de Chartreuse; het museum bevindt zich in het gehucht Épernay.",
+        "public_transport": null
+      },
+      "meta_description": "Het Cave Bear museum in Entremont-le-Vieux: de Ursus spelaeus van de Balme à Collomb, € 7 volwassene, 2026 seizoensgebonden ramen. Alleen officiële bronnen.",
+      "meta_title": "Musée de l'Ours des Cavernes · 2026 uur, prijzen, Chartreuse",
+      "name": "Musée de l'Ours des Cavernes",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Adres",
+          "v": "97 Allée du Musée, 73670 Entremont-le-Vieux"
+        },
+        {
+          "k": "Prijzen",
+          "v": "€ 7 volwassene, € 5 kind 6-16, gratis onder 6, familie € 22"
+        },
+        {
+          "k": "Zomer 2026",
+          "v": "1 juli – 31 augustus: dagelijks 10:00–12:30 en 14:00–18:00"
+        },
+        {
+          "k": "Andere vensters",
+          "v": "7 feb – 8 maa, 4 apr – 30 jun, september, 17 okt – 1 nov: 14:00–18:00"
+        },
+        {
+          "k": "Ticketkantoor",
+          "v": "Sluit 1 uur voor het museum"
+        }
+      ],
+      "schema_amenities": [
+        "Gezinsticket",
+        "Ticketkantoor ter plaatse"
+      ],
+      "when_to_visit": "<p>Zomer voor de hele dag (10:00–12:30 en 14:00–18:00) ; de andere vensters openen alleen 's middags. Tussen de gepubliceerde periodes is het museum gesloten.</p>"
     }
   },
   "latitude": 45.451618,

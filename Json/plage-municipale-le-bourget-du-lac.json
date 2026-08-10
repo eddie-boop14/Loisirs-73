@@ -1,0 +1,237 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-10",
+    "confidence": "declarative",
+    "detail": "« L'ensemble de la plage est accessible aux personnes à mobilité réduite en toute autonomie », selon la fiche de l'office de tourisme.",
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": "OT Aix les Bains Riviera des Alpes",
+    "source_url": "https://www.aixlesbains-rivieradesalpes.com/equipement/plage-municipale-du-bourget-du-lac-le-bourget-du-lac/",
+    "status": "accessible",
+    "tourisme_handicap": null
+  },
+  "category": "plage",
+  "commune": "Le Bourget-du-Lac",
+  "date_modified_human": "10 août 2026",
+  "date_published_human": "10 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-10",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-plage-lac-2.jpg",
+  "i18n": {
+    "en": {
+      "activities": [
+        {
+          "description": "Swimming in the Lac du Bourget from 13 June to 30 August 2026 — ending 18:00 per the commune, 19:00 per the tourist office.",
+          "tag": "In season",
+          "title": "Supervised swimming"
+        },
+        {
+          "description": "Beach volleyball court, children's games, showers and cabins, restaurant — picnics allowed, free WiFi.",
+          "tag": "On site",
+          "title": "Beach volleyball and kids' games"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Le Bourget-du-Lac municipal beach</strong> opens the southern shore of the Lac du Bourget, a stone's throw from the château de Thomas II. In season — <strong>13 June to 30 August 2026 inclusive</strong> — access is paid: €2.30 to €3.20 per adult, €1.60 to €2.20 per child, with a reduced rate from 16:00. The rest of the year, the beach is open daily, free.</p><p>On the supervised swimming's closing hour, the two official sources differ by an hour: the commune publishes <strong>10:00–18:00</strong>, the tourist office <strong>10:00–19:00</strong>. We give both and do not arbitrate.</p><p>The facilities are complete: showers, cabins, toilets, beach volleyball, children's games, picnicking allowed, a restaurant — and free WiFi. Above all, <strong>the whole beach is accessible to visitors with reduced mobility without assistance</strong>, per the official listing.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Paid in season: adult €2.30–3.20, child €1.60–2.20; free off season",
+        "best_season": "Supervised season 13 June – 30 August 2026",
+        "commune": "Le Bourget-du-Lac",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Municipal beach on the Lac du Bourget"
+      },
+      "faq": [
+        {
+          "a": "In season (13 June – 30 August 2026): €2.30 to €3.20 per adult, €1.60 to €2.20 per child, reduced rate from 16:00. Off season, access is free.",
+          "q": "How much is entry?"
+        },
+        {
+          "a": "The commune publishes 10:00–18:00, the tourist office 10:00–19:00 for the same 13 June – 30 August period — the sources differ by an hour and we flag it rather than pick.",
+          "q": "What are the supervision hours?"
+        },
+        {
+          "a": "Yes: 'L'ensemble de la plage est accessible aux personnes à mobilité réduite en toute autonomie', per the tourist office.",
+          "q": "Is the beach wheelchair accessible?"
+        },
+        {
+          "a": "Showers, cabins, toilets, beach volleyball, children's games, a restaurant, picnicking allowed — and free WiFi.",
+          "q": "What facilities are there?"
+        },
+        {
+          "a": "Yes: 'Toute l'année : ouvert tous les jours' — access is free again outside the paid period.",
+          "q": "Can you go outside summer?"
+        }
+      ],
+      "hero": {
+        "badge": "€2.30 · Lac du Bourget",
+        "lead": "The beach on the Lac du Bourget's southern shore: paid and supervised from 13 June to 30 August 2026, free the rest of the year — and fully accessible without assistance."
+      },
+      "hero_alt": "Le Bourget-du-Lac municipal beach, southern shore of the Lac du Bourget, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Southern shore of the Lac du Bourget, at Le Bourget-du-Lac; the beach is signposted from the village.",
+        "public_transport": null
+      },
+      "meta_description": "Le Bourget-du-Lac's municipal beach: paid in season (€2.30–3.20), supervised 13 June – 30 August 2026, fully wheelchair accessible. Official sources.",
+      "meta_title": "Le Bourget-du-Lac beach · 2026 prices, supervised swimming",
+      "name": "Le Bourget-du-Lac municipal beach",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Address",
+          "v": "Municipal beach, 73370 Le Bourget-du-Lac"
+        },
+        {
+          "k": "Prices 2026",
+          "v": "Adult €2.30–3.20, child €1.60–2.20; reduced from 16:00"
+        },
+        {
+          "k": "Paid season",
+          "v": "13 June – 30 August 2026 inclusive"
+        },
+        {
+          "k": "Supervision",
+          "v": "10:00–18:00 (commune) or 10:00–19:00 (tourist office) — sources differ"
+        },
+        {
+          "k": "Facilities",
+          "v": "Showers, cabins, beach volleyball, children's games, restaurant, free WiFi"
+        }
+      ],
+      "schema_amenities": [
+        "Fully wheelchair accessible",
+        "Free WiFi",
+        "Restaurant",
+        "Beach volleyball"
+      ],
+      "when_to_visit": "<p>In the supervised season for lifeguarded swimming (13 June – 30 August 2026) — after 16:00 the price drops. Off season, the beach is free again.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Baignade dans le lac du Bourget du 13 juin au 30 août 2026 — fin à 18h selon la commune, 19h selon l'OT.",
+          "tag": "En saison",
+          "title": "Baignade surveillée"
+        },
+        {
+          "description": "Terrain de beach-volley, jeux d'enfants, douches et cabines, restaurant — pique-nique autorisé, WiFi gratuit.",
+          "tag": "Sur place",
+          "title": "Beach-volley et jeux d'enfants"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>plage municipale du Bourget-du-Lac</strong> ouvre la rive sud du lac du Bourget, à deux pas du château de Thomas II. En saison — <strong>du 13 juin au 30 août 2026 inclus</strong> — l'accès est payant : de 2,30 à 3,20 € par adulte, de 1,60 à 2,20 € par enfant, avec tarif réduit à partir de 16h. Le reste de l'année, la plage est ouverte tous les jours, librement.</p><p>Sur l'heure de fin de la baignade surveillée, les deux sources officielles divergent d'une heure : la commune publie <strong>10h à 18h</strong>, l'office de tourisme <strong>10h à 19h</strong>. Nous donnons les deux et ne tranchons pas.</p><p>L'équipement est complet : douches, cabines, toilettes, terrain de beach-volley, jeux d'enfants, pique-nique autorisé, restaurant — et le WiFi gratuit. Surtout, <strong>l'ensemble de la plage est accessible aux personnes à mobilité réduite en toute autonomie</strong>, selon la fiche officielle.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Payant en saison : adulte 2,30–3,20 €, enfant 1,60–2,20 € ; libre hors saison",
+        "best_season": "Saison surveillée du 13 juin au 30 août 2026",
+        "commune": "Le Bourget-du-Lac",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Plage municipale du lac du Bourget"
+      },
+      "faq": [
+        {
+          "a": "En saison (13 juin – 30 août 2026) : de 2,30 à 3,20 € par adulte, de 1,60 à 2,20 € par enfant, tarif réduit à partir de 16h. Hors saison, l'accès est libre.",
+          "q": "Combien coûte l'entrée ?"
+        },
+        {
+          "a": "La commune publie 10h–18h, l'office de tourisme 10h–19h pour la même période du 13 juin au 30 août — les deux sources divergent d'une heure et nous le signalons plutôt que de choisir.",
+          "q": "Quels sont les horaires de surveillance ?"
+        },
+        {
+          "a": "Oui : « L'ensemble de la plage est accessible aux personnes à mobilité réduite en toute autonomie », selon l'office de tourisme.",
+          "q": "La plage est-elle accessible en fauteuil roulant ?"
+        },
+        {
+          "a": "Douches, cabines, toilettes, beach-volley, jeux d'enfants, restaurant, pique-nique autorisé — et WiFi gratuit.",
+          "q": "Quels équipements trouve-t-on ?"
+        },
+        {
+          "a": "Oui : « Toute l'année : ouvert tous les jours », l'accès redevient libre hors période payante.",
+          "q": "Peut-on y aller hors été ?"
+        }
+      ],
+      "hero": {
+        "badge": "2,30 € · Lac du Bourget",
+        "lead": "La plage de la rive sud du lac du Bourget : payante et surveillée du 13 juin au 30 août 2026, libre le reste de l'année — et accessible en toute autonomie."
+      },
+      "hero_alt": "Plage municipale du Bourget-du-Lac, rive sud du lac du Bourget, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Rive sud du lac du Bourget, au Bourget-du-Lac ; la plage est signalée depuis le village.",
+        "public_transport": null
+      },
+      "meta_description": "La plage municipale du Bourget-du-Lac : payante en saison (2,30–3,20 €), surveillée du 13 juin au 30 août 2026, entièrement accessible PMR. Sources officielles.",
+      "meta_title": "Plage du Bourget-du-Lac · Tarifs 2026, baignade surveillée",
+      "name": "Plage municipale du Bourget-du-Lac",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Adresse",
+          "v": "Plage municipale, 73370 Le Bourget-du-Lac"
+        },
+        {
+          "k": "Tarifs 2026",
+          "v": "Adulte 2,30–3,20 €, enfant 1,60–2,20 € ; réduit dès 16h"
+        },
+        {
+          "k": "Saison payante",
+          "v": "Du 13 juin au 30 août 2026 inclus"
+        },
+        {
+          "k": "Surveillance",
+          "v": "10h–18h (commune) ou 10h–19h (OT) — les sources divergent"
+        },
+        {
+          "k": "Équipements",
+          "v": "Douches, cabines, beach-volley, jeux d'enfants, restaurant, WiFi gratuit"
+        }
+      ],
+      "schema_amenities": [
+        "Accessible PMR en toute autonomie",
+        "WiFi gratuit",
+        "Restaurant",
+        "Beach-volley"
+      ],
+      "when_to_visit": "<p>En saison surveillée pour la baignade encadrée (13 juin – 30 août 2026) — après 16h, le tarif baisse. Hors saison, la plage redevient libre.</p>"
+    }
+  },
+  "latitude": 45.655642,
+  "longitude": 5.861318,
+  "official_site_url": "https://www.lebourgetdulac.fr/plage-municipale/",
+  "partners": [],
+  "postal_code": "73370",
+  "price_currency": "EUR",
+  "price_from": 2.3,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-10, official sources: commune du Bourget-du-Lac + OT. Contradiction on the supervised closing hour kept verbatim: the commune says 10h-18h, the tourist office 10h-19h — both quoted. Coordinates from IGN POI geocoder ('Plage', category plage, Le Bourget-du-Lac).",
+  "schema_org": {
+    "amenities": [],
+    "is_free": false,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "plage-municipale-le-bourget-du-lac",
+  "sources": [
+    "https://www.lebourgetdulac.fr/plage-municipale/",
+    "https://www.aixlesbains-rivieradesalpes.com/equipement/plage-municipale-du-bourget-du-lac-le-bourget-du-lac/",
+    "https://data.geopf.fr/geocodage/search?q=plage+Le+Bourget-du-Lac&index=poi&limit=2"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "aquatique",
+  "verify_flags": []
+}

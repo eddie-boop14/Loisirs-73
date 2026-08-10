@@ -24,6 +24,97 @@
   "hero_credit": null,
   "hero_image": "/img/generique/generique-musee.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Die Geschichte und Kulturen von Savoie, im ehemaligen Franziskanerkloster am Ort Métropole - frei zu betreten.",
+          "tag": "frei",
+          "title": "Dauerhafte Sammlung"
+        },
+        {
+          "description": "Die begleiteten Formate werden bezahlt: 5 € Vollpreis, 2,50 € für Alter von 3-26 Jahren.",
+          "tag": "5 €",
+          "title": "Führungen und Workshops"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die<strong>Musée Savoisien</strong>, das Abteilungsmuseum auf dem Platz Métropole - dem Domplatz - in Chambéry, erzählt die Geschichte und Kulturen von Savoie.<strong>Der Eintritt ist frei</strong>Wie die offizielle Quelle Wort für Wort sagt.</p><p>Das Museum eröffnet<strong>Jeden Tag außer Dienstag</strong>10:00-12:30 und 13:30-18:00. Sein Kreuzgang bleibt bis 10:00 Uhr bis 18:00 Uhr geöffnet, dienstags ausgenommen. Geführte Touren und Workshops werden bezahlt: 5 € Vollpreis, 2,50 € ermäßigt (Alter 3-26).</p><p>Drei Schließungen zu wissen: 1. Januar, 1. Mai, 1. November und 25. Dezember; und eine jährliche Schließung in der zweiten und dritten Januarwoche.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Freier Eintritt; Führungen und Workshops werden bezahlt",
+        "best_season": "Ganzjährig außer dienstags, vier Feiertagen und zwei Wochen im Januar",
+        "commune": "Chambéry",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Museum der Geschichte und Kulturen von Savoie"
+      },
+      "faq": [
+        {
+          "a": "Nein: \"L'entrée du Musée Savoisien est libre et gratuite.\" Es werden nur Führungen und Workshops bezahlt: 5 € Vollpreis, 2,50 € ermäßigt (Alter 3-26).",
+          "q": "Wird der Eintritt bezahlt?"
+        },
+        {
+          "a": "Jeden Tag außer Dienstag, 10:00-12:30 und 13:30-18:00 Uhr. Der Kreuzgang öffnet 10:00-18:00 Uhr ohne Pause, wieder außer dienstags.",
+          "q": "Was sind die Öffnungszeiten?"
+        },
+        {
+          "a": "Dienstags jede Woche; am 1. Januar, 1. Mai, 1. November und 25. Dezember; und für den Jahresabschluss in der zweiten und dritten Januarwoche.",
+          "q": "Welche Tage schließt das Museum?"
+        },
+        {
+          "a": "Place Métropole (der Domplatz), 73000 Chambéry - im Herzen des historischen Zentrums.",
+          "q": "Wo ist das Museum?"
+        },
+        {
+          "a": "Der Kreuzgang des Museums ist täglich geöffnet, außer Dienstag, 10:00-18:00 Uhr, pro veröffentlichten Stunden des Museums.",
+          "q": "Kannst du nur den Kreuzgang besuchen?"
+        }
+      ],
+      "hero": {
+        "badge": "Freier Eintritt · Chambéry",
+        "lead": "Das Museum von Savoie Geschichte und Kulturen, auf dem Platz Métropole, mit freiem Eintritt. Dienstags geschlossen; Führungen und Workshops werden bezahlt."
+      },
+      "hero_alt": "Musée Savoisien, Museum der Geschichte und Kulturen von Savoie, Chambéry",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Chambéry historischen Zentrum, Platz Métropole; Stadtparkplatz.",
+        "public_transport": null
+      },
+      "meta_description": "Der Musée Savoisien in Chambéry: freier Eintritt, die Geschichte und Kulturen von Savoie, offener Kreuzgang. Stunden und Schließungen aus offiziellen Quellen.",
+      "meta_title": "Musée Savoisien · Freier Eintritt, Stunden, Chambéry",
+      "name": "Musée Savoisien",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Anschrift",
+          "v": "Place Métropole (Kathedralenplatz), 73000 Chambéry"
+        },
+        {
+          "k": "Preis",
+          "v": "Freier Eintritt"
+        },
+        {
+          "k": "Stunden",
+          "v": "Jeden Tag außer Dienstag, 10:00-12:30 und 13:30-18:00"
+        },
+        {
+          "k": "Kreuzgang",
+          "v": "Jeden Tag außer Dienstag, 10:00-18:00"
+        },
+        {
+          "k": "Geführte Touren",
+          "v": "€5 voll, €2,50 ermäßigt (Alter 3-26)"
+        }
+      ],
+      "schema_amenities": [
+        "Freier Eintritt",
+        "Kreuzgang",
+        "Bezahlte Führungen"
+      ],
+      "when_to_visit": "<p>Ganzjährig außerhalb der Dienstage und der veröffentlichten Schließungen — 1. Januar, 1. Mai, 1. November, 25. Dezember und in der zweiten und dritten Januarwoche.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -115,6 +206,97 @@
       ],
       "when_to_visit": "<p>Year-round outside Tuesdays and the published closures — 1 January, 1 May, 1 November, 25 December, and the second and third weeks of January.</p>"
     },
+    "es": {
+      "activities": [
+        {
+          "description": "La historia y las culturas de Savoie, en el antiguo convento franciscano en el lugar Métropole — libre de entrar.",
+          "tag": "Gratis",
+          "title": "Colección permanente"
+        },
+        {
+          "description": "Los formatos acompañados se pagan: 5 € precio completo, 2,50 € para edades 3-26.",
+          "tag": "5 €",
+          "title": "Visitas guiadas y talleres"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El<strong>Musée Savoisien</strong>, el museo departamental en el lugar Métropole - la plaza de la catedral - en Chambéry, cuenta la historia y las culturas de Savoie.<strong>Entrada libre</strong>, como dice la fuente oficial palabra por palabra.</p><p>El museo abre<strong>todos los días excepto martes</strong>, 10:00–12:30 y 13:30–18:00. Su claustro permanece abierto de 10:00 a 18:00, los martes exceptuados. Visitas guiadas y talleres se pagan: 5 € precio completo, 2,50 € reducido (edad 3-26).</p><p>Tres cierres a conocer: 1 de enero, 1 de mayo, 1 de noviembre y 25 de diciembre; y un cierre anual en las semanas segunda y tercera de enero.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Entrada gratuita; visitas guiadas y talleres se pagan",
+        "best_season": "Alrededor de todo el año excepto martes, cuatro días festivos y dos semanas en enero",
+        "commune": "Chambéry",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Museo de la historia y culturas de Savoie"
+      },
+      "faq": [
+        {
+          "a": "No: 'L'entrée du Musée Savoisien est libre et gratuite.' Sólo se pagan visitas guiadas y talleres: 5 € precio completo, 2,50 € reducido (edad 3-26).",
+          "q": "¿Se paga la entrada?"
+        },
+        {
+          "a": "Todos los días excepto el martes, 10:00-12:30 y 13:30-18:00. El claustro abre de 10:00 a 18:00 sin descanso, excepto los martes.",
+          "q": "¿Cuáles son las horas de apertura?"
+        },
+        {
+          "a": "Martes cada semana; el 1 de enero, el 1 de mayo, el 1 de noviembre y el 25 de diciembre; y para el cierre anual en las semanas segunda y tercera de enero.",
+          "q": "¿Qué días cierra el museo?"
+        },
+        {
+          "a": "Lugar Métropole (la plaza de la catedral), 73000 Chambéry, en el corazón del centro histórico.",
+          "q": "¿Dónde está el museo?"
+        },
+        {
+          "a": "El claustro del museo está abierto todos los días excepto el martes, de 10:00 a 18:00, por las horas publicadas del museo.",
+          "q": "¿Puedes visitar el claustro?"
+        }
+      ],
+      "hero": {
+        "badge": "Entrada gratuita · Chambéry",
+        "lead": "El museo de la historia y las culturas de Savoie, en lugar de Métropole, con entrada gratuita. Los martes cerrados; visitas guiadas y talleres se pagan."
+      },
+      "hero_alt": "Musée Savoisien, museo de la historia y las culturas de Savoie, Chambéry",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "El centro histórico de Chambéry, lugar Métropole; aparcamiento urbano.",
+        "public_transport": null
+      },
+      "meta_description": "Musée Savoisien en Chambéry: entrada libre, historia y culturas de Savoie, claustro abierto. Horas y cierres de fuentes oficiales.",
+      "meta_title": "Musée Savoisien · Entrada gratuita, horas, Chambéry",
+      "name": "Musée Savoisien",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Dirección",
+          "v": "Place Métropole (cathedral square), 73000 Chambéry"
+        },
+        {
+          "k": "Precio",
+          "v": "Entrada gratuita"
+        },
+        {
+          "k": "Horas",
+          "v": "Todos los días excepto el martes, 10:00-12:30 y 13:30-18:00"
+        },
+        {
+          "k": "Claustro",
+          "v": "Todos los días excepto los martes, 10:00-18:00"
+        },
+        {
+          "k": "Visitas guiadas",
+          "v": "5 € con total, 2,50 € reducido (edad 3-26)"
+        }
+      ],
+      "schema_amenities": [
+        "Entrada gratuita",
+        "Claustro",
+        "Visitas guiadas pagadas"
+      ],
+      "when_to_visit": "<p>Alrededor de los martes y los cierres publicados — 1 de enero, 1 de mayo, 1 de noviembre, 25 de diciembre, y las segundas y terceras semanas de enero.</p>"
+    },
     "fr": {
       "activities": [
         {
@@ -205,6 +387,188 @@
         "Visites guidées payantes"
       ],
       "when_to_visit": "<p>Toute l'année hors mardis et fermetures publiées — 1er janvier, 1er mai, 1er novembre, 25 décembre, et les deuxième et troisième semaines de janvier.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "La storia e le culture di Savoie, nell'ex convento francescano sul posto Métropole — libero di entrare.",
+          "tag": "Gratis",
+          "title": "Collezione permanente"
+        },
+        {
+          "description": "I formati accompagnati sono a pagamento: €5 a prezzo pieno, €2.50 per età 3-26.",
+          "tag": "€ 5",
+          "title": "Visite guidate e workshop"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The<strong>Musée Savoisien</strong>, il museo dipartimentale sul posto Métropole — la piazza cattedrale — in Chambéry, racconta la storia e le culture di Savoie.<strong>L'ingresso è gratuito</strong>, come la fonte ufficiale dice parola per parola.</p><p>Il museo apre<strong>ogni giorno tranne martedì</strong>, 10:00-12:30 e 13:30-18:00. Il suo chiostro rimane aperto dalle 10:00 alle 18:00, martedì escluso. Visite guidate e workshop sono pagati: €5 prezzo pieno, €2.50 ridotto (età 3-26).</p><p>Tre chiusure da sapere: 1 gennaio, 1 maggio, 1 novembre e 25 dicembre; e una chiusura annuale nella seconda e nella terza settimana di gennaio.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Ingresso gratuito; visite guidate e workshop sono pagati",
+        "best_season": "Tutto l'anno tranne martedì, quattro giorni festivi e due settimane a gennaio",
+        "commune": "Chambéry",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Museo della storia e delle culture di Savoie"
+      },
+      "faq": [
+        {
+          "a": "No: 'L'entrée du Musée Savoisien est libre et gratuite.' Sono pagate solo visite guidate e workshop: €5 a prezzo pieno, €2.50 ridotto (età 3-26).",
+          "q": "L'ingresso è pagato?"
+        },
+        {
+          "a": "Ogni giorno tranne martedì, 10:00-12:30 e 13:30-18:00. Il chiostro si apre 10:00-18:00 senza sosta, di nuovo tranne martedì.",
+          "q": "Quali sono gli orari di apertura?"
+        },
+        {
+          "a": "martedì ogni settimana; il 1° gennaio, 1° maggio, 1° novembre e 25 dicembre; e per la chiusura annuale nella seconda e nella terza settimana di gennaio.",
+          "q": "Quali giorni chiude il museo?"
+        },
+        {
+          "a": "Luogo Métropole (la piazza della cattedrale), 73000 Chambéry — nel cuore del centro storico.",
+          "q": "Dov'è il museo?"
+        },
+        {
+          "a": "Il chiostro del museo è aperto tutti i giorni tranne martedì, 10:00-18:00, per le ore pubblicate del museo.",
+          "q": "Puoi visitare il chiostro?"
+        }
+      ],
+      "hero": {
+        "badge": "Ingresso libero · Chambéry",
+        "lead": "Il museo della storia e delle culture di Savoie, sul posto Métropole, con ingresso gratuito. Martedì chiuso; visite guidate e workshop sono pagati."
+      },
+      "hero_alt": "Musée Savoisien, museo della storia e delle culture di Savoie, Chambéry",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Centro storico di Chambéry, luogo Métropole; parcheggio della città.",
+        "public_transport": null
+      },
+      "meta_description": "Musée Savoisien in Chambéry: ingresso libero, storia e culture di Savoie, chiostro aperto. Ore e chiusure da fonti ufficiali.",
+      "meta_title": "Musée Savoisien · Ingresso libero, ore, Chambéry",
+      "name": "Musée Savoisien",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Indirizzo",
+          "v": "Luogo Métropole (quadrale), 73000 Chambéry"
+        },
+        {
+          "k": "Prezzo",
+          "v": "Ingresso libero"
+        },
+        {
+          "k": "Ore",
+          "v": "Tutti i giorni tranne martedì, 10:00-12:30 e 13:30-18:00"
+        },
+        {
+          "k": "Chiostro",
+          "v": "Ogni giorno tranne martedì, 10:00-18:00"
+        },
+        {
+          "k": "Visite guidate",
+          "v": "€5 pieno, €2.50 ridotto (età 326)"
+        }
+      ],
+      "schema_amenities": [
+        "Ingresso libero",
+        "Chiostro",
+        "Visite guidate"
+      ],
+      "when_to_visit": "<p>I martedì e le chiusure pubblicate — 1° gennaio, 1° maggio, 1° novembre, 25 dicembre, e seconda e terza settimana di gennaio.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "De geschiedenis en culturen van Savoie, in het voormalige Franciscaner klooster op de plaats Métropole.",
+          "tag": "Vrij",
+          "title": "Permanente verzameling"
+        },
+        {
+          "description": "De bijgeleverde formaten worden betaald: € 5 volledige prijs, € 2,50 voor de leeftijd van 3-26.",
+          "tag": "5 EUR",
+          "title": "Rondleidingen en workshops"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>Musée Savoisien</strong>, het departementale museum op plaats Métropole – het kathedraalplein – in Chambéry, vertelt de geschiedenis en culturen van Savoie. <strong>Toegang is gratis</strong>, zoals de officiële bron letterlijk zegt.</p><p>Het museum is open <strong>elke dag behalve dinsdag</strong>, 10:00–12:30 en 13:30–18:00. Het klooster blijft de hele dag open van 10:00 tot 18:00 uur, behalve dinsdag. Rondleidingen en workshops zijn betaald: €5 volledige prijs, €2,50 gereduceerd (leeftijden 3-26).</p><p>Drie sluitingen om te kennen: 1 januari, 1 mei, 1 november en 25 december; en een jaarlijkse sluiting in de tweede en derde week van januari.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis toegang; rondleidingen en workshops worden betaald",
+        "best_season": "Het hele jaar door behalve op dinsdag, vier feestdagen en twee weken in januari",
+        "commune": "Chambéry",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Museum van de geschiedenis en culturen van Savoie"
+      },
+      "faq": [
+        {
+          "a": "No: 'L'entrée du Musée Savoisien est libre et gratuite.' Alleen rondleidingen en workshops worden betaald: € 5 volledige prijs, € 2,50 gereduceerd (leeftijd 3-26).",
+          "q": "Is de toegang betaald?"
+        },
+        {
+          "a": "Elke dag behalve dinsdag, 10:00–12:30 en 13:30–18:00. Het klooster opent 10:00–18:00 zonder pauze, wederom behalve dinsdag.",
+          "q": "Wat zijn de openingstijden?"
+        },
+        {
+          "a": "Elke week dinsdag, op 1 januari, 1 mei, 1 november en 25 december, en voor de jaarlijkse sluiting in de tweede en derde week van januari.",
+          "q": "Welke dagen sluit het museum?"
+        },
+        {
+          "a": "Place Métropole (het plein van de kathedraal), 73000 Chambéry in het hart van het historische centrum.",
+          "q": "Waar is het museum?"
+        },
+        {
+          "a": "Het klooster van het museum is elke dag geopend, behalve dinsdag 10:00-18:00 uur, per gepubliceerde uren van het museum.",
+          "q": "Kun je alleen het klooster bezoeken?"
+        }
+      ],
+      "hero": {
+        "badge": "Vrije toegang · Chambéry",
+        "lead": "Het museum van Savoie's geschiedenis en culturen, op de plaats Métropole, met gratis toegang. Gesloten dinsdagen; rondleidingen en workshops worden betaald."
+      },
+      "hero_alt": "Musée Savoisien, museum van Savoie's geschiedenis en culturen, Chambéry",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Het historische centrum van Chambéry, plaats Métropole; stadsparkeerplaats.",
+        "public_transport": null
+      },
+      "meta_description": "De Musée Savoisien in Chambéry: vrije toegang, de geschiedenis en culturen van Savoie, open klooster. Uren en sluitingen uit officiële bronnen.",
+      "meta_title": "Musée Savoisien · Vrije toegang, uren, Chambéry",
+      "name": "Musée Savoisien",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Adres",
+          "v": "Place Métropole (kathedraalplein), 73000 Chambéry"
+        },
+        {
+          "k": "Prijs",
+          "v": "Vrije toegang"
+        },
+        {
+          "k": "Uren",
+          "v": "Elke dag behalve dinsdag, 10:00–12:30 en 13:30–18:00"
+        },
+        {
+          "k": "Klooster",
+          "v": "Elke dag behalve dinsdag, 10:00–18:00"
+        },
+        {
+          "k": "Rondleidingen",
+          "v": "€ 5 volledig, € 2,50 verlaagd (leeftijd 3-26)"
+        }
+      ],
+      "schema_amenities": [
+        "Vrije toegang",
+        "Klooster",
+        "Betaalde rondleidingen"
+      ],
+      "when_to_visit": "<p>Het hele jaar door buiten dinsdagen en de gepubliceerde sluitingen 1 januari, 1 mei, 1 november, 25 december en de tweede en derde week van januari.</p>"
     }
   },
   "latitude": 45.565554,

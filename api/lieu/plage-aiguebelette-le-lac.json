@@ -1,0 +1,28 @@
+{
+  "name": "Plage d'Aiguebelette-le-Lac",
+  "commune": "Aiguebelette-le-Lac",
+  "gps": null,
+  "type": "plage",
+  "hours": null,
+  "prices": {
+    "from": 2.5,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": false,
+    "note": null
+  },
+  "access_pmr": {
+    "status": "accessible",
+    "detail": "« Accessible en fauteuil roulant en autonomie », selon la fiche de l'office de tourisme du lac d'Aiguebelette.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_url": "https://www.lac-aiguebelette.com/plage/plage-daiguebelette-le-lac-116726/",
+    "source_name": "OT Lac d'Aiguebelette"
+  },
+  "parking": null,
+  "transport": null,
+  "season": "Saison surveillée du 13 juin au 30 août, 10h–19h",
+  "winter": null,
+  "official_url": "https://www.lac-aiguebelette.com/plage/plage-daiguebelette-le-lac-116726/",
+  "last_verified": null
+}

@@ -24,6 +24,97 @@
   "hero_credit": null,
   "hero_image": "/img/generique/generique-plage-lac-4.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Schwimmen im Lac d'Aiguebelette, täglich vom 13. Juni bis 30. August überwacht — freier Zugang außerhalb der Saison.",
+          "tag": "10:00-19:00",
+          "title": "Überwachtes Schwimmen"
+        },
+        {
+          "description": "Ruderboote, Pedalboote, Kanu-Kayaks und Paddleboards werden direkt am Strand gemietet.",
+          "tag": "Miete",
+          "title": "Pedalos, Kanus und Paddel"
+        }
+      ],
+      "body": {
+        "what_is": "<p>im<strong>Aiguebelette-le-Lac Port</strong>, der Gemeinschaftsstrand gegenüber dem See von seinem östlichen Ufer. Wie überall auf dem See ist es<strong>während des Überwachungszeitraums gezahlt</strong>- 13. Juni bis 30. August 2026, täglich 10:00-19:00: €2,50 pro Erwachsener an Wochentagen, €4 am Wochenende; €1 und €2 für Kinder im Alter von 5-13 Jahren; eine 10-Eintrittskarte für €20; kostenlos unter 5. Bankkarte und Chèque-Vacances Classic akzeptiert.<strong>\"En dehors des périodes de surveillance, l'accès à la plage est libre.\"</strong></p><p>Vor Ort:<strong>Ruderboote und Pedalos, Kanu-Kayaks und Stand-up-Paddleboards zu mieten</strong>, Kinderspiele, Liegestühle und Sonnenschirme. Gruppen werden an Wochentagen empfangen, außer an Feiertagen, auf Reservierung. Tiere und Barbecues bleiben an allen Stränden des Sees verboten.</p><p>Der Strand ist<strong>Rollstuhl ohne Hilfe</strong>, nach der offiziellen Auflistung. Eine Ehrlichkeitsnote: Der IGN-Geocoder kennt keinen \"Strand\" -Punkt bei Aiguebelette-le-Lac - also wird diese Seite eher ohne Koordinaten als mit einer ungefähren Pin ausgeliefert.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Bezahlt in der Saison: 2,50 € an Wochentagen, 4 € Wochenenden (Erwachsener); kostenlose Aufsicht von außen",
+        "best_season": "Beaufsichtigte Saison 13. Juni – 30. August, 10:00-19:00",
+        "commune": "Aiguebelette-le-Lac",
+        "dogs": "Verboten an allen Stränden des Sees",
+        "parking": null,
+        "stroller": null,
+        "type": "Strand am Lac d'Aiguebelette"
+      },
+      "faq": [
+        {
+          "a": "In der Saison (13. Juni – 30. August): 2,50 € pro Erwachsenem an Wochentagen, 4 € am Wochenende; Kinder 5-13 €1/2 €; 10-Eintrittskarte 20 €; frei unter 5.",
+          "q": "Wie viel kostet der Eintritt?"
+        },
+        {
+          "a": "\"En dehors des périodes de surveillance, l'accès à la plage est libre\" — also vor dem 13. Juni und nach dem 30. August.",
+          "q": "Wann ist der Strand frei?"
+        },
+        {
+          "a": "Ruderboote und Pedalboote, Kanukajaks und Stand-up-Paddleboards — sowie Liegestühle und Sonnenschirme.",
+          "q": "Was können Sie vor Ort mieten?"
+        },
+        {
+          "a": "Ja: 'Zugänglich en fauteuil roulant en autonomie', pro Tourismusbüro.",
+          "q": "Ist der Strandrollstuhl zugänglich?"
+        },
+        {
+          "a": "Nein - Tiere und Grill sind an allen Stränden des Lac d'Aiguebelette verboten.",
+          "q": "Sind Hunde erlaubt?"
+        }
+      ],
+      "hero": {
+        "badge": "2,50 € · Lac d'Aiguebelette",
+        "lead": "Der Strand am Hafen von Aiguebelette-le-Lac: täglich 10:00-19:00 Uhr in der Saison, Pedale, Kanus und Paddleboards zu mieten - und kostenlos externe Aufsicht."
+      },
+      "hero_alt": "Aiguebelette-le-Lac beach am Seeufer, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Am Hafen von Aiguebelette-le-Lac, östliches Ufer des Sees; kostenlose Parkplätze wie überall rund um den See.",
+        "public_transport": null
+      },
+      "meta_description": "Der Aiguebelette-le-Lac beach in Le Port: bezahlt 13. Juni - 30. August 2026, Pedale, Kanus und Paddleboards zu mieten, Rollstuhl ohne Hilfe.",
+      "meta_title": "Aiguebelette-le-Lac beach · 2026 Preise, Pedale, Paddel",
+      "name": "Aiguebelette-le-Lac beach",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Anschrift",
+          "v": "Le Port, 73610 Aiguebelette-le-Lac"
+        },
+        {
+          "k": "Preise 2026",
+          "v": "Erwachsene €2,50 Wochentage / €4 Wochenenden; Kind 5-13 €1/€2"
+        },
+        {
+          "k": "Saison",
+          "v": "13. Juni – 30. August, täglich 10:00-19:00"
+        },
+        {
+          "k": "Miete",
+          "v": "Pedalos, Kanu-Kayaks, Stehpaddel, Liegestühle"
+        },
+        {
+          "k": "Gruppen",
+          "v": "Wochentage außer Feiertage, auf Reservierung"
+        }
+      ],
+      "schema_amenities": [
+        "Rollstuhl ohne Hilfe zugänglich",
+        "Miete für Wassersport",
+        "Kinderspiele"
+      ],
+      "when_to_visit": "<p>Wochentage für den niedrigeren Preis und ruhigere Miete; außerhalb der Saison ist der Strand frei, aber ohne Rettungsschwimmer oder Mieten.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -115,6 +206,97 @@
       ],
       "when_to_visit": "<p>Weekdays for the lower rate and quieter hire; off season the beach is free but without lifeguards or rentals.</p>"
     },
+    "es": {
+      "activities": [
+        {
+          "description": "Nadando en el Lac d'Aiguebelette, supervisado diariamente del 13 de junio al 30 de agosto — acceso gratuito fuera de temporada.",
+          "tag": "10:00-19:00",
+          "title": "Natación supervisada"
+        },
+        {
+          "description": "En la playa se contratan botes de remo, botes de pedal, canoe-kayaks y paddleboards.",
+          "tag": "Hire",
+          "title": "Pedalos, canoas y paddle"
+        }
+      ],
+      "body": {
+        "what_is": "<p>At<strong>Puerto Aiguebelette-le-Lac</strong>, la playa comunitaria se enfrenta al lago desde su costa oriental. Como en todas partes en el lago, es<strong>pagado durante el período de supervisión</strong>— 13 de junio a 30 de agosto de 2026, diario de 10:00 a 19:00: 2,50 € por adulto los días de semana, 4 € los fines de semana; 1 € y 2 € para niños de 5 a 13 años; una tarjeta de 10 entradas a 20 €; gratis menos de 5. Tarjeta bancaria y Chèque-Vacances Classic aceptado.<strong>En dehors des périodes de surveillance, l'accès à la plage est libre.</strong></p><p>En el sitio:<strong>botes de remo y pedalos, canoe-kayaks y paddleboards para alquiler</strong>, juegos infantiles, tumbonas y sombrillas. Los grupos se reciben los días de semana, excepto los días festivos, en reserva. Animales y barbacoas permanecen prohibidos en todas las playas del lago.</p><p>La playa es<strong>silla de ruedas accesible sin asistencia</strong>, por la lista oficial. Una nota de honestidad: el geocodificador IGN no conoce ningún punto de \"playa\" en Aiguebelette-le-Lac, por lo que esta página navega sin coordenadas en lugar de con un pin aproximado.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagado en temporada: 2,50 € semanales, 4 € fin de semana (adulto); libre fuera de supervisión",
+        "best_season": "Temporada supervisada 13 junio – 30 agosto, 10:00–19:00",
+        "commune": "Aiguebelette-le-Lac",
+        "dogs": "Prohibido en todas las playas del lago",
+        "parking": null,
+        "stroller": null,
+        "type": "Playa del Lac d'Aiguebelette"
+      },
+      "faq": [
+        {
+          "a": "En temporada (13 de junio a 30 de agosto): 2,50 € por adulto los días de semana, 4 € los fines de semana; niños 5-13 €1/€2; 10-entry card 20 €; gratis bajo 5.",
+          "q": "¿Cuánto es la entrada?"
+        },
+        {
+          "a": "\"En dehors des périodes de surveillance, l'accès à la plage est libre\", así antes del 13 de junio y después del 30 de agosto.",
+          "q": "¿Cuándo es la playa libre?"
+        },
+        {
+          "a": "Barcos de remo y botes de pedal, canoe-kayaks y paddleboards de altura, además de tumbonas y sombrillas.",
+          "q": "¿Qué puedes contratar en el sitio?"
+        },
+        {
+          "a": "Sí: 'Accesible en fauteuil roulant en autonomie', por el listado de oficinas turísticas.",
+          "q": "¿La silla de ruedas de playa es accesible?"
+        },
+        {
+          "a": "No: se prohíben animales y barbacoas en todas las playas del Lac d'Aiguebelette.",
+          "q": "¿Se permiten perros?"
+        }
+      ],
+      "hero": {
+        "badge": "€2.50 · Lac d'Aiguebelette",
+        "lead": "La playa en Aiguebelette-le-Lac's Port: supervisada diariamente de 10:00 a 19:00 en temporada, pedalos, canoas y paddleboards para alquiler, y libre supervisión exterior."
+      },
+      "hero_alt": "Aiguebelette-le-Lac beach en la orilla del lago, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "En el puerto de Aiguebelette-le-Lac, costa este del lago; aparcamientos gratuitos como en todas partes alrededor del lago.",
+        "public_transport": null
+      },
+      "meta_description": "El Aiguebelette-le-Lac beach en Le Port: pagó 13 junio – 30 agosto 2026, pedalos, canoas y paddleboards para alquiler, silla de ruedas accesible sin asistencia.",
+      "meta_title": "Aiguebelette-le-Lac beach · 2026 precios, pedales, paddle",
+      "name": "Aiguebelette-le-Lac beach",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Dirección",
+          "v": "Le Port, 73610 Aiguebelette-le-Lac"
+        },
+        {
+          "k": "Precios 2026",
+          "v": "Adulto €2.50 días semanales / €4 fines de semana; niño 5-13 €1/€2"
+        },
+        {
+          "k": "Estación",
+          "v": "13 de junio a 30 de agosto, de 10:00 a 19:00"
+        },
+        {
+          "k": "Hire",
+          "v": "Pedalos, canoe-kayaks, paddle, sillones de cubierta"
+        },
+        {
+          "k": "Grupos",
+          "v": "Días de semana excepto vacaciones, en reserva"
+        }
+      ],
+      "schema_amenities": [
+        "Silla de ruedas accesible sin asistencia",
+        "Alquiler de Watersport",
+        "Juegos para niños"
+      ],
+      "when_to_visit": "<p>Días de semana para la tarifa más baja y alquiler más tranquilo; fuera de temporada la playa es gratis pero sin salvavidas o alquileres.</p>"
+    },
     "fr": {
       "activities": [
         {
@@ -205,6 +387,188 @@
         "Jeux pour enfants"
       ],
       "when_to_visit": "<p>En semaine pour le tarif réduit et les locations tranquilles ; hors saison, la plage est libre mais sans surveillance ni locations.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Nuoto nel Lac d'Aiguebelette, supervisionato ogni giorno dal 13 giugno al 30 agosto — libero accesso fuori stagione.",
+          "tag": "10:00-19:00",
+          "title": "nuoto supervisionato"
+        },
+        {
+          "description": "Barche a remi, pedalò, canoe-kayaks e paddleboard sono assunti proprio sulla spiaggia.",
+          "tag": "noleggio",
+          "title": "Pedalos, canoe e paddle"
+        }
+      ],
+      "body": {
+        "what_is": "<p>A<strong>Porto di Aiguebelette-le-Lac</strong>, la spiaggia comunale si affaccia sul lago dalla sua riva orientale. Come ovunque sul lago, è<strong>pagato durante il periodo di supervisione</strong>— dal 13 giugno al 30 agosto 2026, tutti i giorni 10:00-19:00: € 2,50 per adulto nei giorni feriali, € 4 nei fine settimana; € 1 e €2 per i bambini di età compresa tra 5 e 13 anni; una carta da 10 anni a €20; gratuita sotto i 5 anni. Bancomat e Chèque-Vacances Classic accettato.<strong>\"En dehors des périodes de sorveglianza, l'accès à la plage est libre\".</strong></p><p>In loco:<strong>barche a remi e pedalò, canoe-kayaks e paddleboard stand-up a noleggio</strong>, giochi per bambini, sdraio e ombrelloni. I gruppi sono ricevuti nei giorni feriali, tranne le vacanze, su prenotazione. Animali e barbecue rimangono vietati su tutte le spiagge del lago.</p><p>La spiaggia è<strong>accessibile senza assistenza</strong>, per l'elenco ufficiale. Una nota di onestà: il geocoder IGN non conosce il punto di \"beach\" a Aiguebelette-le-Lac, quindi questa pagina navi senza coordinate piuttosto che con un perno approssimativo.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagato in stagione: € 2,50 giorni settimanali, € 4 fine settimana (adulto); supervisione esterna gratuita",
+        "best_season": "Stagione supervisionata 13 giugno – 30 agosto, 10:00-19:00",
+        "commune": "Aiguebelette-le-Lac",
+        "dogs": "Proibita su tutte le spiagge del lago",
+        "parking": null,
+        "stroller": null,
+        "type": "Spiaggia sul Lac d'Aiguebelette"
+      },
+      "faq": [
+        {
+          "a": "Nella stagione (13 giugno – 30 agosto): €2.50 per adulto nei giorni feriali, €4 nei fine settimana; bambini 5-13 €1/€2; 10 biglietto d'ingresso €20; gratuito sotto 5.",
+          "q": "Quanto costa?"
+        },
+        {
+          "a": "«En dehors des périodes de sorveglianza, l'accès à la plage est libre» — così prima del 13 giugno e dopo il 30 agosto.",
+          "q": "Quando la spiaggia è libera?"
+        },
+        {
+          "a": "Barche a remi e pedalò, canoe-kayaks e paddleboard stand-up — più sdraio e ombrelloni.",
+          "q": "Cosa si può noleggiare in loco?"
+        },
+        {
+          "a": "Sì: 'Accessible en fauteuil roulant en autonomie', per l'elenco degli uffici turistici.",
+          "q": "La sedia a rotelle è accessibile?"
+        },
+        {
+          "a": "No — animali e barbecue sono vietati su tutte le spiagge di Lac d'Aiguebelette.",
+          "q": "I cani sono ammessi?"
+        }
+      ],
+      "hero": {
+        "badge": "€2.50 · Lac d'Aiguebelette",
+        "lead": "La spiaggia al Porto di Aiguebelette-le-Lac: sorvegliata tutti i giorni dalle 10:00 alle 19:00 in stagione, pedalò, canoe e paddleboard a noleggio — e supervisione esterna gratuita."
+      },
+      "hero_alt": "Aiguebelette-le-Lac beach sulla riva del lago, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "A Aiguebelette-le-Lac's Port, riva orientale del lago; parcheggi gratuiti come ovunque intorno al lago.",
+        "public_transport": null
+      },
+      "meta_description": "L'Aiguebelette-le-Lac beach a Le Port: pagato 13 giugno – 30 agosto 2026, pedalò, canoe e paddleboard a noleggio, accessibile senza assistenza.",
+      "meta_title": "Aiguebelette-le-Lac beach · 2026 prezzi, pedalò, paddle",
+      "name": "Aiguebelette-le-Lac beach",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Indirizzo",
+          "v": "Le Port, 73610 Aiguebelette-le-Lac"
+        },
+        {
+          "k": "Prezzi 2026",
+          "v": "Adulto €2.50 giorni settimanali / €4 fine settimana; bambino 5-13 €1/€2"
+        },
+        {
+          "k": "Stagione",
+          "v": "13 giugno – 30 agosto, tutti i giorni 10:00-19:00"
+        },
+        {
+          "k": "noleggio",
+          "v": "Pedalos, canoe-kayaks, paddle stand-up, sdraio"
+        },
+        {
+          "k": "Gruppi",
+          "v": "Giorni festivi eccetto festivi, su prenotazione"
+        }
+      ],
+      "schema_amenities": [
+        "Seggiolone accessibile senza assistenza",
+        "Noleggio sport acquatici",
+        "Giochi per bambini"
+      ],
+      "when_to_visit": "<p>Giorni feriali per il prezzo più basso e noleggio più tranquillo; fuori stagione la spiaggia è gratuita ma senza bagni di salvataggio o affitti.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Zwemmen in het Lac d'Aiguebelette, dagelijks begeleid van 13 juni tot 30 augustus gratis toegang buiten het seizoen.",
+          "tag": "10.00 uur 19.00 uur",
+          "title": "Zwemmen onder toezicht"
+        },
+        {
+          "description": "Roeiboten, waterfietsen, kano-kajaks en paddleboards worden op het strand gehuurd.",
+          "tag": "Huur",
+          "title": "Pedalen, kano's en peddels"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Op <strong>Port d'Aiguebelette-le-Lac</strong>, kijkt de gemeentelijk strand uit op het meer vanaf de oostelijke oever. Zoals overal op het meer, is het <strong>betaald tijdens de toezichtperiode</strong> — van 13 juni tot 30 augustus 2026, dagelijks van 10:00 tot 19:00: €2,50 per volwassene op werkdagen, €4 in het weekend; €1 en €2 voor kinderen van 5 tot 13 jaar; een 10-entreekaart voor €20; gratis onder de 5 jaar. Bankkaart en Chèque-Vacances Classic geaccepteerd. <strong>« En dehors des périodes de surveillance, l'accès à la plage est libre. »</strong></p><p>Ter plaatse: <strong>roeiboten en waterfietsen, kano-kajaks en stand-up paddleboards te huur</strong>, kinderspelen, ligstoelen en parasols. Groepen worden ontvangen op weekdagen, behalve feestdagen, op reservering. Dieren en barbecues blijven verboden op alle stranden van het meer.</p><p>Het strand is <strong>toegankelijk voor rolstoelgebruikers zonder hulp</strong>, per officiële vermelding. Een eerlijkheids opmerking: de IGN geocoder kent geen 'strand'-punt op Aiguebelette-le-Lac — deze pagina wordt dus zonder coördinaten weergegeven in plaats van met een geschat punt.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Betaald in het seizoen: €2,50 weekdagen, €4 weekends (volwassenen); gratis toezicht buiten",
+        "best_season": "Supervised seizoen 13 juni 30 augustus 10:00 19:00",
+        "commune": "Aiguebelette-le-Lac",
+        "dogs": "Verboden op alle stranden van het meer",
+        "parking": null,
+        "stroller": null,
+        "type": "Strand op het Lac d'Aiguebelette"
+      },
+      "faq": [
+        {
+          "a": "In het seizoen (13 juni: 30 augustus): €2,50 per volwassene op weekdagen, €4 in het weekend; kinderen 5-13 €1/€2; 10-entreekaart €20; gratis onder 5.",
+          "q": "Hoeveel kost de toegang?"
+        },
+        {
+          "a": "« En dehors des périodes de surveillance, l'accès à la plage est libre » — dus vóór 13 juni en na 30 augustus.",
+          "q": "Wanneer is het strand vrij?"
+        },
+        {
+          "a": "Roeiboten en waterfietsen, kano-kajaks en stand-up paddleboards en ligstoelen en parasols.",
+          "q": "Wat kunt u ter plaatse huren?"
+        },
+        {
+          "a": "Ja: 'Accessible en fauteuil roulant en autonome', volgens de VVV-lijst.",
+          "q": "Is het strand rolstoel toegankelijk?"
+        },
+        {
+          "a": "Dieren en barbecues zijn niet verboden op alle stranden van het Lac d'Aiguebelette.",
+          "q": "Zijn honden toegestaan?"
+        }
+      ],
+      "hero": {
+        "badge": "€ 2,50 · Lac d'Aiguebelette",
+        "lead": "Het strand van Port d'Aiguebelette-le-Lac: dagelijks begeleid van 10:00–19:00 in het seizoen, pedalos, kano's en paddleboards te huur — en gratis buiten toezicht."
+      },
+      "hero_alt": "Aiguebelette-le-Lac beach op de oever van het meer, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Bij de haven van Aiguebelette-le-Lac, oostelijke oever van het meer; gratis parkeerplaatsen zoals overal rond het meer.",
+        "public_transport": null
+      },
+      "meta_description": "De strand van Aiguebelette-le-Lac bij Le Port: betaald 13 juni – 30 augustus 2026, pedalos, kano's en paddleboards te huur, rolstoel toegankelijk zonder hulp.",
+      "meta_title": "Aiguebelette-le-Lac beach · 2026 prijzen, pedalos, paddle",
+      "name": "Aiguebelette-le-Lac beach",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Adres",
+          "v": "Le Port, 73610 Aiguebelette-le-Lac"
+        },
+        {
+          "k": "Prijzen 2026",
+          "v": "Volwassen € 2,50 weekdagen / € 4 weekends; kind 5-13 €1/€2"
+        },
+        {
+          "k": "Seizoen",
+          "v": "13 juni: 30 augustus: dagelijks 10:00:19:00"
+        },
+        {
+          "k": "Huur",
+          "v": "Pedalos, kano-kajaks, stand-up paddle, ligstoelen"
+        },
+        {
+          "k": "Groepen",
+          "v": "Weekdagen behalve feestdagen, op reservering"
+        }
+      ],
+      "schema_amenities": [
+        "Rolstoel toegankelijk zonder assistentie",
+        "Huur van watersport",
+        "Kinderspelen"
+      ],
+      "when_to_visit": "<p>Weekdagen voor het lagere tarief en rustiger huren; buiten het seizoen is het strand gratis maar zonder badmeesters of verhuur.</p>"
     }
   },
   "latitude": null,

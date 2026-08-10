@@ -1,0 +1,236 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-10",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "sentier",
+  "commune": "Bourdeau",
+  "date_modified_human": "10 août 2026",
+  "date_published_human": "10 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-10",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-sentier-arete-alpine.jpg",
+  "i18n": {
+    "en": {
+      "activities": [
+        {
+          "description": "The full waymarked route: 2h30 up, +752 m, to the summit spur and its 360° view.",
+          "tag": "5h return",
+          "title": "Classic climb from the col du Chat"
+        },
+        {
+          "description": "The relais du Mont du Chat road then the waymarked path: about 1h up for 110 m of gain.",
+          "tag": "2h return",
+          "title": "Short approach from the relais du Mont du Chat"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Dent du Chat</strong> raises its limestone spur to <strong>1,390 m</strong> above the Lac du Bourget, with a <strong>360° panorama</strong> from the top. The tourist office publishes three waymarked approaches: from the <strong>col du Chat</strong>, 2h30 up and 5h round trip for +752 m; from the <strong>relais du Mont du Chat car park</strong>, about 1h up and 2h round trip for 110 m of gain; and a long loop from Saint-Jean-de-Chevelu, 6h and +1,250 m, mostly in forest.</p><p>One official warning to take seriously: the final section is aerial and difficult — <strong>'Eviter l'accès avec les enfants et animaux'</strong> (avoid bringing children and animals), writes the tourist office. We quote it as is.</p><p>An administrative honesty note: the tourist office's address block places the start at Saint-Paul-sur-Yenne (73170), while the IGN geocoder puts the summit in the commune of Bourdeau (73370). This page carries the IGN summit's commune — the coordinates are that summit — and flags the gap.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free — waymarked mountain trail",
+        "best_season": "Summer-autumn; the final section is exposed in all weather",
+        "commune": "Bourdeau",
+        "dogs": "Advised against by the tourist office ('Eviter l'accès avec les enfants et animaux')",
+        "parking": "Relais du Mont du Chat (short approach) or col du Chat",
+        "stroller": null,
+        "type": "Summit and hiking trail",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Three official options: 2h30 up (5h round trip, +752 m) from the col du Chat; about 1h (2h round trip, 110 m) from the relais du Mont du Chat car park; or a 6h loop (+1,250 m) from Saint-Jean-de-Chevelu.",
+          "q": "How long is the climb?"
+        },
+        {
+          "a": "The tourist office explicitly advises against it: 'Eviter l'accès avec les enfants et animaux' — the final section is aerial and difficult.",
+          "q": "Can you bring children?"
+        },
+        {
+          "a": "A 360° panorama, with the Lac du Bourget below.",
+          "q": "What do you see from the top?"
+        },
+        {
+          "a": "From the relais du Mont du Chat car park: about 1h up, 2h round trip, 110 m of elevation gain.",
+          "q": "What is the shortest approach?"
+        },
+        {
+          "a": "The IGN geocoder places it in Bourdeau (73370); the tourist office's address says Saint-Paul-sur-Yenne (73170). The two sources differ and we flag it.",
+          "q": "Which commune is the summit in?"
+        }
+      ],
+      "hero": {
+        "badge": "1,390 m · Lac du Bourget",
+        "lead": "The Lac du Bourget's totem summit at 1,390 m: three waymarked approaches — one short, from the relais du Mont du Chat — and an exposed final section the tourist office advises against for children."
+      },
+      "hero_alt": "The Dent du Chat above the Lac du Bourget, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Relais du Mont du Chat road (short approach) or the col du Chat; waymarked paths from both car parks.",
+        "public_transport": null
+      },
+      "meta_description": "The Dent du Chat (1,390 m) above the Lac du Bourget: three official routes, 2 to 6 hours, an exposed final section not advised for children. Official sources.",
+      "meta_title": "Dent du Chat · Trail, timings, family warning",
+      "name": "Dent du Chat",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Summit",
+          "v": "1,390 m — 360° view over the Lac du Bourget"
+        },
+        {
+          "k": "From the col du Chat",
+          "v": "2h30 up, 5h round trip, +752 m"
+        },
+        {
+          "k": "From the relais du Mont du Chat",
+          "v": "≈1h up, 2h round trip, 110 m"
+        },
+        {
+          "k": "Saint-Jean-de-Chevelu loop",
+          "v": "6h, +1,250 m, mostly forest"
+        },
+        {
+          "k": "Warning",
+          "v": "'Avoid bringing children and animals' (tourist office)"
+        }
+      ],
+      "schema_amenities": [
+        "Waymarked trails",
+        "Three official routes"
+      ],
+      "when_to_visit": "<p>Summer and autumn for dry rock — the exposed final section does not forgive greasy ground. Children and pets: the tourist office says no.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "L'itinéraire balisé complet : 2h30 de montée, +752 m, jusqu'à l'éperon sommital et sa vue à 360°.",
+          "tag": "5h A/R",
+          "title": "Montée classique depuis le col du Chat"
+        },
+        {
+          "description": "La route du relais du Mont du Chat puis le chemin balisé : environ 1h de montée pour 110 m de dénivelé.",
+          "tag": "2h A/R",
+          "title": "Approche courte du relais du Mont du Chat"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>Dent du Chat</strong> dresse son éperon calcaire à <strong>1 390 m</strong> au-dessus du lac du Bourget, avec au sommet <strong>une vue panoramique à 360°</strong>. L'office de tourisme publie trois approches balisées : depuis le <strong>col du Chat</strong>, 2h30 de montée et 5h aller-retour pour +752 m ; depuis le <strong>parking du relais du Mont du Chat</strong>, environ 1h de montée et 2h aller-retour pour 110 m de dénivelé ; et une grande boucle depuis Saint-Jean-de-Chevelu, 6h et +1 250 m, essentiellement en forêt.</p><p>Un avertissement officiel à prendre au sérieux : la section finale est aérienne et difficile — <strong>« Eviter l'accès avec les enfants et animaux »</strong>, écrit l'office de tourisme. Nous le citons tel quel.</p><p>Détail d'honnêteté administrative : l'adresse publiée par l'office de tourisme situe le départ à Saint-Paul-sur-Yenne (73170), quand le géocodeur IGN place le sommet sur la commune de Bourdeau (73370). La fiche porte la commune du sommet IGN — dont proviennent les coordonnées — et signale l'écart.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Libre — sentier de montagne balisé",
+        "best_season": "Été-automne ; section finale aérienne par tous temps",
+        "commune": "Bourdeau",
+        "dogs": "Déconseillés par l'OT (« Eviter l'accès avec les enfants et animaux »)",
+        "parking": "Relais du Mont du Chat (approche courte) ou col du Chat",
+        "stroller": null,
+        "type": "Sommet et sentier de randonnée",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Trois options officielles : 2h30 de montée (5h aller-retour, +752 m) depuis le col du Chat ; environ 1h (2h aller-retour, 110 m) depuis le parking du relais du Mont du Chat ; ou une boucle de 6h (+1 250 m) depuis Saint-Jean-de-Chevelu.",
+          "q": "Combien de temps dure la montée ?"
+        },
+        {
+          "a": "L'office de tourisme le déconseille explicitement : « Eviter l'accès avec les enfants et animaux » — la section finale est aérienne et difficile.",
+          "q": "Peut-on y emmener des enfants ?"
+        },
+        {
+          "a": "Une vue panoramique à 360°, avec le lac du Bourget en contrebas.",
+          "q": "Que voit-on du sommet ?"
+        },
+        {
+          "a": "Depuis le parking du relais du Mont du Chat : environ 1h de montée, 2h aller-retour, 110 m de dénivelé.",
+          "q": "Quelle est l'approche la plus courte ?"
+        },
+        {
+          "a": "Le géocodeur IGN le place à Bourdeau (73370) ; l'adresse de l'office de tourisme indique Saint-Paul-sur-Yenne (73170). Les deux sources divergent et nous le signalons.",
+          "q": "Sur quelle commune est le sommet ?"
+        }
+      ],
+      "hero": {
+        "badge": "1 390 m · Lac du Bourget",
+        "lead": "Le sommet-totem du lac du Bourget, à 1 390 m : trois approches balisées — dont une courte depuis le relais du Mont du Chat — et une section finale aérienne que l'office de tourisme déconseille aux enfants."
+      },
+      "hero_alt": "Dent du Chat au-dessus du lac du Bourget, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Route du relais du Mont du Chat (approche courte) ou col du Chat ; chemins pédestres balisés depuis les deux parkings.",
+        "public_transport": null
+      },
+      "meta_description": "La Dent du Chat (1 390 m) au-dessus du lac du Bourget : trois itinéraires officiels, 2h à 6h, section finale aérienne déconseillée aux enfants. Sources officielles.",
+      "meta_title": "Dent du Chat · Sentier, durées, avertissement familles",
+      "name": "Dent du Chat",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Sommet",
+          "v": "1 390 m — vue à 360° sur le lac du Bourget"
+        },
+        {
+          "k": "Depuis le col du Chat",
+          "v": "2h30 de montée, 5h aller-retour, +752 m"
+        },
+        {
+          "k": "Depuis le relais du Mont du Chat",
+          "v": "≈1h de montée, 2h aller-retour, 110 m"
+        },
+        {
+          "k": "Boucle Saint-Jean-de-Chevelu",
+          "v": "6h, +1 250 m, essentiellement en forêt"
+        },
+        {
+          "k": "Avertissement",
+          "v": "« Eviter l'accès avec les enfants et animaux » (OT)"
+        }
+      ],
+      "schema_amenities": [
+        "Sentiers balisés",
+        "Trois itinéraires officiels"
+      ],
+      "when_to_visit": "<p>Été et automne pour un rocher sec — la section finale, aérienne, ne pardonne pas le terrain gras. Enfants et animaux : l'office de tourisme dit non.</p>"
+    }
+  },
+  "latitude": 45.675101,
+  "longitude": 5.833512,
+  "official_site_url": "https://www.aixlesbains-rivieradesalpes.com/patrimoine-naturel/dent-du-chat-yenne/",
+  "partners": [],
+  "postal_code": "73370",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-10, official source: OT Aix les Bains Riviera des Alpes. Commune contradiction kept: the OT's address block says Saint-Paul-sur-Yenne 73170, the IGN geocoder places the summit POI in Bourdeau 73370 — the fiche carries the IGN commune (the coordinates ARE the IGN summit) and states the OT's address. The OT's family warning ('Eviter l'accès avec les enfants et animaux') is quoted, not softened.",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "dent-du-chat-col-du-chat",
+  "sources": [
+    "https://www.aixlesbains-rivieradesalpes.com/patrimoine-naturel/dent-du-chat-yenne/",
+    "https://data.geopf.fr/geocodage/search?q=Dent+du+Chat&index=poi&limit=2"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "ACCES_PMR_UNVERIFIED — no official accessibility source found for this site. Status stays null rather than being inferred from the terrain."
+  ]
+}

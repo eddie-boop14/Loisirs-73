@@ -353,9 +353,14 @@
           "category": "telecabine",
           "slug": "telepherique-du-mont-bochor",
           "title_fr": "Téléphérique du Mont-Bochor"
+        },
+        {
+          "category": "sentier",
+          "slug": "lac-des-vaches-pralognan",
+          "title_fr": "Lac des Vaches"
         }
       ],
-      "lieux_count": 1,
+      "lieux_count": 2,
       "postal_code": "73710",
       "research_log": [],
       "slug": "pralognan-la-vanoise",
@@ -1068,10 +1073,136 @@
       "slug": "gresy-sur-isere",
       "stats": {},
       "verify_flags": []
+    },
+    {
+      "commune": "Bourdeau",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "A village on the Lac du Bourget's west shore, Bourdeau carries the Dent du Chat's summit on its commune.",
+      "intro_fr": "Village de la rive ouest du lac du Bourget, Bourdeau porte sur sa commune le sommet de la Dent du Chat.",
+      "lieux": [
+        {
+          "category": "sentier",
+          "slug": "dent-du-chat-col-du-chat",
+          "title_fr": "Dent du Chat"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73370",
+      "research_log": "Added with the sentiers batch, 2026-08-10.",
+      "slug": "bourdeau",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
+      "commune": "Hautecour",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "On the sunny slope above Moûtiers, Hautecour renews its artistic trail's land art every spring.",
+      "intro_fr": "Sur l'adret au-dessus de Moûtiers, Hautecour renouvelle chaque printemps le Land'Art de son sentier artistique.",
+      "lieux": [
+        {
+          "category": "sentier",
+          "slug": "sentier-artistique-hautecour",
+          "title_fr": "Sentier artistique de Hautecour"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73600",
+      "research_log": "Added with the sentiers batch, 2026-08-10.",
+      "slug": "hautecour",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
+      "commune": "Les Déserts",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "Home of La Féclaz in Savoie Grand Revard, Les Déserts leads from the Plateau Sud to the croix du Nivolet.",
+      "intro_fr": "Commune de La Féclaz en Savoie Grand Revard, Les Déserts mène du Plateau Sud à la croix du Nivolet.",
+      "lieux": [
+        {
+          "category": "sentier",
+          "slug": "croix-du-nivolet-la-feclaz",
+          "title_fr": "Croix du Nivolet depuis le Plateau Sud"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73230",
+      "research_log": "Added with the sentiers batch, 2026-08-10.",
+      "slug": "les-deserts",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
+      "commune": "Lépin-le-Lac",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "From its lakeside station at the Lac d'Aiguebelette starts the walking circuit, three days of ridges and shores.",
+      "intro_fr": "De sa gare au bord du lac d'Aiguebelette part le tour du lac à pied, trois jours de crêtes et de rives.",
+      "lieux": [
+        {
+          "category": "sentier",
+          "slug": "tour-du-lac-aiguebelette",
+          "title_fr": "Tour du lac d'Aiguebelette à pied"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73610",
+      "research_log": "Added with the sentiers batch, 2026-08-10.",
+      "slug": "lepin-le-lac",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
+      "commune": "Tresserve",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "Between Aix-les-Bains and the lake, Tresserve opens the Lido beach and the water-level lakeside path.",
+      "intro_fr": "Entre Aix-les-Bains et le lac, Tresserve ouvre la plage du Lido et le chemin lacustre à fleur d'eau.",
+      "lieux": [
+        {
+          "category": "sentier",
+          "slug": "chemin-lacustre-lac-du-bourget",
+          "title_fr": "Chemin lacustre du lac du Bourget"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73100",
+      "research_log": "Added with the sentiers batch, 2026-08-10.",
+      "slug": "tresserve",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
+      "commune": "Modane",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "Gateway to Haute Maurienne Vanoise, Modane opens the chemin du Petit Bonheur running village to village towards Bonneval-sur-Arc.",
+      "intro_fr": "Porte de la Haute Maurienne Vanoise, Modane ouvre le chemin du Petit Bonheur qui file de village en village vers Bonneval-sur-Arc.",
+      "lieux": [
+        {
+          "category": "sentier",
+          "slug": "chemin-du-petit-bonheur",
+          "title_fr": "Chemin du Petit Bonheur"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73500",
+      "research_log": "Added with the sentiers batch, 2026-08-10.",
+      "slug": "modane",
+      "stats": {},
+      "verify_flags": []
     }
   ],
   "generated": "2026-08-08",
-  "manifest": "commune-layer-73-36",
+  "manifest": "commune-layer-73-42",
   "note": "Communes derived from the fiche layer, not authored by hand: one entry per commune that owns at least one fiche. Centroid is the mean of the fiches' coordinates and is absent where none carry one.",
   "tier": "ski-domain launch bucket"
 }

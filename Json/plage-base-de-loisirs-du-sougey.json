@@ -26,6 +26,99 @@
   "hero_credit": null,
   "hero_image": "/img/generique/generique-plage-lac-3.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Schwimmen in einem der wärmsten Seen Frankreichs, täglich vom 13. Juni bis 30. August überwacht.",
+          "tag": "10:00-19:00",
+          "title": "Überwachtes Schwimmen"
+        },
+        {
+          "description": "Der Strand geht zurück auf die Sougey Freizeitbasis und seine Einrichtungen, auf der Saint-Alban-de-Montbel Seite.",
+          "tag": "Westküste",
+          "title": "Le Sougey Freizeitbasis"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Le Sougey beach</strong>, in Saint-Alban-de-Montbel, öffnet die Freizeitbasis am Westufer des<strong>Lac d'Aiguebelette</strong>Einer der wärmsten Seen Frankreichs. von<strong>13. Juni bis 30. August</strong>, das Schwimmen wird täglich von 10:00 bis 19:00 Uhr überwacht und der Strand wird bezahlt: 2,50 € pro Erwachsener an Wochentagen, 4 € an Wochenenden und Feiertagen; 1 € und 2 € für Kinder im Alter von 5-12 Jahren; eine 10-Eintrittskarte für 20 €; kostenlos unter 5. Zahlung mit Karte oder Papier ANCV Urlaubsgutscheine nur.<strong>Den Rest des Jahres ist der Strand frei.</strong></p><p>Die Regel gilt seeweit: \"Les plages du lac d'Aiguebelette, privées ou communales, sont payantes durant toute la période de surveillance\". Die<strong>Parkplätze sind jedoch alle kostenlos</strong>— das Tourismusbüro unterstreicht es mit einem Ausrufezeichen. Eine weitere Seeregel:<strong>Tiere und Barbecues verboten</strong>an den Stränden.</p><p>Rollstuhlzugang ist möglich<strong>mit Hilfe</strong>, über eine Zugangsrampe, nach der offiziellen Auflistung.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Bezahlt in der Saison: 2,50 € an Wochentagen, 4 € Wochenenden (Erwachsener); frei außerhalb der Saison",
+        "best_season": "Beaufsichtigte Saison 13. Juni – 30. August, 10:00-19:00",
+        "commune": "Saint-Alban-de-Montbel",
+        "dogs": "Verboten an den Stränden des Lac d'Aiguebelette",
+        "parking": "frei",
+        "stroller": null,
+        "type": "Strand am Lac d'Aiguebelette"
+      },
+      "faq": [
+        {
+          "a": "Vom 13. Juni bis 30. August: 2,50 € pro Erwachsenem an Wochentagen, 4 € an Wochenenden und Feiertagen; Kinder 5-12 €1/2 €; 10-Eintrittskarte 20 €; frei unter 5. Außerhalb der Saison ist der Zugang frei.",
+          "q": "Wie viel kostet der Eintritt?"
+        },
+        {
+          "a": "Nein — 'Les parkings, quant à eux, sont tous gratuits !', schreibt das Tourismusbüro des Sees.",
+          "q": "Ist Parken bezahlt?"
+        },
+        {
+          "a": "Nein: Tiere und Grill sind an den Stränden des Lac d'Aiguebelette verboten.",
+          "q": "Kannst du einen Hund mitbringen?"
+        },
+        {
+          "a": "Bankkarte und Papier ANCV Urlaubsgutscheine nur, nach der offiziellen Auflistung.",
+          "q": "Wie bezahlen Sie?"
+        },
+        {
+          "a": "Mit Hilfe: In der offiziellen Auflistung heißt es \"Accessible en fauteuil roulant avec aide\" und eine Zugangsrampe.",
+          "q": "Ist der Strandrollstuhl zugänglich?"
+        }
+      ],
+      "hero": {
+        "badge": "2,50 € · Lac d'Aiguebelette",
+        "lead": "Der Sougey-Freizeitstrand am Westufer des Lac d'Aiguebelette: beaufsichtigt und bezahlt vom 13. Juni bis 30. August, den Rest des Jahres kostenlos - Parkplätze immer kostenlos."
+      },
+      "hero_alt": "Le Sougey beach auf dem Lac d'Aiguebelette, Saint-Alban-de-Montbel",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Westküste des Lac d'Aiguebelette, bei Saint-Alban-de-Montbel; kostenlose Parkplätze vor Ort.",
+        "public_transport": null
+      },
+      "meta_description": "Le Sougey beach auf dem Lac d'Aiguebelette: bezahlt vom 13. Juni bis 30. August 2026 (2,50 € an Wochentagen, 4 € Wochenenden), kostenlose Parkplätze, keine Hunde. Nur offizielle Quellen.",
+      "meta_title": "Le Sougey beach · Lac d'Aiguebelette, 2026 Preise",
+      "name": "Le Sougey beach",
+      "name_alternates": [
+        "Plage de la base de loisirs du Sougey"
+      ],
+      "practical_info": [
+        {
+          "k": "Anschrift",
+          "v": "Base de loisirs du Sougey, 73610 Saint-Alban-de-Montbel"
+        },
+        {
+          "k": "Preise 2026",
+          "v": "Erwachsene €2,50 Wochentage / €4 Wochenenden; Kind 5-12 €1/€2; 10-Eintrittskarte €20"
+        },
+        {
+          "k": "Bezahlte Saison",
+          "v": "13. Juni – 30. August, 10:00-19:00 Uhr, täglich"
+        },
+        {
+          "k": "Parken",
+          "v": "frei"
+        },
+        {
+          "k": "Seeregeln",
+          "v": "Tiere und Barbecues an den Stränden verboten"
+        }
+      ],
+      "schema_amenities": [
+        "Freie Parkplätze",
+        "PMR-Zugangsrampe",
+        "Beaufsichtigtes Schwimmen in der Saison"
+      ],
+      "when_to_visit": "<p>Wochentage zum Preis von 2,50 €; außerhalb der Saison (vor dem 13. Juni, nach dem 30. August) ist der Strand frei, aber unbeaufsichtigt.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -119,6 +212,99 @@
       ],
       "when_to_visit": "<p>Weekdays for the €2.50 rate; off season (before 13 June, after 30 August) the beach is free but unsupervised.</p>"
     },
+    "es": {
+      "activities": [
+        {
+          "description": "Nadando en uno de los lagos más cálidos de Francia, supervisado diariamente del 13 de junio al 30 de agosto.",
+          "tag": "10:00-19:00",
+          "title": "Natación supervisada"
+        },
+        {
+          "description": "La playa se remonta a la base de ocio Sougey y sus instalaciones, en el lado Saint-Alban-de-Montbel.",
+          "tag": "Costa Oeste",
+          "title": "Base de ocio Sougey"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Le Sougey beach</strong>, en Saint-Alban-de-Montbel, abre la base de ocio en la orilla oeste de la<strong>Lac d'Aiguebelette</strong>- uno de los lagos más cálidos de Francia. Desde<strong>13 de junio a 30 de agosto</strong>, la natación se supervisa todos los días 10:00-19:00 y la playa se paga: 2,50 € por adulto los días de semana, 4 € los fines de semana y vacaciones; 1 € y 2 € para niños de 5 a 12 años; una tarjeta de 10 entradas a 20 €; gratis menos de 5. Pago por tarjeta o papel Sólo vales de vacaciones ANCV.<strong>El resto del año, la playa es gratuita.</strong></p><p>La regla sostiene en todo el lago: 'Les plages du lac d'Aiguebelette, privées ou communales, sont payantes durant toute la période de surveillance'. El<strong>aparcamientos, sin embargo, son todos gratis</strong>— la oficina turística lo subraya con una marca de exclamación. Otra regla del lago:<strong>animales y barbacoas prohibidas</strong>en las playas.</p><p>El acceso a silla de ruedas es posible<strong>asistencia</strong>, a través de una rampa de acceso, por el listado oficial.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagado en temporada: 2,50 € semanales, 4 € fin de semana (adulto); libre temporada",
+        "best_season": "Temporada supervisada 13 junio – 30 agosto, 10:00–19:00",
+        "commune": "Saint-Alban-de-Montbel",
+        "dogs": "Prohibido en las playas del Lac d'Aiguebelette",
+        "parking": "Gratis",
+        "stroller": null,
+        "type": "Playa del Lac d'Aiguebelette"
+      },
+      "faq": [
+        {
+          "a": "Del 13 de junio al 30 de agosto: 2,50 € por adulto los días de semana, 4 € los fines de semana y las vacaciones; niños 5-12 €1/€2; 10-entry card 20 €; gratis bajo 5. Fuera de temporada, el acceso es gratuito.",
+          "q": "¿Cuánto es la entrada?"
+        },
+        {
+          "a": "No — 'Les parkings, quant à eux, sont tous gratuits !', escribe la oficina turística del lago.",
+          "q": "¿Se paga el estacionamiento?"
+        },
+        {
+          "a": "No: se prohíben animales y barbacoas en las playas del Lac d'Aiguebelette.",
+          "q": "¿Puedes traer un perro?"
+        },
+        {
+          "a": "Tarjeta bancaria y papel Solo vales de vacaciones ANCV, por el listado oficial.",
+          "q": "¿Cómo pagas?"
+        },
+        {
+          "a": "Con asistencia: el listado oficial declara 'Accesible en fauteuil roulant avec aide' y una rampa de acceso.",
+          "q": "¿La silla de ruedas de playa es accesible?"
+        }
+      ],
+      "hero": {
+        "badge": "€2.50 · Lac d'Aiguebelette",
+        "lead": "La playa Sougey-base en la costa oeste del Lac d'Aiguebelette: supervisada y pagada del 13 de junio al 30 de agosto, libre el resto del año — estacionamiento siempre gratuito."
+      },
+      "hero_alt": "Le Sougey beach en el Lac d'Aiguebelette, Saint-Alban-de-Montbel",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "La costa oeste del Lac d'Aiguebelette, en Saint-Alban-de-Montbel; aparcamiento gratuito en el sitio.",
+        "public_transport": null
+      },
+      "meta_description": "Le Sougey beach en el Lac d'Aiguebelette: pagado 13 junio – 30 agosto 2026 ( €2.50 días semanales, €4 fines de semana), aparcamiento gratuito, sin perros. Fuentes oficiales solamente.",
+      "meta_title": "Le Sougey beach · Lac d'Aiguebelette, 2026 precios",
+      "name": "Le Sougey beach",
+      "name_alternates": [
+        "Plage de la base de loisirs du Sougey"
+      ],
+      "practical_info": [
+        {
+          "k": "Dirección",
+          "v": "Base de loisirs du Sougey, 73610 Saint-Alban-de-Montbel"
+        },
+        {
+          "k": "Precios 2026",
+          "v": "Adulto €2.50 días semanales / €4 fines de semana; niño 5-12 €1/€2; tarjeta de entrada 20 €"
+        },
+        {
+          "k": "Temporada de pago",
+          "v": "13 de junio a 30 de agosto, de 10:00 a 19:00, todos los días"
+        },
+        {
+          "k": "Aparcamiento",
+          "v": "Gratis"
+        },
+        {
+          "k": "Reglas del lago",
+          "v": "Animales y barbacoas prohibidos en las playas"
+        }
+      ],
+      "schema_amenities": [
+        "Aparcamiento gratuito",
+        "rampa de acceso PMR",
+        "Natación supervisada en temporada"
+      ],
+      "when_to_visit": "<p>Días de semana para el precio de 2,50 €; fuera de temporada (antes del 13 de junio, después del 30 de agosto) la playa es libre pero sin supervisión.</p>"
+    },
     "fr": {
       "activities": [
         {
@@ -211,6 +397,192 @@
         "Baignade surveillée en saison"
       ],
       "when_to_visit": "<p>En semaine hors week-end pour le tarif à 2,50 € ; hors saison (avant le 13 juin, après le 30 août), la plage est gratuite mais non surveillée.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Nuoto in uno dei laghi più caldi della Francia, supervisionato ogni giorno dal 13 giugno al 30 agosto.",
+          "tag": "10:00-19:00",
+          "title": "nuoto supervisionato"
+        },
+        {
+          "description": "La spiaggia si affaccia sulla base del tempo libero Sougey e sulle sue strutture, sul lato Saint-Alban-de-Montbel.",
+          "tag": "La costa occidentale",
+          "title": "Le Sougey base per il tempo libero"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Le Sougey beach</strong>, in Saint-Alban-de-Montbel, apre la base di svago sulla riva ovest del <strong>Lac d'Aiguebelette</strong> — uno dei laghi più caldi della Francia. Dal <strong>13 giugno al 30 agosto</strong>, il nuoto è sorvegliato tutti i giorni 10:00–19:00 e la spiaggia è pagata: € 2,50 per adulto nei giorni feriali, € 4 nei fine settimana e festivi; € 1 e € 2 per i bambini di età compresa tra 5 e 12 anni; una carta di 10 entrate a € 20; gratuito sotto 5. Pagamento solo con carta o carta ANCV papier. <strong>Il resto dell'anno, la spiaggia è libera.</strong></p><p>La regola vale per tutto il lago: « Les plages du lac d'Aiguebelette, privées ou communales, sont payantes durant toute la période de surveillance ». I <strong>parcheggi, però, sono tutti gratuiti</strong> — l'ufficio turistico lo sottolinea con un punto esclamativo. Un'altra regola del lago: <strong>animali e barbecue vietati</strong> sulle spiagge.</p><p>L'accesso in sedia a rotelle è possibile <strong>con assistenza</strong>, tramite una rampa di accesso, secondo la scheda ufficiale.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "A pagamento in stagione: € 2,50 giorni settimanali, €4 fine settimana (adulto); free off season",
+        "best_season": "Stagione supervisionata 13 giugno – 30 agosto, 10:00-19:00",
+        "commune": "Saint-Alban-de-Montbel",
+        "dogs": "Proibita sulle spiagge di Lac d'Aiguebelette",
+        "parking": "Gratis",
+        "stroller": null,
+        "type": "Spiaggia sul Lac d'Aiguebelette"
+      },
+      "faq": [
+        {
+          "a": "Dal 13 giugno al 30 agosto: € 2,50 per adulto nei giorni feriali, € 4 nei fine settimana e nei giorni festivi; bambini 5-12 € 1/€ 2; 10 biglietto d'ingresso € 20; gratuito sotto 5. Fuori stagione, l'accesso è gratuito.",
+          "q": "Quanto costa?"
+        },
+        {
+          "a": "No — «I parcheggi, quanti à eux, sont tous gratuits!», scrive l'ufficio turistico del lago.",
+          "q": "Il parcheggio è pagato?"
+        },
+        {
+          "a": "No: animali e barbecue sono vietati sulle spiagge di Lac d'Aiguebelette.",
+          "q": "Puoi portare un cane?"
+        },
+        {
+          "a": "Bancomat e carta ANCV solo buoni vacanza, per l'elenco ufficiale.",
+          "q": "Come si paga?"
+        },
+        {
+          "a": "Con l'assistenza: l'elenco ufficiale afferma 'Accessible en fauteuil roulant avec aide' e una rampa di accesso.",
+          "q": "La sedia a rotelle è accessibile?"
+        }
+      ],
+      "hero": {
+        "badge": "€2.50 · Lac d'Aiguebelette",
+        "lead": "La spiaggia di sosta Sougey sulla riva ovest di Lac d'Aiguebelette: sorvegliata e pagata dal 13 giugno al 30 agosto, libera il resto dell'anno — parcheggio sempre gratuito."
+      },
+      "hero_alt": "Le Sougey beach sul Lac d'Aiguebelette, Saint-Alban-de-Montbel",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "La riva ovest del Lac d'Aiguebelette, a Saint-Alban-de-Montbel; parcheggio gratuito in loco.",
+        "public_transport": null
+      },
+      "meta_description": "Le Sougey beach sul Lac d'Aiguebelette: pagato 13 giugno – 30 agosto 2026 (2,50 giorni settimanali, 4 fine settimana), parcheggio gratuito, senza cani. Solo fonti ufficiali.",
+      "meta_title": "Le Sougey beach · Lac d'Aiguebelette, 2026 prezzi",
+      "name": "Le Sougey beach",
+      "name_alternates": [
+        "Plage de la base de loisirs du Sougey"
+      ],
+      "practical_info": [
+        {
+          "k": "Indirizzo",
+          "v": "Base de loisirs du Sougey, 73610 Saint-Alban-de-Montbel"
+        },
+        {
+          "k": "Prezzi 2026",
+          "v": "Adulto €2.50 giorni settimanali / €4 fine settimana; bambino 5-12 €1/€2; 10 biglietto d'ingresso €20"
+        },
+        {
+          "k": "Stagione a pagamento",
+          "v": "13 giugno – 30 agosto, 10:00-19:00, tutti i giorni"
+        },
+        {
+          "k": "Parcheggio",
+          "v": "Gratis"
+        },
+        {
+          "k": "regole del lago",
+          "v": "Animali e barbecue vietati sulle spiagge"
+        }
+      ],
+      "schema_amenities": [
+        "Parcheggio gratuito",
+        "rampa di accesso PMR",
+        "Nuoto supervisionato in stagione"
+      ],
+      "when_to_visit": "<p>Giorni feriali per la tariffa € 2,50; fuori stagione (prima del 13 giugno, dopo il 30 agosto) la spiaggia è gratuita ma non supervisionata.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Zwemmen in een van de warmste meren van Frankrijk, dagelijks begeleid van 13 juni tot 30 augustus.",
+          "tag": "10.00 uur 19.00 uur",
+          "title": "Zwemmen onder toezicht"
+        },
+        {
+          "description": "Het strand keert terug naar de Sougey recreatiebasis en zijn faciliteiten, aan de Saint-Alban-de-Montbel kant.",
+          "tag": "Westkust",
+          "title": "Le Sougey recreatiebasis"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Le Sougey beach</strong>, in Saint-Alban-de-Montbel, opent de recreatiebasis op de westkust van de <strong>Lac d'Aiguebelette</strong> — een van de warmste meren van Frankrijk. Van <strong>13 juni tot 30 augustus</strong>, zwemmen wordt dagelijks begeleid van 10:00 tot 19:00 en het strand is betaald: €2,50 per volwassene op werkdagen, €4 in weekends en feestdagen; €1 en €2 voor kinderen van 5 tot 12 jaar; een 10-entreekaart voor €20; gratis onder de 5 jaar. Betaling per kaart of papier ANCV vakantievouchers alleen. <strong>De rest van het jaar is het strand gratis.</strong></p><p>De regel geldt voor het hele meer: 'Les plages du lac d'Aiguebelette, privées ou communales, sont payantes durant toute la période de surveillance'. De <strong>parkeerplaatsen, allemaal gratis</strong> — het VVV onderstreept dit met een uitroepteken. Nog een meer regel: <strong>dieren en barbecues verboden</strong> op de stranden.</p><p>Rolstoeltoegang is mogelijk <strong>met bijstand</strong>, via een toegangshelling, per officiële vermelding.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Betaald in het seizoen: €2,50 weekdagen, €4 weekends (volwassenen); gratis buiten het seizoen",
+        "best_season": "Supervised seizoen 13 juni 30 augustus 10:00 19:00",
+        "commune": "Saint-Alban-de-Montbel",
+        "dogs": "Verboden op de stranden van Lac d'Aiguebelette",
+        "parking": "Vrij",
+        "stroller": null,
+        "type": "Strand op het Lac d'Aiguebelette"
+      },
+      "faq": [
+        {
+          "a": "Van 13 juni tot 30 augustus: €2,50 per volwassene op werkdagen, €4 in weekends en feestdagen; kinderen 5-12 €1/€2; 10-entreekaart €20; gratis onder de 5 jaar. Buiten het seizoen is toegang gratis.",
+          "q": "Hoeveel kost de toegang?"
+        },
+        {
+          "a": "Geen 'Les parkings, quant à eux, sont tous gratuits !', schrijft het VVV-kantoor van het meer.",
+          "q": "Is parkeren betaald?"
+        },
+        {
+          "a": "Nee: dieren en barbecues zijn verboden op de stranden van het Lac d'Aiguebelette.",
+          "q": "Kun je een hond meenemen?"
+        },
+        {
+          "a": "Bankkaart en papier ANCV vakantiecheques alleen, per officiële lijst.",
+          "q": "Hoe betaal je?"
+        },
+        {
+          "a": "Met assistentie: de officiële vermelding staat 'Accessible en fauteuil roulant avec adde' en een toegangshelling.",
+          "q": "Is het strand rolstoel toegankelijk?"
+        }
+      ],
+      "hero": {
+        "badge": "€ 2,50 · Lac d'Aiguebelette",
+        "lead": "De Sougey recreatie-base strand op de Lac d'Aiguebelette's westkust: gecontroleerd en betaald van 13 juni tot 30 augustus, gratis de rest van het jaar parkeerplaats altijd gratis."
+      },
+      "hero_alt": "Le Sougey beach op de Lac d'Aiguebelette, Saint-Alban-de-Montbel",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Westkust van het Lac d'Aiguebelette, bij Saint-Alban-de-Montbel; gratis parkeren op het terrein.",
+        "public_transport": null
+      },
+      "meta_description": "Le Sougey beach op het Lac d'Aiguebelette: betaald 13 juni – 30 augustus 2026 (€2,50 werkdagen, €4 weekends), gratis parkeren, geen honden. Alleen officiële bronnen.",
+      "meta_title": "Le Sougey beach · Lac d'Aiguebelette, prijzen 2026",
+      "name": "Le Sougey beach",
+      "name_alternates": [
+        "Plage de la base de loisirs du Sougey"
+      ],
+      "practical_info": [
+        {
+          "k": "Adres",
+          "v": "Base de loisirs du Sougey, 73610 Saint-Alban-de-Montbel"
+        },
+        {
+          "k": "Prijzen 2026",
+          "v": "Volwassen € 2,50 weekdagen / € 4 weekends; kind 5-12 €1/€2; 10-entreekaart € 20"
+        },
+        {
+          "k": "Betaald seizoen",
+          "v": "13 juni 30 augustus 10:00 19:00 dagelijks"
+        },
+        {
+          "k": "Parkeren",
+          "v": "Vrij"
+        },
+        {
+          "k": "Lake-regels",
+          "v": "Dieren en barbecues verboden op de stranden"
+        }
+      ],
+      "schema_amenities": [
+        "Gratis parkeren",
+        "PMR-toegangshelling",
+        "Supervised zwemmen in het seizoen"
+      ],
+      "when_to_visit": "<p>Weekdagen voor het tarief van €2,50; buiten het seizoen (vóór 13 juni, na 30 augustus) is het strand gratis maar zonder toezicht.</p>"
     }
   },
   "latitude": 45.553175,

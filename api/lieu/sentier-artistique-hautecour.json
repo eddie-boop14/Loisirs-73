@@ -1,0 +1,31 @@
+{
+  "name": "Sentier artistique de Hautecour",
+  "commune": "Hautecour",
+  "gps": {
+    "lat": 45.506831,
+    "lng": 6.545049
+  },
+  "type": "sentier",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": "À proximité du plan d'eau (la Trappe)",
+  "transport": null,
+  "season": "Du printemps à l'automne — les œuvres sont renouvelées chaque printemps",
+  "winter": {
+    "access": null,
+    "infrastructure": [],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
+  "official_url": "https://rando.vanoise.com/fr/trek/59587-Sentier-artistique-de-Hautecour---Boucle-Liberte",
+  "last_verified": null
+}

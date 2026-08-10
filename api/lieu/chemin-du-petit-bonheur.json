@@ -1,0 +1,28 @@
+{
+  "name": "Chemin du Petit Bonheur",
+  "commune": "Modane",
+  "gps": null,
+  "type": "sentier",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": "Départs multiples depuis chaque village de la vallée",
+  "transport": null,
+  "season": "Périodes conseillées : juin à octobre (OT)",
+  "winter": {
+    "access": null,
+    "infrastructure": [],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
+  "official_url": "https://www.haute-maurienne-vanoise.com/decouvrir-la-haute-maurienne-vanoise/les-incontournables/chemin-du-petit-bonheur/",
+  "last_verified": null
+}

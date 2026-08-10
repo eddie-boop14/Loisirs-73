@@ -1,103 +1,103 @@
 {
-  "total_fiches": 58,
+  "total_fiches": 65,
   "per_lang": {
     "fr": {
-      "pages_built": 58,
+      "pages_built": 65,
       "fallback_pages": 0,
       "fields_fallback_counts": {},
-      "body_truly_translated": 58,
+      "body_truly_translated": 65,
       "body_fr_residue": 0,
       "body_missing": 0
     },
     "en": {
-      "pages_built": 58,
+      "pages_built": 65,
       "fallback_pages": 0,
       "fields_fallback_counts": {},
-      "body_truly_translated": 58,
+      "body_truly_translated": 65,
       "body_fr_residue": 0,
       "body_missing": 0
     },
     "de": {
-      "pages_built": 58,
+      "pages_built": 65,
       "fallback_pages": 7,
       "fields_fallback_counts": {
-        "name": 7,
-        "body": 7,
-        "name_alternates": 5,
-        "schema_amenities": 7,
+        "facts": 7,
+        "body.when_to_visit": 7,
+        "body.activities": 7,
         "faq": 7,
         "body.practical_info": 7,
-        "facts": 7,
-        "body.how_to_get_there": 7,
-        "body.when_to_visit": 7,
+        "name": 7,
         "hero_alt": 7,
+        "schema_amenities": 7,
         "hero": 7,
-        "body.activities": 7
+        "body": 7,
+        "body.how_to_get_there": 7,
+        "name_alternates": 4
       },
-      "body_truly_translated": 51,
+      "body_truly_translated": 58,
       "body_fr_residue": 0,
       "body_missing": 7
     },
     "it": {
-      "pages_built": 58,
+      "pages_built": 65,
       "fallback_pages": 7,
       "fields_fallback_counts": {
-        "name": 7,
-        "body": 7,
-        "name_alternates": 5,
-        "schema_amenities": 7,
+        "facts": 7,
+        "body.when_to_visit": 7,
+        "body.activities": 7,
         "faq": 7,
         "body.practical_info": 7,
-        "facts": 7,
-        "body.how_to_get_there": 7,
-        "body.when_to_visit": 7,
+        "name": 7,
         "hero_alt": 7,
+        "schema_amenities": 7,
         "hero": 7,
-        "body.activities": 7
+        "body": 7,
+        "body.how_to_get_there": 7,
+        "name_alternates": 4
       },
-      "body_truly_translated": 51,
+      "body_truly_translated": 58,
       "body_fr_residue": 0,
       "body_missing": 7
     },
     "es": {
-      "pages_built": 58,
+      "pages_built": 65,
       "fallback_pages": 7,
       "fields_fallback_counts": {
-        "name": 7,
-        "body": 7,
-        "name_alternates": 5,
-        "schema_amenities": 7,
+        "facts": 7,
+        "body.when_to_visit": 7,
+        "body.activities": 7,
         "faq": 7,
         "body.practical_info": 7,
-        "facts": 7,
-        "body.how_to_get_there": 7,
-        "body.when_to_visit": 7,
+        "name": 7,
         "hero_alt": 7,
+        "schema_amenities": 7,
         "hero": 7,
-        "body.activities": 7
+        "body": 7,
+        "body.how_to_get_there": 7,
+        "name_alternates": 4
       },
-      "body_truly_translated": 51,
+      "body_truly_translated": 58,
       "body_fr_residue": 0,
       "body_missing": 7
     },
     "nl": {
-      "pages_built": 58,
+      "pages_built": 65,
       "fallback_pages": 7,
       "fields_fallback_counts": {
-        "name": 7,
-        "body": 7,
-        "name_alternates": 5,
-        "schema_amenities": 7,
+        "facts": 7,
+        "body.when_to_visit": 7,
+        "body.activities": 7,
         "faq": 7,
         "body.practical_info": 7,
-        "facts": 7,
-        "body.how_to_get_there": 7,
-        "body.when_to_visit": 7,
+        "name": 7,
         "hero_alt": 7,
+        "schema_amenities": 7,
         "hero": 7,
-        "body.activities": 7
+        "body": 7,
+        "body.how_to_get_there": 7,
+        "name_alternates": 4
       },
-      "body_truly_translated": 51,
+      "body_truly_translated": 58,
       "body_fr_residue": 0,
       "body_missing": 7
     }
@@ -112,40 +112,40 @@
   "fallback_slugs": {
     "en": [],
     "de": [
-      "base-de-loisirs-gresy-sur-isere",
-      "lac-de-carouge-saint-pierre-d-albigny",
-      "lac-saint-andre-porte-de-savoie",
-      "plage-aiguebelette-le-lac",
-      "plage-base-de-loisirs-du-sougey",
-      "plage-municipale-aix-les-bains-aqualac",
-      "plage-municipale-le-bourget-du-lac"
+      "chemin-du-petit-bonheur",
+      "chemin-lacustre-lac-du-bourget",
+      "croix-du-nivolet-la-feclaz",
+      "dent-du-chat-col-du-chat",
+      "lac-des-vaches-pralognan",
+      "sentier-artistique-hautecour",
+      "tour-du-lac-aiguebelette"
     ],
     "it": [
-      "base-de-loisirs-gresy-sur-isere",
-      "lac-de-carouge-saint-pierre-d-albigny",
-      "lac-saint-andre-porte-de-savoie",
-      "plage-aiguebelette-le-lac",
-      "plage-base-de-loisirs-du-sougey",
-      "plage-municipale-aix-les-bains-aqualac",
-      "plage-municipale-le-bourget-du-lac"
+      "chemin-du-petit-bonheur",
+      "chemin-lacustre-lac-du-bourget",
+      "croix-du-nivolet-la-feclaz",
+      "dent-du-chat-col-du-chat",
+      "lac-des-vaches-pralognan",
+      "sentier-artistique-hautecour",
+      "tour-du-lac-aiguebelette"
     ],
     "es": [
-      "base-de-loisirs-gresy-sur-isere",
-      "lac-de-carouge-saint-pierre-d-albigny",
-      "lac-saint-andre-porte-de-savoie",
-      "plage-aiguebelette-le-lac",
-      "plage-base-de-loisirs-du-sougey",
-      "plage-municipale-aix-les-bains-aqualac",
-      "plage-municipale-le-bourget-du-lac"
+      "chemin-du-petit-bonheur",
+      "chemin-lacustre-lac-du-bourget",
+      "croix-du-nivolet-la-feclaz",
+      "dent-du-chat-col-du-chat",
+      "lac-des-vaches-pralognan",
+      "sentier-artistique-hautecour",
+      "tour-du-lac-aiguebelette"
     ],
     "nl": [
-      "base-de-loisirs-gresy-sur-isere",
-      "lac-de-carouge-saint-pierre-d-albigny",
-      "lac-saint-andre-porte-de-savoie",
-      "plage-aiguebelette-le-lac",
-      "plage-base-de-loisirs-du-sougey",
-      "plage-municipale-aix-les-bains-aqualac",
-      "plage-municipale-le-bourget-du-lac"
+      "chemin-du-petit-bonheur",
+      "chemin-lacustre-lac-du-bourget",
+      "croix-du-nivolet-la-feclaz",
+      "dent-du-chat-col-du-chat",
+      "lac-des-vaches-pralognan",
+      "sentier-artistique-hautecour",
+      "tour-du-lac-aiguebelette"
     ]
   }
 }

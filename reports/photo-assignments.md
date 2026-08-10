@@ -1,7 +1,7 @@
 # Phase 4 — photo assignments (gate artifact)
 
 **Date**: 2026-06-14
-**Total assignments**: 58 (one per (hub × slug) on the FR canonical hub)
+**Total assignments**: 65 (one per (hub × slug) on the FR canonical hub)
 
 ## Per-hub diversity
 
@@ -12,6 +12,7 @@
 | `lacs-plages` | 7 | 7 | 1 |
 | `musees` | 7 | 5 | 2 |
 | `points-de-vue` | 15 | 15 | 1 |
+| `sentiers` | 7 | 7 | 1 |
 | `telecabines` | 15 | 15 | 1 |
 
 ## Per-fiche assignments
@@ -61,6 +62,13 @@
 | `points-de-vue` | `cormet-d-areches` | `nature` | `cormet-d-areches-hero.jpg` | — | json hero (local) |
 | `points-de-vue` | `cormet-de-roselend` | `nature` | `cormet-de-roselend-hero.jpg` | — | json hero (local) |
 | `points-de-vue` | `signal-de-bisanne` | `nature` | `signal-de-bisanne-hero.jpg` | — | json hero (local) |
+| `sentiers` | `chemin-du-petit-bonheur` | `nature` | `generique-sentier-melezes-automne.jpg` | — | json hero (local) |
+| `sentiers` | `chemin-lacustre-lac-du-bourget` | `nature` | `generique-sentier-automne-orange.jpg` | — | json hero (local) |
+| `sentiers` | `croix-du-nivolet-la-feclaz` | `nature` | `generique-sentier-sommet-panorama.jpg` | — | json hero (local) |
+| `sentiers` | `dent-du-chat-col-du-chat` | `nature` | `generique-sentier-arete-alpine.jpg` | — | json hero (local) |
+| `sentiers` | `lac-des-vaches-pralognan` | `nature` | `generique-sentier-foret-alpine.jpg` | — | json hero (local) |
+| `sentiers` | `sentier-artistique-hautecour` | `nature` | `generique-sentier-foret.jpg` | — | json hero (local) |
+| `sentiers` | `tour-du-lac-aiguebelette` | `nature` | `generique-sentier.jpg` | — | json hero (local) |
 | `telecabines` | `funiculaire-de-la-grande-motte` | `transport` | `funiculaire-de-la-grande-motte-hero.jpg` | — | json hero (local) |
 | `telecabines` | `telecabine-de-champagny` | `transport` | `telecabine-de-champagny-hero.jpg` | — | json hero (local) |
 | `telecabines` | `telecabine-de-la-pointe-de-la-masse` | `transport` | `telecabine-de-la-pointe-de-la-masse-hero.jpg` | — | json hero (local) |

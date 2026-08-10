@@ -1,0 +1,31 @@
+{
+  "name": "Croix du Nivolet depuis le Plateau Sud",
+  "commune": "Les Déserts",
+  "gps": {
+    "lat": 45.613564,
+    "lng": 5.965568
+  },
+  "type": "sentier",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": "Parking Plateau Sud, La Féclaz",
+  "transport": null,
+  "season": "Été à pied ; du 1er décembre au 31 mars en raquettes, selon enneigement",
+  "winter": {
+    "access": "partial",
+    "infrastructure": [],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": "https://savoie-route.fr"
+  },
+  "official_url": "https://www.savoiegrandrevard.com/la-croix-du-nivolet-depuis-le-plateau-sud-la-feclaz.html",
+  "last_verified": null
+}

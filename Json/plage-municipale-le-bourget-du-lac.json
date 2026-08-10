@@ -24,6 +24,98 @@
   "hero_credit": null,
   "hero_image": "/img/generique/generique-plage-lac-2.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Schwimmen im Lac du Bourget vom 13. Juni bis zum 30. August 2026 — Ende 18:00 Uhr pro Gemeinde, 19:00 Uhr pro Tourismusbüro.",
+          "tag": "In der Saison",
+          "title": "Überwachtes Schwimmen"
+        },
+        {
+          "description": "Beachvolleyballplatz, Kinderspiele, Duschen und Kabinen, Restaurant - Picknicks erlaubt, kostenloses WLAN.",
+          "tag": "Vor Ort",
+          "title": "Beachvolleyball und Kinderspiele"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die<strong>Le Bourget-du-Lac municipal beach</strong>öffnet das südliche Ufer des Lac du Bourget, nur einen Steinwurf vom Schloss Thomas II entfernt. In der Saison —<strong>13. Juni bis 30. August 2026 einschließlich</strong>- Der Zugang wird bezahlt: 2,30 € bis 3,20 € pro Erwachsenem, 1,60 € bis 2,20 € pro Kind, mit einem ermäßigten Preis ab 16:00 Uhr. Den Rest des Jahres ist der Strand täglich geöffnet, kostenlos.</p><p>In der Schlussstunde des beaufsichtigten Schwimmens unterscheiden sich die beiden offiziellen Quellen um eine Stunde: Die Gemeinde veröffentlicht<strong>10:00–18:00</strong>, das Tourismusbüro<strong>10:00-19:00</strong>Wir geben beides und entscheiden nicht.</p><p>Die Einrichtungen sind komplett: Duschen, Kabinen, Toiletten, Beach-Volleyball, Kinderspiele, Picknicken erlaubt, ein Restaurant - und kostenloses WLAN. Vor allem:<strong>der gesamte Strand ist für Besucher mit eingeschränkter Mobilität ohne Hilfe zugänglich</strong>, nach der offiziellen Auflistung.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Bezahlt in der Saison: Erwachsene €2,30-3,20, Kind €1,60-2,20; frei außerhalb der Saison",
+        "best_season": "Beaufsichtigte Saison 13. Juni – 30. August 2026",
+        "commune": "Le Bourget-du-Lac",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Stadtstrand am Lac du Bourget"
+      },
+      "faq": [
+        {
+          "a": "In der Saison (13. Juni – 30. August 2026): 2,30 € bis 3,20 € pro Erwachsener, 1,60 € bis 2,20 € pro Kind, ermäßigter Preis ab 16:00 Uhr. Außerhalb der Saison ist der Zugang frei.",
+          "q": "Wie viel kostet der Eintritt?"
+        },
+        {
+          "a": "Die Gemeinde veröffentlicht 10:00-18:00, das Tourismusbüro 10:00-19:00 für den gleichen Zeitraum vom 13. Juni bis 30. August - die Quellen unterscheiden sich um eine Stunde und wir markieren es eher als auswählen.",
+          "q": "Was sind die Supervision Stunden?"
+        },
+        {
+          "a": "Ja: „Der gesamte Strand ist für Besucher mit eingeschränkter Mobilität ohne Hilfe zugänglich\", nach dem Fremdenverkehrsamt.",
+          "q": "Ist der Strandrollstuhl zugänglich?"
+        },
+        {
+          "a": "Duschen, Kabinen, Toiletten, Beach-Volleyball, Kinderspiele, ein Restaurant, Picknicken erlaubt - und kostenloses WLAN.",
+          "q": "Welche Einrichtungen gibt es?"
+        },
+        {
+          "a": "Ja: \"Toute l'année : ouvert tous les jours\" - der Zugang ist außerhalb des bezahlten Zeitraums wieder frei.",
+          "q": "Kannst du außerhalb des Sommers gehen?"
+        }
+      ],
+      "hero": {
+        "badge": "2,30 € · Lac du Bourget",
+        "lead": "Der Strand an der Südküste des Lac du Bourget: vom 13. Juni bis zum 30. August 2026 bezahlt und überwacht, den Rest des Jahres kostenlos - und ohne Hilfe vollständig zugänglich."
+      },
+      "hero_alt": "Le Bourget-du-Lac municipal beach, Südküste des Lac du Bourget, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Südküste des Lac du Bourget, bei Le Bourget-du-Lac; der Strand ist vom Dorf aus ausgeschildert.",
+        "public_transport": null
+      },
+      "meta_description": "Der städtische Strand von Le Bourget-du-Lac: bezahlt in der Saison (2,30–3,20 €), überwacht vom 13. Juni bis 30. August 2026, voll rollstuhlgerecht. Offizielle Quellen.",
+      "meta_title": "Le Bourget-du-Lac Strand · 2026 Preise, überwachtes Schwimmen",
+      "name": "Le Bourget-du-Lac municipal beach",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Anschrift",
+          "v": "Stadtstrand, 73370 Le Bourget-du-Lac"
+        },
+        {
+          "k": "Preise 2026",
+          "v": "Erwachsene €2,30–3,20, Kind €1,60–2,20; reduziert ab 16:00"
+        },
+        {
+          "k": "Bezahlte Saison",
+          "v": "13. Juni – 30. August 2026 inklusive"
+        },
+        {
+          "k": "Überwachung",
+          "v": "10:00-18:00 (Gemeinde) oder 10:00-19:00 (Touristenbüro) - Quellen unterscheiden sich"
+        },
+        {
+          "k": "Einrichtungen",
+          "v": "Duschen, Kabinen, Beach-Volleyball, Kinderspiele, Restaurant, kostenloses WiFi"
+        }
+      ],
+      "schema_amenities": [
+        "Voll rollstuhlzugänglich",
+        "Free WiFi",
+        "Restaurant",
+        "Strandvolleyball"
+      ],
+      "when_to_visit": "<p>In der überwachten Saison für Rettungsschwimmen (13. Juni - 30. August 2026) - nach 16:00 Uhr fällt der Preis. Neben der Saison ist der Strand wieder frei.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -116,6 +208,98 @@
       ],
       "when_to_visit": "<p>In the supervised season for lifeguarded swimming (13 June – 30 August 2026) — after 16:00 the price drops. Off season, the beach is free again.</p>"
     },
+    "es": {
+      "activities": [
+        {
+          "description": "Nadando en la Lac du Bourget del 13 de junio al 30 de agosto de 2026 — terminando a las 18:00 por la comuna, a las 19:00 por la oficina de turismo.",
+          "tag": "En temporada",
+          "title": "Natación supervisada"
+        },
+        {
+          "description": "Corte de voleibol playa, juegos infantiles, duchas y cabañas, restaurante — picnics permitidos, WiFi gratuita.",
+          "tag": "En el sitio",
+          "title": "Voleibol de playa y juegos infantiles"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El<strong>Le Bourget-du-Lac municipal beach</strong>abre la orilla sur de la Lac du Bourget, un tiro de piedra del castillo de Thomas II. En temporada —<strong>13 de junio a 30 de agosto 2026 inclusive</strong>— el acceso se paga: 2,30 € a 3,20 € por adulto, 1,60 € a 2,20 € por niño, con una tarifa reducida de 16:00. El resto del año, la playa está abierta todos los días, libre.</p><p>En la hora de cierre supervisada de natación, las dos fuentes oficiales difieren en una hora: la comuna publica<strong>10:00 a 18:00</strong>, la oficina de turismo<strong>10:00-19:00</strong>Damos ambos y no arbitramos.</p><p>Las instalaciones están completas: duchas, cabinas, aseos, voleibol de playa, juegos infantiles, picnic permitido, un restaurante y WiFi gratuita. Sobre todo,<strong>toda la playa es accesible para los visitantes con movilidad reducida sin asistencia</strong>, por la lista oficial.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagado en temporada: adulto €2.30–3.20, niño €1.60–2.20; temporada libre",
+        "best_season": "Temporada supervisada 13 junio – 30 agosto 2026",
+        "commune": "Le Bourget-du-Lac",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Playa municipal en la Lac du Bourget"
+      },
+      "faq": [
+        {
+          "a": "En temporada (13 junio – 30 agosto 2026): €2.30 a €3.20 por adulto, €1.60 a €2.20 por niño, tarifa reducida a partir de las 16:00. Fuera de temporada, el acceso es gratuito.",
+          "q": "¿Cuánto es la entrada?"
+        },
+        {
+          "a": "La comuna publica de 10:00 a 18:00, la oficina de turismo de 10:00 a 19:00 para el mismo período del 13 de junio al 30 de agosto, las fuentes difieren en una hora y lo marcamos en lugar de escoger.",
+          "q": "¿Cuáles son las horas de supervisión?"
+        },
+        {
+          "a": "Sí: 'L'ensemble de la plage est accessible aux personnes à mobilité réduite en toute autonomie', por la oficina turística.",
+          "q": "¿La silla de ruedas de playa es accesible?"
+        },
+        {
+          "a": "Duchas, cabañas, aseos, voleibol de playa, juegos infantiles, un restaurante, picnic permitido, y WiFi gratuita.",
+          "q": "¿Qué instalaciones hay?"
+        },
+        {
+          "a": "Sí: 'Toute l'année : ouvert tous les jours' — el acceso es gratuito de nuevo fuera del período pagado.",
+          "q": "¿Puedes salir fuera del verano?"
+        }
+      ],
+      "hero": {
+        "badge": "€2.30 · Lac du Bourget",
+        "lead": "La playa en la costa sur de Lac du Bourget: pagada y supervisada del 13 de junio al 30 de agosto de 2026, libera el resto del año y plenamente accesible sin asistencia."
+      },
+      "hero_alt": "Le Bourget-du-Lac municipal beach, costa sur de la Lac du Bourget, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "La costa sur de la Lac du Bourget, en Le Bourget-du-Lac; la playa está señalizada desde el pueblo.",
+        "public_transport": null
+      },
+      "meta_description": "Playa municipal de Le Bourget-du-Lac: pagada en temporada (€2.30–3.20), supervisada 13 Junio – 30 Agosto 2026, totalmente accesible silla de ruedas. Fuentes oficiales.",
+      "meta_title": "Le Bourget-du-Lac playa · 2026 precios, natación supervisada",
+      "name": "Le Bourget-du-Lac municipal beach",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Dirección",
+          "v": "Playa municipal, 73370 Le Bourget-du-Lac"
+        },
+        {
+          "k": "Precios 2026",
+          "v": "Adulto 2,30–3.20 €, niño 1,60–2.20 €; reducido a 16:00"
+        },
+        {
+          "k": "Temporada de pago",
+          "v": "13 de junio a 30 de agosto de 2026 inclusive"
+        },
+        {
+          "k": "Supervisión",
+          "v": "10:00–18:00 (commune) o 10:00–19:00 (oficina turística) — las fuentes difieren"
+        },
+        {
+          "k": "Instalaciones",
+          "v": "Duchas, cabañas, voleibol playa, juegos infantiles, restaurante, WiFi gratuita"
+        }
+      ],
+      "schema_amenities": [
+        "Total silla de ruedas accesible",
+        "WiFi gratuita",
+        "Restaurante",
+        "Beach volleyball"
+      ],
+      "when_to_visit": "<p>En la temporada supervisada para la natación salvavidas (13 de junio al 30 de agosto de 2026) — después de las 16:00 el precio baja. Fuera de temporada, la playa es libre de nuevo.</p>"
+    },
     "fr": {
       "activities": [
         {
@@ -207,6 +391,190 @@
         "Beach-volley"
       ],
       "when_to_visit": "<p>En saison surveillée pour la baignade encadrée (13 juin – 30 août 2026) — après 16h, le tarif baisse. Hors saison, la plage redevient libre.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Nuoto nella Lac du Bourget dal 13 giugno al 30 agosto 2026 — fine 18:00 per il comune, 19:00 per l'ufficio turistico.",
+          "tag": "In stagione",
+          "title": "nuoto supervisionato"
+        },
+        {
+          "description": "Campo da beach volley, giochi per bambini, docce e cabine, ristorante — picnic ammessi, WiFi gratuito.",
+          "tag": "Sul sito",
+          "title": "Beach volley e giochi per bambini"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The<strong>Le Bourget-du-Lac municipal beach</strong>apre la riva meridionale della Lac du Bourget, a due passi dal castello di Thomas II. In stagione —<strong>dal 13 giugno al 30 agosto 2026 incluso</strong>— l'accesso è pagato: da € 2,30 a € 3,20 per adulto, da €1,60 a € 2,20 per bambino, con una tariffa ridotta a partire dalle 16:00. Il resto dell'anno, la spiaggia è aperta tutti i giorni, gratis.</p><p>Sull'ora di chiusura del nuoto supervisionato, le due fonti ufficiali differiscono di un'ora: il comune pubblica<strong>10:00–18:00</strong>, l'ufficio turistico<strong>10:00-19:00</strong>. Diamo entrambi e non arbitrare.</p><p>I servizi sono completi: docce, cabine, servizi igienici, beach volley, giochi per bambini, picnic ammessi, un ristorante e connessione WiFi gratuita. Soprattutto,<strong>tutta la spiaggia è accessibile ai visitatori con mobilità ridotta senza assistenza</strong>, per l'elenco ufficiale.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagato in stagione: adulto €2.30–3.20, bambino €1.60–2.20; stagione libera",
+        "best_season": "Stagione supervisionata 13 giugno – 30 agosto 2026",
+        "commune": "Le Bourget-du-Lac",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Spiaggia comunale sulla Lac du Bourget"
+      },
+      "faq": [
+        {
+          "a": "Nella stagione (13 giugno – 30 agosto 2026): da 2,30 a 3,20 € per adulto, da 1,60 a 2,20 € per bambino, tasso ridotto dalle 16:00. Fuori stagione, l'accesso è gratuito.",
+          "q": "Quanto costa?"
+        },
+        {
+          "a": "Il comune pubblica 10:00-18:00, l'ufficio turistico 10:00-19:00 per lo stesso 13 giugno – 30 agosto periodo — le fonti differiscono di un'ora e noi la bandiamo piuttosto che scegliere.",
+          "q": "Quali sono le ore di supervisione?"
+        },
+        {
+          "a": "Sì: 'L'ensemble de la plage est access aux personnes à mobilité réduite en toute autonomie', per l'ufficio turistico.",
+          "q": "La sedia a rotelle è accessibile?"
+        },
+        {
+          "a": "Docce, cabine, servizi igienici, beach volley, giochi per bambini, un ristorante, picnic ammessi - e connessione WiFi gratuita.",
+          "q": "Quali strutture ci sono?"
+        },
+        {
+          "a": "Si: «Toute l'année : ouvert tous les jours» — l'accesso è libero di nuovo al di fuori del periodo pagato.",
+          "q": "Puoi uscire dall'estate?"
+        }
+      ],
+      "hero": {
+        "badge": "€2.30 · Lac du Bourget",
+        "lead": "La spiaggia sulla riva meridionale di Lac du Bourget: pagata e sorvegliata dal 13 giugno al 30 agosto 2026, libera il resto dell'anno — e completamente accessibile senza assistenza."
+      },
+      "hero_alt": "Le Bourget-du-Lac municipal beach, riva meridionale della Lac du Bourget, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "La riva meridionale della Lac du Bourget, a Le Bourget-du-Lac; la spiaggia è segnalato dal villaggio.",
+        "public_transport": null
+      },
+      "meta_description": "Spiaggia comunale di Le Bourget-du-Lac: pagata in stagione (€2.30–3.20), supervisionata 13 giugno – 30 agosto 2026, completamente accessibile alla sedia a rotelle. Fonti ufficiali.",
+      "meta_title": "Spiaggia Le Bourget-du-Lac · 2026 prezzi, nuoto supervisionato",
+      "name": "Le Bourget-du-Lac municipal beach",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Indirizzo",
+          "v": "Spiaggia comunale, 73370 Le Bourget-du-Lac"
+        },
+        {
+          "k": "Prezzi 2026",
+          "v": "Adulto €2.30–3.20, bambino €1.60–2.20; ridotto dalle 16:00"
+        },
+        {
+          "k": "Stagione a pagamento",
+          "v": "13 giugno – 30 agosto 2026 inclusi"
+        },
+        {
+          "k": "Supervisione",
+          "v": "10:00-18:00 (commune) o 10:00-19:00 (ufficio turistico) — le fonti differiscono"
+        },
+        {
+          "k": "Servizi",
+          "v": "Docce, cabine, beach volley, giochi per bambini, ristorante, WiFi gratuito"
+        }
+      ],
+      "schema_amenities": [
+        "Completamente accessibile a sedia a rotelle",
+        "WiFi gratuito",
+        "Ristorante",
+        "Pallavolo da spiaggia"
+      ],
+      "when_to_visit": "<p>Nella stagione sorvegliata per il nuoto salvavita (13 giugno – 30 agosto 2026) — dopo le 16:00 il prezzo scende. Fuori stagione, la spiaggia è libera di nuovo.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Zwemmen in de Lac du Bourget van 13 juni tot 30 augustus 2026 — einde 18:00 volgens de gemeente, 19:00 volgens het VVV.",
+          "tag": "In het seizoen",
+          "title": "Zwemmen onder toezicht"
+        },
+        {
+          "description": "Strandvolleybalveld, kinderspelletjes, douches en hutten, restaurant met picknick toegestaan, gratis WiFi.",
+          "tag": "Ter plaatse",
+          "title": "Strandvolleybal en kinderspelen"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De<strong>Le Bourget-du-Lac municipal beach</strong>opent de zuidelijke oever van de Lac du Bourget, op een steenworp afstand van het château de Thomas II. In het seizoen<strong>13 juni tot en met 30 augustus 2026</strong>Toegang wordt betaald: € 2,30 tot € 3,20 per volwassene, € 1,60 tot € 2,20 per kind, met een verlaagd tarief vanaf 16:00. De rest van het jaar is het strand dagelijks geopend, gratis.</p><p>Op het slotuur van het onder toezicht zwemmen verschillen de twee officiële bronnen per uur: de commune publiceert<strong>10.00 uur 18.00 uur</strong>, het toeristenbureau<strong>10.00 uur 19.00 uur</strong>. - We geven beide en niet willekeurig.</p><p>De faciliteiten zijn compleet: douches, hutten, toiletten, beachvolleybal, kinderspelen, picknick toegestaan, een restaurant en gratis WiFi. Boven alles,<strong>het hele strand is toegankelijk voor bezoekers met beperkte mobiliteit zonder hulp</strong>, per officiële vermelding.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Betaald in het seizoen: volwassene € 2,30–3,20 €, kind € 1,60–2,20 € ; gratis buiten het seizoen",
+        "best_season": "Supervised Seizoen 13 Juni 30 augustus 2026",
+        "commune": "Le Bourget-du-Lac",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Gemeentelijk strand op de Lac du Bourget"
+      },
+      "faq": [
+        {
+          "a": "In het seizoen (13 juni) 30 augustus 2026: € 2,30 tot € 3,20 per volwassene, € 1,60 tot € 2,20 per kind, verlaagd tarief vanaf 16:00. Buiten het seizoen is toegang gratis.",
+          "q": "Hoeveel kost de toegang?"
+        },
+        {
+          "a": "De gemeente publiceert 10:00–18:00, het VVV-kantoor 10:00–19:00 voor dezelfde periode van 13 juni – 30 augustus — de twee bronnen verschillen met een uur en we flaggen het liever dan kiezen.",
+          "q": "Wat zijn de toezichturen?"
+        },
+        {
+          "a": "Ja: 'L'ensemble de la plage est accessable aux personnes à mobilité réduite en toute autonome', per toeristenbureau.",
+          "q": "Is het strand rolstoel toegankelijk?"
+        },
+        {
+          "a": "Douches, hutten, toiletten, beachvolleybal, kinderspelletjes, een restaurant, picknick toegestaan en gratis wifi.",
+          "q": "Welke faciliteiten zijn er?"
+        },
+        {
+          "a": "Ja: 'Toute l'année : ouvert tous les jours' toegang is weer gratis buiten de betaalde periode.",
+          "q": "Kun je buiten de zomer gaan?"
+        }
+      ],
+      "hero": {
+        "badge": "2,30 € · Lac du Bourget",
+        "lead": "Het strand aan de zuidkust van Lac du Bourget: betaald en begeleid van 13 juni tot 30 augustus 2026, vrij van de rest van het jaar en volledig toegankelijk zonder hulp."
+      },
+      "hero_alt": "Le Bourget-du-Lac municipal beach, zuidelijke kust van de Lac du Bourget, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Zuidelijke oever van de Lac du Bourget, op Le Bourget-du-Lac; het strand is aangegeven vanuit het dorp.",
+        "public_transport": null
+      },
+      "meta_description": "Het gemeentelijke strand van Le Bourget-du-Lac: betaald in het seizoen (€ 2,30–3,20), onder toezicht 13 juni – 30 augustus 2026, volledig toegankelijk voor rolstoelgebruikers. Officiële bronnen.",
+      "meta_title": "Le Bourget-du-Lac strand · 2026 prijzen, onder toezicht zwemmen",
+      "name": "Le Bourget-du-Lac municipal beach",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Adres",
+          "v": "Gemeentelijk strand, 73370 Le Bourget-du-Lac"
+        },
+        {
+          "k": "Prijzen 2026",
+          "v": "Volwassene € 2,30–3,20, kind € 1,60–2,20 ; gereduceerd van 16:00"
+        },
+        {
+          "k": "Betaald seizoen",
+          "v": "13 juni 30 augustus 2026 inclusief"
+        },
+        {
+          "k": "Toezicht",
+          "v": "10:00–18:00 (gemeente) of 10:00–19:00 (VVV) — bronnen verschillen"
+        },
+        {
+          "k": "Voorzieningen",
+          "v": "Douches, hutten, beachvolleybal, kinderspelen, restaurant, gratis WiFi"
+        }
+      ],
+      "schema_amenities": [
+        "Volledig rolstoeltoegankelijk",
+        "Gratis wifi",
+        "Restaurant",
+        "Strandvolleybal"
+      ],
+      "when_to_visit": "<p>In het onder toezicht staande seizoen voor badmeesters zwemmen (13 juni 2026), na 16:00 uur daalt de prijs. Buiten het seizoen is het strand weer vrij.</p>"
     }
   },
   "latitude": 45.655642,

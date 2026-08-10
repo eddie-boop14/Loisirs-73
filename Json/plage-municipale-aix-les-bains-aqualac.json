@@ -24,6 +24,99 @@
   "hero_credit": null,
   "hero_image": "/img/generique/generique-plage-lac-1.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Schwimmen im Lac du Bourget, betreut vom 30. Mai bis 30. August 2026, 10:00-19:00 Uhr - freier Zugang.",
+          "tag": "frei",
+          "title": "Beaufsichtigtes Seeschwimmen"
+        },
+        {
+          "description": "Pools am Strand, geöffnet täglich 10:00-19:00 im Sommer; frei für unter 3s.",
+          "tag": "5,60 €",
+          "title": "Aqualac-Aquatikzentrum"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die<strong>Aix-les-Bains Stadtstrand</strong>, bekannt als plage Aqualac, säumt die Lac du Bourget am Ort Daniel Rops, neben dem Aqualac Wasserzentrum. Der Zugang ist<strong>frei</strong>- das Tourismusbüro sagt es mit einem Wort: \"Gratuit\". Parken wird bezahlt.</p><p><strong>Das Schwimmen wird vom 30. Mai bis 30. August 2026 überwacht, 10:00-19:00</strong>— die gleichen Daten werden vom Tourismusamt und von Grand Lac, dem Betreiber, veröffentlicht. Außerhalb der aufsicht bleibt die website das ganze jahr über geöffnet.</p><p>Fancy Pools? Der angrenzende<strong>Aqualacat</strong>Das Zentrum wird bezahlt: 5,60 € für einen Tag, 4,60 € ermäßigt, kostenlos unter 3, geöffnet täglich 10:00-19:00 im Sommer (29. Juni - 30. August). Der Strand ist<strong>Rollstuhl ohne Hilfe</strong>, nach der offiziellen Auflistung.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Kostenloser Parkplatz in der Nähe",
+        "best_season": "Aufsicht 30. Mai – 30. August 2026, 10:00-19:00; Standort ganzjährig geöffnet",
+        "commune": "Aix-les-Bains",
+        "dogs": null,
+        "parking": "Bezahlte Parkplätze",
+        "stroller": null,
+        "type": "Stadtstrand am Lac du Bourget"
+      },
+      "faq": [
+        {
+          "a": "Nein, der Stadtstrand ist frei - das Tourismusbüro listet es deutlich auf. Der nahe gelegene Parkplatz wird bezahlt, und das angrenzende Aqualac-Aquatikzentrum hat seine eigenen Preise (5,60 € Tag, 4,60 € reduziert).",
+          "q": "Hat der Strand Gebühren?"
+        },
+        {
+          "a": "Vom 30. Mai bis zum 30. August 2026, 10:00-19:00 - der gleiche Zeitraum wird vom Tourismusamt und Grand Lac veröffentlicht.",
+          "q": "Wann wird Schwimmen überwacht?"
+        },
+        {
+          "a": "Ja: 'Zugänglich en fauteuil roulant en autonomie', pro Tourismusbüro.",
+          "q": "Ist der Strandrollstuhl zugänglich?"
+        },
+        {
+          "a": "Ja, die Seite ist ganzjährig geöffnet; nur die Abdeckung des Rettungsschwimmers stoppt die Saison.",
+          "q": "Kannst du außerhalb des Sommers gehen?"
+        },
+        {
+          "a": "Das Wasserzentrum am Strand: kostenpflichtige Pools (€5.60 Tag, frei unter 3), täglich 10:00-19:00 Uhr vom 29. Juni bis 30. August im Sommer geöffnet.",
+          "q": "Was ist Aqualac?"
+        }
+      ],
+      "hero": {
+        "badge": "Frei · Lac du Bourget",
+        "lead": "Aix-les-Bains' großer Stadtstrand neben dem Aqualac-Aquatikzentrum: freier Zugang, überwachtes Schwimmen vom 30. Mai bis 30. August 2026, 10:00-19:00 Uhr."
+      },
+      "hero_alt": "Aix-les-Bains Stadtstrand auf dem Lac du Bourget",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Aix-les-Bains Seeufer, Platz Daniel Rops; bezahlte Parkplätze in der Nähe.",
+        "public_transport": null
+      },
+      "meta_description": "Aix-les-Bains 'städtischer Strand neben Aqualac: kostenlos, überwacht vom 30. Mai bis 30. August 2026, 10:00-19:00, Rollstuhl ohne Hilfe.",
+      "meta_title": "Aix-les-Bains Strand · Kostenlos, überwacht Sommer 2026, Lac du Bourget",
+      "name": "Aix-les-Bains municipal beach (Aqualac)",
+      "name_alternates": [
+        "Plage Aqualac"
+      ],
+      "practical_info": [
+        {
+          "k": "Anschrift",
+          "v": "Place Daniel Rops, 73100 Aix-les-Bains"
+        },
+        {
+          "k": "Preis",
+          "v": "Strand frei; bezahlter Parkplatz"
+        },
+        {
+          "k": "Aufsicht 2026",
+          "v": "30. Mai – 30. August, 10:00-19:00"
+        },
+        {
+          "k": "Aqualacat",
+          "v": "5,60 € Tag, 4,60 € ermäßigt, frei unter 3 Jahren — Sommer: täglich 10:00-19:00"
+        },
+        {
+          "k": "Zugänglichkeit",
+          "v": "Rollstuhl ohne Hilfe (Quelle: Tourismusbüro)"
+        }
+      ],
+      "schema_amenities": [
+        "Freier Strand",
+        "Beaufsichtigtes Schwimmen in der Saison",
+        "Rollstuhl ohne Hilfe zugänglich"
+      ],
+      "when_to_visit": "<p>Während der Aufsicht (30. Mai - 30. August 2026, 10:00-19:00) für Rettungsschwimmen; Die Website bleibt das ganze Jahr über für Spaziergänge geöffnet.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -117,6 +210,99 @@
       ],
       "when_to_visit": "<p>During supervision (30 May – 30 August 2026, 10:00–19:00) for lifeguarded swimming; the site stays open year-round for walks.</p>"
     },
+    "es": {
+      "activities": [
+        {
+          "description": "Nadando en la Lac du Bourget, supervisado del 30 de mayo al 30 de agosto de 2026, de 10:00 a 19:00 — acceso gratuito.",
+          "tag": "Gratis",
+          "title": "Supervisado lago nadando"
+        },
+        {
+          "description": "Piscinas al lado de la playa, abren diariamente de 10:00 a 19:00 en verano; gratis para menores de 3 años.",
+          "tag": "5,60 €",
+          "title": "Centro acuático Aqualac"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El<strong>Aix-les-Bains playa municipal</strong>, conocido como plage Aqualac, linea el Lac du Bourget en lugar Daniel Rops, junto al centro acuático Aqualac. Acceso<strong>gratis</strong>—la oficina de turismo lo dice en una palabra: 'Gratuit'. El estacionamiento se paga.</p><p><strong>La natación está supervisada del 30 de mayo al 30 de agosto de 2026, de 10:00 a 19:00</strong>— las mismas fechas son publicadas por la oficina de turismo y por Grand Lac, el operador. Fuera de supervisión, el sitio permanece abierto todo el año.</p><p>¿Fancy pools? La unión<strong>Aqualac</strong>centro se paga: 5,60 € por un día, 4,60 € reducido, gratuito bajo 3, abierto todos los días de 10:00 a 19:00 en verano (29 de junio a 30 de agosto). La playa es<strong>silla de ruedas accesible sin asistencia</strong>, por la lista oficial.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Libre; aparcamiento pagado cerca",
+        "best_season": "Supervisión 30 mayo – 30 agosto 2026, 10:00–19:00; sitio abierto todo el año",
+        "commune": "Aix-les-Bains",
+        "dogs": null,
+        "parking": "Estacionamiento pagado",
+        "stroller": null,
+        "type": "Playa municipal en la Lac du Bourget"
+      },
+      "faq": [
+        {
+          "a": "No, la playa municipal es gratuita: la oficina de turismo la lista claramente. El aparcamiento cercano se paga, y el centro acuático Aqualac contiguo tiene sus propios precios (5,60 días, 4,60 € reducido).",
+          "q": "¿La playa cobra?"
+        },
+        {
+          "a": "Del 30 de mayo al 30 de agosto de 2026, de 10:00 a 19:00, el mismo período es publicado por la oficina turística y Grand Lac.",
+          "q": "¿Cuándo está supervisada la natación?"
+        },
+        {
+          "a": "Sí: 'Accesible en fauteuil roulant en autonomie', por el listado de oficinas turísticas.",
+          "q": "¿La silla de ruedas de playa es accesible?"
+        },
+        {
+          "a": "Sí, el sitio está abierto todo el año; sólo la cubierta salvavidas se detiene de temporada.",
+          "q": "¿Puedes salir fuera del verano?"
+        },
+        {
+          "a": "El centro acuático al lado de la playa: piscinas pagadas (5,60 días, gratis debajo de 3), abierto todos los días de 10:00 a 19:00 del 29 de junio al 30 de agosto en verano.",
+          "q": "¿Qué es Aqualac?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratis · Lac du Bourget",
+        "lead": "Aix-les-Bains' gran playa municipal junto al centro acuático Aqualac: acceso gratuito, natación supervisada del 30 de mayo al 30 de agosto de 2026, 10:00-19:00."
+      },
+      "hero_alt": "Aix-les-Bains playa municipal en Lac du Bourget",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Aix-les-Bains frente al lago, lugar Daniel Rops; estacionamiento pagado cerca.",
+        "public_transport": null
+      },
+      "meta_description": "Playa municipal de Aix-les-Bains junto a Aqualac: libre, supervisado del 30 de mayo al 30 de agosto de 2026, 10:00-19:00, silla de ruedas accesible sin asistencia.",
+      "meta_title": "Aix-les-Bains playa · Verano gratuito, supervisado 2026, Lac du Bourget",
+      "name": "Aix-les-Bains municipal beach (Aqualac)",
+      "name_alternates": [
+        "Plage Aqualac"
+      ],
+      "practical_info": [
+        {
+          "k": "Dirección",
+          "v": "Lugar Daniel Rops, 73100 Aix-les-Bains"
+        },
+        {
+          "k": "Precio",
+          "v": "Playa libre; aparcamiento pagado"
+        },
+        {
+          "k": "Supervisión 2026",
+          "v": "30 de mayo a 30 de agosto, de 10:00 a 19:00"
+        },
+        {
+          "k": "Aqualac",
+          "v": "€5.60 día, €4.60 reducido, gratis bajo 3 — verano: diario 10:00–19:00"
+        },
+        {
+          "k": "Accesibilidad",
+          "v": "Silla de ruedas sin asistencia (fuente: oficina de turismo)"
+        }
+      ],
+      "schema_amenities": [
+        "Playa libre",
+        "Natación supervisada en temporada",
+        "Silla de ruedas accesible sin asistencia"
+      ],
+      "when_to_visit": "<p>Durante la supervisión (30 de mayo a 30 de agosto de 2026, de 10:00 a 19:00) para la natación salvavidas; el sitio permanece abierto todo el año para caminar.</p>"
+    },
     "fr": {
       "activities": [
         {
@@ -209,6 +395,192 @@
         "Accessible en fauteuil en autonomie"
       ],
       "when_to_visit": "<p>Pendant la surveillance (30 mai – 30 août 2026, 10h–19h) pour se baigner encadré ; le site reste ouvert toute l'année pour la promenade.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Nuoto nella Lac du Bourget, supervisionato dal 30 maggio al 30 agosto 2026, 10:00-19:00 — libero accesso.",
+          "tag": "Gratis",
+          "title": "nuoto lago supervisionato"
+        },
+        {
+          "description": "Piscine accanto alla spiaggia, aperto tutti i giorni 10:00-19:00 in estate; gratuito per under-3s.",
+          "tag": "€5.60",
+          "title": "Centro acquatico Aqualac"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The<strong>Aix-les-Bains spiaggia comunale</strong>, noto come plage Aqualac, dirige la Lac du Bourget al posto Daniel Rops, accanto al centro acquatico Aqualac. Accesso<strong>gratis</strong>— l'ufficio turistico lo dice in una parola: «Gratuit». Il parcheggio è pagato.</p><p><strong>Il nuoto è supervisionato dal 30 maggio al 30 agosto 2026, 10:00-19:00</strong>— le stesse date sono pubblicate dall'ufficio turistico e da Grand Lac, operatore. Supervisione esterna, il sito rimane aperto tutto l'anno.</p><p>Piscine? L'annesso<strong>Aqualac</strong>il centro è pagato: €5,60 per un giorno, €4,60 ridotto, gratuito sotto i 3, aperto tutti i giorni 10:00-19:00 in estate (29 giugno – 30 agosto). La spiaggia è<strong>accessibile senza assistenza</strong>, per l'elenco ufficiale.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuito; parcheggio a pagamento nelle vicinanze",
+        "best_season": "Supervisione 30 maggio – 30 agosto 2026, 10:00-19:00; sito aperto tutto l'anno",
+        "commune": "Aix-les-Bains",
+        "dogs": null,
+        "parking": "Parcheggio a pagamento",
+        "stroller": null,
+        "type": "Spiaggia comunale sulla Lac du Bourget"
+      },
+      "faq": [
+        {
+          "a": "No, la spiaggia comunale è libera — l'ufficio turistico lo elenca chiaramente. Il vicino parcheggio è pagato, e l'annesso centro acquatico Aqualac ha i suoi prezzi (€5,60 giorno, € 4,60 ridotto).",
+          "q": "Il costo della spiaggia?"
+        },
+        {
+          "a": "Dal 30 maggio al 30 agosto 2026, 10:00-19:00 — lo stesso periodo è pubblicato dall'ufficio turistico e Grand Lac.",
+          "q": "Quando è sorvegliato il nuoto?"
+        },
+        {
+          "a": "Sì: 'Accessible en fauteuil roulant en autonomie', per l'elenco degli uffici turistici.",
+          "q": "La sedia a rotelle è accessibile?"
+        },
+        {
+          "a": "Sì, il sito è aperto tutto l'anno; solo la copertura di salvataggio si ferma fuori stagione.",
+          "q": "Puoi uscire dall'estate?"
+        },
+        {
+          "a": "Il centro acquatico accanto alla spiaggia: piscine a pagamento (5,60 €, gratuito sotto 3), aperto tutti i giorni 10:00-19:00 dal 29 giugno al 30 agosto in estate.",
+          "q": "Cos'è Aqualac?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratis · Lac du Bourget",
+        "lead": "La grande spiaggia comunale di Aix-les-Bains accanto al centro acquatico Aqualac: accesso gratuito, nuoto supervisionato dal 30 maggio al 30 agosto 2026, 10:00-19:00."
+      },
+      "hero_alt": "Aix-les-Bains spiaggia comunale sulla Lac du Bourget",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Aix-les-Bains fronte lago, posto Daniel Rops; parcheggio a pagamento nelle vicinanze.",
+        "public_transport": null
+      },
+      "meta_description": "Spiaggia comunale di Aix-les-Bains accanto ad Aqualac: libera, sorvegliata dal 30 maggio al 30 agosto 2026, 10:00-19:00, accessibile senza assistenza.",
+      "meta_title": "Spiaggia Aix-les-Bains · Free, supervisionata estate 2026, Lac du Bourget",
+      "name": "Aix-les-Bains municipal beach (Aqualac)",
+      "name_alternates": [
+        "Plage Aqualac"
+      ],
+      "practical_info": [
+        {
+          "k": "Indirizzo",
+          "v": "Luogo Daniel Rops, 73100 Aix-les-Bains"
+        },
+        {
+          "k": "Prezzo",
+          "v": "Spiaggia libera; parcheggio a pagamento"
+        },
+        {
+          "k": "Supervisione 2026",
+          "v": "30 maggio – 30 agosto, 10:00-19:00"
+        },
+        {
+          "k": "Aqualac",
+          "v": "€5,60 giorno, €4,60 ridotto, gratuito sotto i 3 — estate: tutti i giorni 10:00-19:00"
+        },
+        {
+          "k": "Accessibilità",
+          "v": "Sedia a rotelle senza assistenza (fonte: ufficio turistico)"
+        }
+      ],
+      "schema_amenities": [
+        "Spiaggia libera",
+        "Nuoto supervisionato in stagione",
+        "Seggiolone accessibile senza assistenza"
+      ],
+      "when_to_visit": "<p>Durante la supervisione (30 maggio – 30 agosto 2026, 10:00-19:00) per il nuoto salvavita; il sito rimane aperto tutto l'anno per passeggiate.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Zwemmen in de Lac du Bourget, begeleid van 30 mei tot 30 augustus 2026, 10:00–19:00 — gratis toegang.",
+          "tag": "Vrij",
+          "title": "Overzien meer zwemmen"
+        },
+        {
+          "description": "Zwembaden naast het strand, dagelijks geopend 10:00–19:00 in de zomer; gratis voor kinderen onder de 3 jaar.",
+          "tag": "5,60 EUR",
+          "title": "Aqualac-watercentrum"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>gemeentelijke strand van Aix-les-Bains</strong>, bekend als plage Aqualac, grenst aan de Lac du Bourget op plaats Daniel Rops, naast het Aqualac watercentrum. Toegang is <strong>gratis</strong> — het VVV zegt het in één woord: 'Gratuit'. Parkeren is betaald.</p><p><strong>Zwemmen wordt begeleid van 30 mei tot 30 augustus 2026, van 10:00 tot 19:00</strong> — dezelfde datum wordt gepubliceerd door het VVV en door Grand Lac, de exploitant. Buiten toezicht blijft de plaats het hele jaar open.</p><p>Zin in zwembaden? Het aangrenzende <strong>Aqualac</strong>-centrum is betaald: 5,60 € per dag, 4,60 € gereduceerd, gratis voor kinderen onder de 3 jaar, dagelijks geopend van 10:00 tot 19:00 in de zomer (29 juni – 30 augustus). Het strand is <strong>toegankelijk voor rolstoelgebruikers zonder hulp</strong>, volgens het officiële dossier.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis; betaald parkeren in de buurt",
+        "best_season": "Toezicht 30 mei – 30 augustus 2026, 10:00–19:00 ; plaats open het hele jaar",
+        "commune": "Aix-les-Bains",
+        "dogs": null,
+        "parking": "Betaald parkeren",
+        "stroller": null,
+        "type": "Gemeentelijk strand op de Lac du Bourget"
+      },
+      "faq": [
+        {
+          "a": "Nee, het gemeentelijke strand is gratis. Het VVV-kantoor geeft het duidelijk aan. De nabijgelegen parkeerplaats is betaald, en het aangrenzende Aqualac watercentrum heeft zijn eigen prijzen (€ 5,60 dag, € 4,60 verlaagd).",
+          "q": "Is het strand aan te rekenen?"
+        },
+        {
+          "a": "Van 30 mei tot 30 augustus 2026, van 10:00 tot 19:00 — dezelfde periode wordt gepubliceerd door het VVV en door Grand Lac.",
+          "q": "Wanneer is zwemmen onder toezicht?"
+        },
+        {
+          "a": "Ja: 'Accessible en fauteuil roulant en autonome', volgens de VVV-lijst.",
+          "q": "Is het strand rolstoel toegankelijk?"
+        },
+        {
+          "a": "Ja, de site is het hele jaar open; alleen de badmeester cover stopt buiten het seizoen.",
+          "q": "Kun je buiten de zomer gaan?"
+        },
+        {
+          "a": "Het watercentrum naast het strand: betaalde zwembaden (€ 5,60 dag, gratis onder 3), dagelijks geopend van 29 juni tot 30 augustus in de zomer.",
+          "q": "Wat is Aqualac?"
+        }
+      ],
+      "hero": {
+        "badge": "Vrij · Lac du Bourget",
+        "lead": "Het grote gemeentelijke strand van Aix-les-Bains naast het Aqualac watercentrum: gratis toegang, onder toezicht zwemmen van 30 mei tot 30 augustus 2026, 10:00–19:00."
+      },
+      "hero_alt": "Aix-les-Bains gemeentelijk strand op de Lac du Bourget",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Aix-les-Bains meerfront, plaats Daniel Rops; betaalde parkeerplaats in de buurt.",
+        "public_transport": null
+      },
+      "meta_description": "Stadsstrand Aix-les-Bains naast Aqualac: gratis, onder toezicht van 30 mei tot 30 augustus 2026, 10:00–19:00, toegankelijk voor rolstoelgebruikers zonder hulp.",
+      "meta_title": "Aix-les-Bains strand · Gratis, bewaakt zomer 2026, Lac du Bourget",
+      "name": "Aix-les-Bains municipal beach (Aqualac)",
+      "name_alternates": [
+        "Plage Aqualac"
+      ],
+      "practical_info": [
+        {
+          "k": "Adres",
+          "v": "Place Daniel Rops, 73100 Aix-les-Bains"
+        },
+        {
+          "k": "Prijs",
+          "v": "Strand gratis; betaalde parkeergelegenheid"
+        },
+        {
+          "k": "Toezicht 2026",
+          "v": "30 mei 30 augustus 10:00 19:00"
+        },
+        {
+          "k": "Aqualac",
+          "v": "€ 5,60 dag, € 4,60 gereduceerd, gratis onder 3 — zomer: dagelijks 10:00–19:00"
+        },
+        {
+          "k": "Toegankelijkheid",
+          "v": "Rolstoel zonder bijstand (bron: VVV)"
+        }
+      ],
+      "schema_amenities": [
+        "Gratis strand",
+        "Supervised zwemmen in het seizoen",
+        "Rolstoel toegankelijk zonder assistentie"
+      ],
+      "when_to_visit": "<p>Tijdens het toezicht (30 mei – 30 augustus 2026, 10:00–19:00) voor beveiligd zwemmen ; de plaats blijft het hele jaar open voor wandelingen.</p>"
     }
   },
   "latitude": 45.692468,

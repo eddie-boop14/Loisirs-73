@@ -1,0 +1,244 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-10",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "sentier",
+  "commune": "Lépin-le-Lac",
+  "date_modified_human": "10 août 2026",
+  "date_published_human": "10 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-10",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-sentier.jpg",
+  "i18n": {
+    "en": {
+      "activities": [
+        {
+          "description": "The full circuit over ridges and shores: three waymarked stages of 24.1, 22.3 and 14.1 km, +2,467 m in total.",
+          "tag": "60.4 km",
+          "title": "3-stage trek"
+        },
+        {
+          "description": "The easy version of the same name is rideable — 11 km of greenway — published by Chartreuse Tourisme, not to be confused with the walking trek.",
+          "tag": "16.9 km · bike",
+          "title": "The lake's cycling loop"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Around the <strong>Lac d'Aiguebelette</strong>, the tourist office waymarks <strong>300 km of routes</strong>. The most ambitious carries the lake's name: the <strong>Tour du Lac d'Aiguebelette on foot — 3 days, 60.4 km, +2,467 m, rated 'Difficile'</strong>, from Lépin-le-Lac (the station — handy by train). Three published stages: 24.1 km and +1,230 m from Lépin-le-Lac; 22.3 km and +1,174 m from Aiguebelette-le-Lac; 14.1 km and +333 m from Novalaise.</p><p>Beware the same-name trap: Chartreuse Tourisme also publishes a 'Tour du Lac d'Aiguebelette' of <strong>16.9 km, 291 m, 'Facile'</strong> — 'ideal for an easy ride accessible to all' — but that is a <strong>cycling</strong> fiche, 11 km of it on a greenway. A family planning to WALK the circuit must not rely on the bike version's figures. We publish both fiches side by side precisely for that.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free — waymarked route",
+        "best_season": "Year-round per the cycling loop's fiche; the trek in the warm season",
+        "commune": "Lépin-le-Lac",
+        "dogs": null,
+        "parking": "Start possible from Lépin-le-Lac station",
+        "stroller": null,
+        "type": "Loop trek around the lake",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "3 days for the official trek: 60.4 km and +2,467 m, rated 'Difficile', from Lépin-le-Lac.",
+          "q": "How long does the lake circuit take on foot?"
+        },
+        {
+          "a": "Yes — but it is a BIKE route: Chartreuse Tourisme's 16.9 km fiche ('Facile', 11 km of greenway) is a cycling loop. The walking circuit is a 3-day trek; both carry the same name and we flag the possible confusion.",
+          "q": "Isn't there an easy 17 km version?"
+        },
+        {
+          "a": "Stage 1: 24.1 km, +1,230 m (Lépin-le-Lac). Stage 2: 22.3 km, +1,174 m (Aiguebelette-le-Lac). Stage 3: 14.1 km, +333 m (Novalaise).",
+          "q": "What are the stages?"
+        },
+        {
+          "a": "Yes — the official start is Lépin-le-Lac's railway station.",
+          "q": "Can you come by train?"
+        },
+        {
+          "a": "300 km of waymarked routes, per the Lac d'Aiguebelette tourist office.",
+          "q": "Are there other trails around the lake?"
+        }
+      ],
+      "hero": {
+        "badge": "3 days · Lac d'Aiguebelette",
+        "lead": "The real lake circuit on foot is a trek: 3 days, 60.4 km, +2,467 m, from Lépin-le-Lac's station. The 'easy' 17 km loop bearing the same name is a cycling route."
+      },
+      "hero_alt": "Trails above the Lac d'Aiguebelette, Savoie's foothills",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "At Lépin-le-Lac, south-west shore of the Lac d'Aiguebelette; official start from the station.",
+        "public_transport": "Lépin-le-Lac SNCF station at the route's start."
+      },
+      "meta_description": "The Lac d'Aiguebelette circuit on foot: 3 days, 60.4 km, +2,467 m, rated difficult — not to be confused with the 17 km cycling loop. Official sources.",
+      "meta_title": "Lac d'Aiguebelette circuit on foot · 3 days, 60 km, stages",
+      "name": "Lac d'Aiguebelette walking circuit",
+      "name_alternates": [
+        "Tour du Lac d'Aiguebelette — 3-day walking trek"
+      ],
+      "practical_info": [
+        {
+          "k": "Start",
+          "v": "Lépin-le-Lac station, 73610"
+        },
+        {
+          "k": "Full trek",
+          "v": "3 days, 60.4 km, +2,467 m — 'Difficile'"
+        },
+        {
+          "k": "Stages",
+          "v": "24.1 km / 22.3 km / 14.1 km"
+        },
+        {
+          "k": "Don't confuse",
+          "v": "The 'easy' 16.9 km loop of the same name is a bike route (Chartreuse Tourisme)"
+        },
+        {
+          "k": "Network",
+          "v": "300 km of waymarked routes around the lake"
+        }
+      ],
+      "schema_amenities": [
+        "Waymarked 3-stage route",
+        "Station start",
+        "300 km of trails around the lake"
+      ],
+      "when_to_visit": "<p>The warm season for the 3-day trek; the same-named cycling loop's fiche says 'year-round, every day' — but that is the bike version.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Le tour complet par les crêtes et les rives : trois étapes balisées de 24,1, 22,3 et 14,1 km, +2 467 m au total.",
+          "tag": "60,4 km",
+          "title": "Trek en 3 étapes"
+        },
+        {
+          "description": "La version facile du même nom est cyclable — 11 km de voie verte — publiée par Chartreuse Tourisme, à ne pas confondre avec le trek pédestre.",
+          "tag": "16,9 km · vélo",
+          "title": "Boucle cyclo du lac"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Autour du <strong>lac d'Aiguebelette</strong>, l'office de tourisme balise <strong>300 km d'itinéraires</strong>. Le plus ambitieux porte le nom du lac : le <strong>Tour du Lac d'Aiguebelette à pied — 3 jours, 60,4 km, +2 467 m, classé « Difficile »</strong>, au départ de Lépin-le-Lac (la gare, pratique en train). Trois étapes publiées : 24,1 km et +1 230 m depuis Lépin-le-Lac ; 22,3 km et +1 174 m depuis Aiguebelette-le-Lac ; 14,1 km et +333 m depuis Novalaise.</p><p>Attention au piège du même nom : Chartreuse Tourisme publie aussi un « Tour du Lac d'Aiguebelette » de <strong>16,9 km, 291 m, « Facile »</strong> — « idéal pour une balade facile et accessible à tous » — mais c'est une fiche <strong>cyclotourisme</strong>, dont 11 km de voie verte. Une famille qui projette le tour <strong>à pied</strong> ne doit pas se fier aux chiffres de la version vélo. Nous publions les deux fiches côte à côte précisément pour ça.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Libre — itinéraire balisé",
+        "best_season": "Toute l'année selon la fiche de la boucle cyclo ; trek à la belle saison",
+        "commune": "Lépin-le-Lac",
+        "dogs": null,
+        "parking": "Départ possible de la gare de Lépin-le-Lac",
+        "stroller": null,
+        "type": "Trek en boucle autour du lac",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "3 jours pour le trek officiel : 60,4 km et +2 467 m, classé « Difficile », au départ de Lépin-le-Lac.",
+          "q": "Combien de temps faut-il pour faire le tour du lac à pied ?"
+        },
+        {
+          "a": "Si — mais c'est un itinéraire VÉLO : la fiche Chartreuse Tourisme de 16,9 km (« Facile », dont 11 km de voie verte) est une boucle cyclo. Le tour à pied est un trek de 3 jours ; les deux portent le même nom et nous signalons la confusion possible.",
+          "q": "N'existe-t-il pas une version facile de 17 km ?"
+        },
+        {
+          "a": "Étape 1 : 24,1 km, +1 230 m (Lépin-le-Lac). Étape 2 : 22,3 km, +1 174 m (Aiguebelette-le-Lac). Étape 3 : 14,1 km, +333 m (Novalaise).",
+          "q": "Quelles sont les étapes ?"
+        },
+        {
+          "a": "Oui — le départ officiel se fait de la gare de Lépin-le-Lac.",
+          "q": "Peut-on venir en train ?"
+        },
+        {
+          "a": "300 km d'itinéraires balisés, selon l'office de tourisme du lac d'Aiguebelette.",
+          "q": "Y a-t-il d'autres sentiers autour du lac ?"
+        }
+      ],
+      "hero": {
+        "badge": "3 jours · Lac d'Aiguebelette",
+        "lead": "Le vrai tour du lac à pied est un trek : 3 jours, 60,4 km, +2 467 m, au départ de la gare de Lépin-le-Lac. La boucle « facile » de 17 km qui porte le même nom est un itinéraire vélo."
+      },
+      "hero_alt": "Sentiers au-dessus du lac d'Aiguebelette, avant-pays savoyard",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "À Lépin-le-Lac, rive sud-ouest du lac d'Aiguebelette ; départ officiel depuis la gare.",
+        "public_transport": "Gare SNCF de Lépin-le-Lac au départ de l'itinéraire."
+      },
+      "meta_description": "Le tour du lac d'Aiguebelette à pied : 3 jours, 60,4 km, +2 467 m, classé difficile — à ne pas confondre avec la boucle cyclo de 17 km. Sources officielles.",
+      "meta_title": "Tour du lac d'Aiguebelette à pied · 3 jours, 60 km, étapes",
+      "name": "Tour du lac d'Aiguebelette à pied",
+      "name_alternates": [
+        "Tour du Lac d'Aiguebelette — Rando pédestre 3 jours"
+      ],
+      "practical_info": [
+        {
+          "k": "Départ",
+          "v": "Gare de Lépin-le-Lac, 73610"
+        },
+        {
+          "k": "Trek complet",
+          "v": "3 jours, 60,4 km, +2 467 m — « Difficile »"
+        },
+        {
+          "k": "Étapes",
+          "v": "24,1 km / 22,3 km / 14,1 km"
+        },
+        {
+          "k": "Ne pas confondre",
+          "v": "La boucle « facile » de 16,9 km du même nom est un itinéraire vélo (Chartreuse Tourisme)"
+        },
+        {
+          "k": "Réseau",
+          "v": "300 km d'itinéraires balisés autour du lac"
+        }
+      ],
+      "schema_amenities": [
+        "Itinéraire balisé en 3 étapes",
+        "Départ en gare",
+        "300 km de sentiers autour du lac"
+      ],
+      "when_to_visit": "<p>La belle saison pour le trek de 3 jours ; la fiche de la boucle cyclo du même nom annonce « toute l'année tous les jours » — mais c'est la version vélo.</p>"
+    }
+  },
+  "latitude": 45.554778,
+  "longitude": 5.797009,
+  "official_site_url": "https://www.lac-aiguebelette.com/itineraires-randonnee/tour-du-lac-daiguebelette-rando-pedestre-3-jours-7698623/",
+  "partners": [],
+  "postal_code": "73610",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-10, official sources: OT Lac d'Aiguebelette + Chartreuse Tourisme. Critical same-name contradiction kept prominent: the WALKING 'Tour du Lac' is a 3-day, 60.4 km, +2467 m trek rated Difficile, while Chartreuse Tourisme's 17 km 'facile' fiche of the same name is a CYCLING loop — a family planning to walk must not rely on the 17 km figures. Coordinates: IGN POI 'Lac d'Aiguebelette' (the lake itself; the route loops it).",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "tour-du-lac-aiguebelette",
+  "sources": [
+    "https://www.lac-aiguebelette.com/itineraires-randonnee/tour-du-lac-daiguebelette-rando-pedestre-3-jours-7698623/",
+    "https://www.lac-aiguebelette.com/rando-trail-velo/itineraires-randonnee/",
+    "https://www.chartreuse-tourisme.com/offres/tour-du-lac-daiguebelette-nances-fr-5930823/",
+    "https://data.geopf.fr/geocodage/search?q=Lac+d%27Aiguebelette&index=poi&limit=2"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "ACCES_PMR_UNVERIFIED — no official accessibility source found for this site. Status stays null rather than being inferred from the terrain."
+  ]
+}

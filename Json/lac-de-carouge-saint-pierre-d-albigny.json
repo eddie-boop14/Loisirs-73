@@ -24,6 +24,99 @@
   "hero_credit": null,
   "hero_image": "/img/generique/generique-lac-coucher-soleil.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Zwei mit Bojen markierte Bäder - ein kleines Familienbad, ein großes Bad für starke Schwimmer - wurden am Juli-August-Nachmittag betreut.",
+          "tag": "13:00-19:00",
+          "title": "Beaufsichtigtes Sommerschwimmen"
+        },
+        {
+          "description": "Der See breitet sich unter dem Miolans Hang aus: Strand, Rasenflächen und ein Blick auf die Festung des Combe de Savoie.",
+          "tag": "In der Nähe",
+          "title": "Unterhalb des Schlosses Miolans"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Unterhalb der Miolans Hang, die<strong>Lac de Carouge</strong>ist die große Schwimmbasis des Combe de Savoie -<strong>über 30.000 Besucher am Juli- und Augustnachmittag</strong>, schreibt die Kommune.<strong>Der Zugang zum Strand ist kostenlos</strong>Parkplätze werden von Juni bis September bezahlt.</p><p>Schwimmen ist in zwei Zonen gekennzeichnet: a<strong>kleines Bad</strong>von 1,50 m maximale Tiefe vor dem Erste-Hilfe-Ständer und eine<strong>Großes Bad</strong>für starke Schwimmer, über 3 m tief, gekennzeichnet durch Bojen. Im Aufsichtsfenster unterscheiden sich die Quellen: Das Tourismusbüro veröffentlicht<strong>1. Juli bis 31. August 2026, 13:00-19:00</strong>; ein (undatierter) Gemeindeartikel sagt 29. Juni bis 29. August, gleiche Stunden. Wir geben beides.</p><p>Wie für das Etikett: der See hielt die<strong>Pavillon Bleu seit 8 Jahren</strong>, im Jahr 2024 nicht erneuert - \"wir beschlossen, für zwei Jahre zu pausieren\", schreibt die Gemeinde, während sie die Wasseranalyse beibehält<strong>alle drei Wochen</strong>.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Kostenloser Strand; bezahlte Parkplätze Juni bis September",
+        "best_season": "Aufsicht im Juli-August, 13:00-19:00 (Daten: siehe Quelle Widerspruch)",
+        "commune": "Saint-Pierre-d'Albigny",
+        "dogs": null,
+        "parking": "Bezahlt Juni bis September",
+        "stroller": null,
+        "type": "See und Strand des Combe de Savoie"
+      },
+      "faq": [
+        {
+          "a": "Nein - der Zugang zum Strand ist kostenlos. Parken wird von Juni bis September bezahlt (Betrag nicht auf der offiziellen Liste veröffentlicht).",
+          "q": "Hat der Strand Gebühren?"
+        },
+        {
+          "a": "13:00-19:00 Uhr im Sommer. An genauen Daten veröffentlicht das Fremdenverkehrsamt 1. Juli - 31. August 2026, einen Gemeindeartikel 29. Juni - 29. August - beide stehen und wir haben keine Schlichtung.",
+          "q": "Wann wird Schwimmen überwacht?"
+        },
+        {
+          "a": "Sie hielt es acht Jahre lang, aber nicht 2024: \"Wir haben beschlossen, für zwei Jahre innezuhalten\", erklärt die Gemeinde. Das Wasser wird noch alle drei Wochen analysiert.",
+          "q": "Hält der See den Pavillon Bleu?"
+        },
+        {
+          "a": "Ja: ein kleines Bad von maximal 1,50 m vor dem Erste-Hilfe-Posten; das große Bad, über 3 m, ist starken Schwimmern vorbehalten und durch Bojen gekennzeichnet.",
+          "q": "Gibt es Kinderzonen?"
+        },
+        {
+          "a": "Sehr: über 30.000 Besucher am Juli- und Augustnachmittag, pro Gemeinde. Ziel für morgens.",
+          "q": "Wie beschäftigt wird es?"
+        }
+      ],
+      "hero": {
+        "badge": "Frei · Combe de Savoie",
+        "lead": "Die große Badebasis des Combe de Savoie, unterhalb des Schlosses Miolans: freier Strand, zwei Bojenzonen, Sommeraufsicht 13:00-19:00 - und über 30.000 Besucher am Juli-August-Nachmittag."
+      },
+      "hero_alt": "Lac de Carouge und sein Strand, Saint-Pierre-d'Albigny, Combe de Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Bei Saint-Pierre-d'Albigny im Combe de Savoie; Parkplatz vor Ort, bezahlt von Juni bis September.",
+        "public_transport": null
+      },
+      "meta_description": "Die Lac de Carouge bei Saint-Pierre-d'Albigny: kostenloser Strand, überwachtes Schwimmen im Juli-August (13:00-19:00), bezahlte Sommerparkplätze. Offizielle Quellen.",
+      "meta_title": "Lac de Carouge · Freier Strand, überwachtes Schwimmen, Combe de Savoie",
+      "name": "Lac de Carouge",
+      "name_alternates": [
+        "Plage du lac de Carouge"
+      ],
+      "practical_info": [
+        {
+          "k": "Anschrift",
+          "v": "Lac de Carouge, 73250 Saint-Pierre-d'Albigny"
+        },
+        {
+          "k": "Preis",
+          "v": "Kostenloser Strand; bezahlte Parkplätze Juni-September"
+        },
+        {
+          "k": "Überwachung",
+          "v": "13:00-19:00 - 1 Jul-31 Aug (Touristenbüro) oder 29 Jun-29 Aug (Gemeinde)"
+        },
+        {
+          "k": "Schwimmzonen",
+          "v": "Kleines Bad 1,50 m max; großes Bad +3 m für starke Schwimmer"
+        },
+        {
+          "k": "Wasserqualität",
+          "v": "Alle drei Wochen analysiert (commune)"
+        }
+      ],
+      "schema_amenities": [
+        "Freier Strand",
+        "Zwei schwimmende Zonen",
+        "Erste Hilfe im Sommer"
+      ],
+      "when_to_visit": "<p>Wochentagsmorgens im Sommer - die Gemeinde selbst meldet über 30.000 Besucher an Juli-August Nachmittagen. Die Aufsicht beginnt erst um 13:00 Uhr.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -117,6 +210,99 @@
       ],
       "when_to_visit": "<p>Weekday mornings in summer — the commune itself reports over 30,000 visitors on July-August afternoons. Supervision only starts at 13:00.</p>"
     },
+    "es": {
+      "activities": [
+        {
+          "description": "Dos baños con marca de boya, un pequeño baño familiar, un gran baño para nadadores fuertes, supervisados en julio-agosto por la tarde.",
+          "tag": "13:00-19:00",
+          "title": "Natación de verano supervisada"
+        },
+        {
+          "description": "El lago se extiende por debajo de la ladera de Miolans: playa, césped y una vista de la fortaleza de Combe de Savoie.",
+          "tag": "Cerca",
+          "title": "Debajo del castillo de Miolans"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Debajo de la ladera de Miolans,<strong>Lac de Carouge</strong>es la gran base de natación de Combe de Savoie<strong>más de 30.000 visitantes en las tardes de julio y agosto</strong>La comuna escribe.<strong>El acceso a la playa es gratuito</strong>; el estacionamiento se paga de junio a septiembre.</p><p>La natación está marcada en dos zonas: a<strong>pequeño</strong>de 1.50 m de profundidad máxima frente al post de primeros auxilios, y<strong>gran baño</strong>para nadadores fuertes, más de 3 m de profundidad, marcados por boyas. En la ventana de supervisión las fuentes difieren: la oficina de turismo publica<strong>1 de julio a 31 de agosto de 2026, 13:00 a 19:00</strong>; un artículo municipal (sin fecha) dice 29 de junio al 29 de agosto, las mismas horas. Damos ambos.</p><p>En cuanto a la etiqueta: el lago sostuvo el<strong>Pavillon Bleu durante 8 años</strong>, no renovado en 2024 — \"decidimos pausar durante dos años\", escribe la comuna, manteniendo el análisis del agua<strong>cada tres semanas</strong>.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Playa libre; aparcamiento pagado junio a septiembre",
+        "best_season": "Supervisión en julio-agosto, 13:00-19:00 (fecha: ver contradicción fuente)",
+        "commune": "Saint-Pierre-d'Albigny",
+        "dogs": null,
+        "parking": "Pagado junio a septiembre",
+        "stroller": null,
+        "type": "Lago y playa de la Combe de Savoie"
+      },
+      "faq": [
+        {
+          "a": "No: el acceso a la playa es gratuito. El estacionamiento se paga de junio a septiembre (costo no publicado en la lista oficial).",
+          "q": "¿La playa cobra?"
+        },
+        {
+          "a": "13:00-19:00 en verano. En fechas exactas, la oficina turística publica el 1 de julio al 31 de agosto de 2026, un artículo municipal 29 de junio al 29 de agosto, ambos stand y no arbitramos.",
+          "q": "¿Cuándo está supervisada la natación?"
+        },
+        {
+          "a": "Lo mantuvo durante 8 años, pero no en 2024: \"decidimos pausar durante dos años\", explica la comuna. El agua todavía se analiza cada tres semanas.",
+          "q": "¿El lago sostiene el Pavillon Bleu?"
+        },
+        {
+          "a": "Sí: un pequeño baño de 1,50 m máximo en frente de la entrada de primeros auxilios; el baño grande, de más de 3 m, está reservado para nadadores fuertes y marcado por boyas.",
+          "q": "¿Hay zonas infantiles?"
+        },
+        {
+          "a": "Muy: más de 30.000 visitantes en las tardes de julio y agosto, por la comuna. Objetivo para las mañanas.",
+          "q": "¿Qué tan ocupado tiene?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratis · Combe de Savoie",
+        "lead": "La gran base de natación de Combe de Savoie, por debajo del castillo de Miolans: playa libre, dos zonas con boyas, supervisión de verano de 13:00 a 19:00 y más de 30.000 visitantes en las tardes de julio a agosto."
+      },
+      "hero_alt": "Lac de Carouge y su playa, Saint-Pierre-d'Albigny, Combe de Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "En Saint-Pierre-d'Albigny en el Combe de Savoie; aparcamiento in situ, pagó de junio a septiembre.",
+        "public_transport": null
+      },
+      "meta_description": "El Lac de Carouge en Saint-Pierre-d'Albigny: playa libre, piscina supervisada en julio-agosto (13:00-19:00), estacionamiento de verano pagado. Fuentes oficiales.",
+      "meta_title": "Lac de Carouge · Playa libre, natación supervisada, Combe de Savoie",
+      "name": "Lac de Carouge",
+      "name_alternates": [
+        "Plage du lac de Carouge"
+      ],
+      "practical_info": [
+        {
+          "k": "Dirección",
+          "v": "Lac de Carouge, 73250 Saint-Pierre-d'Albigny"
+        },
+        {
+          "k": "Precio",
+          "v": "Playa libre; aparcamiento pagado junio-septiembre"
+        },
+        {
+          "k": "Supervisión",
+          "v": "13:00–19:00 — 1 jul-31 ago (oficina turística) o 29 jun-29 ago (commune)"
+        },
+        {
+          "k": "Zonas de movimiento",
+          "v": "Baño pequeño 1.50 m max; baño grande +3 m para nadadores fuertes"
+        },
+        {
+          "k": "Calidad del agua",
+          "v": "Analizado cada tres semanas (commune)"
+        }
+      ],
+      "schema_amenities": [
+        "Playa libre",
+        "Dos zonas de baño flotantes",
+        "Post de primeros auxilios de verano"
+      ],
+      "when_to_visit": "<p>Mañanas de semana en verano — la comuna misma reporta a más de 30.000 visitantes en las tardes de julio-agosto. La supervisión sólo comienza a las 13:00.</p>"
+    },
     "fr": {
       "activities": [
         {
@@ -209,6 +395,192 @@
         "Poste de secours l'été"
       ],
       "when_to_visit": "<p>Les matins de semaine en été — la commune elle-même annonce plus de 30 000 visiteurs les après-midi de juillet-août. La surveillance ne commence qu'à 13h.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Due bagni con booy-marked — un piccolo bagno di famiglia, un grande bagno per i nuotatori forti — supervisionato il luglio-agosto pomeriggi.",
+          "tag": "13:00-19:00",
+          "title": "Superviso nuoto estivo"
+        },
+        {
+          "description": "Il lago si estende sotto la collina Miolans: spiaggia, prati e una vista della fortezza di Combe de Savoie.",
+          "tag": "Nelle vicinanze",
+          "title": "Sotto il castello di Miolans"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Sotto la collina Miolans, il<strong>Lac de Carouge</strong>è la grande base di nuoto di Combe de Savoie —<strong>oltre 30.000 visitatori nei pomeriggi di luglio e agosto</strong>, il comune scrive.<strong>L'accesso alla spiaggia è gratuito</strong>; il parcheggio è pagato da giugno a settembre.</p><p>Il nuoto è segnato in due zone:<strong>piccolo bagno</strong>di 1,50 m di profondità massima davanti al post di primo soccorso, e un<strong>grande bagno</strong>per nuotatori forti, oltre 3 m di profondità, segnati da boe. Sulla finestra di supervisione le fonti differiscono: l'ufficio turistico pubblica<strong>1 luglio al 31 agosto 2026, 13:00-19:00</strong>; un articolo municipale (undated) dice il 29 giugno al 29 agosto, stesse ore. Diamo entrambi.</p><p>Per quanto riguarda l'etichetta: il lago ha tenuto il<strong>Pavillon Bleu per 8 anni</strong>, non rinnovato nel 2024 — «abbiamo deciso di fermarci per due anni», scrive il comune, pur mantenendo l'analisi dell'acqua<strong>ogni tre settimane</strong>.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Spiaggia libera; parcheggio a pagamento da giugno a settembre",
+        "best_season": "Supervisione in luglio-agosto, 13:00-19:00 (date: vedi contraddizione fonte)",
+        "commune": "Saint-Pierre-d'Albigny",
+        "dogs": null,
+        "parking": "Pagato da giugno a settembre",
+        "stroller": null,
+        "type": "Lago e spiaggia della Combe de Savoie"
+      },
+      "faq": [
+        {
+          "a": "No — l'accesso alla spiaggia è gratuito. Il parcheggio è pagato da giugno a settembre (importo non pubblicato sulla lista ufficiale).",
+          "q": "Il costo della spiaggia?"
+        },
+        {
+          "a": "13:00-19:00 in estate. Nelle date esatte, l'ufficio turistico pubblica 1 luglio – 31 agosto 2026, un articolo comunale 29 giugno – 29 agosto — sia stand che non arbitrate.",
+          "q": "Quando è sorvegliato il nuoto?"
+        },
+        {
+          "a": "L'ha tenuto per 8 anni, ma non nel 2024: \"abbiamo deciso di fermarci per due anni\", spiega il comune. L'acqua è ancora analizzata ogni tre settimane.",
+          "q": "Il lago regge il Pavillon Bleu?"
+        },
+        {
+          "a": "Sì: un piccolo bagno di 1,50 m massimo di fronte al posto di primo soccorso; il bagno grande, oltre 3 m, è riservato ai nuotatori forti e contrassegnati da boe.",
+          "q": "Ci sono zone per bambini?"
+        },
+        {
+          "a": "Molto: oltre 30.000 visitatori nei pomeriggi di luglio e agosto, per il comune. Mirate al mattino.",
+          "q": "Quanto ha da fare?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratis · Combe de Savoie",
+        "lead": "La grande base di nuoto di Combe de Savoie, sotto il castello di Miolans: spiaggia libera, due zone buoyed, supervisione estiva 13:00-19:00 — e oltre 30.000 visitatori il pomeriggio di luglio-agosto."
+      },
+      "hero_alt": "Lac de Carouge e la sua spiaggia, Saint-Pierre-d'Albigny, Combe de Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "A Saint-Pierre-d'Albigny nella Combe de Savoie; parcheggio in loco, pagato da giugno a settembre.",
+        "public_transport": null
+      },
+      "meta_description": "Lac de Carouge a Saint-Pierre-d'Albigny: spiaggia libera, nuoto supervisionato in luglio-agosto (13:00-19:00), parcheggio estivo pagato. Fonti ufficiali.",
+      "meta_title": "Lac de Carouge · Spiaggia libera, nuoto supervisionato, Combe de Savoie",
+      "name": "Lac de Carouge",
+      "name_alternates": [
+        "Plage du lac de Carouge"
+      ],
+      "practical_info": [
+        {
+          "k": "Indirizzo",
+          "v": "Lac de Carouge, 73250 Saint-Pierre-d'Albigny"
+        },
+        {
+          "k": "Prezzo",
+          "v": "Spiaggia libera; parcheggio a pagamento giugno-settembre"
+        },
+        {
+          "k": "Supervisione",
+          "v": "13:00-19:00 — 1 Jul-31 Aug (ufficio turistico) o 29 Jun-29 Aug (commune)"
+        },
+        {
+          "k": "Zone di nuoto",
+          "v": "Piccolo bagno 1,50 m max; bagno grande +3 m per nuotatori forti"
+        },
+        {
+          "k": "Qualità dell'acqua",
+          "v": "Analizzato ogni tre settimane (commune)"
+        }
+      ],
+      "schema_amenities": [
+        "Spiaggia libera",
+        "Due zone di nuoto galleggianti",
+        "Posto di pronto soccorso estivo"
+      ],
+      "when_to_visit": "<p>Le mattine settimanali in estate — il comune stesso segnala oltre 30.000 visitatori nei pomeriggi luglio-agosto. La supervisione inizia solo alle 13:00.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Twee boei-gemarkeerde baden, een familie klein bad, een groot bad voor sterke zwemmers, onder toezicht van juli-augustusmiddagen.",
+          "tag": "13.00 uur 19.00 uur",
+          "title": "Supervised zomer zwemmen"
+        },
+        {
+          "description": "Het meer verspreidt zich onder de Miolans heuvel: strand, gazons en uitzicht op het fort Combe de Savoie.",
+          "tag": "In de buurt",
+          "title": "Onder het château de Miolans"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Onder de Miolans heuvel, de<strong>Lac de Carouge</strong>is de grote zwembasis van de Combe de Savoie<strong>meer dan 30.000 bezoekers op juli en augustusmiddagen</strong>, schrijft de commune.<strong>Toegang tot het strand is gratis</strong>; parkeren wordt betaald van juni tot september.</p><p>Zwemmen is gemarkeerd in twee zones: a<strong>klein bad</strong>van 1,50 m maximale diepte voor de EHBO-post, en een<strong>groot bad</strong>voor sterke zwemmers, meer dan 3 m diep, gekenmerkt door boeien. Op het toezichtvenster verschillen de bronnen: het VVV publiceert<strong>van 1 juli tot en met 31 augustus 2026, van 13.00 tot 19.00 uur</strong>; een (undated) gemeentelijk artikel zegt 29 juni tot 29 augustus, zelfde uren. We geven beide.</p><p>Wat het etiket betreft: het meer hield het<strong>Pavillon Bleu voor 8 jaar</strong>, niet vernieuwd in 2024 \"we besloten te pauzeren voor twee jaar,\" schrijft de gemeente, terwijl het houden van water analyse<strong>elke drie weken</strong>.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis strand; betaald parkeren van juni tot september",
+        "best_season": "Toezicht in juli-augustus, 13:00–19:00 (data: zie sourced contradictie)",
+        "commune": "Saint-Pierre-d'Albigny",
+        "dogs": null,
+        "parking": "Betaald van juni tot september",
+        "stroller": null,
+        "type": "Meer en strand van de Combe de Savoie"
+      },
+      "faq": [
+        {
+          "a": "Geen toegang tot het strand is gratis. Parkeren wordt betaald van juni tot september (bedrag niet gepubliceerd op de officiële lijst).",
+          "q": "Is het strand aan te rekenen?"
+        },
+        {
+          "a": "13:00–19:00 in de zomer. Op exacte data publiceert het VVV-kantoor 1 juli – 31 augustus 2026, een gemeentelijk artikel 29 juni – 29 augustus — beide staan vast en we doen geen willekeurig.",
+          "q": "Wanneer is zwemmen onder toezicht?"
+        },
+        {
+          "a": "Het hield het 8 jaar, maar niet in 2024: 'we besloten twee jaar te pauzeren', legt de gemeente uit. Het water wordt nog elke drie weken geanalyseerd.",
+          "q": "Houdt het meer de Pavillon Bleu vast?"
+        },
+        {
+          "a": "Ja: een klein bad van maximaal 1,50 m voor de eerste hulppost; het grote bad, meer dan 3 m, is gereserveerd voor sterke zwemmers en gemarkeerd door boeien.",
+          "q": "Zijn er kinderzones?"
+        },
+        {
+          "a": "Zeer: meer dan 30.000 bezoekers op juli en augustus middagen, per gemeente. Richt op ochtenden.",
+          "q": "Hoe druk wordt het?"
+        }
+      ],
+      "hero": {
+        "badge": "Vrij · Combe de Savoie",
+        "lead": "De grote zwembasis van de Combe de Savoie, onder het château de Miolans: gratis strand, twee gemarkeerde badzones, zomerbewaking 13:00–19:00 — en meer dan 30.000 bezoekers op juli-augustusmiddagen."
+      },
+      "hero_alt": "Lac de Carouge en het strand, Saint-Pierre-d'Albigny, Combe de Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Op Saint-Pierre-d'Albigny in de Combe de Savoie; ter plaatse parkeren, betaald juni tot september.",
+        "public_transport": null
+      },
+      "meta_description": "De Lac de Carouge op Saint-Pierre-d'Albigny: gratis strand, begeleid zwemmen in juli-augustus (13:00–19:00), betaald zomerparkeren. Officiële bronnen.",
+      "meta_title": "Lac de Carouge · Gratis strand, onder toezicht zwemmen, Combe de Savoie",
+      "name": "Lac de Carouge",
+      "name_alternates": [
+        "Plage du lac de Carouge"
+      ],
+      "practical_info": [
+        {
+          "k": "Adres",
+          "v": "Lac de Carouge, 73250 Saint-Pierre-d'Albigny"
+        },
+        {
+          "k": "Prijs",
+          "v": "Gratis strand; betaald parkeren juni-september"
+        },
+        {
+          "k": "Toezicht",
+          "v": "13:00–19:00 — 1 jul.-31 aug. (VVV) of 29 juni-29 aug. (gemeente)"
+        },
+        {
+          "k": "Zwemzones",
+          "v": "Klein bad 1,50 m max; groot bad +3 m voor sterke zwemmers"
+        },
+        {
+          "k": "Waterkwaliteit",
+          "v": "Elke drie weken geanalyseerd (commune)"
+        }
+      ],
+      "schema_amenities": [
+        "Gratis strand",
+        "Twee drijvende zwemzones",
+        "Zomer EHBO-post"
+      ],
+      "when_to_visit": "<p>Weekdagochtenden in de zomer De gemeente zelf rapporteert meer dan 30.000 bezoekers op juli-augustusmiddagen. Het toezicht begint pas om 13:00 uur.</p>"
     }
   },
   "latitude": 45.557346,

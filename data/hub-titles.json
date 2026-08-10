@@ -49,6 +49,14 @@
       "it": "Cosa fare in {dept} · {site}",
       "nl": "Wat te doen in {dept} · {site}"
     },
+    "sentiers": {
+      "de": "Wanderwege · {dept} · {site}",
+      "en": "Trails and hikes of {dept} · {site}",
+      "es": "Senderos de {dept} · {site}",
+      "fr": "Sentiers et randonnées de {dept} · {site}",
+      "it": "Sentieri della {dept} · {site}",
+      "nl": "Wandelpaden · {dept} · {site}"
+    },
     "telecabines": {
       "de": "Seilbahnen in {dept} · {site}",
       "en": "Cable cars of {dept} · {site}",

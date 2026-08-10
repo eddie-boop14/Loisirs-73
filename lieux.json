@@ -16,19 +16,19 @@
           "commune": "Grésy-sur-Isère"
         },
         "de": {
-          "name": "Base de loisirs de Grésy-sur-Isère",
+          "name": "Grésy-sur-Isère leisure base",
           "commune": "Grésy-sur-Isère"
         },
         "it": {
-          "name": "Base de loisirs de Grésy-sur-Isère",
+          "name": "Grésy-sur-Isère leisure base",
           "commune": "Grésy-sur-Isère"
         },
         "es": {
-          "name": "Base de loisirs de Grésy-sur-Isère",
+          "name": "Grésy-sur-Isère leisure base",
           "commune": "Grésy-sur-Isère"
         },
         "nl": {
-          "name": "Base de loisirs de Grésy-sur-Isère",
+          "name": "Grésy-sur-Isère leisure base",
           "commune": "Grésy-sur-Isère"
         }
       },
@@ -288,6 +288,78 @@
       "longitude": 5.917318,
       "is_free": false,
       "access_state": "paid"
+    },
+    {
+      "slug": "chemin-du-petit-bonheur",
+      "categories": [
+        "sentier"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Chemin du Petit Bonheur",
+          "commune": "Modane"
+        },
+        "en": {
+          "name": "Chemin du Petit Bonheur",
+          "commune": "Modane"
+        },
+        "de": {
+          "name": "Chemin du Petit Bonheur",
+          "commune": "Modane"
+        },
+        "it": {
+          "name": "Chemin du Petit Bonheur",
+          "commune": "Modane"
+        },
+        "es": {
+          "name": "Chemin du Petit Bonheur",
+          "commune": "Modane"
+        },
+        "nl": {
+          "name": "Chemin du Petit Bonheur",
+          "commune": "Modane"
+        }
+      },
+      "latitude": null,
+      "longitude": null,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
+      "slug": "chemin-lacustre-lac-du-bourget",
+      "categories": [
+        "sentier"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Chemin lacustre du lac du Bourget",
+          "commune": "Tresserve"
+        },
+        "en": {
+          "name": "Lac du Bourget lakeside path",
+          "commune": "Tresserve"
+        },
+        "de": {
+          "name": "Chemin lacustre du lac du Bourget",
+          "commune": "Tresserve"
+        },
+        "it": {
+          "name": "Chemin lacustre du lac du Bourget",
+          "commune": "Tresserve"
+        },
+        "es": {
+          "name": "Chemin lacustre du lac du Bourget",
+          "commune": "Tresserve"
+        },
+        "nl": {
+          "name": "Chemin lacustre du lac du Bourget",
+          "commune": "Tresserve"
+        }
+      },
+      "latitude": 45.668052,
+      "longitude": 5.89378,
+      "is_free": true,
+      "access_state": "free"
     },
     {
       "slug": "cirque-de-saint-meme",
@@ -830,6 +902,78 @@
       "access_state": "free"
     },
     {
+      "slug": "croix-du-nivolet-la-feclaz",
+      "categories": [
+        "sentier"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Croix du Nivolet depuis le Plateau Sud",
+          "commune": "Les Déserts"
+        },
+        "en": {
+          "name": "Croix du Nivolet from the Plateau Sud",
+          "commune": "Les Déserts"
+        },
+        "de": {
+          "name": "Croix du Nivolet depuis le Plateau Sud",
+          "commune": "Les Déserts"
+        },
+        "it": {
+          "name": "Croix du Nivolet depuis le Plateau Sud",
+          "commune": "Les Déserts"
+        },
+        "es": {
+          "name": "Croix du Nivolet depuis le Plateau Sud",
+          "commune": "Les Déserts"
+        },
+        "nl": {
+          "name": "Croix du Nivolet depuis le Plateau Sud",
+          "commune": "Les Déserts"
+        }
+      },
+      "latitude": 45.613564,
+      "longitude": 5.965568,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
+      "slug": "dent-du-chat-col-du-chat",
+      "categories": [
+        "sentier"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Dent du Chat",
+          "commune": "Bourdeau"
+        },
+        "en": {
+          "name": "Dent du Chat",
+          "commune": "Bourdeau"
+        },
+        "de": {
+          "name": "Dent du Chat",
+          "commune": "Bourdeau"
+        },
+        "it": {
+          "name": "Dent du Chat",
+          "commune": "Bourdeau"
+        },
+        "es": {
+          "name": "Dent du Chat",
+          "commune": "Bourdeau"
+        },
+        "nl": {
+          "name": "Dent du Chat",
+          "commune": "Bourdeau"
+        }
+      },
+      "latitude": 45.675101,
+      "longitude": 5.833512,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
       "slug": "espace-alu-saint-michel-de-maurienne",
       "categories": [
         "musee"
@@ -1082,6 +1226,42 @@
       "access_state": "free"
     },
     {
+      "slug": "lac-des-vaches-pralognan",
+      "categories": [
+        "sentier"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Lac des Vaches",
+          "commune": "Pralognan-la-Vanoise"
+        },
+        "en": {
+          "name": "Lac des Vaches",
+          "commune": "Pralognan-la-Vanoise"
+        },
+        "de": {
+          "name": "Lac des Vaches",
+          "commune": "Pralognan-la-Vanoise"
+        },
+        "it": {
+          "name": "Lac des Vaches",
+          "commune": "Pralognan-la-Vanoise"
+        },
+        "es": {
+          "name": "Lac des Vaches",
+          "commune": "Pralognan-la-Vanoise"
+        },
+        "nl": {
+          "name": "Lac des Vaches",
+          "commune": "Pralognan-la-Vanoise"
+        }
+      },
+      "latitude": 45.398016,
+      "longitude": 6.776462,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
       "slug": "lac-saint-andre-porte-de-savoie",
       "categories": [
         "lac"
@@ -1312,19 +1492,19 @@
           "commune": "Aiguebelette-le-Lac"
         },
         "de": {
-          "name": "Plage d'Aiguebelette-le-Lac",
+          "name": "Aiguebelette-le-Lac beach",
           "commune": "Aiguebelette-le-Lac"
         },
         "it": {
-          "name": "Plage d'Aiguebelette-le-Lac",
+          "name": "Aiguebelette-le-Lac beach",
           "commune": "Aiguebelette-le-Lac"
         },
         "es": {
-          "name": "Plage d'Aiguebelette-le-Lac",
+          "name": "Aiguebelette-le-Lac beach",
           "commune": "Aiguebelette-le-Lac"
         },
         "nl": {
-          "name": "Plage d'Aiguebelette-le-Lac",
+          "name": "Aiguebelette-le-Lac beach",
           "commune": "Aiguebelette-le-Lac"
         }
       },
@@ -1348,19 +1528,19 @@
           "commune": "Saint-Alban-de-Montbel"
         },
         "de": {
-          "name": "Plage du Sougey",
+          "name": "Le Sougey beach",
           "commune": "Saint-Alban-de-Montbel"
         },
         "it": {
-          "name": "Plage du Sougey",
+          "name": "Le Sougey beach",
           "commune": "Saint-Alban-de-Montbel"
         },
         "es": {
-          "name": "Plage du Sougey",
+          "name": "Le Sougey beach",
           "commune": "Saint-Alban-de-Montbel"
         },
         "nl": {
-          "name": "Plage du Sougey",
+          "name": "Le Sougey beach",
           "commune": "Saint-Alban-de-Montbel"
         }
       },
@@ -1384,19 +1564,19 @@
           "commune": "Aix-les-Bains"
         },
         "de": {
-          "name": "Plage municipale d'Aix-les-Bains (Aqualac)",
+          "name": "Aix-les-Bains municipal beach (Aqualac)",
           "commune": "Aix-les-Bains"
         },
         "it": {
-          "name": "Plage municipale d'Aix-les-Bains (Aqualac)",
+          "name": "Aix-les-Bains municipal beach (Aqualac)",
           "commune": "Aix-les-Bains"
         },
         "es": {
-          "name": "Plage municipale d'Aix-les-Bains (Aqualac)",
+          "name": "Aix-les-Bains municipal beach (Aqualac)",
           "commune": "Aix-les-Bains"
         },
         "nl": {
-          "name": "Plage municipale d'Aix-les-Bains (Aqualac)",
+          "name": "Aix-les-Bains municipal beach (Aqualac)",
           "commune": "Aix-les-Bains"
         }
       },
@@ -1420,19 +1600,19 @@
           "commune": "Le Bourget-du-Lac"
         },
         "de": {
-          "name": "Plage municipale du Bourget-du-Lac",
+          "name": "Le Bourget-du-Lac municipal beach",
           "commune": "Le Bourget-du-Lac"
         },
         "it": {
-          "name": "Plage municipale du Bourget-du-Lac",
+          "name": "Le Bourget-du-Lac municipal beach",
           "commune": "Le Bourget-du-Lac"
         },
         "es": {
-          "name": "Plage municipale du Bourget-du-Lac",
+          "name": "Le Bourget-du-Lac municipal beach",
           "commune": "Le Bourget-du-Lac"
         },
         "nl": {
-          "name": "Plage municipale du Bourget-du-Lac",
+          "name": "Le Bourget-du-Lac municipal beach",
           "commune": "Le Bourget-du-Lac"
         }
       },
@@ -1476,6 +1656,42 @@
       "longitude": 6.735613,
       "is_free": false,
       "access_state": "paid"
+    },
+    {
+      "slug": "sentier-artistique-hautecour",
+      "categories": [
+        "sentier"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Sentier artistique de Hautecour",
+          "commune": "Hautecour"
+        },
+        "en": {
+          "name": "Hautecour artistic trail",
+          "commune": "Hautecour"
+        },
+        "de": {
+          "name": "Sentier artistique de Hautecour",
+          "commune": "Hautecour"
+        },
+        "it": {
+          "name": "Sentier artistique de Hautecour",
+          "commune": "Hautecour"
+        },
+        "es": {
+          "name": "Sentier artistique de Hautecour",
+          "commune": "Hautecour"
+        },
+        "nl": {
+          "name": "Sentier artistique de Hautecour",
+          "commune": "Hautecour"
+        }
+      },
+      "latitude": 45.506831,
+      "longitude": 6.545049,
+      "is_free": true,
+      "access_state": "free"
     },
     {
       "slug": "signal-de-bisanne",
@@ -1980,6 +2196,42 @@
       "longitude": 6.730179,
       "is_free": false,
       "access_state": "paid"
+    },
+    {
+      "slug": "tour-du-lac-aiguebelette",
+      "categories": [
+        "sentier"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Tour du lac d'Aiguebelette à pied",
+          "commune": "Lépin-le-Lac"
+        },
+        "en": {
+          "name": "Lac d'Aiguebelette walking circuit",
+          "commune": "Lépin-le-Lac"
+        },
+        "de": {
+          "name": "Tour du lac d'Aiguebelette à pied",
+          "commune": "Lépin-le-Lac"
+        },
+        "it": {
+          "name": "Tour du lac d'Aiguebelette à pied",
+          "commune": "Lépin-le-Lac"
+        },
+        "es": {
+          "name": "Tour du lac d'Aiguebelette à pied",
+          "commune": "Lépin-le-Lac"
+        },
+        "nl": {
+          "name": "Tour du lac d'Aiguebelette à pied",
+          "commune": "Lépin-le-Lac"
+        }
+      },
+      "latitude": 45.554778,
+      "longitude": 5.797009,
+      "is_free": true,
+      "access_state": "free"
     },
     {
       "slug": "tours-de-chignin",

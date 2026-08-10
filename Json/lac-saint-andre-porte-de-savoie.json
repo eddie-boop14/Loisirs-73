@@ -24,6 +24,99 @@
   "hero_credit": null,
   "hero_image": "/img/generique/generique-lac.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Der gepasste Weg umkreist den See durch die Reben, unter der Mauer des Graniers - das ganze Jahr über begehbar.",
+          "tag": "Jede Saison",
+          "title": "Seezunge"
+        },
+        {
+          "description": "2026 Saison 7 März - 6 Dezember; Tages-, Monats- oder Jahreskarten, Bootsverleih bei 40 €.",
+          "tag": "10 €/Tag",
+          "title": "Fischerei"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die<strong>Lac Saint-André</strong>, in Les Marches (Porte-de-Savoie), in den Trümmern des Mont Granier Zusammenbruch gebildet; heute ist es eine Abteilung<strong>\"Grand Site\"</strong>Savoie, inmitten des Weinbergs. A<strong>Fitted Path schlingt den See in jeder Jahreszeit</strong>und der Zugang ist frei.</p><p>Die Baderegel verdient ein genaues Zitat: Schwimmen ist<strong>in der Freizeitzone toleriert, unbeaufsichtigt, auf eigenes Risiko des Nutzers</strong>— und<strong>im Naturgebiet und in der Fischereizone verboten</strong>. Der Lebensraum ist geschützt: Vögel, Pflanzen und Insekten sind gesetzlich geschützt, verwaltet vom Conservatoire d'espaces naturels de Savoie, Anwendungen, die durch die kommunale Ordnung geregelt sind.</p><p><strong>Fischerei</strong>hat seine Preise von der Gemeinde veröffentlicht: 35 € pro Jahr, 22 € pro Monat, 10 € pro Tag, kostenlos unter 12, Bootsvermietung 40 € - 2026 Saison von Samstag, 7. März bis Sonntag, 6. Dezember einschließlich.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Kostenlos; bezahlte Fischerei (10 €/Tag, 22 €/Monat, 35 €/Jahr)",
+        "best_season": "Ganzjährig für die Seeschleife; Fischerei 7. März – 6. Dezember 2026",
+        "commune": "Porte-de-Savoie",
+        "dogs": null,
+        "parking": null,
+        "stroller": "Bestückter Seeschlaufenweg, zu jeder Jahreszeit nutzbar",
+        "type": "Natürlicher See, Departmental Grand Site"
+      },
+      "faq": [
+        {
+          "a": "Schwimmen wird in der Freizeitzone toleriert, unbeaufsichtigt, auf eigenes Risiko des Benutzers - und in der Natur- und Fischereizone verboten. Das ist der offizielle Wortlaut.",
+          "q": "Kannst du schwimmen?"
+        },
+        {
+          "a": "Nein, der Zugang zum See ist frei. Nur Fischfang wird bezahlt: 10 € pro Tag, 22 € pro Monat, 35 € pro Jahr, kostenlos unter 12.",
+          "q": "Ist der Zugang bezahlt?"
+        },
+        {
+          "a": "Ja - eine angepasste Route umrundet den See zu jeder Jahreszeit, pro Gemeinde.",
+          "q": "Kannst du um den See herumlaufen?"
+        },
+        {
+          "a": "Saison 2026: von Samstag, 7. März bis Sonntag, 6. Dezember einschließlich. Bootsmiete verfügbar (€ 40).",
+          "q": "Wann kann man fischen?"
+        },
+        {
+          "a": "Der See beherbergt viele Vögel, Pflanzen und Insekten, die gesetzlich geschützt sind; er wird vom Conservatoire d'espaces naturels de Savoie verwaltet und durch die kommunale Ordnung geregelt.",
+          "q": "Warum ist die Website geschützt?"
+        }
+      ],
+      "hero": {
+        "badge": "Free · Unterhalb des Graniers",
+        "lead": "Ein kleiner Abteilungssee \"Grand Site\" in den Reben unter dem Granier: eine ganzjährige Seeschleife, Angeln und Schwimmen, die toleriert wird - nie überwacht."
+      },
+      "hero_alt": "Lac Saint-André inmitten der Weinberge unterhalb des Mont Granier, Porte-de-Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "In Les Marches, zwischen Chambéry und Montmélian; der See ist von der RD 1090 ausgeschildert.",
+        "public_transport": null
+      },
+      "meta_description": "Die Lac Saint-André unter dem Granier: freier Zugang, ganzjährige Seeschleife, unbeaufsichtigtes toleriertes Schwimmen, Angeln 7. März - 6. Dezember 2026.",
+      "meta_title": "Lac Saint-André · Toleriertes Schwimmen, Weinberge, Porte-de-Savoie",
+      "name": "Lac Saint-André",
+      "name_alternates": [
+        "Lac de Saint-André"
+      ],
+      "practical_info": [
+        {
+          "k": "Anschrift",
+          "v": "Lac Saint-André, Les Marches, 73800 Porte-de-Savoie"
+        },
+        {
+          "k": "Preis",
+          "v": "Freier Zugang"
+        },
+        {
+          "k": "Schwimmen",
+          "v": "In der Freizeitzone geduldet, unbeaufsichtigt; im Natur- und Fischereigebiet verboten"
+        },
+        {
+          "k": "Fischerei 2026",
+          "v": "7. März – 6. Dezember – 10 €/Tag, 22 €/Monat, 35 €/Jahr, frei unter 12"
+        },
+        {
+          "k": "Seezunge",
+          "v": "Gepasster Weg, jede Jahreszeit"
+        }
+      ],
+      "schema_amenities": [
+        "Seegang",
+        "Fischerei (Karte)",
+        "Geschützter natürlicher Lebensraum"
+      ],
+      "when_to_visit": "<p>Die Seeschleife funktioniert zu jeder Jahreszeit - goldene Reben im Herbst, ein verschneites Granier im Winter. Im Sommer bleibt Schwimmen toleriert, aber nie überwacht: Vorsicht.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -117,6 +210,99 @@
       ],
       "when_to_visit": "<p>The lake loop works in every season — golden vines in autumn, a snowy Granier in winter. In summer, swimming stays tolerated but never supervised: caution.</p>"
     },
+    "es": {
+      "activities": [
+        {
+          "description": "La senda empotrada rodea el lago a través de las vides, bajo la pared del Granier, caminando todo el año.",
+          "tag": "Cada temporada",
+          "title": "Lake loop"
+        },
+        {
+          "description": "2026 temporada 7 marzo – 6 diciembre; tarjetas de día, mes o año, alquiler de barcos en €40.",
+          "tag": "10€/día",
+          "title": "Pesca"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El<strong>Lac Saint-André</strong>, en Les Marches (Porte-de-Savoie), formado en los escombros del colapso del Mont Granier; hoy es un departamento<strong>'Grand Site'</strong>de Savoie, situado en medio de la viña. A<strong>sendero empotrado el lago en cada estación</strong>, y el acceso es gratuito.</p><p>La regla de baño merece una cita exacta: nadar es<strong>tolerado en la zona de ocio, sin supervisión, a riesgo de los usuarios</strong>y<strong>prohibido en el área natural y la zona de pesca</strong>. El hábitat está protegido: aves, plantas e insectos protegidos por la ley, gestionados con el Conservatorio d'espaces naturels de Savoie, utiliza regulados por orden municipal.</p><p><strong>Pesca</strong>tiene sus precios publicados por la comuna: €35 al año, €22 al mes, €10 al día, gratuito bajo 12, alquiler de barcos €40 - 2026 temporada del sábado 7 marzo al domingo 6 diciembre inclusive.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis; pesca pagada (10€/día, 22€/mes, 35€/año)",
+        "best_season": "Alrededor del lazo del lago; pesca del 7 de marzo al 6 de diciembre de 2026",
+        "commune": "Porte-de-Savoie",
+        "dogs": null,
+        "parking": null,
+        "stroller": "sendero de la laguna ajustado, utilizable en cada estación",
+        "type": "Lago natural, Gran Sitio departamental"
+      },
+      "faq": [
+        {
+          "a": "La natación es tolerada en la zona de ocio, sin supervisión, a riesgo propio de los usuarios, y prohibida en la zona natural y de pesca. Esa es la redacción oficial.",
+          "q": "¿Puedes nadar?"
+        },
+        {
+          "a": "No, el acceso al lago es gratuito. Sólo se paga la pesca: 10 € al día, 22 € al mes, 35 € al año, gratis bajo 12.",
+          "q": "¿Se paga el acceso?"
+        },
+        {
+          "a": "Sí — una ruta ajustada rodea el lago en cada estación, por la comuna.",
+          "q": "¿Puedes caminar por el lago?"
+        },
+        {
+          "a": "2026 temporada: del sábado 7 marzo al domingo 6 diciembre inclusive. Alquiler de barcos disponibles (40€).",
+          "q": "¿Cuándo puedes pescar?"
+        },
+        {
+          "a": "El lago alberga muchas aves, plantas e insectos protegidos por la ley; se administra con el Conservatorio d'espaces naturels de Savoie y regulado por orden municipal.",
+          "q": "¿Por qué está protegido el sitio?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratis · Bajo el Granero",
+        "lead": "Un pequeño lago departamental 'Grand Site' situado en las vides debajo del Granier: un bucle de lagos de todo el año, la pesca y la natación que se tolera — nunca supervisado."
+      },
+      "hero_alt": "Lac Saint-André en medio de los viñedos debajo de Mont Granier, Porte-de-Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "En Les Marches, entre Chambéry y Montmélian; el lago está señalizado desde el RD 1090.",
+        "public_transport": null
+      },
+      "meta_description": "El Lac Saint-André debajo del Granier: acceso gratuito, bucle de lagos todo el año, natación tolerada sin supervisión, pesca del 7 de marzo al 6 de diciembre de 2026.",
+      "meta_title": "Lac Saint-André · Tolerado, viñedos, Porte-de-Savoie",
+      "name": "Lac Saint-André",
+      "name_alternates": [
+        "Lac de Saint-André"
+      ],
+      "practical_info": [
+        {
+          "k": "Dirección",
+          "v": "Lac Saint-André, Les Marches, 73800 Porte-de-Savoie"
+        },
+        {
+          "k": "Precio",
+          "v": "Acceso gratuito"
+        },
+        {
+          "k": "Nadando",
+          "v": "Tolerado en la zona de ocio, sin supervisión; prohibido en la zona natural y zona de pesca"
+        },
+        {
+          "k": "Pesca 2026",
+          "v": "7 marzo – 6 diciembre – 10€/día, 22€/mes, 35€/año, gratis bajo 12"
+        },
+        {
+          "k": "Lake loop",
+          "v": "Camino ajustado, cada temporada"
+        }
+      ],
+      "schema_amenities": [
+        "Sendero de la laguna",
+        "Pesca (tarjeta)",
+        "Hábitat natural protegido"
+      ],
+      "when_to_visit": "<p>El lazo del lago funciona en todas las estaciones: vides doradas en otoño, un Granier nevado en invierno. En verano, la natación permanece tolerada pero nunca supervisada: precaución.</p>"
+    },
     "fr": {
       "activities": [
         {
@@ -209,6 +395,192 @@
         "Milieu naturel protégé"
       ],
       "when_to_visit": "<p>Le tour du lac vaut en toute saison — vignes dorées en automne, Granier enneigé en hiver. L'été, la baignade reste tolérée mais jamais surveillée : prudence.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Il sentiero montato circonda il lago attraverso le viti, sotto la parete del Granier — camminabile tutto l'anno.",
+          "tag": "Ogni stagione",
+          "title": "Ciclo del lago"
+        },
+        {
+          "description": "2026 stagione 7 marzo – 6 dicembre; giorno, mese o anno carte, noleggio barca a €40.",
+          "tag": "€10/giorno",
+          "title": "Pesca"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The<strong>Lac Saint-André</strong>, a Les Marches (Porte-de-Savoie), formato nei detriti del crollo di Mont Granier; oggi è un reparto<strong>'Grand Site'</strong>di Savoie, immerso nel vigneto. A<strong>percorso montato passa il lago in ogni stagione</strong>, e l'accesso è gratuito.</p><p>La regola di balneazione merita una quotazione esatta: il nuoto è<strong>tollerato nella zona di svago, non supervisionato, a proprio rischio</strong>— e<strong>vietato nella zona naturale e nella zona di pesca</strong>. L'habitat è protetto: uccelli, piante e insetti protetti dalla legge, gestiti con il Conservatoire d'espaces naturels de Savoie, usi regolati dall'ordine comunale.</p><p><strong>Pesca</strong>ha i suoi prezzi pubblicati dal comune: €35 all'anno, €22 al mese, €10 al giorno, gratuito sotto 12, noleggio barca €40 — 2026 stagione da sabato 7 marzo a domenica 6 dicembre inclusi.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pesca gratuita (€10/giorno, €22/mese, €35/anno)",
+        "best_season": "Tutto l'anno per il ciclo del lago; pesca 7 marzo – 6 dicembre 2026",
+        "commune": "Porte-de-Savoie",
+        "dogs": null,
+        "parking": null,
+        "stroller": "Equipaggiata pista lacustre, utilizzabile in ogni stagione",
+        "type": "Lago naturale, Grand Site dipartimentale"
+      },
+      "faq": [
+        {
+          "a": "Il nuoto è tollerato nella zona di svago, non supervisionato, a rischio degli utenti — e vietato nella zona naturale e nella zona di pesca. Questa è la formulazione ufficiale.",
+          "q": "Riesci a nuotare?"
+        },
+        {
+          "a": "No, l'accesso al lago è gratuito. Solo la pesca è pagata: € 10 al giorno, € 22 al mese, € 35 all'anno, gratuito sotto i 12 anni.",
+          "q": "L'accesso è pagato?"
+        },
+        {
+          "a": "Sì — un percorso montato passa il lago in ogni stagione, per il comune.",
+          "q": "Puoi camminare per il lago?"
+        },
+        {
+          "a": "2026 stagione: da sabato 7 marzo a domenica 6 dicembre inclusi. Noleggio barche disponibile (€40).",
+          "q": "Quando puoi pescare?"
+        },
+        {
+          "a": "Il lago ripara molti uccelli, piante e insetti protetti dalla legge; è gestito con il Conservatoire d'espaces naturels de Savoie e regolato dall'ordine comunale.",
+          "q": "Perché il sito è protetto?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratis · Sotto il Granier",
+        "lead": "Un piccolo lago dipartimentale 'Grand Site' situato nelle viti sotto la Granier: un ciclo lacustre tutto l'anno, la pesca e il nuoto che è tollerato — mai supervisionato."
+      },
+      "hero_alt": "Lac Saint-André tra i vigneti sotto Mont Granier, Porte-de-Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "A Les Marche, tra Chambéry e Montmélian; il lago è segnalato dalla RD 1090.",
+        "public_transport": null
+      },
+      "meta_description": "L'Lac Saint-André sotto il Granier: accesso gratuito, ciclo lacustre tutto l'anno, nuoto non supervisionato tollerato, pesca 7 marzo – 6 dicembre 2026.",
+      "meta_title": "Lac Saint-André · Nuoto tollerato, vigneti, Porte-de-Savoie",
+      "name": "Lac Saint-André",
+      "name_alternates": [
+        "Lac de Saint-André"
+      ],
+      "practical_info": [
+        {
+          "k": "Indirizzo",
+          "v": "Lac Saint-André, Les Marche, 73800 Porte-de-Savoie"
+        },
+        {
+          "k": "Prezzo",
+          "v": "Accesso gratuito"
+        },
+        {
+          "k": "Nuoto",
+          "v": "Tolerata nella zona ricreativa, non supervisionata; vietata nella zona naturale e nella zona di pesca"
+        },
+        {
+          "k": "Pesca 2026",
+          "v": "7 marzo – 6 dicembre — €10/giorno, 22 €/mese, 35 €/anno, gratuito sotto i 12 anni"
+        },
+        {
+          "k": "Ciclo del lago",
+          "v": "Percorso adatto, ogni stagione"
+        }
+      ],
+      "schema_amenities": [
+        "Percorso lago-loop",
+        "Pesca (carta)",
+        "Habitat naturale protetto"
+      ],
+      "when_to_visit": "<p>Il ciclo del lago funziona in ogni stagione — viti dorate in autunno, un granier nevoso in inverno. In estate, il nuoto rimane tollerato ma mai supervisionato: cautela.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Het aangelegde pad cirkelt door het meer door de wijnstokken, onder de muur van de Granier, dat het hele jaar door te voet loopt.",
+          "tag": "Elk seizoen",
+          "title": "Meerloop"
+        },
+        {
+          "description": "2026 seizoen 7 maart 6 december; dag-, maand- of jaarkaarten, bootverhuur voor €40.",
+          "tag": "10 EUR/dag",
+          "title": "Visserij"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De<strong>Lac Saint-André</strong>, bij Les Marches (Porte-de-Savoie), gevormd in het puin van Mont Granier's ineenstorting; vandaag is het een departementaal<strong>'Grote site'</strong>van Savoie, te midden van de wijngaard. A<strong>Het meer loopt in elk seizoen</strong>, en toegang is gratis.</p><p>De badregel verdient exact citaat: zwemmen is<strong>getolereerd in de recreatiezone, zonder toezicht, op eigen risico van de gebruiker</strong>en<strong>verboden in het natuurlijke gebied en de visserijzone</strong>. De habitat is beschermd: vogels, planten en insecten beschermd door de wet, beheerd met het Conservatoire d'espaces naturels de Savoie, toepassingen geregeld door gemeentelijke orde.</p><p><strong>Visserij</strong>heeft zijn prijzen gepubliceerd door de gemeente: €35 per jaar, €22 per maand, €10 per dag, gratis onder de 12, boot huren €40 2026 seizoen van zaterdag 7 maart tot en met zondag 6 december.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis; betaalde visserij (€10/dag, €22/maand, €35/jaar)",
+        "best_season": "Het hele jaar door voor de meerloop; vissen 7 maart – 6 december 2026",
+        "commune": "Porte-de-Savoie",
+        "dogs": null,
+        "parking": null,
+        "stroller": "Fitted Lake-loop pad, bruikbaar in elk seizoen",
+        "type": "Natuurmeer, departement Grand Site"
+      },
+      "faq": [
+        {
+          "a": "Zwemmen wordt getolereerd in de recreatiezone, zonder toezicht, op eigen risico van de gebruikers en verboden in het natuurlijke gebied en de visserijzone. Dat is de officiële formulering.",
+          "q": "Kun je zwemmen?"
+        },
+        {
+          "a": "Nee, toegang tot het meer is gratis. Alleen vissen wordt betaald: €10 per dag, €22 per maand, €35 per jaar, gratis onder de 12.",
+          "q": "Wordt toegang betaald?"
+        },
+        {
+          "a": "Ja, een ingerichte route loopt het meer in elk seizoen, per gemeente.",
+          "q": "Kun je om het meer lopen?"
+        },
+        {
+          "a": "2026 seizoen: van zaterdag 7 maart tot zondag 6 december inclusief. Bootverhuur beschikbaar (€ 40).",
+          "q": "Wanneer kun je vissen?"
+        },
+        {
+          "a": "Het meer herbergt veel vogels, planten en insecten beschermd door de wet; het wordt beheerd met het Conservatoire d'espaces naturels de Savoie en gereguleerd door gemeentelijke orde.",
+          "q": "Waarom is de site beschermd?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratis · Onder de Granier",
+        "lead": "Een klein departementaal 'Grand Site' meer gelegen in de wijnstokken onder de Granier: een het hele jaar door meerlus, vissen, en zwemmen dat wordt getolereerd nooit gecontroleerd."
+      },
+      "hero_alt": "Lac Saint-André te midden van de wijngaarden onder Mont Granier, Porte-de-Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Bij Les Marches, tussen Chambéry en Montmélian; het meer wordt aangegeven vanaf de RD 1090.",
+        "public_transport": null
+      },
+      "meta_description": "De Lac Saint-André onder de Granier: gratis toegang, het hele jaar door lus van het meer, zonder toezicht getolereerd zwemmen, vissen 7 maart 6 december 2026.",
+      "meta_title": "Lac Saint-André · Getolereerd zwemmen, wijngaarden, Porte-de-Savoie",
+      "name": "Lac Saint-André",
+      "name_alternates": [
+        "Lac de Saint-André"
+      ],
+      "practical_info": [
+        {
+          "k": "Adres",
+          "v": "Lac Saint-André, Les Marches, 73800 Porte-de-Savoie"
+        },
+        {
+          "k": "Prijs",
+          "v": "Vrije toegang"
+        },
+        {
+          "k": "Zwemmen",
+          "v": "Verdraagd in de recreatiezone, zonder toezicht; verboden in het natuurlijke gebied en de visserijzone"
+        },
+        {
+          "k": "Visserij 2026",
+          "v": "7 maart – 6 december — €10/dag, €22/maand, €35/jaar, gratis onder de 12"
+        },
+        {
+          "k": "Meerloop",
+          "v": "Ingebouwd pad, elk seizoen"
+        }
+      ],
+      "schema_amenities": [
+        "Lake-looppad",
+        "Visserij (kaart)",
+        "Beschermde natuurlijke habitat"
+      ],
+      "when_to_visit": "<p>De lus van het meer werkt in elk seizoen, in de herfst, een besneeuwde Granier in de winter. In de zomer blijft zwemmen getolereerd maar nooit onder toezicht: voorzichtigheid.</p>"
     }
   },
   "latitude": 45.494167,

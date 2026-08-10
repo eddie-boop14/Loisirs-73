@@ -1,0 +1,31 @@
+{
+  "name": "Dent du Chat",
+  "commune": "Bourdeau",
+  "gps": {
+    "lat": 45.675101,
+    "lng": 5.833512
+  },
+  "type": "sentier",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": "Relais du Mont du Chat (approche courte) ou col du Chat",
+  "transport": null,
+  "season": "Été-automne ; section finale aérienne par tous temps",
+  "winter": {
+    "access": null,
+    "infrastructure": [],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
+  "official_url": "https://www.aixlesbains-rivieradesalpes.com/patrimoine-naturel/dent-du-chat-yenne/",
+  "last_verified": null
+}

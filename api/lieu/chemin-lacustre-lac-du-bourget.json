@@ -1,0 +1,38 @@
+{
+  "name": "Chemin lacustre du lac du Bourget",
+  "commune": "Tresserve",
+  "gps": {
+    "lat": 45.668052,
+    "lng": 5.89378
+  },
+  "type": "sentier",
+  "hours": "Toute l'année — 8h–17h selon Savoie Mont Blanc, sans horaires selon l'OT",
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": {
+    "status": "accessible",
+    "detail": "« Accessible en fauteuil roulant en autonomie », selon la fiche du Département (patrimoines.savoie.fr).",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_url": "https://patrimoines.savoie.fr/web/3565_DBEvenement/promenade-confort-chemin-lacustre",
+    "source_name": "patrimoines.savoie.fr"
+  },
+  "parking": "Trois départs : base nautique d'Aix-les-Bains, plage du Lido, parking Les Mottets",
+  "transport": null,
+  "season": "Toute l'année — de 8h à 17h selon Savoie Mont Blanc",
+  "winter": {
+    "access": "open",
+    "infrastructure": [],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
+  "official_url": "https://patrimoines.savoie.fr/web/3565_DBEvenement/promenade-confort-chemin-lacustre",
+  "last_verified": null
+}

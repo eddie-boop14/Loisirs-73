@@ -1,8 +1,8 @@
 # Loisirs 73
 
-> Independent guide to public leisure sites in Savoie, France. Waterfalls, Castles, Lakes, Museums, Beaches, Mountain passes and viewpoints, Cable cars and lifts — every fact verified against official sources (communes, tourism offices, ONF).
+> Independent guide to public leisure sites in Savoie, France. Waterfalls, Castles, Lakes, Museums, Beaches, Mountain passes and viewpoints, Trails, Cable cars and lifts — every fact verified against official sources (communes, tourism offices, ONF).
 
-Loisirs 73 catalogs 58 leisure destinations in the Savoie department (73), French Alps. Each destination exposes three machine surfaces (below) plus HTML pages in 6 languages (French canonical).
+Loisirs 73 catalogs 65 leisure destinations in the Savoie department (73), French Alps. Each destination exposes three machine surfaces (below) plus HTML pages in 6 languages (French canonical).
 
 ## URL patterns (per lieu — fastest lane for agents)
 
@@ -33,7 +33,7 @@ Content quality signals: Every fact has a cited source. No marketing language. I
 
 ## Discovery files
 
-- [llms-full.txt — full content concatenated](https://loisirs73.fr/llms-full.txt): All 58 leisure sites' FR facet md — single file for full ingestion.
+- [llms-full.txt — full content concatenated](https://loisirs73.fr/llms-full.txt): All 65 leisure sites' FR facet md — single file for full ingestion.
 - [API — lieux index JSON](https://loisirs73.fr/api/lieux.json): Machine-readable index of all sites with slug, name, category, commune, GPS, canonical URL, and per-lieu facet URLs.
 - [Sitemap index](https://loisirs73.fr/sitemap.xml): Standard XML sitemap with lastmod, hreflang, image entries.
 - [.well-known/ai-info.json](https://loisirs73.fr/.well-known/ai-info.json): Discovery manifest with all AI-related endpoints.
@@ -58,9 +58,10 @@ Use these when the question spans many sites (e.g. "which waterfalls have parkin
 - [Points de vue](https://loisirs73.fr/content/points-de-vue.md): 15 lieux.
 - [Téléphériques & télécabines](https://loisirs73.fr/content/telecabines.md): 15 lieux.
 - [Châteaux](https://loisirs73.fr/content/chateaux.md): 7 lieux.
+- [Sentiers](https://loisirs73.fr/content/sentiers.md): 7 lieux.
 - [Musées](https://loisirs73.fr/content/musees.md): 7 lieux.
 
-## All lieux by category (58 total)
+## All lieux by category (65 total)
 
 ### Lacs & plages (7 lieux)
 
@@ -127,6 +128,16 @@ Use these when the question spans many sites (e.g. "which waterfalls have parkin
 - [Fort Victor-Emmanuel (Aussois)](https://loisirs73.fr/content/fort-victor-emmanuel-aussois.md): Le fort Victor-Emmanuel à Aussois, pièce maîtresse de la barrière de l'Esseillon : accès libre toute l'année, place d'armes, chapelle, pénitencier.…
 - [Redoute Marie-Thérèse (Avrieux)](https://loisirs73.fr/content/redoute-marie-therese-avrieux.md): La redoute Marie-Thérèse à Avrieux, fort sarde de l'Esseillon devenu centre d'interprétation : horaires, tarifs 2026 et accessibilité, aux sources…
 - [Tours de Chignin (Chignin)](https://loisirs73.fr/content/tours-de-chignin.md): Les tours de Chignin, Monument historique dans le vignoble savoyard : sept tours selon le Département, boucle très facile de 3,3 km. Sources…
+
+### Sentiers (7 lieux)
+
+- [Chemin du Petit Bonheur (Modane)](https://loisirs73.fr/content/chemin-du-petit-bonheur.md): Le chemin du Petit Bonheur en Haute Maurienne Vanoise : piste ancestrale de village en village, 40 à 50 km selon l'OT, familial, balisé jaune.…
+- [Chemin lacustre du lac du Bourget (Tresserve)](https://loisirs73.fr/content/chemin-lacustre-lac-du-bourget.md): Le chemin lacustre du lac du Bourget : 4 km à fleur d'eau entre Aix-les-Bains, Tresserve et Viviers-du-Lac, accessible en fauteuil en autonomie.…
+- [Croix du Nivolet depuis le Plateau Sud (Les Déserts)](https://loisirs73.fr/content/croix-du-nivolet-la-feclaz.md): La croix du Nivolet depuis le Plateau Sud (La Féclaz) : boucle de 9,2 km, panorama à 360° sur Chambéry, version raquettes l'hiver. Sources…
+- [Dent du Chat (Bourdeau)](https://loisirs73.fr/content/dent-du-chat-col-du-chat.md): La Dent du Chat (1 390 m) au-dessus du lac du Bourget : trois itinéraires officiels, 2h à 6h, section finale aérienne déconseillée aux enfants.…
+- [Lac des Vaches (Pralognan-la-Vanoise)](https://loisirs73.fr/content/lac-des-vaches-pralognan.md): Le lac des Vaches à Pralognan-la-Vanoise : 8 km aller-retour depuis les Fontanettes, +680 m, sur la route du Sel et vers le col de la Vanoise.…
+- [Sentier artistique de Hautecour (Hautecour)](https://loisirs73.fr/content/sentier-artistique-hautecour.md): Le sentier artistique de Hautecour en Tarentaise : Land'Art renouvelé chaque printemps, boucle facile de 4,3 km ou version confort de 700 m. Sources…
+- [Tour du lac d'Aiguebelette à pied (Lépin-le-Lac)](https://loisirs73.fr/content/tour-du-lac-aiguebelette.md): Le tour du lac d'Aiguebelette à pied : 3 jours, 60,4 km, +2 467 m, classé difficile — à ne pas confondre avec la boucle cyclo de 17 km. Sources…
 
 ### Musées (7 lieux)
 

@@ -1,5 +1,5 @@
 {
-  "count": 58,
+  "count": 65,
   "lieux": [
     {
       "slug": "base-de-loisirs-gresy-sur-isere",
@@ -168,6 +168,48 @@
       "facet_md_en": "https://loisirs73.fr/content/en/chateau-des-ducs-de-savoie-chambery.md",
       "facet_json": "https://loisirs73.fr/api/lieu/chateau-des-ducs-de-savoie-chambery.json",
       "photo": "/img/generique/generique-chateau.jpg"
+    },
+    {
+      "slug": "chemin-du-petit-bonheur",
+      "name": "Chemin du Petit Bonheur",
+      "category": "sentier",
+      "commune": "Modane",
+      "postal_code": "73500",
+      "latitude": null,
+      "longitude": null,
+      "urls": {
+        "fr": "https://loisirs73.fr/chemin-du-petit-bonheur",
+        "en": "https://loisirs73.fr/en/chemin-du-petit-bonheur",
+        "de": "https://loisirs73.fr/de/chemin-du-petit-bonheur",
+        "it": "https://loisirs73.fr/it/chemin-du-petit-bonheur",
+        "es": "https://loisirs73.fr/es/chemin-du-petit-bonheur",
+        "nl": "https://loisirs73.fr/nl/chemin-du-petit-bonheur"
+      },
+      "facet_md": "https://loisirs73.fr/content/chemin-du-petit-bonheur.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/chemin-du-petit-bonheur.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/chemin-du-petit-bonheur.json",
+      "photo": "/img/generique/generique-sentier-melezes-automne.jpg"
+    },
+    {
+      "slug": "chemin-lacustre-lac-du-bourget",
+      "name": "Chemin lacustre du lac du Bourget",
+      "category": "sentier",
+      "commune": "Tresserve",
+      "postal_code": "73100",
+      "latitude": 45.668052,
+      "longitude": 5.89378,
+      "urls": {
+        "fr": "https://loisirs73.fr/chemin-lacustre-lac-du-bourget",
+        "en": "https://loisirs73.fr/en/chemin-lacustre-lac-du-bourget",
+        "de": "https://loisirs73.fr/de/chemin-lacustre-lac-du-bourget",
+        "it": "https://loisirs73.fr/it/chemin-lacustre-lac-du-bourget",
+        "es": "https://loisirs73.fr/es/chemin-lacustre-lac-du-bourget",
+        "nl": "https://loisirs73.fr/nl/chemin-lacustre-lac-du-bourget"
+      },
+      "facet_md": "https://loisirs73.fr/content/chemin-lacustre-lac-du-bourget.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/chemin-lacustre-lac-du-bourget.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/chemin-lacustre-lac-du-bourget.json",
+      "photo": "/img/generique/generique-sentier-automne-orange.jpg"
     },
     {
       "slug": "cirque-de-saint-meme",
@@ -485,6 +527,48 @@
       "photo": "/img/points-de-vue/cormet-de-roselend-hero.jpg"
     },
     {
+      "slug": "croix-du-nivolet-la-feclaz",
+      "name": "Croix du Nivolet depuis le Plateau Sud",
+      "category": "sentier",
+      "commune": "Les Déserts",
+      "postal_code": "73230",
+      "latitude": 45.613564,
+      "longitude": 5.965568,
+      "urls": {
+        "fr": "https://loisirs73.fr/croix-du-nivolet-la-feclaz",
+        "en": "https://loisirs73.fr/en/croix-du-nivolet-la-feclaz",
+        "de": "https://loisirs73.fr/de/croix-du-nivolet-la-feclaz",
+        "it": "https://loisirs73.fr/it/croix-du-nivolet-la-feclaz",
+        "es": "https://loisirs73.fr/es/croix-du-nivolet-la-feclaz",
+        "nl": "https://loisirs73.fr/nl/croix-du-nivolet-la-feclaz"
+      },
+      "facet_md": "https://loisirs73.fr/content/croix-du-nivolet-la-feclaz.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/croix-du-nivolet-la-feclaz.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/croix-du-nivolet-la-feclaz.json",
+      "photo": "/img/generique/generique-sentier-sommet-panorama.jpg"
+    },
+    {
+      "slug": "dent-du-chat-col-du-chat",
+      "name": "Dent du Chat",
+      "category": "sentier",
+      "commune": "Bourdeau",
+      "postal_code": "73370",
+      "latitude": 45.675101,
+      "longitude": 5.833512,
+      "urls": {
+        "fr": "https://loisirs73.fr/dent-du-chat-col-du-chat",
+        "en": "https://loisirs73.fr/en/dent-du-chat-col-du-chat",
+        "de": "https://loisirs73.fr/de/dent-du-chat-col-du-chat",
+        "it": "https://loisirs73.fr/it/dent-du-chat-col-du-chat",
+        "es": "https://loisirs73.fr/es/dent-du-chat-col-du-chat",
+        "nl": "https://loisirs73.fr/nl/dent-du-chat-col-du-chat"
+      },
+      "facet_md": "https://loisirs73.fr/content/dent-du-chat-col-du-chat.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/dent-du-chat-col-du-chat.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/dent-du-chat-col-du-chat.json",
+      "photo": "/img/generique/generique-sentier-arete-alpine.jpg"
+    },
+    {
       "slug": "espace-alu-saint-michel-de-maurienne",
       "name": "Espace Alu",
       "category": "musee",
@@ -630,6 +714,27 @@
       "facet_md_en": "https://loisirs73.fr/content/en/lac-de-carouge-saint-pierre-d-albigny.md",
       "facet_json": "https://loisirs73.fr/api/lieu/lac-de-carouge-saint-pierre-d-albigny.json",
       "photo": "/img/generique/generique-lac-coucher-soleil.jpg"
+    },
+    {
+      "slug": "lac-des-vaches-pralognan",
+      "name": "Lac des Vaches",
+      "category": "sentier",
+      "commune": "Pralognan-la-Vanoise",
+      "postal_code": "73710",
+      "latitude": 45.398016,
+      "longitude": 6.776462,
+      "urls": {
+        "fr": "https://loisirs73.fr/lac-des-vaches-pralognan",
+        "en": "https://loisirs73.fr/en/lac-des-vaches-pralognan",
+        "de": "https://loisirs73.fr/de/lac-des-vaches-pralognan",
+        "it": "https://loisirs73.fr/it/lac-des-vaches-pralognan",
+        "es": "https://loisirs73.fr/es/lac-des-vaches-pralognan",
+        "nl": "https://loisirs73.fr/nl/lac-des-vaches-pralognan"
+      },
+      "facet_md": "https://loisirs73.fr/content/lac-des-vaches-pralognan.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/lac-des-vaches-pralognan.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/lac-des-vaches-pralognan.json",
+      "photo": "/img/generique/generique-sentier-foret-alpine.jpg"
     },
     {
       "slug": "lac-saint-andre-porte-de-savoie",
@@ -861,6 +966,27 @@
       "facet_md_en": "https://loisirs73.fr/content/en/redoute-marie-therese-avrieux.md",
       "facet_json": "https://loisirs73.fr/api/lieu/redoute-marie-therese-avrieux.json",
       "photo": "/img/generique/generique-chateau.jpg"
+    },
+    {
+      "slug": "sentier-artistique-hautecour",
+      "name": "Sentier artistique de Hautecour",
+      "category": "sentier",
+      "commune": "Hautecour",
+      "postal_code": "73600",
+      "latitude": 45.506831,
+      "longitude": 6.545049,
+      "urls": {
+        "fr": "https://loisirs73.fr/sentier-artistique-hautecour",
+        "en": "https://loisirs73.fr/en/sentier-artistique-hautecour",
+        "de": "https://loisirs73.fr/de/sentier-artistique-hautecour",
+        "it": "https://loisirs73.fr/it/sentier-artistique-hautecour",
+        "es": "https://loisirs73.fr/es/sentier-artistique-hautecour",
+        "nl": "https://loisirs73.fr/nl/sentier-artistique-hautecour"
+      },
+      "facet_md": "https://loisirs73.fr/content/sentier-artistique-hautecour.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/sentier-artistique-hautecour.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/sentier-artistique-hautecour.json",
+      "photo": "/img/generique/generique-sentier-foret.jpg"
     },
     {
       "slug": "signal-de-bisanne",
@@ -1155,6 +1281,27 @@
       "facet_md_en": "https://loisirs73.fr/content/en/telepherique-du-mont-bochor.md",
       "facet_json": "https://loisirs73.fr/api/lieu/telepherique-du-mont-bochor.json",
       "photo": "/img/telecabines/telepherique-du-mont-bochor-hero.jpg"
+    },
+    {
+      "slug": "tour-du-lac-aiguebelette",
+      "name": "Tour du lac d'Aiguebelette à pied",
+      "category": "sentier",
+      "commune": "Lépin-le-Lac",
+      "postal_code": "73610",
+      "latitude": 45.554778,
+      "longitude": 5.797009,
+      "urls": {
+        "fr": "https://loisirs73.fr/tour-du-lac-aiguebelette",
+        "en": "https://loisirs73.fr/en/tour-du-lac-aiguebelette",
+        "de": "https://loisirs73.fr/de/tour-du-lac-aiguebelette",
+        "it": "https://loisirs73.fr/it/tour-du-lac-aiguebelette",
+        "es": "https://loisirs73.fr/es/tour-du-lac-aiguebelette",
+        "nl": "https://loisirs73.fr/nl/tour-du-lac-aiguebelette"
+      },
+      "facet_md": "https://loisirs73.fr/content/tour-du-lac-aiguebelette.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/tour-du-lac-aiguebelette.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/tour-du-lac-aiguebelette.json",
+      "photo": "/img/generique/generique-sentier.jpg"
     },
     {
       "slug": "tours-de-chignin",

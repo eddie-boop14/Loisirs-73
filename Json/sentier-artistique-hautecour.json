@@ -1,0 +1,243 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-10",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "sentier",
+  "commune": "Hautecour",
+  "date_modified_human": "10 août 2026",
+  "date_published_human": "10 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-10",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-sentier-foret.jpg",
+  "i18n": {
+    "en": {
+      "activities": [
+        {
+          "description": "The big land-art loop: 2h30 of easy walking around the Hautecour lake, +222 m, PR waymarking.",
+          "tag": "4.3 km",
+          "title": "Liberté loop"
+        },
+        {
+          "description": "The short version labelled by the Département: 40 minutes, +40 m, closest to the works.",
+          "tag": "700 m",
+          "title": "Promenade Confort"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Above Moûtiers, the <strong>Hautecour artistic trail</strong> — Lez'Arts en Adret — displays <strong>land-art works in natural materials, whose themes are renewed each spring</strong>, around and from the Hautecour lake. The trail has been <strong>labelled 'Promenade Savoyarde de Découverte' and 'Promenade confort'</strong> by the Département de la Savoie since 2014.</p><p>Two waymarked formats: the <strong>Liberté loop</strong>, 4.3 km, 2h30, +222 m, rated easy with PR waymarking; and a <strong>700 m 'Promenade Confort'</strong>, 40 minutes, +40 m, for pushchairs and short legs.</p><p>Access is from Moûtiers via the D85 towards Hautecour, parking near the plan d'eau. Free, as befits an open-air museum.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free",
+        "best_season": "Spring to autumn — the works are renewed each spring",
+        "commune": "Hautecour",
+        "dogs": null,
+        "parking": "Near the plan d'eau (la Trappe)",
+        "stroller": "700 m 'Promenade Confort' variant",
+        "type": "Labelled artistic trail",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Works in natural materials installed along the route, with themes renewed each spring — so the visit changes from one year to the next.",
+          "q": "What is the trail's land art?"
+        },
+        {
+          "a": "The Liberté loop is 4.3 km, 2h30, +222 m, rated easy. A 700 m 'Promenade Confort' variant (40 minutes, +40 m) also exists.",
+          "q": "How long is the loop?"
+        },
+        {
+          "a": "Yes: 'Promenade Savoyarde de Découverte' and 'Promenade confort' by the Département de la Savoie, since 2014.",
+          "q": "Is the trail labelled?"
+        },
+        {
+          "a": "Near the plan d'eau (la Trappe), at the trailhead. From Moûtiers, take the D85 towards Hautecour.",
+          "q": "Where do you park?"
+        },
+        {
+          "a": "No — no price is published: the trail is freely accessible.",
+          "q": "Is there a fee?"
+        }
+      ],
+      "hero": {
+        "badge": "Free · Tarentaise",
+        "lead": "Land-art works in natural materials, renewed each spring around the Hautecour lake: the 4.3 km Liberté loop, or a 700 m comfort walk."
+      },
+      "hero_alt": "Hautecour artistic trail and its land art, Tarentaise, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "From Moûtiers, D85 towards Hautecour; parking near the plan d'eau.",
+        "public_transport": null
+      },
+      "meta_description": "The Hautecour artistic trail in the Tarentaise: land art renewed each spring, an easy 4.3 km loop or a 700 m comfort version. Official sources only.",
+      "meta_title": "Hautecour artistic trail · Land art, easy loop",
+      "name": "Hautecour artistic trail",
+      "name_alternates": [
+        "Lez'Arts en Adret"
+      ],
+      "practical_info": [
+        {
+          "k": "Trailhead",
+          "v": "Plan d'eau de la Trappe, 73600 Hautecour"
+        },
+        {
+          "k": "Liberté loop",
+          "v": "4.3 km, 2h30, +222 m — easy, PR waymarking"
+        },
+        {
+          "k": "Promenade Confort",
+          "v": "700 m, 40 minutes, +40 m"
+        },
+        {
+          "k": "Labels",
+          "v": "Promenade Savoyarde de Découverte + Promenade confort (Département, since 2014)"
+        },
+        {
+          "k": "Access",
+          "v": "From Moûtiers via the D85"
+        }
+      ],
+      "schema_amenities": [
+        "Free",
+        "Land art renewed each spring",
+        "700 m comfort variant"
+      ],
+      "when_to_visit": "<p>Spring to autumn — and preferably after the spring renewal of the works, to discover the year's themes.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "La grande boucle du Land'Art : 2h30 de marche facile autour du lac d'Hautecour, +222 m, balisage PR.",
+          "tag": "4,3 km",
+          "title": "Boucle Liberté"
+        },
+        {
+          "description": "La version courte labellisée par le Département : 40 minutes, +40 m, au plus près des œuvres.",
+          "tag": "700 m",
+          "title": "Promenade Confort"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Au-dessus de Moûtiers, le <strong>sentier artistique de Hautecour</strong> — Lez'Arts en Adret — expose des <strong>œuvres de Land'Art en matériaux naturels, dont les thèmes sont renouvelés chaque printemps</strong>, autour et au départ du lac d'Hautecour. Le sentier est <strong>labellisé depuis 2014 « Promenade Savoyarde de Découverte » et « Promenade confort »</strong> par le Département de la Savoie.</p><p>Deux formats balisés : la <strong>boucle Liberté</strong>, 4,3 km, 2h30, +222 m, classée facile en balisage PR ; et une <strong>« Promenade Confort » de 700 m</strong>, 40 minutes, +40 m, pour les poussettes et les jambes courtes.</p><p>L'accès se fait depuis Moûtiers par la D85 en direction de Hautecour, parking à proximité du plan d'eau. Gratuit, comme il se doit pour un musée à ciel ouvert.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Libre et gratuit",
+        "best_season": "Du printemps à l'automne — les œuvres sont renouvelées chaque printemps",
+        "commune": "Hautecour",
+        "dogs": null,
+        "parking": "À proximité du plan d'eau (la Trappe)",
+        "stroller": "Variante « Promenade Confort » de 700 m",
+        "type": "Sentier artistique labellisé",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Des œuvres en matériaux naturels installées le long du parcours, dont les thèmes sont renouvelés chaque printemps — la visite change donc d'une année à l'autre.",
+          "q": "Qu'est-ce que le Land'Art du sentier ?"
+        },
+        {
+          "a": "La boucle Liberté fait 4,3 km, 2h30, +222 m, classée facile. Une variante « Promenade Confort » de 700 m (40 minutes, +40 m) existe aussi.",
+          "q": "Quelle est la longueur de la boucle ?"
+        },
+        {
+          "a": "Oui : « Promenade Savoyarde de Découverte » et « Promenade confort » par le Département de la Savoie, depuis 2014.",
+          "q": "Le sentier est-il labellisé ?"
+        },
+        {
+          "a": "À proximité du plan d'eau (la Trappe), au départ du sentier. Depuis Moûtiers, prendre la D85 en direction de Hautecour.",
+          "q": "Où se garer ?"
+        },
+        {
+          "a": "Non — aucun tarif n'est publié : le sentier est en accès libre.",
+          "q": "L'accès est-il payant ?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratuit · Tarentaise",
+        "lead": "Des œuvres de Land'Art en matériaux naturels, renouvelées chaque printemps autour du lac d'Hautecour : boucle Liberté de 4,3 km, ou promenade confort de 700 m."
+      },
+      "hero_alt": "Sentier artistique de Hautecour et son Land'Art, Tarentaise, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Depuis Moûtiers, D85 en direction de Hautecour ; parking à proximité du plan d'eau.",
+        "public_transport": null
+      },
+      "meta_description": "Le sentier artistique de Hautecour en Tarentaise : Land'Art renouvelé chaque printemps, boucle facile de 4,3 km ou version confort de 700 m. Sources officielles.",
+      "meta_title": "Sentier artistique de Hautecour · Land'Art, boucle facile",
+      "name": "Sentier artistique de Hautecour",
+      "name_alternates": [
+        "Lez'Arts en Adret"
+      ],
+      "practical_info": [
+        {
+          "k": "Départ",
+          "v": "Plan d'eau de la Trappe, 73600 Hautecour"
+        },
+        {
+          "k": "Boucle Liberté",
+          "v": "4,3 km, 2h30, +222 m — facile, balisage PR"
+        },
+        {
+          "k": "Promenade Confort",
+          "v": "700 m, 40 minutes, +40 m"
+        },
+        {
+          "k": "Labels",
+          "v": "Promenade Savoyarde de Découverte + Promenade confort (Département, depuis 2014)"
+        },
+        {
+          "k": "Accès",
+          "v": "Depuis Moûtiers par la D85"
+        }
+      ],
+      "schema_amenities": [
+        "Gratuit",
+        "Land'Art renouvelé chaque printemps",
+        "Variante confort 700 m"
+      ],
+      "when_to_visit": "<p>Du printemps à l'automne — et de préférence après le renouvellement printanier des œuvres, pour découvrir les thèmes de l'année.</p>"
+    }
+  },
+  "latitude": 45.506831,
+  "longitude": 6.545049,
+  "official_site_url": "https://rando.vanoise.com/fr/trek/59587-Sentier-artistique-de-Hautecour---Boucle-Liberte",
+  "partners": [],
+  "postal_code": "73600",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-10, official sources: rando.vanoise.com (Parc portal) + Cœur de Tarentaise. Labelled 'Promenade Savoyarde de Découverte' and 'Promenade confort' by the Département since 2014 — the label is on file, but no explicit wheelchair statement exists, so acces_pmr stays null with the UNVERIFIED flag rather than being inferred from the label. Coordinates: IGN POI 'Plan d'Eau de la Trappe' (the trail starts at the plan d'eau car park).",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "sentier-artistique-hautecour",
+  "sources": [
+    "https://rando.vanoise.com/fr/trek/59587-Sentier-artistique-de-Hautecour---Boucle-Liberte",
+    "https://www.coeurdetarentaise.fr/sentiers/",
+    "https://data.geopf.fr/geocodage/search?q=la+Trappe+Hautecour&index=poi&limit=2"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "ACCES_PMR_UNVERIFIED — no official accessibility source found for this site. Status stays null rather than being inferred from the terrain."
+  ]
+}

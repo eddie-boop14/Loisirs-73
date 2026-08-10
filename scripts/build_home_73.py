@@ -33,7 +33,8 @@ SECTIONS = [("point-de-vue", {"fr": "Cols et points de vue", "en": "Passes and v
             ("chateau", {"fr": "Châteaux et forts", "en": "Castles and forts"}),
             ("musee", {"fr": "Musées", "en": "Museums"}),
             # lac + plage share one homepage section, mirroring the lacs-plages hub
-            (("lac", "plage"), {"fr": "Lacs et plages", "en": "Lakes and beaches"})]
+            (("lac", "plage"), {"fr": "Lacs et plages", "en": "Lakes and beaches"}),
+            ("sentier", {"fr": "Sentiers et randonnées", "en": "Trails and hikes"})]
 UI = {
  "tagline": {"fr": "La Savoie, lieu par lieu.", "en": "Savoie, place by place."},
  "lede": {"fr": "Un guide indépendant des lieux de loisirs en Savoie. Chaque fait est vérifié auprès d'une "

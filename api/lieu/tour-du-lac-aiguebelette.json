@@ -1,0 +1,31 @@
+{
+  "name": "Tour du lac d'Aiguebelette à pied",
+  "commune": "Lépin-le-Lac",
+  "gps": {
+    "lat": 45.554778,
+    "lng": 5.797009
+  },
+  "type": "sentier",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": "Départ possible de la gare de Lépin-le-Lac",
+  "transport": null,
+  "season": "Toute l'année selon la fiche de la boucle cyclo ; trek à la belle saison",
+  "winter": {
+    "access": null,
+    "infrastructure": [],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
+  "official_url": "https://www.lac-aiguebelette.com/itineraires-randonnee/tour-du-lac-daiguebelette-rando-pedestre-3-jours-7698623/",
+  "last_verified": null
+}

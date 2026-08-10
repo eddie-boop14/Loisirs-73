@@ -1,0 +1,242 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-10",
+    "confidence": "declarative",
+    "detail": "« Accessible en fauteuil roulant en autonomie », selon la fiche du Département (patrimoines.savoie.fr).",
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": "patrimoines.savoie.fr",
+    "source_url": "https://patrimoines.savoie.fr/web/3565_DBEvenement/promenade-confort-chemin-lacustre",
+    "status": "accessible",
+    "tourisme_handicap": null
+  },
+  "category": "sentier",
+  "commune": "Tresserve",
+  "date_modified_human": "10 août 2026",
+  "date_published_human": "10 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-10",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-sentier-automne-orange.jpg",
+  "i18n": {
+    "en": {
+      "activities": [
+        {
+          "description": "An entire shore of the Lac du Bourget, won back from the inaccessible: 1h30 of flat walking between green spaces and terraces.",
+          "tag": "4 km",
+          "title": "Water-level walk"
+        },
+        {
+          "description": "Green-easy level and 6 m of elevation: the walk suits pushchairs and wheelchairs alike, without assistance.",
+          "tag": "Pushchairs",
+          "title": "Family stroll from the Lido"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>chemin lacustre</strong> hands walkers <strong>an entire shore of the Lac du Bourget</strong>, at water level: <strong>4 km, about 1h30, 6 m of elevation</strong>, rated 'niveau vert - facile' as a comfort walk. A shore 'formerly inaccessible', the official sources recall, returned to walkers by the shoreline development programme.</p><p>Three official starts: the <strong>Aix-les-Bains nautical base car park</strong>, the <strong>Lido beach car park</strong> at Tresserve, and the <strong>Les Mottets car park</strong> at Viviers-du-Lac. Green spaces and terraces line the route, touching the water.</p><p>The path is <strong>wheelchair accessible without assistance</strong>, per the Département's listing. On hours, a small divergence to flag: the tourist office publishes 'year-round, every day' with no times, Savoie Mont Blanc 'year-round 8:00–17:00'. We give both.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free",
+        "best_season": "Year-round — 8:00–17:00 per Savoie Mont Blanc",
+        "commune": "Tresserve",
+        "dogs": null,
+        "parking": "Three starts: Aix-les-Bains nautical base, Lido beach, Les Mottets car park",
+        "stroller": "Comfort walk, green-easy level, 6 m of elevation",
+        "type": "Lakeside comfort walk",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "4 km, about 1h30, for only 6 m of elevation — a comfort walk rated green-easy.",
+          "q": "How long is the walk?"
+        },
+        {
+          "a": "Yes: 'Accessible en fauteuil roulant en autonomie', per the Département de la Savoie's listing.",
+          "q": "Is the path wheelchair accessible?"
+        },
+        {
+          "a": "Three official starts: the Aix-les-Bains nautical base, the Lido beach at Tresserve, and the Les Mottets car park at Viviers-du-Lac.",
+          "q": "Where can you start?"
+        },
+        {
+          "a": "The tourist office says 'year-round, every day' with no times; Savoie Mont Blanc publishes 'year-round 8:00–17:00'. The sources differ and we flag it.",
+          "q": "What are the hours?"
+        },
+        {
+          "a": "This shore of the lake was closed to walkers before the development programme; it 'regains great attractiveness and quality today', per the official source.",
+          "q": "Why 'formerly inaccessible shore'?"
+        }
+      ],
+      "hero": {
+        "badge": "Free · Lac du Bourget",
+        "lead": "Four kilometres at water level along a once-inaccessible shore of the Lac du Bourget — a green-easy comfort walk, wheelchair accessible without assistance."
+      },
+      "hero_alt": "Lakeside path at water level on the Lac du Bourget's shore",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Three official car parks: Aix-les-Bains nautical base, Lido beach at Tresserve, Les Mottets at Viviers-du-Lac.",
+        "public_transport": null
+      },
+      "meta_description": "The Lac du Bourget's lakeside path: 4 km at water level between Aix-les-Bains, Tresserve and Viviers-du-Lac, wheelchair accessible without assistance.",
+      "meta_title": "Chemin lacustre · Lac du Bourget comfort walk, 4 km",
+      "name": "Lac du Bourget lakeside path",
+      "name_alternates": [
+        "Promenade confort : Chemin lacustre"
+      ],
+      "practical_info": [
+        {
+          "k": "Route",
+          "v": "4 km, ≈1h30, 6 m of elevation — green-easy level"
+        },
+        {
+          "k": "Starts",
+          "v": "Nautical base (Aix-les-Bains), Lido beach (Tresserve), Les Mottets (Viviers-du-Lac)"
+        },
+        {
+          "k": "Price",
+          "v": "Free"
+        },
+        {
+          "k": "Hours",
+          "v": "Year-round — 8:00–17:00 per Savoie Mont Blanc, no times per the tourist office"
+        },
+        {
+          "k": "Accessibility",
+          "v": "Wheelchair without assistance (Département)"
+        }
+      ],
+      "schema_amenities": [
+        "Wheelchair accessible without assistance",
+        "Three starting car parks",
+        "Green spaces and terraces"
+      ],
+      "when_to_visit": "<p>Year-round — the shore faces west, and summer late afternoons turn golden. Savoie Mont Blanc bounds the walk 8:00–17:00; the tourist office publishes no times.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Une berge entière du lac du Bourget, gagnée sur l'inaccessible : 1h30 de marche plate entre espaces verts et terrasses.",
+          "tag": "4 km",
+          "title": "Promenade à fleur d'eau"
+        },
+        {
+          "description": "Niveau vert-facile et 6 m de dénivelé : la promenade se prête aux poussettes comme aux fauteuils, en autonomie.",
+          "tag": "Poussettes",
+          "title": "Boucle famille depuis le Lido"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Le <strong>chemin lacustre</strong> livre aux promeneurs <strong>une berge entière du lac du Bourget</strong>, à fleur d'eau : <strong>4 km, environ 1h30, 6 m de dénivelé</strong>, classés « niveau vert - facile » en promenade confort. Une berge « autrefois inaccessible », rappellent les sources officielles, rendue aux marcheurs par le programme d'aménagement des rives.</p><p>Trois départs officiels : le <strong>parking de la base nautique d'Aix-les-Bains</strong>, le <strong>parking de la plage du Lido</strong> à Tresserve, et le <strong>parking Les Mottets</strong> à Viviers-du-Lac. Espaces verts et terrasses jalonnent le parcours, à toucher l'eau.</p><p>Le chemin est <strong>accessible en fauteuil roulant en autonomie</strong>, selon la fiche du Département. Sur les horaires, petite divergence à signaler : l'office de tourisme publie « toute l'année tous les jours » sans horaires, Savoie Mont Blanc « toute l'année de 8h à 17h ». Nous donnons les deux.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuit",
+        "best_season": "Toute l'année — de 8h à 17h selon Savoie Mont Blanc",
+        "commune": "Tresserve",
+        "dogs": null,
+        "parking": "Trois départs : base nautique d'Aix-les-Bains, plage du Lido, parking Les Mottets",
+        "stroller": "Promenade confort, niveau vert-facile, 6 m de dénivelé",
+        "type": "Promenade confort au bord du lac",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "4 km, environ 1h30, pour 6 m de dénivelé seulement — une promenade confort classée verte-facile.",
+          "q": "Combien de temps dure la promenade ?"
+        },
+        {
+          "a": "Oui : « Accessible en fauteuil roulant en autonomie », selon la fiche du Département de la Savoie.",
+          "q": "Le chemin est-il accessible en fauteuil roulant ?"
+        },
+        {
+          "a": "Trois départs officiels : la base nautique d'Aix-les-Bains, la plage du Lido à Tresserve, et le parking Les Mottets à Viviers-du-Lac.",
+          "q": "D'où peut-on partir ?"
+        },
+        {
+          "a": "L'office de tourisme dit « toute l'année tous les jours » sans préciser d'horaires ; Savoie Mont Blanc publie « toute l'année de 8h à 17h ». Les deux sources divergent et nous le signalons.",
+          "q": "Quels sont les horaires ?"
+        },
+        {
+          "a": "Cette rive du lac était fermée aux promeneurs avant le programme d'aménagement ; elle « retrouve aujourd'hui une grande attractivité et qualité », selon la source officielle.",
+          "q": "Pourquoi « berge autrefois inaccessible » ?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratuit · Lac du Bourget",
+        "lead": "Quatre kilomètres à fleur d'eau sur une berge autrefois inaccessible du lac du Bourget — promenade confort classée verte-facile, accessible en fauteuil roulant en autonomie."
+      },
+      "hero_alt": "Chemin lacustre à fleur d'eau sur la rive du lac du Bourget",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Trois parkings officiels : base nautique d'Aix-les-Bains, plage du Lido à Tresserve, Les Mottets à Viviers-du-Lac.",
+        "public_transport": null
+      },
+      "meta_description": "Le chemin lacustre du lac du Bourget : 4 km à fleur d'eau entre Aix-les-Bains, Tresserve et Viviers-du-Lac, accessible en fauteuil en autonomie. Sources officielles.",
+      "meta_title": "Chemin lacustre · Promenade confort du lac du Bourget, 4 km",
+      "name": "Chemin lacustre du lac du Bourget",
+      "name_alternates": [
+        "Promenade confort : Chemin lacustre"
+      ],
+      "practical_info": [
+        {
+          "k": "Parcours",
+          "v": "4 km, ≈1h30, 6 m de dénivelé — niveau vert-facile"
+        },
+        {
+          "k": "Départs",
+          "v": "Base nautique (Aix-les-Bains), plage du Lido (Tresserve), Les Mottets (Viviers-du-Lac)"
+        },
+        {
+          "k": "Tarif",
+          "v": "Gratuit"
+        },
+        {
+          "k": "Horaires",
+          "v": "Toute l'année — 8h–17h selon Savoie Mont Blanc, sans horaires selon l'OT"
+        },
+        {
+          "k": "Accessibilité",
+          "v": "Fauteuil roulant en autonomie (Département)"
+        }
+      ],
+      "schema_amenities": [
+        "Accessible en fauteuil en autonomie",
+        "Trois parkings de départ",
+        "Espaces verts et terrasses"
+      ],
+      "when_to_visit": "<p>Toute l'année — la berge est plein ouest, les fins d'après-midi d'été y sont dorées. Savoie Mont Blanc borne la promenade de 8h à 17h ; l'OT ne publie pas d'horaires.</p>"
+    }
+  },
+  "latitude": 45.668052,
+  "longitude": 5.89378,
+  "official_site_url": "https://patrimoines.savoie.fr/web/3565_DBEvenement/promenade-confort-chemin-lacustre",
+  "partners": [],
+  "postal_code": "73100",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-10, official sources: Département + OT + Savoie Mont Blanc. Hours contradiction kept: the OT says year-round daily with no times, Savoie Mont Blanc says year-round 8h-17h — both quoted. PMR accessible/declarative on the Département's wording. Coordinates: IGN POI 'Plage du Lido' (Tresserve), one of the three official start points.",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "chemin-lacustre-lac-du-bourget",
+  "sources": [
+    "https://patrimoines.savoie.fr/web/3565_DBEvenement/promenade-confort-chemin-lacustre",
+    "https://www.aixlesbains-rivieradesalpes.com/equipement/promenade-confort-chemin-lacustre-tresserve/",
+    "https://www.savoie-mont-blanc.com/randonnees-et-balades/promenade-confort-chemin-lacustre-113245/",
+    "https://data.geopf.fr/geocodage/search?q=plage+du+Lido+Tresserve&index=poi&limit=2"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": []
+}

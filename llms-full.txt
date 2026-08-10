@@ -1,9 +1,9 @@
 # Loisirs 73 — Full content dump
 
 Generated: 2026-08-10
-Total lieux: 58
+Total lieux: 65
 
-This file concatenates the FR facet markdown of all 58 leisure sites in Savoie. Each section is a standalone markdown document with YAML frontmatter and the fixed facet heading canon. Sections are separated by `===` rulers.
+This file concatenates the FR facet markdown of all 65 leisure sites in Savoie. Each section is a standalone markdown document with YAML frontmatter and the fixed facet heading canon. Sections are separated by `===` rulers.
 
 For programmatic access, fetch individual files at https://loisirs73.fr/content/{slug}.md (FR), https://loisirs73.fr/content/en/{slug}.md (EN), or https://loisirs73.fr/api/lieu/{slug}.json (typed JSON).
 
@@ -550,6 +550,148 @@ Toute l'année, selon le calendrier des visites guidées
 ## Source officielle
 
 https://patrimoines.savoie.fr/web/psp_45734/visiter-le-chateau
+
+================================================================================
+
+---
+slug: chemin-du-petit-bonheur
+name: "Chemin du Petit Bonheur"
+category: sentier
+category_label: "Sentier"
+commune: "Modane"
+postal_code: "73500"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: null
+longitude: null
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/chemin-du-petit-bonheur
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/chemin-du-petit-bonheur.json
+photo_url: /img/generique/generique-sentier-melezes-automne.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-10
+source: loisirs73.fr
+---
+
+# Chemin du Petit Bonheur
+
+## Faits
+
+- Commune: Modane, Savoie (73500)
+- GPS: Non renseigné
+- Catégorie: sentier
+- Type: Itinéraire de vallée, village à village
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Départs multiples depuis chaque village de la vallée
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Périodes conseillées : juin à octobre (OT)
+- Fenêtre d'accès hiver: Non renseigné
+- Infrastructure hiver: Non renseigné
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
+
+## Source officielle
+
+https://www.haute-maurienne-vanoise.com/decouvrir-la-haute-maurienne-vanoise/les-incontournables/chemin-du-petit-bonheur/
+
+================================================================================
+
+---
+slug: chemin-lacustre-lac-du-bourget
+name: "Chemin lacustre du lac du Bourget"
+category: sentier
+category_label: "Sentier"
+commune: "Tresserve"
+postal_code: "73100"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.668052
+longitude: 5.89378
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/chemin-lacustre-lac-du-bourget
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/chemin-lacustre-lac-du-bourget.json
+photo_url: /img/generique/generique-sentier-automne-orange.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-10
+source: loisirs73.fr
+---
+
+# Chemin lacustre du lac du Bourget
+
+## Faits
+
+- Commune: Tresserve, Savoie (73100)
+- GPS: 45.668052, 5.89378
+- Catégorie: sentier
+- Type: Promenade confort au bord du lac
+
+## Horaires
+
+Toute l'année — 8h–17h selon Savoie Mont Blanc, sans horaires selon l'OT
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+- Statut: Accessible
+- Détail: « Accessible en fauteuil roulant en autonomie », selon la fiche du Département (patrimoines.savoie.fr).
+- Source: patrimoines.savoie.fr — https://patrimoines.savoie.fr/web/3565_DBEvenement/promenade-confort-chemin-lacustre
+
+## Parking
+
+Trois départs : base nautique d'Aix-les-Bains, plage du Lido, parking Les Mottets
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Toute l'année — de 8h à 17h selon Savoie Mont Blanc
+- Fenêtre d'accès hiver: Ouvert (accès déneigé)
+- Infrastructure hiver: Non renseigné
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
+
+## Source officielle
+
+https://patrimoines.savoie.fr/web/3565_DBEvenement/promenade-confort-chemin-lacustre
 
 ================================================================================
 
@@ -1606,6 +1748,146 @@ https://en.areches-beaufort.com/site-naturel/le-cormet-de-roselend/
 ================================================================================
 
 ---
+slug: croix-du-nivolet-la-feclaz
+name: "Croix du Nivolet depuis le Plateau Sud"
+category: sentier
+category_label: "Sentier"
+commune: "Les Déserts"
+postal_code: "73230"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.613564
+longitude: 5.965568
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/croix-du-nivolet-la-feclaz
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/croix-du-nivolet-la-feclaz.json
+photo_url: /img/generique/generique-sentier-sommet-panorama.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-10
+source: loisirs73.fr
+---
+
+# Croix du Nivolet depuis le Plateau Sud
+
+## Faits
+
+- Commune: Les Déserts, Savoie (73230)
+- GPS: 45.613564, 5.965568
+- Catégorie: sentier
+- Type: Randonnée en boucle vers un belvédère
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Parking Plateau Sud, La Féclaz
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Été à pied ; du 1er décembre au 31 mars en raquettes, selon enneigement
+- Fenêtre d'accès hiver: Accès partiel — État en temps réel : savoie-route.fr
+- Infrastructure hiver: Non renseigné
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
+
+## Source officielle
+
+https://www.savoiegrandrevard.com/la-croix-du-nivolet-depuis-le-plateau-sud-la-feclaz.html
+
+================================================================================
+
+---
+slug: dent-du-chat-col-du-chat
+name: "Dent du Chat"
+category: sentier
+category_label: "Sentier"
+commune: "Bourdeau"
+postal_code: "73370"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.675101
+longitude: 5.833512
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/dent-du-chat-col-du-chat
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/dent-du-chat-col-du-chat.json
+photo_url: /img/generique/generique-sentier-arete-alpine.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-10
+source: loisirs73.fr
+---
+
+# Dent du Chat
+
+## Faits
+
+- Commune: Bourdeau, Savoie (73370)
+- GPS: 45.675101, 5.833512
+- Catégorie: sentier
+- Type: Sommet et sentier de randonnée
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Relais du Mont du Chat (approche courte) ou col du Chat
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Été-automne ; section finale aérienne par tous temps
+- Fenêtre d'accès hiver: Non renseigné
+- Infrastructure hiver: Non renseigné
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
+
+## Source officielle
+
+https://www.aixlesbains-rivieradesalpes.com/patrimoine-naturel/dent-du-chat-yenne/
+
+================================================================================
+
+---
 slug: espace-alu-saint-michel-de-maurienne
 name: "Espace Alu"
 category: musee
@@ -2080,6 +2362,76 @@ Surveillance en juillet-août, 13h–19h (dates : voir contradiction sourcée)
 ## Source officielle
 
 https://saintpierredalbigny.fr/fr/rb/1606867/le-lac-de-carouge
+
+================================================================================
+
+---
+slug: lac-des-vaches-pralognan
+name: "Lac des Vaches"
+category: sentier
+category_label: "Sentier"
+commune: "Pralognan-la-Vanoise"
+postal_code: "73710"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.398016
+longitude: 6.776462
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/lac-des-vaches-pralognan
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/lac-des-vaches-pralognan.json
+photo_url: /img/generique/generique-sentier-foret-alpine.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-10
+source: loisirs73.fr
+---
+
+# Lac des Vaches
+
+## Faits
+
+- Commune: Pralognan-la-Vanoise, Savoie (73710)
+- GPS: 45.398016, 6.776462
+- Catégorie: sentier
+- Type: Randonnée lacustre du Parc national de la Vanoise
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Parking des Fontanettes
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Du 1er juin au 16 octobre (fiche itinéraire) ; toute l'année « selon enneigement » (fiche lac)
+- Fenêtre d'accès hiver: Accès partiel — État en temps réel : savoie-route.fr
+- Infrastructure hiver: Non renseigné
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
+
+## Source officielle
+
+https://www.pralognan.com/prestataire/lac-des-vaches-col-de-la-vanoise-randonnee-pedestre-en-aller-retour-874026/
 
 ================================================================================
 
@@ -2818,6 +3170,76 @@ Non renseigné
 ## Source officielle
 
 https://www.redoutemarietherese.fr/
+
+================================================================================
+
+---
+slug: sentier-artistique-hautecour
+name: "Sentier artistique de Hautecour"
+category: sentier
+category_label: "Sentier"
+commune: "Hautecour"
+postal_code: "73600"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.506831
+longitude: 6.545049
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/sentier-artistique-hautecour
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/sentier-artistique-hautecour.json
+photo_url: /img/generique/generique-sentier-foret.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-10
+source: loisirs73.fr
+---
+
+# Sentier artistique de Hautecour
+
+## Faits
+
+- Commune: Hautecour, Savoie (73600)
+- GPS: 45.506831, 6.545049
+- Catégorie: sentier
+- Type: Sentier artistique labellisé
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+À proximité du plan d'eau (la Trappe)
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Du printemps à l'automne — les œuvres sont renouvelées chaque printemps
+- Fenêtre d'accès hiver: Non renseigné
+- Infrastructure hiver: Non renseigné
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
+
+## Source officielle
+
+https://rando.vanoise.com/fr/trek/59587-Sentier-artistique-de-Hautecour---Boucle-Liberte
 
 ================================================================================
 
@@ -3839,6 +4261,76 @@ Non renseigné
 ## Source officielle
 
 https://www.pralognan.com/remontees-mecaniques-ete/
+
+================================================================================
+
+---
+slug: tour-du-lac-aiguebelette
+name: "Tour du lac d'Aiguebelette à pied"
+category: sentier
+category_label: "Sentier"
+commune: "Lépin-le-Lac"
+postal_code: "73610"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.554778
+longitude: 5.797009
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/tour-du-lac-aiguebelette
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/tour-du-lac-aiguebelette.json
+photo_url: /img/generique/generique-sentier.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-10
+source: loisirs73.fr
+---
+
+# Tour du lac d'Aiguebelette à pied
+
+## Faits
+
+- Commune: Lépin-le-Lac, Savoie (73610)
+- GPS: 45.554778, 5.797009
+- Catégorie: sentier
+- Type: Trek en boucle autour du lac
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Départ possible de la gare de Lépin-le-Lac
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Toute l'année selon la fiche de la boucle cyclo ; trek à la belle saison
+- Fenêtre d'accès hiver: Non renseigné
+- Infrastructure hiver: Non renseigné
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
+
+## Source officielle
+
+https://www.lac-aiguebelette.com/itineraires-randonnee/tour-du-lac-daiguebelette-rando-pedestre-3-jours-7698623/
 
 ================================================================================
 

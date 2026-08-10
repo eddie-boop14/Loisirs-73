@@ -1,0 +1,31 @@
+{
+  "name": "Lac des Vaches",
+  "commune": "Pralognan-la-Vanoise",
+  "gps": {
+    "lat": 45.398016,
+    "lng": 6.776462
+  },
+  "type": "sentier",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": "Parking des Fontanettes",
+  "transport": null,
+  "season": "Du 1er juin au 16 octobre (fiche itinéraire) ; toute l'année « selon enneigement » (fiche lac)",
+  "winter": {
+    "access": "partial",
+    "infrastructure": [],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": "https://savoie-route.fr"
+  },
+  "official_url": "https://www.pralognan.com/prestataire/lac-des-vaches-col-de-la-vanoise-randonnee-pedestre-en-aller-retour-874026/",
+  "last_verified": null
+}

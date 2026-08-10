@@ -20,17 +20,15 @@ incoming-benedicte/
 
 # Engine byproducts — regenerated on every build.
 scripts/__pycache__/
-reports/*
 _site/
 
-# …except the reports the gates READ. (Note `reports/*`, not `reports/` — git
-# does not descend into an ignored directory, so a negation under one never
-# matches.) Ignoring all of reports/ was inherited
-# wholesale and is wrong here: several gates fail closed when their evidence
-# file is absent, so a gate that is green on a developer's machine goes red in
-# CI, where reports/ was never checked out. These are evidence, not byproducts —
-# a verification result is worth nothing if it isn't kept.
-!reports/i18n-verify-*.json
-!reports/render-verify-*.json
-!reports/i18n-leak-baseline.json
-!reports/protected-placements.md
+# reports/ is TRACKED, matching the 74. It holds evidence, not byproducts:
+# gates fail closed when their file is absent, so ignoring the directory made
+# a gate green on a developer's machine go red in CI, where reports/ was never
+# checked out. That is exactly how this repo's first CI run died — on
+# reports/featured-placements-baseline.md, a file an allowlist of four
+# negations did not happen to name. Ignore the transient work artifacts by
+# name instead; anything a gate reads is committed by default.
+reports/leak-work-*.json
+reports/leak-out-*.json
+reports/__pycache__/

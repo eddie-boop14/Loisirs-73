@@ -1,3 +1,27 @@
 {
- "_73_note": "EMPTIED for the 73. The 74's descriptions are authored prose naming Mont-Blanc, the Lac d'Annecy and Haute-Savoie — content, not engine data, and it rendered into og:description on this site's hub pages. Re-author per hub for Savoie before these hubs ship; until then the builder falls back to its own generated line, which is built from {dept} and is correct."
+ "_comment": "Authored per hub for Savoie (was emptied at transplant time: the 74's prose named Mont-Blanc and the Lac d'Annecy). 120-160 chars per language; patch_hub_head reads these into meta description + og:description.",
+ "points-de-vue": {
+  "fr": "Les grands cols de Savoie — Iseran, Galibier, Madeleine, Croix de Fer — accès, période d'ouverture et panoramas, vérifiés aux sources officielles.",
+  "en": "The great cols of Savoie — Iseran, Galibier, Madeleine, Croix de Fer — access, opening periods and panoramas, verified against official sources.",
+  "de": "Die großen Pässe in Savoie — Iseran, Galibier, Madeleine, Croix de Fer — Zugang, Öffnungszeiten und Panoramen, geprüft an offiziellen Quellen.",
+  "it": "I grandi colli della Savoie — Iseran, Galibier, Madeleine, Croix de Fer — accesso, periodi di apertura e panorami, verificati su fonti ufficiali.",
+  "es": "Los grandes puertos de la Savoie — Iseran, Galibier, Madeleine, Croix de Fer — acceso, períodos de apertura y panoramas, verificados en fuentes oficiales.",
+  "nl": "De grote cols van Savoie — Iseran, Galibier, Madeleine, Croix de Fer — toegang, openingsperioden en panorama's, geverifieerd bij officiële bronnen."
+ },
+ "telecabines": {
+  "fr": "Téléphériques et télécabines de Savoie : Cime Caron, Aiguille Rouge, Grande Motte… Tarifs, horaires et accès vérifiés aux sources officielles.",
+  "en": "Cable cars and gondolas in Savoie: Cime Caron, Aiguille Rouge, Grande Motte… Prices, timetables and access verified against official sources.",
+  "de": "Seilbahnen und Gondelbahnen in Savoie: Cime Caron, Aiguille Rouge, Grande Motte… Preise, Zeiten und Zugang, geprüft an offiziellen Quellen.",
+  "it": "Funivie e cabinovie della Savoie: Cime Caron, Aiguille Rouge, Grande Motte… Tariffe, orari e accesso verificati su fonti ufficiali.",
+  "es": "Teleféricos y telecabinas de la Savoie: Cime Caron, Aiguille Rouge, Grande Motte… Tarifas, horarios y acceso verificados en fuentes oficiales.",
+  "nl": "Kabelbanen en gondelbanen in Savoie: Cime Caron, Aiguille Rouge, Grande Motte… Tarieven, tijden en toegang geverifieerd bij officiële bronnen."
+ },
+ "que-faire": {
+  "fr": "Que faire en Savoie : sélections compilées automatiquement depuis des fiches vérifiées — Trois Vallées, Tarentaise, Maurienne, Beaufortain.",
+  "en": "What to do in Savoie: selections compiled automatically from verified pages — Trois Vallées, Tarentaise, Maurienne, Beaufortain.",
+  "de": "Was unternehmen in Savoie: automatisch aus geprüften Seiten kompilierte Auswahlen — Trois Vallées, Tarentaise, Maurienne, Beaufortain.",
+  "it": "Cosa fare in Savoie: selezioni compilate automaticamente da schede verificate — Trois Vallées, Tarentaise, Maurienne, Beaufortain.",
+  "es": "Qué hacer en Savoie: selecciones compiladas automáticamente desde fichas verificadas — Trois Vallées, Tarentaise, Maurienne, Beaufortain.",
+  "nl": "Wat te doen in Savoie: selecties automatisch samengesteld uit geverifieerde pagina's — Trois Vallées, Tarentaise, Maurienne, Beaufortain."
+ }
 }

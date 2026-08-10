@@ -15,12 +15,12 @@
     "reviewed": {
       "fr": true,
       "en": true,
-      "ar": "router-haiku+sonnet-3x-2026-06-30+render-ai-2026-07-01",
-      "he": "router-haiku+sonnet-3x-2026-06-30+render-ai-2026-07-01",
-      "pl": "ai-consensus-3x-2026-06-29+render-ai-2026-07-01",
-      "pt": "ai-consensus-3x-2026-06-29+render-ai-2026-07-01",
-      "cs": "ai-consensus-3x-2026-06-30+render-ai-2026-07-01",
-      "ja": "router-haiku+sonnet-3x-2026-06-30+render-ai-2026-07-01"
+      "ar": "router-haiku+sonnet-3x-2026-06-30",
+      "he": "router-haiku+sonnet-3x-2026-06-30",
+      "pl": "ai-consensus-3x-2026-06-29",
+      "pt": "ai-consensus-3x-2026-06-29",
+      "cs": "ai-consensus-3x-2026-06-30",
+      "ja": "router-haiku+sonnet-3x-2026-06-30"
     },
     "rtl": [
       "ar",
@@ -33,6 +33,9 @@
       "ar": "tiered router (Haiku bulk + Sonnet on polar/label-drift/splits, 3x blind); RENDER HELD for native spot-check + RTL engine (Phase C) | render-verified (HANDOFF-16): headless Layer A (RTL/bidi/glyph/no-tofu) + vision comprehension Layer B, 0 escalations",
       "he": "tiered router (Haiku bulk + Sonnet on polar/label-drift/splits, 3x blind); RENDER HELD for native spot-check + RTL engine (Phase C) | render-verified (HANDOFF-16): headless Layer A (RTL/bidi/glyph/no-tofu) + vision comprehension Layer B, 0 escalations",
       "ja": "multi-agent back-translation consensus (Haiku bulk + Sonnet on polar/enum + surveillance trap, 3x blind); LTR, no RTL engine | render-verified (HANDOFF-16): headless Layer A (RTL/bidi/glyph/no-tofu) + vision comprehension Layer B, 0 escalations"
+    },
+    "_notes": {
+      "reviewed": "Two different claims live in this string and they travel differently. The label-translation provenance (ai-consensus-3x / router-haiku+sonnet-3x) is about the 99 engine label strings themselves — 'Type' -> 'Typ' — which are byte-identical across sites, so reports/i18n-verify-<lang>.json carries over with them and was copied from Loisirs 74 after confirming all 99 keys match for all six languages. The +render-ai-<date> suffix was a different claim: that THIS site's rendered pages passed render_verify. That run happened on the 74 and never here, so it was stripped rather than inherited."
     }
   },
   "fact_labels": {

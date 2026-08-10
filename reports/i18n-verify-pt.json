@@ -1,0 +1,2249 @@
+{
+  "lang": "pt",
+  "date": "2026-06-30",
+  "method": "multi-agent back-translation consensus (3x, blind)",
+  "keys": 86,
+  "verified": 86,
+  "escalations": 0,
+  "overall": "PASS",
+  "results": [
+    {
+      "id": "fact_labels.type",
+      "key": "type",
+      "section": "fact_labels",
+      "tgt": "Tipo",
+      "fr_ref": "Type",
+      "en_ref": "Type",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Type",
+        "Type",
+        "Type"
+      ],
+      "back_en": [
+        "Type",
+        "Type",
+        "Type"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_labels.access",
+      "key": "access",
+      "section": "fact_labels",
+      "tgt": "Acesso",
+      "fr_ref": "Accès",
+      "en_ref": "Access",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Accès",
+        "Accès",
+        "Accès"
+      ],
+      "back_en": [
+        "Access",
+        "Access",
+        "Access"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_labels.commune",
+      "key": "commune",
+      "section": "fact_labels",
+      "tgt": "Município",
+      "fr_ref": "Commune",
+      "en_ref": "Town",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Commune",
+        "Commune / Municipalité",
+        "Commune"
+      ],
+      "back_en": [
+        "Town/Municipality",
+        "Municipality / Town",
+        "Town/Municipality"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_labels.duration",
+      "key": "duration",
+      "section": "fact_labels",
+      "tgt": "Duração",
+      "fr_ref": "Durée",
+      "en_ref": "Duration",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Durée",
+        "Durée",
+        "Durée"
+      ],
+      "back_en": [
+        "Duration",
+        "Duration",
+        "Duration"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_labels.tarif",
+      "key": "tarif",
+      "section": "fact_labels",
+      "tgt": "Preço",
+      "fr_ref": "Tarif",
+      "en_ref": "Price",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Prix/Tarif",
+        "Prix / Tarif",
+        "Prix/Tarif"
+      ],
+      "back_en": [
+        "Price",
+        "Price",
+        "Price"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_labels.parking",
+      "key": "parking",
+      "section": "fact_labels",
+      "tgt": "Estacionamento",
+      "fr_ref": "Parking",
+      "en_ref": "Parking",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Parking/Stationnement",
+        "Parking / Stationnement",
+        "Parking/Stationnement"
+      ],
+      "back_en": [
+        "Parking",
+        "Parking",
+        "Parking"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_labels.dogs",
+      "key": "dogs",
+      "section": "fact_labels",
+      "tgt": "Cães",
+      "fr_ref": "Chiens",
+      "en_ref": "Dogs",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Chiens",
+        "Chiens",
+        "Chiens"
+      ],
+      "back_en": [
+        "Dogs",
+        "Dogs",
+        "Dogs"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_labels.stroller",
+      "key": "stroller",
+      "section": "fact_labels",
+      "tgt": "Carrinho de bebé",
+      "fr_ref": "Poussette",
+      "en_ref": "Stroller",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Poussette",
+        "Poussette",
+        "Poussette"
+      ],
+      "back_en": [
+        "Stroller",
+        "Stroller",
+        "Stroller"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_labels.best_season",
+      "key": "best_season",
+      "section": "fact_labels",
+      "tgt": "Melhor época",
+      "fr_ref": "Meilleure saison",
+      "en_ref": "Best season",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Meilleure saison",
+        "Meilleure saison",
+        "Meilleure saison"
+      ],
+      "back_en": [
+        "Best season",
+        "Best season",
+        "Best season"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_labels.altitude",
+      "key": "altitude",
+      "section": "fact_labels",
+      "tgt": "Altitude",
+      "fr_ref": "Altitude",
+      "en_ref": "Altitude",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Altitude",
+        "Altitude",
+        "Altitude"
+      ],
+      "back_en": [
+        "Altitude",
+        "Altitude",
+        "Altitude"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_labels.lac",
+      "key": "lac",
+      "section": "fact_labels",
+      "tgt": "Lago",
+      "fr_ref": "Lac",
+      "en_ref": "Lake",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Lac",
+        "Lac",
+        "Lac"
+      ],
+      "back_en": [
+        "Lake",
+        "Lake",
+        "Lake"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_labels.surveillance",
+      "key": "surveillance",
+      "section": "fact_labels",
+      "tgt": "Vigilância balnear",
+      "fr_ref": "Surveillance",
+      "en_ref": "Lifeguard supervision",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Surveillance balneaire",
+        "Surveillance balneaire (de plage)",
+        "Surveillance balneaire"
+      ],
+      "back_en": [
+        "Beach/bathing supervision",
+        "Beach/bathing supervision",
+        "Beach (bathing) surveillance"
+      ],
+      "reasons": [
+        "re-translated + re-verified 3/3 MATCH after surveillance reference fix (en: 'Lifeguard'→'Lifeguard supervision'), 2026-06-30"
+      ]
+    },
+    {
+      "id": "fact_labels.pavillon_bleu",
+      "key": "pavillon_bleu",
+      "section": "fact_labels",
+      "tgt": "Bandeira Azul",
+      "fr_ref": "Pavillon Bleu",
+      "en_ref": "Blue Flag",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Pavillon Bleu",
+        "Pavillon Bleu",
+        "Pavillon Bleu"
+      ],
+      "back_en": [
+        "Blue Flag",
+        "Blue Flag",
+        "Blue Flag"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_labels.difficulty",
+      "key": "difficulty",
+      "section": "fact_labels",
+      "tgt": "Dificuldade",
+      "fr_ref": "Difficulté",
+      "en_ref": "Difficulty",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Difficulté",
+        "Difficulté",
+        "Difficulté"
+      ],
+      "back_en": [
+        "Difficulty",
+        "Difficulty",
+        "Difficulty"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_labels.acces_pmr",
+      "key": "acces_pmr",
+      "section": "fact_labels",
+      "tgt": "Acesso para cadeira de rodas",
+      "fr_ref": "Accès PMR",
+      "en_ref": "Wheelchair access",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Accès en fauteuil roulant",
+        "Accès en fauteuil roulant / Accès PMR",
+        "Accès fauteuil roulant/PMR"
+      ],
+      "back_en": [
+        "Wheelchair access",
+        "Wheelchair access",
+        "Wheelchair access"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_labels.adresse",
+      "key": "adresse",
+      "section": "fact_labels",
+      "tgt": "Morada",
+      "fr_ref": "Adresse",
+      "en_ref": "Address",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Adresse",
+        "Adresse",
+        "Adresse"
+      ],
+      "back_en": [
+        "Address",
+        "Address",
+        "Address"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_labels.horaires",
+      "key": "horaires",
+      "section": "fact_labels",
+      "tgt": "Horário de funcionamento",
+      "fr_ref": "Horaires",
+      "en_ref": "Opening hours",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Horaires d'ouverture",
+        "Horaires d'ouverture",
+        "Horaires d'ouverture"
+      ],
+      "back_en": [
+        "Opening hours",
+        "Opening hours",
+        "Opening hours"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_labels.telephone",
+      "key": "telephone",
+      "section": "fact_labels",
+      "tgt": "Telefone",
+      "fr_ref": "Téléphone",
+      "en_ref": "Phone",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Téléphone",
+        "Téléphone",
+        "Téléphone"
+      ],
+      "back_en": [
+        "Phone",
+        "Phone",
+        "Phone"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_labels.site_officiel",
+      "key": "site_officiel",
+      "section": "fact_labels",
+      "tgt": "Site oficial",
+      "fr_ref": "Site officiel",
+      "en_ref": "Official website",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Site officiel",
+        "Site officiel",
+        "Site officiel"
+      ],
+      "back_en": [
+        "Official website",
+        "Official website",
+        "Official website"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_labels.itineraire",
+      "key": "itineraire",
+      "section": "fact_labels",
+      "tgt": "Como chegar",
+      "fr_ref": "Itinéraire",
+      "en_ref": "Directions",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Comment s'y rendre",
+        "Comment s'y rendre / Itinéraire",
+        "Comment s'y rendre/Itinéraire"
+      ],
+      "back_en": [
+        "How to get there/Directions",
+        "How to get there / Directions",
+        "How to get there/Directions"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_values.gratuit",
+      "key": "gratuit",
+      "section": "fact_values",
+      "tgt": "Gratuito",
+      "fr_ref": "Gratuit",
+      "en_ref": "Free",
+      "is_polar": true,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Gratuit",
+        "Gratuit",
+        "Gratuit"
+      ],
+      "back_en": [
+        "Free",
+        "Free",
+        "Free"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_values.payant",
+      "key": "payant",
+      "section": "fact_values",
+      "tgt": "Pago",
+      "fr_ref": "Payant",
+      "en_ref": "Paid",
+      "is_polar": true,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Payant",
+        "Payant",
+        "Payant"
+      ],
+      "back_en": [
+        "Paid",
+        "Paid",
+        "Paid"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_values.oui",
+      "key": "oui",
+      "section": "fact_values",
+      "tgt": "Sim",
+      "fr_ref": "Oui",
+      "en_ref": "Yes",
+      "is_polar": true,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Oui",
+        "Oui",
+        "Oui"
+      ],
+      "back_en": [
+        "Yes",
+        "Yes",
+        "Yes"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_values.non",
+      "key": "non",
+      "section": "fact_values",
+      "tgt": "Não",
+      "fr_ref": "Non",
+      "en_ref": "No",
+      "is_polar": true,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Non",
+        "Non",
+        "Non"
+      ],
+      "back_en": [
+        "No",
+        "No",
+        "No"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_values.surveillee",
+      "key": "surveillee",
+      "section": "fact_values",
+      "tgt": "Com vigilância",
+      "fr_ref": "Plage surveillée",
+      "en_ref": "Lifeguarded",
+      "is_polar": true,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Surveillée",
+        "Surveillée / Avec surveillance",
+        "Surveillée"
+      ],
+      "back_en": [
+        "Supervised/Lifeguarded",
+        "Supervised / Lifeguarded",
+        "Lifeguarded/Supervised"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_values.non_surveillee",
+      "key": "non_surveillee",
+      "section": "fact_values",
+      "tgt": "Sem vigilância",
+      "fr_ref": "Non surveillée",
+      "en_ref": "No lifeguard",
+      "is_polar": true,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Non surveillée",
+        "Non surveillée / Sans surveillance",
+        "Non surveillée"
+      ],
+      "back_en": [
+        "No lifeguard/Unsupervised",
+        "Unsupervised / No lifeguard",
+        "No lifeguard/Unsupervised"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_values.pmr_accessible",
+      "key": "pmr_accessible",
+      "section": "fact_values",
+      "tgt": "Acessível",
+      "fr_ref": "Accessible",
+      "en_ref": "Accessible",
+      "is_polar": true,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Accessible",
+        "Accessible",
+        "Accessible"
+      ],
+      "back_en": [
+        "Accessible",
+        "Accessible",
+        "Accessible"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_values.pmr_partiel",
+      "key": "pmr_partiel",
+      "section": "fact_values",
+      "tgt": "Parcialmente acessível",
+      "fr_ref": "Partiellement accessible",
+      "en_ref": "Partly accessible",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Partiellement accessible",
+        "Partiellement accessible",
+        "Partiellement accessible"
+      ],
+      "back_en": [
+        "Partly accessible",
+        "Partly accessible",
+        "Partly accessible"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_values.pmr_non",
+      "key": "pmr_non",
+      "section": "fact_values",
+      "tgt": "Não acessível",
+      "fr_ref": "Non accessible",
+      "en_ref": "Not accessible",
+      "is_polar": true,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Non accessible",
+        "Non accessible",
+        "Non accessible"
+      ],
+      "back_en": [
+        "Not accessible",
+        "Not accessible",
+        "Not accessible"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_values.pmr_non_renseigne",
+      "key": "pmr_non_renseigne",
+      "section": "fact_values",
+      "tgt": "Não especificado",
+      "fr_ref": "Non renseignée",
+      "en_ref": "Not stated",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Non renseigné",
+        "Non renseigné",
+        "Non renseigné"
+      ],
+      "back_en": [
+        "Not specified/Not stated",
+        "Not stated / Not specified",
+        "Not stated/Not specified"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_values.ouvert",
+      "key": "ouvert",
+      "section": "fact_values",
+      "tgt": "Aberto",
+      "fr_ref": "Ouvert",
+      "en_ref": "Open",
+      "is_polar": true,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Ouvert",
+        "Ouvert",
+        "Ouvert"
+      ],
+      "back_en": [
+        "Open",
+        "Open",
+        "Open"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_values.ferme",
+      "key": "ferme",
+      "section": "fact_values",
+      "tgt": "Fechado",
+      "fr_ref": "Fermé",
+      "en_ref": "Closed",
+      "is_polar": true,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Fermé",
+        "Fermé",
+        "Fermé"
+      ],
+      "back_en": [
+        "Closed",
+        "Closed",
+        "Closed"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_values.saisonnier",
+      "key": "saisonnier",
+      "section": "fact_values",
+      "tgt": "Sazonal",
+      "fr_ref": "Saisonnier",
+      "en_ref": "Seasonal",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Saisonnier",
+        "Saisonnier",
+        "Saisonnier"
+      ],
+      "back_en": [
+        "Seasonal",
+        "Seasonal",
+        "Seasonal"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_values.dogs_ok",
+      "key": "dogs_ok",
+      "section": "fact_values",
+      "tgt": "Permitidos",
+      "fr_ref": "Autorisés",
+      "en_ref": "Allowed",
+      "is_polar": true,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Autorisés",
+        "Autorisés",
+        "Autorisés"
+      ],
+      "back_en": [
+        "Allowed",
+        "Allowed",
+        "Allowed"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_values.dogs_no",
+      "key": "dogs_no",
+      "section": "fact_values",
+      "tgt": "Não permitidos",
+      "fr_ref": "Interdits",
+      "en_ref": "Not allowed",
+      "is_polar": true,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Non autorisés/Interdits",
+        "Non autorisés / Interdits",
+        "Non autorisés/Interdits"
+      ],
+      "back_en": [
+        "Not allowed",
+        "Not allowed",
+        "Not allowed"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "descriptors_by_type.plage",
+      "key": "plage",
+      "section": "descriptors_by_type",
+      "tgt": "Praia",
+      "fr_ref": "Plage",
+      "en_ref": "Beach",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Plage",
+        "Plage",
+        "Plage"
+      ],
+      "back_en": [
+        "Beach",
+        "Beach",
+        "Beach"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "descriptors_by_type.lac",
+      "key": "lac",
+      "section": "descriptors_by_type",
+      "tgt": "Lago",
+      "fr_ref": "Lac",
+      "en_ref": "Lake",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Lac",
+        "Lac",
+        "Lac"
+      ],
+      "back_en": [
+        "Lake",
+        "Lake",
+        "Lake"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "descriptors_by_type.cascade",
+      "key": "cascade",
+      "section": "descriptors_by_type",
+      "tgt": "Cascata",
+      "fr_ref": "Cascade",
+      "en_ref": "Waterfall",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Cascade",
+        "Cascade",
+        "Cascade"
+      ],
+      "back_en": [
+        "Waterfall",
+        "Waterfall",
+        "Waterfall"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "descriptors_by_type.gorges",
+      "key": "gorges",
+      "section": "descriptors_by_type",
+      "tgt": "Desfiladeiro",
+      "fr_ref": "Gorges",
+      "en_ref": "Gorge",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Gorges",
+        "Gorges / Défilé",
+        "Gorges"
+      ],
+      "back_en": [
+        "Gorge",
+        "Gorge",
+        "Gorge"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "descriptors_by_type.chateau",
+      "key": "chateau",
+      "section": "descriptors_by_type",
+      "tgt": "Castelo",
+      "fr_ref": "Château",
+      "en_ref": "Castle",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Château",
+        "Château",
+        "Château"
+      ],
+      "back_en": [
+        "Castle",
+        "Castle",
+        "Castle"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "descriptors_by_type.musee",
+      "key": "musee",
+      "section": "descriptors_by_type",
+      "tgt": "Museu",
+      "fr_ref": "Musée",
+      "en_ref": "Museum",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Musée",
+        "Musée",
+        "Musée"
+      ],
+      "back_en": [
+        "Museum",
+        "Museum",
+        "Museum"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "descriptors_by_type.telecabine",
+      "key": "telecabine",
+      "section": "descriptors_by_type",
+      "tgt": "Teleférico",
+      "fr_ref": "Télécabine",
+      "en_ref": "Cable car",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Télécabine",
+        "Télécabine / Téléphérique",
+        "Télécabine"
+      ],
+      "back_en": [
+        "Cable car",
+        "Cable car",
+        "Cable car"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "descriptors_by_type.point_de_vue",
+      "key": "point_de_vue",
+      "section": "descriptors_by_type",
+      "tgt": "Miradouro",
+      "fr_ref": "Point de vue",
+      "en_ref": "Viewpoint",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Point de vue",
+        "Point de vue",
+        "Point de vue"
+      ],
+      "back_en": [
+        "Viewpoint",
+        "Viewpoint",
+        "Viewpoint"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "descriptors_by_type.sentier",
+      "key": "sentier",
+      "section": "descriptors_by_type",
+      "tgt": "Trilho",
+      "fr_ref": "Sentier",
+      "en_ref": "Trail",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Sentier",
+        "Sentier",
+        "Sentier"
+      ],
+      "back_en": [
+        "Trail",
+        "Trail",
+        "Trail"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "descriptors_by_type.parc",
+      "key": "parc",
+      "section": "descriptors_by_type",
+      "tgt": "Parque",
+      "fr_ref": "Parc",
+      "en_ref": "Park",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Parc",
+        "Parc",
+        "Parc"
+      ],
+      "back_en": [
+        "Park",
+        "Park",
+        "Park"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "descriptors_by_type.voie_verte",
+      "key": "voie_verte",
+      "section": "descriptors_by_type",
+      "tgt": "Via verde",
+      "fr_ref": "Voie verte",
+      "en_ref": "Greenway",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Voie verte",
+        "Voie verte",
+        "Voie verte"
+      ],
+      "back_en": [
+        "Greenway",
+        "Greenway",
+        "Greenway"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "descriptors_by_type.base_loisirs",
+      "key": "base_loisirs",
+      "section": "descriptors_by_type",
+      "tgt": "Parque de lazer",
+      "fr_ref": "Base de loisirs",
+      "en_ref": "Leisure park",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Base de loisirs",
+        "Base de loisirs / Parc de loisirs",
+        "Base de loisirs/Parc de loisirs"
+      ],
+      "back_en": [
+        "Leisure park/centre",
+        "Leisure park",
+        "Leisure park"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "descriptors_by_type.eglise",
+      "key": "eglise",
+      "section": "descriptors_by_type",
+      "tgt": "Igreja",
+      "fr_ref": "Église",
+      "en_ref": "Church",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Église",
+        "Église",
+        "Église"
+      ],
+      "back_en": [
+        "Church",
+        "Church",
+        "Church"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "ui_chrome.accueil",
+      "key": "accueil",
+      "section": "ui_chrome",
+      "tgt": "Início",
+      "fr_ref": "Accueil",
+      "en_ref": "Home",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Accueil",
+        "Accueil",
+        "Accueil"
+      ],
+      "back_en": [
+        "Home",
+        "Home",
+        "Home"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "ui_chrome.l_essentiel",
+      "key": "l_essentiel",
+      "section": "ui_chrome",
+      "tgt": "Informações essenciais",
+      "fr_ref": "L'essentiel",
+      "en_ref": "Key facts",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "L'essentiel",
+        "L'essentiel / Informations essentielles",
+        "L'essentiel/Informations essentielles"
+      ],
+      "back_en": [
+        "Key facts/Essential info",
+        "Key facts / Essential information",
+        "Key facts/Essential info"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "ui_chrome.voir_fiche",
+      "key": "voir_fiche",
+      "section": "ui_chrome",
+      "tgt": "Ver detalhes",
+      "fr_ref": "Voir la fiche",
+      "en_ref": "View details",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Voir la fiche/Voir les détails",
+        "Voir les détails / Voir la fiche",
+        "Voir les détails/Voir la fiche"
+      ],
+      "back_en": [
+        "View details",
+        "View details",
+        "View details"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "ui_chrome.plages_voisines",
+      "key": "plages_voisines",
+      "section": "ui_chrome",
+      "tgt": "Praias próximas",
+      "fr_ref": "Plages voisines",
+      "en_ref": "Nearby beaches",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Plages voisines",
+        "Plages voisines / proches",
+        "Plages voisines/proches"
+      ],
+      "back_en": [
+        "Nearby beaches",
+        "Nearby beaches",
+        "Nearby beaches"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "ui_chrome.questions_frequentes",
+      "key": "questions_frequentes",
+      "section": "ui_chrome",
+      "tgt": "Perguntas frequentes",
+      "fr_ref": "Questions fréquentes",
+      "en_ref": "FAQ",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Questions fréquentes",
+        "Questions fréquentes",
+        "Questions fréquentes"
+      ],
+      "back_en": [
+        "FAQ",
+        "FAQ",
+        "FAQ"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "ui_chrome.y_aller",
+      "key": "y_aller",
+      "section": "ui_chrome",
+      "tgt": "Como chegar e estacionar",
+      "fr_ref": "Y aller & se garer",
+      "en_ref": "Getting there & parking",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Y aller et se garer",
+        "S'y rendre & se garer",
+        "S'y rendre & se garer"
+      ],
+      "back_en": [
+        "Getting there & parking",
+        "Getting there & parking",
+        "Getting there & parking"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "ui_chrome.source_officielle",
+      "key": "source_officielle",
+      "section": "ui_chrome",
+      "tgt": "Fonte oficial",
+      "fr_ref": "Source officielle",
+      "en_ref": "Official source",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Source officielle",
+        "Source officielle",
+        "Source officielle"
+      ],
+      "back_en": [
+        "Official source",
+        "Official source",
+        "Official source"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "ui_chrome.pres_de_moi",
+      "key": "pres_de_moi",
+      "section": "ui_chrome",
+      "tgt": "Perto de mim",
+      "fr_ref": "Près de moi",
+      "en_ref": "Near me",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Près de moi",
+        "Près de moi",
+        "Près de moi"
+      ],
+      "back_en": [
+        "Near me",
+        "Near me",
+        "Near me"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "ui_chrome.rechercher",
+      "key": "rechercher",
+      "section": "ui_chrome",
+      "tgt": "Pesquisar",
+      "fr_ref": "Rechercher",
+      "en_ref": "Search",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Rechercher",
+        "Rechercher",
+        "Rechercher"
+      ],
+      "back_en": [
+        "Search",
+        "Search",
+        "Search"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "ui_chrome.toutes_categories",
+      "key": "toutes_categories",
+      "section": "ui_chrome",
+      "tgt": "Todas as categorias",
+      "fr_ref": "Toutes les catégories",
+      "en_ref": "All categories",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Toutes les catégories",
+        "Toutes les catégories",
+        "Toutes les catégories"
+      ],
+      "back_en": [
+        "All categories",
+        "All categories",
+        "All categories"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "ui_chrome.voir_carte",
+      "key": "voir_carte",
+      "section": "ui_chrome",
+      "tgt": "Ver no mapa",
+      "fr_ref": "Voir sur la carte",
+      "en_ref": "View on map",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Voir sur la carte",
+        "Voir sur la carte",
+        "Voir sur la carte"
+      ],
+      "back_en": [
+        "View on map",
+        "View on map",
+        "View on map"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "hub_names.cascades",
+      "key": "cascades",
+      "section": "hub_names",
+      "tgt": "Cascatas",
+      "fr_ref": "Cascades",
+      "en_ref": "Waterfalls",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Cascades",
+        "Cascades",
+        "Cascades"
+      ],
+      "back_en": [
+        "Waterfalls",
+        "Waterfalls",
+        "Waterfalls"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "hub_names.chateaux",
+      "key": "chateaux",
+      "section": "hub_names",
+      "tgt": "Castelos",
+      "fr_ref": "Châteaux",
+      "en_ref": "Castles",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Châteaux",
+        "Châteaux",
+        "Châteaux"
+      ],
+      "back_en": [
+        "Castles",
+        "Castles",
+        "Castles"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "hub_names.lacs-plages",
+      "key": "lacs-plages",
+      "section": "hub_names",
+      "tgt": "Lagos e praias",
+      "fr_ref": "Lacs & plages",
+      "en_ref": "Lakes & beaches",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Lacs et plages",
+        "Lacs & plages",
+        "Lacs & plages"
+      ],
+      "back_en": [
+        "Lakes & beaches",
+        "Lakes & beaches",
+        "Lakes & beaches"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "hub_names.musees",
+      "key": "musees",
+      "section": "hub_names",
+      "tgt": "Museus",
+      "fr_ref": "Musées",
+      "en_ref": "Museums",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Musées",
+        "Musées",
+        "Musées"
+      ],
+      "back_en": [
+        "Museums",
+        "Museums",
+        "Museums"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "hub_names.parcs-jardins",
+      "key": "parcs-jardins",
+      "section": "hub_names",
+      "tgt": "Parques e jardins",
+      "fr_ref": "Parcs & jardins",
+      "en_ref": "Parks & gardens",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Parcs et jardins",
+        "Parcs & jardins",
+        "Parcs & jardins"
+      ],
+      "back_en": [
+        "Parks & gardens",
+        "Parks & gardens",
+        "Parks & gardens"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "hub_names.points-de-vue",
+      "key": "points-de-vue",
+      "section": "hub_names",
+      "tgt": "Miradouros",
+      "fr_ref": "Points de vue",
+      "en_ref": "Viewpoints",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Points de vue",
+        "Points de vue",
+        "Points de vue"
+      ],
+      "back_en": [
+        "Viewpoints",
+        "Viewpoints",
+        "Viewpoints"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "hub_names.sentiers",
+      "key": "sentiers",
+      "section": "hub_names",
+      "tgt": "Trilhos",
+      "fr_ref": "Sentiers",
+      "en_ref": "Trails",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Sentiers",
+        "Sentiers",
+        "Sentiers"
+      ],
+      "back_en": [
+        "Trails",
+        "Trails",
+        "Trails"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "hub_names.telecabines",
+      "key": "telecabines",
+      "section": "hub_names",
+      "tgt": "Teleféricos",
+      "fr_ref": "Télécabines",
+      "en_ref": "Cable cars",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Télécabines",
+        "Télécabines",
+        "Télécabines"
+      ],
+      "back_en": [
+        "Cable cars",
+        "Cable cars",
+        "Cable cars"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "hub_names.voies-vertes",
+      "key": "voies-vertes",
+      "section": "hub_names",
+      "tgt": "Vias verdes",
+      "fr_ref": "Voies vertes",
+      "en_ref": "Greenways",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Voies vertes",
+        "Voies vertes",
+        "Voies vertes"
+      ],
+      "back_en": [
+        "Greenways",
+        "Greenways",
+        "Greenways"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "hub_names.baignade-nautisme",
+      "key": "baignade-nautisme",
+      "section": "hub_names",
+      "tgt": "Banhos e desportos aquáticos",
+      "fr_ref": "Baignade & nautisme",
+      "en_ref": "Swimming & watersports",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Baignade et nautisme",
+        "Baignade & nautisme / sports nautiques",
+        "Baignade & nautisme"
+      ],
+      "back_en": [
+        "Swimming & watersports",
+        "Swimming & watersports",
+        "Swimming & watersports"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "hub_names.bases-de-loisirs",
+      "key": "bases-de-loisirs",
+      "section": "hub_names",
+      "tgt": "Parques de lazer",
+      "fr_ref": "Bases de loisirs",
+      "en_ref": "Leisure parks",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Bases de loisirs",
+        "Bases de loisirs / Parcs de loisirs",
+        "Bases de loisirs"
+      ],
+      "back_en": [
+        "Leisure parks",
+        "Leisure parks",
+        "Leisure parks"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "hub_names.que-faire",
+      "key": "que-faire",
+      "section": "hub_names",
+      "tgt": "O que fazer",
+      "fr_ref": "Que faire",
+      "en_ref": "What to do",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Que faire",
+        "Que faire",
+        "Que faire"
+      ],
+      "back_en": [
+        "What to do",
+        "What to do",
+        "What to do"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "hub_names.sensations-plein-air",
+      "key": "sensations-plein-air",
+      "section": "hub_names",
+      "tgt": "Emoções ao ar livre",
+      "fr_ref": "Sensations plein air",
+      "en_ref": "Outdoor thrills",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Sensations plein air",
+        "Sensations plein air / Émotions en plein air",
+        "Sensations plein air"
+      ],
+      "back_en": [
+        "Outdoor thrills",
+        "Outdoor thrills",
+        "Outdoor thrills"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "hub_names.sorties-detente",
+      "key": "sorties-detente",
+      "section": "hub_names",
+      "tgt": "Passeios relaxantes",
+      "fr_ref": "Sorties détente",
+      "en_ref": "Relaxing outings",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Sorties détente",
+        "Sorties détente / Balades relaxantes",
+        "Sorties détente"
+      ],
+      "back_en": [
+        "Relaxing outings",
+        "Relaxing outings",
+        "Relaxing outings"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "hub_names.sport-jeux",
+      "key": "sport-jeux",
+      "section": "hub_names",
+      "tgt": "Desporto e jogos",
+      "fr_ref": "Sport & jeux",
+      "en_ref": "Sport & games",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Sport et jeux",
+        "Sport & jeux",
+        "Sport & jeux"
+      ],
+      "back_en": [
+        "Sport & games",
+        "Sport & games",
+        "Sport & games"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "months.01",
+      "key": "01",
+      "section": "months",
+      "tgt": "janeiro",
+      "fr_ref": "janvier",
+      "en_ref": "January",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "janvier",
+        "janvier",
+        "janvier"
+      ],
+      "back_en": [
+        "January",
+        "January",
+        "January"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "months.02",
+      "key": "02",
+      "section": "months",
+      "tgt": "fevereiro",
+      "fr_ref": "février",
+      "en_ref": "February",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "février",
+        "février",
+        "février"
+      ],
+      "back_en": [
+        "February",
+        "February",
+        "February"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "months.03",
+      "key": "03",
+      "section": "months",
+      "tgt": "março",
+      "fr_ref": "mars",
+      "en_ref": "March",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "mars",
+        "mars",
+        "mars"
+      ],
+      "back_en": [
+        "March",
+        "March",
+        "March"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "months.04",
+      "key": "04",
+      "section": "months",
+      "tgt": "abril",
+      "fr_ref": "avril",
+      "en_ref": "April",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "avril",
+        "avril",
+        "avril"
+      ],
+      "back_en": [
+        "April",
+        "April",
+        "April"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "months.05",
+      "key": "05",
+      "section": "months",
+      "tgt": "maio",
+      "fr_ref": "mai",
+      "en_ref": "May",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "mai",
+        "mai",
+        "mai"
+      ],
+      "back_en": [
+        "May",
+        "May",
+        "May"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "months.06",
+      "key": "06",
+      "section": "months",
+      "tgt": "junho",
+      "fr_ref": "juin",
+      "en_ref": "June",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "juin",
+        "juin",
+        "juin"
+      ],
+      "back_en": [
+        "June",
+        "June",
+        "June"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "months.07",
+      "key": "07",
+      "section": "months",
+      "tgt": "julho",
+      "fr_ref": "juillet",
+      "en_ref": "July",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "juillet",
+        "juillet",
+        "juillet"
+      ],
+      "back_en": [
+        "July",
+        "July",
+        "July"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "months.08",
+      "key": "08",
+      "section": "months",
+      "tgt": "agosto",
+      "fr_ref": "août",
+      "en_ref": "August",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "août",
+        "août",
+        "août"
+      ],
+      "back_en": [
+        "August",
+        "August",
+        "August"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "months.09",
+      "key": "09",
+      "section": "months",
+      "tgt": "setembro",
+      "fr_ref": "septembre",
+      "en_ref": "September",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "septembre",
+        "septembre",
+        "septembre"
+      ],
+      "back_en": [
+        "September",
+        "September",
+        "September"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "months.10",
+      "key": "10",
+      "section": "months",
+      "tgt": "outubro",
+      "fr_ref": "octobre",
+      "en_ref": "October",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "octobre",
+        "octobre",
+        "octobre"
+      ],
+      "back_en": [
+        "October",
+        "October",
+        "October"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "months.11",
+      "key": "11",
+      "section": "months",
+      "tgt": "novembro",
+      "fr_ref": "novembre",
+      "en_ref": "November",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "novembre",
+        "novembre",
+        "novembre"
+      ],
+      "back_en": [
+        "November",
+        "November",
+        "November"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "months.12",
+      "key": "12",
+      "section": "months",
+      "tgt": "dezembro",
+      "fr_ref": "décembre",
+      "en_ref": "December",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "décembre",
+        "décembre",
+        "décembre"
+      ],
+      "back_en": [
+        "December",
+        "December",
+        "December"
+      ],
+      "reasons": []
+    }
+  ]
+}

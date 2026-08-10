@@ -1,0 +1,1742 @@
+{
+  "lang": "ar",
+  "date": "2026-06-30",
+  "method": "tiered router: Haiku bulk + Sonnet hard keys (3x blind), polar+label-drift always Sonnet",
+  "keys": 86,
+  "verified": 86,
+  "escalations": 0,
+  "tiers": {
+    "haiku": 70,
+    "sonnet": 16
+  },
+  "corrections": [
+    {
+      "key": "surveillance",
+      "old": "الإنقاذ",
+      "new": "مراقبة الشاطئ"
+    }
+  ],
+  "tier3_native": [],
+  "overall": "PASS",
+  "results": [
+    {
+      "id": "fact_labels.type",
+      "key": "type",
+      "section": "fact_labels",
+      "tgt": "النوع",
+      "fr_ref": "Type",
+      "en_ref": "Type",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Type",
+        "Type",
+        "Type"
+      ],
+      "back_en": [
+        "Type",
+        "Type",
+        "Type"
+      ],
+      "verified": true
+    },
+    {
+      "id": "fact_labels.access",
+      "key": "access",
+      "section": "fact_labels",
+      "tgt": "الوصول",
+      "fr_ref": "Accès",
+      "en_ref": "Access",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Accès",
+        "Accès",
+        "Accès"
+      ],
+      "back_en": [
+        "Access",
+        "Access",
+        "Access"
+      ],
+      "verified": true
+    },
+    {
+      "id": "fact_labels.commune",
+      "key": "commune",
+      "section": "fact_labels",
+      "tgt": "البلدة",
+      "fr_ref": "Commune",
+      "en_ref": "Town",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Commune",
+        "Commune",
+        "Commune/Localité"
+      ],
+      "back_en": [
+        "Town",
+        "Municipality/Town",
+        "Town/Municipality"
+      ],
+      "verified": true
+    },
+    {
+      "id": "fact_labels.duration",
+      "key": "duration",
+      "section": "fact_labels",
+      "tgt": "المدة",
+      "fr_ref": "Durée",
+      "en_ref": "Duration",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Durée",
+        "Durée",
+        "Durée"
+      ],
+      "back_en": [
+        "Duration",
+        "Duration",
+        "Duration"
+      ],
+      "verified": true
+    },
+    {
+      "id": "fact_labels.tarif",
+      "key": "tarif",
+      "section": "fact_labels",
+      "tgt": "السعر",
+      "fr_ref": "Tarif",
+      "en_ref": "Price",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Tarif",
+        "Tarif/Prix",
+        "Prix"
+      ],
+      "back_en": [
+        "Price",
+        "Price/Tariff",
+        "Price"
+      ],
+      "verified": true
+    },
+    {
+      "id": "fact_labels.parking",
+      "key": "parking",
+      "section": "fact_labels",
+      "tgt": "موقف السيارات",
+      "fr_ref": "Parking",
+      "en_ref": "Parking",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Parking",
+        "Parking",
+        "Stationnement/Parking"
+      ],
+      "back_en": [
+        "Parking",
+        "Parking",
+        "Parking"
+      ],
+      "verified": true
+    },
+    {
+      "id": "fact_labels.dogs",
+      "key": "dogs",
+      "section": "fact_labels",
+      "tgt": "الكلاب",
+      "fr_ref": "Chiens",
+      "en_ref": "Dogs",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Chiens",
+        "Chiens",
+        "Chiens"
+      ],
+      "back_en": [
+        "Dogs",
+        "Dogs",
+        "Dogs"
+      ],
+      "verified": true
+    },
+    {
+      "id": "fact_labels.stroller",
+      "key": "stroller",
+      "section": "fact_labels",
+      "tgt": "عربة الأطفال",
+      "fr_ref": "Poussette",
+      "en_ref": "Stroller",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Poussette",
+        "Poussette",
+        "Poussette"
+      ],
+      "back_en": [
+        "Stroller",
+        "Stroller/Pram",
+        "Stroller/Pram"
+      ],
+      "verified": true
+    },
+    {
+      "id": "fact_labels.best_season",
+      "key": "best_season",
+      "section": "fact_labels",
+      "tgt": "أفضل موسم",
+      "fr_ref": "Meilleure saison",
+      "en_ref": "Best season",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Meilleure saison",
+        "Meilleure saison",
+        "Meilleure saison"
+      ],
+      "back_en": [
+        "Best season",
+        "Best season",
+        "Best season"
+      ],
+      "verified": true
+    },
+    {
+      "id": "fact_labels.altitude",
+      "key": "altitude",
+      "section": "fact_labels",
+      "tgt": "الارتفاع",
+      "fr_ref": "Altitude",
+      "en_ref": "Altitude",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Altitude",
+        "Altitude",
+        "Altitude"
+      ],
+      "back_en": [
+        "Altitude",
+        "Altitude",
+        "Altitude"
+      ],
+      "verified": true
+    },
+    {
+      "id": "fact_labels.lac",
+      "key": "lac",
+      "section": "fact_labels",
+      "tgt": "البحيرة",
+      "fr_ref": "Lac",
+      "en_ref": "Lake",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Lac",
+        "Lac",
+        "Lac"
+      ],
+      "back_en": [
+        "Lake",
+        "Lake",
+        "Lake"
+      ],
+      "verified": true
+    },
+    {
+      "id": "fact_labels.surveillance",
+      "key": "surveillance",
+      "section": "fact_labels",
+      "tgt": "مراقبة الشاطئ",
+      "fr_ref": "Surveillance",
+      "en_ref": "Lifeguard supervision",
+      "tier": "sonnet",
+      "verdict": "MISMATCH",
+      "back_fr": [
+        "Surveillance de la plage",
+        "Surveillance de la plage",
+        "Surveillance de la plage"
+      ],
+      "back_en": [
+        "Beach surveillance / monitoring (the service)",
+        "Beach surveillance / beach monitoring",
+        "Beach surveillance / Beach monitoring"
+      ],
+      "note": "الإنقاذ back-translates to 'rescue' or 'life-saving act', drifting toward the lifeguard action/person rather than the supervision/monitoring SERVICE label. FR ref 'Surveillance' and EN ref 'Lifeguard supervision' denote the category/label of beach watching. مراقبة الشاطئ (beach supervision/monitoring) correctly captures the label concept without conflating it with the rescue act.",
+      "correction": "مراقبة الشاطئ",
+      "verified": true,
+      "status": "corrected+reverified-3x"
+    },
+    {
+      "id": "fact_labels.pavillon_bleu",
+      "key": "pavillon_bleu",
+      "section": "fact_labels",
+      "tgt": "العلم الأزرق",
+      "fr_ref": "Pavillon Bleu",
+      "en_ref": "Blue Flag",
+      "tier": "sonnet",
+      "verdict": "MATCH",
+      "back_fr": "Le Pavillon Bleu",
+      "back_en": "The Blue Flag",
+      "note": "العلم الأزرق is a direct calque of the Blue Flag eco-label brand name. Correct concept, no drift.",
+      "correction": null,
+      "verified": true
+    },
+    {
+      "id": "fact_labels.difficulty",
+      "key": "difficulty",
+      "section": "fact_labels",
+      "tgt": "الصعوبة",
+      "fr_ref": "Difficulté",
+      "en_ref": "Difficulty",
+      "tier": "sonnet",
+      "verdict": "MATCH",
+      "back_fr": "Difficulté",
+      "back_en": "Difficulty",
+      "note": "الصعوبة is the standard MSA rendering of 'difficulty/difficulty level'. No drift.",
+      "correction": null,
+      "verified": true
+    },
+    {
+      "id": "fact_labels.acces_pmr",
+      "key": "acces_pmr",
+      "section": "fact_labels",
+      "tgt": "وصول الكراسي المتحركة",
+      "fr_ref": "Accès PMR",
+      "en_ref": "Wheelchair access",
+      "tier": "sonnet",
+      "verdict": "MATCH",
+      "back_fr": "Accès fauteuil roulant / Accès PMR",
+      "back_en": "Wheelchair access / Reduced-mobility access",
+      "note": "وصول الكراسي المتحركة correctly renders PMR wheelchair access as a label. Accurate and unambiguous.",
+      "correction": null,
+      "verified": true
+    },
+    {
+      "id": "fact_labels.adresse",
+      "key": "adresse",
+      "section": "fact_labels",
+      "tgt": "العنوان",
+      "fr_ref": "Adresse",
+      "en_ref": "Address",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Adresse",
+        "Adresse",
+        "Adresse"
+      ],
+      "back_en": [
+        "Address",
+        "Address",
+        "Address"
+      ],
+      "verified": true
+    },
+    {
+      "id": "fact_labels.horaires",
+      "key": "horaires",
+      "section": "fact_labels",
+      "tgt": "ساعات العمل",
+      "fr_ref": "Horaires",
+      "en_ref": "Opening hours",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Horaires/Heures",
+        "Horaires",
+        "Heures d'ouverture"
+      ],
+      "back_en": [
+        "Hours/Times",
+        "Hours/Opening hours",
+        "Opening hours"
+      ],
+      "verified": true
+    },
+    {
+      "id": "fact_labels.telephone",
+      "key": "telephone",
+      "section": "fact_labels",
+      "tgt": "الهاتف",
+      "fr_ref": "Téléphone",
+      "en_ref": "Phone",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Téléphone",
+        "Téléphone",
+        "Téléphone"
+      ],
+      "back_en": [
+        "Phone",
+        "Phone",
+        "Phone"
+      ],
+      "verified": true
+    },
+    {
+      "id": "fact_labels.site_officiel",
+      "key": "site_officiel",
+      "section": "fact_labels",
+      "tgt": "الموقع الرسمي",
+      "fr_ref": "Site officiel",
+      "en_ref": "Official website",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Site officiel",
+        "Site officiel",
+        "Site officiel"
+      ],
+      "back_en": [
+        "Official website",
+        "Official website",
+        "Official website"
+      ],
+      "verified": true
+    },
+    {
+      "id": "fact_labels.itineraire",
+      "key": "itineraire",
+      "section": "fact_labels",
+      "tgt": "الاتجاهات",
+      "fr_ref": "Itinéraire",
+      "en_ref": "Directions",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Itinéraire",
+        "Itinéraire",
+        "Itinéraire"
+      ],
+      "back_en": [
+        "Itinerary/Directions",
+        "Directions",
+        "Directions"
+      ],
+      "verified": true
+    },
+    {
+      "id": "fact_values.gratuit",
+      "key": "gratuit",
+      "section": "fact_values",
+      "tgt": "مجاني",
+      "fr_ref": "Gratuit",
+      "en_ref": "Free",
+      "tier": "sonnet",
+      "verdict": "MATCH",
+      "back_fr": "Gratuit",
+      "back_en": "Free (of charge)",
+      "note": "مجاني = free/no charge. Positive pole confirmed.",
+      "correction": null,
+      "verified": true
+    },
+    {
+      "id": "fact_values.payant",
+      "key": "payant",
+      "section": "fact_values",
+      "tgt": "مدفوع",
+      "fr_ref": "Payant",
+      "en_ref": "Paid",
+      "tier": "sonnet",
+      "verdict": "MATCH",
+      "back_fr": "Payant",
+      "back_en": "Paid / Fee-based",
+      "note": "مدفوع = paid/requires payment. Negative pole confirmed. Widely understood in MSA for fee-based services.",
+      "correction": null,
+      "verified": true
+    },
+    {
+      "id": "fact_values.oui",
+      "key": "oui",
+      "section": "fact_values",
+      "tgt": "نعم",
+      "fr_ref": "Oui",
+      "en_ref": "Yes",
+      "tier": "sonnet",
+      "verdict": "MATCH",
+      "back_fr": "Oui",
+      "back_en": "Yes",
+      "note": "نعم = yes. Positive pole confirmed.",
+      "correction": null,
+      "verified": true
+    },
+    {
+      "id": "fact_values.non",
+      "key": "non",
+      "section": "fact_values",
+      "tgt": "لا",
+      "fr_ref": "Non",
+      "en_ref": "No",
+      "tier": "sonnet",
+      "verdict": "MATCH",
+      "back_fr": "Non",
+      "back_en": "No",
+      "note": "لا = no. Negative pole confirmed.",
+      "correction": null,
+      "verified": true
+    },
+    {
+      "id": "fact_values.surveillee",
+      "key": "surveillee",
+      "section": "fact_values",
+      "tgt": "شاطئ بحراسة",
+      "fr_ref": "Plage surveillée",
+      "en_ref": "Lifeguarded",
+      "tier": "sonnet",
+      "verdict": "MATCH",
+      "back_fr": "Plage surveillée / Avec surveillance",
+      "back_en": "Lifeguarded / With lifeguard",
+      "note": "شاطئ بحراسة = beach with guard/supervision. Positive pole (supervised) confirmed. Consistent with the label correction: حراسة here denotes supervision-presence as a value, which is acceptable.",
+      "correction": null,
+      "verified": true
+    },
+    {
+      "id": "fact_values.non_surveillee",
+      "key": "non_surveillee",
+      "section": "fact_values",
+      "tgt": "بدون حراسة",
+      "fr_ref": "Non surveillée",
+      "en_ref": "No lifeguard",
+      "tier": "sonnet",
+      "verdict": "MATCH",
+      "back_fr": "Non surveillée / Sans surveillance",
+      "back_en": "No lifeguard / Unguarded",
+      "note": "بدون حراسة = without guard/supervision. Negative pole confirmed.",
+      "correction": null,
+      "verified": true
+    },
+    {
+      "id": "fact_values.pmr_accessible",
+      "key": "pmr_accessible",
+      "section": "fact_values",
+      "tgt": "متاح للوصول",
+      "fr_ref": "Accessible",
+      "en_ref": "Accessible",
+      "tier": "sonnet",
+      "verdict": "MATCH",
+      "back_fr": "Accessible",
+      "back_en": "Accessible",
+      "note": "متاح للوصول = accessible/available for access. Positive pole confirmed.",
+      "correction": null,
+      "verified": true
+    },
+    {
+      "id": "fact_values.pmr_partiel",
+      "key": "pmr_partiel",
+      "section": "fact_values",
+      "tgt": "متاح جزئيًا",
+      "fr_ref": "Partiellement accessible",
+      "en_ref": "Partly accessible",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Partiellement accessible",
+        "Partiellement accessible",
+        "Partiellement accessible"
+      ],
+      "back_en": [
+        "Partly accessible",
+        "Partly accessible",
+        "Partially accessible"
+      ],
+      "verified": true
+    },
+    {
+      "id": "fact_values.pmr_non",
+      "key": "pmr_non",
+      "section": "fact_values",
+      "tgt": "غير متاح للوصول",
+      "fr_ref": "Non accessible",
+      "en_ref": "Not accessible",
+      "tier": "sonnet",
+      "verdict": "MATCH",
+      "back_fr": "Non accessible",
+      "back_en": "Not accessible",
+      "note": "غير متاح للوصول = not accessible. Negative pole confirmed. Parallel negation with متاح للوصول is clean.",
+      "correction": null,
+      "verified": true
+    },
+    {
+      "id": "fact_values.pmr_non_renseigne",
+      "key": "pmr_non_renseigne",
+      "section": "fact_values",
+      "tgt": "غير محدد",
+      "fr_ref": "Non renseignée",
+      "en_ref": "Not stated",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Non renseignée",
+        "Non renseigné",
+        "Non renseigné"
+      ],
+      "back_en": [
+        "Not stated",
+        "Not stated/Unknown",
+        "Not specified"
+      ],
+      "verified": true
+    },
+    {
+      "id": "fact_values.ouvert",
+      "key": "ouvert",
+      "section": "fact_values",
+      "tgt": "مفتوح",
+      "fr_ref": "Ouvert",
+      "en_ref": "Open",
+      "tier": "sonnet",
+      "verdict": "MATCH",
+      "back_fr": "Ouvert",
+      "back_en": "Open",
+      "note": "مفتوح = open. Positive pole confirmed.",
+      "correction": null,
+      "verified": true
+    },
+    {
+      "id": "fact_values.ferme",
+      "key": "ferme",
+      "section": "fact_values",
+      "tgt": "مغلق",
+      "fr_ref": "Fermé",
+      "en_ref": "Closed",
+      "tier": "sonnet",
+      "verdict": "MATCH",
+      "back_fr": "Fermé",
+      "back_en": "Closed",
+      "note": "مغلق = closed. Negative pole confirmed.",
+      "correction": null,
+      "verified": true
+    },
+    {
+      "id": "fact_values.saisonnier",
+      "key": "saisonnier",
+      "section": "fact_values",
+      "tgt": "موسمي",
+      "fr_ref": "Saisonnier",
+      "en_ref": "Seasonal",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Saisonnier",
+        "Saisonnier",
+        "Saisonnier"
+      ],
+      "back_en": [
+        "Seasonal",
+        "Seasonal",
+        "Seasonal"
+      ],
+      "verified": true
+    },
+    {
+      "id": "fact_values.dogs_ok",
+      "key": "dogs_ok",
+      "section": "fact_values",
+      "tgt": "مسموح",
+      "fr_ref": "Autorisés",
+      "en_ref": "Allowed",
+      "tier": "sonnet",
+      "verdict": "MATCH",
+      "back_fr": "Autorisés",
+      "back_en": "Allowed",
+      "note": "مسموح = allowed/permitted. Positive pole confirmed.",
+      "correction": null,
+      "verified": true
+    },
+    {
+      "id": "fact_values.dogs_no",
+      "key": "dogs_no",
+      "section": "fact_values",
+      "tgt": "ممنوع",
+      "fr_ref": "Interdits",
+      "en_ref": "Not allowed",
+      "tier": "sonnet",
+      "verdict": "MATCH",
+      "back_fr": "Interdits",
+      "back_en": "Not allowed / Forbidden",
+      "note": "ممنوع = forbidden/not allowed. Negative pole confirmed.",
+      "correction": null,
+      "verified": true
+    },
+    {
+      "id": "descriptors_by_type.plage",
+      "key": "plage",
+      "section": "descriptors_by_type",
+      "tgt": "شاطئ",
+      "fr_ref": "Plage",
+      "en_ref": "Beach",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Plage",
+        "Plage",
+        "Plage"
+      ],
+      "back_en": [
+        "Beach",
+        "Beach",
+        "Beach"
+      ],
+      "verified": true
+    },
+    {
+      "id": "descriptors_by_type.lac",
+      "key": "lac",
+      "section": "descriptors_by_type",
+      "tgt": "بحيرة",
+      "fr_ref": "Lac",
+      "en_ref": "Lake",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Lac",
+        "Lac",
+        "Lac"
+      ],
+      "back_en": [
+        "Lake",
+        "Lake",
+        "Lake"
+      ],
+      "verified": true
+    },
+    {
+      "id": "descriptors_by_type.cascade",
+      "key": "cascade",
+      "section": "descriptors_by_type",
+      "tgt": "شلال",
+      "fr_ref": "Cascade",
+      "en_ref": "Waterfall",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Cascade",
+        "Cascade",
+        "Cascade"
+      ],
+      "back_en": [
+        "Waterfall",
+        "Waterfall",
+        "Waterfall"
+      ],
+      "verified": true
+    },
+    {
+      "id": "descriptors_by_type.gorges",
+      "key": "gorges",
+      "section": "descriptors_by_type",
+      "tgt": "مضيق",
+      "fr_ref": "Gorges",
+      "en_ref": "Gorge",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Gorges",
+        "Gorges",
+        "Gorges"
+      ],
+      "back_en": [
+        "Gorge",
+        "Gorges/Canyon",
+        "Gorge/Canyon"
+      ],
+      "verified": true
+    },
+    {
+      "id": "descriptors_by_type.chateau",
+      "key": "chateau",
+      "section": "descriptors_by_type",
+      "tgt": "قلعة",
+      "fr_ref": "Château",
+      "en_ref": "Castle",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Château",
+        "Château",
+        "Château"
+      ],
+      "back_en": [
+        "Castle",
+        "Castle",
+        "Castle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "descriptors_by_type.musee",
+      "key": "musee",
+      "section": "descriptors_by_type",
+      "tgt": "متحف",
+      "fr_ref": "Musée",
+      "en_ref": "Museum",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Musée",
+        "Musée",
+        "Musée"
+      ],
+      "back_en": [
+        "Museum",
+        "Museum",
+        "Museum"
+      ],
+      "verified": true
+    },
+    {
+      "id": "descriptors_by_type.telecabine",
+      "key": "telecabine",
+      "section": "descriptors_by_type",
+      "tgt": "تلفريك",
+      "fr_ref": "Télécabine",
+      "en_ref": "Cable car",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Télécabine",
+        "Télécabine",
+        "Télécabine"
+      ],
+      "back_en": [
+        "Cable car",
+        "Cable car",
+        "Cable car"
+      ],
+      "verified": true
+    },
+    {
+      "id": "descriptors_by_type.point_de_vue",
+      "key": "point_de_vue",
+      "section": "descriptors_by_type",
+      "tgt": "نقطة مشاهدة",
+      "fr_ref": "Point de vue",
+      "en_ref": "Viewpoint",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Point de vue",
+        "Point de vue",
+        "Point de vue"
+      ],
+      "back_en": [
+        "Viewpoint",
+        "Viewpoint",
+        "Viewpoint"
+      ],
+      "verified": true
+    },
+    {
+      "id": "descriptors_by_type.sentier",
+      "key": "sentier",
+      "section": "descriptors_by_type",
+      "tgt": "مسار",
+      "fr_ref": "Sentier",
+      "en_ref": "Trail",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Sentier",
+        "Sentier",
+        "Sentier"
+      ],
+      "back_en": [
+        "Trail",
+        "Trail/Path",
+        "Trail/Path"
+      ],
+      "verified": true
+    },
+    {
+      "id": "descriptors_by_type.parc",
+      "key": "parc",
+      "section": "descriptors_by_type",
+      "tgt": "حديقة",
+      "fr_ref": "Parc",
+      "en_ref": "Park",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Parc",
+        "Parc",
+        "Parc"
+      ],
+      "back_en": [
+        "Park",
+        "Park",
+        "Park"
+      ],
+      "verified": true
+    },
+    {
+      "id": "descriptors_by_type.voie_verte",
+      "key": "voie_verte",
+      "section": "descriptors_by_type",
+      "tgt": "ممر أخضر",
+      "fr_ref": "Voie verte",
+      "en_ref": "Greenway",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Voie verte",
+        "Voie verte",
+        "Voie verte"
+      ],
+      "back_en": [
+        "Greenway",
+        "Greenway",
+        "Greenway"
+      ],
+      "verified": true
+    },
+    {
+      "id": "descriptors_by_type.base_loisirs",
+      "key": "base_loisirs",
+      "section": "descriptors_by_type",
+      "tgt": "منتزه ترفيهي",
+      "fr_ref": "Base de loisirs",
+      "en_ref": "Leisure park",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Base de loisirs",
+        "Base de loisirs",
+        "Base de loisirs"
+      ],
+      "back_en": [
+        "Leisure park",
+        "Leisure park",
+        "Leisure park"
+      ],
+      "verified": true
+    },
+    {
+      "id": "descriptors_by_type.eglise",
+      "key": "eglise",
+      "section": "descriptors_by_type",
+      "tgt": "كنيسة",
+      "fr_ref": "Église",
+      "en_ref": "Church",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Église",
+        "Église",
+        "Église"
+      ],
+      "back_en": [
+        "Church",
+        "Church",
+        "Church"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ui_chrome.accueil",
+      "key": "accueil",
+      "section": "ui_chrome",
+      "tgt": "الرئيسية",
+      "fr_ref": "Accueil",
+      "en_ref": "Home",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Accueil",
+        "Accueil",
+        "Accueil"
+      ],
+      "back_en": [
+        "Home",
+        "Home",
+        "Home"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ui_chrome.l_essentiel",
+      "key": "l_essentiel",
+      "section": "ui_chrome",
+      "tgt": "أبرز المعلومات",
+      "fr_ref": "L'essentiel",
+      "en_ref": "Key facts",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "L'essentiel",
+        "L'essentiel",
+        "L'essentiel"
+      ],
+      "back_en": [
+        "The essentials/Key facts",
+        "The essential/Key facts",
+        "Essential/Key facts"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ui_chrome.voir_fiche",
+      "key": "voir_fiche",
+      "section": "ui_chrome",
+      "tgt": "عرض التفاصيل",
+      "fr_ref": "Voir la fiche",
+      "en_ref": "View details",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Voir la fiche",
+        "Voir la fiche",
+        "Voir la fiche"
+      ],
+      "back_en": [
+        "View details",
+        "View details",
+        "View details"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ui_chrome.plages_voisines",
+      "key": "plages_voisines",
+      "section": "ui_chrome",
+      "tgt": "الشواطئ القريبة",
+      "fr_ref": "Plages voisines",
+      "en_ref": "Nearby beaches",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Plages voisines",
+        "Plages voisines",
+        "Plages voisines"
+      ],
+      "back_en": [
+        "Nearby beaches",
+        "Nearby beaches",
+        "Nearby beaches"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ui_chrome.questions_frequentes",
+      "key": "questions_frequentes",
+      "section": "ui_chrome",
+      "tgt": "الأسئلة الشائعة",
+      "fr_ref": "Questions fréquentes",
+      "en_ref": "FAQ",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Questions fréquentes",
+        "Questions fréquentes",
+        "Questions fréquentes"
+      ],
+      "back_en": [
+        "Frequently asked questions/FAQ",
+        "FAQ",
+        "Frequently asked/FAQ"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ui_chrome.y_aller",
+      "key": "y_aller",
+      "section": "ui_chrome",
+      "tgt": "الوصول وركن السيارة",
+      "fr_ref": "Y aller & se garer",
+      "en_ref": "Getting there & parking",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Y aller et se garer",
+        "Y aller & se garer",
+        "Y aller et se garer"
+      ],
+      "back_en": [
+        "Getting there and parking",
+        "Getting there & parking",
+        "Getting there & parking"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ui_chrome.source_officielle",
+      "key": "source_officielle",
+      "section": "ui_chrome",
+      "tgt": "المصدر الرسمي",
+      "fr_ref": "Source officielle",
+      "en_ref": "Official source",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Source officielle",
+        "Source officielle",
+        "Source officielle"
+      ],
+      "back_en": [
+        "Official source",
+        "Official source",
+        "Official source"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ui_chrome.pres_de_moi",
+      "key": "pres_de_moi",
+      "section": "ui_chrome",
+      "tgt": "بالقرب مني",
+      "fr_ref": "Près de moi",
+      "en_ref": "Near me",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Près de moi",
+        "Près de moi",
+        "Près de moi"
+      ],
+      "back_en": [
+        "Near me",
+        "Near me",
+        "Near me"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ui_chrome.rechercher",
+      "key": "rechercher",
+      "section": "ui_chrome",
+      "tgt": "بحث",
+      "fr_ref": "Rechercher",
+      "en_ref": "Search",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Rechercher",
+        "Rechercher",
+        "Rechercher"
+      ],
+      "back_en": [
+        "Search",
+        "Search",
+        "Search"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ui_chrome.toutes_categories",
+      "key": "toutes_categories",
+      "section": "ui_chrome",
+      "tgt": "جميع الفئات",
+      "fr_ref": "Toutes les catégories",
+      "en_ref": "All categories",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Toutes les catégories",
+        "Toutes les catégories",
+        "Toutes les catégories"
+      ],
+      "back_en": [
+        "All categories",
+        "All categories",
+        "All categories"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ui_chrome.voir_carte",
+      "key": "voir_carte",
+      "section": "ui_chrome",
+      "tgt": "عرض على الخريطة",
+      "fr_ref": "Voir sur la carte",
+      "en_ref": "View on map",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Voir sur la carte",
+        "Voir sur la carte",
+        "Voir sur la carte"
+      ],
+      "back_en": [
+        "View on map",
+        "View on map",
+        "View on map"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hub_names.cascades",
+      "key": "cascades",
+      "section": "hub_names",
+      "tgt": "الشلالات",
+      "fr_ref": "Cascades",
+      "en_ref": "Waterfalls",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Cascades",
+        "Cascades",
+        "Cascades"
+      ],
+      "back_en": [
+        "Waterfalls",
+        "Waterfalls",
+        "Waterfalls"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hub_names.chateaux",
+      "key": "chateaux",
+      "section": "hub_names",
+      "tgt": "القلاع",
+      "fr_ref": "Châteaux",
+      "en_ref": "Castles",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Châteaux",
+        "Châteaux",
+        "Châteaux"
+      ],
+      "back_en": [
+        "Castles",
+        "Castles",
+        "Castles"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hub_names.lacs-plages",
+      "key": "lacs-plages",
+      "section": "hub_names",
+      "tgt": "البحيرات والشواطئ",
+      "fr_ref": "Lacs & plages",
+      "en_ref": "Lakes & beaches",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Lacs et plages",
+        "Lacs et plages",
+        "Lacs et plages"
+      ],
+      "back_en": [
+        "Lakes and beaches",
+        "Lakes and beaches",
+        "Lakes and beaches"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hub_names.musees",
+      "key": "musees",
+      "section": "hub_names",
+      "tgt": "المتاحف",
+      "fr_ref": "Musées",
+      "en_ref": "Museums",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Musées",
+        "Musées",
+        "Musées"
+      ],
+      "back_en": [
+        "Museums",
+        "Museums",
+        "Museums"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hub_names.parcs-jardins",
+      "key": "parcs-jardins",
+      "section": "hub_names",
+      "tgt": "الحدائق والمتنزهات",
+      "fr_ref": "Parcs & jardins",
+      "en_ref": "Parks & gardens",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Parcs et jardins",
+        "Parcs et jardins",
+        "Parcs et jardins"
+      ],
+      "back_en": [
+        "Parks and gardens",
+        "Parks and gardens",
+        "Parks and gardens"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hub_names.points-de-vue",
+      "key": "points-de-vue",
+      "section": "hub_names",
+      "tgt": "نقاط المشاهدة",
+      "fr_ref": "Points de vue",
+      "en_ref": "Viewpoints",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Points de vue",
+        "Points de vue",
+        "Points de vue"
+      ],
+      "back_en": [
+        "Viewpoints",
+        "Viewpoints",
+        "Viewpoints"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hub_names.sentiers",
+      "key": "sentiers",
+      "section": "hub_names",
+      "tgt": "المسارات",
+      "fr_ref": "Sentiers",
+      "en_ref": "Trails",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Sentiers",
+        "Sentiers",
+        "Sentiers"
+      ],
+      "back_en": [
+        "Trails",
+        "Trails",
+        "Trails"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hub_names.telecabines",
+      "key": "telecabines",
+      "section": "hub_names",
+      "tgt": "التلفريك",
+      "fr_ref": "Télécabines",
+      "en_ref": "Cable cars",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Télécabines",
+        "Télécabines",
+        "Télécabines"
+      ],
+      "back_en": [
+        "Cable cars",
+        "Cable cars",
+        "Cable cars"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hub_names.voies-vertes",
+      "key": "voies-vertes",
+      "section": "hub_names",
+      "tgt": "الممرات الخضراء",
+      "fr_ref": "Voies vertes",
+      "en_ref": "Greenways",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Voies vertes",
+        "Voies vertes",
+        "Voies vertes"
+      ],
+      "back_en": [
+        "Greenways",
+        "Greenways",
+        "Greenways"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hub_names.baignade-nautisme",
+      "key": "baignade-nautisme",
+      "section": "hub_names",
+      "tgt": "السباحة والرياضات المائية",
+      "fr_ref": "Baignade & nautisme",
+      "en_ref": "Swimming & watersports",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Baignade et nautisme",
+        "Baignade et nautisme",
+        "Baignade et nautisme"
+      ],
+      "back_en": [
+        "Swimming and watersports",
+        "Swimming and watersports",
+        "Swimming and watersports"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hub_names.bases-de-loisirs",
+      "key": "bases-de-loisirs",
+      "section": "hub_names",
+      "tgt": "المنتزهات الترفيهية",
+      "fr_ref": "Bases de loisirs",
+      "en_ref": "Leisure parks",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Bases de loisirs",
+        "Bases de loisirs",
+        "Bases de loisirs"
+      ],
+      "back_en": [
+        "Leisure parks",
+        "Leisure parks",
+        "Leisure parks"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hub_names.que-faire",
+      "key": "que-faire",
+      "section": "hub_names",
+      "tgt": "ماذا تفعل",
+      "fr_ref": "Que faire",
+      "en_ref": "What to do",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Que faire",
+        "Que faire",
+        "Que faire"
+      ],
+      "back_en": [
+        "What to do",
+        "What to do",
+        "What to do"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hub_names.sensations-plein-air",
+      "key": "sensations-plein-air",
+      "section": "hub_names",
+      "tgt": "مغامرات في الهواء الطلق",
+      "fr_ref": "Sensations plein air",
+      "en_ref": "Outdoor thrills",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Sensations plein air",
+        "Sensations plein air",
+        "Sensations plein air"
+      ],
+      "back_en": [
+        "Outdoor thrills",
+        "Outdoor thrills",
+        "Outdoor thrills"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hub_names.sorties-detente",
+      "key": "sorties-detente",
+      "section": "hub_names",
+      "tgt": "رحلات استرخاء",
+      "fr_ref": "Sorties détente",
+      "en_ref": "Relaxing outings",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Sorties détente",
+        "Sorties détente",
+        "Sorties détente"
+      ],
+      "back_en": [
+        "Relaxing outings",
+        "Relaxing outings",
+        "Relaxing outings"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hub_names.sport-jeux",
+      "key": "sport-jeux",
+      "section": "hub_names",
+      "tgt": "الرياضة والألعاب",
+      "fr_ref": "Sport & jeux",
+      "en_ref": "Sport & games",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "Sport et jeux",
+        "Sport et jeux",
+        "Sport et jeux"
+      ],
+      "back_en": [
+        "Sport and games",
+        "Sport and games",
+        "Sport and games"
+      ],
+      "verified": true
+    },
+    {
+      "id": "months.01",
+      "key": "01",
+      "section": "months",
+      "tgt": "يناير",
+      "fr_ref": "janvier",
+      "en_ref": "January",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "janvier",
+        "janvier",
+        "janvier"
+      ],
+      "back_en": [
+        "January",
+        "January",
+        "January"
+      ],
+      "verified": true
+    },
+    {
+      "id": "months.02",
+      "key": "02",
+      "section": "months",
+      "tgt": "فبراير",
+      "fr_ref": "février",
+      "en_ref": "February",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "février",
+        "février",
+        "février"
+      ],
+      "back_en": [
+        "February",
+        "February",
+        "February"
+      ],
+      "verified": true
+    },
+    {
+      "id": "months.03",
+      "key": "03",
+      "section": "months",
+      "tgt": "مارس",
+      "fr_ref": "mars",
+      "en_ref": "March",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "mars",
+        "mars",
+        "mars"
+      ],
+      "back_en": [
+        "March",
+        "March",
+        "March"
+      ],
+      "verified": true
+    },
+    {
+      "id": "months.04",
+      "key": "04",
+      "section": "months",
+      "tgt": "أبريل",
+      "fr_ref": "avril",
+      "en_ref": "April",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "avril",
+        "avril",
+        "avril"
+      ],
+      "back_en": [
+        "April",
+        "April",
+        "April"
+      ],
+      "verified": true
+    },
+    {
+      "id": "months.05",
+      "key": "05",
+      "section": "months",
+      "tgt": "مايو",
+      "fr_ref": "mai",
+      "en_ref": "May",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "mai",
+        "mai",
+        "mai"
+      ],
+      "back_en": [
+        "May",
+        "May",
+        "May"
+      ],
+      "verified": true
+    },
+    {
+      "id": "months.06",
+      "key": "06",
+      "section": "months",
+      "tgt": "يونيو",
+      "fr_ref": "juin",
+      "en_ref": "June",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "juin",
+        "juin",
+        "juin"
+      ],
+      "back_en": [
+        "June",
+        "June",
+        "June"
+      ],
+      "verified": true
+    },
+    {
+      "id": "months.07",
+      "key": "07",
+      "section": "months",
+      "tgt": "يوليو",
+      "fr_ref": "juillet",
+      "en_ref": "July",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "juillet",
+        "juillet",
+        "juillet"
+      ],
+      "back_en": [
+        "July",
+        "July",
+        "July"
+      ],
+      "verified": true
+    },
+    {
+      "id": "months.08",
+      "key": "08",
+      "section": "months",
+      "tgt": "أغسطس",
+      "fr_ref": "août",
+      "en_ref": "August",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "août",
+        "août",
+        "août"
+      ],
+      "back_en": [
+        "August",
+        "August",
+        "August"
+      ],
+      "verified": true
+    },
+    {
+      "id": "months.09",
+      "key": "09",
+      "section": "months",
+      "tgt": "سبتمبر",
+      "fr_ref": "septembre",
+      "en_ref": "September",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "septembre",
+        "septembre",
+        "septembre"
+      ],
+      "back_en": [
+        "September",
+        "September",
+        "September"
+      ],
+      "verified": true
+    },
+    {
+      "id": "months.10",
+      "key": "10",
+      "section": "months",
+      "tgt": "أكتوبر",
+      "fr_ref": "octobre",
+      "en_ref": "October",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "octobre",
+        "octobre",
+        "octobre"
+      ],
+      "back_en": [
+        "October",
+        "October",
+        "October"
+      ],
+      "verified": true
+    },
+    {
+      "id": "months.11",
+      "key": "11",
+      "section": "months",
+      "tgt": "نوفمبر",
+      "fr_ref": "novembre",
+      "en_ref": "November",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "novembre",
+        "novembre",
+        "novembre"
+      ],
+      "back_en": [
+        "November",
+        "November",
+        "November"
+      ],
+      "verified": true
+    },
+    {
+      "id": "months.12",
+      "key": "12",
+      "section": "months",
+      "tgt": "ديسمبر",
+      "fr_ref": "décembre",
+      "en_ref": "December",
+      "tier": "haiku",
+      "verdict": "MATCH",
+      "back_fr": [
+        "décembre",
+        "décembre",
+        "décembre"
+      ],
+      "back_en": [
+        "December",
+        "December",
+        "December"
+      ],
+      "verified": true
+    }
+  ]
+}

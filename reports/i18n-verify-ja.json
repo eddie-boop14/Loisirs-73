@@ -1,0 +1,887 @@
+{
+ "lang": "ja",
+ "date": "2026-06-30",
+ "method": "tiered router: 3x blind Haiku back-translation (consensus) + Sonnet polarity sentinel + surveillance category-vs-person trap + descriptor audit",
+ "keys": 86,
+ "verified": 86,
+ "escalations": 0,
+ "tiers": {
+  "haiku_backtranslation_passes": 3,
+  "sonnet_audit": 1
+ },
+ "polarity": {
+  "ok": true,
+  "detail": "All six opposite pairs are correctly assigned and not swapped: 無料/有料 (free/paid), はい/いいえ (yes/no), 営業中/休業中 (open/closed), ライフガードあり/ライフガードなし (lifeguarded/no lifeguard), 許可/禁止 (allowed/forbidden), アクセス可能/アクセス不可 (accessible/not accessible)."
+ },
+ "surveillance_trap": {
+  "ok": true,
+  "detail": "fact_labels.surveillance = 'ライフガード監視' correctly reads as the lifeguard supervision/monitoring service (a category label). 監視 means 'supervision/monitoring/watch', so the compound refers to the oversight service, not to a lifeguard person."
+ },
+ "sonnet_issues": [],
+ "corrections": [],
+ "tier3_native": [],
+ "note": "All back-translations consistent (3/3) and semantically match the reference; 11 word-overlap heuristic flags were synonyms (Town~Municipality, Phone~Telephone, FAQ=Frequently Asked Questions) or handoff-specified (telecabine->ゴンドラ). LTR — no RTL engine. Publish gated on Savoie Mont-Blanc visitor-origin demand + the July-21 Latin verdict + a JA-native descriptor fluency eyeball.",
+ "overall": "PASS",
+ "results": [
+  {
+   "id": "fact_labels.type",
+   "ja": "種類",
+   "en_ref": "Type",
+   "back": [
+    "Type",
+    "Type",
+    "Type"
+   ]
+  },
+  {
+   "id": "fact_labels.access",
+   "ja": "アクセス",
+   "en_ref": "Access",
+   "back": [
+    "Access",
+    "Access",
+    "Access"
+   ]
+  },
+  {
+   "id": "fact_labels.commune",
+   "ja": "市町村",
+   "en_ref": "Town",
+   "back": [
+    "Municipality",
+    "Municipality",
+    "Municipality"
+   ]
+  },
+  {
+   "id": "fact_labels.duration",
+   "ja": "所要時間",
+   "en_ref": "Duration",
+   "back": [
+    "Duration",
+    "Time Required",
+    "Duration"
+   ]
+  },
+  {
+   "id": "fact_labels.tarif",
+   "ja": "料金",
+   "en_ref": "Price",
+   "back": [
+    "Fee",
+    "Fee",
+    "Tariff"
+   ]
+  },
+  {
+   "id": "fact_labels.parking",
+   "ja": "駐車場",
+   "en_ref": "Parking",
+   "back": [
+    "Parking",
+    "Parking Lot",
+    "Parking"
+   ]
+  },
+  {
+   "id": "fact_labels.dogs",
+   "ja": "犬",
+   "en_ref": "Dogs",
+   "back": [
+    "Dogs",
+    "Dogs",
+    "Dogs"
+   ]
+  },
+  {
+   "id": "fact_labels.stroller",
+   "ja": "ベビーカー",
+   "en_ref": "Stroller",
+   "back": [
+    "Stroller",
+    "Baby Carriage",
+    "Baby Carriage"
+   ]
+  },
+  {
+   "id": "fact_labels.best_season",
+   "ja": "ベストシーズン",
+   "en_ref": "Best season",
+   "back": [
+    "Best Season",
+    "Best Season",
+    "Best Season"
+   ]
+  },
+  {
+   "id": "fact_labels.altitude",
+   "ja": "標高",
+   "en_ref": "Altitude",
+   "back": [
+    "Altitude",
+    "Altitude",
+    "Altitude"
+   ]
+  },
+  {
+   "id": "fact_labels.lac",
+   "ja": "湖",
+   "en_ref": "Lake",
+   "back": [
+    "Lake",
+    "Lake",
+    "Lake"
+   ]
+  },
+  {
+   "id": "fact_labels.surveillance",
+   "ja": "ライフガード監視",
+   "en_ref": "Lifeguard supervision",
+   "back": [
+    "Lifeguard Supervision",
+    "Lifeguard Surveillance",
+    "Lifeguard Surveillance"
+   ]
+  },
+  {
+   "id": "fact_labels.pavillon_bleu",
+   "ja": "ブルーフラッグ",
+   "en_ref": "Blue Flag",
+   "back": [
+    "Blue Flag",
+    "Blue Flag",
+    "Blue Flag"
+   ]
+  },
+  {
+   "id": "fact_labels.difficulty",
+   "ja": "難易度",
+   "en_ref": "Difficulty",
+   "back": [
+    "Difficulty",
+    "Difficulty",
+    "Difficulty"
+   ]
+  },
+  {
+   "id": "fact_labels.acces_pmr",
+   "ja": "車椅子アクセス",
+   "en_ref": "Wheelchair access",
+   "back": [
+    "Wheelchair Access",
+    "Wheelchair Access",
+    "Wheelchair Access"
+   ]
+  },
+  {
+   "id": "fact_labels.adresse",
+   "ja": "住所",
+   "en_ref": "Address",
+   "back": [
+    "Address",
+    "Address",
+    "Address"
+   ]
+  },
+  {
+   "id": "fact_labels.horaires",
+   "ja": "営業時間",
+   "en_ref": "Opening hours",
+   "back": [
+    "Hours",
+    "Business Hours",
+    "Business Hours"
+   ]
+  },
+  {
+   "id": "fact_labels.telephone",
+   "ja": "電話",
+   "en_ref": "Phone",
+   "back": [
+    "Telephone",
+    "Telephone",
+    "Telephone"
+   ]
+  },
+  {
+   "id": "fact_labels.site_officiel",
+   "ja": "公式サイト",
+   "en_ref": "Official website",
+   "back": [
+    "Official Site",
+    "Official Website",
+    "Official Website"
+   ]
+  },
+  {
+   "id": "fact_labels.itineraire",
+   "ja": "行き方",
+   "en_ref": "Directions",
+   "back": [
+    "Route",
+    "How to Get There",
+    "Route"
+   ]
+  },
+  {
+   "id": "fact_values.gratuit",
+   "ja": "無料",
+   "en_ref": "Free",
+   "back": [
+    "Free",
+    "Free",
+    "Free"
+   ]
+  },
+  {
+   "id": "fact_values.payant",
+   "ja": "有料",
+   "en_ref": "Paid",
+   "back": [
+    "Paid",
+    "Paid",
+    "Paid"
+   ]
+  },
+  {
+   "id": "fact_values.oui",
+   "ja": "はい",
+   "en_ref": "Yes",
+   "back": [
+    "Yes",
+    "Yes",
+    "Yes"
+   ]
+  },
+  {
+   "id": "fact_values.non",
+   "ja": "いいえ",
+   "en_ref": "No",
+   "back": [
+    "No",
+    "No",
+    "No"
+   ]
+  },
+  {
+   "id": "fact_values.surveillee",
+   "ja": "ライフガードあり",
+   "en_ref": "Lifeguarded",
+   "back": [
+    "Lifeguard Present",
+    "Lifeguard Present",
+    "Lifeguard Present"
+   ]
+  },
+  {
+   "id": "fact_values.non_surveillee",
+   "ja": "ライフガードなし",
+   "en_ref": "No lifeguard",
+   "back": [
+    "No Lifeguard",
+    "No Lifeguard",
+    "No Lifeguard"
+   ]
+  },
+  {
+   "id": "fact_values.pmr_accessible",
+   "ja": "アクセス可能",
+   "en_ref": "Accessible",
+   "back": [
+    "Accessible",
+    "Accessible",
+    "Accessible"
+   ]
+  },
+  {
+   "id": "fact_values.pmr_partiel",
+   "ja": "一部アクセス可能",
+   "en_ref": "Partly accessible",
+   "back": [
+    "Partially Accessible",
+    "Partially Accessible",
+    "Partially Accessible"
+   ]
+  },
+  {
+   "id": "fact_values.pmr_non",
+   "ja": "アクセス不可",
+   "en_ref": "Not accessible",
+   "back": [
+    "Not Accessible",
+    "Not Accessible",
+    "Not Accessible"
+   ]
+  },
+  {
+   "id": "fact_values.pmr_non_renseigne",
+   "ja": "情報なし",
+   "en_ref": "Not stated",
+   "back": [
+    "Information Not Available",
+    "No Information",
+    "No Information"
+   ]
+  },
+  {
+   "id": "fact_values.ouvert",
+   "ja": "営業中",
+   "en_ref": "Open",
+   "back": [
+    "Open",
+    "Open",
+    "Open"
+   ]
+  },
+  {
+   "id": "fact_values.ferme",
+   "ja": "休業中",
+   "en_ref": "Closed",
+   "back": [
+    "Closed",
+    "Closed",
+    "Closed"
+   ]
+  },
+  {
+   "id": "fact_values.saisonnier",
+   "ja": "季節営業",
+   "en_ref": "Seasonal",
+   "back": [
+    "Seasonal",
+    "Seasonal",
+    "Seasonal"
+   ]
+  },
+  {
+   "id": "fact_values.dogs_ok",
+   "ja": "許可",
+   "en_ref": "Allowed",
+   "back": [
+    "Allowed",
+    "Permitted",
+    "Permitted"
+   ]
+  },
+  {
+   "id": "fact_values.dogs_no",
+   "ja": "禁止",
+   "en_ref": "Not allowed",
+   "back": [
+    "Prohibited",
+    "Prohibited",
+    "Prohibited"
+   ]
+  },
+  {
+   "id": "descriptors_by_type.plage",
+   "ja": "ビーチ",
+   "en_ref": "Beach",
+   "back": [
+    "Beach",
+    "Beach",
+    "Beach"
+   ]
+  },
+  {
+   "id": "descriptors_by_type.lac",
+   "ja": "湖",
+   "en_ref": "Lake",
+   "back": [
+    "Lake",
+    "Lake",
+    "Lake"
+   ]
+  },
+  {
+   "id": "descriptors_by_type.cascade",
+   "ja": "滝",
+   "en_ref": "Waterfall",
+   "back": [
+    "Waterfall",
+    "Waterfall",
+    "Waterfall"
+   ]
+  },
+  {
+   "id": "descriptors_by_type.gorges",
+   "ja": "渓谷",
+   "en_ref": "Gorge",
+   "back": [
+    "Gorge",
+    "Gorge",
+    "Gorge"
+   ]
+  },
+  {
+   "id": "descriptors_by_type.chateau",
+   "ja": "城",
+   "en_ref": "Castle",
+   "back": [
+    "Castle",
+    "Castle",
+    "Castle"
+   ]
+  },
+  {
+   "id": "descriptors_by_type.musee",
+   "ja": "博物館",
+   "en_ref": "Museum",
+   "back": [
+    "Museum",
+    "Museum",
+    "Museum"
+   ]
+  },
+  {
+   "id": "descriptors_by_type.telecabine",
+   "ja": "ゴンドラ",
+   "en_ref": "Cable car",
+   "back": [
+    "Gondola",
+    "Gondola",
+    "Gondola"
+   ]
+  },
+  {
+   "id": "descriptors_by_type.point_de_vue",
+   "ja": "展望台",
+   "en_ref": "Viewpoint",
+   "back": [
+    "Viewpoint",
+    "Viewpoint",
+    "Observation Deck"
+   ]
+  },
+  {
+   "id": "descriptors_by_type.sentier",
+   "ja": "トレイル",
+   "en_ref": "Trail",
+   "back": [
+    "Trail",
+    "Trail",
+    "Trail"
+   ]
+  },
+  {
+   "id": "descriptors_by_type.parc",
+   "ja": "公園",
+   "en_ref": "Park",
+   "back": [
+    "Park",
+    "Park",
+    "Park"
+   ]
+  },
+  {
+   "id": "descriptors_by_type.voie_verte",
+   "ja": "緑道",
+   "en_ref": "Greenway",
+   "back": [
+    "Greenway",
+    "Greenway",
+    "Greenway"
+   ]
+  },
+  {
+   "id": "descriptors_by_type.base_loisirs",
+   "ja": "レジャーパーク",
+   "en_ref": "Leisure park",
+   "back": [
+    "Recreation Area",
+    "Leisure Park",
+    "Recreation Park"
+   ]
+  },
+  {
+   "id": "descriptors_by_type.eglise",
+   "ja": "教会",
+   "en_ref": "Church",
+   "back": [
+    "Church",
+    "Church",
+    "Church"
+   ]
+  },
+  {
+   "id": "ui_chrome.accueil",
+   "ja": "ホーム",
+   "en_ref": "Home",
+   "back": [
+    "Home",
+    "Home",
+    "Home"
+   ]
+  },
+  {
+   "id": "ui_chrome.l_essentiel",
+   "ja": "基本情報",
+   "en_ref": "Key facts",
+   "back": [
+    "Essential",
+    "Essential Information",
+    "Essential Information"
+   ]
+  },
+  {
+   "id": "ui_chrome.voir_fiche",
+   "ja": "詳細を見る",
+   "en_ref": "View details",
+   "back": [
+    "View Details",
+    "View Details",
+    "View Details"
+   ]
+  },
+  {
+   "id": "ui_chrome.plages_voisines",
+   "ja": "近くのビーチ",
+   "en_ref": "Nearby beaches",
+   "back": [
+    "Nearby Beaches",
+    "Nearby Beaches",
+    "Nearby Beaches"
+   ]
+  },
+  {
+   "id": "ui_chrome.questions_frequentes",
+   "ja": "よくある質問",
+   "en_ref": "FAQ",
+   "back": [
+    "Frequently Asked Questions",
+    "Frequently Asked Questions",
+    "Frequently Asked Questions"
+   ]
+  },
+  {
+   "id": "ui_chrome.y_aller",
+   "ja": "行き方・駐車場",
+   "en_ref": "Getting there & parking",
+   "back": [
+    "How to Get There Parking",
+    "How to Get There / Parking",
+    "How to Get There / Parking"
+   ]
+  },
+  {
+   "id": "ui_chrome.source_officielle",
+   "ja": "公式情報源",
+   "en_ref": "Official source",
+   "back": [
+    "Official Source",
+    "Official Information Source",
+    "Official Information Source"
+   ]
+  },
+  {
+   "id": "ui_chrome.pres_de_moi",
+   "ja": "現在地周辺",
+   "en_ref": "Near me",
+   "back": [
+    "Near Me",
+    "Near Me",
+    "Around My Current Location"
+   ]
+  },
+  {
+   "id": "ui_chrome.rechercher",
+   "ja": "検索",
+   "en_ref": "Search",
+   "back": [
+    "Search",
+    "Search",
+    "Search"
+   ]
+  },
+  {
+   "id": "ui_chrome.toutes_categories",
+   "ja": "すべてのカテゴリ",
+   "en_ref": "All categories",
+   "back": [
+    "All Categories",
+    "All Categories",
+    "All Categories"
+   ]
+  },
+  {
+   "id": "ui_chrome.voir_carte",
+   "ja": "地図で見る",
+   "en_ref": "View on map",
+   "back": [
+    "View Map",
+    "View Map",
+    "View on Map"
+   ]
+  },
+  {
+   "id": "hub_names.cascades",
+   "ja": "滝",
+   "en_ref": "Waterfalls",
+   "back": [
+    "Waterfalls",
+    "Waterfalls",
+    "Waterfalls"
+   ]
+  },
+  {
+   "id": "hub_names.chateaux",
+   "ja": "城",
+   "en_ref": "Castles",
+   "back": [
+    "Castles",
+    "Castles",
+    "Castles"
+   ]
+  },
+  {
+   "id": "hub_names.lacs-plages",
+   "ja": "湖とビーチ",
+   "en_ref": "Lakes & beaches",
+   "back": [
+    "Lakes and Beaches",
+    "Lakes and Beaches",
+    "Lakes and Beaches"
+   ]
+  },
+  {
+   "id": "hub_names.musees",
+   "ja": "博物館",
+   "en_ref": "Museums",
+   "back": [
+    "Museums",
+    "Museums",
+    "Museums"
+   ]
+  },
+  {
+   "id": "hub_names.parcs-jardins",
+   "ja": "公園と庭園",
+   "en_ref": "Parks & gardens",
+   "back": [
+    "Parks and Gardens",
+    "Parks and Gardens",
+    "Parks and Gardens"
+   ]
+  },
+  {
+   "id": "hub_names.points-de-vue",
+   "ja": "展望台",
+   "en_ref": "Viewpoints",
+   "back": [
+    "Viewpoints",
+    "Viewpoints",
+    "Observation Decks"
+   ]
+  },
+  {
+   "id": "hub_names.sentiers",
+   "ja": "トレイル",
+   "en_ref": "Trails",
+   "back": [
+    "Trails",
+    "Trails",
+    "Trails"
+   ]
+  },
+  {
+   "id": "hub_names.telecabines",
+   "ja": "ゴンドラ",
+   "en_ref": "Cable cars",
+   "back": [
+    "Gondolas",
+    "Gondolas",
+    "Gondolas"
+   ]
+  },
+  {
+   "id": "hub_names.voies-vertes",
+   "ja": "緑道",
+   "en_ref": "Greenways",
+   "back": [
+    "Greenways",
+    "Greenways",
+    "Greenways"
+   ]
+  },
+  {
+   "id": "hub_names.baignade-nautisme",
+   "ja": "水泳とウォータースポーツ",
+   "en_ref": "Swimming & watersports",
+   "back": [
+    "Swimming and Water Sports",
+    "Swimming and Water Sports",
+    "Swimming and Water Sports"
+   ]
+  },
+  {
+   "id": "hub_names.bases-de-loisirs",
+   "ja": "レジャーパーク",
+   "en_ref": "Leisure parks",
+   "back": [
+    "Recreation Areas",
+    "Leisure Parks",
+    "Recreation Parks"
+   ]
+  },
+  {
+   "id": "hub_names.que-faire",
+   "ja": "楽しみ方",
+   "en_ref": "What to do",
+   "back": [
+    "What to Do",
+    "Things to Do",
+    "Things to Do"
+   ]
+  },
+  {
+   "id": "hub_names.sensations-plein-air",
+   "ja": "アウトドア・アクティビティ",
+   "en_ref": "Outdoor thrills",
+   "back": [
+    "Outdoor Activities",
+    "Outdoor Activities",
+    "Outdoor Activities"
+   ]
+  },
+  {
+   "id": "hub_names.sorties-detente",
+   "ja": "のんびりおでかけ",
+   "en_ref": "Relaxing outings",
+   "back": [
+    "Relaxing Outings",
+    "Relaxing Outings",
+    "Relaxing Outings"
+   ]
+  },
+  {
+   "id": "hub_names.sport-jeux",
+   "ja": "スポーツと遊び",
+   "en_ref": "Sport & games",
+   "back": [
+    "Sports and Games",
+    "Sports and Games",
+    "Sports and Games"
+   ]
+  },
+  {
+   "id": "months.01",
+   "ja": "1月",
+   "en_ref": "January",
+   "back": [
+    "January",
+    "January",
+    "January"
+   ]
+  },
+  {
+   "id": "months.02",
+   "ja": "2月",
+   "en_ref": "February",
+   "back": [
+    "February",
+    "February",
+    "February"
+   ]
+  },
+  {
+   "id": "months.03",
+   "ja": "3月",
+   "en_ref": "March",
+   "back": [
+    "March",
+    "March",
+    "March"
+   ]
+  },
+  {
+   "id": "months.04",
+   "ja": "4月",
+   "en_ref": "April",
+   "back": [
+    "April",
+    "April",
+    "April"
+   ]
+  },
+  {
+   "id": "months.05",
+   "ja": "5月",
+   "en_ref": "May",
+   "back": [
+    "May",
+    "May",
+    "May"
+   ]
+  },
+  {
+   "id": "months.06",
+   "ja": "6月",
+   "en_ref": "June",
+   "back": [
+    "June",
+    "June",
+    "June"
+   ]
+  },
+  {
+   "id": "months.07",
+   "ja": "7月",
+   "en_ref": "July",
+   "back": [
+    "July",
+    "July",
+    "July"
+   ]
+  },
+  {
+   "id": "months.08",
+   "ja": "8月",
+   "en_ref": "August",
+   "back": [
+    "August",
+    "August",
+    "August"
+   ]
+  },
+  {
+   "id": "months.09",
+   "ja": "9月",
+   "en_ref": "September",
+   "back": [
+    "September",
+    "September",
+    "September"
+   ]
+  },
+  {
+   "id": "months.10",
+   "ja": "10月",
+   "en_ref": "October",
+   "back": [
+    "October",
+    "October",
+    "October"
+   ]
+  },
+  {
+   "id": "months.11",
+   "ja": "11月",
+   "en_ref": "November",
+   "back": [
+    "November",
+    "November",
+    "November"
+   ]
+  },
+  {
+   "id": "months.12",
+   "ja": "12月",
+   "en_ref": "December",
+   "back": [
+    "December",
+    "December",
+    "December"
+   ]
+  }
+ ]
+}

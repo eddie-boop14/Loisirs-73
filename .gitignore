@@ -20,5 +20,17 @@ incoming-benedicte/
 
 # Engine byproducts — regenerated on every build.
 scripts/__pycache__/
-reports/
+reports/*
 _site/
+
+# …except the reports the gates READ. (Note `reports/*`, not `reports/` — git
+# does not descend into an ignored directory, so a negation under one never
+# matches.) Ignoring all of reports/ was inherited
+# wholesale and is wrong here: several gates fail closed when their evidence
+# file is absent, so a gate that is green on a developer's machine goes red in
+# CI, where reports/ was never checked out. These are evidence, not byproducts —
+# a verification result is worth nothing if it isn't kept.
+!reports/i18n-verify-*.json
+!reports/render-verify-*.json
+!reports/i18n-leak-baseline.json
+!reports/protected-placements.md

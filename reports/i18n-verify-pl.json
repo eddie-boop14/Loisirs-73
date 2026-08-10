@@ -1,0 +1,2250 @@
+{
+  "lang": "pl",
+  "date": "2026-06-30",
+  "method": "multi-agent back-translation consensus (3x, blind)",
+  "keys": 86,
+  "verified": 86,
+  "escalations": 0,
+  "overall": "PASS",
+  "results": [
+    {
+      "id": "fact_labels.type",
+      "key": "type",
+      "section": "fact_labels",
+      "pl": "Typ",
+      "fr_ref": "Type",
+      "en_ref": "Type",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Type",
+        "Type",
+        "Type"
+      ],
+      "back_en": [
+        "Type",
+        "Type",
+        "Type"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_labels.access",
+      "key": "access",
+      "section": "fact_labels",
+      "pl": "Dojazd",
+      "fr_ref": "Accès",
+      "en_ref": "Access",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Accès",
+        "Accès",
+        "Accès"
+      ],
+      "back_en": [
+        "Access",
+        "Access / Getting there",
+        "Access"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_labels.commune",
+      "key": "commune",
+      "section": "fact_labels",
+      "pl": "Miejscowość",
+      "fr_ref": "Commune",
+      "en_ref": "Town",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Localité",
+        "Localité",
+        "Localité / Commune"
+      ],
+      "back_en": [
+        "Town",
+        "Town/Locality",
+        "Town / Locality"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_labels.duration",
+      "key": "duration",
+      "section": "fact_labels",
+      "pl": "Czas trwania",
+      "fr_ref": "Durée",
+      "en_ref": "Duration",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Durée",
+        "Durée",
+        "Durée"
+      ],
+      "back_en": [
+        "Duration",
+        "Duration",
+        "Duration"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_labels.tarif",
+      "key": "tarif",
+      "section": "fact_labels",
+      "pl": "Cena",
+      "fr_ref": "Tarif",
+      "en_ref": "Price",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Prix",
+        "Prix",
+        "Prix"
+      ],
+      "back_en": [
+        "Price",
+        "Price",
+        "Price"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_labels.parking",
+      "key": "parking",
+      "section": "fact_labels",
+      "pl": "Parking",
+      "fr_ref": "Parking",
+      "en_ref": "Parking",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Parking",
+        "Parking",
+        "Parking"
+      ],
+      "back_en": [
+        "Parking",
+        "Parking",
+        "Parking"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_labels.dogs",
+      "key": "dogs",
+      "section": "fact_labels",
+      "pl": "Psy",
+      "fr_ref": "Chiens",
+      "en_ref": "Dogs",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Chiens",
+        "Chiens",
+        "Chiens"
+      ],
+      "back_en": [
+        "Dogs",
+        "Dogs",
+        "Dogs"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_labels.stroller",
+      "key": "stroller",
+      "section": "fact_labels",
+      "pl": "Wózek dziecięcy",
+      "fr_ref": "Poussette",
+      "en_ref": "Stroller",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Poussette",
+        "Poussette",
+        "Poussette"
+      ],
+      "back_en": [
+        "Stroller",
+        "Stroller / pram",
+        "Stroller"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_labels.best_season",
+      "key": "best_season",
+      "section": "fact_labels",
+      "pl": "Najlepsza pora roku",
+      "fr_ref": "Meilleure saison",
+      "en_ref": "Best season",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Meilleure saison",
+        "Meilleure saison",
+        "Meilleure saison"
+      ],
+      "back_en": [
+        "Best season",
+        "Best season",
+        "Best season"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_labels.altitude",
+      "key": "altitude",
+      "section": "fact_labels",
+      "pl": "Wysokość",
+      "fr_ref": "Altitude",
+      "en_ref": "Altitude",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Altitude",
+        "Altitude / Hauteur",
+        "Altitude / Hauteur"
+      ],
+      "back_en": [
+        "Altitude/Height",
+        "Altitude / Height",
+        "Altitude / Height"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_labels.lac",
+      "key": "lac",
+      "section": "fact_labels",
+      "pl": "Jezioro",
+      "fr_ref": "Lac",
+      "en_ref": "Lake",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Lac",
+        "Lac",
+        "Lac"
+      ],
+      "back_en": [
+        "Lake",
+        "Lake",
+        "Lake"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_labels.surveillance",
+      "key": "surveillance",
+      "section": "fact_labels",
+      "pl": "Ratownik",
+      "fr_ref": "Surveillance",
+      "en_ref": "Lifeguard supervision",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Surveillance (par les sauveteurs)",
+        "Surveillance par les sauveteurs",
+        "Surveillance par les sauveteurs"
+      ],
+      "back_en": [
+        "Lifeguard supervision",
+        "Lifeguard supervision",
+        "Lifeguard supervision"
+      ],
+      "reasons": [
+        "re-translated + re-verified 3/3 MATCH after surveillance reference fix (en: 'Lifeguard'→'Lifeguard supervision'), 2026-06-30"
+      ],
+      "tgt": "Nadzór ratowniczy"
+    },
+    {
+      "id": "fact_labels.pavillon_bleu",
+      "key": "pavillon_bleu",
+      "section": "fact_labels",
+      "pl": "Błękitna Flaga",
+      "fr_ref": "Pavillon Bleu",
+      "en_ref": "Blue Flag",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Pavillon Bleu",
+        "Pavillon Bleu",
+        "Pavillon Bleu"
+      ],
+      "back_en": [
+        "Blue Flag",
+        "Blue Flag",
+        "Blue Flag"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_labels.difficulty",
+      "key": "difficulty",
+      "section": "fact_labels",
+      "pl": "Trudność",
+      "fr_ref": "Difficulté",
+      "en_ref": "Difficulty",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Difficulté",
+        "Difficulté",
+        "Difficulté"
+      ],
+      "back_en": [
+        "Difficulty",
+        "Difficulty",
+        "Difficulty"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_labels.acces_pmr",
+      "key": "acces_pmr",
+      "section": "fact_labels",
+      "pl": "Dostęp dla wózków inwalidzkich",
+      "fr_ref": "Accès PMR",
+      "en_ref": "Wheelchair access",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Accès pour fauteuils roulants",
+        "Accès pour fauteuils roulants",
+        "Accès fauteuil roulant"
+      ],
+      "back_en": [
+        "Wheelchair access",
+        "Wheelchair access",
+        "Wheelchair access"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_labels.adresse",
+      "key": "adresse",
+      "section": "fact_labels",
+      "pl": "Adres",
+      "fr_ref": "Adresse",
+      "en_ref": "Address",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Adresse",
+        "Adresse",
+        "Adresse"
+      ],
+      "back_en": [
+        "Address",
+        "Address",
+        "Address"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_labels.horaires",
+      "key": "horaires",
+      "section": "fact_labels",
+      "pl": "Godziny otwarcia",
+      "fr_ref": "Horaires",
+      "en_ref": "Opening hours",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Horaires d'ouverture",
+        "Heures d'ouverture",
+        "Heures d'ouverture"
+      ],
+      "back_en": [
+        "Opening hours",
+        "Opening hours",
+        "Opening hours"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_labels.telephone",
+      "key": "telephone",
+      "section": "fact_labels",
+      "pl": "Telefon",
+      "fr_ref": "Téléphone",
+      "en_ref": "Phone",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Téléphone",
+        "Téléphone",
+        "Téléphone"
+      ],
+      "back_en": [
+        "Phone",
+        "Phone",
+        "Phone"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_labels.site_officiel",
+      "key": "site_officiel",
+      "section": "fact_labels",
+      "pl": "Oficjalna strona",
+      "fr_ref": "Site officiel",
+      "en_ref": "Official website",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Site officiel",
+        "Site officiel",
+        "Site officiel"
+      ],
+      "back_en": [
+        "Official website",
+        "Official website",
+        "Official website"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_labels.itineraire",
+      "key": "itineraire",
+      "section": "fact_labels",
+      "pl": "Trasa dojazdu",
+      "fr_ref": "Itinéraire",
+      "en_ref": "Directions",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Itinéraire d'accès",
+        "Itinéraire d'accès",
+        "Itinéraire d'accès"
+      ],
+      "back_en": [
+        "Directions",
+        "Directions / route",
+        "Directions"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_values.gratuit",
+      "key": "gratuit",
+      "section": "fact_values",
+      "pl": "Bezpłatnie",
+      "fr_ref": "Gratuit",
+      "en_ref": "Free",
+      "is_polar": true,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Gratuit",
+        "Gratuit / Gratuitement",
+        "Gratuit"
+      ],
+      "back_en": [
+        "Free",
+        "Free / Free of charge",
+        "Free"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_values.payant",
+      "key": "payant",
+      "section": "fact_values",
+      "pl": "Płatne",
+      "fr_ref": "Payant",
+      "en_ref": "Paid",
+      "is_polar": true,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Payant",
+        "Payant",
+        "Payant"
+      ],
+      "back_en": [
+        "Paid",
+        "Paid",
+        "Paid"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_values.oui",
+      "key": "oui",
+      "section": "fact_values",
+      "pl": "Tak",
+      "fr_ref": "Oui",
+      "en_ref": "Yes",
+      "is_polar": true,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Oui",
+        "Oui",
+        "Oui"
+      ],
+      "back_en": [
+        "Yes",
+        "Yes",
+        "Yes"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_values.non",
+      "key": "non",
+      "section": "fact_values",
+      "pl": "Nie",
+      "fr_ref": "Non",
+      "en_ref": "No",
+      "is_polar": true,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Non",
+        "Non",
+        "Non"
+      ],
+      "back_en": [
+        "No",
+        "No",
+        "No"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_values.surveillee",
+      "key": "surveillee",
+      "section": "fact_values",
+      "pl": "Strzeżone",
+      "fr_ref": "Plage surveillée",
+      "en_ref": "Lifeguarded",
+      "is_polar": true,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Surveillée",
+        "Surveillée / Gardée",
+        "Surveillée"
+      ],
+      "back_en": [
+        "Guarded/Lifeguarded",
+        "Guarded / Lifeguarded",
+        "Lifeguarded"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_values.non_surveillee",
+      "key": "non_surveillee",
+      "section": "fact_values",
+      "pl": "Niestrzeżone",
+      "fr_ref": "Non surveillée",
+      "en_ref": "No lifeguard",
+      "is_polar": true,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Non surveillée",
+        "Non surveillée",
+        "Non surveillée"
+      ],
+      "back_en": [
+        "Not guarded / No lifeguard",
+        "Unguarded / No lifeguard",
+        "No lifeguard"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_values.pmr_accessible",
+      "key": "pmr_accessible",
+      "section": "fact_values",
+      "pl": "Dostępne",
+      "fr_ref": "Accessible",
+      "en_ref": "Accessible",
+      "is_polar": true,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Accessible",
+        "Accessible",
+        "Accessible"
+      ],
+      "back_en": [
+        "Accessible / Available",
+        "Accessible",
+        "Accessible"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_values.pmr_partiel",
+      "key": "pmr_partiel",
+      "section": "fact_values",
+      "pl": "Częściowo dostępne",
+      "fr_ref": "Partiellement accessible",
+      "en_ref": "Partly accessible",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Partiellement accessible",
+        "Partiellement accessible",
+        "Partiellement accessible"
+      ],
+      "back_en": [
+        "Partly accessible",
+        "Partly accessible",
+        "Partly accessible"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_values.pmr_non",
+      "key": "pmr_non",
+      "section": "fact_values",
+      "pl": "Niedostępne",
+      "fr_ref": "Non accessible",
+      "en_ref": "Not accessible",
+      "is_polar": true,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Non accessible",
+        "Non accessible / Inaccessible",
+        "Non accessible"
+      ],
+      "back_en": [
+        "Not accessible",
+        "Not accessible",
+        "Not accessible"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_values.pmr_non_renseigne",
+      "key": "pmr_non_renseigne",
+      "section": "fact_values",
+      "pl": "Brak informacji",
+      "fr_ref": "Non renseignée",
+      "en_ref": "Not stated",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Pas d'information",
+        "Pas d'information",
+        "Aucune information"
+      ],
+      "back_en": [
+        "No information",
+        "No information",
+        "No information / Not stated"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_values.ouvert",
+      "key": "ouvert",
+      "section": "fact_values",
+      "pl": "Otwarte",
+      "fr_ref": "Ouvert",
+      "en_ref": "Open",
+      "is_polar": true,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Ouvert",
+        "Ouvert",
+        "Ouvert"
+      ],
+      "back_en": [
+        "Open",
+        "Open",
+        "Open"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_values.ferme",
+      "key": "ferme",
+      "section": "fact_values",
+      "pl": "Zamknięte",
+      "fr_ref": "Fermé",
+      "en_ref": "Closed",
+      "is_polar": true,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Fermé",
+        "Fermé",
+        "Fermé"
+      ],
+      "back_en": [
+        "Closed",
+        "Closed",
+        "Closed"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_values.saisonnier",
+      "key": "saisonnier",
+      "section": "fact_values",
+      "pl": "Sezonowo",
+      "fr_ref": "Saisonnier",
+      "en_ref": "Seasonal",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Saisonnier / De façon saisonnière",
+        "Saisonnier / De façon saisonnière",
+        "Saisonnier"
+      ],
+      "back_en": [
+        "Seasonally",
+        "Seasonally / Seasonal",
+        "Seasonal"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_values.dogs_ok",
+      "key": "dogs_ok",
+      "section": "fact_values",
+      "pl": "Dozwolone",
+      "fr_ref": "Autorisés",
+      "en_ref": "Allowed",
+      "is_polar": true,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Autorisés",
+        "Autorisés / Permis",
+        "Autorisés"
+      ],
+      "back_en": [
+        "Allowed / Permitted",
+        "Allowed",
+        "Allowed"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "fact_values.dogs_no",
+      "key": "dogs_no",
+      "section": "fact_values",
+      "pl": "Niedozwolone",
+      "fr_ref": "Interdits",
+      "en_ref": "Not allowed",
+      "is_polar": true,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Interdits / Non autorisés",
+        "Interdits / Non autorisés",
+        "Interdits"
+      ],
+      "back_en": [
+        "Not allowed",
+        "Not allowed / Forbidden",
+        "Not allowed"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "descriptors_by_type.plage",
+      "key": "plage",
+      "section": "descriptors_by_type",
+      "pl": "Plaża",
+      "fr_ref": "Plage",
+      "en_ref": "Beach",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Plage",
+        "Plage",
+        "Plage"
+      ],
+      "back_en": [
+        "Beach",
+        "Beach",
+        "Beach"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "descriptors_by_type.lac",
+      "key": "lac",
+      "section": "descriptors_by_type",
+      "pl": "Jezioro",
+      "fr_ref": "Lac",
+      "en_ref": "Lake",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Lac",
+        "Lac",
+        "Lac"
+      ],
+      "back_en": [
+        "Lake",
+        "Lake",
+        "Lake"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "descriptors_by_type.cascade",
+      "key": "cascade",
+      "section": "descriptors_by_type",
+      "pl": "Wodospad",
+      "fr_ref": "Cascade",
+      "en_ref": "Waterfall",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Cascade",
+        "Cascade",
+        "Cascade"
+      ],
+      "back_en": [
+        "Waterfall",
+        "Waterfall",
+        "Waterfall"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "descriptors_by_type.gorges",
+      "key": "gorges",
+      "section": "descriptors_by_type",
+      "pl": "Wąwóz",
+      "fr_ref": "Gorges",
+      "en_ref": "Gorge",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Gorges / Ravin",
+        "Gorge / Ravin",
+        "Gorges"
+      ],
+      "back_en": [
+        "Gorge",
+        "Gorge / Ravine",
+        "Gorge"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "descriptors_by_type.chateau",
+      "key": "chateau",
+      "section": "descriptors_by_type",
+      "pl": "Zamek",
+      "fr_ref": "Château",
+      "en_ref": "Castle",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Château",
+        "Château",
+        "Château"
+      ],
+      "back_en": [
+        "Castle",
+        "Castle",
+        "Castle"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "descriptors_by_type.musee",
+      "key": "musee",
+      "section": "descriptors_by_type",
+      "pl": "Muzeum",
+      "fr_ref": "Musée",
+      "en_ref": "Museum",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Musée",
+        "Musée",
+        "Musée"
+      ],
+      "back_en": [
+        "Museum",
+        "Museum",
+        "Museum"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "descriptors_by_type.telecabine",
+      "key": "telecabine",
+      "section": "descriptors_by_type",
+      "pl": "Kolej gondolowa",
+      "fr_ref": "Télécabine",
+      "en_ref": "Cable car",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Télécabine",
+        "Télécabine",
+        "Télécabine"
+      ],
+      "back_en": [
+        "Cable car (gondola)",
+        "Gondola lift / Cable car",
+        "Cable car (gondola)"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "descriptors_by_type.point_de_vue",
+      "key": "point_de_vue",
+      "section": "descriptors_by_type",
+      "pl": "Punkt widokowy",
+      "fr_ref": "Point de vue",
+      "en_ref": "Viewpoint",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Point de vue",
+        "Point de vue",
+        "Point de vue"
+      ],
+      "back_en": [
+        "Viewpoint",
+        "Viewpoint",
+        "Viewpoint"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "descriptors_by_type.sentier",
+      "key": "sentier",
+      "section": "descriptors_by_type",
+      "pl": "Szlak",
+      "fr_ref": "Sentier",
+      "en_ref": "Trail",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Sentier / Itinéraire",
+        "Sentier / Itinéraire",
+        "Sentier"
+      ],
+      "back_en": [
+        "Trail",
+        "Trail / Route",
+        "Trail"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "descriptors_by_type.parc",
+      "key": "parc",
+      "section": "descriptors_by_type",
+      "pl": "Park",
+      "fr_ref": "Parc",
+      "en_ref": "Park",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Parc",
+        "Parc",
+        "Parc"
+      ],
+      "back_en": [
+        "Park",
+        "Park",
+        "Park"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "descriptors_by_type.voie_verte",
+      "key": "voie_verte",
+      "section": "descriptors_by_type",
+      "pl": "Zielony szlak",
+      "fr_ref": "Voie verte",
+      "en_ref": "Greenway",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Voie verte",
+        "Voie verte",
+        "Voie verte"
+      ],
+      "back_en": [
+        "Greenway",
+        "Greenway",
+        "Greenway"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "descriptors_by_type.base_loisirs",
+      "key": "base_loisirs",
+      "section": "descriptors_by_type",
+      "pl": "Park rekreacyjny",
+      "fr_ref": "Base de loisirs",
+      "en_ref": "Leisure park",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Parc de loisirs / Base de loisirs",
+        "Parc de loisirs / Base de loisirs",
+        "Parc de loisirs"
+      ],
+      "back_en": [
+        "Recreation park / Leisure park",
+        "Leisure/recreation park",
+        "Leisure/recreation park"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "descriptors_by_type.eglise",
+      "key": "eglise",
+      "section": "descriptors_by_type",
+      "pl": "Kościół",
+      "fr_ref": "Église",
+      "en_ref": "Church",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Église",
+        "Église",
+        "Église"
+      ],
+      "back_en": [
+        "Church",
+        "Church",
+        "Church"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "ui_chrome.accueil",
+      "key": "accueil",
+      "section": "ui_chrome",
+      "pl": "Strona główna",
+      "fr_ref": "Accueil",
+      "en_ref": "Home",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Page d'accueil",
+        "Accueil / Page d'accueil",
+        "Page d'accueil"
+      ],
+      "back_en": [
+        "Home page",
+        "Home / Home page",
+        "Home page"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "ui_chrome.l_essentiel",
+      "key": "l_essentiel",
+      "section": "ui_chrome",
+      "pl": "Najważniejsze informacje",
+      "fr_ref": "L'essentiel",
+      "en_ref": "Key facts",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Informations essentielles",
+        "Informations essentielles",
+        "Informations essentielles"
+      ],
+      "back_en": [
+        "Key information",
+        "Key information / Key facts",
+        "Key facts"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "ui_chrome.voir_fiche",
+      "key": "voir_fiche",
+      "section": "ui_chrome",
+      "pl": "Zobacz szczegóły",
+      "fr_ref": "Voir la fiche",
+      "en_ref": "View details",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Voir les détails",
+        "Voir les détails",
+        "Voir les détails"
+      ],
+      "back_en": [
+        "View details",
+        "View details",
+        "View details"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "ui_chrome.plages_voisines",
+      "key": "plages_voisines",
+      "section": "ui_chrome",
+      "pl": "Pobliskie plaże",
+      "fr_ref": "Plages voisines",
+      "en_ref": "Nearby beaches",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Plages voisines",
+        "Plages à proximité",
+        "Plages à proximité"
+      ],
+      "back_en": [
+        "Nearby beaches",
+        "Nearby beaches",
+        "Nearby beaches"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "ui_chrome.questions_frequentes",
+      "key": "questions_frequentes",
+      "section": "ui_chrome",
+      "pl": "Najczęstsze pytania",
+      "fr_ref": "Questions fréquentes",
+      "en_ref": "FAQ",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Questions fréquentes",
+        "Questions fréquentes",
+        "Questions fréquentes"
+      ],
+      "back_en": [
+        "Frequently asked questions",
+        "Frequent questions / FAQ",
+        "FAQ"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "ui_chrome.y_aller",
+      "key": "y_aller",
+      "section": "ui_chrome",
+      "pl": "Dojazd i parking",
+      "fr_ref": "Y aller & se garer",
+      "en_ref": "Getting there & parking",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Accès et parking",
+        "Accès et parking",
+        "Accès et parking"
+      ],
+      "back_en": [
+        "Getting there & parking",
+        "Getting there and parking",
+        "Getting there & parking"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "ui_chrome.source_officielle",
+      "key": "source_officielle",
+      "section": "ui_chrome",
+      "pl": "Źródło oficjalne",
+      "fr_ref": "Source officielle",
+      "en_ref": "Official source",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Source officielle",
+        "Source officielle",
+        "Source officielle"
+      ],
+      "back_en": [
+        "Official source",
+        "Official source",
+        "Official source"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "ui_chrome.pres_de_moi",
+      "key": "pres_de_moi",
+      "section": "ui_chrome",
+      "pl": "W pobliżu",
+      "fr_ref": "Près de moi",
+      "en_ref": "Near me",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "À proximité",
+        "À proximité",
+        "À proximité"
+      ],
+      "back_en": [
+        "Nearby",
+        "Nearby",
+        "Nearby / Near me"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "ui_chrome.rechercher",
+      "key": "rechercher",
+      "section": "ui_chrome",
+      "pl": "Szukaj",
+      "fr_ref": "Rechercher",
+      "en_ref": "Search",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Rechercher",
+        "Rechercher",
+        "Rechercher"
+      ],
+      "back_en": [
+        "Search",
+        "Search",
+        "Search"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "ui_chrome.toutes_categories",
+      "key": "toutes_categories",
+      "section": "ui_chrome",
+      "pl": "Wszystkie kategorie",
+      "fr_ref": "Toutes les catégories",
+      "en_ref": "All categories",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Toutes les catégories",
+        "Toutes les catégories",
+        "Toutes les catégories"
+      ],
+      "back_en": [
+        "All categories",
+        "All categories",
+        "All categories"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "ui_chrome.voir_carte",
+      "key": "voir_carte",
+      "section": "ui_chrome",
+      "pl": "Pokaż na mapie",
+      "fr_ref": "Voir sur la carte",
+      "en_ref": "View on map",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Voir sur la carte",
+        "Voir sur la carte / Afficher sur la carte",
+        "Voir sur la carte"
+      ],
+      "back_en": [
+        "Show on map",
+        "Show on map / View on map",
+        "View on map"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "hub_names.cascades",
+      "key": "cascades",
+      "section": "hub_names",
+      "pl": "Wodospady",
+      "fr_ref": "Cascades",
+      "en_ref": "Waterfalls",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Cascades",
+        "Cascades",
+        "Cascades"
+      ],
+      "back_en": [
+        "Waterfalls",
+        "Waterfalls",
+        "Waterfalls"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "hub_names.chateaux",
+      "key": "chateaux",
+      "section": "hub_names",
+      "pl": "Zamki",
+      "fr_ref": "Châteaux",
+      "en_ref": "Castles",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Châteaux",
+        "Châteaux",
+        "Châteaux"
+      ],
+      "back_en": [
+        "Castles",
+        "Castles",
+        "Castles"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "hub_names.lacs-plages",
+      "key": "lacs-plages",
+      "section": "hub_names",
+      "pl": "Jeziora i plaże",
+      "fr_ref": "Lacs & plages",
+      "en_ref": "Lakes & beaches",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Lacs et plages",
+        "Lacs et plages",
+        "Lacs et plages"
+      ],
+      "back_en": [
+        "Lakes & beaches",
+        "Lakes and beaches",
+        "Lakes & beaches"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "hub_names.musees",
+      "key": "musees",
+      "section": "hub_names",
+      "pl": "Muzea",
+      "fr_ref": "Musées",
+      "en_ref": "Museums",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Musées",
+        "Musées",
+        "Musées"
+      ],
+      "back_en": [
+        "Museums",
+        "Museums",
+        "Museums"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "hub_names.parcs-jardins",
+      "key": "parcs-jardins",
+      "section": "hub_names",
+      "pl": "Parki i ogrody",
+      "fr_ref": "Parcs & jardins",
+      "en_ref": "Parks & gardens",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Parcs et jardins",
+        "Parcs et jardins",
+        "Parcs et jardins"
+      ],
+      "back_en": [
+        "Parks & gardens",
+        "Parks and gardens",
+        "Parks & gardens"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "hub_names.points-de-vue",
+      "key": "points-de-vue",
+      "section": "hub_names",
+      "pl": "Punkty widokowe",
+      "fr_ref": "Points de vue",
+      "en_ref": "Viewpoints",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Points de vue",
+        "Points de vue",
+        "Points de vue"
+      ],
+      "back_en": [
+        "Viewpoints",
+        "Viewpoints",
+        "Viewpoints"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "hub_names.sentiers",
+      "key": "sentiers",
+      "section": "hub_names",
+      "pl": "Szlaki",
+      "fr_ref": "Sentiers",
+      "en_ref": "Trails",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Sentiers",
+        "Sentiers",
+        "Sentiers"
+      ],
+      "back_en": [
+        "Trails",
+        "Trails",
+        "Trails"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "hub_names.telecabines",
+      "key": "telecabines",
+      "section": "hub_names",
+      "pl": "Koleje gondolowe",
+      "fr_ref": "Télécabines",
+      "en_ref": "Cable cars",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Télécabines",
+        "Télécabines",
+        "Télécabines"
+      ],
+      "back_en": [
+        "Cable cars",
+        "Cable cars / Gondola lifts",
+        "Cable cars"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "hub_names.voies-vertes",
+      "key": "voies-vertes",
+      "section": "hub_names",
+      "pl": "Zielone szlaki",
+      "fr_ref": "Voies vertes",
+      "en_ref": "Greenways",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Voies vertes",
+        "Voies vertes",
+        "Voies vertes"
+      ],
+      "back_en": [
+        "Greenways",
+        "Greenways",
+        "Greenways"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "hub_names.baignade-nautisme",
+      "key": "baignade-nautisme",
+      "section": "hub_names",
+      "pl": "Kąpiel i sporty wodne",
+      "fr_ref": "Baignade & nautisme",
+      "en_ref": "Swimming & watersports",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Baignade et sports nautiques",
+        "Baignade et sports nautiques",
+        "Baignade et sports nautiques"
+      ],
+      "back_en": [
+        "Swimming & watersports",
+        "Swimming and watersports",
+        "Swimming & watersports"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "hub_names.bases-de-loisirs",
+      "key": "bases-de-loisirs",
+      "section": "hub_names",
+      "pl": "Parki rekreacyjne",
+      "fr_ref": "Bases de loisirs",
+      "en_ref": "Leisure parks",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Parcs de loisirs / Bases de loisirs",
+        "Parcs de loisirs / Bases de loisirs",
+        "Parcs de loisirs"
+      ],
+      "back_en": [
+        "Recreation parks / Leisure parks",
+        "Leisure/recreation parks",
+        "Leisure parks"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "hub_names.que-faire",
+      "key": "que-faire",
+      "section": "hub_names",
+      "pl": "Co robić",
+      "fr_ref": "Que faire",
+      "en_ref": "What to do",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Que faire",
+        "Que faire",
+        "Que faire"
+      ],
+      "back_en": [
+        "What to do",
+        "What to do",
+        "What to do"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "hub_names.sensations-plein-air",
+      "key": "sensations-plein-air",
+      "section": "hub_names",
+      "pl": "Emocje na świeżym powietrzu",
+      "fr_ref": "Sensations plein air",
+      "en_ref": "Outdoor thrills",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Sensations en plein air",
+        "Sensations en plein air",
+        "Sensations en plein air"
+      ],
+      "back_en": [
+        "Outdoor thrills/emotions",
+        "Outdoor thrills/emotions",
+        "Outdoor thrills"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "hub_names.sorties-detente",
+      "key": "sorties-detente",
+      "section": "hub_names",
+      "pl": "Relaksujące wycieczki",
+      "fr_ref": "Sorties détente",
+      "en_ref": "Relaxing outings",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Sorties détente / Excursions relaxantes",
+        "Sorties détente / Excursions relaxantes",
+        "Sorties détente"
+      ],
+      "back_en": [
+        "Relaxing outings",
+        "Relaxing outings/trips",
+        "Relaxing outings"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "hub_names.sport-jeux",
+      "key": "sport-jeux",
+      "section": "hub_names",
+      "pl": "Sport i zabawa",
+      "fr_ref": "Sport & jeux",
+      "en_ref": "Sport & games",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "Sport et jeux",
+        "Sport et jeux",
+        "Sport et jeux"
+      ],
+      "back_en": [
+        "Sport & games/fun",
+        "Sport and games/fun",
+        "Sport & games"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "months.01",
+      "key": "01",
+      "section": "months",
+      "pl": "styczeń",
+      "fr_ref": "janvier",
+      "en_ref": "January",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "janvier",
+        "janvier",
+        "janvier"
+      ],
+      "back_en": [
+        "January",
+        "January",
+        "January"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "months.02",
+      "key": "02",
+      "section": "months",
+      "pl": "luty",
+      "fr_ref": "février",
+      "en_ref": "February",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "février",
+        "février",
+        "février"
+      ],
+      "back_en": [
+        "February",
+        "February",
+        "February"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "months.03",
+      "key": "03",
+      "section": "months",
+      "pl": "marzec",
+      "fr_ref": "mars",
+      "en_ref": "March",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "mars",
+        "mars",
+        "mars"
+      ],
+      "back_en": [
+        "March",
+        "March",
+        "March"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "months.04",
+      "key": "04",
+      "section": "months",
+      "pl": "kwiecień",
+      "fr_ref": "avril",
+      "en_ref": "April",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "avril",
+        "avril",
+        "avril"
+      ],
+      "back_en": [
+        "April",
+        "April",
+        "April"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "months.05",
+      "key": "05",
+      "section": "months",
+      "pl": "maj",
+      "fr_ref": "mai",
+      "en_ref": "May",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "mai",
+        "mai",
+        "mai"
+      ],
+      "back_en": [
+        "May",
+        "May",
+        "May"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "months.06",
+      "key": "06",
+      "section": "months",
+      "pl": "czerwiec",
+      "fr_ref": "juin",
+      "en_ref": "June",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "juin",
+        "juin",
+        "juin"
+      ],
+      "back_en": [
+        "June",
+        "June",
+        "June"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "months.07",
+      "key": "07",
+      "section": "months",
+      "pl": "lipiec",
+      "fr_ref": "juillet",
+      "en_ref": "July",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "juillet",
+        "juillet",
+        "juillet"
+      ],
+      "back_en": [
+        "July",
+        "July",
+        "July"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "months.08",
+      "key": "08",
+      "section": "months",
+      "pl": "sierpień",
+      "fr_ref": "août",
+      "en_ref": "August",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "août",
+        "août",
+        "août"
+      ],
+      "back_en": [
+        "August",
+        "August",
+        "August"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "months.09",
+      "key": "09",
+      "section": "months",
+      "pl": "wrzesień",
+      "fr_ref": "septembre",
+      "en_ref": "September",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "septembre",
+        "septembre",
+        "septembre"
+      ],
+      "back_en": [
+        "September",
+        "September",
+        "September"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "months.10",
+      "key": "10",
+      "section": "months",
+      "pl": "październik",
+      "fr_ref": "octobre",
+      "en_ref": "October",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "octobre",
+        "octobre",
+        "octobre"
+      ],
+      "back_en": [
+        "October",
+        "October",
+        "October"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "months.11",
+      "key": "11",
+      "section": "months",
+      "pl": "listopad",
+      "fr_ref": "novembre",
+      "en_ref": "November",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "novembre",
+        "novembre",
+        "novembre"
+      ],
+      "back_en": [
+        "November",
+        "November",
+        "November"
+      ],
+      "reasons": []
+    },
+    {
+      "id": "months.12",
+      "key": "12",
+      "section": "months",
+      "pl": "grudzień",
+      "fr_ref": "décembre",
+      "en_ref": "December",
+      "is_polar": false,
+      "verdicts": [
+        "MATCH",
+        "MATCH",
+        "MATCH"
+      ],
+      "verified": true,
+      "back_fr": [
+        "décembre",
+        "décembre",
+        "décembre"
+      ],
+      "back_en": [
+        "December",
+        "December",
+        "December"
+      ],
+      "reasons": []
+    }
+  ]
+}

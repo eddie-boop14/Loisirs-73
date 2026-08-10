@@ -1,0 +1,4 @@
+{
+  "_comment": "Per-site: which intent page a category hub links when it carries no hub_anchor best-of callout. This was hardcoded in build_intent_hubs.py with Haute-Savoie content (randonnees-faciles-lac-annecy, plus-beaux-points-de-vue-mont-blanc, lac-annecy-en-famille), which rendered a link to Annecy and the Mont-Blanc onto this site's hubs. Empty here: relevance beats coverage, and no forced matches — a hub with no honest single match is served by the que-faire index instead. Keys are FR hub slugs; values are lists of intent-registry page ids that MUST exist in data/intent-registry.json.",
+  "map": {}
+}

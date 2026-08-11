@@ -44,7 +44,9 @@ SIS_CSS = (
     ".sister-card .go{flex:0 0 auto;display:inline-flex;align-items:center;gap:.5rem;padding:.75rem 1.35rem;"
     "border-radius:999px;background:var(--accent);color:#fff;font-weight:600;font-family:var(--sans);transition:var(--turn)}"
     ".sister-card .go:hover{gap:.8rem;filter:brightness(1.05)}"
-    "@media(max-width:560px){.sister-card{flex-direction:column;align-items:flex-start}.sister-card .go{align-self:stretch;justify-content:center}}")
+    "@media(max-width:560px){.sister-card{flex-direction:column;align-items:flex-start}.sister-card .go{align-self:stretch;justify-content:center}}"
+    # header logo: use the real 73 mark (navy · blue peaks · Savoie red cross), a touch larger
+    ".brand .mark{width:40px;height:40px}.brand .mark img{width:40px;height:40px;border-radius:9px;display:block}")
 
 # --- hubs: category set + localized "&"-style label per hub ------------------
 HUBS = {
@@ -241,9 +243,14 @@ def card(d, lang):
     tag_cls = "card-tag is-gratuit" if free else "card-tag is-payant"
 
     if img:
-        photo_inner = (f'<picture><source srcset="{E(webp)}" type="image/webp">'
-                       f'<img src="{E(img)}" alt="{E(alt)}" width="1600" height="1000" '
-                       f'loading="lazy" decoding="async"></picture>')
+        # Only offer the webp <source> when the file truly exists — many collected
+        # hero photos ship as .jpg only, and a <picture> whose webp source 404s does
+        # NOT fall back to <img> (the browser prefers webp and then shows broken).
+        img_tag = (f'<img src="{E(img)}" alt="{E(alt)}" width="1600" height="1000" '
+                   f'loading="lazy" decoding="async">')
+        has_webp = webp != img and os.path.exists(os.path.join(ROOT, webp.lstrip("/")))
+        photo_inner = (f'<picture><source srcset="{E(webp)}" type="image/webp">{img_tag}</picture>'
+                       if has_webp else img_tag)
     else:
         photo_inner = '<span class="placeholder" aria-hidden="true">🏔</span>'
     photo = (f'<a class="card-photo" href="{E(href)}">{photo_inner}'
@@ -282,7 +289,7 @@ def build(lang, fiches):
         + (' aria-current="true"' if L == lang else '') + f'>{_LANG_NAMES[L]}</a>' for L in LANGS)
     header = (
         f'<header class="site" id="siteHeader"><a class="brand" href="{S.BASE_URL}/">'
-        f'<span aria-hidden="true" class="mark">{_MARK}</span>'
+        f'<span class="mark"><img src="/mark.png" alt="{E(S.SITE_NAME)}" width="40" height="40"></span>'
         f'<span><b>loisirs73</b> <i>{E(t(UI["brand_tag"], lang))}</i></span></a>'
         f'<div class="nav-right"><button class="near-me" id="nearMe">{E(t(UI["near"], lang))}</button>'
         f'<details class="lang-picker"><summary><b>{lang.upper()}</b></summary>'

@@ -289,7 +289,7 @@ def build(lang, fiches):
         + (' aria-current="true"' if L == lang else '') + f'>{_LANG_NAMES[L]}</a>' for L in LANGS)
     header = (
         f'<header class="site" id="siteHeader"><a class="brand" href="{S.BASE_URL}/">'
-        f'<span class="mark"><img src="/mark.png" alt="{E(S.SITE_NAME)}" width="40" height="40"></span>'
+        f'<span class="mark"><img src="/logo.png" alt="{E(S.SITE_NAME)}" width="40" height="40"></span>'
         f'<span><b>loisirs73</b> <i>{E(t(UI["brand_tag"], lang))}</i></span></a>'
         f'<div class="nav-right"><button class="near-me" id="nearMe">{E(t(UI["near"], lang))}</button>'
         f'<details class="lang-picker"><summary><b>{lang.upper()}</b></summary>'

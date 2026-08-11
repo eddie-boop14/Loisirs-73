@@ -2001,7 +2001,7 @@ def build_header(d):
     return f"""<body>
 <a class="skip" href="#main">{T("skip")}</a>
 <header class="site"><div class="wrap">
-  <a class="brand" href="{site_url}" aria-label="{siteconfig.SITE_NAME}"><span class="mark" aria-hidden="true"><img src="/logo.png" alt="" width="30" height="30" style="border-radius:7px;display:block;"></span><span>{siteconfig.SITE_NAME}</span></a>
+  <a class="brand" href="{site_url}" aria-label="{siteconfig.SITE_NAME}"><span class="mark" aria-hidden="true"><img src="/logo.png" alt="" width="38" height="38" style="border-radius:8px;display:block;"></span><span>{siteconfig.SITE_NAME}</span></a>
   <nav><details class="lang-picker"><summary aria-label="{T("lang_choose")}"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15 15 0 010 20M12 2a15 15 0 000 20"/></svg>{T("lang_label")}</summary><div class="lang-menu">{pick_html}</div></details></nav>
 </div></header>
 <main id="main">

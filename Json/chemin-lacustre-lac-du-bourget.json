@@ -24,6 +24,100 @@
   "hero_credit": null,
   "hero_image": "/img/generique/generique-sentier-automne-orange.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Ein ganzes Ufer des Lac du Bourget, gewann vom Unzugänglichen zurück: 1h30 flaches Gehen zwischen Grünflächen und Terrassen.",
+          "tag": "4 km",
+          "title": "Wasserstand zu Fuß"
+        },
+        {
+          "description": "Grün-einfache Ebene und 6 m Höhe: die Gehanzüge Kinderwagen und Rollstühle gleichermaßen, ohne Hilfe.",
+          "tag": "Kinderwagen",
+          "title": "Familienbummel vom Lido"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die<strong>Cheminlacustre</strong>Handläufer<strong>ein ganzes Ufer des Lac du Bourget</strong>, auf Wasserstand:<strong>4 km, ca. 1h30, 6 m Höhe</strong>, bewertet \"niveau vert - facile\" als Komfortspaziergang. Ein Ufer \"früher unzugänglich\", erinnern sich die offiziellen Quellen, kehrte durch das Küstenentwicklungsprogramm zu den Wanderern zurück.</p><p>Drei offizielle Starts: die<strong>Aix-les-Bains nautischer Basisparkplatz</strong>,<strong>Lido Strandparkplatz</strong>Tresserve und die<strong>Parkplatz Les Mottets</strong>bei Viviers-du-Lac. Grünflächen und Terrassen säumen die Route und berühren das Wasser.</p><p>Der Weg ist<strong>Rollstuhl ohne Hilfe</strong>, pro Liste des Départements. Auf Stunden, eine kleine Abweichung zu Flagge: Das Tourismusbüro veröffentlicht \"das ganze Jahr über, jeden Tag\" ohne Zeiten, Savoie Mont Blanc \"das ganze Jahr über 8:00-17:00\". Wir geben beides.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "frei",
+        "best_season": "Ganzjährig — 8:00–17:00 Uhr pro Savoie Mont Blanc",
+        "commune": "Tresserve",
+        "dogs": null,
+        "parking": "Drei Starts: Aix-les-Bains nautische Basis, Lido Strand, Parkplatz Les Mottets",
+        "stroller": "Komfort zu Fuß, grün-einfache Ebene, 6 m Höhe",
+        "type": "Lakeside Komfort zu Fuß",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "4 km, ca. 1h30, für nur 6 m Höhe — ein Komfort zu Fuß als grün-einfach.",
+          "q": "Wie lang ist der Spaziergang?"
+        },
+        {
+          "a": "Ja: \"Zugänglich en fauteuil roulant en autonomie\" gemäß der Liste des Département de la Savoie.",
+          "q": "Ist der Weg Rollstuhl zugänglich?"
+        },
+        {
+          "a": "Drei offizielle Starts: die Seebasis Aix-les-Bains, der Lido-Strand bei Tresserve und der Parkplatz Les Mottets bei Viviers-du-Lac.",
+          "q": "Wo können Sie anfangen?"
+        },
+        {
+          "a": "Das Tourismusbüro sagt \"das ganze Jahr über, jeden Tag\" ohne Zeiten; Savoie Mont Blanc veröffentlicht \"das ganze Jahr über 8:00-17:00\". Die Quellen unterscheiden sich und wir markieren es.",
+          "q": "Was sind die Stunden?"
+        },
+        {
+          "a": "Dieses Ufer des Sees war vor dem Entwicklungsprogramm für Wanderer geschlossen; es \"erlangt heute große Attraktivität und Qualität\", so die offizielle Quelle.",
+          "q": "Warum \"früher unzugängliches Ufer\"?"
+        }
+      ],
+      "hero": {
+        "badge": "Frei · Lac du Bourget",
+        "lead": "Vier Kilometer auf Wasserhöhe entlang eines einst unzugänglichen Ufers des Lac du Bourget - ein grün-einfacher Komfortspaziergang, Rollstuhl ohne Hilfe."
+      },
+      "hero_alt": "Lakeside Pfad auf Wasserstand am Ufer des Lac du Bourget",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Drei offizielle Parkplätze: Aix-les-Bains nautische Basis, Lido Strand bei Tresserve, Les Mottets bei Viviers-du-Lac.",
+        "public_transport": null
+      },
+      "meta_description": "Der Seepfad des Lac du Bourget: 4 km auf Wasserhöhe zwischen Aix-les-Bains, Tresserve und Viviers-du-Lac, Rollstuhl ohne Hilfe.",
+      "meta_title": "Chemin lacustre · Lac du Bourget Komfort zu Fuß, 4 km",
+      "name": "Lac du Bourget lakeside path",
+      "name_alternates": [
+        "Promenade confort : Chemin lacustre"
+      ],
+      "practical_info": [
+        {
+          "k": "Route",
+          "v": "4 km, ≈1h30, 6 m Höhe — grün-einfach"
+        },
+        {
+          "k": "Beginn",
+          "v": "Nautische Basis (Aix-les-Bains), Lido Strand (Tresserve), Les Mottets (Viviers-du-Lac)"
+        },
+        {
+          "k": "Preis",
+          "v": "frei"
+        },
+        {
+          "k": "Stunden",
+          "v": "Ganzjährig — 8:00-17:00 pro Savoie Mont Blanc, keine Zeiten pro Tourismusbüro"
+        },
+        {
+          "k": "Zugänglichkeit",
+          "v": "Rollstuhl ohne Hilfe (Departement)"
+        }
+      ],
+      "schema_amenities": [
+        "Rollstuhl ohne Hilfe zugänglich",
+        "Drei Startparkplätze",
+        "Grünflächen und Terrassen"
+      ],
+      "when_to_visit": "<p>Das ganze Jahr über - die Küste ist nach Westen ausgerichtet, und die späten Sommernachmittage werden golden. Savoie Mont Blanc begrenzt die Wanderung 8:00-17:00; das Tourismusbüro veröffentlicht keine Zeiten.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -118,6 +212,100 @@
       ],
       "when_to_visit": "<p>Year-round — the shore faces west, and summer late afternoons turn golden. Savoie Mont Blanc bounds the walk 8:00–17:00; the tourist office publishes no times.</p>"
     },
+    "es": {
+      "activities": [
+        {
+          "description": "Una orilla entera de la Lac du Bourget, ganó de nuevo desde el inaccesible: 1h30 de caminar plana entre espacios verdes y terrazas.",
+          "tag": "4 km",
+          "title": "Paseo a nivel de agua"
+        },
+        {
+          "description": "Nivel verde y 6 m de altitud: los trajes de paseo empujan sillas y sillas de ruedas por igual, sin asistencia.",
+          "tag": "Sillas de empuje",
+          "title": "Paseo en familia desde el Lido"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El<strong>chemin lacustre</strong>manos caminantes<strong>una orilla entera de la Lac du Bourget</strong>, a nivel del agua:<strong>4 km, aproximadamente 1h30, 6 m de altitud</strong>, calificado 'niveau vert - facile' como un paseo de confort. Una costa \"anteriormente inaccesible\", recuerdan las fuentes oficiales, regresó a los caminantes por el programa de desarrollo de la costa.</p><p>Tres comienzos oficiales: el<strong>Aix-les-Bains aparcamiento base náutico</strong>, el<strong>Playa de Lido aparcamiento</strong>en Tresserve, y el<strong>Aparcamiento Les Mottets</strong>en Viviers-du-Lac. Espacios verdes y terrazas bordean la ruta, tocando el agua.</p><p>El camino es<strong>silla de ruedas accesible sin asistencia</strong>Por la lista del departamento. En horas, una pequeña divergencia a la bandera: la oficina turística publica 'año alrededor, todos los días' sin veces, Savoie Mont Blanc 'año alrededor de 8:00-17:00'. Damos ambos.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": "Alrededor de todo el año — 8:00-17:00 por Savoie Mont Blanc",
+        "commune": "Tresserve",
+        "dogs": null,
+        "parking": "Tres salidas: base náutica Aix-les-Bains, playa de Lido, aparcamiento Les Mottets",
+        "stroller": "Cómoda caminata, nivel verde-fábrica, 6 m de altitud",
+        "type": "Paseo cómodo en Lakeside",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "4 km, alrededor de 1h30, por sólo 6 m de altitud, un paseo de confort con vistas verdes.",
+          "q": "¿Cuánto dura el paseo?"
+        },
+        {
+          "a": "Sí: 'Accesible en fauteuil roulant en autonomie', por el listado de Département de la Savoie.",
+          "q": "¿Es accesible la silla de ruedas?"
+        },
+        {
+          "a": "Tres salidas oficiales: la base náutica Aix-les-Bains, la playa Lido en Tresserve, y el aparcamiento Les Mottets en Viviers-du-Lac.",
+          "q": "¿Dónde puedes empezar?"
+        },
+        {
+          "a": "La oficina turística dice 'todo el año, todos los días' sin tiempos; Savoie Mont Blanc publica 'año alrededor de 8:00-17:00'. Las fuentes difieren y lo marcamos.",
+          "q": "¿Cuáles son las horas?"
+        },
+        {
+          "a": "Esta orilla del lago se cerró a los caminantes antes del programa de desarrollo; 'regains gran atractivo y calidad hoy', por la fuente oficial.",
+          "q": "¿Por qué 'antes costa inaccesible'?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratis · Lac du Bourget",
+        "lead": "Cuatro kilómetros a nivel de agua a lo largo de una orilla única de la Lac du Bourget: un paseo de confort ecológico, silla de ruedas accesible sin asistencia."
+      },
+      "hero_alt": "Camino del lago a nivel de agua en la orilla de Lac du Bourget",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Tres aparcamientos oficiales: base náutica Aix-les-Bains, playa Lido en Tresserve, Les Mottets en Viviers-du-Lac.",
+        "public_transport": null
+      },
+      "meta_description": "El sendero del lago Lac du Bourget: 4 km a nivel de agua entre Aix-les-Bains, Tresserve y Viviers-du-Lac, silla de ruedas accesible sin asistencia.",
+      "meta_title": "Chemin lacustre · Lac du Bourget confort walk, 4 km",
+      "name": "Lac du Bourget lakeside path",
+      "name_alternates": [
+        "Promenade confort : Chemin lacustre"
+      ],
+      "practical_info": [
+        {
+          "k": "Ruta",
+          "v": "4 km, ♥1h30, 6 m de altitud - nivel verde-fácil"
+        },
+        {
+          "k": "Empieza",
+          "v": "Base náutica (Aix-les-Bains), Playa Lido (Tresserve), Les Mottets (Viviers-du-Lac)"
+        },
+        {
+          "k": "Precio",
+          "v": "Gratis"
+        },
+        {
+          "k": "Horas",
+          "v": "Alrededor de todo el año — 8:00-17:00 por Savoie Mont Blanc, sin horarios por la oficina de turismo"
+        },
+        {
+          "k": "Accesibilidad",
+          "v": "Silla de ruedas sin asistencia (Département)"
+        }
+      ],
+      "schema_amenities": [
+        "Silla de ruedas accesible sin asistencia",
+        "Tres aparcamientos de salida",
+        "Espacios verdes y terrazas"
+      ],
+      "when_to_visit": "<p>Alrededor de todo el año — la orilla mira hacia el oeste, y las tardes de verano se vuelven doradas. Savoie Mont Blanc limita el paseo de 8:00 a 17:00; la oficina turística no publica ningún momento.</p>"
+    },
     "fr": {
       "activities": [
         {
@@ -211,6 +399,194 @@
         "Espaces verts et terrasses"
       ],
       "when_to_visit": "<p>Toute l'année — la berge est plein ouest, les fins d'après-midi d'été y sont dorées. Savoie Mont Blanc borne la promenade de 8h à 17h ; l'OT ne publie pas d'horaires.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Un'intera riva dell'Lac du Bourget, vinta dall'inaccessibile: 1h30 di flat walking tra spazi verdi e terrazze.",
+          "tag": "4 km",
+          "title": "Passeggiata a livello acqua"
+        },
+        {
+          "description": "Livello verde-facile e 6 m di elevazione: il passeggino si adatta a passeggini e sedie a rotelle, senza assistenza.",
+          "tag": "Sedie a rotelle",
+          "title": "Passeggiata in famiglia dal Lido"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The<strong>Chemin lacustre</strong>mani camminatori<strong>un'intera riva del Lac du Bourget</strong>, a livello dell'acqua:<strong>4 km, circa 1h30, 6 m di elevazione</strong>, valutato 'niveau vert - facile' come una passeggiata comfort. Una riva 'precedentemente inaccessibile', ricordano le fonti ufficiali, è tornata a passeggeri dal programma di sviluppo del litorale.</p><p>Tre partenze ufficiali: il<strong>Aix-les-Bains parcheggio nautico base</strong>#<strong>Spiaggia di Lido parcheggio</strong>a Tresserve, e il<strong>Parcheggio Les Mottets</strong>a Viviers-du-Lac. Gli spazi verdi e le terrazze mettono in linea il percorso, toccando l'acqua.</p><p>Il sentiero è<strong>accessibile senza assistenza</strong>, per la lista del Dipartimento. Nelle ore, una piccola divergenza per la bandiera: l'ufficio turistico pubblica 'l'anno, ogni giorno' senza tempi, Savoie Mont Blanc 'anno intorno alle 8:00–17:00'. Diamo entrambi.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": "Periodo — 8:00–17:00 per Savoie Mont Blanc",
+        "commune": "Tresserve",
+        "dogs": null,
+        "parking": "Tre partenze: base nautica Aix-les-Bains, spiaggia Lido, parcheggio Les Mottets",
+        "stroller": "Comfort a piedi, livello verde-facile, 6 m di elevazione",
+        "type": "Comfort a piedi sul lago",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "4 km, circa 1h30, per soli 6 m di elevazione — una passeggiata comfort nominale verde-facile.",
+          "q": "Quanto dura la passeggiata?"
+        },
+        {
+          "a": "Sì: 'Accessible en fauteuil roulant en autonomie', per la lista del Département de la Savoie.",
+          "q": "La sedia a rotelle è accessibile?"
+        },
+        {
+          "a": "Tre partenze ufficiali: la base nautica Aix-les-Bains, la spiaggia di Lido a Tresserve e il parcheggio Les Mottets a Viviers-du-Lac.",
+          "q": "Dove puoi cominciare?"
+        },
+        {
+          "a": "L'ufficio turistico dice 'anno-round, ogni giorno' senza tempi; Savoie Mont Blanc pubblica 'anno- tutto 8:00–17:00'. Le fonti differiscono e la bandiamo.",
+          "q": "Quali sono le ore?"
+        },
+        {
+          "a": "Questa riva del lago è stata chiusa agli escursionisti prima del programma di sviluppo; è 'rega una grande attrattiva e qualità oggi', per la fonte ufficiale.",
+          "q": "Perché 'precedentemente inaccessibile riva'?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratis · Lac du Bourget",
+        "lead": "Quattro chilometri a livello d'acqua lungo una riva un tempo inaccessibile dell'Lac du Bourget — una passeggiata di comfort verde-facile, accessibile a sedia a rotelle senza assistenza."
+      },
+      "hero_alt": "Percorso sul lago a livello dell'acqua sulla riva di Lac du Bourget",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Tre parcheggi ufficiali: base nautica Aix-les-Bains, spiaggia Lido a Tresserve, Les Mottets a Viviers-du-Lac.",
+        "public_transport": null
+      },
+      "meta_description": "Il percorso lungo il lago di Lac du Bourget: 4 km a livello di acqua tra Aix-les-Bains, Tresserve e Viviers-du-Lac, accessibile senza assistenza.",
+      "meta_title": "Chemin lacustre · Lac du Bourget comfort walk, 4 km",
+      "name": "Lac du Bourget lakeside path",
+      "name_alternates": [
+        "Promenade confort : Chemin lacustre"
+      ],
+      "practical_info": [
+        {
+          "k": "Itinerario",
+          "v": "4 km, ≈1h30, 6 m di elevazione — livello verde-facile"
+        },
+        {
+          "k": "Inizia",
+          "v": "Base nautica (Aix-les-Bains), Spiaggia del Lido (Tresserve), Les Mottets (Viviers-du-Lac)"
+        },
+        {
+          "k": "Prezzo",
+          "v": "Gratis"
+        },
+        {
+          "k": "Ore",
+          "v": "Tutto l'anno — 8:00–17:00 per Savoie Mont Blanc, nessuna volta per l'ufficio turistico"
+        },
+        {
+          "k": "Accessibilità",
+          "v": "Sedia a rotelle senza assistenza (Département)"
+        }
+      ],
+      "schema_amenities": [
+        "Seggiolone accessibile senza assistenza",
+        "Tre parcheggi di partenza",
+        "Spazi verdi e terrazze"
+      ],
+      "when_to_visit": "<p>Tutto l'anno — la riva si affaccia ad ovest, e i pomeriggi tardi estivi girano d'oro. Savoie Mont Blanc delimita la passeggiata 8:00–17:00; l'ufficio turistico non pubblica più volte.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Een hele oever van de Lac du Bourget, terug gewonnen van de ontoegankelijke: 1u30 van vlak lopen tussen groene ruimtes en terrassen.",
+          "tag": "4 km",
+          "title": "Wandeling op waterniveau"
+        },
+        {
+          "description": "Green-easy niveau en 6 m hoogte: de wandeling past zowel kinderwagens als rolstoelen, zonder hulp.",
+          "tag": "Kinderwagens",
+          "title": "Familie wandeling vanaf het Lido"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De<strong>chemin lacustre</strong>hands walkers<strong>een hele kustlijn van de Lac du Bourget</strong>, op waterniveau:<strong>4 km, ongeveer 1u30, 6 m hoogte</strong>, beoordeeld 'niveau vert - facle' als een comfort wandeling. Een kust 'vroeger ontoegankelijk', de officiële bronnen herinneren zich, keerde terug naar walkers door het ontwikkelingsprogramma van de kustlijn.</p><p>Drie officiële start: de<strong>Parkeerplaats Aix-les-Bains op nautische basis</strong>, de<strong>Lido strand parkeerplaats</strong>bij Tresserve, en de<strong>Parkeerplaats Les Mottets</strong>bij Viviers-du-Lac. Groene ruimtes en terrassen lijn de route, raken het water.</p><p>Het pad is<strong>rolstoel toegankelijk zonder hulp</strong>, volgens de lijst van het departement. Op uren, een kleine afwijking aan de vlag: het VVV-kantoor publiceert 'het hele jaar, elke dag' zonder tijden, Savoie Mont Blanc 'jaarrond 8:00 We geven beide.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Vrij",
+        "best_season": "Het hele jaar door",
+        "commune": "Tresserve",
+        "dogs": null,
+        "parking": "Drie starts: Aix-les-Bains nautische basis, Lido strand, Les Mottets parkeerplaats",
+        "stroller": "Comfortabele wandeling, aangenaam niveau, 6 m",
+        "type": "Lakeside comfort walk",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "4 km, ongeveer 1u30, voor slechts 6 m hoogte een comfort wandeling gewaardeerd groen-gemakkelijk.",
+          "q": "Hoe lang duurt de wandeling?"
+        },
+        {
+          "a": "Ja: 'Accessible en fauteuil roulant en autonome', per vermelding van het departement de la Savoie.",
+          "q": "Is het pad rolstoel toegankelijk?"
+        },
+        {
+          "a": "Drie officiële starts: de Aix-les-Bains nautische basis, het Lido strand op Tresserve en de parkeerplaats Les Mottets op Viviers-du-Lac.",
+          "q": "Waar kun je beginnen?"
+        },
+        {
+          "a": "Het VVV-kantoor zegt 'het hele jaar door, elke dag' zonder enige tijd; Savoie Mont Blanc publiceert 'rond 8:00/'. De bronnen verschillen en we markeren het.",
+          "q": "Wat zijn de uren?"
+        },
+        {
+          "a": "Deze oever van het meer was gesloten voor wandelaars vóór het ontwikkelingsprogramma; het 'regains grote aantrekkelijkheid en kwaliteit vandaag', per officiële bron.",
+          "q": "Waarom 'vroeger ontoegankelijke kust'?"
+        }
+      ],
+      "hero": {
+        "badge": "Vrij · Lac du Bourget",
+        "lead": "Vier kilometer op waterniveau langs een ooit ontoegankelijke kustlijn van de Lac du Bourget een groene comfort wandeling, rolstoel toegankelijk zonder hulp."
+      },
+      "hero_alt": "Pad aan het meer op waterniveau aan de kust van Lac du Bourget",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Drie officiële parkeerplaatsen: Aix-les-Bains nautische basis, Lido strand op Tresserve, Les Mottets op Viviers-du-Lac.",
+        "public_transport": null
+      },
+      "meta_description": "Het pad aan het meer van de Lac du Bourget: 4 km op waterniveau tussen Aix-les-Bains, Tresserve en Viviers-du-Lac, rolstoel toegankelijk zonder hulp.",
+      "meta_title": "Chemin lacustre · Lac du Bourget comfort wandeling, 4 km",
+      "name": "Lac du Bourget lakeside path",
+      "name_alternates": [
+        "Promenade confort : Chemin lacustre"
+      ],
+      "practical_info": [
+        {
+          "k": "Route",
+          "v": "4 km, ≈1u30, 6 m hoogte"
+        },
+        {
+          "k": "Start",
+          "v": "Nautische basis (Aix-les-Bains), Lido strand (Tresserve), Les Mottets (Viviers-du-Lac)"
+        },
+        {
+          "k": "Prijs",
+          "v": "Vrij"
+        },
+        {
+          "k": "Uren",
+          "v": "Het hele jaar door"
+        },
+        {
+          "k": "Toegankelijkheid",
+          "v": "Rolstoel zonder assistentie (Département)"
+        }
+      ],
+      "schema_amenities": [
+        "Rolstoel toegankelijk zonder assistentie",
+        "Drie start parkeerplaatsen",
+        "Groene ruimten en terrassen"
+      ],
+      "when_to_visit": "<p>Het hele jaar door ligt de kust op het westen, en de zomer laat middagen worden gouden. Savoie Mont Blanc grenst aan de wandeling 8:00</p>"
     }
   },
   "latitude": 45.668052,

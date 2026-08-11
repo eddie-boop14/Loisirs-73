@@ -24,6 +24,100 @@
   "hero_credit": null,
   "hero_image": "/img/generique/generique-sentier-foret.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Die große Land-Art-Schleife: 2h30 leicht zu Fuß rund um den Hautecour See, +222 m, PR-Wegmarkierung.",
+          "tag": "4,3 km",
+          "title": "Liberté-Schleife"
+        },
+        {
+          "description": "Die vom Département gekennzeichnete Kurzfassung: 40 Minuten, +40 m, am nächsten an den Werken.",
+          "tag": "700 m",
+          "title": "Promenade Confort"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Über Moûtiers,<strong>Hautecour artistic trail</strong>Lez'Arts en Adret — Displays<strong>Land-Art-Werke aus natürlichen Materialien, deren Themen jedes Frühjahr erneuert werden</strong>, um und vom Hautecour See. Der Trail wurde<strong>mit der Aufschrift „Promenade Savoyarde de Découverte“ und „Promenade confort“</strong>vom Département de la Savoie seit 2014.</p><p>Zwei markierte Formate: die<strong>Liberté-Schleife</strong>, 4,3 km, 2h30, +222 m, bewertet leicht mit PR-Wegmarkierung; und ein<strong>700 m 'Promenade Confort'</strong>, 40 Minuten, +40 m, für Kinderwagen und kurze Beine.</p><p>Der Zugang ist von Moûtiers über die D85 in Richtung Hautecour, Parkplatz in der Nähe des Plan d'eau. Frei, wie es sich für ein Freilichtmuseum gehört.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "frei",
+        "best_season": "Frühling bis Herbst - die Arbeiten werden jedes Frühjahr erneuert",
+        "commune": "Hautecour",
+        "dogs": null,
+        "parking": "In der Nähe des Plan d'eau (La Trappe)",
+        "stroller": "700 m 'Promenade Confort' Variante",
+        "type": "Künstlerischer Trail",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Werke aus natürlichen Materialien, die entlang der Route installiert sind, mit Themen, die jedes Frühjahr erneuert werden - so wechselt der Besuch von einem Jahr zum nächsten.",
+          "q": "Was ist die Land Art des Trails?"
+        },
+        {
+          "a": "Die Liberté-Schleife ist 4,3 km, 2h30, +222 m, bewertet leicht. Eine 700 m 'Promenade Confort' Variante (40 Minuten, +40 m) existiert ebenfalls.",
+          "q": "Wie lang ist die Schleife?"
+        },
+        {
+          "a": "Ja: 'Promenade Savoyarde de Découverte' und 'Promenade confort' vom Département de la Savoie, seit 2014.",
+          "q": "Ist der Trail gekennzeichnet?"
+        },
+        {
+          "a": "In der Nähe des Plan d'eau (La Trappe), am Ausgangspunkt. Von Moûtiers nehmen Sie die D85 in Richtung Hautecour.",
+          "q": "Wo parken Sie?"
+        },
+        {
+          "a": "Nein — es wird kein Preis veröffentlicht: Der Trail ist frei zugänglich.",
+          "q": "Gibt es eine Gebühr?"
+        }
+      ],
+      "hero": {
+        "badge": "Frei · Tarentaise",
+        "lead": "Land-Art-Werke aus natürlichen Materialien, die jeden Frühling um den Hautecour-See erneuert werden: die 4,3 km lange Liberté-Schleife oder ein 700 m langer Spaziergang."
+      },
+      "hero_alt": "Hautecour artistic trail und seine Landkunst, Tarentaise, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Von Moûtiers, D85 in Richtung Hautecour; Parkplatz in der Nähe des Plan d'eau.",
+        "public_transport": null
+      },
+      "meta_description": "Der Hautecour artistic trail im Tarentaise: Land Art erneuert jeden Frühling, eine einfache 4,3 km Schleife oder eine 700 m Komfortversion. Nur offizielle Quellen.",
+      "meta_title": "Hautecour artistic trail · Land Art, Easy Loop",
+      "name": "Hautecour artistic trail",
+      "name_alternates": [
+        "Lez'Arts en Adret"
+      ],
+      "practical_info": [
+        {
+          "k": "Trailhead",
+          "v": "Plan d'eau de la Trappe, 73600 Hautecour"
+        },
+        {
+          "k": "Liberté-Schleife",
+          "v": "4,3 km, 2h30, +222 m — leicht, PR-Wegmarkierung"
+        },
+        {
+          "k": "Promenade Confort",
+          "v": "700 m, 40 Minuten, +40 m"
+        },
+        {
+          "k": "Etiketten",
+          "v": "Promenade Savoyarde de Découverte + Promenade confort (Departement, seit 2014)"
+        },
+        {
+          "k": "Zugang",
+          "v": "Von Moûtiers über die D85"
+        }
+      ],
+      "schema_amenities": [
+        "frei",
+        "Land Art erneuert jeden Frühling",
+        "700 m Komfortvariante"
+      ],
+      "when_to_visit": "<p>Frühling bis Herbst - und vorzugsweise nach der Frühjahrserneuerung der Werke, um die Themen des Jahres zu entdecken.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -118,6 +212,100 @@
       ],
       "when_to_visit": "<p>Spring to autumn — and preferably after the spring renewal of the works, to discover the year's themes.</p>"
     },
+    "es": {
+      "activities": [
+        {
+          "description": "El gran bucle de tierra: 2h30 de fácil caminata alrededor del lago Hautecour, +222 m, PR waymarking.",
+          "tag": "4.3 km",
+          "title": "Liberté loop"
+        },
+        {
+          "description": "La versión corta etiquetada por el departamento: 40 minutos, +40 m, más cerca de las obras.",
+          "tag": "700 m",
+          "title": "Promenade Confort"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Sobre Moûtiers, los<strong>Hautecour artistic trail</strong>— Lez'Arts en Adret — displays<strong>obras de arte de la tierra en materiales naturales, cuyos temas son renovados cada primavera</strong>, alrededor y desde el lago Hautecour. El rastro ha sido<strong>etiquetado 'Promenade Savoyarde de Découverte' y 'Promenade confort'</strong>por el Departamento de la Savoie desde 2014.</p><p>Dos formatos marcados: el<strong>Liberté loop</strong>, 4.3 km, 2h30, +222 m, clasificado fácil con el marcador PR; y<strong>700 m 'Promenade Confort'</strong>, 40 minutos, +40 m, para sillas y piernas cortas.</p><p>El acceso es de Moûtiers vía el D85 hacia Hautecour, estacionamiento cerca del plan d'eau. Libre, como corresponde a un museo al aire libre.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": "Primavera a otoño - las obras se renueven cada primavera",
+        "commune": "Hautecour",
+        "dogs": null,
+        "parking": "Cerca del plan d'eau (la Trappe)",
+        "stroller": "700 m 'Promenade Confort' variante",
+        "type": "Ruta artística etiquetada",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Obras en materiales naturales instalados a lo largo de la ruta, con temas renovados cada primavera, por lo que la visita cambia de un año a otro.",
+          "q": "¿Cuál es el arte de la tierra del sendero?"
+        },
+        {
+          "a": "El bucle Liberté es de 4,3 km, 2h30, +222 m, considerado fácil. También existe una variante de 700 m 'Promenade Confort' (40 minutos, +40 m).",
+          "q": "¿Cuánto tiempo es el bucle?"
+        },
+        {
+          "a": "Sí: 'Promenade Savoyarde de Découverte' y 'Promenade confort' por el Departamento de la Savoie, desde 2014.",
+          "q": "¿El rastro está etiquetado?"
+        },
+        {
+          "a": "Cerca del plan d'eau (la Trappe), en el sendero. Desde Moûtiers, tome el D85 hacia Hautecour.",
+          "q": "¿Dónde aparcas?"
+        },
+        {
+          "a": "No — no se publica ningún precio: el sendero es libremente accesible.",
+          "q": "¿Hay una tarifa?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratis · Tarentaise",
+        "lead": "Land-art trabaja en materiales naturales, renovado cada primavera alrededor del lago Hautecour: el bucle Liberté de 4,3 km, o un paseo de 700 m de confort."
+      },
+      "hero_alt": "Hautecour artistic trail y su arte terrestre, Tarentaise, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Desde Moûtiers, D85 hacia Hautecour; aparcamiento cerca del plan d'eau.",
+        "public_transport": null
+      },
+      "meta_description": "El Hautecour artistic trail en el Tarentaise: arte de tierra renovado cada primavera, un bucle fácil de 4,3 km o una versión de 700 m de confort. Fuentes oficiales solamente.",
+      "meta_title": "Hautecour artistic trail · Arte terrestre, bucle fácil",
+      "name": "Hautecour artistic trail",
+      "name_alternates": [
+        "Lez'Arts en Adret"
+      ],
+      "practical_info": [
+        {
+          "k": "Trailhead",
+          "v": "Plan d'eau de la Trappe, 73600 Hautecour"
+        },
+        {
+          "k": "Liberté loop",
+          "v": "4.3 km, 2h30, +222 m — fácil, PR waymarking"
+        },
+        {
+          "k": "Promenade Confort",
+          "v": "700 m, 40 minutos, +40 m"
+        },
+        {
+          "k": "Etiquetas",
+          "v": "Promenade Savoyarde de Découverte + Promenade confort (Département, since 2014)"
+        },
+        {
+          "k": "Acceso",
+          "v": "De Moûtiers a través del D85"
+        }
+      ],
+      "schema_amenities": [
+        "Gratis",
+        "Arte de tierra renovado cada primavera",
+        "700 m de confort variante"
+      ],
+      "when_to_visit": "<p>Primavera a otoño – y preferiblemente después de la renovación primaveral de las obras, para descubrir los temas del año.</p>"
+    },
     "fr": {
       "activities": [
         {
@@ -211,6 +399,194 @@
         "Variante confort 700 m"
       ],
       "when_to_visit": "<p>Du printemps à l'automne — et de préférence après le renouvellement printanier des œuvres, pour découvrir les thèmes de l'année.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Il grande anello di terra-arte: 2h30 di facile passeggiata intorno al lago Hautecour, +222 m, PR waymarking.",
+          "tag": "4.3 km",
+          "title": "L'anello di libertà"
+        },
+        {
+          "description": "La versione breve etichettata dal Dipartimento: 40 minuti, +40 m, più vicino alle opere.",
+          "tag": "700 m",
+          "title": "Promenade Confort"
+        }
+      ],
+      "body": {
+        "what_is": "<p>sopra Moûtiers, il<strong>Hautecour artistic trail</strong>— Lez'Arts en Adret — display<strong>opere di arte terra in materiali naturali, i cui temi si rinnovano ogni primavera</strong>, intorno e dal lago Hautecour. Il sentiero è stato<strong>etichettato 'Promenade Savoyarde de Découverte' e 'Promenade confort'</strong>dal Département de la Savoie dal 2014.</p><p>Due formati firmati: il<strong>L'anello di libertà</strong>, 4.3 km, 2h30, +222 m, valutato facile con PR waymarking; e un<strong>700 m 'Promenade Confort'</strong>, 40 minuti, +40 m, per passeggini e gambe corte.</p><p>L'accesso è da Moûtiers attraverso il D85 verso Hautecour, parcheggio vicino al piano d'eau. Gratis, come si adatta un museo all'aperto.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": "Primavera-autunno — le opere vengono rinnovate ogni primavera",
+        "commune": "Hautecour",
+        "dogs": null,
+        "parking": "Vicino al piano d'eau (la Trappe)",
+        "stroller": "700 m 'Promenade Confort' variante",
+        "type": "Sentiero artistico etichettato",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Opere in materiali naturali installati lungo il percorso, con temi rinnovati ogni primavera — così la visita cambia da un anno all'altro.",
+          "q": "Qual è l'arte di terra del sentiero?"
+        },
+        {
+          "a": "Il ciclo Liberté è 4.3 km, 2h30, +222 m, valutato facile. Esiste anche una variante 'Promenade Confort' di 700 m (40 minuti, +40 m).",
+          "q": "Quanto dura l'anello?"
+        },
+        {
+          "a": "Sì: 'Promenade Savoyarde de Découverte' e 'Promenade confort' del Département de la Savoie, dal 2014.",
+          "q": "Il sentiero è etichettato?"
+        },
+        {
+          "a": "Vicino al piano d'eau (la Trappe), al sentiero. Da Moûtiers, prendere il D85 in direzione Hautecour.",
+          "q": "Dove parcheggi?"
+        },
+        {
+          "a": "No — nessun prezzo è pubblicato: il sentiero è liberamente accessibile.",
+          "q": "C'è una tassa?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratis · Tarentaise",
+        "lead": "Lavori all'avanguardia in materiali naturali, rinnovati ogni primavera intorno al lago Hautecour: il ciclo Liberté di 4,3 km, o una passeggiata di 700 m."
+      },
+      "hero_alt": "Hautecour artistic trail e la sua arte terra, Tarentaise, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Da Moûtiers, D85 verso Hautecour; parcheggio vicino al piano d'eau.",
+        "public_transport": null
+      },
+      "meta_description": "L'Hautecour artistic trail nella Tarentaise: l'arte del terreno rinnova ogni primavera, un facile anello di 4,3 km o una versione di comfort di 700 m. Solo fonti ufficiali.",
+      "meta_title": "Hautecour artistic trail · Land art, loop facile",
+      "name": "Hautecour artistic trail",
+      "name_alternates": [
+        "Lez'Arts en Adret"
+      ],
+      "practical_info": [
+        {
+          "k": "Sentiero",
+          "v": "Piano d'eau de la Trappe, 73600 Hautecour"
+        },
+        {
+          "k": "L'anello di libertà",
+          "v": "4.3 km, 2h30, +222 m — facile, PR waymarking"
+        },
+        {
+          "k": "Promenade Confort",
+          "v": "700 m, 40 minuti, +40 m"
+        },
+        {
+          "k": "Etichette",
+          "v": "Promenade Savoyarde de Découverte + Promenade confort (Département, dal 2014)"
+        },
+        {
+          "k": "Accesso",
+          "v": "Da Moûtiers attraverso il D85"
+        }
+      ],
+      "schema_amenities": [
+        "Gratis",
+        "Arte terra rinnovata ogni primavera",
+        "700 m variante comfort"
+      ],
+      "when_to_visit": "<p>La primavera all'autunno — e preferibilmente dopo il rinnovamento primaverile delle opere, per scoprire i temi dell'anno.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "De grote land-art lus: 2u30 van gemakkelijk wandelen rond het Hautecour meer, +222 m, PR waymarking.",
+          "tag": "4,3 km",
+          "title": "Liberté-lus"
+        },
+        {
+          "description": "De korte versie van het departement: 40 minuten, +40 m, het dichtst bij de werken.",
+          "tag": "700 m",
+          "title": "Promenade Confort"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Boven Moûtiers, de<strong>Hautecour artistic trail</strong>Lez'Arts en Adret displays<strong>grond-kunst werken in natuurlijke materialen, waarvan de thema's worden vernieuwd elke lente</strong>, rond en van het Hautecour meer. Het spoor is<strong>\"Promenade Savoyarde de Découverte\" en \"Promenade confort\"</strong>door het departement de la Savoie sinds 2014.</p><p>Twee waymarked formaten: de<strong>Liberté-lus</strong>, 4,3 km, 2u30, +222 m, gemakkelijk met PR-wegwijzer; en a<strong>700 m 'Promenade Confort'</strong>, 40 minuten, +40 m, voor kinderwagens en korte poten.</p><p>Toegang is vanaf Moûtiers via de D85 richting Hautecour, parkeren bij het plan d'eau. Gratis, zoals past in een openluchtmuseum.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Vrij",
+        "best_season": "Voorjaar tot herfst",
+        "commune": "Hautecour",
+        "dogs": null,
+        "parking": "Vlakbij het plan d'eau (la Trappe)",
+        "stroller": "700 m 'Promenade Confort' variant",
+        "type": "Gelabeld artistiek spoor",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Werkt in natuurlijke materialen geïnstalleerd langs de route, met thema's vernieuwd elke lente en dus het bezoek verandert van het ene jaar naar het volgende.",
+          "q": "Wat is de landkunst van het spoor?"
+        },
+        {
+          "a": "De Liberté loop is 4,3 km, 2u30, +222 m, gewaardeerd gemakkelijk. Een 700 m 'Promenade Confort' variant (40 minuten, +40 m) bestaat ook.",
+          "q": "Hoe lang duurt de lus?"
+        },
+        {
+          "a": "Ja: 'Promenade Savoyarde de Découverte' en 'Promenade confort' van het departement Savoie, sinds 2014.",
+          "q": "Is het spoor gemarkeerd?"
+        },
+        {
+          "a": "Vlakbij het plan d'eau (la Trappe), bij het pad. Vanuit Moûtiers, neem de D85 richting Hautecour.",
+          "q": "Waar parkeer je?"
+        },
+        {
+          "a": "Er wordt geen prijs gepubliceerd: het parcours is vrij toegankelijk.",
+          "q": "Is er een vergoeding?"
+        }
+      ],
+      "hero": {
+        "badge": "Vrij · Tarentaise",
+        "lead": "Land-kunst werkt in natuurlijke materialen, vernieuwd elke lente rond het Hautecour meer: de 4,3 km Liberté loop, of een 700 m comfort wandeling."
+      },
+      "hero_alt": "Hautecour artistic trail en zijn land art, Tarentaise, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Vanaf Moûtiers, D85 richting Hautecour; parkeren bij het plan d'eau.",
+        "public_transport": null
+      },
+      "meta_description": "De Hautecour artistic trail in de Tarentaise: land art vernieuwd elke lente, een eenvoudige 4.3 km loop of een 700 m comfort versie. Alleen officiële bronnen.",
+      "meta_title": "Hautecour artistic trail · Land art, easy loop",
+      "name": "Hautecour artistic trail",
+      "name_alternates": [
+        "Lez'Arts en Adret"
+      ],
+      "practical_info": [
+        {
+          "k": "Trailhead",
+          "v": "Plan d'eau de la Trappe, 73600 Hautecour"
+        },
+        {
+          "k": "Liberté-lus",
+          "v": "4,3 km, 2u30, +222 m"
+        },
+        {
+          "k": "Promenade Confort",
+          "v": "700 m, 40 minuten, +40 m"
+        },
+        {
+          "k": "Etiketten",
+          "v": "Promenade Savoyarde de Découverte + Promenade confort (Département, sinds 2014)"
+        },
+        {
+          "k": "Toegang",
+          "v": "Vanuit Moûtiers via de D85"
+        }
+      ],
+      "schema_amenities": [
+        "Vrij",
+        "Land kunst vernieuwd elke lente",
+        "700 m comfort variant"
+      ],
+      "when_to_visit": "<p>Voorjaar tot herfst en bij voorkeur na de lente vernieuwing van de werken, om de thema's van het jaar te ontdekken.</p>"
     }
   },
   "latitude": 45.506831,

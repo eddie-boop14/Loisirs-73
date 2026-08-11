@@ -24,6 +24,100 @@
   "hero_credit": null,
   "hero_image": "/img/generique/generique-sentier.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Die volle Schaltung über Grate und Ufer: drei markierte Etappen von 24,1, 22,3 und 14,1 km, +2.467 m insgesamt.",
+          "tag": "60,4 km",
+          "title": "Dreistufiger Trekking"
+        },
+        {
+          "description": "Die einfache Version des gleichen Namens ist fahrbar - 11 km Grünstraße - veröffentlicht von Chartreuse Tourisme, nicht zu verwechseln mit dem Wanderweg.",
+          "tag": "16,9 km · Fahrrad",
+          "title": "Die Radtour des Sees"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Rund um den <strong>lac d'Aiguebelette</strong> markiert das Fremdenverkehrsamt <strong>300 km Wege</strong>. Der anspruchsvollste trägt den Namen des Sees: der <strong>Tour du Lac d'Aiguebelette zu Fuß — 3 Tage, 60,4 km, +2 467 m, als « Difficile » eingestuft</strong>, ab Lépin-le-Lac (dem Bahnhof, praktisch mit dem Zug). Drei veröffentlichte Etappen: 24,1 km und +1 230 m ab Lépin-le-Lac; 22,3 km und +1 174 m ab Aiguebelette-le-Lac; 14,1 km und +333 m ab Novalaise.</p><p>Achtung, Namensgleichheit als Falle: Chartreuse Tourisme veröffentlicht ebenfalls eine « Tour du Lac d'Aiguebelette » von <strong>16,9 km, 291 m, « Facile »</strong> — « ideal für einen leichten, für alle zugänglichen Ausflug » — doch das ist ein <strong>Radtouren</strong>-Datenblatt, davon 11 km Radweg. Eine Familie, die die Runde <strong>zu Fuß</strong> plant, darf sich nicht auf die Zahlen der Radversion verlassen. Wir stellen beide Datenblätter genau deshalb nebeneinander.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Frei — markierte Strecke",
+        "best_season": "Ganzjährig pro Datensatz der Fahrradschleife; die Wanderung in der warmen Jahreszeit",
+        "commune": "Lépin-le-Lac",
+        "dogs": null,
+        "parking": "Start möglich von Lépin-le-Lac Station",
+        "stroller": null,
+        "type": "Loop Trek rund um den See",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "3 Tage für die offizielle Wanderung: 60,4 km und +2.467 m, mit der Bezeichnung \"Difficile\" ab Lépin-le-Lac.",
+          "q": "Wie lange dauert der Lake Circuit zu Fuß?"
+        },
+        {
+          "a": "Ja — aber es ist eine BIKE-Route: Chartreuse Tourisme 16,9 km fiche ('Facile', 11 km von greenway) ist eine Fahrrad-Schleife. Die Wanderstrecke ist eine 3-tägige Wanderung; beide tragen den gleichen Namen und wir kennzeichnen die mögliche Verwirrung.",
+          "q": "Gibt es keine einfache 17 km Version?"
+        },
+        {
+          "a": "Stufe 1: 24,1 km, +1,230 m (Lépin-le-Lac), Stufe 2: 22,3 km, +1,174 m (Aiguebelette-le-Lac). Etappe 3: 14,1 km, +333 m (Novalaise).",
+          "q": "Was sind die Etappen?"
+        },
+        {
+          "a": "Ja - der offizielle Start ist der Bahnhof von Lépin-le-Lac.",
+          "q": "Kannst du mit dem Zug kommen?"
+        },
+        {
+          "a": "300 km markierte Routen, pro Lac d'Aiguebelette Tourismusbüro.",
+          "q": "Gibt es andere Wege rund um den See?"
+        }
+      ],
+      "hero": {
+        "badge": "3 Tage · Lac d'Aiguebelette",
+        "lead": "Der echte Seekurs zu Fuß ist eine Wanderung: 3 Tage, 60,4 km, +2.467 m von der Lépin-le-Lac-Station entfernt. Die \"einfache\" 17 km lange Schleife mit dem gleichen Namen ist eine Radroute."
+      },
+      "hero_alt": "Wanderwege über dem Lac d'Aiguebelette, Savoie Ausläufer",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Bei Lépin-le-Lac, Südwestküste des Lac d'Aiguebelette; offizieller Start vom Bahnhof.",
+        "public_transport": "Lépin-le-Lac SNCF Station am Start der Route."
+      },
+      "meta_description": "Der Lac d'Aiguebelette-Kurs zu Fuß: 3 Tage, 60,4 km, +2.467 m, schwierig bewertet - nicht zu verwechseln mit der 17 km langen Radtour. Offizielle Quellen.",
+      "meta_title": "Rundkurs Lac d'Aiguebelette zu Fuß · 3 Tage, 60 km, Etappen",
+      "name": "Lac d'Aiguebelette walking circuit",
+      "name_alternates": [
+        "Tour du Lac d'Aiguebelette — Rando pédestre 3 jours"
+      ],
+      "practical_info": [
+        {
+          "k": "Beginn",
+          "v": "Lépin-le-Lac Station, 73610"
+        },
+        {
+          "k": "Volle Wanderung",
+          "v": "3 Tage, 60,4 km, +2.467 m — 'Difficile'"
+        },
+        {
+          "k": "Phasen",
+          "v": "24,1 km / 22,3 km / 14,1 km"
+        },
+        {
+          "k": "Nicht verwechseln",
+          "v": "Die \"einfache\" 16,9 km lange Schleife mit dem gleichen Namen ist eine Fahrradroute (Chartreuse Tourisme)"
+        },
+        {
+          "k": "Netz",
+          "v": "300 km markierte Routen rund um den See"
+        }
+      ],
+      "schema_amenities": [
+        "Markierte 3-Stufen-Route",
+        "Beginn des Bahnhofs",
+        "300 km Wanderwege rund um den See"
+      ],
+      "when_to_visit": "<p>Die warme Jahreszeit für die 3-tägige Wanderung; das Datenblatt der gleichnamigen Fahrradschleife sagt \"das ganze Jahr über, jeden Tag\" - aber das ist die Fahrradversion.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -118,6 +212,100 @@
       ],
       "when_to_visit": "<p>The warm season for the 3-day trek; the same-named cycling loop's fiche says 'year-round, every day' — but that is the bike version.</p>"
     },
+    "es": {
+      "activities": [
+        {
+          "description": "El circuito completo sobre crestas y costas: tres tramos de 24.1, 22.3 y 14.1 km, +2,467 m en total.",
+          "tag": "60,4 km",
+          "title": "Trek de 3 etapas"
+        },
+        {
+          "description": "La versión fácil del mismo nombre es montable — 11 km de vía verde— publicado por Chartreuse Tourisme, para no confundirse con la caminata.",
+          "tag": "16.9 km · bicicleta",
+          "title": "El bucle de ciclismo del lago"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Alrededor del <strong>lac d'Aiguebelette</strong>, la oficina de turismo baliza <strong>300 km de itinerarios</strong>. El más ambicioso lleva el nombre del lago: el <strong>Tour du Lac d'Aiguebelette a pie — 3 días, 60,4 km, +2 467 m, clasificado « Difficile »</strong>, con salida en Lépin-le-Lac (la estación, cómoda en tren). Tres etapas publicadas: 24,1 km y +1 230 m desde Lépin-le-Lac; 22,3 km y +1 174 m desde Aiguebelette-le-Lac; 14,1 km y +333 m desde Novalaise.</p><p>Cuidado con la trampa del mismo nombre: Chartreuse Tourisme publica también un « Tour du Lac d'Aiguebelette » de <strong>16,9 km, 291 m, « Facile »</strong> — « ideal para un paseo fácil y accesible para todos » — pero es una ficha de <strong>cicloturismo</strong>, de los cuales 11 km de vía verde. Una familia que proyecta la vuelta <strong>a pie</strong> no debe fiarse de las cifras de la versión en bici. Publicamos las dos fichas una al lado de la otra precisamente por eso.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Ruta libre y señalizada",
+        "best_season": "Alrededor del año por el fiche del ciclismo; el trek en la temporada caliente",
+        "commune": "Lépin-le-Lac",
+        "dogs": null,
+        "parking": "Inicio posible desde la estación Lépin-le-Lac",
+        "stroller": null,
+        "type": "Paseo en bucle alrededor del lago",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "3 días para la caminata oficial: 60.4 km y +2,467 m, valorado 'Difficile', desde Lépin-le-Lac.",
+          "q": "¿Cuánto tiempo lleva el circuito del lago a pie?"
+        },
+        {
+          "a": "Sí, pero es una ruta BIKE: Chartreuse El fiche de 16,9 km de Tourisme ('Facile', 11 km de greenway) es un bucle de ciclismo. El circuito de caminar es un trek de 3 días; ambos llevan el mismo nombre y marcamos la posible confusión.",
+          "q": "¿No hay una versión fácil de 17 km?"
+        },
+        {
+          "a": "Etapa 1: 24.1 km, +1,230 m (Lépin-le-Lac). Etapa 2: 22.3 km, +1,174 m (Aiguebelette-le-Lac). Etapa 3: 14,1 km, +333 m (Novalaise).",
+          "q": "¿Cuáles son las etapas?"
+        },
+        {
+          "a": "Sí, el comienzo oficial es la estación de tren de Lépin-le-Lac.",
+          "q": "¿Puedes venir en tren?"
+        },
+        {
+          "a": "300 km de rutas señalizadas, por la oficina turística de Lac d'Aiguebelette.",
+          "q": "¿Hay otros senderos alrededor del lago?"
+        }
+      ],
+      "hero": {
+        "badge": "3 días · Lac d'Aiguebelette",
+        "lead": "El circuito del lago real a pie es un trekking: 3 días, 60.4 km, +2,467 m, de la estación de Lépin-le-Lac. El bucle \"fácil\" de 17 km que lleva el mismo nombre es una ruta de ciclismo."
+      },
+      "hero_alt": "Rutas por encima del Lac d'Aiguebelette, cuestas de Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "En Lépin-le-Lac, costa suroeste del Lac d'Aiguebelette; salida oficial desde la estación.",
+        "public_transport": "Estación Lépin-le-Lac SNCF al inicio de la ruta."
+      },
+      "meta_description": "El circuito Lac d'Aiguebelette a pie: 3 días, 60.4 km, +2,467 m, considerado difícil — no confundirse con el bucle de ciclismo de 17 km. Fuentes oficiales.",
+      "meta_title": "Circuito Lac d'Aiguebelette a pie · 3 días, 60 km, etapas",
+      "name": "Lac d'Aiguebelette walking circuit",
+      "name_alternates": [
+        "Tour du Lac d'Aiguebelette — Rando pédestre 3 jours"
+      ],
+      "practical_info": [
+        {
+          "k": "Comienzo",
+          "v": "Estación Lépin-le-Lac, 73610"
+        },
+        {
+          "k": "Full Trek",
+          "v": "3 días, 60,4 km, +2,467 m — 'Difficile'"
+        },
+        {
+          "k": "Estadios",
+          "v": "24.1 km / 22.3 km / 14.1 km"
+        },
+        {
+          "k": "No confundas",
+          "v": "El bucle \"fácil\" de 16.9 km del mismo nombre es una ruta de bicicletas (Chartreuse Tourisme)"
+        },
+        {
+          "k": "Red",
+          "v": "300 km de rutas señalizadas alrededor del lago"
+        }
+      ],
+      "schema_amenities": [
+        "Ruta de 3 etapas",
+        "Comienzo de la estación",
+        "300 km de senderos alrededor del lago"
+      ],
+      "when_to_visit": "<p>La estación cálida para el trek de 3 días; el fiche del ciclismo del mismo nombre dice \"todo el año\", pero esa es la versión en bicicleta.</p>"
+    },
     "fr": {
       "activities": [
         {
@@ -211,6 +399,194 @@
         "300 km de sentiers autour du lac"
       ],
       "when_to_visit": "<p>La belle saison pour le trek de 3 jours ; la fiche de la boucle cyclo du même nom annonce « toute l'année tous les jours » — mais c'est la version vélo.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Il circuito completo su creste e sponde: tre stadi segnati di 24.1, 22.3 e 14.1 km, +2,467 m in totale.",
+          "tag": "60,4 km",
+          "title": "Trek a 3 stadi"
+        },
+        {
+          "description": "La versione facile dello stesso nome è rideable — 11 km di greenway — pubblicato da Chartreuse Tourisme, da non confondere con il trekking a piedi.",
+          "tag": "16.9 km · bicicletta",
+          "title": "La pista ciclabile del lago"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Attorno al <strong>lac d'Aiguebelette</strong>, l'ufficio del turismo segna <strong>300 km di itinerari</strong>. Il più ambizioso porta il nome del lago: il <strong>Tour du Lac d'Aiguebelette a piedi — 3 giorni, 60,4 km, +2 467 m, classificato « Difficile »</strong>, con partenza da Lépin-le-Lac (la stazione, comoda in treno). Tre tappe pubblicate: 24,1 km e +1 230 m da Lépin-le-Lac; 22,3 km e +1 174 m da Aiguebelette-le-Lac; 14,1 km e +333 m da Novalaise.</p><p>Attenzione al tranello dello stesso nome: Chartreuse Tourisme pubblica anche un « Tour du Lac d'Aiguebelette » di <strong>16,9 km, 291 m, « Facile »</strong> — « ideale per una passeggiata facile e accessibile a tutti » — ma è una scheda di <strong>cicloturismo</strong>, di cui 11 km di via verde. Una famiglia che progetta il giro <strong>a piedi</strong> non deve fidarsi dei numeri della versione in bici. Pubblichiamo le due schede fianco a fianco proprio per questo.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Libera — rotta segnata",
+        "best_season": "Tutto l'anno per il circuito ciclistico; il trekking nella stagione calda",
+        "commune": "Lépin-le-Lac",
+        "dogs": null,
+        "parking": "Iniziare possibile dalla stazione Lépin-le-Lac",
+        "stroller": null,
+        "type": "Loop trek intorno al lago",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "3 giorni per il trekking ufficiale: 60,4 km e +2,467 m, valutato 'Difficile', da Lépin-le-Lac.",
+          "q": "Quanto dura il circuito del lago a piedi?"
+        },
+        {
+          "a": "Si — ma è un percorso BIKE: Chartreuse Tourisme's 16.9 km fiche ('Facile', 11 km di greenway) è un ciclo ciclistico. Il circuito a piedi è un trekking di 3 giorni; entrambi portano lo stesso nome e bandiamo la possibile confusione.",
+          "q": "Non c'è una versione facile di 17 km?"
+        },
+        {
+          "a": "Fase 1: 24,1 km, +1,230 m (Lépin-le-Lac). Fase 2: 22,3 km, +1,174 m (Aiguebelette-le-Lac). Fase 3: 14,1 km, +333 m (Novalaise).",
+          "q": "Quali sono le fasi?"
+        },
+        {
+          "a": "Sì — l'inizio ufficiale è la stazione ferroviaria di Lépin-le-Lac.",
+          "q": "Puoi venire in treno?"
+        },
+        {
+          "a": "300 km di percorsi segnalati, per l'ufficio turistico Lac d'Aiguebelette.",
+          "q": "Ci sono altri sentieri intorno al lago?"
+        }
+      ],
+      "hero": {
+        "badge": "3 giorni · Lac d'Aiguebelette",
+        "lead": "Il vero circuito lacustre a piedi è un trekking: 3 giorni, 60,4 km, +2,467 m, dalla stazione di Lépin-le-Lac. L'anello 'facile' di 17 km che porta lo stesso nome è una pista ciclabile."
+      },
+      "hero_alt": "Sentieri sopra il Lac d'Aiguebelette, i piedi di Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "A Lépin-le-Lac, a sud-ovest della Lac d'Aiguebelette; partenza ufficiale dalla stazione.",
+        "public_transport": "Stazione Lépin-le-Lac SNCF all'inizio del percorso."
+      },
+      "meta_description": "Il circuito Lac d'Aiguebelette a piedi: 3 giorni, 60,4 km, +2,467 m, valutato difficile — da non confondere con il ciclo ciclabile di 17 km. Fonti ufficiali.",
+      "meta_title": "Circuito Lac d'Aiguebelette a piedi · 3 giorni, 60 km, tappe",
+      "name": "Lac d'Aiguebelette walking circuit",
+      "name_alternates": [
+        "Tour du Lac d'Aiguebelette — Rando pédestre 3 jours"
+      ],
+      "practical_info": [
+        {
+          "k": "Inizio",
+          "v": "Stazione Lépin-le-Lac, 73610"
+        },
+        {
+          "k": "Treccia completa",
+          "v": "3 giorni, 60,4 km, +2,467 m — 'Difficile'"
+        },
+        {
+          "k": "Fasi",
+          "v": "24.1 km / 22.3 km / 14.1 km"
+        },
+        {
+          "k": "Non confondere",
+          "v": "L'anello 'easy' 16.9 km dello stesso nome è una pista ciclabile (Chartreuse Tourisme)"
+        },
+        {
+          "k": "Rete",
+          "v": "300 km di percorsi segnalati intorno al lago"
+        }
+      ],
+      "schema_amenities": [
+        "Strada a 3 stadi",
+        "Inizio stazione",
+        "300 km di sentieri intorno al lago"
+      ],
+      "when_to_visit": "<p>La stagione calda per il trekking di 3 giorni; la fiche del circuito ciclabile con lo stesso nome dice 'l'anno-round, ogni giorno' — ma questa è la versione della bici.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Het volledige circuit over richels en oevers: drie gemarkeerde etappes van 24.1, 22.3 en 14.1 km, +2,467 m in totaal.",
+          "tag": "60,4 km",
+          "title": "3-traps tocht"
+        },
+        {
+          "description": "De gemakkelijke versie van dezelfde naam is rijbaar 11 km van greenway uitgegeven door Chartreuse Tourisme, niet te verwarren met de wandeltocht.",
+          "tag": "16,9 km · fiets",
+          "title": "De fietsroute van het meer"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Rond het <strong>lac d'Aiguebelette</strong> markeert het toeristenbureau <strong>300 km aan routes</strong>. De meest ambitieuze draagt de naam van het meer: de <strong>Tour du Lac d'Aiguebelette te voet — 3 dagen, 60,4 km, +2 467 m, ingedeeld als « Difficile »</strong>, met vertrek in Lépin-le-Lac (het station, handig met de trein). Drie gepubliceerde etappes: 24,1 km en +1 230 m vanaf Lépin-le-Lac; 22,3 km en +1 174 m vanaf Aiguebelette-le-Lac; 14,1 km en +333 m vanaf Novalaise.</p><p>Let op de valkuil van dezelfde naam: Chartreuse Tourisme publiceert ook een « Tour du Lac d'Aiguebelette » van <strong>16,9 km, 291 m, « Facile »</strong> — « ideaal voor een gemakkelijke, voor iedereen toegankelijke tocht » — maar dat is een <strong>fietstoerisme</strong>-fiche, waarvan 11 km groene route. Een gezin dat de ronde <strong>te voet</strong> plant, mag niet vertrouwen op de cijfers van de fietsversie. Wij publiceren de twee fiches naast elkaar juist daarom.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis route gemarkeerd met tags",
+        "best_season": "Het hele jaar door per fietsluskaart; de tocht in het warme seizoen",
+        "commune": "Lépin-le-Lac",
+        "dogs": null,
+        "parking": "Start mogelijk vanaf Lépin-le-Lac station",
+        "stroller": null,
+        "type": "Loop tocht rond het meer",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "3 dagen voor de officiële tocht: 60,4 km en +2,467 m, 'difficiele', van Lépin-le-Lac.",
+          "q": "Hoe lang duurt het circuit te voet?"
+        },
+        {
+          "a": "Ja, maar het is een BIKE route: Chartreuse Tourisme's 16,9 km folder ('Facile', 11 km greenway) is een fietslus. Het wandelcircuit is een 3-daagse tocht; beide dragen dezelfde naam en we markeren de mogelijke verwarring.",
+          "q": "Is er geen makkelijke 17 km versie?"
+        },
+        {
+          "a": "Fase 1: 24,1 km, +1,230 m (Lépin-le-Lac). Fase 2: 22,3 km, +1,174 m (Aiguebelette-le-Lac). Fase 3: 14,1 km, +333 m (Novalaise).",
+          "q": "Wat zijn de fasen?"
+        },
+        {
+          "a": "Ja, de officiële start is Lépin-le-Lac's treinstation.",
+          "q": "Kun je met de trein komen?"
+        },
+        {
+          "a": "300 km bewegwijzerde routes, per toeristenbureau Lac d'Aiguebelette.",
+          "q": "Zijn er andere paden rond het meer?"
+        }
+      ],
+      "hero": {
+        "badge": "3 dagen · Lac d'Aiguebelette",
+        "lead": "Het echte circuit van het meer te voet is een tocht: 3 dagen, 60,4 km, +2,467 m, van Lépin-le-Lac station. De 'easy' 17 km loop met dezelfde naam is een fietsroute."
+      },
+      "hero_alt": "Trails boven de Lac d'Aiguebelette, de uitlopers van Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Op Lépin-le-Lac, zuidwestelijke oever van de Lac d'Aiguebelette; officiële start vanaf het station.",
+        "public_transport": "Lépin-le-Lac SNCF-station bij de start van de route."
+      },
+      "meta_description": "Het Lac d'Aiguebelette circuit te voet: 3 dagen, 60,4 km, +2,467 m, moeilijk te verwarren met de 17 km fietslus. Officiële bronnen.",
+      "meta_title": "Lac d'Aiguebelette circuit te voet · 3 dagen, 60 km, etappes",
+      "name": "Lac d'Aiguebelette walking circuit",
+      "name_alternates": [
+        "Tour du Lac d'Aiguebelette — Rando pédestre 3 jours"
+      ],
+      "practical_info": [
+        {
+          "k": "Begin",
+          "v": "Lépin-le-Lac-station, 73610"
+        },
+        {
+          "k": "Volledige trek",
+          "v": "3 dagen, 60,4 km, +2,467 m"
+        },
+        {
+          "k": "Fasen",
+          "v": "24,1 km / 22,3 km / 14,1 km"
+        },
+        {
+          "k": "Niet verwarren",
+          "v": "De makkelijke 16,9 km lus met dezelfde naam is een fietsroute (Chartreuse Tourisme)"
+        },
+        {
+          "k": "Netwerk",
+          "v": "300 km bewegwijzerde routes rond het meer"
+        }
+      ],
+      "schema_amenities": [
+        "Waymarked 3-traps route",
+        "Stationstart",
+        "300 km paden rond het meer"
+      ],
+      "when_to_visit": "<p>Het warme seizoen voor de 3-daagse tocht; de gelijknamige fietslus zegt 'het hele jaar door, elke dag', maar dat is de fietsversie.</p>"
     }
   },
   "latitude": 45.554778,

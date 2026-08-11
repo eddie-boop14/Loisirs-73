@@ -24,6 +24,98 @@
   "hero_credit": null,
   "hero_image": "/img/generique/generique-sentier-foret-alpine.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Von Les Fontanettes über die Wege Nr. 13 und 14 dann die GR 55: die Plattenüberquerung im Herzen des Vanoise Nationalparks.",
+          "tag": "8 km",
+          "title": "Rundfahrt zum lac des Vaches"
+        },
+        {
+          "description": "Vom See führen weitere 45 Minuten zum Zufluchtsort col de la Vanoise, auf der Salz-und-Pelzstraße.",
+          "tag": "+45 min",
+          "title": "Auf zum col de la Vanoise"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die<strong>lac des Vaches</strong>, über Pralognan-la-Vanoise, wird auf einer Linie von Steinplatten gekreuzt, die eines der bekanntesten Bilder der<strong>Vanoise Nationalpark</strong>Die offizielle Reiseroute \"Lac des Vaches – Col de la Vanoise\" geht von der<strong>Parkplatz Les Fontanettes</strong>:<strong>8 km Rundfahrt, ca. 3h30, +680 m</strong>, blau-moderate Ebene, über Pfade n°13 und n°14 dann die GR 55 — die alte<strong>Salz- und Pfannenstraße</strong>Murmeltiere häufig.</p><p>Von der Barmettes Zuflucht, zählen etwa 1 Stunde zu Fuß zum See, dann 45 Minuten mehr zum col de la Vanoise Zuflucht. Die<strong>Sessellift Genépi</strong>kann die Gehzeit um etwa 1h30 verkürzen.</p><p>In der Saison gehen die beiden offiziellen Datenblätter von Pralognan auseinander: Das Seedatenblatt sagt vom 1. Januar bis zum 31. Dezember \"zugänglich je nach Schneebedingungen, mit entsprechender Ausrüstung\"; das Reisedatenblatt vom 1. Juni bis zum 16. Oktober \"unter günstigen Schnee- und Wetterbedingungen\". Wir geben beides.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "frei",
+        "best_season": "1. Juni bis 16. Oktober (Anfangsdatenblatt); ganzjährig 'Schneebedingungen erlauben' (Seedatenblatt)",
+        "commune": "Pralognan-la-Vanoise",
+        "dogs": null,
+        "parking": "Parkplatz Les Fontanettes",
+        "stroller": null,
+        "type": "Seewanderung im Vanoise Nationalpark",
+        "winter_access": "partial"
+      },
+      "faq": [
+        {
+          "a": "8 km Rundfahrt vom Parkplatz Les Fontanettes, ca. 3h30, +680 m, blau-moderate Ebene. Der Genépi Sessellift kann ca. 1h30 Fußweg sparen.",
+          "q": "Wie lang ist der Anstieg?"
+        },
+        {
+          "a": "Ja - es ist die Signatur des Ortes: Die Kreuzung folgt der Linie der Platten, die den See schneiden.",
+          "q": "Kannst du den See überqueren?"
+        },
+        {
+          "a": "Das Reisedatenblatt sagt vom 1. Juni bis 16. Oktober; das Seedatenblatt, ganzjährig \"abhängig von den Schneebedingungen, mit entsprechender Ausrüstung\". Die beiden offiziellen Quellen gehen auseinander und wir markieren es.",
+          "q": "Wann ist die Route geöffnet?"
+        },
+        {
+          "a": "Der See fiche nennt es eine einfache Wanderung - etwa 1 Stunde zu Fuß von der Barmettes Zuflucht. Die komplette Rundfahrt von Les Fontanettes (+680 m) verlangt mehr.",
+          "q": "Ist es familienfreundlich?"
+        },
+        {
+          "a": "Nummerierte Wanderwege Nr. 13 dann Nr. 14 und die GR 55 - die alte Salz- und Pedelstraße.",
+          "q": "Welchem Waymarking folgen Sie?"
+        }
+      ],
+      "hero": {
+        "badge": "Kostenlos · Vanoise Nationalpark",
+        "lead": "Die Überquerung des Sees auf seiner Linie von Steinplatten ist Pralognans Unterschrift Bild: 8 km Rundfahrt von Les Fontanettes, +680 m, auf der alten Salz-und-Pedlars Straße."
+      },
+      "hero_alt": "Lac des Vaches und seine Plattenkreuzung, Pralognan-la-Vanoise, Vanoise Nationalpark",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Fahren Sie in Pralognan-la-Vanoise zum Parkplatz Les Fontanettes, dem markierten Start.",
+        "public_transport": null
+      },
+      "meta_description": "Der Lac des Vaches bei Pralognan-la-Vanoise: 8 km Rundfahrt von Les Fontanettes, +680 m, auf der alten Salzstraße in Richtung der col de la Vanoise. Offizielle Quellen.",
+      "meta_title": "Lac des Vaches · Pralognan Trail, Vanoise Nationalpark",
+      "name": "Lac des Vaches",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Trailhead",
+          "v": "Parkplatz Les Fontanettes, 73710 Pralognan-la-Vanoise"
+        },
+        {
+          "k": "Reiseroute",
+          "v": "8 km Rückkehr, ≈3h30, +680 m — blaue mittlere Ebene"
+        },
+        {
+          "k": "von Les Barmettes",
+          "v": "≈1h zum See; +45 min zum Zufluchtsort col de la Vanoise"
+        },
+        {
+          "k": "Sessellift Genépi",
+          "v": "Schneidet den Spaziergang um ca. 1h30"
+        },
+        {
+          "k": "Saison",
+          "v": "01/06-16/10 (Ausgangs-) oder ganzjährig Schnee erlaubend (See) - Quellen divergieren"
+        }
+      ],
+      "schema_amenities": [
+        "Wegmarkierte Pfade Nr. 13/14 und GR 55",
+        "Refuges (Barmettes, col de la Vanoise)",
+        "Genépi Sessellift Option"
+      ],
+      "when_to_visit": "<p>1. Juni bis 16. Oktober pro Fahrtroutendatenblatt — darüber hinaus verlangt das Seedatenblatt je nach Schnee \"angemessene Ausrüstung\". Die Murmeltiere sind im Sommer draußen.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -116,6 +208,98 @@
       ],
       "when_to_visit": "<p>1 June to 16 October per the itinerary fiche — beyond that, the lake fiche demands 'appropriate equipment' depending on snow. The marmots are out in summer.</p>"
     },
+    "es": {
+      "activities": [
+        {
+          "description": "Desde Les Fontanettes a través de senderos n°13 y 14 luego el GR 55: la losa cruzando en el corazón del Parque Nacional Vanoise.",
+          "tag": "8 km",
+          "title": "Viaje redondo al lac des Vaches"
+        },
+        {
+          "description": "Desde el lago, 45 minutos más conducen al refugio col de la Vanoise, en la carretera de sal y pedos.",
+          "tag": "+45 min",
+          "title": "En el col de la Vanoise"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El<strong>lac des Vaches</strong>, por encima de Pralognan-la-Vanoise, se cruza en una línea de losas de piedra que hace una de las imágenes más conocidas de las<strong>Parque Nacional Vanoise</strong>. El itinerario oficial 'Lac des Vaches - Col de la Vanoise' sale del<strong>Aparcamiento Les Fontanettes</strong>:<strong>8 km de viaje, unos 3h30, +680 m</strong>, nivel azul-moderado, a través de senderos n°13 y n°14 luego el GR 55 - el viejo<strong>carretera de sal y plata</strong>, marmots frecuentes.</p><p>Desde el refugio Barmettes, cuenta aproximadamente 1h de caminar hasta el lago, luego 45 minutos más al refugio col de la Vanoise. El<strong>Hervidor de sillas Genépi</strong>puede reducir el tiempo de caminar alrededor de 1h30.</p><p>En la temporada, los dos fiches oficiales de Pralognan divergen: el fiche del lago dice 1 de enero al 31 de diciembre, 'accesible dependiendo de las condiciones de nieve, con el equipo apropiado'; el fiche itinerario 1 de junio al 16 de octubre, 'sujeto a condiciones favorables de nieve y clima'. Damos ambos.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": "1 de junio a 16 de octubre (fiche original); año-redondeo 'condiciones de nieve permiten' (lake fiche)",
+        "commune": "Pralognan-la-Vanoise",
+        "dogs": null,
+        "parking": "Aparcamiento Les Fontanettes",
+        "stroller": null,
+        "type": "Hike lago en el Parque Nacional Vanoise",
+        "winter_access": "partial"
+      },
+      "faq": [
+        {
+          "a": "8 km de paseo desde el aparcamiento Les Fontanettes, a unos 3h30, +680 m, nivel azul-moderado. El lifting de sillas Genépi puede ahorrar aproximadamente 1h30 de caminar.",
+          "q": "¿Cuánto dura la caminata?"
+        },
+        {
+          "a": "Sí — es la firma del lugar: el cruce sigue la línea de losas cortando el lago.",
+          "q": "¿Puedes cruzar el lago?"
+        },
+        {
+          "a": "El fiche itinerario dice del 1 de junio al 16 de octubre; el fiche del lago, durante todo el año \"dependiendo de las condiciones de nieve, con el equipo apropiado\". Las dos fuentes oficiales se sumergen y lo marcamos.",
+          "q": "¿Cuándo abre la ruta?"
+        },
+        {
+          "a": "El fiche del lago lo llama una caminata fácil - aproximadamente 1h de caminar desde el refugio Barmettes. El viaje completo desde Les Fontanettes (+680 m) pregunta más.",
+          "q": "¿Es familiar?"
+        },
+        {
+          "a": "Rutas numeradas n°13 luego n°14, y el GR 55 — el viejo camino de sal y pedicura.",
+          "q": "¿Qué comentario sigue?"
+        }
+      ],
+      "hero": {
+        "badge": "Libre · Parque Nacional Vanoise",
+        "lead": "Cruzando el lago en su línea de losas de piedra es la imagen de la firma de Pralognan: 8 km de vuelta de Les Fontanettes, +680 m, en la antigua carretera de sal y plata."
+      },
+      "hero_alt": "Lac des Vaches y su cruce de losas, Pralognan-la-Vanoise, Parque Nacional Vanoise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "En Pralognan-la-Vanoise, conduzca hasta el aparcamiento Les Fontanettes, el inicio marcado.",
+        "public_transport": null
+      },
+      "meta_description": "El lac des Vaches en Pralognan-la-Vanoise: 8 km de viaje de Les Fontanettes, +680 m, en el antiguo camino de sal hacia el col de la Vanoise. Fuentes oficiales.",
+      "meta_title": "Lac des Vaches · Ruta de Pralognan, Parque Nacional Vanoise",
+      "name": "Lac des Vaches",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Trailhead",
+          "v": "Aparcamiento Les Fontanettes, 73710 Pralognan-la-Vanoise"
+        },
+        {
+          "k": "Itinerario",
+          "v": "8 km de regreso, ♥3h30, +680 m - nivel de moderado azul"
+        },
+        {
+          "k": "De Les Barmettes",
+          "v": "Ô1h al lago; +45 min al refugio de la Vanoise"
+        },
+        {
+          "k": "Hervidor de sillas Genépi",
+          "v": "Corta el paseo alrededor de 1h30"
+        },
+        {
+          "k": "Estación",
+          "v": "01/06-16/10 (itinerary) o año entero que permite la nieve (lake) — fuentes divergentes"
+        }
+      ],
+      "schema_amenities": [
+        "Senderos Waymarked n°13/14 y GR 55",
+        "Refuges (Barmettes, col de la Vanoise)",
+        "Opción de elevación de sillas Genépi"
+      ],
+      "when_to_visit": "<p>1 de junio al 16 de octubre por el fiche itinerario - más allá de eso, el fiche del lago exige 'equipo apropiado' dependiendo de la nieve. Las marmotas están fuera en verano.</p>"
+    },
     "fr": {
       "activities": [
         {
@@ -207,6 +391,190 @@
         "Télésiège du Genépi en appoint"
       ],
       "when_to_visit": "<p>Du 1er juin au 16 octobre selon la fiche de l'itinéraire — hors de là, la fiche du lac exige « un équipement approprié » selon l'enneigement. Les marmottes, elles, sont de la partie l'été.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Da Les Fontanettes via sentieri n°13 e 14 poi la GR 55: la lastra che attraversa il cuore del Parco Nazionale Vanoise.",
+          "tag": "8 km",
+          "title": "Gita rotonda al lac des Vaches"
+        },
+        {
+          "description": "Dal lago, altri 45 minuti portano al rifugio col de la Vanoise, sulla strada sale-e-pedali.",
+          "tag": "+45 min",
+          "title": "Sulla col de la Vanoise"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The<strong>Lac des Vaches</strong>, sopra Pralognan-la-Vanoise, è attraversata su una linea di lastre di pietra che rende una delle immagini più conosciute della<strong>Parco nazionale Vanoise</strong>. L'itinerario ufficiale 'Lac des Vaches - Col de la Vanoise' parte dall'itinerario<strong>Les Fontanettes parcheggio</strong>:<strong>8 km di viaggio, circa 3h30, +680 m</strong>, livello blu-moderato, via sentieri n°13 e n°14 poi il GR 55 — il vecchio<strong>strada di sali-e-pedoni</strong>, marmotte frequenti.</p><p>Dal rifugio Barmettes, contano circa 1h di cammino per il lago, poi 45 minuti più al rifugio col de la Vanoise. The<strong>seggiovia Genépi</strong>può tagliare il tempo a piedi per circa 1h30.</p><p>Nella stagione, le due fiches ufficiali di Pralognan si divergono: il lago fiche dice dal 1° gennaio al 31 dicembre, 'accessibile a seconda delle condizioni della neve, con attrezzature appropriate'; l'itinerario fiche 1 giugno al 16 ottobre, 'soggetto a condizioni meteorologiche favorevoli'. Diamo entrambi.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": "Dal 1° giugno al 16 ottobre (scheda iniziale); tutto l'anno «condizioni di neve che permettono» (scheda)",
+        "commune": "Pralognan-la-Vanoise",
+        "dogs": null,
+        "parking": "Les Fontanettes parcheggio",
+        "stroller": null,
+        "type": "Escursione sul lago nel Parco Nazionale Vanoise",
+        "winter_access": "partial"
+      },
+      "faq": [
+        {
+          "a": "8 km di passeggiata dal parcheggio Les Fontanettes, circa 3h30, +680 m, livello blu-moderato. La seggiovia Genépi può risparmiare circa 1h30 di cammino.",
+          "q": "Quanto dura l'escursione?"
+        },
+        {
+          "a": "Sì — è la firma del posto: l'incrocio segue la linea di lastre tagliando il lago.",
+          "q": "Puoi attraversare il lago?"
+        },
+        {
+          "a": "L'itinerario fiche dice dal 1 giugno al 16 ottobre; il lago fiche, tutto l'anno a seconda delle condizioni di neve, con attrezzature appropriate. Le due fonti ufficiali si divergono e lo bandiamo.",
+          "q": "Quando si apre il percorso?"
+        },
+        {
+          "a": "Il lago fiche lo chiama una facile escursione — circa 1h di cammino dal rifugio Barmettes. Il viaggio completo da Les Fontanettes (+680 m) chiede di più.",
+          "q": "È familiare?"
+        },
+        {
+          "a": "Percorsi numerati n°13 poi n°14, e la GR 55 — la vecchia strada sale-e-pedali.",
+          "q": "Quali segnali stradali segui?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratis · Parco Nazionale Vanoise",
+        "lead": "Attraversare il lago sulla sua linea di lastre di pietra è l'immagine firmata di Pralognan: 8 km giro da Les Fontanettes, +680 m, sulla vecchia strada sale-e-pedali."
+      },
+      "hero_alt": "Lac des Vaches e la sua traversata di lastre, Pralognan-la-Vanoise, Vanoise Parco Nazionale",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "In Pralognan-la-Vanoise, guidare fino al parcheggio Les Fontanettes, l'inizio segnalato.",
+        "public_transport": null
+      },
+      "meta_description": "Il lac des Vaches a Pralognan-la-Vanoise: 8 km da Les Fontanettes, +680 m, sulla vecchia strada sale verso il col de la Vanoise. Fonti ufficiali.",
+      "meta_title": "Lac des Vaches · sentiero Pralognan, Parco Nazionale Vanoise",
+      "name": "Lac des Vaches",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Sentiero",
+          "v": "Les Fontanettes parcheggio, 73710 Pralognan-la-Vanoise"
+        },
+        {
+          "k": "Itinerario",
+          "v": "8 km di ritorno, ≈3h30, +680 m — livello di blu-moderato"
+        },
+        {
+          "k": "Da Les Barmettes",
+          "v": "≈1h al lago; +45 min al rifugio col de la Vanoise"
+        },
+        {
+          "k": "seggiovia Genépi",
+          "v": "Taglia la passeggiata di circa 1h30"
+        },
+        {
+          "k": "Stagione",
+          "v": "01/06–16/10 (iniziario) o neve permessa per tutto l'anno (lago) — sorgenti diverge"
+        }
+      ],
+      "schema_amenities": [
+        "Percorsi segnalati n°13/14 e GR 55",
+        "Rifugiati (Barmettes, col de la Vanoise)",
+        "opzione seggiovia Genépi"
+      ],
+      "when_to_visit": "<p>Dal 1 giugno al 16 ottobre per l'itinerario fiche — al di là di questo, il lago fiche esige 'attrezzatura appropriata' a seconda della neve. Le marmotte sono fuori in estate.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Vanaf Les Fontanettes via paden n°13 en 14 dan de GR 55: de plaat kruising in het hart van het Vanoise Nationaal Park.",
+          "tag": "8 km",
+          "title": "Rondreis naar het lac des Vaches"
+        },
+        {
+          "description": "Vanaf het meer, 45 minuten meer leiden naar de col de la Vanoise toevluchtsoord, op de zout-en-pits weg.",
+          "tag": "min.",
+          "title": "Op naar de col de la Vanoise"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De<strong>lac des Vaches</strong>, boven Pralognan-la-Vanoise, wordt gekruist op een lijn van stenen platen die een van de bekendste beelden van de<strong>Nationaal park Vanoise</strong>. De officiële route 'Lac des Vaches' vertrekt van de<strong>Parkeerplaats Les Fontanettes</strong>:<strong>8 km rondreis, ongeveer 3u30, +680 m</strong>, blauw-gematigd niveau, via paden n°13 en n°14 dan de GR 55<strong>Salt-and-pedlars road</strong>Marmots vaak.</p><p>Vanaf de Barmettes toevluchtsoord, tel ongeveer 1h van wandelen naar het meer, dan 45 minuten meer naar de col de la Vanoise toevluchtsoord. De<strong>Genépi stoeltjeslift</strong>kan de wandeltijd rond 1u30 verkorten.</p><p>In het seizoen lopen de twee officiële fiches van Pralognan uiteen: de fiche van het meer zegt van 1 januari tot en met 31 december, 'toegankelijk afhankelijk van sneeuwomstandigheden, met passende uitrusting', de routekaart van 1 juni tot en met 16 oktober, 'onder gunstige sneeuw- en weersomstandigheden'. We geven beide.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Vrij",
+        "best_season": "1 juni tot en met 16 oktober (tijdelijke kaart); het hele jaar door \"sneeuwvoorwaarden die het mogelijk maken\" (meerkaart)",
+        "commune": "Pralognan-la-Vanoise",
+        "dogs": null,
+        "parking": "Parkeerplaats Les Fontanettes",
+        "stroller": null,
+        "type": "Meerwandeling in het Vanoise Nationaal Park",
+        "winter_access": "partial"
+      },
+      "faq": [
+        {
+          "a": "8 km rondrit van de parkeerplaats Les Fontanettes, ongeveer 3u30, +680 m, blauw-matig niveau. De Genépi stoeltjeslift bespaart ongeveer 1u30 wandelen.",
+          "q": "Hoe lang duurt de wandeling?"
+        },
+        {
+          "a": "Ja, het is de handtekening van de plaats: de kruising volgt de lijn van platen snijden het meer.",
+          "q": "Kun je het meer oversteken?"
+        },
+        {
+          "a": "De routekaart zegt 1 juni tot en met 16 oktober; de kaart van het meer, het hele jaar door 'afhankelijk van de sneeuwomstandigheden, met passende uitrusting'. De twee officiële bronnen verschillen en we markeren het.",
+          "q": "Wanneer is de route open?"
+        },
+        {
+          "a": "Het meer noemt het een gemakkelijke wandeling  De volledige rondreis van Les Fontanettes (+680 m) vraagt meer.",
+          "q": "Is het familievriendelijk?"
+        },
+        {
+          "a": "Genummerde paden n°13 dan n°14, en de GR 55",
+          "q": "Welke wegwijzer volg je?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratis · Vanoise Nationaal Park",
+        "lead": "Het oversteken van het meer op de lijn van stenen platen is Pralognan's handtekening afbeelding: 8 km rondreis van Les Fontanettes, +680 m, op de oude zout-en-plars weg."
+      },
+      "hero_alt": "Lac des Vaches en de plaatovergang, Pralognan-la-Vanoise, Vanoise National Park",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "In Pralognan-la-Vanoise, rijden naar de parkeerplaats Les Fontanettes, de gemarkeerde start.",
+        "public_transport": null
+      },
+      "meta_description": "De lac des Vaches bij Pralognan-la-Vanoise: 8 km rondreis van Les Fontanettes, +680 m, op de oude zoutweg naar de col de la Vanoise. Officiële bronnen.",
+      "meta_title": "Lac des Vaches · Pralognan trail, Vanoise National Park",
+      "name": "Lac des Vaches",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Trailhead",
+          "v": "Parkeerplaats Les Fontanettes, 73710 Pralognan-la-Vanoise"
+        },
+        {
+          "k": "Route",
+          "v": "8 km terugkeer, ≈3u30, +680 m"
+        },
+        {
+          "k": "Van Les Barmettes",
+          "v": "≈1u tot het meer; +45 min naar de refuge du Col de la Vanoise"
+        },
+        {
+          "k": "Genépi stoeltjeslift",
+          "v": "Snijdt de wandeling door ongeveer 1u30"
+        },
+        {
+          "k": "Seizoen",
+          "v": "01/06"
+        }
+      ],
+      "schema_amenities": [
+        "Waymarked trails n°13/14 and GR 55",
+        "Refuges (Barmettes, col de la Vanoise)",
+        "Genépi stoeltjeslift optie"
+      ],
+      "when_to_visit": "<p>1 juni tot en met 16 oktober per reisroute en verder vraagt het meer om 'passende uitrusting', afhankelijk van de sneeuw. De marmotten zijn in de zomer uit.</p>"
     }
   },
   "latitude": 45.398016,

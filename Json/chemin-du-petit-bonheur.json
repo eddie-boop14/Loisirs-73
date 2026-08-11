@@ -24,6 +24,98 @@
   "hero_credit": null,
   "hero_image": "/img/generique/generique-sentier-melezes-automne.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Jedes Dorf im Tal bietet seinen Anfang: Schleifen von ein bis drei Stunden, ohne technische Schwierigkeiten.",
+          "tag": "1-3 Stunden",
+          "title": "Kurze Schleifen aus den Dörfern"
+        },
+        {
+          "description": "Die vollständige Kreuzung von Haute Maurienne Vanoise, von Modane nach Bonneval-sur-Arc, mit Busrückfahrten auf einigen Abschnitten möglich.",
+          "tag": "Dorf zu Dorf",
+          "title": "2-3 Tage Traverse"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die<strong>Chemin du Petit Bonheur</strong>ist \"ein Ahnenpfad, der von Dorf zu Dorf über das gesamte Haute Maurienne Vanoise verläuft\" - von Modane zu Bonneval-sur-Arc über La Norma, Aussois, Val-Cenis und Bessans. A<strong>mittlere Höhe, zugänglich, gut markiert</strong>Route mit progressiven Anstiegen auf einem breiten, sicheren Weg: Das Tourismusbüro präsentiert sie als<strong>\"die ideale Reiseroute für Familienwanderungen, für gelegentliche Wanderer\"</strong>.</p><p>Das Waymarking hat seinen eigenen Charme:<strong>Baumstämme, Brücken und Bänke mit gelb gestrichenen Enden</strong>, plus Richtungszeichen. Keine großen Anstiege, keine technischen Schwierigkeiten - der Weg \"kann tausend Wege zurückgelegt werden\": kurze Schleifen von 1 bis 3 Stunden von jedem Dorf oder eine 2-3-tägige Traverse. Ein veröffentlichtes Abschnittsbeispiel: Lanslevillard-Bessans, 3h10 one way, Rückkehr möglich mit dem Bus.</p><p>Auf der Gesamtlänge widerspricht sich das Tourismusbüro von einer Seite zur nächsten:<strong>\"ca. 40 km\" hier, \"50 Kilometer Wanderwege\" dort</strong>Wir nennen beide Zahlen. Beratene Zeiträume: Juni bis Oktober. Und da die Route über Dutzende von Kilometern linear verläuft, trägt diese Seite keine GPS-Koordinaten — kein einzelner Punkt würde sie ehrlich repräsentieren.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "frei",
+        "best_season": "Empfohlene Zeiträume: Juni bis Oktober (Tourist Office)",
+        "commune": "Modane",
+        "dogs": null,
+        "parking": "Mehrere Starts von jedem Dorf im Tal",
+        "stroller": null,
+        "type": "Talroute von Dorf zu Dorf",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Das Tourismusbüro selbst veröffentlicht zwei Zahlen: \"ca. 40 km\" auf einer Seite, \"50 Kilometer Wanderwege\" auf einer anderen. Wir geben beide, wie sie stehen.",
+          "q": "Wie lang ist der Weg?"
+        },
+        {
+          "a": "Ja — \"die ideale Reiseroute für Familienwanderungen, für gelegentliche Wanderer\": mittlere Höhe, progressive Anstiege, ein breiter sicherer Weg, keine technischen Schwierigkeiten.",
+          "q": "Ist es eine Familienroute?"
+        },
+        {
+          "a": "Nein: Der Weg \"kann tausend Wege zurückgelegt werden\" - kurze 1-3 Stunden Schleifen von jedem Dorf oder eine 2-3-tägige Tal-Traverse.",
+          "q": "Müssen Sie alles auf einmal laufen?"
+        },
+        {
+          "a": "Durch die Stämme, Stege und Bänke mit ihren Enden gelb lackiert, ergänzt durch Richtungsschilder.",
+          "q": "Wie erkennt man das Waymarking?"
+        },
+        {
+          "a": "In einigen Abschnitten ja — das Tourismusbüro zitiert Lanslevillard– Bessans: 3h10 ein Weg, dann eine mögliche Busrückfahrt.",
+          "q": "Können Sie mit dem Bus zurück?"
+        }
+      ],
+      "hero": {
+        "badge": "Frei · Haute Maurienne Vanoise",
+        "lead": "Der Ahnenweg läuft von Dorf zu Dorf, von Modane zu Bonneval-sur-Arc: mittlere Höhe, progressive Anstiege, gelbe Wegmarken - die Familienroute eines ganzen Tals."
+      },
+      "hero_alt": "Chemin du Petit Bonheur zwischen den Dörfern von Haute Maurienne Vanoise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Beginnt in jedem Dorf zwischen Modane und Bonneval-sur-Arc (La Norma, Aussois, Val-Cenis, Bessans...).",
+        "public_transport": "Bus kehrt auf einigen Abschnitten (zB Bessans-Lanslevillard) möglich."
+      },
+      "meta_description": "Der chemin du Petit Bonheur in Haute Maurienne Vanoise: ein uralter Dorf-zu-Dorf-Pfad, 40 bis 50 km pro Tourismusbüro, familienfreundlich. Offizielle Quellen.",
+      "meta_title": "Chemin du Petit Bonheur · Von Modane nach Bonneval-sur-Arc",
+      "name": "Chemin du Petit Bonheur",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Route",
+          "v": "Von Modane bis Bonneval-sur-Arc, Dorf zu Dorf"
+        },
+        {
+          "k": "Länge",
+          "v": "\"Etwa 40 km\" oder \"50 km Wanderwege\" - das Tourismusbüro veröffentlicht beide"
+        },
+        {
+          "k": "Voraussichtliche Fristen",
+          "v": "Juni bis Oktober"
+        },
+        {
+          "k": "Wegmarkierung",
+          "v": "Gelbbemalte Stämme, Brücken und Bänke sowie Schilder"
+        },
+        {
+          "k": "Formate",
+          "v": "1-3h Schleifen oder 2-3 Tage Traverse; Busrückfahrt möglich"
+        }
+      ],
+      "schema_amenities": [
+        "Gelbe Wegmarkierung",
+        "Familienschleifen",
+        "Bus kehrt in einigen Abschnitten zurück"
+      ],
+      "when_to_visit": "<p>Juni bis Oktober, die empfohlenen Zeiträume des Tourismusbüros. Die Lärchen des Tals machen den Herbst zur goldenen Jahreszeit des Pfades.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -116,6 +208,98 @@
       ],
       "when_to_visit": "<p>June to October, the tourist office's advised periods. The valley's larches make autumn the path's golden season.</p>"
     },
+    "es": {
+      "activities": [
+        {
+          "description": "Cada pueblo del valle ofrece su comienzo: bucles de una a tres horas, sin dificultad técnica.",
+          "tag": "1-3h",
+          "title": "Bucles cortos de los pueblos"
+        },
+        {
+          "description": "El cruce completo de Haute Maurienne Vanoise, de Modane a Bonneval-sur-Arc, con retornos de autobús posibles en algunas secciones.",
+          "tag": "Pueblo a pueblo",
+          "title": "Desvío de 2-3 días"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El<strong>chemin du Petit Bonheur</strong>es 'un camino ancestral que va de pueblo a pueblo en todo el Haute Maurienne Vanoise' — desde Modane a Bonneval-sur-Arc, pasando por La Norma, Aussois, Val-Cenis y Bessans. A<strong>media altitud, accesible, bien señalizado</strong>ruta con escaladas progresivas en un camino ancho y seguro: la oficina turística lo presenta como<strong>'el itinerario ideal para el senderismo familiar, para los caminantes ocasionales'</strong>.</p><p>El marcador tiene su propio encanto:<strong>troncos, pasarelas y bancos con sus extremos pintados amarillo</strong>, además de señales direccionales. No hay grandes escaladas, ninguna dificultad técnica — el camino 'puede caminar mil maneras': los lazos cortos de 1 a 3 horas de cualquier pueblo, o un recorrido de 2-3 días. Un ejemplo de sección publicado: Lanslevillard–Bessans, 3h10 de una manera, volver posible en autobús.</p><p>En la longitud total, la oficina turística se contradice de una página a la siguiente:<strong>'unos 40 km' aquí, '50 kilómetros de senderos' allí</strong>Citamos ambas cifras. Períodos previstos: junio a octubre. Y puesto que la ruta corre linealmente por encima de decenas de kilómetros, esta página no lleva coordenadas GPS; ningún punto lo representaría honestamente.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": "Períodos previstos: junio a octubre (oficina turística)",
+        "commune": "Modane",
+        "dogs": null,
+        "parking": "Múltiples comienzos de cada pueblo en el valle",
+        "stroller": null,
+        "type": "Itinerario de Valle, pueblo a pueblo",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "La propia oficina turística publica dos figuras: 'unos 40 km' en una página, '50 kilómetros de senderos' en otra. Damos ambos mientras están parados.",
+          "q": "¿Cuánto tiempo lleva el camino?"
+        },
+        {
+          "a": "Sí — 'el itinerario ideal para caminatas familiares, para caminatas ocasionales': media altitud, escaladas progresivas, un camino seguro amplio, sin dificultad técnica.",
+          "q": "¿Es una ruta familiar?"
+        },
+        {
+          "a": "No: el camino 'puede ser caminado mil maneras' — corto 1-3 horas de bucles de cada pueblo, o un valle de 2-3 días atraviesa.",
+          "q": "¿Tienes que caminar todo a la vez?"
+        },
+        {
+          "a": "Por los troncos, pasarelas y bancos con sus extremos pintados amarillo, completados por señales direccionales.",
+          "q": "¿Cómo reconoce el cambio?"
+        },
+        {
+          "a": "En algunas secciones, sí — la oficina de turismo cita a Lanslevillard— Bessans: 3h10 de una manera, luego un posible regreso de autobús.",
+          "q": "¿Puedes volver en autobús?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratis · Haute Maurienne Vanoise",
+        "lead": "El camino ancestral que corre pueblo a pueblo, desde Modane hasta Bonneval-sur-Arc: media altitud, escaladas progresivas, manchas amarillas, ruta familiar de todo el valle."
+      },
+      "hero_alt": "Chemin du Petit Bonheur entre los pueblos de Haute Maurienne Vanoise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Comienza desde cada pueblo entre Modane y Bonneval-sur-Arc (La Norma, Aussois, Val-Cenis, Bessans...).",
+        "public_transport": "El autobús vuelve posible en algunas secciones (por ejemplo Bessans-Lanslevillard)."
+      },
+      "meta_description": "El chemin du Petit Bonheur en Haute Maurienne Vanoise: un camino ancestral de pueblo a aldea, de 40 a 50 km por la oficina turística, familiar. Fuentes oficiales.",
+      "meta_title": "Chemin du Petit Bonheur · De Modane a Bonneval-sur-Arc",
+      "name": "Chemin du Petit Bonheur",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Ruta",
+          "v": "De Modane a Bonneval-sur-Arc, pueblo a pueblo"
+        },
+        {
+          "k": "Duración",
+          "v": "'Aproximadamente 40 km' o 50 km de senderos' — la oficina turística publica ambos"
+        },
+        {
+          "k": "Períodos previstos",
+          "v": "Junio a octubre"
+        },
+        {
+          "k": "Waymarking",
+          "v": "Registros pintados en amarillo, pasarelas y bancos + signos"
+        },
+        {
+          "k": "Formatos",
+          "v": "1-3h bucles o 2-3 días de recorrido; autobús devuelve posible"
+        }
+      ],
+      "schema_amenities": [
+        "Marcado amarillo",
+        "Lazos familiares",
+        "El autobús regresa en algunas secciones"
+      ],
+      "when_to_visit": "<p>De junio a octubre, los períodos aconsejados de la oficina turística. Las largas del valle hacen de otoño la temporada dorada del camino.</p>"
+    },
     "fr": {
       "activities": [
         {
@@ -207,6 +391,190 @@
         "Retours en bus sur certaines sections"
       ],
       "when_to_visit": "<p>Juin à octobre, les périodes conseillées par l'office de tourisme. Les mélèzes de la vallée font de l'automne la saison dorée du chemin.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Ogni villaggio nella valle offre il suo inizio: loop da una a tre ore, senza difficoltà tecniche.",
+          "tag": "1-3h",
+          "title": "Corti loop dai villaggi"
+        },
+        {
+          "description": "L'attraversamento completo di Haute Maurienne Vanoise, da Modane a Bonneval-sur-Arc, con l'autobus ritorna possibile su alcune sezioni.",
+          "tag": "Villaggio a villaggio",
+          "title": "2-3 giorno traverso"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The<strong>chemin du Petit Bonheur</strong>è 'un percorso ancestrale che corre da villaggio a villaggio attraverso l'intero Haute Maurienne Vanoise' — da Modane a Bonneval-sur-Arc, via La Norma, Aussois, Val-Cenis e Bessans. A<strong>medio-altitudine, accessibile, ben delimitato</strong>percorso con progressivi salite su un ampio e sicuro sentiero: l'ufficio turistico lo presenta come<strong>'l'itinerario ideale per escursioni in famiglia, per escursionisti occasionali'</strong>.</p><p>Il waymarking ha il suo fascino:<strong>tronchi, passerelle e panche con le loro estremità verniciate giallo</strong>, più segni direzionali. Nessuna grande salita, nessuna difficoltà tecnica — il percorso 'può essere camminato mille vie': brevi loop da 1 a 3 ore da qualsiasi villaggio, o un 2-3 giorni traverso. Un esempio di sezione pubblicato: Lanslevillard–Bessans, 3h10 un modo, ritorno possibile in autobus.</p><p>Sulla lunghezza totale, l'ufficio turistico si contraddice da una pagina all'altra:<strong>'circa 40 km' qui, '50 chilometri di sentieri' lì</strong>Citiamo entrambe le cifre. Periodo consigliato: da giugno a ottobre. E poiché il percorso scorre lineare su decine di chilometri, questa pagina non contiene coordinate GPS — nessun singolo punto lo rappresenterebbe onestamente.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": "Periodi consigliati: da giugno a ottobre (ufficio turistico)",
+        "commune": "Modane",
+        "dogs": null,
+        "parking": "Il multiplo parte da ogni villaggio nella valle",
+        "stroller": null,
+        "type": "Itinerario in valle, villaggio a villaggio",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "L'ufficio turistico stesso pubblica due cifre: 'circa 40 km' su una pagina, '50 chilometri di sentieri' su un'altra. Diamo entrambi come stanno.",
+          "q": "Quanto dura il percorso?"
+        },
+        {
+          "a": "Sì — «l'itinerario ideale per escursioni in famiglia, per escursionisti occasionali»: mezza quota, progressivi salite, un ampio percorso sicuro, nessuna difficoltà tecnica.",
+          "q": "E' una via di famiglia?"
+        },
+        {
+          "a": "No: il percorso 'può essere camminato mille vie' — brevi 1-3 ore di loop da ogni villaggio, o un 2-3 giorni di vallata traversa.",
+          "q": "Devi accompagnarlo subito?"
+        },
+        {
+          "a": "Dai registri, passerelle e panche con le loro estremità dipinte giallo, completate da segni direzionali.",
+          "q": "Come si riconosce il waymarking?"
+        },
+        {
+          "a": "Su alcune sezioni, sì — l'ufficio turistico cita Lanslevillard– Bessans: 3h10 un modo, poi un possibile ritorno dell'autobus.",
+          "q": "Puoi tornare in autobus?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratis · Haute Maurienne Vanoise",
+        "lead": "Il sentiero ancestrale che corre villaggio a villaggio, da Modane a Bonneval-sur-Arc: medio-altitudine, salite progressiste, segnali stradali gialli — un percorso famigliare di tutta la valle."
+      },
+      "hero_alt": "Chemin du Petit Bonheur tra i villaggi di Haute Maurienne Vanoise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Inizia da ogni villaggio tra Modane e Bonneval-sur-Arc (La Norma, Aussois, Val-Cenis, Bessans...).",
+        "public_transport": "L'autobus torna possibile su alcune sezioni (ad esempio Bessans–Lanslevillard)."
+      },
+      "meta_description": "Il chemin du Petit Bonheur in Haute Maurienne Vanoise: un percorso ancestrale di villaggio-villaggio, da 40 a 50 km per l'ufficio turistico, adatto alle famiglie. Fonti ufficiali.",
+      "meta_title": "Chemin du Petit Bonheur · Da Modane a Bonneval-sur-Arc",
+      "name": "Chemin du Petit Bonheur",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Itinerario",
+          "v": "Da Modane a Bonneval-sur-Arc, villaggio a villaggio"
+        },
+        {
+          "k": "Lunghezza",
+          "v": "— l'ufficio turistico pubblica entrambi"
+        },
+        {
+          "k": "Periodo consigliato",
+          "v": "Da giugno a ottobre"
+        },
+        {
+          "k": "Segnalazioni",
+          "v": "Tronchi verniciati giallo, passerelle e panche + segni"
+        },
+        {
+          "k": "Formati",
+          "v": "1-3h loops o 2-3 giorni traverso; bus restituisce possibile"
+        }
+      ],
+      "schema_amenities": [
+        "Giallo marcatura",
+        "Cicli familiari",
+        "Ritorno bus su alcune sezioni"
+      ],
+      "when_to_visit": "<p>Da giugno a ottobre, i periodi consigliati dell'ufficio turistico. Le larici della valle rendono l'autunno la stagione d'oro del sentiero.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Elk dorp in de vallei biedt zijn start: loops van één tot drie uur, zonder technische problemen.",
+          "tag": "1-3 uur",
+          "title": "Korte loops van de dorpen"
+        },
+        {
+          "description": "De volledige kruising van Haute Maurienne Vanoise, van Modane naar Bonneval-sur-Arc, met bus terugkeer mogelijk op sommige secties.",
+          "tag": "Dorp aan dorp",
+          "title": "2-3 dagen"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De<strong>chemin du Petit Bonheur</strong>is 'een voorouderlijk pad dat van dorp naar dorp loopt over de hele Haute Maurienne Vanoise', van Modane naar Bonneval-sur-Arc, via La Norma, Aussois, Val-Cenis en Bessans. A<strong>middenhoogte, toegankelijk, goed gemarkeerd</strong>route met progressieve beklimmingen op een breed, veilig pad: het VVV presenteert het als<strong>'de ideale route voor gezinswandelingen, voor af en toe wandelaars'</strong>.</p><p>De waymarking heeft zijn eigen charme:<strong>houtblokken, voetbruggen en banken met geel geverfde uiteinden</strong>, plus richtingsborden. Geen grote klimmetjes, geen technische moeilijkheid Het pad 'kan op duizend manieren worden bewandeld': korte lusjes van 1 tot 3 uur vanaf elk dorp, of een 2-3 dagen lange tocht. Een gepubliceerde sectie voorbeeld: Lanslevillard</p><p>Op de totale lengte spreekt het VVV zich van de ene pagina tot de volgende tegen:<strong>'ongeveer 40 km' hier, '50 kilometer paden' daar</strong>Wij citeren beide cijfers. Adviesperiode: van juni tot oktober. En aangezien de route over tientallen kilometers lineair loopt, heeft deze pagina geen GPS coördinaten... geen enkel punt zou het echt vertegenwoordigen.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Vrij",
+        "best_season": "Adviesperiode: van juni tot oktober (toeristische dienst)",
+        "commune": "Modane",
+        "dogs": null,
+        "parking": "Meerdere begint vanaf elk dorp in de vallei",
+        "stroller": null,
+        "type": "Valleiroute, dorp naar dorp",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Het VVV-kantoor zelf publiceert twee cijfers: 'ongeveer 40 km' op een pagina, '50 kilometer paden' op een andere. We geven ze allebei zoals ze zijn.",
+          "q": "Hoe lang duurt het pad?"
+        },
+        {
+          "a": "Ja, 'de ideale route voor gezinswandelingen, voor af en toe wandelaars': mid-hoogte, progressieve beklimmingen, een breed beveiligd pad, geen technische problemen.",
+          "q": "Is het een familieroute?"
+        },
+        {
+          "a": "Nee: het pad 'kan op duizend manieren worden bewandeld', korte 1-3 uur lussen van elk dorp, of een 2-3 dagen vallei door het dal.",
+          "q": "Moet je allemaal tegelijk lopen?"
+        },
+        {
+          "a": "Door de stammen, voetbruggen en banken met hun uiteinden geel geschilderd, aangevuld met richtingsborden.",
+          "q": "Hoe herken je de waymarking?"
+        },
+        {
+          "a": "Op sommige secties, ja, het VVV-kantoor citeert Lanslevillard Bessans: 3u10 een weg, dan een mogelijke bus terug.",
+          "q": "Kun je met de bus terugkomen?"
+        }
+      ],
+      "hero": {
+        "badge": "Vrij · Haute Maurienne Vanoise",
+        "lead": "Het voorouderlijke pad loopt dorp naar dorp, van Modane tot Bonneval-sur-Arc: mid-hoogte, progressieve beklimmingen, gele waymarks, een hele familieroute van de vallei."
+      },
+      "hero_alt": "Chemin du Petit Bonheur tussen de dorpen van Haute Maurienne Vanoise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Start vanuit elk dorp tussen Modane en Bonneval-sur-Arc (La Norma, Aussois, Val-Cenis, Bessans...).",
+        "public_transport": "Bus retourneert mogelijk op sommige secties (bv. Bessans."
+      },
+      "meta_description": "De chemin du Petit Bonheur in Haute Maurienne Vanoise: een voorouderlijk dorp-naar-dorpspad, 40 tot 50 km per VVV, gezinsvriendelijk. Officiële bronnen.",
+      "meta_title": "Chemin du Petit Bonheur · Van Modane naar Bonneval-sur-Arc",
+      "name": "Chemin du Petit Bonheur",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Route",
+          "v": "Van Modane tot Bonneval-sur-Arc, dorp tot dorp"
+        },
+        {
+          "k": "Lengte",
+          "v": "\"Ongeveer 40 km\" of \"50 km paden\" publiceert het VVV"
+        },
+        {
+          "k": "Adviesperioden",
+          "v": "Van juni tot oktober"
+        },
+        {
+          "k": "Waymarking",
+          "v": "Geel beschilderde stammen, voetbruggen en banken + borden"
+        },
+        {
+          "k": "Formaten",
+          "v": "1-3h loops of 2-3 dag traverse; bus retourneert mogelijk"
+        }
+      ],
+      "schema_amenities": [
+        "Gele wegwijzers",
+        "Familie loops",
+        "Bus keert terug op sommige secties"
+      ],
+      "when_to_visit": "<p>Juni tot oktober, het VVV-kantoor geadviseerd periodes. De valleilarches maken herfst het gouden seizoen van het pad.</p>"
     }
   },
   "latitude": null,

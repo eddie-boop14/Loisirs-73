@@ -24,6 +24,100 @@
   "hero_credit": null,
   "hero_image": "/img/generique/generique-sentier-sommet-panorama.jpg",
   "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "3h30 schattige Wanderung vom Plateau Sud zum Kreuz und sein 360°-Panorama - bewertet \"Moyen\".",
+          "tag": "9,2 km",
+          "title": "Sommerlaufbahn"
+        },
+        {
+          "description": "Derselbe Gipfel in einer Winterversion markiert mit gelben Pfählen — 9,5 km, 4h, 'Difficile', Schnee erlaubt.",
+          "tag": "1 Dec – 31 Mar",
+          "title": "Winter Schneeschuhwanderung"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die<strong>Croix du Nivolet</strong>beobachtet Chambéry vom Rand des Bauges. Aus dem<strong>Plateau Sud Parkplatz in La Féclaz</strong>, der Spaziergang - \"sehr zugänglich und schattiert\", schreibt das Tourismusbüro - erreicht das Wahrzeichen und seine<strong>360° Luftpanorama</strong>Das Wanderdatenblatt kündigt eine<strong>9,2 km Schleife, 3h30, +283 m</strong>, mit der Bezeichnung 'Moyen', zwischen 1.291 m und 1.545 m Höhe.</p><p>Im Winter existiert die gleiche Route wie eine<strong>markierte Schneeschuhversion</strong>Gelbe Pfähle und Zeichen — offen<strong>1. Dezember bis 31. März, Schneeverhältnisse erlauben</strong>. – Eine eigentümliche Kuriosität: Für denselben Start und denselben Gipfel veröffentlicht das Winterdatenblatt unterschiedliche Zahlen — 9,5 km, 323 m Verstärkung, 4 Stunden, \"Schwierigkeit\". Wir geben beide Sets so, wie sie stehen: Schnee verlängert alles, aber es ist das Tourismusbüro selbst, das beides veröffentlicht.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Frei — markierte Strecke",
+        "best_season": "Sommer zu Fuß; 1. Dezember bis 31. März auf Schneeschuhen, wenn Schnee es zulässt",
+        "commune": "Les Déserts",
+        "dogs": null,
+        "parking": "Plateau Parkplatz Sud, La Féclaz",
+        "stroller": null,
+        "type": "Loop Wanderung zu einem Aussichtspunkt",
+        "winter_access": "partial"
+      },
+      "faq": [
+        {
+          "a": "\"Moyen\" im Sommer (9,2 km, 3h30, +283 m pro Wanderdatenblatt); \"Difficile\" im Winter auf Schneeschuhen (9,5 km, 4h, 323 m pro Schneeschuhdatenblatt). Beide offiziellen fiches beschreiben den gleichen anfang - und veröffentlichen unterschiedliche zahlen.",
+          "q": "Wie schwer ist die Schleife?"
+        },
+        {
+          "a": "Ja, auf Schneeschuhen: eine mit gelben Pfählen markierte Strecke, die vom 1. Dezember bis zum 31. März geöffnet ist und den Schneebedingungen unterliegt.",
+          "q": "Kannst du im Winter gehen?"
+        },
+        {
+          "a": "Ein 360°-Luftpanorama - das Kreuz überblickt Chambéry und die Lücke zwischen den Bauges und dem Chartreuse.",
+          "q": "Was siehst du da oben?"
+        },
+        {
+          "a": "Auf dem Plateau Sud Parkplatz, La Féclaz (73230), der Start beider Versionen.",
+          "q": "Wo parken Sie?"
+        },
+        {
+          "a": "Zwischen 1.291 m und 1.545 m, beginnend bei 1.413 m, je amtliches Datenblatt.",
+          "q": "In welcher Höhe laufen Sie?"
+        }
+      ],
+      "hero": {
+        "badge": "Frei · Bauges",
+        "lead": "Das Wahrzeichen mit Blick auf Chambéry, erreicht vom Plateau Sud von La Féclaz: eine schattige 9,2 km lange Sommerschleife - und eine markierte Winterschneeschuhversion mit verschiedenen Figuren."
+      },
+      "hero_alt": "Croix du Nivolet mit Blick auf Chambéry, Bauges Massiv, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Fahren Sie bis zum La Féclaz (Savoie Grand Revard), dann zum Plateau Sud Parkplatz, der markierte Start.",
+        "public_transport": null
+      },
+      "meta_description": "Das Croix du Nivolet vom Plateau Sud (La Féclaz): eine 9,2 km lange Schleife, 360° Panorama über Chambéry, Winter Schneeschuh Version. Nur offizielle Quellen.",
+      "meta_title": "Croix du Nivolet · Schleife von La Féclaz, Sommer und Schneeschuhe",
+      "name": "Croix du Nivolet from the Plateau Sud",
+      "name_alternates": [
+        "Croix du Nivolet"
+      ],
+      "practical_info": [
+        {
+          "k": "Trailhead",
+          "v": "Plateau Sud Parkplatz, La Féclaz, 73230 Les Déserts"
+        },
+        {
+          "k": "Sommer",
+          "v": "Schleife 9,2 km, 3h30, +283 m — 'Moyen'"
+        },
+        {
+          "k": "Winter (Schneeschuhe)",
+          "v": "9,5 km, 4h, 323 m — 'Difficile', 1 Dec – 31 Mar"
+        },
+        {
+          "k": "Höhenlagen",
+          "v": "1.291 m – 1.545 m, Start 1.413 m"
+        },
+        {
+          "k": "Wegmarkierung",
+          "v": "Markierter Weg; Gelbe Pfähle für die Winterversion"
+        }
+      ],
+      "schema_amenities": [
+        "Wegmarkierte Route",
+        "Winter Schneeschuh Version",
+        "360° Panorama"
+      ],
+      "when_to_visit": "<p>Sommer für die schattierte Schleife; 1. Dezember bis 31. März für die Schneeschuhversion, Schnee erlaubt. Das Panorama selbst schließt sich nie.</p>"
+    },
     "en": {
       "activities": [
         {
@@ -118,6 +212,100 @@
       ],
       "when_to_visit": "<p>Summer for the shaded loop; 1 December to 31 March for the snowshoe version, snow permitting. The panorama itself never closes.</p>"
     },
+    "es": {
+      "activities": [
+        {
+          "description": "3h30 de tono caminando desde la meseta Sud a la cruz y su panorama 360° - valorado 'Moyen'.",
+          "tag": "9.2 km",
+          "title": "Bucle de verano caminando"
+        },
+        {
+          "description": "La misma cumbre en una versión de invierno marcada con estacas amarillas: 9,5 km, 4h, 'Difficile', permiso de nieve.",
+          "tag": "1 dic - 31 mar",
+          "title": "Hila de nieve de invierno"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El<strong>croix du Nivolet</strong>vigila Chambéry desde el borde de los Bauges. Desde<strong>Plateau Sud aparcamiento en La Féclaz</strong>, la caminata - 'muy accesible y sombreado', escribe la oficina turística - alcanza el hito y su<strong>Panorama aéreo 360°</strong>. El fiche caminante anuncia un<strong>9.2 km de bucle, 3h30, +283 m</strong>, valorado 'Moyen', entre 1.291 m y 1.545 m de altitud.</p><p>En invierno, la misma ruta existe como<strong>versión de snowshoe marcado</strong>- estacas amarillas y signos - abiertos<strong>1 de diciembre a 31 de marzo, las condiciones de nieve permiten</strong>. Una rareza de propiedad: para el mismo comienzo y la misma cumbre, el fiche de invierno publica diferentes figuras: 9,5 km, 323 m de ganancia, 4h, 'Difficile'. Damos ambos sets como están: la nieve lo alarga todo, pero es la oficina turística misma que publica ambos.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Ruta libre y señalizada",
+        "best_season": "Verano a pie; 1 de diciembre a 31 de marzo sobre raquetas de nieve",
+        "commune": "Les Déserts",
+        "dogs": null,
+        "parking": "Plateau Sud aparcamiento, La Féclaz",
+        "stroller": null,
+        "type": "Recorrido a un punto de vista",
+        "winter_access": "partial"
+      },
+      "faq": [
+        {
+          "a": "'Moyen' en verano (9,2 km, 3h30, +283 m por el fiche andante); 'Difficile' en invierno en las nieves (9,5 km, 4h, 323 m por el fiche de snowshoe). Ambos fiches oficiales describen el mismo comienzo y publican diferentes figuras.",
+          "q": "¿Cuán difícil es el bucle?"
+        },
+        {
+          "a": "Sí, en raquetas de nieve: una ruta con estacas amarillas, abierta del 1 de diciembre al 31 de marzo, sujeta a condiciones de nieve.",
+          "q": "¿Puedes ir en invierno?"
+        },
+        {
+          "a": "Un panorama aéreo de 360°, la cruz pasa por alto Chambéry y la brecha entre las Bauges y la Chartreuse.",
+          "q": "¿Qué ves ahí arriba?"
+        },
+        {
+          "a": "En el aparcamiento Plateau Sud, La Féclaz (73230), el inicio de ambas versiones.",
+          "q": "¿Dónde aparcas?"
+        },
+        {
+          "a": "Entre 1.291 m y 1.545 m, a partir de 1.413 m, por fiche oficial.",
+          "q": "¿A qué altura caminas?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratis · Bauges",
+        "lead": "El hito con vistas a Chambéry, alcanzado desde la meseta de La Féclaz: un bucle de verano de 9,2 km de sombra, y una versión de nieve de invierno con diferentes figuras."
+      },
+      "hero_alt": "Croix du Nivolet con vistas a Chambéry, macizo de Bauges, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Conduzca hasta La Féclaz (Savoie Grand Revard), luego el aparcamiento Plateau Sud, el inicio marcado.",
+        "public_transport": null
+      },
+      "meta_description": "El croix du Nivolet de la Plateau Sud (La Féclaz): un bucle de 9,2 km, panorama 360° sobre Chambéry, versión de snowshoe de invierno. Fuentes oficiales solamente.",
+      "meta_title": "Croix du Nivolet · Loop de La Féclaz, verano y nieve",
+      "name": "Croix du Nivolet from the Plateau Sud",
+      "name_alternates": [
+        "Croix du Nivolet"
+      ],
+      "practical_info": [
+        {
+          "k": "Trailhead",
+          "v": "Plateau Sud aparcamiento, La Féclaz, 73230 Les Déserts"
+        },
+        {
+          "k": "Verano",
+          "v": "Loop 9.2 km, 3h30, +283 m — 'Moyen'"
+        },
+        {
+          "k": "Invierno (snowshoes)",
+          "v": "9.5 km, 4h, 323 m — 'Difficile', 1 dic – 31 mar"
+        },
+        {
+          "k": "Altitudes",
+          "v": "1,291 m – 1,545 m, empezar 1,413 m"
+        },
+        {
+          "k": "Waymarking",
+          "v": "Camino marcado; estacas amarillas para la versión de invierno"
+        }
+      ],
+      "schema_amenities": [
+        "Ruta Waymarked",
+        "Versión de invierno de nieve",
+        "Panorama 360°"
+      ],
+      "when_to_visit": "<p>Verano para el bucle sombreado; 1 de diciembre al 31 de marzo para la versión de snowshoe, que permite la nieve. El panorama nunca se cierra.</p>"
+    },
     "fr": {
       "activities": [
         {
@@ -211,6 +399,194 @@
         "Panorama 360°"
       ],
       "when_to_visit": "<p>L'été pour la boucle ombragée ; du 1er décembre au 31 mars pour la version raquettes, sous réserve d'enneigement. Le panorama, lui, ne ferme jamais.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "3h30 di ombreggiata a piedi dal Plateau Sud alla croce e il suo panorama a 360° — valutato 'Moyen'.",
+          "tag": "9,2 km",
+          "title": "Ciclo estivo"
+        },
+        {
+          "description": "La stessa vetta in una versione invernale segnata con pali gialli — 9,5 km, 4h, 'Difficile', neve permettendo.",
+          "tag": "1 dic – 31 mar",
+          "title": "Escursioni con le ciaspole"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The<strong>il tuo nome</strong>orologi sopra Chambéry dal bordo di Bauges. Dal<strong>Plateau Sud parcheggio a La Féclaz</strong>, la passeggiata — 'molto accessibile e ombreggiato', scrive l'ufficio turistico — raggiunge il punto di riferimento e la sua<strong>Panorama aereo a 360°</strong>. Il passeggino annuncia una<strong>Ciclo di 9,2 km, 3h30, +283 m</strong>, valutato 'Moyen', tra 1.291 m e 1,545 m di altitudine.</p><p>In inverno, la stessa via esiste come<strong>versione con le ciaspole</strong>— pali e segni gialli — aperti<strong>dal 1 dicembre al 31 marzo, condizioni della neve che permettono</strong>Una quota di proprietà: per lo stesso inizio e lo stesso vertice, la fiche invernale pubblica cifre diverse — 9,5 km, 323 m di guadagno, 4h, 'Difficile'. Diamo entrambi i set come stanno: la neve allunga tutto, ma è l'ufficio turistico stesso che pubblica entrambi.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Libera — rotta segnata",
+        "best_season": "Estate a piedi; dal 1 dicembre al 31 marzo su racchette da neve",
+        "commune": "Les Déserts",
+        "dogs": null,
+        "parking": "Plateau Parcheggio Sud, La Féclaz",
+        "stroller": null,
+        "type": "Escursione Loop in un punto di vista",
+        "winter_access": "partial"
+      },
+      "faq": [
+        {
+          "a": "'Moyen' in estate (9,2 km, 3h30, +283 m per il passeggino); 'Difficile' in inverno su racchette da neve (9,5 km, 4h, 323 m per la fiche di racchette da neve). Entrambi i fiches ufficiali descrivono lo stesso inizio — e pubblicano cifre diverse.",
+          "q": "Quanto e' difficile il loop?"
+        },
+        {
+          "a": "Sì, sulle racchette da neve: un percorso segnato con pali gialli, aperto dal 1 dicembre al 31 marzo, soggetto a condizioni di neve.",
+          "q": "Puoi andare in inverno?"
+        },
+        {
+          "a": "Un panorama aereo a 360° — la croce si affaccia su Chambéry e il divario tra i Bauges e l'Chartreuse.",
+          "q": "Cosa vedi lassù?"
+        },
+        {
+          "a": "Al parcheggio Plateau Sud, La Féclaz (73230), l'inizio di entrambe le versioni.",
+          "q": "Dove parcheggi?"
+        },
+        {
+          "a": "Tra 1,291 m e 1,545 m, a partire da 1.413 m, per scheda ufficiale.",
+          "q": "A che altezza cammini?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratis · Bauges",
+        "lead": "Il punto di riferimento che si affaccia su Chambéry, raggiunto dal Plateau Sud di La Féclaz: un anello estivo ombreggiato di 9,2 km — e una versione con le ciaspole invernali, con figure diverse."
+      },
+      "hero_alt": "Croix du Nivolet con vista su Chambéry, Bauges massiccio, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Guida fino a La Féclaz (Savoie Grand Revard), poi il parcheggio Plateau Sud, l'inizio segnalato.",
+        "public_transport": null
+      },
+      "meta_description": "Il croix du Nivolet dal Plateau Sud (La Féclaz): un anello di 9,2 km, panorama a 360° su Chambéry, versione invernale con racchette da neve. Solo fonti ufficiali.",
+      "meta_title": "Croix du Nivolet · Loop da La Féclaz, estate e racchette da neve",
+      "name": "Croix du Nivolet from the Plateau Sud",
+      "name_alternates": [
+        "Croix du Nivolet"
+      ],
+      "practical_info": [
+        {
+          "k": "Sentiero",
+          "v": "Plateau Sud parcheggio, La Féclaz, 73230 Les Déserts"
+        },
+        {
+          "k": "Estate",
+          "v": "Loop 9,2 km, 3h30, +283 m — 'Moyen'"
+        },
+        {
+          "k": "Inverno (snowshoes)",
+          "v": "9.5 km, 4h, 323 m — 'Difficile', 1 Dec – 31 Mar"
+        },
+        {
+          "k": "Altitudini",
+          "v": "1.291 m – 1,545 m, partenza 1.413 m"
+        },
+        {
+          "k": "Segnalazioni",
+          "v": "Sentiero segnato; pali gialli per la versione invernale"
+        }
+      ],
+      "schema_amenities": [
+        "Itinerario segnalato",
+        "Versione con le ciaspole invernali",
+        "Panorama a 360°"
+      ],
+      "when_to_visit": "<p>Estate per il ciclo ombreggiato; dal 1 dicembre al 31 marzo per la versione con le racchette da neve, permettendo. Il panorama stesso non chiude mai.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "3u30 van schaduwrijke wandeling van het Plateau Sud naar het kruis en zijn 360° panorama \"gewaardeerd 'Moyen'.",
+          "tag": "9,2 km",
+          "title": "Zomer loop"
+        },
+        {
+          "description": "Dezelfde top in een winterse versie gemarkeerd met gele palen .5 km, 4h, 'Difficile', sneeuw toestaan.",
+          "tag": "1 december 31 mrt",
+          "title": "Winter sneeuwschoenwandeling"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De<strong>croix du Nivolet</strong>waakt over Chambéry vanaf de rand van de Bauges. Van de<strong>Parkeerplaats Plateau Sud bij La Féclaz</strong>, de wandeling 'zeer toegankelijk en schaduwrijk', schrijft het VVV-kantoor bereikt de mijlpaal en de<strong>360° lucht panorama</strong>. De wandelkaart kondigt een<strong>9,2 km lus, 3u30, +283 m</strong>, 'Moyen' genoemd, tussen 1,291 m en 1,545 m hoogte.</p><p>In de winter bestaat dezelfde route als een<strong>waymarked snowshoe versie</strong>Gele palen en borden open<strong>1 december tot en met 31 maart</strong>. Een eigenaardige eigenaardigheid: voor dezelfde start en dezelfde top publiceert de winterkaart verschillende cijfers .5 km, 323 m winst, 4 uur, 'Difficile'. We geven beide sets zoals ze staan: sneeuw verlengt alles, maar het is de VVV zelf publiceren beide.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis route gemarkeerd met tags",
+        "best_season": "Zomer te voet; 1 december tot en met 31 maart op sneeuwschoenen",
+        "commune": "Les Déserts",
+        "dogs": null,
+        "parking": "Plateau Parkeerplaats Sud, La Féclaz",
+        "stroller": null,
+        "type": "Loop naar een gezichtspunt",
+        "winter_access": "partial"
+      },
+      "faq": [
+        {
+          "a": "\"Moyen\" in de zomer (9,2 km, 3u30, +283 m per wandelkaart); \"Difficile\" in de winter op sneeuwschoenen (9,5 km, 4u, 323 m per sneeuwschoenkaart). Beide officiële fiches beschrijven dezelfde start en publiceren verschillende cijfers.",
+          "q": "Hoe moeilijk is de lus?"
+        },
+        {
+          "a": "Ja, op sneeuwschoenen: een route gemarkeerd met gele palen, geopend van 1 december tot 31 maart, onder sneeuwomstandigheden.",
+          "q": "Kun je in de winter gaan?"
+        },
+        {
+          "a": "Een 360° antenne panorama, het kruis kijkt uit op Chambéry en de kloof tussen de Bauges en de Chartreuse.",
+          "q": "Wat zie je daar?"
+        },
+        {
+          "a": "Op de parkeerplaats Plateau Sud, La Féclaz (73230), het begin van beide versies.",
+          "q": "Waar parkeer je?"
+        },
+        {
+          "a": "Tussen 1,291 m en 1,545 m, vanaf 1,413 m, per officiële kaart.",
+          "q": "Op welke hoogte loop je?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratis · Bauges",
+        "lead": "De bezienswaardigheid met uitzicht op Chambéry, bereikt vanaf het Plateau Sud van La Féclaz: een beschaduwde 9,2 km zomerlus en een bewegwijzerde winterschoenversie, met verschillende figuren."
+      },
+      "hero_alt": "Croix du Nivolet met uitzicht op Chambéry, Bauges-massief, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Rijden naar La Féclaz (Savoie Grand Revard), dan de Plateau Sud parkeerplaats, de gemarkeerde start.",
+        "public_transport": null
+      },
+      "meta_description": "Het croix du Nivolet van het Plateau Sud (La Féclaz): een 9,2 km lus, 360° panorama over Chambéry, winter sneeuwschoenversie. Alleen officiële bronnen.",
+      "meta_title": "Croix du Nivolet · Loop uit La Féclaz, zomer en sneeuwschoenen",
+      "name": "Croix du Nivolet from the Plateau Sud",
+      "name_alternates": [
+        "Croix du Nivolet"
+      ],
+      "practical_info": [
+        {
+          "k": "Trailhead",
+          "v": "Parkeerplaats Plateau Sud, La Féclaz, 73230 Les Déserts"
+        },
+        {
+          "k": "Zomer",
+          "v": "Loop 9,2 km, 3u30, +283 m \"Moyen\""
+        },
+        {
+          "k": "Winter (sneeuwschoenen)",
+          "v": "9,5 km, 4h, 323 m"
+        },
+        {
+          "k": "Hoogte",
+          "v": "1,291 m en 1,545 m, start 1,413 m"
+        },
+        {
+          "k": "Waymarking",
+          "v": "Gemarkeerd pad; gele palen voor de winterversie"
+        }
+      ],
+      "schema_amenities": [
+        "Waymarked route",
+        "Winter sneeuwschoen versie",
+        "360° panorama"
+      ],
+      "when_to_visit": "<p>Zomer voor de schaduwlus; 1 december tot 31 maart voor de sneeuwschoen uitvoering, sneeuw maken. Het panorama zelf sluit nooit.</p>"
     }
   },
   "latitude": 45.613564,

@@ -29,6 +29,22 @@ LANGS = ("fr", "en", "de", "it", "es", "nl")
 E = lambda s: html.escape(str(s or ""), quote=True)
 _SIS = getattr(S, "SISTER", None) or {"name": S.SITE_NAME, "url": S.BASE_URL, "dept": S.DEPT_NAME}
 CSS = open(os.path.join(ROOT, "data", "home-73.css"), encoding="utf-8").read()
+# Branded sister panel — themed with the sister site's own tokens (day/dark aware).
+SIS_CSS = (
+    ".sister-band{margin:3.4rem auto 0;max-width:var(--max);padding:0 var(--pad)}"
+    ".sister-card{display:flex;gap:1.4rem;align-items:center;flex-wrap:wrap;background:var(--card);"
+    "border:1px solid var(--card-line);border-radius:18px;padding:1.6rem 1.8rem;transition:var(--turn)}"
+    ".sister-card img{width:78px;height:78px;border-radius:16px;flex:0 0 auto;box-shadow:0 3px 14px rgba(0,0,0,.12)}"
+    ".sister-card .st{flex:1 1 18rem;min-width:0}"
+    ".sister-card .k{display:block;font:600 .72rem var(--sans);letter-spacing:.13em;text-transform:uppercase;"
+    "color:var(--card-ink3);margin-bottom:.25rem}"
+    ".sister-card .n{display:block;font-family:var(--serif);font-size:1.45rem;font-weight:500;"
+    "color:var(--card-ink);letter-spacing:-.01em;line-height:1.1}"
+    ".sister-card p{margin:.5rem 0 0;color:var(--card-ink2);font-size:.96rem;line-height:1.5}"
+    ".sister-card .go{flex:0 0 auto;display:inline-flex;align-items:center;gap:.5rem;padding:.75rem 1.35rem;"
+    "border-radius:999px;background:var(--accent);color:#fff;font-weight:600;font-family:var(--sans);transition:var(--turn)}"
+    ".sister-card .go:hover{gap:.8rem;filter:brightness(1.05)}"
+    "@media(max-width:560px){.sister-card{flex-direction:column;align-items:flex-start}.sister-card .go{align-self:stretch;justify-content:center}}")
 
 # --- hubs: category set + localized "&"-style label per hub ------------------
 HUBS = {
@@ -141,6 +157,22 @@ UI = {
  "foot_lang": {"fr": "Langue", "en": "Language", "de": "Sprache", "it": "Lingua", "es": "Idioma", "nl": "Taal"},
  "foot_sister_k": {"fr": "L'autre département", "en": "The other department", "de": "Das andere Département",
                    "it": "L'altro dipartimento", "es": "El otro departamento", "nl": "Het andere departement"},
+ "sis_kicker": {"fr": "L'autre département", "en": "The other department", "de": "Das andere Département",
+                "it": "L'altro dipartimento", "es": "El otro departamento", "nl": "Het andere departement"},
+ "sis_body": {"fr": "Même éditeur, même règle : chaque fait vérifié auprès d'une source officielle, "
+                    "et les contradictions affichées plutôt qu'arbitrées. Passez la frontière départementale.",
+              "en": "Same publisher, same rule: every fact checked against an official source, and contradictions "
+                    "shown rather than quietly resolved. Cross the departmental border.",
+              "de": "Gleicher Herausgeber, gleiche Regel: jede Angabe an einer offiziellen Quelle geprüft, "
+                    "Widersprüche gezeigt statt still aufgelöst. Über die Départementsgrenze.",
+              "it": "Stesso editore, stessa regola: ogni dato verificato su una fonte ufficiale, e le contraddizioni "
+                    "mostrate anziché risolte in silenzio. Passate il confine dipartimentale.",
+              "es": "Mismo editor, misma regla: cada dato verificado en una fuente oficial, y las contradicciones "
+                    "mostradas en vez de resueltas en silencio. Cruce la frontera departamental.",
+              "nl": "Zelfde uitgever, zelfde regel: elk feit getoetst aan een officiële bron, en tegenstrijdigheden "
+                    "getoond in plaats van stilletjes opgelost. Steek de departementsgrens over."},
+ "sis_go": {"fr": "Ouvrir loisirs74.fr", "en": "Open loisirs74.fr", "de": "loisirs74.fr öffnen",
+            "it": "Apri loisirs74.fr", "es": "Abrir loisirs74.fr", "nl": "loisirs74.fr openen"},
  "prep": {"fr": "Site en préparation : rien n'est indexé pour l'instant.",
           "en": "Site in preparation: nothing is indexed yet.",
           "de": "Website in Vorbereitung: noch nichts indexiert.",
@@ -297,6 +329,16 @@ def build(lang, fiches):
                 f'<a class="see-all" href="{hub_url(k, lang)}">{E(t(UI["see_all"], lang))} {_ARROW}</a></div>'
                 f'<div class="carousel">' + "".join(card(f, lang) for f in hub_items(k)) + '</div></div></section>')
 
+    # --- branded sister panel --------------------------------------------------
+    sister = (
+        f'<aside class="sister-band" aria-label="{E(t(UI["sis_kicker"], lang))}"><div class="sister-card">'
+        f'<img src="/img/sister/loisirs74-logo.png" alt="{E(_SIS["name"])}" width="78" height="78" loading="lazy">'
+        f'<div class="st"><span class="k">{E(t(UI["sis_kicker"], lang))}</span>'
+        f'<span class="n">{E(_SIS["name"])} · {E(_SIS["dept"])}</span>'
+        f'<p>{E(t(UI["sis_body"], lang))}</p></div>'
+        f'<a class="go" href="{E(_SIS["url"])}" rel="noopener">{E(t(UI["sis_go"], lang))} {_ARROW}</a>'
+        f'</div></aside>')
+
     # --- footer ----------------------------------------------------------------
     foot_cats = "".join(f'<li><a href="{hub_url(k, lang)}">{t(HUBS[k]["label"], lang).replace("&", "&amp;")}</a></li>'
                         for k in live)
@@ -343,8 +385,8 @@ def build(lang, fiches):
         + noindex_block +
         f'<title>{E(title)}</title>\n<meta name="description" content="{E(desc)}">\n'
         f'<link rel="icon" href="/favicon.ico" sizes="any">\n{alts}'
-        f'<style>{CSS}</style>\n</head>\n<body>\n'
-        f'{_SKY}{header}\n<main>\n{hero}\n{glance}\n{prep_banner}{body_sections}</main>\n{footer}\n'
+        f'<style>{CSS}{SIS_CSS}</style>\n</head>\n<body>\n'
+        f'{_SKY}{header}\n<main>\n{hero}\n{glance}\n{prep_banner}{body_sections}{sister}\n</main>\n{footer}\n'
         f'<script src="/scripts/l74sort.js" defer></script>\n'
         f'<script src="/scripts/nearme.js" defer></script>\n'
         '</body>\n</html>\n')

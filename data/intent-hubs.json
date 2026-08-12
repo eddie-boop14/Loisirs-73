@@ -1,1 +1,1113 @@
-[]
+[
+  {
+    "slug": "ou-se-baigner-en-savoie",
+    "category_hub": "lacs-plages",
+    "map": true,
+    "kicker": {
+      "fr": "Loisirs 73 · Baignade en Savoie",
+      "en": "Loisirs 73 · Swimming in Savoie",
+      "de": "Loisirs 73 · Schwimmen in Savoie",
+      "it": "Loisirs 73 · Nuoto in Savoie",
+      "es": "Loisirs 73 · Nadar en Savoie",
+      "nl": "Loisirs 73 · Zwemmen in Savoie"
+    },
+    "title": {
+      "fr": "Où se baigner en Savoie ? Lacs, plages & plans d'eau — loisirs73",
+      "en": "Where to swim in Savoie? Lakes, beaches & swimming spots — loisirs73",
+      "de": "Wo kann man in Savoie schwimmen? Seen, Strände und Schwimmplätze — loisirs73",
+      "it": "Dove nuotare in Savoie? Laghi, spiagge e luoghi di nuoto — loisirs73",
+      "es": "¿Dónde nadar en Savoie? Lagos, playas y puntos de natación — loisirs73",
+      "nl": "Waar te zwemmen in Savoie? Meren, stranden en zwemplekken loisirs73"
+    },
+    "description": {
+      "fr": "Les lacs et plages de Savoie où se baigner : gratuit ou payant, surveillance 2026, accès — vérifiés aux sources officielles.",
+      "en": "Savoie's lakes and beaches to swim at: free or paid, 2026 lifeguard season, access — verified against official sources.",
+      "de": "Die Seen und Strände von Savoie zum Schwimmen: kostenlos oder kostenpflichtig, Rettungsschwimmersaison 2026, Zugang - verifiziert mit offiziellen Quellen.",
+      "it": "I laghi e le spiagge di Savoie per nuotare a: gratuito o pagato, 2026 stagione di salvataggio, accesso — verificato contro fonti ufficiali.",
+      "es": "Lagos y playas de Savoie para nadar en: libre o pagado, 2026 temporada de salvavidas, acceso - verificado contra fuentes oficiales.",
+      "nl": "De meren en stranden van Savoie om op te zwemmen: gratis of betaald, 2026 badmeester seizoen, toegang, geverifieerd met officiële bronnen."
+    },
+    "h1": {
+      "fr": "Où se baigner en Savoie ?",
+      "en": "Where to swim in Savoie?",
+      "de": "Wo kann man in Savoie schwimmen?",
+      "it": "Dove nuotare in Savoie?",
+      "es": "¿Dónde nadar en Savoie?",
+      "nl": "Waar te zwemmen in Savoie?"
+    },
+    "lead": {
+      "fr": "Les plans d'eau de Savoie classés par coût réel — entrée et parking. Dates de surveillance 2026 vérifiées aux sources officielles.",
+      "en": "Savoie's swimming spots ranked by real cost — entry and parking. 2026 lifeguard dates verified against official sources.",
+      "de": "Savoie Schwimmplätze nach realen Kosten geordnet — Eintritt und Parkplätze. 2026 Rettungsschwimmerdaten mit offiziellen Quellen verifiziert.",
+      "it": "Le macchie di nuoto di Savoie classificate a costo reale — ingresso e parcheggio. 2026 date di salvataggio verificate contro fonti ufficiali.",
+      "es": "Los puntos de natación de Savoie se clasifican por costo real — entrada y estacionamiento. 2026 fechas de salvavidas verificadas contra fuentes oficiales.",
+      "nl": "De zwemplekken van Savoie gerangschikt naar reële kosten en parkeerplaats. 2026 badmeester data geverifieerd met officiële bronnen."
+    },
+    "answer": {
+      "fr": "La Savoie compte de grands lacs de baignade. Certaines plages sont gratuites (Aqualac à Aix-les-Bains, lac de Carouge, lac Saint-André, Grésy-sur-Isère) ; d'autres sont payantes en saison surveillée (Le Bourget-du-Lac, Le Sougey et Aiguebelette-le-Lac au lac d'Aiguebelette).",
+      "en": "Savoie has large swimming lakes. Some beaches are free (Aqualac in Aix-les-Bains, lac de Carouge, lac Saint-André, Grésy-sur-Isère); others charge during the supervised season (Le Bourget-du-Lac, Le Sougey and Aiguebelette-le-Lac on the lac d'Aiguebelette).",
+      "de": "Savoie hat große Schwimmseen. Einige Strände sind kostenlos (Aqualac in Aix-les-Bains, lac de Carouge, lac Saint-André, Grésy-sur-Isère); andere laden während der überwachten Saison (Le Bourget-du-Lac, Le Sougey und Aiguebelette-le-Lac auf der lac d'Aiguebelette).",
+      "it": "Savoie ha grandi laghi di nuoto. Alcune spiagge sono gratuite (Aqualac in Aix-les-Bains, lac de Carouge, lac Saint-André, Grésy-sur-Isère); altre carica durante la stagione supervisionata (Le Bourget-du-Lac, Le Sougey e Aiguebelette-le-Lac sulla lac d'Aiguebelette).",
+      "es": "Savoie tiene grandes lagos de natación. Algunas playas son gratuitas (Aqualac en Aix-les-Bains, lac de Carouge, lac Saint-André, Grésy-sur-Isère); otras cobran durante la temporada supervisada (Le Bourget-du-Lac, Le Sougey y Aiguebelette-le-Lac en el lac d'Aiguebelette).",
+      "nl": "Savoie heeft grote zwemmeren. Sommige stranden zijn gratis (Aqualac in Aix-les-Bains, lac de Carouge, lac Saint-André, Grésy-sur-Isère); andere kosten tijdens het seizoen onder toezicht (Le Bourget-du-Lac, Le Sougey en Aiguebelette-le-Lac op de lac d'Aiguebelette)."
+    },
+    "pills": {
+      "fr": [
+        "4 gratuites",
+        "3 payantes en saison",
+        "Surveillance été 2026"
+      ],
+      "en": [
+        "4 free",
+        "3 paid in season",
+        "Summer 2026 lifeguards"
+      ],
+      "de": [
+        "4 frei",
+        "3 bezahlt in der Saison",
+        "Sommer 2026 Rettungsschwimmer"
+      ],
+      "it": [
+        "4 gratis",
+        "3 pagati in stagione",
+        "Estate 2026 bagni"
+      ],
+      "es": [
+        "4 gratis",
+        "3 pagadas en temporada",
+        "Verano 2026 salvavidas"
+      ],
+      "nl": [
+        "4 vrij",
+        "3 betaald in het seizoen",
+        "Zomer 2026 strandwachten"
+      ]
+    },
+    "facts_shown": [
+      {
+        "field": "access",
+        "mode": "always"
+      },
+      {
+        "field": "best_season",
+        "mode": "if_present"
+      }
+    ],
+    "buckets": [
+      {
+        "key": "gratuit",
+        "color": "#2e9c5a",
+        "label": {
+          "fr": "Baignade gratuite",
+          "en": "Free swimming",
+          "de": "Freischwimmen",
+          "it": "Nuoto gratuito",
+          "es": "Piscina gratuita",
+          "nl": "Gratis zwemmen"
+        }
+      },
+      {
+        "key": "payant",
+        "color": "#c98a1f",
+        "label": {
+          "fr": "Payant en saison",
+          "en": "Paid in season",
+          "de": "Bezahlt in der Saison",
+          "it": "Pagato in stagione",
+          "es": "Pagado en temporada",
+          "nl": "Betaald in het seizoen"
+        }
+      }
+    ],
+    "members": [
+      {
+        "slug": "plage-municipale-aix-les-bains-aqualac",
+        "bucket": "gratuit"
+      },
+      {
+        "slug": "lac-de-carouge-saint-pierre-d-albigny",
+        "bucket": "gratuit"
+      },
+      {
+        "slug": "lac-saint-andre-porte-de-savoie",
+        "bucket": "gratuit"
+      },
+      {
+        "slug": "base-de-loisirs-gresy-sur-isere",
+        "bucket": "gratuit"
+      },
+      {
+        "slug": "plage-municipale-le-bourget-du-lac",
+        "bucket": "payant"
+      },
+      {
+        "slug": "plage-base-de-loisirs-du-sougey",
+        "bucket": "payant"
+      },
+      {
+        "slug": "plage-aiguebelette-le-lac",
+        "bucket": "payant"
+      }
+    ],
+    "faq": [
+      {
+        "q": {
+          "fr": "Quels lacs de Savoie ont une baignade gratuite ?",
+          "en": "Which Savoie lakes have free swimming?",
+          "de": "Welche Savoie Seen haben freies Schwimmen?",
+          "it": "Quali laghi Savoie hanno il nuoto gratuito?",
+          "es": "¿Qué lagos Savoie tienen nadar gratis?",
+          "nl": "Welke Savoie-meren hebben gratis zwemmen?"
+        },
+        "a": {
+          "fr": "La plage d'Aix-les-Bains (Aqualac), le lac de Carouge, le lac Saint-André et la base de Grésy-sur-Isère sont en accès gratuit. Les plages du lac d'Aiguebelette et du Bourget-du-Lac sont payantes en saison surveillée.",
+          "en": "Aix-les-Bains beach (Aqualac), lac de Carouge, lac Saint-André and the Grésy-sur-Isère base are free. The lac d'Aiguebelette and Le Bourget-du-Lac beaches charge during the supervised season.",
+          "de": "Aix-les-Bains Strand (Aqualac), lac de Carouge, lac Saint-André und die Grésy-sur-Isère Basis sind kostenlos. Die Strände lac d'Aiguebelette und Le Bourget-du-Lac laden während der überwachten Saison.",
+          "it": "Spiaggia Aix-les-Bains (Aqualac), lac de Carouge, lac Saint-André e la base Grésy-sur-Isère sono gratuiti. Le spiagge lac d'Aiguebelette e Le Bourget-du-Lac caricano durante la stagione supervisionata.",
+          "es": "La playa Aix-les-Bains (Aqualac), lac de Carouge, lac Saint-André y la base Grésy-sur-Isère son gratuitas. Las playas lac d'Aiguebelette y Le Bourget-du-Lac cobran durante la temporada supervisada.",
+          "nl": "Aix-les-Bains strand (Aqualac), lac de Carouge, lac Saint-André en de Grésy-sur-Isère basis zijn gratis. De stranden lac d'Aiguebelette en Le Bourget-du-Lac rekenen tijdens het seizoen onder toezicht."
+        }
+      },
+      {
+        "q": {
+          "fr": "Quand la baignade est-elle surveillée en 2026 ?",
+          "en": "When is swimming supervised in 2026?",
+          "de": "Wann wird das Schwimmen im Jahr 2026 überwacht?",
+          "it": "Quando è il nuoto supervisionato nel 2026?",
+          "es": "¿Cuándo es la natación supervisada en 2026?",
+          "nl": "Wanneer wordt zwemmen gecontroleerd in 2026?"
+        },
+        "a": {
+          "fr": "La plupart des plages sont surveillées de mi-juin à fin août ; les dates exactes diffèrent d'un site à l'autre et parfois entre deux sources officielles — chaque fiche le précise.",
+          "en": "Most beaches are supervised from mid-June to late August; exact dates differ by site and sometimes between two official sources — each page states them.",
+          "de": "Die meisten Strände werden von Mitte Juni bis Ende August betreut; genaue Daten unterscheiden sich je nach Standort und manchmal zwischen zwei offiziellen Quellen - jede Seite gibt sie an.",
+          "it": "La maggior parte delle spiagge sono sorvegliate da metà giugno a fine agosto; date esatte differiscono per sito e talvolta tra due fonti ufficiali — ogni pagina li afferma.",
+          "es": "La mayoría de las playas son supervisadas desde mediados de junio hasta finales de agosto; las fechas exactas difieren por sitio y a veces entre dos fuentes oficiales, cada página las declara.",
+          "nl": "De meeste stranden worden begeleid van half juni tot eind augustus; exacte data verschillen per site en soms tussen twee officiële bronnen . ."
+        }
+      },
+      {
+        "q": {
+          "fr": "Y a-t-il des plages accessibles en fauteuil roulant ?",
+          "en": "Are there wheelchair-accessible beaches?",
+          "de": "Gibt es rollstuhlgerechte Strände?",
+          "it": "Ci sono spiagge accessibili alle sedie a rotelle?",
+          "es": "¿Hay playas accesibles para silla de ruedas?",
+          "nl": "Zijn er rolstoeltoegankelijke stranden?"
+        },
+        "a": {
+          "fr": "Oui, plusieurs fiches indiquent un accès en fauteuil « en autonomie » ou « avec aide » d'après les offices de tourisme ; l'information figure sur chaque page concernée.",
+          "en": "Yes, several pages note wheelchair access 'without assistance' or 'with help' per the tourist offices; the detail is on each relevant page.",
+          "de": "Ja, mehrere Seiten vermerken Rollstuhlzugang \"ohne Hilfe\" oder \"mit Hilfe\" pro Tourismusbüro; das Detail ist auf jeder relevanten Seite.",
+          "it": "Sì, diverse pagine notano l'accesso alla sedia a rotelle 'senza assistenza' o 'con aiuto' per gli uffici turistici; il dettaglio è su ogni pagina rilevante.",
+          "es": "Sí, varias páginas notan el acceso de silla de ruedas 'sin asistencia' o 'con ayuda' por las oficinas de turismo; el detalle está en cada página relevante.",
+          "nl": "Ja, meerdere pagina's vermelden rolstoeltoegang 'zonder hulp' of 'met hulp' per VVV-kantoor; het detail staat op elke relevante pagina."
+        }
+      }
+    ],
+    "footer_note": {
+      "fr": "Données issues des champs facts.access et de la surveillance publiée par les exploitants et offices de tourisme.",
+      "en": "Data from the facts.access fields and the lifeguard seasons published by operators and tourist offices.",
+      "de": "Daten aus den Feldern facts.access und den von Betreibern und Tourismusämtern veröffentlichten Rettungsschwimmer-Saisons.",
+      "it": "Dati dei campi di accesso fatti. e delle stagioni dei bagnini pubblicati da operatori e uffici turistici.",
+      "es": "Datos de los campos de acceso y las estaciones de salvavidas publicadas por operadores y oficinas turísticas.",
+      "nl": "Gegevens van de feiten.toegang velden en de badmeester seizoenen gepubliceerd door exploitanten en VVV-kantoren."
+    }
+  },
+  {
+    "slug": "cascades-gorges-savoie",
+    "category_hub": "cascades",
+    "map": true,
+    "kicker": {
+      "fr": "Loisirs 73 · Cascades de Savoie",
+      "en": "Loisirs 73 · Savoie waterfalls",
+      "de": "Loisirs 73 · Savoie Wasserfälle",
+      "it": "Loisirs 73 · cascate Savoie",
+      "es": "Loisirs 73 · Cataratas Savoie",
+      "nl": "Loisirs 73 · Savoie watervallen"
+    },
+    "title": {
+      "fr": "Cascades & gorges de Savoie : lesquelles voir ? — loisirs73",
+      "en": "Waterfalls & gorges of Savoie: which ones to see? — loisirs73",
+      "de": "Wasserfälle & Schluchten von Savoie: Welche zu sehen? — loisirs73",
+      "it": "Cascate e gole di Savoie: quali da vedere? — loisirs73",
+      "es": "Cataratas &quot; gargantas de Savoie: ¿qué ver? - loisirs73",
+      "nl": "Watervallen & kloven van Savoie: welke te zien? loisirs73"
+    },
+    "description": {
+      "fr": "Les cascades et gorges de Savoie à découvrir : accès, durée des boucles et prudence, vérifiés aux sources officielles.",
+      "en": "Savoie's waterfalls and gorges to discover: access, loop times and safety, verified against official sources.",
+      "de": "Die Wasserfälle und Schluchten von Savoie sind zu entdecken: Zugang, Schleifenzeiten und Sicherheit, verifiziert mit offiziellen Quellen.",
+      "it": "Cascate e gole di Savoie per scoprire: accesso, tempi di ciclo e sicurezza, verificati contro fonti ufficiali.",
+      "es": "Cataratas y gargantas de Savoie para descubrir: acceso, tiempos de bucle y seguridad, verificados contra fuentes oficiales.",
+      "nl": "De watervallen en kloven van Savoie te ontdekken: toegang, lustijden en veiligheid, geverifieerd met officiële bronnen."
+    },
+    "h1": {
+      "fr": "Cascades & gorges de Savoie : lesquelles voir ?",
+      "en": "Waterfalls & gorges of Savoie: which to see?",
+      "de": "Wasserfälle & Schluchten von Savoie: Was zu sehen?",
+      "it": "Cascate & gole di Savoie: che vedere?",
+      "es": "Cataratas y gargantas de Savoie: ¿qué ver?",
+      "nl": "Watervallen & kloven van Savoie: welke te zien?"
+    },
+    "lead": {
+      "fr": "Sept cascades et gorges de Savoie, de la Chartreuse à la Maurienne — accès, durée et saison, aux sources officielles.",
+      "en": "Seven waterfalls and gorges of Savoie, from the Chartreuse to the Maurienne — access, timing and season, from official sources.",
+      "de": "Sieben Wasserfälle und Schluchten von Savoie, von der Chartreuse bis zur Maurienne - Zugang, Zeitpunkt und Jahreszeit, aus offiziellen Quellen.",
+      "it": "Sette cascate e gole di Savoie, dalla Chartreuse alla Maurienne — accesso, tempistica e stagione, da fonti ufficiali.",
+      "es": "Siete cascadas y gargantas de Savoie, desde el Chartreuse hasta el Maurienne: acceso, tiempo y estación, desde fuentes oficiales.",
+      "nl": "Zeven watervallen en kloven van Savoie, van de Chartreuse tot de Maurienne toegang, timing en seizoen, van officiële bronnen."
+    },
+    "answer": {
+      "fr": "La plupart des cascades sont en accès libre ; seul le Cirque de Saint-Même a un parking payant en saison. Les gorges du Sierroz se parcourent sur passerelles, la cascade de Saint-Benoît borde la route des forts de l'Esseillon.",
+      "en": "Most waterfalls are free to access; only the Cirque de Saint-Même has paid parking in season. The gorges du Sierroz run along footbridges, and the cascade de Saint-Benoît lines the Esseillon forts road.",
+      "de": "Die meisten Wasserfälle sind frei zugänglich; nur der Cirque de Saint-Même hat in der Saison Parkplätze bezahlt. Die gorges du Sierroz verläuft entlang von Fußgängerbrücken, und die Cascade de Saint-Benoît säumt die Esseillon Forts Road.",
+      "it": "La maggior parte delle cascate sono libere di accesso; solo l'Cirque de Saint-Même ha pagato il parcheggio in stagione. L'gorges du Sierroz corre lungo le passerelle, e la cascata di Saint-Benoît linee la strada forts Esseillon.",
+      "es": "La mayoría de las cascadas son libres de acceso; sólo el Cirque de Saint-Même ha pagado estacionamiento en temporada. El gorges du Sierroz corre a lo largo de las pasarelas, y la cascada de Saint-Benoît bordea la carretera de fuertes Esseillon.",
+      "nl": "De meeste watervallen zijn gratis toegankelijk; alleen de Cirque de Saint-Même heeft betaald parkeren in het seizoen. De gorges du Sierroz loopt langs voetbruggen en de cascade de Saint-Benoît loopt langs de Esseillon fortenweg."
+    },
+    "pills": {
+      "fr": [
+        "6 en accès libre",
+        "1 parking payant",
+        "Chartreuse · Bauges · Maurienne"
+      ],
+      "en": [
+        "6 free access",
+        "1 paid parking",
+        "Chartreuse · Bauges · Maurienne"
+      ],
+      "de": [
+        "6 freier Zugang",
+        "1 bezahlter Parkplatz",
+        "Chartreuse · Bauges · Maurienne"
+      ],
+      "it": [
+        "6 accesso gratuito",
+        "1 parcheggio a pagamento",
+        "Chartreuse · Bauges · Maurienne"
+      ],
+      "es": [
+        "6 acceso gratuito",
+        "1 estacionamiento pagado",
+        "Chartreuse · Bauges · Maurienne"
+      ],
+      "nl": [
+        "6 vrije toegang",
+        "1 betaalde parkeerplaats",
+        "Chartreuse · Bauges · Maurienne"
+      ]
+    },
+    "facts_shown": [
+      {
+        "field": "access",
+        "mode": "always"
+      },
+      {
+        "field": "best_season",
+        "mode": "if_present"
+      }
+    ],
+    "buckets": [
+      {
+        "key": "libre",
+        "color": "#2e9c5a",
+        "label": {
+          "fr": "Accès libre",
+          "en": "Free access",
+          "de": "Freier Zugang",
+          "it": "Accesso gratuito",
+          "es": "Acceso gratuito",
+          "nl": "Vrije toegang"
+        }
+      },
+      {
+        "key": "parking-payant",
+        "color": "#c98a1f",
+        "label": {
+          "fr": "Parking payant en saison",
+          "en": "Paid parking in season",
+          "de": "Bezahlte Parkplätze in der Saison",
+          "it": "Parcheggio a pagamento in stagione",
+          "es": "Estacionamiento pagado en temporada",
+          "nl": "Betaald parkeren in het seizoen"
+        }
+      }
+    ],
+    "members": [
+      {
+        "slug": "cascade-de-la-fraiche",
+        "bucket": "libre"
+      },
+      {
+        "slug": "cascade-du-morel",
+        "bucket": "libre"
+      },
+      {
+        "slug": "cascade-de-saint-benoit",
+        "bucket": "libre"
+      },
+      {
+        "slug": "grande-cascade-de-la-doria",
+        "bucket": "libre"
+      },
+      {
+        "slug": "gorges-du-sierroz-cascade-de-gresy",
+        "bucket": "libre"
+      },
+      {
+        "slug": "cascade-du-pissieu",
+        "bucket": "libre"
+      },
+      {
+        "slug": "cirque-de-saint-meme",
+        "bucket": "parking-payant"
+      }
+    ],
+    "faq": [
+      {
+        "q": {
+          "fr": "Quelle cascade voir près de Chambéry ?",
+          "en": "Which waterfall to see near Chambéry?",
+          "de": "Welchen Wasserfall in der Nähe von Chambéry zu sehen?",
+          "it": "Quale cascata da vedere vicino a Chambéry?",
+          "es": "¿Qué cascada para ver cerca de Chambéry?",
+          "nl": "Welke waterval te zien bij Chambéry?"
+        },
+        "a": {
+          "fr": "La grande cascade de la Doria domine Chambéry par une boucle courte, et les gorges du Sierroz à Grésy-sur-Aix se parcourent sur passerelles — les deux sont proches de la ville.",
+          "en": "The grande cascade de la Doria overlooks Chambéry via a short loop, and the gorges du Sierroz at Grésy-sur-Aix run along footbridges — both are close to the city.",
+          "de": "Die Grande Cascade de la Doria überblickt Chambéry über eine kurze Schleife, und die gorges du Sierroz in Grésy-sur-Aix verläuft entlang von Fußgängerbrücken - beide sind in der Nähe der Stadt.",
+          "it": "La grande cascata de la Doria si affaccia su Chambéry attraverso un breve loop, e la gorges du Sierroz a Grésy-sur-Aix corre lungo le passerelle — entrambi sono vicini alla città.",
+          "es": "La gran cascada de la Doria tiene vistas a Chambéry a través de un bucle corto, y el gorges du Sierroz en Grésy-sur-Aix corre a lo largo de las pasarelas — ambos están cerca de la ciudad.",
+          "nl": "De grande cascade de la Doria kijkt uit over Chambéry via een korte lus, en de gorges du Sierroz op Grésy-sur-Aix lopen langs de voetgangersbruggen."
+        }
+      },
+      {
+        "q": {
+          "fr": "Les cascades sont-elles gratuites ?",
+          "en": "Are the waterfalls free?",
+          "de": "Sind die Wasserfälle frei?",
+          "it": "Le cascate sono libere?",
+          "es": "¿Las cascadas son libres?",
+          "nl": "Zijn de watervallen vrij?"
+        },
+        "a": {
+          "fr": "Six des sept sont en accès libre. Seul le Cirque de Saint-Même a un parking payant en saison ; l'accès au site lui-même reste libre.",
+          "en": "Six of the seven are free. Only the Cirque de Saint-Même has paid parking in season; access to the site itself stays free.",
+          "de": "Sechs der sieben sind frei. Nur der Cirque de Saint-Même hat in der Saison bezahlte Parkplätze; Der Zugang zur Website selbst bleibt frei.",
+          "it": "Sei dei sette sono liberi. Solo l'Cirque de Saint-Même ha pagato il parcheggio in stagione; l'accesso al sito stesso rimane libero.",
+          "es": "Seis de los siete son libres. Sólo el Cirque de Saint-Même ha pagado estacionamiento en temporada; el acceso al sitio en sí permanece libre.",
+          "nl": "Zes van de zeven zijn vrij. Alleen de Cirque de Saint-Même heeft betaald parkeren in het seizoen; toegang tot de site zelf blijft gratis."
+        }
+      },
+      {
+        "q": {
+          "fr": "Peut-on y aller en famille ?",
+          "en": "Can you go with children?",
+          "de": "Kannst du mit Kindern gehen?",
+          "it": "Puoi andare con i bambini?",
+          "es": "¿Puedes ir con niños?",
+          "nl": "Kun je met kinderen gaan?"
+        },
+        "a": {
+          "fr": "Les gorges du Sierroz et plusieurs boucles courtes conviennent aux familles ; d'autres sentiers de cascade demandent plus de prudence. Chaque fiche donne la durée et le dénivelé.",
+          "en": "The gorges du Sierroz and several short loops suit families; other waterfall trails need more care. Each page gives the timing and elevation.",
+          "de": "Die gorges du Sierroz und mehrere kurze Schleifen passen Familien; andere Wasserfallwege brauchen mehr Pflege. Jede Seite gibt das Timing und die Höhe an.",
+          "it": "L'gorges du Sierroz e diversi cappi corti si adattano alle famiglie; altri sentieri a cascata hanno bisogno di più cura. Ogni pagina dà la tempistica e l'altezza.",
+          "es": "El gorges du Sierroz y varios bucles cortos se adaptan a las familias; otros senderos de cascada necesitan más cuidado. Cada página da el momento y la elevación.",
+          "nl": "De gorges du Sierroz en verschillende korte loops passen bij families; andere watervalpaden hebben meer zorg nodig. Elke pagina geeft de timing en hoogte."
+        }
+      }
+    ],
+    "footer_note": {
+      "fr": "Données issues des fiches (accès, durée des boucles) vérifiées aux offices de tourisme et au Parc naturel régional des Bauges.",
+      "en": "Data from the pages (access, loop times) verified with the tourist offices and the Parc naturel régional des Bauges.",
+      "de": "Daten aus den Seiten (Zugang, Schleifenzeiten), die mit den Tourismusbüros und dem Parc naturel régional des Bauges verifiziert wurden.",
+      "it": "Dati delle pagine (accesso, tempi di ciclo) verificati con gli uffici turistici e il Parc naturel régional des Bauges.",
+      "es": "Datos de las páginas (acceso, tiempos de bucle) verificados con las oficinas turísticas y el Parc naturel régional des Bauges.",
+      "nl": "Gegevens van de pagina's (toegang, lustijden) geverifieerd bij de VVV en het Parc naturel régional des Bauges."
+    }
+  },
+  {
+    "slug": "que-faire-quand-il-pleut-savoie",
+    "category_hub": "musees",
+    "map": false,
+    "kicker": {
+      "fr": "Loisirs 73 · Sorties au sec",
+      "en": "Loisirs 73 · Indoor outings",
+      "de": "Loisirs 73 · Innenausflüge",
+      "it": "Loisirs 73 · Interni",
+      "es": "Loisirs 73 · Salidas interiores",
+      "nl": "Loisirs 73 · Uitstapjes binnen"
+    },
+    "title": {
+      "fr": "Que faire quand il pleut en Savoie ? Sorties au sec — loisirs73",
+      "en": "What to do when it rains in Savoie? Indoor outings — loisirs73",
+      "de": "Was tun, wenn es in Savoie regnet? Indoor-Ausflüge — loisirs73",
+      "it": "Cosa fare quando piove in Savoie? Giri per interni — loisirs73",
+      "es": "¿Qué hacer cuando llueve en Savoie? Salidas interiores — loisirs73",
+      "nl": "Wat te doen als het regent in Savoie? Indoor-uitjes loisirs73"
+    },
+    "description": {
+      "fr": "Musées et châteaux à visiter en Savoie quand il pleut : intérieurs, horaires et tarifs 2026, aux sources officielles.",
+      "en": "Museums and castles to visit in Savoie when it rains: interiors, 2026 hours and prices, from official sources.",
+      "de": "Museen und Schlösser in Savoie zu besuchen, wenn es regnet: Interieurs, 2026 Stunden und Preise, aus offiziellen Quellen.",
+      "it": "Musei e castelli da visitare a Savoie quando piove: interni, 2026 ore e prezzi, da fonti ufficiali.",
+      "es": "Museos y castillos para visitar en Savoie cuando llueve: interiores, 2026 horas y precios, de fuentes oficiales.",
+      "nl": "Musea en kastelen te bezoeken in Savoie als het regent: interieur, 2026 uur en prijzen, uit officiële bronnen."
+    },
+    "h1": {
+      "fr": "Que faire quand il pleut en Savoie ?",
+      "en": "What to do when it rains in Savoie?",
+      "de": "Was tun, wenn es in Savoie regnet?",
+      "it": "Cosa fare quando piove in Savoie?",
+      "es": "¿Qué hacer cuando llueve en Savoie?",
+      "nl": "Wat te doen als het regent in Savoie?"
+    },
+    "lead": {
+      "fr": "Des sorties au sec en Savoie : musées et châteaux à visite intérieure, horaires et tarifs 2026 vérifiés.",
+      "en": "Indoor outings in Savoie: museums and castles with interior visits, 2026 hours and prices verified.",
+      "de": "Indoor-Ausflüge in Savoie: Museen und Schlösser mit Innenbesuchen, 2026 Stunden und Preise überprüft.",
+      "it": "Gite indoor in Savoie: musei e castelli con visite interne, 2026 ore e prezzi verificati.",
+      "es": "Paseos en interior en Savoie: museos y castillos con visitas interiores, 2026 horas y precios verificados.",
+      "nl": "Indoor-uitjes in Savoie: musea en kastelen met interieurbezoeken, 2026 uur en prijzen geverifieerd."
+    },
+    "answer": {
+      "fr": "Quand la pluie s'installe, la Savoie a ses intérieurs : sept musées (Savoisien et Beaux-Arts à Chambéry, Opinel, Espace Alu, l'Ours des Cavernes, Tremplin 92, Les Charmettes) et des châteaux qui se visitent de l'intérieur (ducs de Savoie, Miolans, Redoute Marie-Thérèse).",
+      "en": "When the rain sets in, Savoie has its interiors: seven museums (Savoisien and Beaux-Arts in Chambéry, Opinel, Espace Alu, the Cave Bear museum, Tremplin 92, Les Charmettes) and castles you visit inside (dukes of Savoie, Miolans, Redoute Marie-Thérèse).",
+      "de": "Wenn der Regen einsetzt, hat Savoie seine Innenräume: sieben Museen (Savoisien und Beaux-Arts in Chambéry, Opinel, Espace Alu, das Höhlenbärenmuseum, Tremplin 92, Les Charmettes) und Schlösser, die Sie im Inneren besuchen (Herzöge von Savoie, Miolans, Redoute Marie-Thérèse).",
+      "it": "Quando la pioggia entra, Savoie ha i suoi interni: sette musei (Savoisien e Beaux-Arts in Chambéry, Opinel, Espace Alu, il museo Cave Bear, Tremplin 92, Les Charmettes) e castelli si visita all'interno (duchi di Savoie, Miolans, Redoute Marie-Thérèse).",
+      "es": "Cuando la lluvia entra, Savoie tiene sus interiores: siete museos (Savoisien y Beaux-Arts en Chambéry, Opinel, Espace Alu, el Museo del Oso de Cueva, Tremplin 92, Les Charmettes) y castillos que visita dentro (dukes de Savoie, Miolans, Redoute Marie-Thérèse).",
+      "nl": "Wanneer het regent, heeft Savoie zijn interieur: zeven musea (Savoisien en Beaux-Arts in Chambéry, Opinel, Espace Alu, het Cave Bear museum, Tremplin 92, Les Charmettes) en kastelen die je binnen bezoekt (dukes van Savoie, Miolans, Redoute Marie-Thérèse)."
+    },
+    "pills": {
+      "fr": [
+        "7 musées",
+        "3 châteaux à visiter",
+        "Horaires & tarifs 2026"
+      ],
+      "en": [
+        "7 museums",
+        "3 castles to tour",
+        "2026 hours & prices"
+      ],
+      "de": [
+        "7 Museen",
+        "3 Schlösser auf Tour",
+        "2026 Stunden & Preise"
+      ],
+      "it": [
+        "7 musei",
+        "3 castelli da visitare",
+        "2026 ore e prezzi"
+      ],
+      "es": [
+        "7 museos",
+        "3 castillos para visitar",
+        "2026 horas &amp; precios"
+      ],
+      "nl": [
+        "7 musea",
+        "3 kastelen to tour",
+        "2026 uur & prijzen"
+      ]
+    },
+    "facts_shown": [
+      {
+        "field": "access",
+        "mode": "always"
+      },
+      {
+        "field": "best_season",
+        "mode": "if_present"
+      }
+    ],
+    "buckets": [
+      {
+        "key": "musees",
+        "color": "#1c5f78",
+        "label": {
+          "fr": "Musées",
+          "en": "Museums",
+          "de": "Museen",
+          "it": "Musei",
+          "es": "Museos",
+          "nl": "Musea"
+        }
+      },
+      {
+        "key": "chateaux",
+        "color": "#8a5a2b",
+        "label": {
+          "fr": "Châteaux à visiter",
+          "en": "Castles to tour",
+          "de": "Schlösser auf Tour",
+          "it": "Castelli da visitare",
+          "es": "Castillos para visitar",
+          "nl": "Kastelen to tour"
+        }
+      }
+    ],
+    "members": [
+      {
+        "slug": "musee-savoisien-chambery",
+        "bucket": "musees"
+      },
+      {
+        "slug": "musee-des-beaux-arts-chambery",
+        "bucket": "musees"
+      },
+      {
+        "slug": "les-charmettes-maison-jean-jacques-rousseau-chambery",
+        "bucket": "musees"
+      },
+      {
+        "slug": "musee-opinel-saint-jean-de-maurienne",
+        "bucket": "musees"
+      },
+      {
+        "slug": "espace-alu-saint-michel-de-maurienne",
+        "bucket": "musees"
+      },
+      {
+        "slug": "musee-ours-des-cavernes-entremont-le-vieux",
+        "bucket": "musees"
+      },
+      {
+        "slug": "tremplin-92-maison-des-jeux-olympiques-albertville",
+        "bucket": "musees"
+      },
+      {
+        "slug": "chateau-des-ducs-de-savoie-chambery",
+        "bucket": "chateaux"
+      },
+      {
+        "slug": "chateau-de-miolans-saint-pierre-d-albigny",
+        "bucket": "chateaux"
+      },
+      {
+        "slug": "redoute-marie-therese-avrieux",
+        "bucket": "chateaux"
+      }
+    ],
+    "faq": [
+      {
+        "q": {
+          "fr": "Que faire à Chambéry quand il pleut ?",
+          "en": "What to do in Chambéry when it rains?",
+          "de": "Was tun in Chambéry, wenn es regnet?",
+          "it": "Cosa fare a Chambéry quando piove?",
+          "es": "¿Qué hacer en Chambéry cuando llueva?",
+          "nl": "Wat te doen in Chambéry als het regent?"
+        },
+        "a": {
+          "fr": "Le Musée Savoisien (gratuit) et le musée des Beaux-Arts (collections gratuites), la maison de Rousseau aux Charmettes, et la visite guidée du château des ducs de Savoie sont tous à l'abri.",
+          "en": "The Musée Savoisien (free) and the fine-arts museum (free collections), Rousseau's house at Les Charmettes, and the guided tour of the dukes' castle are all under cover.",
+          "de": "Das Musée Savoisien (kostenlos) und das Kunstmuseum (kostenlose Sammlungen), das Haus von Rousseau in Les Charmettes und die Führung durch das Schloss der Herzöge sind alle unter Deck.",
+          "it": "Il Musée Savoisien (gratuito) e il museo d'arte (collezioni gratuite), la casa di Rousseau a Les Charmettes, e la visita guidata del castello dei duchi sono tutti coperti.",
+          "es": "El Musée Savoisien (gratuito) y el museo de bellas artes (libre de colecciones), la casa de Rousseau en Les Charmettes, y la visita guiada del castillo de duques están bajo cubierta.",
+          "nl": "Het Musée Savoisien (gratis) en het kunstmuseum (gratis collecties), het huis van Rousseau in Les Charmettes, en de rondleiding door het kasteel van de hertogen zijn allemaal gedekt."
+        }
+      },
+      {
+        "q": {
+          "fr": "Quels musées sont gratuits ?",
+          "en": "Which museums are free?",
+          "de": "Welche Museen sind kostenlos?",
+          "it": "Quali musei sono gratuiti?",
+          "es": "¿Qué museos son gratuitos?",
+          "nl": "Welke musea zijn gratis?"
+        },
+        "a": {
+          "fr": "Le Musée Savoisien, les collections permanentes du musée des Beaux-Arts, Les Charmettes et le musée Opinel sont gratuits ; l'Espace Alu, l'Ours des Cavernes et Tremplin 92 sont payants.",
+          "en": "The Musée Savoisien, the fine-arts museum's permanent collections, Les Charmettes and the Opinel museum are free; the Espace Alu, the Cave Bear museum and Tremplin 92 charge.",
+          "de": "Das Musée Savoisien, die ständigen Sammlungen des Kunstmuseums, Les Charmettes und das Opinel-Museum sind kostenlos; das Espace Alu, das Cave Bear Museum und Tremplin 92 sind kostenlos.",
+          "it": "Il Musée Savoisien, le collezioni permanenti del museo, Les Charmettes e il museo Opinel sono gratuiti; il museo Espace Alu, il museo Cave Bear e la carica Tremplin 92.",
+          "es": "El Musée Savoisien, las colecciones permanentes del museo de artes finas, Les Charmettes y el museo Opinel son gratuitos; el Espace Alu, el museo del oso de Cueva y Tremplin 92.",
+          "nl": "Het Musée Savoisien, de permanente collecties van het kunstmuseum, Les Charmettes en het Opinel museum zijn gratis; de Espace Alu, het Cave Bear museum en Tremplin 92 kosten."
+        }
+      },
+      {
+        "q": {
+          "fr": "Peut-on visiter un château sous la pluie ?",
+          "en": "Can you tour a castle in the rain?",
+          "de": "Kannst du eine Burg im Regen besichtigen?",
+          "it": "Puoi visitare un castello sotto la pioggia?",
+          "es": "¿Puedes recorrer un castillo bajo la lluvia?",
+          "nl": "Kun je een kasteel rondtoeren in de regen?"
+        },
+        "a": {
+          "fr": "Oui : le château des ducs de Savoie (visite guidée), le château de Miolans et la Redoute Marie-Thérèse se visitent de l'intérieur. Les horaires saisonniers figurent sur chaque fiche.",
+          "en": "Yes: the dukes' castle (guided tour), the château de Miolans and the Redoute Marie-Thérèse are visited inside. Seasonal hours are on each page.",
+          "de": "Ja: das Schloss der Herzöge (geführte Tour), das Schloss de Miolans und das Redoute Marie-Thérèse werden im Inneren besucht. Saisonzeiten sind auf jeder Seite.",
+          "it": "Sì: il castello dei duchi (visita guidata), il castello di Miolans e l'Redoute Marie-Thérèse sono visitati all'interno. Le ore stagionali sono in ogni pagina.",
+          "es": "Sí: el castillo de los duques, el castillo de Miolans y el Redoute Marie-Thérèse son visitados dentro. Las horas de temporada están en cada página.",
+          "nl": "Ja: het kasteel van de hertogen (rondleiding), het château de Miolans en de Redoute Marie-Thérèse zijn binnen bezocht. Seizoensuren staan op elke pagina."
+        }
+      }
+    ],
+    "footer_note": {
+      "fr": "Sélection des lieux à visite intérieure ; horaires et tarifs 2026 tels que publiés par chaque établissement.",
+      "en": "Selection of places with interior visits; 2026 hours and prices as published by each venue.",
+      "de": "Auswahl von Orten mit Innenbesuchen; 2026 Stunden und Preise, wie von jedem Veranstaltungsort veröffentlicht.",
+      "it": "Selezione di luoghi con visite interne; 2026 ore e prezzi come pubblicato da ogni sede.",
+      "es": "Selección de lugares con visitas al interior; 2026 horas y precios publicados por cada lugar.",
+      "nl": "Selectie van plaatsen met interieurbezoeken; 2026 uur en prijzen zoals gepubliceerd door elke locatie."
+    }
+  },
+  {
+    "slug": "sorties-famille-savoie",
+    "category_hub": "que-faire",
+    "map": false,
+    "kicker": {
+      "fr": "Loisirs 73 · En famille",
+      "en": "Loisirs 73 · With the family",
+      "de": "Loisirs 73 · Mit der Familie",
+      "it": "Loisirs 73 · Con la famiglia",
+      "es": "Loisirs 73 · Con la familia",
+      "nl": "Loisirs 73 · Met de familie"
+    },
+    "title": {
+      "fr": "Sorties en famille avec enfants en Savoie — loisirs73",
+      "en": "Family outings with children in Savoie — loisirs73",
+      "de": "Familienausflüge mit Kindern in Savoie — loisirs73",
+      "it": "Gite familiari con bambini in Savoie — loisirs73",
+      "es": "Salidas familiares con niños en Savoie — loisirs73",
+      "nl": "Familie-uitjes met kinderen in Savoie"
+    },
+    "description": {
+      "fr": "Des sorties en famille en Savoie : baignades, musées ludiques, promenades faciles — accès et infos vérifiés aux sources officielles.",
+      "en": "Family outings in Savoie: swimming, hands-on museums, easy walks — access and details verified against official sources.",
+      "de": "Familienausflüge in Savoie: Schwimmen, praktische Museen, leichte Spaziergänge - Zugang und Details, die mit offiziellen Quellen verglichen werden.",
+      "it": "Gite di famiglia in Savoie: nuoto, musei hands-on, passeggiate facili — accesso e dettagli verificati contro fonti ufficiali.",
+      "es": "Salidas familiares en Savoie: natación, museos prácticos, paseos fáciles — acceso y detalles verificados contra fuentes oficiales.",
+      "nl": "Familie-uitjes in Savoie: zwemmen, hands-on musea, gemakkelijke wandelingen en toegang en gegevens geverifieerd tegen officiële bronnen."
+    },
+    "h1": {
+      "fr": "Sorties en famille en Savoie",
+      "en": "Family outings in Savoie",
+      "de": "Familienausflüge in Savoie",
+      "it": "Gite di famiglia in Savoie",
+      "es": "Salidas familiares en Savoie",
+      "nl": "Familieuitjes in Savoie"
+    },
+    "lead": {
+      "fr": "Une sélection famille en Savoie : baignades surveillées, musées ludiques et promenades faciles, transversale aux catégories.",
+      "en": "A family selection in Savoie: supervised swimming, hands-on museums and easy walks, cutting across categories.",
+      "de": "Eine Familienauswahl in Savoie: beaufsichtigtes Schwimmen, praktische Museen und leichte Spaziergänge, über Kategorien hinweg.",
+      "it": "Una selezione familiare in Savoie: nuoto supervisionato, musei hands-on e passeggiate facili, tagliando tra le categorie.",
+      "es": "Una selección familiar en Savoie: natación supervisada, museos prácticos y paseos fáciles, cortando categorías.",
+      "nl": "Een gezinskeuze in Savoie: onder toezicht zwemmen, hands-on musea en eenvoudige wandelingen, snijden over categorieën."
+    },
+    "answer": {
+      "fr": "Pour les enfants : la baignade surveillée d'Aix-les-Bains et de Grésy-sur-Isère, le musée de l'Ours des Cavernes et Tremplin 92, le sentier d'art d'Hautecour, les gorges du Sierroz sur passerelles et le chemin lacustre du lac du Bourget, plat et accessible.",
+      "en": "For children: supervised swimming at Aix-les-Bains and Grésy-sur-Isère, the Cave Bear museum and Tremplin 92, the Hautecour art trail, the gorges du Sierroz on footbridges and the flat, accessible lakeside path of the lac du Bourget.",
+      "de": "Für Kinder: beaufsichtigtes Schwimmen bei Aix-les-Bains und Grésy-sur-Isère, das Höhlenbärenmuseum und Tremplin 92, der Hautecour-Kunstpfad, der gorges du Sierroz auf Fußgängerbrücken und der flache, zugängliche Seepfad des lac du Bourget.",
+      "it": "Per i bambini: nuoto supervisionato a Aix-les-Bains e Grésy-sur-Isère, il museo Cave Bear e Tremplin 92, il percorso di arte Hautecour, il gorges du Sierroz sulle passerelle e il percorso lacustre piatto e accessibile della lac du Bourget.",
+      "es": "Para niños: natación supervisada en Aix-les-Bains y Grésy-sur-Isère, el museo del oso de Cueva y Tremplin 92, el sendero de arte Hautecour, el gorges du Sierroz en las pasarelas y el camino plano y accesible junto al lago de la lac du Bourget.",
+      "nl": "Voor kinderen: onder toezicht zwemmen op Aix-les-Bains en Grésy-sur-Isère, het Cave Bear museum en Tremplin 92, de Hautecour kunstroute, de gorges du Sierroz op voetbruggen en het vlakke, toegankelijke pad langs het meer van de lac du Bourget."
+    },
+    "pills": {
+      "fr": [
+        "Baignade & plein air",
+        "Musées ludiques",
+        "Promenades faciles"
+      ],
+      "en": [
+        "Swimming & outdoors",
+        "Hands-on museums",
+        "Easy walks"
+      ],
+      "de": [
+        "Schwimmen und Outdoor",
+        "Hands-on Museen",
+        "Leichte Spaziergänge"
+      ],
+      "it": [
+        "Nuoto e all'aperto",
+        "Musei pratici",
+        "Passeggiate facili"
+      ],
+      "es": [
+        "Piscina al aire libre",
+        "Museos prácticos",
+        "Paseos fáciles"
+      ],
+      "nl": [
+        "Zwemmen & buiten",
+        "Hands-on musea",
+        "Gemakkelijke wandelingen"
+      ]
+    },
+    "facts_shown": [
+      {
+        "field": "access",
+        "mode": "always"
+      },
+      {
+        "field": "best_season",
+        "mode": "if_present"
+      }
+    ],
+    "buckets": [
+      {
+        "key": "plein-air",
+        "color": "#3d7a9e",
+        "label": {
+          "fr": "Baignade & plein air",
+          "en": "Swimming & outdoors",
+          "de": "Schwimmen und Outdoor",
+          "it": "Nuoto e all'aperto",
+          "es": "Piscina al aire libre",
+          "nl": "Zwemmen & buiten"
+        }
+      },
+      {
+        "key": "decouverte",
+        "color": "#1c5f78",
+        "label": {
+          "fr": "Musées & découverte",
+          "en": "Museums & discovery",
+          "de": "Museen & Entdeckungen",
+          "it": "Musei e scoperte",
+          "es": "Museos &quot; descubrimiento",
+          "nl": "Musea & ontdekking"
+        }
+      }
+    ],
+    "members": [
+      {
+        "slug": "plage-municipale-aix-les-bains-aqualac",
+        "bucket": "plein-air"
+      },
+      {
+        "slug": "base-de-loisirs-gresy-sur-isere",
+        "bucket": "plein-air"
+      },
+      {
+        "slug": "gorges-du-sierroz-cascade-de-gresy",
+        "bucket": "plein-air"
+      },
+      {
+        "slug": "chemin-lacustre-lac-du-bourget",
+        "bucket": "plein-air"
+      },
+      {
+        "slug": "sentier-artistique-hautecour",
+        "bucket": "plein-air"
+      },
+      {
+        "slug": "musee-ours-des-cavernes-entremont-le-vieux",
+        "bucket": "decouverte"
+      },
+      {
+        "slug": "tremplin-92-maison-des-jeux-olympiques-albertville",
+        "bucket": "decouverte"
+      },
+      {
+        "slug": "musee-opinel-saint-jean-de-maurienne",
+        "bucket": "decouverte"
+      }
+    ],
+    "faq": [
+      {
+        "q": {
+          "fr": "Quelle sortie en famille par beau temps en Savoie ?",
+          "en": "What family outing on a fine day in Savoie?",
+          "de": "Welcher Familienausflug an einem schönen Tag in Savoie?",
+          "it": "Che gita di famiglia in una bella giornata in Savoie?",
+          "es": "¿Qué salida familiar en un buen día en Savoie?",
+          "nl": "Welke familie uitje op een mooie dag in Savoie?"
+        },
+        "a": {
+          "fr": "La baignade surveillée d'Aix-les-Bains ou de Grésy-sur-Isère, les gorges du Sierroz sur passerelles, ou le chemin lacustre du lac du Bourget, plat et accessible aux poussettes.",
+          "en": "Supervised swimming at Aix-les-Bains or Grésy-sur-Isère, the gorges du Sierroz on footbridges, or the flat, pushchair-friendly lakeside path of the lac du Bourget.",
+          "de": "Beaufsichtigtes Schwimmen bei Aix-les-Bains oder Grésy-sur-Isère, dem gorges du Sierroz auf Fußgängerbrücken oder dem flachen, wagenfreundlichen Seepfad des lac du Bourget.",
+          "it": "Nuoto supervisionato a Aix-les-Bains o Grésy-sur-Isère, gorges du Sierroz sulle passerelle, o il percorso lacustre pianeggiante e ammissibile della lac du Bourget.",
+          "es": "Natación supervisada en Aix-les-Bains o Grésy-sur-Isère, el gorges du Sierroz en las pasarelas de pie, o la ruta plana y acogedora de la orilla del lago de lac du Bourget.",
+          "nl": "Overzicht zwemmen op Aix-les-Bains of Grésy-sur-Isère, de gorges du Sierroz op voetbruggen, of het vlakke, kinderwagenvriendelijke pad langs het meer van de lac du Bourget."
+        }
+      },
+      {
+        "q": {
+          "fr": "Et quand il pleut, avec des enfants ?",
+          "en": "And when it rains, with children?",
+          "de": "Und wenn es regnet, mit Kindern?",
+          "it": "E quando piove, con i bambini?",
+          "es": "¿Y cuando llueve, con niños?",
+          "nl": "En als het regent, met kinderen?"
+        },
+        "a": {
+          "fr": "Le musée de l'Ours des Cavernes à Entremont-le-Vieux, Tremplin 92 et ses modules interactifs à Albertville, ou le musée Opinel à Saint-Jean-de-Maurienne.",
+          "en": "The Cave Bear museum at Entremont-le-Vieux, Tremplin 92 and its interactive modules in Albertville, or the Opinel museum at Saint-Jean-de-Maurienne.",
+          "de": "Das Höhlenbärenmuseum in Entremont-le-Vieux, Tremplin 92 und seine interaktiven Module in Albertville oder das Opinel-Museum in Saint-Jean-de-Maurienne.",
+          "it": "Il museo Cave Bear di Entremont-le-Vieux, Tremplin 92 e i suoi moduli interattivi in Albertville, o il museo Opinel a Saint-Jean-de-Maurienne.",
+          "es": "El museo del oso de la cueva en Entremont-le-Vieux, Tremplin 92 y sus módulos interactivos en Albertville, o el museo Opinel en Saint-Jean-de-Maurienne.",
+          "nl": "Het Cave Bear museum in Entremont-le-Vieux, Tremplin 92 en zijn interactieve modules in Albertville, of het Opinel museum in Saint-Jean-de-Maurienne."
+        }
+      },
+      {
+        "q": {
+          "fr": "Y a-t-il des balades adaptées aux poussettes ?",
+          "en": "Are there pushchair-friendly walks?",
+          "de": "Gibt es Pushchair-freundliche Spaziergänge?",
+          "it": "Ci sono passeggiate a passeggio?",
+          "es": "¿Hay paseos para sillas?",
+          "nl": "Zijn er kinderwagen-vriendelijke wandelingen?"
+        },
+        "a": {
+          "fr": "Le chemin lacustre du lac du Bourget est plat et accessible ; le sentier artistique d'Hautecour propose une variante « Promenade Confort » de 700 m.",
+          "en": "The lac du Bourget lakeside path is flat and accessible; the Hautecour art trail offers a 700 m 'Promenade Confort' variant.",
+          "de": "Der lac du Bourget Seeuferweg ist flach und zugänglich; Der Hautecour Kunstweg bietet eine 700 m lange \"Promenade Confort\" -Variante.",
+          "it": "Il sentiero lungo il lago lac du Bourget è pianeggiante e accessibile; il sentiero Hautecour offre una variante 'Promenade Confort' di 700 m.",
+          "es": "El sendero lac du Bourget junto al lago es plano y accesible; el sendero de arte Hautecour ofrece una variante de 700 m 'Promenade Confort'.",
+          "nl": "Het pad aan het lac du Bourget-meer is vlak en toegankelijk; het kunstpad Hautecour biedt een variant van 700 m 'Promenade Confort'."
+        }
+      }
+    ],
+    "footer_note": {
+      "fr": "Sélection transversale famille ; accès et durées tels que publiés par les sources officielles de chaque lieu.",
+      "en": "A cross-category family selection; access and timings as published by each place's official sources.",
+      "de": "Eine kategorienübergreifende Familienauswahl; Zugriff und Timings, wie von den offiziellen Quellen jedes Ortes veröffentlicht.",
+      "it": "Una selezione di famiglia trasversale; accesso e tempistica come pubblicato da fonti ufficiali di ogni luogo.",
+      "es": "Una selección familiar multicategoría; acceso y calendarios publicados por las fuentes oficiales de cada lugar.",
+      "nl": "Een categorieoverschrijdende gezinsselectie; toegang en tijdstippen zoals gepubliceerd door de officiële bronnen van elke plaats."
+    }
+  },
+  {
+    "slug": "cols-de-savoie",
+    "category_hub": "points-de-vue",
+    "map": true,
+    "kicker": {
+      "fr": "Loisirs 73 · Cols de Savoie",
+      "en": "Loisirs 73 · Savoie mountain passes",
+      "de": "Loisirs 73 · Savoie Gebirgspässe",
+      "it": "Loisirs 73 · Savoie",
+      "es": "Loisirs 73 · Savoie pases de montaña",
+      "nl": "Loisirs 73 · Savoie bergpassen"
+    },
+    "title": {
+      "fr": "Cols de Savoie : lesquels découvrir ? Tarentaise, Maurienne, Beaufortain — loisirs73",
+      "en": "Savoie mountain passes: which to discover? Tarentaise, Maurienne, Beaufortain — loisirs73",
+      "de": "Savoie Bergpässe: was zu entdecken? Tarentaise, Maurienne, Beaufortain — loisirs73",
+      "it": "Passi di montagna Savoie: che scoprire? Tarentaise, Maurienne, Beaufortain — loisirs73",
+      "es": "Pasos de montaña Savoie: ¿qué descubrir? Tarentaise, Maurienne, Beaufortain — loisirs73",
+      "nl": "Savoie bergpassen: welke te ontdekken? Tarentaise, Maurienne, Beaufortain"
+    },
+    "description": {
+      "fr": "Les grands cols routiers de Savoie par vallée : ouverture, altitude et saison, vérifiés aux sources officielles.",
+      "en": "Savoie's great road passes by valley: opening, altitude and season, verified against official sources.",
+      "de": "Die große Straße von Savoie führt durch das Tal: Öffnung, Höhe und Jahreszeit, verifiziert gegen offizielle Quellen.",
+      "it": "La grande strada di Savoie passa per valle: apertura, altitudine e stagione, verificata contro fonti ufficiali.",
+      "es": "La gran carretera de Savoie pasa por el valle: apertura, altitud y estación, verificada contra fuentes oficiales.",
+      "nl": "Savoie's geweldige wegpasjes door de vallei: opening, hoogte en seizoen, geverifieerd aan officiële bronnen."
+    },
+    "h1": {
+      "fr": "Cols de Savoie : lesquels découvrir ?",
+      "en": "Savoie mountain passes: which to discover?",
+      "de": "Savoie Bergpässe: was zu entdecken?",
+      "it": "Passi di montagna Savoie: che scoprire?",
+      "es": "Pases de montaña Savoie: ¿qué descubrir?",
+      "nl": "Savoie bergpassen: welke te ontdekken?"
+    },
+    "lead": {
+      "fr": "Les cols routiers de Savoie, classés par vallée — Tarentaise, Maurienne, Beaufortain. Ouverture et saison aux sources officielles.",
+      "en": "Savoie's road passes, grouped by valley — Tarentaise, Maurienne, Beaufortain. Opening and season from official sources.",
+      "de": "Savoie Straßenpässe, gruppiert nach Tal — Tarentaise, Maurienne, Beaufortain. Eröffnung und Saison aus offiziellen Quellen.",
+      "it": "Passaggi stradali di Savoie, raggruppati per valle — Tarentaise, Maurienne, Beaufortain. Apertura e stagione da fonti ufficiali.",
+      "es": "Pasos de Savoie, agrupados por valle — Tarentaise, Maurienne, Beaufortain. Apertura y estación de fuentes oficiales.",
+      "nl": "Savoie's wegpasjes, gegroepeerd door vallei Tarentaise, Maurienne, Beaufortain. Opening en seizoen uit officiële bronnen."
+    },
+    "answer": {
+      "fr": "La Savoie aligne quelques-uns des plus hauts cols routiers des Alpes : l'Iseran, le Galibier, le Mont-Cenis, la Madeleine, le Glandon, la Croix de Fer, le Petit-Saint-Bernard, le cormet de Roselend et les Saisies. La plupart ferment l'hiver ; chaque fiche donne la période d'ouverture.",
+      "en": "Savoie lines up some of the highest road passes in the Alps: the Iseran, the Galibier, the Mont-Cenis, the Madeleine, the Glandon, the Croix de Fer, the Petit-Saint-Bernard, the cormet de Roselend and the Saisies. Most close in winter; each page gives the opening period.",
+      "de": "Savoie stellt einige der höchsten Straßenpässe der Alpen auf: die Iseran, die Galibier, die Mont-Cenis, die Madeleine, die Glandon, die Croix de Fer, die Petit-Saint-Bernard, die cormet de Roselend und die Saisies. Am dichtesten im Winter; jede Seite gibt die Öffnungsperiode an.",
+      "it": "Savoie traccia alcune delle vie più alte delle Alpi: Iseran, Galibier, Mont-Cenis, Madeleine, Glandon, Croix de Fer, Petit-Saint-Bernard, cormet de Roselend e Saisies. Il più vicino in inverno; ogni pagina dà il periodo di apertura.",
+      "es": "Savoie alinea algunos de los más altos pases de carretera en los Alpes: el Iseran, el Galibier, el Mont-Cenis, la Madeleine, el Glandon, el Croix de Fer, el Petit-Saint-Bernard, el cormet de Roselend y los Saisies. Más cerca en invierno; cada página da el período de apertura.",
+      "nl": "Savoie vormt enkele van de hoogste wegen in de Alpen: de Iseran, de Galibier, de Mont-Cenis, de Madeleine, de Glandon, de Croix de Fer, de Petit-Saint-Bernard, de cormet de Roselend en de Saisies. Meest dicht in de winter; elke pagina geeft de openingsperiode."
+    },
+    "pills": {
+      "fr": [
+        "Tarentaise · Maurienne · Beaufortain",
+        "Ouverture & saison",
+        "Accès libre"
+      ],
+      "en": [
+        "Tarentaise · Maurienne · Beaufortain",
+        "Opening & season",
+        "Free access"
+      ],
+      "de": [
+        "Tarentaise · Maurienne · Beaufortain",
+        "Eröffnung & Saison",
+        "Freier Zugang"
+      ],
+      "it": [
+        "Tarentaise · Maurienne · Beaufortain",
+        "Apertura e stagione",
+        "Accesso gratuito"
+      ],
+      "es": [
+        "Tarentaise · Maurienne · Beaufortain",
+        "Temporada de apertura",
+        "Acceso gratuito"
+      ],
+      "nl": [
+        "Tarentaise · Maurienne · Beaufortain",
+        "Opening & seizoen",
+        "Vrije toegang"
+      ]
+    },
+    "facts_shown": [
+      {
+        "field": "access",
+        "mode": "always"
+      },
+      {
+        "field": "best_season",
+        "mode": "if_present"
+      }
+    ],
+    "buckets": [
+      {
+        "key": "tarentaise",
+        "color": "#1c5f78",
+        "label": {
+          "fr": "Tarentaise & Haute-Tarentaise",
+          "en": "Tarentaise & Haute-Tarentaise",
+          "de": "Tarentaise & Haute-Tarentaise",
+          "it": "Tarentaise & Haute-Tarentaise",
+          "es": "Tarentaise &quot; Haute-Tarentaise",
+          "nl": "Tarentaise & Haute-Tarentaise"
+        }
+      },
+      {
+        "key": "maurienne",
+        "color": "#8a5a2b",
+        "label": {
+          "fr": "Maurienne",
+          "en": "Maurienne",
+          "de": "Maurienne",
+          "it": "Maurienne",
+          "es": "Maurienne",
+          "nl": "Maurienne"
+        }
+      },
+      {
+        "key": "beaufortain",
+        "color": "#2e9c5a",
+        "label": {
+          "fr": "Beaufortain",
+          "en": "Beaufortain",
+          "de": "Beaufortain",
+          "it": "Beaufortain",
+          "es": "Beaufortain",
+          "nl": "Beaufortain"
+        }
+      }
+    ],
+    "members": [
+      {
+        "slug": "col-de-l-iseran",
+        "bucket": "tarentaise"
+      },
+      {
+        "slug": "col-du-petit-saint-bernard",
+        "bucket": "tarentaise"
+      },
+      {
+        "slug": "col-du-galibier",
+        "bucket": "maurienne"
+      },
+      {
+        "slug": "col-du-mont-cenis",
+        "bucket": "maurienne"
+      },
+      {
+        "slug": "col-de-la-croix-de-fer",
+        "bucket": "maurienne"
+      },
+      {
+        "slug": "col-du-glandon",
+        "bucket": "maurienne"
+      },
+      {
+        "slug": "col-de-la-madeleine",
+        "bucket": "maurienne"
+      },
+      {
+        "slug": "cormet-de-roselend",
+        "bucket": "beaufortain"
+      },
+      {
+        "slug": "col-des-saisies",
+        "bucket": "beaufortain"
+      }
+    ],
+    "faq": [
+      {
+        "q": {
+          "fr": "Quel est le plus haut col routier de Savoie ?",
+          "en": "What is the highest road pass in Savoie?",
+          "de": "Was ist der höchste Straßenpass in Savoie?",
+          "it": "Qual è il passaggio stradale più alto in Savoie?",
+          "es": "¿Cuál es el paso más alto en Savoie?",
+          "nl": "Wat is de hoogste wegpas in Savoie?"
+        },
+        "a": {
+          "fr": "Le col de l'Iseran, à 2 764 m ou 2 770 m selon les pages officielles, est le point routier le plus élevé, au cœur du Parc national de la Vanoise.",
+          "en": "The col de l'Iseran, at 2,764 m or 2,770 m depending on the official pages, is the highest road point, in the heart of the Vanoise National Park.",
+          "de": "Der col de l'Iseran ist mit 2.764 m bzw. 2.770 m je nach offizieller Seite der höchste Straßenpunkt im Herzen des Vanoise Nationalparks.",
+          "it": "L'col de l'Iseran, a 2.764 m o 2.770 m a seconda delle pagine ufficiali, è il punto stradale più alto, nel cuore del Parco Nazionale Vanoise.",
+          "es": "El col de l'Iseran, a 2,764 m o 2,770 m dependiendo de las páginas oficiales, es el punto de carretera más alto, en el corazón del Parque Nacional Vanoise.",
+          "nl": "De col de l'Iseran, op 2,764 m of 2,770 m, afhankelijk van de officiële pagina's, is het hoogste wegpunt, in het hart van het Vanoise National Park."
+        }
+      },
+      {
+        "q": {
+          "fr": "Quand les cols de Savoie sont-ils ouverts ?",
+          "en": "When are Savoie's passes open?",
+          "de": "Wann sind die Pässe von Savoie geöffnet?",
+          "it": "Quando sono aperti i passaggi di Savoie?",
+          "es": "¿Cuándo abren los pases de Savoie?",
+          "nl": "Wanneer zijn Savoie's pasjes open?"
+        },
+        "a": {
+          "fr": "La plupart ouvrent de fin mai ou juin à octobre, selon l'enneigement. Chaque fiche indique la période publiée et signale les contradictions entre sources.",
+          "en": "Most open from late May or June to October, depending on snow. Each page gives the published period and flags any contradictions between sources.",
+          "de": "Die meisten sind von Ende Mai oder Juni bis Oktober geöffnet, abhängig vom Schnee. Jede Seite gibt den veröffentlichten Zeitraum an und zeigt alle Widersprüche zwischen den Quellen an.",
+          "it": "La maggior parte aperta da fine maggio o giugno a ottobre, a seconda della neve. Ogni pagina dà il periodo pubblicato e segnala qualsiasi contraddizione tra le fonti.",
+          "es": "La mayoría abierta desde finales de mayo o junio hasta octubre, dependiendo de la nieve. Cada página da el período publicado y marca cualquier contradicción entre las fuentes.",
+          "nl": "Meest geopend van eind mei of juni tot oktober, afhankelijk van de sneeuw. Elke pagina geeft de gepubliceerde periode en vlaggen eventuele tegenstellingen tussen bronnen."
+        }
+      },
+      {
+        "q": {
+          "fr": "Ces cols sont-ils payants ?",
+          "en": "Do these passes charge?",
+          "de": "Gehen diese Gebühren durch?",
+          "it": "Questi pass pagano?",
+          "es": "¿Estos pases cobran?",
+          "nl": "Worden deze pasjes geladen?"
+        },
+        "a": {
+          "fr": "Non, l'accès aux cols routiers est libre. Seuls certains tunnels ou remontées à proximité sont payants, ce que la fiche du lieu précise.",
+          "en": "No, access to the road passes is free. Only some nearby tunnels or lifts charge, which the place's page notes.",
+          "de": "Nein, der Zugang zu den Straßenpässen ist frei. Nur einige nahe gelegene Tunnel oder Lifte laden, die die Seite des Ortes notiert.",
+          "it": "No, l'accesso ai pass è gratuito. Solo alcuni tunnel vicini o solleva carica, che la pagina del posto nota.",
+          "es": "No, el acceso a los pases es gratuito. Sólo algunos túneles cercanos o ascensores cobran, que la página del lugar señala.",
+          "nl": "Nee, toegang tot de wegpassen is gratis. Alleen enkele nabijgelegen tunnels of liften laden, die de plaats pagina notities."
+        }
+      }
+    ],
+    "footer_note": {
+      "fr": "Cols regroupés par vallée ; ouverture et altitude telles que publiées, avec les contradictions de sources signalées sur chaque fiche.",
+      "en": "Passes grouped by valley; opening and altitude as published, with source contradictions flagged on each page.",
+      "de": "Pässe gruppiert nach Tal; Öffnung und Höhe wie veröffentlicht, mit Quellenwidersprüchen auf jeder Seite gekennzeichnet.",
+      "it": "Passi raggruppati per valle; apertura e altitudine come pubblicato, con contraddizioni di origine segnalate su ogni pagina.",
+      "es": "Pasos agrupados por valle; apertura y altitud como publicado, con contradicciones de origen marcadas en cada página.",
+      "nl": "Passes gegroepeerd door de vallei; opening en hoogte zoals gepubliceerd, met bron tegenstellingen gemarkeerd op elke pagina."
+    }
+  }
+]

@@ -133,6 +133,14 @@ UI = {
  "glance_sub": {"fr": "Tout le site en un coup d'œil.", "en": "The whole site at a glance.",
                 "de": "Die ganze Seite auf einen Blick.", "it": "Tutto il sito in un colpo d'occhio.",
                 "es": "Todo el sitio de un vistazo.", "nl": "De hele site in één oogopslag."},
+ "sel_h": {"fr": "Nos sélections", "en": "Our selections", "de": "Unsere Auswahl",
+           "it": "Le nostre selezioni", "es": "Nuestras selecciones", "nl": "Onze selecties"},
+ "sel_sub": {"fr": "Des réponses aux questions qu'on se pose vraiment.",
+             "en": "Answers to the questions people actually ask.",
+             "de": "Antworten auf die Fragen, die man sich wirklich stellt.",
+             "it": "Risposte alle domande che ci si pone davvero.",
+             "es": "Respuestas a las preguntas que uno se hace de verdad.",
+             "nl": "Antwoorden op de vragen die je je echt stelt."},
  "count_tile": {"fr": "%d lieux", "en": "%d places", "de": "%d Orte", "it": "%d luoghi",
                 "es": "%d lugares", "nl": "%d plekken"},
  "see_all": {"fr": "Voir tout", "en": "See all", "de": "Alle ansehen", "it": "Vedi tutto",
@@ -320,6 +328,26 @@ def build(lang, fiches):
         f'<div class="glance-head"><h2>{E(t(UI["glance_h"], lang))}</h2><p>{E(t(UI["glance_sub"], lang))}</p></div>'
         f'{groups_html}</div></section>')
 
+    # --- "Nos sélections" strip: the curated intent hubs ----------------------
+    selections = ""
+    _intent_path = os.path.join(ROOT, "data", "intent-hubs.json")
+    if os.path.exists(_intent_path):
+        intents = json.load(open(_intent_path, encoding="utf-8"))
+        if intents:
+            tiles = ""
+            for h in intents:
+                slug = h["slug"]
+                url = f'{S.BASE_URL}/' + ("" if lang == "fr" else f"{lang}/") + slug
+                h1 = (h.get("h1") or {}).get(lang) or (h.get("h1") or {}).get("fr") or slug
+                tiles += (f'<a class="glance-tile" href="{E(url)}">'
+                          f'<span class="gt-name">{E(h1)}</span>'
+                          f'<span class="gt-count">{len(h.get("members", []))}</span></a>')
+            selections = (
+                f'<section aria-label="{E(t(UI["sel_h"], lang))}" class="glance" id="selections"><div class="wrap">'
+                f'<div class="glance-head"><h2>{E(t(UI["sel_h"], lang))}</h2><p>{E(t(UI["sel_sub"], lang))}</p></div>'
+                f'<div class="glance-group"><div class="glance-grid">{tiles}</div></div>'
+                f'</div></section>')
+
     # --- bands + category carousels -------------------------------------------
     body_sections = ""
     for blabel, bsub, keys in BANDS:
@@ -393,7 +421,7 @@ def build(lang, fiches):
         f'<title>{E(title)}</title>\n<meta name="description" content="{E(desc)}">\n'
         f'<link rel="icon" href="/favicon.ico" sizes="any">\n{alts}'
         f'<style>{CSS}{SIS_CSS}</style>\n</head>\n<body>\n'
-        f'{_SKY}{header}\n<main>\n{hero}\n{glance}\n{prep_banner}{body_sections}{sister}\n</main>\n{footer}\n'
+        f'{_SKY}{header}\n<main>\n{hero}\n{glance}\n{selections}\n{prep_banner}{body_sections}{sister}\n</main>\n{footer}\n'
         f'<script src="/scripts/l74sort.js" defer></script>\n'
         f'<script src="/scripts/nearme.js" defer></script>\n'
         '</body>\n</html>\n')

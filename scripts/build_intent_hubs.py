@@ -214,7 +214,7 @@ def schema_block(hub, members_fiches, lang, breadcrumb=None):
     items = []
     for i, (m, f) in enumerate(members_fiches, 1):
         items.append({"@type": "ListItem", "position": i,
-                      "name": fiche_name(f, lang), "url": url_for(f["slug"], lang) + "/"})
+                      "name": fiche_name(f, lang), "url": url_for(f["slug"], lang)})
     itemlist = {"@type": "ItemList", "name": L(hub["h1"], lang), "itemListElement": items}
     faq = {"@type": "FAQPage", "mainEntity": [
         {"@type": "Question", "name": L(q["q"], lang),
@@ -817,7 +817,7 @@ def render_intent_page(entry, lang, fiches, parking, built_langs, siblings):
         body = (f'<h2 style="color:var(--teal)">{esc(L(UI2["members"], lang))} · {len(members)}</h2>'
                 f'<div class="cards">{cards}</div>')
     items = [{"@type": "ListItem", "position": i, "name": fiche_name(f, lang),
-              "url": url_for(f["slug"], lang) + "/"} for i, f in enumerate(members, 1)]
+              "url": url_for(f["slug"], lang)} for i, f in enumerate(members, 1)]
     graph = {"@context": "https://schema.org",
              "@graph": [{"@type": "ItemList", "name": title, "itemListElement": items}]}
     canon = intent_page_url(entry, lang)

@@ -132,7 +132,7 @@ def check_intent_pages(viol):
             if m:
                 try:
                     urls = [it["url"] for it in json.loads(m.group(1))]
-                    want = [B.url_for(s, lang) + "/" for s in e["members"]]
+                    want = [B.url_for(s, lang) for s in e["members"]]
                     if urls != want:
                         viol.append(f"{e['id']}/{lang}: ItemList != selector output (determinism)")
                 except Exception:

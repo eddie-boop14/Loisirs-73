@@ -252,9 +252,9 @@ def render_card(facet, slug, api, fiches, lang):
 
 
 def schema_block(facet, members, fiches, lang):
-    hub_url = url_for(facet["hub_slug"], lang) + "/"
+    hub_url = url_for(facet["hub_slug"], lang)
     items = [{"@type": "ListItem", "position": i, "name": fr_name(fiches, s),
-              "url": url_for(s, lang) + "/"} for i, s in enumerate(members, 1)]
+              "url": url_for(s, lang)} for i, s in enumerate(members, 1)]
     coll = {"@type": "CollectionPage", "name": facet["i18n"][lang]["h1"], "url": hub_url}
     itemlist = {"@type": "ItemList", "name": facet["i18n"][lang]["h1"], "itemListElement": items}
     faq = {"@type": "FAQPage", "mainEntity": [

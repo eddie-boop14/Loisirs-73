@@ -113,6 +113,9 @@ jobs:
       - name: Canonical self-reference gate
         run: python3 scripts/gate_canonical_selfref.py
 
+      - name: Phantom trailing-slash gate (no URL duplicates a canonical by a slash)
+        run: python3 scripts/gate_phantom_slash.py
+
       - name: Locale-status gate (only published langs in hreflang/picker)
         run: python3 scripts/gate_locale_status.py
 

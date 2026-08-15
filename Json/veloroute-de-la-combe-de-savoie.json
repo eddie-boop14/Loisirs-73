@@ -1,0 +1,571 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-15",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "voie-verte",
+  "commune": "Albertville",
+  "date_modified_human": "15 août 2026",
+  "date_published_human": "15 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-15",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-voie-verte-cyclistes-riviere.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "38,5 km Talboden durch den Combe de Savoie (AF3V), abwechselnd Grünstraße und gemeinsame Abschnitte, leicht zu erklimmen.",
+          "tag": "Radweg",
+          "title": "Albertville bis Montmélian entlang des Isère"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>V62 'Combe de Savoie'</strong> folgt dem Isère zwischen <strong>Albertville und Montmélian</strong>AF3V gibt es 38,5 km und beschreibt eine einfache Radroute, die <strong>abwechselnd autofreie Grünstraßenabschnitte mit geteilten Abschnitten</strong> auf Straßen- oder Zuchtwegen; Etwa die Hälfte der Strecke wurde zum Zeitpunkt der Forschung als dedizierte Grünstraße gebaut. Es ist also keine völlig autofreie Grünstraße, obwohl es wirklich reservierte Strecken gibt.</p><p>Mit dem V63 bildet es Cœur de Savoie 'La Belle Via' Reiseroute. Es ist offen für Wanderer und weiche Mobilität (Scooter, Kinderwagen, Rollschuhe). Savoie Mont Blanc beschreibt separat einen längeren V62 von Ugine zu Chambéry über Albertville (~70 km über zwei Tage): einen anderen Bereich, den wir markieren, ohne ihn mit dem Abschnitt Albertville zu Montmélian zu verschmelzen.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "frei",
+        "best_season": null,
+        "commune": "Albertville",
+        "dogs": "An der Leine",
+        "parking": null,
+        "stroller": null,
+        "type": "Radweg",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Nein. AF3V beschreibt einen Wechsel von autofreien (gewidmeten) Abschnitten und Abschnitten, die mit der Straße oder den Farmgleisen geteilt werden; Etwa die Hälfte der Albertville-Montmélian-Route wurde zum Zeitpunkt der Forschung als dedizierte Grünstraße gebaut.",
+          "q": "Ist es autofrei Greenway den ganzen Weg?"
+        },
+        {
+          "a": "38,5 km für Albertville bis Montmélian pro AF3V. Anmerkung: Savoie Mont Blanc beschreibt eine breitere V62 von Ugine zu Chambéry (~70 km) — einen anderen Umfang, nicht zu verschmelzen.",
+          "q": "Wie lange dauert es?"
+        },
+        {
+          "a": "SNCF-Stationen säumen die Route bei Albertville, Saint-Pierre-d'Albigny und Montmélian, so dass Sie nur in eine Richtung fahren können.",
+          "q": "Wie komme ich mit dem Zug?"
+        },
+        {
+          "a": "Nein, es ist leicht bewertet (grün): eine Talboden-Route offen für Wanderer und weiche Mobilität.",
+          "q": "Ist die Route schwer?"
+        }
+      ],
+      "hero": {
+        "badge": "Radweg · Frei",
+        "lead": "Entlang des Isère verbindet der V62 Albertville mit Montmélian durch den Combe de Savoie — eine einfache Fahrradroute, die autofreie Wechselbahn mit gemeinsamen Abschnitten mit dem V63 als \"La Belle Via\" vermarktet."
+      },
+      "hero_alt": "Combe de Savoie Radweg entlang des Isère",
+      "how_to_get_there": {
+        "bike": "Accueil Vélo-Partner entlang der Route; Herunterladbarer GPX Track.",
+        "car": "Von Albertville oder Montmélian, beide erreicht durch die A43/A430. Parken in der Stadt und in der Nähe der Stationen.",
+        "public_transport": "TER Stationen an Albertville, Saint-Pierre-d'Albigny und Montmélian, die entlang der Route beabstandet sind."
+      },
+      "meta_description": "Die V62 entlang der Isère zwischen Albertville und Montmélian (La Belle Via): 38,5 einfache km, abwechselnd Greenway und gemeinsame Abschnitte. Frei, ganzjährig geöffnet.",
+      "meta_title": "Véloroute de la Combe de Savoie (V62) · Albertville bis Montmélian",
+      "name": "Véloroute de la Combe de Savoie (V62)",
+      "name_alternates": [
+        "V62",
+        "La Belle Via",
+        "Combe de Savoie cycle route"
+      ],
+      "practical_info": [
+        {
+          "k": "Route",
+          "v": "Albertville ↔ Montmélian, entlang der Isère (V62 / La Belle Via)"
+        },
+        {
+          "k": "Länge",
+          "v": "38,5 km Albertville nach Montmélian (AF3V)"
+        },
+        {
+          "k": "Ausbau",
+          "v": "Abwechselnde Greenway / Shared Sections; ~50% dediziert (AF3V)"
+        },
+        {
+          "k": "Grad",
+          "v": "Leicht (grün), offen für weiche Mobilität"
+        },
+        {
+          "k": "Stationen",
+          "v": "Albertville, Saint-Pierre-d'Albigny, Montmélian"
+        }
+      ],
+      "schema_amenities": [
+        "Radweg",
+        "Accueil Vélo"
+      ],
+      "when_to_visit": "<p>Cœur de Savoie kündigt die Route an <strong>ganzjährig geöffnet, jeden Tag</strong>abhängig vom Wetter. Es wird keine spezifische Winterschließung erwähnt. Da es sich um eine flache Talbodenroute mit leichtem Grad handelt, eignet es sich für Familien in der warmen Jahreszeit sowie für milde Nebensaisontage.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "38.5 km of valley floor through the Combe de Savoie (AF3V), alternating greenway and shared sections, easy grade.",
+          "tag": "Cycle route",
+          "title": "Albertville to Montmélian along the Isère"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>V62 'Combe de Savoie'</strong> follows the Isère between <strong>Albertville and Montmélian</strong>. AF3V gives it 38.5 km and describes an easy cycle route that <strong>alternates car-free greenway sections with shared sections</strong> on road or farm tracks; roughly half the route was built as dedicated greenway at the time of research. It is therefore not an entirely car-free greenway, though genuinely reserved stretches do exist.</p><p>With the V63 it forms Cœur de Savoie's 'La Belle Via' itinerary. It is open to walkers and soft mobility (scooters, strollers, rollerblades). Savoie Mont Blanc separately describes a longer V62 from Ugine to Chambéry via Albertville (~70 km over two days): a different scope, which we flag without conflating it with the Albertville to Montmélian section.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free",
+        "best_season": null,
+        "commune": "Albertville",
+        "dogs": "On a leash",
+        "parking": null,
+        "stroller": null,
+        "type": "Cycle route",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "No. AF3V describes an alternation of car-free greenway (dedicated) sections and sections shared with the road or farm tracks; about half of the Albertville to Montmélian route was built as dedicated greenway at the time of research.",
+          "q": "Is it car-free greenway the whole way?"
+        },
+        {
+          "a": "38.5 km for Albertville to Montmélian per AF3V. Note: Savoie Mont Blanc describes a wider V62 from Ugine to Chambéry (~70 km) — a different scope, not to be conflated.",
+          "q": "How long is it?"
+        },
+        {
+          "a": "SNCF stations line the route at Albertville, Saint-Pierre-d'Albigny and Montmélian, so you can ride one way only.",
+          "q": "How do I come by train?"
+        },
+        {
+          "a": "No, it is rated easy (green): a valley-floor itinerary open to walkers and soft mobility.",
+          "q": "Is the route hard?"
+        }
+      ],
+      "hero": {
+        "badge": "Cycle route · Free",
+        "lead": "Along the Isère, the V62 links Albertville to Montmélian through the Combe de Savoie — an easy cycle route alternating car-free greenway with shared sections, marketed with the V63 as 'La Belle Via'."
+      },
+      "hero_alt": "Combe de Savoie cycle route along the Isère",
+      "how_to_get_there": {
+        "bike": "Accueil Vélo partners along the route; downloadable GPX track.",
+        "car": "From Albertville or Montmélian, both reached by the A43/A430. Parking in town and near the stations.",
+        "public_transport": "TER stations at Albertville, Saint-Pierre-d'Albigny and Montmélian, spaced along the route."
+      },
+      "meta_description": "The V62 along the Isère between Albertville and Montmélian (La Belle Via): 38.5 easy km, alternating greenway and shared sections. Free, open all year.",
+      "meta_title": "Véloroute de la Combe de Savoie (V62) · Albertville to Montmélian",
+      "name": "Véloroute de la Combe de Savoie (V62)",
+      "name_alternates": [
+        "V62",
+        "La Belle Via",
+        "Combe de Savoie cycle route"
+      ],
+      "practical_info": [
+        {
+          "k": "Route",
+          "v": "Albertville ↔ Montmélian, along the Isère (V62 / La Belle Via)"
+        },
+        {
+          "k": "Length",
+          "v": "38.5 km Albertville to Montmélian (AF3V)"
+        },
+        {
+          "k": "Build-out",
+          "v": "Alternating greenway / shared sections; ~50% dedicated (AF3V)"
+        },
+        {
+          "k": "Grade",
+          "v": "Easy (green), open to soft mobility"
+        },
+        {
+          "k": "Stations",
+          "v": "Albertville, Saint-Pierre-d'Albigny, Montmélian"
+        }
+      ],
+      "schema_amenities": [
+        "Cycle route",
+        "Accueil Vélo"
+      ],
+      "when_to_visit": "<p>Cœur de Savoie announces the route <strong>open all year, every day</strong>, subject to weather. No specific winter closure is mentioned. Being a flat valley-floor route of easy grade, it suits families in the warm season as well as mild off-season days.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "38,5 km de piso del valle a través de la Combe de Savoie (AF3V), vía verde alterna y secciones compartidas, grado fácil.",
+          "tag": "Ruta del ciclo",
+          "title": "Albertville a Montmélian a lo largo de Isère"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>V62 'Combe de Savoie'</strong> sigue el Isère entre <strong>Albertville y Montmélian</strong>. AF3V le da 38,5 km y describe una ruta de ciclo fácil que <strong>alterna secciones verdes libres de coches con secciones compartidas</strong> on road or farm tracks; aproximadamente la mitad de la ruta se construyó como vía verde dedicada en el momento de la investigación. Por lo tanto, no es una vía verde totalmente libre de coches, aunque realmente existen tramos reservados.</p><p>Con el V63 forma el itinerario Cœur de Savoie 'La Belle Via'. Está abierto a caminantes y movilidad suave (scopoters, paseadores, rodillos). Savoie Mont Blanc describe por separado un V62 más largo de Ugine a Chambéry vía Albertville (~70 km durante dos días): un alcance diferente, que marcamos sin conflarlo con la sección Albertville a Montmélian.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": null,
+        "commune": "Albertville",
+        "dogs": "En una correa",
+        "parking": null,
+        "stroller": null,
+        "type": "Ruta del ciclo",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "No. AF3V describe una alternancia de secciones y secciones libres de automóviles (dedicadas) y secciones compartidas con las pistas de carretera o granja; aproximadamente la mitad de la ruta Albertville a Montmélian se construyó como vía verde dedicada en el momento de la investigación.",
+          "q": "¿Está libre de autos todo el camino?"
+        },
+        {
+          "a": "38,5 km para Albertville a Montmélian por AF3V. Nota: Savoie Mont Blanc describe una V62 más amplia de Ugine a Chambéry (~70 km) — un alcance diferente, no ser conflado.",
+          "q": "¿Cuánto tiempo es?"
+        },
+        {
+          "a": "Las estaciones de SNCF se alinean con la ruta en Albertville, Saint-Pierre-d'Albigny y Montmélian, por lo que sólo se puede montar de una manera.",
+          "q": "¿Cómo voy en tren?"
+        },
+        {
+          "a": "No, se valora fácil (verde): un itinerario del valle-floor abierto a caminantes y movilidad suave.",
+          "q": "¿La ruta es difícil?"
+        }
+      ],
+      "hero": {
+        "badge": "Ruta del ciclo · Gratis",
+        "lead": "A lo largo de Isère, los enlaces V62 Albertville a Montmélian a través de Combe de Savoie — una ruta de ciclo fácil alternando la autopista sin coche con secciones compartidas, comercializada con el V63 como 'La Belle Via'."
+      },
+      "hero_alt": "Ruta del ciclo Combe de Savoie a lo largo de Isère",
+      "how_to_get_there": {
+        "bike": "Accueil Vélo se asocia en la ruta; descargable GPX Track.",
+        "car": "Desde Albertville o Montmélian, ambos alcanzados por el A43/A430. Aparcamiento en la ciudad y cerca de las estaciones.",
+        "public_transport": "Estaciones de TER en Albertville, Saint-Pierre-d'Albigny y Montmélian, espaciadas por la ruta."
+      },
+      "meta_description": "El V62 a lo largo de la Isère entre Albertville y Montmélian (La Belle Via): 38.5 km fácil, vía verde alterna y secciones compartidas. Libre, abierto todo el año.",
+      "meta_title": "Véloroute de la Combe de Savoie (V62) · Albertville a Montmélian",
+      "name": "Véloroute de la Combe de Savoie (V62)",
+      "name_alternates": [
+        "V62",
+        "La Belle Via",
+        "Combe de Savoie cycle route"
+      ],
+      "practical_info": [
+        {
+          "k": "Ruta",
+          "v": "Albertville ↔ Montmélian, a lo largo de Isère (V62 / La Belle Via)"
+        },
+        {
+          "k": "Duración",
+          "v": "38,5 km Albertville a Montmélian (AF3V)"
+        },
+        {
+          "k": "Construir",
+          "v": "Vía verde alternada / secciones compartidas; ~50% dedicado (AF3V)"
+        },
+        {
+          "k": "Grado",
+          "v": "Fácil (verde), abierto a la movilidad suave"
+        },
+        {
+          "k": "Estaciones",
+          "v": "Albertville, Saint-Pierre-d'Albigny, Montmélian"
+        }
+      ],
+      "schema_amenities": [
+        "Ruta del ciclo",
+        "Accueil Vélo"
+      ],
+      "when_to_visit": "<p>Cœur de Savoie anuncia la ruta <strong>abierto todo el año, todos los días</strong>, sujeto al clima. No se menciona ningún cierre específico de invierno. Siendo una ruta plana del valle-floor de fácil grado, se adapta a las familias en la temporada cálida, así como días suaves fuera de temporada.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "38,5 km de fond de vallée en Combe de Savoie (AF3V), en alternance voie verte et sections partagées, niveau facile.",
+          "tag": "Véloroute",
+          "title": "Albertville à Montmélian le long de l'Isère"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>V62 « Combe de Savoie »</strong> suit l'Isère entre <strong>Albertville et Montmélian</strong>. L'AF3V lui donne 38,5 km et la décrit comme une véloroute de niveau facile, qui <strong>alterne des sections en voie verte (site propre) et des sections partagées</strong> avec la route ou des chemins agricoles ; environ la moitié du parcours était aménagée en site propre au moment de la recherche. Ce n'est donc pas une voie verte entièrement sans voiture, mais des tronçons réellement réservés existent.</p><p>Avec la V63, elle forme l'itinéraire « La Belle Via » de Cœur de Savoie. Elle est ouverte aux piétons et aux modes doux (trottinettes, poussettes, rollers). Savoie Mont Blanc décrit par ailleurs une V62 plus longue, d'Ugine à Chambéry par Albertville (~70 km sur deux jours) : c'est un périmètre différent, que nous signalons sans le confondre avec la section Albertville à Montmélian.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuit",
+        "best_season": null,
+        "commune": "Albertville",
+        "dogs": "En laisse",
+        "parking": null,
+        "stroller": null,
+        "type": "Véloroute",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Non. L'AF3V décrit une alternance de tronçons en voie verte (site propre) et de sections partagées avec la route ou des chemins agricoles ; environ la moitié du parcours Albertville à Montmélian était aménagée en site propre au moment de la recherche.",
+          "q": "Est-ce une voie verte sans voiture d'un bout à l'autre ?"
+        },
+        {
+          "a": "38,5 km pour Albertville à Montmélian selon l'AF3V. Attention : Savoie Mont Blanc décrit une V62 plus large d'Ugine à Chambéry (~70 km) — un périmètre différent, à ne pas confondre.",
+          "q": "Quelle longueur ?"
+        },
+        {
+          "a": "Des gares SNCF jalonnent l'itinéraire à Albertville, Saint-Pierre-d'Albigny et Montmélian, ce qui permet de ne faire qu'un sens.",
+          "q": "Comment venir en train ?"
+        },
+        {
+          "a": "Non, il est classé facile (vert) : c'est un itinéraire de fond de vallée, ouvert aux piétons et aux modes doux.",
+          "q": "Le parcours est-il difficile ?"
+        }
+      ],
+      "hero": {
+        "badge": "Véloroute · Gratuit",
+        "lead": "Le long de l'Isère, la V62 relie Albertville à Montmélian à travers la Combe de Savoie — une véloroute facile qui alterne tronçons en voie verte et sections partagées, commercialisée avec la V63 sous le nom « La Belle Via »."
+      },
+      "hero_alt": "Véloroute de la Combe de Savoie le long de l'Isère",
+      "how_to_get_there": {
+        "bike": "Partenaires labellisés Accueil Vélo le long de l'itinéraire ; trace GPX téléchargeable.",
+        "car": "Depuis Albertville ou Montmélian, tous deux accessibles par l'A43/A430. Stationnement en ville et aux abords des gares.",
+        "public_transport": "Gares TER d'Albertville, Saint-Pierre-d'Albigny et Montmélian, échelonnées le long du parcours."
+      },
+      "meta_description": "La V62 le long de l'Isère entre Albertville et Montmélian (La Belle Via) : 38,5 km faciles, en alternance voie verte et sections partagées. Gratuit, ouvert toute l'année.",
+      "meta_title": "Véloroute de la Combe de Savoie (V62) · Albertville à Montmélian",
+      "name": "Véloroute de la Combe de Savoie (V62)",
+      "name_alternates": [
+        "V62",
+        "La Belle Via",
+        "Véloroute Combe de Savoie"
+      ],
+      "practical_info": [
+        {
+          "k": "Itinéraire",
+          "v": "Albertville ↔ Montmélian, le long de l'Isère (V62 / La Belle Via)"
+        },
+        {
+          "k": "Longueur",
+          "v": "38,5 km Albertville à Montmélian (AF3V)"
+        },
+        {
+          "k": "Aménagement",
+          "v": "Alternance voie verte / sections partagées ; ~50 % en site propre (AF3V)"
+        },
+        {
+          "k": "Niveau",
+          "v": "Facile (vert), ouvert aux modes doux"
+        },
+        {
+          "k": "Gares",
+          "v": "Albertville, Saint-Pierre-d'Albigny, Montmélian"
+        }
+      ],
+      "schema_amenities": [
+        "Véloroute",
+        "Accueil Vélo"
+      ],
+      "when_to_visit": "<p>Cœur de Savoie annonce l'itinéraire <strong>ouvert toute l'année, tous les jours</strong>, selon les conditions météorologiques. Aucune fermeture hivernale spécifique n'est mentionnée. Le parcours étant de fond de vallée et de niveau facile, il se prête aux familles à la belle saison comme aux journées douces d'arrière-saison.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "38,5 km di fondovalle attraverso la Combe de Savoie (AF3V), alternando le sezioni verdi e condivise, di facile grado.",
+          "tag": "Percorso ciclo",
+          "title": "Albertville a Montmélian lungo la Isère"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>V62 'Combe de Savoie'</strong> segue l'Isère tra <strong>Albertville e Montmélian</strong>. AF3V dà 38,5 km e descrive un percorso di ciclo facile che <strong>alterna sezioni verde senza auto con sezioni condivise</strong> su piste stradali o agricole; circa la metà del percorso è stato costruito come greenway dedicato al momento della ricerca. Non è quindi un greenway totalmente privo di auto, anche se esistono tratti veramente riservati.</p><p>Con l'V63 forma l'itinerario \"La Belle Via\" di Cœur de Savoie. È aperto a escursionisti e mobilità morbida (scooter, passeggini, rollerblade). Savoie Mont Blanc descrive separatamente un V62 più lungo da Ugine a Chambéry tramite Albertville (~70 km in due giorni): una diversa portata, che bandiamo senza conflating con la sezione Albertville a Montmélian.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": null,
+        "commune": "Albertville",
+        "dogs": "Su un guinzaglio",
+        "parking": null,
+        "stroller": null,
+        "type": "Percorso ciclo",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "No. AF3V descrive un'alternanza di sezioni e sezioni di strada e di fattoria senza auto; circa la metà del percorso Albertville a Montmélian è stato costruito come greenway dedicato al momento della ricerca.",
+          "q": "E' una strada verde senza auto?"
+        },
+        {
+          "a": "38,5 km per Albertville a Montmélian per AF3V. Nota: Savoie Mont Blanc descrive un più ampio V62 da Ugine a Chambéry (~70 km) — una diversa portata, da non confondere.",
+          "q": "Quanto tempo è?"
+        },
+        {
+          "a": "Le stazioni SNCF lineano il percorso a Albertville, Saint-Pierre-d'Albigny e Montmélian, in modo da poter guidare solo in un modo.",
+          "q": "Come arrivo in treno?"
+        },
+        {
+          "a": "No, è valutato facile (verde): un percorso a fondovalle aperto a escursionisti e mobilità morbida.",
+          "q": "La strada è dura?"
+        }
+      ],
+      "hero": {
+        "badge": "Percorso ciclo · Gratis",
+        "lead": "Lungo Isère, V62 collega Albertville a Montmélian attraverso Combe de Savoie — un percorso di ciclo facile alternando car-free greenway con sezioni condivise, commercializzato con V63 come 'La Belle Via'."
+      },
+      "hero_alt": "Percorso ciclo Combe de Savoie lungo la Isère",
+      "how_to_get_there": {
+        "bike": "partner Accueil Vélo lungo il percorso; traccia GPX scaricabile.",
+        "car": "Da Albertville o Montmélian, entrambi raggiunti dalla A43/A430. Parcheggio in città e vicino alle stazioni.",
+        "public_transport": "Stazioni TER a Albertville, Saint-Pierre-d'Albigny e Montmélian, distanziate lungo il percorso."
+      },
+      "meta_description": "V62 lungo Isère tra Albertville e Montmélian (La Belle Via): 38.5 km facile, alternando il verde e le sezioni condivise. Libero, aperto tutto l'anno.",
+      "meta_title": "Véloroute de la Combe de Savoie (V62) · Albertville a Montmélian",
+      "name": "Véloroute de la Combe de Savoie (V62)",
+      "name_alternates": [
+        "V62",
+        "La Belle Via",
+        "Combe de Savoie cycle route"
+      ],
+      "practical_info": [
+        {
+          "k": "Itinerario",
+          "v": "Albertville ↔ Montmélian, lungo il Isère (V62 / La Belle Via)"
+        },
+        {
+          "k": "Lunghezza",
+          "v": "38,5 km Albertville a Montmélian (AF3V)"
+        },
+        {
+          "k": "Costruire",
+          "v": "Alternanza delle sezioni verdi / condivise; ~50% dedicato (AF3V)"
+        },
+        {
+          "k": "Grado",
+          "v": "Facile (verde), aperto alla mobilità morbida"
+        },
+        {
+          "k": "Stazioni",
+          "v": "Albertville, Saint-Pierre-d'Albigny, Montmélian"
+        }
+      ],
+      "schema_amenities": [
+        "Percorso ciclo",
+        "Accueil Vélo"
+      ],
+      "when_to_visit": "<p>Cœur de Savoie annuncia il percorso <strong>aperto tutto l'anno, ogni giorno</strong>, soggetto al tempo. Non è menzionato alcun particolare chiusura invernale. Essendo un percorso pianeggiante a valle di facile grado, si adatta alle famiglie nella stagione calda così come giorni fuori stagione miti.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "38,5 km valleivloer door de Combe de Savoie (AF3V), afwisselende greenway en gedeelde secties, gemakkelijke kwaliteit.",
+          "tag": "Fietsroute",
+          "title": "Albertville naar Montmélian langs de Isère"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>V62 'Combe de Savoie'</strong> volgt de Isère tussen <strong>Albertville en Montmélian</strong>. AF3V geeft het 38,5 km en beschrijft een eenvoudige fietsroute die <strong>alternatieve autovrije greenway-secties met gedeelde secties</strong> op weg- of landbouwwegen; ongeveer de helft van de route werd gebouwd als toegewijde groene weg op het moment van onderzoek. Het is dus geen volledig autovrije greenway, hoewel er echt gereserveerde stukken bestaan.</p><p>Met de V63 vormt het de route 'La Belle Via' van Cœur de Savoie. Het is open voor wandelaars en zachte mobiliteit (scooters, kinderwagens, rolschaatsen). Savoie Mont Blanc beschrijft afzonderlijk een langere V62 van Ugine tot Chambéry via Albertville (~70 km over twee dagen): een ander toepassingsgebied, dat we markeren zonder het samen te voegen met de Albertville naar Montmélian sectie.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Vrij",
+        "best_season": null,
+        "commune": "Albertville",
+        "dogs": "Aan een riem",
+        "parking": null,
+        "stroller": null,
+        "type": "Fietsroute",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Nee. AF3V beschrijft een afwisseling van autovrije greenway-secties en delen die worden gedeeld met de weg- of landbouwwegen; Ongeveer de helft van de Albertville naar Montmélian route werd gebouwd als toegewijde greenway op het moment van onderzoek.",
+          "q": "Is het de hele weg autovrij?"
+        },
+        {
+          "a": "38,5 km voor Albertville naar Montmélian per AF3V. Opmerking: Savoie Mont Blanc beschrijft een bredere V62 van Ugine tot Chambéry (~70 km) een ander toepassingsgebied, niet te conflateren.",
+          "q": "Hoe lang is het?"
+        },
+        {
+          "a": "SNCF stations lijn de route op Albertville, Saint-Pierre-d'Albigny en Montmélian, zodat u kunt alleen rijden op een manier.",
+          "q": "Hoe kom ik met de trein?"
+        },
+        {
+          "a": "Nee, het wordt gewaardeerd gemakkelijk (groen): een dal-vloer route open voor wandelaars en zachte mobiliteit.",
+          "q": "Is de route moeilijk?"
+        }
+      ],
+      "hero": {
+        "badge": "Fietsroute · Vrij",
+        "lead": "Langs de Isère verbindt de V62 Albertville met Montmélian via de Combe de Savoie een gemakkelijke fietsroute afwisselend autovrije greenway met gedeelde secties, verkocht met de V63 als 'La Belle Via'."
+      },
+      "hero_alt": "Combe de Savoie-cyclusroute langs de Isère",
+      "how_to_get_there": {
+        "bike": "Accueil Vélo partners langs de route; downloadbare GPX track.",
+        "car": "Van Albertville of Montmélian, beide bereikt door de A43/A430. Parkeren in de stad en in de buurt van de stations.",
+        "public_transport": "TER stations op Albertville, Saint-Pierre-d'Albigny en Montmélian, verdeeld over de route."
+      },
+      "meta_description": "De V62 langs de Isère tussen Albertville en Montmélian (La Belle Via): 38,5 gemakkelijke km, afwisselende greenway en gedeelde secties. Vrij, het hele jaar open.",
+      "meta_title": "Véloroute de la Combe de Savoie (V62) · Albertville naar Montmélian",
+      "name": "Véloroute de la Combe de Savoie (V62)",
+      "name_alternates": [
+        "V62",
+        "La Belle Via",
+        "Combe de Savoie cycle route"
+      ],
+      "practical_info": [
+        {
+          "k": "Route",
+          "v": "Albertville ↔ Montmélian, langs de Isère (V62 / La Belle Via)"
+        },
+        {
+          "k": "Lengte",
+          "v": "38,5 km Albertville tot Montmélian (AF3V)"
+        },
+        {
+          "k": "Bouwen",
+          "v": "Andere groene weg / gedeelde secties; ~50% toegewezen (AF3V)"
+        },
+        {
+          "k": "Graad",
+          "v": "Eenvoudig (groen), open voor zachte mobiliteit"
+        },
+        {
+          "k": "Stations",
+          "v": "Albertville, Saint-Pierre-d'Albigny, Montmélian"
+        }
+      ],
+      "schema_amenities": [
+        "Fietsroute",
+        "Accueil Vélo"
+      ],
+      "when_to_visit": "<p>Cœur de Savoie kondigt de route aan <strong>geopend het hele jaar, elke dag</strong>, afhankelijk van het weer. Er wordt geen specifieke wintersluiting genoemd. Het is een vlakke vallei-vloer route van eenvoudige kwaliteit, het past bij gezinnen in het warme seizoen, evenals milde off-season dagen.</p>"
+    }
+  },
+  "latitude": 45.671004,
+  "longitude": 6.396774,
+  "official_site_url": "https://tourisme.coeurdesavoie.fr/bouger/activites-de-pleine-nature/velo/la-belle-via-veloroute-v62-v63/",
+  "partners": [],
+  "postal_code": "73200",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-15. Sources : AF3V « V62 Combe de Savoie d'Albertville à Montmélian » (38,5 km, le long de l'Isère, ~50 % aménagé, alternance voie verte / voie partagée), Cœur de Savoie « La Belle Via V62/V63 » (facile/vert, ouvert toute l'année selon météo, gares Albertville/Saint-Pierre-d'Albigny/Montmélian, ouvert aux modes doux, GPX), Savoie Mont Blanc (V62 Ugine→Chambéry ~70 km, périmètre plus large). Ce n'est pas une voie verte dédiée continue. Contradiction de longueur (38,5 km vs 70 km, périmètres différents) reportée telle quelle. Coordonnées : centroïde IGN d'Albertville.",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "veloroute-de-la-combe-de-savoie",
+  "sources": [
+    "https://www.af3v.org/les-voies-vertes/voies/890-v-62-combe-de-savoie-d-albertville-a-montmelian/",
+    "https://tourisme.coeurdesavoie.fr/bouger/activites-de-pleine-nature/velo/la-belle-via-veloroute-v62-v63/",
+    "https://www.savoie-mont-blanc.com/itineraires-velo/veloroute-v62-en-savoie-de-ugine-a-chambery-par-albertville-5635430/"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published for this itinerary; kept null rather than inferred from the surface."
+  ]
+}

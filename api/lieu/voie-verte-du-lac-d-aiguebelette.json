@@ -1,0 +1,31 @@
+{
+  "name": "Voie verte du lac d'Aiguebelette",
+  "commune": "Nances",
+  "gps": {
+    "lat": 45.574476,
+    "lng": 5.801086
+  },
+  "type": "voie-verte",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": null,
+  "winter": {
+    "access": "open",
+    "infrastructure": [],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
+  "official_url": "https://www.lac-aiguebelette.com/itineraires-cyclo/tour-du-lac-daiguebelette-7493868/",
+  "last_verified": null
+}

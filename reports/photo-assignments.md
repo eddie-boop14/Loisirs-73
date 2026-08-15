@@ -1,7 +1,7 @@
 # Phase 4 — photo assignments (gate artifact)
 
 **Date**: 2026-06-14
-**Total assignments**: 65 (one per (hub × slug) on the FR canonical hub)
+**Total assignments**: 69 (one per (hub × slug) on the FR canonical hub)
 
 ## Per-hub diversity
 
@@ -14,6 +14,7 @@
 | `points-de-vue` | 15 | 15 | 1 |
 | `sentiers` | 7 | 7 | 1 |
 | `telecabines` | 15 | 15 | 1 |
+| `voies-vertes` | 4 | 4 | 1 |
 
 ## Per-fiche assignments
 
@@ -84,3 +85,7 @@
 | `telecabines` | `telepherique-de-la-saulire` | `montagne` | `telepherique-de-la-saulire-hero.jpg` | — | json hero (local) |
 | `telecabines` | `telepherique-du-mont-bochor` | `transport` | `telepherique-du-mont-bochor-hero.jpg` | — | json hero (local) |
 | `telecabines` | `vanoise-express` | `montagne` | `vanoise-express-hero.jpg` | — | json hero (local) |
+| `voies-vertes` | `veloroute-de-la-combe-de-savoie` | `nature` | `generique-voie-verte-cyclistes-riviere.jpg` | — | json hero (local) |
+| `voies-vertes` | `viarhona-en-chautagne` | `nature` | `generique-voie-verte-foret.jpg` | — | json hero (local) |
+| `voies-vertes` | `voie-verte-du-lac-d-aiguebelette` | `nature` | `generique-voie-verte-famille-kids.jpg` | — | json hero (local) |
+| `voies-vertes` | `voie-verte-du-lac-du-bourget` | `nature` | `generique-voie-verte-cyclistes-lac.jpg` | — | json hero (local) |

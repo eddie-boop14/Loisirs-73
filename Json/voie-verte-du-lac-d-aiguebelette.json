@@ -1,0 +1,553 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-15",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "voie-verte",
+  "commune": "Nances",
+  "date_modified_human": "15 août 2026",
+  "date_published_human": "15 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-15",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-voie-verte-famille-kids.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Ein 16,9 km Rundkurs, ~1 h, +90 m, davon \"11 km Grünstraße\" pro Tourismusbüro - Für alle zugänglich.",
+          "tag": "Leicht",
+          "title": "Die Lake Loop mit dem Fahrrad"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>voie verte du lac d'Aiguebelette</strong> verläuft entlang der Süd- und Ostküste des Sees, von <strong>Sougey</strong> (Saint-Alban-de-Montbel) bis <strong>La Combe</strong> (Aiguebelette-le-Lac), auf einem Weg für Wanderer und Radfahrer reserviert. Es bildet die autofreie Strecke des <strong>Seezunge</strong>: eine 16,9 km lange Strecke, ca. 1 Stunde mit dem Fahrrad, 90 m Aufstieg, von denen das Tourismusbüro \"11 km Grünstraße\" angibt, der Rest auf der Straße.</p><p>Die Länge des Greenway-Teils unterscheidet sich von der Quelle, und wir geben es so an, wie es steht: AF3V gibt 9,0 km an (unter Hinweis darauf, dass \"eine 3 km lange Grünstraße gerade um 4 km verlängert wurde\"), Savoie Mont Blanc sagt 6 km und das Tourismusbüro 11 km der 17 km langen Schleife. Der See verbietet Boote mit Benzinmotoren und hat sieben angelegte Strände.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "frei",
+        "best_season": null,
+        "commune": "Nances",
+        "dogs": "An der Leine erlaubt",
+        "parking": null,
+        "stroller": null,
+        "type": "Greenway",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Die Quellen unterscheiden sich: 9,0 km pro AF3V (was darauf hinweist, dass \"eine 3 km lange Greenway gerade um 4 km verlängert wurde\"), 6 km pro Savoie Mont Blanc und \"11 km Greenway\" der 17 km langen Schleife pro Tourismusbüro. Wir berichten sie so, wie sie sind.",
+          "q": "Wie lang ist der Greenway?"
+        },
+        {
+          "a": "Nein. Die 16,9 km lange Schleife nutzt den Grünweg für einen Großteil seiner Länge (Süd- / Ostküste), dann Straßenabschnitte für den Rest.",
+          "q": "Ist die volle Seeschleife autofrei?"
+        },
+        {
+          "a": "Mit dem Auto auf der A43, Ausfahrt 12 'Lac d'Aiguebelette', mit einem großen Parkplatz am Maison du Lac. Mit dem Zug, Lépin-le-Lac TER Station auf der Linie Lyon nach Chambéry.",
+          "q": "Wie komme ich dorthin?"
+        },
+        {
+          "a": "Ja, an der Leine (AF3V und das Tourismusbüro für den See).",
+          "q": "Sind Hunde erlaubt?"
+        }
+      ],
+      "hero": {
+        "badge": "Greenway · frei",
+        "lead": "An der Südküste von Lac d'Aiguebelette verbindet eine reservierte Grünstraße Sougey mit La Combe — das autofreie Herz der Seeschleife, eine der einfachsten Familienrouten in Savoie."
+      },
+      "hero_alt": "Greenway entlang Lac d'Aiguebelette, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "A43, Ausfahrt 12 'Lac d'Aiguebelette'. Großer Parkplatz am Maison du Lac (Nances).",
+        "public_transport": "Lépin-le-Lac TER Station, auf der Linie Lyon nach Chambéry."
+      },
+      "meta_description": "Die reservierte Grünstraße von Lac d'Aiguebelette, autofreies Herz der Seeschleife (16,9 km, leicht). Frei, ganzjährig geöffnet, Hunde an der Leine.",
+      "meta_title": "Voie verte du lac d'Aiguebelette · Seeschleife mit dem Fahrrad",
+      "name": "Voie verte du lac d'Aiguebelette",
+      "name_alternates": [
+        "Tour du lac d'Aiguebelette"
+      ],
+      "practical_info": [
+        {
+          "k": "Route",
+          "v": "Süd-/Ostküste von Lac d'Aiguebelette, Sougey (Saint-Alban-de-Montbel) bis La Combe (Aiguebelette-le-Lac)"
+        },
+        {
+          "k": "Seezunge",
+          "v": "16,9 km Loop · easy · ~1 h · +90 m · davon '11 km Greenway' (Tourist Office)"
+        },
+        {
+          "k": "Oberfläche",
+          "v": "harte Oberfläche (Asphalt, Zement); \"Variable\" pro AF3V"
+        },
+        {
+          "k": "Hunde",
+          "v": "An der Leine erlaubt"
+        },
+        {
+          "k": "Zugang",
+          "v": "A43 Ausgang 12 'Lac d'Aiguebelette'; großer Parkplatz am Maison du Lac; Lépin-le-Lac Station"
+        }
+      ],
+      "schema_amenities": [
+        "Greenway"
+      ],
+      "when_to_visit": "<p>Savoie Mont Blanc kündigt Zugang an <strong>das ganze Jahr über</strong>. Die flache, einfache Seeküstenroute ist für Familien geeignet; Die warme Jahreszeit fügt Schwimmen von den sieben Stränden des Sees hinzu. Hunde sind erlaubt, an der Leine.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "A 16.9 km circuit, ~1 h, +90 m, of which '11 km of greenway' per the tourist office — accessible to all.",
+          "tag": "Easy",
+          "title": "The lake loop by bike"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>voie verte du lac d'Aiguebelette</strong> runs along the south and east shore of the lake, from <strong>Sougey</strong> (Saint-Alban-de-Montbel) to <strong>La Combe</strong> (Aiguebelette-le-Lac), on a path reserved for walkers and cyclists. It forms the car-free stretch of the <strong>lake loop</strong>: a 16.9 km circuit rated easy, about 1 h by bike, 90 m of climb, of which the tourist office states '11 km of greenway', the rest on road.</p><p>The length of the greenway portion differs by source, and we give it as it stands: AF3V states 9.0 km (noting that 'a 3 km greenway has just been extended by 4 km'), Savoie Mont Blanc says 6 km, and the tourist office 11 km of the 17 km loop. The lake bans petrol-engine boats and has seven laid-out beaches.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free",
+        "best_season": null,
+        "commune": "Nances",
+        "dogs": "Allowed on a leash",
+        "parking": null,
+        "stroller": null,
+        "type": "Greenway",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Sources differ: 9.0 km per AF3V (which notes 'a 3 km greenway has just been extended by 4 km'), 6 km per Savoie Mont Blanc, and '11 km of greenway' of the 17 km loop per the tourist office. We report them as they stand.",
+          "q": "How long is the greenway?"
+        },
+        {
+          "a": "No. The 16.9 km loop uses the greenway for much of its length (south/east shore), then road sections for the rest.",
+          "q": "Is the full lake loop car-free?"
+        },
+        {
+          "a": "By car on the A43, exit 12 'Lac d'Aiguebelette', with a large car park at the Maison du Lac. By train, Lépin-le-Lac TER station on the Lyon to Chambéry line.",
+          "q": "How do I get there?"
+        },
+        {
+          "a": "Yes, on a leash (AF3V and the lake tourist office).",
+          "q": "Are dogs allowed?"
+        }
+      ],
+      "hero": {
+        "badge": "Greenway · Free",
+        "lead": "On the south shore of Lac d'Aiguebelette, a reserved greenway links Sougey to La Combe — the car-free heart of the lake loop, one of the easiest family routes in Savoie."
+      },
+      "hero_alt": "Greenway along Lac d'Aiguebelette, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "A43, exit 12 'Lac d'Aiguebelette'. Large car park at the Maison du Lac (Nances).",
+        "public_transport": "Lépin-le-Lac TER station, on the Lyon to Chambéry line."
+      },
+      "meta_description": "The reserved greenway of Lac d'Aiguebelette, car-free heart of the lake loop (16.9 km, easy). Free, open all year, dogs on a leash.",
+      "meta_title": "Voie verte du lac d'Aiguebelette · the lake loop by bike",
+      "name": "Voie verte du lac d'Aiguebelette",
+      "name_alternates": [
+        "Tour du lac d'Aiguebelette"
+      ],
+      "practical_info": [
+        {
+          "k": "Route",
+          "v": "South/east shore of Lac d'Aiguebelette, Sougey (Saint-Alban-de-Montbel) to La Combe (Aiguebelette-le-Lac)"
+        },
+        {
+          "k": "Lake loop",
+          "v": "16.9 km loop · easy · ~1 h · +90 m · of which '11 km greenway' (tourist office)"
+        },
+        {
+          "k": "Surface",
+          "v": "Hard surface (asphalt, cement); 'variable' per AF3V"
+        },
+        {
+          "k": "Dogs",
+          "v": "Allowed on a leash"
+        },
+        {
+          "k": "Access",
+          "v": "A43 exit 12 'Lac d'Aiguebelette'; large car park at the Maison du Lac; Lépin-le-Lac station"
+        }
+      ],
+      "schema_amenities": [
+        "Greenway"
+      ],
+      "when_to_visit": "<p>Savoie Mont Blanc announces access <strong>all year</strong>. The flat, easy lakeshore route suits families; the warm season adds swimming from the lake's seven beaches. Dogs are allowed, on a leash.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "Un circuito de 16.9 km, ~1 h, +90 m, de los cuales '11 km de greenway' por la oficina turística - accesible para todos.",
+          "tag": "Fácil",
+          "title": "El lazo del lago en bicicleta"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>voie verte du lac d'Aiguebelette</strong> corre por la orilla sur y este del lago, desde <strong>Sougey</strong> (Saint-Alban-de-Montbel) a <strong>La Combe</strong> (Aiguebelette-le-Lac), en un camino reservado para caminantes y ciclistas. Forma el tramo libre de coches de la <strong>langosta</strong>: un circuito de 16.9 km de fácil valoración, alrededor de 1 h en bicicleta, 90 m de escalada, de los cuales la oficina turística declara '11 km de greenway', el resto en carretera.</p><p>La longitud de la parte de la Vía Verde difiere por fuente, y la damos como está: AF3V declara 9,0 km (sintiendo que 'una vía verde de 3 km se ha extendido por 4 km'), Savoie Mont Blanc dice 6 km, y la oficina turística 11 km del bucle de 17 km. El lago prohíbe los barcos de motor de gasolina y tiene siete playas.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": null,
+        "commune": "Nances",
+        "dogs": "Permitido en una correa",
+        "parking": null,
+        "stroller": null,
+        "type": "Greenway",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Las fuentes difieren: 9.0 km por AF3V (que señala 'una vía verde de 3 km se ha extendido por 4 km'), 6 km por Savoie Mont Blanc, y '11 km de vía verde' del bucle de 17 km por la oficina turística. Los reportamos como están.",
+          "q": "¿Cuánto tiempo es la Vía Verde?"
+        },
+        {
+          "a": "No. El bucle de 16.9 km utiliza la vía verde para gran parte de su longitud (la orilla sur/este), luego secciones de carretera para el resto.",
+          "q": "¿El bucle del lago está libre de coches?"
+        },
+        {
+          "a": "En coche en el A43, salida 12 'Lac d'Aiguebelette', con un gran aparcamiento en el Maison du Lac. En tren, estación Lépin-le-Lac TER en la línea Lyon a Chambéry.",
+          "q": "¿Cómo llego allí?"
+        },
+        {
+          "a": "Sí, en una correa (AF3V y la oficina turística del lago).",
+          "q": "¿Se permiten perros?"
+        }
+      ],
+      "hero": {
+        "badge": "Greenway · Gratis",
+        "lead": "En la orilla sur de Lac d'Aiguebelette, una vía verde reservada conecta Sougey a La Combe — el corazón libre de coches del lazo del lago, una de las rutas familiares más fáciles en Savoie."
+      },
+      "hero_alt": "Vía Verde por Lac d'Aiguebelette, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "A43, salida 12 'Lac d'Aiguebelette'. Gran aparcamiento en el Maison du Lac (Nances).",
+        "public_transport": "Estación Lépin-le-Lac TER, en la línea Lyon a Chambéry."
+      },
+      "meta_description": "La vía verde reservada de Lac d'Aiguebelette, corazón sin coche del lazo del lago (16.9 km, fácil). Libre, abierto todo el año, perros en una correa.",
+      "meta_title": "Voie verte du lac d'Aiguebelette · el lazo del lago en bicicleta",
+      "name": "Voie verte du lac d'Aiguebelette",
+      "name_alternates": [
+        "Tour du lac d'Aiguebelette"
+      ],
+      "practical_info": [
+        {
+          "k": "Ruta",
+          "v": "Sur/este de Lac d'Aiguebelette, Sougey (Saint-Alban-de-Montbel) a La Combe (Aiguebelette-le-Lac)"
+        },
+        {
+          "k": "Lake loop",
+          "v": "16.9 km de bucle · fácil · ~1 h · +90 m · de los cuales '11 km de greenway' (oficina turística)"
+        },
+        {
+          "k": "Superficie",
+          "v": "Superficie dura (asfalto, cemento); 'variable' por AF3V"
+        },
+        {
+          "k": "Perros",
+          "v": "Permitido en una correa"
+        },
+        {
+          "k": "Acceso",
+          "v": "A43 exit 12 'Lac d'Aiguebelette'; aparcamiento grande en el Maison du Lac; Estación Lépin-le-Lac"
+        }
+      ],
+      "schema_amenities": [
+        "Greenway"
+      ],
+      "when_to_visit": "<p>Savoie Mont Blanc anuncia acceso <strong>año</strong>. La ruta plana y fácil de la orilla del lago se adapta a las familias; la temporada cálida añade nadar desde las siete playas del lago. Se permiten perros, en una correa.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Boucle de 16,9 km, ~1 h, +90 m, dont « 11 km de voie verte » selon l'office de tourisme — accessible à tous.",
+          "tag": "Facile",
+          "title": "Le tour du lac à vélo"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>voie verte du lac d'Aiguebelette</strong> longe la rive sud et est du lac, de <strong>Sougey</strong> (Saint-Alban-de-Montbel) à <strong>La Combe</strong> (Aiguebelette-le-Lac), sur un chemin réservé aux piétons et aux cyclistes. Elle forme le tronçon sans voiture du <strong>tour du lac</strong> : une boucle de 16,9 km classée facile, environ 1 h à vélo, 90 m de dénivelé, dont l'office de tourisme dit « 11 km de voie verte », le reste sur route.</p><p>La longueur de la partie en voie verte diffère selon la source, et nous la donnons telle quelle : l'AF3V indique 9,0 km (en précisant qu'« une voie verte de 3 km vient d'être prolongée de 4 km »), Savoie Mont Blanc parle de 6 km, et l'office de tourisme de 11 km sur les 17 km du tour. Le lac interdit les bateaux à moteur thermique et compte sept plages aménagées.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuit",
+        "best_season": null,
+        "commune": "Nances",
+        "dogs": "Acceptés en laisse",
+        "parking": null,
+        "stroller": null,
+        "type": "Voie verte",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Les sources diffèrent : 9,0 km selon l'AF3V (qui note qu'« une voie verte de 3 km vient d'être prolongée de 4 km »), 6 km selon Savoie Mont Blanc, et « 11 km de voie verte » sur les 17 km du tour selon l'office de tourisme. Nous les reportons telles quelles.",
+          "q": "Quelle est la longueur de la voie verte ?"
+        },
+        {
+          "a": "Non. La boucle de 16,9 km emprunte la voie verte sur une bonne partie de son tracé (rive sud/est), puis des sections sur route pour le reste.",
+          "q": "Le tour complet du lac est-il sans voiture ?"
+        },
+        {
+          "a": "En voiture par l'A43, sortie 12 « Lac d'Aiguebelette », avec un grand parking à la Maison du Lac. En train, gare TER de Lépin-le-Lac sur la ligne Lyon à Chambéry.",
+          "q": "Comment y accéder ?"
+        },
+        {
+          "a": "Oui, tenus en laisse (AF3V et office de tourisme du lac).",
+          "q": "Les chiens sont-ils acceptés ?"
+        }
+      ],
+      "hero": {
+        "badge": "Voie verte · Gratuit",
+        "lead": "Sur la rive sud du lac d'Aiguebelette, une voie verte réservée relie Sougey à La Combe — le cœur sans voiture du tour du lac, l'un des itinéraires familiaux les plus faciles de Savoie."
+      },
+      "hero_alt": "Voie verte le long du lac d'Aiguebelette, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "A43, sortie 12 « Lac d'Aiguebelette ». Grand parking à la Maison du Lac (Nances).",
+        "public_transport": "Gare TER de Lépin-le-Lac, sur la ligne Lyon à Chambéry."
+      },
+      "meta_description": "La voie verte réservée du lac d'Aiguebelette, cœur sans voiture du tour du lac (16,9 km, facile). Gratuite, accès toute l'année, chiens en laisse.",
+      "meta_title": "Voie verte du lac d'Aiguebelette · le tour du lac à vélo",
+      "name": "Voie verte du lac d'Aiguebelette",
+      "name_alternates": [
+        "Tour du lac d'Aiguebelette"
+      ],
+      "practical_info": [
+        {
+          "k": "Itinéraire",
+          "v": "Rive sud/est du lac d'Aiguebelette, de Sougey (Saint-Alban-de-Montbel) à La Combe (Aiguebelette-le-Lac)"
+        },
+        {
+          "k": "Tour du lac",
+          "v": "Boucle 16,9 km · facile · ~1 h · +90 m · dont « 11 km de voie verte » (office de tourisme)"
+        },
+        {
+          "k": "Revêtement",
+          "v": "Revêtement dur (enrobé, ciment) ; « variable » selon l'AF3V"
+        },
+        {
+          "k": "Chiens",
+          "v": "Acceptés tenus en laisse"
+        },
+        {
+          "k": "Accès",
+          "v": "A43 sortie 12 « Lac d'Aiguebelette » ; grand parking à la Maison du Lac ; gare de Lépin-le-Lac"
+        }
+      ],
+      "schema_amenities": [
+        "Voie verte"
+      ],
+      "when_to_visit": "<p>Savoie Mont Blanc annonce un accès <strong>toute l'année</strong>. Le parcours de fond de rive, facile et bien roulant, convient aux familles ; la belle saison ajoute la baignade sur les sept plages du lac. Les chiens sont acceptés, tenus en laisse.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "A 16.9 km di circuito, ~1 h, +90 m, di cui '11 km di greenway' per l'ufficio turistico — accessibile a tutti.",
+          "tag": "Facile",
+          "title": "Il ciclo del lago in bicicletta"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>voie verte du lac d'Aiguebelette</strong> corre lungo la sponda sud e orientale del lago, da <strong>Sougey</strong> (Saint-Alban-de-Montbel) a <strong>La Combe</strong> (Aiguebelette-le-Lac), su un percorso riservato a escursionisti e ciclisti. Forma il tratto senza auto del <strong>ciclo del lago</strong>: un circuito di 16.9 km valutato facile, circa 1 h in bicicletta, 90 m di salita, di cui l'ufficio turistico dichiara '11 km di greenway', il resto sulla strada.</p><p>La lunghezza della porzione di greenway differisce per fonte, e lo diamo come sta: AF3V afferma 9.0 km (notando che 'a 3 km di greenway è appena stata estesa di 4 km'), Savoie Mont Blanc dice 6 km, e l'ufficio turistico 11 km del loop 17 km. Il lago vieta le barche a motore a benzina e dispone di sette spiagge.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": null,
+        "commune": "Nances",
+        "dogs": "Consentito al guinzaglio",
+        "parking": null,
+        "stroller": null,
+        "type": "Greenway",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Le fonti differiscono: 9.0 km per AF3V (che nota 'a 3 km greenway è appena stata estesa di 4 km'), 6 km per Savoie Mont Blanc, e '11 km di greenway' del loop di 17 km per l'ufficio turistico. Noi li riferiamo come stanno.",
+          "q": "Quanto dura il verde?"
+        },
+        {
+          "a": "No. Il ciclo di 16.9 km utilizza la strada verde per gran parte della sua lunghezza (sud/est riva), poi sezioni stradali per il resto.",
+          "q": "Il ciclo completo del lago è privo di auto?"
+        },
+        {
+          "a": "In auto sulla A43, uscita 12 'Lac d'Aiguebelette', con un ampio parcheggio presso la Maison du Lac. In treno, stazione Lépin-le-Lac TER sulla linea Lione a Chambéry.",
+          "q": "Come ci arrivo?"
+        },
+        {
+          "a": "Sì, al guinzaglio (AF3V e l'ufficio turistico del lago).",
+          "q": "I cani sono ammessi?"
+        }
+      ],
+      "hero": {
+        "badge": "Greenway · Free",
+        "lead": "Sulla riva sud di Lac d'Aiguebelette, un verde riservato collega Sougey a La Combe — il cuore privo di auto del ciclo del lago, una delle vie familiari più facili in Savoie."
+      },
+      "hero_alt": "Greenway lungo Lac d'Aiguebelette, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "A43, uscita 12 'Lac d'Aiguebelette'. Grande parcheggio al Maison du Lac (Nances).",
+        "public_transport": "Stazione Lépin-le-Lac TER, sulla linea Lione a Chambéry."
+      },
+      "meta_description": "La greenway riservata di Lac d'Aiguebelette, cuore privo di auto del ciclo del lago (16.9 km, facile). Gratis, aperto tutto l'anno, cani al guinzaglio.",
+      "meta_title": "Voie verte du lac d'Aiguebelette · il ciclo del lago in bicicletta",
+      "name": "Voie verte du lac d'Aiguebelette",
+      "name_alternates": [
+        "Tour du lac d'Aiguebelette"
+      ],
+      "practical_info": [
+        {
+          "k": "Itinerario",
+          "v": "La riva sud/est di Lac d'Aiguebelette, Sougey (Saint-Alban-de-Montbel) a La Combe (Aiguebelette-le-Lac)"
+        },
+        {
+          "k": "Ciclo del lago",
+          "v": "16.9 km loop · facile · ~1 h · +90 m · di cui '11 km greenway' (ufficio turistico)"
+        },
+        {
+          "k": "Superficie",
+          "v": "Superficie dura (asfalto, cemento); Variabile per AF3V"
+        },
+        {
+          "k": "Cani",
+          "v": "Consentito al guinzaglio"
+        },
+        {
+          "k": "Accesso",
+          "v": "A43 uscita 12 'Lac d'Aiguebelette'; grande parcheggio al Maison du Lac; Stazione Lépin-le-Lac"
+        }
+      ],
+      "schema_amenities": [
+        "Greenway"
+      ],
+      "when_to_visit": "<p>Savoie Mont Blanc annuncia l'accesso <strong>tutto l'anno</strong>. Il percorso pianeggiante lungo la riva del lago si adatta alle famiglie; la stagione calda aggiunge nuoto dalle sette spiagge del lago. I cani sono ammessi, al guinzaglio.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Een circuit van 16,9 km, ~1 uur, +90 m, waarvan \"11 km greenway\" per VVV-kantoor toegankelijk voor iedereen.",
+          "tag": "Makkelijk",
+          "title": "De meerlus per fiets"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>voie verte du lac d'Aiguebelette</strong> loopt langs de zuid- en oostkust van het meer, van <strong>Sougey</strong> (Saint-Alban-de-Montbel) naar <strong>La Combe</strong> (Aiguebelette-le-Lac), op een pad gereserveerd voor wandelaars en fietsers. Het vormt het autovrije deel van de <strong>meerlus</strong>: een circuit van 16,9 km gemakkelijk beoordeeld, ongeveer 1 uur met de fiets, 90 meter klim, waarvan het VVV-kantoor staat \"11 km van greenway,\" de rest op de weg.</p><p>De lengte van het greenway gedeelte verschilt per bron, en we geven het zoals het er nu uitziet: AF3V geeft 9,0 km (waarin staat dat \"een 3 km groene weg net is verlengd met 4 km\"), Savoie Mont Blanc zegt 6 km, en het VVV 11 km van de 17 km lus. Het meer verbiedt benzinemotorboten en heeft zeven aangelegde stranden.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Vrij",
+        "best_season": null,
+        "commune": "Nances",
+        "dogs": "Aan een riem toegestaan",
+        "parking": null,
+        "stroller": null,
+        "type": "Greenway",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Bronnen verschillen: 9,0 km per AF3V (waarin staat \"een 3 km groene weg is zojuist verlengd met 4 km), 6 km per Savoie Mont Blanc, en \"11 km groene weg\" van de 17 km lus per VVV. We rapporteren ze in hun huidige vorm.",
+          "q": "Hoe lang is de groene weg?"
+        },
+        {
+          "a": "Nee. De 16,9 km lus maakt gebruik van de groene weg voor een groot deel van zijn lengte (zuid/oost kust), dan weg secties voor de rest.",
+          "q": "Is de volledige lus autovrij?"
+        },
+        {
+          "a": "Met de auto op de A43, afrit 12 'Lac d'Aiguebelette', met een grote parkeerplaats op de Maison du Lac. Met de trein, Lépin-le-Lac TER station op de Lyon naar Chambéry lijn.",
+          "q": "Hoe kom ik daar?"
+        },
+        {
+          "a": "Ja, aan de lijn (AF3V en het VVV-kantoor aan het meer).",
+          "q": "Zijn honden toegestaan?"
+        }
+      ],
+      "hero": {
+        "badge": "Greenway · Gratis",
+        "lead": "Aan de zuidkant van Lac d'Aiguebelette, een gereserveerde greenway verbindt Sougey met La Combe  het autovrije hart van het meer, een van de makkelijkste familieroutes in Savoie."
+      },
+      "hero_alt": "Greenway langs Lac d'Aiguebelette, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "A43, afslag 12 'Lac d'Aiguebelette'. Grote parkeerplaats op de Maison du Lac (Nances).",
+        "public_transport": "Lépin-le-Lac TER station, op de Lyon naar Chambéry lijn."
+      },
+      "meta_description": "De gereserveerde groene weg van Lac d'Aiguebelette, autovrij hart van het meer loop (16,9 km, gemakkelijk). Gratis, het hele jaar open, honden aan de lijn.",
+      "meta_title": "Voie verte du lac d'Aiguebelette · de meerlus met de fiets",
+      "name": "Voie verte du lac d'Aiguebelette",
+      "name_alternates": [
+        "Tour du lac d'Aiguebelette"
+      ],
+      "practical_info": [
+        {
+          "k": "Route",
+          "v": "Zuid/oostkust van Lac d'Aiguebelette, Sougey (Saint-Alban-de-Montbel) tot La Combe (Aiguebelette-le-Lac)"
+        },
+        {
+          "k": "Meerloop",
+          "v": "16,9 km lus · gemakkelijk · 1 uur · +90 m · waarvan 11 km greenway (toeristische kantoor)"
+        },
+        {
+          "k": "Oppervlakte",
+          "v": "Hard oppervlak (asfalt, cement); \"variabele\" per AF3V"
+        },
+        {
+          "k": "Honden",
+          "v": "Aan een riem toegestaan"
+        },
+        {
+          "k": "Toegang",
+          "v": "A43 afslag 12 'Lac d'Aiguebelette'; grote parkeerplaats op de Maison du Lac; Lépin-le-Lac-station"
+        }
+      ],
+      "schema_amenities": [
+        "Greenway"
+      ],
+      "when_to_visit": "<p>Savoie Mont Blanc kondigt toegang aan <strong>het hele jaar</strong>. De vlakke, gemakkelijke route aan de oever van het meer past bij gezinnen; het warme seizoen voegt zwemmen vanaf de zeven stranden van het meer. Honden zijn toegestaan, aangelijnd.</p>"
+    }
+  },
+  "latitude": 45.574476,
+  "longitude": 5.801086,
+  "official_site_url": "https://www.lac-aiguebelette.com/itineraires-cyclo/tour-du-lac-daiguebelette-7493868/",
+  "partners": [],
+  "postal_code": "73470",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-15. Sources : AF3V « Voie verte du lac d'Aiguebelette » (revêtement dur variable ; « une voie verte de 3 km vient d'être prolongée de 4 km » ; 9,0 km), office de tourisme lac-aiguebelette.com (tour du lac 16,9 km, facile, ~1 h, +90 m, « dont 11 km de voie verte », animaux acceptés), Savoie Mont Blanc (6 km de voie verte, coordonnées Maison du Lac 45.574476/5.801086, toute l'année). Voie verte dédiée sur la rive sud/est, de Sougey (Saint-Alban-de-Montbel) à La Combe (Aiguebelette-le-Lac). Longueur de voie verte contradictoire (6 / 9 / 11 km) reportée telle quelle. Bateaux à moteur thermique interdits ; 7 plages ; hangars à bateaux.",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "voie-verte-du-lac-d-aiguebelette",
+  "sources": [
+    "https://af3v.org/les-voies-vertes/voies/891-voie-verte-du-lac-d-aiguebelette/",
+    "https://www.lac-aiguebelette.com/itineraires-cyclo/tour-du-lac-daiguebelette-7493868/",
+    "https://www.savoie-mont-blanc.com/en/cylcling/lac-daiguebelette-greenway-646382/"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published for this itinerary; kept null rather than inferred from the surface."
+  ]
+}

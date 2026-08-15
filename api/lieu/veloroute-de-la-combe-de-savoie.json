@@ -1,0 +1,31 @@
+{
+  "name": "Véloroute de la Combe de Savoie (V62)",
+  "commune": "Albertville",
+  "gps": {
+    "lat": 45.671004,
+    "lng": 6.396774
+  },
+  "type": "voie-verte",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": null,
+  "winter": {
+    "access": "open",
+    "infrastructure": [],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
+  "official_url": "https://tourisme.coeurdesavoie.fr/bouger/activites-de-pleine-nature/velo/la-belle-via-veloroute-v62-v63/",
+  "last_verified": null
+}

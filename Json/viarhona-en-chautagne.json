@@ -1,0 +1,572 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-15",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "voie-verte",
+  "commune": "Chanaz",
+  "date_modified_human": "15 août 2026",
+  "date_published_human": "15 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-15",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-voie-verte-foret.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Der Chautagne-Teil des ViaRhôna (EV17) mit einer dedizierten Strecke entlang des Rhône in Richtung Chanaz.",
+          "tag": "Radweg",
+          "title": "Entlang der Rhône bis Chanaz"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>ViaRhôna</strong>, oder <strong>EuroVelo 17</strong>, läuft den Rhône vom Genfer See bis zum Mittelmeer über etwa 815 km. In <strong>Savoie</strong> Es kreuzt die <strong>Chautagne</strong>: AF3V beschreibt den Abschnitt \"von Usinens (V62) bis Chanaz (V63)\", 27,6 km, die sich über die Departements Ain und Savoie auf Asphalt erstrecken, mit einer angekündigten Aufteilung von \"60% geteilten Straßen\". 40% Greenway. Eine echte dedizierte Strecke folgt dem Rhône zwischen dem 'rond-point de la Loi' und Chanaz, über Vions, gebaut im Jahr 2012.</p><p>Auf der Savoie-Seite sind die Gemeinden auf oder entlang der Route <strong>Serrières-en-Chautagne</strong> (Wein von Le Mollard), <strong>Vions</strong> und <strong>Chanaz</strong>, den Savoie-Terminus an der Mündung des Canal de Savières. Anmerkung: Auf dieser Bühne ist Usinens in Haute-Savoie, Seyssel wird mit dem Ain geteilt, und sowohl Culoz als auch Belley sind im Ain - Dies sind keine Savoie-Kommunen.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "frei",
+        "best_season": null,
+        "commune": "Chanaz",
+        "dogs": "An der Leine",
+        "parking": null,
+        "stroller": null,
+        "type": "Radweg",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Der Chautagne-Sektor, rund um den Rhône und den Canal de Savières: Serrières-en-Chautagne, Vions und Chanaz. AF3V verbindet diesen Sektor mit dem Abschnitt \"von Usinens (V62) bis Chanaz (V63)\", 27,6 km über dem Ain und Savoie.",
+          "q": "Welcher Teil des ViaRhôna befindet sich in Savoie?"
+        },
+        {
+          "a": "Nein. AF3V kündigt '60% geteilte Straßen an; 40% greenway 'auf diesem abschnitt. Eine echt dedizierte Strecke folgt dem Rhône zwischen dem 'rond-point de la Loi' und Chanaz über Vions.",
+          "q": "Ist das alles autofreie Greenway?"
+        },
+        {
+          "a": "Ja: bei Chanaz verbindet sich die Route mit der V63; von der Canal de Savières eine Bootsfahrt verbindet Lac du Bourget und Aix-les-Bains.",
+          "q": "Können Sie Lac du Bourget erreichen?"
+        },
+        {
+          "a": "Ja, mehrere Mietoutfits basieren auf Chanaz; Die Route trägt das Accueil Vélo Label.",
+          "q": "Gibt es einen Fahrradverleih?"
+        }
+      ],
+      "hero": {
+        "badge": "Radweg · Frei",
+        "lead": "Im Chautagne folgt der ViaRhôna (EuroVelo 17) dem Rhône bis Chanaz, an der Mündung des Canal de Savières — der Savoie-Teil des großen Genfer Sees-zu-Mittelmeer-Radwegs."
+      },
+      "hero_alt": "ViaRhôna-Radroute entlang des Rhône im Chautagne, Savoie",
+      "how_to_get_there": {
+        "bike": "Fahrradverleih in Chanaz; Route trägt das Accueil Vélo Label.",
+        "car": "Chanaz wird von der D921 von Aix-les-Bains oder der Chautagne erreicht. Parken im Dorf.",
+        "public_transport": "nahe gelegene Stationen an Vions-Chanaz und Culoz (Ain); Seyssel Station."
+      },
+      "meta_description": "Der Savoie-Teil des ViaRhôna (EuroVelo 17) im Chautagne: entlang der Rhône über Serrières-en-Chautagne und Vions bis Chanaz. Kostenlos, Verbindung mit dem V63.",
+      "meta_title": "ViaRhôna im Chautagne (EV17) · Rhône bis Chanaz",
+      "name": "ViaRhôna en Chautagne (EV17)",
+      "name_alternates": [
+        "ViaRhôna",
+        "EuroVelo 17",
+        "EV17"
+      ],
+      "practical_info": [
+        {
+          "k": "Route",
+          "v": "ViaRhôna (EV17) im Chautagne: Serrières-en-Chautagne, Vions, Chanaz"
+        },
+        {
+          "k": "Abschnitt AF3V",
+          "v": "'From Usinens (V62) to Chanaz (V63)', 27,6 km streifend Ain/Savoie"
+        },
+        {
+          "k": "Ausbau",
+          "v": "60% geteilte Straßen; 40% Greenway (AF3V); Asphalt"
+        },
+        {
+          "k": "ViaRhôna insgesamt",
+          "v": "~815 km, Genfer See bis zum Mittelmeer"
+        },
+        {
+          "k": "Anschluss",
+          "v": "Verbindung mit dem V63 bei Chanaz; Canal de Savières Kreuzfahrt Richtung Lac du Bourget"
+        }
+      ],
+      "schema_amenities": [
+        "Radweg",
+        "Accueil Vélo"
+      ],
+      "when_to_visit": "<p>Chanaz ist die Kreuzung mit dem V63 'La Belle Via': vom Canal de Savières aus verbindet eine Bootsfahrt Lac du Bourget und Aix-les-Bains. Wir fanden keinen offiziellen empfohlenen Saison- oder Winterstatus für den Savoie-Teil allein, so dass diese leer bleiben und nicht geschätzt werden.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "The Chautagne portion of the ViaRhôna (EV17), with a dedicated stretch along the Rhône towards Chanaz.",
+          "tag": "Cycle route",
+          "title": "Along the Rhône to Chanaz"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>ViaRhôna</strong>, or <strong>EuroVelo 17</strong>, runs down the Rhône from Lake Geneva to the Mediterranean over some 815 km. In <strong>Savoie</strong> it crosses the <strong>Chautagne</strong>: AF3V describes the section 'from Usinens (V62) to Chanaz (V63)', 27.6 km straddling the Ain and Savoie départements, on asphalt, with an announced split of '60% shared roads; 40% greenway'. A genuinely dedicated stretch follows the Rhône between the 'rond-point de la Loi' and Chanaz, via Vions, built in 2012.</p><p>On the Savoie side, the communes on or along the route are <strong>Serrières-en-Chautagne</strong> (hamlet of Le Mollard), <strong>Vions</strong> and <strong>Chanaz</strong>, the Savoie terminus at the mouth of the Canal de Savières. Note: on this stage, Usinens is in Haute-Savoie, Seyssel is shared with the Ain, and both Culoz and Belley are in the Ain — these are not Savoie communes.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free",
+        "best_season": null,
+        "commune": "Chanaz",
+        "dogs": "On a leash",
+        "parking": null,
+        "stroller": null,
+        "type": "Cycle route",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "The Chautagne sector, around the Rhône and the Canal de Savières: Serrières-en-Chautagne, Vions and Chanaz. AF3V ties this sector to the section 'from Usinens (V62) to Chanaz (V63)', 27.6 km straddling the Ain and Savoie.",
+          "q": "Which part of the ViaRhôna is in Savoie?"
+        },
+        {
+          "a": "No. AF3V announces '60% shared roads; 40% greenway' on this section. A genuinely dedicated stretch follows the Rhône between the 'rond-point de la Loi' and Chanaz, via Vions.",
+          "q": "Is it all car-free greenway?"
+        },
+        {
+          "a": "Yes: at Chanaz the route joins the V63; from the Canal de Savières a boat cruise links Lac du Bourget and Aix-les-Bains.",
+          "q": "Can you reach Lac du Bourget?"
+        },
+        {
+          "a": "Yes, several rental outfits are based in Chanaz; the route carries the Accueil Vélo label.",
+          "q": "Is there bike hire?"
+        }
+      ],
+      "hero": {
+        "badge": "Cycle route · Free",
+        "lead": "In the Chautagne, the ViaRhôna (EuroVelo 17) follows the Rhône to Chanaz, at the mouth of the Canal de Savières — the Savoie portion of the great Lake Geneva-to-Mediterranean cycle route."
+      },
+      "hero_alt": "ViaRhôna cycle route along the Rhône in the Chautagne, Savoie",
+      "how_to_get_there": {
+        "bike": "Bike hire in Chanaz; route carries the Accueil Vélo label.",
+        "car": "Chanaz is reached by the D921 from Aix-les-Bains or the Chautagne. Parking in the village.",
+        "public_transport": "Nearby stations at Vions-Chanaz and Culoz (Ain); Seyssel station."
+      },
+      "meta_description": "The Savoie portion of the ViaRhôna (EuroVelo 17) in the Chautagne: along the Rhône via Serrières-en-Chautagne and Vions to Chanaz. Free, junction with the V63.",
+      "meta_title": "ViaRhôna in the Chautagne (EV17) · the Rhône to Chanaz",
+      "name": "ViaRhôna en Chautagne (EV17)",
+      "name_alternates": [
+        "ViaRhôna",
+        "EuroVelo 17",
+        "EV17"
+      ],
+      "practical_info": [
+        {
+          "k": "Route",
+          "v": "ViaRhôna (EV17) in the Chautagne: Serrières-en-Chautagne, Vions, Chanaz"
+        },
+        {
+          "k": "AF3V section",
+          "v": "'From Usinens (V62) to Chanaz (V63)', 27.6 km straddling Ain/Savoie"
+        },
+        {
+          "k": "Build-out",
+          "v": "60% shared roads; 40% greenway (AF3V); asphalt"
+        },
+        {
+          "k": "ViaRhôna total",
+          "v": "~815 km, Lake Geneva to the Mediterranean"
+        },
+        {
+          "k": "Connection",
+          "v": "Junction with the V63 at Chanaz; Canal de Savières cruise towards Lac du Bourget"
+        }
+      ],
+      "schema_amenities": [
+        "Cycle route",
+        "Accueil Vélo"
+      ],
+      "when_to_visit": "<p>Chanaz is the junction with the V63 'La Belle Via': from the Canal de Savières, a boat cruise links Lac du Bourget and Aix-les-Bains. We found no official recommended season or winter status for the Savoie portion alone, so those are left blank rather than estimated.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "La porción Chautagne de la ViaRhôna (EV17), con un tramo dedicado a lo largo de la Rhône hacia Chanaz.",
+          "tag": "Ruta del ciclo",
+          "title": "A lo largo de Rhône a Chanaz"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>ViaRhôna</strong>o <strong>EuroVelo 17</strong>, recorre el Rhône desde el lago de Ginebra hasta el Mediterráneo sobre unos 815 km. In <strong>Savoie</strong> cruza la <strong>Chautagne</strong>: AF3V describe la sección 'desde Usinens (V62) a Chanaz (V63)', 27.6 km que rodea los departamentos Ain y Savoie, en asfalto, con una división anunciada de '60% carreteras compartidas; Un 40% de vía verde. Un tramo verdaderamente dedicado sigue el Rhône entre el rond-point de la Loi y Chanaz, a través de Vions, construido en 2012.</p><p>En el lado Savoie, las comunas en o a lo largo de la ruta son <strong>Serrières-en-Chautagne</strong> (hamlet of Le Mollard), <strong>Vions</strong> y <strong>Chanaz</strong>, el termino Savoie en la boca de la Canal de Savières. Nota: en esta etapa, Usinens está en Haute-Savoie, Seyssel es compartido con el Ain, y ambos Culoz y Belley están en el Ain — estos no son comunas Savoie.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": null,
+        "commune": "Chanaz",
+        "dogs": "En una correa",
+        "parking": null,
+        "stroller": null,
+        "type": "Ruta del ciclo",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "El sector Chautagne, alrededor de Rhône y Canal de Savières: Serrières-en-Chautagne, Vions y Chanaz. AF3V vincula este sector con la sección 'desde Usinens (V62) a Chanaz (V63)', 27.6 km atacando el Ain y Savoie.",
+          "q": "¿Qué parte de la ViaRhôna está en Savoie?"
+        },
+        {
+          "a": "No. AF3V anuncia '60% caminos compartidos; Un 40% de vía verde en esta sección. Un tramo verdaderamente dedicado sigue el Rhône entre el rond-point de la Loi y Chanaz, vía Vions.",
+          "q": "¿Está todo libre de autos?"
+        },
+        {
+          "a": "Sí: en Chanaz la ruta se une a la V63; desde el Canal de Savières un crucero en barco enlaces Lac du Bourget y Aix-les-Bains.",
+          "q": "¿Puedes llegar a Lac du Bourget?"
+        },
+        {
+          "a": "Sí, varios trajes de alquiler están basados en Chanaz; la ruta lleva la etiqueta Accueil Vélo.",
+          "q": "¿Hay alquiler de bicicletas?"
+        }
+      ],
+      "hero": {
+        "badge": "Ruta del ciclo · Gratis",
+        "lead": "En el Chautagne, el ViaRhôna (EuroVelo 17) sigue el Rhône a Chanaz, en la boca del Canal de Savières — la parte Savoie de la gran ruta del ciclo del Lago de Ginebra a Mediterráneo."
+      },
+      "hero_alt": "ViaRhôna ruta del ciclo a lo largo de Rhône en el Chautagne, Savoie",
+      "how_to_get_there": {
+        "bike": "Alquiler de bicicletas en Chanaz; ruta lleva la etiqueta Accueil Vélo.",
+        "car": "Chanaz es alcanzado por el D921 de Aix-les-Bains o el Chautagne. Estacionamiento en el pueblo.",
+        "public_transport": "Estaciones cercanas en Vions-Chanaz y Culoz (Ain); Estación Seyssel."
+      },
+      "meta_description": "La porción Savoie de la ViaRhôna (EuroVelo 17) en el Chautagne: a lo largo de la Rhône vía Serrières-en-Chautagne y Vions a Chanaz. Libre, cruce con el V63.",
+      "meta_title": "ViaRhôna en Chautagne (EV17) · Rhône a Chanaz",
+      "name": "ViaRhôna en Chautagne (EV17)",
+      "name_alternates": [
+        "ViaRhôna",
+        "EuroVelo 17",
+        "EV17"
+      ],
+      "practical_info": [
+        {
+          "k": "Ruta",
+          "v": "ViaRhôna (EV17) en el Chautagne: Serrières-en-Chautagne, Vions, Chanaz"
+        },
+        {
+          "k": "Sección AF3V",
+          "v": "'De Usinens (V62) a Chanaz (V63)', a 27,6 km de Ain/Savoie"
+        },
+        {
+          "k": "Construir",
+          "v": "60% de las carreteras compartidas; 40% de vía verde (AF3V); asfalto"
+        },
+        {
+          "k": "Total ViaRhôna",
+          "v": "~815 km, Lago de Ginebra al Mediterráneo"
+        },
+        {
+          "k": "Conexión",
+          "v": "Junction with the V63 at Chanaz; Canal de Savières crucero hacia Lac du Bourget"
+        }
+      ],
+      "schema_amenities": [
+        "Ruta del ciclo",
+        "Accueil Vélo"
+      ],
+      "when_to_visit": "<p>Chanaz es la unión con el V63 'La Belle Via': desde el Canal de Savières, un crucero en barco conecta Lac du Bourget y Aix-les-Bains. No encontramos la estación oficial recomendada o el estado de invierno para la porción Savoie solo, por lo que se deja en blanco en lugar de estimar.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "La portion chautagnarde de la ViaRhôna (EV17), avec un tronçon en site propre le long du Rhône vers Chanaz.",
+          "tag": "Véloroute",
+          "title": "Le long du Rhône jusqu'à Chanaz"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>ViaRhôna</strong>, ou <strong>EuroVelo 17</strong>, descend le Rhône du Léman à la Méditerranée sur environ 815 km. En <strong>Savoie</strong>, elle traverse la <strong>Chautagne</strong> : l'AF3V décrit la section « de Usinens (V62) à Chanaz (V63) », 27,6 km à cheval sur l'Ain et la Savoie, sur enrobé, avec une répartition annoncée « voies partagées 60 % ; voies vertes 40 % ». Un vrai tronçon en site propre longe le Rhône entre le rond-point de la Loi et Chanaz, par Vions, aménagé en 2012.</p><p>Côté Savoie, les communes sur ou le long de l'itinéraire sont <strong>Serrières-en-Chautagne</strong> (hameau du Mollard), <strong>Vions</strong> et <strong>Chanaz</strong>, terminus savoyard à l'entrée du canal de Savières. Attention : sur cette étape, Usinens est en Haute-Savoie, Seyssel est partagée avec l'Ain, et Culoz comme Belley sont dans l'Ain — ce ne sont pas des communes de Savoie.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuit",
+        "best_season": null,
+        "commune": "Chanaz",
+        "dogs": "En laisse",
+        "parking": null,
+        "stroller": null,
+        "type": "Véloroute",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Le secteur de la Chautagne, autour du Rhône et du canal de Savières : Serrières-en-Chautagne, Vions et Chanaz. L'AF3V rattache ce secteur à la section « de Usinens (V62) à Chanaz (V63) », 27,6 km à cheval sur l'Ain et la Savoie.",
+          "q": "Quelle partie de la ViaRhôna est en Savoie ?"
+        },
+        {
+          "a": "Non. L'AF3V annonce « voies partagées 60 % ; voies vertes 40 % » sur cette section. Un tronçon réellement en site propre longe le Rhône entre le rond-point de la Loi et Chanaz, par Vions.",
+          "q": "Est-ce entièrement en voie verte ?"
+        },
+        {
+          "a": "Oui : à Chanaz, l'itinéraire rejoint la V63 ; depuis le canal de Savières, une croisière relie le lac du Bourget et Aix-les-Bains.",
+          "q": "Peut-on rejoindre le lac du Bourget ?"
+        },
+        {
+          "a": "Oui, plusieurs loueurs sont installés à Chanaz ; l'itinéraire est labellisé Accueil Vélo.",
+          "q": "Y a-t-il une location de vélos ?"
+        }
+      ],
+      "hero": {
+        "badge": "Véloroute · Gratuit",
+        "lead": "En Chautagne, la ViaRhôna (EuroVelo 17) longe le Rhône jusqu'à Chanaz, à l'entrée du canal de Savières — la portion savoyarde de la grande véloroute du Léman à la Méditerranée."
+      },
+      "hero_alt": "Véloroute ViaRhôna le long du Rhône en Chautagne, Savoie",
+      "how_to_get_there": {
+        "bike": "Loueurs de vélos à Chanaz ; itinéraire labellisé Accueil Vélo.",
+        "car": "Chanaz est accessible par la D921 depuis Aix-les-Bains ou la Chautagne. Stationnement au village.",
+        "public_transport": "Gares proches de Vions-Chanaz et de Culoz (Ain) ; gare de Seyssel."
+      },
+      "meta_description": "La portion savoyarde de la ViaRhôna (EuroVelo 17) en Chautagne : le long du Rhône par Serrières-en-Chautagne et Vions jusqu'à Chanaz. Gratuit, jonction avec la V63.",
+      "meta_title": "ViaRhôna en Chautagne (EV17) · le Rhône jusqu'à Chanaz",
+      "name": "ViaRhôna en Chautagne (EV17)",
+      "name_alternates": [
+        "ViaRhôna",
+        "EuroVelo 17",
+        "EV17"
+      ],
+      "practical_info": [
+        {
+          "k": "Itinéraire",
+          "v": "ViaRhôna (EV17) en Chautagne : Serrières-en-Chautagne, Vions, Chanaz"
+        },
+        {
+          "k": "Section AF3V",
+          "v": "« De Usinens (V62) à Chanaz (V63) », 27,6 km à cheval Ain/Savoie"
+        },
+        {
+          "k": "Aménagement",
+          "v": "Voies partagées 60 % ; voies vertes 40 % (AF3V) ; enrobé"
+        },
+        {
+          "k": "Total ViaRhôna",
+          "v": "~815 km, du Léman à la Méditerranée"
+        },
+        {
+          "k": "Connexion",
+          "v": "Jonction avec la V63 à Chanaz ; croisière sur le canal de Savières vers le lac du Bourget"
+        }
+      ],
+      "schema_amenities": [
+        "Véloroute",
+        "Accueil Vélo"
+      ],
+      "when_to_visit": "<p>Chanaz est le point de jonction avec la V63 « La Belle Via » : depuis le canal de Savières, une croisière relie le lac du Bourget et Aix-les-Bains. Nous n'avons pas trouvé de saison conseillée ni de statut hivernal officiels pour la seule portion savoyarde : ces informations restent donc non renseignées plutôt qu'estimées.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "La porzione Chautagne della ViaRhôna (EV17), con un tratto dedicato lungo la Rhône verso Chanaz.",
+          "tag": "Percorso ciclo",
+          "title": "Lungo la Rhône a Chanaz"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>ViaRhôna</strong>o <strong>EuroVelo 17</strong>, corre lungo la Rhône dal lago di Ginevra al Mediterraneo su circa 815 km. In <strong>Savoie</strong> che attraversa il <strong>Chautagne</strong>: AF3V descrive la sezione 'da Usinens (V62) a Chanaz (V63)', 27.6 km che si aggira sui dipartimenti Ain e Savoie, sull'asfalto, con una divisione annunciata del '60% delle strade condivise; 40% di verde. Un tratto veramente dedicato segue l'Rhône tra il 'rond-point de la Loi' e Chanaz, via Vions, costruito nel 2012.</p><p>Sul lato Savoie, i comuni sul o lungo il percorso sono <strong>Serrières-en-Chautagne</strong> (hamlet di Le Mollard), <strong>Vions</strong> e <strong>Chanaz</strong>, il termine Savoie alla bocca del Canal de Savières. Nota: in questa fase, Usinens è in Haute-Savoie, Seyssel è condiviso con l'Ain, e sia Culoz che Belley sono nell'Ain — questi non sono comuni Savoie.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": null,
+        "commune": "Chanaz",
+        "dogs": "Su un guinzaglio",
+        "parking": null,
+        "stroller": null,
+        "type": "Percorso ciclo",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Il settore Chautagne, intorno a Rhône e Canal de Savières: Serrières-en-Chautagne, Vions e Chanaz. AF3V lega questo settore alla sezione 'da Usinens (V62) a Chanaz (V63)', 27,6 km che si straddling Ain e Savoie.",
+          "q": "Quale parte della ViaRhôna è in Savoie?"
+        },
+        {
+          "a": "No. AF3V annuncia '60% strade condivise; Il 40% di verde su questa sezione. Un tratto veramente dedicato segue l'Rhône tra il 'rond-point de la Loi' e Chanaz, via Vions.",
+          "q": "E' tutto senza auto?"
+        },
+        {
+          "a": "Sì. a Chanaz il percorso si unisce a V63; da Canal de Savières una nave crociera collega Lac du Bourget e Aix-les-Bains.",
+          "q": "Puoi raggiungere Lac du Bourget?"
+        },
+        {
+          "a": "Sì, diversi outfit di noleggio hanno sede in Chanaz; il percorso porta l'etichetta Accueil Vélo.",
+          "q": "C'e' noleggio bici?"
+        }
+      ],
+      "hero": {
+        "badge": "Percorso ciclo · Gratis",
+        "lead": "Nell'Chautagne, l'ViaRhôna (EuroVelo 17) segue l'Rhône a Chanaz, alla bocca dello Canal de Savières — la parte Savoie del grande percorso del Lago di Ginevra-Mediterraneo."
+      },
+      "hero_alt": "Percorso ciclo ViaRhôna lungo la Rhône in Chautagne, Savoie",
+      "how_to_get_there": {
+        "bike": "Noleggio bici in Chanaz; il percorso porta l'etichetta Accueil Vélo.",
+        "car": "Chanaz è raggiunto dal D921 da Aix-les-Bains o Chautagne. Parcheggio nel villaggio.",
+        "public_transport": "Stazioni nelle vicinanze a Vions-Chanaz e Culoz (Ain); Stazione Seyssel."
+      },
+      "meta_description": "La porzione Savoie dell'ViaRhôna (EuroVelo 17) nell'Chautagne: lungo Rhône tramite Serrières-en-Chautagne e Vions a Chanaz. Gratuito, giunzione con V63.",
+      "meta_title": "ViaRhôna in Chautagne (EV17) · Rhône a Chanaz",
+      "name": "ViaRhôna en Chautagne (EV17)",
+      "name_alternates": [
+        "ViaRhôna",
+        "EuroVelo 17",
+        "EV17"
+      ],
+      "practical_info": [
+        {
+          "k": "Itinerario",
+          "v": "ViaRhôna (EV17) in Chautagne: Serrières-en-Chautagne, Vions, Chanaz"
+        },
+        {
+          "k": "Sezione AF3V",
+          "v": "'Da Usinens (V62) a Chanaz (V63)', 27,6 km che si straddling Ain/Savoie"
+        },
+        {
+          "k": "Costruire",
+          "v": "60% strade comuni; 40% greenway (AF3V); asfalto"
+        },
+        {
+          "k": "ViaRhôna totale",
+          "v": "~815 km, Lago di Ginevra al Mediterraneo"
+        },
+        {
+          "k": "Connessione",
+          "v": "Giunzione con V63 a Chanaz; Canal de Savières crociera verso Lac du Bourget"
+        }
+      ],
+      "schema_amenities": [
+        "Percorso ciclo",
+        "Accueil Vélo"
+      ],
+      "when_to_visit": "<p>Chanaz è l'incrocio con la V63 'La Belle Via': da Canal de Savières, una nave da crociera collega Lac du Bourget e Aix-les-Bains. Non abbiamo trovato alcun stato ufficiale consigliato stagione o inverno per la parte Savoie da solo, quindi quelli sono lasciati vuoti piuttosto che stimati.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Het Chautagne-gedeelte van de ViaRhôna (EV17), met een speciaal traject langs de Rhône naar Chanaz.",
+          "tag": "Fietsroute",
+          "title": "Langs de Rhône naar Chanaz"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>ViaRhôna</strong>, of <strong>EuroVelo 17</strong>, loopt over de Rhône van het Meer van Genève naar de Middellandse Zee over ongeveer 815 km. In <strong>Savoie</strong> het kruist de <strong>Chautagne</strong>: AF3V beschrijft de sectie 'van Usinens (V62) tot Chanaz (V63)', 27,6 km over de Ain- en Savoie-afdelingen, op asfalt, met een aangekondigde splitsing van '60% gedeelde wegen; 40% greenway.\" Een echt toegewijd stuk volgt de Rhône tussen de 'rond-point de la Loi' en Chanaz, via Vions, gebouwd in 2012.</p><p>Aan de Savoie kant zijn de gemeenten op of langs de route <strong>Serrières-en-Chautagne</strong> (hamlet van Le Mollard), <strong>Vions</strong> en <strong>Chanaz</strong>, de Savoie eindpunt aan de monding van de Canal de Savières. Opmerking: Op deze etappe, Usinens is in Haute-Savoie, Seyssel wordt gedeeld met de Ain, en zowel Culoz en Belley zijn in de Ain Dit zijn geen Savoie gemeenten.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Vrij",
+        "best_season": null,
+        "commune": "Chanaz",
+        "dogs": "Aan een riem",
+        "parking": null,
+        "stroller": null,
+        "type": "Fietsroute",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "De Chautagne sector, rond de Rhône en de Canal de Savières: Serrières-en-Chautagne, Vions en Chanaz. AF3V verbindt deze sector met de sectie 'van Usinens (V62) naar Chanaz (V63)', 27,6 km over de Ain en Savoie.",
+          "q": "Welk deel van de ViaRhôna is in Savoie?"
+        },
+        {
+          "a": "Nee. AF3V kondigt '60% gedeelde wegen aan; 40% greenway' op deze sectie. Een echt toegewijd stuk volgt de Rhône tussen de 'rond-point de la Loi' en Chanaz, via Vions.",
+          "q": "Is het allemaal autovrije greenway?"
+        },
+        {
+          "a": "Ja: bij Chanaz sluit de route zich aan bij de V63; van de Canal de Savières een boot cruise links Lac du Bourget en Aix-les-Bains.",
+          "q": "Kunt u bij Lac du Bourget komen?"
+        },
+        {
+          "a": "Ja, verschillende verhuur outfits zijn gevestigd in Chanaz; de route draagt het Accueil Vélo label.",
+          "q": "Is er een fiets gehuurd?"
+        }
+      ],
+      "hero": {
+        "badge": "Fietsroute · Vrij",
+        "lead": "In de Chautagne volgt de ViaRhôna (EuroVelo 17) de Rhône tot Chanaz, aan de monding van de Canal de Savières . het Savoie gedeelte van het grote Meer van Genève-tot-Mediterrane fietsroute."
+      },
+      "hero_alt": "ViaRhôna-cyclusroute langs de Rhône in de Chautagne, Savoie",
+      "how_to_get_there": {
+        "bike": "Fietsverhuur in Chanaz; route draagt het Accueil Vélo label.",
+        "car": "Chanaz wordt bereikt door de D921 van Aix-les-Bains of de Chautagne. Parkeren in het dorp.",
+        "public_transport": "nabijgelegen stations op Vions-Chanaz en Culoz (Ain); Seyssel station."
+      },
+      "meta_description": "Het Savoie gedeelte van de ViaRhôna (EuroVelo 17) in de Chautagne: langs de Rhône via Serrières-en-Chautagne en Vions naar Chanaz. Vrij, verbinding met de V63.",
+      "meta_title": "ViaRhôna in de Chautagne (EV17) · de Rhône naar Chanaz",
+      "name": "ViaRhôna en Chautagne (EV17)",
+      "name_alternates": [
+        "ViaRhôna",
+        "EuroVelo 17",
+        "EV17"
+      ],
+      "practical_info": [
+        {
+          "k": "Route",
+          "v": "ViaRhôna (EV17) in de Chautagne: Serrières-en-Chautagne, Vions, Chanaz"
+        },
+        {
+          "k": "AF3V sectie",
+          "v": "\"From Usinens (V62) to Chanaz (V63),\" 27,6 km trading Ain/Savoie"
+        },
+        {
+          "k": "Bouwen",
+          "v": "60% gedeelde wegen; 40% greenway (AF3V); asfalt"
+        },
+        {
+          "k": "ViaRhôna totaal",
+          "v": "~815 km, Meer van Genève naar de Middellandse Zee"
+        },
+        {
+          "k": "Verbinding",
+          "v": "Verbinding met de V63 op Chanaz; Canal de Savières cruise richting Lac du Bourget"
+        }
+      ],
+      "schema_amenities": [
+        "Fietsroute",
+        "Accueil Vélo"
+      ],
+      "when_to_visit": "<p>Chanaz is de verbinding met de V63 'La Belle Via': van de Canal de Savières, een boot cruise links Lac du Bourget en Aix-les-Bains. We vonden geen officieel aanbevolen seizoen of winter status voor het Savoie gedeelte alleen, dus die zijn leeg gelaten in plaats van geschat.</p>"
+    }
+  },
+  "latitude": 45.7936,
+  "longitude": 5.7906,
+  "official_site_url": "https://www.viarhona.com/",
+  "partners": [],
+  "postal_code": "73310",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-15. Sources : viarhona.com (ViaRhôna / EuroVelo 17, ~815 km Léman→Méditerranée), AF3V section « EV17 de Usinens (V62) à Chanaz (V63) » (27,6 km à cheval sur l'Ain et la Savoie, enrobé, « voies partagées 60 % ; voies vertes 40 % »), chanaz.fr. Communes de Savoie confirmées sur/le long du tracé : Serrières-en-Chautagne (hameau Le Mollard), Vions, Chanaz (terminus savoyard, entrée du canal de Savières). Tronçon en site propre le long du Rhône entre le rond-point de la Loi et Chanaz via Vions, aménagé en 2012. Attention aux communes hors 73 sur l'étape (Usinens 74, Seyssel 01/74, Culoz et Belley 01). Yenne non confirmée sur le tracé officiel. Longueur de la seule portion savoyarde non indiquée : null.",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "viarhona-en-chautagne",
+  "sources": [
+    "https://www.viarhona.com/",
+    "https://en.viarhona.com/cycle-route/seyssel-chanaz-belley",
+    "https://www.af3v.org/les-voies-vertes/voies/475-ev17-viarhona-de-usinens-v62-a-chanaz-v63/",
+    "https://www.chanaz.fr/circuits-velo-vtt"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published for this itinerary; kept null rather than inferred from the surface."
+  ]
+}

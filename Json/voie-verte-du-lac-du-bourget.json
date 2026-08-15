@@ -1,0 +1,572 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-15",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "voie-verte",
+  "commune": "Le Bourget-du-Lac",
+  "date_modified_human": "15 août 2026",
+  "date_published_human": "15 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-15",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-voie-verte-cyclistes-lac.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Die \"La Belle Via\" Etappe entlang des Sees, 19 km davon 93% autofrei pro France Vélo Tourisme, auf glattem Asphalt.",
+          "tag": "Greenway",
+          "title": "Aix-les-Bains nach Chambéry mit dem Fahrrad"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>voie verte du lac du Bourget</strong> Links <strong>Aix-les-Bains bis Chambéry</strong> entlang der Ostküste des Sees, auf einem Weg, der Wanderern und Radfahrern vorbehalten ist. AF3V zeichnet es als Teil des V63 'de Chanaz à Chambéry' (39,7 km insgesamt) auf und beschreibt <strong>glattes Asphalt</strong> von guter Qualität, geeignet für Nutzer mit eingeschränkter Mobilität. France Vélo Tourisme vermarktet die Etappe Aix-les-Bains bis Chambéry als \"La Belle Via\": 19 km, 93% autofrei.</p><p>Die Zahlen unterscheiden sich je nach Quelle, und wir geben sie so an, wie sie stehen: AF3V misst 39,7 km für den gesamten V63 Chanaz bis Chambéry; France Vélo Tourisme gibt 19 km (93% autofrei) für Aix nach Chambéry an; Das Tourismusbüro Aix-les-Bains kündigt \"11 km Radweg entlang des Sees im Norden\" plus 3,5 km durch Chambéry an. Drei Strände punktieren die Route (Aviron, Lido, Mottets).</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "frei",
+        "best_season": null,
+        "commune": "Le Bourget-du-Lac",
+        "dogs": "An der Leine",
+        "parking": null,
+        "stroller": null,
+        "type": "Greenway",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Nein. Die autofreie Strecke verbindet Aix-les-Bains mit Chambéry entlang der Ostküste. Die Tour ist nicht ganz autofrei: Etwa 1,6 km werden mit der Straße zwischen Le Bourget-du-Lac und Bourdeau geteilt, und es gibt keine durchgehende Landverbindung zwischen Chanaz und Aix-les-Bains (TER-Zug oder Saisonboot über den Canal de Savières).",
+          "q": "Läuft der Greenway direkt um den See?"
+        },
+        {
+          "a": "AF3V beschreibt glatten, qualitativ hochwertigen Asphalt, der für Nutzer mit eingeschränkter Mobilität geeignet ist. Wir haben keine genauere offizielle Zugänglichkeitsbewertung gefunden.",
+          "q": "Ist die Oberfläche gut für Kinderwagen und Rollstühle?"
+        },
+        {
+          "a": "Es kommt darauf an, welcher Anteil gemessen wird: 39,7 km für die gesamte V63 Chanaz bis Chambéry (AF3V) oder 19 km für die Aix-les-Bains bis Chambéry, 93% autofrei (France Vélo Tourisme). Das Tourismusbüro Aix nennt \"11 km entlang des Sees\" plus 3,5 km durch Chambéry.",
+          "q": "Wie lange dauert es genau?"
+        },
+        {
+          "a": "Ja: Bei Chambéry geht der V63 (\"La Belle Via\") in Richtung Grenoble. Bei Chanaz tritt es dem ViaRhôna (EuroVelo 17) bei.",
+          "q": "Können Sie weiter machen?"
+        }
+      ],
+      "hero": {
+        "badge": "Greenway · frei",
+        "lead": "Zwischen Aix-les-Bains und Chambéry verläuft eine autofreie Grünstraße entlang der Ostküste von Lac du Bourget auf glattem Asphalt. die Savoie-Strecke des V63, auch bekannt als \"La Belle Via\" oder \"Avenue Verte Nord\"."
+      },
+      "hero_alt": "Radfahren Greenway entlang Lac du Bourget, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Erreichbar von Aix-les-Bains, Le Bourget-du-Lac oder Chambéry, die alle von der A41/A43 bedient werden. Mehrere Parkplätze am See (Grand Port, Strände).",
+        "public_transport": "TER Stationen an Aix-les-Bains und Chambéry, an jedem Ende der Route."
+      },
+      "meta_description": "Die autofreie Grünstraße entlang Lac du Bourget zwischen Aix-les-Bains und Chambéry (V63 / La Belle Via). Freier, glatter Asphalt, ganzjährig wettergerecht geöffnet.",
+      "meta_title": "Voie verte du lac du Bourget (V63) · Aix-les-Bains bis Chambéry",
+      "name": "Voie verte du lac du Bourget",
+      "name_alternates": [
+        "V63",
+        "La Belle Via",
+        "Avenue Verte Nord"
+      ],
+      "practical_info": [
+        {
+          "k": "Route",
+          "v": "Aix-les-Bains ↔ Chambéry, Ostküste von Lac du Bourget (V63 / La Belle Via / Avenue Verte Nord)"
+        },
+        {
+          "k": "Länge",
+          "v": "39,7 km ganze V63 Chanaz bis Chambéry (AF3V); 19 km Aix bis Chambéry, 93% autofrei (France Vélo Tourisme)"
+        },
+        {
+          "k": "Oberfläche",
+          "v": "Glatter Asphalt, geeignet für Nutzer mit eingeschränkter Mobilität (AF3V)"
+        },
+        {
+          "k": "Hunde",
+          "v": "An der Leine erlaubt"
+        },
+        {
+          "k": "Anschlüsse",
+          "v": "ViaRhôna bei Chanaz; La Belle Via Richtung Grenoble bei Chambéry"
+        }
+      ],
+      "schema_amenities": [
+        "Greenway",
+        "glatter Asphalt"
+      ],
+      "when_to_visit": "<p>Der Weg ist angekündigt <strong>Ganzjährig geöffnet</strong> vom Tourismusbüro Aix-les-Bains, \"je nach günstigem Wetter\". AF3V schlägt vor <strong>Mai bis September</strong> Und warnt, dass die Holzbrücken im nassen Zustand \"äußerst rutschig\" seien. Beide Angaben werden so gemeldet, wie sie vorliegen.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "The 'La Belle Via' stage along the lake, 19 km of which 93% car-free per France Vélo Tourisme, on smooth asphalt.",
+          "tag": "Greenway",
+          "title": "Aix-les-Bains to Chambéry by bike"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>voie verte du lac du Bourget</strong> links <strong>Aix-les-Bains to Chambéry</strong> along the lake's eastern shore, on a path reserved for walkers and cyclists. AF3V records it as part of the V63 'de Chanaz à Chambéry' (39.7 km in all) and describes <strong>smooth asphalt</strong> of good quality, suited to reduced-mobility users. France Vélo Tourisme markets the Aix-les-Bains to Chambéry stage as 'La Belle Via': 19 km, 93% car-free.</p><p>The figures differ by source, and we give them as they stand: AF3V measures 39.7 km for the whole V63 Chanaz to Chambéry; France Vélo Tourisme states 19 km (93% car-free) for Aix to Chambéry; the Aix-les-Bains tourist office announces '11 km of cycleway along the lake to the north' plus 3.5 km through Chambéry. Three beaches punctuate the route (Aviron, Lido, Mottets).</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free",
+        "best_season": null,
+        "commune": "Le Bourget-du-Lac",
+        "dogs": "On a leash",
+        "parking": null,
+        "stroller": null,
+        "type": "Greenway",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "No. The car-free stretch links Aix-les-Bains to Chambéry along the east shore. The tour is not entirely car-free: about 1.6 km is shared with the road between Le Bourget-du-Lac and Bourdeau, and there is no continuous land link between Chanaz and Aix-les-Bains (TER train or seasonal boat via the Canal de Savières).",
+          "q": "Does the greenway loop right round the lake?"
+        },
+        {
+          "a": "AF3V describes smooth, good-quality asphalt that it states is suited to reduced-mobility users. We found no more precise official accessibility rating.",
+          "q": "Is the surface fine for strollers and wheelchairs?"
+        },
+        {
+          "a": "It depends which portion is measured: 39.7 km for the whole V63 Chanaz to Chambéry (AF3V), or 19 km for the Aix-les-Bains to Chambéry stage alone, 93% car-free (France Vélo Tourisme). The Aix tourist office cites '11 km along the lake' plus 3.5 km through Chambéry.",
+          "q": "Exactly how long is it?"
+        },
+        {
+          "a": "Yes: at Chambéry the V63 ('La Belle Via') heads towards Grenoble; at Chanaz it joins the ViaRhôna (EuroVelo 17).",
+          "q": "Can you carry on further?"
+        }
+      ],
+      "hero": {
+        "badge": "Greenway · Free",
+        "lead": "Between Aix-les-Bains and Chambéry, a car-free greenway runs along the eastern shore of Lac du Bourget on smooth asphalt — the Savoie stretch of the V63, also known as 'La Belle Via' or 'Avenue Verte Nord'."
+      },
+      "hero_alt": "Cycling greenway along Lac du Bourget, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Reachable from Aix-les-Bains, Le Bourget-du-Lac or Chambéry, all served by the A41/A43. Several lakeside car parks (Grand Port, beaches).",
+        "public_transport": "TER stations at Aix-les-Bains and Chambéry, at each end of the route."
+      },
+      "meta_description": "The car-free greenway along Lac du Bourget between Aix-les-Bains and Chambéry (V63 / La Belle Via). Free, smooth asphalt, open all year subject to weather.",
+      "meta_title": "Voie verte du lac du Bourget (V63) · Aix-les-Bains to Chambéry",
+      "name": "Voie verte du lac du Bourget",
+      "name_alternates": [
+        "V63",
+        "La Belle Via",
+        "Avenue Verte Nord"
+      ],
+      "practical_info": [
+        {
+          "k": "Route",
+          "v": "Aix-les-Bains ↔ Chambéry, east shore of Lac du Bourget (V63 / La Belle Via / Avenue Verte Nord)"
+        },
+        {
+          "k": "Length",
+          "v": "39.7 km whole V63 Chanaz to Chambéry (AF3V); 19 km Aix to Chambéry, 93% car-free (France Vélo Tourisme)"
+        },
+        {
+          "k": "Surface",
+          "v": "Smooth asphalt, stated suited to reduced-mobility users (AF3V)"
+        },
+        {
+          "k": "Dogs",
+          "v": "Allowed on a leash"
+        },
+        {
+          "k": "Connections",
+          "v": "ViaRhôna at Chanaz; La Belle Via towards Grenoble at Chambéry"
+        }
+      ],
+      "schema_amenities": [
+        "Greenway",
+        "Smooth asphalt"
+      ],
+      "when_to_visit": "<p>The path is announced <strong>open all year</strong> by the Aix-les-Bains tourist office, 'subject to favourable weather'. AF3V rather suggests <strong>May to September</strong> and warns that the wooden-bridge crossings are 'extremely slippery' when wet. Both indications are reported as they stand.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "La etapa 'La Belle Via' a lo largo del lago, 19 km de los cuales 93% libre de coches por Francia Vélo Tourisme, sobre asfalto liso.",
+          "tag": "Greenway",
+          "title": "Aix-les-Bains a Chambéry en bicicleta"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>voie verte du lac du Bourget</strong> enlaces <strong>Aix-les-Bains a Chambéry</strong> a lo largo de la costa oriental del lago, en un camino reservado para caminantes y ciclistas. AF3V lo registra como parte del V63 'de Chanaz à Chambéry' (39.7 km en total) y describe <strong>asfalto liso</strong> de buena calidad, adaptado a usuarios de movilidad reducida. Francia Vélo Tourisme comercializa el escenario Aix-les-Bains a Chambéry como 'La Belle Via': 19 km, 93% sin coche.</p><p>Las cifras difieren por fuente, y las damos como están: AF3V mide 39,7 km para todo el V63 Chanaz a Chambéry; Francia Vélo Tourisme declara 19 km (93% sin coche) por Aix a Chambéry; la oficina turística de Aix-les-Bains anuncia '11 km de ciclismo a lo largo del lago al norte' más 3.5 km a través de Chambéry. Tres playas puntuan la ruta (Aviron, Lido, Mottets).</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": null,
+        "commune": "Le Bourget-du-Lac",
+        "dogs": "En una correa",
+        "parking": null,
+        "stroller": null,
+        "type": "Greenway",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "No. El tramo sin coche conecta Aix-les-Bains con Chambéry a lo largo de la costa este. El recorrido no es totalmente libre de coches: aproximadamente 1,6 km se comparte con la carretera entre Le Bourget-du-Lac y Bourdeau, y no hay conexión terrestre continua entre Chanaz y Aix-les-Bains (Terre o barco estacional vía Canal de Savières).",
+          "q": "¿El bucle de la Vía Verde rodea el lago?"
+        },
+        {
+          "a": "AF3V describe el asfalto suave y de buena calidad que afirma es adecuado para usuarios de movilidad reducida. No encontramos una calificación oficial de accesibilidad más precisa.",
+          "q": "¿La superficie está bien para paseadores y sillas de ruedas?"
+        },
+        {
+          "a": "Depende de qué porción se mide: 39,7 km para todo el V63 Chanaz a Chambéry (AF3V), o 19 km para la etapa Aix-les-Bains a Chambéry, 93% libre de coches (Francia Vélo Tourisme). La oficina turística de Aix cita '11 km a lo largo del lago' más 3.5 km a través de Chambéry.",
+          "q": "¿Cuánto tiempo es exactamente?"
+        },
+        {
+          "a": "Sí: en Chambéry el V63 ('La Belle Via') se dirige hacia Grenoble; en Chanaz se une a la ViaRhôna (EuroVelo 17).",
+          "q": "¿Puedes seguir adelante?"
+        }
+      ],
+      "hero": {
+        "badge": "Greenway · Gratis",
+        "lead": "Entre Aix-les-Bains y Chambéry, una vía verde libre de coches recorre la costa oriental de Lac du Bourget en asfalto liso: el tramo Savoie del V63, también conocido como 'La Belle Via' o 'Avenue Verte Nord'."
+      },
+      "hero_alt": "Vía verde en bicicleta por Lac du Bourget, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Alcanzado desde Aix-les-Bains, Le Bourget-du-Lac o Chambéry, todos servidos por el A41/A43. Varios aparcamientos junto al lago (Grand Port, playas).",
+        "public_transport": "Estaciones TER en Aix-les-Bains y Chambéry, en cada extremo de la ruta."
+      },
+      "meta_description": "La vía verde libre de coches a lo largo de Lac du Bourget entre Aix-les-Bains y Chambéry (V63 / La Belle Via). Asfalto libre, suave, abierto todo el año sujeto al clima.",
+      "meta_title": "Voie verte du lac du Bourget (V63) · Aix-les-Bains a Chambéry",
+      "name": "Voie verte du lac du Bourget",
+      "name_alternates": [
+        "V63",
+        "La Belle Via",
+        "Avenue Verte Nord"
+      ],
+      "practical_info": [
+        {
+          "k": "Ruta",
+          "v": "Aix-les-Bains ↔ Chambéry, costa este de Lac du Bourget (V63 / La Belle Via / Avenue Verte Nord)"
+        },
+        {
+          "k": "Duración",
+          "v": "39,7 km entero V63 Chanaz a Chambéry (AF3V); 19 km Aix a Chambéry, 93% sin coche (Francia Vélo Tourisme)"
+        },
+        {
+          "k": "Superficie",
+          "v": "Asfalto smooth, declarado adecuado para usuarios de movilidad reducida (AF3V)"
+        },
+        {
+          "k": "Perros",
+          "v": "Permitido en una correa"
+        },
+        {
+          "k": "Conexión",
+          "v": "ViaRhôna en Chanaz; La Belle Via hacia Grenoble en Chambéry"
+        }
+      ],
+      "schema_amenities": [
+        "Greenway",
+        "Smooth asphalt"
+      ],
+      "when_to_visit": "<p>El camino se anuncia <strong>abierto todo el año</strong> por la oficina turística de Aix-les-Bains, 'sujeto al clima favorable'. AF3V sugiere <strong>Mayo a septiembre</strong> y advierte que los cruces de madera-puente son 'extremadamente resbalosos' cuando están mojados. Ambas indicaciones se notifican cuando están en pie.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "L'étape « La Belle Via » le long du lac, 19 km dont 93 % en site propre selon France Vélo Tourisme, sur enrobé lisse.",
+          "tag": "Voie verte",
+          "title": "Aix-les-Bains à Chambéry à vélo"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>voie verte du lac du Bourget</strong> relie <strong>Aix-les-Bains à Chambéry</strong> le long de la rive orientale du lac, sur un chemin réservé aux piétons et aux cyclistes. L'AF3V l'inscrit dans la V63 « de Chanaz à Chambéry » (39,7 km au total) et décrit un <strong>enrobé lisse</strong>, de bonne qualité, adapté aux personnes à mobilité réduite. France Vélo Tourisme commercialise l'étape Aix-les-Bains à Chambéry sous le nom « La Belle Via » : 19 km dont 93 % en site propre.</p><p>Les chiffres diffèrent selon la source, et nous les donnons tels quels : l'AF3V mesure 39,7 km pour toute la V63 Chanaz à Chambéry ; France Vélo Tourisme retient 19 km (93 % en site propre) pour Aix à Chambéry ; l'office de tourisme d'Aix-les-Bains annonce « 11 km de piste cyclable le long du lac au nord » plus 3,5 km dans Chambéry. Trois plages jalonnent le parcours (Aviron, Lido, Mottets).</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuit",
+        "best_season": null,
+        "commune": "Le Bourget-du-Lac",
+        "dogs": "En laisse",
+        "parking": null,
+        "stroller": null,
+        "type": "Voie verte",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Non. Le tronçon en site propre relie Aix-les-Bains à Chambéry par la rive est. Le tour n'est pas intégralement sans voiture : environ 1,6 km sont partagés avec la route entre Le Bourget-du-Lac et Bourdeau, et il n'y a pas de liaison terrestre continue entre Chanaz et Aix-les-Bains (TER ou bateau saisonnier par le canal de Savières).",
+          "q": "La voie verte fait-elle le tour complet du lac ?"
+        },
+        {
+          "a": "L'AF3V décrit un enrobé lisse de bonne qualité, qu'elle indique adapté aux personnes à mobilité réduite. Nous n'avons pas trouvé de niveau d'accessibilité officiel plus précis.",
+          "q": "Le revêtement convient-il aux poussettes et aux fauteuils ?"
+        },
+        {
+          "a": "Cela dépend de la portion mesurée : 39,7 km pour toute la V63 Chanaz à Chambéry (AF3V), ou 19 km pour la seule étape Aix-les-Bains à Chambéry dont 93 % en site propre (France Vélo Tourisme). L'office de tourisme d'Aix cite « 11 km le long du lac » plus 3,5 km dans Chambéry.",
+          "q": "Quelle distance exactement ?"
+        },
+        {
+          "a": "Oui : à Chambéry, la V63 (« La Belle Via ») file vers Grenoble ; à Chanaz, elle rejoint la ViaRhôna (EuroVelo 17).",
+          "q": "Peut-on continuer au-delà ?"
+        }
+      ],
+      "hero": {
+        "badge": "Voie verte · Gratuit",
+        "lead": "Entre Aix-les-Bains et Chambéry, une voie verte en site propre longe la rive du lac du Bourget sur un enrobé lisse — le tronçon savoyard de la V63, aussi appelé « La Belle Via » ou « Avenue Verte Nord »."
+      },
+      "hero_alt": "Voie verte cyclable le long du lac du Bourget, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Accès depuis Aix-les-Bains, Le Bourget-du-Lac ou Chambéry, tous desservis par l'A41/A43. Plusieurs parkings au bord du lac (Grand Port, plages).",
+        "public_transport": "Gares TER d'Aix-les-Bains et de Chambéry, aux deux extrémités du parcours."
+      },
+      "meta_description": "La voie verte en site propre le long du lac du Bourget, entre Aix-les-Bains et Chambéry (V63 / La Belle Via). Gratuite, enrobé lisse, ouverte toute l'année selon météo.",
+      "meta_title": "Voie verte du lac du Bourget (V63) · Aix-les-Bains à Chambéry",
+      "name": "Voie verte du lac du Bourget",
+      "name_alternates": [
+        "V63",
+        "La Belle Via",
+        "Avenue Verte Nord"
+      ],
+      "practical_info": [
+        {
+          "k": "Itinéraire",
+          "v": "Aix-les-Bains ↔ Chambéry, rive est du lac du Bourget (V63 / La Belle Via / Avenue Verte Nord)"
+        },
+        {
+          "k": "Longueur",
+          "v": "39,7 km toute la V63 Chanaz à Chambéry (AF3V) ; 19 km Aix à Chambéry dont 93 % en site propre (France Vélo Tourisme)"
+        },
+        {
+          "k": "Revêtement",
+          "v": "Enrobé lisse, indiqué adapté aux personnes à mobilité réduite (AF3V)"
+        },
+        {
+          "k": "Chiens",
+          "v": "Acceptés tenus en laisse"
+        },
+        {
+          "k": "Connexions",
+          "v": "ViaRhôna à Chanaz ; La Belle Via vers Grenoble à Chambéry"
+        }
+      ],
+      "schema_amenities": [
+        "Voie verte",
+        "Enrobé lisse"
+      ],
+      "when_to_visit": "<p>La piste est annoncée <strong>ouverte toute l'année</strong> par l'office de tourisme d'Aix-les-Bains, « selon les conditions météorologiques favorables ». L'AF3V conseille plutôt la période de <strong>mai à septembre</strong> et prévient que les passages sur ponts en bois sont « extrêmement glissante » par temps humide. Les deux indications sont reportées telles quelles.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "La fase 'La Belle Via' lungo il lago, 19 km di cui 93% senza auto per France Vélo Tourisme, su asfalto liscio.",
+          "tag": "Greenway",
+          "title": "Aix-les-Bains a Chambéry in bicicletta"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>voie verte du lac du Bourget</strong> collegamenti <strong>Aix-les-Bains a Chambéry</strong> lungo la riva orientale del lago, su un sentiero riservato a escursionisti e ciclisti. AF3V lo registra come parte del V63 'de Chanaz à Chambéry' (39,7 km in tutto) e descrive <strong>asfalto liscio</strong> di buona qualità, adatto a utenti a mobilità ridotta. Francia Vélo Tourisme commercializza la fase Aix-les-Bains a Chambéry come 'La Belle Via': 19 km, 93% senza auto.</p><p>Le cifre differiscono per fonte e le diamo come stanno: AF3V misura 39,7 km per l'intero V63 Chanaz a Chambéry; Francia Vélo Tourisme dichiara 19 km (93% senza auto) per Aix a Chambéry; l'ufficio turistico Aix-les-Bains annuncia '11 km di pista ciclabile lungo il lago a nord' più 3,5 km attraverso Chambéry. Tre spiagge punteggiano il percorso (Aviron, Lido, Mottets).</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": null,
+        "commune": "Le Bourget-du-Lac",
+        "dogs": "Su un guinzaglio",
+        "parking": null,
+        "stroller": null,
+        "type": "Greenway",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "No. Il tratto auto-free collega Aix-les-Bains a Chambéry lungo la costa orientale. Il tour non è completamente gratuito: circa 1,6 km è condiviso con la strada tra Le Bourget-du-Lac e Bourdeau, e non c'è un collegamento terra continuo tra Chanaz e Aix-les-Bains (treno centrale o barca stagionale tramite Canal de Savières).",
+          "q": "L'anello di Greenway gira intorno al lago?"
+        },
+        {
+          "a": "AF3V descrive l'asfalto liscio e di buona qualità che afferma è adatto agli utenti di mobilità ridotta. Non abbiamo trovato più precise valutazioni ufficiali di accessibilità.",
+          "q": "La superficie va bene per passeggini e sedie a rotelle?"
+        },
+        {
+          "a": "Dipende quale porzione è misurata: 39,7 km per l'intero V63 Chanaz a Chambéry (AF3V), o 19 km per la fase Aix-les-Bains a Chambéry da solo, 93% senza auto (Francia Vélo Tourisme). L'ufficio turistico Aix cita '11 km lungo il lago' più 3,5 km attraverso Chambéry.",
+          "q": "Esattamente quanto tempo è?"
+        },
+        {
+          "a": "Sì. a Chambéry il V63 ('La Belle Via') si dirige verso Grenoble; a Chanaz entra in ViaRhôna (EuroVelo 17).",
+          "q": "Puoi continuare?"
+        }
+      ],
+      "hero": {
+        "badge": "Greenway · Free",
+        "lead": "Tra Aix-les-Bains e Chambéry, una strada verde senza auto corre lungo la costa orientale di Lac du Bourget su asfalto liscio — il tratto Savoie del V63, noto anche come 'La Belle Via' o 'Avenue Verte Nord'."
+      },
+      "hero_alt": "Ciclismo greenway lungo Lac du Bourget, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Raggiungibile da Aix-les-Bains, Le Bourget-du-Lac o Chambéry, il tutto servito dall'A41/A43. Diversi parcheggi sul lago (Grand Port, spiagge).",
+        "public_transport": "Stazioni TER a Aix-les-Bains e Chambéry, ad ogni estremità del percorso."
+      },
+      "meta_description": "Il verde senza auto lungo Lac du Bourget tra Aix-les-Bains e Chambéry (V63 / La Belle Via). Asfalto libero, liscio, aperto tutto l'anno soggetto a tempo.",
+      "meta_title": "Voie verte du lac du Bourget (V63) · Aix-les-Bains a Chambéry",
+      "name": "Voie verte du lac du Bourget",
+      "name_alternates": [
+        "V63",
+        "La Belle Via",
+        "Avenue Verte Nord"
+      ],
+      "practical_info": [
+        {
+          "k": "Itinerario",
+          "v": "Aix-les-Bains ↔ Chambéry, riva est di Lac du Bourget (V63 / La Belle Via / Avenue Verte Nord)"
+        },
+        {
+          "k": "Lunghezza",
+          "v": "39,7 km intero V63 Chanaz a Chambéry (AF3V); 19 km da Aix a Chambéry, 93% senza auto (Francia Vélo Tourisme)"
+        },
+        {
+          "k": "Superficie",
+          "v": "Asfalto liscio, indicato adatto per utenti a mobilità ridotta (AF3V)"
+        },
+        {
+          "k": "Cani",
+          "v": "Consentito al guinzaglio"
+        },
+        {
+          "k": "Collegamenti",
+          "v": "ViaRhôna a Chanaz; La Belle Via verso Grenoble a Chambéry"
+        }
+      ],
+      "schema_amenities": [
+        "Greenway",
+        "Asfalto liscio"
+      ],
+      "when_to_visit": "<p>Il sentiero è annunciato <strong>aperto tutto l'anno</strong> dall'ufficio turistico Aix-les-Bains, 'soggetto a clima favorevole'. AF3V piuttosto suggerisce <strong>Maggio a settembre</strong> e avverte che le traversate in legno-ponte sono 'estremamente scivolose' quando bagnate. Entrambe le indicazioni sono riportate come stanno.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "De etappe 'La Belle Via' langs het meer, 19 km waarvan 93% autovrij per Frankrijk Vélo Tourisme, op glad asfalt.",
+          "tag": "Greenway",
+          "title": "Aix-les-Bains naar Chambéry per fiets"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>voie verte du lac du Bourget</strong> links <strong>Aix-les-Bains naar Chambéry</strong> langs de oostelijke oever van het meer, op een pad gereserveerd voor wandelaars en fietsers. AF3V registreert het als onderdeel van de V63 'de Chanaz à Chambéry' (39,7 km in totaal) en beschrijft <strong>glad asfalt</strong> van goede kwaliteit, geschikt voor gebruikers met verminderde mobiliteit. Frankrijk Vélo Tourisme verkoopt de Aix-les-Bains naar Chambéry-fase als 'La Belle Via': 19 km, 93% autovrij.</p><p>De cijfers verschillen per bron en we geven ze in hun huidige vorm: AF3V meet 39,7 km voor de gehele V63 Chanaz tot Chambéry; Frankrijk Vélo Tourisme stelt 19 km (93% autovrij) voor Aix tot Chambéry; Het Aix-les-Bains VVV-kantoor kondigt '11 km fietsroute langs het meer naar het noorden' plus 3,5 km door Chambéry aan. Drie stranden punctueren de route (Aviron, Lido, Mottets).</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Vrij",
+        "best_season": null,
+        "commune": "Le Bourget-du-Lac",
+        "dogs": "Aan een riem",
+        "parking": null,
+        "stroller": null,
+        "type": "Greenway",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Nee. De autovrije stretch verbindt Aix-les-Bains met Chambéry langs de oostkust. De tour is niet geheel autovrij: ongeveer 1,6 km wordt gedeeld met de weg tussen Le Bourget-du-Lac en Bourdeau, en er is geen continue landverbinding tussen Chanaz en Aix-les-Bains (TER trein of seizoensgebonden boot via de Canal de Savières).",
+          "q": "Loopt de greenway langs het meer?"
+        },
+        {
+          "a": "AF3V beschrijft glad asfalt van goede kwaliteit dat geschikt is voor gebruikers met verminderde mobiliteit. We vonden geen preciezere officiële toegankelijkheidsbeoordeling.",
+          "q": "Is het oppervlak goed voor kinderwagens en rolstoelen?"
+        },
+        {
+          "a": "Het hangt af van welk deel wordt gemeten: 39,7 km voor de gehele V63 Chanaz tot Chambéry (AF3V), of 19 km voor de Aix-les-Bains tot Chambéry etappe alleen, 93% autovrij (Frankrijk Vélo Tourisme). Het Aix VVV-kantoor citeert '11 km langs het meer' plus 3,5 km door Chambéry.",
+          "q": "Hoe lang is het precies?"
+        },
+        {
+          "a": "Ja: bij Chambéry gaat de V63 ('La Belle Via') richting Grenoble; bij Chanaz voegt het zich bij de ViaRhôna (EuroVelo 17).",
+          "q": "Kun je verder gaan?"
+        }
+      ],
+      "hero": {
+        "badge": "Greenway · Gratis",
+        "lead": "Tussen Aix-les-Bains en Chambéry loopt een autovrije greenway langs de oostelijke oever van Lac du Bourget op glad asfalt. het Savoie-stuk van de V63, ook bekend als 'La Belle Via' of 'Avenue Verte Nord'."
+      },
+      "hero_alt": "Fietsen greenway langs Lac du Bourget, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Bereikbaar vanaf Aix-les-Bains, Le Bourget-du-Lac of Chambéry, allemaal bediend door de A41/A43. Verschillende parkeergarages aan het meer (Grand Port, stranden).",
+        "public_transport": "TER stations op Aix-les-Bains en Chambéry, aan elk uiteinde van de route."
+      },
+      "meta_description": "De autovrije greenway langs Lac du Bourget tussen Aix-les-Bains en Chambéry (V63 / La Belle Via). Gratis, glad asfalt, het hele jaar geopend, afhankelijk van het weer.",
+      "meta_title": "Voie verte du lac du Bourget (V63) · Aix-les-Bains naar Chambéry",
+      "name": "Voie verte du lac du Bourget",
+      "name_alternates": [
+        "V63",
+        "La Belle Via",
+        "Avenue Verte Nord"
+      ],
+      "practical_info": [
+        {
+          "k": "Route",
+          "v": "Aix-les-Bains ↔ Chambéry, oostkust van Lac du Bourget (V63 / La Belle Via / Avenue Verte Nord)"
+        },
+        {
+          "k": "Lengte",
+          "v": "39,7 km geheel V63 Chanaz tot Chambéry (AF3V); 19 km Aix tot Chambéry, 93% autovrij (Frankrijk Vélo Tourisme)"
+        },
+        {
+          "k": "Oppervlakte",
+          "v": "Glad asfalt, geschikt verklaard voor gebruikers met verminderde mobiliteit (AF3V)"
+        },
+        {
+          "k": "Honden",
+          "v": "Aan een riem toegestaan"
+        },
+        {
+          "k": "Verbindingen",
+          "v": "ViaRhôna bij Chanaz; La Belle Via richting Grenoble op Chambéry"
+        }
+      ],
+      "schema_amenities": [
+        "Greenway",
+        "Glad asfalt"
+      ],
+      "when_to_visit": "<p>Het pad is aangekondigd <strong>het hele jaar geopend</strong> door het Aix-les-Bains VVV, 'onder voorbehoud van gunstig weer'. AF3V suggereert eerder <strong>Van mei tot september</strong> en waarschuwt dat de houten brugovergangen 'uiterst glad' zijn als ze nat zijn. Beide indicaties worden in hun huidige vorm gerapporteerd.</p>"
+    }
+  },
+  "latitude": 45.655695,
+  "longitude": 5.861962,
+  "official_site_url": "https://www.af3v.org/les-voies-vertes/voies/156-v63-de-chanaz-a-chambery/",
+  "partners": [],
+  "postal_code": "73370",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-15. Official sources: AF3V fiche V63 « de Chanaz à Chambéry » (39,7 km, enrobé lisse, adapté PMR), francevelotourisme « La Belle Via » étape Aix-les-Bains→Chambéry (19 km, 93 % en site propre), office de tourisme d'Aix-les-Bains (11 km de piste le long du lac + 3,5 km dans Chambéry, ouvert toute l'année selon météo). Contradictions de longueur reportées telles quelles. Section Aix↔Chambéry = voie verte dédiée (Avenue Verte Nord). Chanaz↔Aix sans liaison terrestre continue (TER ou bateau saisonnier via le canal de Savières). Chiens en laisse ; AF3V signale des ponts en bois « extrêmement glissante » par temps humide.",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "voie-verte-du-lac-du-bourget",
+  "sources": [
+    "https://www.af3v.org/les-voies-vertes/voies/156-v63-de-chanaz-a-chambery/",
+    "https://en.francevelotourisme.com/cycle-route/la-belle-via/aix-les-bains-chambery",
+    "https://www.aixlesbains-rivieradesalpes.com/en/equipement/bourget-du-lac-aix-les-bains-cycle-path-le-bourget-du-lac/",
+    "https://grand-lac.fr/construit-demain/les-grands-projets/voies-douces"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published for this itinerary; kept null rather than inferred from the surface."
+  ]
+}

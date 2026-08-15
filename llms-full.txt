@@ -1,9 +1,9 @@
 # Loisirs 73 — Full content dump
 
 Generated: 2026-08-15
-Total lieux: 65
+Total lieux: 69
 
-This file concatenates the FR facet markdown of all 65 leisure sites in Savoie. Each section is a standalone markdown document with YAML frontmatter and the fixed facet heading canon. Sections are separated by `===` rulers.
+This file concatenates the FR facet markdown of all 69 leisure sites in Savoie. Each section is a standalone markdown document with YAML frontmatter and the fixed facet heading canon. Sections are separated by `===` rulers.
 
 For programmatic access, fetch individual files at https://loisirs73.fr/content/{slug}.md (FR), https://loisirs73.fr/content/en/{slug}.md (EN), or https://loisirs73.fr/api/lieu/{slug}.json (typed JSON).
 
@@ -4540,3 +4540,283 @@ Non renseigné
 ## Source officielle
 
 https://www.skipass-laplagne.com/
+
+================================================================================
+
+---
+slug: veloroute-de-la-combe-de-savoie
+name: "Véloroute de la Combe de Savoie (V62)"
+category: voie-verte
+category_label: "Voie verte"
+commune: "Albertville"
+postal_code: "73200"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.671004
+longitude: 6.396774
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/veloroute-de-la-combe-de-savoie
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/veloroute-de-la-combe-de-savoie.json
+photo_url: /img/generique/generique-voie-verte-cyclistes-riviere.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-15
+source: loisirs73.fr
+---
+
+# Véloroute de la Combe de Savoie (V62)
+
+## Faits
+
+- Commune: Albertville, Savoie (73200)
+- GPS: 45.671004, 6.396774
+- Catégorie: voie-verte
+- Type: Véloroute
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Non renseigné
+- Fenêtre d'accès hiver: Ouvert (accès déneigé)
+- Infrastructure hiver: Non renseigné
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
+
+## Source officielle
+
+https://tourisme.coeurdesavoie.fr/bouger/activites-de-pleine-nature/velo/la-belle-via-veloroute-v62-v63/
+
+================================================================================
+
+---
+slug: viarhona-en-chautagne
+name: "ViaRhôna en Chautagne (EV17)"
+category: voie-verte
+category_label: "Voie verte"
+commune: "Chanaz"
+postal_code: "73310"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.7936
+longitude: 5.7906
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/viarhona-en-chautagne
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/viarhona-en-chautagne.json
+photo_url: /img/generique/generique-voie-verte-foret.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-15
+source: loisirs73.fr
+---
+
+# ViaRhôna en Chautagne (EV17)
+
+## Faits
+
+- Commune: Chanaz, Savoie (73310)
+- GPS: 45.7936, 5.7906
+- Catégorie: voie-verte
+- Type: Véloroute
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Non renseigné
+- Fenêtre d'accès hiver: Non renseigné
+- Infrastructure hiver: Non renseigné
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
+
+## Source officielle
+
+https://www.viarhona.com/
+
+================================================================================
+
+---
+slug: voie-verte-du-lac-d-aiguebelette
+name: "Voie verte du lac d'Aiguebelette"
+category: voie-verte
+category_label: "Voie verte"
+commune: "Nances"
+postal_code: "73470"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.574476
+longitude: 5.801086
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/voie-verte-du-lac-d-aiguebelette
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/voie-verte-du-lac-d-aiguebelette.json
+photo_url: /img/generique/generique-voie-verte-famille-kids.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-15
+source: loisirs73.fr
+---
+
+# Voie verte du lac d'Aiguebelette
+
+## Faits
+
+- Commune: Nances, Savoie (73470)
+- GPS: 45.574476, 5.801086
+- Catégorie: voie-verte
+- Type: Voie verte
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Non renseigné
+- Fenêtre d'accès hiver: Ouvert (accès déneigé)
+- Infrastructure hiver: Non renseigné
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
+
+## Source officielle
+
+https://www.lac-aiguebelette.com/itineraires-cyclo/tour-du-lac-daiguebelette-7493868/
+
+================================================================================
+
+---
+slug: voie-verte-du-lac-du-bourget
+name: "Voie verte du lac du Bourget"
+category: voie-verte
+category_label: "Voie verte"
+commune: "Le Bourget-du-Lac"
+postal_code: "73370"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.655695
+longitude: 5.861962
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/voie-verte-du-lac-du-bourget
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/voie-verte-du-lac-du-bourget.json
+photo_url: /img/generique/generique-voie-verte-cyclistes-lac.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-15
+source: loisirs73.fr
+---
+
+# Voie verte du lac du Bourget
+
+## Faits
+
+- Commune: Le Bourget-du-Lac, Savoie (73370)
+- GPS: 45.655695, 5.861962
+- Catégorie: voie-verte
+- Type: Voie verte
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Non renseigné
+- Fenêtre d'accès hiver: Ouvert (accès déneigé)
+- Infrastructure hiver: Non renseigné
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
+
+## Source officielle
+
+https://www.af3v.org/les-voies-vertes/voies/156-v63-de-chanaz-a-chambery/

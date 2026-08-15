@@ -1,0 +1,31 @@
+{
+  "name": "Voie verte du lac du Bourget",
+  "commune": "Le Bourget-du-Lac",
+  "gps": {
+    "lat": 45.655695,
+    "lng": 5.861962
+  },
+  "type": "voie-verte",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": null,
+  "winter": {
+    "access": "open",
+    "infrastructure": [],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
+  "official_url": "https://www.af3v.org/les-voies-vertes/voies/156-v63-de-chanaz-a-chambery/",
+  "last_verified": null
+}

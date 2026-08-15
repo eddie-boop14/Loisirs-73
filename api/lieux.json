@@ -1,5 +1,5 @@
 {
-  "count": 65,
+  "count": 69,
   "lieux": [
     {
       "slug": "base-de-loisirs-gresy-sur-isere",
@@ -1365,6 +1365,90 @@
       "facet_md_en": "https://loisirs73.fr/content/en/vanoise-express.md",
       "facet_json": "https://loisirs73.fr/api/lieu/vanoise-express.json",
       "photo": "/img/telecabines/vanoise-express-hero.jpg"
+    },
+    {
+      "slug": "veloroute-de-la-combe-de-savoie",
+      "name": "Véloroute de la Combe de Savoie (V62)",
+      "category": "voie-verte",
+      "commune": "Albertville",
+      "postal_code": "73200",
+      "latitude": 45.671004,
+      "longitude": 6.396774,
+      "urls": {
+        "fr": "https://loisirs73.fr/veloroute-de-la-combe-de-savoie",
+        "en": "https://loisirs73.fr/en/veloroute-de-la-combe-de-savoie",
+        "de": "https://loisirs73.fr/de/veloroute-de-la-combe-de-savoie",
+        "it": "https://loisirs73.fr/it/veloroute-de-la-combe-de-savoie",
+        "es": "https://loisirs73.fr/es/veloroute-de-la-combe-de-savoie",
+        "nl": "https://loisirs73.fr/nl/veloroute-de-la-combe-de-savoie"
+      },
+      "facet_md": "https://loisirs73.fr/content/veloroute-de-la-combe-de-savoie.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/veloroute-de-la-combe-de-savoie.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/veloroute-de-la-combe-de-savoie.json",
+      "photo": "/img/generique/generique-voie-verte-cyclistes-riviere.jpg"
+    },
+    {
+      "slug": "viarhona-en-chautagne",
+      "name": "ViaRhôna en Chautagne (EV17)",
+      "category": "voie-verte",
+      "commune": "Chanaz",
+      "postal_code": "73310",
+      "latitude": 45.7936,
+      "longitude": 5.7906,
+      "urls": {
+        "fr": "https://loisirs73.fr/viarhona-en-chautagne",
+        "en": "https://loisirs73.fr/en/viarhona-en-chautagne",
+        "de": "https://loisirs73.fr/de/viarhona-en-chautagne",
+        "it": "https://loisirs73.fr/it/viarhona-en-chautagne",
+        "es": "https://loisirs73.fr/es/viarhona-en-chautagne",
+        "nl": "https://loisirs73.fr/nl/viarhona-en-chautagne"
+      },
+      "facet_md": "https://loisirs73.fr/content/viarhona-en-chautagne.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/viarhona-en-chautagne.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/viarhona-en-chautagne.json",
+      "photo": "/img/generique/generique-voie-verte-foret.jpg"
+    },
+    {
+      "slug": "voie-verte-du-lac-d-aiguebelette",
+      "name": "Voie verte du lac d'Aiguebelette",
+      "category": "voie-verte",
+      "commune": "Nances",
+      "postal_code": "73470",
+      "latitude": 45.574476,
+      "longitude": 5.801086,
+      "urls": {
+        "fr": "https://loisirs73.fr/voie-verte-du-lac-d-aiguebelette",
+        "en": "https://loisirs73.fr/en/voie-verte-du-lac-d-aiguebelette",
+        "de": "https://loisirs73.fr/de/voie-verte-du-lac-d-aiguebelette",
+        "it": "https://loisirs73.fr/it/voie-verte-du-lac-d-aiguebelette",
+        "es": "https://loisirs73.fr/es/voie-verte-du-lac-d-aiguebelette",
+        "nl": "https://loisirs73.fr/nl/voie-verte-du-lac-d-aiguebelette"
+      },
+      "facet_md": "https://loisirs73.fr/content/voie-verte-du-lac-d-aiguebelette.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/voie-verte-du-lac-d-aiguebelette.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/voie-verte-du-lac-d-aiguebelette.json",
+      "photo": "/img/generique/generique-voie-verte-famille-kids.jpg"
+    },
+    {
+      "slug": "voie-verte-du-lac-du-bourget",
+      "name": "Voie verte du lac du Bourget",
+      "category": "voie-verte",
+      "commune": "Le Bourget-du-Lac",
+      "postal_code": "73370",
+      "latitude": 45.655695,
+      "longitude": 5.861962,
+      "urls": {
+        "fr": "https://loisirs73.fr/voie-verte-du-lac-du-bourget",
+        "en": "https://loisirs73.fr/en/voie-verte-du-lac-du-bourget",
+        "de": "https://loisirs73.fr/de/voie-verte-du-lac-du-bourget",
+        "it": "https://loisirs73.fr/it/voie-verte-du-lac-du-bourget",
+        "es": "https://loisirs73.fr/es/voie-verte-du-lac-du-bourget",
+        "nl": "https://loisirs73.fr/nl/voie-verte-du-lac-du-bourget"
+      },
+      "facet_md": "https://loisirs73.fr/content/voie-verte-du-lac-du-bourget.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/voie-verte-du-lac-du-bourget.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/voie-verte-du-lac-du-bourget.json",
+      "photo": "/img/generique/generique-voie-verte-cyclistes-lac.jpg"
     }
   ]
 }

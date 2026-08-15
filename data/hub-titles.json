@@ -64,6 +64,14 @@
       "fr": "Télécabines de {dept} · {site}",
       "it": "Funivie della {dept} · {site}",
       "nl": "Kabelbanen · {dept} · {site}"
+    },
+    "voies-vertes": {
+      "fr": "Voies vertes de {dept} · {site}",
+      "en": "Greenways of {dept} · {site}",
+      "de": "Radwege · {dept} · {site}",
+      "it": "Vie verdi della {dept} · {site}",
+      "es": "Vías verdes de {dept} · {site}",
+      "nl": "Fietsroutes · {dept} · {site}"
     }
   }
 }

@@ -2340,6 +2340,150 @@
       "longitude": 6.763596,
       "is_free": false,
       "access_state": "paid"
+    },
+    {
+      "slug": "veloroute-de-la-combe-de-savoie",
+      "categories": [
+        "voie-verte"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Véloroute de la Combe de Savoie (V62)",
+          "commune": "Albertville"
+        },
+        "en": {
+          "name": "Véloroute de la Combe de Savoie (V62)",
+          "commune": "Albertville"
+        },
+        "de": {
+          "name": "Véloroute de la Combe de Savoie (V62)",
+          "commune": "Albertville"
+        },
+        "it": {
+          "name": "Véloroute de la Combe de Savoie (V62)",
+          "commune": "Albertville"
+        },
+        "es": {
+          "name": "Véloroute de la Combe de Savoie (V62)",
+          "commune": "Albertville"
+        },
+        "nl": {
+          "name": "Véloroute de la Combe de Savoie (V62)",
+          "commune": "Albertville"
+        }
+      },
+      "latitude": 45.671004,
+      "longitude": 6.396774,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
+      "slug": "viarhona-en-chautagne",
+      "categories": [
+        "voie-verte"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "ViaRhôna en Chautagne (EV17)",
+          "commune": "Chanaz"
+        },
+        "en": {
+          "name": "ViaRhôna en Chautagne (EV17)",
+          "commune": "Chanaz"
+        },
+        "de": {
+          "name": "ViaRhôna en Chautagne (EV17)",
+          "commune": "Chanaz"
+        },
+        "it": {
+          "name": "ViaRhôna en Chautagne (EV17)",
+          "commune": "Chanaz"
+        },
+        "es": {
+          "name": "ViaRhôna en Chautagne (EV17)",
+          "commune": "Chanaz"
+        },
+        "nl": {
+          "name": "ViaRhôna en Chautagne (EV17)",
+          "commune": "Chanaz"
+        }
+      },
+      "latitude": 45.7936,
+      "longitude": 5.7906,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
+      "slug": "voie-verte-du-lac-d-aiguebelette",
+      "categories": [
+        "voie-verte"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Voie verte du lac d'Aiguebelette",
+          "commune": "Nances"
+        },
+        "en": {
+          "name": "Voie verte du lac d'Aiguebelette",
+          "commune": "Nances"
+        },
+        "de": {
+          "name": "Voie verte du lac d'Aiguebelette",
+          "commune": "Nances"
+        },
+        "it": {
+          "name": "Voie verte du lac d'Aiguebelette",
+          "commune": "Nances"
+        },
+        "es": {
+          "name": "Voie verte du lac d'Aiguebelette",
+          "commune": "Nances"
+        },
+        "nl": {
+          "name": "Voie verte du lac d'Aiguebelette",
+          "commune": "Nances"
+        }
+      },
+      "latitude": 45.574476,
+      "longitude": 5.801086,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
+      "slug": "voie-verte-du-lac-du-bourget",
+      "categories": [
+        "voie-verte"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Voie verte du lac du Bourget",
+          "commune": "Le Bourget-du-Lac"
+        },
+        "en": {
+          "name": "Voie verte du lac du Bourget",
+          "commune": "Le Bourget-du-Lac"
+        },
+        "de": {
+          "name": "Voie verte du lac du Bourget",
+          "commune": "Le Bourget-du-Lac"
+        },
+        "it": {
+          "name": "Voie verte du lac du Bourget",
+          "commune": "Le Bourget-du-Lac"
+        },
+        "es": {
+          "name": "Voie verte du lac du Bourget",
+          "commune": "Le Bourget-du-Lac"
+        },
+        "nl": {
+          "name": "Voie verte du lac du Bourget",
+          "commune": "Le Bourget-du-Lac"
+        }
+      },
+      "latitude": 45.655695,
+      "longitude": 5.861962,
+      "is_free": true,
+      "access_state": "free"
     }
   ]
 }

@@ -1960,11 +1960,10 @@ def build_head(d):
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{attr(name)}">
 <meta name="twitter:description" content="{attr(desc)}">
-<meta name="geo.region" content="FR-74">
+<meta name="geo.region" content="FR-73">
 <meta name="geo.placename" content="{attr(commune)}">
 <meta name="geo.position" content="{lat};{lon}">
 <meta name="ICBM" content="{lat}, {lon}">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230a5a3a'/%3E%3Cpath d='M16 44 L26 28 L34 38 L44 22 L48 44 Z' fill='%23fafaf7'/%3E%3C/svg%3E">
 <style>{css}</style>
 <script type="application/ld+json">{ldjson}</script>
 <meta property="og:image" content="{BASE_URL}/og-image.jpg">

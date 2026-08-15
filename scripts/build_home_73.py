@@ -419,7 +419,11 @@ def build(lang, fiches):
         '<meta name="viewport" content="width=device-width, initial-scale=1">\n'
         + noindex_block +
         f'<title>{E(title)}</title>\n<meta name="description" content="{E(desc)}">\n'
-        f'<link rel="icon" href="/favicon.ico" sizes="any">\n{alts}'
+        '<link rel="icon" type="image/x-icon" href="/favicon.ico">\n'
+        '<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">\n'
+        '<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">\n'
+        '<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">\n'
+        f'<link rel="manifest" href="/site.webmanifest">\n{alts}'
         f'<style>{CSS}{SIS_CSS}</style>\n</head>\n<body>\n'
         f'{_SKY}{header}\n<main>\n{hero}\n{glance}\n{selections}\n{prep_banner}{body_sections}{sister}\n</main>\n{footer}\n'
         f'<script src="/scripts/l74sort.js" defer></script>\n'

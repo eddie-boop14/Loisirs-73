@@ -1,0 +1,570 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-15",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "domaine",
+  "commune": "Bozel",
+  "date_modified_human": "15 août 2026",
+  "date_published_human": "15 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-15",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-plage-lac-11.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Zwei Pools und Rettungsschwimmen am Nachmittag mit Pedalbootverleih im Tarentaise.",
+          "tag": "frei",
+          "title": "Schwimm- und Tretboote"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>Bozel See</strong>, im Bozel-Tal (Tarentaise), legt einen Freizeitpark um das Wasser herum mit <strong>zwei Pools</strong> Eine für Kinder, eine für Erwachsene. <strong>Schwimmen ist kostenlos</strong> und am Nachmittag im Sommer gerettet. Vor Ort: ein Bar-Restaurant, Fast Food, Pedalbootverleih und Angelplätze.</p><p>Hunde werden im Freizeitpark an der Leine geduldet, sind aber am Strand nicht erlaubt.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "frei",
+        "best_season": "Rettungsschwimmen 27. Juni – 27. August, Nachmittage",
+        "commune": "Bozel",
+        "dogs": "An der Leine im Park, nicht am Strand",
+        "parking": null,
+        "stroller": null,
+        "type": "See",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Ja, Zugang und Schwimmen sind kostenlos. Schwimmen wird jeden Nachmittag vom 27. Juni bis zum 27. August 2026 bewacht (eine andere Quelle gibt an, dass der 28. Juni 28. August, erneut bestätigt werden.",
+          "q": "Ist Schwimmen frei?"
+        },
+        {
+          "a": "Ja, zwei Pools: Eine für Kinder und eine für Erwachsene.",
+          "q": "Gibt es mehrere Pools?"
+        },
+        {
+          "a": "Ein Bar-Restaurant, Fast Food, Pedalbootverleih und Angelplätze.",
+          "q": "Was ist vor Ort?"
+        },
+        {
+          "a": "An der Leine im Freizeitpark, aber nicht am Strand.",
+          "q": "Sind Hunde erlaubt?"
+        }
+      ],
+      "hero": {
+        "badge": "See · Frei schwimmen",
+        "lead": "Im Tarentaise bietet der See Bozel kostenloses Schwimmen am Nachmittag, zwei Pools und Tretboote in einem Familienurlaubspark."
+      },
+      "hero_alt": "Bozel See und Schwimmbäder, Tarentaise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Bei Bozel, im Bozel Tal (Tarentaise), auf dem Weg zu den Courchevel Resorts (D91).",
+        "public_transport": null
+      },
+      "meta_description": "Der Bozel See (Tarentaise): kostenloses Schwimmen am Nachmittag im Sommer, zwei Pools, Pedalboote und Angeln, in einem Familien-Freizeitpark.",
+      "meta_title": "Plan d'eau de Bozel · Freies Schwimmen im Tarentaise",
+      "name": "Plan d'eau de Bozel",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Standort",
+          "v": "See, 73350 Bozel (Bozel-Tal, Tarentaise)"
+        },
+        {
+          "k": "Schwimmen mit Rettungsschwimmern",
+          "v": "Jeden Nachmittag, 27. Juni bis 27. August 2026"
+        },
+        {
+          "k": "Zugang",
+          "v": "frei"
+        },
+        {
+          "k": "Pools",
+          "v": "Zwei Pools: eine für Kinder, eine für Erwachsene"
+        },
+        {
+          "k": "Vor Ort",
+          "v": "Barrestaurant, Fast Food, Pedalbootverleih, Angeln"
+        },
+        {
+          "k": "Kontakt",
+          "v": "Bozel Tal Tourismusbüro, 04 79 55 03 77"
+        }
+      ],
+      "schema_amenities": [
+        "Schwimmen mit Rettungsschwimmern",
+        "Pedalboote"
+      ],
+      "when_to_visit": "<p><strong>Schwimmen wird jeden Nachmittag vom 27. Juni bis zum 27. August 2026 bewacht.</strong> nach dem Bozel Valley Tourismusbüro. Eine andere Quelle erwähnt etwas andere Daten (28. Juni – 28. August: vor Ort erneut bestätigt werden.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "Two pools and lifeguarded afternoon swimming, with pedal-boat hire, in the Tarentaise.",
+          "tag": "Free",
+          "title": "Swimming and pedal boats"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Bozel lake</strong>, in the Bozel valley (Tarentaise), lays out a leisure park around the water with <strong>two pools</strong> — one for children, one for adults. <strong>Swimming is free</strong> and lifeguarded in the afternoons in summer. On site: a bar-restaurant, fast food, pedal-boat hire and fishing spots.</p><p>Dogs are tolerated on a leash in the leisure park, but are not allowed on the beach area.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free",
+        "best_season": "Lifeguarded swimming 27 June – 27 August, afternoons",
+        "commune": "Bozel",
+        "dogs": "On a leash in the park, not on the beach",
+        "parking": null,
+        "stroller": null,
+        "type": "Lake",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Yes, access and swimming are free. Swimming is lifeguarded every afternoon from 27 June to 27 August 2026 (another source states 28 June – 28 August, to be reconfirmed).",
+          "q": "Is swimming free?"
+        },
+        {
+          "a": "Yes, two pools: one for children and one for adults.",
+          "q": "Are there several pools?"
+        },
+        {
+          "a": "A bar-restaurant, fast food, pedal-boat hire and fishing spots.",
+          "q": "What is on site?"
+        },
+        {
+          "a": "On a leash in the leisure park, but not on the beach area.",
+          "q": "Are dogs allowed?"
+        }
+      ],
+      "hero": {
+        "badge": "Lake · Free swimming",
+        "lead": "In the Tarentaise, the Bozel lake offers free lifeguarded afternoon swimming, two pools and pedal boats, in a family leisure park."
+      },
+      "hero_alt": "Bozel lake and swimming pools, Tarentaise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "At Bozel, in the Bozel valley (Tarentaise), on the road to the Courchevel resorts (D91).",
+        "public_transport": null
+      },
+      "meta_description": "The Bozel lake (Tarentaise): free lifeguarded afternoon swimming in summer, two pools, pedal boats and fishing, in a family leisure park.",
+      "meta_title": "Plan d'eau de Bozel · free swimming in the Tarentaise",
+      "name": "Plan d'eau de Bozel",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Location",
+          "v": "Lake, 73350 Bozel (Bozel valley, Tarentaise)"
+        },
+        {
+          "k": "Lifeguarded swimming",
+          "v": "Every afternoon, 27 June to 27 August 2026"
+        },
+        {
+          "k": "Access",
+          "v": "Free"
+        },
+        {
+          "k": "Pools",
+          "v": "Two pools: one for children, one for adults"
+        },
+        {
+          "k": "On site",
+          "v": "Bar-restaurant, fast food, pedal-boat hire, fishing"
+        },
+        {
+          "k": "Contact",
+          "v": "Bozel valley tourist office, 04 79 55 03 77"
+        }
+      ],
+      "schema_amenities": [
+        "Lifeguarded swimming",
+        "Pedal boats"
+      ],
+      "when_to_visit": "<p><strong>Swimming is lifeguarded every afternoon, from 27 June to 27 August 2026</strong> per the Bozel valley tourist office. Another source mentions slightly different dates (28 June – 28 August): to be reconfirmed on site.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "Dos piscinas y salvavidas por la tarde, con alquiler de botes a pedal, en el Tarentaise.",
+          "tag": "Gratis",
+          "title": "Botes de baño y pedal"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>Lago Bozel</strong>, en el valle Bozel (Tarentaise), se encuentra un parque de ocio alrededor del agua con <strong>dos piscinas</strong> - uno para niños, uno para adultos. <strong>Nadar es gratis</strong> y salvavidas en las tardes de verano. En el sitio: un bar-restaurante, comida rápida, alquiler de pedales y lugares de pesca.</p><p>Los perros son tolerados en una correa en el parque de ocio, pero no se permiten en la zona de la playa.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": "Natación salvavidas 27 de junio – 27 de agosto, tardes",
+        "commune": "Bozel",
+        "dogs": "En una correa en el parque, no en la playa",
+        "parking": null,
+        "stroller": null,
+        "type": "Lago",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Sí, el acceso y la natación son gratuitos. La natación es salvavidas todas las tardes del 27 de junio al 27 de agosto de 2026 (Otra fuente declara 28 de junio – 28 de agosto, para ser reconfirmado).",
+          "q": "¿Está nadando gratis?"
+        },
+        {
+          "a": "Sí, dos piscinas: uno para niños y uno para adultos.",
+          "q": "¿Hay varias piscinas?"
+        },
+        {
+          "a": "Un bar-restaurante, comida rápida, alquiler de botes a pedal y lugares de pesca.",
+          "q": "¿Qué hay en el sitio?"
+        },
+        {
+          "a": "En una correa en el parque de ocio, pero no en la playa.",
+          "q": "¿Se permiten perros?"
+        }
+      ],
+      "hero": {
+        "badge": "Lago · Piscina gratuita",
+        "lead": "En el Tarentaise, el lago Bozel ofrece piscina gratuita por la tarde, dos piscinas y botes de pedal, en un parque de ocio familiar."
+      },
+      "hero_alt": "Lago Bozel y piscinas, Tarentaise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "En Bozel, en el valle Bozel (Tarentaise), en la carretera a los resorts Courchevel (D91).",
+        "public_transport": null
+      },
+      "meta_description": "El lago Bozel (Tarentaise): gratis velada de la tarde nadando en verano, dos piscinas, botes de pedal y pesca, en un parque de ocio familiar.",
+      "meta_title": "Plan d'eau de Bozel · Natación gratuita en el Tarentaise",
+      "name": "Plan d'eau de Bozel",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Ubicación",
+          "v": "Lago, 73350 Bozel (Valle Bozel, Tarentaise)"
+        },
+        {
+          "k": "Natación salvavidas",
+          "v": "Todas las tardes, 27 de junio a 27 de agosto de 2026"
+        },
+        {
+          "k": "Acceso",
+          "v": "Gratis"
+        },
+        {
+          "k": "Piscinas",
+          "v": "Dos piscinas: uno para niños, uno para adultos"
+        },
+        {
+          "k": "En el sitio",
+          "v": "Bar-restaurante, comida rápida, alquiler de botes a pedal, pesca"
+        },
+        {
+          "k": "Contacto",
+          "v": "Oficina de turismo del valle de Bozel, 04 79 55 03 77"
+        }
+      ],
+      "schema_amenities": [
+        "Natación salvavidas",
+        "Barcos de pedal"
+      ],
+      "when_to_visit": "<p><strong>La natación es salvavidas cada tarde, del 27 de junio al 27 de agosto de 2026</strong> por la oficina turística del valle Bozel. Otra fuente menciona fechas ligeramente diferentes (28 de junio – 28 de agosto): para ser reconfirmado en el sitio.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Deux bassins et une baignade surveillée l'après-midi, avec location de pédalos, en Tarentaise.",
+          "tag": "Gratuit",
+          "title": "Baignade et pédalos"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Le <strong>plan d'eau de Bozel</strong>, en vallée de Bozel (Tarentaise), aménage un parc de loisirs autour de l'eau avec <strong>deux bassins</strong> — un pour les enfants, un pour les adultes. La <strong>baignade est gratuite</strong> et surveillée l'après-midi en été. Sur place : bar-restaurant, restauration rapide, location de pédalos et zones de pêche.</p><p>Les chiens sont tolérés tenus en laisse dans le parc de loisirs, mais l'accès à la zone de plage leur est interdit.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuit",
+        "best_season": "Baignade surveillée 27 juin – 27 août, l'après-midi",
+        "commune": "Bozel",
+        "dogs": "En laisse dans le parc, interdits sur la plage",
+        "parking": null,
+        "stroller": null,
+        "type": "Plan d'eau",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Oui, l'accès et la baignade sont gratuits. La baignade est surveillée tous les après-midi du 27 juin au 27 août 2026 (une autre source indique 28 juin – 28 août, à reconfirmer).",
+          "q": "La baignade est-elle gratuite ?"
+        },
+        {
+          "a": "Oui, deux bassins : un pour les enfants et un pour les adultes.",
+          "q": "Y a-t-il plusieurs bassins ?"
+        },
+        {
+          "a": "Un bar-restaurant, de la restauration rapide, la location de pédalos et des zones de pêche.",
+          "q": "Que trouve-t-on sur place ?"
+        },
+        {
+          "a": "Tenus en laisse dans le parc de loisirs, mais l'accès à la zone de plage leur est interdit.",
+          "q": "Les chiens sont-ils admis ?"
+        }
+      ],
+      "hero": {
+        "badge": "Plan d'eau · Baignade gratuite",
+        "lead": "En Tarentaise, le plan d'eau de Bozel propose une baignade gratuite surveillée l'après-midi, deux bassins et des pédalos, dans un parc de loisirs familial."
+      },
+      "hero_alt": "Plan d'eau et bassins de baignade de Bozel, Tarentaise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "À Bozel, en vallée de Bozel (Tarentaise), sur la route des stations de Courchevel (D91).",
+        "public_transport": null
+      },
+      "meta_description": "Le plan d'eau de Bozel (Tarentaise) : baignade gratuite surveillée l'après-midi l'été, deux bassins, pédalos et pêche, dans un parc de loisirs familial.",
+      "meta_title": "Plan d'eau de Bozel · baignade gratuite en Tarentaise",
+      "name": "Plan d'eau de Bozel",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Localisation",
+          "v": "Plan d'eau, 73350 Bozel (vallée de Bozel, Tarentaise)"
+        },
+        {
+          "k": "Baignade surveillée",
+          "v": "Tous les après-midi, du 27 juin au 27 août 2026"
+        },
+        {
+          "k": "Accès",
+          "v": "Gratuit"
+        },
+        {
+          "k": "Bassins",
+          "v": "Deux bassins : un pour enfants, un pour adultes"
+        },
+        {
+          "k": "Sur place",
+          "v": "Bar-restaurant, restauration rapide, location de pédalos, pêche"
+        },
+        {
+          "k": "Contact",
+          "v": "Office de tourisme Vallée de Bozel, 04 79 55 03 77"
+        }
+      ],
+      "schema_amenities": [
+        "Baignade surveillée",
+        "Pédalos"
+      ],
+      "when_to_visit": "<p>La <strong>baignade est surveillée tous les après-midi, du 27 juin au 27 août 2026</strong> selon l'office de tourisme de la vallée de Bozel. Une autre source mentionne des dates légèrement différentes (28 juin – 28 août) : à reconfirmer sur place.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Due piscine e piscina pomeridiana salvavita, con noleggio pedalò, nella Tarentaise.",
+          "tag": "Gratis",
+          "title": "Nuoto e pedalò"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Bozel lago</strong>, nella valle Bozel (Tarentaise), dispone di un parco ricreativo intorno all'acqua con <strong>due piscine</strong> — uno per i bambini, uno per gli adulti. <strong>Il nuoto è gratuito</strong> e custodito nei pomeriggi in estate. In loco: un bar-ristorante, fast food, noleggio pedalò e punti di pesca.</p><p>I cani sono tollerati al guinzaglio nel parco ricreativo, ma non sono ammessi sulla spiaggia.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": "Nuoto salvagente 27 giugno – 27 agosto, pomeriggi",
+        "commune": "Bozel",
+        "dogs": "Al guinzaglio nel parco, non sulla spiaggia",
+        "parking": null,
+        "stroller": null,
+        "type": "Lago",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Sì, l'accesso e il nuoto sono gratuiti. Il nuoto è salvagente ogni pomeriggio dal 27 giugno al 27 agosto 2026 (un'altra fonte dichiara 28 giugno – 28 agosto, da riconfermare).",
+          "q": "Il nuoto è gratuito?"
+        },
+        {
+          "a": "Sì, due piscine: uno per bambini e uno per adulti.",
+          "q": "Ci sono diverse piscine?"
+        },
+        {
+          "a": "Un bar-ristorante, fast food, noleggio pedalò e punti di pesca.",
+          "q": "Cosa c'è sul posto?"
+        },
+        {
+          "a": "Al guinzaglio nel parco ricreativo, ma non sulla spiaggia.",
+          "q": "I cani sono ammessi?"
+        }
+      ],
+      "hero": {
+        "badge": "Lago · Nuoto libero",
+        "lead": "Nel Tarentaise, il lago Bozel offre una piscina pomeridiana, due piscine e pedalò, in un parco per il tempo libero per famiglie."
+      },
+      "hero_alt": "Bozel lago e piscine, Tarentaise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "A Bozel, nella valle Bozel (Tarentaise), sulla strada per i resort Courchevel (D91).",
+        "public_transport": null
+      },
+      "meta_description": "Il lago Bozel (Tarentaise): free lifeguarded pomeriggio nuoto in estate, due piscine, pedalò e pesca, in un parco per il tempo libero di famiglia.",
+      "meta_title": "Plan d'eau de Bozel · nuoto libero nella Tarentaise",
+      "name": "Plan d'eau de Bozel",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Location",
+          "v": "Lago, 73350 Bozel (Valle Bozel, Tarentaise)"
+        },
+        {
+          "k": "Nuoto salvagente",
+          "v": "Ogni pomeriggio, dal 27 giugno al 27 agosto 2026"
+        },
+        {
+          "k": "Accesso",
+          "v": "Gratis"
+        },
+        {
+          "k": "Piscina",
+          "v": "Due piscine: uno per bambini, uno per adulti"
+        },
+        {
+          "k": "Sul sito",
+          "v": "Bar-ristorante, fast food, noleggio pedalò, pesca"
+        },
+        {
+          "k": "Contatto",
+          "v": "Bozel valle ufficio turistico, 04 79 55 03 77"
+        }
+      ],
+      "schema_amenities": [
+        "Nuoto salvagente",
+        "Barche a pedale"
+      ],
+      "when_to_visit": "<p><strong>Il nuoto è custodito ogni pomeriggio, dal 27 giugno al 27 agosto 2026</strong> per l'ufficio turistico della valle di Bozel. Un'altra fonte menziona date leggermente diverse (28 giugno – 28 agosto): essere riconfermato sul sito.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Twee zwembaden en zwembaden met zwembad, met waterfietsen, in de Tarentaise.",
+          "tag": "Vrij",
+          "title": "Zwem- en waterfietsen"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>Bozel-meer</strong>, in de Bozel vallei (Tarentaise), legt een recreatiepark rond het water met <strong>twee zwembaden</strong> Een voor kinderen, een voor volwassenen. <strong>Zwemmen is gratis</strong> 's Middags in de zomer. Ter plaatse: een bar-restaurant, fastfood, waterfietsen huren en visvlekken.</p><p>Honden worden aangelijnd in het recreatiepark, maar zijn niet toegestaan op het strand.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Vrij",
+        "best_season": "Badmeester zwemmen 27 juni 27 augustus, middagen",
+        "commune": "Bozel",
+        "dogs": "Aan een riem in het park, niet op het strand",
+        "parking": null,
+        "stroller": null,
+        "type": "Meer",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Ja, toegang en zwemmen zijn gratis. Zwemmen wordt elke middag bewaakt van 27 juni tot 27 augustus 2026 (een andere bron staten 28 juni  28 augustus, te herbevestigen).",
+          "q": "Is zwemmen gratis?"
+        },
+        {
+          "a": "Ja, twee zwembaden: één voor kinderen en één voor volwassenen.",
+          "q": "Zijn er meerdere zwembaden?"
+        },
+        {
+          "a": "Een bar-restaurant, fastfood, waterfietsen huren en visvlekken.",
+          "q": "Wat is ter plaatse?"
+        },
+        {
+          "a": "Aan de lijn in het recreatiepark, maar niet op het strand.",
+          "q": "Zijn honden toegestaan?"
+        }
+      ],
+      "hero": {
+        "badge": "Meer · Gratis zwemmen",
+        "lead": "In de Tarentaise biedt het Bozel meer gratis zwembaden, twee zwembaden en waterfietsen, in een familiepark."
+      },
+      "hero_alt": "Bozel meer en zwembaden, Tarentaise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Bij Bozel, in de Bozel vallei (Tarentaise), op de weg naar de Courchevel resorts (D91).",
+        "public_transport": null
+      },
+      "meta_description": "Het Bozel meer (Tarentaise): gratis badmeester middag zwemmen in de zomer, twee zwembaden, waterfietsen en vissen, in een familie recreatiepark.",
+      "meta_title": "Plan d'eau de Bozel · gratis zwemmen in de Tarentaise",
+      "name": "Plan d'eau de Bozel",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Locatie",
+          "v": "Lake, 73350 Bozel (Bozel vallei, Tarentaise)"
+        },
+        {
+          "k": "Zwemmende badmeesters",
+          "v": "Elke middag van 27 juni tot 27 augustus 2026"
+        },
+        {
+          "k": "Toegang",
+          "v": "Vrij"
+        },
+        {
+          "k": "Pool",
+          "v": "Twee zwembaden: één voor kinderen, één voor volwassenen"
+        },
+        {
+          "k": "Ter plaatse",
+          "v": "Bar-restaurant, fastfood, waterfietsen huren, vissen"
+        },
+        {
+          "k": "Contactpersoon",
+          "v": "Bureau voor toerisme in het Bozel-dal, 04 79 55 03 77"
+        }
+      ],
+      "schema_amenities": [
+        "Zwemmende badmeesters",
+        "Pedaalboten"
+      ],
+      "when_to_visit": "<p><strong>Zwemmen wordt elke middag bewaakt, van 27 juni tot 27 augustus 2026</strong> per de Bozel vallei VVV-kantoor. Een andere bron vermeldt enigszins verschillende data (28 juni . 28 augustus: ter plaatse te herbevestigen.</p>"
+    }
+  },
+  "latitude": 45.441177,
+  "longitude": 6.651811,
+  "official_site_url": "https://www.valleedebozel.com/plan-d-eau-de-bozel-bozel.html",
+  "partners": [],
+  "postal_code": "73350",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-15. Source office de tourisme Vallée de Bozel + AuRA Tourisme. Plan d'eau municipal en Tarentaise. Deux bassins (enfants + adultes). Baignade surveillée tous les après-midi du 27/06 au 27/08/2026 (une autre recherche indiquait 28/06–28/08 — à reconfirmer, reporté). Accès gratuit. Bar/restaurant, restauration rapide, location de pédalos, zones de pêche. Chiens tenus en laisse dans le parc mais interdits sur la zone de plage.",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "plan-d-eau-de-bozel",
+  "sources": [
+    "https://www.valleedebozel.com/plan-d-eau-de-bozel-bozel.html",
+    "https://www.auvergnerhonealpes-tourisme.com/en/fiches/bozels-lake/"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published for this site; kept null rather than inferred."
+  ]
+}

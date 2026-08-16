@@ -1,11 +1,143 @@
 # Loisirs 73 — Full content dump
 
-Generated: 2026-08-15
-Total lieux: 69
+Generated: 2026-08-16
+Total lieux: 73
 
-This file concatenates the FR facet markdown of all 69 leisure sites in Savoie. Each section is a standalone markdown document with YAML frontmatter and the fixed facet heading canon. Sections are separated by `===` rulers.
+This file concatenates the FR facet markdown of all 73 leisure sites in Savoie. Each section is a standalone markdown document with YAML frontmatter and the fixed facet heading canon. Sections are separated by `===` rulers.
 
 For programmatic access, fetch individual files at https://loisirs73.fr/content/{slug}.md (FR), https://loisirs73.fr/content/en/{slug}.md (EN), or https://loisirs73.fr/api/lieu/{slug}.json (typed JSON).
+
+================================================================================
+
+---
+slug: base-de-loisirs-des-glieres-grignon
+name: "Base de loisirs des Glières"
+category: domaine
+category_label: "Base de loisirs"
+commune: "Grignon"
+postal_code: "73200"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.653065
+longitude: 6.372584
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/base-de-loisirs-des-glieres-grignon
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/base-de-loisirs-des-glieres-grignon.json
+photo_url: /img/generique/generique-plage-lac-6.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-15
+source: loisirs73.fr
+---
+
+# Base de loisirs des Glières
+
+## Faits
+
+- Commune: Grignon, Savoie (73200)
+- GPS: 45.653065, 6.372584
+- Catégorie: domaine
+- Type: Plan d'eau
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Baignade surveillée 19 juin – 31 août, 12 h à 18 h
+
+## Source officielle
+
+https://www.savoie-mont-blanc.com/plages-et-activites-nautiques/base-de-loisirs-des-glieres-377816/
+
+================================================================================
+
+---
+slug: base-de-loisirs-du-lac-bleu
+name: "Base de loisirs du Lac Bleu"
+category: domaine
+category_label: "Base de loisirs"
+commune: "Saint-Rémy-de-Maurienne"
+postal_code: "73660"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.393327
+longitude: 6.272635
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/base-de-loisirs-du-lac-bleu
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/base-de-loisirs-du-lac-bleu.json
+photo_url: /img/generique/generique-plage-lac-8.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-15
+source: loisirs73.fr
+---
+
+# Base de loisirs du Lac Bleu
+
+## Faits
+
+- Commune: Saint-Rémy-de-Maurienne, Savoie (73660)
+- GPS: 45.393327, 6.272635
+- Catégorie: domaine
+- Type: Base de loisirs
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Baignade surveillée l'été (20 juin – 27 août ; voir contradiction sourcée)
+
+## Source officielle
+
+https://www.savoie-mont-blanc.com/en/watersports/base-de-loisirs-du-lac-bleu-36735/
 
 ================================================================================
 
@@ -72,6 +204,72 @@ Baignade surveillée l'été, 12h–18h (dates : voir contradiction sourcée)
 ## Source officielle
 
 https://espaces-aquatiques-arlysere.fr/espaces-ouverts-en-ete/plan-deau-gresy-sur-isere/
+
+================================================================================
+
+---
+slug: base-de-loisirs-les-iles-du-cheran
+name: "Base de loisirs des Îles du Chéran"
+category: domaine
+category_label: "Base de loisirs"
+commune: "Lescheraines"
+postal_code: "73340"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.705302
+longitude: 6.111585
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/base-de-loisirs-les-iles-du-cheran
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/base-de-loisirs-les-iles-du-cheran.json
+photo_url: /img/generique/generique-plage-lac-2.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-15
+source: loisirs73.fr
+---
+
+# Base de loisirs des Îles du Chéran
+
+## Faits
+
+- Commune: Lescheraines, Savoie (73340)
+- GPS: 45.705302, 6.111585
+- Catégorie: domaine
+- Type: Base de loisirs
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Baignade surveillée 27 juin – 27 août, 13 h à 19 h
+
+## Source officielle
+
+https://www.lescheraines.fr/economie-/-tourisme-/-loisirs/base-de-loisirs-des-iles-du-cheran
 
 ================================================================================
 
@@ -3102,6 +3300,72 @@ Saison surveillée du 13 juin au 30 août 2026
 ## Source officielle
 
 https://www.lebourgetdulac.fr/plage-municipale/
+
+================================================================================
+
+---
+slug: plan-d-eau-de-bozel
+name: "Plan d'eau de Bozel"
+category: domaine
+category_label: "Base de loisirs"
+commune: "Bozel"
+postal_code: "73350"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.441177
+longitude: 6.651811
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/plan-d-eau-de-bozel
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/plan-d-eau-de-bozel.json
+photo_url: /img/generique/generique-plage-lac-11.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-15
+source: loisirs73.fr
+---
+
+# Plan d'eau de Bozel
+
+## Faits
+
+- Commune: Bozel, Savoie (73350)
+- GPS: 45.441177, 6.651811
+- Catégorie: domaine
+- Type: Plan d'eau
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Baignade surveillée 27 juin – 27 août, l'après-midi
+
+## Source officielle
+
+https://www.valleedebozel.com/plan-d-eau-de-bozel-bozel.html
 
 ================================================================================
 

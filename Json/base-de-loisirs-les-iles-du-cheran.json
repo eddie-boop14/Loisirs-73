@@ -1,0 +1,595 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-15",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "domaine",
+  "commune": "Lescheraines",
+  "date_modified_human": "15 août 2026",
+  "date_published_human": "15 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-15",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-plage-lac-2.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Lifeguarded beach 1 to 7 pm in summer, water play and two lakes in the heart of the Bauges.",
+          "tag": "frei",
+          "title": "Schwimmen und Wasserspiel"
+        },
+        {
+          "description": "Skatepark, Beach-Volleyball, Multi-Sport-Court, Pétanque und Fitness-Trail, keine Buchung.",
+          "tag": "frei",
+          "title": "Frei zugängliche Sportarten"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>Îles du Chéran Freizeitbasis</strong>Bei Lescheraines liegen zwei Seen im Herzen des Bauges-Massivs. <strong>Schwimmen ist kostenlos</strong> und Rettungsschwimmer im Sommer, ebenso wie der Fitness-Trail, der Fußballplatz, der Pétanque, der Spielplatz, der Multi-Sportplatz, der Beach-Volleyball und der Skatepark.</p><p>Einige Dienste bleiben bezahlt, und wir markieren sie: parking (€1 an hour, two hours free, €20 season pass), the three-lane water slide (€6 for ten rides, €9 for a half-day, open 2 July to 30 August, 2 to 6 pm) and the wakepark. Die Gemeinde beschreibt \"eine außergewöhnliche grüne Umgebung, zwischen Seen und Wäldern\".</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "frei",
+        "best_season": "Rettungsschwimmen 27. Juni – 27 August, 1 to 7 pm",
+        "commune": "Lescheraines",
+        "dogs": "Nicht erlaubt am Strand oder im Wasser",
+        "parking": null,
+        "stroller": null,
+        "type": "Freizeitbasis",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Nein, Schwimmen ist kostenlos. It is lifeguarded 1 to 7 pm from 27 June to 27 August 2026; außerhalb dieser Stunden ist es unbeaufsichtigt und auf eigenes Risiko.",
+          "q": "Ist Schwimmen bezahlt?"
+        },
+        {
+          "a": "Parken (1 € pro Stunde, zwei Stunden kostenlos, 20 € Saisonpass), die Wasserrutsche (6 € für zehn Fahrten, 9 € für einen halben Tag) und der Wakepark. Der Rest der Sportanlagen ist frei zu nutzen.",
+          "q": "Was wird vor Ort bezahlt?"
+        },
+        {
+          "a": "Nein — nicht am Strand, im Wasser oder in der Nähe der Rutsche und des Wasserspielplatzes, auch nicht an der Leine.",
+          "q": "Sind Hunde erlaubt?"
+        },
+        {
+          "a": "Fitness-Trail, Fußballplatz, Pétanque, Spielplatz, Multi-Sportplatz, Beach-Volleyball und Skatepark.",
+          "q": "Welche Einrichtungen können kostenlos genutzt werden?"
+        }
+      ],
+      "hero": {
+        "badge": "Freizeitbasis · Freies Schwimmen",
+        "lead": "Im Herzen des Bauges bei Lescheraines, zwei Seen und ein Strand mit Sommer Rettungsschwimmer: Schwimmen, Wasserspiel, Pedalboote und eine lange Liste von frei zugänglichen Sporteinrichtungen."
+      },
+      "hero_alt": "See und Strand an der Îles du Chéran Freizeitbasis, Lescheraines",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Bei Lescheraines, im Herzen des Bauges Massivs (D911). Bezahltes Parken vor Ort (erste zwei Stunden frei).",
+        "public_transport": null
+      },
+      "meta_description": "Îles du Chéran Freizeitbasis bei Lescheraines (Bauges): kostenloses Sommerschwimmen, Wasserspiel, Skatepark und frei zugängliche Sportarten. Wasserrutsche und Parkplatz bezahlt.",
+      "meta_title": "Îles du Chéran Freizeitbasis · Lescheraines, Bauges",
+      "name": "Base de loisirs des Îles du Chéran",
+      "name_alternates": [
+        "Les Îles du Chéran"
+      ],
+      "practical_info": [
+        {
+          "k": "Anschrift",
+          "v": "1025 route des Croës, 73340 Lescheraines"
+        },
+        {
+          "k": "Schwimmen mit Rettungsschwimmern",
+          "v": "Every day 1 to 7 pm, 27 June to 27 August 2026"
+        },
+        {
+          "k": "frei",
+          "v": "Schwimmen, Fitness-Trail, Fußball, Pétanque, Spielplatz, Multisportplatz, Beach-Volleyball, Skatepark"
+        },
+        {
+          "k": "Bezahlt",
+          "v": "Parken (€1/h, 2 h gratis, €20 Pass), Wasserrutsche, Wakepark"
+        },
+        {
+          "k": "Kontakt",
+          "v": "Lescheraines Rathaus, 04 79 63 32 64"
+        }
+      ],
+      "schema_amenities": [
+        "Schwimmen mit Rettungsschwimmern",
+        "Spielplatz",
+        "Skatepark"
+      ],
+      "when_to_visit": "<p><strong>Swimming is lifeguarded every day 1 to 7 pm, from 27 June to 27 August 2026</strong>Außerhalb dieser stunden ist es unbeaufsichtigt und auf eigene gefahr. Die frei zugänglichen Sportanlagen sind während der warmen Jahreszeit geöffnet.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "Lifeguarded beach 1 to 7 pm in summer, water play and two lakes in the heart of the Bauges.",
+          "tag": "Free",
+          "title": "Swimming and water play"
+        },
+        {
+          "description": "Skatepark, beach volleyball, multi-sport court, pétanque and fitness trail, no booking.",
+          "tag": "Free",
+          "title": "Free-access sports"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Îles du Chéran leisure base</strong>, at Lescheraines, lays out two lakes in the heart of the Bauges massif. <strong>Swimming is free</strong> and lifeguarded in summer, as are the fitness trail, the football pitch, the pétanque, the playground, the multi-sport court, the beach volleyball and the skatepark.</p><p>A few services remain paid, and we flag them: parking (€1 an hour, two hours free, €20 season pass), the three-lane water slide (€6 for ten rides, €9 for a half-day, open 2 July to 30 August, 2 to 6 pm) and the wakepark. The commune describes 'an exceptional green setting, between lakes and forests'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free",
+        "best_season": "Lifeguarded swimming 27 June – 27 August, 1 to 7 pm",
+        "commune": "Lescheraines",
+        "dogs": "Not allowed on the beach or in the water",
+        "parking": null,
+        "stroller": null,
+        "type": "Leisure base",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "No, swimming is free. It is lifeguarded 1 to 7 pm from 27 June to 27 August 2026; outside those hours it is unsupervised and at your own risk.",
+          "q": "Is swimming paid?"
+        },
+        {
+          "a": "Parking (€1 an hour, two hours free, €20 season pass), the water slide (€6 for ten rides, €9 for a half-day) and the wakepark. The rest of the sports facilities are free to use.",
+          "q": "What is paid on site?"
+        },
+        {
+          "a": "No — not on the beach, in the water, or near the slide and the water-play area, even on a leash.",
+          "q": "Are dogs allowed?"
+        },
+        {
+          "a": "Fitness trail, football pitch, pétanque, playground, multi-sport court, beach volleyball and skatepark.",
+          "q": "Which facilities are free to use?"
+        }
+      ],
+      "hero": {
+        "badge": "Leisure base · Free swimming",
+        "lead": "In the heart of the Bauges at Lescheraines, two lakes and a beach with summer lifeguards: swimming, water play, pedal boats and a long list of free-access sports facilities."
+      },
+      "hero_alt": "Lake and beach at the Îles du Chéran leisure base, Lescheraines",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "At Lescheraines, in the heart of the Bauges massif (D911). Paid parking on site (first two hours free).",
+        "public_transport": null
+      },
+      "meta_description": "Îles du Chéran leisure base at Lescheraines (Bauges): free lifeguarded summer swimming, water play, skatepark and free-access sports. Water slide and parking paid.",
+      "meta_title": "Îles du Chéran leisure base · Lescheraines, Bauges",
+      "name": "Base de loisirs des Îles du Chéran",
+      "name_alternates": [
+        "Les Îles du Chéran"
+      ],
+      "practical_info": [
+        {
+          "k": "Address",
+          "v": "1025 route des Croës, 73340 Lescheraines"
+        },
+        {
+          "k": "Lifeguarded swimming",
+          "v": "Every day 1 to 7 pm, 27 June to 27 August 2026"
+        },
+        {
+          "k": "Free",
+          "v": "Swimming, fitness trail, football, pétanque, playground, multi-sport court, beach volleyball, skatepark"
+        },
+        {
+          "k": "Paid",
+          "v": "Parking (€1/h, 2 h free, €20 pass), water slide, wakepark"
+        },
+        {
+          "k": "Contact",
+          "v": "Lescheraines town hall, 04 79 63 32 64"
+        }
+      ],
+      "schema_amenities": [
+        "Lifeguarded swimming",
+        "Playground",
+        "Skatepark"
+      ],
+      "when_to_visit": "<p><strong>Swimming is lifeguarded every day 1 to 7 pm, from 27 June to 27 August 2026</strong>; outside those hours it is unsupervised and at your own risk. The free-access sports facilities are open all through the warm season.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "Playa salvavidas de 1 a 7 pm en verano, juego de agua y dos lagos en el corazón de la Bauges.",
+          "tag": "Gratis",
+          "title": "Juegos de natación y agua"
+        },
+        {
+          "description": "Skatepark, voleibol de playa, pista multi-deporte, pista de petanca y fitness, sin reserva.",
+          "tag": "Gratis",
+          "title": "Deportes de acceso libre"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>Îles du Chéran base de ocio</strong>, en Lescheraines, establece dos lagos en el corazón del macizo Bauges. <strong>Nadar es gratis</strong> y salvavidas en verano, como son la pista de fitness, el campo de fútbol, el pétanque, el parque infantil, la pista multi-deporte, el voleibol de playa y el parque de skate.</p><p>Quedan algunos servicios pagados, y los marcamos: aparcamiento (€1 hora, dos horas gratis, €20 temporada pasada), la diapositiva de agua de tres carriles (€6 por diez paseos, €9 por medio día, abierto del 2 de julio al 30 de agosto, de 2 a 6 pm) y el wakepark. La comuna describe 'un entorno verde excepcional, entre lagos y bosques'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": "Natación salvavidas 27 de junio – 27 August, 1 to 7 pm",
+        "commune": "Lescheraines",
+        "dogs": "No se permite en la playa o en el agua",
+        "parking": null,
+        "stroller": null,
+        "type": "Leisure base",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "No, nadar es gratis. It is lifeguarded 1 to 7 pm from 27 June to 27 August 2026; fuera de esas horas no es supervisado y a su propio riesgo.",
+          "q": "¿Se paga nadar?"
+        },
+        {
+          "a": "Estacionamiento (€1 hora, dos horas gratis, €20 temporada pasada), el tobogán de agua (€6 para diez paseos, €9 por medio día) y el wakepark. El resto de las instalaciones deportivas son gratuitas.",
+          "q": "¿Qué se paga en el sitio?"
+        },
+        {
+          "a": "No. no en la playa, en el agua, o cerca de la diapositiva y la zona de juego de agua, incluso en una correa.",
+          "q": "¿Se permiten perros?"
+        },
+        {
+          "a": "Ruta de fitness, campo de fútbol, pétanque, parque infantil, pista de multi deportes, voleibol de playa y skatepark.",
+          "q": "¿Qué instalaciones son libres de usar?"
+        }
+      ],
+      "hero": {
+        "badge": "Base de ocio · Natación gratuita",
+        "lead": "En el corazón de la Bauges en Lescheraines, dos lagos y una playa con salvavidas de verano: natación, juego de agua, botes de pedal y una larga lista de instalaciones deportivas de acceso libre."
+      },
+      "hero_alt": "Lago y playa en la base de ocio Îles du Chéran, Lescheraines",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "En Lescheraines, en el corazón del macizo Bauges (D911). Aparcamiento pagado en el sitio (primera dos horas gratis).",
+        "public_transport": null
+      },
+      "meta_description": "Îles du Chéran base de ocio en Lescheraines (Bauges): natación gratuita de verano, juegos de agua, skatepark y deportes de acceso libre. Reserva de agua y estacionamiento pagado.",
+      "meta_title": "Îles du Chéran base de ocio · Lescheraines, Bauges",
+      "name": "Base de loisirs des Îles du Chéran",
+      "name_alternates": [
+        "Les Îles du Chéran"
+      ],
+      "practical_info": [
+        {
+          "k": "Dirección",
+          "v": "1025 route des Croës, 73340 Lescheraines"
+        },
+        {
+          "k": "Natación salvavidas",
+          "v": "Todos los días 1 a 7 pm, 27 de junio a 27 de agosto de 2026"
+        },
+        {
+          "k": "Gratis",
+          "v": "Piscina, pista de fitness, fútbol, petanca, parque infantil, pista de multi deportes, voleibol playa, skatepark"
+        },
+        {
+          "k": "Pagado",
+          "v": "Aparcamiento (€1/h, 2 h gratis, 20 € pase), tobogán de agua, wakepark"
+        },
+        {
+          "k": "Contacto",
+          "v": "Ayuntamiento de Lescheraines, 04 79 63 32 64"
+        }
+      ],
+      "schema_amenities": [
+        "Natación salvavidas",
+        "Playground",
+        "Skatepark"
+      ],
+      "when_to_visit": "<p><strong>La natación es salvavidas todos los días de 1 a 7 pm, del 27 de junio al 27 de agosto de 2026</strong>; fuera de esas horas no es supervisado y a su propio riesgo. Las instalaciones deportivas de acceso libre están abiertas durante toda la temporada cálida.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Plage surveillée 13 h à 19 h l'été, jeux d'eau et deux plans d'eau au cœur des Bauges.",
+          "tag": "Gratuit",
+          "title": "Baignade et jeux d'eau"
+        },
+        {
+          "description": "Skatepark, beach-volley, multisports, pétanque et parcours de santé, sans réservation.",
+          "tag": "Libre",
+          "title": "Sports en accès libre"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>base de loisirs des Îles du Chéran</strong>, à Lescheraines, aménage deux plans d'eau au cœur du massif des Bauges. La <strong>baignade est gratuite</strong> et surveillée l'été, tout comme le parcours de santé, le terrain de foot, la pétanque, l'aire de jeux, le terrain multisports, le beach-volley et le skatepark.</p><p>Quelques prestations restent payantes et nous les signalons : le stationnement (1 € l'heure, deux heures gratuites, forfait saison à 20 €), le toboggan aquatique à trois pistes (6 € les dix descentes, 9 € la demi-journée, ouvert du 2 juillet au 30 août de 14 h à 18 h) et le wakepark. L'office et la commune décrivent « un cadre de verdure exceptionnel, entre lacs et forêts ».</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuit",
+        "best_season": "Baignade surveillée 27 juin – 27 août, 13 h à 19 h",
+        "commune": "Lescheraines",
+        "dogs": "Interdits sur la plage et la baignade",
+        "parking": null,
+        "stroller": null,
+        "type": "Base de loisirs",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Non, la baignade est gratuite. Elle est surveillée de 13 h à 19 h du 27 juin au 27 août 2026 ; hors de ces horaires, elle reste libre sous votre responsabilité.",
+          "q": "La baignade est-elle payante ?"
+        },
+        {
+          "a": "Le stationnement (1 € l'heure, deux heures gratuites, forfait saison 20 €), le toboggan aquatique (6 € les dix descentes, 9 € la demi-journée) et le wakepark. Le reste des équipements sportifs est en accès libre.",
+          "q": "Qu'est-ce qui est payant sur place ?"
+        },
+        {
+          "a": "Non sur la plage, la baignade, les abords du toboggan et de l'aire de jeux d'eau, même tenus en laisse.",
+          "q": "Les chiens sont-ils admis ?"
+        },
+        {
+          "a": "Parcours de santé, terrain de foot, pétanque, aire de jeux, terrain multisports, beach-volley et skatepark.",
+          "q": "Quels équipements en accès libre ?"
+        }
+      ],
+      "hero": {
+        "badge": "Base de loisirs · Baignade gratuite",
+        "lead": "Au cœur des Bauges, à Lescheraines, deux plans d'eau et une plage surveillée l'été : baignade, jeux d'eau, pédalos et une longue liste d'équipements sportifs en accès libre."
+      },
+      "hero_alt": "Plan d'eau et plage de la base de loisirs des Îles du Chéran, Lescheraines",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "À Lescheraines, au cœur du massif des Bauges (D911). Stationnement payant sur place (deux heures gratuites).",
+        "public_transport": null
+      },
+      "meta_description": "Base de loisirs des Îles du Chéran à Lescheraines (Bauges) : baignade gratuite surveillée l'été, jeux d'eau, skatepark et sports en accès libre. Toboggan et parking payants.",
+      "meta_title": "Base de loisirs des Îles du Chéran · Lescheraines, Bauges",
+      "name": "Base de loisirs des Îles du Chéran",
+      "name_alternates": [
+        "Les Îles du Chéran"
+      ],
+      "practical_info": [
+        {
+          "k": "Adresse",
+          "v": "1025 route des Croës, 73340 Lescheraines"
+        },
+        {
+          "k": "Baignade surveillée",
+          "v": "Tous les jours 13 h à 19 h, du 27 juin au 27 août 2026"
+        },
+        {
+          "k": "Gratuit",
+          "v": "Baignade, parcours de santé, foot, pétanque, aire de jeux, multisports, beach-volley, skatepark"
+        },
+        {
+          "k": "Payant",
+          "v": "Stationnement (1 €/h, 2 h gratuites, forfait 20 €), toboggan aquatique, wakepark"
+        },
+        {
+          "k": "Contact",
+          "v": "Mairie de Lescheraines, 04 79 63 32 64"
+        }
+      ],
+      "schema_amenities": [
+        "Baignade surveillée",
+        "Aire de jeux",
+        "Skatepark"
+      ],
+      "when_to_visit": "<p>La <strong>baignade est surveillée tous les jours de 13 h à 19 h, du 27 juin au 27 août 2026</strong> ; en dehors de ces horaires, la baignade est libre et se fait sous votre responsabilité. Les équipements sportifs en accès libre se pratiquent toute la belle saison.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Lifeguarded beach 1 to 7 pm in summer, water play and two lakes in the heart of the Bauges.",
+          "tag": "Gratis",
+          "title": "Nuoto e giochi d'acqua"
+        },
+        {
+          "description": "Skatepark, beach volley, campo multisport, pista da pétanque e fitness, senza prenotazione.",
+          "tag": "Gratis",
+          "title": "Sport ad accesso libero"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Îles du Chéran base di tempo libero</strong>, a Lescheraines, stende due laghi nel cuore del massiccio Bauges. <strong>Il nuoto è gratuito</strong> e custodito in estate, come il percorso fitness, il campo da calcio, la pétanque, il parco giochi, il campo multisport, la beach volley e lo skatepark.</p><p>Alcuni servizi rimangono pagati, e li bandiamo: parking (€1 an hour, two hours free, €20 season pass), the three-lane water slide (€6 for ten rides, €9 for a half-day, open 2 July to 30 August, 2 to 6 pm) and the wakepark. Il comune descrive 'un ambiente verde eccezionale, tra laghi e foreste'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": "Nuoto salvagente 27 giugno – 27 August, 1 to 7 pm",
+        "commune": "Lescheraines",
+        "dogs": "Non consentito in spiaggia o in acqua",
+        "parking": null,
+        "stroller": null,
+        "type": "Base di svago",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "No, il nuoto e' gratis. It is lifeguarded 1 to 7 pm from 27 June to 27 August 2026; fuori quelle ore è non supervisionato e a proprio rischio.",
+          "q": "Il nuoto è pagato?"
+        },
+        {
+          "a": "Parcheggio (1 euro all'ora, due ore gratis, 20 €), scivolo d'acqua (€6 per dieci corse, €9 per mezza giornata) e il wakepark. Il resto delle strutture sportive sono gratuite da usare.",
+          "q": "Che cosa è pagato sul sito?"
+        },
+        {
+          "a": "No. non sulla spiaggia, in acqua, o vicino allo scivolo e all'area giochi d'acqua, anche al guinzaglio.",
+          "q": "I cani sono ammessi?"
+        },
+        {
+          "a": "Sentiero fitness, campo da calcio, pétanque, parco giochi, campo multisport, beach volley e skatepark.",
+          "q": "Quali servizi sono gratuiti da usare?"
+        }
+      ],
+      "hero": {
+        "badge": "Base di svago · Nuoto libero",
+        "lead": "Nel cuore della Bauges a Lescheraines, due laghi e una spiaggia con bagnini estivi: nuoto, gioco d'acqua, pedalò e una lunga lista di strutture sportive gratuite."
+      },
+      "hero_alt": "Lago e spiaggia alla base per il tempo libero Îles du Chéran, Lescheraines",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "A Lescheraines, nel cuore del massiccio Bauges (D911). Parcheggio a pagamento in loco (prima due ore gratis).",
+        "public_transport": null
+      },
+      "meta_description": "Base per il tempo libero Îles du Chéran a Lescheraines (Bauges): free lifeguarded nuoto estivo, gioco d'acqua, skatepark e sport libero accesso. Scivolo d'acqua e parcheggio pagato.",
+      "meta_title": "Îles du Chéran base per il tempo libero · Lescheraines, Bauges",
+      "name": "Base de loisirs des Îles du Chéran",
+      "name_alternates": [
+        "Les Îles du Chéran"
+      ],
+      "practical_info": [
+        {
+          "k": "Indirizzo",
+          "v": "1025 route des Croës, 73340 Lescheraines"
+        },
+        {
+          "k": "Nuoto salvagente",
+          "v": "Every day 1 to 7 pm, 27 June to 27 August 2026"
+        },
+        {
+          "k": "Gratis",
+          "v": "Nuoto, percorso fitness, calcio, pétanque, parco giochi, campo multisport, beach volley, skatepark"
+        },
+        {
+          "k": "Pagato",
+          "v": "Parcheggio (€1/h, 2 h gratuito, 20 €), scivolo acquatico, wakepark"
+        },
+        {
+          "k": "Contatto",
+          "v": "Lescheraines municipio, 04 79 63 32 64"
+        }
+      ],
+      "schema_amenities": [
+        "Nuoto salvagente",
+        "Parco giochi",
+        "Skatepark"
+      ],
+      "when_to_visit": "<p><strong>Swimming is lifeguarded every day 1 to 7 pm, from 27 June to 27 August 2026</strong>; al di fuori di quelle ore è non supervisionato e a proprio rischio. Le strutture sportive gratuite sono aperte per tutta la stagione calda.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Lifeguarded beach 1 to 7 pm in summer, water play and two lakes in the heart of the Bauges.",
+          "tag": "Vrij",
+          "title": "Zwemmen en waterspelen"
+        },
+        {
+          "description": "Skatepark, beachvolleybal, multi-sportbaan, petanque en fitness trail, geen reservering.",
+          "tag": "Vrij",
+          "title": "Vrije toegang tot sport"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>Îles du Chéran recreatie basis</strong>Op Lescheraines liggen twee meren in het hart van het Bauges-massief. <strong>Zwemmen is gratis</strong> en badmeester in de zomer, evenals de fitness, het voetbalveld, de petanque, de speeltuin, het multisportveld, de beachvolleybal en het skatepark.</p><p>Een paar diensten blijven betaald, en we markeren ze: parking (€1 an hour, two hours free, €20 season pass), the three-lane water slide (€6 for ten rides, €9 for a half-day, open 2 July to 30 August, 2 to 6 pm) and the wakepark. De gemeente beschrijft 'een uitzonderlijke groene omgeving, tussen meren en bossen'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Vrij",
+        "best_season": "Badmeester zwemmen 27 juni 27 August, 1 to 7 pm",
+        "commune": "Lescheraines",
+        "dogs": "Niet toegestaan op het strand of in het water",
+        "parking": null,
+        "stroller": null,
+        "type": "Vrije tijdbasis",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Nee, zwemmen is gratis. It is lifeguarded 1 to 7 pm from 27 June to 27 August 2026; buiten die uren is het zonder toezicht en op eigen risico.",
+          "q": "Wordt zwemmen betaald?"
+        },
+        {
+          "a": "Parkeren (€1 per uur, twee uur gratis, €20 seizoenspas), de waterglijbaan (€6 voor tien ritten, €9 voor een halve dag) en het wakepark. De rest van de sportfaciliteiten zijn gratis te gebruiken.",
+          "q": "Wat wordt ter plaatse betaald?"
+        },
+        {
+          "a": "Nee. niet op het strand, in het water, of in de buurt van de glijbaan en het water-speelgebied, zelfs niet aan de lijn.",
+          "q": "Zijn honden toegestaan?"
+        },
+        {
+          "a": "Fitnesspad, voetbalveld, petanque, speeltuin, multi-sportbaan, beachvolleybal en skatepark.",
+          "q": "Welke faciliteiten zijn gratis te gebruiken?"
+        }
+      ],
+      "hero": {
+        "badge": "Vrije tijd · Gratis zwemmen",
+        "lead": "In het hart van de Bauges bij Lescheraines, twee meren en een strand met zomer badmeesters: zwemmen, waterspelen, waterfietsen en een lange lijst van gratis toegankelijke sportfaciliteiten."
+      },
+      "hero_alt": "Meer en strand op de Îles du Chéran recreatiebasis, Lescheraines",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Bij Lescheraines, in het hart van het Bauges-massief (D911). Betaald parkeren ter plaatse (eerste twee uur gratis).",
+        "public_transport": null
+      },
+      "meta_description": "Îles du Chéran recreatiebasis op Lescheraines (Bauges): gratis badmeester zomerzwemmen, waterspelen, skatepark en vrije toegang sport. Waterglijbaan en parkeerplaats betaald.",
+      "meta_title": "Îles du Chéran vrijetijdsbasis · Lescheraines, Bauges",
+      "name": "Base de loisirs des Îles du Chéran",
+      "name_alternates": [
+        "Les Îles du Chéran"
+      ],
+      "practical_info": [
+        {
+          "k": "Adres",
+          "v": "1025 route des Croës, 73340 Lescheraines"
+        },
+        {
+          "k": "Zwemmende badmeesters",
+          "v": "Every day 1 to 7 pm, 27 June to 27 August 2026"
+        },
+        {
+          "k": "Vrij",
+          "v": "Zwemmen, fitness, voetbal, petanque, speeltuin, multi-sportbaan, beachvolleybal, skatepark"
+        },
+        {
+          "k": "Betaald",
+          "v": "Parkeren (€1/uur, 2 uur gratis, €20 pas), glijbaan, wakepark"
+        },
+        {
+          "k": "Contactpersoon",
+          "v": "Stadhuis Lescheraines, 04 79 63 32 64"
+        }
+      ],
+      "schema_amenities": [
+        "Zwemmende badmeesters",
+        "Speeltuin",
+        "Skatepark"
+      ],
+      "when_to_visit": "<p><strong>Swimming is lifeguarded every day 1 to 7 pm, from 27 June to 27 August 2026</strong>; buiten die uren is het zonder toezicht en op eigen risico. De gratis toegankelijke sportfaciliteiten zijn gedurende het hele warme seizoen geopend.</p>"
+    }
+  },
+  "latitude": 45.705302,
+  "longitude": 6.111585,
+  "official_site_url": "https://www.lescheraines.fr/economie-/-tourisme-/-loisirs/base-de-loisirs-des-iles-du-cheran",
+  "partners": [],
+  "postal_code": "73340",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-15. Source commune (lescheraines.fr) + explore-savoie + Chambéry Montagnes. Base communale des Bauges, deux plans d'eau. Baignade surveillée 13h–19h du 27/06 au 27/08/2026 ; hors horaires, baignade libre sous responsabilité. Gratuit : baignade, parcours de santé, foot, pétanque, aire de jeux, multisports, beach-volley, skatepark. Payant : stationnement (1€/h, 2h gratuites, forfait saison 20€), toboggan aquatique (6€/10 descentes, 9€ demi-journée, 02/07–30/08 14h–18h), wakepark. Chiens interdits plage/baignade/toboggan/jeux d'eau. Adresse 1025 route des Croës.",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "base-de-loisirs-les-iles-du-cheran",
+  "sources": [
+    "https://www.lescheraines.fr/economie-/-tourisme-/-loisirs/base-de-loisirs-des-iles-du-cheran",
+    "https://www.explore-savoie.com/plages-et-activites-nautiques/base-de-loisirs-les-iles-du-cheran-111554/",
+    "https://www.chamberymontagnes.com/que-faire/plage-surveillee-a-la-base-de-loisirs-les-iles-du-cheran-lescheraines-fr-5783387/"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published for this site; kept null rather than inferred."
+  ]
+}

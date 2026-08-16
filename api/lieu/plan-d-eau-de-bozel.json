@@ -1,0 +1,24 @@
+{
+  "name": "Plan d'eau de Bozel",
+  "commune": "Bozel",
+  "gps": {
+    "lat": 45.441177,
+    "lng": 6.651811
+  },
+  "type": "domaine",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "Baignade surveillée 27 juin – 27 août, l'après-midi",
+  "winter": null,
+  "official_url": "https://www.valleedebozel.com/plan-d-eau-de-bozel-bozel.html",
+  "last_verified": null
+}

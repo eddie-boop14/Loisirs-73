@@ -1,6 +1,14 @@
 {
   "_comment": "Hub page titles, one per hub x prose language. AUTHORED content, not logic — this is why it lives in data/ and not in build_hubs.py. {dept} and {site} are substituted from site.config.json at build time, so a new departement inherits the wording for free and only re-authors what it wants to say differently.  73: the ROSTER is per-site even though the wording is not. Trimmed to the hubs this site has content for (points-de-vue, telecabines, que-faire); the 74's cascades/chateaux/lacs-plages and the rest were dropped rather than left to render empty. Restore an entry here when the 73 has fiches for it.",
   "titles": {
+    "bases-de-loisirs": {
+      "fr": "Bases de loisirs de {dept} · {site}",
+      "en": "Leisure parks of {dept} · {site}",
+      "de": "Freizeitparks · {dept} · {site}",
+      "it": "Aree ricreative della {dept} · {site}",
+      "es": "Áreas de ocio de {dept} · {site}",
+      "nl": "Recreatieparken · {dept} · {site}"
+    },
     "cascades": {
       "de": "Wasserfälle · {dept} · {site}",
       "en": "Waterfalls of {dept} · {site}",

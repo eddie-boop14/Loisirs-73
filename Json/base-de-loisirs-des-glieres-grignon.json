@@ -1,0 +1,558 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-15",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "domaine",
+  "commune": "Grignon",
+  "date_modified_human": "15 août 2026",
+  "date_published_human": "15 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-15",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-plage-lac-6.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Lifeguarded beach 12 to 6 pm in summer, facing the mountains, near Albertville.",
+          "tag": "frei",
+          "title": "Schwimmen am See"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>Glières Freizeitbasis</strong>, bei Grignon in der Nähe von Albertville (Arlysère Bereich), legt einen See mit einem Strand. <strong>Schwimmen ist kostenlos</strong> und im Sommer bewacht. Vor Ort: kostenlose Parkplätze, Toiletten, ein Restaurant, ein Eisverkäufer und Bereiche für Wohnmobile und Reisebusse.</p><p>Savoie Mont Blanc gibt an, dass die Website für Menschen mit eingeschränkter Mobilität zugänglich ist (stabilisierter Boden, ebene Wege); Ohne eine detailliertere offizielle Zugänglichkeitsbewertung erfassen wir sie nicht als verifiziertes Feld, sondern kennzeichnen sie hier.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "frei",
+        "best_season": "Schwimmen mit Rettungsschwimmern 19. Juni – 31 August, 12 to 6 pm",
+        "commune": "Grignon",
+        "dogs": "Nicht zulässig",
+        "parking": null,
+        "stroller": null,
+        "type": "See",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Ja. It is lifeguarded 12 to 6 pm on 12, 13 and 16 June, then from 19 June to 31 August; after 6 pm it is at users' own risk.",
+          "q": "Ist Schwimmen frei?"
+        },
+        {
+          "a": "Ja, kostenlose Parkplätze, mit Toiletten, einem Restaurant, einem Eisverkäufer und Bereichen für Wohnmobile und Reisebusse.",
+          "q": "Gibt es Parkplätze?"
+        },
+        {
+          "a": "Savoie Mont Blanc besagt, dass die Website für Menschen mit eingeschränkter Mobilität zugänglich ist (stabilisierter Boden, ebene Wege). Wir haben keine detailliertere offizielle Zugänglichkeitsbewertung gefunden.",
+          "q": "Ist das Gelände rollstuhlgängig?"
+        },
+        {
+          "a": "Nein, Hunde sind nicht erlaubt.",
+          "q": "Sind Hunde erlaubt?"
+        }
+      ],
+      "hero": {
+        "badge": "See · Frei schwimmen",
+        "lead": "Einen Steinwurf von Albertville entfernt bietet der See Grignon einen Strand und ein kostenloses Sommerschwimmen mit Blick auf die Berge."
+      },
+      "hero_alt": "See und Strand an der Glières Freizeitbasis, Grignon",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Bei Grignon in der Nähe von Albertville (A430). Kostenlose Parkplätze vor Ort.",
+        "public_transport": null
+      },
+      "meta_description": "Der Grignon See (Glières Basis), in der Nähe von Albertville: kostenloses Sommerschwimmen, ein Strand, kostenlose Parkplätze und ein Restaurant mit Blick auf die Berge.",
+      "meta_title": "Glières Freizeitbasis · Grignon See (Albertville)",
+      "name": "Base de loisirs des Glières",
+      "name_alternates": [
+        "Grignon lake"
+      ],
+      "practical_info": [
+        {
+          "k": "Anschrift",
+          "v": "Zone des Glières Blanches, 73200 Grignon"
+        },
+        {
+          "k": "Schwimmen mit Rettungsschwimmern",
+          "v": "12 bis 6 Uhr; 12., 13. und 16. Juni dann 19. Juni bis 31. August"
+        },
+        {
+          "k": "Zugang",
+          "v": "frei; kostenlose Parkplätze"
+        },
+        {
+          "k": "Vor Ort",
+          "v": "Strand, Toiletten, Restaurant, Eisverkäufer, Wohnmobile und Reisebusse"
+        },
+        {
+          "k": "Kontakt",
+          "v": "04 79 10 48 48"
+        }
+      ],
+      "schema_amenities": [
+        "Schwimmen mit Rettungsschwimmern",
+        "Freie Parkplätze"
+      ],
+      "when_to_visit": "<p><strong>Swimming is lifeguarded 12 to 6 pm</strong>: am 12., 13. und 16. Juni, dann kontinuierlich vom 19. Juni bis 31. August. After 6 pm, swimming is at users' own risk.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "Lifeguarded beach 12 to 6 pm in summer, facing the mountains, near Albertville.",
+          "tag": "Free",
+          "title": "Swimming at the lake"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Glières leisure base</strong>, at Grignon near Albertville (Arlysère area), lays out a lake with a beach. <strong>Swimming is free</strong> and lifeguarded in summer. On site: free parking, toilets, a restaurant, an ice-cream seller and areas for campervans and coaches.</p><p>Savoie Mont Blanc states the site is accessible to people with reduced mobility (stabilised ground, level pathways); lacking a more detailed official accessibility rating, we do not record it as a verified field but flag it here.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free",
+        "best_season": "Lifeguarded swimming 19 June – 31 August, 12 to 6 pm",
+        "commune": "Grignon",
+        "dogs": "Not allowed",
+        "parking": null,
+        "stroller": null,
+        "type": "Lake",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Yes. It is lifeguarded 12 to 6 pm on 12, 13 and 16 June, then from 19 June to 31 August; after 6 pm it is at users' own risk.",
+          "q": "Is swimming free?"
+        },
+        {
+          "a": "Yes, free parking, with toilets, a restaurant, an ice-cream seller and areas for campervans and coaches.",
+          "q": "Is there parking?"
+        },
+        {
+          "a": "Savoie Mont Blanc states the site is accessible to people with reduced mobility (stabilised ground, level pathways). We found no more detailed official accessibility rating.",
+          "q": "Is the site wheelchair-accessible?"
+        },
+        {
+          "a": "No, dogs are not allowed.",
+          "q": "Are dogs allowed?"
+        }
+      ],
+      "hero": {
+        "badge": "Lake · Free swimming",
+        "lead": "A stone's throw from Albertville, the Grignon lake offers a beach and free lifeguarded summer swimming, facing the mountains."
+      },
+      "hero_alt": "Lake and beach at the Glières leisure base, Grignon",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "At Grignon, near Albertville (A430). Free parking on site.",
+        "public_transport": null
+      },
+      "meta_description": "The Grignon lake (Glières base), near Albertville: free lifeguarded summer swimming, a beach, free parking and a restaurant, facing the mountains.",
+      "meta_title": "Glières leisure base · Grignon lake (Albertville)",
+      "name": "Base de loisirs des Glières",
+      "name_alternates": [
+        "Grignon lake"
+      ],
+      "practical_info": [
+        {
+          "k": "Address",
+          "v": "Zone des Glières Blanches, 73200 Grignon"
+        },
+        {
+          "k": "Lifeguarded swimming",
+          "v": "12 to 6 pm; 12, 13 and 16 June then 19 June to 31 August"
+        },
+        {
+          "k": "Access",
+          "v": "Free; free parking"
+        },
+        {
+          "k": "On site",
+          "v": "Beach, toilets, restaurant, ice-cream seller, campervan and coach areas"
+        },
+        {
+          "k": "Contact",
+          "v": "04 79 10 48 48"
+        }
+      ],
+      "schema_amenities": [
+        "Lifeguarded swimming",
+        "Free parking"
+      ],
+      "when_to_visit": "<p><strong>Swimming is lifeguarded 12 to 6 pm</strong>: on 12, 13 and 16 June, then continuously from 19 June to 31 August. After 6 pm, swimming is at users' own risk.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "Playa salvavidas de 12 a 6 pm en verano, frente a las montañas, cerca de Albertville.",
+          "tag": "Gratis",
+          "title": "Nadando en el lago"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>Glières base de ocio</strong>, en Grignon cerca de Albertville (zona Arlysère), se encuentra un lago con una playa. <strong>Nadar es gratis</strong> y salvavidas en verano. En el sitio: aparcamiento gratuito, aseos, un restaurante, un vendedor de helados y zonas para autocaravanas y autocares.</p><p>Savoie Mont Blanc declara que el sitio es accesible para personas con movilidad reducida (tierra estabilizada, vías de nivel); falta de una calificación oficial de accesibilidad más detallada, no la registramos como un campo verificado pero la bandera aquí.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": "Natación salvavidas 19 de junio – 31 August, 12 to 6 pm",
+        "commune": "Grignon",
+        "dogs": "No se permite",
+        "parking": null,
+        "stroller": null,
+        "type": "Lago",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Sí. It is lifeguarded 12 to 6 pm on 12, 13 and 16 June, then from 19 June to 31 August; después de las 6 pm es a riesgo de los usuarios.",
+          "q": "¿Está nadando gratis?"
+        },
+        {
+          "a": "Sí, aparcamiento gratuito, con aseos, un restaurante, un vendedor de helados y zonas para caravanas y autocares.",
+          "q": "¿Hay aparcamiento?"
+        },
+        {
+          "a": "Savoie Mont Blanc declara que el sitio es accesible para personas con movilidad reducida (suelo estabilizado, vías de nivel). No encontramos ninguna calificación oficial de accesibilidad más detallada.",
+          "q": "¿Es accesible la silla de ruedas del sitio?"
+        },
+        {
+          "a": "No, no se permiten perros.",
+          "q": "¿Se permiten perros?"
+        }
+      ],
+      "hero": {
+        "badge": "Lago · Piscina gratuita",
+        "lead": "A tiro de piedra de Albertville, el lago Grignon ofrece una playa y una natación de verano libre y salvavidas, frente a las montañas."
+      },
+      "hero_alt": "Lago y playa en la base de ocio Glières, Grignon",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "En Grignon, cerca de Albertville (A430). Aparcamiento gratuito en el sitio.",
+        "public_transport": null
+      },
+      "meta_description": "El lago Grignon (base Glières), cerca de Albertville: natación de verano libre salvavidas, playa, aparcamiento gratuito y un restaurante, frente a las montañas.",
+      "meta_title": "Base de ocio Glières · Lago Grignon (Albertville)",
+      "name": "Base de loisirs des Glières",
+      "name_alternates": [
+        "Grignon lake"
+      ],
+      "practical_info": [
+        {
+          "k": "Dirección",
+          "v": "Zone des Glières Blanches, 73200 Grignon"
+        },
+        {
+          "k": "Natación salvavidas",
+          "v": "12 to 6 pm; 12, 13 y 16 de junio, 19 de junio a 31 de agosto"
+        },
+        {
+          "k": "Acceso",
+          "v": "Libre; aparcamiento gratuito"
+        },
+        {
+          "k": "En el sitio",
+          "v": "Playa, inodoros, restaurante, vendedor de helados, caravana y zonas de autobuses"
+        },
+        {
+          "k": "Contacto",
+          "v": "04 79 10 48 48"
+        }
+      ],
+      "schema_amenities": [
+        "Natación salvavidas",
+        "Aparcamiento gratuito"
+      ],
+      "when_to_visit": "<p><strong>La natación es salvavidas de 12 a 6 pm</strong>: los días 12, 13 y 16 de junio, y luego continuamente del 19 de junio al 31 de agosto. Después de las 6 pm, nadar está en riesgo propio de los usuarios.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Plage surveillée 12 h à 18 h l'été, face aux montagnes, près d'Albertville.",
+          "tag": "Gratuit",
+          "title": "Baignade au plan d'eau"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>base de loisirs des Glières</strong>, à Grignon près d'Albertville (agglomération Arlysère), aménage un plan d'eau avec plage. La <strong>baignade est gratuite</strong> et surveillée l'été. Sur place : parking gratuit, toilettes, restaurant, marchand de glaces et des aires pour camping-cars et cars.</p><p>Savoie Mont Blanc indique le site accessible aux personnes à mobilité réduite (sols stabilisés, cheminements de plain-pied) ; faute de niveau d'accessibilité officiel plus détaillé, nous ne l'inscrivons pas comme donnée vérifiée mais le signalons ici.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuit",
+        "best_season": "Baignade surveillée 19 juin – 31 août, 12 h à 18 h",
+        "commune": "Grignon",
+        "dogs": "Non admis",
+        "parking": null,
+        "stroller": null,
+        "type": "Plan d'eau",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Oui. Elle est surveillée de 12 h à 18 h les 12, 13 et 16 juin, puis du 19 juin au 31 août ; après 18 h, elle se fait sous la responsabilité des usagers.",
+          "q": "La baignade est-elle gratuite ?"
+        },
+        {
+          "a": "Oui, un parking gratuit, avec toilettes, restaurant, marchand de glaces et des aires pour camping-cars et cars.",
+          "q": "Y a-t-il un parking ?"
+        },
+        {
+          "a": "Savoie Mont Blanc indique un site accessible aux personnes à mobilité réduite (sols stabilisés, cheminements de plain-pied). Nous n'avons pas trouvé de niveau d'accessibilité officiel plus détaillé.",
+          "q": "Le site est-il accessible en fauteuil ?"
+        },
+        {
+          "a": "Non, les chiens ne sont pas admis.",
+          "q": "Les chiens sont-ils admis ?"
+        }
+      ],
+      "hero": {
+        "badge": "Plan d'eau · Baignade gratuite",
+        "lead": "À deux pas d'Albertville, le plan d'eau de Grignon offre une plage et une baignade gratuite surveillée l'été, face aux montagnes."
+      },
+      "hero_alt": "Plan d'eau et plage de la base de loisirs des Glières à Grignon",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "À Grignon, près d'Albertville (accès A430). Parking gratuit sur place.",
+        "public_transport": null
+      },
+      "meta_description": "Le plan d'eau de Grignon (base des Glières), près d'Albertville : baignade gratuite surveillée l'été, plage, parking gratuit et restaurant, face aux montagnes.",
+      "meta_title": "Base de loisirs des Glières · plan d'eau de Grignon (Albertville)",
+      "name": "Base de loisirs des Glières",
+      "name_alternates": [
+        "Plan d'eau de Grignon"
+      ],
+      "practical_info": [
+        {
+          "k": "Adresse",
+          "v": "Zone des Glières Blanches, 73200 Grignon"
+        },
+        {
+          "k": "Baignade surveillée",
+          "v": "12 h à 18 h ; 12, 13 et 16 juin puis du 19 juin au 31 août"
+        },
+        {
+          "k": "Accès",
+          "v": "Gratuit ; parking gratuit"
+        },
+        {
+          "k": "Sur place",
+          "v": "Plage, toilettes, restaurant, marchand de glaces, aires camping-cars et cars"
+        },
+        {
+          "k": "Contact",
+          "v": "04 79 10 48 48"
+        }
+      ],
+      "schema_amenities": [
+        "Baignade surveillée",
+        "Parking gratuit"
+      ],
+      "when_to_visit": "<p>La <strong>baignade est surveillée de 12 h à 18 h</strong> : les 12, 13 et 16 juin, puis en continu du 19 juin au 31 août. Après 18 h, la baignade se fait sous la responsabilité des usagers.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Lifeguarded beach 12 to 6 pm in summer, facing the mountains, near Albertville.",
+          "tag": "Gratis",
+          "title": "Nuoto al lago"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Glières base di tempo libero</strong>, a Grignon vicino a Albertville (zona Arlysère), stende un lago con una spiaggia. <strong>Il nuoto è gratuito</strong> e salvagente in estate. In loco: parcheggio gratuito, servizi igienici, un ristorante, un venditore gelato e aree per camper e pullman.</p><p>Savoie Mont Blanc afferma che il sito è accessibile alle persone con mobilità ridotta (terra stabilizzato, percorsi di livello); mancando una valutazione di accessibilità ufficiale più dettagliata, non lo registriamo come un campo verificato, ma lo bandiamo qui.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": "Nuoto salvagente 19 giugno – 31 August, 12 to 6 pm",
+        "commune": "Grignon",
+        "dogs": "Non consentito",
+        "parking": null,
+        "stroller": null,
+        "type": "Lago",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Si'. It is lifeguarded 12 to 6 pm on 12, 13 and 16 June, then from 19 June to 31 August; after 6 pm it is at users' own risk.",
+          "q": "Il nuoto è gratuito?"
+        },
+        {
+          "a": "Sì, parcheggio gratuito, con servizi igienici, un ristorante, un venditore gelato e aree per camper e pullman.",
+          "q": "C'è un parcheggio?"
+        },
+        {
+          "a": "Savoie Mont Blanc afferma che il sito è accessibile alle persone con mobilità ridotta (terra stabilizzato, percorsi di livello). Non abbiamo trovato più dettagliato valutazione ufficiale di accessibilità.",
+          "q": "Il sito è accessibile alle sedie a rotelle?"
+        },
+        {
+          "a": "No, i cani non sono ammessi.",
+          "q": "I cani sono ammessi?"
+        }
+      ],
+      "hero": {
+        "badge": "Lago · Nuoto libero",
+        "lead": "A due passi da Albertville, il lago Grignon offre una spiaggia e un nuoto estivo protetto dalla vita, di fronte alle montagne."
+      },
+      "hero_alt": "Lago e spiaggia alla base per il tempo libero Glières, Grignon",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "A Grignon, vicino a Albertville (A430). Parcheggio gratuito in loco.",
+        "public_transport": null
+      },
+      "meta_description": "Il lago Grignon (base Glières), vicino a Albertville: free lifeguarded nuoto estivo, una spiaggia, parcheggio gratuito e un ristorante, di fronte alle montagne.",
+      "meta_title": "Glières base per il tempo libero · Grignon lago (Albertville)",
+      "name": "Base de loisirs des Glières",
+      "name_alternates": [
+        "Grignon lake"
+      ],
+      "practical_info": [
+        {
+          "k": "Indirizzo",
+          "v": "Zone des Glières Blanches, 73200 Grignon"
+        },
+        {
+          "k": "Nuoto salvagente",
+          "v": "12 to 6 pm; 12, 13 e 16 giugno poi 19 giugno al 31 agosto"
+        },
+        {
+          "k": "Accesso",
+          "v": "Libero; parcheggio gratuito"
+        },
+        {
+          "k": "Sul sito",
+          "v": "Spiaggia, servizi igienici, ristorante, gelateria, aree camper e pullman"
+        },
+        {
+          "k": "Contatto",
+          "v": "04 79 10 48 48"
+        }
+      ],
+      "schema_amenities": [
+        "Nuoto salvagente",
+        "Parcheggio gratuito"
+      ],
+      "when_to_visit": "<p><strong>Swimming is lifeguarded 12 to 6 pm</strong>: il 12, 13 e 16 giugno, poi continuamente dal 19 giugno al 31 agosto. After 6 pm, swimming is at users' own risk.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Lifeguarded beach 12 to 6 pm in summer, facing the mountains, near Albertville.",
+          "tag": "Vrij",
+          "title": "Zwemmen bij het meer"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>Glières recreatie basis</strong>, bij Grignon in de buurt van Albertville (Arlysère gebied), legt een meer met een strand. <strong>Zwemmen is gratis</strong> en badmeester in de zomer. Ter plaatse: gratis parkeren, toiletten, een restaurant, een ijs verkoper en gebieden voor campers en coaches.</p><p>Savoie Mont Blanc stelt dat de site toegankelijk is voor mensen met beperkte mobiliteit (gestabiliseerde grond, niveaupaden); Het ontbreekt aan een meer gedetailleerde officiële toegankelijkheidsbeoordeling, we registreren het niet als een geverifieerd veld, maar markeren het hier.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Vrij",
+        "best_season": "Badmeester zwemmen 19 juni 31 August, 12 to 6 pm",
+        "commune": "Grignon",
+        "dogs": "Niet toegestaan",
+        "parking": null,
+        "stroller": null,
+        "type": "Meer",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Ja. It is lifeguarded 12 to 6 pm on 12, 13 and 16 June, then from 19 June to 31 August; after 6 pm it is at users' own risk.",
+          "q": "Is zwemmen gratis?"
+        },
+        {
+          "a": "Ja, gratis parkeren, met toiletten, een restaurant, een ijsverkoper en gebieden voor campers en coaches.",
+          "q": "Is er parkeergelegenheid?"
+        },
+        {
+          "a": "Savoie Mont Blanc stelt dat de site toegankelijk is voor mensen met beperkte mobiliteit (gestabiliseerde grond, niveaupaden). We vonden geen gedetailleerde officiële toegankelijkheidsbeoordeling.",
+          "q": "Is de site toegankelijk voor rolstoelen?"
+        },
+        {
+          "a": "Nee, honden zijn niet toegestaan.",
+          "q": "Zijn honden toegestaan?"
+        }
+      ],
+      "hero": {
+        "badge": "Meer · Gratis zwemmen",
+        "lead": "Het Grignon meer ligt op een steenworp afstand van Albertville en biedt een strand en gratis badmeester zomerzwemmen, met uitzicht op de bergen."
+      },
+      "hero_alt": "Meer en strand op de Glières recreatiebasis, Grignon",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Bij Grignon, bij Albertville (A430). Gratis parkeren op het terrein.",
+        "public_transport": null
+      },
+      "meta_description": "Het Grignon meer (Glières basis), nabij Albertville: gratis badmeester zomer zwemmen, een strand, gratis parkeergelegenheid en een restaurant, met uitzicht op de bergen.",
+      "meta_title": "Glières recreatie basis · Grignon meer (Albertville)",
+      "name": "Base de loisirs des Glières",
+      "name_alternates": [
+        "Grignon lake"
+      ],
+      "practical_info": [
+        {
+          "k": "Adres",
+          "v": "Zone des Glières Blanches, 73200 Grignon"
+        },
+        {
+          "k": "Zwemmende badmeesters",
+          "v": "12 to 6 pm; 12, 13 en 16 juni dan 19 juni tot en met 31 augustus"
+        },
+        {
+          "k": "Toegang",
+          "v": "Vrij; gratis parkeren"
+        },
+        {
+          "k": "Ter plaatse",
+          "v": "Strand, toiletten, restaurant, ijsverkoper, camper- en touringcarruimtes"
+        },
+        {
+          "k": "Contactpersoon",
+          "v": "04 79 10 48 48"
+        }
+      ],
+      "schema_amenities": [
+        "Zwemmende badmeesters",
+        "Gratis parkeren"
+      ],
+      "when_to_visit": "<p><strong>Swimming is lifeguarded 12 to 6 pm</strong>: op 12, 13 en 16 juni, daarna continu van 19 juni tot 31 augustus. After 6 pm, swimming is at users' own risk.</p>"
+    }
+  },
+  "latitude": 45.653065,
+  "longitude": 6.372584,
+  "official_site_url": "https://www.savoie-mont-blanc.com/plages-et-activites-nautiques/base-de-loisirs-des-glieres-377816/",
+  "partners": [],
+  "postal_code": "73200",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-15. Source Savoie Mont Blanc + Pays d'Albertville. Plan d'eau aménagé près d'Albertville (Grignon, agglomération Arlysère). Baignade gratuite et surveillée 12h–18h : les 12, 13 et 16 juin puis du 19 juin au 31 août ; après 18h sous responsabilité des usagers. Parking gratuit, toilettes, plage, restaurant, marchand de glaces, aires camping-cars/cars. SMB indique le site accessible aux personnes à mobilité réduite (sols stabilisés, plain-pied) — non retenu en donnée acces_pmr faute de niveau officiel détaillé. Chiens non admis.",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "base-de-loisirs-des-glieres-grignon",
+  "sources": [
+    "https://www.savoie-mont-blanc.com/plages-et-activites-nautiques/base-de-loisirs-des-glieres-377816/",
+    "https://www.pays-albertville.com/en/fiches/pond-glieres-activities-center/"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published for this site; kept null rather than inferred."
+  ]
+}

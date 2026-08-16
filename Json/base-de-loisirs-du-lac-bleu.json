@@ -1,0 +1,594 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-15",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "domaine",
+  "commune": "Saint-Rémy-de-Maurienne",
+  "date_modified_human": "15 août 2026",
+  "date_published_human": "15 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-15",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-plage-lac-8.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Der Strand des Sees mit freiem Zugang, im Sommer mit Pedalbooten und Paddleboards zu mieten.",
+          "tag": "frei",
+          "title": "Schwimmen im Lac Bleu"
+        },
+        {
+          "description": "Abenteuerkurs, Minigolf, Beachvolleyball und eine Pumpstrecke um den See.",
+          "tag": "Vor Ort",
+          "title": "Pump Track und Abenteuerkurs"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>Lac Bleu Freizeitbasis</strong>, bei Saint-Rémy-de-Maurienne, bringt einen künstlichen See mit einem <strong>frei zugänglicher Strand</strong> und einen großen Außenpool. Um das Wasser herum: Angeln, Pedalboote, Kanukajak, Paddleboarden, ein Abenteuerkurs, Minigolf, Beach-Volleyball, eine Pumpstrecke und ein Fitness-Trail. Paddleboard und Pedalboot mieten wird im Juli und August angeboten.</p><p>Der See ist das ganze Jahr über geöffnet; Schwimmen wird im Sommer bewacht. Die Quellen unterscheiden sich in den genauen Daten und wir geben sie so an, wie sie stehen: Savoie Mont Blanc kündigt \"20. Juni bis 27. August\" an, während eine Maurienne Tourisme-Liste besagt, dass das Schwimmen \"im Juli und August\" überwacht wird.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "frei",
+        "best_season": "Rettungsschwimmen im Sommer (20. Juni -) 27. August; siehe Quelle Widerspruch",
+        "commune": "Saint-Rémy-de-Maurienne",
+        "dogs": "Nicht zulässig",
+        "parking": null,
+        "stroller": null,
+        "type": "Freizeitbasis",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Ja, der Zugang zum Strand des Sees ist frei. Der große Außenpool ist eine separate Einrichtung auf der gleichen Basis.",
+          "q": "Ist der Zugang zum See frei?"
+        },
+        {
+          "a": "Im Sommer. Die Quellen unterscheiden sich bei den Daten: '20. Juni bis 27. August' pro Savoie Mont Blanc, 'im Juli und August' pro Maurienne Tourismus. Wir berichten sie so, wie sie sind.",
+          "q": "Wann ist Schwimmen Lifeguarded?"
+        },
+        {
+          "a": "Schwimmen, ein Außenpool, Angeln, Pedalboote, Kanu-Kajak, Paddleboarden, ein Abenteuerkurs, Minigolf, Beach-Volleyball, ein Pumptrack und ein Fitness-Trail.",
+          "q": "Welche Aktivitäten sind vor Ort?"
+        },
+        {
+          "a": "Nein, Hunde sind nicht erlaubt (Savoie Mont Blanc).",
+          "q": "Sind Hunde erlaubt?"
+        }
+      ],
+      "hero": {
+        "badge": "Freizeitbasis · Freies Schwimmen",
+        "lead": "Im Maurienne verbindet der Lac Bleu einen See mit einem frei zugänglichen Strand und einem großen Außenpool, mit Pedalbooten, einer Pumpenbahn und einem Abenteuerkurs."
+      },
+      "hero_alt": "Seestrand an der Lac Bleu Freizeitbasis, Saint-Rémy-de-Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Bei Saint-Rémy-de-Maurienne, im unteren Maurienne (A43). Parken vor Ort.",
+        "public_transport": null
+      },
+      "meta_description": "Der Lac Bleu bei Saint-Rémy-de-Maurienne: ein frei zugänglicher Seestrand, der im Sommer bewacht wird, ein Außenpool, Pedalboote, eine Pumpbahn und ein Abenteuerkurs.",
+      "meta_title": "Lac Bleu Freizeitbasis · Saint-Rémy-de-Maurienne",
+      "name": "Base de loisirs du Lac Bleu",
+      "name_alternates": [
+        "Lac Bleu"
+      ],
+      "practical_info": [
+        {
+          "k": "Standort",
+          "v": "Saint-Rémy-de-Maurienne, 73660 (Maurienne)"
+        },
+        {
+          "k": "Schwimmen mit Rettungsschwimmern",
+          "v": "Im Sommer — '20. Juni: 27. August' (SMB) oder 'Juli und August' (Maurienne Tourismus)"
+        },
+        {
+          "k": "Zugang zum See",
+          "v": "frei; See ganzjährig geöffnet"
+        },
+        {
+          "k": "Vor Ort",
+          "v": "Außenpool, Pedalboote, Kanukajak, Paddleboarding, Minigolf, Pump Track, Fitness Trail, Snackbar, Parkplätze"
+        },
+        {
+          "k": "Kontakt",
+          "v": "04 79 83 13 70"
+        }
+      ],
+      "schema_amenities": [
+        "Schwimmen mit Rettungsschwimmern",
+        "Außenpool",
+        "Pumpbahn"
+      ],
+      "when_to_visit": "<p>Die <strong>See ist ganzjährig geöffnet</strong>Schwimmen wird im Sommer bewacht. An den Daten existieren zwei Formulierungen: '20. Juni bis 27. August' (Savoie Mont Blanc) und 'im Juli und August' (Maurienne Tourisme). Wir melden sie, ohne zu wählen.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "The lake's beach with free access, lifeguarded in summer, with pedal boats and paddleboards for hire.",
+          "tag": "Free",
+          "title": "Swimming at the Lac Bleu"
+        },
+        {
+          "description": "Adventure course, mini-golf, beach volleyball and a pump track around the lake.",
+          "tag": "On site",
+          "title": "Pump track and adventure course"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Lac Bleu leisure base</strong>, at Saint-Rémy-de-Maurienne, brings together an artificial lake with a <strong>free-access beach</strong> and a large outdoor pool. Around the water: fishing, pedal boats, canoe-kayak, paddleboarding, an adventure course, mini-golf, beach volleyball, a pump track and a fitness trail. Paddleboard and pedal-boat hire is offered in July and August.</p><p>The lake is open all year; swimming is lifeguarded in summer. Sources differ on the exact dates and we give them as they stand: Savoie Mont Blanc announces '20 June to 27 August', while a Maurienne Tourisme listing states swimming is supervised 'in July and August'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free",
+        "best_season": "Lifeguarded swimming in summer (20 June – 27 August; see sourced contradiction)",
+        "commune": "Saint-Rémy-de-Maurienne",
+        "dogs": "Not allowed",
+        "parking": null,
+        "stroller": null,
+        "type": "Leisure base",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Yes, access to the lake's beach is free. The large outdoor pool is a separate facility on the same base.",
+          "q": "Is access to the lake free?"
+        },
+        {
+          "a": "In summer. Sources differ on the dates: '20 June to 27 August' per Savoie Mont Blanc, 'in July and August' per Maurienne Tourisme. We report them as they stand.",
+          "q": "When is swimming lifeguarded?"
+        },
+        {
+          "a": "Swimming, an outdoor pool, fishing, pedal boats, canoe-kayak, paddleboarding, an adventure course, mini-golf, beach volleyball, a pump track and a fitness trail.",
+          "q": "What activities are on site?"
+        },
+        {
+          "a": "No, dogs are not allowed (Savoie Mont Blanc).",
+          "q": "Are dogs allowed?"
+        }
+      ],
+      "hero": {
+        "badge": "Leisure base · Free swimming",
+        "lead": "In the Maurienne, the Lac Bleu pairs a lake with a free-access beach and a large outdoor pool, with pedal boats, a pump track and an adventure course."
+      },
+      "hero_alt": "Lake beach at the Lac Bleu leisure base, Saint-Rémy-de-Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "At Saint-Rémy-de-Maurienne, in the lower Maurienne (A43). Parking on site.",
+        "public_transport": null
+      },
+      "meta_description": "The Lac Bleu at Saint-Rémy-de-Maurienne: a free-access lake beach lifeguarded in summer, an outdoor pool, pedal boats, a pump track and an adventure course.",
+      "meta_title": "Lac Bleu leisure base · Saint-Rémy-de-Maurienne",
+      "name": "Base de loisirs du Lac Bleu",
+      "name_alternates": [
+        "Lac Bleu"
+      ],
+      "practical_info": [
+        {
+          "k": "Location",
+          "v": "Saint-Rémy-de-Maurienne, 73660 (Maurienne)"
+        },
+        {
+          "k": "Lifeguarded swimming",
+          "v": "In summer — '20 June – 27 August' (SMB) or 'July and August' (Maurienne Tourisme)"
+        },
+        {
+          "k": "Lake access",
+          "v": "Free; lake open all year"
+        },
+        {
+          "k": "On site",
+          "v": "Outdoor pool, pedal boats, canoe-kayak, paddleboarding, mini-golf, pump track, fitness trail, snack bar, parking"
+        },
+        {
+          "k": "Contact",
+          "v": "04 79 83 13 70"
+        }
+      ],
+      "schema_amenities": [
+        "Lifeguarded swimming",
+        "Outdoor pool",
+        "Pump track"
+      ],
+      "when_to_visit": "<p>The <strong>lake is open all year</strong>; swimming is lifeguarded in summer. On the dates, two wordings coexist: '20 June to 27 August' (Savoie Mont Blanc) and 'in July and August' (Maurienne Tourisme). We report them without choosing.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "La playa del lago con acceso gratuito, salvavidas en verano, con botes de pedal y paddleboards para alquiler.",
+          "tag": "Gratis",
+          "title": "Nadando en el Lac Bleu"
+        },
+        {
+          "description": "Campo de aventura, mini-golf, voleibol de playa y una pista de bomba alrededor del lago.",
+          "tag": "En el sitio",
+          "title": "Pump track y curso de aventura"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>Lac Bleu base de ocio</strong>, en Saint-Rémy-de-Maurienne, reúne un lago artificial con un <strong>playa de acceso libre</strong> y una gran piscina al aire libre. Alrededor del agua: pesca, botes de pedal, canoe-kayak, paddleboarding, un curso de aventura, mini-golf, voleibol de playa, una pista de bomba y un sendero de fitness. El alquiler de paddleboard y pedal-barco se ofrece en julio y agosto.</p><p>El lago está abierto todo el año; nadar es salvavidas en verano. Las fuentes difieren en las fechas exactas y las damos como están: Savoie Mont Blanc anuncia el '20 de junio al 27 de agosto', mientras que un Maurienne Tourisme lista estados natación es supervisado 'en julio y agosto'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": "Natación salvavidas en verano (20 de junio – 27 de agosto; ver contradicción fuente)",
+        "commune": "Saint-Rémy-de-Maurienne",
+        "dogs": "No se permite",
+        "parking": null,
+        "stroller": null,
+        "type": "Leisure base",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Sí, el acceso a la playa del lago es gratuito. La gran piscina exterior es una instalación separada en la misma base.",
+          "q": "¿Es libre el acceso al lago?"
+        },
+        {
+          "a": "En verano. Las fuentes difieren en las fechas: '20 de junio a 27 de agosto' por Savoie Mont Blanc, 'en julio y agosto' por Maurienne Tourisme. Los reportamos como están.",
+          "q": "¿Cuándo está nadando salvavidas?"
+        },
+        {
+          "a": "Piscina, piscina al aire libre, pesca, botes a pedal, canoe-kayak, paddleboarding, un curso de aventura, mini-golf, voleibol de playa, una pista de bomba y una pista de fitness.",
+          "q": "¿Qué actividades hay en el sitio?"
+        },
+        {
+          "a": "No, no se permiten perros (Savoie Mont Blanc).",
+          "q": "¿Se permiten perros?"
+        }
+      ],
+      "hero": {
+        "badge": "Base de ocio · Natación gratuita",
+        "lead": "En el Maurienne, el Lac Bleu combina un lago con una playa de acceso libre y una gran piscina al aire libre, con botes de pedal, una pista de bomba y un curso de aventura."
+      },
+      "hero_alt": "Playa del lago en la base de ocio Lac Bleu, Saint-Rémy-de-Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "En Saint-Rémy-de-Maurienne, en el Maurienne inferior (A43). Aparcamiento en el sitio.",
+        "public_transport": null
+      },
+      "meta_description": "El Lac Bleu en Saint-Rémy-de-Maurienne: una playa de lago de acceso libre salvavidas en verano, una piscina al aire libre, botes de pedal, una pista de bomba y un curso de aventura.",
+      "meta_title": "Base de ocio Lac Bleu · Saint-Rémy-de-Maurienne",
+      "name": "Base de loisirs du Lac Bleu",
+      "name_alternates": [
+        "Lac Bleu"
+      ],
+      "practical_info": [
+        {
+          "k": "Ubicación",
+          "v": "Saint-Rémy-de-Maurienne, 73660 (Maurienne)"
+        },
+        {
+          "k": "Natación salvavidas",
+          "v": "En verano — 20 de junio 27 agosto' (SMB) o 'julio y agosto' (Maurienne Tourisme)"
+        },
+        {
+          "k": "Acceso al lago",
+          "v": "Libre; lago abierto todo el año"
+        },
+        {
+          "k": "En el sitio",
+          "v": "Piscina al aire libre, botes a pedal, canoe-kayak, paddleboard, mini-golf, pista de bomba, pista de fitness, snack bar, aparcamiento"
+        },
+        {
+          "k": "Contacto",
+          "v": "04 79 83 13 70"
+        }
+      ],
+      "schema_amenities": [
+        "Natación salvavidas",
+        "Piscina exterior",
+        "Pump track"
+      ],
+      "when_to_visit": "<p>El <strong>el lago está abierto todo el año</strong>; la natación es salvavidas en verano. En las fechas coexisten dos palabras: '20 de junio a 27 de agosto' (Savoie Mont Blanc) y 'en julio y agosto' (Maurienne Tourisme). Los reportamos sin elegir.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Plage aménagée du lac en accès gratuit, surveillée l'été, avec pédalos et paddle en location.",
+          "tag": "Gratuit",
+          "title": "Baignade au Lac Bleu"
+        },
+        {
+          "description": "Parcours aventure, mini-golf, beach-volley et pump track autour du lac.",
+          "tag": "Sur place",
+          "title": "Pump track et parcours aventure"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>base de loisirs du Lac Bleu</strong>, à Saint-Rémy-de-Maurienne, réunit un lac artificiel à <strong>plage aménagée en accès gratuit</strong> et une grande piscine extérieure. Autour de l'eau : pêche, pédalos, canoë-kayak, paddle, parcours aventure, mini-golf, beach-volley, pump track et parcours de santé. La location de paddle et de pédalos est proposée en juillet-août.</p><p>Le lac est accessible toute l'année ; la baignade, elle, est surveillée l'été. Les sources divergent sur les dates exactes et nous les donnons telles quelles : Savoie Mont Blanc annonce « du 20 juin au 27 août », tandis qu'une fiche de Maurienne Tourisme indique une surveillance « en juillet et août ».</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuit",
+        "best_season": "Baignade surveillée l'été (20 juin – 27 août ; voir contradiction sourcée)",
+        "commune": "Saint-Rémy-de-Maurienne",
+        "dogs": "Non admis",
+        "parking": null,
+        "stroller": null,
+        "type": "Base de loisirs",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Oui, l'accès à la plage aménagée du lac est gratuit. La grande piscine extérieure est un équipement distinct sur la même base.",
+          "q": "L'accès au lac est-il gratuit ?"
+        },
+        {
+          "a": "L'été. Les sources divergent sur les dates : « du 20 juin au 27 août » selon Savoie Mont Blanc, « en juillet et août » selon Maurienne Tourisme. Nous les reportons telles quelles.",
+          "q": "Quand la baignade est-elle surveillée ?"
+        },
+        {
+          "a": "Baignade, piscine extérieure, pêche, pédalos, canoë-kayak, paddle, parcours aventure, mini-golf, beach-volley, pump track et parcours de santé.",
+          "q": "Quelles activités sur place ?"
+        },
+        {
+          "a": "Non, les chiens ne sont pas admis (Savoie Mont Blanc).",
+          "q": "Les chiens sont-ils admis ?"
+        }
+      ],
+      "hero": {
+        "badge": "Base de loisirs · Baignade gratuite",
+        "lead": "En Maurienne, le Lac Bleu marie un lac à plage aménagée en accès gratuit et une grande piscine extérieure, avec pédalos, pump track et parcours aventure."
+      },
+      "hero_alt": "Lac à plage aménagée de la base de loisirs du Lac Bleu, Saint-Rémy-de-Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "À Saint-Rémy-de-Maurienne, en basse Maurienne (accès A43). Parking sur place.",
+        "public_transport": null
+      },
+      "meta_description": "Le Lac Bleu à Saint-Rémy-de-Maurienne : plage de lac en accès gratuit surveillée l'été, piscine extérieure, pédalos, pump track et parcours aventure.",
+      "meta_title": "Base de loisirs du Lac Bleu · Saint-Rémy-de-Maurienne",
+      "name": "Base de loisirs du Lac Bleu",
+      "name_alternates": [
+        "Lac Bleu"
+      ],
+      "practical_info": [
+        {
+          "k": "Localisation",
+          "v": "Saint-Rémy-de-Maurienne, 73660 (Maurienne)"
+        },
+        {
+          "k": "Baignade surveillée",
+          "v": "L'été — « 20 juin – 27 août » (SMB) ou « juillet et août » (Maurienne Tourisme)"
+        },
+        {
+          "k": "Accès lac",
+          "v": "Gratuit ; lac accessible toute l'année"
+        },
+        {
+          "k": "Sur place",
+          "v": "Piscine extérieure, pédalos, canoë-kayak, paddle, mini-golf, pump track, parcours de santé, snack-bar, parking"
+        },
+        {
+          "k": "Contact",
+          "v": "04 79 83 13 70"
+        }
+      ],
+      "schema_amenities": [
+        "Baignade surveillée",
+        "Piscine extérieure",
+        "Pump track"
+      ],
+      "when_to_visit": "<p>Le <strong>lac est accessible toute l'année</strong> ; la baignade est surveillée l'été. Sur les dates, deux formulations coexistent : « du 20 juin au 27 août » (Savoie Mont Blanc) et « en juillet et août » (Maurienne Tourisme). Nous les reportons sans trancher.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "La spiaggia del lago con accesso gratuito, salvagente in estate, con pedalò e paddleboard a noleggio.",
+          "tag": "Gratis",
+          "title": "Nuoto alla Lac Bleu"
+        },
+        {
+          "description": "Corso di avventura, minigolf, beach volley e una pista di pompaggio intorno al lago.",
+          "tag": "Sul sito",
+          "title": "Pista di pompaggio e corso di avventura"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Lac Bleu base di tempo libero</strong>, a Saint-Rémy-de-Maurienne, riunisce un lago artificiale con un <strong>spiaggia di accesso libero</strong> e una grande piscina all'aperto. Intorno all'acqua: pesca, pedalò, canoa-kayak, paddleboard, un corso di avventura, mini-golf, beach volley, una pista di pompaggio e una pista di fitness. Paddleboard e noleggio pedalò è offerto in luglio e agosto.</p><p>Il lago è aperto tutto l'anno; il nuoto è salvagente in estate. Le fonti differiscono sulle date esatte e le diamo come stanno: Savoie Mont Blanc annuncia dal 20 giugno al 27 agosto', mentre un elenco di Maurienne Tourisme afferma che il nuoto è supervisionato 'in luglio e agosto'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": "Nuoto salvagente in estate (20 giugno – 27 agosto; vedi contraddizione sorgente)",
+        "commune": "Saint-Rémy-de-Maurienne",
+        "dogs": "Non consentito",
+        "parking": null,
+        "stroller": null,
+        "type": "Base di svago",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Sì, l'accesso alla spiaggia del lago è gratuito. La grande piscina esterna è una struttura separata sulla stessa base.",
+          "q": "L'accesso al lago è gratuito?"
+        },
+        {
+          "a": "In estate. Le fonti differiscono nelle date: '20 giugno al 27 agosto' per Savoie Mont Blanc, 'in luglio e agosto' per Maurienne Tourisme. Noi li riferiamo come stanno.",
+          "q": "Quando viene salvata la vita?"
+        },
+        {
+          "a": "Piscina, piscina all'aperto, pesca, pedalò, canoa-kayak, paddleboard, corso di avventura, mini-golf, beach volley, una pista di pompaggio e un percorso fitness.",
+          "q": "Quali attività sono in loco?"
+        },
+        {
+          "a": "No, i cani non sono ammessi (Savoie Mont Blanc).",
+          "q": "I cani sono ammessi?"
+        }
+      ],
+      "hero": {
+        "badge": "Base di svago · Nuoto libero",
+        "lead": "Nella Maurienne, la Lac Bleu si abbina a un lago con una spiaggia ad accesso libero e una grande piscina all'aperto, con pedalò, una pista di pompaggio e un corso di avventura."
+      },
+      "hero_alt": "Spiaggia del lago alla base di tempo libero Lac Bleu, Saint-Rémy-de-Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "A Saint-Rémy-de-Maurienne, in basso Maurienne (A43). Parcheggio in loco.",
+        "public_transport": null
+      },
+      "meta_description": "Lac Bleu a Saint-Rémy-de-Maurienne: una spiaggia lacustre ad accesso gratuito sorvegliata in estate, una piscina all'aperto, pedalò, una pista di pompaggio e un corso di avventura.",
+      "meta_title": "Lac Bleu base per il tempo libero · Saint-Rémy-de-Maurienne",
+      "name": "Base de loisirs du Lac Bleu",
+      "name_alternates": [
+        "Lac Bleu"
+      ],
+      "practical_info": [
+        {
+          "k": "Location",
+          "v": "Saint-Rémy-de-Maurienne, 73660 (Maurienne)"
+        },
+        {
+          "k": "Nuoto salvagente",
+          "v": "In estate — 20 giugno – 27 agosto (SMB) o luglio e agosto (Maurienne Tourisme)"
+        },
+        {
+          "k": "Accesso al lago",
+          "v": "Libero; lago aperto tutto l'anno"
+        },
+        {
+          "k": "Sul sito",
+          "v": "Piscina all'aperto, pedalò, canoa-kayak, paddleboard, minigolf, pista pompa, percorso fitness, snack bar, parcheggio"
+        },
+        {
+          "k": "Contatto",
+          "v": "04 79 83 13 70"
+        }
+      ],
+      "schema_amenities": [
+        "Nuoto salvagente",
+        "Piscina all'aperto",
+        "Carrello pompa"
+      ],
+      "when_to_visit": "<p>The <strong>lago è aperto tutto l'anno</strong>; il nuoto è salvagente in estate. Nelle date, due parole coesistono: '20 giugno - 27 agosto' (Savoie Mont Blanc) e 'in luglio e agosto' (Maurienne Tourisme). Li riportiamo senza scegliere.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Het strand van het meer met gratis toegang, badmeester in de zomer, met waterfietsen en paddleboards te huur.",
+          "tag": "Vrij",
+          "title": "Zwemmen op de Lac Bleu"
+        },
+        {
+          "description": "Avontuurlijke cursus, minigolf, beachvolleybal en een pompbaan rond het meer.",
+          "tag": "Ter plaatse",
+          "title": "Pomp baan en avontuur cursus"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>Lac Bleu recreatie basis</strong>, bij Saint-Rémy-de-Maurienne, brengt een kunstmatig meer met een <strong>vrij toegankelijke strand</strong> en een groot buitenzwembad. Rond het water: vissen, waterfietsen, kano-kajak, paddleboarden, een avontuurlijke cursus, minigolf, beachvolleybal, een pompbaan en een fitnesspad. Paddleboard en pedaal-boot verhuur wordt aangeboden in juli en augustus.</p><p>Het meer is het hele jaar geopend; zwemmen is badmeester in de zomer. Bronnen verschillen op de exacte data en we geven ze zoals ze staan: Savoie Mont Blanc kondigt '20 juni tot en met 27 augustus' aan, terwijl een Maurienne Tourisme listing states zwemmen onder toezicht staat 'in juli en augustus'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Vrij",
+        "best_season": "Badmeester zwemmen in de zomer (20 juni 27 augustus; zie brontegenwerping)",
+        "commune": "Saint-Rémy-de-Maurienne",
+        "dogs": "Niet toegestaan",
+        "parking": null,
+        "stroller": null,
+        "type": "Vrije tijdbasis",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Ja, toegang tot het strand van het meer is gratis. Het grote buitenzwembad is een aparte faciliteit op dezelfde basis.",
+          "q": "Is toegang tot het meer gratis?"
+        },
+        {
+          "a": "In de zomer. Bronnen verschillen op de data: '20 juni t/m 27 augustus' per Savoie Mont Blanc, 'in juli en augustus' per Maurienne Tourisme. We rapporteren ze in hun huidige vorm.",
+          "q": "Wanneer is zwemmen badmeester?"
+        },
+        {
+          "a": "Zwemmen, een buitenzwembad, vissen, waterfietsen, kanokajak, paddleboarden, een avontuurlijke cursus, minigolf, beachvolleybal, een pompbaan en een fitnesspad.",
+          "q": "Welke activiteiten zijn ter plaatse?"
+        },
+        {
+          "a": "Nee, honden zijn niet toegestaan (Savoie Mont Blanc).",
+          "q": "Zijn honden toegestaan?"
+        }
+      ],
+      "hero": {
+        "badge": "Vrije tijd · Gratis zwemmen",
+        "lead": "In de Maurienne parent de Lac Bleu een meer met een vrij toegankelijk strand en een groot buitenzwembad, met waterfietsen, een pompbaan en een avontuurlijke cursus."
+      },
+      "hero_alt": "Meer strand op de Lac Bleu recreatiebasis, Saint-Rémy-de-Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Bij Saint-Rémy-de-Maurienne, in de lagere Maurienne (A43). Parkeren op het terrein.",
+        "public_transport": null
+      },
+      "meta_description": "De Lac Bleu op Saint-Rémy-de-Maurienne: een gratis toegang strand strand badmeester in de zomer, een buitenzwembad, waterfietsen, een pomp baan en een avontuurlijke cursus.",
+      "meta_title": "Lac Bleu vrijetijdsbasis · Saint-Rémy-de-Maurienne",
+      "name": "Base de loisirs du Lac Bleu",
+      "name_alternates": [
+        "Lac Bleu"
+      ],
+      "practical_info": [
+        {
+          "k": "Locatie",
+          "v": "Saint-Rémy-de-Maurienne, 73660 (Maurienne)"
+        },
+        {
+          "k": "Zwemmende badmeesters",
+          "v": "In de zomer \"20 juni 27 augustus (SMB) of juli en augustus (Maurienne Tourisme)"
+        },
+        {
+          "k": "Toegang tot het meer",
+          "v": "Vrij; meer het hele jaar geopend"
+        },
+        {
+          "k": "Ter plaatse",
+          "v": "Buitenzwembad, waterfietsen, kano-kajak, paddleboarding, minigolf, pompbaan, fitnesspad, snackbar, parkeren"
+        },
+        {
+          "k": "Contactpersoon",
+          "v": "04 79 83 13 70"
+        }
+      ],
+      "schema_amenities": [
+        "Zwemmende badmeesters",
+        "Buitenzwembad",
+        "Pompspoor"
+      ],
+      "when_to_visit": "<p>De <strong>meer is het hele jaar geopend</strong>; zwemmen is badmeester in de zomer. Op de data bestaan twee formuleringen naast elkaar: \"20 juni t/m 27 augustus\" (Savoie Mont Blanc) en \"in juli en augustus\" (Maurienne Tourisme). We rapporteren ze zonder te kiezen.</p>"
+    }
+  },
+  "latitude": 45.393327,
+  "longitude": 6.272635,
+  "official_site_url": "https://www.savoie-mont-blanc.com/en/watersports/base-de-loisirs-du-lac-bleu-36735/",
+  "partners": [],
+  "postal_code": "73660",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-15. Source Savoie Mont Blanc + Maurienne. Base de loisirs en Maurienne : lac artificiel à plage aménagée (accès gratuit) + piscine extérieure. Baignade surveillée « du 20 juin au 27 août » (SMB) ; Maurienne Tourisme indique « surveillée en juillet et août » — contradiction reportée. Lac accessible toute l'année. Activités : baignade, piscine, pêche, pédalos, canoë-kayak, paddle, parcours aventure, mini-golf, beach-volley, pump track, parcours de santé. Location paddle/pédalos juillet-août. Snack-bar, parking, toilettes. Chiens non admis (SMB).",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "base-de-loisirs-du-lac-bleu",
+  "sources": [
+    "https://www.savoie-mont-blanc.com/en/watersports/base-de-loisirs-du-lac-bleu-36735/",
+    "https://www.maurienne.fr/fr/il4-equipement_i36735-base-de-loisirs-du-lac-bleu.aspx"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published for this site; kept null rather than inferred."
+  ]
+}

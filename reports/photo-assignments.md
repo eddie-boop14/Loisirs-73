@@ -1,12 +1,13 @@
 # Phase 4 — photo assignments (gate artifact)
 
 **Date**: 2026-06-14
-**Total assignments**: 69 (one per (hub × slug) on the FR canonical hub)
+**Total assignments**: 75 (one per (hub × slug) on the FR canonical hub)
 
 ## Per-hub diversity
 
 | hub | fiches | distinct photos | max repeat of one photo |
 |---|---:|---:|---:|
+| `bases-de-loisirs` | 6 | 6 | 1 |
 | `cascades` | 7 | 1 | 7 |
 | `chateaux` | 7 | 3 | 3 |
 | `lacs-plages` | 7 | 7 | 1 |
@@ -20,6 +21,12 @@
 
 | hub | slug | type | photo | score | reason |
 |---|---|---|---|---:|---|
+| `bases-de-loisirs` | `base-de-loisirs-des-glieres-grignon` | `nature` | `generique-plage-lac-6.jpg` | — | json hero (local) |
+| `bases-de-loisirs` | `base-de-loisirs-du-lac-bleu` | `nature` | `generique-plage-lac-8.jpg` | — | json hero (local) |
+| `bases-de-loisirs` | `base-de-loisirs-gresy-sur-isere` | `nature` | `generique-plage-lac-5.jpg` | — | json hero (local) |
+| `bases-de-loisirs` | `base-de-loisirs-les-iles-du-cheran` | `nature` | `generique-plage-lac-2.jpg` | — | json hero (local) |
+| `bases-de-loisirs` | `plage-base-de-loisirs-du-sougey` | `aquatique` | `generique-plage-lac-3.jpg` | — | json hero (local) |
+| `bases-de-loisirs` | `plan-d-eau-de-bozel` | `nature` | `generique-plage-lac-11.jpg` | — | json hero (local) |
 | `cascades` | `cascade-de-la-fraiche` | `nature` | `generique-cascade.jpg` | — | json hero (local) |
 | `cascades` | `cascade-de-saint-benoit` | `nature` | `generique-cascade.jpg` | — | json hero (local) |
 | `cascades` | `cascade-du-morel` | `nature` | `generique-cascade.jpg` | — | json hero (local) |

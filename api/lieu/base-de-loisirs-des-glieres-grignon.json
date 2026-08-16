@@ -1,0 +1,24 @@
+{
+  "name": "Base de loisirs des Glières",
+  "commune": "Grignon",
+  "gps": {
+    "lat": 45.653065,
+    "lng": 6.372584
+  },
+  "type": "domaine",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "Baignade surveillée 19 juin – 31 août, 12 h à 18 h",
+  "winter": null,
+  "official_url": "https://www.savoie-mont-blanc.com/plages-et-activites-nautiques/base-de-loisirs-des-glieres-377816/",
+  "last_verified": null
+}

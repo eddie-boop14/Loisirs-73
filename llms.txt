@@ -1,8 +1,8 @@
 # Loisirs 73
 
-> Independent guide to public leisure sites in Savoie, France. Waterfalls, Castles, Lakes, Museums, Beaches, Mountain passes and viewpoints, Trails, Cable cars and lifts, Greenways — every fact verified against official sources (communes, tourism offices, ONF).
+> Independent guide to public leisure sites in Savoie, France. Waterfalls, Castles, Domaine, Lakes, Museums, Beaches, Mountain passes and viewpoints, Trails, Cable cars and lifts, Greenways — every fact verified against official sources (communes, tourism offices, ONF).
 
-Loisirs 73 catalogs 69 leisure destinations in the Savoie department (73), French Alps. Each destination exposes three machine surfaces (below) plus HTML pages in 6 languages (French canonical).
+Loisirs 73 catalogs 73 leisure destinations in the Savoie department (73), French Alps. Each destination exposes three machine surfaces (below) plus HTML pages in 6 languages (French canonical).
 
 ## URL patterns (per lieu — fastest lane for agents)
 
@@ -33,7 +33,7 @@ Content quality signals: Every fact has a cited source. No marketing language. I
 
 ## Discovery files
 
-- [llms-full.txt — full content concatenated](https://loisirs73.fr/llms-full.txt): All 69 leisure sites' FR facet md — single file for full ingestion.
+- [llms-full.txt — full content concatenated](https://loisirs73.fr/llms-full.txt): All 73 leisure sites' FR facet md — single file for full ingestion.
 - [API — lieux index JSON](https://loisirs73.fr/api/lieux.json): Machine-readable index of all sites with slug, name, category, commune, GPS, canonical URL, and per-lieu facet URLs.
 - [Sitemap index](https://loisirs73.fr/sitemap.xml): Standard XML sitemap with lastmod, hreflang, image entries.
 - [.well-known/ai-info.json](https://loisirs73.fr/.well-known/ai-info.json): Discovery manifest with all AI-related endpoints.
@@ -55,6 +55,7 @@ Use these when the question spans many sites (e.g. "which waterfalls have parkin
 
 - [Lacs & plages](https://loisirs73.fr/content/lacs.md): 7 lieux.
 - [Cascades](https://loisirs73.fr/content/cascades.md): 7 lieux.
+- [Bases de loisirs](https://loisirs73.fr/content/bases-de-loisirs.md): 4 lieux.
 - [Points de vue](https://loisirs73.fr/content/points-de-vue.md): 15 lieux.
 - [Téléphériques & télécabines](https://loisirs73.fr/content/telecabines.md): 15 lieux.
 - [Châteaux](https://loisirs73.fr/content/chateaux.md): 7 lieux.
@@ -62,7 +63,7 @@ Use these when the question spans many sites (e.g. "which waterfalls have parkin
 - [Voies vertes](https://loisirs73.fr/content/voies-vertes.md): 4 lieux.
 - [Musées](https://loisirs73.fr/content/musees.md): 7 lieux.
 
-## All lieux by category (69 total)
+## All lieux by category (73 total)
 
 ### Lacs & plages (7 lieux)
 
@@ -83,6 +84,13 @@ Use these when the question spans many sites (e.g. "which waterfalls have parkin
 - [Cirque de Saint-Même (Saint-Pierre-d'Entremont)](https://loisirs73.fr/content/cirque-de-saint-meme.md): Quatre cascades du Guiers Vif au fond d'un cirque de Chartreuse. Parking payant en saison (5 € voiture), accès libre le reste de l'année. Boucles de…
 - [Gorges du Sierroz et cascade de Grésy (Grésy-sur-Aix)](https://loisirs73.fr/content/gorges-du-sierroz-cascade-de-gresy.md): Canyon réhabilité rouvert en 2021 : passerelles en encorbellement jusqu'à la cascade de Grésy et sa stèle de la reine Hortense (1813). Gratuit, toute…
 - [Grande cascade de la Doria (Saint-Jean-d'Arvey)](https://loisirs73.fr/content/grande-cascade-de-la-doria.md): Chute de 60 m au-dessus de Chambéry : boucle d'1h depuis le parking de Chaffardon, avec passage en corniche et passage câblé. Gratuit, du 1er mai au…
+
+### Bases de loisirs (4 lieux)
+
+- [Base de loisirs des Glières (Grignon)](https://loisirs73.fr/content/base-de-loisirs-des-glieres-grignon.md): Le plan d'eau de Grignon (base des Glières), près d'Albertville : baignade gratuite surveillée l'été, plage, parking gratuit et restaurant, face aux…
+- [Base de loisirs des Îles du Chéran (Lescheraines)](https://loisirs73.fr/content/base-de-loisirs-les-iles-du-cheran.md): Base de loisirs des Îles du Chéran à Lescheraines (Bauges) : baignade gratuite surveillée l'été, jeux d'eau, skatepark et sports en accès libre.…
+- [Base de loisirs du Lac Bleu (Saint-Rémy-de-Maurienne)](https://loisirs73.fr/content/base-de-loisirs-du-lac-bleu.md): Le Lac Bleu à Saint-Rémy-de-Maurienne : plage de lac en accès gratuit surveillée l'été, piscine extérieure, pédalos, pump track et parcours aventure.
+- [Plan d'eau de Bozel (Bozel)](https://loisirs73.fr/content/plan-d-eau-de-bozel.md): Le plan d'eau de Bozel (Tarentaise) : baignade gratuite surveillée l'après-midi l'été, deux bassins, pédalos et pêche, dans un parc de loisirs…
 
 ### Points de vue (15 lieux)
 

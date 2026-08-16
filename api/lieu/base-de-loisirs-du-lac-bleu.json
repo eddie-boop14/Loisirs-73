@@ -1,0 +1,24 @@
+{
+  "name": "Base de loisirs du Lac Bleu",
+  "commune": "Saint-Rémy-de-Maurienne",
+  "gps": {
+    "lat": 45.393327,
+    "lng": 6.272635
+  },
+  "type": "domaine",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "Baignade surveillée l'été (20 juin – 27 août ; voir contradiction sourcée)",
+  "winter": null,
+  "official_url": "https://www.savoie-mont-blanc.com/en/watersports/base-de-loisirs-du-lac-bleu-36735/",
+  "last_verified": null
+}

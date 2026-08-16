@@ -1,6 +1,48 @@
 {
-  "count": 69,
+  "count": 73,
   "lieux": [
+    {
+      "slug": "base-de-loisirs-des-glieres-grignon",
+      "name": "Base de loisirs des Glières",
+      "category": "domaine",
+      "commune": "Grignon",
+      "postal_code": "73200",
+      "latitude": 45.653065,
+      "longitude": 6.372584,
+      "urls": {
+        "fr": "https://loisirs73.fr/base-de-loisirs-des-glieres-grignon",
+        "en": "https://loisirs73.fr/en/base-de-loisirs-des-glieres-grignon",
+        "de": "https://loisirs73.fr/de/base-de-loisirs-des-glieres-grignon",
+        "it": "https://loisirs73.fr/it/base-de-loisirs-des-glieres-grignon",
+        "es": "https://loisirs73.fr/es/base-de-loisirs-des-glieres-grignon",
+        "nl": "https://loisirs73.fr/nl/base-de-loisirs-des-glieres-grignon"
+      },
+      "facet_md": "https://loisirs73.fr/content/base-de-loisirs-des-glieres-grignon.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/base-de-loisirs-des-glieres-grignon.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/base-de-loisirs-des-glieres-grignon.json",
+      "photo": "/img/generique/generique-plage-lac-6.jpg"
+    },
+    {
+      "slug": "base-de-loisirs-du-lac-bleu",
+      "name": "Base de loisirs du Lac Bleu",
+      "category": "domaine",
+      "commune": "Saint-Rémy-de-Maurienne",
+      "postal_code": "73660",
+      "latitude": 45.393327,
+      "longitude": 6.272635,
+      "urls": {
+        "fr": "https://loisirs73.fr/base-de-loisirs-du-lac-bleu",
+        "en": "https://loisirs73.fr/en/base-de-loisirs-du-lac-bleu",
+        "de": "https://loisirs73.fr/de/base-de-loisirs-du-lac-bleu",
+        "it": "https://loisirs73.fr/it/base-de-loisirs-du-lac-bleu",
+        "es": "https://loisirs73.fr/es/base-de-loisirs-du-lac-bleu",
+        "nl": "https://loisirs73.fr/nl/base-de-loisirs-du-lac-bleu"
+      },
+      "facet_md": "https://loisirs73.fr/content/base-de-loisirs-du-lac-bleu.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/base-de-loisirs-du-lac-bleu.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/base-de-loisirs-du-lac-bleu.json",
+      "photo": "/img/generique/generique-plage-lac-8.jpg"
+    },
     {
       "slug": "base-de-loisirs-gresy-sur-isere",
       "name": "Base de loisirs de Grésy-sur-Isère",
@@ -21,6 +63,27 @@
       "facet_md_en": "https://loisirs73.fr/content/en/base-de-loisirs-gresy-sur-isere.md",
       "facet_json": "https://loisirs73.fr/api/lieu/base-de-loisirs-gresy-sur-isere.json",
       "photo": "/img/generique/generique-plage-lac-5.jpg"
+    },
+    {
+      "slug": "base-de-loisirs-les-iles-du-cheran",
+      "name": "Base de loisirs des Îles du Chéran",
+      "category": "domaine",
+      "commune": "Lescheraines",
+      "postal_code": "73340",
+      "latitude": 45.705302,
+      "longitude": 6.111585,
+      "urls": {
+        "fr": "https://loisirs73.fr/base-de-loisirs-les-iles-du-cheran",
+        "en": "https://loisirs73.fr/en/base-de-loisirs-les-iles-du-cheran",
+        "de": "https://loisirs73.fr/de/base-de-loisirs-les-iles-du-cheran",
+        "it": "https://loisirs73.fr/it/base-de-loisirs-les-iles-du-cheran",
+        "es": "https://loisirs73.fr/es/base-de-loisirs-les-iles-du-cheran",
+        "nl": "https://loisirs73.fr/nl/base-de-loisirs-les-iles-du-cheran"
+      },
+      "facet_md": "https://loisirs73.fr/content/base-de-loisirs-les-iles-du-cheran.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/base-de-loisirs-les-iles-du-cheran.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/base-de-loisirs-les-iles-du-cheran.json",
+      "photo": "/img/generique/generique-plage-lac-2.jpg"
     },
     {
       "slug": "cascade-de-la-fraiche",
@@ -945,6 +1008,27 @@
       "facet_md_en": "https://loisirs73.fr/content/en/plage-municipale-le-bourget-du-lac.md",
       "facet_json": "https://loisirs73.fr/api/lieu/plage-municipale-le-bourget-du-lac.json",
       "photo": "/img/generique/generique-plage-lac-2.jpg"
+    },
+    {
+      "slug": "plan-d-eau-de-bozel",
+      "name": "Plan d'eau de Bozel",
+      "category": "domaine",
+      "commune": "Bozel",
+      "postal_code": "73350",
+      "latitude": 45.441177,
+      "longitude": 6.651811,
+      "urls": {
+        "fr": "https://loisirs73.fr/plan-d-eau-de-bozel",
+        "en": "https://loisirs73.fr/en/plan-d-eau-de-bozel",
+        "de": "https://loisirs73.fr/de/plan-d-eau-de-bozel",
+        "it": "https://loisirs73.fr/it/plan-d-eau-de-bozel",
+        "es": "https://loisirs73.fr/es/plan-d-eau-de-bozel",
+        "nl": "https://loisirs73.fr/nl/plan-d-eau-de-bozel"
+      },
+      "facet_md": "https://loisirs73.fr/content/plan-d-eau-de-bozel.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/plan-d-eau-de-bozel.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/plan-d-eau-de-bozel.json",
+      "photo": "/img/generique/generique-plage-lac-11.jpg"
     },
     {
       "slug": "redoute-marie-therese-avrieux",

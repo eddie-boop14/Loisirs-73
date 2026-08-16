@@ -1,0 +1,24 @@
+{
+  "name": "Base de loisirs des Îles du Chéran",
+  "commune": "Lescheraines",
+  "gps": {
+    "lat": 45.705302,
+    "lng": 6.111585
+  },
+  "type": "domaine",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "Baignade surveillée 27 juin – 27 août, 13 h à 19 h",
+  "winter": null,
+  "official_url": "https://www.lescheraines.fr/economie-/-tourisme-/-loisirs/base-de-loisirs-des-iles-du-cheran",
+  "last_verified": null
+}

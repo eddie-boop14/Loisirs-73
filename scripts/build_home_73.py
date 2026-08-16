@@ -41,6 +41,11 @@ SIS_CSS = (
     ".sister-card .n{display:block;font-family:var(--serif);font-size:1.45rem;font-weight:500;"
     "color:var(--card-ink);letter-spacing:-.01em;line-height:1.1}"
     ".sister-card p{margin:.5rem 0 0;color:var(--card-ink2);font-size:.96rem;line-height:1.5}"
+    # HANDOFF-sister-card rule 2: locked colors, no theme-flipping vars, in the
+    # injected line — the card is fixed cream #fdfaf3 in both schemes, so the
+    # ink is locked dark to match.
+    ".sister-card .picks{margin:.55rem 0 0;color:#1c1814;font-size:.98rem;line-height:1.5}"
+    ".sister-card .picks b{font-weight:700}"
     ".sister-card .go{flex:0 0 auto;display:inline-flex;align-items:center;gap:.5rem;padding:.75rem 1.35rem;"
     "border-radius:999px;background:var(--accent);color:#fff;font-weight:600;font-family:var(--sans);transition:var(--turn)}"
     ".sister-card .go:hover{gap:.8rem;filter:brightness(1.05)}"
@@ -189,6 +194,12 @@ UI = {
                     "getoond in plaats van stilletjes opgelost. Steek de departementsgrens over."},
  "sis_go": {"fr": "Ouvrir loisirs74.fr", "en": "Open loisirs74.fr", "de": "loisirs74.fr öffnen",
             "it": "Apri loisirs74.fr", "es": "Abrir loisirs74.fr", "nl": "loisirs74.fr openen"},
+ # HANDOFF-sister-card: the "top picks" frame. Only the frame is localized;
+ # highlight names stay verbatim FR (both sites' convention). %d = count,
+ # %s = sister dept, both from site.config.json's `sister` block.
+ "sis_picks": {"fr": "%d lieux vérifiés en %s", "en": "%d verified places in %s",
+               "de": "%d geprüfte Orte in %s", "it": "%d luoghi verificati in %s",
+               "es": "%d lugares verificados en %s", "nl": "%d geverifieerde plekken in %s"},
  "prep": {"fr": "Site en préparation : rien n'est indexé pour l'instant.",
           "en": "Site in preparation: nothing is indexed yet.",
           "de": "Website in Vorbereitung: noch nichts indexiert.",
@@ -371,14 +382,29 @@ def build(lang, fiches):
                 f'<div class="carousel">' + "".join(card(f, lang) for f in hub_items(k)) + '</div></div></section>')
 
     # --- branded sister panel --------------------------------------------------
-    sister = (
-        f'<aside class="sister-band" aria-label="{E(t(UI["sis_kicker"], lang))}"><div class="sister-card">'
-        f'<img src="/img/sister/loisirs74-logo.png" alt="{E(_SIS["name"])}" width="78" height="78" loading="lazy">'
-        f'<div class="st"><span class="k">{E(t(UI["sis_kicker"], lang))}</span>'
-        f'<span class="n">{E(_SIS["name"])} · {E(_SIS["dept"])}</span>'
-        f'<p>{E(t(UI["sis_body"], lang))}</p></div>'
-        f'<a class="go" href="{E(_SIS["url"])}" rel="noopener">{E(t(UI["sis_go"], lang))} {_ARROW}</a>'
-        f'</div></aside>')
+    # HANDOFF-sister-card: config-driven both ways — no `sister` block in
+    # site.config.json means no card at all on the next build. The "top picks"
+    # line renders only when the block also carries count + highlights; names
+    # stay verbatim FR joined with ` · ` (no locale needs article grammar).
+    # Count + names come from loisirs74.fr/api/lieux.json, checked on the date
+    # stored beside them in the config — refresh when rebuilding, it grows.
+    sister = ""
+    if getattr(S, "SISTER", None):
+        picks = ""
+        if _SIS.get("count") and _SIS.get("highlights"):
+            colon = " : " if lang == "fr" else ": "
+            frame = t(UI["sis_picks"], lang) % (_SIS["count"], _SIS["dept"])
+            names = " · ".join(E(n) for n in _SIS["highlights"])
+            picks = f'<p class="picks"><b>{E(frame)}{colon}{names}…</b></p>'
+        sister = (
+            f'<aside class="sister-band" aria-label="{E(t(UI["sis_kicker"], lang))}"><div class="sister-card">'
+            f'<img src="/img/sister/loisirs74-logo.png" alt="{E(_SIS["name"])}" width="78" height="78" loading="lazy">'
+            f'<div class="st"><span class="k">{E(t(UI["sis_kicker"], lang))}</span>'
+            f'<span class="n">{E(_SIS["name"])} · {E(_SIS["dept"])}</span>'
+            f'{picks}'
+            f'<p>{E(t(UI["sis_body"], lang))}</p></div>'
+            f'<a class="go" href="{E(_SIS["url"])}" rel="noopener">{E(t(UI["sis_go"], lang))} {_ARROW}</a>'
+            f'</div></aside>')
 
     # --- footer ----------------------------------------------------------------
     foot_cats = "".join(f'<li><a href="{hub_url(k, lang)}">{t(HUBS[k]["label"], lang).replace("&", "&amp;")}</a></li>'

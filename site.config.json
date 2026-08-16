@@ -17,7 +17,14 @@
   "sister": {
     "name": "Loisirs 74",
     "url": "https://loisirs74.fr",
-    "dept": "Haute-Savoie"
+    "dept": "Haute-Savoie",
+    "count": 434,
+    "count_checked": "2026-08-16",
+    "highlights": [
+      "Téléphérique de l'Aiguille du Midi",
+      "Gorges du Fier",
+      "Train du Montenvers - Mer de Glace"
+    ]
   },
   "road_info": {
     "url": "https://savoie-route.fr",

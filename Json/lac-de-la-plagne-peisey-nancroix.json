@@ -1,0 +1,650 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-17",
+    "confidence": null,
+    "detail": "Aucune source ne décrit de portion adaptée. Le terrain est décrit avec « quelques passages raides ».",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_name": "Savoie Mont Blanc",
+    "source_url": "https://www.explore-savoie.com/randonnees-et-balades/le-lac-de-la-plagne-520198/",
+    "status": null,
+    "tourisme_handicap": []
+  },
+  "category": "lac",
+  "commune": "Peisey-Nancroix",
+  "date_modified_human": "17 août 2026",
+  "date_published_human": "17 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-17",
+    "method": "Recherche du 17 août 2026, sources officielles uniquement. Baignade : registre ARS des 43 sites de baignade en eau douce déclarés en Savoie — listing départemental, jamais une URL par site, un identifiant erroné y renvoyant un HTTP 200 portant « Une erreur inattendue est survenue ». Ouverture et fermeture des routes de col : station, office de tourisme et annonces du Département, citées mot pour mot ; aucune date n'est reprise d'une saison antérieure. Règles du cœur du Parc national de la Vanoise et amende de 135 € : pages du Parc. Coordonnées : géocodeur IGN Géoplateforme, index POI, catégorie du POI vérifiée pour écarter un hameau ou un barrage homonyme. Contradictions signalées, jamais arbitrées."
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-sentier-automne-rouge.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Keine gemeldete Badestelle, unbeaufsichtigt — Keine gemeldete Badestelle, unbeaufsichtigt",
+          "tag": "Vor Ort",
+          "title": "Baden"
+        },
+        {
+          "description": "Keine offizielle Quelle sagt hier etwas zur Barrierefreiheit: weder zugänglich noch unzugänglich — unbekannt.",
+          "tag": "Vor Ort",
+          "title": "Barrierefreiheit"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Der <strong>Lac de la Plagne</strong> ist ein Bergsee in der Gemeinde Peisey-Nancroix in Savoie, auf 2 144 m Höhe.</p><p><strong>Darf man hier baden? Niemand sagt es.</strong> Der See gehört nicht zu den 43 gemeldeten Badestellen in Savoie — also keine Überwachung, keine Bewertung, keine Rettungsschwimmer. Und keine gelesene offizielle Quelle erlaubt oder verbietet es ausdrücklich. Der Parc national de la Vanoise gibt die allgemeine Linie vor: « il n'est pas interdit de se baigner… mais cela est fortement déconseillé » — nicht verboten, aber dringend abgeraten. Wir veröffentlichen dieses Schweigen, statt es zu füllen.</p><p><strong>Man geht zu Fuß hinauf.</strong> Keine Straße erreicht den See; Ausgangspunkt ist parking de Rosuel, Peisey-Nancroix. Die veröffentlichten Angaben zu dieser Route stimmen von einer offiziellen Quelle zur nächsten nicht überein — Länge, Höhenmeter, Dauer und sogar Schwierigkeit weichen ab. Sie stehen unverändert in den Hinweisen dieser Seite, ohne Mittelwert und ohne Entscheidung.</p><p>Das Parken ist kostenlos. Keine offizielle Quelle sagt hier etwas zur Barrierefreiheit: weder zugänglich noch unzugänglich — unbekannt. Führt Ihre Route in den cœur des Parc national de la Vanoise, sind Hunde verboten — « même en laisse », auch nicht angeleint — bei 135 € Bußgeld. Der cœur-Status genau dieses Sees ließ sich nicht klären: fragen Sie den Parc, bevor Sie mit Hund aufbrechen.</p><p>Diese Seite stützt sich ausschließlich auf offizielle Quellen: Betreiber, Gemeinde, Park, Tourismusbüro, nationales Badegewässerregister. Wo zwei davon einander widersprechen, werden beide genannt und die Differenz gekennzeichnet — wir entscheiden nicht für Sie. Wo sie schweigen, bleibt das Feld leer statt geraten.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Keine gemeldete Badestelle, unbeaufsichtigt",
+        "best_season": null,
+        "commune": "Peisey-Nancroix",
+        "dogs": "Führt Ihre Route in den cœur des Parc national de la Vanoise, sind Hunde verboten — « même en laisse », auch nicht angeleint — bei 135 € Bußgeld. Der cœur-Status genau dieses Sees ließ sich nicht klären: fragen Sie den Parc, bevor Sie mit Hund aufbrechen.",
+        "parking": "Das Parken ist kostenlos.",
+        "stroller": null,
+        "type": "Bergsee"
+      },
+      "faq": [
+        {
+          "a": "Darf man hier baden? Niemand sagt es. Der See gehört nicht zu den 43 gemeldeten Badestellen in Savoie — also keine Überwachung, keine Bewertung, keine Rettungsschwimmer. Und keine gelesene offizielle Quelle erlaubt oder verbietet es ausdrücklich. Der Parc national de la Vanoise gibt die allgemeine Linie vor: « il n'est pas interdit de se baigner… mais cela est fortement déconseillé » — nicht verboten, aber dringend abgeraten. Wir veröffentlichen dieses Schweigen, statt es zu füllen.",
+          "q": "Darf man in diesem See baden?"
+        },
+        {
+          "a": "Ja. Kein saisonaler Pass sperrt den Zugang zu diesem See.",
+          "q": "Ist die Straße ganzjährig offen?"
+        },
+        {
+          "a": "Das Parken ist kostenlos.",
+          "q": "Ist das Parken kostenpflichtig?"
+        },
+        {
+          "a": "Keine offizielle Quelle sagt hier etwas zur Barrierefreiheit: weder zugänglich noch unzugänglich — unbekannt.",
+          "q": "Ist der Rundweg barrierefrei?"
+        },
+        {
+          "a": "Führt Ihre Route in den cœur des Parc national de la Vanoise, sind Hunde verboten — « même en laisse », auch nicht angeleint — bei 135 € Bußgeld. Der cœur-Status genau dieses Sees ließ sich nicht klären: fragen Sie den Parc, bevor Sie mit Hund aufbrechen.",
+          "q": "Darf ich meinen Hund mitbringen?"
+        }
+      ],
+      "hero": {
+        "badge": "2 144 m · Peisey-Nancroix",
+        "lead": "Bergsee bei Peisey-Nancroix in Savoie. Keine gemeldete Badestelle, unbeaufsichtigt. Was die offiziellen Quellen sagen — auch dort, wo sie sich widersprechen."
+      },
+      "hero_alt": "Lac de la Plagne, Peisey-Nancroix, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Gemeinde Peisey-Nancroix (73210) in Savoie. Veröffentlichter Punkt: 45.484031, 6.84148. Die POI-Kategorie wurde geprüft, um einen gleichnamigen Weiler oder Staudamm auszuschließen.",
+        "public_transport": null
+      },
+      "meta_description": "Lac de la Plagne (Peisey-Nancroix, Savoie), 2 144 m: Keine gemeldete Badestelle, unbeaufsichtigt. Offizielle Quellen, Abweichungen gekennzeichnet.",
+      "meta_title": "Lac de la Plagne — Keine gemeldete Badestelle, unbeaufsichtigt, Peisey-Nancroix",
+      "name": "Lac de la Plagne",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Typ",
+          "v": "Bergsee"
+        },
+        {
+          "k": "Höhe",
+          "v": "2 144 m"
+        },
+        {
+          "k": "Fläche",
+          "v": null
+        },
+        {
+          "k": "Baden",
+          "v": "Keine gemeldete Badestelle, unbeaufsichtigt"
+        },
+        {
+          "k": "Zufahrtsstraße",
+          "v": null
+        },
+        {
+          "k": "Parken",
+          "v": "Das Parken ist kostenlos."
+        },
+        {
+          "k": "Barrierefreiheit",
+          "v": "Keine offizielle Quelle sagt hier etwas zur Barrierefreiheit: weder zugänglich noch unzugänglich — unbekannt."
+        }
+      ],
+      "schema_amenities": [
+        "Kostenloses Parken"
+      ],
+      "when_to_visit": "<p>Im Sommer, wenn das Ufer begehbar ist. Kein offizielles Öffnungs- oder Schließdatum regelt den Zugang zu diesem See.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "Not a declared bathing site, unsupervised — Not a declared bathing site, unsupervised",
+          "tag": "On site",
+          "title": "Swimming"
+        },
+        {
+          "description": "No official source says anything about accessibility here: neither accessible nor inaccessible — unknown.",
+          "tag": "On site",
+          "title": "Accessibility"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Lac de la Plagne</strong> is a mountain lake in the commune of Peisey-Nancroix, Savoie, at 2 144 m.</p><p><strong>Can you swim here? Nobody says.</strong> The lake is not among the 43 declared bathing sites in Savoie — so no health monitoring, no rating, no lifeguard. And no official source we read either permits or forbids it. The Parc national de la Vanoise gives the general line: « il n'est pas interdit de se baigner… mais cela est fortement déconseillé » — not forbidden, strongly discouraged. We publish that silence rather than fill it.</p><p><strong>You walk up.</strong> No road reaches the lake; you start from the parking de Rosuel, Peisey-Nancroix. The published figures for this route do not agree from one official source to the next — distance, ascent, time and even difficulty vary. They are given as found in this page's flags, with no average and no arbitration.</p><p>Parking is free. No official source says anything about accessibility here: neither accessible nor inaccessible — unknown. If your route enters the cœur of the Parc national de la Vanoise, dogs are banned — « même en laisse », not even on a lead — with a 135 € fine. The cœur status of this particular lake could not be established: ask the Parc before setting out with a dog.</p><p>This page is built on official sources and nothing else: the site's manager, the commune, the park, the tourist office, the national bathing-water register. Where two of them contradict each other, both are given and the gap is flagged — we do not choose for you. Where they are silent, the field stays empty rather than guessed.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Not a declared bathing site, unsupervised",
+        "best_season": null,
+        "commune": "Peisey-Nancroix",
+        "dogs": "If your route enters the cœur of the Parc national de la Vanoise, dogs are banned — « même en laisse », not even on a lead — with a 135 € fine. The cœur status of this particular lake could not be established: ask the Parc before setting out with a dog.",
+        "parking": "Parking is free.",
+        "stroller": null,
+        "type": "mountain lake"
+      },
+      "faq": [
+        {
+          "a": "Can you swim here? Nobody says. The lake is not among the 43 declared bathing sites in Savoie — so no health monitoring, no rating, no lifeguard. And no official source we read either permits or forbids it. The Parc national de la Vanoise gives the general line: « il n'est pas interdit de se baigner… mais cela est fortement déconseillé » — not forbidden, strongly discouraged. We publish that silence rather than fill it.",
+          "q": "Can you swim in this lake?"
+        },
+        {
+          "a": "Yes. No seasonal col closes access to this lake.",
+          "q": "Is the road open all year?"
+        },
+        {
+          "a": "Parking is free.",
+          "q": "Is parking paid?"
+        },
+        {
+          "a": "No official source says anything about accessibility here: neither accessible nor inaccessible — unknown.",
+          "q": "Is the lake circuit accessible?"
+        },
+        {
+          "a": "If your route enters the cœur of the Parc national de la Vanoise, dogs are banned — « même en laisse », not even on a lead — with a 135 € fine. The cœur status of this particular lake could not be established: ask the Parc before setting out with a dog.",
+          "q": "Can I bring my dog?"
+        }
+      ],
+      "hero": {
+        "badge": "2 144 m · Peisey-Nancroix",
+        "lead": "Mountain lake at Peisey-Nancroix, Savoie. Not a declared bathing site, unsupervised. What the official sources say — including where they contradict each other."
+      },
+      "hero_alt": "Lac de la Plagne, Peisey-Nancroix, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Commune of Peisey-Nancroix (73210), Savoie. Published point: 45.484031, 6.84148. The POI category was checked to rule out a hamlet or a dam sharing the name.",
+        "public_transport": null
+      },
+      "meta_description": "Lac de la Plagne (Peisey-Nancroix, Savoie), 2 144 m: Not a declared bathing site, unsupervised. Official sources, discrepancies flagged.",
+      "meta_title": "Lac de la Plagne — Not a declared bathing site, unsupervised, Peisey-Nancroix",
+      "name": "Lac de la Plagne",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Type",
+          "v": "mountain lake"
+        },
+        {
+          "k": "Altitude",
+          "v": "2 144 m"
+        },
+        {
+          "k": "Surface area",
+          "v": null
+        },
+        {
+          "k": "Swimming",
+          "v": "Not a declared bathing site, unsupervised"
+        },
+        {
+          "k": "Access road",
+          "v": null
+        },
+        {
+          "k": "Parking",
+          "v": "Parking is free."
+        },
+        {
+          "k": "Accessibility",
+          "v": "No official source says anything about accessibility here: neither accessible nor inaccessible — unknown."
+        }
+      ],
+      "schema_amenities": [
+        "Free parking"
+      ],
+      "when_to_visit": "<p>In summer, when the shore is walkable. No official opening or closing date governs access to this lake.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "No es un sitio de baño declarado — No es un sitio de baño declarado",
+          "tag": "En el sitio",
+          "title": "Baño"
+        },
+        {
+          "description": "Ninguna fuente oficial dice nada sobre la accesibilidad: ni accesible ni inaccesible — se desconoce.",
+          "tag": "En el sitio",
+          "title": "Accesibilidad"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>Lac de la Plagne</strong> es un lago de montaña en el municipio de Peisey-Nancroix, en Savoie, a 2 144 m de altitud.</p><p><strong>¿Se puede bañar aquí? Nadie lo dice.</strong> El lago no figura entre los 43 sitios de baño declarados en Savoie: sin control sanitario, sin clasificación, sin socorrista. Y ninguna fuente oficial consultada lo autoriza ni lo prohíbe expresamente. El Parc national de la Vanoise da la línea general: « il n'est pas interdit de se baigner… mais cela est fortement déconseillé » — no prohibido, muy desaconsejado. Publicamos ese silencio en lugar de rellenarlo.</p><p><strong>Se sube a pie.</strong> Ninguna carretera llega al lago; se parte del parking de Rosuel, Peisey-Nancroix. Las cifras publicadas para este itinerario no coinciden de una fuente oficial a otra — distancia, desnivel, duración e incluso dificultad varían. Se dan tal cual en los avisos de esta ficha, sin media ni arbitraje.</p><p>El aparcamiento es gratuito. Ninguna fuente oficial dice nada sobre la accesibilidad: ni accesible ni inaccesible — se desconoce. Si su itinerario entra en el cœur del Parc national de la Vanoise, el perro está prohibido — « même en laisse », ni con correa — con multa de 135 €. El estatus de cœur de este lago concreto no se ha podido establecer: consulte al Parc antes de salir con un perro.</p><p>Esta página se basa únicamente en fuentes oficiales: gestor, municipio, parque, oficina de turismo, registro sanitario nacional. Donde dos de ellas se contradicen, se dan ambas y se señala la diferencia — no elegimos por usted. Donde callan, el dato queda vacío en lugar de adivinado.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "No es un sitio de baño declarado",
+        "best_season": null,
+        "commune": "Peisey-Nancroix",
+        "dogs": "Si su itinerario entra en el cœur del Parc national de la Vanoise, el perro está prohibido — « même en laisse », ni con correa — con multa de 135 €. El estatus de cœur de este lago concreto no se ha podido establecer: consulte al Parc antes de salir con un perro.",
+        "parking": "El aparcamiento es gratuito.",
+        "stroller": null,
+        "type": "lago de montaña"
+      },
+      "faq": [
+        {
+          "a": "¿Se puede bañar aquí? Nadie lo dice. El lago no figura entre los 43 sitios de baño declarados en Savoie: sin control sanitario, sin clasificación, sin socorrista. Y ninguna fuente oficial consultada lo autoriza ni lo prohíbe expresamente. El Parc national de la Vanoise da la línea general: « il n'est pas interdit de se baigner… mais cela est fortement déconseillé » — no prohibido, muy desaconsejado. Publicamos ese silencio en lugar de rellenarlo.",
+          "q": "¿Se puede bañar en este lago?"
+        },
+        {
+          "a": "Sí. Ningún puerto de montaña estacional cierra el acceso a este lago.",
+          "q": "¿La carretera está abierta todo el año?"
+        },
+        {
+          "a": "El aparcamiento es gratuito.",
+          "q": "¿El aparcamiento es de pago?"
+        },
+        {
+          "a": "Ninguna fuente oficial dice nada sobre la accesibilidad: ni accesible ni inaccesible — se desconoce.",
+          "q": "¿La vuelta al lago es accesible?"
+        },
+        {
+          "a": "Si su itinerario entra en el cœur del Parc national de la Vanoise, el perro está prohibido — « même en laisse », ni con correa — con multa de 135 €. El estatus de cœur de este lago concreto no se ha podido establecer: consulte al Parc antes de salir con un perro.",
+          "q": "¿Puedo traer a mi perro?"
+        }
+      ],
+      "hero": {
+        "badge": "2 144 m · Peisey-Nancroix",
+        "lead": "Lago de montaña en Peisey-Nancroix, Savoie. No es un sitio de baño declarado. Lo que dicen las fuentes oficiales, incluso cuando se contradicen."
+      },
+      "hero_alt": "Lac de la Plagne, Peisey-Nancroix, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Municipio de Peisey-Nancroix (73210), en Savoie. Punto publicado: 45.484031, 6.84148. Se verificó la categoría del POI para descartar una aldea o una presa del mismo nombre.",
+        "public_transport": null
+      },
+      "meta_description": "Lac de la Plagne (Peisey-Nancroix, Savoie), 2 144 m: No es un sitio de baño declarado. Fuentes oficiales, discrepancias señaladas.",
+      "meta_title": "Lac de la Plagne — No es un sitio de baño declarado, Peisey-Nancroix",
+      "name": "Lac de la Plagne",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Tipo",
+          "v": "lago de montaña"
+        },
+        {
+          "k": "Altitud",
+          "v": "2 144 m"
+        },
+        {
+          "k": "Superficie",
+          "v": null
+        },
+        {
+          "k": "Baño",
+          "v": "No es un sitio de baño declarado"
+        },
+        {
+          "k": "Carretera de acceso",
+          "v": null
+        },
+        {
+          "k": "Aparcamiento",
+          "v": "El aparcamiento es gratuito."
+        },
+        {
+          "k": "Accesibilidad",
+          "v": "Ninguna fuente oficial dice nada sobre la accesibilidad: ni accesible ni inaccesible — se desconoce."
+        }
+      ],
+      "schema_amenities": [
+        "Aparcamiento gratuito"
+      ],
+      "when_to_visit": "<p>En verano, cuando las orillas son practicables. Ninguna fecha oficial de apertura o cierre regula el acceso a este lago.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Baignade non déclarée, non surveillée — Baignade non déclarée, non surveillée",
+          "tag": "Sur place",
+          "title": "Baignade"
+        },
+        {
+          "description": "Aucune source officielle ne dit quoi que ce soit de l'accessibilité : ni accessible, ni non accessible — inconnu.",
+          "tag": "Sur place",
+          "title": "Accessibilité"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Le <strong>Lac de la Plagne</strong> est un plan d'eau de montagne situé sur la commune de Peisey-Nancroix, en Savoie, à 2 144 m d'altitude.</p><p><strong>Peut-on s'y baigner ? Personne ne le dit.</strong> Ce lac ne figure pas parmi les 43 sites de baignade déclarés en Savoie — donc aucun suivi sanitaire, aucun classement, aucun maître-nageur. Et aucune source officielle consultée ne l'autorise ni ne l'interdit explicitement. Le Parc national de la Vanoise donne la position générale : « il n'est pas interdit de se baigner… mais cela est fortement déconseillé ». Nous publions ce silence plutôt que de le combler.</p><p><strong>On y monte à pied.</strong> Aucune route ne dessert le lac ; on part du parking de Rosuel, Peisey-Nancroix. Les chiffres publiés pour cet itinéraire ne concordent pas d'une source officielle à l'autre — distance, dénivelé, durée et même difficulté varient. Ils sont donnés tels quels dans les signalements de cette fiche, sans moyenne ni arbitrage.</p><p>Le stationnement est gratuit. Aucune source officielle ne dit quoi que ce soit de l'accessibilité : ni accessible, ni non accessible — inconnu. Si votre itinéraire entre dans le cœur du Parc national de la Vanoise, le chien est interdit — « même en laisse » — sous peine de 135 € d'amende. Le statut cœur de ce lac précis n'a pas pu être établi : renseignez-vous auprès du Parc avant de partir avec un chien.</p><p>Cette page est bâtie sur les sources officielles et sur elles seules : gestionnaire, commune, parc, office de tourisme, registre sanitaire national. Là où deux d'entre elles se contredisent, les deux sont données et l'écart est signalé — nous ne choisissons pas à votre place. Là où elles se taisent, la donnée reste vide plutôt que devinée.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Baignade non déclarée, non surveillée",
+        "best_season": null,
+        "commune": "Peisey-Nancroix",
+        "dogs": "Si votre itinéraire entre dans le cœur du Parc national de la Vanoise, le chien est interdit — « même en laisse » — sous peine de 135 € d'amende. Le statut cœur de ce lac précis n'a pas pu être établi : renseignez-vous auprès du Parc avant de partir avec un chien.",
+        "parking": "Le stationnement est gratuit.",
+        "stroller": null,
+        "type": "plan d'eau de montagne"
+      },
+      "faq": [
+        {
+          "a": "Peut-on s'y baigner ? Personne ne le dit. Ce lac ne figure pas parmi les 43 sites de baignade déclarés en Savoie — donc aucun suivi sanitaire, aucun classement, aucun maître-nageur. Et aucune source officielle consultée ne l'autorise ni ne l'interdit explicitement. Le Parc national de la Vanoise donne la position générale : « il n'est pas interdit de se baigner… mais cela est fortement déconseillé ». Nous publions ce silence plutôt que de le combler.",
+          "q": "Peut-on se baigner dans ce lac ?"
+        },
+        {
+          "a": "Oui. Aucun col saisonnier ne ferme l'accès à ce lac.",
+          "q": "La route est-elle ouverte toute l'année ?"
+        },
+        {
+          "a": "Le stationnement est gratuit.",
+          "q": "Le stationnement est-il payant ?"
+        },
+        {
+          "a": "Aucune source officielle ne dit quoi que ce soit de l'accessibilité : ni accessible, ni non accessible — inconnu.",
+          "q": "Le tour du lac est-il accessible ?"
+        },
+        {
+          "a": "Si votre itinéraire entre dans le cœur du Parc national de la Vanoise, le chien est interdit — « même en laisse » — sous peine de 135 € d'amende. Le statut cœur de ce lac précis n'a pas pu être établi : renseignez-vous auprès du Parc avant de partir avec un chien.",
+          "q": "Puis-je venir avec mon chien ?"
+        }
+      ],
+      "hero": {
+        "badge": "2 144 m · Peisey-Nancroix",
+        "lead": "Plan d'eau de montagne à Peisey-Nancroix, en Savoie. Baignade non déclarée, non surveillée. Ce que disent les sources officielles, y compris quand elles se contredisent."
+      },
+      "hero_alt": "Lac de la Plagne, Peisey-Nancroix, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Commune de Peisey-Nancroix (73210), en Savoie. Point publié : 45.484031, 6.84148. La catégorie du POI a été vérifiée pour écarter un hameau ou un barrage portant le même nom.",
+        "public_transport": null
+      },
+      "meta_description": "Lac de la Plagne (Peisey-Nancroix, Savoie), 2 144 m : Baignade non déclarée, non surveillée. Sources officielles, contradictions signalées.",
+      "meta_title": "Lac de la Plagne — Baignade non déclarée, non surveillée, Peisey-Nancroix",
+      "name": "Lac de la Plagne",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Type",
+          "v": "plan d'eau de montagne"
+        },
+        {
+          "k": "Altitude",
+          "v": "2 144 m"
+        },
+        {
+          "k": "Superficie",
+          "v": null
+        },
+        {
+          "k": "Baignade",
+          "v": "Baignade non déclarée, non surveillée"
+        },
+        {
+          "k": "Route d'accès",
+          "v": null
+        },
+        {
+          "k": "Stationnement",
+          "v": "Le stationnement est gratuit."
+        },
+        {
+          "k": "Accessibilité",
+          "v": "Aucune source officielle ne dit quoi que ce soit de l'accessibilité : ni accessible, ni non accessible — inconnu."
+        }
+      ],
+      "schema_amenities": [
+        "Parking gratuit"
+      ],
+      "when_to_visit": "<p>En été, quand les rives sont praticables. Aucune date d'ouverture ou de fermeture officielle n'encadre l'accès à ce lac.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Non è un sito di balneazione dichiarato — Non è un sito di balneazione dichiarato",
+          "tag": "In loco",
+          "title": "Balneazione"
+        },
+        {
+          "description": "Nessuna fonte ufficiale dice nulla sull'accessibilità: né accessibile né inaccessibile — sconosciuto.",
+          "tag": "In loco",
+          "title": "Accessibilità"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Il <strong>Lac de la Plagne</strong> è un lago di montagna nel comune di Peisey-Nancroix, in Savoie, a 2 144 m di quota.</p><p><strong>Ci si può fare il bagno? Nessuno lo dice.</strong> Il lago non figura tra i 43 siti di balneazione dichiarati in Savoie: nessun monitoraggio, nessuna classificazione, nessun bagnino. E nessuna fonte ufficiale consultata lo autorizza né lo vieta esplicitamente. Il Parc national de la Vanoise dà la linea generale: « il n'est pas interdit de se baigner… mais cela est fortement déconseillé » — non vietato, fortemente sconsigliato. Pubblichiamo questo silenzio invece di riempirlo.</p><p><strong>Ci si sale a piedi.</strong> Nessuna strada raggiunge il lago; si parte dal parking de Rosuel, Peisey-Nancroix. I dati pubblicati per questo itinerario non coincidono da una fonte ufficiale all'altra — distanza, dislivello, durata e persino difficoltà variano. Sono riportati così come sono nelle segnalazioni di questa scheda, senza media né arbitraggio.</p><p>Il parcheggio è gratuito. Nessuna fonte ufficiale dice nulla sull'accessibilità: né accessibile né inaccessibile — sconosciuto. Se il vostro itinerario entra nel cœur del Parc national de la Vanoise, il cane è vietato — « même en laisse », nemmeno al guinzaglio — con 135 € di multa. Lo status di cœur di questo lago non è stato stabilito: informatevi presso il Parc prima di partire con un cane.</p><p>Questa pagina si basa solo su fonti ufficiali: gestore, comune, parco, ufficio del turismo, registro sanitario nazionale. Dove due di esse si contraddicono, entrambe sono riportate e lo scarto è segnalato — non scegliamo al posto vostro. Dove tacciono, il dato resta vuoto anziché indovinato.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Non è un sito di balneazione dichiarato",
+        "best_season": null,
+        "commune": "Peisey-Nancroix",
+        "dogs": "Se il vostro itinerario entra nel cœur del Parc national de la Vanoise, il cane è vietato — « même en laisse », nemmeno al guinzaglio — con 135 € di multa. Lo status di cœur di questo lago non è stato stabilito: informatevi presso il Parc prima di partire con un cane.",
+        "parking": "Il parcheggio è gratuito.",
+        "stroller": null,
+        "type": "lago di montagna"
+      },
+      "faq": [
+        {
+          "a": "Ci si può fare il bagno? Nessuno lo dice. Il lago non figura tra i 43 siti di balneazione dichiarati in Savoie: nessun monitoraggio, nessuna classificazione, nessun bagnino. E nessuna fonte ufficiale consultata lo autorizza né lo vieta esplicitamente. Il Parc national de la Vanoise dà la linea generale: « il n'est pas interdit de se baigner… mais cela est fortement déconseillé » — non vietato, fortemente sconsigliato. Pubblichiamo questo silenzio invece di riempirlo.",
+          "q": "Ci si può fare il bagno in questo lago?"
+        },
+        {
+          "a": "Sì. Nessun colle stagionale chiude l'accesso a questo lago.",
+          "q": "La strada è aperta tutto l'anno?"
+        },
+        {
+          "a": "Il parcheggio è gratuito.",
+          "q": "Il parcheggio è a pagamento?"
+        },
+        {
+          "a": "Nessuna fonte ufficiale dice nulla sull'accessibilità: né accessibile né inaccessibile — sconosciuto.",
+          "q": "Il giro del lago è accessibile?"
+        },
+        {
+          "a": "Se il vostro itinerario entra nel cœur del Parc national de la Vanoise, il cane è vietato — « même en laisse », nemmeno al guinzaglio — con 135 € di multa. Lo status di cœur di questo lago non è stato stabilito: informatevi presso il Parc prima di partire con un cane.",
+          "q": "Posso venire con il cane?"
+        }
+      ],
+      "hero": {
+        "badge": "2 144 m · Peisey-Nancroix",
+        "lead": "Lago di montagna a Peisey-Nancroix, in Savoie. Non è un sito di balneazione dichiarato. Ciò che dicono le fonti ufficiali, anche quando si contraddicono."
+      },
+      "hero_alt": "Lac de la Plagne, Peisey-Nancroix, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Comune di Peisey-Nancroix (73210), in Savoie. Punto pubblicato: 45.484031, 6.84148. La categoria del POI è stata verificata per escludere una frazione o una diga omonima.",
+        "public_transport": null
+      },
+      "meta_description": "Lac de la Plagne (Peisey-Nancroix, Savoie), 2 144 m: Non è un sito di balneazione dichiarato. Fonti ufficiali, discordanze segnalate.",
+      "meta_title": "Lac de la Plagne — Non è un sito di balneazione dichiarato, Peisey-Nancroix",
+      "name": "Lac de la Plagne",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Tipo",
+          "v": "lago di montagna"
+        },
+        {
+          "k": "Altitudine",
+          "v": "2 144 m"
+        },
+        {
+          "k": "Superficie",
+          "v": null
+        },
+        {
+          "k": "Balneazione",
+          "v": "Non è un sito di balneazione dichiarato"
+        },
+        {
+          "k": "Strada d'accesso",
+          "v": null
+        },
+        {
+          "k": "Parcheggio",
+          "v": "Il parcheggio è gratuito."
+        },
+        {
+          "k": "Accessibilità",
+          "v": "Nessuna fonte ufficiale dice nulla sull'accessibilità: né accessibile né inaccessibile — sconosciuto."
+        }
+      ],
+      "schema_amenities": [
+        "Parcheggio gratuito"
+      ],
+      "when_to_visit": "<p>In estate, quando le rive sono praticabili. Nessuna data ufficiale di apertura o chiusura regola l'accesso a questo lago.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Geen aangemelde zwemlocatie, onbewaakt — Geen aangemelde zwemlocatie, onbewaakt",
+          "tag": "Ter plaatse",
+          "title": "Zwemmen"
+        },
+        {
+          "description": "Geen enkele officiële bron zegt iets over de toegankelijkheid: niet toegankelijk, niet ontoegankelijk — onbekend.",
+          "tag": "Ter plaatse",
+          "title": "Toegankelijkheid"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Het <strong>Lac de la Plagne</strong> is een bergmeer in de gemeente Peisey-Nancroix, in Savoie, op 2 144 m hoogte.</p><p><strong>Mag je hier zwemmen? Niemand zegt het.</strong> Het meer staat niet bij de 43 aangemelde zwemlocaties in Savoie: geen controle, geen beoordeling, geen badmeester. En geen enkele gelezen officiële bron staat het uitdrukkelijk toe of verbiedt het. Het Parc national de la Vanoise geeft de algemene lijn: « il n'est pas interdit de se baigner… mais cela est fortement déconseillé » — niet verboden, sterk afgeraden. Wij publiceren die stilte in plaats van haar op te vullen.</p><p><strong>Je loopt omhoog.</strong> Geen weg bereikt het meer; je vertrekt bij parking de Rosuel, Peisey-Nancroix. De gepubliceerde cijfers voor deze route komen van de ene officiële bron tot de andere niet overeen — afstand, stijging, duur en zelfs moeilijkheid verschillen. Ze staan ongewijzigd in de opmerkingen bij deze pagina, zonder gemiddelde en zonder keuze.</p><p>Parkeren is gratis. Geen enkele officiële bron zegt iets over de toegankelijkheid: niet toegankelijk, niet ontoegankelijk — onbekend. Loopt uw route het cœur van het Parc national de la Vanoise in, dan zijn honden verboden — « même en laisse », zelfs niet aangelijnd — met een boete van 135 €. De cœur-status van juist dit meer kon niet worden vastgesteld: vraag het Parc voordat u met een hond vertrekt.</p><p>Deze pagina steunt uitsluitend op officiële bronnen: beheerder, gemeente, park, toeristenbureau, nationaal zwemwaterregister. Waar twee ervan elkaar tegenspreken, worden beide gegeven en wordt het verschil gemeld — wij kiezen niet voor u. Waar ze zwijgen, blijft het veld leeg in plaats van geraden.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Geen aangemelde zwemlocatie, onbewaakt",
+        "best_season": null,
+        "commune": "Peisey-Nancroix",
+        "dogs": "Loopt uw route het cœur van het Parc national de la Vanoise in, dan zijn honden verboden — « même en laisse », zelfs niet aangelijnd — met een boete van 135 €. De cœur-status van juist dit meer kon niet worden vastgesteld: vraag het Parc voordat u met een hond vertrekt.",
+        "parking": "Parkeren is gratis.",
+        "stroller": null,
+        "type": "bergmeer"
+      },
+      "faq": [
+        {
+          "a": "Mag je hier zwemmen? Niemand zegt het. Het meer staat niet bij de 43 aangemelde zwemlocaties in Savoie: geen controle, geen beoordeling, geen badmeester. En geen enkele gelezen officiële bron staat het uitdrukkelijk toe of verbiedt het. Het Parc national de la Vanoise geeft de algemene lijn: « il n'est pas interdit de se baigner… mais cela est fortement déconseillé » — niet verboden, sterk afgeraden. Wij publiceren die stilte in plaats van haar op te vullen.",
+          "q": "Mag je in dit meer zwemmen?"
+        },
+        {
+          "a": "Ja. Geen seizoensgebonden pas sluit de toegang tot dit meer af.",
+          "q": "Is de weg het hele jaar open?"
+        },
+        {
+          "a": "Parkeren is gratis.",
+          "q": "Is parkeren betaald?"
+        },
+        {
+          "a": "Geen enkele officiële bron zegt iets over de toegankelijkheid: niet toegankelijk, niet ontoegankelijk — onbekend.",
+          "q": "Is de rondwandeling toegankelijk?"
+        },
+        {
+          "a": "Loopt uw route het cœur van het Parc national de la Vanoise in, dan zijn honden verboden — « même en laisse », zelfs niet aangelijnd — met een boete van 135 €. De cœur-status van juist dit meer kon niet worden vastgesteld: vraag het Parc voordat u met een hond vertrekt.",
+          "q": "Mag ik mijn hond meenemen?"
+        }
+      ],
+      "hero": {
+        "badge": "2 144 m · Peisey-Nancroix",
+        "lead": "Bergmeer bij Peisey-Nancroix, in Savoie. Geen aangemelde zwemlocatie, onbewaakt. Wat de officiële bronnen zeggen — ook waar ze elkaar tegenspreken."
+      },
+      "hero_alt": "Lac de la Plagne, Peisey-Nancroix, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Gemeente Peisey-Nancroix (73210), in Savoie. Gepubliceerd punt: 45.484031, 6.84148. De POI-categorie is gecontroleerd om een gehucht of stuwdam met dezelfde naam uit te sluiten.",
+        "public_transport": null
+      },
+      "meta_description": "Lac de la Plagne (Peisey-Nancroix, Savoie), 2 144 m: Geen aangemelde zwemlocatie, onbewaakt. Officiële bronnen, afwijkingen gemeld.",
+      "meta_title": "Lac de la Plagne — Geen aangemelde zwemlocatie, onbewaakt, Peisey-Nancroix",
+      "name": "Lac de la Plagne",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Type",
+          "v": "bergmeer"
+        },
+        {
+          "k": "Hoogte",
+          "v": "2 144 m"
+        },
+        {
+          "k": "Oppervlakte",
+          "v": null
+        },
+        {
+          "k": "Zwemmen",
+          "v": "Geen aangemelde zwemlocatie, onbewaakt"
+        },
+        {
+          "k": "Toegangsweg",
+          "v": null
+        },
+        {
+          "k": "Parkeren",
+          "v": "Parkeren is gratis."
+        },
+        {
+          "k": "Toegankelijkheid",
+          "v": "Geen enkele officiële bron zegt iets over de toegankelijkheid: niet toegankelijk, niet ontoegankelijk — onbekend."
+        }
+      ],
+      "schema_amenities": [
+        "Gratis parkeren"
+      ],
+      "when_to_visit": "<p>In de zomer, als de oever begaanbaar is. Geen officiële openings- of sluitingsdatum regelt de toegang tot dit meer.</p>"
+    }
+  },
+  "latitude": 45.484031,
+  "longitude": 6.84148,
+  "official_site_url": "https://rando.vanoise.com/fr/trek/4099-Tour-du-lac-de-la-Plagne-%3A-randonnee-au-pied-des-geants-de-la-Vanoise",
+  "partners": [],
+  "postal_code": "73210",
+  "price_currency": null,
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Recherche du 17 août 2026, sources officielles uniquement. Baignade : registre ARS des 43 sites de baignade en eau douce déclarés en Savoie — listing départemental, jamais une URL par site, un identifiant erroné y renvoyant un HTTP 200 portant « Une erreur inattendue est survenue ». Ouverture et fermeture des routes de col : station, office de tourisme et annonces du Département, citées mot pour mot ; aucune date n'est reprise d'une saison antérieure. Règles du cœur du Parc national de la Vanoise et amende de 135 € : pages du Parc. Coordonnées : géocodeur IGN Géoplateforme, index POI, catégorie du POI vérifiée pour écarter un hameau ou un barrage homonyme. Contradictions signalées, jamais arbitrées.",
+  "schema_org": {
+    "amenities": [
+      "Parking gratuit"
+    ],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "lac-de-la-plagne-peisey-nancroix",
+  "sources": [
+    "https://rando.vanoise.com/fr/trek/4099-Tour-du-lac-de-la-Plagne-%3A-randonnee-au-pied-des-geants-de-la-Vanoise",
+    "https://www.peisey-vallandry.com/pedestre/le-lac-de-la-plagne.html",
+    "https://www.explore-savoie.com/randonnees-et-balades/le-lac-de-la-plagne-520198/",
+    "https://www.vanoise-parcnational.fr/fr/des-decouvertes/sejourner-dans-le-parc/venir-avec-mon-chien",
+    "https://www.vanoise-parcnational.fr/fr/parc-national-de-la-vanoise/la-reglementation-du-coeur",
+    "https://baignades.sante.gouv.fr/baignades/genererPDF.do?gen=yes&am1=checkbox&am2=checkbox&am3=checkbox&am4=checkbox&selDpt=073&selEau=DOUCE&image.x=33&image.y=2"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "CŒUR DE PARC : CONTRADICTION QUI CHANGE LA RÈGLE DU CHIEN — le portail de randonnée du Parc national de la Vanoise classe l'itinéraire « En cœur de parc », où les chiens sont interdits même en laisse sous peine de 135 € d'amende. Savoie Mont Blanc écrit au contraire qu'on « est en limite du Parc » et qu'un chien est autorisé jusqu'au refuge d'Entre-le-lac en restant rive gauche. La même fiche Savoie Mont Blanc porte par ailleurs « Animaux acceptés : Non acceptés ». Trois énoncés incompatibles : à trancher avec le Parc avant d'affirmer quoi que ce soit.",
+    "QUATRE JEUX DE CHIFFRES POUR LE MÊME ITINÉRAIRE — le portail du Parc donne 14,4 km / +795 m / 5h / Facile ; l'office de tourisme donne 14,77 km / 702 m / 5h / niveau rouge Difficile sur son site et 6,5 km / +629 m / 2h30 aller / Difficile dans son propre guide PDF. Aucune moyenne n'est calculée : les quatre sont publiés.",
+    "NATURE DU PLAN D'EAU — aucune source consultée ne dit s'il est naturel ou retenu. Non affirmé.",
+    "ZONE DE SENSIBILITÉ GYPAÈTE — l'itinéraire traverse une zone où « toutes les activités sont à proscrire : survol motorisé ou non motorisé, ski, randonnée, chasse, escalade ». Signalé, non arbitré.",
+    "PATOUS — non documentés sur cette approche. Absence non établie non plus : les guides ne portent qu'une consigne générique.",
+    "BAIGNADE NON DÉCLARÉE — ce lac ne figure pas parmi les 43 sites de baignade en eau douce déclarés en Savoie au registre ARS. Il n'y a donc aucun suivi sanitaire officiel de la qualité de l'eau, et aucun classement à citer. C'est un fait vérifiable, pas une interdiction : les deux se disent séparément.",
+    "VISUEL vérifié à l'œil (17/08/2026) — sentier forestier d'automne : évoque la marche d'approche, pas le lac d'altitude ; le vivier n'a pas d'image de lac alpin disponible non partagée.",
+    "ACCES_PMR_UNVERIFIED",
+    "COORDONNÉES — POI IGN « Lac de la Plagne », catégorie lac / plan d'eau, commune Peisey-Nancroix 73210."
+  ]
+}

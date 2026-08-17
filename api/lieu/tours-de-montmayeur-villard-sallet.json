@@ -1,0 +1,42 @@
+{
+  "name": "Tours de Montmayeur",
+  "commune": "Villard-Sallet",
+  "gps": {
+    "lat": 45.489399,
+    "lng": 6.123415
+  },
+  "type": "chateau",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": null,
+    "tiers": [
+      {
+        "name": null,
+        "price": "gratuit",
+        "note": null
+      },
+      {
+        "name": null,
+        "price": "14 €, tarif unique",
+        "note": null
+      }
+    ],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": {
+    "status": "non_accessible",
+    "detail": "La visite guidée qui emprunte le même accès précise « non accessible aux poussettes et fauteuils roulants » : les porte-bébés sont admis et il faut pouvoir marcher trois kilomètres. Le site lui-même ne publie rien, mais la mention vaut pour l'approche.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_url": "https://tourisme.coeurdesavoie.fr/fiches/ohe-du-chateau-aux-tours-de-montmayeur-6997177/",
+    "source_name": "OT Cœur de Savoie"
+  },
+  "parking": null,
+  "transport": null,
+  "season": "Toute l'année, tous les jours",
+  "winter": null,
+  "official_url": "https://tourisme.coeurdesavoie.fr/fiches/les-tours-de-montmayeur-443185/",
+  "last_verified": null
+}

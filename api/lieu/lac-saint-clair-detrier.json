@@ -1,0 +1,31 @@
+{
+  "name": "Lac Saint-Clair",
+  "commune": "Détrier",
+  "gps": {
+    "lat": 45.450938,
+    "lng": 6.10121
+  },
+  "type": "lac",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": null,
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": {
+    "status": "accessible",
+    "detail": "« Le tour du lac, aménagé et accessible aux personnes à mobilité réduite, est ponctué de tables de pique-nique », selon la fiche de l'office de tourisme Cœur de Savoie. Ni revêtement, ni pente, ni longueur ne sont précisés.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_url": "https://tourisme.coeurdesavoie.fr/fiches/lac-saint-clair-327130/",
+    "source_name": "OT Cœur de Savoie"
+  },
+  "parking": "Le stationnement est gratuit.",
+  "transport": null,
+  "season": null,
+  "winter": null,
+  "official_url": "https://tourisme.coeurdesavoie.fr/fiches/lac-saint-clair-327130/",
+  "last_verified": null
+}

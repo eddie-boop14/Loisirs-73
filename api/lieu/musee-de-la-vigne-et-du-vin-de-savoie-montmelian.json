@@ -1,0 +1,59 @@
+{
+  "name": "Musée de la vigne et du vin de Savoie",
+  "commune": "Montmélian",
+  "gps": {
+    "lat": 45.500501,
+    "lng": 6.059112
+  },
+  "type": "musee",
+  "hours": null,
+  "prices": {
+    "from": 5.0,
+    "currency": "EUR",
+    "tiers": [
+      {
+        "name": null,
+        "price": "5 €",
+        "note": null
+      },
+      {
+        "name": null,
+        "price": "3 €",
+        "note": null
+      },
+      {
+        "name": null,
+        "price": "gratuit",
+        "note": null
+      },
+      {
+        "name": null,
+        "price": "8 €",
+        "note": null
+      },
+      {
+        "name": null,
+        "price": "4 €",
+        "note": null
+      }
+    ],
+    "is_free": false,
+    "note": null
+  },
+  "access_pmr": {
+    "status": "partiel",
+    "detail": "La commune et Savoie Mont Blanc annoncent « un élévateur pour accéder à l'ensemble du musée (sauf les caves) » et des cannes-sièges. Les caves ne sont donc pas accessibles. Aucun WC adapté n'est documenté par une source à jour.",
+    "equipment": [
+      "ascenseur"
+    ],
+    "handiplage_level": null,
+    "source_url": "https://montmelian.com/musee-vigne-vin-savoie/",
+    "source_name": "Commune de Montmélian"
+  },
+  "parking": null,
+  "transport": null,
+  "season": "Calendrier sans millésime",
+  "winter": null,
+  "official_url": "https://montmelian.com/musee-vigne-vin-savoie/",
+  "last_verified": null
+}

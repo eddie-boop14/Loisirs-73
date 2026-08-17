@@ -1,0 +1,661 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-17",
+    "confidence": "declarative",
+    "detail": "« Le tour du lac, aménagé et accessible aux personnes à mobilité réduite, est ponctué de tables de pique-nique », selon la fiche de l'office de tourisme Cœur de Savoie. Ni revêtement, ni pente, ni longueur ne sont précisés.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_name": "OT Cœur de Savoie",
+    "source_url": "https://tourisme.coeurdesavoie.fr/fiches/lac-saint-clair-327130/",
+    "status": "accessible",
+    "tourisme_handicap": []
+  },
+  "category": "lac",
+  "commune": "Détrier",
+  "date_modified_human": "17 août 2026",
+  "date_published_human": "17 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-17",
+    "method": "Recherche du 17 août 2026, sources officielles uniquement. Baignade : registre ARS des 43 sites de baignade en eau douce déclarés en Savoie — listing départemental, jamais une URL par site, un identifiant erroné y renvoyant un HTTP 200 portant « Une erreur inattendue est survenue ». Ouverture et fermeture des routes de col : station, office de tourisme et annonces du Département, citées mot pour mot ; aucune date n'est reprise d'une saison antérieure. Règles du cœur du Parc national de la Vanoise et amende de 135 € : pages du Parc. Coordonnées : géocodeur IGN Géoplateforme, index POI, catégorie du POI vérifiée pour écarter un hameau ou un barrage homonyme. Contradictions signalées, jamais arbitrées."
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-reserve-zone-humide-4.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Keine gemeldete Badestelle, unbeaufsichtigt — Keine gemeldete Badestelle, unbeaufsichtigt",
+          "tag": "Vor Ort",
+          "title": "Baden"
+        },
+        {
+          "description": "Das Tourismusbüro bezeichnet ihn als « accessible en fauteuil roulant en autonomie », also ohne fremde Hilfe rollstuhlgerecht.",
+          "tag": "Vor Ort",
+          "title": "Barrierefreiheit"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Der <strong>Lac Saint-Clair</strong> ist ein natürlicher See in der Gemeinde Détrier in Savoie.</p><p><strong>Darf man hier baden? Niemand sagt es.</strong> Der See gehört nicht zu den 43 gemeldeten Badestellen in Savoie — also keine Überwachung, keine Bewertung, keine Rettungsschwimmer. Und keine gelesene offizielle Quelle erlaubt oder verbietet es ausdrücklich. Der Parc national de la Vanoise gibt die allgemeine Linie vor: « il n'est pas interdit de se baigner… mais cela est fortement déconseillé » — nicht verboten, aber dringend abgeraten. Wir veröffentlichen dieses Schweigen, statt es zu füllen.</p><p>Das Parken ist kostenlos. Das Tourismusbüro bezeichnet ihn als « accessible en fauteuil roulant en autonomie », also ohne fremde Hilfe rollstuhlgerecht. In den gelesenen offiziellen Quellen wurde keine seespezifische Regel gefunden. Fragen Sie die Gemeinde.</p><p>Diese Seite stützt sich ausschließlich auf offizielle Quellen: Betreiber, Gemeinde, Park, Tourismusbüro, nationales Badegewässerregister. Wo zwei davon einander widersprechen, werden beide genannt und die Differenz gekennzeichnet — wir entscheiden nicht für Sie. Wo sie schweigen, bleibt das Feld leer statt geraten.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Keine gemeldete Badestelle, unbeaufsichtigt",
+        "best_season": null,
+        "commune": "Détrier",
+        "dogs": "In den gelesenen offiziellen Quellen wurde keine seespezifische Regel gefunden. Fragen Sie die Gemeinde.",
+        "parking": "Das Parken ist kostenlos.",
+        "stroller": "Barrierefreier Weg um den See",
+        "type": "natürlicher See"
+      },
+      "faq": [
+        {
+          "a": "Darf man hier baden? Niemand sagt es. Der See gehört nicht zu den 43 gemeldeten Badestellen in Savoie — also keine Überwachung, keine Bewertung, keine Rettungsschwimmer. Und keine gelesene offizielle Quelle erlaubt oder verbietet es ausdrücklich. Der Parc national de la Vanoise gibt die allgemeine Linie vor: « il n'est pas interdit de se baigner… mais cela est fortement déconseillé » — nicht verboten, aber dringend abgeraten. Wir veröffentlichen dieses Schweigen, statt es zu füllen.",
+          "q": "Darf man in diesem See baden?"
+        },
+        {
+          "a": "Ja. Kein saisonaler Pass sperrt den Zugang zu diesem See.",
+          "q": "Ist die Straße ganzjährig offen?"
+        },
+        {
+          "a": "Das Parken ist kostenlos.",
+          "q": "Ist das Parken kostenpflichtig?"
+        },
+        {
+          "a": "Das Tourismusbüro bezeichnet ihn als « accessible en fauteuil roulant en autonomie », also ohne fremde Hilfe rollstuhlgerecht.",
+          "q": "Ist der Rundweg barrierefrei?"
+        },
+        {
+          "a": "In den gelesenen offiziellen Quellen wurde keine seespezifische Regel gefunden. Fragen Sie die Gemeinde.",
+          "q": "Darf ich meinen Hund mitbringen?"
+        }
+      ],
+      "hero": {
+        "badge": "Keine gemeldete Badestelle, unbeaufsichtigt · Détrier",
+        "lead": "Natürlicher See bei Détrier in Savoie. Keine gemeldete Badestelle, unbeaufsichtigt. Was die offiziellen Quellen sagen — auch dort, wo sie sich widersprechen."
+      },
+      "hero_alt": "Lac Saint-Clair, Détrier, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Gemeinde Détrier (73110) in Savoie. Veröffentlichter Punkt: 45.450938, 6.10121. Die POI-Kategorie wurde geprüft, um einen gleichnamigen Weiler oder Staudamm auszuschließen.",
+        "public_transport": null
+      },
+      "meta_description": "Lac Saint-Clair (Détrier, Savoie): Keine gemeldete Badestelle, unbeaufsichtigt. Offizielle Quellen, Abweichungen gekennzeichnet.",
+      "meta_title": "Lac Saint-Clair — Keine gemeldete Badestelle, unbeaufsichtigt, Détrier",
+      "name": "Lac Saint-Clair",
+      "name_alternates": [
+        "Lac de Saint-Clair"
+      ],
+      "practical_info": [
+        {
+          "k": "Typ",
+          "v": "natürlicher See"
+        },
+        {
+          "k": "Höhe",
+          "v": null
+        },
+        {
+          "k": "Fläche",
+          "v": null
+        },
+        {
+          "k": "Baden",
+          "v": "Keine gemeldete Badestelle, unbeaufsichtigt"
+        },
+        {
+          "k": "Zufahrtsstraße",
+          "v": null
+        },
+        {
+          "k": "Parken",
+          "v": "Das Parken ist kostenlos."
+        },
+        {
+          "k": "Barrierefreiheit",
+          "v": "Das Tourismusbüro bezeichnet ihn als « accessible en fauteuil roulant en autonomie », also ohne fremde Hilfe rollstuhlgerecht."
+        }
+      ],
+      "schema_amenities": [
+        "Barrierefreier Weg um den See",
+        "Kostenloses Parken"
+      ],
+      "when_to_visit": "<p>Im Sommer, wenn das Ufer begehbar ist. Kein offizielles Öffnungs- oder Schließdatum regelt den Zugang zu diesem See.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "Not a declared bathing site, unsupervised — Not a declared bathing site, unsupervised",
+          "tag": "On site",
+          "title": "Swimming"
+        },
+        {
+          "description": "The tourist office declares it « accessible en fauteuil roulant en autonomie » — wheelchair-accessible without assistance.",
+          "tag": "On site",
+          "title": "Accessibility"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Lac Saint-Clair</strong> is a natural lake in the commune of Détrier, Savoie.</p><p><strong>Can you swim here? Nobody says.</strong> The lake is not among the 43 declared bathing sites in Savoie — so no health monitoring, no rating, no lifeguard. And no official source we read either permits or forbids it. The Parc national de la Vanoise gives the general line: « il n'est pas interdit de se baigner… mais cela est fortement déconseillé » — not forbidden, strongly discouraged. We publish that silence rather than fill it.</p><p>Parking is free. The tourist office declares it « accessible en fauteuil roulant en autonomie » — wheelchair-accessible without assistance. No rule specific to this lake was found in the official sources read. Ask the commune.</p><p>This page is built on official sources and nothing else: the site's manager, the commune, the park, the tourist office, the national bathing-water register. Where two of them contradict each other, both are given and the gap is flagged — we do not choose for you. Where they are silent, the field stays empty rather than guessed.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Not a declared bathing site, unsupervised",
+        "best_season": null,
+        "commune": "Détrier",
+        "dogs": "No rule specific to this lake was found in the official sources read. Ask the commune.",
+        "parking": "Parking is free.",
+        "stroller": "Accessible path around the lake",
+        "type": "natural lake"
+      },
+      "faq": [
+        {
+          "a": "Can you swim here? Nobody says. The lake is not among the 43 declared bathing sites in Savoie — so no health monitoring, no rating, no lifeguard. And no official source we read either permits or forbids it. The Parc national de la Vanoise gives the general line: « il n'est pas interdit de se baigner… mais cela est fortement déconseillé » — not forbidden, strongly discouraged. We publish that silence rather than fill it.",
+          "q": "Can you swim in this lake?"
+        },
+        {
+          "a": "Yes. No seasonal col closes access to this lake.",
+          "q": "Is the road open all year?"
+        },
+        {
+          "a": "Parking is free.",
+          "q": "Is parking paid?"
+        },
+        {
+          "a": "The tourist office declares it « accessible en fauteuil roulant en autonomie » — wheelchair-accessible without assistance.",
+          "q": "Is the lake circuit accessible?"
+        },
+        {
+          "a": "No rule specific to this lake was found in the official sources read. Ask the commune.",
+          "q": "Can I bring my dog?"
+        }
+      ],
+      "hero": {
+        "badge": "Not a declared bathing site, unsupervised · Détrier",
+        "lead": "Natural lake at Détrier, Savoie. Not a declared bathing site, unsupervised. What the official sources say — including where they contradict each other."
+      },
+      "hero_alt": "Lac Saint-Clair, Détrier, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Commune of Détrier (73110), Savoie. Published point: 45.450938, 6.10121. The POI category was checked to rule out a hamlet or a dam sharing the name.",
+        "public_transport": null
+      },
+      "meta_description": "Lac Saint-Clair (Détrier, Savoie): Not a declared bathing site, unsupervised. Official sources, discrepancies flagged.",
+      "meta_title": "Lac Saint-Clair — Not a declared bathing site, unsupervised, Détrier",
+      "name": "Lac Saint-Clair",
+      "name_alternates": [
+        "Lac de Saint-Clair"
+      ],
+      "practical_info": [
+        {
+          "k": "Type",
+          "v": "natural lake"
+        },
+        {
+          "k": "Altitude",
+          "v": null
+        },
+        {
+          "k": "Surface area",
+          "v": null
+        },
+        {
+          "k": "Swimming",
+          "v": "Not a declared bathing site, unsupervised"
+        },
+        {
+          "k": "Access road",
+          "v": null
+        },
+        {
+          "k": "Parking",
+          "v": "Parking is free."
+        },
+        {
+          "k": "Accessibility",
+          "v": "The tourist office declares it « accessible en fauteuil roulant en autonomie » — wheelchair-accessible without assistance."
+        }
+      ],
+      "schema_amenities": [
+        "Accessible path around the lake",
+        "Free parking"
+      ],
+      "when_to_visit": "<p>In summer, when the shore is walkable. No official opening or closing date governs access to this lake.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "No es un sitio de baño declarado — No es un sitio de baño declarado",
+          "tag": "En el sitio",
+          "title": "Baño"
+        },
+        {
+          "description": "La oficina de turismo la declara « accessible en fauteuil roulant en autonomie », accesible en silla de ruedas sin ayuda.",
+          "tag": "En el sitio",
+          "title": "Accesibilidad"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>Lac Saint-Clair</strong> es un lago natural en el municipio de Détrier, en Savoie.</p><p><strong>¿Se puede bañar aquí? Nadie lo dice.</strong> El lago no figura entre los 43 sitios de baño declarados en Savoie: sin control sanitario, sin clasificación, sin socorrista. Y ninguna fuente oficial consultada lo autoriza ni lo prohíbe expresamente. El Parc national de la Vanoise da la línea general: « il n'est pas interdit de se baigner… mais cela est fortement déconseillé » — no prohibido, muy desaconsejado. Publicamos ese silencio en lugar de rellenarlo.</p><p>El aparcamiento es gratuito. La oficina de turismo la declara « accessible en fauteuil roulant en autonomie », accesible en silla de ruedas sin ayuda. No se encontró ninguna norma propia de este lago en las fuentes oficiales consultadas. Consulte al municipio.</p><p>Esta página se basa únicamente en fuentes oficiales: gestor, municipio, parque, oficina de turismo, registro sanitario nacional. Donde dos de ellas se contradicen, se dan ambas y se señala la diferencia — no elegimos por usted. Donde callan, el dato queda vacío en lugar de adivinado.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "No es un sitio de baño declarado",
+        "best_season": null,
+        "commune": "Détrier",
+        "dogs": "No se encontró ninguna norma propia de este lago en las fuentes oficiales consultadas. Consulte al municipio.",
+        "parking": "El aparcamiento es gratuito.",
+        "stroller": "Sendero accesible alrededor del lago",
+        "type": "lago natural"
+      },
+      "faq": [
+        {
+          "a": "¿Se puede bañar aquí? Nadie lo dice. El lago no figura entre los 43 sitios de baño declarados en Savoie: sin control sanitario, sin clasificación, sin socorrista. Y ninguna fuente oficial consultada lo autoriza ni lo prohíbe expresamente. El Parc national de la Vanoise da la línea general: « il n'est pas interdit de se baigner… mais cela est fortement déconseillé » — no prohibido, muy desaconsejado. Publicamos ese silencio en lugar de rellenarlo.",
+          "q": "¿Se puede bañar en este lago?"
+        },
+        {
+          "a": "Sí. Ningún puerto de montaña estacional cierra el acceso a este lago.",
+          "q": "¿La carretera está abierta todo el año?"
+        },
+        {
+          "a": "El aparcamiento es gratuito.",
+          "q": "¿El aparcamiento es de pago?"
+        },
+        {
+          "a": "La oficina de turismo la declara « accessible en fauteuil roulant en autonomie », accesible en silla de ruedas sin ayuda.",
+          "q": "¿La vuelta al lago es accesible?"
+        },
+        {
+          "a": "No se encontró ninguna norma propia de este lago en las fuentes oficiales consultadas. Consulte al municipio.",
+          "q": "¿Puedo traer a mi perro?"
+        }
+      ],
+      "hero": {
+        "badge": "No es un sitio de baño declarado · Détrier",
+        "lead": "Lago natural en Détrier, Savoie. No es un sitio de baño declarado. Lo que dicen las fuentes oficiales, incluso cuando se contradicen."
+      },
+      "hero_alt": "Lac Saint-Clair, Détrier, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Municipio de Détrier (73110), en Savoie. Punto publicado: 45.450938, 6.10121. Se verificó la categoría del POI para descartar una aldea o una presa del mismo nombre.",
+        "public_transport": null
+      },
+      "meta_description": "Lac Saint-Clair (Détrier, Savoie): No es un sitio de baño declarado. Fuentes oficiales, discrepancias señaladas.",
+      "meta_title": "Lac Saint-Clair — No es un sitio de baño declarado, Détrier",
+      "name": "Lac Saint-Clair",
+      "name_alternates": [
+        "Lac de Saint-Clair"
+      ],
+      "practical_info": [
+        {
+          "k": "Tipo",
+          "v": "lago natural"
+        },
+        {
+          "k": "Altitud",
+          "v": null
+        },
+        {
+          "k": "Superficie",
+          "v": null
+        },
+        {
+          "k": "Baño",
+          "v": "No es un sitio de baño declarado"
+        },
+        {
+          "k": "Carretera de acceso",
+          "v": null
+        },
+        {
+          "k": "Aparcamiento",
+          "v": "El aparcamiento es gratuito."
+        },
+        {
+          "k": "Accesibilidad",
+          "v": "La oficina de turismo la declara « accessible en fauteuil roulant en autonomie », accesible en silla de ruedas sin ayuda."
+        }
+      ],
+      "schema_amenities": [
+        "Sendero accesible alrededor del lago",
+        "Aparcamiento gratuito"
+      ],
+      "when_to_visit": "<p>En verano, cuando las orillas son practicables. Ninguna fecha oficial de apertura o cierre regula el acceso a este lago.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Baignade non déclarée, non surveillée — Baignade non déclarée, non surveillée",
+          "tag": "Sur place",
+          "title": "Baignade"
+        },
+        {
+          "description": "L'office de tourisme la déclare « accessible en fauteuil roulant en autonomie ».",
+          "tag": "Sur place",
+          "title": "Accessibilité"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Le <strong>Lac Saint-Clair</strong> est un lac naturel situé sur la commune de Détrier, en Savoie.</p><p><strong>Peut-on s'y baigner ? Personne ne le dit.</strong> Ce lac ne figure pas parmi les 43 sites de baignade déclarés en Savoie — donc aucun suivi sanitaire, aucun classement, aucun maître-nageur. Et aucune source officielle consultée ne l'autorise ni ne l'interdit explicitement. Le Parc national de la Vanoise donne la position générale : « il n'est pas interdit de se baigner… mais cela est fortement déconseillé ». Nous publions ce silence plutôt que de le combler.</p><p>Le stationnement est gratuit. L'office de tourisme la déclare « accessible en fauteuil roulant en autonomie ». Aucune règle propre à ce lac n'a été trouvée dans les sources officielles consultées. Renseignez-vous auprès de la commune.</p><p>Cette page est bâtie sur les sources officielles et sur elles seules : gestionnaire, commune, parc, office de tourisme, registre sanitaire national. Là où deux d'entre elles se contredisent, les deux sont données et l'écart est signalé — nous ne choisissons pas à votre place. Là où elles se taisent, la donnée reste vide plutôt que devinée.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Baignade non déclarée, non surveillée",
+        "best_season": null,
+        "commune": "Détrier",
+        "dogs": "Aucune règle propre à ce lac n'a été trouvée dans les sources officielles consultées. Renseignez-vous auprès de la commune.",
+        "parking": "Le stationnement est gratuit.",
+        "stroller": "Sentier accessible autour du lac",
+        "type": "lac naturel"
+      },
+      "faq": [
+        {
+          "a": "Peut-on s'y baigner ? Personne ne le dit. Ce lac ne figure pas parmi les 43 sites de baignade déclarés en Savoie — donc aucun suivi sanitaire, aucun classement, aucun maître-nageur. Et aucune source officielle consultée ne l'autorise ni ne l'interdit explicitement. Le Parc national de la Vanoise donne la position générale : « il n'est pas interdit de se baigner… mais cela est fortement déconseillé ». Nous publions ce silence plutôt que de le combler.",
+          "q": "Peut-on se baigner dans ce lac ?"
+        },
+        {
+          "a": "Oui. Aucun col saisonnier ne ferme l'accès à ce lac.",
+          "q": "La route est-elle ouverte toute l'année ?"
+        },
+        {
+          "a": "Le stationnement est gratuit.",
+          "q": "Le stationnement est-il payant ?"
+        },
+        {
+          "a": "L'office de tourisme la déclare « accessible en fauteuil roulant en autonomie ».",
+          "q": "Le tour du lac est-il accessible ?"
+        },
+        {
+          "a": "Aucune règle propre à ce lac n'a été trouvée dans les sources officielles consultées. Renseignez-vous auprès de la commune.",
+          "q": "Puis-je venir avec mon chien ?"
+        }
+      ],
+      "hero": {
+        "badge": "Baignade non déclarée, non surveillée · Détrier",
+        "lead": "Lac naturel à Détrier, en Savoie. Baignade non déclarée, non surveillée. Ce que disent les sources officielles, y compris quand elles se contredisent."
+      },
+      "hero_alt": "Lac Saint-Clair, Détrier, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Commune de Détrier (73110), en Savoie. Point publié : 45.450938, 6.10121. La catégorie du POI a été vérifiée pour écarter un hameau ou un barrage portant le même nom.",
+        "public_transport": null
+      },
+      "meta_description": "Lac Saint-Clair (Détrier, Savoie) : Baignade non déclarée, non surveillée. Sources officielles, contradictions signalées.",
+      "meta_title": "Lac Saint-Clair — Baignade non déclarée, non surveillée, Détrier",
+      "name": "Lac Saint-Clair",
+      "name_alternates": [
+        "Lac de Saint-Clair"
+      ],
+      "practical_info": [
+        {
+          "k": "Type",
+          "v": "lac naturel"
+        },
+        {
+          "k": "Altitude",
+          "v": null
+        },
+        {
+          "k": "Superficie",
+          "v": null
+        },
+        {
+          "k": "Baignade",
+          "v": "Baignade non déclarée, non surveillée"
+        },
+        {
+          "k": "Route d'accès",
+          "v": null
+        },
+        {
+          "k": "Stationnement",
+          "v": "Le stationnement est gratuit."
+        },
+        {
+          "k": "Accessibilité",
+          "v": "L'office de tourisme la déclare « accessible en fauteuil roulant en autonomie »."
+        }
+      ],
+      "schema_amenities": [
+        "Sentier accessible autour du lac",
+        "Parking gratuit"
+      ],
+      "when_to_visit": "<p>En été, quand les rives sont praticables. Aucune date d'ouverture ou de fermeture officielle n'encadre l'accès à ce lac.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Non è un sito di balneazione dichiarato — Non è un sito di balneazione dichiarato",
+          "tag": "In loco",
+          "title": "Balneazione"
+        },
+        {
+          "description": "L'ufficio del turismo la dichiara « accessible en fauteuil roulant en autonomie », accessibile in carrozzina senza assistenza.",
+          "tag": "In loco",
+          "title": "Accessibilità"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Il <strong>Lac Saint-Clair</strong> è un lago naturale nel comune di Détrier, in Savoie.</p><p><strong>Ci si può fare il bagno? Nessuno lo dice.</strong> Il lago non figura tra i 43 siti di balneazione dichiarati in Savoie: nessun monitoraggio, nessuna classificazione, nessun bagnino. E nessuna fonte ufficiale consultata lo autorizza né lo vieta esplicitamente. Il Parc national de la Vanoise dà la linea generale: « il n'est pas interdit de se baigner… mais cela est fortement déconseillé » — non vietato, fortemente sconsigliato. Pubblichiamo questo silenzio invece di riempirlo.</p><p>Il parcheggio è gratuito. L'ufficio del turismo la dichiara « accessible en fauteuil roulant en autonomie », accessibile in carrozzina senza assistenza. Nessuna regola specifica per questo lago nelle fonti ufficiali consultate. Informatevi presso il comune.</p><p>Questa pagina si basa solo su fonti ufficiali: gestore, comune, parco, ufficio del turismo, registro sanitario nazionale. Dove due di esse si contraddicono, entrambe sono riportate e lo scarto è segnalato — non scegliamo al posto vostro. Dove tacciono, il dato resta vuoto anziché indovinato.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Non è un sito di balneazione dichiarato",
+        "best_season": null,
+        "commune": "Détrier",
+        "dogs": "Nessuna regola specifica per questo lago nelle fonti ufficiali consultate. Informatevi presso il comune.",
+        "parking": "Il parcheggio è gratuito.",
+        "stroller": "Sentiero accessibile intorno al lago",
+        "type": "lago naturale"
+      },
+      "faq": [
+        {
+          "a": "Ci si può fare il bagno? Nessuno lo dice. Il lago non figura tra i 43 siti di balneazione dichiarati in Savoie: nessun monitoraggio, nessuna classificazione, nessun bagnino. E nessuna fonte ufficiale consultata lo autorizza né lo vieta esplicitamente. Il Parc national de la Vanoise dà la linea generale: « il n'est pas interdit de se baigner… mais cela est fortement déconseillé » — non vietato, fortemente sconsigliato. Pubblichiamo questo silenzio invece di riempirlo.",
+          "q": "Ci si può fare il bagno in questo lago?"
+        },
+        {
+          "a": "Sì. Nessun colle stagionale chiude l'accesso a questo lago.",
+          "q": "La strada è aperta tutto l'anno?"
+        },
+        {
+          "a": "Il parcheggio è gratuito.",
+          "q": "Il parcheggio è a pagamento?"
+        },
+        {
+          "a": "L'ufficio del turismo la dichiara « accessible en fauteuil roulant en autonomie », accessibile in carrozzina senza assistenza.",
+          "q": "Il giro del lago è accessibile?"
+        },
+        {
+          "a": "Nessuna regola specifica per questo lago nelle fonti ufficiali consultate. Informatevi presso il comune.",
+          "q": "Posso venire con il cane?"
+        }
+      ],
+      "hero": {
+        "badge": "Non è un sito di balneazione dichiarato · Détrier",
+        "lead": "Lago naturale a Détrier, in Savoie. Non è un sito di balneazione dichiarato. Ciò che dicono le fonti ufficiali, anche quando si contraddicono."
+      },
+      "hero_alt": "Lac Saint-Clair, Détrier, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Comune di Détrier (73110), in Savoie. Punto pubblicato: 45.450938, 6.10121. La categoria del POI è stata verificata per escludere una frazione o una diga omonima.",
+        "public_transport": null
+      },
+      "meta_description": "Lac Saint-Clair (Détrier, Savoie): Non è un sito di balneazione dichiarato. Fonti ufficiali, discordanze segnalate.",
+      "meta_title": "Lac Saint-Clair — Non è un sito di balneazione dichiarato, Détrier",
+      "name": "Lac Saint-Clair",
+      "name_alternates": [
+        "Lac de Saint-Clair"
+      ],
+      "practical_info": [
+        {
+          "k": "Tipo",
+          "v": "lago naturale"
+        },
+        {
+          "k": "Altitudine",
+          "v": null
+        },
+        {
+          "k": "Superficie",
+          "v": null
+        },
+        {
+          "k": "Balneazione",
+          "v": "Non è un sito di balneazione dichiarato"
+        },
+        {
+          "k": "Strada d'accesso",
+          "v": null
+        },
+        {
+          "k": "Parcheggio",
+          "v": "Il parcheggio è gratuito."
+        },
+        {
+          "k": "Accessibilità",
+          "v": "L'ufficio del turismo la dichiara « accessible en fauteuil roulant en autonomie », accessibile in carrozzina senza assistenza."
+        }
+      ],
+      "schema_amenities": [
+        "Sentiero accessibile intorno al lago",
+        "Parcheggio gratuito"
+      ],
+      "when_to_visit": "<p>In estate, quando le rive sono praticabili. Nessuna data ufficiale di apertura o chiusura regola l'accesso a questo lago.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Geen aangemelde zwemlocatie, onbewaakt — Geen aangemelde zwemlocatie, onbewaakt",
+          "tag": "Ter plaatse",
+          "title": "Zwemmen"
+        },
+        {
+          "description": "Het toeristenbureau noemt het strand « accessible en fauteuil roulant en autonomie », rolstoeltoegankelijk zonder hulp.",
+          "tag": "Ter plaatse",
+          "title": "Toegankelijkheid"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Het <strong>Lac Saint-Clair</strong> is een natuurlijk meer in de gemeente Détrier, in Savoie.</p><p><strong>Mag je hier zwemmen? Niemand zegt het.</strong> Het meer staat niet bij de 43 aangemelde zwemlocaties in Savoie: geen controle, geen beoordeling, geen badmeester. En geen enkele gelezen officiële bron staat het uitdrukkelijk toe of verbiedt het. Het Parc national de la Vanoise geeft de algemene lijn: « il n'est pas interdit de se baigner… mais cela est fortement déconseillé » — niet verboden, sterk afgeraden. Wij publiceren die stilte in plaats van haar op te vullen.</p><p>Parkeren is gratis. Het toeristenbureau noemt het strand « accessible en fauteuil roulant en autonomie », rolstoeltoegankelijk zonder hulp. Geen regel specifiek voor dit meer gevonden in de gelezen officiële bronnen. Vraag het de gemeente.</p><p>Deze pagina steunt uitsluitend op officiële bronnen: beheerder, gemeente, park, toeristenbureau, nationaal zwemwaterregister. Waar twee ervan elkaar tegenspreken, worden beide gegeven en wordt het verschil gemeld — wij kiezen niet voor u. Waar ze zwijgen, blijft het veld leeg in plaats van geraden.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Geen aangemelde zwemlocatie, onbewaakt",
+        "best_season": null,
+        "commune": "Détrier",
+        "dogs": "Geen regel specifiek voor dit meer gevonden in de gelezen officiële bronnen. Vraag het de gemeente.",
+        "parking": "Parkeren is gratis.",
+        "stroller": "Toegankelijk pad rond het meer",
+        "type": "natuurlijk meer"
+      },
+      "faq": [
+        {
+          "a": "Mag je hier zwemmen? Niemand zegt het. Het meer staat niet bij de 43 aangemelde zwemlocaties in Savoie: geen controle, geen beoordeling, geen badmeester. En geen enkele gelezen officiële bron staat het uitdrukkelijk toe of verbiedt het. Het Parc national de la Vanoise geeft de algemene lijn: « il n'est pas interdit de se baigner… mais cela est fortement déconseillé » — niet verboden, sterk afgeraden. Wij publiceren die stilte in plaats van haar op te vullen.",
+          "q": "Mag je in dit meer zwemmen?"
+        },
+        {
+          "a": "Ja. Geen seizoensgebonden pas sluit de toegang tot dit meer af.",
+          "q": "Is de weg het hele jaar open?"
+        },
+        {
+          "a": "Parkeren is gratis.",
+          "q": "Is parkeren betaald?"
+        },
+        {
+          "a": "Het toeristenbureau noemt het strand « accessible en fauteuil roulant en autonomie », rolstoeltoegankelijk zonder hulp.",
+          "q": "Is de rondwandeling toegankelijk?"
+        },
+        {
+          "a": "Geen regel specifiek voor dit meer gevonden in de gelezen officiële bronnen. Vraag het de gemeente.",
+          "q": "Mag ik mijn hond meenemen?"
+        }
+      ],
+      "hero": {
+        "badge": "Geen aangemelde zwemlocatie, onbewaakt · Détrier",
+        "lead": "Natuurlijk meer bij Détrier, in Savoie. Geen aangemelde zwemlocatie, onbewaakt. Wat de officiële bronnen zeggen — ook waar ze elkaar tegenspreken."
+      },
+      "hero_alt": "Lac Saint-Clair, Détrier, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Gemeente Détrier (73110), in Savoie. Gepubliceerd punt: 45.450938, 6.10121. De POI-categorie is gecontroleerd om een gehucht of stuwdam met dezelfde naam uit te sluiten.",
+        "public_transport": null
+      },
+      "meta_description": "Lac Saint-Clair (Détrier, Savoie): Geen aangemelde zwemlocatie, onbewaakt. Officiële bronnen, afwijkingen gemeld.",
+      "meta_title": "Lac Saint-Clair — Geen aangemelde zwemlocatie, onbewaakt, Détrier",
+      "name": "Lac Saint-Clair",
+      "name_alternates": [
+        "Lac de Saint-Clair"
+      ],
+      "practical_info": [
+        {
+          "k": "Type",
+          "v": "natuurlijk meer"
+        },
+        {
+          "k": "Hoogte",
+          "v": null
+        },
+        {
+          "k": "Oppervlakte",
+          "v": null
+        },
+        {
+          "k": "Zwemmen",
+          "v": "Geen aangemelde zwemlocatie, onbewaakt"
+        },
+        {
+          "k": "Toegangsweg",
+          "v": null
+        },
+        {
+          "k": "Parkeren",
+          "v": "Parkeren is gratis."
+        },
+        {
+          "k": "Toegankelijkheid",
+          "v": "Het toeristenbureau noemt het strand « accessible en fauteuil roulant en autonomie », rolstoeltoegankelijk zonder hulp."
+        }
+      ],
+      "schema_amenities": [
+        "Toegankelijk pad rond het meer",
+        "Gratis parkeren"
+      ],
+      "when_to_visit": "<p>In de zomer, als de oever begaanbaar is. Geen officiële openings- of sluitingsdatum regelt de toegang tot dit meer.</p>"
+    }
+  },
+  "latitude": 45.450938,
+  "longitude": 6.10121,
+  "official_site_url": "https://tourisme.coeurdesavoie.fr/fiches/lac-saint-clair-327130/",
+  "partners": [],
+  "postal_code": "73110",
+  "price_currency": null,
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Recherche du 17 août 2026, sources officielles uniquement. Baignade : registre ARS des 43 sites de baignade en eau douce déclarés en Savoie — listing départemental, jamais une URL par site, un identifiant erroné y renvoyant un HTTP 200 portant « Une erreur inattendue est survenue ». Ouverture et fermeture des routes de col : station, office de tourisme et annonces du Département, citées mot pour mot ; aucune date n'est reprise d'une saison antérieure. Règles du cœur du Parc national de la Vanoise et amende de 135 € : pages du Parc. Coordonnées : géocodeur IGN Géoplateforme, index POI, catégorie du POI vérifiée pour écarter un hameau ou un barrage homonyme. Contradictions signalées, jamais arbitrées.",
+  "schema_org": {
+    "amenities": [
+      "Sentier accessible autour du lac",
+      "Parking gratuit"
+    ],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "lac-saint-clair-detrier",
+  "sources": [
+    "https://tourisme.coeurdesavoie.fr/fiches/lac-saint-clair-327130/",
+    "https://baignades.sante.gouv.fr/baignades/genererPDF.do?gen=yes&am1=checkbox&am2=checkbox&am3=checkbox&am4=checkbox&selDpt=073&selEau=DOUCE&image.x=33&image.y=2"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "COMMUNE CONTESTÉE — l'IGN situe le plan d'eau à Détrier (73110) ; la fiche de l'office de tourisme Cœur de Savoie l'annonce à Valgelon-La Rochette, propriétaire du site depuis 1970. Nous retenons la commune d'implantation donnée par l'IGN et signalons l'autre.",
+    "ALTITUDE, SUPERFICIE, PROFONDEUR — aucune source officielle ne les publie. Laissées nulles plutôt que reprises d'une encyclopédie collaborative.",
+    "NE PAS CONFONDRE avec le Lac Saint-André, à Porte-de-Savoie, qui est un autre plan d'eau et fait l'objet de sa propre fiche.",
+    "BAIGNADE NON DÉCLARÉE — ce lac ne figure pas parmi les 43 sites de baignade en eau douce déclarés en Savoie au registre ARS. Il n'y a donc aucun suivi sanitaire officiel de la qualité de l'eau, et aucun classement à citer. C'est un fait vérifiable, pas une interdiction : les deux se disent séparément.",
+    "COORDONNÉES — POI IGN « Lac de Saint-Clair », catégorie lac / plan d'eau, commune Détrier 73110."
+  ]
+}

@@ -1,0 +1,635 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-17",
+    "confidence": null,
+    "detail": "Aucune source officielle consultée ne décrit l'accessibilité du site.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_name": "OT du Beaufortain",
+    "source_url": "https://www.lebeaufortain.com/fiches/barrage-et-site-de-roselend-2/",
+    "status": null,
+    "tourisme_handicap": []
+  },
+  "category": "lac",
+  "commune": "Beaufort",
+  "date_modified_human": "17 août 2026",
+  "date_published_human": "17 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-17",
+    "method": "Recherche du 17 août 2026, sources officielles uniquement. Baignade : registre ARS des 43 sites de baignade en eau douce déclarés en Savoie — listing départemental, jamais une URL par site, un identifiant erroné y renvoyant un HTTP 200 portant « Une erreur inattendue est survenue ». Ouverture et fermeture des routes de col : station, office de tourisme et annonces du Département, citées mot pour mot ; aucune date n'est reprise d'une saison antérieure. Règles du cœur du Parc national de la Vanoise et amende de 135 € : pages du Parc. Coordonnées : géocodeur IGN Géoplateforme, index POI, catégorie du POI vérifiée pour écarter un hameau ou un barrage homonyme. Contradictions signalées, jamais arbitrées."
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-point-de-vue.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Baden verboten — Attention la baignade et toute activité nautique en autonomie sur le lac de Roselend, sont strictement interdites.",
+          "tag": "Vor Ort",
+          "title": "Baden"
+        },
+        {
+          "description": "Zufahrt über die RD 925 und RD 902 und den Cormet de Roselend (1 968 m). Für 2026 angekündigte Wiedereröffnung: 22. Mai 2026 um 18 Uhr.",
+          "tag": "Vor Ort",
+          "title": "Zufahrtsstraße"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Der <strong>Lac de Roselend</strong> ist ein Stausee in der Gemeinde Beaufort in Savoie, auf 1 557 m Höhe. Er umfasst 3,2 km² (320 ha) und ist bis zu 130 m tief.</p><p><strong>Darf man hier baden? Nein.</strong> Das Baden ist untersagt, und die Regel ist veröffentlicht: « Attention la baignade et toute activité nautique en autonomie sur le lac de Roselend, sont strictement interdites. » Der See gehört zudem nicht zu den 43 gemeldeten Badestellen in Savoie — es wird hier keine Wasserqualität überwacht.</p><p><strong>Die Straße ist im Winter gesperrt.</strong> Der Zugang führt über die RD 925 und RD 902 und den Cormet de Roselend (1 968 m). Für 2026 wurde die Wiedereröffnung zum <strong>22. Mai 2026 um 18 Uhr</strong> angekündigt. Das Schließdatum 2026/2027 ist noch nicht veröffentlicht; wir verwenden das des Vorjahres nicht. Prüfen Sie die Straßenlage vor der Abfahrt: diese Daten hängen vom Schnee ab.</p><p>Ein Parkplatz ist vorhanden; ein Tarif ist nicht veröffentlicht, und wir leiten keinen ab. Keine offizielle Quelle sagt hier etwas zur Barrierefreiheit: weder zugänglich noch unzugänglich — unbekannt. In den gelesenen offiziellen Quellen wurde keine seespezifische Regel gefunden. Fragen Sie die Gemeinde.</p><p>Diese Seite stützt sich ausschließlich auf offizielle Quellen: Betreiber, Gemeinde, Park, Tourismusbüro, nationales Badegewässerregister. Wo zwei davon einander widersprechen, werden beide genannt und die Differenz gekennzeichnet — wir entscheiden nicht für Sie. Wo sie schweigen, bleibt das Feld leer statt geraten.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Baden verboten",
+        "best_season": "22. Mai 2026 um 18 Uhr",
+        "commune": "Beaufort",
+        "dogs": "In den gelesenen offiziellen Quellen wurde keine seespezifische Regel gefunden. Fragen Sie die Gemeinde.",
+        "parking": "Ein Parkplatz ist vorhanden; ein Tarif ist nicht veröffentlicht, und wir leiten keinen ab.",
+        "stroller": null,
+        "type": "Stausee"
+      },
+      "faq": [
+        {
+          "a": "Darf man hier baden? Nein. Das Baden ist untersagt, und die Regel ist veröffentlicht: « Attention la baignade et toute activité nautique en autonomie sur le lac de Roselend, sont strictement interdites. » Der See gehört zudem nicht zu den 43 gemeldeten Badestellen in Savoie — es wird hier keine Wasserqualität überwacht.",
+          "q": "Darf man in diesem See baden?"
+        },
+        {
+          "a": "Die Straße ist im Winter gesperrt. Der Zugang führt über die RD 925 und RD 902 und den Cormet de Roselend (1 968 m). Für 2026 wurde die Wiedereröffnung zum 22. Mai 2026 um 18 Uhr angekündigt. Das Schließdatum 2026/2027 ist noch nicht veröffentlicht; wir verwenden das des Vorjahres nicht. Prüfen Sie die Straßenlage vor der Abfahrt: diese Daten hängen vom Schnee ab.",
+          "q": "Ist die Straße ganzjährig offen?"
+        },
+        {
+          "a": "Ein Parkplatz ist vorhanden; ein Tarif ist nicht veröffentlicht, und wir leiten keinen ab.",
+          "q": "Ist das Parken kostenpflichtig?"
+        },
+        {
+          "a": "Keine offizielle Quelle sagt hier etwas zur Barrierefreiheit: weder zugänglich noch unzugänglich — unbekannt.",
+          "q": "Ist der Rundweg barrierefrei?"
+        },
+        {
+          "a": "In den gelesenen offiziellen Quellen wurde keine seespezifische Regel gefunden. Fragen Sie die Gemeinde.",
+          "q": "Darf ich meinen Hund mitbringen?"
+        }
+      ],
+      "hero": {
+        "badge": "1 557 m · Beaufort",
+        "lead": "Stausee bei Beaufort in Savoie. Baden verboten. Was die offiziellen Quellen sagen — auch dort, wo sie sich widersprechen."
+      },
+      "hero_alt": "Lac de Roselend, Beaufort, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Gemeinde Beaufort (73270) in Savoie. Veröffentlichter Punkt: 45.685071, 6.632732. Die POI-Kategorie wurde geprüft, um einen gleichnamigen Weiler oder Staudamm auszuschließen.",
+        "public_transport": null
+      },
+      "meta_description": "Lac de Roselend (Beaufort, Savoie), 1 557 m: Baden verboten. Offizielle Quellen, Abweichungen gekennzeichnet.",
+      "meta_title": "Lac de Roselend — Baden verboten, Beaufort",
+      "name": "Lac de Roselend",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Typ",
+          "v": "Stausee"
+        },
+        {
+          "k": "Höhe",
+          "v": "1 557 m"
+        },
+        {
+          "k": "Fläche",
+          "v": "3,2 km² (320 ha)"
+        },
+        {
+          "k": "Baden",
+          "v": "Baden verboten"
+        },
+        {
+          "k": "Zufahrtsstraße",
+          "v": "RD 925 und RD 902 — Cormet de Roselend"
+        },
+        {
+          "k": "Parken",
+          "v": "Ein Parkplatz ist vorhanden; ein Tarif ist nicht veröffentlicht, und wir leiten keinen ab."
+        },
+        {
+          "k": "Barrierefreiheit",
+          "v": "Keine offizielle Quelle sagt hier etwas zur Barrierefreiheit: weder zugänglich noch unzugänglich — unbekannt."
+        }
+      ],
+      "schema_amenities": [],
+      "when_to_visit": "<p>Wenn die Straße offen ist — Wiedereröffnung 2026 zum 22. Mai 2026 um 18 Uhr angekündigt. Außerhalb dieses Zeitfensters gibt es keine Straßenverbindung.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "Swimming forbidden — Attention la baignade et toute activité nautique en autonomie sur le lac de Roselend, sont strictement interdites.",
+          "tag": "On site",
+          "title": "Swimming"
+        },
+        {
+          "description": "Reached by the RD 925 and RD 902, which crosses the Cormet de Roselend (1 968 m). Reopening announced for 2026: 22 May 2026 at 18:00.",
+          "tag": "On site",
+          "title": "Access road"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Lac de Roselend</strong> is a dammed reservoir in the commune of Beaufort, Savoie, at 1 557 m. It covers 3,2 km² (320 ha) and reaches 130 m deep.</p><p><strong>Can you swim here? No.</strong> Swimming is forbidden and the rule is published: « Attention la baignade et toute activité nautique en autonomie sur le lac de Roselend, sont strictement interdites. » The lake is also absent from the 43 declared bathing sites in Savoie, so no water quality is monitored here.</p><p><strong>The road shuts for winter.</strong> Access is by the RD 925 and RD 902, which crosses the Cormet de Roselend (1 968 m). For 2026 the reopening was announced for <strong>22 May 2026 at 18:00</strong>. The 2026-2027 closing date is not published yet, and we do not recycle last year's. Check the road before you set out: these dates depend on the snow.</p><p>There is a car park on site; no rate is published and we do not infer one. No official source says anything about accessibility here: neither accessible nor inaccessible — unknown. No rule specific to this lake was found in the official sources read. Ask the commune.</p><p>This page is built on official sources and nothing else: the site's manager, the commune, the park, the tourist office, the national bathing-water register. Where two of them contradict each other, both are given and the gap is flagged — we do not choose for you. Where they are silent, the field stays empty rather than guessed.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Swimming forbidden",
+        "best_season": "22 May 2026 at 18:00",
+        "commune": "Beaufort",
+        "dogs": "No rule specific to this lake was found in the official sources read. Ask the commune.",
+        "parking": "There is a car park on site; no rate is published and we do not infer one.",
+        "stroller": null,
+        "type": "dammed reservoir"
+      },
+      "faq": [
+        {
+          "a": "Can you swim here? No. Swimming is forbidden and the rule is published: « Attention la baignade et toute activité nautique en autonomie sur le lac de Roselend, sont strictement interdites. » The lake is also absent from the 43 declared bathing sites in Savoie, so no water quality is monitored here.",
+          "q": "Can you swim in this lake?"
+        },
+        {
+          "a": "The road shuts for winter. Access is by the RD 925 and RD 902, which crosses the Cormet de Roselend (1 968 m). For 2026 the reopening was announced for 22 May 2026 at 18:00. The 2026-2027 closing date is not published yet, and we do not recycle last year's. Check the road before you set out: these dates depend on the snow.",
+          "q": "Is the road open all year?"
+        },
+        {
+          "a": "There is a car park on site; no rate is published and we do not infer one.",
+          "q": "Is parking paid?"
+        },
+        {
+          "a": "No official source says anything about accessibility here: neither accessible nor inaccessible — unknown.",
+          "q": "Is the lake circuit accessible?"
+        },
+        {
+          "a": "No rule specific to this lake was found in the official sources read. Ask the commune.",
+          "q": "Can I bring my dog?"
+        }
+      ],
+      "hero": {
+        "badge": "1 557 m · Beaufort",
+        "lead": "Dammed reservoir at Beaufort, Savoie. Swimming forbidden. What the official sources say — including where they contradict each other."
+      },
+      "hero_alt": "Lac de Roselend, Beaufort, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Commune of Beaufort (73270), Savoie. Published point: 45.685071, 6.632732. The POI category was checked to rule out a hamlet or a dam sharing the name.",
+        "public_transport": null
+      },
+      "meta_description": "Lac de Roselend (Beaufort, Savoie), 1 557 m: Swimming forbidden. Official sources, discrepancies flagged.",
+      "meta_title": "Lac de Roselend — Swimming forbidden, Beaufort",
+      "name": "Lac de Roselend",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Type",
+          "v": "dammed reservoir"
+        },
+        {
+          "k": "Altitude",
+          "v": "1 557 m"
+        },
+        {
+          "k": "Surface area",
+          "v": "3,2 km² (320 ha)"
+        },
+        {
+          "k": "Swimming",
+          "v": "Swimming forbidden"
+        },
+        {
+          "k": "Access road",
+          "v": "RD 925 and RD 902 — Cormet de Roselend"
+        },
+        {
+          "k": "Parking",
+          "v": "There is a car park on site; no rate is published and we do not infer one."
+        },
+        {
+          "k": "Accessibility",
+          "v": "No official source says anything about accessibility here: neither accessible nor inaccessible — unknown."
+        }
+      ],
+      "schema_amenities": [],
+      "when_to_visit": "<p>When the road is open — 2026 reopening announced for 22 May 2026 at 18:00. Outside that window there is no road access.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "Baño prohibido — Attention la baignade et toute activité nautique en autonomie sur le lac de Roselend, sont strictement interdites.",
+          "tag": "En el sitio",
+          "title": "Baño"
+        },
+        {
+          "description": "Se accede por la RD 925 y RD 902, que cruza el Cormet de Roselend (1 968 m). Reapertura anunciada para 2026: 22 de mayo de 2026 a las 18:00.",
+          "tag": "En el sitio",
+          "title": "Carretera de acceso"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>Lac de Roselend</strong> es un embalse en el municipio de Beaufort, en Savoie, a 1 557 m de altitud. Cubre 3,2 km² (320 ha) y alcanza 130 m de profundidad.</p><p><strong>¿Se puede bañar aquí? No.</strong> El baño está prohibido y la norma está publicada: « Attention la baignade et toute activité nautique en autonomie sur le lac de Roselend, sont strictement interdites. » El lago tampoco figura entre los 43 sitios de baño declarados en Savoie: no se controla ninguna calidad del agua.</p><p><strong>La carretera cierra en invierno.</strong> Se accede por la RD 925 y RD 902, que cruza el Cormet de Roselend (1 968 m). Para 2026 la reapertura se anunció el <strong>22 de mayo de 2026 a las 18:00</strong>. La fecha de cierre 2026-2027 aún no está publicada: no reciclamos la del año pasado. Compruebe el estado de la carretera antes de salir: estas fechas dependen de la nieve.</p><p>Hay un aparcamiento en el sitio; no se publica tarifa y no la deducimos. Ninguna fuente oficial dice nada sobre la accesibilidad: ni accesible ni inaccesible — se desconoce. No se encontró ninguna norma propia de este lago en las fuentes oficiales consultadas. Consulte al municipio.</p><p>Esta página se basa únicamente en fuentes oficiales: gestor, municipio, parque, oficina de turismo, registro sanitario nacional. Donde dos de ellas se contradicen, se dan ambas y se señala la diferencia — no elegimos por usted. Donde callan, el dato queda vacío en lugar de adivinado.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Baño prohibido",
+        "best_season": "22 de mayo de 2026 a las 18:00",
+        "commune": "Beaufort",
+        "dogs": "No se encontró ninguna norma propia de este lago en las fuentes oficiales consultadas. Consulte al municipio.",
+        "parking": "Hay un aparcamiento en el sitio; no se publica tarifa y no la deducimos.",
+        "stroller": null,
+        "type": "embalse"
+      },
+      "faq": [
+        {
+          "a": "¿Se puede bañar aquí? No. El baño está prohibido y la norma está publicada: « Attention la baignade et toute activité nautique en autonomie sur le lac de Roselend, sont strictement interdites. » El lago tampoco figura entre los 43 sitios de baño declarados en Savoie: no se controla ninguna calidad del agua.",
+          "q": "¿Se puede bañar en este lago?"
+        },
+        {
+          "a": "La carretera cierra en invierno. Se accede por la RD 925 y RD 902, que cruza el Cormet de Roselend (1 968 m). Para 2026 la reapertura se anunció el 22 de mayo de 2026 a las 18:00. La fecha de cierre 2026-2027 aún no está publicada: no reciclamos la del año pasado. Compruebe el estado de la carretera antes de salir: estas fechas dependen de la nieve.",
+          "q": "¿La carretera está abierta todo el año?"
+        },
+        {
+          "a": "Hay un aparcamiento en el sitio; no se publica tarifa y no la deducimos.",
+          "q": "¿El aparcamiento es de pago?"
+        },
+        {
+          "a": "Ninguna fuente oficial dice nada sobre la accesibilidad: ni accesible ni inaccesible — se desconoce.",
+          "q": "¿La vuelta al lago es accesible?"
+        },
+        {
+          "a": "No se encontró ninguna norma propia de este lago en las fuentes oficiales consultadas. Consulte al municipio.",
+          "q": "¿Puedo traer a mi perro?"
+        }
+      ],
+      "hero": {
+        "badge": "1 557 m · Beaufort",
+        "lead": "Embalse en Beaufort, Savoie. Baño prohibido. Lo que dicen las fuentes oficiales, incluso cuando se contradicen."
+      },
+      "hero_alt": "Lac de Roselend, Beaufort, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Municipio de Beaufort (73270), en Savoie. Punto publicado: 45.685071, 6.632732. Se verificó la categoría del POI para descartar una aldea o una presa del mismo nombre.",
+        "public_transport": null
+      },
+      "meta_description": "Lac de Roselend (Beaufort, Savoie), 1 557 m: Baño prohibido. Fuentes oficiales, discrepancias señaladas.",
+      "meta_title": "Lac de Roselend — Baño prohibido, Beaufort",
+      "name": "Lac de Roselend",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Tipo",
+          "v": "embalse"
+        },
+        {
+          "k": "Altitud",
+          "v": "1 557 m"
+        },
+        {
+          "k": "Superficie",
+          "v": "3,2 km² (320 ha)"
+        },
+        {
+          "k": "Baño",
+          "v": "Baño prohibido"
+        },
+        {
+          "k": "Carretera de acceso",
+          "v": "RD 925 y RD 902 — Cormet de Roselend"
+        },
+        {
+          "k": "Aparcamiento",
+          "v": "Hay un aparcamiento en el sitio; no se publica tarifa y no la deducimos."
+        },
+        {
+          "k": "Accesibilidad",
+          "v": "Ninguna fuente oficial dice nada sobre la accesibilidad: ni accesible ni inaccesible — se desconoce."
+        }
+      ],
+      "schema_amenities": [],
+      "when_to_visit": "<p>Cuando la carretera está abierta — reapertura 2026 anunciada el 22 de mayo de 2026 a las 18:00. Fuera de esa ventana no hay acceso por carretera.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Baignade interdite — Attention la baignade et toute activité nautique en autonomie sur le lac de Roselend, sont strictement interdites.",
+          "tag": "Sur place",
+          "title": "Baignade"
+        },
+        {
+          "description": "Accès par la RD 925 et RD 902, qui franchit le Cormet de Roselend (1 968 m). Réouverture annoncée pour 2026 : 22 mai 2026 à 18h.",
+          "tag": "Sur place",
+          "title": "Route d'accès"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Le <strong>Lac de Roselend</strong> est un retenue de barrage situé sur la commune de Beaufort, en Savoie, à 1 557 m d'altitude. Il couvre 3,2 km² (320 ha) et descend à 130 m.</p><p><strong>Peut-on s'y baigner ? Non.</strong> La baignade y est interdite, et la règle est publiée : « Attention la baignade et toute activité nautique en autonomie sur le lac de Roselend, sont strictement interdites. » Ce lac ne figure par ailleurs pas parmi les 43 sites de baignade déclarés en Savoie : aucune qualité d'eau n'y est suivie.</p><p><strong>La route ferme l'hiver.</strong> On y accède par la RD 925 et RD 902, qui franchit le Cormet de Roselend (1 968 m). Pour 2026, la réouverture a été annoncée le <strong>22 mai 2026 à 18h</strong>. La date de fermeture 2026-2027 n'est pas publiée à ce jour : nous ne recyclons pas celle de l'an dernier. Vérifiez l'état de la route avant de partir : ces dates dépendent de la neige.</p><p>Un parking existe sur place ; aucun tarif n'est publié, et nous ne le déduisons pas. Aucune source officielle ne dit quoi que ce soit de l'accessibilité : ni accessible, ni non accessible — inconnu. Aucune règle propre à ce lac n'a été trouvée dans les sources officielles consultées. Renseignez-vous auprès de la commune.</p><p>Cette page est bâtie sur les sources officielles et sur elles seules : gestionnaire, commune, parc, office de tourisme, registre sanitaire national. Là où deux d'entre elles se contredisent, les deux sont données et l'écart est signalé — nous ne choisissons pas à votre place. Là où elles se taisent, la donnée reste vide plutôt que devinée.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Baignade interdite",
+        "best_season": "22 mai 2026 à 18h",
+        "commune": "Beaufort",
+        "dogs": "Aucune règle propre à ce lac n'a été trouvée dans les sources officielles consultées. Renseignez-vous auprès de la commune.",
+        "parking": "Un parking existe sur place ; aucun tarif n'est publié, et nous ne le déduisons pas.",
+        "stroller": null,
+        "type": "retenue de barrage"
+      },
+      "faq": [
+        {
+          "a": "Peut-on s'y baigner ? Non. La baignade y est interdite, et la règle est publiée : « Attention la baignade et toute activité nautique en autonomie sur le lac de Roselend, sont strictement interdites. » Ce lac ne figure par ailleurs pas parmi les 43 sites de baignade déclarés en Savoie : aucune qualité d'eau n'y est suivie.",
+          "q": "Peut-on se baigner dans ce lac ?"
+        },
+        {
+          "a": "La route ferme l'hiver. On y accède par la RD 925 et RD 902, qui franchit le Cormet de Roselend (1 968 m). Pour 2026, la réouverture a été annoncée le 22 mai 2026 à 18h. La date de fermeture 2026-2027 n'est pas publiée à ce jour : nous ne recyclons pas celle de l'an dernier. Vérifiez l'état de la route avant de partir : ces dates dépendent de la neige.",
+          "q": "La route est-elle ouverte toute l'année ?"
+        },
+        {
+          "a": "Un parking existe sur place ; aucun tarif n'est publié, et nous ne le déduisons pas.",
+          "q": "Le stationnement est-il payant ?"
+        },
+        {
+          "a": "Aucune source officielle ne dit quoi que ce soit de l'accessibilité : ni accessible, ni non accessible — inconnu.",
+          "q": "Le tour du lac est-il accessible ?"
+        },
+        {
+          "a": "Aucune règle propre à ce lac n'a été trouvée dans les sources officielles consultées. Renseignez-vous auprès de la commune.",
+          "q": "Puis-je venir avec mon chien ?"
+        }
+      ],
+      "hero": {
+        "badge": "1 557 m · Beaufort",
+        "lead": "Retenue de barrage à Beaufort, en Savoie. Baignade interdite. Ce que disent les sources officielles, y compris quand elles se contredisent."
+      },
+      "hero_alt": "Lac de Roselend, Beaufort, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Commune de Beaufort (73270), en Savoie. Point publié : 45.685071, 6.632732. La catégorie du POI a été vérifiée pour écarter un hameau ou un barrage portant le même nom.",
+        "public_transport": null
+      },
+      "meta_description": "Lac de Roselend (Beaufort, Savoie), 1 557 m : Baignade interdite. Sources officielles, contradictions signalées.",
+      "meta_title": "Lac de Roselend — Baignade interdite, Beaufort",
+      "name": "Lac de Roselend",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Type",
+          "v": "retenue de barrage"
+        },
+        {
+          "k": "Altitude",
+          "v": "1 557 m"
+        },
+        {
+          "k": "Superficie",
+          "v": "3,2 km² (320 ha)"
+        },
+        {
+          "k": "Baignade",
+          "v": "Baignade interdite"
+        },
+        {
+          "k": "Route d'accès",
+          "v": "RD 925 et RD 902 — Cormet de Roselend"
+        },
+        {
+          "k": "Stationnement",
+          "v": "Un parking existe sur place ; aucun tarif n'est publié, et nous ne le déduisons pas."
+        },
+        {
+          "k": "Accessibilité",
+          "v": "Aucune source officielle ne dit quoi que ce soit de l'accessibilité : ni accessible, ni non accessible — inconnu."
+        }
+      ],
+      "schema_amenities": [],
+      "when_to_visit": "<p>Quand la route est ouverte — réouverture annoncée le 22 mai 2026 à 18h en 2026. Hors de cette fenêtre, l'accès routier n'existe pas.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Balneazione vietata — Attention la baignade et toute activité nautique en autonomie sur le lac de Roselend, sont strictement interdites.",
+          "tag": "In loco",
+          "title": "Balneazione"
+        },
+        {
+          "description": "Si arriva dalla RD 925 e RD 902, che valica il Cormet de Roselend (1 968 m). Riapertura annunciata per il 2026: 22 maggio 2026 alle 18.",
+          "tag": "In loco",
+          "title": "Strada d'accesso"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Il <strong>Lac de Roselend</strong> è un bacino artificiale nel comune di Beaufort, in Savoie, a 1 557 m di quota. Copre 3,2 km² (320 ha) e scende a 130 m.</p><p><strong>Ci si può fare il bagno? No.</strong> La balneazione è vietata e la regola è pubblicata: « Attention la baignade et toute activité nautique en autonomie sur le lac de Roselend, sont strictement interdites. » Il lago non figura inoltre tra i 43 siti di balneazione dichiarati in Savoie: nessuna qualità dell'acqua vi è monitorata.</p><p><strong>La strada chiude in inverno.</strong> Si arriva dalla RD 925 e RD 902, che valica il Cormet de Roselend (1 968 m). Per il 2026 la riapertura è stata annunciata il <strong>22 maggio 2026 alle 18</strong>. La data di chiusura 2026-2027 non è ancora pubblicata: non ricicliamo quella dell'anno scorso. Verificate lo stato della strada prima di partire: queste date dipendono dalla neve.</p><p>Un parcheggio esiste in loco; nessuna tariffa è pubblicata e non la deduciamo. Nessuna fonte ufficiale dice nulla sull'accessibilità: né accessibile né inaccessibile — sconosciuto. Nessuna regola specifica per questo lago nelle fonti ufficiali consultate. Informatevi presso il comune.</p><p>Questa pagina si basa solo su fonti ufficiali: gestore, comune, parco, ufficio del turismo, registro sanitario nazionale. Dove due di esse si contraddicono, entrambe sono riportate e lo scarto è segnalato — non scegliamo al posto vostro. Dove tacciono, il dato resta vuoto anziché indovinato.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Balneazione vietata",
+        "best_season": "22 maggio 2026 alle 18",
+        "commune": "Beaufort",
+        "dogs": "Nessuna regola specifica per questo lago nelle fonti ufficiali consultate. Informatevi presso il comune.",
+        "parking": "Un parcheggio esiste in loco; nessuna tariffa è pubblicata e non la deduciamo.",
+        "stroller": null,
+        "type": "bacino artificiale"
+      },
+      "faq": [
+        {
+          "a": "Ci si può fare il bagno? No. La balneazione è vietata e la regola è pubblicata: « Attention la baignade et toute activité nautique en autonomie sur le lac de Roselend, sont strictement interdites. » Il lago non figura inoltre tra i 43 siti di balneazione dichiarati in Savoie: nessuna qualità dell'acqua vi è monitorata.",
+          "q": "Ci si può fare il bagno in questo lago?"
+        },
+        {
+          "a": "La strada chiude in inverno. Si arriva dalla RD 925 e RD 902, che valica il Cormet de Roselend (1 968 m). Per il 2026 la riapertura è stata annunciata il 22 maggio 2026 alle 18. La data di chiusura 2026-2027 non è ancora pubblicata: non ricicliamo quella dell'anno scorso. Verificate lo stato della strada prima di partire: queste date dipendono dalla neve.",
+          "q": "La strada è aperta tutto l'anno?"
+        },
+        {
+          "a": "Un parcheggio esiste in loco; nessuna tariffa è pubblicata e non la deduciamo.",
+          "q": "Il parcheggio è a pagamento?"
+        },
+        {
+          "a": "Nessuna fonte ufficiale dice nulla sull'accessibilità: né accessibile né inaccessibile — sconosciuto.",
+          "q": "Il giro del lago è accessibile?"
+        },
+        {
+          "a": "Nessuna regola specifica per questo lago nelle fonti ufficiali consultate. Informatevi presso il comune.",
+          "q": "Posso venire con il cane?"
+        }
+      ],
+      "hero": {
+        "badge": "1 557 m · Beaufort",
+        "lead": "Bacino artificiale a Beaufort, in Savoie. Balneazione vietata. Ciò che dicono le fonti ufficiali, anche quando si contraddicono."
+      },
+      "hero_alt": "Lac de Roselend, Beaufort, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Comune di Beaufort (73270), in Savoie. Punto pubblicato: 45.685071, 6.632732. La categoria del POI è stata verificata per escludere una frazione o una diga omonima.",
+        "public_transport": null
+      },
+      "meta_description": "Lac de Roselend (Beaufort, Savoie), 1 557 m: Balneazione vietata. Fonti ufficiali, discordanze segnalate.",
+      "meta_title": "Lac de Roselend — Balneazione vietata, Beaufort",
+      "name": "Lac de Roselend",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Tipo",
+          "v": "bacino artificiale"
+        },
+        {
+          "k": "Altitudine",
+          "v": "1 557 m"
+        },
+        {
+          "k": "Superficie",
+          "v": "3,2 km² (320 ha)"
+        },
+        {
+          "k": "Balneazione",
+          "v": "Balneazione vietata"
+        },
+        {
+          "k": "Strada d'accesso",
+          "v": "RD 925 e RD 902 — Cormet de Roselend"
+        },
+        {
+          "k": "Parcheggio",
+          "v": "Un parcheggio esiste in loco; nessuna tariffa è pubblicata e non la deduciamo."
+        },
+        {
+          "k": "Accessibilità",
+          "v": "Nessuna fonte ufficiale dice nulla sull'accessibilità: né accessibile né inaccessibile — sconosciuto."
+        }
+      ],
+      "schema_amenities": [],
+      "when_to_visit": "<p>Quando la strada è aperta — riapertura 2026 annunciata il 22 maggio 2026 alle 18. Fuori da questa finestra non esiste accesso stradale.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Zwemmen verboden — Attention la baignade et toute activité nautique en autonomie sur le lac de Roselend, sont strictement interdites.",
+          "tag": "Ter plaatse",
+          "title": "Zwemmen"
+        },
+        {
+          "description": "Bereikbaar via de RD 925 en RD 902, over de Cormet de Roselend (1 968 m). Aangekondigde heropening voor 2026: 22 mei 2026 om 18.00 uur.",
+          "tag": "Ter plaatse",
+          "title": "Toegangsweg"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Het <strong>Lac de Roselend</strong> is een stuwmeer in de gemeente Beaufort, in Savoie, op 1 557 m hoogte. Het beslaat 3,2 km² (320 ha) en is tot 130 m diep.</p><p><strong>Mag je hier zwemmen? Nee.</strong> Zwemmen is verboden en de regel is gepubliceerd: « Attention la baignade et toute activité nautique en autonomie sur le lac de Roselend, sont strictement interdites. » Het meer staat bovendien niet bij de 43 aangemelde zwemlocaties in Savoie: er wordt hier geen waterkwaliteit gemeten.</p><p><strong>De weg gaat 's winters dicht.</strong> De toegang loopt via de RD 925 en RD 902, over de Cormet de Roselend (1 968 m). Voor 2026 werd de heropening aangekondigd op <strong>22 mei 2026 om 18.00 uur</strong>. De sluitingsdatum 2026-2027 is nog niet gepubliceerd; wij hergebruiken die van vorig jaar niet. Controleer de weg voor vertrek: deze data hangen van de sneeuw af.</p><p>Er is een parkeerplaats; geen tarief gepubliceerd, en wij leiden er geen af. Geen enkele officiële bron zegt iets over de toegankelijkheid: niet toegankelijk, niet ontoegankelijk — onbekend. Geen regel specifiek voor dit meer gevonden in de gelezen officiële bronnen. Vraag het de gemeente.</p><p>Deze pagina steunt uitsluitend op officiële bronnen: beheerder, gemeente, park, toeristenbureau, nationaal zwemwaterregister. Waar twee ervan elkaar tegenspreken, worden beide gegeven en wordt het verschil gemeld — wij kiezen niet voor u. Waar ze zwijgen, blijft het veld leeg in plaats van geraden.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Zwemmen verboden",
+        "best_season": "22 mei 2026 om 18.00 uur",
+        "commune": "Beaufort",
+        "dogs": "Geen regel specifiek voor dit meer gevonden in de gelezen officiële bronnen. Vraag het de gemeente.",
+        "parking": "Er is een parkeerplaats; geen tarief gepubliceerd, en wij leiden er geen af.",
+        "stroller": null,
+        "type": "stuwmeer"
+      },
+      "faq": [
+        {
+          "a": "Mag je hier zwemmen? Nee. Zwemmen is verboden en de regel is gepubliceerd: « Attention la baignade et toute activité nautique en autonomie sur le lac de Roselend, sont strictement interdites. » Het meer staat bovendien niet bij de 43 aangemelde zwemlocaties in Savoie: er wordt hier geen waterkwaliteit gemeten.",
+          "q": "Mag je in dit meer zwemmen?"
+        },
+        {
+          "a": "De weg gaat 's winters dicht. De toegang loopt via de RD 925 en RD 902, over de Cormet de Roselend (1 968 m). Voor 2026 werd de heropening aangekondigd op 22 mei 2026 om 18.00 uur. De sluitingsdatum 2026-2027 is nog niet gepubliceerd; wij hergebruiken die van vorig jaar niet. Controleer de weg voor vertrek: deze data hangen van de sneeuw af.",
+          "q": "Is de weg het hele jaar open?"
+        },
+        {
+          "a": "Er is een parkeerplaats; geen tarief gepubliceerd, en wij leiden er geen af.",
+          "q": "Is parkeren betaald?"
+        },
+        {
+          "a": "Geen enkele officiële bron zegt iets over de toegankelijkheid: niet toegankelijk, niet ontoegankelijk — onbekend.",
+          "q": "Is de rondwandeling toegankelijk?"
+        },
+        {
+          "a": "Geen regel specifiek voor dit meer gevonden in de gelezen officiële bronnen. Vraag het de gemeente.",
+          "q": "Mag ik mijn hond meenemen?"
+        }
+      ],
+      "hero": {
+        "badge": "1 557 m · Beaufort",
+        "lead": "Stuwmeer bij Beaufort, in Savoie. Zwemmen verboden. Wat de officiële bronnen zeggen — ook waar ze elkaar tegenspreken."
+      },
+      "hero_alt": "Lac de Roselend, Beaufort, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Gemeente Beaufort (73270), in Savoie. Gepubliceerd punt: 45.685071, 6.632732. De POI-categorie is gecontroleerd om een gehucht of stuwdam met dezelfde naam uit te sluiten.",
+        "public_transport": null
+      },
+      "meta_description": "Lac de Roselend (Beaufort, Savoie), 1 557 m: Zwemmen verboden. Officiële bronnen, afwijkingen gemeld.",
+      "meta_title": "Lac de Roselend — Zwemmen verboden, Beaufort",
+      "name": "Lac de Roselend",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Type",
+          "v": "stuwmeer"
+        },
+        {
+          "k": "Hoogte",
+          "v": "1 557 m"
+        },
+        {
+          "k": "Oppervlakte",
+          "v": "3,2 km² (320 ha)"
+        },
+        {
+          "k": "Zwemmen",
+          "v": "Zwemmen verboden"
+        },
+        {
+          "k": "Toegangsweg",
+          "v": "RD 925 en RD 902 — Cormet de Roselend"
+        },
+        {
+          "k": "Parkeren",
+          "v": "Er is een parkeerplaats; geen tarief gepubliceerd, en wij leiden er geen af."
+        },
+        {
+          "k": "Toegankelijkheid",
+          "v": "Geen enkele officiële bron zegt iets over de toegankelijkheid: niet toegankelijk, niet ontoegankelijk — onbekend."
+        }
+      ],
+      "schema_amenities": [],
+      "when_to_visit": "<p>Wanneer de weg open is — heropening 2026 aangekondigd op 22 mei 2026 om 18.00 uur. Buiten dat venster is er geen wegverbinding.</p>"
+    }
+  },
+  "latitude": 45.685071,
+  "longitude": 6.632732,
+  "official_site_url": "https://www.lebeaufortain.com/fiches/barrage-et-site-de-roselend-2/",
+  "partners": [],
+  "postal_code": "73270",
+  "price_currency": null,
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Recherche du 17 août 2026, sources officielles uniquement. Baignade : registre ARS des 43 sites de baignade en eau douce déclarés en Savoie — listing départemental, jamais une URL par site, un identifiant erroné y renvoyant un HTTP 200 portant « Une erreur inattendue est survenue ». Ouverture et fermeture des routes de col : station, office de tourisme et annonces du Département, citées mot pour mot ; aucune date n'est reprise d'une saison antérieure. Règles du cœur du Parc national de la Vanoise et amende de 135 € : pages du Parc. Coordonnées : géocodeur IGN Géoplateforme, index POI, catégorie du POI vérifiée pour écarter un hameau ou un barrage homonyme. Contradictions signalées, jamais arbitrées.",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "lac-de-roselend",
+  "sources": [
+    "https://www.lebeaufortain.com/fiches/barrage-et-site-de-roselend-2/",
+    "https://www.odsradio.com/news/locales/109194/ouverture-du-cormet-de-roselend-ce-vendredi-a-18h",
+    "https://www.lebeaufortain.com/fiches/refuge-du-plan-de-la-lai/",
+    "https://www.savoiepeche.com/Actualites_Savoie_Peche/ouverture-lacs-montagne",
+    "https://baignades.sante.gouv.fr/baignades/genererPDF.do?gen=yes&am1=checkbox&am2=checkbox&am3=checkbox&am4=checkbox&selDpt=073&selEau=DOUCE&image.x=33&image.y=2"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "FERMETURE HIVERNALE 2026-2027 — non publiée au 17 août 2026. Aucune date n'est donnée ici ; la date de 2025 n'a pas été recyclée.",
+    "OUVERTURE 2026 — le calendrier prévisionnel du Département annonçait le 13 mai ; la réouverture effective a été annoncée pour le vendredi 22 mai 2026 à 18h. C'est cette dernière qui est publiée.",
+    "PAGE ANGLAISE À NE PAS SUIVRE — la version anglaise de la fiche de l'office de tourisme intervertit les chiffres français : elle annonce une superficie de 804 ha (c'est la longueur du barrage en mètres), une profondeur de 320 m (c'est la superficie en hectares) et un volume de 130 m³ (c'est la profondeur en mètres). Seule la fiche française est citée.",
+    "VIDANGE 2026 — « Galerie des Sauces qui alimente la retenue de Roselend : vidange du 23 septembre au 11 octobre 2026 » selon la Fédération de pêche de la Savoie.",
+    "HORS VANOISE — Beaufort n'appartient pas au Parc national de la Vanoise. Aucune règle de cœur de parc ne s'applique ici, et aucune n'est invoquée.",
+    "BAIGNADE NON DÉCLARÉE — ce lac ne figure pas parmi les 43 sites de baignade en eau douce déclarés en Savoie au registre ARS. Il n'y a donc aucun suivi sanitaire officiel de la qualité de l'eau, et aucun classement à citer. C'est un fait vérifiable, pas une interdiction : les deux se disent séparément.",
+    "VISUEL vérifié à l'œil (17/08/2026) — panorama de vallée alpine avec routes de col : cohérent avec l'accès par le Cormet de Roselend ; aucune image du vivier ne montre le lac lui-même.",
+    "ACCES_PMR_UNVERIFIED",
+    "COORDONNÉES — POI IGN « Lac de Roselend », catégorie retenue-barrage ; le barrage lui-même est un POI distinct, à environ 850 m."
+  ]
+}

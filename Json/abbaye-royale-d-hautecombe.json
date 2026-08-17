@@ -1,0 +1,707 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-17",
+    "confidence": "declarative",
+    "detail": "L'office de tourisme d'Aix-les-Bains annonce « Accessible en fauteuil roulant en autonomie », « Entrée accessible » et « WC + barre d'appui + espace de circulation ». L'abbaye elle-même ne publie rien sur ce point : la déclaration vient du tiers, pas du site.",
+    "equipment": [
+      "wc_adapte"
+    ],
+    "handiplage_level": null,
+    "source_name": "OT Aix-les-Bains Riviera des Alpes",
+    "source_url": "https://www.aixlesbains-rivieradesalpes.com/patrimoine-culturel/abbaye-dhautecombe-saint-pierre-de-curtille/",
+    "status": "accessible",
+    "tourisme_handicap": []
+  },
+  "category": "chateau",
+  "commune": "Saint-Pierre-de-Curtille",
+  "date_modified_human": "17 août 2026",
+  "date_published_human": "17 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-17",
+    "method": "Recherche du 17 août 2026, sources officielles uniquement. Saisons, jours de fermeture et grilles tarifaires cités mot pour mot avec leur URL ; toute divergence entre publieurs est reportée, jamais arbitrée. Label Musée de France vérifié sur la liste officielle de la DRAC Auvergne-Rhône-Alpes, pas sur la déclaration du site. Protection monument historique vérifiée notice par notice dans la base nationale Mérimée. Coordonnées : géocodeur IGN Géoplateforme, catégorie du POI contrôlée pour écarter les homonymes. Les pages anglaises des offices de tourisme savoyards se sont révélées systématiquement périmées ou inversées : seules les pages françaises sont citées."
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-chateau-toiture.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Wann ist geöffnet? Saison und Zeiten werden vom Betreiber veröffentlicht, mit einem klaren Schließtag: Dienstag. Die Einzelheiten stehen in den praktischen Angaben dieser Seite.",
+          "tag": "Vor Ort",
+          "title": "Öffnung"
+        },
+        {
+          "description": "Was kostet es? Ab 4,50 €. Die vollständige Übersicht — ermäßigt, frei, Gruppen — steht bei den Preisen dieser Seite, unverändert übernommen, mit den genauen Altersgrenzen der Quelle.",
+          "tag": "Vor Ort",
+          "title": "Preise"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Das <strong>Abbaye d'Hautecombe</strong> ist ein aktive Abtei, für Besucher geöffnet in Saint-Pierre-de-Curtille, Savoie. Die Anlage steht unter Denkmalschutz (classé 1875, Eintrag PA00118305 im nationalen Register).</p><p><strong>Wann ist geöffnet?</strong> Saison und Zeiten werden vom Betreiber veröffentlicht, mit einem klaren Schließtag: <strong>Dienstag</strong>. Die Einzelheiten stehen in den praktischen Angaben dieser Seite.</p><p><strong>Was kostet es?</strong> Ab 4,50 €. Die vollständige Übersicht — ermäßigt, frei, Gruppen — steht bei den Preisen dieser Seite, unverändert übernommen, mit den genauen Altersgrenzen der Quelle.</p><p>Das Tourismusbüro bezeichnet ihn als « accessible en fauteuil roulant en autonomie », also ohne fremde Hilfe rollstuhlgerecht. Die Abtei schreibt « Les chiens ne sont pas autorisés dans l'église » — nur die Kirche; das Tourismusbüro schreibt « Animaux acceptés : Non » für das ganze Gelände. Beides ist veröffentlicht.</p><p>Diese Seite stützt sich ausschließlich auf offizielle Quellen: Betreiber, Gemeinde, Park, Tourismusbüro, nationales Badegewässerregister. Wo zwei davon einander widersprechen, werden beide genannt und die Differenz gekennzeichnet — wir entscheiden nicht für Sie. Wo sie schweigen, bleibt das Feld leer statt geraten.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Kostenpflichtig",
+        "best_season": "Veröffentlichte Saison",
+        "commune": "Saint-Pierre-de-Curtille",
+        "dogs": "Die Abtei schreibt « Les chiens ne sont pas autorisés dans l'église » — nur die Kirche; das Tourismusbüro schreibt « Animaux acceptés : Non » für das ganze Gelände. Beides ist veröffentlicht.",
+        "parking": null,
+        "stroller": null,
+        "type": "aktive Abtei, für Besucher geöffnet"
+      },
+      "faq": [
+        {
+          "a": "Saison und Zeiten werden vom Betreiber veröffentlicht, mit einem klaren Schließtag: Dienstag. Die Einzelheiten stehen in den praktischen Angaben dieser Seite.",
+          "q": "Wann ist geöffnet?"
+        },
+        {
+          "a": "Ab 4,50 €. Die vollständige Übersicht — ermäßigt, frei, Gruppen — steht bei den Preisen dieser Seite, unverändert übernommen, mit den genauen Altersgrenzen der Quelle.",
+          "q": "Was kostet der Eintritt?"
+        },
+        {
+          "a": "Dienstag",
+          "q": "Welcher ist der Schließtag?"
+        },
+        {
+          "a": "Das Tourismusbüro bezeichnet ihn als « accessible en fauteuil roulant en autonomie », also ohne fremde Hilfe rollstuhlgerecht.",
+          "q": "Ist die Anlage rollstuhlgerecht?"
+        },
+        {
+          "a": "Die Abtei schreibt « Les chiens ne sont pas autorisés dans l'église » — nur die Kirche; das Tourismusbüro schreibt « Animaux acceptés : Non » für das ganze Gelände. Beides ist veröffentlicht.",
+          "q": "Sind Tiere zugelassen?"
+        }
+      ],
+      "hero": {
+        "badge": "Kostenpflichtig · Saint-Pierre-de-Curtille",
+        "lead": "Aktive Abtei, für Besucher geöffnet in Saint-Pierre-de-Curtille, Savoie. Kostenpflichtig, Veröffentlichte Saison — und was die offiziellen Quellen nicht sagen, als solches gesagt."
+      },
+      "hero_alt": "Abbaye d'Hautecombe, aktive Abtei, für Besucher geöffnet in Saint-Pierre-de-Curtille, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "3700 route de l'Abbaye, 73310 Saint-Pierre-de-Curtille. Veröffentlichter Punkt: 45.752849, 5.839688. Die POI-Kategorie wurde geprüft, um einen Namensvetter auszuschließen.",
+        "public_transport": null
+      },
+      "meta_description": "Abbaye d'Hautecombe in Saint-Pierre-de-Curtille, Savoie: Kostenpflichtig, Veröffentlichte Saison. Offizielle Quellen, Abweichungen gekennzeichnet.",
+      "meta_title": "Abbaye d'Hautecombe — Kostenpflichtig, Saint-Pierre-de-Curtille",
+      "name": "Abbaye d'Hautecombe",
+      "name_alternates": [
+        "Abbaye royale d'Hautecombe"
+      ],
+      "practical_info": [
+        {
+          "k": "Anschrift",
+          "v": "3700 route de l'Abbaye, 73310 Saint-Pierre-de-Curtille"
+        },
+        {
+          "k": "Öffnung",
+          "v": "Veröffentlichte Saison"
+        },
+        {
+          "k": "Schließtag",
+          "v": "Dienstag"
+        },
+        {
+          "k": "Preise",
+          "v": "Kostenpflichtig"
+        },
+        {
+          "k": "Denkmalschutz",
+          "v": "classé 1875"
+        },
+        {
+          "k": "Barrierefreiheit",
+          "v": "Das Tourismusbüro bezeichnet ihn als « accessible en fauteuil roulant en autonomie », also ohne fremde Hilfe rollstuhlgerecht."
+        },
+        {
+          "k": "Tiere",
+          "v": "Die Abtei schreibt « Les chiens ne sont pas autorisés dans l'église » — nur die Kirche; das Tourismusbüro schreibt « Animaux acceptés : Non » für das ganze Gelände. Beides ist veröffentlicht."
+        },
+        {
+          "k": "Telefon",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Rollstuhlgerecht"
+      ],
+      "when_to_visit": "<p>Ein überdachtes oder denkmalgeschütztes Ziel: ein Ausflug für schlechtes Wetter genauso wie für gutes. Prüfen Sie vorher den Schließtag — daran scheitern die meisten Besuche.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "When is it open? The season and hours are published by the operator, with a clean weekly closing day: Tuesday. The detail is in this page's practical information.",
+          "tag": "On site",
+          "title": "Opening"
+        },
+        {
+          "description": "What does it cost? From 4,50 €. The full grid — reduced, free, groups — is in this page's prices, reproduced as published, with the source's exact age brackets.",
+          "tag": "On site",
+          "title": "Prices"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Abbaye d'Hautecombe</strong> is a working abbey, open to visitors at Saint-Pierre-de-Curtille, Savoie. The site carries French historic-monument protection (classé 1875, national register notice PA00118305).</p><p><strong>When is it open?</strong> The season and hours are published by the operator, with a clean weekly closing day: <strong>Tuesday</strong>. The detail is in this page's practical information.</p><p><strong>What does it cost?</strong> From 4,50 €. The full grid — reduced, free, groups — is in this page's prices, reproduced as published, with the source's exact age brackets.</p><p>The tourist office declares it « accessible en fauteuil roulant en autonomie » — wheelchair-accessible without assistance. The site writes « Les chiens ne sont pas autorisés dans l'église » — the church only; the tourist office writes « Animaux acceptés : Non » for the whole place. Both are published.</p><p>This page is built on official sources and nothing else: the site's manager, the commune, the park, the tourist office, the national bathing-water register. Where two of them contradict each other, both are given and the gap is flagged — we do not choose for you. Where they are silent, the field stays empty rather than guessed.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Paid",
+        "best_season": "Published season",
+        "commune": "Saint-Pierre-de-Curtille",
+        "dogs": "The site writes « Les chiens ne sont pas autorisés dans l'église » — the church only; the tourist office writes « Animaux acceptés : Non » for the whole place. Both are published.",
+        "parking": null,
+        "stroller": null,
+        "type": "working abbey, open to visitors"
+      },
+      "faq": [
+        {
+          "a": "The season and hours are published by the operator, with a clean weekly closing day: Tuesday. The detail is in this page's practical information.",
+          "q": "When is it open?"
+        },
+        {
+          "a": "From 4,50 €. The full grid — reduced, free, groups — is in this page's prices, reproduced as published, with the source's exact age brackets.",
+          "q": "How much is admission?"
+        },
+        {
+          "a": "Tuesday",
+          "q": "What is the weekly closing day?"
+        },
+        {
+          "a": "The tourist office declares it « accessible en fauteuil roulant en autonomie » — wheelchair-accessible without assistance.",
+          "q": "Is the site wheelchair-accessible?"
+        },
+        {
+          "a": "The site writes « Les chiens ne sont pas autorisés dans l'église » — the church only; the tourist office writes « Animaux acceptés : Non » for the whole place. Both are published.",
+          "q": "Are animals accepted?"
+        }
+      ],
+      "hero": {
+        "badge": "Paid · Saint-Pierre-de-Curtille",
+        "lead": "Working abbey, open to visitors at Saint-Pierre-de-Curtille, Savoie. Paid, Published season — and what the official sources do not say, said as such."
+      },
+      "hero_alt": "Abbaye d'Hautecombe, working abbey, open to visitors, at Saint-Pierre-de-Curtille, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "3700 route de l'Abbaye, 73310 Saint-Pierre-de-Curtille. Published point: 45.752849, 5.839688. The POI category was checked to rule out a namesake.",
+        "public_transport": null
+      },
+      "meta_description": "Abbaye d'Hautecombe, Saint-Pierre-de-Curtille, Savoie: Paid, Published season. Official sources, discrepancies flagged.",
+      "meta_title": "Abbaye d'Hautecombe — Paid, Saint-Pierre-de-Curtille",
+      "name": "Abbaye d'Hautecombe",
+      "name_alternates": [
+        "Abbaye royale d'Hautecombe"
+      ],
+      "practical_info": [
+        {
+          "k": "Address",
+          "v": "3700 route de l'Abbaye, 73310 Saint-Pierre-de-Curtille"
+        },
+        {
+          "k": "Opening",
+          "v": "Published season"
+        },
+        {
+          "k": "Weekly closing day",
+          "v": "Tuesday"
+        },
+        {
+          "k": "Prices",
+          "v": "Paid"
+        },
+        {
+          "k": "Protection",
+          "v": "classé 1875"
+        },
+        {
+          "k": "Accessibility",
+          "v": "The tourist office declares it « accessible en fauteuil roulant en autonomie » — wheelchair-accessible without assistance."
+        },
+        {
+          "k": "Animals",
+          "v": "The site writes « Les chiens ne sont pas autorisés dans l'église » — the church only; the tourist office writes « Animaux acceptés : Non » for the whole place. Both are published."
+        },
+        {
+          "k": "Telephone",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Wheelchair-accessible"
+      ],
+      "when_to_visit": "<p>A covered or heritage site: as much a bad-weather outing as a fine-weather one. Check the weekly closing day before you go — that is where visits are lost.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "¿Cuándo está abierto? La temporada y el horario los publica el gestor, con un día de cierre claro: martes. El detalle está en la información práctica de esta ficha.",
+          "tag": "En el sitio",
+          "title": "Apertura"
+        },
+        {
+          "description": "¿Cuánto cuesta? Desde 4,50 €. La parrilla completa — reducido, gratuito, grupos — está en las tarifas de esta ficha, reproducida tal como se publica, con los tramos de edad exactos de la fuente.",
+          "tag": "En el sitio",
+          "title": "Tarifas"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>Abbaye d'Hautecombe</strong> es un abadía en activo, abierta a la visita en Saint-Pierre-de-Curtille, Savoie. El sitio está protegido como monumento histórico (classé 1875, ficha PA00118305 de la base nacional).</p><p><strong>¿Cuándo está abierto?</strong> La temporada y el horario los publica el gestor, con un día de cierre claro: <strong>martes</strong>. El detalle está en la información práctica de esta ficha.</p><p><strong>¿Cuánto cuesta?</strong> Desde 4,50 €. La parrilla completa — reducido, gratuito, grupos — está en las tarifas de esta ficha, reproducida tal como se publica, con los tramos de edad exactos de la fuente.</p><p>La oficina de turismo la declara « accessible en fauteuil roulant en autonomie », accesible en silla de ruedas sin ayuda. El sitio escribe « Les chiens ne sont pas autorisés dans l'église » — solo la iglesia; la oficina de turismo escribe « Animaux acceptés : Non » para todo el recinto. Ambas están publicadas.</p><p>Esta página se basa únicamente en fuentes oficiales: gestor, municipio, parque, oficina de turismo, registro sanitario nacional. Donde dos de ellas se contradicen, se dan ambas y se señala la diferencia — no elegimos por usted. Donde callan, el dato queda vacío en lugar de adivinado.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "De pago",
+        "best_season": "Temporada publicada",
+        "commune": "Saint-Pierre-de-Curtille",
+        "dogs": "El sitio escribe « Les chiens ne sont pas autorisés dans l'église » — solo la iglesia; la oficina de turismo escribe « Animaux acceptés : Non » para todo el recinto. Ambas están publicadas.",
+        "parking": null,
+        "stroller": null,
+        "type": "abadía en activo, abierta a la visita"
+      },
+      "faq": [
+        {
+          "a": "La temporada y el horario los publica el gestor, con un día de cierre claro: martes. El detalle está en la información práctica de esta ficha.",
+          "q": "¿Cuándo está abierto?"
+        },
+        {
+          "a": "Desde 4,50 €. La parrilla completa — reducido, gratuito, grupos — está en las tarifas de esta ficha, reproducida tal como se publica, con los tramos de edad exactos de la fuente.",
+          "q": "¿Cuánto cuesta la entrada?"
+        },
+        {
+          "a": "martes",
+          "q": "¿Cuál es el día de cierre?"
+        },
+        {
+          "a": "La oficina de turismo la declara « accessible en fauteuil roulant en autonomie », accesible en silla de ruedas sin ayuda.",
+          "q": "¿Es accesible en silla de ruedas?"
+        },
+        {
+          "a": "El sitio escribe « Les chiens ne sont pas autorisés dans l'église » — solo la iglesia; la oficina de turismo escribe « Animaux acceptés : Non » para todo el recinto. Ambas están publicadas.",
+          "q": "¿Se admiten animales?"
+        }
+      ],
+      "hero": {
+        "badge": "De pago · Saint-Pierre-de-Curtille",
+        "lead": "Abadía en activo, abierta a la visita en Saint-Pierre-de-Curtille, Savoie. De pago, Temporada publicada — y lo que las fuentes oficiales no dicen, dicho como tal."
+      },
+      "hero_alt": "Abbaye d'Hautecombe, abadía en activo, abierta a la visita, en Saint-Pierre-de-Curtille, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "3700 route de l'Abbaye, 73310 Saint-Pierre-de-Curtille. Punto publicado: 45.752849, 5.839688. Se verificó la categoría del POI para descartar un homónimo.",
+        "public_transport": null
+      },
+      "meta_description": "Abbaye d'Hautecombe en Saint-Pierre-de-Curtille, Savoie: De pago, Temporada publicada. Fuentes oficiales, discrepancias señaladas.",
+      "meta_title": "Abbaye d'Hautecombe — De pago, Saint-Pierre-de-Curtille",
+      "name": "Abbaye d'Hautecombe",
+      "name_alternates": [
+        "Abbaye royale d'Hautecombe"
+      ],
+      "practical_info": [
+        {
+          "k": "Dirección",
+          "v": "3700 route de l'Abbaye, 73310 Saint-Pierre-de-Curtille"
+        },
+        {
+          "k": "Apertura",
+          "v": "Temporada publicada"
+        },
+        {
+          "k": "Día de cierre",
+          "v": "martes"
+        },
+        {
+          "k": "Tarifas",
+          "v": "De pago"
+        },
+        {
+          "k": "Protección",
+          "v": "classé 1875"
+        },
+        {
+          "k": "Accesibilidad",
+          "v": "La oficina de turismo la declara « accessible en fauteuil roulant en autonomie », accesible en silla de ruedas sin ayuda."
+        },
+        {
+          "k": "Animales",
+          "v": "El sitio escribe « Les chiens ne sont pas autorisés dans l'église » — solo la iglesia; la oficina de turismo escribe « Animaux acceptés : Non » para todo el recinto. Ambas están publicadas."
+        },
+        {
+          "k": "Teléfono",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Accesible en silla de ruedas"
+      ],
+      "when_to_visit": "<p>Sitio cubierto o patrimonial: es una salida de mal tiempo tanto como de buen tiempo. Compruebe el día de cierre antes de salir, es ahí donde se pierden las visitas.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Quand est-ce ouvert ? La saison et les horaires sont publiés par le gestionnaire, avec un jour de fermeture net : mardi. Le détail figure dans les informations pratiques de cette fiche.",
+          "tag": "Sur place",
+          "title": "Ouverture"
+        },
+        {
+          "description": "Combien ça coûte ? À partir de 4,50 €. La grille complète — réduit, gratuité, groupes — figure dans les tarifs de cette fiche, reprise telle qu'elle est publiée, avec les tranches d'âge exactes de la source.",
+          "tag": "Sur place",
+          "title": "Tarifs"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Le <strong>Abbaye d'Hautecombe</strong> est un abbaye en activité, ouverte à la visite à Saint-Pierre-de-Curtille, en Savoie. Le site est protégé au titre des monuments historiques (classé 1875, notice PA00118305 de la base nationale).</p><p><strong>Quand est-ce ouvert ?</strong> La saison et les horaires sont publiés par le gestionnaire, avec un jour de fermeture net : <strong>mardi</strong>. Le détail figure dans les informations pratiques de cette fiche.</p><p><strong>Combien ça coûte ?</strong> À partir de 4,50 €. La grille complète — réduit, gratuité, groupes — figure dans les tarifs de cette fiche, reprise telle qu'elle est publiée, avec les tranches d'âge exactes de la source.</p><p>L'office de tourisme la déclare « accessible en fauteuil roulant en autonomie ». Le site écrit « Les chiens ne sont pas autorisés dans l'église » — l'église seulement ; l'office de tourisme écrit « Animaux acceptés : Non » pour tout le site. Les deux sont publiés.</p><p>Cette page est bâtie sur les sources officielles et sur elles seules : gestionnaire, commune, parc, office de tourisme, registre sanitaire national. Là où deux d'entre elles se contredisent, les deux sont données et l'écart est signalé — nous ne choisissons pas à votre place. Là où elles se taisent, la donnée reste vide plutôt que devinée.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Payant",
+        "best_season": "Saison publiée",
+        "commune": "Saint-Pierre-de-Curtille",
+        "dogs": "Le site écrit « Les chiens ne sont pas autorisés dans l'église » — l'église seulement ; l'office de tourisme écrit « Animaux acceptés : Non » pour tout le site. Les deux sont publiés.",
+        "parking": null,
+        "stroller": null,
+        "type": "abbaye en activité, ouverte à la visite"
+      },
+      "faq": [
+        {
+          "a": "La saison et les horaires sont publiés par le gestionnaire, avec un jour de fermeture net : mardi. Le détail figure dans les informations pratiques de cette fiche.",
+          "q": "Quand est-ce ouvert ?"
+        },
+        {
+          "a": "À partir de 4,50 €. La grille complète — réduit, gratuité, groupes — figure dans les tarifs de cette fiche, reprise telle qu'elle est publiée, avec les tranches d'âge exactes de la source.",
+          "q": "Combien coûte l'entrée ?"
+        },
+        {
+          "a": "mardi",
+          "q": "Quel est le jour de fermeture ?"
+        },
+        {
+          "a": "L'office de tourisme la déclare « accessible en fauteuil roulant en autonomie ».",
+          "q": "Le site est-il accessible en fauteuil roulant ?"
+        },
+        {
+          "a": "Le site écrit « Les chiens ne sont pas autorisés dans l'église » — l'église seulement ; l'office de tourisme écrit « Animaux acceptés : Non » pour tout le site. Les deux sont publiés.",
+          "q": "Les animaux sont-ils acceptés ?"
+        }
+      ],
+      "hero": {
+        "badge": "Payant · Saint-Pierre-de-Curtille",
+        "lead": "Abbaye en activité, ouverte à la visite à Saint-Pierre-de-Curtille, en Savoie. Payant, Saison publiée — et ce que les sources officielles ne disent pas, dit comme tel."
+      },
+      "hero_alt": "Abbaye d'Hautecombe, abbaye en activité, ouverte à la visite, à Saint-Pierre-de-Curtille, en Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "3700 route de l'Abbaye, 73310 Saint-Pierre-de-Curtille. Point publié : 45.752849, 5.839688. La catégorie du POI a été vérifiée pour écarter un homonyme.",
+        "public_transport": null
+      },
+      "meta_description": "Abbaye d'Hautecombe à Saint-Pierre-de-Curtille, en Savoie : Payant, Saison publiée. Sources officielles, contradictions signalées.",
+      "meta_title": "Abbaye d'Hautecombe — Payant, Saint-Pierre-de-Curtille",
+      "name": "Abbaye d'Hautecombe",
+      "name_alternates": [
+        "Abbaye royale d'Hautecombe"
+      ],
+      "practical_info": [
+        {
+          "k": "Adresse",
+          "v": "3700 route de l'Abbaye, 73310 Saint-Pierre-de-Curtille"
+        },
+        {
+          "k": "Ouverture",
+          "v": "Saison publiée"
+        },
+        {
+          "k": "Jour de fermeture",
+          "v": "mardi"
+        },
+        {
+          "k": "Tarifs",
+          "v": "Payant"
+        },
+        {
+          "k": "Protection",
+          "v": "classé 1875"
+        },
+        {
+          "k": "Accessibilité",
+          "v": "L'office de tourisme la déclare « accessible en fauteuil roulant en autonomie »."
+        },
+        {
+          "k": "Animaux",
+          "v": "Le site écrit « Les chiens ne sont pas autorisés dans l'église » — l'église seulement ; l'office de tourisme écrit « Animaux acceptés : Non » pour tout le site. Les deux sont publiés."
+        },
+        {
+          "k": "Téléphone",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Accessible en fauteuil roulant"
+      ],
+      "when_to_visit": "<p>Site couvert ou patrimonial : c'est une sortie de mauvais temps autant que de beau. Vérifiez le jour de fermeture avant de partir, c'est là que se perdent les visites.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Quando è aperto? Stagione e orari sono pubblicati dal gestore, con un giorno di chiusura netto: martedì. Il dettaglio è nelle informazioni pratiche di questa scheda.",
+          "tag": "In loco",
+          "title": "Apertura"
+        },
+        {
+          "description": "Quanto costa? Da 4,50 €. La griglia completa — ridotto, gratuito, gruppi — è nelle tariffe di questa scheda, riportata come pubblicata, con le fasce d'età esatte della fonte.",
+          "tag": "In loco",
+          "title": "Tariffe"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Il <strong>Abbaye d'Hautecombe</strong> è un abbazia in attività, aperta alla visita a Saint-Pierre-de-Curtille, in Savoie. Il sito è tutelato come monumento storico (classé 1875, scheda PA00118305 della base nazionale).</p><p><strong>Quando è aperto?</strong> Stagione e orari sono pubblicati dal gestore, con un giorno di chiusura netto: <strong>martedì</strong>. Il dettaglio è nelle informazioni pratiche di questa scheda.</p><p><strong>Quanto costa?</strong> Da 4,50 €. La griglia completa — ridotto, gratuito, gruppi — è nelle tariffe di questa scheda, riportata come pubblicata, con le fasce d'età esatte della fonte.</p><p>L'ufficio del turismo la dichiara « accessible en fauteuil roulant en autonomie », accessibile in carrozzina senza assistenza. Il sito scrive « Les chiens ne sont pas autorisés dans l'église » — solo la chiesa; l'ufficio del turismo scrive « Animaux acceptés : Non » per tutto il complesso. Entrambe sono pubblicate.</p><p>Questa pagina si basa solo su fonti ufficiali: gestore, comune, parco, ufficio del turismo, registro sanitario nazionale. Dove due di esse si contraddicono, entrambe sono riportate e lo scarto è segnalato — non scegliamo al posto vostro. Dove tacciono, il dato resta vuoto anziché indovinato.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "A pagamento",
+        "best_season": "Stagione pubblicata",
+        "commune": "Saint-Pierre-de-Curtille",
+        "dogs": "Il sito scrive « Les chiens ne sont pas autorisés dans l'église » — solo la chiesa; l'ufficio del turismo scrive « Animaux acceptés : Non » per tutto il complesso. Entrambe sono pubblicate.",
+        "parking": null,
+        "stroller": null,
+        "type": "abbazia in attività, aperta alla visita"
+      },
+      "faq": [
+        {
+          "a": "Stagione e orari sono pubblicati dal gestore, con un giorno di chiusura netto: martedì. Il dettaglio è nelle informazioni pratiche di questa scheda.",
+          "q": "Quando è aperto?"
+        },
+        {
+          "a": "Da 4,50 €. La griglia completa — ridotto, gratuito, gruppi — è nelle tariffe di questa scheda, riportata come pubblicata, con le fasce d'età esatte della fonte.",
+          "q": "Quanto costa l'ingresso?"
+        },
+        {
+          "a": "martedì",
+          "q": "Qual è il giorno di chiusura?"
+        },
+        {
+          "a": "L'ufficio del turismo la dichiara « accessible en fauteuil roulant en autonomie », accessibile in carrozzina senza assistenza.",
+          "q": "Il sito è accessibile in carrozzina?"
+        },
+        {
+          "a": "Il sito scrive « Les chiens ne sont pas autorisés dans l'église » — solo la chiesa; l'ufficio del turismo scrive « Animaux acceptés : Non » per tutto il complesso. Entrambe sono pubblicate.",
+          "q": "Gli animali sono ammessi?"
+        }
+      ],
+      "hero": {
+        "badge": "A pagamento · Saint-Pierre-de-Curtille",
+        "lead": "Abbazia in attività, aperta alla visita a Saint-Pierre-de-Curtille, in Savoie. A pagamento, Stagione pubblicata — e ciò che le fonti ufficiali non dicono, detto come tale."
+      },
+      "hero_alt": "Abbaye d'Hautecombe, abbazia in attività, aperta alla visita, a Saint-Pierre-de-Curtille, in Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "3700 route de l'Abbaye, 73310 Saint-Pierre-de-Curtille. Punto pubblicato: 45.752849, 5.839688. La categoria del POI è stata verificata per escludere un omonimo.",
+        "public_transport": null
+      },
+      "meta_description": "Abbaye d'Hautecombe a Saint-Pierre-de-Curtille, in Savoie: A pagamento, Stagione pubblicata. Fonti ufficiali, discordanze segnalate.",
+      "meta_title": "Abbaye d'Hautecombe — A pagamento, Saint-Pierre-de-Curtille",
+      "name": "Abbaye d'Hautecombe",
+      "name_alternates": [
+        "Abbaye royale d'Hautecombe"
+      ],
+      "practical_info": [
+        {
+          "k": "Indirizzo",
+          "v": "3700 route de l'Abbaye, 73310 Saint-Pierre-de-Curtille"
+        },
+        {
+          "k": "Apertura",
+          "v": "Stagione pubblicata"
+        },
+        {
+          "k": "Giorno di chiusura",
+          "v": "martedì"
+        },
+        {
+          "k": "Tariffe",
+          "v": "A pagamento"
+        },
+        {
+          "k": "Tutela",
+          "v": "classé 1875"
+        },
+        {
+          "k": "Accessibilità",
+          "v": "L'ufficio del turismo la dichiara « accessible en fauteuil roulant en autonomie », accessibile in carrozzina senza assistenza."
+        },
+        {
+          "k": "Animali",
+          "v": "Il sito scrive « Les chiens ne sont pas autorisés dans l'église » — solo la chiesa; l'ufficio del turismo scrive « Animaux acceptés : Non » per tutto il complesso. Entrambe sono pubblicate."
+        },
+        {
+          "k": "Telefono",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Accessibile in carrozzina"
+      ],
+      "when_to_visit": "<p>Sito coperto o patrimoniale: è una gita da brutto tempo tanto quanto da bello. Verificate il giorno di chiusura prima di partire, è lì che si perdono le visite.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Wanneer is het open? Seizoen en tijden worden door de beheerder gepubliceerd, met een duidelijke sluitingsdag: dinsdag. De details staan bij de praktische informatie op deze pagina.",
+          "tag": "Ter plaatse",
+          "title": "Opening"
+        },
+        {
+          "description": "Wat kost het? Vanaf 4,50 €. Het volledige overzicht — korting, gratis, groepen — staat bij de tarieven op deze pagina, overgenomen zoals gepubliceerd, met de exacte leeftijdsgrenzen van de bron.",
+          "tag": "Ter plaatse",
+          "title": "Tarieven"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Het <strong>Abbaye d'Hautecombe</strong> is een actieve abdij, open voor bezoek in Saint-Pierre-de-Curtille, Savoie. Het complex is beschermd als historisch monument (classé 1875, dossier PA00118305 in het nationale register).</p><p><strong>Wanneer is het open?</strong> Seizoen en tijden worden door de beheerder gepubliceerd, met een duidelijke sluitingsdag: <strong>dinsdag</strong>. De details staan bij de praktische informatie op deze pagina.</p><p><strong>Wat kost het?</strong> Vanaf 4,50 €. Het volledige overzicht — korting, gratis, groepen — staat bij de tarieven op deze pagina, overgenomen zoals gepubliceerd, met de exacte leeftijdsgrenzen van de bron.</p><p>Het toeristenbureau noemt het strand « accessible en fauteuil roulant en autonomie », rolstoeltoegankelijk zonder hulp. De abdij schrijft « Les chiens ne sont pas autorisés dans l'église » — alleen de kerk; het toeristenbureau schrijft « Animaux acceptés : Non » voor het hele terrein. Beide zijn gepubliceerd.</p><p>Deze pagina steunt uitsluitend op officiële bronnen: beheerder, gemeente, park, toeristenbureau, nationaal zwemwaterregister. Waar twee ervan elkaar tegenspreken, worden beide gegeven en wordt het verschil gemeld — wij kiezen niet voor u. Waar ze zwijgen, blijft het veld leeg in plaats van geraden.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Betaald",
+        "best_season": "Gepubliceerd seizoen",
+        "commune": "Saint-Pierre-de-Curtille",
+        "dogs": "De abdij schrijft « Les chiens ne sont pas autorisés dans l'église » — alleen de kerk; het toeristenbureau schrijft « Animaux acceptés : Non » voor het hele terrein. Beide zijn gepubliceerd.",
+        "parking": null,
+        "stroller": null,
+        "type": "actieve abdij, open voor bezoek"
+      },
+      "faq": [
+        {
+          "a": "Seizoen en tijden worden door de beheerder gepubliceerd, met een duidelijke sluitingsdag: dinsdag. De details staan bij de praktische informatie op deze pagina.",
+          "q": "Wanneer is het open?"
+        },
+        {
+          "a": "Vanaf 4,50 €. Het volledige overzicht — korting, gratis, groepen — staat bij de tarieven op deze pagina, overgenomen zoals gepubliceerd, met de exacte leeftijdsgrenzen van de bron.",
+          "q": "Wat kost de toegang?"
+        },
+        {
+          "a": "dinsdag",
+          "q": "Wat is de sluitingsdag?"
+        },
+        {
+          "a": "Het toeristenbureau noemt het strand « accessible en fauteuil roulant en autonomie », rolstoeltoegankelijk zonder hulp.",
+          "q": "Is de locatie rolstoeltoegankelijk?"
+        },
+        {
+          "a": "De abdij schrijft « Les chiens ne sont pas autorisés dans l'église » — alleen de kerk; het toeristenbureau schrijft « Animaux acceptés : Non » voor het hele terrein. Beide zijn gepubliceerd.",
+          "q": "Zijn dieren toegestaan?"
+        }
+      ],
+      "hero": {
+        "badge": "Betaald · Saint-Pierre-de-Curtille",
+        "lead": "Actieve abdij, open voor bezoek in Saint-Pierre-de-Curtille, Savoie. Betaald, Gepubliceerd seizoen — en wat de officiële bronnen niet zeggen, ook als zodanig gezegd."
+      },
+      "hero_alt": "Abbaye d'Hautecombe, actieve abdij, open voor bezoek in Saint-Pierre-de-Curtille, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "3700 route de l'Abbaye, 73310 Saint-Pierre-de-Curtille. Gepubliceerd punt: 45.752849, 5.839688. De POI-categorie is gecontroleerd om een naamgenoot uit te sluiten.",
+        "public_transport": null
+      },
+      "meta_description": "Abbaye d'Hautecombe in Saint-Pierre-de-Curtille, Savoie: Betaald, Gepubliceerd seizoen. Officiële bronnen, afwijkingen gemeld.",
+      "meta_title": "Abbaye d'Hautecombe — Betaald, Saint-Pierre-de-Curtille",
+      "name": "Abbaye d'Hautecombe",
+      "name_alternates": [
+        "Abbaye royale d'Hautecombe"
+      ],
+      "practical_info": [
+        {
+          "k": "Adres",
+          "v": "3700 route de l'Abbaye, 73310 Saint-Pierre-de-Curtille"
+        },
+        {
+          "k": "Opening",
+          "v": "Gepubliceerd seizoen"
+        },
+        {
+          "k": "Sluitingsdag",
+          "v": "dinsdag"
+        },
+        {
+          "k": "Tarieven",
+          "v": "Betaald"
+        },
+        {
+          "k": "Bescherming",
+          "v": "classé 1875"
+        },
+        {
+          "k": "Toegankelijkheid",
+          "v": "Het toeristenbureau noemt het strand « accessible en fauteuil roulant en autonomie », rolstoeltoegankelijk zonder hulp."
+        },
+        {
+          "k": "Dieren",
+          "v": "De abdij schrijft « Les chiens ne sont pas autorisés dans l'église » — alleen de kerk; het toeristenbureau schrijft « Animaux acceptés : Non » voor het hele terrein. Beide zijn gepubliceerd."
+        },
+        {
+          "k": "Telefoon",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Rolstoeltoegankelijk"
+      ],
+      "when_to_visit": "<p>Een overdekte of erfgoedlocatie: net zo goed een uitje voor slecht weer als voor mooi weer. Controleer vooraf de sluitingsdag — daar gaan de meeste bezoeken op stuk.</p>"
+    }
+  },
+  "latitude": 45.752849,
+  "longitude": 5.839688,
+  "official_site_url": "https://hautecombe.chemin-neuf.fr/visite-audioguidee/",
+  "partners": [],
+  "postal_code": "73310",
+  "price_currency": "EUR",
+  "price_from": 4.5,
+  "price_tiers": [
+    {
+      "label": "Adulte",
+      "price": "4,50 €"
+    },
+    {
+      "label": "Scolaire et étudiant",
+      "price": "2,50 €"
+    },
+    {
+      "label": "Enfants en famille, jusqu'à 18 ans",
+      "price": "gratuit"
+    },
+    {
+      "label": "Groupes (à partir de 21 personnes)",
+      "price": "3,80 €"
+    },
+    {
+      "label": "Visite guidée des appartements royaux (reprise en octobre 2026)",
+      "price": "7,50 €"
+    }
+  ],
+  "research_log": "Recherche du 17 août 2026, sources officielles uniquement. Saisons, jours de fermeture et grilles tarifaires cités mot pour mot avec leur URL ; toute divergence entre publieurs est reportée, jamais arbitrée. Label Musée de France vérifié sur la liste officielle de la DRAC Auvergne-Rhône-Alpes, pas sur la déclaration du site. Protection monument historique vérifiée notice par notice dans la base nationale Mérimée. Coordonnées : géocodeur IGN Géoplateforme, catégorie du POI contrôlée pour écarter les homonymes. Les pages anglaises des offices de tourisme savoyards se sont révélées systématiquement périmées ou inversées : seules les pages françaises sont citées.",
+  "schema_org": {
+    "amenities": [
+      "Accessible en fauteuil roulant"
+    ],
+    "is_free": false,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "abbaye-royale-d-hautecombe",
+  "sources": [
+    "https://hautecombe.chemin-neuf.fr/visite-audioguidee/",
+    "https://hautecombe.chemin-neuf.fr/visite-guidee/",
+    "https://hautecombe.chemin-neuf.fr/informations-pratiques/acces/",
+    "https://pop.culture.gouv.fr/notice/merimee/PA00118305",
+    "https://www.aixlesbains-rivieradesalpes.com/patrimoine-culturel/abbaye-dhautecombe-saint-pierre-de-curtille/"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "patrimoine",
+  "verify_flags": [
+    "LE MARDI, TOUT EST FERMÉ — et pour une raison qui n'est pas administrative : « Le mardi est une journée de silence, de prière et de ressourcement pour la Communauté. L'ensemble du site est donc fermé ». C'est une abbaye en activité, pas un monument.",
+    "APPARTEMENTS ROYAUX SUSPENDUS — « Les visites guidées des appartements royaux reprendront en octobre 2026 ». C'est le changement 2026 le plus important du site, et le supplément de 7,50 € ne s'applique donc pas avant.",
+    "CLASSEMENT CONTESTÉ — la base Mérimée porte « classé MH », « classement par liste de 1875 » (notice PA00118305) ; la fiche de l'office de tourisme écrit « inscrit ». Ce ne sont pas le même niveau de protection. La base nationale fait foi ici.",
+    "AUCUNE RÈGLE DE TENUE PUBLIÉE — cinq pages du site de l'abbaye ont été lues : aucune consigne vestimentaire, de silence ou de photographie n'est publiée pour les visiteurs. Nous n'en inventons pas pour un lieu de culte.",
+    "BATEAU — l'accès par le lac est un opérateur PAYANT DISTINCT, et l'entrée de l'abbaye n'est PAS comprise : « Visite de l'église Abbatiale + 4,50€ sur place ». La croisière dure 2h30 dont 1h30 d'escale, 18,50 € adulte. Ses dates de saison 2026 ne sont publiées nulle part : seul « Départs en fonction de la saison ».",
+    "CHIENS — l'abbaye écrit « Les chiens ne sont pas autorisés dans l'église », donc l'église seulement ; la fiche de l'office de tourisme écrit « Animaux acceptés : Non », donc tout le site. Les deux sont publiés.",
+    "VISUEL vérifié à l'œil (17/08/2026) — toiture gothique en ardoise à lucarnes sculptées : le plus proche du gothique troubadour de l'abbaye dans un vivier sans image d'abbaye.",
+    "COORDONNÉES — POI IGN « Abbaye de Hautecombe », catégorie culte chrétien — un lieu de culte, pas un hameau ni une rue."
+  ]
+}

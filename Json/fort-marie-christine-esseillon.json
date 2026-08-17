@@ -1,0 +1,670 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-17",
+    "confidence": null,
+    "detail": "Aucune des trois sources consultées ne publie quoi que ce soit sur l'accessibilité. Il s'agit d'un ouvrage sarde du XIXe siècle avec approche par le glacis et casemates intérieures : l'absence de mention n'est pas une garantie.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_name": "OT Aussois",
+    "source_url": "https://www.aussois.com/patrimoine-culturel/fort-marie-christine-aussois/",
+    "status": null,
+    "tourisme_handicap": []
+  },
+  "category": "chateau",
+  "commune": "Aussois",
+  "date_modified_human": "17 août 2026",
+  "date_published_human": "17 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-17",
+    "method": "Recherche du 17 août 2026, sources officielles uniquement. Saisons, jours de fermeture et grilles tarifaires cités mot pour mot avec leur URL ; toute divergence entre publieurs est reportée, jamais arbitrée. Label Musée de France vérifié sur la liste officielle de la DRAC Auvergne-Rhône-Alpes, pas sur la déclaration du site. Protection monument historique vérifiée notice par notice dans la base nationale Mérimée. Coordonnées : géocodeur IGN Géoplateforme, catégorie du POI contrôlée pour écarter les homonymes. Les pages anglaises des offices de tourisme savoyards se sont révélées systématiquement périmées ou inversées : seules les pages françaises sont citées."
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-chateau-brume.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Wann ist geöffnet? Ganzjährig, täglich, ohne veröffentlichten Schließtag. Auch Öffnungszeiten werden nicht veröffentlicht, und wir erfinden keine.",
+          "tag": "Vor Ort",
+          "title": "Öffnung"
+        },
+        {
+          "description": "Was kostet es? Nichts. Der Zugang ist frei, und die Quelle sagt es ausdrücklich — wir schließen es nicht aus einer fehlenden Preisliste.",
+          "tag": "Vor Ort",
+          "title": "Preise"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Das <strong>Fort Marie-Christine</strong> ist ein sardisches Fort der Esseillon-Sperre in Aussois, Savoie. Die Anlage steht unter Denkmalschutz (classé 27 juin 1983, Eintrag PA00118188 im nationalen Register).</p><p><strong>Wann ist geöffnet?</strong> Ganzjährig, täglich, ohne veröffentlichten Schließtag. Auch Öffnungszeiten werden nicht veröffentlicht, und wir erfinden keine.</p><p><strong>Was kostet es? Nichts.</strong> Der Zugang ist frei, und die Quelle sagt es ausdrücklich — wir schließen es nicht aus einer fehlenden Preisliste.</p><p>Keine offizielle Quelle sagt hier etwas zur Barrierefreiheit: weder zugänglich noch unzugänglich — unbekannt. Tiere sind nicht zugelassen.</p><p>Diese Seite stützt sich ausschließlich auf offizielle Quellen: Betreiber, Gemeinde, Park, Tourismusbüro, nationales Badegewässerregister. Wo zwei davon einander widersprechen, werden beide genannt und die Differenz gekennzeichnet — wir entscheiden nicht für Sie. Wo sie schweigen, bleibt das Feld leer statt geraten.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Kostenlos",
+        "best_season": "Ganzjährig, täglich",
+        "commune": "Aussois",
+        "dogs": "Tiere sind nicht zugelassen.",
+        "parking": null,
+        "stroller": null,
+        "type": "sardisches Fort der Esseillon-Sperre"
+      },
+      "faq": [
+        {
+          "a": "Ganzjährig, täglich, ohne veröffentlichten Schließtag. Auch Öffnungszeiten werden nicht veröffentlicht, und wir erfinden keine.",
+          "q": "Wann ist geöffnet?"
+        },
+        {
+          "a": "Nichts. Der Zugang ist frei, und die Quelle sagt es ausdrücklich — wir schließen es nicht aus einer fehlenden Preisliste.",
+          "q": "Was kostet der Eintritt?"
+        },
+        {
+          "a": "Er ist nicht gesichert. Die offiziellen Quellen nennen nicht denselben, und wir wählen keinen für sie aus.",
+          "q": "Welcher ist der Schließtag?"
+        },
+        {
+          "a": "Keine offizielle Quelle sagt hier etwas zur Barrierefreiheit: weder zugänglich noch unzugänglich — unbekannt.",
+          "q": "Ist die Anlage rollstuhlgerecht?"
+        },
+        {
+          "a": "Tiere sind nicht zugelassen.",
+          "q": "Sind Tiere zugelassen?"
+        }
+      ],
+      "hero": {
+        "badge": "Kostenlos · Aussois",
+        "lead": "Sardisches Fort der Esseillon-Sperre in Aussois, Savoie. Kostenlos, Ganzjährig, täglich — und was die offiziellen Quellen nicht sagen, als solches gesagt."
+      },
+      "hero_alt": "Fort Marie-Christine, sardisches Fort der Esseillon-Sperre in Aussois, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Esseillon, 73500 Aussois. Veröffentlichter Punkt: 45.221492, 6.734747. Die POI-Kategorie wurde geprüft, um einen Namensvetter auszuschließen.",
+        "public_transport": null
+      },
+      "meta_description": "Fort Marie-Christine in Aussois, Savoie: Kostenlos, Ganzjährig, täglich. Offizielle Quellen, Abweichungen gekennzeichnet.",
+      "meta_title": "Fort Marie-Christine — Kostenlos, Aussois",
+      "name": "Fort Marie-Christine",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Anschrift",
+          "v": "Esseillon, 73500 Aussois"
+        },
+        {
+          "k": "Öffnung",
+          "v": "Ganzjährig, täglich"
+        },
+        {
+          "k": "Schließtag",
+          "v": null
+        },
+        {
+          "k": "Preise",
+          "v": "Kostenlos"
+        },
+        {
+          "k": "Denkmalschutz",
+          "v": "classé 27 juin 1983"
+        },
+        {
+          "k": "Barrierefreiheit",
+          "v": "Keine offizielle Quelle sagt hier etwas zur Barrierefreiheit: weder zugänglich noch unzugänglich — unbekannt."
+        },
+        {
+          "k": "Tiere",
+          "v": "Tiere sind nicht zugelassen."
+        },
+        {
+          "k": "Telefon",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Kostenlos"
+      ],
+      "when_to_visit": "<p>Ein überdachtes oder denkmalgeschütztes Ziel: ein Ausflug für schlechtes Wetter genauso wie für gutes. Prüfen Sie vorher den Schließtag — daran scheitern die meisten Besuche.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "When is it open? All year, every day, with no published closing day. No opening hours are published either, and we do not invent any.",
+          "tag": "On site",
+          "title": "Opening"
+        },
+        {
+          "description": "What does it cost? Nothing. Access is free, and the source says so explicitly — we do not infer it from an absent price list.",
+          "tag": "On site",
+          "title": "Prices"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Fort Marie-Christine</strong> is a Sardinian fort of the Esseillon barrier at Aussois, Savoie. The site carries French historic-monument protection (classé 27 juin 1983, national register notice PA00118188).</p><p><strong>When is it open?</strong> All year, every day, with no published closing day. No opening hours are published either, and we do not invent any.</p><p><strong>What does it cost? Nothing.</strong> Access is free, and the source says so explicitly — we do not infer it from an absent price list.</p><p>No official source says anything about accessibility here: neither accessible nor inaccessible — unknown. Animals are not accepted.</p><p>This page is built on official sources and nothing else: the site's manager, the commune, the park, the tourist office, the national bathing-water register. Where two of them contradict each other, both are given and the gap is flagged — we do not choose for you. Where they are silent, the field stays empty rather than guessed.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free",
+        "best_season": "All year, every day",
+        "commune": "Aussois",
+        "dogs": "Animals are not accepted.",
+        "parking": null,
+        "stroller": null,
+        "type": "Sardinian fort of the Esseillon barrier"
+      },
+      "faq": [
+        {
+          "a": "All year, every day, with no published closing day. No opening hours are published either, and we do not invent any.",
+          "q": "When is it open?"
+        },
+        {
+          "a": "Nothing. Access is free, and the source says so explicitly — we do not infer it from an absent price list.",
+          "q": "How much is admission?"
+        },
+        {
+          "a": "It is not established. The official sources do not name the same one, and we do not pick one for them.",
+          "q": "What is the weekly closing day?"
+        },
+        {
+          "a": "No official source says anything about accessibility here: neither accessible nor inaccessible — unknown.",
+          "q": "Is the site wheelchair-accessible?"
+        },
+        {
+          "a": "Animals are not accepted.",
+          "q": "Are animals accepted?"
+        }
+      ],
+      "hero": {
+        "badge": "Free · Aussois",
+        "lead": "Sardinian fort of the Esseillon barrier at Aussois, Savoie. Free, All year, every day — and what the official sources do not say, said as such."
+      },
+      "hero_alt": "Fort Marie-Christine, Sardinian fort of the Esseillon barrier, at Aussois, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Esseillon, 73500 Aussois. Published point: 45.221492, 6.734747. The POI category was checked to rule out a namesake.",
+        "public_transport": null
+      },
+      "meta_description": "Fort Marie-Christine, Aussois, Savoie: Free, All year, every day. Official sources, discrepancies flagged.",
+      "meta_title": "Fort Marie-Christine — Free, Aussois",
+      "name": "Fort Marie-Christine",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Address",
+          "v": "Esseillon, 73500 Aussois"
+        },
+        {
+          "k": "Opening",
+          "v": "All year, every day"
+        },
+        {
+          "k": "Weekly closing day",
+          "v": null
+        },
+        {
+          "k": "Prices",
+          "v": "Free"
+        },
+        {
+          "k": "Protection",
+          "v": "classé 27 juin 1983"
+        },
+        {
+          "k": "Accessibility",
+          "v": "No official source says anything about accessibility here: neither accessible nor inaccessible — unknown."
+        },
+        {
+          "k": "Animals",
+          "v": "Animals are not accepted."
+        },
+        {
+          "k": "Telephone",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Free"
+      ],
+      "when_to_visit": "<p>A covered or heritage site: as much a bad-weather outing as a fine-weather one. Check the weekly closing day before you go — that is where visits are lost.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "¿Cuándo está abierto? Todo el año, todos los días, sin día de cierre publicado. Tampoco se publica ningún horario, y no lo inventamos.",
+          "tag": "En el sitio",
+          "title": "Apertura"
+        },
+        {
+          "description": "¿Cuánto cuesta? Nada. El acceso es libre y gratuito, y la fuente lo dice explícitamente: no lo deducimos de la ausencia de tarifas.",
+          "tag": "En el sitio",
+          "title": "Tarifas"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>Fort Marie-Christine</strong> es un fuerte sardo de la barrera del Esseillon en Aussois, Savoie. El sitio está protegido como monumento histórico (classé 27 juin 1983, ficha PA00118188 de la base nacional).</p><p><strong>¿Cuándo está abierto?</strong> Todo el año, todos los días, sin día de cierre publicado. Tampoco se publica ningún horario, y no lo inventamos.</p><p><strong>¿Cuánto cuesta? Nada.</strong> El acceso es libre y gratuito, y la fuente lo dice explícitamente: no lo deducimos de la ausencia de tarifas.</p><p>Ninguna fuente oficial dice nada sobre la accesibilidad: ni accesible ni inaccesible — se desconoce. No se admiten animales.</p><p>Esta página se basa únicamente en fuentes oficiales: gestor, municipio, parque, oficina de turismo, registro sanitario nacional. Donde dos de ellas se contradicen, se dan ambas y se señala la diferencia — no elegimos por usted. Donde callan, el dato queda vacío en lugar de adivinado.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuito",
+        "best_season": "Todo el año, todos los días",
+        "commune": "Aussois",
+        "dogs": "No se admiten animales.",
+        "parking": null,
+        "stroller": null,
+        "type": "fuerte sardo de la barrera del Esseillon"
+      },
+      "faq": [
+        {
+          "a": "Todo el año, todos los días, sin día de cierre publicado. Tampoco se publica ningún horario, y no lo inventamos.",
+          "q": "¿Cuándo está abierto?"
+        },
+        {
+          "a": "Nada. El acceso es libre y gratuito, y la fuente lo dice explícitamente: no lo deducimos de la ausencia de tarifas.",
+          "q": "¿Cuánto cuesta la entrada?"
+        },
+        {
+          "a": "No está establecido. Las fuentes oficiales no nombran el mismo, y no elegimos uno por ellas.",
+          "q": "¿Cuál es el día de cierre?"
+        },
+        {
+          "a": "Ninguna fuente oficial dice nada sobre la accesibilidad: ni accesible ni inaccesible — se desconoce.",
+          "q": "¿Es accesible en silla de ruedas?"
+        },
+        {
+          "a": "No se admiten animales.",
+          "q": "¿Se admiten animales?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratuito · Aussois",
+        "lead": "Fuerte sardo de la barrera del Esseillon en Aussois, Savoie. Gratuito, Todo el año, todos los días — y lo que las fuentes oficiales no dicen, dicho como tal."
+      },
+      "hero_alt": "Fort Marie-Christine, fuerte sardo de la barrera del Esseillon, en Aussois, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Esseillon, 73500 Aussois. Punto publicado: 45.221492, 6.734747. Se verificó la categoría del POI para descartar un homónimo.",
+        "public_transport": null
+      },
+      "meta_description": "Fort Marie-Christine en Aussois, Savoie: Gratuito, Todo el año, todos los días. Fuentes oficiales, discrepancias señaladas.",
+      "meta_title": "Fort Marie-Christine — Gratuito, Aussois",
+      "name": "Fort Marie-Christine",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Dirección",
+          "v": "Esseillon, 73500 Aussois"
+        },
+        {
+          "k": "Apertura",
+          "v": "Todo el año, todos los días"
+        },
+        {
+          "k": "Día de cierre",
+          "v": null
+        },
+        {
+          "k": "Tarifas",
+          "v": "Gratuito"
+        },
+        {
+          "k": "Protección",
+          "v": "classé 27 juin 1983"
+        },
+        {
+          "k": "Accesibilidad",
+          "v": "Ninguna fuente oficial dice nada sobre la accesibilidad: ni accesible ni inaccesible — se desconoce."
+        },
+        {
+          "k": "Animales",
+          "v": "No se admiten animales."
+        },
+        {
+          "k": "Teléfono",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Gratuito"
+      ],
+      "when_to_visit": "<p>Sitio cubierto o patrimonial: es una salida de mal tiempo tanto como de buen tiempo. Compruebe el día de cierre antes de salir, es ahí donde se pierden las visitas.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Quand est-ce ouvert ? Toute l'année, tous les jours, et sans jour de fermeture publié. Aucune amplitude horaire n'est publiée non plus : nous n'en inventons pas.",
+          "tag": "Sur place",
+          "title": "Ouverture"
+        },
+        {
+          "description": "Combien ça coûte ? Rien. L'accès est libre et gratuit, ce que la source écrit explicitement — nous ne le déduisons pas d'une absence de tarif.",
+          "tag": "Sur place",
+          "title": "Tarifs"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Le <strong>Fort Marie-Christine</strong> est un fort sarde de la barrière de l'Esseillon à Aussois, en Savoie. Le site est protégé au titre des monuments historiques (classé 27 juin 1983, notice PA00118188 de la base nationale).</p><p><strong>Quand est-ce ouvert ?</strong> Toute l'année, tous les jours, et sans jour de fermeture publié. Aucune amplitude horaire n'est publiée non plus : nous n'en inventons pas.</p><p><strong>Combien ça coûte ? Rien.</strong> L'accès est libre et gratuit, ce que la source écrit explicitement — nous ne le déduisons pas d'une absence de tarif.</p><p>Aucune source officielle ne dit quoi que ce soit de l'accessibilité : ni accessible, ni non accessible — inconnu. Les animaux ne sont pas acceptés.</p><p>Cette page est bâtie sur les sources officielles et sur elles seules : gestionnaire, commune, parc, office de tourisme, registre sanitaire national. Là où deux d'entre elles se contredisent, les deux sont données et l'écart est signalé — nous ne choisissons pas à votre place. Là où elles se taisent, la donnée reste vide plutôt que devinée.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuit",
+        "best_season": "Toute l'année, tous les jours",
+        "commune": "Aussois",
+        "dogs": "Les animaux ne sont pas acceptés.",
+        "parking": null,
+        "stroller": null,
+        "type": "fort sarde de la barrière de l'Esseillon"
+      },
+      "faq": [
+        {
+          "a": "Toute l'année, tous les jours, et sans jour de fermeture publié. Aucune amplitude horaire n'est publiée non plus : nous n'en inventons pas.",
+          "q": "Quand est-ce ouvert ?"
+        },
+        {
+          "a": "Rien. L'accès est libre et gratuit, ce que la source écrit explicitement — nous ne le déduisons pas d'une absence de tarif.",
+          "q": "Combien coûte l'entrée ?"
+        },
+        {
+          "a": "Il n'est pas établi. Les sources officielles n'en nomment pas le même, et nous n'en choisissons pas un pour elles.",
+          "q": "Quel est le jour de fermeture ?"
+        },
+        {
+          "a": "Aucune source officielle ne dit quoi que ce soit de l'accessibilité : ni accessible, ni non accessible — inconnu.",
+          "q": "Le site est-il accessible en fauteuil roulant ?"
+        },
+        {
+          "a": "Les animaux ne sont pas acceptés.",
+          "q": "Les animaux sont-ils acceptés ?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratuit · Aussois",
+        "lead": "Fort sarde de la barrière de l'Esseillon à Aussois, en Savoie. Gratuit, Toute l'année, tous les jours — et ce que les sources officielles ne disent pas, dit comme tel."
+      },
+      "hero_alt": "Fort Marie-Christine, fort sarde de la barrière de l'Esseillon, à Aussois, en Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Esseillon, 73500 Aussois. Point publié : 45.221492, 6.734747. La catégorie du POI a été vérifiée pour écarter un homonyme.",
+        "public_transport": null
+      },
+      "meta_description": "Fort Marie-Christine à Aussois, en Savoie : Gratuit, Toute l'année, tous les jours. Sources officielles, contradictions signalées.",
+      "meta_title": "Fort Marie-Christine — Gratuit, Aussois",
+      "name": "Fort Marie-Christine",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Adresse",
+          "v": "Esseillon, 73500 Aussois"
+        },
+        {
+          "k": "Ouverture",
+          "v": "Toute l'année, tous les jours"
+        },
+        {
+          "k": "Jour de fermeture",
+          "v": null
+        },
+        {
+          "k": "Tarifs",
+          "v": "Gratuit"
+        },
+        {
+          "k": "Protection",
+          "v": "classé 27 juin 1983"
+        },
+        {
+          "k": "Accessibilité",
+          "v": "Aucune source officielle ne dit quoi que ce soit de l'accessibilité : ni accessible, ni non accessible — inconnu."
+        },
+        {
+          "k": "Animaux",
+          "v": "Les animaux ne sont pas acceptés."
+        },
+        {
+          "k": "Téléphone",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Gratuit"
+      ],
+      "when_to_visit": "<p>Site couvert ou patrimonial : c'est une sortie de mauvais temps autant que de beau. Vérifiez le jour de fermeture avant de partir, c'est là que se perdent les visites.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Quando è aperto? Tutto l'anno, ogni giorno, senza giorno di chiusura pubblicato. Nemmeno gli orari sono pubblicati, e non li inventiamo.",
+          "tag": "In loco",
+          "title": "Apertura"
+        },
+        {
+          "description": "Quanto costa? Niente. L'accesso è libero e gratuito, e la fonte lo scrive esplicitamente: non lo deduciamo dall'assenza di un tariffario.",
+          "tag": "In loco",
+          "title": "Tariffe"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Il <strong>Fort Marie-Christine</strong> è un forte sardo della barriera dell'Esseillon a Aussois, in Savoie. Il sito è tutelato come monumento storico (classé 27 juin 1983, scheda PA00118188 della base nazionale).</p><p><strong>Quando è aperto?</strong> Tutto l'anno, ogni giorno, senza giorno di chiusura pubblicato. Nemmeno gli orari sono pubblicati, e non li inventiamo.</p><p><strong>Quanto costa? Niente.</strong> L'accesso è libero e gratuito, e la fonte lo scrive esplicitamente: non lo deduciamo dall'assenza di un tariffario.</p><p>Nessuna fonte ufficiale dice nulla sull'accessibilità: né accessibile né inaccessibile — sconosciuto. Gli animali non sono ammessi.</p><p>Questa pagina si basa solo su fonti ufficiali: gestore, comune, parco, ufficio del turismo, registro sanitario nazionale. Dove due di esse si contraddicono, entrambe sono riportate e lo scarto è segnalato — non scegliamo al posto vostro. Dove tacciono, il dato resta vuoto anziché indovinato.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuito",
+        "best_season": "Tutto l'anno, ogni giorno",
+        "commune": "Aussois",
+        "dogs": "Gli animali non sono ammessi.",
+        "parking": null,
+        "stroller": null,
+        "type": "forte sardo della barriera dell'Esseillon"
+      },
+      "faq": [
+        {
+          "a": "Tutto l'anno, ogni giorno, senza giorno di chiusura pubblicato. Nemmeno gli orari sono pubblicati, e non li inventiamo.",
+          "q": "Quando è aperto?"
+        },
+        {
+          "a": "Niente. L'accesso è libero e gratuito, e la fonte lo scrive esplicitamente: non lo deduciamo dall'assenza di un tariffario.",
+          "q": "Quanto costa l'ingresso?"
+        },
+        {
+          "a": "Non è accertato. Le fonti ufficiali non ne indicano lo stesso, e non ne scegliamo uno per loro.",
+          "q": "Qual è il giorno di chiusura?"
+        },
+        {
+          "a": "Nessuna fonte ufficiale dice nulla sull'accessibilità: né accessibile né inaccessibile — sconosciuto.",
+          "q": "Il sito è accessibile in carrozzina?"
+        },
+        {
+          "a": "Gli animali non sono ammessi.",
+          "q": "Gli animali sono ammessi?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratuito · Aussois",
+        "lead": "Forte sardo della barriera dell'Esseillon a Aussois, in Savoie. Gratuito, Tutto l'anno, ogni giorno — e ciò che le fonti ufficiali non dicono, detto come tale."
+      },
+      "hero_alt": "Fort Marie-Christine, forte sardo della barriera dell'Esseillon, a Aussois, in Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Esseillon, 73500 Aussois. Punto pubblicato: 45.221492, 6.734747. La categoria del POI è stata verificata per escludere un omonimo.",
+        "public_transport": null
+      },
+      "meta_description": "Fort Marie-Christine a Aussois, in Savoie: Gratuito, Tutto l'anno, ogni giorno. Fonti ufficiali, discordanze segnalate.",
+      "meta_title": "Fort Marie-Christine — Gratuito, Aussois",
+      "name": "Fort Marie-Christine",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Indirizzo",
+          "v": "Esseillon, 73500 Aussois"
+        },
+        {
+          "k": "Apertura",
+          "v": "Tutto l'anno, ogni giorno"
+        },
+        {
+          "k": "Giorno di chiusura",
+          "v": null
+        },
+        {
+          "k": "Tariffe",
+          "v": "Gratuito"
+        },
+        {
+          "k": "Tutela",
+          "v": "classé 27 juin 1983"
+        },
+        {
+          "k": "Accessibilità",
+          "v": "Nessuna fonte ufficiale dice nulla sull'accessibilità: né accessibile né inaccessibile — sconosciuto."
+        },
+        {
+          "k": "Animali",
+          "v": "Gli animali non sono ammessi."
+        },
+        {
+          "k": "Telefono",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Gratuito"
+      ],
+      "when_to_visit": "<p>Sito coperto o patrimoniale: è una gita da brutto tempo tanto quanto da bello. Verificate il giorno di chiusura prima di partire, è lì che si perdono le visite.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Wanneer is het open? Het hele jaar, elke dag, zonder gepubliceerde sluitingsdag. Ook openingstijden worden niet gepubliceerd, en die verzinnen wij niet.",
+          "tag": "Ter plaatse",
+          "title": "Opening"
+        },
+        {
+          "description": "Wat kost het? Niets. De toegang is vrij, en de bron zegt dat uitdrukkelijk — wij leiden het niet af uit een ontbrekende prijslijst.",
+          "tag": "Ter plaatse",
+          "title": "Tarieven"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Het <strong>Fort Marie-Christine</strong> is een Sardijns fort van de Esseillon-linie in Aussois, Savoie. Het complex is beschermd als historisch monument (classé 27 juin 1983, dossier PA00118188 in het nationale register).</p><p><strong>Wanneer is het open?</strong> Het hele jaar, elke dag, zonder gepubliceerde sluitingsdag. Ook openingstijden worden niet gepubliceerd, en die verzinnen wij niet.</p><p><strong>Wat kost het? Niets.</strong> De toegang is vrij, en de bron zegt dat uitdrukkelijk — wij leiden het niet af uit een ontbrekende prijslijst.</p><p>Geen enkele officiële bron zegt iets over de toegankelijkheid: niet toegankelijk, niet ontoegankelijk — onbekend. Dieren zijn niet toegestaan.</p><p>Deze pagina steunt uitsluitend op officiële bronnen: beheerder, gemeente, park, toeristenbureau, nationaal zwemwaterregister. Waar twee ervan elkaar tegenspreken, worden beide gegeven en wordt het verschil gemeld — wij kiezen niet voor u. Waar ze zwijgen, blijft het veld leeg in plaats van geraden.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": "Het hele jaar, elke dag",
+        "commune": "Aussois",
+        "dogs": "Dieren zijn niet toegestaan.",
+        "parking": null,
+        "stroller": null,
+        "type": "Sardijns fort van de Esseillon-linie"
+      },
+      "faq": [
+        {
+          "a": "Het hele jaar, elke dag, zonder gepubliceerde sluitingsdag. Ook openingstijden worden niet gepubliceerd, en die verzinnen wij niet.",
+          "q": "Wanneer is het open?"
+        },
+        {
+          "a": "Niets. De toegang is vrij, en de bron zegt dat uitdrukkelijk — wij leiden het niet af uit een ontbrekende prijslijst.",
+          "q": "Wat kost de toegang?"
+        },
+        {
+          "a": "Die staat niet vast. De officiële bronnen noemen niet dezelfde, en wij kiezen er niet één voor hen.",
+          "q": "Wat is de sluitingsdag?"
+        },
+        {
+          "a": "Geen enkele officiële bron zegt iets over de toegankelijkheid: niet toegankelijk, niet ontoegankelijk — onbekend.",
+          "q": "Is de locatie rolstoeltoegankelijk?"
+        },
+        {
+          "a": "Dieren zijn niet toegestaan.",
+          "q": "Zijn dieren toegestaan?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratis · Aussois",
+        "lead": "Sardijns fort van de Esseillon-linie in Aussois, Savoie. Gratis, Het hele jaar, elke dag — en wat de officiële bronnen niet zeggen, ook als zodanig gezegd."
+      },
+      "hero_alt": "Fort Marie-Christine, Sardijns fort van de Esseillon-linie in Aussois, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Esseillon, 73500 Aussois. Gepubliceerd punt: 45.221492, 6.734747. De POI-categorie is gecontroleerd om een naamgenoot uit te sluiten.",
+        "public_transport": null
+      },
+      "meta_description": "Fort Marie-Christine in Aussois, Savoie: Gratis, Het hele jaar, elke dag. Officiële bronnen, afwijkingen gemeld.",
+      "meta_title": "Fort Marie-Christine — Gratis, Aussois",
+      "name": "Fort Marie-Christine",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Adres",
+          "v": "Esseillon, 73500 Aussois"
+        },
+        {
+          "k": "Opening",
+          "v": "Het hele jaar, elke dag"
+        },
+        {
+          "k": "Sluitingsdag",
+          "v": null
+        },
+        {
+          "k": "Tarieven",
+          "v": "Gratis"
+        },
+        {
+          "k": "Bescherming",
+          "v": "classé 27 juin 1983"
+        },
+        {
+          "k": "Toegankelijkheid",
+          "v": "Geen enkele officiële bron zegt iets over de toegankelijkheid: niet toegankelijk, niet ontoegankelijk — onbekend."
+        },
+        {
+          "k": "Dieren",
+          "v": "Dieren zijn niet toegestaan."
+        },
+        {
+          "k": "Telefoon",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Gratis"
+      ],
+      "when_to_visit": "<p>Een overdekte of erfgoedlocatie: net zo goed een uitje voor slecht weer als voor mooi weer. Controleer vooraf de sluitingsdag — daar gaan de meeste bezoeken op stuk.</p>"
+    }
+  },
+  "latitude": 45.221492,
+  "longitude": 6.734747,
+  "official_site_url": "https://www.aussois.com/patrimoine-culturel/fort-marie-christine-aussois/",
+  "partners": [],
+  "postal_code": "73500",
+  "price_currency": null,
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Recherche du 17 août 2026, sources officielles uniquement. Saisons, jours de fermeture et grilles tarifaires cités mot pour mot avec leur URL ; toute divergence entre publieurs est reportée, jamais arbitrée. Label Musée de France vérifié sur la liste officielle de la DRAC Auvergne-Rhône-Alpes, pas sur la déclaration du site. Protection monument historique vérifiée notice par notice dans la base nationale Mérimée. Coordonnées : géocodeur IGN Géoplateforme, catégorie du POI contrôlée pour écarter les homonymes. Les pages anglaises des offices de tourisme savoyards se sont révélées systématiquement périmées ou inversées : seules les pages françaises sont citées.",
+  "schema_org": {
+    "amenities": [
+      "Gratuit"
+    ],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "fort-marie-christine-esseillon",
+  "sources": [
+    "https://www.aussois.com/patrimoine-culturel/fort-marie-christine-aussois/",
+    "https://pop.culture.gouv.fr/notice/merimee/PA00118188",
+    "https://www.fondation-facim.fr/fiche/fort-marie-christine"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "patrimoine",
+  "verify_flags": [
+    "LEQUEL DES CINQ — Marie-Christine est le plus HAUT des cinq ouvrages de la barrière de l'Esseillon et le plus proche du village d'Aussois. Ce n'est ni le fort Victor-Emmanuel (le plus grand, plus bas) ni la redoute Marie-Thérèse (côté Avrieux, de l'autre côté de l'Arc), qui ont chacun leur fiche.",
+    "CE QU'ON VISITE — « une maquette de l'ensemble du site de l'Esseillon, une très belle charpente et une présentation du Parc national de la Vanoise ». Accès libre, sans billetterie. Le fort abrite par ailleurs un gîte d'étape et un restaurant, qui suivent leur propre calendrier.",
+    "DANGER CHEZ LE VOISIN — l'office de tourisme écrit que « le fort Charles Félix est en ruine et son accès est dangereux et fortement déconseillé ». Ce n'est pas ce fort-ci, mais c'est à 400 m et la confusion est facile.",
+    "HORAIRES ABSENTS — « Toute l'année tous les jours » est publié sans aucune amplitude horaire. Aucune n'est inventée.",
+    "GÎTE-RESTAURANT — son site affiche une fermeture annuelle et un retour « dès le 20 décembre », sans préciser l'année. Impossible de dire de quel 20 décembre il s'agit. Cela ne concerne pas la visite libre du fort.",
+    "VISUEL vérifié à l'œil (17/08/2026) — château médiéval dans la brume, déjà l'image de Miolans et Tamié (convention du corpus) ; le vivier n'a aucune image de fort Séré-de-Rivières/sarde.",
+    "ACCES_PMR_UNVERIFIED",
+    "COORDONNÉES — POI IGN « Fort Marie-Christine », catégorie ouvrage militaire — retenu de préférence au POI jumeau « hébergement de loisirs » situé à ~8 m, qui désigne le gîte."
+  ]
+}

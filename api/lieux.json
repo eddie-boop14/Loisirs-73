@@ -1,6 +1,27 @@
 {
-  "count": 89,
+  "count": 103,
   "lieux": [
+    {
+      "slug": "abbaye-royale-d-hautecombe",
+      "name": "Abbaye d'Hautecombe",
+      "category": "chateau",
+      "commune": "Saint-Pierre-de-Curtille",
+      "postal_code": "73310",
+      "latitude": 45.752849,
+      "longitude": 5.839688,
+      "urls": {
+        "fr": "https://loisirs73.fr/abbaye-royale-d-hautecombe",
+        "en": "https://loisirs73.fr/en/abbaye-royale-d-hautecombe",
+        "de": "https://loisirs73.fr/de/abbaye-royale-d-hautecombe",
+        "it": "https://loisirs73.fr/it/abbaye-royale-d-hautecombe",
+        "es": "https://loisirs73.fr/es/abbaye-royale-d-hautecombe",
+        "nl": "https://loisirs73.fr/nl/abbaye-royale-d-hautecombe"
+      },
+      "facet_md": "https://loisirs73.fr/content/abbaye-royale-d-hautecombe.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/abbaye-royale-d-hautecombe.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/abbaye-royale-d-hautecombe.json",
+      "photo": "/img/generique/generique-chateau-toiture.jpg"
+    },
     {
       "slug": "base-de-loisirs-des-glieres-grignon",
       "name": "Base de loisirs des Glières",
@@ -294,6 +315,27 @@
       "facet_md_en": "https://loisirs73.fr/content/en/cirque-de-saint-meme.md",
       "facet_json": "https://loisirs73.fr/api/lieu/cirque-de-saint-meme.json",
       "photo": "/img/generique/generique-cascade.jpg"
+    },
+    {
+      "slug": "cite-medievale-de-conflans-albertville",
+      "name": "Cité médiévale de Conflans",
+      "category": "chateau",
+      "commune": "Albertville",
+      "postal_code": "73200",
+      "latitude": 45.672034,
+      "longitude": 6.397403,
+      "urls": {
+        "fr": "https://loisirs73.fr/cite-medievale-de-conflans-albertville",
+        "en": "https://loisirs73.fr/en/cite-medievale-de-conflans-albertville",
+        "de": "https://loisirs73.fr/de/cite-medievale-de-conflans-albertville",
+        "it": "https://loisirs73.fr/it/cite-medievale-de-conflans-albertville",
+        "es": "https://loisirs73.fr/es/cite-medievale-de-conflans-albertville",
+        "nl": "https://loisirs73.fr/nl/cite-medievale-de-conflans-albertville"
+      },
+      "facet_md": "https://loisirs73.fr/content/cite-medievale-de-conflans-albertville.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/cite-medievale-de-conflans-albertville.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/cite-medievale-de-conflans-albertville.json",
+      "photo": "/img/generique/generique-chateau.jpg"
     },
     {
       "slug": "col-de-l-iseran",
@@ -674,6 +716,48 @@
       "photo": "/img/generique/generique-chateau-brume.jpg"
     },
     {
+      "slug": "fort-du-telegraphe-valloire",
+      "name": "Fort du Télégraphe",
+      "category": "chateau",
+      "commune": "Valloire",
+      "postal_code": "73450",
+      "latitude": 45.210473,
+      "longitude": 6.446145,
+      "urls": {
+        "fr": "https://loisirs73.fr/fort-du-telegraphe-valloire",
+        "en": "https://loisirs73.fr/en/fort-du-telegraphe-valloire",
+        "de": "https://loisirs73.fr/de/fort-du-telegraphe-valloire",
+        "it": "https://loisirs73.fr/it/fort-du-telegraphe-valloire",
+        "es": "https://loisirs73.fr/es/fort-du-telegraphe-valloire",
+        "nl": "https://loisirs73.fr/nl/fort-du-telegraphe-valloire"
+      },
+      "facet_md": "https://loisirs73.fr/content/fort-du-telegraphe-valloire.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/fort-du-telegraphe-valloire.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/fort-du-telegraphe-valloire.json",
+      "photo": "/img/generique/generique-orientation.jpg"
+    },
+    {
+      "slug": "fort-marie-christine-esseillon",
+      "name": "Fort Marie-Christine",
+      "category": "chateau",
+      "commune": "Aussois",
+      "postal_code": "73500",
+      "latitude": 45.221492,
+      "longitude": 6.734747,
+      "urls": {
+        "fr": "https://loisirs73.fr/fort-marie-christine-esseillon",
+        "en": "https://loisirs73.fr/en/fort-marie-christine-esseillon",
+        "de": "https://loisirs73.fr/de/fort-marie-christine-esseillon",
+        "it": "https://loisirs73.fr/it/fort-marie-christine-esseillon",
+        "es": "https://loisirs73.fr/es/fort-marie-christine-esseillon",
+        "nl": "https://loisirs73.fr/nl/fort-marie-christine-esseillon"
+      },
+      "facet_md": "https://loisirs73.fr/content/fort-marie-christine-esseillon.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/fort-marie-christine-esseillon.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/fort-marie-christine-esseillon.json",
+      "photo": "/img/generique/generique-chateau-brume.jpg"
+    },
+    {
       "slug": "fort-victor-emmanuel-aussois",
       "name": "Fort Victor-Emmanuel",
       "category": "chateau",
@@ -800,6 +884,27 @@
       "photo": "/img/generique/generique-lac-coucher-soleil.jpg"
     },
     {
+      "slug": "lac-de-la-plagne-peisey-nancroix",
+      "name": "Lac de la Plagne",
+      "category": "lac",
+      "commune": "Peisey-Nancroix",
+      "postal_code": "73210",
+      "latitude": 45.484031,
+      "longitude": 6.84148,
+      "urls": {
+        "fr": "https://loisirs73.fr/lac-de-la-plagne-peisey-nancroix",
+        "en": "https://loisirs73.fr/en/lac-de-la-plagne-peisey-nancroix",
+        "de": "https://loisirs73.fr/de/lac-de-la-plagne-peisey-nancroix",
+        "it": "https://loisirs73.fr/it/lac-de-la-plagne-peisey-nancroix",
+        "es": "https://loisirs73.fr/es/lac-de-la-plagne-peisey-nancroix",
+        "nl": "https://loisirs73.fr/nl/lac-de-la-plagne-peisey-nancroix"
+      },
+      "facet_md": "https://loisirs73.fr/content/lac-de-la-plagne-peisey-nancroix.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/lac-de-la-plagne-peisey-nancroix.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/lac-de-la-plagne-peisey-nancroix.json",
+      "photo": "/img/generique/generique-sentier-automne-rouge.jpg"
+    },
+    {
       "slug": "lac-de-la-thuile",
       "name": "Lac de La Thuile",
       "category": "lac",
@@ -819,6 +924,27 @@
       "facet_md_en": "https://loisirs73.fr/content/en/lac-de-la-thuile.md",
       "facet_json": "https://loisirs73.fr/api/lieu/lac-de-la-thuile.json",
       "photo": "/img/generique/generique-famille-balade.jpg"
+    },
+    {
+      "slug": "lac-de-roselend",
+      "name": "Lac de Roselend",
+      "category": "lac",
+      "commune": "Beaufort",
+      "postal_code": "73270",
+      "latitude": 45.685071,
+      "longitude": 6.632732,
+      "urls": {
+        "fr": "https://loisirs73.fr/lac-de-roselend",
+        "en": "https://loisirs73.fr/en/lac-de-roselend",
+        "de": "https://loisirs73.fr/de/lac-de-roselend",
+        "it": "https://loisirs73.fr/it/lac-de-roselend",
+        "es": "https://loisirs73.fr/es/lac-de-roselend",
+        "nl": "https://loisirs73.fr/nl/lac-de-roselend"
+      },
+      "facet_md": "https://loisirs73.fr/content/lac-de-roselend.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/lac-de-roselend.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/lac-de-roselend.json",
+      "photo": "/img/generique/generique-point-de-vue.jpg"
     },
     {
       "slug": "lac-de-sainte-helene",
@@ -861,6 +987,27 @@
       "facet_md_en": "https://loisirs73.fr/content/en/lac-de-tignes.md",
       "facet_json": "https://loisirs73.fr/api/lieu/lac-de-tignes.json",
       "photo": "/img/generique/generique-lac-hiver.jpg"
+    },
+    {
+      "slug": "lac-de-tueda-les-allues",
+      "name": "Lac de Tuéda",
+      "category": "lac",
+      "commune": "Les Allues",
+      "postal_code": "73550",
+      "latitude": 45.362324,
+      "longitude": 6.586905,
+      "urls": {
+        "fr": "https://loisirs73.fr/lac-de-tueda-les-allues",
+        "en": "https://loisirs73.fr/en/lac-de-tueda-les-allues",
+        "de": "https://loisirs73.fr/de/lac-de-tueda-les-allues",
+        "it": "https://loisirs73.fr/it/lac-de-tueda-les-allues",
+        "es": "https://loisirs73.fr/es/lac-de-tueda-les-allues",
+        "nl": "https://loisirs73.fr/nl/lac-de-tueda-les-allues"
+      },
+      "facet_md": "https://loisirs73.fr/content/lac-de-tueda-les-allues.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/lac-de-tueda-les-allues.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/lac-de-tueda-les-allues.json",
+      "photo": "/img/generique/generique-sentier-detail-pomme-pin.jpg"
     },
     {
       "slug": "lac-des-hurtieres",
@@ -968,6 +1115,27 @@
       "photo": "/img/generique/generique-lac.jpg"
     },
     {
+      "slug": "lac-saint-clair-detrier",
+      "name": "Lac Saint-Clair",
+      "category": "lac",
+      "commune": "Détrier",
+      "postal_code": "73110",
+      "latitude": 45.450938,
+      "longitude": 6.10121,
+      "urls": {
+        "fr": "https://loisirs73.fr/lac-saint-clair-detrier",
+        "en": "https://loisirs73.fr/en/lac-saint-clair-detrier",
+        "de": "https://loisirs73.fr/de/lac-saint-clair-detrier",
+        "it": "https://loisirs73.fr/it/lac-saint-clair-detrier",
+        "es": "https://loisirs73.fr/es/lac-saint-clair-detrier",
+        "nl": "https://loisirs73.fr/nl/lac-saint-clair-detrier"
+      },
+      "facet_md": "https://loisirs73.fr/content/lac-saint-clair-detrier.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/lac-saint-clair-detrier.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/lac-saint-clair-detrier.json",
+      "photo": "/img/generique/generique-reserve-zone-humide-4.jpg"
+    },
+    {
       "slug": "lacs-de-saint-jean-de-chevelu",
       "name": "Lacs de Saint-Jean-de-Chevelu",
       "category": "lac",
@@ -987,6 +1155,27 @@
       "facet_md_en": "https://loisirs73.fr/content/en/lacs-de-saint-jean-de-chevelu.md",
       "facet_json": "https://loisirs73.fr/api/lieu/lacs-de-saint-jean-de-chevelu.json",
       "photo": "/img/generique/generique-reserve-zone-humide-1.jpg"
+    },
+    {
+      "slug": "le-grand-filon-musee-du-fer",
+      "name": "Le Grand Filon, musée du fer",
+      "category": "musee",
+      "commune": "Saint-Georges-d'Hurtières",
+      "postal_code": "73220",
+      "latitude": 45.51049,
+      "longitude": 6.28031,
+      "urls": {
+        "fr": "https://loisirs73.fr/le-grand-filon-musee-du-fer",
+        "en": "https://loisirs73.fr/en/le-grand-filon-musee-du-fer",
+        "de": "https://loisirs73.fr/de/le-grand-filon-musee-du-fer",
+        "it": "https://loisirs73.fr/it/le-grand-filon-musee-du-fer",
+        "es": "https://loisirs73.fr/es/le-grand-filon-musee-du-fer",
+        "nl": "https://loisirs73.fr/nl/le-grand-filon-musee-du-fer"
+      },
+      "facet_md": "https://loisirs73.fr/content/le-grand-filon-musee-du-fer.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/le-grand-filon-musee-du-fer.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/le-grand-filon-musee-du-fer.json",
+      "photo": "/img/generique/generique-speleo-galerie.jpg"
     },
     {
       "slug": "les-charmettes-maison-jean-jacques-rousseau-chambery",
@@ -1010,6 +1199,48 @@
       "photo": "/img/generique/generique-jardin-allee-roses.jpg"
     },
     {
+      "slug": "musee-d-art-et-d-histoire-albertville",
+      "name": "Musée d'art et d'histoire d'Albertville",
+      "category": "musee",
+      "commune": "Albertville",
+      "postal_code": "73200",
+      "latitude": 45.670601,
+      "longitude": 6.397205,
+      "urls": {
+        "fr": "https://loisirs73.fr/musee-d-art-et-d-histoire-albertville",
+        "en": "https://loisirs73.fr/en/musee-d-art-et-d-histoire-albertville",
+        "de": "https://loisirs73.fr/de/musee-d-art-et-d-histoire-albertville",
+        "it": "https://loisirs73.fr/it/musee-d-art-et-d-histoire-albertville",
+        "es": "https://loisirs73.fr/es/musee-d-art-et-d-histoire-albertville",
+        "nl": "https://loisirs73.fr/nl/musee-d-art-et-d-histoire-albertville"
+      },
+      "facet_md": "https://loisirs73.fr/content/musee-d-art-et-d-histoire-albertville.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/musee-d-art-et-d-histoire-albertville.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/musee-d-art-et-d-histoire-albertville.json",
+      "photo": "/img/generique/generique-musee-classique.jpg"
+    },
+    {
+      "slug": "musee-de-la-vigne-et-du-vin-de-savoie-montmelian",
+      "name": "Musée de la vigne et du vin de Savoie",
+      "category": "musee",
+      "commune": "Montmélian",
+      "postal_code": "73800",
+      "latitude": 45.500501,
+      "longitude": 6.059112,
+      "urls": {
+        "fr": "https://loisirs73.fr/musee-de-la-vigne-et-du-vin-de-savoie-montmelian",
+        "en": "https://loisirs73.fr/en/musee-de-la-vigne-et-du-vin-de-savoie-montmelian",
+        "de": "https://loisirs73.fr/de/musee-de-la-vigne-et-du-vin-de-savoie-montmelian",
+        "it": "https://loisirs73.fr/it/musee-de-la-vigne-et-du-vin-de-savoie-montmelian",
+        "es": "https://loisirs73.fr/es/musee-de-la-vigne-et-du-vin-de-savoie-montmelian",
+        "nl": "https://loisirs73.fr/nl/musee-de-la-vigne-et-du-vin-de-savoie-montmelian"
+      },
+      "facet_md": "https://loisirs73.fr/content/musee-de-la-vigne-et-du-vin-de-savoie-montmelian.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/musee-de-la-vigne-et-du-vin-de-savoie-montmelian.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/musee-de-la-vigne-et-du-vin-de-savoie-montmelian.json",
+      "photo": "/img/generique/generique-distillerie.jpg"
+    },
+    {
       "slug": "musee-des-beaux-arts-chambery",
       "name": "Musée des Beaux-Arts de Chambéry",
       "category": "musee",
@@ -1029,6 +1260,27 @@
       "facet_md_en": "https://loisirs73.fr/content/en/musee-des-beaux-arts-chambery.md",
       "facet_json": "https://loisirs73.fr/api/lieu/musee-des-beaux-arts-chambery.json",
       "photo": "/img/generique/generique-musee-classique.jpg"
+    },
+    {
+      "slug": "musee-du-felicien-argentine",
+      "name": "Musée du Félicien",
+      "category": "musee",
+      "commune": "Argentine",
+      "postal_code": "73220",
+      "latitude": 45.493552,
+      "longitude": 6.312664,
+      "urls": {
+        "fr": "https://loisirs73.fr/musee-du-felicien-argentine",
+        "en": "https://loisirs73.fr/en/musee-du-felicien-argentine",
+        "de": "https://loisirs73.fr/de/musee-du-felicien-argentine",
+        "it": "https://loisirs73.fr/it/musee-du-felicien-argentine",
+        "es": "https://loisirs73.fr/es/musee-du-felicien-argentine",
+        "nl": "https://loisirs73.fr/nl/musee-du-felicien-argentine"
+      },
+      "facet_md": "https://loisirs73.fr/content/musee-du-felicien-argentine.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/musee-du-felicien-argentine.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/musee-du-felicien-argentine.json",
+      "photo": "/img/generique/generique-ferme-chevres.jpg"
     },
     {
       "slug": "musee-opinel-saint-jean-de-maurienne",
@@ -1091,6 +1343,27 @@
       "facet_md": "https://loisirs73.fr/content/musee-savoisien-chambery.md",
       "facet_md_en": "https://loisirs73.fr/content/en/musee-savoisien-chambery.md",
       "facet_json": "https://loisirs73.fr/api/lieu/musee-savoisien-chambery.json",
+      "photo": "/img/generique/generique-musee.jpg"
+    },
+    {
+      "slug": "musee-val-histoire-val-d-isere",
+      "name": "Musée Val Histoire",
+      "category": "musee",
+      "commune": "Val-d'Isère",
+      "postal_code": "73150",
+      "latitude": 45.44732,
+      "longitude": 6.975356,
+      "urls": {
+        "fr": "https://loisirs73.fr/musee-val-histoire-val-d-isere",
+        "en": "https://loisirs73.fr/en/musee-val-histoire-val-d-isere",
+        "de": "https://loisirs73.fr/de/musee-val-histoire-val-d-isere",
+        "it": "https://loisirs73.fr/it/musee-val-histoire-val-d-isere",
+        "es": "https://loisirs73.fr/es/musee-val-histoire-val-d-isere",
+        "nl": "https://loisirs73.fr/nl/musee-val-histoire-val-d-isere"
+      },
+      "facet_md": "https://loisirs73.fr/content/musee-val-histoire-val-d-isere.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/musee-val-histoire-val-d-isere.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/musee-val-histoire-val-d-isere.json",
       "photo": "/img/generique/generique-musee.jpg"
     },
     {
@@ -1743,6 +2016,27 @@
       "facet_md_en": "https://loisirs73.fr/content/en/tours-de-chignin.md",
       "facet_json": "https://loisirs73.fr/api/lieu/tours-de-chignin.json",
       "photo": "/img/generique/generique-chateau.jpg"
+    },
+    {
+      "slug": "tours-de-montmayeur-villard-sallet",
+      "name": "Tours de Montmayeur",
+      "category": "chateau",
+      "commune": "Villard-Sallet",
+      "postal_code": "73110",
+      "latitude": 45.489399,
+      "longitude": 6.123415,
+      "urls": {
+        "fr": "https://loisirs73.fr/tours-de-montmayeur-villard-sallet",
+        "en": "https://loisirs73.fr/en/tours-de-montmayeur-villard-sallet",
+        "de": "https://loisirs73.fr/de/tours-de-montmayeur-villard-sallet",
+        "it": "https://loisirs73.fr/it/tours-de-montmayeur-villard-sallet",
+        "es": "https://loisirs73.fr/es/tours-de-montmayeur-villard-sallet",
+        "nl": "https://loisirs73.fr/nl/tours-de-montmayeur-villard-sallet"
+      },
+      "facet_md": "https://loisirs73.fr/content/tours-de-montmayeur-villard-sallet.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/tours-de-montmayeur-villard-sallet.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/tours-de-montmayeur-villard-sallet.json",
+      "photo": "/img/generique/generique-sentier-fog.jpg"
     },
     {
       "slug": "tremplin-92-maison-des-jeux-olympiques-albertville",

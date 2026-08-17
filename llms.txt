@@ -2,7 +2,7 @@
 
 > Independent guide to public leisure sites in Savoie, France. Waterfalls, Castles, Domaine, Lakes, Museums, Beaches, Mountain passes and viewpoints, Trails, Cable cars and lifts, Greenways — every fact verified against official sources (communes, tourism offices, ONF).
 
-Loisirs 73 catalogs 89 leisure destinations in the Savoie department (73), French Alps. Each destination exposes three machine surfaces (below) plus HTML pages in 6 languages (French canonical).
+Loisirs 73 catalogs 103 leisure destinations in the Savoie department (73), French Alps. Each destination exposes three machine surfaces (below) plus HTML pages in 6 languages (French canonical).
 
 ## URL patterns (per lieu — fastest lane for agents)
 
@@ -33,7 +33,7 @@ Content quality signals: Every fact has a cited source. No marketing language. I
 
 ## Discovery files
 
-- [llms-full.txt — full content concatenated](https://loisirs73.fr/llms-full.txt): All 89 leisure sites' FR facet md — single file for full ingestion.
+- [llms-full.txt — full content concatenated](https://loisirs73.fr/llms-full.txt): All 103 leisure sites' FR facet md — single file for full ingestion.
 - [API — lieux index JSON](https://loisirs73.fr/api/lieux.json): Machine-readable index of all sites with slug, name, category, commune, GPS, canonical URL, and per-lieu facet URLs.
 - [Sitemap index](https://loisirs73.fr/sitemap.xml): Standard XML sitemap with lastmod, hreflang, image entries.
 - [.well-known/ai-info.json](https://loisirs73.fr/.well-known/ai-info.json): Discovery manifest with all AI-related endpoints.
@@ -44,7 +44,7 @@ Content quality signals: Every fact has a cited source. No marketing language. I
 - [Les grands cols de Savoie : altitudes, ouvertures, accès](https://loisirs73.fr/content/selections/cols-savoie.md): 15 lieux · page: https://loisirs73.fr/que-faire/cols-de-savoie/
 - [Téléphériques et télécabines de Savoie : horaires et tarifs vérifiés](https://loisirs73.fr/content/selections/remontees-savoie.md): 15 lieux · page: https://loisirs73.fr/que-faire/remontees-mecaniques-savoie/
 - [La Tarentaise en altitude : glaciers, funiculaire et téléphériques](https://loisirs73.fr/content/selections/tarentaise-altitude.md): 14 lieux · page: https://loisirs73.fr/que-faire/tarentaise-en-altitude/
-- [Les 3 Vallées en altitude : les points hauts accessibles](https://loisirs73.fr/content/selections/trois-vallees-altitude.md): 6 lieux · page: https://loisirs73.fr/que-faire/les-3-vallees-en-altitude/
+- [Les 3 Vallées en altitude : les points hauts accessibles](https://loisirs73.fr/content/selections/trois-vallees-altitude.md): 7 lieux · page: https://loisirs73.fr/que-faire/les-3-vallees-en-altitude/
 
 <!-- facet-indexes:start -->
 ## Facet indexes (cross-cutting answers in one fetch)
@@ -53,30 +53,34 @@ Use these when the question spans many sites (e.g. "which waterfalls have parkin
 
 ## Category hubs (use these for browsing by type)
 
-- [Lacs & plages](https://loisirs73.fr/content/lacs.md): 23 lieux.
+- [Lacs & plages](https://loisirs73.fr/content/lacs.md): 27 lieux.
 - [Cascades](https://loisirs73.fr/content/cascades.md): 7 lieux.
 - [Bases de loisirs](https://loisirs73.fr/content/bases-de-loisirs.md): 4 lieux.
 - [Points de vue](https://loisirs73.fr/content/points-de-vue.md): 15 lieux.
 - [Téléphériques & télécabines](https://loisirs73.fr/content/telecabines.md): 15 lieux.
-- [Châteaux](https://loisirs73.fr/content/chateaux.md): 7 lieux.
+- [Châteaux](https://loisirs73.fr/content/chateaux.md): 12 lieux.
 - [Sentiers](https://loisirs73.fr/content/sentiers.md): 7 lieux.
 - [Voies vertes](https://loisirs73.fr/content/voies-vertes.md): 4 lieux.
-- [Musées](https://loisirs73.fr/content/musees.md): 7 lieux.
+- [Musées](https://loisirs73.fr/content/musees.md): 12 lieux.
 
-## All lieux by category (89 total)
+## All lieux by category (103 total)
 
-### Lacs & plages (23 lieux)
+### Lacs & plages (27 lieux)
 
 - [Base de loisirs de Grésy-sur-Isère (Grésy-sur-Isère)](https://loisirs73.fr/content/base-de-loisirs-gresy-sur-isere.md): Le plan d'eau de Grésy-sur-Isère : accès gratuit, lauréat Pavillon Bleu, baignade surveillée l'été de 12h à 18h. Sources officielles, dates 2026.
 - [Lac d'Aiguebelette (Nances)](https://loisirs73.fr/content/lac-d-aiguebelette.md): Le lac d'Aiguebelette : l'un des plus chauds de France (jusqu'à 28 °C), sans moteurs thermiques, réserve naturelle régionale de 844 ha, aviron…
 - [Lac de Carouge (Saint-Pierre-d'Albigny)](https://loisirs73.fr/content/lac-de-carouge-saint-pierre-d-albigny.md): Le lac de Carouge à Saint-Pierre-d'Albigny : plage gratuite, baignade surveillée en juillet-août (13h–19h), parking payant l'été. Sources officielles.
+- [Lac de la Plagne (Peisey-Nancroix)](https://loisirs73.fr/content/lac-de-la-plagne-peisey-nancroix.md): Lac de la Plagne (Peisey-Nancroix, Savoie), 2 144 m : Baignade non déclarée, non surveillée. Sources officielles, contradictions signalées.
 - [Lac de La Thuile (La Thuile)](https://loisirs73.fr/content/lac-de-la-thuile.md): Le lac de La Thuile, petit lac alpin à 874 m dans les Bauges : tour facile en 45 minutes, pêche du 1er mai au 15 novembre, Espace Naturel Sensible.…
+- [Lac de Roselend (Beaufort)](https://loisirs73.fr/content/lac-de-roselend.md): Lac de Roselend (Beaufort, Savoie), 1 557 m : Baignade interdite. Sources officielles, contradictions signalées.
 - [Lac de Sainte-Hélène (Sainte-Hélène-du-Lac)](https://loisirs73.fr/content/lac-de-sainte-helene.md): Le lac de Sainte-Hélène (Cœur de Savoie) : baignade interdite, pêche réciprocitaire (carpe no-kill), tour du lac accessible PMR, hérons et guêpiers…
 - [Lac de Tignes (Tignes)](https://loisirs73.fr/content/lac-de-tignes.md): Le lac naturel de Tignes, à 2100 m au cœur de la station : baignade interdite par arrêté permanent, Acroland et base nautique, pêche à la truite,…
+- [Lac de Tuéda (Les Allues)](https://loisirs73.fr/content/lac-de-tueda-les-allues.md): Lac de Tuéda (Les Allues, Savoie) : Baignade non déclarée, non surveillée. Sources officielles, contradictions signalées.
 - [Lac des Hurtières (Saint-Alban-d'Hurtières)](https://loisirs73.fr/content/lac-des-hurtieres.md): Le lac des Hurtières (basse Maurienne, 320 m) : baignade gratuite surveillée l'été, eau à 25 °C classée Excellente, plaine Natura 2000 avec…
 - [Lac du Bourget (Aix-les-Bains)](https://loisirs73.fr/content/lac-du-bourget.md): Le lac du Bourget : 18 km d'eau, plages surveillées classées Excellente, croisières vers Hautecombe et le canal de Savières, voie verte V63. Chiffres…
 - [Lac du Mont-Cenis (Val-Cenis)](https://loisirs73.fr/content/lac-du-mont-cenis.md): Le lac du Mont-Cenis à Val-Cenis : 320 millions de m³ derrière le plus grand barrage en enrochement de France, baignade interdite, kayak-pédalo « le…
 - [Lac Saint-André (Porte-de-Savoie)](https://loisirs73.fr/content/lac-saint-andre-porte-de-savoie.md): Le lac Saint-André au pied du Granier : accès gratuit, tour du lac en toute saison, baignade tolérée non surveillée, pêche du 7 mars au 6 décembre…
+- [Lac Saint-Clair (Détrier)](https://loisirs73.fr/content/lac-saint-clair-detrier.md): Lac Saint-Clair (Détrier, Savoie) : Baignade non déclarée, non surveillée. Sources officielles, contradictions signalées.
 - [Lacs de Saint-Jean-de-Chevelu (Saint-Jean-de-Chevelu)](https://loisirs73.fr/content/lacs-de-saint-jean-de-chevelu.md): Deux lacs glaciaires au pied de la Dent du Chat : marais protégés depuis 1990, pêche labellisée Famille sur les deux lacs, boucles à belvédères.…
 - [Plage d'Aiguebelette-le-Lac (Aiguebelette-le-Lac)](https://loisirs73.fr/content/plage-aiguebelette-le-lac.md): La plage d'Aiguebelette-le-Lac, au Port : payante du 13 juin au 30 août 2026, pédalos, canoës et paddle en location, accessible en fauteuil en…
 - [Plage de Châtillon (Chindrieux)](https://loisirs73.fr/content/plage-de-chatillon-chindrieux.md): Plage de Châtillon à Chindrieux : baignade surveillée du 27 juin au 30 août 2026. Gratuit. Eau classée Excellente par l'ARS en 2025.
@@ -144,15 +148,20 @@ Use these when the question spans many sites (e.g. "which waterfalls have parkin
 - [Téléphérique du Mont-Bochor (Pralognan-la-Vanoise)](https://loisirs73.fr/content/telepherique-du-mont-bochor.md): Téléphérique de Pralognan vers le promontoire du Mont Bochor et sa table d'orientation à 2 023 m. Coupure de 12h45 à 13h30 ; en juin, trois jours par…
 - [Vanoise Express (Peisey-Nancroix)](https://loisirs73.fr/content/vanoise-express.md): Téléphérique double-étage entre Plan-Peisey (1 612 m) et Montchavin (1 548 m). Été 2026 : 6 juillet – 28 août, lundi, mardi, jeudi et vendredi…
 
-### Châteaux (7 lieux)
+### Châteaux (12 lieux)
 
+- [Abbaye d'Hautecombe (Saint-Pierre-de-Curtille)](https://loisirs73.fr/content/abbaye-royale-d-hautecombe.md): Abbaye d'Hautecombe à Saint-Pierre-de-Curtille, en Savoie : Payant, Saison publiée. Sources officielles, contradictions signalées.
 - [Château de Miolans (Saint-Pierre-d'Albigny)](https://loisirs73.fr/content/chateau-de-miolans-saint-pierre-d-albigny.md): Le château de Miolans à Saint-Pierre-d'Albigny : donjon du XIIe, prison d'État où fut enfermé Sade, jardin de Simples. Ouverture et tarifs 2026…
 - [Château de Thomas II (Le Bourget-du-Lac)](https://loisirs73.fr/content/chateau-de-thomas-ii-le-bourget-du-lac.md): Le château de Thomas II au Bourget-du-Lac : cour en accès libre, tour de la Poterne muséographique en été (2 €), marais protégés. Sources officielles.
 - [Château des ducs de Savoie (Chambéry)](https://loisirs73.fr/content/chateau-des-ducs-de-savoie-chambery.md): Le château des ducs de Savoie à Chambéry : Sainte-Chapelle du XVe, Grand Carillon de 70 cloches, visites guidées 2026 à 7,50 €. Sources officielles.
+- [Cité médiévale de Conflans (Albertville)](https://loisirs73.fr/content/cite-medievale-de-conflans-albertville.md): Cité médiévale de Conflans à Albertville, en Savoie : Gratuit, Toute l'année, tous les jours. Sources officielles, contradictions signalées.
 - [Fort de Tamié (Mercury)](https://loisirs73.fr/content/fort-de-tamie-mercury.md): Le fort de Tamié au-dessus d'Albertville : accès libre et gratuit, sentier du Tour du Fort, trois belvédères, audio-guide et parcours aventure.…
+- [Fort du Télégraphe (Valloire)](https://loisirs73.fr/content/fort-du-telegraphe-valloire.md): Fort du Télégraphe à Valloire, en Savoie : Tarif non établi, Contestée : quatre sources, quatre réponses. Sources officielles, contradictions…
+- [Fort Marie-Christine (Aussois)](https://loisirs73.fr/content/fort-marie-christine-esseillon.md): Fort Marie-Christine à Aussois, en Savoie : Gratuit, Toute l'année, tous les jours. Sources officielles, contradictions signalées.
 - [Fort Victor-Emmanuel (Aussois)](https://loisirs73.fr/content/fort-victor-emmanuel-aussois.md): Le fort Victor-Emmanuel à Aussois, pièce maîtresse de la barrière de l'Esseillon : accès libre toute l'année, place d'armes, chapelle, pénitencier.…
 - [Redoute Marie-Thérèse (Avrieux)](https://loisirs73.fr/content/redoute-marie-therese-avrieux.md): La redoute Marie-Thérèse à Avrieux, fort sarde de l'Esseillon devenu centre d'interprétation : horaires, tarifs 2026 et accessibilité, aux sources…
 - [Tours de Chignin (Chignin)](https://loisirs73.fr/content/tours-de-chignin.md): Les tours de Chignin, Monument historique dans le vignoble savoyard : sept tours selon le Département, boucle très facile de 3,3 km. Sources…
+- [Tours de Montmayeur (Villard-Sallet)](https://loisirs73.fr/content/tours-de-montmayeur-villard-sallet.md): Tours de Montmayeur à Villard-Sallet, en Savoie : Gratuit, Toute l'année, tous les jours. Sources officielles, contradictions signalées.
 
 ### Sentiers (7 lieux)
 
@@ -171,12 +180,17 @@ Use these when the question spans many sites (e.g. "which waterfalls have parkin
 - [Voie verte du lac du Bourget (Le Bourget-du-Lac)](https://loisirs73.fr/content/voie-verte-du-lac-du-bourget.md): La voie verte en site propre le long du lac du Bourget, entre Aix-les-Bains et Chambéry (V63 / La Belle Via). Gratuite, enrobé lisse, ouverte toute…
 - [Véloroute de la Combe de Savoie (V62) (Albertville)](https://loisirs73.fr/content/veloroute-de-la-combe-de-savoie.md): La V62 le long de l'Isère entre Albertville et Montmélian (La Belle Via) : 38,5 km faciles, en alternance voie verte et sections partagées. Gratuit,…
 
-### Musées (7 lieux)
+### Musées (12 lieux)
 
 - [Espace Alu (Saint-Michel-de-Maurienne)](https://loisirs73.fr/content/espace-alu-saint-michel-de-maurienne.md): L'Espace Alu à Saint-Michel-de-Maurienne : 100 ans d'aluminium en Maurienne, 8 € l'entrée, accessible en fauteuil en autonomie. Sources officielles.
+- [Le Grand Filon, musée du fer (Saint-Georges-d'Hurtières)](https://loisirs73.fr/content/le-grand-filon-musee-du-fer.md): Le Grand Filon, musée du fer à Saint-Georges-d'Hurtières, en Savoie : Payant, Saison publiée. Sources officielles, contradictions signalées.
 - [Les Charmettes, maison de Jean-Jacques Rousseau (Chambéry)](https://loisirs73.fr/content/les-charmettes-maison-jean-jacques-rousseau-chambery.md): Les Charmettes à Chambéry, maison de Jean-Jacques Rousseau : entrée gratuite, audioguide 1 €, jardins en accès libre toute l'année. Sources…
+- [Musée d'art et d'histoire d'Albertville (Albertville)](https://loisirs73.fr/content/musee-d-art-et-d-histoire-albertville.md): Musée d'art et d'histoire d'Albertville à Albertville, en Savoie : Payant, Calendrier sans millésime. Sources officielles, contradictions signalées.
 - [Musée de l'Ours des Cavernes (Entremont-le-Vieux)](https://loisirs73.fr/content/musee-ours-des-cavernes-entremont-le-vieux.md): Le musée de l'Ours des Cavernes à Entremont-le-Vieux : l'Ursus spelaeus de la Balme à Collomb, 7 € adulte, ouvertures saisonnières 2026. Sources…
+- [Musée de la vigne et du vin de Savoie (Montmélian)](https://loisirs73.fr/content/musee-de-la-vigne-et-du-vin-de-savoie-montmelian.md): Musée de la vigne et du vin de Savoie à Montmélian, en Savoie : Payant, Calendrier sans millésime. Sources officielles, contradictions signalées.
 - [Musée des Beaux-Arts de Chambéry (Chambéry)](https://loisirs73.fr/content/musee-des-beaux-arts-chambery.md): Le musée des Beaux-Arts de Chambéry : collections permanentes gratuites, expositions 5,50 €, gratuit le premier dimanche du mois. Sources officielles.
+- [Musée du Félicien (Argentine)](https://loisirs73.fr/content/musee-du-felicien-argentine.md): Musée du Félicien à Argentine, en Savoie : Tarif non établi, Contestée : quatre sources, quatre réponses. Sources officielles, contradictions…
 - [Musée Opinel (Saint-Jean-de-Maurienne)](https://loisirs73.fr/content/musee-opinel-saint-jean-de-maurienne.md): Le musée Opinel à Saint-Jean-de-Maurienne : entrée libre et gratuite, 700 m² sur le couteau savoyard de Joseph Opinel, accessible de plain-pied.
 - [Musée Savoisien (Chambéry)](https://loisirs73.fr/content/musee-savoisien-chambery.md): Le Musée Savoisien à Chambéry : entrée libre et gratuite, histoire et cultures de la Savoie, cloître ouvert. Horaires et fermetures aux sources…
+- [Musée Val Histoire (Val-d'Isère)](https://loisirs73.fr/content/musee-val-histoire-val-d-isere.md): Musée Val Histoire à Val-d'Isère, en Savoie : Gratuit, Deux périodes publiées, deux fenêtres non publiées. Sources officielles, contradictions…
 - [Tremplin 92, Montagne et Olympisme (Albertville)](https://loisirs73.fr/content/tremplin-92-maison-des-jeux-olympiques-albertville.md): Tremplin 92, l'espace Montagne et Olympisme d'Albertville : l'héritage des Jeux de 1992, 500 m² d'exposition dans la Halle Olympique. Sources…

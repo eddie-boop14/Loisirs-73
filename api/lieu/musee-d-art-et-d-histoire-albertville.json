@@ -1,0 +1,50 @@
+{
+  "name": "Musée d'art et d'histoire d'Albertville",
+  "commune": "Albertville",
+  "gps": {
+    "lat": 45.670601,
+    "lng": 6.397205
+  },
+  "type": "musee",
+  "hours": null,
+  "prices": {
+    "from": 5.0,
+    "currency": "EUR",
+    "tiers": [
+      {
+        "name": null,
+        "price": "5 €",
+        "note": null
+      },
+      {
+        "name": null,
+        "price": "2,50 €",
+        "note": null
+      },
+      {
+        "name": null,
+        "price": "gratuit",
+        "note": null
+      },
+      {
+        "name": null,
+        "price": "gratuit",
+        "note": null
+      },
+      {
+        "name": null,
+        "price": "2,50 €",
+        "note": null
+      }
+    ],
+    "is_free": false,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "Calendrier sans millésime",
+  "winter": null,
+  "official_url": "https://www.pays-albertville.com/fiches/musee-dart-et-dhistoire/",
+  "last_verified": null
+}

@@ -1,0 +1,656 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-17",
+    "confidence": "declarative",
+    "detail": "Le Département écrit « pour les personnes soufrant d'un handicap, il est possible de visionner l'ensemble des films au rez-de-chaussée » (la faute est dans la source). C'est un accès partiel au contenu, pas au bâtiment. Deux autres sources sont muettes.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_name": "Conseil départemental de la Savoie",
+    "source_url": "https://patrimoines.savoie.fr/web/299_DBEvenement/musee-du-felicien",
+    "status": "partiel",
+    "tourisme_handicap": []
+  },
+  "category": "musee",
+  "commune": "Argentine",
+  "date_modified_human": "17 août 2026",
+  "date_published_human": "17 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-17",
+    "method": "Recherche du 17 août 2026, sources officielles uniquement. Saisons, jours de fermeture et grilles tarifaires cités mot pour mot avec leur URL ; toute divergence entre publieurs est reportée, jamais arbitrée. Label Musée de France vérifié sur la liste officielle de la DRAC Auvergne-Rhône-Alpes, pas sur la déclaration du site. Protection monument historique vérifiée notice par notice dans la base nationale Mérimée. Coordonnées : géocodeur IGN Géoplateforme, catégorie du POI contrôlée pour écarter les homonymes. Les pages anglaises des offices de tourisme savoyards se sont révélées systématiquement périmées ou inversées : seules les pages françaises sont citées."
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-ferme-chevres.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Wann ist geöffnet? Vier offizielle Quellen antworten unterschiedlich. Das ist die zentrale Tatsache zu diesem Ort, und man liest sie besser hier als vor verschlossener Tür: veröffentlichte Saisons, Öffnungstage und Preise stimmen von einem Herausgeber zum nächsten nicht überein, und einer widerspricht sich von einem Absatz zum folgenden. Jede Version steht in den Hinweisen dieser Seite. Rufen Sie vor der Anfahrt 04 79 44 33 67 an. Das ist die einzige Angabe, in der alle Quellen übereinstimmen.",
+          "tag": "Vor Ort",
+          "title": "Öffnung"
+        },
+        {
+          "description": "Was kostet es? Die Quellen widersprechen sich, deshalb nennen wir keinen Preis. Die Erwachsenenpreise unterscheiden sich von Herausgeber zu Herausgeber, ebenso das Freieintrittsalter. Einen davon als gesichert zu veröffentlichen, wäre eine Entscheidung im Gewand einer Tatsache.",
+          "tag": "Vor Ort",
+          "title": "Preise"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Das <strong>Musée du Félicien</strong> ist ein Museum des gefilmten Bauernalltags in Argentine, Savoie.</p><p><strong>Wann ist geöffnet? Vier offizielle Quellen antworten unterschiedlich.</strong> Das ist die zentrale Tatsache zu diesem Ort, und man liest sie besser hier als vor verschlossener Tür: veröffentlichte Saisons, Öffnungstage und Preise stimmen von einem Herausgeber zum nächsten nicht überein, und einer widerspricht sich von einem Absatz zum folgenden. Jede Version steht in den Hinweisen dieser Seite. <strong>Rufen Sie vor der Anfahrt 04 79 44 33 67 an.</strong> Das ist die einzige Angabe, in der alle Quellen übereinstimmen.</p><p><strong>Was kostet es? Die Quellen widersprechen sich, deshalb nennen wir keinen Preis.</strong> Die Erwachsenenpreise unterscheiden sich von Herausgeber zu Herausgeber, ebenso das Freieintrittsalter. Einen davon als gesichert zu veröffentlichen, wäre eine Entscheidung im Gewand einer Tatsache.</p><p>Die Barrierefreiheit ist teilweise gegeben und als solche dokumentiert; das belegte Detail steht im Barrierefreiheitsblock dieser Seite. « Animaux acceptés en laisse uniquement » — nur angeleint.</p><p>Diese Seite stützt sich ausschließlich auf offizielle Quellen: Betreiber, Gemeinde, Park, Tourismusbüro, nationales Badegewässerregister. Wo zwei davon einander widersprechen, werden beide genannt und die Differenz gekennzeichnet — wir entscheiden nicht für Sie. Wo sie schweigen, bleibt das Feld leer statt geraten.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Preis nicht gesichert",
+        "best_season": "Umstritten: vier Quellen, vier Antworten",
+        "commune": "Argentine",
+        "dogs": "« Animaux acceptés en laisse uniquement » — nur angeleint.",
+        "parking": null,
+        "stroller": null,
+        "type": "Museum des gefilmten Bauernalltags"
+      },
+      "faq": [
+        {
+          "a": "Vier offizielle Quellen antworten unterschiedlich. Das ist die zentrale Tatsache zu diesem Ort, und man liest sie besser hier als vor verschlossener Tür: veröffentlichte Saisons, Öffnungstage und Preise stimmen von einem Herausgeber zum nächsten nicht überein, und einer widerspricht sich von einem Absatz zum folgenden. Jede Version steht in den Hinweisen dieser Seite. Rufen Sie vor der Anfahrt 04 79 44 33 67 an. Das ist die einzige Angabe, in der alle Quellen übereinstimmen.",
+          "q": "Wann ist geöffnet?"
+        },
+        {
+          "a": "Die Quellen widersprechen sich, deshalb nennen wir keinen Preis. Die Erwachsenenpreise unterscheiden sich von Herausgeber zu Herausgeber, ebenso das Freieintrittsalter. Einen davon als gesichert zu veröffentlichen, wäre eine Entscheidung im Gewand einer Tatsache.",
+          "q": "Was kostet der Eintritt?"
+        },
+        {
+          "a": "Er ist nicht gesichert. Die offiziellen Quellen nennen nicht denselben, und wir wählen keinen für sie aus.",
+          "q": "Welcher ist der Schließtag?"
+        },
+        {
+          "a": "Die Barrierefreiheit ist teilweise gegeben und als solche dokumentiert; das belegte Detail steht im Barrierefreiheitsblock dieser Seite.",
+          "q": "Ist die Anlage rollstuhlgerecht?"
+        },
+        {
+          "a": "« Animaux acceptés en laisse uniquement » — nur angeleint.",
+          "q": "Sind Tiere zugelassen?"
+        }
+      ],
+      "hero": {
+        "badge": "Preis nicht gesichert · Argentine",
+        "lead": "Museum des gefilmten Bauernalltags in Argentine, Savoie. Preis nicht gesichert, Umstritten: vier Quellen, vier Antworten — und was die offiziellen Quellen nicht sagen, als solches gesagt."
+      },
+      "hero_alt": "Musée du Félicien, Museum des gefilmten Bauernalltags in Argentine, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "3408 RD 72, chef-lieu, 73220 Argentine. Veröffentlichter Punkt: 45.493552, 6.312664. Die POI-Kategorie wurde geprüft, um einen Namensvetter auszuschließen.",
+        "public_transport": null
+      },
+      "meta_description": "Musée du Félicien in Argentine, Savoie: Preis nicht gesichert, Umstritten: vier Quellen, vier Antworten. Offizielle Quellen, Abweichungen gekennzeichnet.",
+      "meta_title": "Musée du Félicien — Preis nicht gesichert, Argentine",
+      "name": "Musée du Félicien",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Anschrift",
+          "v": "3408 RD 72, chef-lieu, 73220 Argentine"
+        },
+        {
+          "k": "Öffnung",
+          "v": "Umstritten: vier Quellen, vier Antworten"
+        },
+        {
+          "k": "Schließtag",
+          "v": null
+        },
+        {
+          "k": "Preise",
+          "v": "Preis nicht gesichert"
+        },
+        {
+          "k": "Denkmalschutz",
+          "v": null
+        },
+        {
+          "k": "Barrierefreiheit",
+          "v": "Die Barrierefreiheit ist teilweise gegeben und als solche dokumentiert; das belegte Detail steht im Barrierefreiheitsblock dieser Seite."
+        },
+        {
+          "k": "Tiere",
+          "v": "« Animaux acceptés en laisse uniquement » — nur angeleint."
+        },
+        {
+          "k": "Telefon",
+          "v": "04 79 44 33 67"
+        }
+      ],
+      "schema_amenities": [],
+      "when_to_visit": "<p>Ein überdachtes oder denkmalgeschütztes Ziel: ein Ausflug für schlechtes Wetter genauso wie für gutes. Prüfen Sie vorher den Schließtag — daran scheitern die meisten Besuche.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "When is it open? Four official sources answer differently. That is the central fact about this place, and it is better read here than discovered on the doorstep: the published seasons, opening days and prices do not agree from one publisher to the next, and one of them contradicts itself from one paragraph to the following. Each version is recorded in this page's flags. Phone 04 79 44 33 67 before you travel. It is the one detail every source agrees on.",
+          "tag": "On site",
+          "title": "Opening"
+        },
+        {
+          "description": "What does it cost? The sources disagree, so we publish no price. The adult prices differ from one publisher to the next, and so does the free-entry age. Publishing one of them as though it were settled would be a choice dressed up as a fact.",
+          "tag": "On site",
+          "title": "Prices"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Musée du Félicien</strong> is a museum of filmed rural life at Argentine, Savoie.</p><p><strong>When is it open? Four official sources answer differently.</strong> That is the central fact about this place, and it is better read here than discovered on the doorstep: the published seasons, opening days and prices do not agree from one publisher to the next, and one of them contradicts itself from one paragraph to the following. Each version is recorded in this page's flags. <strong>Phone 04 79 44 33 67 before you travel.</strong> It is the one detail every source agrees on.</p><p><strong>What does it cost? The sources disagree, so we publish no price.</strong> The adult prices differ from one publisher to the next, and so does the free-entry age. Publishing one of them as though it were settled would be a choice dressed up as a fact.</p><p>Accessibility is partial and documented as such; the sourced detail is in this page's accessibility block. « Animaux acceptés en laisse uniquement » — on a lead only.</p><p>This page is built on official sources and nothing else: the site's manager, the commune, the park, the tourist office, the national bathing-water register. Where two of them contradict each other, both are given and the gap is flagged — we do not choose for you. Where they are silent, the field stays empty rather than guessed.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Price not established",
+        "best_season": "Contested: four sources, four answers",
+        "commune": "Argentine",
+        "dogs": "« Animaux acceptés en laisse uniquement » — on a lead only.",
+        "parking": null,
+        "stroller": null,
+        "type": "museum of filmed rural life"
+      },
+      "faq": [
+        {
+          "a": "Four official sources answer differently. That is the central fact about this place, and it is better read here than discovered on the doorstep: the published seasons, opening days and prices do not agree from one publisher to the next, and one of them contradicts itself from one paragraph to the following. Each version is recorded in this page's flags. Phone 04 79 44 33 67 before you travel. It is the one detail every source agrees on.",
+          "q": "When is it open?"
+        },
+        {
+          "a": "The sources disagree, so we publish no price. The adult prices differ from one publisher to the next, and so does the free-entry age. Publishing one of them as though it were settled would be a choice dressed up as a fact.",
+          "q": "How much is admission?"
+        },
+        {
+          "a": "It is not established. The official sources do not name the same one, and we do not pick one for them.",
+          "q": "What is the weekly closing day?"
+        },
+        {
+          "a": "Accessibility is partial and documented as such; the sourced detail is in this page's accessibility block.",
+          "q": "Is the site wheelchair-accessible?"
+        },
+        {
+          "a": "« Animaux acceptés en laisse uniquement » — on a lead only.",
+          "q": "Are animals accepted?"
+        }
+      ],
+      "hero": {
+        "badge": "Price not established · Argentine",
+        "lead": "Museum of filmed rural life at Argentine, Savoie. Price not established, Contested: four sources, four answers — and what the official sources do not say, said as such."
+      },
+      "hero_alt": "Musée du Félicien, museum of filmed rural life, at Argentine, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "3408 RD 72, chef-lieu, 73220 Argentine. Published point: 45.493552, 6.312664. The POI category was checked to rule out a namesake.",
+        "public_transport": null
+      },
+      "meta_description": "Musée du Félicien, Argentine, Savoie: Price not established, Contested: four sources, four answers. Official sources, discrepancies flagged.",
+      "meta_title": "Musée du Félicien — Price not established, Argentine",
+      "name": "Musée du Félicien",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Address",
+          "v": "3408 RD 72, chef-lieu, 73220 Argentine"
+        },
+        {
+          "k": "Opening",
+          "v": "Contested: four sources, four answers"
+        },
+        {
+          "k": "Weekly closing day",
+          "v": null
+        },
+        {
+          "k": "Prices",
+          "v": "Price not established"
+        },
+        {
+          "k": "Protection",
+          "v": null
+        },
+        {
+          "k": "Accessibility",
+          "v": "Accessibility is partial and documented as such; the sourced detail is in this page's accessibility block."
+        },
+        {
+          "k": "Animals",
+          "v": "« Animaux acceptés en laisse uniquement » — on a lead only."
+        },
+        {
+          "k": "Telephone",
+          "v": "04 79 44 33 67"
+        }
+      ],
+      "schema_amenities": [],
+      "when_to_visit": "<p>A covered or heritage site: as much a bad-weather outing as a fine-weather one. Check the weekly closing day before you go — that is where visits are lost.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "¿Cuándo está abierto? Cuatro fuentes oficiales responden de forma distinta. Es el hecho central de esta página, y es mejor leerlo aquí que descubrirlo en la puerta: las temporadas, los días de apertura y las tarifas publicadas no coinciden de un editor a otro, y uno de ellos se contradice de un párrafo al siguiente. Cada versión está en los avisos de esta ficha. Llame al 04 79 44 33 67 antes de desplazarse. Es el único dato en el que todas las fuentes coinciden.",
+          "tag": "En el sitio",
+          "title": "Apertura"
+        },
+        {
+          "description": "¿Cuánto cuesta? Las fuentes no coinciden, así que no publicamos ninguna tarifa. Los precios de adulto difieren de un editor a otro, y también la edad de gratuidad. Publicar uno de ellos como si estuviera establecido sería una elección disfrazada de hecho.",
+          "tag": "En el sitio",
+          "title": "Tarifas"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>Musée du Félicien</strong> es un museo de la vida campesina filmada en Argentine, Savoie.</p><p><strong>¿Cuándo está abierto? Cuatro fuentes oficiales responden de forma distinta.</strong> Es el hecho central de esta página, y es mejor leerlo aquí que descubrirlo en la puerta: las temporadas, los días de apertura y las tarifas publicadas no coinciden de un editor a otro, y uno de ellos se contradice de un párrafo al siguiente. Cada versión está en los avisos de esta ficha. <strong>Llame al 04 79 44 33 67 antes de desplazarse.</strong> Es el único dato en el que todas las fuentes coinciden.</p><p><strong>¿Cuánto cuesta? Las fuentes no coinciden, así que no publicamos ninguna tarifa.</strong> Los precios de adulto difieren de un editor a otro, y también la edad de gratuidad. Publicar uno de ellos como si estuviera establecido sería una elección disfrazada de hecho.</p><p>La accesibilidad es parcial y está documentada como tal; el detalle con fuente está en el bloque de accesibilidad de esta ficha. « Animaux acceptés en laisse uniquement » — solo con correa.</p><p>Esta página se basa únicamente en fuentes oficiales: gestor, municipio, parque, oficina de turismo, registro sanitario nacional. Donde dos de ellas se contradicen, se dan ambas y se señala la diferencia — no elegimos por usted. Donde callan, el dato queda vacío en lugar de adivinado.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Tarifa no establecida",
+        "best_season": "Discutida: cuatro fuentes, cuatro respuestas",
+        "commune": "Argentine",
+        "dogs": "« Animaux acceptés en laisse uniquement » — solo con correa.",
+        "parking": null,
+        "stroller": null,
+        "type": "museo de la vida campesina filmada"
+      },
+      "faq": [
+        {
+          "a": "Cuatro fuentes oficiales responden de forma distinta. Es el hecho central de esta página, y es mejor leerlo aquí que descubrirlo en la puerta: las temporadas, los días de apertura y las tarifas publicadas no coinciden de un editor a otro, y uno de ellos se contradice de un párrafo al siguiente. Cada versión está en los avisos de esta ficha. Llame al 04 79 44 33 67 antes de desplazarse. Es el único dato en el que todas las fuentes coinciden.",
+          "q": "¿Cuándo está abierto?"
+        },
+        {
+          "a": "Las fuentes no coinciden, así que no publicamos ninguna tarifa. Los precios de adulto difieren de un editor a otro, y también la edad de gratuidad. Publicar uno de ellos como si estuviera establecido sería una elección disfrazada de hecho.",
+          "q": "¿Cuánto cuesta la entrada?"
+        },
+        {
+          "a": "No está establecido. Las fuentes oficiales no nombran el mismo, y no elegimos uno por ellas.",
+          "q": "¿Cuál es el día de cierre?"
+        },
+        {
+          "a": "La accesibilidad es parcial y está documentada como tal; el detalle con fuente está en el bloque de accesibilidad de esta ficha.",
+          "q": "¿Es accesible en silla de ruedas?"
+        },
+        {
+          "a": "« Animaux acceptés en laisse uniquement » — solo con correa.",
+          "q": "¿Se admiten animales?"
+        }
+      ],
+      "hero": {
+        "badge": "Tarifa no establecida · Argentine",
+        "lead": "Museo de la vida campesina filmada en Argentine, Savoie. Tarifa no establecida, Discutida: cuatro fuentes, cuatro respuestas — y lo que las fuentes oficiales no dicen, dicho como tal."
+      },
+      "hero_alt": "Musée du Félicien, museo de la vida campesina filmada, en Argentine, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "3408 RD 72, chef-lieu, 73220 Argentine. Punto publicado: 45.493552, 6.312664. Se verificó la categoría del POI para descartar un homónimo.",
+        "public_transport": null
+      },
+      "meta_description": "Musée du Félicien en Argentine, Savoie: Tarifa no establecida, Discutida: cuatro fuentes, cuatro respuestas. Fuentes oficiales, discrepancias señaladas.",
+      "meta_title": "Musée du Félicien — Tarifa no establecida, Argentine",
+      "name": "Musée du Félicien",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Dirección",
+          "v": "3408 RD 72, chef-lieu, 73220 Argentine"
+        },
+        {
+          "k": "Apertura",
+          "v": "Discutida: cuatro fuentes, cuatro respuestas"
+        },
+        {
+          "k": "Día de cierre",
+          "v": null
+        },
+        {
+          "k": "Tarifas",
+          "v": "Tarifa no establecida"
+        },
+        {
+          "k": "Protección",
+          "v": null
+        },
+        {
+          "k": "Accesibilidad",
+          "v": "La accesibilidad es parcial y está documentada como tal; el detalle con fuente está en el bloque de accesibilidad de esta ficha."
+        },
+        {
+          "k": "Animales",
+          "v": "« Animaux acceptés en laisse uniquement » — solo con correa."
+        },
+        {
+          "k": "Teléfono",
+          "v": "04 79 44 33 67"
+        }
+      ],
+      "schema_amenities": [],
+      "when_to_visit": "<p>Sitio cubierto o patrimonial: es una salida de mal tiempo tanto como de buen tiempo. Compruebe el día de cierre antes de salir, es ahí donde se pierden las visitas.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Quand est-ce ouvert ? Quatre sources officielles répondent différemment. C'est le fait central de cette page, et il vaut mieux le lire ici que le découvrir sur place : les saisons, les jours d'ouverture et les tarifs publiés ne concordent pas d'un publieur à l'autre, et pour l'un d'eux la page se contredit d'un paragraphe au suivant. Le détail de chaque version figure dans les signalements de cette fiche. Téléphonez au 04 79 44 33 67 avant de vous déplacer. C'est le seul renseignement sur lequel toutes les sources s'accordent.",
+          "tag": "Sur place",
+          "title": "Ouverture"
+        },
+        {
+          "description": "Combien ça coûte ? Les sources ne s'accordent pas, donc nous ne publions aucun tarif. Les prix adultes annoncés diffèrent d'un publieur à l'autre, et l'âge de la gratuité aussi. Publier l'un d'entre eux comme s'il était établi serait un choix déguisé en fait.",
+          "tag": "Sur place",
+          "title": "Tarifs"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Le <strong>Musée du Félicien</strong> est un musée du quotidien paysan, filmé à Argentine, en Savoie.</p><p><strong>Quand est-ce ouvert ? Quatre sources officielles répondent différemment.</strong> C'est le fait central de cette page, et il vaut mieux le lire ici que le découvrir sur place : les saisons, les jours d'ouverture et les tarifs publiés ne concordent pas d'un publieur à l'autre, et pour l'un d'eux la page se contredit d'un paragraphe au suivant. Le détail de chaque version figure dans les signalements de cette fiche. <strong>Téléphonez au 04 79 44 33 67 avant de vous déplacer.</strong> C'est le seul renseignement sur lequel toutes les sources s'accordent.</p><p><strong>Combien ça coûte ? Les sources ne s'accordent pas, donc nous ne publions aucun tarif.</strong> Les prix adultes annoncés diffèrent d'un publieur à l'autre, et l'âge de la gratuité aussi. Publier l'un d'entre eux comme s'il était établi serait un choix déguisé en fait.</p><p>L'accessibilité est partielle et documentée comme telle — le détail sourcé figure dans le bloc accessibilité de cette fiche. « Animaux acceptés en laisse uniquement ».</p><p>Cette page est bâtie sur les sources officielles et sur elles seules : gestionnaire, commune, parc, office de tourisme, registre sanitaire national. Là où deux d'entre elles se contredisent, les deux sont données et l'écart est signalé — nous ne choisissons pas à votre place. Là où elles se taisent, la donnée reste vide plutôt que devinée.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Tarif non établi",
+        "best_season": "Contestée : quatre sources, quatre réponses",
+        "commune": "Argentine",
+        "dogs": "« Animaux acceptés en laisse uniquement ».",
+        "parking": null,
+        "stroller": null,
+        "type": "musée du quotidien paysan, filmé"
+      },
+      "faq": [
+        {
+          "a": "Quatre sources officielles répondent différemment. C'est le fait central de cette page, et il vaut mieux le lire ici que le découvrir sur place : les saisons, les jours d'ouverture et les tarifs publiés ne concordent pas d'un publieur à l'autre, et pour l'un d'eux la page se contredit d'un paragraphe au suivant. Le détail de chaque version figure dans les signalements de cette fiche. Téléphonez au 04 79 44 33 67 avant de vous déplacer. C'est le seul renseignement sur lequel toutes les sources s'accordent.",
+          "q": "Quand est-ce ouvert ?"
+        },
+        {
+          "a": "Les sources ne s'accordent pas, donc nous ne publions aucun tarif. Les prix adultes annoncés diffèrent d'un publieur à l'autre, et l'âge de la gratuité aussi. Publier l'un d'entre eux comme s'il était établi serait un choix déguisé en fait.",
+          "q": "Combien coûte l'entrée ?"
+        },
+        {
+          "a": "Il n'est pas établi. Les sources officielles n'en nomment pas le même, et nous n'en choisissons pas un pour elles.",
+          "q": "Quel est le jour de fermeture ?"
+        },
+        {
+          "a": "L'accessibilité est partielle et documentée comme telle — le détail sourcé figure dans le bloc accessibilité de cette fiche.",
+          "q": "Le site est-il accessible en fauteuil roulant ?"
+        },
+        {
+          "a": "« Animaux acceptés en laisse uniquement ».",
+          "q": "Les animaux sont-ils acceptés ?"
+        }
+      ],
+      "hero": {
+        "badge": "Tarif non établi · Argentine",
+        "lead": "Musée du quotidien paysan, filmé à Argentine, en Savoie. Tarif non établi, Contestée : quatre sources, quatre réponses — et ce que les sources officielles ne disent pas, dit comme tel."
+      },
+      "hero_alt": "Musée du Félicien, musée du quotidien paysan, filmé, à Argentine, en Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "3408 RD 72, chef-lieu, 73220 Argentine. Point publié : 45.493552, 6.312664. La catégorie du POI a été vérifiée pour écarter un homonyme.",
+        "public_transport": null
+      },
+      "meta_description": "Musée du Félicien à Argentine, en Savoie : Tarif non établi, Contestée : quatre sources, quatre réponses. Sources officielles, contradictions signalées.",
+      "meta_title": "Musée du Félicien — Tarif non établi, Argentine",
+      "name": "Musée du Félicien",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Adresse",
+          "v": "3408 RD 72, chef-lieu, 73220 Argentine"
+        },
+        {
+          "k": "Ouverture",
+          "v": "Contestée : quatre sources, quatre réponses"
+        },
+        {
+          "k": "Jour de fermeture",
+          "v": null
+        },
+        {
+          "k": "Tarifs",
+          "v": "Tarif non établi"
+        },
+        {
+          "k": "Protection",
+          "v": null
+        },
+        {
+          "k": "Accessibilité",
+          "v": "L'accessibilité est partielle et documentée comme telle — le détail sourcé figure dans le bloc accessibilité de cette fiche."
+        },
+        {
+          "k": "Animaux",
+          "v": "« Animaux acceptés en laisse uniquement »."
+        },
+        {
+          "k": "Téléphone",
+          "v": "04 79 44 33 67"
+        }
+      ],
+      "schema_amenities": [],
+      "when_to_visit": "<p>Site couvert ou patrimonial : c'est une sortie de mauvais temps autant que de beau. Vérifiez le jour de fermeture avant de partir, c'est là que se perdent les visites.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Quando è aperto? Quattro fonti ufficiali rispondono in modo diverso. È il fatto centrale di questa pagina, e conviene leggerlo qui anziché scoprirlo sul posto: stagioni, giorni di apertura e tariffe pubblicati non coincidono da un editore all'altro, e uno di essi si contraddice da un paragrafo al successivo. Ogni versione è riportata nelle segnalazioni di questa scheda. Telefonate al 04 79 44 33 67 prima di partire. È l'unico dato su cui tutte le fonti concordano.",
+          "tag": "In loco",
+          "title": "Apertura"
+        },
+        {
+          "description": "Quanto costa? Le fonti non concordano, quindi non pubblichiamo alcuna tariffa. I prezzi per adulti differiscono da un editore all'altro, e così l'età della gratuità. Pubblicarne uno come se fosse accertato sarebbe una scelta travestita da fatto.",
+          "tag": "In loco",
+          "title": "Tariffe"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Il <strong>Musée du Félicien</strong> è un museo della vita contadina filmata a Argentine, in Savoie.</p><p><strong>Quando è aperto? Quattro fonti ufficiali rispondono in modo diverso.</strong> È il fatto centrale di questa pagina, e conviene leggerlo qui anziché scoprirlo sul posto: stagioni, giorni di apertura e tariffe pubblicati non coincidono da un editore all'altro, e uno di essi si contraddice da un paragrafo al successivo. Ogni versione è riportata nelle segnalazioni di questa scheda. <strong>Telefonate al 04 79 44 33 67 prima di partire.</strong> È l'unico dato su cui tutte le fonti concordano.</p><p><strong>Quanto costa? Le fonti non concordano, quindi non pubblichiamo alcuna tariffa.</strong> I prezzi per adulti differiscono da un editore all'altro, e così l'età della gratuità. Pubblicarne uno come se fosse accertato sarebbe una scelta travestita da fatto.</p><p>L'accessibilità è parziale e documentata come tale; il dettaglio con fonte è nel blocco accessibilità di questa scheda. « Animaux acceptés en laisse uniquement » — solo al guinzaglio.</p><p>Questa pagina si basa solo su fonti ufficiali: gestore, comune, parco, ufficio del turismo, registro sanitario nazionale. Dove due di esse si contraddicono, entrambe sono riportate e lo scarto è segnalato — non scegliamo al posto vostro. Dove tacciono, il dato resta vuoto anziché indovinato.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Tariffa non accertata",
+        "best_season": "Contestata: quattro fonti, quattro risposte",
+        "commune": "Argentine",
+        "dogs": "« Animaux acceptés en laisse uniquement » — solo al guinzaglio.",
+        "parking": null,
+        "stroller": null,
+        "type": "museo della vita contadina filmata"
+      },
+      "faq": [
+        {
+          "a": "Quattro fonti ufficiali rispondono in modo diverso. È il fatto centrale di questa pagina, e conviene leggerlo qui anziché scoprirlo sul posto: stagioni, giorni di apertura e tariffe pubblicati non coincidono da un editore all'altro, e uno di essi si contraddice da un paragrafo al successivo. Ogni versione è riportata nelle segnalazioni di questa scheda. Telefonate al 04 79 44 33 67 prima di partire. È l'unico dato su cui tutte le fonti concordano.",
+          "q": "Quando è aperto?"
+        },
+        {
+          "a": "Le fonti non concordano, quindi non pubblichiamo alcuna tariffa. I prezzi per adulti differiscono da un editore all'altro, e così l'età della gratuità. Pubblicarne uno come se fosse accertato sarebbe una scelta travestita da fatto.",
+          "q": "Quanto costa l'ingresso?"
+        },
+        {
+          "a": "Non è accertato. Le fonti ufficiali non ne indicano lo stesso, e non ne scegliamo uno per loro.",
+          "q": "Qual è il giorno di chiusura?"
+        },
+        {
+          "a": "L'accessibilità è parziale e documentata come tale; il dettaglio con fonte è nel blocco accessibilità di questa scheda.",
+          "q": "Il sito è accessibile in carrozzina?"
+        },
+        {
+          "a": "« Animaux acceptés en laisse uniquement » — solo al guinzaglio.",
+          "q": "Gli animali sono ammessi?"
+        }
+      ],
+      "hero": {
+        "badge": "Tariffa non accertata · Argentine",
+        "lead": "Museo della vita contadina filmata a Argentine, in Savoie. Tariffa non accertata, Contestata: quattro fonti, quattro risposte — e ciò che le fonti ufficiali non dicono, detto come tale."
+      },
+      "hero_alt": "Musée du Félicien, museo della vita contadina filmata, a Argentine, in Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "3408 RD 72, chef-lieu, 73220 Argentine. Punto pubblicato: 45.493552, 6.312664. La categoria del POI è stata verificata per escludere un omonimo.",
+        "public_transport": null
+      },
+      "meta_description": "Musée du Félicien a Argentine, in Savoie: Tariffa non accertata, Contestata: quattro fonti, quattro risposte. Fonti ufficiali, discordanze segnalate.",
+      "meta_title": "Musée du Félicien — Tariffa non accertata, Argentine",
+      "name": "Musée du Félicien",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Indirizzo",
+          "v": "3408 RD 72, chef-lieu, 73220 Argentine"
+        },
+        {
+          "k": "Apertura",
+          "v": "Contestata: quattro fonti, quattro risposte"
+        },
+        {
+          "k": "Giorno di chiusura",
+          "v": null
+        },
+        {
+          "k": "Tariffe",
+          "v": "Tariffa non accertata"
+        },
+        {
+          "k": "Tutela",
+          "v": null
+        },
+        {
+          "k": "Accessibilità",
+          "v": "L'accessibilità è parziale e documentata come tale; il dettaglio con fonte è nel blocco accessibilità di questa scheda."
+        },
+        {
+          "k": "Animali",
+          "v": "« Animaux acceptés en laisse uniquement » — solo al guinzaglio."
+        },
+        {
+          "k": "Telefono",
+          "v": "04 79 44 33 67"
+        }
+      ],
+      "schema_amenities": [],
+      "when_to_visit": "<p>Sito coperto o patrimoniale: è una gita da brutto tempo tanto quanto da bello. Verificate il giorno di chiusura prima di partire, è lì che si perdono le visite.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Wanneer is het open? Vier officiële bronnen antwoorden verschillend. Dat is het kernfeit over deze plek, en je leest het beter hier dan bij een gesloten deur: gepubliceerde seizoenen, openingsdagen en tarieven kloppen van de ene uitgever tot de andere niet, en één ervan spreekt zichzelf van de ene alinea op de volgende tegen. Elke versie staat in de opmerkingen bij deze pagina. Bel 04 79 44 33 67 voordat u op weg gaat. Dat is het enige gegeven waarover alle bronnen het eens zijn.",
+          "tag": "Ter plaatse",
+          "title": "Opening"
+        },
+        {
+          "description": "Wat kost het? De bronnen spreken elkaar tegen, dus wij publiceren geen tarief. De prijzen voor volwassenen verschillen per uitgever, en de leeftijd voor gratis toegang ook. Eén ervan publiceren alsof hij vaststond zou een keuze zijn vermomd als feit.",
+          "tag": "Ter plaatse",
+          "title": "Tarieven"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Het <strong>Musée du Félicien</strong> is een museum van het gefilmde boerenleven in Argentine, Savoie.</p><p><strong>Wanneer is het open? Vier officiële bronnen antwoorden verschillend.</strong> Dat is het kernfeit over deze plek, en je leest het beter hier dan bij een gesloten deur: gepubliceerde seizoenen, openingsdagen en tarieven kloppen van de ene uitgever tot de andere niet, en één ervan spreekt zichzelf van de ene alinea op de volgende tegen. Elke versie staat in de opmerkingen bij deze pagina. <strong>Bel 04 79 44 33 67 voordat u op weg gaat.</strong> Dat is het enige gegeven waarover alle bronnen het eens zijn.</p><p><strong>Wat kost het? De bronnen spreken elkaar tegen, dus wij publiceren geen tarief.</strong> De prijzen voor volwassenen verschillen per uitgever, en de leeftijd voor gratis toegang ook. Eén ervan publiceren alsof hij vaststond zou een keuze zijn vermomd als feit.</p><p>De toegankelijkheid is gedeeltelijk en als zodanig gedocumenteerd; het onderbouwde detail staat in het toegankelijkheidsblok. « Animaux acceptés en laisse uniquement » — alleen aangelijnd.</p><p>Deze pagina steunt uitsluitend op officiële bronnen: beheerder, gemeente, park, toeristenbureau, nationaal zwemwaterregister. Waar twee ervan elkaar tegenspreken, worden beide gegeven en wordt het verschil gemeld — wij kiezen niet voor u. Waar ze zwijgen, blijft het veld leeg in plaats van geraden.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Tarief niet vastgesteld",
+        "best_season": "Betwist: vier bronnen, vier antwoorden",
+        "commune": "Argentine",
+        "dogs": "« Animaux acceptés en laisse uniquement » — alleen aangelijnd.",
+        "parking": null,
+        "stroller": null,
+        "type": "museum van het gefilmde boerenleven"
+      },
+      "faq": [
+        {
+          "a": "Vier officiële bronnen antwoorden verschillend. Dat is het kernfeit over deze plek, en je leest het beter hier dan bij een gesloten deur: gepubliceerde seizoenen, openingsdagen en tarieven kloppen van de ene uitgever tot de andere niet, en één ervan spreekt zichzelf van de ene alinea op de volgende tegen. Elke versie staat in de opmerkingen bij deze pagina. Bel 04 79 44 33 67 voordat u op weg gaat. Dat is het enige gegeven waarover alle bronnen het eens zijn.",
+          "q": "Wanneer is het open?"
+        },
+        {
+          "a": "De bronnen spreken elkaar tegen, dus wij publiceren geen tarief. De prijzen voor volwassenen verschillen per uitgever, en de leeftijd voor gratis toegang ook. Eén ervan publiceren alsof hij vaststond zou een keuze zijn vermomd als feit.",
+          "q": "Wat kost de toegang?"
+        },
+        {
+          "a": "Die staat niet vast. De officiële bronnen noemen niet dezelfde, en wij kiezen er niet één voor hen.",
+          "q": "Wat is de sluitingsdag?"
+        },
+        {
+          "a": "De toegankelijkheid is gedeeltelijk en als zodanig gedocumenteerd; het onderbouwde detail staat in het toegankelijkheidsblok.",
+          "q": "Is de locatie rolstoeltoegankelijk?"
+        },
+        {
+          "a": "« Animaux acceptés en laisse uniquement » — alleen aangelijnd.",
+          "q": "Zijn dieren toegestaan?"
+        }
+      ],
+      "hero": {
+        "badge": "Tarief niet vastgesteld · Argentine",
+        "lead": "Museum van het gefilmde boerenleven in Argentine, Savoie. Tarief niet vastgesteld, Betwist: vier bronnen, vier antwoorden — en wat de officiële bronnen niet zeggen, ook als zodanig gezegd."
+      },
+      "hero_alt": "Musée du Félicien, museum van het gefilmde boerenleven in Argentine, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "3408 RD 72, chef-lieu, 73220 Argentine. Gepubliceerd punt: 45.493552, 6.312664. De POI-categorie is gecontroleerd om een naamgenoot uit te sluiten.",
+        "public_transport": null
+      },
+      "meta_description": "Musée du Félicien in Argentine, Savoie: Tarief niet vastgesteld, Betwist: vier bronnen, vier antwoorden. Officiële bronnen, afwijkingen gemeld.",
+      "meta_title": "Musée du Félicien — Tarief niet vastgesteld, Argentine",
+      "name": "Musée du Félicien",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Adres",
+          "v": "3408 RD 72, chef-lieu, 73220 Argentine"
+        },
+        {
+          "k": "Opening",
+          "v": "Betwist: vier bronnen, vier antwoorden"
+        },
+        {
+          "k": "Sluitingsdag",
+          "v": null
+        },
+        {
+          "k": "Tarieven",
+          "v": "Tarief niet vastgesteld"
+        },
+        {
+          "k": "Bescherming",
+          "v": null
+        },
+        {
+          "k": "Toegankelijkheid",
+          "v": "De toegankelijkheid is gedeeltelijk en als zodanig gedocumenteerd; het onderbouwde detail staat in het toegankelijkheidsblok."
+        },
+        {
+          "k": "Dieren",
+          "v": "« Animaux acceptés en laisse uniquement » — alleen aangelijnd."
+        },
+        {
+          "k": "Telefoon",
+          "v": "04 79 44 33 67"
+        }
+      ],
+      "schema_amenities": [],
+      "when_to_visit": "<p>Een overdekte of erfgoedlocatie: net zo goed een uitje voor slecht weer als voor mooi weer. Controleer vooraf de sluitingsdag — daar gaan de meeste bezoeken op stuk.</p>"
+    }
+  },
+  "latitude": 45.493552,
+  "longitude": 6.312664,
+  "official_site_url": "https://www.explore-savoie.com/sites-culturels/musee-du-felicien-527138/",
+  "partners": [],
+  "postal_code": "73220",
+  "price_currency": null,
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Recherche du 17 août 2026, sources officielles uniquement. Saisons, jours de fermeture et grilles tarifaires cités mot pour mot avec leur URL ; toute divergence entre publieurs est reportée, jamais arbitrée. Label Musée de France vérifié sur la liste officielle de la DRAC Auvergne-Rhône-Alpes, pas sur la déclaration du site. Protection monument historique vérifiée notice par notice dans la base nationale Mérimée. Coordonnées : géocodeur IGN Géoplateforme, catégorie du POI contrôlée pour écarter les homonymes. Les pages anglaises des offices de tourisme savoyards se sont révélées systématiquement périmées ou inversées : seules les pages françaises sont citées.",
+  "schema_org": {
+    "amenities": [],
+    "is_free": false,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "musee-du-felicien-argentine",
+  "sources": [
+    "https://www.explore-savoie.com/sites-culturels/musee-du-felicien-527138/",
+    "https://patrimoines.savoie.fr/web/299_DBEvenement/musee-du-felicien",
+    "https://www.infotourisme.net/musee/argentine/8131/musee-du-felicien",
+    "https://www.portedemaurienne-tourisme.com/decouvrir/musees/musee-du-felicien/"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "patrimoine",
+  "verify_flags": [
+    "JOUR DE FERMETURE NON ÉTABLI — quatre sources, trois réponses incompatibles. Savoie Mont Blanc (seule à porter des dates 2026) : fermé lundi, samedi et dimanche de février à juin, puis fermé les week-ends en juillet-août. infotourisme.net : ouvert mercredi, jeudi, vendredi ET dimanche, donc fermé le mardi. Le Département : des dates de 2024 seulement. museedupatrimoine.fr : « Ouvert toute l'année », sans aucun jour de fermeture. Seule la fermeture du SAMEDI est commune à toutes les sources qui en nomment une.",
+    "TARIF ADULTE NON ÉTABLI — 5 € (Département, données 2024), 4,30 € (infotourisme), 4,50 € (museedupatrimoine), et non publié chez Savoie Mont Blanc. La gratuité est annoncée sous 12 ans par deux sources et sous 18 ans par une troisième. Aucun tarif n'est publié sur cette fiche.",
+    "COURRIEL CONTRADICTOIRE — info@musee-felicien.fr d'un côté, infos@museedufelicien.com de l'autre : deux domaines ET deux orthographes. Aucun n'est repris. Le téléphone, lui, est identique sur les quatre sources.",
+    "SITES PROPRES INJOIGNABLES — la page du musée sur le site de la commune d'Argentine, museedufelicien.com et musee-felicien.fr renvoient tous trois une erreur serveur. Les trois canaux qui trancheraient sont hors ligne.",
+    "SAISON D'AUTOMNE INCERTAINE — la fiche 2026 ne publie aucune période de septembre-octobre, là où l'enregistrement de 2024 en comportait une. Saison raccourcie ou fiche incomplète : impossible de le dire.",
+    "VISUEL vérifié à l'œil (17/08/2026) — deux chèvres : cohérent avec un musée de la vie paysanne.",
+    "COORDONNÉES — POI IGN « Musée du Félicien », catégorie écomusée ; le géocodage de l'adresse RD 72 obtient un score faible (0,467) mais tombe à ~7 m du POI, les deux se recoupent."
+  ]
+}

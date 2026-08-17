@@ -1,0 +1,24 @@
+{
+  "name": "Lac de Roselend",
+  "commune": "Beaufort",
+  "gps": {
+    "lat": 45.685071,
+    "lng": 6.632732
+  },
+  "type": "lac",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": null,
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": "Un parking existe sur place ; aucun tarif n'est publié, et nous ne le déduisons pas.",
+  "transport": null,
+  "season": "22 mai 2026 à 18h",
+  "winter": null,
+  "official_url": "https://www.lebeaufortain.com/fiches/barrage-et-site-de-roselend-2/",
+  "last_verified": null
+}

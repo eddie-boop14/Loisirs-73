@@ -1,7 +1,7 @@
 # Phase 4 — photo assignments (gate artifact)
 
 **Date**: 2026-06-14
-**Total assignments**: 92 (one per (hub × slug) on the FR canonical hub)
+**Total assignments**: 106 (one per (hub × slug) on the FR canonical hub)
 
 ## Per-hub diversity
 
@@ -9,9 +9,9 @@
 |---|---:|---:|---:|
 | `bases-de-loisirs` | 7 | 7 | 1 |
 | `cascades` | 7 | 1 | 7 |
-| `chateaux` | 7 | 3 | 3 |
-| `lacs-plages` | 23 | 23 | 1 |
-| `musees` | 7 | 5 | 2 |
+| `chateaux` | 12 | 5 | 4 |
+| `lacs-plages` | 27 | 27 | 1 |
+| `musees` | 12 | 8 | 3 |
 | `points-de-vue` | 15 | 15 | 1 |
 | `sentiers` | 7 | 7 | 1 |
 | `telecabines` | 15 | 15 | 1 |
@@ -35,23 +35,32 @@
 | `cascades` | `cirque-de-saint-meme` | `nature` | `generique-cascade.jpg` | — | json hero (local) |
 | `cascades` | `gorges-du-sierroz-cascade-de-gresy` | `nature` | `generique-cascade.jpg` | — | json hero (local) |
 | `cascades` | `grande-cascade-de-la-doria` | `nature` | `generique-cascade.jpg` | — | json hero (local) |
+| `chateaux` | `abbaye-royale-d-hautecombe` | `patrimoine` | `generique-chateau-toiture.jpg` | — | json hero (local) |
 | `chateaux` | `chateau-de-miolans-saint-pierre-d-albigny` | `patrimoine` | `generique-chateau-brume.jpg` | — | json hero (local) |
 | `chateaux` | `chateau-de-thomas-ii-le-bourget-du-lac` | `patrimoine` | `generique-chateau-toiture.jpg` | — | json hero (local) |
 | `chateaux` | `chateau-des-ducs-de-savoie-chambery` | `patrimoine` | `generique-chateau.jpg` | — | json hero (local) |
+| `chateaux` | `cite-medievale-de-conflans-albertville` | `patrimoine` | `generique-chateau.jpg` | — | json hero (local) |
 | `chateaux` | `fort-de-tamie-mercury` | `patrimoine` | `generique-chateau-brume.jpg` | — | json hero (local) |
+| `chateaux` | `fort-du-telegraphe-valloire` | `patrimoine` | `generique-orientation.jpg` | — | json hero (local) |
+| `chateaux` | `fort-marie-christine-esseillon` | `patrimoine` | `generique-chateau-brume.jpg` | — | json hero (local) |
 | `chateaux` | `fort-victor-emmanuel-aussois` | `patrimoine` | `generique-chateau-toiture.jpg` | — | json hero (local) |
 | `chateaux` | `redoute-marie-therese-avrieux` | `patrimoine` | `generique-chateau.jpg` | — | json hero (local) |
 | `chateaux` | `tours-de-chignin` | `patrimoine` | `generique-chateau.jpg` | — | json hero (local) |
+| `chateaux` | `tours-de-montmayeur-villard-sallet` | `patrimoine` | `generique-sentier-fog.jpg` | — | json hero (local) |
 | `lacs-plages` | `base-de-loisirs-gresy-sur-isere` | `nature` | `generique-plage-lac-5.jpg` | — | json hero (local) |
 | `lacs-plages` | `lac-d-aiguebelette` | `nature` | `generique-barque-aviron.jpg` | — | json hero (local) |
 | `lacs-plages` | `lac-de-carouge-saint-pierre-d-albigny` | `nature` | `generique-lac-coucher-soleil.jpg` | — | json hero (local) |
+| `lacs-plages` | `lac-de-la-plagne-peisey-nancroix` | `nature` | `generique-sentier-automne-rouge.jpg` | — | json hero (local) |
 | `lacs-plages` | `lac-de-la-thuile` | `nature` | `generique-famille-balade.jpg` | — | json hero (local) |
+| `lacs-plages` | `lac-de-roselend` | `nature` | `generique-point-de-vue.jpg` | — | json hero (local) |
 | `lacs-plages` | `lac-de-sainte-helene` | `nature` | `generique-reserve-zone-humide-2.jpg` | — | json hero (local) |
 | `lacs-plages` | `lac-de-tignes` | `nature` | `generique-lac-hiver.jpg` | — | json hero (local) |
+| `lacs-plages` | `lac-de-tueda-les-allues` | `nature` | `generique-sentier-detail-pomme-pin.jpg` | — | json hero (local) |
 | `lacs-plages` | `lac-des-hurtieres` | `nature` | `generique-reserve-zone-humide-3.jpg` | — | json hero (local) |
 | `lacs-plages` | `lac-du-bourget` | `nature` | `generique-voiliers-coucher-soleil.jpg` | — | json hero (local) |
 | `lacs-plages` | `lac-du-mont-cenis` | `nature` | `generique-plaine-verte.jpg` | — | json hero (local) |
 | `lacs-plages` | `lac-saint-andre-porte-de-savoie` | `nature` | `generique-lac.jpg` | — | json hero (local) |
+| `lacs-plages` | `lac-saint-clair-detrier` | `nature` | `generique-reserve-zone-humide-4.jpg` | — | json hero (local) |
 | `lacs-plages` | `lacs-de-saint-jean-de-chevelu` | `nature` | `generique-reserve-zone-humide-1.jpg` | — | json hero (local) |
 | `lacs-plages` | `plage-aiguebelette-le-lac` | `aquatique` | `generique-plage-lac-4.jpg` | — | json hero (local) |
 | `lacs-plages` | `plage-base-de-loisirs-du-sougey` | `aquatique` | `generique-plage-lac-3.jpg` | — | json hero (local) |
@@ -66,11 +75,16 @@
 | `lacs-plages` | `plage-municipale-aix-les-bains-aqualac` | `aquatique` | `generique-plage-lac-1.jpg` | — | json hero (local) |
 | `lacs-plages` | `plage-municipale-le-bourget-du-lac` | `aquatique` | `generique-plage-lac-2.jpg` | — | json hero (local) |
 | `musees` | `espace-alu-saint-michel-de-maurienne` | `patrimoine` | `generique-musee-moderne.jpg` | — | json hero (local) |
+| `musees` | `le-grand-filon-musee-du-fer` | `patrimoine` | `generique-speleo-galerie.jpg` | — | json hero (local) |
 | `musees` | `les-charmettes-maison-jean-jacques-rousseau-chambery` | `patrimoine` | `generique-jardin-allee-roses.jpg` | — | json hero (local) |
+| `musees` | `musee-d-art-et-d-histoire-albertville` | `patrimoine` | `generique-musee-classique.jpg` | — | json hero (local) |
+| `musees` | `musee-de-la-vigne-et-du-vin-de-savoie-montmelian` | `patrimoine` | `generique-distillerie.jpg` | — | json hero (local) |
 | `musees` | `musee-des-beaux-arts-chambery` | `patrimoine` | `generique-musee-classique.jpg` | — | json hero (local) |
+| `musees` | `musee-du-felicien-argentine` | `patrimoine` | `generique-ferme-chevres.jpg` | — | json hero (local) |
 | `musees` | `musee-opinel-saint-jean-de-maurienne` | `patrimoine` | `generique-musee-moderne.jpg` | — | json hero (local) |
 | `musees` | `musee-ours-des-cavernes-entremont-le-vieux` | `patrimoine` | `generique-musee.jpg` | — | json hero (local) |
 | `musees` | `musee-savoisien-chambery` | `patrimoine` | `generique-musee.jpg` | — | json hero (local) |
+| `musees` | `musee-val-histoire-val-d-isere` | `patrimoine` | `generique-musee.jpg` | — | json hero (local) |
 | `musees` | `tremplin-92-maison-des-jeux-olympiques-albertville` | `patrimoine` | `generique-musee-grande-galerie.jpg` | — | json hero (local) |
 | `points-de-vue` | `col-de-l-iseran` | `nature` | `col-de-l-iseran-hero.jpg` | — | json hero (local) |
 | `points-de-vue` | `col-de-la-croix-de-fer` | `nature` | `col-de-la-croix-de-fer-hero.jpg` | — | json hero (local) |

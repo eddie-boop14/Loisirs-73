@@ -1,11 +1,84 @@
 # Loisirs 73 — Full content dump
 
 Generated: 2026-08-17
-Total lieux: 89
+Total lieux: 103
 
-This file concatenates the FR facet markdown of all 89 leisure sites in Savoie. Each section is a standalone markdown document with YAML frontmatter and the fixed facet heading canon. Sections are separated by `===` rulers.
+This file concatenates the FR facet markdown of all 103 leisure sites in Savoie. Each section is a standalone markdown document with YAML frontmatter and the fixed facet heading canon. Sections are separated by `===` rulers.
 
 For programmatic access, fetch individual files at https://loisirs73.fr/content/{slug}.md (FR), https://loisirs73.fr/content/en/{slug}.md (EN), or https://loisirs73.fr/api/lieu/{slug}.json (typed JSON).
+
+================================================================================
+
+---
+slug: abbaye-royale-d-hautecombe
+name: "Abbaye d'Hautecombe"
+category: chateau
+category_label: "Château"
+commune: "Saint-Pierre-de-Curtille"
+postal_code: "73310"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.752849
+longitude: 5.839688
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/abbaye-royale-d-hautecombe
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/abbaye-royale-d-hautecombe.json
+photo_url: /img/generique/generique-chateau-toiture.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-17
+source: loisirs73.fr
+---
+
+# Abbaye d'Hautecombe
+
+## Faits
+
+- Commune: Saint-Pierre-de-Curtille, Savoie (73310)
+- GPS: 45.752849, 5.839688
+- Catégorie: chateau
+- Type: abbaye en activité, ouverte à la visite
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+- À partir de: 4.5 EUR
+- None: 4,50 € EUR
+- None: 2,50 € EUR
+- None: gratuit EUR
+- None: 3,80 € EUR
+- None: 7,50 € EUR
+
+## Accès (PMR)
+
+- Statut: Accessible
+- Détail: L'office de tourisme d'Aix-les-Bains annonce « Accessible en fauteuil roulant en autonomie », « Entrée accessible » et « WC + barre d'appui + espace de circulation ». L'abbaye elle-même ne publie rien sur ce point : la déclaration vient du tiers, pas du site.
+- Source: OT Aix-les-Bains Riviera des Alpes — https://www.aixlesbains-rivieradesalpes.com/patrimoine-culturel/abbaye-dhautecombe-saint-pierre-de-curtille/
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Saison publiée
+
+## Source officielle
+
+https://hautecombe.chemin-neuf.fr/visite-audioguidee/
 
 ================================================================================
 
@@ -962,6 +1035,75 @@ Avril – septembre (péage) ; accès libre le reste de l'année
 ## Source officielle
 
 https://www.chartreuse-tourisme.com/offres/cirque-de-saint-meme-saint-pierre-dentremont-fr-2715680/
+
+================================================================================
+
+---
+slug: cite-medievale-de-conflans-albertville
+name: "Cité médiévale de Conflans"
+category: chateau
+category_label: "Château"
+commune: "Albertville"
+postal_code: "73200"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.672034
+longitude: 6.397403
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/cite-medievale-de-conflans-albertville
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/cite-medievale-de-conflans-albertville.json
+photo_url: /img/generique/generique-chateau.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-17
+source: loisirs73.fr
+---
+
+# Cité médiévale de Conflans
+
+## Faits
+
+- Commune: Albertville, Savoie (73200)
+- GPS: 45.672034, 6.397403
+- Catégorie: chateau
+- Type: cité médiévale fortifiée
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+- None: gratuit, toute l'année
+- None: 6 € / 3 € réduit
+- None: 5 € / 2,50 € réduit
+- None: 6 € / 3 € réduit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Toute l'année, tous les jours
+
+## Source officielle
+
+https://www.pays-albertville.com/fiches/cite-medievale-de-conflans/
 
 ================================================================================
 
@@ -2220,6 +2362,140 @@ https://www.fort-de-tamie.com/
 ================================================================================
 
 ---
+slug: fort-du-telegraphe-valloire
+name: "Fort du Télégraphe"
+category: chateau
+category_label: "Château"
+commune: "Valloire"
+postal_code: "73450"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.210473
+longitude: 6.446145
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/fort-du-telegraphe-valloire
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/fort-du-telegraphe-valloire.json
+photo_url: /img/generique/generique-orientation.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-17
+source: loisirs73.fr
+---
+
+# Fort du Télégraphe
+
+## Faits
+
+- Commune: Valloire, Savoie (73450)
+- GPS: 45.210473, 6.446145
+- Catégorie: chateau
+- Type: fort Séré de Rivières
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Non renseigné
+
+## Accès (PMR)
+
+- Statut: Non accessible
+- Détail: Aucune source ne publie de mention d'accessibilité, et le fait publié va dans l'autre sens : « Le fort comporte une cinquantaine de marche à gravir durant la visite » (la faute est dans la source). L'approche depuis le parking du col se fait en dix minutes par une route carrossable de faible dénivelé, mais la visite elle-même est escaladée.
+- Source: OT Valloire — https://www.valloire.net/sit/le-fort-du-telegraphe-436553/
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Contestée : quatre sources, quatre réponses
+
+## Source officielle
+
+https://www.fortdutelegraphe.fr/
+
+================================================================================
+
+---
+slug: fort-marie-christine-esseillon
+name: "Fort Marie-Christine"
+category: chateau
+category_label: "Château"
+commune: "Aussois"
+postal_code: "73500"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.221492
+longitude: 6.734747
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/fort-marie-christine-esseillon
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/fort-marie-christine-esseillon.json
+photo_url: /img/generique/generique-chateau-brume.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-17
+source: loisirs73.fr
+---
+
+# Fort Marie-Christine
+
+## Faits
+
+- Commune: Aussois, Savoie (73500)
+- GPS: 45.221492, 6.734747
+- Catégorie: chateau
+- Type: fort sarde de la barrière de l'Esseillon
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Toute l'année, tous les jours
+
+## Source officielle
+
+https://www.aussois.com/patrimoine-culturel/fort-marie-christine-aussois/
+
+================================================================================
+
+---
 slug: fort-victor-emmanuel-aussois
 name: "Fort Victor-Emmanuel"
 category: chateau
@@ -2630,6 +2906,72 @@ https://saintpierredalbigny.fr/fr/rb/1606867/le-lac-de-carouge
 ================================================================================
 
 ---
+slug: lac-de-la-plagne-peisey-nancroix
+name: "Lac de la Plagne"
+category: lac
+category_label: "Lac & plage"
+commune: "Peisey-Nancroix"
+postal_code: "73210"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.484031
+longitude: 6.84148
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/lac-de-la-plagne-peisey-nancroix
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/lac-de-la-plagne-peisey-nancroix.json
+photo_url: /img/generique/generique-sentier-automne-rouge.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-17
+source: loisirs73.fr
+---
+
+# Lac de la Plagne
+
+## Faits
+
+- Commune: Peisey-Nancroix, Savoie (73210)
+- GPS: 45.484031, 6.84148
+- Catégorie: lac
+- Type: plan d'eau de montagne
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Le stationnement est gratuit.
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Non renseigné
+
+## Source officielle
+
+https://rando.vanoise.com/fr/trek/4099-Tour-du-lac-de-la-Plagne-%3A-randonnee-au-pied-des-geants-de-la-Vanoise
+
+================================================================================
+
+---
 slug: lac-de-la-thuile
 name: "Lac de La Thuile"
 category: lac
@@ -2692,6 +3034,72 @@ Printemps et automne (conseil de l'OT)
 ## Source officielle
 
 https://www.la-thuile.com/la-commune/le-lac-de-la-thuile
+
+================================================================================
+
+---
+slug: lac-de-roselend
+name: "Lac de Roselend"
+category: lac
+category_label: "Lac & plage"
+commune: "Beaufort"
+postal_code: "73270"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.685071
+longitude: 6.632732
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/lac-de-roselend
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/lac-de-roselend.json
+photo_url: /img/generique/generique-point-de-vue.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-17
+source: loisirs73.fr
+---
+
+# Lac de Roselend
+
+## Faits
+
+- Commune: Beaufort, Savoie (73270)
+- GPS: 45.685071, 6.632732
+- Catégorie: lac
+- Type: retenue de barrage
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Un parking existe sur place ; aucun tarif n'est publié, et nous ne le déduisons pas.
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+22 mai 2026 à 18h
+
+## Source officielle
+
+https://www.lebeaufortain.com/fiches/barrage-et-site-de-roselend-2/
 
 ================================================================================
 
@@ -2826,6 +3234,74 @@ Base nautique ~20 juin – 6 septembre
 ## Source officielle
 
 https://www.tignes.net/decouvrir/la-station/le-lac-de-tignes
+
+================================================================================
+
+---
+slug: lac-de-tueda-les-allues
+name: "Lac de Tuéda"
+category: lac
+category_label: "Lac & plage"
+commune: "Les Allues"
+postal_code: "73550"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.362324
+longitude: 6.586905
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/lac-de-tueda-les-allues
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/lac-de-tueda-les-allues.json
+photo_url: /img/generique/generique-sentier-detail-pomme-pin.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-17
+source: loisirs73.fr
+---
+
+# Lac de Tuéda
+
+## Faits
+
+- Commune: Les Allues, Savoie (73550)
+- GPS: 45.362324, 6.586905
+- Catégorie: lac
+- Type: plan d'eau de montagne
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+- Statut: Accessible
+- Détail: Le Parc national de la Vanoise écrit « Cette promenade de 1,8 km est accessible à tous » et l'office de tourisme de Méribel « le tour du lac se parcourt ensuite sur 1,8 km, entièrement accessible ». Deux places de stationnement adaptées sont annoncées à hauteur du lac. Ni revêtement, ni pente, ni les mots « fauteuil roulant » ou « poussette » ne figurent sur ces pages : c'est une déclaration d'accessibilité, pas une certification.
+- Source: Parc national de la Vanoise — https://www.vanoise-parcnational.fr/fr/des-decouvertes/un-parc-accessible-tous/des-sites-amenages/plan-de-tueda
+
+## Parking
+
+Un parking existe sur place ; aucun tarif n'est publié, et nous ne le déduisons pas.
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Non renseigné
+
+## Source officielle
+
+https://www.plandetueda-reservenaturelle.fr/les-interdits/
 
 ================================================================================
 
@@ -3164,6 +3640,74 @@ https://porte-de-savoie.fr/vie-locale/espaces-naturels-et-plans-deau/
 ================================================================================
 
 ---
+slug: lac-saint-clair-detrier
+name: "Lac Saint-Clair"
+category: lac
+category_label: "Lac & plage"
+commune: "Détrier"
+postal_code: "73110"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.450938
+longitude: 6.10121
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/lac-saint-clair-detrier
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/lac-saint-clair-detrier.json
+photo_url: /img/generique/generique-reserve-zone-humide-4.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-17
+source: loisirs73.fr
+---
+
+# Lac Saint-Clair
+
+## Faits
+
+- Commune: Détrier, Savoie (73110)
+- GPS: 45.450938, 6.10121
+- Catégorie: lac
+- Type: lac naturel
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+- Statut: Accessible
+- Détail: « Le tour du lac, aménagé et accessible aux personnes à mobilité réduite, est ponctué de tables de pique-nique », selon la fiche de l'office de tourisme Cœur de Savoie. Ni revêtement, ni pente, ni longueur ne sont précisés.
+- Source: OT Cœur de Savoie — https://tourisme.coeurdesavoie.fr/fiches/lac-saint-clair-327130/
+
+## Parking
+
+Le stationnement est gratuit.
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Non renseigné
+
+## Source officielle
+
+https://tourisme.coeurdesavoie.fr/fiches/lac-saint-clair-327130/
+
+================================================================================
+
+---
 slug: lacs-de-saint-jean-de-chevelu
 name: "Lacs de Saint-Jean-de-Chevelu"
 category: lac
@@ -3228,6 +3772,80 @@ Non renseigné
 ## Source officielle
 
 https://www.explore-savoie.com/sites-naturels/lacs-et-marais-de-saint-jean-de-chevelu-5216067/
+
+================================================================================
+
+---
+slug: le-grand-filon-musee-du-fer
+name: "Le Grand Filon, musée du fer"
+category: musee
+category_label: "Musée"
+commune: "Saint-Georges-d'Hurtières"
+postal_code: "73220"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.51049
+longitude: 6.28031
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/le-grand-filon-musee-du-fer
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/le-grand-filon-musee-du-fer.json
+photo_url: /img/generique/generique-speleo-galerie.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-17
+source: loisirs73.fr
+---
+
+# Le Grand Filon, musée du fer
+
+## Faits
+
+- Commune: Saint-Georges-d'Hurtières, Savoie (73220)
+- GPS: 45.51049, 6.28031
+- Catégorie: musee
+- Type: musée de la mine et du fer
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+- À partir de: 4 EUR
+- None: 4 € EUR
+- None: 2 € EUR
+- None: 10 € EUR
+- None: 6 € EUR
+- None: 22 € EUR
+- None: gratuit EUR
+
+## Accès (PMR)
+
+- Statut: Accessible
+- Détail: L'exploitant écrit « L'exposition, la galerie Saint Louis et l'école d'autrefois sont accessibles aux personnes à mobilité réduite et aux poussettes » et signale une place réservée devant l'entrée. En revanche « La visite [de la galerie Sainte-Barbe] est déconseillée aux personnes à la santé fragile et n'est pas accessible aux enfants de moins de 8 ans ». Ni WC adapté ni ascenseur documentés.
+- Source: Le Grand Filon — https://www.grandfilon.net/accessibilite
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Saison publiée
+
+## Source officielle
+
+https://www.grandfilon.net/espaces-de-visite
 
 ================================================================================
 
@@ -3298,6 +3916,150 @@ https://www.chambery.fr/231-venir-aux-charmettes.htm
 ================================================================================
 
 ---
+slug: musee-d-art-et-d-histoire-albertville
+name: "Musée d'art et d'histoire d'Albertville"
+category: musee
+category_label: "Musée"
+commune: "Albertville"
+postal_code: "73200"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.670601
+longitude: 6.397205
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/musee-d-art-et-d-histoire-albertville
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/musee-d-art-et-d-histoire-albertville.json
+photo_url: /img/generique/generique-musee-classique.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-17
+source: loisirs73.fr
+---
+
+# Musée d'art et d'histoire d'Albertville
+
+## Faits
+
+- Commune: Albertville, Savoie (73200)
+- GPS: 45.670601, 6.397205
+- Catégorie: musee
+- Type: musée d'art et d'histoire
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+- À partir de: 5 EUR
+- None: 5 € EUR
+- None: 2,50 € EUR
+- None: gratuit EUR
+- None: gratuit EUR
+- None: 2,50 € EUR
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Calendrier sans millésime
+
+## Source officielle
+
+https://www.pays-albertville.com/fiches/musee-dart-et-dhistoire/
+
+================================================================================
+
+---
+slug: musee-de-la-vigne-et-du-vin-de-savoie-montmelian
+name: "Musée de la vigne et du vin de Savoie"
+category: musee
+category_label: "Musée"
+commune: "Montmélian"
+postal_code: "73800"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.500501
+longitude: 6.059112
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/musee-de-la-vigne-et-du-vin-de-savoie-montmelian
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/musee-de-la-vigne-et-du-vin-de-savoie-montmelian.json
+photo_url: /img/generique/generique-distillerie.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-17
+source: loisirs73.fr
+---
+
+# Musée de la vigne et du vin de Savoie
+
+## Faits
+
+- Commune: Montmélian, Savoie (73800)
+- GPS: 45.500501, 6.059112
+- Catégorie: musee
+- Type: musée de la vigne et du vin
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+- À partir de: 5 EUR
+- None: 5 € EUR
+- None: 3 € EUR
+- None: gratuit EUR
+- None: 8 € EUR
+- None: 4 € EUR
+
+## Accès (PMR)
+
+- Statut: Partiellement accessible
+- Détail: La commune et Savoie Mont Blanc annoncent « un élévateur pour accéder à l'ensemble du musée (sauf les caves) » et des cannes-sièges. Les caves ne sont donc pas accessibles. Aucun WC adapté n'est documenté par une source à jour.
+- Source: Commune de Montmélian — https://montmelian.com/musee-vigne-vin-savoie/
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Calendrier sans millésime
+
+## Source officielle
+
+https://montmelian.com/musee-vigne-vin-savoie/
+
+================================================================================
+
+---
 slug: musee-des-beaux-arts-chambery
 name: "Musée des Beaux-Arts de Chambéry"
 category: musee
@@ -3360,6 +4122,74 @@ Toute l'année, du mardi au dimanche ; fermé lundis et jours fériés
 ## Source officielle
 
 https://www.chambery.fr/220-venir-au-musee.htm
+
+================================================================================
+
+---
+slug: musee-du-felicien-argentine
+name: "Musée du Félicien"
+category: musee
+category_label: "Musée"
+commune: "Argentine"
+postal_code: "73220"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.493552
+longitude: 6.312664
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/musee-du-felicien-argentine
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/musee-du-felicien-argentine.json
+photo_url: /img/generique/generique-ferme-chevres.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-17
+source: loisirs73.fr
+---
+
+# Musée du Félicien
+
+## Faits
+
+- Commune: Argentine, Savoie (73220)
+- GPS: 45.493552, 6.312664
+- Catégorie: musee
+- Type: musée du quotidien paysan, filmé
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Non renseigné
+
+## Accès (PMR)
+
+- Statut: Partiellement accessible
+- Détail: Le Département écrit « pour les personnes soufrant d'un handicap, il est possible de visionner l'ensemble des films au rez-de-chaussée » (la faute est dans la source). C'est un accès partiel au contenu, pas au bâtiment. Deux autres sources sont muettes.
+- Source: Conseil départemental de la Savoie — https://patrimoines.savoie.fr/web/299_DBEvenement/musee-du-felicien
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Contestée : quatre sources, quatre réponses
+
+## Source officielle
+
+https://www.explore-savoie.com/sites-culturels/musee-du-felicien-527138/
 
 ================================================================================
 
@@ -3560,6 +4390,74 @@ Toute l'année sauf mardis, quatre jours fériés et deux semaines de janvier
 ## Source officielle
 
 https://patrimoines.savoie.fr/web/psp_30197/musee-savoisien-accueil
+
+================================================================================
+
+---
+slug: musee-val-histoire-val-d-isere
+name: "Musée Val Histoire"
+category: musee
+category_label: "Musée"
+commune: "Val-d'Isère"
+postal_code: "73150"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.44732
+longitude: 6.975356
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/musee-val-histoire-val-d-isere
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/musee-val-histoire-val-d-isere.json
+photo_url: /img/generique/generique-musee.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-17
+source: loisirs73.fr
+---
+
+# Musée Val Histoire
+
+## Faits
+
+- Commune: Val-d'Isère, Savoie (73150)
+- GPS: 45.44732, 6.975356
+- Catégorie: musee
+- Type: centre d'interprétation de l'histoire de la station
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+- Statut: Partiellement accessible
+- Détail: « Accessible en fauteuil roulant avec aide », selon l'office de tourisme. Avec aide, donc pas en autonomie. Ni ascenseur ni WC adapté documentés.
+- Source: OT Val d'Isère — https://www.valdisere.com/offres/musee-val-histoire-val-d-isere-fr-4196697/
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Deux périodes publiées, deux fenêtres non publiées
+
+## Source officielle
+
+https://www.valdisere.com/offres/musee-val-histoire-val-d-isere-fr-4196697/
 
 ================================================================================
 
@@ -5742,6 +6640,75 @@ Toute l'année ; les vignes sont belles de l'été aux couleurs d'automne
 ## Source officielle
 
 https://patrimoines.savoie.fr/web/psp_25182/les-tours-de-chignin
+
+================================================================================
+
+---
+slug: tours-de-montmayeur-villard-sallet
+name: "Tours de Montmayeur"
+category: chateau
+category_label: "Château"
+commune: "Villard-Sallet"
+postal_code: "73110"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.489399
+longitude: 6.123415
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/tours-de-montmayeur-villard-sallet
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/tours-de-montmayeur-villard-sallet.json
+photo_url: /img/generique/generique-sentier-fog.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-17
+source: loisirs73.fr
+---
+
+# Tours de Montmayeur
+
+## Faits
+
+- Commune: Villard-Sallet, Savoie (73110)
+- GPS: 45.489399, 6.123415
+- Catégorie: chateau
+- Type: ruines d'un château médiéval
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+- None: gratuit
+- None: 14 €, tarif unique
+
+## Accès (PMR)
+
+- Statut: Non accessible
+- Détail: La visite guidée qui emprunte le même accès précise « non accessible aux poussettes et fauteuils roulants » : les porte-bébés sont admis et il faut pouvoir marcher trois kilomètres. Le site lui-même ne publie rien, mais la mention vaut pour l'approche.
+- Source: OT Cœur de Savoie — https://tourisme.coeurdesavoie.fr/fiches/ohe-du-chateau-aux-tours-de-montmayeur-6997177/
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Toute l'année, tous les jours
+
+## Source officielle
+
+https://tourisme.coeurdesavoie.fr/fiches/les-tours-de-montmayeur-443185/
 
 ================================================================================
 

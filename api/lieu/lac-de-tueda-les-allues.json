@@ -1,0 +1,33 @@
+{
+  "name": "Lac de Tuéda",
+  "commune": "Les Allues",
+  "gps": {
+    "lat": 45.362324,
+    "lng": 6.586905
+  },
+  "type": "lac",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": null,
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": {
+    "status": "accessible",
+    "detail": "Le Parc national de la Vanoise écrit « Cette promenade de 1,8 km est accessible à tous » et l'office de tourisme de Méribel « le tour du lac se parcourt ensuite sur 1,8 km, entièrement accessible ». Deux places de stationnement adaptées sont annoncées à hauteur du lac. Ni revêtement, ni pente, ni les mots « fauteuil roulant » ou « poussette » ne figurent sur ces pages : c'est une déclaration d'accessibilité, pas une certification.",
+    "equipment": [
+      "place_pmr"
+    ],
+    "handiplage_level": null,
+    "source_url": "https://www.vanoise-parcnational.fr/fr/des-decouvertes/un-parc-accessible-tous/des-sites-amenages/plan-de-tueda",
+    "source_name": "Parc national de la Vanoise"
+  },
+  "parking": "Un parking existe sur place ; aucun tarif n'est publié, et nous ne le déduisons pas.",
+  "transport": null,
+  "season": null,
+  "winter": null,
+  "official_url": "https://www.plandetueda-reservenaturelle.fr/les-interdits/",
+  "last_verified": null
+}

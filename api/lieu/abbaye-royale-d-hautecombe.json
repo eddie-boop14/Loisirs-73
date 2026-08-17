@@ -1,0 +1,59 @@
+{
+  "name": "Abbaye d'Hautecombe",
+  "commune": "Saint-Pierre-de-Curtille",
+  "gps": {
+    "lat": 45.752849,
+    "lng": 5.839688
+  },
+  "type": "chateau",
+  "hours": null,
+  "prices": {
+    "from": 4.5,
+    "currency": "EUR",
+    "tiers": [
+      {
+        "name": null,
+        "price": "4,50 €",
+        "note": null
+      },
+      {
+        "name": null,
+        "price": "2,50 €",
+        "note": null
+      },
+      {
+        "name": null,
+        "price": "gratuit",
+        "note": null
+      },
+      {
+        "name": null,
+        "price": "3,80 €",
+        "note": null
+      },
+      {
+        "name": null,
+        "price": "7,50 €",
+        "note": null
+      }
+    ],
+    "is_free": false,
+    "note": null
+  },
+  "access_pmr": {
+    "status": "accessible",
+    "detail": "L'office de tourisme d'Aix-les-Bains annonce « Accessible en fauteuil roulant en autonomie », « Entrée accessible » et « WC + barre d'appui + espace de circulation ». L'abbaye elle-même ne publie rien sur ce point : la déclaration vient du tiers, pas du site.",
+    "equipment": [
+      "wc_adapte"
+    ],
+    "handiplage_level": null,
+    "source_url": "https://www.aixlesbains-rivieradesalpes.com/patrimoine-culturel/abbaye-dhautecombe-saint-pierre-de-curtille/",
+    "source_name": "OT Aix-les-Bains Riviera des Alpes"
+  },
+  "parking": null,
+  "transport": null,
+  "season": "Saison publiée",
+  "winter": null,
+  "official_url": "https://hautecombe.chemin-neuf.fr/visite-audioguidee/",
+  "last_verified": null
+}

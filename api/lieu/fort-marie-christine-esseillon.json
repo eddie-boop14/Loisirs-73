@@ -1,0 +1,24 @@
+{
+  "name": "Fort Marie-Christine",
+  "commune": "Aussois",
+  "gps": {
+    "lat": 45.221492,
+    "lng": 6.734747
+  },
+  "type": "chateau",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": null,
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "Toute l'année, tous les jours",
+  "winter": null,
+  "official_url": "https://www.aussois.com/patrimoine-culturel/fort-marie-christine-aussois/",
+  "last_verified": null
+}

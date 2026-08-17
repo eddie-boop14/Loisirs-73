@@ -1,0 +1,31 @@
+{
+  "name": "Musée du Félicien",
+  "commune": "Argentine",
+  "gps": {
+    "lat": 45.493552,
+    "lng": 6.312664
+  },
+  "type": "musee",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": null,
+    "tiers": [],
+    "is_free": false,
+    "note": null
+  },
+  "access_pmr": {
+    "status": "partiel",
+    "detail": "Le Département écrit « pour les personnes soufrant d'un handicap, il est possible de visionner l'ensemble des films au rez-de-chaussée » (la faute est dans la source). C'est un accès partiel au contenu, pas au bâtiment. Deux autres sources sont muettes.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_url": "https://patrimoines.savoie.fr/web/299_DBEvenement/musee-du-felicien",
+    "source_name": "Conseil départemental de la Savoie"
+  },
+  "parking": null,
+  "transport": null,
+  "season": "Contestée : quatre sources, quatre réponses",
+  "winter": null,
+  "official_url": "https://www.explore-savoie.com/sites-culturels/musee-du-felicien-527138/",
+  "last_verified": null
+}

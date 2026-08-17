@@ -1,0 +1,706 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-17",
+    "confidence": "declarative",
+    "detail": "L'exploitant écrit « L'exposition, la galerie Saint Louis et l'école d'autrefois sont accessibles aux personnes à mobilité réduite et aux poussettes » et signale une place réservée devant l'entrée. En revanche « La visite [de la galerie Sainte-Barbe] est déconseillée aux personnes à la santé fragile et n'est pas accessible aux enfants de moins de 8 ans ». Ni WC adapté ni ascenseur documentés.",
+    "equipment": [
+      "place_pmr"
+    ],
+    "handiplage_level": null,
+    "source_name": "Le Grand Filon",
+    "source_url": "https://www.grandfilon.net/accessibilite",
+    "status": "accessible",
+    "tourisme_handicap": []
+  },
+  "category": "musee",
+  "commune": "Saint-Georges-d'Hurtières",
+  "date_modified_human": "17 août 2026",
+  "date_published_human": "17 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-17",
+    "method": "Recherche du 17 août 2026, sources officielles uniquement. Saisons, jours de fermeture et grilles tarifaires cités mot pour mot avec leur URL ; toute divergence entre publieurs est reportée, jamais arbitrée. Label Musée de France vérifié sur la liste officielle de la DRAC Auvergne-Rhône-Alpes, pas sur la déclaration du site. Protection monument historique vérifiée notice par notice dans la base nationale Mérimée. Coordonnées : géocodeur IGN Géoplateforme, catégorie du POI contrôlée pour écarter les homonymes. Les pages anglaises des offices de tourisme savoyards se sont révélées systématiquement périmées ou inversées : seules les pages françaises sont citées."
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-speleo-galerie.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Wann ist geöffnet? Saison und Zeiten werden vom Betreiber veröffentlicht, mit einem klaren Schließtag: Montag und Samstag. Die Einzelheiten stehen in den praktischen Angaben dieser Seite.",
+          "tag": "Vor Ort",
+          "title": "Öffnung"
+        },
+        {
+          "description": "Was kostet es? Ab 4 €. Die vollständige Übersicht — ermäßigt, frei, Gruppen — steht bei den Preisen dieser Seite, unverändert übernommen, mit den genauen Altersgrenzen der Quelle.",
+          "tag": "Vor Ort",
+          "title": "Preise"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Das <strong>Le Grand Filon, musée du fer</strong> ist ein Bergbau- und Eisenmuseum in Saint-Georges-d'Hurtières, Savoie.</p><p><strong>Wann ist geöffnet?</strong> Saison und Zeiten werden vom Betreiber veröffentlicht, mit einem klaren Schließtag: <strong>Montag und Samstag</strong>. Die Einzelheiten stehen in den praktischen Angaben dieser Seite.</p><p><strong>Was kostet es?</strong> Ab 4 €. Die vollständige Übersicht — ermäßigt, frei, Gruppen — steht bei den Preisen dieser Seite, unverändert übernommen, mit den genauen Altersgrenzen der Quelle.</p><p>Das Tourismusbüro bezeichnet ihn als « accessible en fauteuil roulant en autonomie », also ohne fremde Hilfe rollstuhlgerecht. Zu Tieren wird in den gelesenen Quellen keine Regel veröffentlicht.</p><p>Diese Seite stützt sich ausschließlich auf offizielle Quellen: Betreiber, Gemeinde, Park, Tourismusbüro, nationales Badegewässerregister. Wo zwei davon einander widersprechen, werden beide genannt und die Differenz gekennzeichnet — wir entscheiden nicht für Sie. Wo sie schweigen, bleibt das Feld leer statt geraten.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Kostenpflichtig",
+        "best_season": "Veröffentlichte Saison",
+        "commune": "Saint-Georges-d'Hurtières",
+        "dogs": "Zu Tieren wird in den gelesenen Quellen keine Regel veröffentlicht.",
+        "parking": null,
+        "stroller": null,
+        "type": "Bergbau- und Eisenmuseum"
+      },
+      "faq": [
+        {
+          "a": "Saison und Zeiten werden vom Betreiber veröffentlicht, mit einem klaren Schließtag: Montag und Samstag. Die Einzelheiten stehen in den praktischen Angaben dieser Seite.",
+          "q": "Wann ist geöffnet?"
+        },
+        {
+          "a": "Ab 4 €. Die vollständige Übersicht — ermäßigt, frei, Gruppen — steht bei den Preisen dieser Seite, unverändert übernommen, mit den genauen Altersgrenzen der Quelle.",
+          "q": "Was kostet der Eintritt?"
+        },
+        {
+          "a": "Montag und Samstag",
+          "q": "Welcher ist der Schließtag?"
+        },
+        {
+          "a": "Das Tourismusbüro bezeichnet ihn als « accessible en fauteuil roulant en autonomie », also ohne fremde Hilfe rollstuhlgerecht.",
+          "q": "Ist die Anlage rollstuhlgerecht?"
+        },
+        {
+          "a": "Zu Tieren wird in den gelesenen Quellen keine Regel veröffentlicht.",
+          "q": "Sind Tiere zugelassen?"
+        }
+      ],
+      "hero": {
+        "badge": "Kostenpflichtig · Saint-Georges-d'Hurtières",
+        "lead": "Bergbau- und Eisenmuseum in Saint-Georges-d'Hurtières, Savoie. Kostenpflichtig, Veröffentlichte Saison — und was die offiziellen Quellen nicht sagen, als solches gesagt."
+      },
+      "hero_alt": "Le Grand Filon, musée du fer, Bergbau- und Eisenmuseum in Saint-Georges-d'Hurtières, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "1514 route de La Minière, 73220 Saint-Georges-d'Hurtières. Veröffentlichter Punkt: 45.51049, 6.28031. Die POI-Kategorie wurde geprüft, um einen Namensvetter auszuschließen.",
+        "public_transport": null
+      },
+      "meta_description": "Le Grand Filon, musée du fer in Saint-Georges-d'Hurtières, Savoie: Kostenpflichtig, Veröffentlichte Saison. Offizielle Quellen, Abweichungen gekennzeichnet.",
+      "meta_title": "Le Grand Filon, musée du fer — Kostenpflichtig, Saint-Georges-d'Hurtières",
+      "name": "Le Grand Filon, musée du fer",
+      "name_alternates": [
+        "Musée minier Le Grand Filon"
+      ],
+      "practical_info": [
+        {
+          "k": "Anschrift",
+          "v": "1514 route de La Minière, 73220 Saint-Georges-d'Hurtières"
+        },
+        {
+          "k": "Öffnung",
+          "v": "Veröffentlichte Saison"
+        },
+        {
+          "k": "Schließtag",
+          "v": "Montag und Samstag"
+        },
+        {
+          "k": "Preise",
+          "v": "Kostenpflichtig"
+        },
+        {
+          "k": "Denkmalschutz",
+          "v": null
+        },
+        {
+          "k": "Barrierefreiheit",
+          "v": "Das Tourismusbüro bezeichnet ihn als « accessible en fauteuil roulant en autonomie », also ohne fremde Hilfe rollstuhlgerecht."
+        },
+        {
+          "k": "Tiere",
+          "v": "Zu Tieren wird in den gelesenen Quellen keine Regel veröffentlicht."
+        },
+        {
+          "k": "Telefon",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Rollstuhlgerecht"
+      ],
+      "when_to_visit": "<p>Ein überdachtes oder denkmalgeschütztes Ziel: ein Ausflug für schlechtes Wetter genauso wie für gutes. Prüfen Sie vorher den Schließtag — daran scheitern die meisten Besuche.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "When is it open? The season and hours are published by the operator, with a clean weekly closing day: Monday and Saturday. The detail is in this page's practical information.",
+          "tag": "On site",
+          "title": "Opening"
+        },
+        {
+          "description": "What does it cost? From 4 €. The full grid — reduced, free, groups — is in this page's prices, reproduced as published, with the source's exact age brackets.",
+          "tag": "On site",
+          "title": "Prices"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Le Grand Filon, musée du fer</strong> is a iron and mining museum at Saint-Georges-d'Hurtières, Savoie.</p><p><strong>When is it open?</strong> The season and hours are published by the operator, with a clean weekly closing day: <strong>Monday and Saturday</strong>. The detail is in this page's practical information.</p><p><strong>What does it cost?</strong> From 4 €. The full grid — reduced, free, groups — is in this page's prices, reproduced as published, with the source's exact age brackets.</p><p>The tourist office declares it « accessible en fauteuil roulant en autonomie » — wheelchair-accessible without assistance. No rule about animals is published by the sources read.</p><p>This page is built on official sources and nothing else: the site's manager, the commune, the park, the tourist office, the national bathing-water register. Where two of them contradict each other, both are given and the gap is flagged — we do not choose for you. Where they are silent, the field stays empty rather than guessed.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Paid",
+        "best_season": "Published season",
+        "commune": "Saint-Georges-d'Hurtières",
+        "dogs": "No rule about animals is published by the sources read.",
+        "parking": null,
+        "stroller": null,
+        "type": "iron and mining museum"
+      },
+      "faq": [
+        {
+          "a": "The season and hours are published by the operator, with a clean weekly closing day: Monday and Saturday. The detail is in this page's practical information.",
+          "q": "When is it open?"
+        },
+        {
+          "a": "From 4 €. The full grid — reduced, free, groups — is in this page's prices, reproduced as published, with the source's exact age brackets.",
+          "q": "How much is admission?"
+        },
+        {
+          "a": "Monday and Saturday",
+          "q": "What is the weekly closing day?"
+        },
+        {
+          "a": "The tourist office declares it « accessible en fauteuil roulant en autonomie » — wheelchair-accessible without assistance.",
+          "q": "Is the site wheelchair-accessible?"
+        },
+        {
+          "a": "No rule about animals is published by the sources read.",
+          "q": "Are animals accepted?"
+        }
+      ],
+      "hero": {
+        "badge": "Paid · Saint-Georges-d'Hurtières",
+        "lead": "Iron and mining museum at Saint-Georges-d'Hurtières, Savoie. Paid, Published season — and what the official sources do not say, said as such."
+      },
+      "hero_alt": "Le Grand Filon, musée du fer, iron and mining museum, at Saint-Georges-d'Hurtières, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "1514 route de La Minière, 73220 Saint-Georges-d'Hurtières. Published point: 45.51049, 6.28031. The POI category was checked to rule out a namesake.",
+        "public_transport": null
+      },
+      "meta_description": "Le Grand Filon, musée du fer, Saint-Georges-d'Hurtières, Savoie: Paid, Published season. Official sources, discrepancies flagged.",
+      "meta_title": "Le Grand Filon, musée du fer — Paid, Saint-Georges-d'Hurtières",
+      "name": "Le Grand Filon, musée du fer",
+      "name_alternates": [
+        "Musée minier Le Grand Filon"
+      ],
+      "practical_info": [
+        {
+          "k": "Address",
+          "v": "1514 route de La Minière, 73220 Saint-Georges-d'Hurtières"
+        },
+        {
+          "k": "Opening",
+          "v": "Published season"
+        },
+        {
+          "k": "Weekly closing day",
+          "v": "Monday and Saturday"
+        },
+        {
+          "k": "Prices",
+          "v": "Paid"
+        },
+        {
+          "k": "Protection",
+          "v": null
+        },
+        {
+          "k": "Accessibility",
+          "v": "The tourist office declares it « accessible en fauteuil roulant en autonomie » — wheelchair-accessible without assistance."
+        },
+        {
+          "k": "Animals",
+          "v": "No rule about animals is published by the sources read."
+        },
+        {
+          "k": "Telephone",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Wheelchair-accessible"
+      ],
+      "when_to_visit": "<p>A covered or heritage site: as much a bad-weather outing as a fine-weather one. Check the weekly closing day before you go — that is where visits are lost.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "¿Cuándo está abierto? La temporada y el horario los publica el gestor, con un día de cierre claro: lunes y sábado. El detalle está en la información práctica de esta ficha.",
+          "tag": "En el sitio",
+          "title": "Apertura"
+        },
+        {
+          "description": "¿Cuánto cuesta? Desde 4 €. La parrilla completa — reducido, gratuito, grupos — está en las tarifas de esta ficha, reproducida tal como se publica, con los tramos de edad exactos de la fuente.",
+          "tag": "En el sitio",
+          "title": "Tarifas"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>Le Grand Filon, musée du fer</strong> es un museo de la mina y del hierro en Saint-Georges-d'Hurtières, Savoie.</p><p><strong>¿Cuándo está abierto?</strong> La temporada y el horario los publica el gestor, con un día de cierre claro: <strong>lunes y sábado</strong>. El detalle está en la información práctica de esta ficha.</p><p><strong>¿Cuánto cuesta?</strong> Desde 4 €. La parrilla completa — reducido, gratuito, grupos — está en las tarifas de esta ficha, reproducida tal como se publica, con los tramos de edad exactos de la fuente.</p><p>La oficina de turismo la declara « accessible en fauteuil roulant en autonomie », accesible en silla de ruedas sin ayuda. Las fuentes consultadas no publican ninguna norma sobre animales.</p><p>Esta página se basa únicamente en fuentes oficiales: gestor, municipio, parque, oficina de turismo, registro sanitario nacional. Donde dos de ellas se contradicen, se dan ambas y se señala la diferencia — no elegimos por usted. Donde callan, el dato queda vacío en lugar de adivinado.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "De pago",
+        "best_season": "Temporada publicada",
+        "commune": "Saint-Georges-d'Hurtières",
+        "dogs": "Las fuentes consultadas no publican ninguna norma sobre animales.",
+        "parking": null,
+        "stroller": null,
+        "type": "museo de la mina y del hierro"
+      },
+      "faq": [
+        {
+          "a": "La temporada y el horario los publica el gestor, con un día de cierre claro: lunes y sábado. El detalle está en la información práctica de esta ficha.",
+          "q": "¿Cuándo está abierto?"
+        },
+        {
+          "a": "Desde 4 €. La parrilla completa — reducido, gratuito, grupos — está en las tarifas de esta ficha, reproducida tal como se publica, con los tramos de edad exactos de la fuente.",
+          "q": "¿Cuánto cuesta la entrada?"
+        },
+        {
+          "a": "lunes y sábado",
+          "q": "¿Cuál es el día de cierre?"
+        },
+        {
+          "a": "La oficina de turismo la declara « accessible en fauteuil roulant en autonomie », accesible en silla de ruedas sin ayuda.",
+          "q": "¿Es accesible en silla de ruedas?"
+        },
+        {
+          "a": "Las fuentes consultadas no publican ninguna norma sobre animales.",
+          "q": "¿Se admiten animales?"
+        }
+      ],
+      "hero": {
+        "badge": "De pago · Saint-Georges-d'Hurtières",
+        "lead": "Museo de la mina y del hierro en Saint-Georges-d'Hurtières, Savoie. De pago, Temporada publicada — y lo que las fuentes oficiales no dicen, dicho como tal."
+      },
+      "hero_alt": "Le Grand Filon, musée du fer, museo de la mina y del hierro, en Saint-Georges-d'Hurtières, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "1514 route de La Minière, 73220 Saint-Georges-d'Hurtières. Punto publicado: 45.51049, 6.28031. Se verificó la categoría del POI para descartar un homónimo.",
+        "public_transport": null
+      },
+      "meta_description": "Le Grand Filon, musée du fer en Saint-Georges-d'Hurtières, Savoie: De pago, Temporada publicada. Fuentes oficiales, discrepancias señaladas.",
+      "meta_title": "Le Grand Filon, musée du fer — De pago, Saint-Georges-d'Hurtières",
+      "name": "Le Grand Filon, musée du fer",
+      "name_alternates": [
+        "Musée minier Le Grand Filon"
+      ],
+      "practical_info": [
+        {
+          "k": "Dirección",
+          "v": "1514 route de La Minière, 73220 Saint-Georges-d'Hurtières"
+        },
+        {
+          "k": "Apertura",
+          "v": "Temporada publicada"
+        },
+        {
+          "k": "Día de cierre",
+          "v": "lunes y sábado"
+        },
+        {
+          "k": "Tarifas",
+          "v": "De pago"
+        },
+        {
+          "k": "Protección",
+          "v": null
+        },
+        {
+          "k": "Accesibilidad",
+          "v": "La oficina de turismo la declara « accessible en fauteuil roulant en autonomie », accesible en silla de ruedas sin ayuda."
+        },
+        {
+          "k": "Animales",
+          "v": "Las fuentes consultadas no publican ninguna norma sobre animales."
+        },
+        {
+          "k": "Teléfono",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Accesible en silla de ruedas"
+      ],
+      "when_to_visit": "<p>Sitio cubierto o patrimonial: es una salida de mal tiempo tanto como de buen tiempo. Compruebe el día de cierre antes de salir, es ahí donde se pierden las visitas.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Quand est-ce ouvert ? La saison et les horaires sont publiés par le gestionnaire, avec un jour de fermeture net : lundi et samedi. Le détail figure dans les informations pratiques de cette fiche.",
+          "tag": "Sur place",
+          "title": "Ouverture"
+        },
+        {
+          "description": "Combien ça coûte ? À partir de 4 €. La grille complète — réduit, gratuité, groupes — figure dans les tarifs de cette fiche, reprise telle qu'elle est publiée, avec les tranches d'âge exactes de la source.",
+          "tag": "Sur place",
+          "title": "Tarifs"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Le <strong>Le Grand Filon, musée du fer</strong> est un musée de la mine et du fer à Saint-Georges-d'Hurtières, en Savoie.</p><p><strong>Quand est-ce ouvert ?</strong> La saison et les horaires sont publiés par le gestionnaire, avec un jour de fermeture net : <strong>lundi et samedi</strong>. Le détail figure dans les informations pratiques de cette fiche.</p><p><strong>Combien ça coûte ?</strong> À partir de 4 €. La grille complète — réduit, gratuité, groupes — figure dans les tarifs de cette fiche, reprise telle qu'elle est publiée, avec les tranches d'âge exactes de la source.</p><p>L'office de tourisme la déclare « accessible en fauteuil roulant en autonomie ». Aucune règle sur les animaux n'est publiée par les sources consultées.</p><p>Cette page est bâtie sur les sources officielles et sur elles seules : gestionnaire, commune, parc, office de tourisme, registre sanitaire national. Là où deux d'entre elles se contredisent, les deux sont données et l'écart est signalé — nous ne choisissons pas à votre place. Là où elles se taisent, la donnée reste vide plutôt que devinée.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Payant",
+        "best_season": "Saison publiée",
+        "commune": "Saint-Georges-d'Hurtières",
+        "dogs": "Aucune règle sur les animaux n'est publiée par les sources consultées.",
+        "parking": null,
+        "stroller": null,
+        "type": "musée de la mine et du fer"
+      },
+      "faq": [
+        {
+          "a": "La saison et les horaires sont publiés par le gestionnaire, avec un jour de fermeture net : lundi et samedi. Le détail figure dans les informations pratiques de cette fiche.",
+          "q": "Quand est-ce ouvert ?"
+        },
+        {
+          "a": "À partir de 4 €. La grille complète — réduit, gratuité, groupes — figure dans les tarifs de cette fiche, reprise telle qu'elle est publiée, avec les tranches d'âge exactes de la source.",
+          "q": "Combien coûte l'entrée ?"
+        },
+        {
+          "a": "lundi et samedi",
+          "q": "Quel est le jour de fermeture ?"
+        },
+        {
+          "a": "L'office de tourisme la déclare « accessible en fauteuil roulant en autonomie ».",
+          "q": "Le site est-il accessible en fauteuil roulant ?"
+        },
+        {
+          "a": "Aucune règle sur les animaux n'est publiée par les sources consultées.",
+          "q": "Les animaux sont-ils acceptés ?"
+        }
+      ],
+      "hero": {
+        "badge": "Payant · Saint-Georges-d'Hurtières",
+        "lead": "Musée de la mine et du fer à Saint-Georges-d'Hurtières, en Savoie. Payant, Saison publiée — et ce que les sources officielles ne disent pas, dit comme tel."
+      },
+      "hero_alt": "Le Grand Filon, musée du fer, musée de la mine et du fer, à Saint-Georges-d'Hurtières, en Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "1514 route de La Minière, 73220 Saint-Georges-d'Hurtières. Point publié : 45.51049, 6.28031. La catégorie du POI a été vérifiée pour écarter un homonyme.",
+        "public_transport": null
+      },
+      "meta_description": "Le Grand Filon, musée du fer à Saint-Georges-d'Hurtières, en Savoie : Payant, Saison publiée. Sources officielles, contradictions signalées.",
+      "meta_title": "Le Grand Filon, musée du fer — Payant, Saint-Georges-d'Hurtières",
+      "name": "Le Grand Filon, musée du fer",
+      "name_alternates": [
+        "Musée minier Le Grand Filon"
+      ],
+      "practical_info": [
+        {
+          "k": "Adresse",
+          "v": "1514 route de La Minière, 73220 Saint-Georges-d'Hurtières"
+        },
+        {
+          "k": "Ouverture",
+          "v": "Saison publiée"
+        },
+        {
+          "k": "Jour de fermeture",
+          "v": "lundi et samedi"
+        },
+        {
+          "k": "Tarifs",
+          "v": "Payant"
+        },
+        {
+          "k": "Protection",
+          "v": null
+        },
+        {
+          "k": "Accessibilité",
+          "v": "L'office de tourisme la déclare « accessible en fauteuil roulant en autonomie »."
+        },
+        {
+          "k": "Animaux",
+          "v": "Aucune règle sur les animaux n'est publiée par les sources consultées."
+        },
+        {
+          "k": "Téléphone",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Accessible en fauteuil roulant"
+      ],
+      "when_to_visit": "<p>Site couvert ou patrimonial : c'est une sortie de mauvais temps autant que de beau. Vérifiez le jour de fermeture avant de partir, c'est là que se perdent les visites.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Quando è aperto? Stagione e orari sono pubblicati dal gestore, con un giorno di chiusura netto: lunedì e sabato. Il dettaglio è nelle informazioni pratiche di questa scheda.",
+          "tag": "In loco",
+          "title": "Apertura"
+        },
+        {
+          "description": "Quanto costa? Da 4 €. La griglia completa — ridotto, gratuito, gruppi — è nelle tariffe di questa scheda, riportata come pubblicata, con le fasce d'età esatte della fonte.",
+          "tag": "In loco",
+          "title": "Tariffe"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Il <strong>Le Grand Filon, musée du fer</strong> è un museo della miniera e del ferro a Saint-Georges-d'Hurtières, in Savoie.</p><p><strong>Quando è aperto?</strong> Stagione e orari sono pubblicati dal gestore, con un giorno di chiusura netto: <strong>lunedì e sabato</strong>. Il dettaglio è nelle informazioni pratiche di questa scheda.</p><p><strong>Quanto costa?</strong> Da 4 €. La griglia completa — ridotto, gratuito, gruppi — è nelle tariffe di questa scheda, riportata come pubblicata, con le fasce d'età esatte della fonte.</p><p>L'ufficio del turismo la dichiara « accessible en fauteuil roulant en autonomie », accessibile in carrozzina senza assistenza. Nessuna regola sugli animali è pubblicata dalle fonti consultate.</p><p>Questa pagina si basa solo su fonti ufficiali: gestore, comune, parco, ufficio del turismo, registro sanitario nazionale. Dove due di esse si contraddicono, entrambe sono riportate e lo scarto è segnalato — non scegliamo al posto vostro. Dove tacciono, il dato resta vuoto anziché indovinato.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "A pagamento",
+        "best_season": "Stagione pubblicata",
+        "commune": "Saint-Georges-d'Hurtières",
+        "dogs": "Nessuna regola sugli animali è pubblicata dalle fonti consultate.",
+        "parking": null,
+        "stroller": null,
+        "type": "museo della miniera e del ferro"
+      },
+      "faq": [
+        {
+          "a": "Stagione e orari sono pubblicati dal gestore, con un giorno di chiusura netto: lunedì e sabato. Il dettaglio è nelle informazioni pratiche di questa scheda.",
+          "q": "Quando è aperto?"
+        },
+        {
+          "a": "Da 4 €. La griglia completa — ridotto, gratuito, gruppi — è nelle tariffe di questa scheda, riportata come pubblicata, con le fasce d'età esatte della fonte.",
+          "q": "Quanto costa l'ingresso?"
+        },
+        {
+          "a": "lunedì e sabato",
+          "q": "Qual è il giorno di chiusura?"
+        },
+        {
+          "a": "L'ufficio del turismo la dichiara « accessible en fauteuil roulant en autonomie », accessibile in carrozzina senza assistenza.",
+          "q": "Il sito è accessibile in carrozzina?"
+        },
+        {
+          "a": "Nessuna regola sugli animali è pubblicata dalle fonti consultate.",
+          "q": "Gli animali sono ammessi?"
+        }
+      ],
+      "hero": {
+        "badge": "A pagamento · Saint-Georges-d'Hurtières",
+        "lead": "Museo della miniera e del ferro a Saint-Georges-d'Hurtières, in Savoie. A pagamento, Stagione pubblicata — e ciò che le fonti ufficiali non dicono, detto come tale."
+      },
+      "hero_alt": "Le Grand Filon, musée du fer, museo della miniera e del ferro, a Saint-Georges-d'Hurtières, in Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "1514 route de La Minière, 73220 Saint-Georges-d'Hurtières. Punto pubblicato: 45.51049, 6.28031. La categoria del POI è stata verificata per escludere un omonimo.",
+        "public_transport": null
+      },
+      "meta_description": "Le Grand Filon, musée du fer a Saint-Georges-d'Hurtières, in Savoie: A pagamento, Stagione pubblicata. Fonti ufficiali, discordanze segnalate.",
+      "meta_title": "Le Grand Filon, musée du fer — A pagamento, Saint-Georges-d'Hurtières",
+      "name": "Le Grand Filon, musée du fer",
+      "name_alternates": [
+        "Musée minier Le Grand Filon"
+      ],
+      "practical_info": [
+        {
+          "k": "Indirizzo",
+          "v": "1514 route de La Minière, 73220 Saint-Georges-d'Hurtières"
+        },
+        {
+          "k": "Apertura",
+          "v": "Stagione pubblicata"
+        },
+        {
+          "k": "Giorno di chiusura",
+          "v": "lunedì e sabato"
+        },
+        {
+          "k": "Tariffe",
+          "v": "A pagamento"
+        },
+        {
+          "k": "Tutela",
+          "v": null
+        },
+        {
+          "k": "Accessibilità",
+          "v": "L'ufficio del turismo la dichiara « accessible en fauteuil roulant en autonomie », accessibile in carrozzina senza assistenza."
+        },
+        {
+          "k": "Animali",
+          "v": "Nessuna regola sugli animali è pubblicata dalle fonti consultate."
+        },
+        {
+          "k": "Telefono",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Accessibile in carrozzina"
+      ],
+      "when_to_visit": "<p>Sito coperto o patrimoniale: è una gita da brutto tempo tanto quanto da bello. Verificate il giorno di chiusura prima di partire, è lì che si perdono le visite.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Wanneer is het open? Seizoen en tijden worden door de beheerder gepubliceerd, met een duidelijke sluitingsdag: maandag en zaterdag. De details staan bij de praktische informatie op deze pagina.",
+          "tag": "Ter plaatse",
+          "title": "Opening"
+        },
+        {
+          "description": "Wat kost het? Vanaf 4 €. Het volledige overzicht — korting, gratis, groepen — staat bij de tarieven op deze pagina, overgenomen zoals gepubliceerd, met de exacte leeftijdsgrenzen van de bron.",
+          "tag": "Ter plaatse",
+          "title": "Tarieven"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Het <strong>Le Grand Filon, musée du fer</strong> is een mijn- en ijzermuseum in Saint-Georges-d'Hurtières, Savoie.</p><p><strong>Wanneer is het open?</strong> Seizoen en tijden worden door de beheerder gepubliceerd, met een duidelijke sluitingsdag: <strong>maandag en zaterdag</strong>. De details staan bij de praktische informatie op deze pagina.</p><p><strong>Wat kost het?</strong> Vanaf 4 €. Het volledige overzicht — korting, gratis, groepen — staat bij de tarieven op deze pagina, overgenomen zoals gepubliceerd, met de exacte leeftijdsgrenzen van de bron.</p><p>Het toeristenbureau noemt het strand « accessible en fauteuil roulant en autonomie », rolstoeltoegankelijk zonder hulp. De gelezen bronnen publiceren geen regel over dieren.</p><p>Deze pagina steunt uitsluitend op officiële bronnen: beheerder, gemeente, park, toeristenbureau, nationaal zwemwaterregister. Waar twee ervan elkaar tegenspreken, worden beide gegeven en wordt het verschil gemeld — wij kiezen niet voor u. Waar ze zwijgen, blijft het veld leeg in plaats van geraden.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Betaald",
+        "best_season": "Gepubliceerd seizoen",
+        "commune": "Saint-Georges-d'Hurtières",
+        "dogs": "De gelezen bronnen publiceren geen regel over dieren.",
+        "parking": null,
+        "stroller": null,
+        "type": "mijn- en ijzermuseum"
+      },
+      "faq": [
+        {
+          "a": "Seizoen en tijden worden door de beheerder gepubliceerd, met een duidelijke sluitingsdag: maandag en zaterdag. De details staan bij de praktische informatie op deze pagina.",
+          "q": "Wanneer is het open?"
+        },
+        {
+          "a": "Vanaf 4 €. Het volledige overzicht — korting, gratis, groepen — staat bij de tarieven op deze pagina, overgenomen zoals gepubliceerd, met de exacte leeftijdsgrenzen van de bron.",
+          "q": "Wat kost de toegang?"
+        },
+        {
+          "a": "maandag en zaterdag",
+          "q": "Wat is de sluitingsdag?"
+        },
+        {
+          "a": "Het toeristenbureau noemt het strand « accessible en fauteuil roulant en autonomie », rolstoeltoegankelijk zonder hulp.",
+          "q": "Is de locatie rolstoeltoegankelijk?"
+        },
+        {
+          "a": "De gelezen bronnen publiceren geen regel over dieren.",
+          "q": "Zijn dieren toegestaan?"
+        }
+      ],
+      "hero": {
+        "badge": "Betaald · Saint-Georges-d'Hurtières",
+        "lead": "Mijn- en ijzermuseum in Saint-Georges-d'Hurtières, Savoie. Betaald, Gepubliceerd seizoen — en wat de officiële bronnen niet zeggen, ook als zodanig gezegd."
+      },
+      "hero_alt": "Le Grand Filon, musée du fer, mijn- en ijzermuseum in Saint-Georges-d'Hurtières, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "1514 route de La Minière, 73220 Saint-Georges-d'Hurtières. Gepubliceerd punt: 45.51049, 6.28031. De POI-categorie is gecontroleerd om een naamgenoot uit te sluiten.",
+        "public_transport": null
+      },
+      "meta_description": "Le Grand Filon, musée du fer in Saint-Georges-d'Hurtières, Savoie: Betaald, Gepubliceerd seizoen. Officiële bronnen, afwijkingen gemeld.",
+      "meta_title": "Le Grand Filon, musée du fer — Betaald, Saint-Georges-d'Hurtières",
+      "name": "Le Grand Filon, musée du fer",
+      "name_alternates": [
+        "Musée minier Le Grand Filon"
+      ],
+      "practical_info": [
+        {
+          "k": "Adres",
+          "v": "1514 route de La Minière, 73220 Saint-Georges-d'Hurtières"
+        },
+        {
+          "k": "Opening",
+          "v": "Gepubliceerd seizoen"
+        },
+        {
+          "k": "Sluitingsdag",
+          "v": "maandag en zaterdag"
+        },
+        {
+          "k": "Tarieven",
+          "v": "Betaald"
+        },
+        {
+          "k": "Bescherming",
+          "v": null
+        },
+        {
+          "k": "Toegankelijkheid",
+          "v": "Het toeristenbureau noemt het strand « accessible en fauteuil roulant en autonomie », rolstoeltoegankelijk zonder hulp."
+        },
+        {
+          "k": "Dieren",
+          "v": "De gelezen bronnen publiceren geen regel over dieren."
+        },
+        {
+          "k": "Telefoon",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Rolstoeltoegankelijk"
+      ],
+      "when_to_visit": "<p>Een overdekte of erfgoedlocatie: net zo goed een uitje voor slecht weer als voor mooi weer. Controleer vooraf de sluitingsdag — daar gaan de meeste bezoeken op stuk.</p>"
+    }
+  },
+  "latitude": 45.51049,
+  "longitude": 6.28031,
+  "official_site_url": "https://www.grandfilon.net/espaces-de-visite",
+  "partners": [],
+  "postal_code": "73220",
+  "price_currency": "EUR",
+  "price_from": 4.0,
+  "price_tiers": [
+    {
+      "label": "Musée du Fer + Parc métallurgique, plein tarif",
+      "price": "4 €"
+    },
+    {
+      "label": "Musée + Parc, tarif réduit",
+      "price": "2 €"
+    },
+    {
+      "label": "Trio Découverte (musée + hameau + galerie Saint-Louis), plein tarif",
+      "price": "10 €"
+    },
+    {
+      "label": "Trio Découverte, tarif réduit",
+      "price": "6 €"
+    },
+    {
+      "label": "Galerie Sainte-Barbe (visite guidée souterraine), plein tarif",
+      "price": "22 €"
+    },
+    {
+      "label": "Moins de 6 ans",
+      "price": "gratuit"
+    }
+  ],
+  "research_log": "Recherche du 17 août 2026, sources officielles uniquement. Saisons, jours de fermeture et grilles tarifaires cités mot pour mot avec leur URL ; toute divergence entre publieurs est reportée, jamais arbitrée. Label Musée de France vérifié sur la liste officielle de la DRAC Auvergne-Rhône-Alpes, pas sur la déclaration du site. Protection monument historique vérifiée notice par notice dans la base nationale Mérimée. Coordonnées : géocodeur IGN Géoplateforme, catégorie du POI contrôlée pour écarter les homonymes. Les pages anglaises des offices de tourisme savoyards se sont révélées systématiquement périmées ou inversées : seules les pages françaises sont citées.",
+  "schema_org": {
+    "amenities": [
+      "Accessible en fauteuil roulant"
+    ],
+    "is_free": false,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "le-grand-filon-musee-du-fer",
+  "sources": [
+    "https://www.grandfilon.net/espaces-de-visite",
+    "https://www.grandfilon.net/accessibilite",
+    "https://www.chamberymontagnes.com/que-faire/visites-culture-patrimoine/le-grand-filon-musee-du-fer-saint-georges-des-hurtieres-fr-5842721/",
+    "https://www.portedemaurienne-tourisme.com/decouvrir/musees/le-grand-filon/"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "patrimoine",
+  "verify_flags": [
+    "FIN DE LA HAUTE SAISON CONTESTÉE — l'exploitant écrit « Du 12 juillet au 22 août, ouverture du musée de 11h à 18h, (sauf lundis et samedis) » ; l'office de tourisme annonce « Du 12 juillet 2026 au 31 août 2026 ». Neuf jours d'écart entre le gestionnaire et l'office. Les deux sont publiés.",
+    "TARIF RÉDUIT — un office de tourisme le présente comme une tranche d'âge (6-16 ans), l'autre comme une liste de statuts (« moins de 18 ans, cartes pass, étudiants, familles nombreuses, demandeurs d'emploi et personnes handicapées »). La page tarifaire de l'exploitant ne dit ni l'un ni l'autre. Le réduit Sainte-Barbe est par ailleurs à 18 € chez l'exploitant et 16 € chez l'office.",
+    "NOM DE COMMUNE — « Saint-Georges-d'Hurtières » chez l'exploitant, le Département et l'IGN ; « Saint-Georges-des-Hurtières » chez un office de tourisme. La graphie IGN est retenue.",
+    "COORDONNÉES — géocodage IGN de l'adresse « 1514 Route de la Minière », score 0,943, recoupé à ~30 m par le POI « le Grand Filon » (écomusée) ; le POI voisin « Musée de l'École » est un autre bâtiment du même site."
+  ]
+}

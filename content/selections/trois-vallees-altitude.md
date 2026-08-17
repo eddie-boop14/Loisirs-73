@@ -10,5 +10,6 @@ Saulire, Mont Vallon, Pointe de la Masse, Cime Caron : les sommets des 3 Vallée
 - [Téléphérique de la Saulire](https://loisirs73.fr/telepherique-de-la-saulire) — Courchevel · [md](https://loisirs73.fr/content/telepherique-de-la-saulire.md)
 - [Télécabine de la Pointe de la Masse](https://loisirs73.fr/telecabine-de-la-pointe-de-la-masse) — Les Belleville · [md](https://loisirs73.fr/content/telecabine-de-la-pointe-de-la-masse.md)
 - [Télécabine du Mont Vallon](https://loisirs73.fr/telecabine-du-mont-vallon) — Les Allues · [md](https://loisirs73.fr/content/telecabine-du-mont-vallon.md)
+- [Lac de Tuéda](https://loisirs73.fr/lac-de-tueda-les-allues) — Les Allues · [md](https://loisirs73.fr/content/lac-de-tueda-les-allues.md)
 
 Source: https://loisirs73.fr/que-faire/les-3-vallees-en-altitude/

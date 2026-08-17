@@ -1,0 +1,45 @@
+{
+  "name": "Cité médiévale de Conflans",
+  "commune": "Albertville",
+  "gps": {
+    "lat": 45.672034,
+    "lng": 6.397403
+  },
+  "type": "chateau",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": null,
+    "tiers": [
+      {
+        "name": null,
+        "price": "gratuit, toute l'année",
+        "note": null
+      },
+      {
+        "name": null,
+        "price": "6 € / 3 € réduit",
+        "note": null
+      },
+      {
+        "name": null,
+        "price": "5 € / 2,50 € réduit",
+        "note": null
+      },
+      {
+        "name": null,
+        "price": "6 € / 3 € réduit",
+        "note": null
+      }
+    ],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "Toute l'année, tous les jours",
+  "winter": null,
+  "official_url": "https://www.pays-albertville.com/fiches/cite-medievale-de-conflans/",
+  "last_verified": null
+}

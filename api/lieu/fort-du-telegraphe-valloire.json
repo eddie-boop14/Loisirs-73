@@ -1,0 +1,31 @@
+{
+  "name": "Fort du Télégraphe",
+  "commune": "Valloire",
+  "gps": {
+    "lat": 45.210473,
+    "lng": 6.446145
+  },
+  "type": "chateau",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": null,
+    "tiers": [],
+    "is_free": false,
+    "note": null
+  },
+  "access_pmr": {
+    "status": "non_accessible",
+    "detail": "Aucune source ne publie de mention d'accessibilité, et le fait publié va dans l'autre sens : « Le fort comporte une cinquantaine de marche à gravir durant la visite » (la faute est dans la source). L'approche depuis le parking du col se fait en dix minutes par une route carrossable de faible dénivelé, mais la visite elle-même est escaladée.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_url": "https://www.valloire.net/sit/le-fort-du-telegraphe-436553/",
+    "source_name": "OT Valloire"
+  },
+  "parking": null,
+  "transport": null,
+  "season": "Contestée : quatre sources, quatre réponses",
+  "winter": null,
+  "official_url": "https://www.fortdutelegraphe.fr/",
+  "last_verified": null
+}

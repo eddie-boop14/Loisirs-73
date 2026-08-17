@@ -1,0 +1,24 @@
+{
+  "name": "Lac de la Plagne",
+  "commune": "Peisey-Nancroix",
+  "gps": {
+    "lat": 45.484031,
+    "lng": 6.84148
+  },
+  "type": "lac",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": null,
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": "Le stationnement est gratuit.",
+  "transport": null,
+  "season": null,
+  "winter": null,
+  "official_url": "https://rando.vanoise.com/fr/trek/4099-Tour-du-lac-de-la-Plagne-%3A-randonnee-au-pied-des-geants-de-la-Vanoise",
+  "last_verified": null
+}

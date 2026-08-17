@@ -1,0 +1,709 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-17",
+    "confidence": null,
+    "detail": "La seule mention publiée est « Une visite virtuelle pour les personnes à mobilité réduite à visionner au RDC du musée » — c'est un substitut à l'accès, pas un accès. Rien sur l'ascenseur, les WC adaptés ou l'accès aux collections.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_name": "Savoie Mont Blanc",
+    "source_url": "https://www.explore-savoie.com/sites-culturels/musee-dart-et-dhistoire-562247/",
+    "status": null,
+    "tourisme_handicap": []
+  },
+  "category": "musee",
+  "commune": "Albertville",
+  "date_modified_human": "17 août 2026",
+  "date_published_human": "17 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-17",
+    "method": "Recherche du 17 août 2026, sources officielles uniquement. Saisons, jours de fermeture et grilles tarifaires cités mot pour mot avec leur URL ; toute divergence entre publieurs est reportée, jamais arbitrée. Label Musée de France vérifié sur la liste officielle de la DRAC Auvergne-Rhône-Alpes, pas sur la déclaration du site. Protection monument historique vérifiée notice par notice dans la base nationale Mérimée. Coordonnées : géocodeur IGN Géoplateforme, catégorie du POI contrôlée pour écarter les homonymes. Les pages anglaises des offices de tourisme savoyards se sont révélées systématiquement périmées ou inversées : seules les pages françaises sont citées."
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-musee-classique.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Wann ist geöffnet? Geschlossen Montag und Dienstag. Beachten Sie die Art dieses Kalenders: die veröffentlichte Übersicht trägt kein Jahr. Sie ist ein rollierender Tag/Monat-Kalender, keine von der Quelle behauptete Saison 2026. Wir geben sie unverändert wieder, ohne sie als 2026 zu bezeichnen.",
+          "tag": "Vor Ort",
+          "title": "Öffnung"
+        },
+        {
+          "description": "Was kostet es? Ab 5 €. Die vollständige Übersicht — ermäßigt, frei, Gruppen — steht bei den Preisen dieser Seite, unverändert übernommen, mit den genauen Altersgrenzen der Quelle.",
+          "tag": "Vor Ort",
+          "title": "Preise"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Das <strong>Musée d'art et d'histoire d'Albertville</strong> ist ein Kunst- und Geschichtsmuseum in Albertville, Savoie. Es trägt das Label <strong>Musée de France</strong>, geprüft anhand der amtlichen Regionalliste und nicht nur der Selbstauskunft des Museums.</p><p><strong>Wann ist geöffnet?</strong> Geschlossen <strong>Montag und Dienstag</strong>. Beachten Sie die Art dieses Kalenders: die veröffentlichte Übersicht trägt kein Jahr. Sie ist ein rollierender Tag/Monat-Kalender, keine von der Quelle behauptete Saison 2026. Wir geben sie unverändert wieder, ohne sie als 2026 zu bezeichnen.</p><p><strong>Was kostet es?</strong> Ab 5 €. Die vollständige Übersicht — ermäßigt, frei, Gruppen — steht bei den Preisen dieser Seite, unverändert übernommen, mit den genauen Altersgrenzen der Quelle.</p><p>Keine offizielle Quelle sagt hier etwas zur Barrierefreiheit: weder zugänglich noch unzugänglich — unbekannt. Tiere sind nicht zugelassen.</p><p>Diese Seite stützt sich ausschließlich auf offizielle Quellen: Betreiber, Gemeinde, Park, Tourismusbüro, nationales Badegewässerregister. Wo zwei davon einander widersprechen, werden beide genannt und die Differenz gekennzeichnet — wir entscheiden nicht für Sie. Wo sie schweigen, bleibt das Feld leer statt geraten.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Kostenpflichtig",
+        "best_season": "Kalender ohne Jahresangabe",
+        "commune": "Albertville",
+        "dogs": "Tiere sind nicht zugelassen.",
+        "parking": null,
+        "stroller": null,
+        "type": "Kunst- und Geschichtsmuseum"
+      },
+      "faq": [
+        {
+          "a": "Geschlossen Montag und Dienstag. Beachten Sie die Art dieses Kalenders: die veröffentlichte Übersicht trägt kein Jahr. Sie ist ein rollierender Tag/Monat-Kalender, keine von der Quelle behauptete Saison 2026. Wir geben sie unverändert wieder, ohne sie als 2026 zu bezeichnen.",
+          "q": "Wann ist geöffnet?"
+        },
+        {
+          "a": "Ab 5 €. Die vollständige Übersicht — ermäßigt, frei, Gruppen — steht bei den Preisen dieser Seite, unverändert übernommen, mit den genauen Altersgrenzen der Quelle.",
+          "q": "Was kostet der Eintritt?"
+        },
+        {
+          "a": "Montag und Dienstag",
+          "q": "Welcher ist der Schließtag?"
+        },
+        {
+          "a": "Keine offizielle Quelle sagt hier etwas zur Barrierefreiheit: weder zugänglich noch unzugänglich — unbekannt.",
+          "q": "Ist die Anlage rollstuhlgerecht?"
+        },
+        {
+          "a": "Tiere sind nicht zugelassen.",
+          "q": "Sind Tiere zugelassen?"
+        }
+      ],
+      "hero": {
+        "badge": "Kostenpflichtig · Albertville",
+        "lead": "Kunst- und Geschichtsmuseum in Albertville, Savoie. Kostenpflichtig, Kalender ohne Jahresangabe — und was die offiziellen Quellen nicht sagen, als solches gesagt."
+      },
+      "hero_alt": "Musée d'art et d'histoire d'Albertville, Kunst- und Geschichtsmuseum in Albertville, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "18 grand place de Conflans, 73200 Albertville. Veröffentlichter Punkt: 45.670601, 6.397205. Die POI-Kategorie wurde geprüft, um einen Namensvetter auszuschließen.",
+        "public_transport": null
+      },
+      "meta_description": "Musée d'art et d'histoire d'Albertville in Albertville, Savoie: Kostenpflichtig, Kalender ohne Jahresangabe. Offizielle Quellen, Abweichungen gekennzeichnet.",
+      "meta_title": "Musée d'art et d'histoire d'Albertville — Kostenpflichtig, Albertville",
+      "name": "Musée d'art et d'histoire d'Albertville",
+      "name_alternates": [
+        "MAHA",
+        "Musée de Conflans"
+      ],
+      "practical_info": [
+        {
+          "k": "Anschrift",
+          "v": "18 grand place de Conflans, 73200 Albertville"
+        },
+        {
+          "k": "Öffnung",
+          "v": "Kalender ohne Jahresangabe"
+        },
+        {
+          "k": "Schließtag",
+          "v": "Montag und Dienstag"
+        },
+        {
+          "k": "Preise",
+          "v": "Kostenpflichtig"
+        },
+        {
+          "k": "Denkmalschutz",
+          "v": null
+        },
+        {
+          "k": "Barrierefreiheit",
+          "v": "Keine offizielle Quelle sagt hier etwas zur Barrierefreiheit: weder zugänglich noch unzugänglich — unbekannt."
+        },
+        {
+          "k": "Tiere",
+          "v": "Tiere sind nicht zugelassen."
+        },
+        {
+          "k": "Telefon",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Musée de France"
+      ],
+      "when_to_visit": "<p>Ein überdachtes oder denkmalgeschütztes Ziel: ein Ausflug für schlechtes Wetter genauso wie für gutes. Prüfen Sie vorher den Schließtag — daran scheitern die meisten Besuche.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "When is it open? Closed Monday and Tuesday. Mind what kind of calendar this is: the published grid carries no year. It is a rolling day/month calendar, not a 2026 season asserted by its source. We reproduce it as found without labelling it 2026.",
+          "tag": "On site",
+          "title": "Opening"
+        },
+        {
+          "description": "What does it cost? From 5 €. The full grid — reduced, free, groups — is in this page's prices, reproduced as published, with the source's exact age brackets.",
+          "tag": "On site",
+          "title": "Prices"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Musée d'art et d'histoire d'Albertville</strong> is a museum of art and history at Albertville, Savoie. It carries the <strong>Musée de France</strong> label, checked against the ministry's official regional list and not only the museum's own claim.</p><p><strong>When is it open?</strong> Closed <strong>Monday and Tuesday</strong>. Mind what kind of calendar this is: the published grid carries no year. It is a rolling day/month calendar, not a 2026 season asserted by its source. We reproduce it as found without labelling it 2026.</p><p><strong>What does it cost?</strong> From 5 €. The full grid — reduced, free, groups — is in this page's prices, reproduced as published, with the source's exact age brackets.</p><p>No official source says anything about accessibility here: neither accessible nor inaccessible — unknown. Animals are not accepted.</p><p>This page is built on official sources and nothing else: the site's manager, the commune, the park, the tourist office, the national bathing-water register. Where two of them contradict each other, both are given and the gap is flagged — we do not choose for you. Where they are silent, the field stays empty rather than guessed.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Paid",
+        "best_season": "Calendar with no year on it",
+        "commune": "Albertville",
+        "dogs": "Animals are not accepted.",
+        "parking": null,
+        "stroller": null,
+        "type": "museum of art and history"
+      },
+      "faq": [
+        {
+          "a": "Closed Monday and Tuesday. Mind what kind of calendar this is: the published grid carries no year. It is a rolling day/month calendar, not a 2026 season asserted by its source. We reproduce it as found without labelling it 2026.",
+          "q": "When is it open?"
+        },
+        {
+          "a": "From 5 €. The full grid — reduced, free, groups — is in this page's prices, reproduced as published, with the source's exact age brackets.",
+          "q": "How much is admission?"
+        },
+        {
+          "a": "Monday and Tuesday",
+          "q": "What is the weekly closing day?"
+        },
+        {
+          "a": "No official source says anything about accessibility here: neither accessible nor inaccessible — unknown.",
+          "q": "Is the site wheelchair-accessible?"
+        },
+        {
+          "a": "Animals are not accepted.",
+          "q": "Are animals accepted?"
+        }
+      ],
+      "hero": {
+        "badge": "Paid · Albertville",
+        "lead": "Museum of art and history at Albertville, Savoie. Paid, Calendar with no year on it — and what the official sources do not say, said as such."
+      },
+      "hero_alt": "Musée d'art et d'histoire d'Albertville, museum of art and history, at Albertville, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "18 grand place de Conflans, 73200 Albertville. Published point: 45.670601, 6.397205. The POI category was checked to rule out a namesake.",
+        "public_transport": null
+      },
+      "meta_description": "Musée d'art et d'histoire d'Albertville, Albertville, Savoie: Paid, Calendar with no year on it. Official sources, discrepancies flagged.",
+      "meta_title": "Musée d'art et d'histoire d'Albertville — Paid, Albertville",
+      "name": "Musée d'art et d'histoire d'Albertville",
+      "name_alternates": [
+        "MAHA",
+        "Musée de Conflans"
+      ],
+      "practical_info": [
+        {
+          "k": "Address",
+          "v": "18 grand place de Conflans, 73200 Albertville"
+        },
+        {
+          "k": "Opening",
+          "v": "Calendar with no year on it"
+        },
+        {
+          "k": "Weekly closing day",
+          "v": "Monday and Tuesday"
+        },
+        {
+          "k": "Prices",
+          "v": "Paid"
+        },
+        {
+          "k": "Protection",
+          "v": null
+        },
+        {
+          "k": "Accessibility",
+          "v": "No official source says anything about accessibility here: neither accessible nor inaccessible — unknown."
+        },
+        {
+          "k": "Animals",
+          "v": "Animals are not accepted."
+        },
+        {
+          "k": "Telephone",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Musée de France"
+      ],
+      "when_to_visit": "<p>A covered or heritage site: as much a bad-weather outing as a fine-weather one. Check the weekly closing day before you go — that is where visits are lost.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "¿Cuándo está abierto? Cerrado lunes y martes. Atención a la naturaleza de este calendario: la parrilla publicada no lleva ningún año. Es un calendario día/mes recurrente, no una temporada 2026 afirmada por su fuente. La reproducimos tal cual sin etiquetarla como 2026.",
+          "tag": "En el sitio",
+          "title": "Apertura"
+        },
+        {
+          "description": "¿Cuánto cuesta? Desde 5 €. La parrilla completa — reducido, gratuito, grupos — está en las tarifas de esta ficha, reproducida tal como se publica, con los tramos de edad exactos de la fuente.",
+          "tag": "En el sitio",
+          "title": "Tarifas"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>Musée d'art et d'histoire d'Albertville</strong> es un museo de arte e historia en Albertville, Savoie. Ostenta el sello <strong>Musée de France</strong>, verificado en la lista oficial del ministerio y no solo en la declaración del museo.</p><p><strong>¿Cuándo está abierto?</strong> Cerrado <strong>lunes y martes</strong>. Atención a la naturaleza de este calendario: la parrilla publicada no lleva ningún año. Es un calendario día/mes recurrente, no una temporada 2026 afirmada por su fuente. La reproducimos tal cual sin etiquetarla como 2026.</p><p><strong>¿Cuánto cuesta?</strong> Desde 5 €. La parrilla completa — reducido, gratuito, grupos — está en las tarifas de esta ficha, reproducida tal como se publica, con los tramos de edad exactos de la fuente.</p><p>Ninguna fuente oficial dice nada sobre la accesibilidad: ni accesible ni inaccesible — se desconoce. No se admiten animales.</p><p>Esta página se basa únicamente en fuentes oficiales: gestor, municipio, parque, oficina de turismo, registro sanitario nacional. Donde dos de ellas se contradicen, se dan ambas y se señala la diferencia — no elegimos por usted. Donde callan, el dato queda vacío en lugar de adivinado.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "De pago",
+        "best_season": "Calendario sin año",
+        "commune": "Albertville",
+        "dogs": "No se admiten animales.",
+        "parking": null,
+        "stroller": null,
+        "type": "museo de arte e historia"
+      },
+      "faq": [
+        {
+          "a": "Cerrado lunes y martes. Atención a la naturaleza de este calendario: la parrilla publicada no lleva ningún año. Es un calendario día/mes recurrente, no una temporada 2026 afirmada por su fuente. La reproducimos tal cual sin etiquetarla como 2026.",
+          "q": "¿Cuándo está abierto?"
+        },
+        {
+          "a": "Desde 5 €. La parrilla completa — reducido, gratuito, grupos — está en las tarifas de esta ficha, reproducida tal como se publica, con los tramos de edad exactos de la fuente.",
+          "q": "¿Cuánto cuesta la entrada?"
+        },
+        {
+          "a": "lunes y martes",
+          "q": "¿Cuál es el día de cierre?"
+        },
+        {
+          "a": "Ninguna fuente oficial dice nada sobre la accesibilidad: ni accesible ni inaccesible — se desconoce.",
+          "q": "¿Es accesible en silla de ruedas?"
+        },
+        {
+          "a": "No se admiten animales.",
+          "q": "¿Se admiten animales?"
+        }
+      ],
+      "hero": {
+        "badge": "De pago · Albertville",
+        "lead": "Museo de arte e historia en Albertville, Savoie. De pago, Calendario sin año — y lo que las fuentes oficiales no dicen, dicho como tal."
+      },
+      "hero_alt": "Musée d'art et d'histoire d'Albertville, museo de arte e historia, en Albertville, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "18 grand place de Conflans, 73200 Albertville. Punto publicado: 45.670601, 6.397205. Se verificó la categoría del POI para descartar un homónimo.",
+        "public_transport": null
+      },
+      "meta_description": "Musée d'art et d'histoire d'Albertville en Albertville, Savoie: De pago, Calendario sin año. Fuentes oficiales, discrepancias señaladas.",
+      "meta_title": "Musée d'art et d'histoire d'Albertville — De pago, Albertville",
+      "name": "Musée d'art et d'histoire d'Albertville",
+      "name_alternates": [
+        "MAHA",
+        "Musée de Conflans"
+      ],
+      "practical_info": [
+        {
+          "k": "Dirección",
+          "v": "18 grand place de Conflans, 73200 Albertville"
+        },
+        {
+          "k": "Apertura",
+          "v": "Calendario sin año"
+        },
+        {
+          "k": "Día de cierre",
+          "v": "lunes y martes"
+        },
+        {
+          "k": "Tarifas",
+          "v": "De pago"
+        },
+        {
+          "k": "Protección",
+          "v": null
+        },
+        {
+          "k": "Accesibilidad",
+          "v": "Ninguna fuente oficial dice nada sobre la accesibilidad: ni accesible ni inaccesible — se desconoce."
+        },
+        {
+          "k": "Animales",
+          "v": "No se admiten animales."
+        },
+        {
+          "k": "Teléfono",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Musée de France"
+      ],
+      "when_to_visit": "<p>Sitio cubierto o patrimonial: es una salida de mal tiempo tanto como de buen tiempo. Compruebe el día de cierre antes de salir, es ahí donde se pierden las visitas.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Quand est-ce ouvert ? Fermé lundi et mardi. Attention à la nature de ce calendrier : la grille publiée ne porte aucune année. C'est un calendrier jour/mois qui tourne, pas une saison 2026 affirmée par sa source. Nous la reprenons telle quelle sans l'étiqueter 2026.",
+          "tag": "Sur place",
+          "title": "Ouverture"
+        },
+        {
+          "description": "Combien ça coûte ? À partir de 5 €. La grille complète — réduit, gratuité, groupes — figure dans les tarifs de cette fiche, reprise telle qu'elle est publiée, avec les tranches d'âge exactes de la source.",
+          "tag": "Sur place",
+          "title": "Tarifs"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Le <strong>Musée d'art et d'histoire d'Albertville</strong> est un musée d'art et d'histoire à Albertville, en Savoie. Il porte le label <strong>Musée de France</strong>, vérifié sur la liste officielle de la DRAC et pas seulement sur la déclaration du musée.</p><p><strong>Quand est-ce ouvert ?</strong> Fermé <strong>lundi et mardi</strong>. Attention à la nature de ce calendrier : la grille publiée ne porte aucune année. C'est un calendrier jour/mois qui tourne, pas une saison 2026 affirmée par sa source. Nous la reprenons telle quelle sans l'étiqueter 2026.</p><p><strong>Combien ça coûte ?</strong> À partir de 5 €. La grille complète — réduit, gratuité, groupes — figure dans les tarifs de cette fiche, reprise telle qu'elle est publiée, avec les tranches d'âge exactes de la source.</p><p>Aucune source officielle ne dit quoi que ce soit de l'accessibilité : ni accessible, ni non accessible — inconnu. Les animaux ne sont pas acceptés.</p><p>Cette page est bâtie sur les sources officielles et sur elles seules : gestionnaire, commune, parc, office de tourisme, registre sanitaire national. Là où deux d'entre elles se contredisent, les deux sont données et l'écart est signalé — nous ne choisissons pas à votre place. Là où elles se taisent, la donnée reste vide plutôt que devinée.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Payant",
+        "best_season": "Calendrier sans millésime",
+        "commune": "Albertville",
+        "dogs": "Les animaux ne sont pas acceptés.",
+        "parking": null,
+        "stroller": null,
+        "type": "musée d'art et d'histoire"
+      },
+      "faq": [
+        {
+          "a": "Fermé lundi et mardi. Attention à la nature de ce calendrier : la grille publiée ne porte aucune année. C'est un calendrier jour/mois qui tourne, pas une saison 2026 affirmée par sa source. Nous la reprenons telle quelle sans l'étiqueter 2026.",
+          "q": "Quand est-ce ouvert ?"
+        },
+        {
+          "a": "À partir de 5 €. La grille complète — réduit, gratuité, groupes — figure dans les tarifs de cette fiche, reprise telle qu'elle est publiée, avec les tranches d'âge exactes de la source.",
+          "q": "Combien coûte l'entrée ?"
+        },
+        {
+          "a": "lundi et mardi",
+          "q": "Quel est le jour de fermeture ?"
+        },
+        {
+          "a": "Aucune source officielle ne dit quoi que ce soit de l'accessibilité : ni accessible, ni non accessible — inconnu.",
+          "q": "Le site est-il accessible en fauteuil roulant ?"
+        },
+        {
+          "a": "Les animaux ne sont pas acceptés.",
+          "q": "Les animaux sont-ils acceptés ?"
+        }
+      ],
+      "hero": {
+        "badge": "Payant · Albertville",
+        "lead": "Musée d'art et d'histoire à Albertville, en Savoie. Payant, Calendrier sans millésime — et ce que les sources officielles ne disent pas, dit comme tel."
+      },
+      "hero_alt": "Musée d'art et d'histoire d'Albertville, musée d'art et d'histoire, à Albertville, en Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "18 grand place de Conflans, 73200 Albertville. Point publié : 45.670601, 6.397205. La catégorie du POI a été vérifiée pour écarter un homonyme.",
+        "public_transport": null
+      },
+      "meta_description": "Musée d'art et d'histoire d'Albertville à Albertville, en Savoie : Payant, Calendrier sans millésime. Sources officielles, contradictions signalées.",
+      "meta_title": "Musée d'art et d'histoire d'Albertville — Payant, Albertville",
+      "name": "Musée d'art et d'histoire d'Albertville",
+      "name_alternates": [
+        "MAHA",
+        "Musée de Conflans"
+      ],
+      "practical_info": [
+        {
+          "k": "Adresse",
+          "v": "18 grand place de Conflans, 73200 Albertville"
+        },
+        {
+          "k": "Ouverture",
+          "v": "Calendrier sans millésime"
+        },
+        {
+          "k": "Jour de fermeture",
+          "v": "lundi et mardi"
+        },
+        {
+          "k": "Tarifs",
+          "v": "Payant"
+        },
+        {
+          "k": "Protection",
+          "v": null
+        },
+        {
+          "k": "Accessibilité",
+          "v": "Aucune source officielle ne dit quoi que ce soit de l'accessibilité : ni accessible, ni non accessible — inconnu."
+        },
+        {
+          "k": "Animaux",
+          "v": "Les animaux ne sont pas acceptés."
+        },
+        {
+          "k": "Téléphone",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Musée de France"
+      ],
+      "when_to_visit": "<p>Site couvert ou patrimonial : c'est une sortie de mauvais temps autant que de beau. Vérifiez le jour de fermeture avant de partir, c'est là que se perdent les visites.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Quando è aperto? Chiuso lunedì e martedì. Attenzione alla natura di questo calendario: la griglia pubblicata non porta alcun anno. È un calendario giorno/mese ricorrente, non una stagione 2026 affermata dalla fonte. La riportiamo così com'è senza etichettarla 2026.",
+          "tag": "In loco",
+          "title": "Apertura"
+        },
+        {
+          "description": "Quanto costa? Da 5 €. La griglia completa — ridotto, gratuito, gruppi — è nelle tariffe di questa scheda, riportata come pubblicata, con le fasce d'età esatte della fonte.",
+          "tag": "In loco",
+          "title": "Tariffe"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Il <strong>Musée d'art et d'histoire d'Albertville</strong> è un museo d'arte e di storia a Albertville, in Savoie. Porta il marchio <strong>Musée de France</strong>, verificato sull'elenco ufficiale del ministero e non solo sulla dichiarazione del museo.</p><p><strong>Quando è aperto?</strong> Chiuso <strong>lunedì e martedì</strong>. Attenzione alla natura di questo calendario: la griglia pubblicata non porta alcun anno. È un calendario giorno/mese ricorrente, non una stagione 2026 affermata dalla fonte. La riportiamo così com'è senza etichettarla 2026.</p><p><strong>Quanto costa?</strong> Da 5 €. La griglia completa — ridotto, gratuito, gruppi — è nelle tariffe di questa scheda, riportata come pubblicata, con le fasce d'età esatte della fonte.</p><p>Nessuna fonte ufficiale dice nulla sull'accessibilità: né accessibile né inaccessibile — sconosciuto. Gli animali non sono ammessi.</p><p>Questa pagina si basa solo su fonti ufficiali: gestore, comune, parco, ufficio del turismo, registro sanitario nazionale. Dove due di esse si contraddicono, entrambe sono riportate e lo scarto è segnalato — non scegliamo al posto vostro. Dove tacciono, il dato resta vuoto anziché indovinato.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "A pagamento",
+        "best_season": "Calendario senza anno",
+        "commune": "Albertville",
+        "dogs": "Gli animali non sono ammessi.",
+        "parking": null,
+        "stroller": null,
+        "type": "museo d'arte e di storia"
+      },
+      "faq": [
+        {
+          "a": "Chiuso lunedì e martedì. Attenzione alla natura di questo calendario: la griglia pubblicata non porta alcun anno. È un calendario giorno/mese ricorrente, non una stagione 2026 affermata dalla fonte. La riportiamo così com'è senza etichettarla 2026.",
+          "q": "Quando è aperto?"
+        },
+        {
+          "a": "Da 5 €. La griglia completa — ridotto, gratuito, gruppi — è nelle tariffe di questa scheda, riportata come pubblicata, con le fasce d'età esatte della fonte.",
+          "q": "Quanto costa l'ingresso?"
+        },
+        {
+          "a": "lunedì e martedì",
+          "q": "Qual è il giorno di chiusura?"
+        },
+        {
+          "a": "Nessuna fonte ufficiale dice nulla sull'accessibilità: né accessibile né inaccessibile — sconosciuto.",
+          "q": "Il sito è accessibile in carrozzina?"
+        },
+        {
+          "a": "Gli animali non sono ammessi.",
+          "q": "Gli animali sono ammessi?"
+        }
+      ],
+      "hero": {
+        "badge": "A pagamento · Albertville",
+        "lead": "Museo d'arte e di storia a Albertville, in Savoie. A pagamento, Calendario senza anno — e ciò che le fonti ufficiali non dicono, detto come tale."
+      },
+      "hero_alt": "Musée d'art et d'histoire d'Albertville, museo d'arte e di storia, a Albertville, in Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "18 grand place de Conflans, 73200 Albertville. Punto pubblicato: 45.670601, 6.397205. La categoria del POI è stata verificata per escludere un omonimo.",
+        "public_transport": null
+      },
+      "meta_description": "Musée d'art et d'histoire d'Albertville a Albertville, in Savoie: A pagamento, Calendario senza anno. Fonti ufficiali, discordanze segnalate.",
+      "meta_title": "Musée d'art et d'histoire d'Albertville — A pagamento, Albertville",
+      "name": "Musée d'art et d'histoire d'Albertville",
+      "name_alternates": [
+        "MAHA",
+        "Musée de Conflans"
+      ],
+      "practical_info": [
+        {
+          "k": "Indirizzo",
+          "v": "18 grand place de Conflans, 73200 Albertville"
+        },
+        {
+          "k": "Apertura",
+          "v": "Calendario senza anno"
+        },
+        {
+          "k": "Giorno di chiusura",
+          "v": "lunedì e martedì"
+        },
+        {
+          "k": "Tariffe",
+          "v": "A pagamento"
+        },
+        {
+          "k": "Tutela",
+          "v": null
+        },
+        {
+          "k": "Accessibilità",
+          "v": "Nessuna fonte ufficiale dice nulla sull'accessibilità: né accessibile né inaccessibile — sconosciuto."
+        },
+        {
+          "k": "Animali",
+          "v": "Gli animali non sono ammessi."
+        },
+        {
+          "k": "Telefono",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Musée de France"
+      ],
+      "when_to_visit": "<p>Sito coperto o patrimoniale: è una gita da brutto tempo tanto quanto da bello. Verificate il giorno di chiusura prima di partire, è lì che si perdono le visite.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Wanneer is het open? Gesloten maandag en dinsdag. Let op wat voor kalender dit is: het gepubliceerde schema draagt geen jaartal. Het is een doorlopende dag/maand-kalender, geen door de bron beweerd seizoen 2026. Wij nemen hem ongewijzigd over zonder hem 2026 te noemen.",
+          "tag": "Ter plaatse",
+          "title": "Opening"
+        },
+        {
+          "description": "Wat kost het? Vanaf 5 €. Het volledige overzicht — korting, gratis, groepen — staat bij de tarieven op deze pagina, overgenomen zoals gepubliceerd, met de exacte leeftijdsgrenzen van de bron.",
+          "tag": "Ter plaatse",
+          "title": "Tarieven"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Het <strong>Musée d'art et d'histoire d'Albertville</strong> is een museum voor kunst en geschiedenis in Albertville, Savoie. Het draagt het label <strong>Musée de France</strong>, gecontroleerd tegen de officiële ministeriële lijst en niet alleen tegen de eigen claim van het museum.</p><p><strong>Wanneer is het open?</strong> Gesloten <strong>maandag en dinsdag</strong>. Let op wat voor kalender dit is: het gepubliceerde schema draagt geen jaartal. Het is een doorlopende dag/maand-kalender, geen door de bron beweerd seizoen 2026. Wij nemen hem ongewijzigd over zonder hem 2026 te noemen.</p><p><strong>Wat kost het?</strong> Vanaf 5 €. Het volledige overzicht — korting, gratis, groepen — staat bij de tarieven op deze pagina, overgenomen zoals gepubliceerd, met de exacte leeftijdsgrenzen van de bron.</p><p>Geen enkele officiële bron zegt iets over de toegankelijkheid: niet toegankelijk, niet ontoegankelijk — onbekend. Dieren zijn niet toegestaan.</p><p>Deze pagina steunt uitsluitend op officiële bronnen: beheerder, gemeente, park, toeristenbureau, nationaal zwemwaterregister. Waar twee ervan elkaar tegenspreken, worden beide gegeven en wordt het verschil gemeld — wij kiezen niet voor u. Waar ze zwijgen, blijft het veld leeg in plaats van geraden.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Betaald",
+        "best_season": "Kalender zonder jaartal",
+        "commune": "Albertville",
+        "dogs": "Dieren zijn niet toegestaan.",
+        "parking": null,
+        "stroller": null,
+        "type": "museum voor kunst en geschiedenis"
+      },
+      "faq": [
+        {
+          "a": "Gesloten maandag en dinsdag. Let op wat voor kalender dit is: het gepubliceerde schema draagt geen jaartal. Het is een doorlopende dag/maand-kalender, geen door de bron beweerd seizoen 2026. Wij nemen hem ongewijzigd over zonder hem 2026 te noemen.",
+          "q": "Wanneer is het open?"
+        },
+        {
+          "a": "Vanaf 5 €. Het volledige overzicht — korting, gratis, groepen — staat bij de tarieven op deze pagina, overgenomen zoals gepubliceerd, met de exacte leeftijdsgrenzen van de bron.",
+          "q": "Wat kost de toegang?"
+        },
+        {
+          "a": "maandag en dinsdag",
+          "q": "Wat is de sluitingsdag?"
+        },
+        {
+          "a": "Geen enkele officiële bron zegt iets over de toegankelijkheid: niet toegankelijk, niet ontoegankelijk — onbekend.",
+          "q": "Is de locatie rolstoeltoegankelijk?"
+        },
+        {
+          "a": "Dieren zijn niet toegestaan.",
+          "q": "Zijn dieren toegestaan?"
+        }
+      ],
+      "hero": {
+        "badge": "Betaald · Albertville",
+        "lead": "Museum voor kunst en geschiedenis in Albertville, Savoie. Betaald, Kalender zonder jaartal — en wat de officiële bronnen niet zeggen, ook als zodanig gezegd."
+      },
+      "hero_alt": "Musée d'art et d'histoire d'Albertville, museum voor kunst en geschiedenis in Albertville, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "18 grand place de Conflans, 73200 Albertville. Gepubliceerd punt: 45.670601, 6.397205. De POI-categorie is gecontroleerd om een naamgenoot uit te sluiten.",
+        "public_transport": null
+      },
+      "meta_description": "Musée d'art et d'histoire d'Albertville in Albertville, Savoie: Betaald, Kalender zonder jaartal. Officiële bronnen, afwijkingen gemeld.",
+      "meta_title": "Musée d'art et d'histoire d'Albertville — Betaald, Albertville",
+      "name": "Musée d'art et d'histoire d'Albertville",
+      "name_alternates": [
+        "MAHA",
+        "Musée de Conflans"
+      ],
+      "practical_info": [
+        {
+          "k": "Adres",
+          "v": "18 grand place de Conflans, 73200 Albertville"
+        },
+        {
+          "k": "Opening",
+          "v": "Kalender zonder jaartal"
+        },
+        {
+          "k": "Sluitingsdag",
+          "v": "maandag en dinsdag"
+        },
+        {
+          "k": "Tarieven",
+          "v": "Betaald"
+        },
+        {
+          "k": "Bescherming",
+          "v": null
+        },
+        {
+          "k": "Toegankelijkheid",
+          "v": "Geen enkele officiële bron zegt iets over de toegankelijkheid: niet toegankelijk, niet ontoegankelijk — onbekend."
+        },
+        {
+          "k": "Dieren",
+          "v": "Dieren zijn niet toegestaan."
+        },
+        {
+          "k": "Telefoon",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Musée de France"
+      ],
+      "when_to_visit": "<p>Een overdekte of erfgoedlocatie: net zo goed een uitje voor slecht weer als voor mooi weer. Controleer vooraf de sluitingsdag — daar gaan de meeste bezoeken op stuk.</p>"
+    }
+  },
+  "latitude": 45.670601,
+  "longitude": 6.397205,
+  "official_site_url": "https://www.pays-albertville.com/fiches/musee-dart-et-dhistoire/",
+  "partners": [],
+  "postal_code": "73200",
+  "price_currency": "EUR",
+  "price_from": 5.0,
+  "price_tiers": [
+    {
+      "label": "Plein tarif",
+      "price": "5 €"
+    },
+    {
+      "label": "Étudiant, +65 ans, RSA, demandeur d'emploi",
+      "price": "2,50 €"
+    },
+    {
+      "label": "Moins de 18 ans, personnes en situation de handicap",
+      "price": "gratuit"
+    },
+    {
+      "label": "Tous les 1ers dimanches du mois",
+      "price": "gratuit"
+    },
+    {
+      "label": "Groupe (+ de 12 personnes)",
+      "price": "2,50 €"
+    }
+  ],
+  "research_log": "Recherche du 17 août 2026, sources officielles uniquement. Saisons, jours de fermeture et grilles tarifaires cités mot pour mot avec leur URL ; toute divergence entre publieurs est reportée, jamais arbitrée. Label Musée de France vérifié sur la liste officielle de la DRAC Auvergne-Rhône-Alpes, pas sur la déclaration du site. Protection monument historique vérifiée notice par notice dans la base nationale Mérimée. Coordonnées : géocodeur IGN Géoplateforme, catégorie du POI contrôlée pour écarter les homonymes. Les pages anglaises des offices de tourisme savoyards se sont révélées systématiquement périmées ou inversées : seules les pages françaises sont citées.",
+  "schema_org": {
+    "amenities": [
+      "Musée de France"
+    ],
+    "is_free": false,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "musee-d-art-et-d-histoire-albertville",
+  "sources": [
+    "https://www.pays-albertville.com/fiches/musee-dart-et-dhistoire/",
+    "https://www.explore-savoie.com/sites-culturels/musee-dart-et-dhistoire-562247/",
+    "https://www.albertville.fr/ma-commune/patrimoine-et-tourisme/patrimoine-a-visiter/",
+    "https://www.culture.gouv.fr/Media/Regions/Drac-Auvergne-Rhone-Alpes/Files/service-musee/Les-musees-de-France-d-Auvergne-Rhone-Alpes"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "patrimoine",
+  "verify_flags": [
+    "DEUX NOMS OFFICIELS — le ministère de la Culture l'enregistre parmi les Musées de France sous « Musée de Conflans » ; la ville et l'office de tourisme l'appellent « Musée d'art et d'histoire » ou « MAHA ». Même institution, même adresse, appellation officielle différente de l'appellation d'usage. Aucun document ne documente le changement de nom.",
+    "MUSÉE DE FRANCE — confirmé indépendamment sur la liste officielle de la DRAC Auvergne-Rhône-Alpes, pas seulement sur la déclaration du musée. C'est le seul des cinq musées de cette tranche à porter le label.",
+    "CALENDRIER INCOHÉRENT À LA SOURCE — la grille publiée dit « Du 17 décembre au 26 juin » puis « Du 27 au 30 juin », et se recoupe donc avec elle-même. Reprise telle quelle.",
+    "CONTACT CONTRADICTOIRE — 04 79 37 86 86 / musee@albertville.fr sur la fiche de l'office de tourisme, 04 79 37 86 85 / patrimoine@albertville.fr sur le site de la ville. Les deux sont officiels. Aucun n'est arbitré.",
+    "CALENDRIER SANS MILLÉSIME — la grille d'ouverture publiée ne porte aucune année : c'est un calendrier jour/mois qui tourne, pas une saison 2026 affirmée. Elle est reprise telle quelle, sans être étiquetée « 2026 ».",
+    "ACCES_PMR_UNVERIFIED",
+    "COORDONNÉES — POI IGN « Musée d'Albertville-Conflans », catégorie musée ; une requête sur le nom marketing ne renvoie AUCUN résultat en Savoie, il faut interroger « Conflans »."
+  ]
+}

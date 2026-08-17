@@ -1,0 +1,664 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-17",
+    "confidence": "declarative",
+    "detail": "« Accessible en fauteuil roulant avec aide », selon l'office de tourisme. Avec aide, donc pas en autonomie. Ni ascenseur ni WC adapté documentés.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_name": "OT Val d'Isère",
+    "source_url": "https://www.valdisere.com/offres/musee-val-histoire-val-d-isere-fr-4196697/",
+    "status": "partiel",
+    "tourisme_handicap": []
+  },
+  "category": "musee",
+  "commune": "Val-d'Isère",
+  "date_modified_human": "17 août 2026",
+  "date_published_human": "17 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-17",
+    "method": "Recherche du 17 août 2026, sources officielles uniquement. Saisons, jours de fermeture et grilles tarifaires cités mot pour mot avec leur URL ; toute divergence entre publieurs est reportée, jamais arbitrée. Label Musée de France vérifié sur la liste officielle de la DRAC Auvergne-Rhône-Alpes, pas sur la déclaration du site. Protection monument historique vérifiée notice par notice dans la base nationale Mérimée. Coordonnées : géocodeur IGN Géoplateforme, catégorie du POI contrôlée pour écarter les homonymes. Les pages anglaises des offices de tourisme savoyards se sont révélées systématiquement périmées ou inversées : seules les pages françaises sont citées."
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-musee.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Wann ist geöffnet? Geschlossen Samstag. Zwei Zeiträume für 2026 sind veröffentlicht, zwei ganze Fenster des Jahres überhaupt nicht. Echte Schließung oder ein unausgefüllter Datensatz: die Quelle sagt es nicht, also kann ein Besuch außerhalb der veröffentlichten Zeiträume nicht zugesagt werden. Die Daten stehen bei den praktischen Angaben.",
+          "tag": "Vor Ort",
+          "title": "Öffnung"
+        },
+        {
+          "description": "Was kostet es? Nichts. Der Zugang ist frei, und die Quelle sagt es ausdrücklich — wir schließen es nicht aus einer fehlenden Preisliste.",
+          "tag": "Vor Ort",
+          "title": "Preise"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Das <strong>Musée Val Histoire</strong> ist ein Interpretationszentrum zur Geschichte des Ortes in Val-d'Isère, Savoie.</p><p><strong>Wann ist geöffnet?</strong> Geschlossen <strong>Samstag</strong>. Zwei Zeiträume für 2026 sind veröffentlicht, zwei ganze Fenster des Jahres überhaupt nicht. Echte Schließung oder ein unausgefüllter Datensatz: die Quelle sagt es nicht, also kann ein Besuch außerhalb der veröffentlichten Zeiträume nicht zugesagt werden. Die Daten stehen bei den praktischen Angaben.</p><p><strong>Was kostet es? Nichts.</strong> Der Zugang ist frei, und die Quelle sagt es ausdrücklich — wir schließen es nicht aus einer fehlenden Preisliste.</p><p>Die Barrierefreiheit ist teilweise gegeben und als solche dokumentiert; das belegte Detail steht im Barrierefreiheitsblock dieser Seite. Zu Tieren wird in den gelesenen Quellen keine Regel veröffentlicht.</p><p>Diese Seite stützt sich ausschließlich auf offizielle Quellen: Betreiber, Gemeinde, Park, Tourismusbüro, nationales Badegewässerregister. Wo zwei davon einander widersprechen, werden beide genannt und die Differenz gekennzeichnet — wir entscheiden nicht für Sie. Wo sie schweigen, bleibt das Feld leer statt geraten.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Kostenlos",
+        "best_season": "Zwei veröffentlichte Zeiträume, zwei nicht",
+        "commune": "Val-d'Isère",
+        "dogs": "Zu Tieren wird in den gelesenen Quellen keine Regel veröffentlicht.",
+        "parking": null,
+        "stroller": null,
+        "type": "Interpretationszentrum zur Geschichte des Ortes"
+      },
+      "faq": [
+        {
+          "a": "Geschlossen Samstag. Zwei Zeiträume für 2026 sind veröffentlicht, zwei ganze Fenster des Jahres überhaupt nicht. Echte Schließung oder ein unausgefüllter Datensatz: die Quelle sagt es nicht, also kann ein Besuch außerhalb der veröffentlichten Zeiträume nicht zugesagt werden. Die Daten stehen bei den praktischen Angaben.",
+          "q": "Wann ist geöffnet?"
+        },
+        {
+          "a": "Nichts. Der Zugang ist frei, und die Quelle sagt es ausdrücklich — wir schließen es nicht aus einer fehlenden Preisliste.",
+          "q": "Was kostet der Eintritt?"
+        },
+        {
+          "a": "Samstag",
+          "q": "Welcher ist der Schließtag?"
+        },
+        {
+          "a": "Die Barrierefreiheit ist teilweise gegeben und als solche dokumentiert; das belegte Detail steht im Barrierefreiheitsblock dieser Seite.",
+          "q": "Ist die Anlage rollstuhlgerecht?"
+        },
+        {
+          "a": "Zu Tieren wird in den gelesenen Quellen keine Regel veröffentlicht.",
+          "q": "Sind Tiere zugelassen?"
+        }
+      ],
+      "hero": {
+        "badge": "Kostenlos · Val-d'Isère",
+        "lead": "Interpretationszentrum zur Geschichte des Ortes in Val-d'Isère, Savoie. Kostenlos, Zwei veröffentlichte Zeiträume, zwei nicht — und was die offiziellen Quellen nicht sagen, als solches gesagt."
+      },
+      "hero_alt": "Musée Val Histoire, Interpretationszentrum zur Geschichte des Ortes in Val-d'Isère, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Maison de Val, 320 rue de la Face, 73150 Val-d'Isère. Veröffentlichter Punkt: 45.44732, 6.975356. Die POI-Kategorie wurde geprüft, um einen Namensvetter auszuschließen.",
+        "public_transport": null
+      },
+      "meta_description": "Musée Val Histoire in Val-d'Isère, Savoie: Kostenlos, Zwei veröffentlichte Zeiträume, zwei nicht. Offizielle Quellen, Abweichungen gekennzeichnet.",
+      "meta_title": "Musée Val Histoire — Kostenlos, Val-d'Isère",
+      "name": "Musée Val Histoire",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Anschrift",
+          "v": "Maison de Val, 320 rue de la Face, 73150 Val-d'Isère"
+        },
+        {
+          "k": "Öffnung",
+          "v": "Zwei veröffentlichte Zeiträume, zwei nicht"
+        },
+        {
+          "k": "Schließtag",
+          "v": "Samstag"
+        },
+        {
+          "k": "Preise",
+          "v": "Kostenlos"
+        },
+        {
+          "k": "Denkmalschutz",
+          "v": null
+        },
+        {
+          "k": "Barrierefreiheit",
+          "v": "Die Barrierefreiheit ist teilweise gegeben und als solche dokumentiert; das belegte Detail steht im Barrierefreiheitsblock dieser Seite."
+        },
+        {
+          "k": "Tiere",
+          "v": "Zu Tieren wird in den gelesenen Quellen keine Regel veröffentlicht."
+        },
+        {
+          "k": "Telefon",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Kostenlos"
+      ],
+      "when_to_visit": "<p>Ein überdachtes oder denkmalgeschütztes Ziel: ein Ausflug für schlechtes Wetter genauso wie für gutes. Prüfen Sie vorher den Schließtag — daran scheitern die meisten Besuche.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "When is it open? Closed Saturday. Two 2026 periods are published and two whole windows of the year are not published at all. Genuine closure or an unfilled record: the source does not say, so a visit outside the published periods cannot be promised. The dates are in the practical information.",
+          "tag": "On site",
+          "title": "Opening"
+        },
+        {
+          "description": "What does it cost? Nothing. Access is free, and the source says so explicitly — we do not infer it from an absent price list.",
+          "tag": "On site",
+          "title": "Prices"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Musée Val Histoire</strong> is a interpretation centre on the resort's own history at Val-d'Isère, Savoie.</p><p><strong>When is it open?</strong> Closed <strong>Saturday</strong>. Two 2026 periods are published and two whole windows of the year are not published at all. Genuine closure or an unfilled record: the source does not say, so a visit outside the published periods cannot be promised. The dates are in the practical information.</p><p><strong>What does it cost? Nothing.</strong> Access is free, and the source says so explicitly — we do not infer it from an absent price list.</p><p>Accessibility is partial and documented as such; the sourced detail is in this page's accessibility block. No rule about animals is published by the sources read.</p><p>This page is built on official sources and nothing else: the site's manager, the commune, the park, the tourist office, the national bathing-water register. Where two of them contradict each other, both are given and the gap is flagged — we do not choose for you. Where they are silent, the field stays empty rather than guessed.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free",
+        "best_season": "Two published periods, two unpublished windows",
+        "commune": "Val-d'Isère",
+        "dogs": "No rule about animals is published by the sources read.",
+        "parking": null,
+        "stroller": null,
+        "type": "interpretation centre on the resort's own history"
+      },
+      "faq": [
+        {
+          "a": "Closed Saturday. Two 2026 periods are published and two whole windows of the year are not published at all. Genuine closure or an unfilled record: the source does not say, so a visit outside the published periods cannot be promised. The dates are in the practical information.",
+          "q": "When is it open?"
+        },
+        {
+          "a": "Nothing. Access is free, and the source says so explicitly — we do not infer it from an absent price list.",
+          "q": "How much is admission?"
+        },
+        {
+          "a": "Saturday",
+          "q": "What is the weekly closing day?"
+        },
+        {
+          "a": "Accessibility is partial and documented as such; the sourced detail is in this page's accessibility block.",
+          "q": "Is the site wheelchair-accessible?"
+        },
+        {
+          "a": "No rule about animals is published by the sources read.",
+          "q": "Are animals accepted?"
+        }
+      ],
+      "hero": {
+        "badge": "Free · Val-d'Isère",
+        "lead": "Interpretation centre on the resort's own history at Val-d'Isère, Savoie. Free, Two published periods, two unpublished windows — and what the official sources do not say, said as such."
+      },
+      "hero_alt": "Musée Val Histoire, interpretation centre on the resort's own history, at Val-d'Isère, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Maison de Val, 320 rue de la Face, 73150 Val-d'Isère. Published point: 45.44732, 6.975356. The POI category was checked to rule out a namesake.",
+        "public_transport": null
+      },
+      "meta_description": "Musée Val Histoire, Val-d'Isère, Savoie: Free, Two published periods, two unpublished windows. Official sources, discrepancies flagged.",
+      "meta_title": "Musée Val Histoire — Free, Val-d'Isère",
+      "name": "Musée Val Histoire",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Address",
+          "v": "Maison de Val, 320 rue de la Face, 73150 Val-d'Isère"
+        },
+        {
+          "k": "Opening",
+          "v": "Two published periods, two unpublished windows"
+        },
+        {
+          "k": "Weekly closing day",
+          "v": "Saturday"
+        },
+        {
+          "k": "Prices",
+          "v": "Free"
+        },
+        {
+          "k": "Protection",
+          "v": null
+        },
+        {
+          "k": "Accessibility",
+          "v": "Accessibility is partial and documented as such; the sourced detail is in this page's accessibility block."
+        },
+        {
+          "k": "Animals",
+          "v": "No rule about animals is published by the sources read."
+        },
+        {
+          "k": "Telephone",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Free"
+      ],
+      "when_to_visit": "<p>A covered or heritage site: as much a bad-weather outing as a fine-weather one. Check the weekly closing day before you go — that is where visits are lost.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "¿Cuándo está abierto? Cerrado sábado. Se publican dos periodos de 2026 y dos ventanas enteras del año no se publican en absoluto. ¿Cierre real o ficha incompleta? La fuente no lo dice, así que una visita fuera de los periodos publicados no puede prometerse. Las fechas están en la información práctica.",
+          "tag": "En el sitio",
+          "title": "Apertura"
+        },
+        {
+          "description": "¿Cuánto cuesta? Nada. El acceso es libre y gratuito, y la fuente lo dice explícitamente: no lo deducimos de la ausencia de tarifas.",
+          "tag": "En el sitio",
+          "title": "Tarifas"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>Musée Val Histoire</strong> es un centro de interpretación de la historia de la estación en Val-d'Isère, Savoie.</p><p><strong>¿Cuándo está abierto?</strong> Cerrado <strong>sábado</strong>. Se publican dos periodos de 2026 y dos ventanas enteras del año no se publican en absoluto. ¿Cierre real o ficha incompleta? La fuente no lo dice, así que una visita fuera de los periodos publicados no puede prometerse. Las fechas están en la información práctica.</p><p><strong>¿Cuánto cuesta? Nada.</strong> El acceso es libre y gratuito, y la fuente lo dice explícitamente: no lo deducimos de la ausencia de tarifas.</p><p>La accesibilidad es parcial y está documentada como tal; el detalle con fuente está en el bloque de accesibilidad de esta ficha. Las fuentes consultadas no publican ninguna norma sobre animales.</p><p>Esta página se basa únicamente en fuentes oficiales: gestor, municipio, parque, oficina de turismo, registro sanitario nacional. Donde dos de ellas se contradicen, se dan ambas y se señala la diferencia — no elegimos por usted. Donde callan, el dato queda vacío en lugar de adivinado.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuito",
+        "best_season": "Dos periodos publicados, dos ventanas no",
+        "commune": "Val-d'Isère",
+        "dogs": "Las fuentes consultadas no publican ninguna norma sobre animales.",
+        "parking": null,
+        "stroller": null,
+        "type": "centro de interpretación de la historia de la estación"
+      },
+      "faq": [
+        {
+          "a": "Cerrado sábado. Se publican dos periodos de 2026 y dos ventanas enteras del año no se publican en absoluto. ¿Cierre real o ficha incompleta? La fuente no lo dice, así que una visita fuera de los periodos publicados no puede prometerse. Las fechas están en la información práctica.",
+          "q": "¿Cuándo está abierto?"
+        },
+        {
+          "a": "Nada. El acceso es libre y gratuito, y la fuente lo dice explícitamente: no lo deducimos de la ausencia de tarifas.",
+          "q": "¿Cuánto cuesta la entrada?"
+        },
+        {
+          "a": "sábado",
+          "q": "¿Cuál es el día de cierre?"
+        },
+        {
+          "a": "La accesibilidad es parcial y está documentada como tal; el detalle con fuente está en el bloque de accesibilidad de esta ficha.",
+          "q": "¿Es accesible en silla de ruedas?"
+        },
+        {
+          "a": "Las fuentes consultadas no publican ninguna norma sobre animales.",
+          "q": "¿Se admiten animales?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratuito · Val-d'Isère",
+        "lead": "Centro de interpretación de la historia de la estación en Val-d'Isère, Savoie. Gratuito, Dos periodos publicados, dos ventanas no — y lo que las fuentes oficiales no dicen, dicho como tal."
+      },
+      "hero_alt": "Musée Val Histoire, centro de interpretación de la historia de la estación, en Val-d'Isère, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Maison de Val, 320 rue de la Face, 73150 Val-d'Isère. Punto publicado: 45.44732, 6.975356. Se verificó la categoría del POI para descartar un homónimo.",
+        "public_transport": null
+      },
+      "meta_description": "Musée Val Histoire en Val-d'Isère, Savoie: Gratuito, Dos periodos publicados, dos ventanas no. Fuentes oficiales, discrepancias señaladas.",
+      "meta_title": "Musée Val Histoire — Gratuito, Val-d'Isère",
+      "name": "Musée Val Histoire",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Dirección",
+          "v": "Maison de Val, 320 rue de la Face, 73150 Val-d'Isère"
+        },
+        {
+          "k": "Apertura",
+          "v": "Dos periodos publicados, dos ventanas no"
+        },
+        {
+          "k": "Día de cierre",
+          "v": "sábado"
+        },
+        {
+          "k": "Tarifas",
+          "v": "Gratuito"
+        },
+        {
+          "k": "Protección",
+          "v": null
+        },
+        {
+          "k": "Accesibilidad",
+          "v": "La accesibilidad es parcial y está documentada como tal; el detalle con fuente está en el bloque de accesibilidad de esta ficha."
+        },
+        {
+          "k": "Animales",
+          "v": "Las fuentes consultadas no publican ninguna norma sobre animales."
+        },
+        {
+          "k": "Teléfono",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Gratuito"
+      ],
+      "when_to_visit": "<p>Sitio cubierto o patrimonial: es una salida de mal tiempo tanto como de buen tiempo. Compruebe el día de cierre antes de salir, es ahí donde se pierden las visitas.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Quand est-ce ouvert ? Fermé samedi. Deux périodes de 2026 sont publiées, et deux fenêtres entières de l'année ne le sont pas du tout. Fermeture réelle ou fiche incomplète : la source ne le dit pas, donc une visite hors des périodes publiées ne peut pas être promise. Les dates figurent dans les informations pratiques.",
+          "tag": "Sur place",
+          "title": "Ouverture"
+        },
+        {
+          "description": "Combien ça coûte ? Rien. L'accès est libre et gratuit, ce que la source écrit explicitement — nous ne le déduisons pas d'une absence de tarif.",
+          "tag": "Sur place",
+          "title": "Tarifs"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Le <strong>Musée Val Histoire</strong> est un centre d'interprétation de l'histoire de la station à Val-d'Isère, en Savoie.</p><p><strong>Quand est-ce ouvert ?</strong> Fermé <strong>samedi</strong>. Deux périodes de 2026 sont publiées, et deux fenêtres entières de l'année ne le sont pas du tout. Fermeture réelle ou fiche incomplète : la source ne le dit pas, donc une visite hors des périodes publiées ne peut pas être promise. Les dates figurent dans les informations pratiques.</p><p><strong>Combien ça coûte ? Rien.</strong> L'accès est libre et gratuit, ce que la source écrit explicitement — nous ne le déduisons pas d'une absence de tarif.</p><p>L'accessibilité est partielle et documentée comme telle — le détail sourcé figure dans le bloc accessibilité de cette fiche. Aucune règle sur les animaux n'est publiée par les sources consultées.</p><p>Cette page est bâtie sur les sources officielles et sur elles seules : gestionnaire, commune, parc, office de tourisme, registre sanitaire national. Là où deux d'entre elles se contredisent, les deux sont données et l'écart est signalé — nous ne choisissons pas à votre place. Là où elles se taisent, la donnée reste vide plutôt que devinée.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuit",
+        "best_season": "Deux périodes publiées, deux fenêtres non publiées",
+        "commune": "Val-d'Isère",
+        "dogs": "Aucune règle sur les animaux n'est publiée par les sources consultées.",
+        "parking": null,
+        "stroller": null,
+        "type": "centre d'interprétation de l'histoire de la station"
+      },
+      "faq": [
+        {
+          "a": "Fermé samedi. Deux périodes de 2026 sont publiées, et deux fenêtres entières de l'année ne le sont pas du tout. Fermeture réelle ou fiche incomplète : la source ne le dit pas, donc une visite hors des périodes publiées ne peut pas être promise. Les dates figurent dans les informations pratiques.",
+          "q": "Quand est-ce ouvert ?"
+        },
+        {
+          "a": "Rien. L'accès est libre et gratuit, ce que la source écrit explicitement — nous ne le déduisons pas d'une absence de tarif.",
+          "q": "Combien coûte l'entrée ?"
+        },
+        {
+          "a": "samedi",
+          "q": "Quel est le jour de fermeture ?"
+        },
+        {
+          "a": "L'accessibilité est partielle et documentée comme telle — le détail sourcé figure dans le bloc accessibilité de cette fiche.",
+          "q": "Le site est-il accessible en fauteuil roulant ?"
+        },
+        {
+          "a": "Aucune règle sur les animaux n'est publiée par les sources consultées.",
+          "q": "Les animaux sont-ils acceptés ?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratuit · Val-d'Isère",
+        "lead": "Centre d'interprétation de l'histoire de la station à Val-d'Isère, en Savoie. Gratuit, Deux périodes publiées, deux fenêtres non publiées — et ce que les sources officielles ne disent pas, dit comme tel."
+      },
+      "hero_alt": "Musée Val Histoire, centre d'interprétation de l'histoire de la station, à Val-d'Isère, en Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Maison de Val, 320 rue de la Face, 73150 Val-d'Isère. Point publié : 45.44732, 6.975356. La catégorie du POI a été vérifiée pour écarter un homonyme.",
+        "public_transport": null
+      },
+      "meta_description": "Musée Val Histoire à Val-d'Isère, en Savoie : Gratuit, Deux périodes publiées, deux fenêtres non publiées. Sources officielles, contradictions signalées.",
+      "meta_title": "Musée Val Histoire — Gratuit, Val-d'Isère",
+      "name": "Musée Val Histoire",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Adresse",
+          "v": "Maison de Val, 320 rue de la Face, 73150 Val-d'Isère"
+        },
+        {
+          "k": "Ouverture",
+          "v": "Deux périodes publiées, deux fenêtres non publiées"
+        },
+        {
+          "k": "Jour de fermeture",
+          "v": "samedi"
+        },
+        {
+          "k": "Tarifs",
+          "v": "Gratuit"
+        },
+        {
+          "k": "Protection",
+          "v": null
+        },
+        {
+          "k": "Accessibilité",
+          "v": "L'accessibilité est partielle et documentée comme telle — le détail sourcé figure dans le bloc accessibilité de cette fiche."
+        },
+        {
+          "k": "Animaux",
+          "v": "Aucune règle sur les animaux n'est publiée par les sources consultées."
+        },
+        {
+          "k": "Téléphone",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Gratuit"
+      ],
+      "when_to_visit": "<p>Site couvert ou patrimonial : c'est une sortie de mauvais temps autant que de beau. Vérifiez le jour de fermeture avant de partir, c'est là que se perdent les visites.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Quando è aperto? Chiuso sabato. Due periodi del 2026 sono pubblicati e due interi intervalli dell'anno non lo sono affatto. Chiusura reale o scheda incompleta: la fonte non lo dice, quindi una visita fuori dai periodi pubblicati non può essere promessa. Le date sono nelle informazioni pratiche.",
+          "tag": "In loco",
+          "title": "Apertura"
+        },
+        {
+          "description": "Quanto costa? Niente. L'accesso è libero e gratuito, e la fonte lo scrive esplicitamente: non lo deduciamo dall'assenza di un tariffario.",
+          "tag": "In loco",
+          "title": "Tariffe"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Il <strong>Musée Val Histoire</strong> è un centro di interpretazione della storia della stazione a Val-d'Isère, in Savoie.</p><p><strong>Quando è aperto?</strong> Chiuso <strong>sabato</strong>. Due periodi del 2026 sono pubblicati e due interi intervalli dell'anno non lo sono affatto. Chiusura reale o scheda incompleta: la fonte non lo dice, quindi una visita fuori dai periodi pubblicati non può essere promessa. Le date sono nelle informazioni pratiche.</p><p><strong>Quanto costa? Niente.</strong> L'accesso è libero e gratuito, e la fonte lo scrive esplicitamente: non lo deduciamo dall'assenza di un tariffario.</p><p>L'accessibilità è parziale e documentata come tale; il dettaglio con fonte è nel blocco accessibilità di questa scheda. Nessuna regola sugli animali è pubblicata dalle fonti consultate.</p><p>Questa pagina si basa solo su fonti ufficiali: gestore, comune, parco, ufficio del turismo, registro sanitario nazionale. Dove due di esse si contraddicono, entrambe sono riportate e lo scarto è segnalato — non scegliamo al posto vostro. Dove tacciono, il dato resta vuoto anziché indovinato.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuito",
+        "best_season": "Due periodi pubblicati, due intervalli no",
+        "commune": "Val-d'Isère",
+        "dogs": "Nessuna regola sugli animali è pubblicata dalle fonti consultate.",
+        "parking": null,
+        "stroller": null,
+        "type": "centro di interpretazione della storia della stazione"
+      },
+      "faq": [
+        {
+          "a": "Chiuso sabato. Due periodi del 2026 sono pubblicati e due interi intervalli dell'anno non lo sono affatto. Chiusura reale o scheda incompleta: la fonte non lo dice, quindi una visita fuori dai periodi pubblicati non può essere promessa. Le date sono nelle informazioni pratiche.",
+          "q": "Quando è aperto?"
+        },
+        {
+          "a": "Niente. L'accesso è libero e gratuito, e la fonte lo scrive esplicitamente: non lo deduciamo dall'assenza di un tariffario.",
+          "q": "Quanto costa l'ingresso?"
+        },
+        {
+          "a": "sabato",
+          "q": "Qual è il giorno di chiusura?"
+        },
+        {
+          "a": "L'accessibilità è parziale e documentata come tale; il dettaglio con fonte è nel blocco accessibilità di questa scheda.",
+          "q": "Il sito è accessibile in carrozzina?"
+        },
+        {
+          "a": "Nessuna regola sugli animali è pubblicata dalle fonti consultate.",
+          "q": "Gli animali sono ammessi?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratuito · Val-d'Isère",
+        "lead": "Centro di interpretazione della storia della stazione a Val-d'Isère, in Savoie. Gratuito, Due periodi pubblicati, due intervalli no — e ciò che le fonti ufficiali non dicono, detto come tale."
+      },
+      "hero_alt": "Musée Val Histoire, centro di interpretazione della storia della stazione, a Val-d'Isère, in Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Maison de Val, 320 rue de la Face, 73150 Val-d'Isère. Punto pubblicato: 45.44732, 6.975356. La categoria del POI è stata verificata per escludere un omonimo.",
+        "public_transport": null
+      },
+      "meta_description": "Musée Val Histoire a Val-d'Isère, in Savoie: Gratuito, Due periodi pubblicati, due intervalli no. Fonti ufficiali, discordanze segnalate.",
+      "meta_title": "Musée Val Histoire — Gratuito, Val-d'Isère",
+      "name": "Musée Val Histoire",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Indirizzo",
+          "v": "Maison de Val, 320 rue de la Face, 73150 Val-d'Isère"
+        },
+        {
+          "k": "Apertura",
+          "v": "Due periodi pubblicati, due intervalli no"
+        },
+        {
+          "k": "Giorno di chiusura",
+          "v": "sabato"
+        },
+        {
+          "k": "Tariffe",
+          "v": "Gratuito"
+        },
+        {
+          "k": "Tutela",
+          "v": null
+        },
+        {
+          "k": "Accessibilità",
+          "v": "L'accessibilità è parziale e documentata come tale; il dettaglio con fonte è nel blocco accessibilità di questa scheda."
+        },
+        {
+          "k": "Animali",
+          "v": "Nessuna regola sugli animali è pubblicata dalle fonti consultate."
+        },
+        {
+          "k": "Telefono",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Gratuito"
+      ],
+      "when_to_visit": "<p>Sito coperto o patrimoniale: è una gita da brutto tempo tanto quanto da bello. Verificate il giorno di chiusura prima di partire, è lì che si perdono le visite.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Wanneer is het open? Gesloten zaterdag. Twee periodes van 2026 zijn gepubliceerd en twee hele delen van het jaar helemaal niet. Echte sluiting of een niet-ingevuld record: de bron zegt het niet, dus een bezoek buiten de gepubliceerde periodes kan niet worden beloofd. De data staan bij de praktische informatie.",
+          "tag": "Ter plaatse",
+          "title": "Opening"
+        },
+        {
+          "description": "Wat kost het? Niets. De toegang is vrij, en de bron zegt dat uitdrukkelijk — wij leiden het niet af uit een ontbrekende prijslijst.",
+          "tag": "Ter plaatse",
+          "title": "Tarieven"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Het <strong>Musée Val Histoire</strong> is een bezoekerscentrum over de geschiedenis van het dorp in Val-d'Isère, Savoie.</p><p><strong>Wanneer is het open?</strong> Gesloten <strong>zaterdag</strong>. Twee periodes van 2026 zijn gepubliceerd en twee hele delen van het jaar helemaal niet. Echte sluiting of een niet-ingevuld record: de bron zegt het niet, dus een bezoek buiten de gepubliceerde periodes kan niet worden beloofd. De data staan bij de praktische informatie.</p><p><strong>Wat kost het? Niets.</strong> De toegang is vrij, en de bron zegt dat uitdrukkelijk — wij leiden het niet af uit een ontbrekende prijslijst.</p><p>De toegankelijkheid is gedeeltelijk en als zodanig gedocumenteerd; het onderbouwde detail staat in het toegankelijkheidsblok. De gelezen bronnen publiceren geen regel over dieren.</p><p>Deze pagina steunt uitsluitend op officiële bronnen: beheerder, gemeente, park, toeristenbureau, nationaal zwemwaterregister. Waar twee ervan elkaar tegenspreken, worden beide gegeven en wordt het verschil gemeld — wij kiezen niet voor u. Waar ze zwijgen, blijft het veld leeg in plaats van geraden.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": "Twee gepubliceerde periodes, twee niet",
+        "commune": "Val-d'Isère",
+        "dogs": "De gelezen bronnen publiceren geen regel over dieren.",
+        "parking": null,
+        "stroller": null,
+        "type": "bezoekerscentrum over de geschiedenis van het dorp"
+      },
+      "faq": [
+        {
+          "a": "Gesloten zaterdag. Twee periodes van 2026 zijn gepubliceerd en twee hele delen van het jaar helemaal niet. Echte sluiting of een niet-ingevuld record: de bron zegt het niet, dus een bezoek buiten de gepubliceerde periodes kan niet worden beloofd. De data staan bij de praktische informatie.",
+          "q": "Wanneer is het open?"
+        },
+        {
+          "a": "Niets. De toegang is vrij, en de bron zegt dat uitdrukkelijk — wij leiden het niet af uit een ontbrekende prijslijst.",
+          "q": "Wat kost de toegang?"
+        },
+        {
+          "a": "zaterdag",
+          "q": "Wat is de sluitingsdag?"
+        },
+        {
+          "a": "De toegankelijkheid is gedeeltelijk en als zodanig gedocumenteerd; het onderbouwde detail staat in het toegankelijkheidsblok.",
+          "q": "Is de locatie rolstoeltoegankelijk?"
+        },
+        {
+          "a": "De gelezen bronnen publiceren geen regel over dieren.",
+          "q": "Zijn dieren toegestaan?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratis · Val-d'Isère",
+        "lead": "Bezoekerscentrum over de geschiedenis van het dorp in Val-d'Isère, Savoie. Gratis, Twee gepubliceerde periodes, twee niet — en wat de officiële bronnen niet zeggen, ook als zodanig gezegd."
+      },
+      "hero_alt": "Musée Val Histoire, bezoekerscentrum over de geschiedenis van het dorp in Val-d'Isère, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Maison de Val, 320 rue de la Face, 73150 Val-d'Isère. Gepubliceerd punt: 45.44732, 6.975356. De POI-categorie is gecontroleerd om een naamgenoot uit te sluiten.",
+        "public_transport": null
+      },
+      "meta_description": "Musée Val Histoire in Val-d'Isère, Savoie: Gratis, Twee gepubliceerde periodes, twee niet. Officiële bronnen, afwijkingen gemeld.",
+      "meta_title": "Musée Val Histoire — Gratis, Val-d'Isère",
+      "name": "Musée Val Histoire",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Adres",
+          "v": "Maison de Val, 320 rue de la Face, 73150 Val-d'Isère"
+        },
+        {
+          "k": "Opening",
+          "v": "Twee gepubliceerde periodes, twee niet"
+        },
+        {
+          "k": "Sluitingsdag",
+          "v": "zaterdag"
+        },
+        {
+          "k": "Tarieven",
+          "v": "Gratis"
+        },
+        {
+          "k": "Bescherming",
+          "v": null
+        },
+        {
+          "k": "Toegankelijkheid",
+          "v": "De toegankelijkheid is gedeeltelijk en als zodanig gedocumenteerd; het onderbouwde detail staat in het toegankelijkheidsblok."
+        },
+        {
+          "k": "Dieren",
+          "v": "De gelezen bronnen publiceren geen regel over dieren."
+        },
+        {
+          "k": "Telefoon",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Gratis"
+      ],
+      "when_to_visit": "<p>Een overdekte of erfgoedlocatie: net zo goed een uitje voor slecht weer als voor mooi weer. Controleer vooraf de sluitingsdag — daar gaan de meeste bezoeken op stuk.</p>"
+    }
+  },
+  "latitude": 45.44732,
+  "longitude": 6.975356,
+  "official_site_url": "https://www.valdisere.com/offres/musee-val-histoire-val-d-isere-fr-4196697/",
+  "partners": [],
+  "postal_code": "73150",
+  "price_currency": null,
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Recherche du 17 août 2026, sources officielles uniquement. Saisons, jours de fermeture et grilles tarifaires cités mot pour mot avec leur URL ; toute divergence entre publieurs est reportée, jamais arbitrée. Label Musée de France vérifié sur la liste officielle de la DRAC Auvergne-Rhône-Alpes, pas sur la déclaration du site. Protection monument historique vérifiée notice par notice dans la base nationale Mérimée. Coordonnées : géocodeur IGN Géoplateforme, catégorie du POI contrôlée pour écarter les homonymes. Les pages anglaises des offices de tourisme savoyards se sont révélées systématiquement périmées ou inversées : seules les pages françaises sont citées.",
+  "schema_org": {
+    "amenities": [
+      "Gratuit"
+    ],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "musee-val-histoire-val-d-isere",
+  "sources": [
+    "https://www.valdisere.com/offres/musee-val-histoire-val-d-isere-fr-4196697/"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "patrimoine",
+  "verify_flags": [
+    "DEUX FENÊTRES DE L'ANNÉE NON PUBLIÉES — l'office de tourisme publie une période du 1er janvier au 3 mai 2026 et une du 1er juillet au 1er septembre 2026. Rien entre le 4 mai et le 30 juin, rien entre le 2 septembre et le 31 décembre. Fermeture réelle ou fiche incomplète : non publié. Une visite au printemps ou à l'automne ne peut pas être promise.",
+    "HORAIRES INVERSÉS ENTRE FR ET EN — la page française donne 21h en hiver et 21h30 en été ; sa jumelle anglaise donne exactement l'inverse. La version française fait foi, comme partout ailleurs dans ce corpus.",
+    "DEUX ENREGISTREMENTS APIDAE pour le même musée (4196697 et 5455969), portés par des sites différents. Seul le premier est cité.",
+    "COORDONNÉES — géocodage IGN de l'adresse « 320 Rue de la Face », score 0,953, le meilleur de la tranche ; le musée n'existe PAS dans la couche POI de l'IGN, et le POI voisin à ~12 m est étiqueté « Maison de Services au Public », ce qui n'est pas le musée."
+  ]
+}

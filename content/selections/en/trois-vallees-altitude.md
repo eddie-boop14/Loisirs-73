@@ -10,5 +10,6 @@ Saulire, Mont Vallon, Pointe de la Masse, Cime Caron: the Trois Vallées summits
 - [Saulire Cable Car](https://loisirs73.fr/en/telepherique-de-la-saulire) — Courchevel · [md](https://loisirs73.fr/content/en/telepherique-de-la-saulire.md)
 - [Pointe de la Masse Gondola](https://loisirs73.fr/en/telecabine-de-la-pointe-de-la-masse) — Les Belleville · [md](https://loisirs73.fr/content/en/telecabine-de-la-pointe-de-la-masse.md)
 - [Mont Vallon Gondola](https://loisirs73.fr/en/telecabine-du-mont-vallon) — Les Allues · [md](https://loisirs73.fr/content/en/telecabine-du-mont-vallon.md)
+- [Lac de Tuéda](https://loisirs73.fr/en/lac-de-tueda-les-allues) — Les Allues · [md](https://loisirs73.fr/content/en/lac-de-tueda-les-allues.md)
 
 Source: https://loisirs73.fr/en/what-to-do/trois-vallees-high-points/

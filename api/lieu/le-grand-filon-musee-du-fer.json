@@ -1,0 +1,64 @@
+{
+  "name": "Le Grand Filon, musée du fer",
+  "commune": "Saint-Georges-d'Hurtières",
+  "gps": {
+    "lat": 45.51049,
+    "lng": 6.28031
+  },
+  "type": "musee",
+  "hours": null,
+  "prices": {
+    "from": 4.0,
+    "currency": "EUR",
+    "tiers": [
+      {
+        "name": null,
+        "price": "4 €",
+        "note": null
+      },
+      {
+        "name": null,
+        "price": "2 €",
+        "note": null
+      },
+      {
+        "name": null,
+        "price": "10 €",
+        "note": null
+      },
+      {
+        "name": null,
+        "price": "6 €",
+        "note": null
+      },
+      {
+        "name": null,
+        "price": "22 €",
+        "note": null
+      },
+      {
+        "name": null,
+        "price": "gratuit",
+        "note": null
+      }
+    ],
+    "is_free": false,
+    "note": null
+  },
+  "access_pmr": {
+    "status": "accessible",
+    "detail": "L'exploitant écrit « L'exposition, la galerie Saint Louis et l'école d'autrefois sont accessibles aux personnes à mobilité réduite et aux poussettes » et signale une place réservée devant l'entrée. En revanche « La visite [de la galerie Sainte-Barbe] est déconseillée aux personnes à la santé fragile et n'est pas accessible aux enfants de moins de 8 ans ». Ni WC adapté ni ascenseur documentés.",
+    "equipment": [
+      "place_pmr"
+    ],
+    "handiplage_level": null,
+    "source_url": "https://www.grandfilon.net/accessibilite",
+    "source_name": "Le Grand Filon"
+  },
+  "parking": null,
+  "transport": null,
+  "season": "Saison publiée",
+  "winter": null,
+  "official_url": "https://www.grandfilon.net/espaces-de-visite",
+  "last_verified": null
+}

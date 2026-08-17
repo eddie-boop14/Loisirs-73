@@ -1,0 +1,687 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-17",
+    "confidence": null,
+    "detail": "Aucune source ne publie quoi que ce soit sur l'accès en fauteuil roulant au quartier. Le seul signal est indirect et négatif : une visite virtuelle est proposée aux visiteurs à mobilité réduite. Promontoire rocheux pavé et en pente.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_name": "OT Pays d'Albertville",
+    "source_url": "https://www.pays-albertville.com/fiches/cite-medievale-de-conflans/",
+    "status": null,
+    "tourisme_handicap": []
+  },
+  "category": "chateau",
+  "commune": "Albertville",
+  "date_modified_human": "17 août 2026",
+  "date_published_human": "17 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-17",
+    "method": "Recherche du 17 août 2026, sources officielles uniquement. Saisons, jours de fermeture et grilles tarifaires cités mot pour mot avec leur URL ; toute divergence entre publieurs est reportée, jamais arbitrée. Label Musée de France vérifié sur la liste officielle de la DRAC Auvergne-Rhône-Alpes, pas sur la déclaration du site. Protection monument historique vérifiée notice par notice dans la base nationale Mérimée. Coordonnées : géocodeur IGN Géoplateforme, catégorie du POI contrôlée pour écarter les homonymes. Les pages anglaises des offices de tourisme savoyards se sont révélées systématiquement périmées ou inversées : seules les pages françaises sont citées."
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-chateau.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Wann ist geöffnet? Ganzjährig, täglich, ohne veröffentlichten Schließtag. Auch Öffnungszeiten werden nicht veröffentlicht, und wir erfinden keine.",
+          "tag": "Vor Ort",
+          "title": "Öffnung"
+        },
+        {
+          "description": "Was kostet es? Nichts. Der Zugang ist frei, und die Quelle sagt es ausdrücklich — wir schließen es nicht aus einer fehlenden Preisliste.",
+          "tag": "Vor Ort",
+          "title": "Preise"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Das <strong>Cité médiévale de Conflans</strong> ist ein befestigte mittelalterliche Altstadt in Albertville, Savoie.</p><p><strong>Wann ist geöffnet?</strong> Ganzjährig, täglich, ohne veröffentlichten Schließtag. Auch Öffnungszeiten werden nicht veröffentlicht, und wir erfinden keine.</p><p><strong>Was kostet es? Nichts.</strong> Der Zugang ist frei, und die Quelle sagt es ausdrücklich — wir schließen es nicht aus einer fehlenden Preisliste.</p><p>Keine offizielle Quelle sagt hier etwas zur Barrierefreiheit: weder zugänglich noch unzugänglich — unbekannt. Drei Seiten desselben Tourismusbüros widersprechen sich: Tiere im Viertel zugelassen, im Museum, in der Maison Rouge und auf der Führung abgelehnt. Auf den Gassen ja, drinnen nein — aber so schreibt es niemand.</p><p>Diese Seite stützt sich ausschließlich auf offizielle Quellen: Betreiber, Gemeinde, Park, Tourismusbüro, nationales Badegewässerregister. Wo zwei davon einander widersprechen, werden beide genannt und die Differenz gekennzeichnet — wir entscheiden nicht für Sie. Wo sie schweigen, bleibt das Feld leer statt geraten.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Kostenlos",
+        "best_season": "Ganzjährig, täglich",
+        "commune": "Albertville",
+        "dogs": "Drei Seiten desselben Tourismusbüros widersprechen sich: Tiere im Viertel zugelassen, im Museum, in der Maison Rouge und auf der Führung abgelehnt. Auf den Gassen ja, drinnen nein — aber so schreibt es niemand.",
+        "parking": null,
+        "stroller": null,
+        "type": "befestigte mittelalterliche Altstadt"
+      },
+      "faq": [
+        {
+          "a": "Ganzjährig, täglich, ohne veröffentlichten Schließtag. Auch Öffnungszeiten werden nicht veröffentlicht, und wir erfinden keine.",
+          "q": "Wann ist geöffnet?"
+        },
+        {
+          "a": "Nichts. Der Zugang ist frei, und die Quelle sagt es ausdrücklich — wir schließen es nicht aus einer fehlenden Preisliste.",
+          "q": "Was kostet der Eintritt?"
+        },
+        {
+          "a": "Er ist nicht gesichert. Die offiziellen Quellen nennen nicht denselben, und wir wählen keinen für sie aus.",
+          "q": "Welcher ist der Schließtag?"
+        },
+        {
+          "a": "Keine offizielle Quelle sagt hier etwas zur Barrierefreiheit: weder zugänglich noch unzugänglich — unbekannt.",
+          "q": "Ist die Anlage rollstuhlgerecht?"
+        },
+        {
+          "a": "Drei Seiten desselben Tourismusbüros widersprechen sich: Tiere im Viertel zugelassen, im Museum, in der Maison Rouge und auf der Führung abgelehnt. Auf den Gassen ja, drinnen nein — aber so schreibt es niemand.",
+          "q": "Sind Tiere zugelassen?"
+        }
+      ],
+      "hero": {
+        "badge": "Kostenlos · Albertville",
+        "lead": "Befestigte mittelalterliche Altstadt in Albertville, Savoie. Kostenlos, Ganzjährig, täglich — und was die offiziellen Quellen nicht sagen, als solches gesagt."
+      },
+      "hero_alt": "Cité médiévale de Conflans, befestigte mittelalterliche Altstadt in Albertville, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Grande place de Conflans, 73200 Albertville. Veröffentlichter Punkt: 45.672034, 6.397403. Die POI-Kategorie wurde geprüft, um einen Namensvetter auszuschließen.",
+        "public_transport": null
+      },
+      "meta_description": "Cité médiévale de Conflans in Albertville, Savoie: Kostenlos, Ganzjährig, täglich. Offizielle Quellen, Abweichungen gekennzeichnet.",
+      "meta_title": "Cité médiévale de Conflans — Kostenlos, Albertville",
+      "name": "Cité médiévale de Conflans",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Anschrift",
+          "v": "Grande place de Conflans, 73200 Albertville"
+        },
+        {
+          "k": "Öffnung",
+          "v": "Ganzjährig, täglich"
+        },
+        {
+          "k": "Schließtag",
+          "v": null
+        },
+        {
+          "k": "Preise",
+          "v": "Kostenlos"
+        },
+        {
+          "k": "Denkmalschutz",
+          "v": null
+        },
+        {
+          "k": "Barrierefreiheit",
+          "v": "Keine offizielle Quelle sagt hier etwas zur Barrierefreiheit: weder zugänglich noch unzugänglich — unbekannt."
+        },
+        {
+          "k": "Tiere",
+          "v": "Drei Seiten desselben Tourismusbüros widersprechen sich: Tiere im Viertel zugelassen, im Museum, in der Maison Rouge und auf der Führung abgelehnt. Auf den Gassen ja, drinnen nein — aber so schreibt es niemand."
+        },
+        {
+          "k": "Telefon",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Kostenlos"
+      ],
+      "when_to_visit": "<p>Ein überdachtes oder denkmalgeschütztes Ziel: ein Ausflug für schlechtes Wetter genauso wie für gutes. Prüfen Sie vorher den Schließtag — daran scheitern die meisten Besuche.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "When is it open? All year, every day, with no published closing day. No opening hours are published either, and we do not invent any.",
+          "tag": "On site",
+          "title": "Opening"
+        },
+        {
+          "description": "What does it cost? Nothing. Access is free, and the source says so explicitly — we do not infer it from an absent price list.",
+          "tag": "On site",
+          "title": "Prices"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Cité médiévale de Conflans</strong> is a fortified medieval quarter at Albertville, Savoie.</p><p><strong>When is it open?</strong> All year, every day, with no published closing day. No opening hours are published either, and we do not invent any.</p><p><strong>What does it cost? Nothing.</strong> Access is free, and the source says so explicitly — we do not infer it from an absent price list.</p><p>No official source says anything about accessibility here: neither accessible nor inaccessible — unknown. Three pages of the same tourist office contradict each other: animals accepted in the quarter, refused at the museum, at the Maison Rouge and on the guided tour. In the streets yes, indoors no — but nobody writes it that way.</p><p>This page is built on official sources and nothing else: the site's manager, the commune, the park, the tourist office, the national bathing-water register. Where two of them contradict each other, both are given and the gap is flagged — we do not choose for you. Where they are silent, the field stays empty rather than guessed.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free",
+        "best_season": "All year, every day",
+        "commune": "Albertville",
+        "dogs": "Three pages of the same tourist office contradict each other: animals accepted in the quarter, refused at the museum, at the Maison Rouge and on the guided tour. In the streets yes, indoors no — but nobody writes it that way.",
+        "parking": null,
+        "stroller": null,
+        "type": "fortified medieval quarter"
+      },
+      "faq": [
+        {
+          "a": "All year, every day, with no published closing day. No opening hours are published either, and we do not invent any.",
+          "q": "When is it open?"
+        },
+        {
+          "a": "Nothing. Access is free, and the source says so explicitly — we do not infer it from an absent price list.",
+          "q": "How much is admission?"
+        },
+        {
+          "a": "It is not established. The official sources do not name the same one, and we do not pick one for them.",
+          "q": "What is the weekly closing day?"
+        },
+        {
+          "a": "No official source says anything about accessibility here: neither accessible nor inaccessible — unknown.",
+          "q": "Is the site wheelchair-accessible?"
+        },
+        {
+          "a": "Three pages of the same tourist office contradict each other: animals accepted in the quarter, refused at the museum, at the Maison Rouge and on the guided tour. In the streets yes, indoors no — but nobody writes it that way.",
+          "q": "Are animals accepted?"
+        }
+      ],
+      "hero": {
+        "badge": "Free · Albertville",
+        "lead": "Fortified medieval quarter at Albertville, Savoie. Free, All year, every day — and what the official sources do not say, said as such."
+      },
+      "hero_alt": "Cité médiévale de Conflans, fortified medieval quarter, at Albertville, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Grande place de Conflans, 73200 Albertville. Published point: 45.672034, 6.397403. The POI category was checked to rule out a namesake.",
+        "public_transport": null
+      },
+      "meta_description": "Cité médiévale de Conflans, Albertville, Savoie: Free, All year, every day. Official sources, discrepancies flagged.",
+      "meta_title": "Cité médiévale de Conflans — Free, Albertville",
+      "name": "Cité médiévale de Conflans",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Address",
+          "v": "Grande place de Conflans, 73200 Albertville"
+        },
+        {
+          "k": "Opening",
+          "v": "All year, every day"
+        },
+        {
+          "k": "Weekly closing day",
+          "v": null
+        },
+        {
+          "k": "Prices",
+          "v": "Free"
+        },
+        {
+          "k": "Protection",
+          "v": null
+        },
+        {
+          "k": "Accessibility",
+          "v": "No official source says anything about accessibility here: neither accessible nor inaccessible — unknown."
+        },
+        {
+          "k": "Animals",
+          "v": "Three pages of the same tourist office contradict each other: animals accepted in the quarter, refused at the museum, at the Maison Rouge and on the guided tour. In the streets yes, indoors no — but nobody writes it that way."
+        },
+        {
+          "k": "Telephone",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Free"
+      ],
+      "when_to_visit": "<p>A covered or heritage site: as much a bad-weather outing as a fine-weather one. Check the weekly closing day before you go — that is where visits are lost.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "¿Cuándo está abierto? Todo el año, todos los días, sin día de cierre publicado. Tampoco se publica ningún horario, y no lo inventamos.",
+          "tag": "En el sitio",
+          "title": "Apertura"
+        },
+        {
+          "description": "¿Cuánto cuesta? Nada. El acceso es libre y gratuito, y la fuente lo dice explícitamente: no lo deducimos de la ausencia de tarifas.",
+          "tag": "En el sitio",
+          "title": "Tarifas"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>Cité médiévale de Conflans</strong> es un barrio medieval fortificado en Albertville, Savoie.</p><p><strong>¿Cuándo está abierto?</strong> Todo el año, todos los días, sin día de cierre publicado. Tampoco se publica ningún horario, y no lo inventamos.</p><p><strong>¿Cuánto cuesta? Nada.</strong> El acceso es libre y gratuito, y la fuente lo dice explícitamente: no lo deducimos de la ausencia de tarifas.</p><p>Ninguna fuente oficial dice nada sobre la accesibilidad: ni accesible ni inaccesible — se desconoce. Tres fichas de la misma oficina de turismo se contradicen: animales admitidos en el barrio, rechazados en el museo, en la Maison Rouge y en la visita guiada. En las calles sí, dentro no — pero nadie lo escribe así.</p><p>Esta página se basa únicamente en fuentes oficiales: gestor, municipio, parque, oficina de turismo, registro sanitario nacional. Donde dos de ellas se contradicen, se dan ambas y se señala la diferencia — no elegimos por usted. Donde callan, el dato queda vacío en lugar de adivinado.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuito",
+        "best_season": "Todo el año, todos los días",
+        "commune": "Albertville",
+        "dogs": "Tres fichas de la misma oficina de turismo se contradicen: animales admitidos en el barrio, rechazados en el museo, en la Maison Rouge y en la visita guiada. En las calles sí, dentro no — pero nadie lo escribe así.",
+        "parking": null,
+        "stroller": null,
+        "type": "barrio medieval fortificado"
+      },
+      "faq": [
+        {
+          "a": "Todo el año, todos los días, sin día de cierre publicado. Tampoco se publica ningún horario, y no lo inventamos.",
+          "q": "¿Cuándo está abierto?"
+        },
+        {
+          "a": "Nada. El acceso es libre y gratuito, y la fuente lo dice explícitamente: no lo deducimos de la ausencia de tarifas.",
+          "q": "¿Cuánto cuesta la entrada?"
+        },
+        {
+          "a": "No está establecido. Las fuentes oficiales no nombran el mismo, y no elegimos uno por ellas.",
+          "q": "¿Cuál es el día de cierre?"
+        },
+        {
+          "a": "Ninguna fuente oficial dice nada sobre la accesibilidad: ni accesible ni inaccesible — se desconoce.",
+          "q": "¿Es accesible en silla de ruedas?"
+        },
+        {
+          "a": "Tres fichas de la misma oficina de turismo se contradicen: animales admitidos en el barrio, rechazados en el museo, en la Maison Rouge y en la visita guiada. En las calles sí, dentro no — pero nadie lo escribe así.",
+          "q": "¿Se admiten animales?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratuito · Albertville",
+        "lead": "Barrio medieval fortificado en Albertville, Savoie. Gratuito, Todo el año, todos los días — y lo que las fuentes oficiales no dicen, dicho como tal."
+      },
+      "hero_alt": "Cité médiévale de Conflans, barrio medieval fortificado, en Albertville, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Grande place de Conflans, 73200 Albertville. Punto publicado: 45.672034, 6.397403. Se verificó la categoría del POI para descartar un homónimo.",
+        "public_transport": null
+      },
+      "meta_description": "Cité médiévale de Conflans en Albertville, Savoie: Gratuito, Todo el año, todos los días. Fuentes oficiales, discrepancias señaladas.",
+      "meta_title": "Cité médiévale de Conflans — Gratuito, Albertville",
+      "name": "Cité médiévale de Conflans",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Dirección",
+          "v": "Grande place de Conflans, 73200 Albertville"
+        },
+        {
+          "k": "Apertura",
+          "v": "Todo el año, todos los días"
+        },
+        {
+          "k": "Día de cierre",
+          "v": null
+        },
+        {
+          "k": "Tarifas",
+          "v": "Gratuito"
+        },
+        {
+          "k": "Protección",
+          "v": null
+        },
+        {
+          "k": "Accesibilidad",
+          "v": "Ninguna fuente oficial dice nada sobre la accesibilidad: ni accesible ni inaccesible — se desconoce."
+        },
+        {
+          "k": "Animales",
+          "v": "Tres fichas de la misma oficina de turismo se contradicen: animales admitidos en el barrio, rechazados en el museo, en la Maison Rouge y en la visita guiada. En las calles sí, dentro no — pero nadie lo escribe así."
+        },
+        {
+          "k": "Teléfono",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Gratuito"
+      ],
+      "when_to_visit": "<p>Sitio cubierto o patrimonial: es una salida de mal tiempo tanto como de buen tiempo. Compruebe el día de cierre antes de salir, es ahí donde se pierden las visitas.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Quand est-ce ouvert ? Toute l'année, tous les jours, et sans jour de fermeture publié. Aucune amplitude horaire n'est publiée non plus : nous n'en inventons pas.",
+          "tag": "Sur place",
+          "title": "Ouverture"
+        },
+        {
+          "description": "Combien ça coûte ? Rien. L'accès est libre et gratuit, ce que la source écrit explicitement — nous ne le déduisons pas d'une absence de tarif.",
+          "tag": "Sur place",
+          "title": "Tarifs"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Le <strong>Cité médiévale de Conflans</strong> est un cité médiévale fortifiée à Albertville, en Savoie.</p><p><strong>Quand est-ce ouvert ?</strong> Toute l'année, tous les jours, et sans jour de fermeture publié. Aucune amplitude horaire n'est publiée non plus : nous n'en inventons pas.</p><p><strong>Combien ça coûte ? Rien.</strong> L'accès est libre et gratuit, ce que la source écrit explicitement — nous ne le déduisons pas d'une absence de tarif.</p><p>Aucune source officielle ne dit quoi que ce soit de l'accessibilité : ni accessible, ni non accessible — inconnu. Trois fiches du même office de tourisme se contredisent : animaux acceptés dans la cité, refusés au musée, à la Maison Rouge et sur la visite guidée. Dans les rues oui, à l'intérieur non — mais personne ne l'écrit ainsi.</p><p>Cette page est bâtie sur les sources officielles et sur elles seules : gestionnaire, commune, parc, office de tourisme, registre sanitaire national. Là où deux d'entre elles se contredisent, les deux sont données et l'écart est signalé — nous ne choisissons pas à votre place. Là où elles se taisent, la donnée reste vide plutôt que devinée.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuit",
+        "best_season": "Toute l'année, tous les jours",
+        "commune": "Albertville",
+        "dogs": "Trois fiches du même office de tourisme se contredisent : animaux acceptés dans la cité, refusés au musée, à la Maison Rouge et sur la visite guidée. Dans les rues oui, à l'intérieur non — mais personne ne l'écrit ainsi.",
+        "parking": null,
+        "stroller": null,
+        "type": "cité médiévale fortifiée"
+      },
+      "faq": [
+        {
+          "a": "Toute l'année, tous les jours, et sans jour de fermeture publié. Aucune amplitude horaire n'est publiée non plus : nous n'en inventons pas.",
+          "q": "Quand est-ce ouvert ?"
+        },
+        {
+          "a": "Rien. L'accès est libre et gratuit, ce que la source écrit explicitement — nous ne le déduisons pas d'une absence de tarif.",
+          "q": "Combien coûte l'entrée ?"
+        },
+        {
+          "a": "Il n'est pas établi. Les sources officielles n'en nomment pas le même, et nous n'en choisissons pas un pour elles.",
+          "q": "Quel est le jour de fermeture ?"
+        },
+        {
+          "a": "Aucune source officielle ne dit quoi que ce soit de l'accessibilité : ni accessible, ni non accessible — inconnu.",
+          "q": "Le site est-il accessible en fauteuil roulant ?"
+        },
+        {
+          "a": "Trois fiches du même office de tourisme se contredisent : animaux acceptés dans la cité, refusés au musée, à la Maison Rouge et sur la visite guidée. Dans les rues oui, à l'intérieur non — mais personne ne l'écrit ainsi.",
+          "q": "Les animaux sont-ils acceptés ?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratuit · Albertville",
+        "lead": "Cité médiévale fortifiée à Albertville, en Savoie. Gratuit, Toute l'année, tous les jours — et ce que les sources officielles ne disent pas, dit comme tel."
+      },
+      "hero_alt": "Cité médiévale de Conflans, cité médiévale fortifiée, à Albertville, en Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Grande place de Conflans, 73200 Albertville. Point publié : 45.672034, 6.397403. La catégorie du POI a été vérifiée pour écarter un homonyme.",
+        "public_transport": null
+      },
+      "meta_description": "Cité médiévale de Conflans à Albertville, en Savoie : Gratuit, Toute l'année, tous les jours. Sources officielles, contradictions signalées.",
+      "meta_title": "Cité médiévale de Conflans — Gratuit, Albertville",
+      "name": "Cité médiévale de Conflans",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Adresse",
+          "v": "Grande place de Conflans, 73200 Albertville"
+        },
+        {
+          "k": "Ouverture",
+          "v": "Toute l'année, tous les jours"
+        },
+        {
+          "k": "Jour de fermeture",
+          "v": null
+        },
+        {
+          "k": "Tarifs",
+          "v": "Gratuit"
+        },
+        {
+          "k": "Protection",
+          "v": null
+        },
+        {
+          "k": "Accessibilité",
+          "v": "Aucune source officielle ne dit quoi que ce soit de l'accessibilité : ni accessible, ni non accessible — inconnu."
+        },
+        {
+          "k": "Animaux",
+          "v": "Trois fiches du même office de tourisme se contredisent : animaux acceptés dans la cité, refusés au musée, à la Maison Rouge et sur la visite guidée. Dans les rues oui, à l'intérieur non — mais personne ne l'écrit ainsi."
+        },
+        {
+          "k": "Téléphone",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Gratuit"
+      ],
+      "when_to_visit": "<p>Site couvert ou patrimonial : c'est une sortie de mauvais temps autant que de beau. Vérifiez le jour de fermeture avant de partir, c'est là que se perdent les visites.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Quando è aperto? Tutto l'anno, ogni giorno, senza giorno di chiusura pubblicato. Nemmeno gli orari sono pubblicati, e non li inventiamo.",
+          "tag": "In loco",
+          "title": "Apertura"
+        },
+        {
+          "description": "Quanto costa? Niente. L'accesso è libero e gratuito, e la fonte lo scrive esplicitamente: non lo deduciamo dall'assenza di un tariffario.",
+          "tag": "In loco",
+          "title": "Tariffe"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Il <strong>Cité médiévale de Conflans</strong> è un borgo medievale fortificato a Albertville, in Savoie.</p><p><strong>Quando è aperto?</strong> Tutto l'anno, ogni giorno, senza giorno di chiusura pubblicato. Nemmeno gli orari sono pubblicati, e non li inventiamo.</p><p><strong>Quanto costa? Niente.</strong> L'accesso è libero e gratuito, e la fonte lo scrive esplicitamente: non lo deduciamo dall'assenza di un tariffario.</p><p>Nessuna fonte ufficiale dice nulla sull'accessibilità: né accessibile né inaccessibile — sconosciuto. Tre schede dello stesso ufficio del turismo si contraddicono: animali ammessi nel borgo, rifiutati al museo, alla Maison Rouge e nella visita guidata. Nelle vie sì, all'interno no — ma nessuno lo scrive così.</p><p>Questa pagina si basa solo su fonti ufficiali: gestore, comune, parco, ufficio del turismo, registro sanitario nazionale. Dove due di esse si contraddicono, entrambe sono riportate e lo scarto è segnalato — non scegliamo al posto vostro. Dove tacciono, il dato resta vuoto anziché indovinato.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuito",
+        "best_season": "Tutto l'anno, ogni giorno",
+        "commune": "Albertville",
+        "dogs": "Tre schede dello stesso ufficio del turismo si contraddicono: animali ammessi nel borgo, rifiutati al museo, alla Maison Rouge e nella visita guidata. Nelle vie sì, all'interno no — ma nessuno lo scrive così.",
+        "parking": null,
+        "stroller": null,
+        "type": "borgo medievale fortificato"
+      },
+      "faq": [
+        {
+          "a": "Tutto l'anno, ogni giorno, senza giorno di chiusura pubblicato. Nemmeno gli orari sono pubblicati, e non li inventiamo.",
+          "q": "Quando è aperto?"
+        },
+        {
+          "a": "Niente. L'accesso è libero e gratuito, e la fonte lo scrive esplicitamente: non lo deduciamo dall'assenza di un tariffario.",
+          "q": "Quanto costa l'ingresso?"
+        },
+        {
+          "a": "Non è accertato. Le fonti ufficiali non ne indicano lo stesso, e non ne scegliamo uno per loro.",
+          "q": "Qual è il giorno di chiusura?"
+        },
+        {
+          "a": "Nessuna fonte ufficiale dice nulla sull'accessibilità: né accessibile né inaccessibile — sconosciuto.",
+          "q": "Il sito è accessibile in carrozzina?"
+        },
+        {
+          "a": "Tre schede dello stesso ufficio del turismo si contraddicono: animali ammessi nel borgo, rifiutati al museo, alla Maison Rouge e nella visita guidata. Nelle vie sì, all'interno no — ma nessuno lo scrive così.",
+          "q": "Gli animali sono ammessi?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratuito · Albertville",
+        "lead": "Borgo medievale fortificato a Albertville, in Savoie. Gratuito, Tutto l'anno, ogni giorno — e ciò che le fonti ufficiali non dicono, detto come tale."
+      },
+      "hero_alt": "Cité médiévale de Conflans, borgo medievale fortificato, a Albertville, in Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Grande place de Conflans, 73200 Albertville. Punto pubblicato: 45.672034, 6.397403. La categoria del POI è stata verificata per escludere un omonimo.",
+        "public_transport": null
+      },
+      "meta_description": "Cité médiévale de Conflans a Albertville, in Savoie: Gratuito, Tutto l'anno, ogni giorno. Fonti ufficiali, discordanze segnalate.",
+      "meta_title": "Cité médiévale de Conflans — Gratuito, Albertville",
+      "name": "Cité médiévale de Conflans",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Indirizzo",
+          "v": "Grande place de Conflans, 73200 Albertville"
+        },
+        {
+          "k": "Apertura",
+          "v": "Tutto l'anno, ogni giorno"
+        },
+        {
+          "k": "Giorno di chiusura",
+          "v": null
+        },
+        {
+          "k": "Tariffe",
+          "v": "Gratuito"
+        },
+        {
+          "k": "Tutela",
+          "v": null
+        },
+        {
+          "k": "Accessibilità",
+          "v": "Nessuna fonte ufficiale dice nulla sull'accessibilità: né accessibile né inaccessibile — sconosciuto."
+        },
+        {
+          "k": "Animali",
+          "v": "Tre schede dello stesso ufficio del turismo si contraddicono: animali ammessi nel borgo, rifiutati al museo, alla Maison Rouge e nella visita guidata. Nelle vie sì, all'interno no — ma nessuno lo scrive così."
+        },
+        {
+          "k": "Telefono",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Gratuito"
+      ],
+      "when_to_visit": "<p>Sito coperto o patrimoniale: è una gita da brutto tempo tanto quanto da bello. Verificate il giorno di chiusura prima di partire, è lì che si perdono le visite.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Wanneer is het open? Het hele jaar, elke dag, zonder gepubliceerde sluitingsdag. Ook openingstijden worden niet gepubliceerd, en die verzinnen wij niet.",
+          "tag": "Ter plaatse",
+          "title": "Opening"
+        },
+        {
+          "description": "Wat kost het? Niets. De toegang is vrij, en de bron zegt dat uitdrukkelijk — wij leiden het niet af uit een ontbrekende prijslijst.",
+          "tag": "Ter plaatse",
+          "title": "Tarieven"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Het <strong>Cité médiévale de Conflans</strong> is een versterkte middeleeuwse stadswijk in Albertville, Savoie.</p><p><strong>Wanneer is het open?</strong> Het hele jaar, elke dag, zonder gepubliceerde sluitingsdag. Ook openingstijden worden niet gepubliceerd, en die verzinnen wij niet.</p><p><strong>Wat kost het? Niets.</strong> De toegang is vrij, en de bron zegt dat uitdrukkelijk — wij leiden het niet af uit een ontbrekende prijslijst.</p><p>Geen enkele officiële bron zegt iets over de toegankelijkheid: niet toegankelijk, niet ontoegankelijk — onbekend. Drie pagina's van hetzelfde toeristenbureau spreken elkaar tegen: dieren toegestaan in de wijk, geweigerd in het museum, in de Maison Rouge en op de begeleide tour. Op straat ja, binnen niet — maar niemand schrijft het zo.</p><p>Deze pagina steunt uitsluitend op officiële bronnen: beheerder, gemeente, park, toeristenbureau, nationaal zwemwaterregister. Waar twee ervan elkaar tegenspreken, worden beide gegeven en wordt het verschil gemeld — wij kiezen niet voor u. Waar ze zwijgen, blijft het veld leeg in plaats van geraden.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": "Het hele jaar, elke dag",
+        "commune": "Albertville",
+        "dogs": "Drie pagina's van hetzelfde toeristenbureau spreken elkaar tegen: dieren toegestaan in de wijk, geweigerd in het museum, in de Maison Rouge en op de begeleide tour. Op straat ja, binnen niet — maar niemand schrijft het zo.",
+        "parking": null,
+        "stroller": null,
+        "type": "versterkte middeleeuwse stadswijk"
+      },
+      "faq": [
+        {
+          "a": "Het hele jaar, elke dag, zonder gepubliceerde sluitingsdag. Ook openingstijden worden niet gepubliceerd, en die verzinnen wij niet.",
+          "q": "Wanneer is het open?"
+        },
+        {
+          "a": "Niets. De toegang is vrij, en de bron zegt dat uitdrukkelijk — wij leiden het niet af uit een ontbrekende prijslijst.",
+          "q": "Wat kost de toegang?"
+        },
+        {
+          "a": "Die staat niet vast. De officiële bronnen noemen niet dezelfde, en wij kiezen er niet één voor hen.",
+          "q": "Wat is de sluitingsdag?"
+        },
+        {
+          "a": "Geen enkele officiële bron zegt iets over de toegankelijkheid: niet toegankelijk, niet ontoegankelijk — onbekend.",
+          "q": "Is de locatie rolstoeltoegankelijk?"
+        },
+        {
+          "a": "Drie pagina's van hetzelfde toeristenbureau spreken elkaar tegen: dieren toegestaan in de wijk, geweigerd in het museum, in de Maison Rouge en op de begeleide tour. Op straat ja, binnen niet — maar niemand schrijft het zo.",
+          "q": "Zijn dieren toegestaan?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratis · Albertville",
+        "lead": "Versterkte middeleeuwse stadswijk in Albertville, Savoie. Gratis, Het hele jaar, elke dag — en wat de officiële bronnen niet zeggen, ook als zodanig gezegd."
+      },
+      "hero_alt": "Cité médiévale de Conflans, versterkte middeleeuwse stadswijk in Albertville, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Grande place de Conflans, 73200 Albertville. Gepubliceerd punt: 45.672034, 6.397403. De POI-categorie is gecontroleerd om een naamgenoot uit te sluiten.",
+        "public_transport": null
+      },
+      "meta_description": "Cité médiévale de Conflans in Albertville, Savoie: Gratis, Het hele jaar, elke dag. Officiële bronnen, afwijkingen gemeld.",
+      "meta_title": "Cité médiévale de Conflans — Gratis, Albertville",
+      "name": "Cité médiévale de Conflans",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Adres",
+          "v": "Grande place de Conflans, 73200 Albertville"
+        },
+        {
+          "k": "Opening",
+          "v": "Het hele jaar, elke dag"
+        },
+        {
+          "k": "Sluitingsdag",
+          "v": null
+        },
+        {
+          "k": "Tarieven",
+          "v": "Gratis"
+        },
+        {
+          "k": "Bescherming",
+          "v": null
+        },
+        {
+          "k": "Toegankelijkheid",
+          "v": "Geen enkele officiële bron zegt iets over de toegankelijkheid: niet toegankelijk, niet ontoegankelijk — onbekend."
+        },
+        {
+          "k": "Dieren",
+          "v": "Drie pagina's van hetzelfde toeristenbureau spreken elkaar tegen: dieren toegestaan in de wijk, geweigerd in het museum, in de Maison Rouge en op de begeleide tour. Op straat ja, binnen niet — maar niemand schrijft het zo."
+        },
+        {
+          "k": "Telefoon",
+          "v": null
+        }
+      ],
+      "schema_amenities": [
+        "Gratis"
+      ],
+      "when_to_visit": "<p>Een overdekte of erfgoedlocatie: net zo goed een uitje voor slecht weer als voor mooi weer. Controleer vooraf de sluitingsdag — daar gaan de meeste bezoeken op stuk.</p>"
+    }
+  },
+  "latitude": 45.672034,
+  "longitude": 6.397403,
+  "official_site_url": "https://www.pays-albertville.com/fiches/cite-medievale-de-conflans/",
+  "partners": [],
+  "postal_code": "73200",
+  "price_currency": null,
+  "price_from": null,
+  "price_tiers": [
+    {
+      "label": "Rues, remparts, portes, Grande Place",
+      "price": "gratuit, toute l'année"
+    },
+    {
+      "label": "Audioguide du quartier",
+      "price": "6 € / 3 € réduit"
+    },
+    {
+      "label": "Musée d'art et d'histoire (Maison Rouge)",
+      "price": "5 € / 2,50 € réduit"
+    },
+    {
+      "label": "Visite guidée « Conflans au grand jour ! » (mardis 4, 11, 18 et 25 août 2026, 10h-11h30)",
+      "price": "6 € / 3 € réduit"
+    }
+  ],
+  "research_log": "Recherche du 17 août 2026, sources officielles uniquement. Saisons, jours de fermeture et grilles tarifaires cités mot pour mot avec leur URL ; toute divergence entre publieurs est reportée, jamais arbitrée. Label Musée de France vérifié sur la liste officielle de la DRAC Auvergne-Rhône-Alpes, pas sur la déclaration du site. Protection monument historique vérifiée notice par notice dans la base nationale Mérimée. Coordonnées : géocodeur IGN Géoplateforme, catégorie du POI contrôlée pour écarter les homonymes. Les pages anglaises des offices de tourisme savoyards se sont révélées systématiquement périmées ou inversées : seules les pages françaises sont citées.",
+  "schema_org": {
+    "amenities": [
+      "Gratuit"
+    ],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "cite-medievale-de-conflans-albertville",
+  "sources": [
+    "https://www.pays-albertville.com/fiches/cite-medievale-de-conflans/",
+    "https://www.pays-albertville.com/fiches/la-maison-rouge-de-conflans/",
+    "https://www.pays-albertville.com/fiches/visite-guidee-de-la-cite-medievale-de-conflans-conflans-au-grand-jour/"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "patrimoine",
+  "verify_flags": [
+    "TROIS BILLETS DISTINCTS, AUCUN BILLET COMBINÉ — le quartier est libre et gratuit toute l'année ; l'audioguide du quartier coûte 6 €, le musée dans la Maison Rouge 5 €, la visite guidée 6 €. Il n'existe AUCUN billet « cité + musée ». Le seul lien publié est un tarif réduit réciproque avec l'espace muséal Tremplin 92.",
+    "CHIENS — trois fiches du même office de tourisme se contredisent : « Animaux acceptés : Oui » sur la cité, « Non » sur le musée, « Non » sur la Maison Rouge, et non acceptés sur la visite guidée. La lecture cohérente est : dans les rues oui, à l'intérieur non — mais personne ne l'écrit ainsi.",
+    "AUCUN POI MONUMENT À L'IGN — la cité médiévale n'existe pas comme point d'intérêt monumental dans le géocodeur ; le point publié est celui du quartier habité.",
+    "MAISON ROUGE, RÉFÉRENCE MH INCERTAINE — la référence PA00118181 couramment attribuée à la Maison Rouge s'ouvre dans la base nationale sous l'appellation « Petit Palais de Conflans » (classé le 7 décembre 1904). Aucune notice intitulée « Maison Rouge » n'a été trouvée. Aucun classement n'est donc affirmé sur cette fiche.",
+    "L'AUDIOGUIDE NE SE RETIRE QU'AUX HEURES DU MUSÉE — le quartier est ouvert en permanence, son audioguide non.",
+    "VISUEL vérifié à l'œil (17/08/2026) — château à tourelles dans les arbres, déjà l'image de 3 autres fiches patrimoine du site (convention du corpus).",
+    "ACCES_PMR_UNVERIFIED",
+    "COORDONNÉES — POI IGN « Conflans », catégorie zone d'habitation — le quartier, car aucun POI de classe monument n'existe pour la cité ; les POI « Plaine de Conflans » désignent la plaine alluviale en bas et ne doivent pas être utilisés."
+  ]
+}

@@ -154,6 +154,13 @@ jobs:
         # corpus. inforoute74.fr shipped on 126 Savoie pages before it existed.
         run: python3 scripts/gate_winter_schema.py
 
+      - name: Protected-placements byte-guard (HANDOFF-39A-B, EVERY run)
+        # Mirrors the 74's wiring. The 73 has no placements yet, so this is a
+        # green no-op (no manifest, no carrying pages) that arms itself the
+        # day a partner domain first renders: red "manifest missing" until
+        # --write-manifest lands in an EDMASTER-APPROVED commit.
+        run: python3 scripts/gate_protected_placements.py
+
       - name: Reachability gate (strict, 0 orphans)
         run: python3 scripts/check_reachability.py
 

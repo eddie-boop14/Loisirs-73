@@ -110,9 +110,24 @@ def main():
 
     current = carrying_pages(args.tree)
     if not current:
-        print("::error::0 carrying pages found — the placements themselves are gone?",
-              file=sys.stderr)
-        sys.exit(1)
+        # Zero carrying pages means one of two very different things, and the
+        # committed manifest is what tells them apart. On a site whose manifest
+        # records placements (the 74: 414 pages), zero is the alarm this gate
+        # exists for — the paid placements vanished — and stays red. On a site
+        # that has never had a placement (the 73 today), there is no manifest
+        # and nothing to guard; the gate arms itself the day a partner domain
+        # first renders (red "manifest missing" until --write-manifest lands
+        # in an EDMASTER-APPROVED commit — the 74's own arming path).
+        recorded = parse_manifest(args.manifest)
+        if recorded:
+            print("::error::0 carrying pages found but the manifest records "
+                  f"{len(recorded)} — the placements themselves are gone?",
+                  file=sys.stderr)
+            sys.exit(1)
+        print("gate_protected_placements: no partner domain renders anywhere "
+              "and no manifest records one — this site has no protected "
+              "placements; nothing to guard")
+        sys.exit(0)
 
     if args.write_manifest:
         os.makedirs(os.path.dirname(args.manifest), exist_ok=True)

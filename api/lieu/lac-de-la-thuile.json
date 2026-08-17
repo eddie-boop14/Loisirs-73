@@ -1,0 +1,24 @@
+{
+  "name": "Lac de La Thuile",
+  "commune": "La Thuile",
+  "gps": {
+    "lat": 45.530335,
+    "lng": 6.053048
+  },
+  "type": "lac",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "Printemps et automne (conseil de l'OT)",
+  "winter": null,
+  "official_url": "https://www.la-thuile.com/la-commune/le-lac-de-la-thuile",
+  "last_verified": null
+}

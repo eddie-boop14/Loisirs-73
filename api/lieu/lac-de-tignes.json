@@ -1,0 +1,24 @@
+{
+  "name": "Lac de Tignes",
+  "commune": "Tignes",
+  "gps": {
+    "lat": 45.4653,
+    "lng": 6.9042
+  },
+  "type": "lac",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "Base nautique ~20 juin – 6 septembre",
+  "winter": null,
+  "official_url": "https://www.tignes.net/decouvrir/la-station/le-lac-de-tignes",
+  "last_verified": null
+}

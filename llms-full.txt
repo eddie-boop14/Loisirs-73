@@ -1,9 +1,9 @@
 # Loisirs 73 — Full content dump
 
 Generated: 2026-08-17
-Total lieux: 81
+Total lieux: 89
 
-This file concatenates the FR facet markdown of all 81 leisure sites in Savoie. Each section is a standalone markdown document with YAML frontmatter and the fixed facet heading canon. Sections are separated by `===` rulers.
+This file concatenates the FR facet markdown of all 89 leisure sites in Savoie. Each section is a standalone markdown document with YAML frontmatter and the fixed facet heading canon. Sections are separated by `===` rulers.
 
 For programmatic access, fetch individual files at https://loisirs73.fr/content/{slug}.md (FR), https://loisirs73.fr/content/en/{slug}.md (EN), or https://loisirs73.fr/api/lieu/{slug}.json (typed JSON).
 
@@ -2498,6 +2498,72 @@ https://rando.parcdesbauges.com/trek/44527-La-grande-cascade
 ================================================================================
 
 ---
+slug: lac-d-aiguebelette
+name: "Lac d'Aiguebelette"
+category: lac
+category_label: "Lac & plage"
+commune: "Nances"
+postal_code: "73470"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.55
+longitude: 5.801
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/lac-d-aiguebelette
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/lac-d-aiguebelette.json
+photo_url: /img/generique/generique-barque-aviron.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-17
+source: loisirs73.fr
+---
+
+# Lac d'Aiguebelette
+
+## Faits
+
+- Commune: Nances, Savoie (73470)
+- GPS: 45.55, 5.801
+- Catégorie: lac
+- Type: Lac naturel
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Non renseigné
+
+## Source officielle
+
+https://www.lac-aiguebelette.com/decouvrir-le-lac-daiguebelette/
+
+================================================================================
+
+---
 slug: lac-de-carouge-saint-pierre-d-albigny
 name: "Lac de Carouge"
 category: lac
@@ -2560,6 +2626,272 @@ Surveillance en juillet-août, 13h–19h (dates : voir contradiction sourcée)
 ## Source officielle
 
 https://saintpierredalbigny.fr/fr/rb/1606867/le-lac-de-carouge
+
+================================================================================
+
+---
+slug: lac-de-la-thuile
+name: "Lac de La Thuile"
+category: lac
+category_label: "Lac & plage"
+commune: "La Thuile"
+postal_code: "73190"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.530335
+longitude: 6.053048
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/lac-de-la-thuile
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/lac-de-la-thuile.json
+photo_url: /img/generique/generique-famille-balade.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-17
+source: loisirs73.fr
+---
+
+# Lac de La Thuile
+
+## Faits
+
+- Commune: La Thuile, Savoie (73190)
+- GPS: 45.530335, 6.053048
+- Catégorie: lac
+- Type: Lac alpin
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Printemps et automne (conseil de l'OT)
+
+## Source officielle
+
+https://www.la-thuile.com/la-commune/le-lac-de-la-thuile
+
+================================================================================
+
+---
+slug: lac-de-sainte-helene
+name: "Lac de Sainte-Hélène"
+category: lac
+category_label: "Lac & plage"
+commune: "Sainte-Hélène-du-Lac"
+postal_code: "73800"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.480535
+longitude: 6.066771
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/lac-de-sainte-helene
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/lac-de-sainte-helene.json
+photo_url: /img/generique/generique-reserve-zone-humide-2.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-17
+source: loisirs73.fr
+---
+
+# Lac de Sainte-Hélène
+
+## Faits
+
+- Commune: Sainte-Hélène-du-Lac, Savoie (73800)
+- GPS: 45.480535, 6.066771
+- Catégorie: lac
+- Type: Lac naturel
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+- Statut: Partiellement accessible
+- Détail: « Un chemin aménagé accessible aux personnes à mobilité réduite permet de faire le tour du lac à l'écart des berges » (Cœur de Savoie Tourisme). Berges sauvages et pontons de pêche sans niveau PMR déclaré.
+- Source: Cœur de Savoie Tourisme — https://tourisme.coeurdesavoie.fr/fiches/lac-sainte-helene-327139/
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Non renseigné
+
+## Source officielle
+
+https://tourisme.coeurdesavoie.fr/fiches/lac-sainte-helene-327139/
+
+================================================================================
+
+---
+slug: lac-de-tignes
+name: "Lac de Tignes"
+category: lac
+category_label: "Lac & plage"
+commune: "Tignes"
+postal_code: "73320"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.4653
+longitude: 6.9042
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/lac-de-tignes
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/lac-de-tignes.json
+photo_url: /img/generique/generique-lac-hiver.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-17
+source: loisirs73.fr
+---
+
+# Lac de Tignes
+
+## Faits
+
+- Commune: Tignes, Savoie (73320)
+- GPS: 45.4653, 6.9042
+- Catégorie: lac
+- Type: Lac naturel d'altitude
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Base nautique ~20 juin – 6 septembre
+
+## Source officielle
+
+https://www.tignes.net/decouvrir/la-station/le-lac-de-tignes
+
+================================================================================
+
+---
+slug: lac-des-hurtieres
+name: "Lac des Hurtières"
+category: lac
+category_label: "Lac & plage"
+commune: "Saint-Alban-d'Hurtières"
+postal_code: "73220"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.482352
+longitude: 6.288291
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/lac-des-hurtieres
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/lac-des-hurtieres.json
+photo_url: /img/generique/generique-reserve-zone-humide-3.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-17
+source: loisirs73.fr
+---
+
+# Lac des Hurtières
+
+## Faits
+
+- Commune: Saint-Alban-d'Hurtières, Savoie (73220)
+- GPS: 45.482352, 6.288291
+- Catégorie: lac
+- Type: Plan d'eau
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Baignade surveillée l'été, 12 h à 18 h (voir contradiction sourcée)
+
+## Source officielle
+
+https://www.explore-maurienne.com/patrimoine-naturel/lac-des-hurtieres/
 
 ================================================================================
 
@@ -2634,6 +2966,138 @@ https://www.pralognan.com/prestataire/lac-des-vaches-col-de-la-vanoise-randonnee
 ================================================================================
 
 ---
+slug: lac-du-bourget
+name: "Lac du Bourget"
+category: lac
+category_label: "Lac & plage"
+commune: "Aix-les-Bains"
+postal_code: "73100"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.7043
+longitude: 5.8859
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/lac-du-bourget
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/lac-du-bourget.json
+photo_url: /img/generique/generique-voiliers-coucher-soleil.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-17
+source: loisirs73.fr
+---
+
+# Lac du Bourget
+
+## Faits
+
+- Commune: Aix-les-Bains, Savoie (73100)
+- GPS: 45.7043, 5.8859
+- Catégorie: lac
+- Type: Lac naturel
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Plages surveillées 27 juin – 30 août 2026
+
+## Source officielle
+
+https://www.aixlesbains-rivieradesalpes.com/la-destination/le-lac-du-bourget/
+
+================================================================================
+
+---
+slug: lac-du-mont-cenis
+name: "Lac du Mont-Cenis"
+category: lac
+category_label: "Lac & plage"
+commune: "Val-Cenis"
+postal_code: "73480"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.2378
+longitude: 6.9342
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/lac-du-mont-cenis
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/lac-du-mont-cenis.json
+photo_url: /img/generique/generique-plaine-verte.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-17
+source: loisirs73.fr
+---
+
+# Lac du Mont-Cenis
+
+## Faits
+
+- Commune: Val-Cenis, Savoie (73480)
+- GPS: 45.2378, 6.9342
+- Catégorie: lac
+- Type: Lac de barrage
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Fin mai – début novembre (route du col)
+
+## Source officielle
+
+https://www.haute-maurienne-vanoise.com/decouvrir-la-haute-maurienne-vanoise/les-incontournables/le-mont-cenis/
+
+================================================================================
+
+---
 slug: lac-saint-andre-porte-de-savoie
 name: "Lac Saint-André"
 category: lac
@@ -2696,6 +3160,74 @@ Toute l'année pour le tour du lac ; pêche du 7 mars au 6 décembre 2026
 ## Source officielle
 
 https://porte-de-savoie.fr/vie-locale/espaces-naturels-et-plans-deau/
+
+================================================================================
+
+---
+slug: lacs-de-saint-jean-de-chevelu
+name: "Lacs de Saint-Jean-de-Chevelu"
+category: lac
+category_label: "Lac & plage"
+commune: "Saint-Jean-de-Chevelu"
+postal_code: "73170"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.69338
+longitude: 5.825286
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/lacs-de-saint-jean-de-chevelu
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/lacs-de-saint-jean-de-chevelu.json
+photo_url: /img/generique/generique-reserve-zone-humide-1.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-17
+source: loisirs73.fr
+---
+
+# Lacs de Saint-Jean-de-Chevelu
+
+## Faits
+
+- Commune: Saint-Jean-de-Chevelu, Savoie (73170)
+- GPS: 45.69338, 5.825286
+- Catégorie: lac
+- Type: Lacs naturels et marais
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+- Statut: Partiellement accessible
+- Détail: Parcours de pêche labellisé « Famille » : pontons de pêche dont un accessible aux personnes à mobilité réduite (Fédération de pêche de Savoie). Le reste du site est un espace naturel sans aménagement PMR déclaré.
+- Source: Fédération de Savoie pour la Pêche — https://www.savoiepeche.com/saint-jean-de-chevelu/parcours-de-peche-famille-des-lacs-de-st-jean-de-chevelu
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Non renseigné
+
+## Source officielle
+
+https://www.explore-savoie.com/sites-naturels/lacs-et-marais-de-saint-jean-de-chevelu-5216067/
 
 ================================================================================
 

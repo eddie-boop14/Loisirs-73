@@ -1,0 +1,24 @@
+{
+  "name": "Lac du Mont-Cenis",
+  "commune": "Val-Cenis",
+  "gps": {
+    "lat": 45.2378,
+    "lng": 6.9342
+  },
+  "type": "lac",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "Fin mai – début novembre (route du col)",
+  "winter": null,
+  "official_url": "https://www.haute-maurienne-vanoise.com/decouvrir-la-haute-maurienne-vanoise/les-incontournables/le-mont-cenis/",
+  "last_verified": null
+}

@@ -1,0 +1,591 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-17",
+    "confidence": "declarative",
+    "detail": "Parcours de pêche labellisé « Famille » : pontons de pêche dont un accessible aux personnes à mobilité réduite (Fédération de pêche de Savoie). Le reste du site est un espace naturel sans aménagement PMR déclaré.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_name": "Fédération de Savoie pour la Pêche",
+    "source_url": "https://www.savoiepeche.com/saint-jean-de-chevelu/parcours-de-peche-famille-des-lacs-de-st-jean-de-chevelu",
+    "status": "partiel",
+    "tourisme_handicap": null
+  },
+  "category": "lac",
+  "commune": "Saint-Jean-de-Chevelu",
+  "date_modified_human": "17 août 2026",
+  "date_published_human": "17 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-17",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-reserve-zone-humide-1.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "\"Famille\" Kurs auf beiden Seen: ausgestattete Pontons (ein Rollstuhl ist zugänglich), Rotauge, Karpfen, Hecht, schwarzer Bass, Regenbogenforelle.",
+          "tag": "etikettiert",
+          "title": "Familienfischerei"
+        },
+        {
+          "description": "Eine einfache 6,9 km mit einem Belvedere mit Blick auf das Seebecken, von der Freizeitbasis Parkplatz.",
+          "tag": "3 h",
+          "title": "Lakes-and-marshes loop"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>Seen von Saint-Jean-de-Chevelu</strong> Es sind zwei kleine Seen <strong>eiszeitlicher Herkunft</strong>, \"geboren aus dem Zusammenbruch eines Teils des Dent du Chat-Berges\", nachdem sich die Würm-Gletscher zurückgezogen hatten. Das Laufblatt des Tourismusbüros gibt ihnen 6,4 und 4,4 ha mit einer maximalen Tiefe von 8 m; der nationale Fischereiverband schreibt 6,6 und 4,6 ha — Wir berichten beides. Eingebettet zwischen dem Lierre-Berg und dem Mont de la Charvaz, in der Nähe der Jongieux-Weinberge, werden sie von <strong>Sümpfe geschützt durch Präfekturverordnung seit 1990</strong>, verwaltet vom Conservatoire d'espaces naturels de Savoie.</p><p>Fischerei — Kategorie 2, betrieben von Yenne AAPPMA — praktiziert wird <strong>auf beiden Seen</strong>, auf einem mit Famille gekennzeichneten Kurs mit Pontons, von denen einer rollstuhlgängig ist. Schwimmen gibt es nur am angelegten Sommerstrand (bezahlt, separate Seite); \"Der Zugang zum See ist außerhalb von Juli-August frei\". Keine offizielle Quelle gibt an, welcher der beiden Seen den Strand trägt - Wir raten nicht.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Frei (außerhalb des Sommerstrandes)",
+        "best_season": null,
+        "commune": "Saint-Jean-de-Chevelu",
+        "dogs": "Quelle: Widerspruch: an der Leine (Spaziergänge) / nicht akzeptiert (Strand)",
+        "parking": null,
+        "stroller": null,
+        "type": "Natürliche Seen und Sümpfe",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Only at the laid-out beach in summer (paid, from €2, supervised 12 to 6 pm — Siehe unsere Strandseite. Außerhalb von Juli bis August ist der Zugang zur Website kostenlos. Das Wasser wird Bonne in den Abteilungsrankings 2025 bewertet.",
+          "q": "Kannst du dort schwimmen?"
+        },
+        {
+          "a": "Ja: der Fischereiverband erklärt, dass die Fischerei (Kategorie 2, Yenne AAPPMA) auf beiden Seen betrieben wird — Rotauge, Chub, Karpfen, Tench, Barsch, Hecht, Schwarzbarsch und Regenbogenforelle. \"Famille\" -beschriftete Strecke, Pontons einschließlich eines Rollstuhls.",
+          "q": "Können Sie beide Seen fischen?"
+        },
+        {
+          "a": "Zwei markierte Schleifen vom Basisparkplatz: 6,9 km (~3 h, leicht, +146 m, Belvedere über den Seen) und 13,2 km (~4 h 30, moderat, +600 m, Monthoux Belvedere und Weinberge).",
+          "q": "Was läuft?"
+        },
+        {
+          "a": "\"Seit 1990 sind die Seen und Sümpfe durch Präfekturverordnung geschützt.\" Ihre Verwaltung ist der Conservatoire d'espaces naturels de Savoie anvertraut, und die restaurierten Nasswiesen schützen wertvolle Flora und Fauna.",
+          "q": "Warum sind die Sümpfe wichtig?"
+        }
+      ],
+      "hero": {
+        "badge": "Naturlandschaft · Freier Zugang",
+        "lead": "Zwei kleine Gletscherseen am Fuße des Dent du Chat, die seit 1990 von Sümpfen umgeben sind - Ein Ort für Familienfischen, Aussichtspunkte und Naturbeobachtung, frei zugänglich außerhalb des Sommerstrandes."
+      },
+      "hero_alt": "Feuchtgebiet und Schilfbetten an den Saint-Jean-de-Chevelu Seen, Savoie",
+      "how_to_get_there": {
+        "bike": "MTB-Schaltung Nr. 16 'Les Lacs de Chevelu' von Yenne.",
+        "car": "Zwischen Yenne und dem Col du Chat auf der D1504; Freizeit-Basis-Parkplatz an den Seen.",
+        "public_transport": null
+      },
+      "meta_description": "Zwei Gletscherseen am Fuße des Dent du Chat: Sümpfe geschützt seit 1990, \"Famille\"-gekennzeichnete Fischerei auf beiden Seen, Aussichtsschleifen. Freier Zugang außerhalb des Sommerstrandes.",
+      "meta_title": "Lacs de Saint-Jean-de-Chevelu · Fischerei, Sümpfe, Aussichtspunkte",
+      "name": "Lacs de Saint-Jean-de-Chevelu",
+      "name_alternates": [
+        "Lakes and marshes of Saint-Jean-de-Chevelu"
+      ],
+      "practical_info": [
+        {
+          "k": "Die beiden Seen",
+          "v": "6,4 und 4,4 ha, 8 m max Tiefe (Tourist Office) — 6.6 and 4.6 ha per Génération Pêche"
+        },
+        {
+          "k": "Schutz",
+          "v": "Sümpfe geschützt durch Präfekturverordnung seit 1990; verwaltet von CEN Savoie"
+        },
+        {
+          "k": "Fischerei",
+          "v": "Kategorie 2, Yenne AAPPMA, \"Famille\"-gekennzeichneter Kurs, Genehmigungen in Yenne und im Dorf"
+        },
+        {
+          "k": "Wanderwege",
+          "v": "6,9 km (~3 h, +146 m) und 13,2 km (~4 h 30, +600 m), vom Basisparkplatz (alt. 304 m"
+        },
+        {
+          "k": "Zugang",
+          "v": "Ganzjährig frei; \"Der Zugang zum See ist außerhalb von Juli-August kostenlos\" (die Sommerstrandgebühren)"
+        }
+      ],
+      "schema_amenities": [
+        "Familienfischereikurs",
+        "Markierungsspuren"
+      ],
+      "when_to_visit": "<p>Das ganze Jahr über für die beiden markierten Schleifen vom Basisparkplatz (304 m): 'Seen und Sümpfe' (6,9 km, ca. 3 h, +146 m, mit einem Belvedere mit Blick auf das Seebecken) und die 'Tour der Seen' (13,2 km, ca. 4 h 30, +600 m, über den Weiler und die Weinberge von Monthoux). Bei Hunden widersprechen sich die Quellen: \"an der Leine akzeptiert\" auf den Wanderwegen, \"nicht akzeptiert\" auf der Strandseite - Wir berichten beides.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "'Famille' course on both lakes: equipped pontoons (one wheelchair-accessible), roach, carp, pike, black bass, rainbow trout.",
+          "tag": "Labelled",
+          "title": "Family fishing"
+        },
+        {
+          "description": "An easy 6.9 km with a belvedere overlooking the lake basin, from the leisure-base car park.",
+          "tag": "3 h",
+          "title": "Lakes-and-marshes loop"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>lakes of Saint-Jean-de-Chevelu</strong> are two small lakes <strong>of glacial origin</strong>, 'born of the collapse of part of the Dent du Chat mountain' after the Würm glaciers retreated. The tourist office's walking sheet gives them 6.4 and 4.4 ha with a maximum depth of 8 m; the national fishing federation writes 6.6 and 4.6 ha — we report both. Nestled between the Lierre mountain and the Mont de la Charvaz, near the Jongieux vineyards, they are edged by <strong>marshes protected by prefectoral decree since 1990</strong>, managed by the Conservatoire d'espaces naturels de Savoie.</p><p>Fishing — category 2, run by the Yenne AAPPMA — is practised <strong>on both lakes</strong>, on a 'Famille'-labelled course with pontoons, one of them wheelchair-accessible. Swimming exists only at the laid-out summer beach (paid, separate page); 'access to the lake is free outside July-August'. No official source states which of the two lakes carries the beach — we do not guess.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free (outside the summer beach)",
+        "best_season": null,
+        "commune": "Saint-Jean-de-Chevelu",
+        "dogs": "Sourced contradiction: on a leash (walks) / not accepted (beach)",
+        "parking": null,
+        "stroller": null,
+        "type": "Natural lakes and marshes",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Only at the laid-out beach in summer (paid, from €2, supervised 12 to 6 pm — see our beach page). Outside July-August, access to the site is free. The water is rated Bonne in the 2025 departmental rankings.",
+          "q": "Can you swim there?"
+        },
+        {
+          "a": "Yes: the fishing federation states that fishing (category 2, Yenne AAPPMA) is practised on both lakes — roach, chub, carp, tench, perch, pike, black bass and rainbow trout. 'Famille'-labelled course, pontoons including one wheelchair-accessible.",
+          "q": "Can you fish both lakes?"
+        },
+        {
+          "a": "Two waymarked loops from the base car park: 6.9 km (~3 h, easy, +146 m, belvedere over the lakes) and 13.2 km (~4 h 30, moderate, +600 m, Monthoux belvedere and vineyards).",
+          "q": "Which walks?"
+        },
+        {
+          "a": "'Since 1990 the lakes and marshes have been protected by prefectoral decree'; their management is entrusted to the Conservatoire d'espaces naturels de Savoie, and the restored wet meadows shelter precious flora and fauna.",
+          "q": "Why do the marshes matter?"
+        }
+      ],
+      "hero": {
+        "badge": "Natural site · Free access",
+        "lead": "Two small glacial lakes at the foot of the Dent du Chat, ringed by marshes protected since 1990 — a place for family fishing, viewpoint walks and nature watching, freely accessible outside the summer beach."
+      },
+      "hero_alt": "Wetland and reed beds at the Saint-Jean-de-Chevelu lakes, Savoie",
+      "how_to_get_there": {
+        "bike": "MTB circuit no. 16 'Les Lacs de Chevelu' from Yenne.",
+        "car": "Between Yenne and the Col du Chat on the D1504; leisure-base car park by the lakes.",
+        "public_transport": null
+      },
+      "meta_description": "Two glacial lakes at the foot of the Dent du Chat: marshes protected since 1990, 'Famille'-labelled fishing on both lakes, viewpoint loops. Free access outside the summer beach.",
+      "meta_title": "Lacs de Saint-Jean-de-Chevelu · fishing, marshes, viewpoints",
+      "name": "Lacs de Saint-Jean-de-Chevelu",
+      "name_alternates": [
+        "Lakes and marshes of Saint-Jean-de-Chevelu"
+      ],
+      "practical_info": [
+        {
+          "k": "The two lakes",
+          "v": "6.4 and 4.4 ha, 8 m max depth (tourist office) — 6.6 and 4.6 ha per Génération Pêche"
+        },
+        {
+          "k": "Protection",
+          "v": "Marshes protected by prefectoral decree since 1990; managed by CEN Savoie"
+        },
+        {
+          "k": "Fishing",
+          "v": "Category 2, Yenne AAPPMA, 'Famille'-labelled course, permits in Yenne and the village"
+        },
+        {
+          "k": "Walks",
+          "v": "6.9 km (~3 h, +146 m) and 13.2 km (~4 h 30, +600 m), from the base car park (alt. 304 m)"
+        },
+        {
+          "k": "Access",
+          "v": "Free all year; 'access to the lake is free outside July-August' (the summer beach charges)"
+        }
+      ],
+      "schema_amenities": [
+        "Family fishing course",
+        "Waymarked trails"
+      ],
+      "when_to_visit": "<p>All year for the two waymarked loops from the base car park (304 m): 'Lakes and Marshes' (6.9 km, about 3 h, +146 m, with a belvedere overlooking the lake basin) and the 'Tour of the Lakes' (13.2 km, about 4 h 30, +600 m, via the hamlet and vineyards of Monthoux). On dogs, the sources contradict each other: 'accepted on a leash' on the walking routes, 'not accepted' on the beach page — we report both.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "Curso 'Famille' en ambos lagos: pontones equipados (una silla de ruedas-accesible), cucaracha, carpa, pique, bajo negro, trucha arco iris.",
+          "tag": "Labelled",
+          "title": "Pesca de familia"
+        },
+        {
+          "description": "Un fácil 6.9 km con un belvedere con vistas a la cuenca del lago, desde el aparcamiento de la base de ocio.",
+          "tag": "3 h",
+          "title": "Lagos y marismas bucle"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>lagos de Saint-Jean-de-Chevelu</strong> son dos pequeños lagos <strong>de origen glacial</strong>, 'nacido del colapso de parte de la montaña Dent du Chat' después de que los glaciares Würm se retiraran. La hoja de caminar de la oficina turística les da 6.4 y 4.4 ha con una profundidad máxima de 8 m; la federación pesquera nacional escribe 6.6 y 4.6 ha reportamos ambos. Ubicado entre la montaña Lierre y la Mont de la Charvaz, cerca de los viñedos Jongieux, están bordeados por <strong>pantanos protegidos por decreto prefectoral desde 1990</strong>, gestionado por el Conservatoire d'espaces naturels de Savoie.</p><p>Pesca — categoría 2, dirigida por el Yenne AAPPMA se practica <strong>en ambos lagos</strong>En un curso con pontones, uno de ellos accesible para silla de ruedas. La natación sólo existe en la playa de verano (pagada, página separada); \"El acceso al lago es gratuito fuera de julio-agosto\". Ninguna fuente oficial indica cuál de los dos lagos lleva la playa — No lo adivinamos.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Libre (fuera de la playa de verano)",
+        "best_season": null,
+        "commune": "Saint-Jean-de-Chevelu",
+        "dogs": "contradicción fuente: sobre una correa (caminares) / no aceptada (playa)",
+        "parking": null,
+        "stroller": null,
+        "type": "Lagos y marismas naturales",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Sólo en la playa de descanso en verano (pagado, desde €2, supervisado 12 hasta 6 pm – ver nuestra página de playa). Fuera de julio-agosto, el acceso al sitio es gratuito. El agua se clasifica en Bonne en la clasificación departamental 2025.",
+          "q": "¿Puedes nadar ahí?"
+        },
+        {
+          "a": "Sí: la federación pesquera afirma que la pesca (categoría 2, Yenne AAPPMA) se practica en ambos lagos — roach, chub, carpa, tench, perch, pike, bajo negro y trucha arco iris. Curso etiquetado con \"Famille\", pontones incluyendo un acceso a silla de ruedas.",
+          "q": "¿Puedes pescar ambos lagos?"
+        },
+        {
+          "a": "Dos bucles marcados desde el aparcamiento base: 6.9 km (~3 h, fácil, +146 m, belvedere sobre los lagos) y 13.2 km (~4 h 30, moderado, +600 m, Monthoux belvedere y viñedos).",
+          "q": "¿Qué pasa?"
+        },
+        {
+          "a": "\"Desde 1990 los lagos y marismas han sido protegidos por decreto prefectoral\"; su gestión se confía a la Conservatoire d'espaces naturels de Savoie, y los prados húmedos restaurados albergan flora y fauna preciosas.",
+          "q": "¿Por qué importan las marismas?"
+        }
+      ],
+      "hero": {
+        "badge": "Sitio natural · Acceso libre",
+        "lead": "Dos pequeños lagos glaciales a los pies de la Dent du Chat, sonados por marismas protegidas desde 1990 — un lugar para la pesca familiar, paseos por el mirador de la naturaleza y libre acceso fuera de la playa de verano."
+      },
+      "hero_alt": "Wetland and reed beds at the Saint-Jean-de-Chevelu lakes, Savoie",
+      "how_to_get_there": {
+        "bike": "Circuito MTB no. 16 'Les Lacs de Chevelu' de Yenne.",
+        "car": "Entre Yenne y el Col du Chat en el D1504; Parque de autos de esparcimiento junto a los lagos.",
+        "public_transport": null
+      },
+      "meta_description": "Dos lagos glaciales al pie de la Dent du Chat: pantanos protegidos desde 1990, pesca con etiqueta 'Famille' en ambos lagos, bucles mirador. Acceso gratuito fuera de la playa de verano.",
+      "meta_title": "Lacs de Saint-Jean-de-Chevelu · pesca, marismas, miradores",
+      "name": "Lacs de Saint-Jean-de-Chevelu",
+      "name_alternates": [
+        "Lakes and marshes of Saint-Jean-de-Chevelu"
+      ],
+      "practical_info": [
+        {
+          "k": "Los dos lagos",
+          "v": "6.4 y 4.4 ha, 8 m de profundidad (oficina turística) — 6.6 and 4.6 ha per Génération Pêche"
+        },
+        {
+          "k": "Protección",
+          "v": "Marshes protected by prefectoral decree since 1990; gestionado por CEN Savoie"
+        },
+        {
+          "k": "Pesca",
+          "v": "Categoría 2, Yenne AAPPMA, curso de etiqueta 'Famille', permite en Yenne y el pueblo"
+        },
+        {
+          "k": "Camina",
+          "v": "6.9 km (~3 h, +146 m) y 13.2 km (~4 h 30, +600 m), del aparcamiento base (alt. 304 m)"
+        },
+        {
+          "k": "Acceso",
+          "v": "Libre todo el año; \"El acceso al lago es gratuito fuera de julio-agosto\" (los cargos de playa de verano)"
+        }
+      ],
+      "schema_amenities": [
+        "Curso de pesca familiar",
+        "Senderos Waymarked"
+      ],
+      "when_to_visit": "<p>Todo el año para los dos bucles marcados desde el aparcamiento base (304 m): 'Lakes y Marshes' (6.9 km, aproximadamente 3 h, +146 m, con un belvedere con vistas a la cuenca del lago) y la 'Tour of the Lakes' (13.2 km, aproximadamente 4 h 30, +600 m, a través de la aldea y viñedos de Monthoux). En los perros, las fuentes se contradicen entre sí: 'aceptado en una correa' en las rutas de senderismo, 'no aceptado' en la página de la playa — reportamos ambos.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Parcours « Famille » sur les deux lacs : pontons équipés (dont un PMR), gardon, carpe, brochet, black-bass, truite arc-en-ciel.",
+          "tag": "Labellisé",
+          "title": "Pêche en famille"
+        },
+        {
+          "description": "6,9 km faciles avec belvédère dominant le bassin lacustre, au départ du parking de la base de loisirs.",
+          "tag": "3 h",
+          "title": "Boucle des lacs et marais"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Les <strong>lacs de Saint-Jean-de-Chevelu</strong> sont deux petits lacs <strong>d'origine glaciaire</strong>, « nés de l'affaissement d'une partie de la montagne de la Dent du Chat » après le retrait des glaciers du Würm. La fiche de randonnée de l'office de tourisme leur donne 6,4 et 4,4 ha pour 8 m de profondeur maximale ; la fédération nationale de pêche écrit 6,6 et 4,6 ha — nous reportons les deux. Nichés entre la montagne de Lierre et le Mont de la Charvaz, près du vignoble de Jongieux, ils sont bordés de <strong>marais protégés par arrêté préfectoral depuis 1990</strong>, gérés par le Conservatoire d'espaces naturels de Savoie.</p><p>La pêche — 2ᵉ catégorie, gérée par l'AAPPMA de Yenne — se pratique <strong>sur les deux lacs</strong>, sur un parcours labellisé « Famille » équipé de pontons dont un accessible aux personnes à mobilité réduite. La baignade, elle, n'existe qu'à la plage aménagée en été (payante, fiche séparée) ; « l'accès au lac est libre hors juillet août ». Aucune source officielle ne précise lequel des deux lacs porte la plage — nous ne le devinons pas.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuit (hors plage d'été)",
+        "best_season": null,
+        "commune": "Saint-Jean-de-Chevelu",
+        "dogs": "Contradiction sourcée : en laisse (randos) / non acceptés (plage)",
+        "parking": null,
+        "stroller": null,
+        "type": "Lacs naturels et marais",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Uniquement à la plage aménagée en été (payante, dès 2 €, surveillée 12 h à 18 h — voir notre fiche plage). Hors juillet-août, l'accès au site est libre. L'eau y est classée Bonne au classement départemental 2025.",
+          "q": "Peut-on s'y baigner ?"
+        },
+        {
+          "a": "Oui : la fédération de pêche indique que la pêche (2ᵉ catégorie, AAPPMA de Yenne) se pratique sur les deux lacs — gardon, chevesne, carpe, tanche, perche, brochet, black-bass et truite arc-en-ciel. Parcours labellisé « Famille », pontons dont un PMR.",
+          "q": "Peut-on pêcher sur les deux lacs ?"
+        },
+        {
+          "a": "Deux boucles balisées depuis le parking de la base : 6,9 km (~3 h, facile, +146 m, belvédère sur les lacs) et 13,2 km (~4 h 30, modéré, +600 m, belvédère de Monthoux et vignoble).",
+          "q": "Quelles balades ?"
+        },
+        {
+          "a": "« Depuis 1990, les lacs et marais sont protégés par un arrêté préfectoral » ; leur gestion est confiée au Conservatoire d'espaces naturels de Savoie, et les prairies humides restaurées abritent une flore et une faune précieuses.",
+          "q": "Pourquoi les marais sont-ils importants ?"
+        }
+      ],
+      "hero": {
+        "badge": "Site naturel · Accès libre",
+        "lead": "Deux petits lacs d'origine glaciaire au pied de la Dent du Chat, entourés de marais protégés depuis 1990 — un site de pêche en famille, de balades à belvédères et d'observation nature, libre d'accès hors de la plage d'été."
+      },
+      "hero_alt": "Zone humide et roselières aux lacs de Saint-Jean-de-Chevelu, Savoie",
+      "how_to_get_there": {
+        "bike": "Circuit VTT n°16 « Les Lacs de Chevelu » au départ de Yenne.",
+        "car": "Entre Yenne et le col du Chat par la D1504 ; parking de la base de loisirs au bord des lacs.",
+        "public_transport": null
+      },
+      "meta_description": "Deux lacs glaciaires au pied de la Dent du Chat : marais protégés depuis 1990, pêche labellisée Famille sur les deux lacs, boucles à belvédères. Accès libre hors plage d'été.",
+      "meta_title": "Lacs de Saint-Jean-de-Chevelu · pêche, marais, belvédères",
+      "name": "Lacs de Saint-Jean-de-Chevelu",
+      "name_alternates": [
+        "Lacs et marais de Saint-Jean-de-Chevelu"
+      ],
+      "practical_info": [
+        {
+          "k": "Les deux lacs",
+          "v": "6,4 et 4,4 ha, 8 m de profondeur max (OT) — 6,6 et 4,6 ha selon Génération Pêche"
+        },
+        {
+          "k": "Protection",
+          "v": "Marais protégés par arrêté préfectoral depuis 1990 ; gestion CEN Savoie"
+        },
+        {
+          "k": "Pêche",
+          "v": "2ᵉ catégorie, AAPPMA de Yenne, parcours labellisé Famille, cartes à Yenne et au village"
+        },
+        {
+          "k": "Balades",
+          "v": "6,9 km (~3 h, +146 m) et 13,2 km (~4 h 30, +600 m), départ parking de la base (alt. 304 m)"
+        },
+        {
+          "k": "Accès",
+          "v": "Libre toute l'année ; « accès au lac libre hors juillet août » (la plage d'été est payante)"
+        }
+      ],
+      "schema_amenities": [
+        "Parcours de pêche Famille",
+        "Sentiers balisés"
+      ],
+      "when_to_visit": "<p>Toute l'année pour les deux boucles balisées au départ du parking de la base (304 m) : « Lacs et Marais » (6,9 km, environ 3 h, +146 m, avec un belvédère dominant le bassin lacustre) et le « Tour des Lacs » (13,2 km, environ 4 h 30, +600 m, par le hameau et le vignoble de Monthoux). Sur les chiens, les sources se contredisent : « acceptés en laisse » sur les itinéraires de randonnée, « non acceptés » sur la fiche de la plage — nous reportons les deux.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Corso 'Famille' su entrambi i laghi: pontoni attrezzati (una sedia a rotelle-accessibile), roach, carpa, pike, basso nero, trota arcobaleno.",
+          "tag": "Etichettatura",
+          "title": "Pesca in famiglia"
+        },
+        {
+          "description": "Un facile 6,9 km con un belvedere affacciato sul bacino del lago, dal parcheggio per il tempo libero.",
+          "tag": "3 h",
+          "title": "Ciclo di laghi e marmo"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>laghi di Saint-Jean-de-Chevelu</strong> sono due laghi piccoli <strong>di origine glaciale</strong>, 'nato del crollo di parte della montagna Dent du Chat' dopo che i ghiacciai Würm si ritirarono. Il foglio di marcia dell'ufficio turistico dà loro 6.4 e 4.4 ha con una profondità massima di 8 m; la federazione nazionale di pesca scrive 6.6 e 4.6 ha — Facciamo rapporto a entrambi. Situati tra la montagna di Lierre e la Mont de la Charvaz, vicino ai vigneti di Jongieux, sono costeggiati da <strong>paludi protetti dal decreto prefettivo dal 1990</strong>, gestito dalla Conservatoire d'espaces naturels de Savoie.</p><p>Pesca categoria 2, gestito da Yenne AAPPMA — è praticato <strong>su entrambi i laghi</strong>, su un corso 'Famille'-labelled con pontoni, uno di loro accessibile alla sedia a rotelle. Il nuoto esiste solo alla spiaggia estiva (pagata, pagina separata); 'l'accesso al lago è gratuito fuori luglio-agosto'. Nessuna fonte ufficiale afferma quale dei due laghi trasporta la spiaggia — non indoviniamo.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis (oltre la spiaggia estiva)",
+        "best_season": null,
+        "commune": "Saint-Jean-de-Chevelu",
+        "dogs": "contraddizione Source: al guinzaglio (camere) / non accettato (beach)",
+        "parking": null,
+        "stroller": null,
+        "type": "Laghi naturali e paludi",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Only at the laid-out beach in summer (paid, from €2, supervised 12 to 6 pm — vedi la nostra pagina sulla spiaggia). Fuori luglio-agosto, l'accesso al sito è gratuito. L'acqua è valutato Bonne nelle classifiche di reparto 2025.",
+          "q": "Puoi nuotare lì?"
+        },
+        {
+          "a": "Sì. la federazione di pesca afferma che la pesca (categoria 2, Yenne AAPPMA) è praticata su entrambi i laghi — roach, chub, carp, tench, perch, pike, basso nero e trota arcobaleno. 'Famille'-labelled course, pontoni tra cui una sedia a rotelle-accessibile.",
+          "q": "Puoi pescare entrambi i laghi?"
+        },
+        {
+          "a": "Due passanti dal parcheggio base: 6.9 km (~3 h, facile, +146 m, belvedere sui laghi) e 13.2 km (~4 h 30, moderata, +600 m, Monthoux belvedere e vigneti).",
+          "q": "Quali passeggiate?"
+        },
+        {
+          "a": "Dal 1990 i laghi e le paludi sono stati protetti dal decreto prefettivo; la loro gestione è affidata agli Conservatoire d'espaces naturels de Savoie, e i prati umidi restaurati riparano la flora e la fauna preziosi.",
+          "q": "Perche' le paludi sono importanti?"
+        }
+      ],
+      "hero": {
+        "badge": "Sito naturale · Accesso libero",
+        "lead": "Due piccoli laghi glaciali ai piedi dell'Dent du Chat, anelli da paludi protetti dal 1990 — un luogo per la pesca di famiglia, passeggiate a vista e osservazione della natura, liberamente accessibile al di fuori della spiaggia estiva."
+      },
+      "hero_alt": "Wetland e letti a canna ai laghi Saint-Jean-de-Chevelu, Savoie",
+      "how_to_get_there": {
+        "bike": "Circuito MTB n. 16 'Les Lacs de Chevelu' di Yenne.",
+        "car": "Tra Yenne e il Col du Chat sul D1504; Parcheggio vicino ai laghi.",
+        "public_transport": null
+      },
+      "meta_description": "Due laghi glaciali ai piedi della Dent du Chat: paludi protetti dal 1990, 'Famille'-labelled pesca su entrambi i laghi, occhiaie. Accesso gratuito al di fuori della spiaggia estiva.",
+      "meta_title": "Lacs de Saint-Jean-de-Chevelu · pesca, paludi, punti di vista",
+      "name": "Lacs de Saint-Jean-de-Chevelu",
+      "name_alternates": [
+        "Lakes and marshes of Saint-Jean-de-Chevelu"
+      ],
+      "practical_info": [
+        {
+          "k": "I due laghi",
+          "v": "6.4 e 4.4 ha, 8 m di profondità massima (ufficio turistico) — 6.6 and 4.6 ha per Génération Pêche"
+        },
+        {
+          "k": "Protezione",
+          "v": "Marsh protetti dal decreto prefettivo dal 1990; gestito da CEN Savoie"
+        },
+        {
+          "k": "Pesca",
+          "v": "Categoria 2, Yenne AAPPMA, corso 'Famille'-labelled, permessi in Yenne e il villaggio"
+        },
+        {
+          "k": "Passeggiate",
+          "v": "6.9 km (~3 h, +146 m) e 13.2 km (~4 h 30, +600 m), dal parcheggio base (alt. 304 m)"
+        },
+        {
+          "k": "Accesso",
+          "v": "Gratis tutto l'anno; 'l'accesso al lago è gratuito al di fuori di luglio-agosto' (le tariffe di spiaggia estiva)"
+        }
+      ],
+      "schema_amenities": [
+        "Corso di pesca per famiglie",
+        "Percorsi segnalati"
+      ],
+      "when_to_visit": "<p>Tutto l'anno per i due circuiti segnalati dal parcheggio base (304 m): 'Lakes and Marshes' (6.9 km, circa 3 h, +146 m, con belvedere affacciato sul bacino del lago) e il 'Tour of the Lakes' (13,2 km, circa 4 h 30, +600 m, attraverso la frazione e i vigneti di Monthoux). Su cani, le fonti si contraddicono a vicenda: «accettata al guinzaglio» sulle rotte a piedi, «non accettata» sulla pagina della spiaggia — Facciamo rapporto a entrambi.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "'Famille' koers op beide meren: uitgeruste pontons (één rolstoel toegankelijk), kakkerlak, karper, snoek, zwarte bas, regenboogforel.",
+          "tag": "Label",
+          "title": "Gezinsvisserij"
+        },
+        {
+          "description": "Een gemakkelijke 6,9 km met een belvedere met uitzicht op het meerbekken, van de recreatie-base parkeerplaats.",
+          "tag": "3 uur",
+          "title": "meren en moerassenlus"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>meren van Saint-Jean-de-Chevelu</strong> zijn twee kleine meren <strong>van glaciale oorsprong</strong>, 'geboren uit de ineenstorting van een deel van de Dent du Chat berg' nadat de Würm gletsjers zich hadden teruggetrokken. Het wandelblad van het VVV geeft ze 6,4 en 4,4 ha met een maximale diepte van 8 m; de nationale visserijfederatie schrijft 6.6 en 4.6 ha We rapporteren beide. Gelegen tussen de Lierre berg en de Mont de la Charvaz, vlakbij de Jongieux wijngaarden, zijn ze omgeven door <strong>moerassen beschermd door prefectorale decreet sinds 1990</strong>, beheerd door de Conservatoire d'espaces naturels de Savoie.</p><p>Visserij categorie 2, uitgevoerd door de Yenne AAPPMA wordt beoefend <strong>op beide meren</strong>, op een 'Famille' gelabelde cursus met pontons, een van hen rolstoel-toegankelijk. Zwemmen bestaat alleen op het aangelegde zomerstrand (betaald, aparte pagina); 'De toegang tot het meer is gratis buiten juli-augustus'. Geen officiële bron geeft aan welke van de twee meren het strand draagt We raden het niet.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis (buiten het zomerstrand)",
+        "best_season": null,
+        "commune": "Saint-Jean-de-Chevelu",
+        "dogs": "Tegenstrijdigheid: op een lijn (wandelen) / niet geaccepteerd (strand)",
+        "parking": null,
+        "stroller": null,
+        "type": "Natuurlijke meren en moerassen",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Only at the laid-out beach in summer (paid, from €2, supervised 12 to 6 pm — zie onze strandpagina). Buiten juli-augustus is de toegang tot de site gratis. Het water staat bekend als Bonne in de departementale ranglijst van 2025.",
+          "q": "Kun je daar zwemmen?"
+        },
+        {
+          "a": "Ja: de visserijfederatie verklaart dat de visserij (categorie 2, Yenne AAPPMA) op beide meren wordt beoefend Roach, chub, karper, tench, baars, snoek, zwarte bas en regenboogforel. 'Famille' gelabelde koers, pontons inclusief één rolstoeltoegankelijk.",
+          "q": "Kun je beide meren bevissen?"
+        },
+        {
+          "a": "Twee waymarked loops van de basis parkeerplaats: 6,9 km (~3 uur, gemakkelijk, +146 m, Belvedere over de meren) en 13,2 km (~4 uur 30, matig, +600 m, Monthoux Belvedere en wijngaarden).",
+          "q": "Welke loopt er?"
+        },
+        {
+          "a": "\"Sinds 1990 zijn de meren en moerassen beschermd door een prefectoraal decreet.\" hun beheer is toevertrouwd aan de Conservatoire d'espaces naturels de Savoie, en de gerestaureerde natte weiden beschutten kostbare flora en fauna.",
+          "q": "Wat doen de moerassen ertoe?"
+        }
+      ],
+      "hero": {
+        "badge": "Natuurlijke site · Gratis toegang",
+        "lead": "Twee kleine ijsmeren aan de voet van de Dent du Chat, omringd door moerassen die sinds 1990 beschermd zijn een plek voor familie vissen, uitkijkpunt wandelingen en natuur kijken, vrij toegankelijk buiten het zomerstrand."
+      },
+      "hero_alt": "Wetland en rietbedden bij de Saint-Jean-de-Chevelu meren, Savoie",
+      "how_to_get_there": {
+        "bike": "MTB circuit nee. 16 'Les Lacs de Chevelu' van Yenne.",
+        "car": "Tussen Yenne en de Col du Chat op de D1504; recreatie-base parkeerplaats bij de meren.",
+        "public_transport": null
+      },
+      "meta_description": "Twee ijsmeren aan de voet van de Dent du Chat: Kwelders beschermd sinds 1990, 'Famille' gelabeld vissen op beide meren, uitzichtslussen. Gratis toegang buiten het zomerstrand.",
+      "meta_title": "Lacs de Saint-Jean-de-Chevelu · vissen, moerassen, gezichtspunten",
+      "name": "Lacs de Saint-Jean-de-Chevelu",
+      "name_alternates": [
+        "Lakes and marshes of Saint-Jean-de-Chevelu"
+      ],
+      "practical_info": [
+        {
+          "k": "De twee meren",
+          "v": "6,4 en 4,4 ha, max. 8 m diepte (toeristenkantoor)  6.6 and 4.6 ha per Génération Pêche"
+        },
+        {
+          "k": "Bescherming",
+          "v": "Marsen beschermd door prefectoraal decreet sinds 1990; beheerd door CEN Savoie"
+        },
+        {
+          "k": "Visserij",
+          "v": "Categorie 2, Yenne AAPPMA, 'Famille' gelabelde cursus, maakt het mogelijk in Yenne en het dorp"
+        },
+        {
+          "k": "Wandelingen",
+          "v": "6,9 km (~3 uur, +146 m) en 13,2 km (~4 uur 30, +600 m), van de parkeerplaats op de basis (alt. 304 m)"
+        },
+        {
+          "k": "Toegang",
+          "v": "Het hele jaar gratis; \"De toegang tot het meer is gratis buiten juli-augustus\" (de zomer strand kosten)"
+        }
+      ],
+      "schema_amenities": [
+        "Familievisserijcursus",
+        "Waymarked trails"
+      ],
+      "when_to_visit": "<p>Het hele jaar voor de twee bewegwijzerde loops vanaf de basisparking (304 m): 'Lakes and Marshes' (6,9 km, ongeveer 3 uur, +146 m, met een belvedere met uitzicht op het meerbekken) en de 'Tour of the Lakes' (13.2 km, ongeveer 4 h 30, +600 m, via het gehucht en wijngaarden van Monthoux). Bij honden spreken de bronnen elkaar tegen: 'Geaccepteerd aan de lijn' op de wandelroutes, 'niet geaccepteerd' op de strandpagina  We rapporteren beide.</p>"
+    }
+  },
+  "latitude": 45.69338,
+  "longitude": 5.825286,
+  "official_site_url": "https://www.explore-savoie.com/sites-naturels/lacs-et-marais-de-saint-jean-de-chevelu-5216067/",
+  "partners": [],
+  "postal_code": "73170",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-17, FR pages only (fiches OT de Yenne sur explore-savoie, Fédération de pêche de Savoie, CC de Yenne). Deux lacs d'origine glaciaire nés de l'affaissement d'une partie de la montagne de la Dent du Chat ; 6,4 et 4,4 ha, profondeur max 8 m (fiche rando OT) — Génération Pêche dit 6,6 et 4,6 ha : contradiction reportée. Marais protégés par arrêté préfectoral depuis 1990, gestion CEN Savoie. Pêche 2e catégorie sur LES DEUX lacs, AAPPMA de Yenne, parcours labellisé Famille, pontons dont un PMR. Deux boucles balisées depuis le parking de la base (304 m) : 6,9 km/~3 h/+146 m et 13,2 km/~4 h 30/+600 m. Baignade uniquement à la plage payante en été (fiche séparée) ; « accès au lac libre hors juillet août ». Chiens : « acceptés en laisse » sur les itinéraires vs « non acceptés » sur la fiche plage — contradiction reportée. Aucune source ne précise quel lac porte la plage. ARS 2025 : Bonne (listing départemental).",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "lacs-de-saint-jean-de-chevelu",
+  "sources": [
+    "https://www.explore-savoie.com/sites-naturels/lacs-et-marais-de-saint-jean-de-chevelu-5216067/",
+    "https://www.explore-savoie.com/balades-et-randonnees/lacs-et-marais-de-st-jean-de-chevelu-107983/",
+    "https://www.explore-savoie.com/balades-et-randonnees/tour-des-lacs-de-st-jean-de-chevelu-117990/",
+    "https://www.savoiepeche.com/saint-jean-de-chevelu/parcours-de-peche-famille-des-lacs-de-st-jean-de-chevelu",
+    "https://ccyenne.fr/tourisme/"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "IDENTITY — aucune source officielle consultée ne précise lequel des deux lacs porte la plage aménagée ; les deux fiches (lacs / plage) restent volontairement distinctes."
+  ]
+}

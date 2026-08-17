@@ -1,0 +1,571 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-17",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "lac",
+  "commune": "La Thuile",
+  "date_modified_human": "17 août 2026",
+  "date_published_human": "17 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-17",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-famille-balade.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Eine einfache 2 km Schleife (+39 m) vom Dorfhaus mit Aussichtspunkten über den Bauges.",
+          "tag": "45 min.",
+          "title": "Seeschleife"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>Lac de La Thuile</strong> sitzt in einem Bauges-Tal über der Combe de Savoie: Dieser kleine Alpensee liegt auf 874 m Höhe in einer idyllischen Umgebung. Mit Schilf gesäumt, hat es seinen Charme und seine wilde Seite bewahrt. das Rathaus und das Tourismusblatt vereinbaren diese Worte, obwohl das gleiche Chambéry Montagnes Blatt 880 m in seiner Kopfzeile zeigt; Wir berichten über beide Werte. Etwa 5 Hektar, bis zu 12 m tief, im regionalen Naturpark Massif des Bauges; Das Gelände, ein klassifizierter sensibler Naturbereich, ist Fußgängern vorbehalten.</p><p>am <strong>Schwimmen</strong>, sagen die Quellen nicht dasselbe, und wir vermitteln nicht: In den Tourismusblättern heißt es: \"Schwimmen ist dort verboten\", während das Rathaus schreibt: \"Schwimmen ist weder angelegt noch überwacht.\" Es bleibt auf eigenes Risiko des Benutzers toleriert, ist aber in Frostzeiten strengstens verboten. Die gleiche Vorsicht gilt für Hunde: \"an der Leine gehalten\" pro Rathaus, \"nicht akzeptiert\" pro Tourismusblatt.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "frei",
+        "best_season": "Frühling und Herbst (Tourist-Office-Beratung)",
+        "commune": "La Thuile",
+        "dogs": "Quelle: Widerspruch: an der Leine (Rathaus) / nicht akzeptiert (Tourismusblatt)",
+        "parking": null,
+        "stroller": null,
+        "type": "Alpensee",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Die Quellen widersprechen einander, und wir zitieren sie so, wie sie stehen: \"Schwimmen ist dort verboten\" (Tourismusblätter); \"Es bleibt auf eigenes Risiko des Benutzers toleriert, ist aber in Frostzeiten strengstens verboten\" (Rathaus). So oder so ist es weder angelegt noch überwacht.",
+          "q": "Ist Schwimmen erlaubt?"
+        },
+        {
+          "a": "Etwa 45 Minuten: eine einfache 2 km Schleife (+39 m) vom Parkhaus mit Blick auf das Bauges-Massiv. Gelegentlich feuchte Abschnitte.",
+          "q": "Wie lang ist die Lake Loop?"
+        },
+        {
+          "a": "Ja, vom 1. Mai bis 15. November, in einer definierten Zone, mit der lokalen Genehmigung, die im Rathaus oder im Auberge du Lac verkauft wird — Der See ist ein privater Raum, der als deklariertes Fischreservat bestimmt ist.",
+          "q": "Kannst du fischen?"
+        },
+        {
+          "a": "Ja: als sensibler Naturbereich eingestuft, der Fußgängern vorbehalten ist, mit markierten Wegen, die respektiert werden müssen. Parken ist im Dorf begrenzt (zwei angelegte Bereiche).",
+          "q": "Ist die Website geschützt?"
+        }
+      ],
+      "hero": {
+        "badge": "Alpensee · Freier Zugang",
+        "lead": "Auf 874 m in der unteren Bauges, ein kleines Schilf gesäumten See \", der seinen Charme und seine wilde Seite behalten hat\" — eine einfache 45-Minuten-Schleife, reguliertes Fischen und eine Schwimmfrage, bei der die Quellen anderer Meinung sind."
+      },
+      "hero_alt": "Familienspaziergang um die Lac de La Thuile, Bauges, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Von Chambéry oder der Combe de Savoie auf der D21 zum La Thuile Chef-Leu; begrenzte Parkplätze (zwei angelegte Bereiche).",
+        "public_transport": null
+      },
+      "meta_description": "Der Lac de La Thuile, ein kleiner Alpensee auf 874 m im Bauges: einfache 45-Minuten-Schleife, Angeln 1. Mai bis 15. November, Sensible Natural Area. Schwimmen: widersprüchliche Quellen, zitiert, wie sie stehen.",
+      "meta_title": "Lac de La Thuile · 45-Minuten-Schleife, Bauges",
+      "name": "Lac de La Thuile",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Höhe",
+          "v": "874 m (Rathaus, Apidae sheet) — 880 m auf dem Chambéry Montagnes Blatt"
+        },
+        {
+          "k": "Abmessungen",
+          "v": "≈ 5 ha · bis zu 12 m Tiefe"
+        },
+        {
+          "k": "Seezunge",
+          "v": "2 km · +39 m · ~45 min · vom Parkplatz der Dorfhalle"
+        },
+        {
+          "k": "Fischerei",
+          "v": "1. Mai bis 15. November, abgegrenztes Gebiet; Genehmigung im Rathaus oder im Auberge du Lac"
+        },
+        {
+          "k": "Schutz",
+          "v": "Sensibler Naturraum · nur Fußgänger · Regionaler Naturpark Massif des Bauges"
+        },
+        {
+          "k": "Kontakt",
+          "v": "La Thuile Rathaus · +33 4 79 84 73 23"
+        }
+      ],
+      "schema_amenities": [
+        "Lake-loop trail",
+        "Picknickbereich"
+      ],
+      "when_to_visit": "<p>\"Bevorzugen Sie die friedliche Stimmung von Frühling und Herbst\", rät Chambéry Montagnes. Die <strong>Seezunge</strong> — 2 km, +39 m, etwa 45 Minuten — beginnt vom Parkplatz in der Dorfhalle im Chef-Leu; gelegentlich nasse Abschnitte, geeignete Schuhe empfohlen. <strong>Fischerei</strong> ist vom 1. Mai bis 15. November in einer definierten Zone erlaubt, mit der lokalen Genehmigung, die im Rathaus oder im Auberge du Lac verkauft wird: Der See ist \"ein privater Raum, dessen ursprünglicher Zweck darin besteht, ein in der Präfektur deklariertes Fischreservat zu sein\".</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "An easy 2 km loop (+39 m) from the village hall, with viewpoints over the Bauges.",
+          "tag": "45 min",
+          "title": "The lake loop"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Lac de La Thuile</strong> sits in a Bauges vale above the Combe de Savoie: 'this small alpine lake lies at 874 m altitude in an idyllic setting. Fringed with reeds, it has kept its charm and its wild side' — the town hall and the tourism sheet agree on those words, though the same Chambéry Montagnes sheet displays 880 m in its header; we report both values. About 5 hectares, up to 12 m deep, within the Massif des Bauges regional nature park; the site, a classified Sensitive Natural Area, is reserved for pedestrians.</p><p>On <strong>swimming</strong>, the sources do not say the same thing, and we do not arbitrate: the tourism sheets write 'swimming is forbidden there', while the town hall writes 'swimming is neither laid out nor supervised. It remains tolerated at users' own risk, but is strictly forbidden in periods of frost'. The same caution applies to dogs: 'kept on a leash' per the town hall, 'not accepted' per the tourism sheet.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free",
+        "best_season": "Spring and autumn (tourist-office advice)",
+        "commune": "La Thuile",
+        "dogs": "Sourced contradiction: on a leash (town hall) / not accepted (tourism sheet)",
+        "parking": null,
+        "stroller": null,
+        "type": "Alpine lake",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "The sources contradict each other, and we quote them as they stand: 'swimming is forbidden there' (tourism sheets); 'it remains tolerated at users' own risk, but is strictly forbidden in periods of frost' (town hall). Either way it is neither laid out nor supervised.",
+          "q": "Is swimming allowed?"
+        },
+        {
+          "a": "About 45 minutes: an easy 2 km loop (+39 m) from the village-hall car park, with views over the Bauges massif. Occasionally wet sections.",
+          "q": "How long is the lake loop?"
+        },
+        {
+          "a": "Yes, from 1 May to 15 November, in a defined zone, with the local permit sold at the town hall or the Auberge du Lac — the lake is a private space intended as a declared fish reserve.",
+          "q": "Can you fish?"
+        },
+        {
+          "a": "Yes: classified as a Sensitive Natural Area, reserved for pedestrians, with waymarked paths that must be respected. Parking is limited in the village (two laid-out areas).",
+          "q": "Is the site protected?"
+        }
+      ],
+      "hero": {
+        "badge": "Alpine lake · Free access",
+        "lead": "At 874 m in the lower Bauges, a small reed-fringed lake 'that has kept its charm and its wild side' — an easy 45-minute loop, regulated fishing, and a swimming question on which the sources disagree."
+      },
+      "hero_alt": "Family walk around the Lac de La Thuile, Bauges, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "From Chambéry or the Combe de Savoie on the D21 to the La Thuile chef-lieu; limited parking (two laid-out areas).",
+        "public_transport": null
+      },
+      "meta_description": "The Lac de La Thuile, a small alpine lake at 874 m in the Bauges: easy 45-minute loop, fishing 1 May to 15 November, Sensitive Natural Area. Swimming: contradictory sources, quoted as they stand.",
+      "meta_title": "Lac de La Thuile · 45-min loop, Bauges",
+      "name": "Lac de La Thuile",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Altitude",
+          "v": "874 m (town hall, Apidae sheet) — 880 m displayed atop the Chambéry Montagnes sheet"
+        },
+        {
+          "k": "Dimensions",
+          "v": "≈ 5 ha · up to 12 m deep"
+        },
+        {
+          "k": "Lake loop",
+          "v": "2 km · +39 m · ~45 min · from the village-hall car park"
+        },
+        {
+          "k": "Fishing",
+          "v": "1 May to 15 November, defined zone; permit at the town hall or the Auberge du Lac"
+        },
+        {
+          "k": "Protection",
+          "v": "Sensitive Natural Area · pedestrians only · Massif des Bauges regional nature park"
+        },
+        {
+          "k": "Contact",
+          "v": "La Thuile town hall · +33 4 79 84 73 23"
+        }
+      ],
+      "schema_amenities": [
+        "Lake-loop trail",
+        "Picnic area"
+      ],
+      "when_to_visit": "<p>'Prefer the peaceful mood of spring and autumn', advises Chambéry Montagnes. The <strong>lake loop</strong> — 2 km, +39 m, about 45 minutes — starts from the village-hall car park in the chef-lieu; occasionally wet sections, suitable shoes recommended. <strong>Fishing</strong> is allowed from 1 May to 15 November in a defined zone, with the local permit sold at the town hall or the Auberge du Lac: the lake is 'a private space whose initial purpose is to be a fish reserve declared at the Préfecture'.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "Un bucle fácil de 2 km (+39 m) del ayuntamiento, con miradores sobre el Bauges.",
+          "tag": "45 min",
+          "title": "El lazo del lago"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>Lac de La Thuile</strong> se encuentra en un Bauges vale por encima del Combe de Savoie: 'este pequeño lago alpino se encuentra a 874 m de altitud en un entorno idílico. Con cañas, ha mantenido su encanto y su lado salvaje' — el ayuntamiento y la hoja de turismo coinciden en esas palabras, aunque la misma hoja de Montagnes Chambéry muestra 880 m en su cabecera; reportamos ambos valores. Cerca de 5 hectáreas, hasta 12 m de profundidad, dentro del parque natural regional Massif des Bauges; el sitio, un área natural clasificada Sensitive, está reservado para peatones.</p><p>On <strong>natación</strong>, las fuentes no dicen lo mismo, y no arbitramos: las fichas turísticas escriben 'swimming está prohibido allí', mientras que el ayuntamiento escribe 'swimming no está puesto ni supervisado. Sigue siendo tolerado a riesgo propio de los usuarios, pero está estrictamente prohibido en períodos de helada'. La misma precaución se aplica a los perros: 'tomada en una correa' por el ayuntamiento, 'no aceptada' por la hoja de turismo.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": "Primavera y otoño (consejería turística)",
+        "commune": "La Thuile",
+        "dogs": "contradicción fuente: sobre una correa (puerta municipal) / no aceptada (papel de turismo)",
+        "parking": null,
+        "stroller": null,
+        "type": "Lago alpino",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Las fuentes se contradicen, y las citamos como están: \"El recorte está prohibido allí\" (sábanas de turismo); \"se mantiene tolerado en el propio riesgo de los usuarios, pero está estrictamente prohibido en los períodos de heladas\" (puerta municipal). De cualquier manera, no está expuesta ni supervisada.",
+          "q": "¿Está permitido nadar?"
+        },
+        {
+          "a": "Unos 45 minutos: un bucle fácil de 2 km (+39 m) del parque de coches aldea-hall, con vistas al macizo Bauges. Ocasionalmente secciones húmedas.",
+          "q": "¿Cuánto tiempo lleva el lazo del lago?"
+        },
+        {
+          "a": "Sí, del 1 de mayo al 15 de noviembre, en una zona definida, con el permiso local vendido en el ayuntamiento o en el Auberge du Lac — el lago es un espacio privado destinado como reserva de pescado declarada.",
+          "q": "¿Puedes pescar?"
+        },
+        {
+          "a": "Sí: clasificado como Área Natural Sensitiva, reservada para peatones, con caminos marcados que deben ser respetados. El aparcamiento está limitado en el pueblo (dos zonas desocupadas).",
+          "q": "¿Está protegido el sitio?"
+        }
+      ],
+      "hero": {
+        "badge": "Lago alpino · Acceso libre",
+        "lead": "A 874 m en el Bauges inferior, un pequeño lago de caña que ha mantenido su encanto y su lado salvaje — un bucle fácil de 45 minutos, pesca regulada y una cuestión de natación en la que las fuentes discrepan."
+      },
+      "hero_alt": "Paseo en familia por la Lac de La Thuile, Bauges, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Desde Chambéry o el Combe de Savoie en el D21 al chef-lieu La Thuile; estacionamiento limitado (dos zonas desocupadas).",
+        "public_transport": null
+      },
+      "meta_description": "El Lac de La Thuile, un pequeño lago alpino a 874 m en el Bauges: fácil bucle de 45 minutos, pesca del 1 de mayo al 15 de noviembre, zona natural sensible. Nadando: fuentes contradictorias, citadas como están.",
+      "meta_title": "Lac de La Thuile · bucle de 45 minutos, Bauges",
+      "name": "Lac de La Thuile",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Altitud",
+          "v": "874 m (pueblo de la ciudad, hoja de Apidae) — 880 m de la hoja de Montagnes Chambéry"
+        },
+        {
+          "k": "Dimensiones",
+          "v": "5 ha · hasta 12 m de profundidad"
+        },
+        {
+          "k": "Lake loop",
+          "v": "2 km · +39 m · ~45 min · desde el aparcamiento pueblo-hall"
+        },
+        {
+          "k": "Pesca",
+          "v": "1o de mayo a 15 de noviembre, zona definida; permiso en el ayuntamiento o en el Auberge du Lac"
+        },
+        {
+          "k": "Protección",
+          "v": "Espacio Natural Sensitivo · Solo peatones · Parque Natural Regional Massif des Bauges"
+        },
+        {
+          "k": "Contacto",
+          "v": "Ayuntamiento de La Thuile · +33 4 79 84 73 23"
+        }
+      ],
+      "schema_amenities": [
+        "Sendero Lake-loop",
+        "Zona de picnic"
+      ],
+      "when_to_visit": "<p>\"Prefieren el ambiente pacífico de primavera y otoño\", aconseja Chambéry Montagnes. El <strong>langosta</strong> — 2 km, +39 m, unos 45 minutos — comienza desde el parque de coches de aldea en el chef-lieu; ocasionalmente secciones húmedas, zapatos adecuados recomendados. <strong>Pesca</strong> está permitido del 1 de mayo al 15 de noviembre en una zona definida, con el permiso local vendido en el ayuntamiento o el Auberge du Lac: el lago es 'un espacio privado cuyo propósito inicial es ser una reserva de pescado declarada en la Préfectura'.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Boucle facile de 2 km (+39 m) au départ de la salle des fêtes, points de vue sur les Bauges.",
+          "tag": "45 min",
+          "title": "Le tour du lac"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Le <strong>lac de La Thuile</strong> occupe un vallon des Bauges au-dessus de la combe de Savoie : « ce petit lac alpin est situé à 874 m d'altitude dans un cadre idyllique. Bordé de roseaux, il a su garder son charme et son côté sauvage » — la mairie et la fiche touristique s'accordent sur ces mots, la même fiche Chambéry Montagnes affichant toutefois 880 m en tête de page ; nous reportons les deux valeurs. Environ 5 hectares, jusqu'à 12 m de profondeur, dans le Parc naturel régional du Massif des Bauges ; le site, classé Espace Naturel Sensible, est réservé aux piétons.</p><p>Sur la <strong>baignade</strong>, les sources ne disent pas la même chose, et nous ne tranchons pas : les fiches touristiques écrivent « la baignade y est interdite », quand la mairie écrit « la baignade n'est pas aménagée ni surveillée. Elle reste tolérée aux risques et périls des usagers, mais est strictement interdite en période de gel ». Même prudence sur les chiens : « tenus en laisse » selon la mairie, « non acceptés » selon la fiche touristique.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuit",
+        "best_season": "Printemps et automne (conseil de l'OT)",
+        "commune": "La Thuile",
+        "dogs": "Contradiction sourcée : en laisse (mairie) / non acceptés (OT)",
+        "parking": null,
+        "stroller": null,
+        "type": "Lac alpin",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Les sources se contredisent, et nous les citons telles quelles : « la baignade y est interdite » (fiches touristiques) ; « elle reste tolérée aux risques et périls des usagers, mais est strictement interdite en période de gel » (mairie). Elle n'est en tout cas ni aménagée ni surveillée.",
+          "q": "La baignade est-elle autorisée ?"
+        },
+        {
+          "a": "Environ 45 minutes : une boucle facile de 2 km (+39 m) au départ du parking de la salle des fêtes, avec des vues sur le massif des Bauges. Sections parfois humides.",
+          "q": "Combien de temps pour le tour du lac ?"
+        },
+        {
+          "a": "Oui, du 1er mai au 15 novembre, dans une zone bien définie, avec la carte de pêche locale vendue en mairie ou à l'Auberge du Lac — le lac est un espace privé à vocation de réserve piscicole.",
+          "q": "Peut-on pêcher ?"
+        },
+        {
+          "a": "Oui : classé Espace Naturel Sensible, réservé aux piétons, avec des chemins balisés à respecter impérativement. Le stationnement est limité au village (deux zones aménagées).",
+          "q": "Le site est-il protégé ?"
+        }
+      ],
+      "hero": {
+        "badge": "Lac alpin · Accès libre",
+        "lead": "À 874 m dans les Bauges piémontaises, un petit lac bordé de roseaux « qui a su garder son charme et son côté sauvage » — tour facile en 45 minutes, pêche réglementée, et une baignade sur laquelle les sources ne disent pas la même chose."
+      },
+      "hero_alt": "Balade en famille autour du lac de La Thuile, Bauges, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Depuis Chambéry ou la combe de Savoie par la D21 jusqu'au chef-lieu de La Thuile ; stationnement limité (deux zones aménagées).",
+        "public_transport": null
+      },
+      "meta_description": "Le lac de La Thuile, petit lac alpin à 874 m dans les Bauges : tour facile en 45 minutes, pêche du 1er mai au 15 novembre, Espace Naturel Sensible. Baignade : sources contradictoires, citées telles quelles.",
+      "meta_title": "Lac de La Thuile · tour en 45 min, Bauges",
+      "name": "Lac de La Thuile",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Altitude",
+          "v": "874 m (mairie, fiche Apidae) — 880 m affiché en tête de la fiche Chambéry Montagnes"
+        },
+        {
+          "k": "Dimensions",
+          "v": "≈ 5 ha · jusqu'à 12 m de profondeur"
+        },
+        {
+          "k": "Tour du lac",
+          "v": "2 km · +39 m · ~45 min · départ parking de la salle des fêtes"
+        },
+        {
+          "k": "Pêche",
+          "v": "Du 1er mai au 15 novembre, zone définie ; carte en mairie ou à l'Auberge du Lac"
+        },
+        {
+          "k": "Protection",
+          "v": "Espace Naturel Sensible · piétons uniquement · PNR du Massif des Bauges"
+        },
+        {
+          "k": "Contact",
+          "v": "Mairie de La Thuile · 04 79 84 73 23"
+        }
+      ],
+      "schema_amenities": [
+        "Sentier du tour du lac",
+        "Aire de pique-nique"
+      ],
+      "when_to_visit": "<p>« Préférez l'ambiance paisible du printemps et de l'automne », conseille Chambéry Montagnes. Le <strong>tour du lac</strong> — 2 km, +39 m, environ 45 minutes — part du parking de la salle des fêtes au chef-lieu ; sections parfois humides, chaussures adaptées recommandées. La <strong>pêche</strong> est autorisée du 1er mai au 15 novembre dans une zone définie, avec la carte vendue en mairie ou à l'Auberge du Lac : le lac est « un espace privé ayant pour destination initiale d'être une réserve piscicole déclarée en Préfecture ».</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Un facile ciclo di 2 km (+39 m) dalla sala del villaggio, con punti di vista sopra la Bauges.",
+          "tag": "45 min.",
+          "title": "L'anello del lago"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Lac de La Thuile</strong> si trova in una vale Bauges sopra il Combe de Savoie: Questo piccolo lago alpino si trova a 874 m di altitudine in un ambiente idilliaco. Frittata con canne, ha mantenuto il suo fascino e il suo lato selvaggio» — il municipio e il foglio di turismo concordano su quelle parole, anche se lo stesso foglio Chambéry Montagnes mostra 880 m nella sua intestazione; rapportiamo entrambi i valori. Circa 5 ettari, fino a 12 m di profondità, all'interno del parco naturale regionale Massif des Bauges; il sito, area naturale sensibile classificata, è riservato ai pedoni.</p><p>Su <strong>nuoto</strong>, le fonti non dicono la stessa cosa, e noi non arbitrariamo: i fogli di turismo scrivono 'swimming è vietato là', mentre il municipio scrive 'swimming non è né disposto né supervisionato. Resta tollerato a rischio degli utenti, ma è severamente vietato in periodi di gelo. La stessa cautela vale per i cani: 'preso al guinzaglio' per il municipio, 'non accettato' per il foglio di turismo.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": "Primavera e autunno (consiglio turistico-ufficio)",
+        "commune": "La Thuile",
+        "dogs": "contraddizione Source: al guinzaglio (sala comunale) / non accettato (foglio turismo)",
+        "parking": null,
+        "stroller": null,
+        "type": "lago alpino",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Le fonti si contraddicono a vicenda, e le citiamo come stanno: 'swimming è vietato là' (le schede del turismo); \"Rimane tollerato a rischio degli utenti, ma è severamente vietato in periodi di gelo\" (sala comunale). In entrambi i casi non è né stabilito né supervisionato.",
+          "q": "Il nuoto è consentito?"
+        },
+        {
+          "a": "Circa 45 minuti: un facile ciclo di 2 km (+39 m) dal parcheggio del villaggio-hall, con vista sul massiccio Bauges. Sezioni occasionalmente bagnate.",
+          "q": "Quanto dura il ciclo del lago?"
+        },
+        {
+          "a": "Sì, dal 1 maggio al 15 novembre, in una zona definita, con il permesso locale venduto al municipio o al Auberge du Lac — il lago è uno spazio privato destinato come riserva di pesce dichiarato.",
+          "q": "Puoi pescare?"
+        },
+        {
+          "a": "Sì. classificato come area naturale sensibile, riservata ai pedoni, con percorsi segnalati che devono essere rispettati. Il parcheggio è limitato nel villaggio (due aree dislocate).",
+          "q": "Il sito è protetto?"
+        }
+      ],
+      "hero": {
+        "badge": "Lago alpino · Accesso libero",
+        "lead": "A 874 m nella parte inferiore Bauges, un piccolo lago arrosto 'che ha mantenuto il suo fascino e il suo lato selvaggio' — un facile ciclo di 45 minuti, pesca regolamentata, e una domanda di nuoto su cui le fonti non sono d'accordo."
+      },
+      "hero_alt": "Passeggiata in famiglia intorno al Lac de La Thuile, Bauges, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Da Chambéry o il Combe de Savoie sul D21 al ambiente chef La Thuile; parcheggio limitato (due aree dislocate).",
+        "public_transport": null
+      },
+      "meta_description": "Lac de La Thuile, un piccolo lago alpino a 874 m nella Bauges: facile ciclo di 45 minuti, pesca dal 1 maggio al 15 novembre, area naturale sensibile. Nuoto: fonti contraddittorie, citate come stanno.",
+      "meta_title": "Lac de La Thuile · 45-min loop, Bauges",
+      "name": "Lac de La Thuile",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Altitudine",
+          "v": "874 m (sala comunale, foglio Apidae) — 880 m visualizzato in cima alla scheda Chambéry Montagnes"
+        },
+        {
+          "k": "Dimensioni",
+          "v": "≈ 5 ha · fino a 12 m di profondità"
+        },
+        {
+          "k": "Ciclo del lago",
+          "v": "2 km · +39 m · ~45 min · dal parcheggio del villaggio"
+        },
+        {
+          "k": "Pesca",
+          "v": "dal 1 maggio al 15 novembre, zona definita; permesso presso il municipio o Auberge du Lac"
+        },
+        {
+          "k": "Protezione",
+          "v": "Zona Naturale sensibile · solo pedoni · parco naturale regionale Massif des Bauges"
+        },
+        {
+          "k": "Contatto",
+          "v": "La Thuile municipio · +33 4 79 84 73 23"
+        }
+      ],
+      "schema_amenities": [
+        "Sentiero del lago",
+        "Area Picnic"
+      ],
+      "when_to_visit": "<p>'Preferire l'atmosfera tranquilla di primavera e autunno', consiglia Chambéry Montagnes. The <strong>ciclo del lago</strong> — 2 km, +39 m, circa 45 minuti — parte dal parcheggio del villaggio-hall in ambiente chef; occasionalmente sezioni bagnate, scarpe adatte consigliate. <strong>Pesca</strong> è consentito dal 1 maggio al 15 novembre in una zona definita, con il permesso locale venduto al municipio o Auberge du Lac: il lago è 'uno spazio privato il cui scopo iniziale è quello di essere una riserva di pesce dichiarata alla Préfecture'.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Een gemakkelijke 2 km lus (+39 m) van het dorpshuis, met uitzichtpunten over de Bauges.",
+          "tag": "45 min.",
+          "title": "De meerlus"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>Lac de La Thuile</strong> zit in een Bauges vale boven de Combe de Savoie: 'Dit kleine bergmeer ligt op 874 m hoogte in een idyllische omgeving. Gefringd met riet, het heeft zijn charme en zijn wilde kant behouden' het stadhuis en het toeristische blad zijn het eens over deze woorden, hoewel dezelfde Chambéry Montagnes blad toont 880 m in zijn kop; We rapporteren beide waarden. Ongeveer 5 hectare, tot 12 meter diep, binnen het regionale natuurpark Massif des Bauges; de site, een geclassificeerde gevoelige natuurgebied, is gereserveerd voor voetgangers.</p><p>Aan <strong>Zwemmen</strong>, de bronnen zeggen niet hetzelfde, en we niet willekeurig: De toeristische bladen schrijven 'zwemmen is daar verboden', terwijl het gemeentehuis schrijft 'zwemmen is niet aangelegd noch onder toezicht. Het blijft op eigen risico getolereerd, maar is strikt verboden in perioden van vorst.\" Dezelfde voorzichtigheid geldt voor honden: \"aan de lijn gehouden\" per gemeentehuis, 'niet geaccepteerd' per toeristische notitie.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Vrij",
+        "best_season": "Voorjaar en herfst (advies voor toeristen)",
+        "commune": "La Thuile",
+        "dogs": "Tegenstrijdigheid: aan de lijn (stadhuis) / niet geaccepteerd (toerismeblad)",
+        "parking": null,
+        "stroller": null,
+        "type": "Alpenmeer",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "De bronnen spreken elkaar tegen en we citeren ze in hun huidige vorm: \"zwemmen is daar verboden\" (toeristische bladen); \"het blijft getolereerd op eigen risico van gebruikers, maar is strikt verboden in periodes van vorst\" (stadhuis). Hoe dan ook, het is noch aangelegd noch gecontroleerd.",
+          "q": "Is zwemmen toegestaan?"
+        },
+        {
+          "a": "Ongeveer 45 minuten: een gemakkelijke 2 km lus (+39 m) vanaf de parkeerplaats in het dorpshuis, met uitzicht over het Bauges-massief. Af en toe natte secties.",
+          "q": "Hoe lang duurt de meerlus?"
+        },
+        {
+          "a": "Ja, van 1 mei tot en met 15 november, in een bepaalde zone, met de lokale vergunning verkocht op het stadhuis of de Auberge du Lac Het meer is een privé-ruimte die bedoeld is als een verklaard visreservaat.",
+          "q": "Kun je vissen?"
+        },
+        {
+          "a": "Ja: geclassificeerd als een gevoelig natuurgebied, gereserveerd voor voetgangers, met bewegwijzerde paden die moeten worden gerespecteerd. Parkeren is beperkt in het dorp (twee aangelegde gebieden).",
+          "q": "Is het terrein beschermd?"
+        }
+      ],
+      "hero": {
+        "badge": "Alpinemeer · Gratis toegang",
+        "lead": "Op 874 m in de lagere Bauges, een klein rietmeer 'dat zijn charme en zijn wilde kant heeft behouden' . een eenvoudige 45 minuten lus, gereglementeerde visserij, en een zwemmen vraag waarover de bronnen het oneens zijn."
+      },
+      "hero_alt": "Familiewandeling rond de Lac de La Thuile, Bauges, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Van Chambéry of de Combe de Savoie op de D21 naar de La Thuile chef-lieu; beperkte parkeergelegenheid (twee aangelegde ruimten).",
+        "public_transport": null
+      },
+      "meta_description": "De Lac de La Thuile, een klein meertje op 874 m in de Bauges: gemakkelijk 45 minuten lus, vissen van 1 mei tot 15 november, gevoelige natuurgebied. Zwemmen: tegenstrijdige bronnen, zoals ze er nu uitzien.",
+      "meta_title": "Lac de La Thuile · 45-min loop, Bauges",
+      "name": "Lac de La Thuile",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Hoogte",
+          "v": "874 m (stadhuis, Apidaeblad) 880 m boven het Chambéry Montagnes-blad"
+        },
+        {
+          "k": "Afmetingen",
+          "v": "5 ha · tot 12 m diep"
+        },
+        {
+          "k": "Meerloop",
+          "v": "2 km · +39 m · ~45 min · van de parkeerplaats in de dorpshal"
+        },
+        {
+          "k": "Visserij",
+          "v": "1 mei tot en met 15 november, bepaald gebied; vergunning op het gemeentehuis of de Auberge du Lac"
+        },
+        {
+          "k": "Bescherming",
+          "v": "Gevoelig natuurgebied · alleen voetgangers · regionaal natuurpark Massif des Bauges"
+        },
+        {
+          "k": "Contactpersoon",
+          "v": "La Thuile stadhuis · +33 4 79 84 73 23"
+        }
+      ],
+      "schema_amenities": [
+        "Meerlooppad",
+        "Picknickgebied"
+      ],
+      "when_to_visit": "<p>'Voorkeur voor de vredige stemming van lente en herfst', adviseert Chambéry Montagnes. De <strong>meerlus</strong> 2 km, +39 m, ongeveer 45 minuten vertrekt vanaf de parkeerplaats van het dorpshuis in de chef-kok; soms natte secties, geschikte schoenen aanbevolen. <strong>Visserij</strong> is toegestaan van 1 mei tot en met 15 november in een bepaalde zone, met de lokale vergunning verkocht op het stadhuis of de Auberge du Lac: het meer is \"een privé-ruimte waarvan het oorspronkelijke doel is een visreservaat te zijn dat is aangegeven bij de Prefecture.\"</p>"
+    }
+  },
+  "latitude": 45.530335,
+  "longitude": 6.053048,
+  "official_site_url": "https://www.la-thuile.com/la-commune/le-lac-de-la-thuile",
+  "partners": [],
+  "postal_code": "73190",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-17, FR pages only (mairie la-thuile.com, Chambéry Montagnes, fiche Apidae via explore-savoie). « Ce petit lac alpin est situé à 874 m d'altitude » (mairie, Apidae) — la fiche Chambéry Montagnes affiche 880 m en tête : contradiction reportée. ~5 ha, jusqu'à 12 m de profondeur. Boucle du lac 2,0 km, +39 m, ~45 min, départ parking de la salle des fêtes. Baignade : « interdite » (Chambéry Montagnes / Apidae) vs mairie « pas aménagée ni surveillée… tolérée aux risques et périls, strictement interdite en période de gel » — contradiction reportée, jamais harmonisée. Chiens : mairie « tenus en laisse » vs Apidae « non acceptés » — reportée. Pêche 1er mai – 15 novembre, zone définie, carte en mairie ou à l'Auberge du Lac ; « espace privé… réserve piscicole déclarée en Préfecture » (mairie). ENS, piétons uniquement. Pas de site ARS baignade (non aménagée) — rien à citer. PNR du Massif des Bauges.",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "lac-de-la-thuile",
+  "sources": [
+    "https://www.la-thuile.com/la-commune/le-lac-de-la-thuile",
+    "https://www.chamberymontagnes.com/fiche/lac-de-la-thuile/",
+    "https://www.explore-savoie.com/sites-naturels/lac-de-la-thuile-108737/"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published for this site; kept null rather than inferred."
+  ]
+}

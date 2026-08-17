@@ -1,0 +1,603 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-17",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "lac",
+  "commune": "Val-Cenis",
+  "date_modified_human": "17 août 2026",
+  "date_published_human": "17 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-17",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-plaine-verte.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Die Wassersportbasis des Plateaus, die vom Tourismusbüro als \"die höchste in Europa\" in Rechnung gestellt wird.",
+          "tag": "Wassersportbasis",
+          "title": "Kajak und Pedalo auf 2000 m"
+        },
+        {
+          "description": "Die volle Runde dauert etwa 5 Stunden; Das Fort de Ronce wird im Sommer über das Sentier des 2000 besucht.",
+          "tag": "5 h",
+          "title": "Der Lake Circuit und das Fort de Ronce"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>Lac du Mont-Cenis</strong> füllt das Plateau der Col an der italienischen Grenze, in der Gemeinde Val-Cenis. Es ist ein EDF Reservoir: Der Mont-Cenis Damm bietet eine Lagerung von <strong>320 Mio. m³</strong> \"Wasser\", hinter einer Struktur \"120 Meter hoch und 1,4 km lang\", gebaut zwischen 1962 und 1969 - \"der größte Staudamm in Frankreich\" und der letzte bewachte Staudamm des Landes aufgrund seiner Grenzlage; Das Reservoir wird ungefähr 1/5 für Italien und 4/5 für Frankreich geteilt. Auf Höhe variieren die offiziellen Quellen - 'über 1979 Meter' (EDF), '2000 m' (Touristenbüros) Und wir berichten beides.</p><p><strong>\"Aus Sicherheitsgründen ist Schwimmen verboten\"</strong> Der Satz ist der des Tourismusamtes. Der See wird anders gelebt: eine Kajak-und-Pedalo-Basis, die als \"die höchste in Europa\" in Rechnung gestellt wird, der Rundgang (\"5 Stunden\"), das Fort de Ronce über das Sentier des 2000, der Alpengarten \"im Sommer kostenlos zu besuchen\" und regulierte Fischerei (Forelle, Char, Seeforelle). Zu Beginn der Saison entblößt der Drawdown die Küsten weit: Anfang Juni 2026 war das Reservoir nur 58% voll.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "frei",
+        "best_season": "Ende Mai – Anfang November (Col Road)",
+        "commune": "Val-Cenis",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Reservoir",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "Nein: \"Aus Sicherheitsgründen ist Schwimmen verboten\" (Tourismusamt Val Cenis). Das Wasser bleibt sehr kalt und das Niveau variiert stark. Beaufsichtigtes Paddeln — Kajak, Pedal — Es passiert auf der Wassersportbasis.",
+          "q": "Kannst du schwimmen?"
+        },
+        {
+          "a": "\"Es ist möglich, um den See herumzulaufen (erlaube 5 Stunden), sagt Haute Maurienne Vanoise. Das Fort de Ronce ist im Sommer über das Sentier des 2000 leicht zu erreichen.",
+          "q": "Wie lang ist der Spaziergang um den See?"
+        },
+        {
+          "a": "2026: geöffnet seit 22. Mai, Schließung geplant 9. November. Die lokale Regel läuft vom 2. Freitag im Mai bis zum 2. Montag im November; Im Winter wird die Straße teilweise zur L'Escargot Skipiste (11 km).",
+          "q": "Wann ist der Weg offen?"
+        },
+        {
+          "a": "Erforderliche Genehmigung (Tag, Woche oder Jahr); Mindestgröße 23 cm bei Forellen und Baumkohle, 35 cm bei Seeforellen; im Mont-Cenis vorhandene Quote von 6 Fischen pro Tag und Angler. Bergseen wurden am 6. Juni 2026 eröffnet.",
+          "q": "Wie lauten die Fischereivorschriften?"
+        }
+      ],
+      "hero": {
+        "badge": "Stausee · 2000 m",
+        "lead": "Der große türkisfarbene See des Grenzplateaus: 320 Millionen m³, die von Frankreichs größtem Steinfülldamm gehalten werden, einer Wassersportbasis, die als \"Europas höchste\" in Rechnung gestellt wird, der fünfstündige Rundgang - und ein Schwimmverbot, das nicht verhandelbar ist."
+      },
+      "hero_alt": "Alpenwiesen des Mont-Cenis Plateaus um den See, Haute-Maurienne",
+      "how_to_get_there": {
+        "bike": "Der Col-Aufstieg ist eine renommierte Radroute (Savoie Mont Blanc Blatt): freier Zugang, fahrbar außerhalb der Schneesaison.",
+        "car": "Mit der D1006 von Lanslebourg (Val-Cenis) ist die Straße von Ende Mai bis Anfang November geöffnet.",
+        "public_transport": null
+      },
+      "meta_description": "Der Lac du Mont-Cenis bei Val-Cenis: 320 Millionen m³ hinter Frankreichs größtem Steinfülldamm, Schwimmen verboten, \"Europas höchste\" Kajak-Pedalo-Basis, 5-stündiger Spaziergang. Straße geöffnet Ende Mai bis Anfang November.",
+      "meta_title": "Lac du Mont-Cenis · EDF Damm, Wassersport auf 2000 m",
+      "name": "Lac du Mont-Cenis",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Reservoir",
+          "v": "320 Millionen m³ (EDF) · Damm 120 m hoch, 1,4 km lang (1962 bis 1969) · ~1/5 Italien, 4/5 Frankreich"
+        },
+        {
+          "k": "Höhe",
+          "v": "'Über 1979 m' (EDF) — '2000 m' (Touristenbüros): beide Quellenwerte"
+        },
+        {
+          "k": "Schwimmen",
+          "v": "Verboten \"aus Sicherheitsgründen\" (Tourismusbüro Val Cenis)"
+        },
+        {
+          "k": "Oberstraße",
+          "v": "Geöffnet am 22. Mai – 9. November 2026; geschlossen im Winter (L'Escargot-Lauf, 11 km)"
+        },
+        {
+          "k": "Drawdown",
+          "v": "Sehr niedriges Niveau zu Beginn der Saison — 58% voll im Juni 2026 (Fischerverband)"
+        },
+        {
+          "k": "Vor Ort",
+          "v": "Freier Zugang · öffentliche Toiletten · Parkplätze in der Nähe · Picknickplätze · Wasserstelle am Plan des Fontainettes"
+        }
+      ],
+      "schema_amenities": [
+        "Wassersportbasis",
+        "Picknickplätze"
+      ],
+      "when_to_visit": "<p>von <strong>Ende Mai bis Anfang November</strong>: Die Straße wurde am 22. Mai 2026 eröffnet und soll am 9. November 2026 schließen (die lokale Regel): vom 2. Freitag im Mai bis zum 2. Montag im November. Im Winter wird die Straße weitgehend zu einer Skipiste - L'Escargot, \"Europas längster grüner Lauf\" (11 km). Die Bergseefischerei wurde am 6. Juni 2026 eröffnet. Die Bootsfischerei ist samstags unter den Bedingungen seit 2023 erlaubt.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "The plateau's water-sports base, billed by the tourist office as 'the highest in Europe'.",
+          "tag": "Water-sports base",
+          "title": "Kayak and pedalo at 2000 m"
+        },
+        {
+          "description": "The full walk round takes about 5 h; the Fort de Ronce is visited in summer via the Sentier des 2000.",
+          "tag": "5 h",
+          "title": "The lake circuit and the Fort de Ronce"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Lac du Mont-Cenis</strong> fills the col's plateau at the Italian border, in the commune of Val-Cenis. It is an EDF reservoir: 'the Mont-Cenis dam offers a storage of <strong>320 million m³</strong> of water', behind a structure '120 metres high and 1.4 km long', built between 1962 and 1969 — 'the largest rockfill dam in France', and the country's last guarded dam, owing to its border position; the reservoir is shared roughly 1/5 for Italy and 4/5 for France. On altitude, official sources vary — 'over 1979 metres' (EDF), '2000 m' (tourist offices) — and we report both.</p><p><strong>'For safety reasons, swimming is forbidden'</strong> — the sentence is the tourist office's. The lake is lived differently: a kayak-and-pedalo base billed as 'the highest in Europe', the walk round ('allow 5 hours'), the Fort de Ronce via the Sentier des 2000, the Alpine Garden 'free to visit in summer', and regulated fishing (trout, char, lake trout). Early in the season the drawdown bares the shores widely: in early June 2026 the reservoir was only 58% full.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free",
+        "best_season": "Late May – early November (col road)",
+        "commune": "Val-Cenis",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Reservoir",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "No: 'for safety reasons, swimming is forbidden' (Val Cenis tourist office). The water stays very cold, and the level varies strongly. Supervised paddling — kayak, pedalo — happens at the water-sports base.",
+          "q": "Can you swim?"
+        },
+        {
+          "a": "'It is possible to walk round the lake (allow 5 h)', states Haute Maurienne Vanoise. The Fort de Ronce is easily reached in summer via the Sentier des 2000.",
+          "q": "How long is the walk round the lake?"
+        },
+        {
+          "a": "In 2026: open since 22 May, closure scheduled 9 November. The local rule runs from the 2nd Friday of May to the 2nd Monday of November; in winter the road partly becomes the L'Escargot ski run (11 km).",
+          "q": "When is the road open?"
+        },
+        {
+          "a": "Permit required (day, week or year); minimum size 23 cm for trout and char, 35 cm for lake trout — present in the Mont-Cenis —, quota of 6 fish per day per angler. Mountain lakes opened on 6 June in 2026.",
+          "q": "What are the fishing rules?"
+        }
+      ],
+      "hero": {
+        "badge": "Reservoir · 2000 m",
+        "lead": "The great turquoise lake of the border plateau: 320 million m³ held by France's biggest rockfill dam, a water-sports base billed as 'Europe's highest', the five-hour walk round — and a swimming ban that is not negotiable."
+      },
+      "hero_alt": "Alpine meadows of the Mont-Cenis plateau around the lake, Haute-Maurienne",
+      "how_to_get_there": {
+        "bike": "The col climb is a renowned cycling route (Savoie Mont Blanc sheet: free access, rideable outside the snow season).",
+        "car": "By the D1006 from Lanslebourg (Val-Cenis), col road open from late May to early November.",
+        "public_transport": null
+      },
+      "meta_description": "The Lac du Mont-Cenis at Val-Cenis: 320 million m³ behind France's biggest rockfill dam, swimming forbidden, 'Europe's highest' kayak-pedalo base, 5-hour walk round. Road open late May to early November.",
+      "meta_title": "Lac du Mont-Cenis · EDF dam, water sports at 2000 m",
+      "name": "Lac du Mont-Cenis",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Reservoir",
+          "v": "320 million m³ (EDF) · dam 120 m high, 1.4 km long (1962 to 1969) · ~1/5 Italy, 4/5 France"
+        },
+        {
+          "k": "Altitude",
+          "v": "'Over 1979 m' (EDF) — '2000 m' (tourist offices): both sourced values"
+        },
+        {
+          "k": "Swimming",
+          "v": "Forbidden 'for safety reasons' (Val Cenis tourist office)"
+        },
+        {
+          "k": "Col road",
+          "v": "Open 22 May – 9 November 2026; closed in winter (L'Escargot run, 11 km)"
+        },
+        {
+          "k": "Drawdown",
+          "v": "Very low level early in the season — 58% full in June 2026 (fishing federation)"
+        },
+        {
+          "k": "On site",
+          "v": "Free access · public toilets · parking nearby · picnic areas · water point at the Plan des Fontainettes"
+        }
+      ],
+      "schema_amenities": [
+        "Water-sports base",
+        "Picnic areas"
+      ],
+      "when_to_visit": "<p>From <strong>late May to early November</strong>: the col road opened on 22 May 2026 and is scheduled to close on 9 November 2026 (the local rule: from the 2nd Friday of May to the 2nd Monday of November). In winter the road largely becomes a ski run — L'Escargot, 'Europe's longest green run' (11 km). Mountain-lake fishing opened on 6 June 2026; boat fishing is allowed on Saturdays under conditions since 2023.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "La base de deportes acuáticos de la meseta, facturada por la oficina turística como 'la más alta de Europa'.",
+          "tag": "Base de deportes acuáticos",
+          "title": "Kayak y pedalo a 2000 m"
+        },
+        {
+          "description": "El paseo completo toma alrededor de 5 h; el Fuerte de Ronce se visita en verano a través del Sentier des 2000.",
+          "tag": "5 h",
+          "title": "El circuito del lago y el Fort de Ronce"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>Lac du Mont-Cenis</strong> llena la meseta del col en la frontera italiana, en la comuna de Val-Cenis. Es un depósito EDF: 'la presa Mont-Cenis ofrece un almacenamiento de <strong>320 millones de m³</strong> de agua, detrás de una estructura '120 metros de altura y 1,4 km de largo', construida entre 1962 y 1969 — 'la presa más grande de los ruiseñores en Francia', y la última presa custodiada del país, debido a su posición fronteriza; el depósito se comparte aproximadamente 1/5 para Italia y 4/5 para Francia. Sobre la altitud, las fuentes oficiales varían — 'sobre 1979 metros' (EDF), '2000 m' (oficinas turísticas) — y reportamos ambos.</p><p><strong>Por razones de seguridad, se prohíbe nadar</strong> - la frase es de la oficina de turismo. El lago se vive de manera diferente: una base de kayak y pétalo facturado como 'el más alto de Europa', la ronda de paseo ('allow 5 hours'), el Fort de Ronce a través del Sentier des 2000, el jardín alpino 'libre de visitar en verano', y la pesca regulada (trout, char, trucha de lago). Temprano en la temporada el declive muestra las costas ampliamente: a principios de junio de 2026 el depósito estaba sólo 58% lleno.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": "finales de mayo – a principios de noviembre (calle frío)",
+        "commune": "Val-Cenis",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Reservoir",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "No: \"Por razones de seguridad, se prohíbe nadar\" (oficina turística de Val Cenis). El agua permanece muy fría, y el nivel varía fuertemente. Reparación supervisada — kayak, pedalo sucede en la base de deportes acuáticos.",
+          "q": "¿Puedes nadar?"
+        },
+        {
+          "a": "'Es posible caminar alrededor del lago (abajo 5 h)', estados Haute Maurienne Vanoise. El Fuerte de Ronce se llega fácilmente en verano a través del Sentier des 2000.",
+          "q": "¿Cuánto dura el paseo por el lago?"
+        },
+        {
+          "a": "En 2026: abierta desde el 22 de mayo, cierre previsto para el 9 de noviembre. La regla local va del 2 de mayo al 2 de noviembre; en invierno la carretera se convierte en parte en la carrera de esquí L'Escargot (11 km).",
+          "q": "¿Cuándo abre el camino?"
+        },
+        {
+          "a": "Permiso requerido (día, semana o año); tamaño mínimo 23 cm para trucha y char, 35 cm para trucha de lago - presente en el Mont-Cenis —, cuota de 6 peces por día por pescador. Lagos de montaña abiertos el 6 de junio en 2026.",
+          "q": "¿Cuáles son las reglas de pesca?"
+        }
+      ],
+      "hero": {
+        "badge": "Reservoir · 2000 m",
+        "lead": "El gran lago turquesa de la meseta fronteriza: 320 millones de m³, retenidos por la mayor presa de rockfill de Francia, una base de deportes acuáticos facturada como 'la más alta de Europa', la ronda de cinco horas — y una prohibición de natación que no es negociable."
+      },
+      "hero_alt": "prados alpinos de la meseta Mont-Cenis alrededor del lago, Haute-Maurienne",
+      "how_to_get_there": {
+        "bike": "La escalada de col es una famosa ruta ciclista (Savoie Mont Blanc hoja: acceso libre, montable fuera de la temporada de nieve).",
+        "car": "Por el D1006 de Lanslebourg (Val-Cenis), carretera de col abierta de finales de mayo a principios de noviembre.",
+        "public_transport": null
+      },
+      "meta_description": "El Lac du Mont-Cenis en Val-Cenis: 320 millones de m³ detrás de la presa de rockfill más grande de Francia, nadando prohibido, base de kayak-pedalo más alta de Europa, 5 horas de paseo. Camino abierto hasta finales de mayo a principios de noviembre.",
+      "meta_title": "Lac du Mont-Cenis · EDF presa, deportes acuáticos a 2000 m",
+      "name": "Lac du Mont-Cenis",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Reservoir",
+          "v": "320 millones m³ (EDF) · presa 120 m de altura, 1,4 km de largo (1962 a 1969) · ~1/5 Italia, 4/5 Francia"
+        },
+        {
+          "k": "Altitud",
+          "v": "'Over 1979 m' (EDF) — '2000 m' (oficinas turísticas): ambos valores fuente"
+        },
+        {
+          "k": "Nadando",
+          "v": "Prohibido 'por razones de seguridad' (Oficina Turística de Val Cenis)"
+        },
+        {
+          "k": "Col road",
+          "v": "Abierto 22 de mayo – 9 de noviembre de 2026; cerrado en invierno (L'Escargot, 11 km)"
+        },
+        {
+          "k": "Dibujo",
+          "v": "Muy bajo nivel temprano en la temporada — 58% lleno en junio de 2026 (federación de pesca)"
+        },
+        {
+          "k": "En el sitio",
+          "v": "Acceso gratuito · baños públicos · aparcamiento cerca · áreas de picnic · punto de agua en el Plan des Fontainettes"
+        }
+      ],
+      "schema_amenities": [
+        "Base de deportes acuáticos",
+        "Zonas de picnic"
+      ],
+      "when_to_visit": "<p>Desde <strong>finales de mayo a principios de noviembre</strong>: la carretera de col se abrió el 22 de mayo de 2026 y está programada para cerrar el 9 de noviembre de 2026 (la regla local: del 2 de mayo al 2 de noviembre). En invierno, la carretera se convierte en gran parte en una pista de esquí L'Escargot, 'Europa es el más largo de Europa' (11 km). La pesca de montaña abrió el 6 de junio de 2026; La pesca en barco se permite los sábados en condiciones desde 2023.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "La base nautique du plateau, présentée par l'office de tourisme comme « la plus haute d'Europe ».",
+          "tag": "Base nautique",
+          "title": "Kayak et pédalo à 2000 m"
+        },
+        {
+          "description": "Tour complet à pied en environ 5 h ; le fort de Ronce se visite l'été par le sentier des 2000.",
+          "tag": "5 h",
+          "title": "Le tour du lac et le fort de Ronce"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Le <strong>lac du Mont-Cenis</strong> occupe le plateau du col, à la frontière italienne, sur la commune de Val-Cenis. C'est une retenue EDF : « le barrage du Mont-Cenis offre un stockage de <strong>320 millions de m³</strong> d'eau », derrière un ouvrage « haut de 120 mètres et long de 1,4 km », construit entre 1962 et 1969 — « le barrage en enrochement le plus important de France », et le dernier du pays à être gardé, du fait de sa position frontalière ; la retenue se partage environ 1/5 pour l'Italie et 4/5 pour la France. Sur l'altitude, les sources officielles varient — « plus de 1979 mètres » (EDF), « 2000 m » (offices de tourisme) — et nous reportons les deux.</p><p><strong>« Pour des raisons de sécurité, la baignade est interdite »</strong> — la phrase est celle de l'office de tourisme. Le lac se vit autrement : une base nautique kayak-pédalo présentée comme « la plus haute d'Europe », le tour à pied (« compter 5 heures de marche »), le fort de Ronce par le sentier des 2000, le Jardin Alpin « à visiter gratuitement en été », et la pêche réglementée (truites, ombles, cristivomer). En début de saison, le marnage découvre largement les rives : début juin 2026, la retenue n'était remplie qu'à 58 %.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuit",
+        "best_season": "Fin mai – début novembre (route du col)",
+        "commune": "Val-Cenis",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Lac de barrage",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "Non : « pour des raisons de sécurité, la baignade est interdite » (office de tourisme de Val Cenis). L'eau reste très froide, et le niveau varie fortement. Les activités nautiques encadrées — kayak, pédalo — se pratiquent à la base nautique.",
+          "q": "Peut-on se baigner ?"
+        },
+        {
+          "a": "« Il est possible de faire le tour du lac à pied (compter 5 heures de marche) », indique Haute Maurienne Vanoise. Le fort de Ronce se rejoint facilement l'été par le sentier des 2000.",
+          "q": "Combien de temps pour le tour du lac ?"
+        },
+        {
+          "a": "En 2026 : ouverte depuis le 22 mai, fermeture prévue le 9 novembre. La règle locale va du 2ᵉ vendredi de mai au 2ᵉ lundi de novembre ; l'hiver, la route devient en partie la piste de ski L'Escargot (11 km).",
+          "q": "Quand la route est-elle ouverte ?"
+        },
+        {
+          "a": "Carte obligatoire (journée, semaine ou année) ; taille minimale 23 cm pour truites et ombles, 35 cm pour le cristivomer — présent au Mont-Cenis —, quota de 6 poissons par jour et par pêcheur. Ouverture des lacs de montagne le 6 juin en 2026.",
+          "q": "Quelles règles de pêche ?"
+        }
+      ],
+      "hero": {
+        "badge": "Lac de barrage · 2000 m",
+        "lead": "Le grand lac turquoise du plateau frontalier : 320 millions de m³ retenus par le plus grand barrage en enrochement de France, une base nautique « la plus haute d'Europe », le tour à pied en cinq heures — et une baignade interdite qui ne s'improvise pas."
+      },
+      "hero_alt": "Alpages du plateau du Mont-Cenis autour du lac, Haute-Maurienne",
+      "how_to_get_there": {
+        "bike": "La montée du col est un itinéraire cycliste réputé (fiche Savoie Mont Blanc : accès libre, praticable hors enneigement).",
+        "car": "Par la D1006 depuis Lanslebourg (Val-Cenis), route du col ouverte de fin mai à début novembre.",
+        "public_transport": null
+      },
+      "meta_description": "Le lac du Mont-Cenis à Val-Cenis : 320 millions de m³ derrière le plus grand barrage en enrochement de France, baignade interdite, kayak-pédalo « le plus haut d'Europe », tour à pied en 5 h. Route ouverte de fin mai à début novembre.",
+      "meta_title": "Lac du Mont-Cenis · barrage EDF, base nautique à 2000 m",
+      "name": "Lac du Mont-Cenis",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Retenue",
+          "v": "320 millions de m³ (EDF) · barrage de 120 m de haut, 1,4 km de long (1962 à 1969) · ~1/5 Italie, 4/5 France"
+        },
+        {
+          "k": "Altitude",
+          "v": "« Plus de 1979 m » (EDF) — « 2000 m » (offices de tourisme) : les deux valeurs sourcées"
+        },
+        {
+          "k": "Baignade",
+          "v": "Interdite « pour des raisons de sécurité » (OT Val Cenis)"
+        },
+        {
+          "k": "Route du col",
+          "v": "Ouverte 22 mai – 9 novembre 2026 ; fermée l'hiver (piste L'Escargot, 11 km)"
+        },
+        {
+          "k": "Marnage",
+          "v": "Niveau très bas en début de saison — 58 % de remplissage en juin 2026 (fédération de pêche)"
+        },
+        {
+          "k": "Sur place",
+          "v": "Accès libre · WC publics · parking à proximité · aires de pique-nique · point d'eau au Plan des Fontainettes"
+        }
+      ],
+      "schema_amenities": [
+        "Base nautique",
+        "Aires de pique-nique"
+      ],
+      "when_to_visit": "<p>De <strong>fin mai à début novembre</strong> : la route du col a ouvert le 22 mai 2026 et sa fermeture est prévue le 9 novembre 2026 (la règle locale : du 2ᵉ vendredi de mai au 2ᵉ lundi de novembre). L'hiver, la route devient en grande partie une piste de ski — L'Escargot, « la plus longue piste verte d'Europe » (11 km). La pêche en lac de montagne a ouvert le 6 juin 2026 ; la barque est autorisée le samedi sous condition depuis 2023.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "La base di sport acquatici dell'altopiano, fatturata dall'ufficio turistico come \"il più alto d'Europa\".",
+          "tag": "Base per sport acquatici",
+          "title": "Kayak e pedalo a 2000 m"
+        },
+        {
+          "description": "Il giro completo dura circa 5 ore; il Forte di Ronce è visitato in estate attraverso il Sentier des 2000.",
+          "tag": "5 h",
+          "title": "Il circuito del lago e il Forte di Ronce"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Lac du Mont-Cenis</strong> riempie l'altopiano del col al confine italiano, nel comune di Val-Cenis. È un serbatoio EDF: 'la diga Mont-Cenis offre un deposito di <strong>320 milioni di m³</strong> di acqua, dietro una struttura alta 120 metri e lunga 1,4 km, costruita tra il 1962 e il 1969 — «la più grande diga in Francia», e l'ultima diga sorvegliata del paese, a causa della sua posizione di confine; il serbatoio è condiviso circa 1/5 per l'Italia e 4/5 per la Francia. In quota, le fonti ufficiali variano — «più di 1979 metri» (EDF), «2000 m» (ufficio turistico) — e riferiamo entrambi.</p><p><strong>Per motivi di sicurezza, il nuoto è vietato</strong> — la sentenza è dell'ufficio turistico. Il lago è vissuto in modo diverso: una base in kayak-e-pedalo, detta \"il più alto d'Europa\", il giro di passeggiata ('allow 5 ore'), il Forte di Ronce attraverso il Sentier des 2000, il Giardino Alpino 'gratuito da visitare in estate', e la pesca regolamentata (trota, carbone, trota lago). All'inizio della stagione il sorteggio bara le sponde ampiamente: all'inizio di giugno 2026 il serbatoio era solo 58% pieno.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": "Ultimo maggio – inizio novembre (col road)",
+        "commune": "Val-Cenis",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Conservazione",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "No. \"per motivi di sicurezza, il nuoto è vietato\" (ufficio turistico Val Cenis). L'acqua rimane molto fredda, e il livello varia fortemente. Rivestimento supervisionato — kayak, pedalo — accade alla base di sport acquatici.",
+          "q": "Riesci a nuotare?"
+        },
+        {
+          "a": "'È possibile camminare intorno al lago (permettere 5 h)', afferma Haute Maurienne Vanoise. Il Forte di Ronce è facilmente raggiungibile in estate tramite il Sentier des 2000.",
+          "q": "Quanto dura la passeggiata lungo il lago?"
+        },
+        {
+          "a": "Nel 2026: aperto dal 22 maggio, chiusura in programma 9 novembre. La regola locale va dal 2 ° venerdì di maggio al 2 ° lunedì di novembre; in inverno la strada diventa in parte la pista di sci L'Escargot (11 km).",
+          "q": "Quando è aperta la strada?"
+        },
+        {
+          "a": "Permesso richiesto (giorno, settimana o anno); dimensione minima 23 cm per trota e carbone, 35 cm per trota lago — presente nella Mont-Cenis —, contingente di 6 pesci al giorno per pescatore. Laghi di montagna aperto il 6 giugno nel 2026.",
+          "q": "Quali sono le regole di pesca?"
+        }
+      ],
+      "hero": {
+        "badge": "Conservazione · 2000 m",
+        "lead": "Il grande lago turchese dell'altopiano di confine: 320 milioni di m³ detenuto dalla più grande diga rockfill francese, una base di sport acquatici fatturata come 'più alta Europa', il giro di cinque ore — e un divieto di nuoto che non è negoziabile."
+      },
+      "hero_alt": "prati alpini dell'altopiano Mont-Cenis intorno al lago, Haute-Maurienne",
+      "how_to_get_there": {
+        "bike": "La pista col è una rinomata pista ciclabile (Savoie Mont Blanc foglio: accesso gratuito, raggiungibile al di fuori della stagione neve).",
+        "car": "Dal D1006 da Lanslebourg (Val-Cenis), strada cola aperta da fine maggio a inizio novembre.",
+        "public_transport": null
+      },
+      "meta_description": "Lac du Mont-Cenis a Val-Cenis: 320 milioni di m³ dietro la più grande diga rockfill francese, nuoto vietato, 'più alta Europa's base kayak-pedalo, giro di 5 ore a piedi. Strada aperta da maggio a inizio novembre.",
+      "meta_title": "Lac du Mont-Cenis · Diga EDF, sport acquatici a 2000 m",
+      "name": "Lac du Mont-Cenis",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Conservazione",
+          "v": "320 milioni m³ (EDF) · diga 120 m di altezza, 1,4 km di lunghezza (1962-1969) · ~1/5 Italia, 4/5 Francia"
+        },
+        {
+          "k": "Altitudine",
+          "v": "«Over 1979 m» (EDF) — '2000 m' (ufficio turistico): entrambi i valori sorgente"
+        },
+        {
+          "k": "Nuoto",
+          "v": "Proibita «per motivi di sicurezza» (ufficio turistico Val Cenis)"
+        },
+        {
+          "k": "Col road map",
+          "v": "Aperto 22 maggio – 9 novembre 2026; chiuso in inverno (corsa L'Escargot, 11 km)"
+        },
+        {
+          "k": "Disegno",
+          "v": "Livello molto basso in anticipo nella stagione — 58% pieno nel giugno 2026 ( federazione di pesca)"
+        },
+        {
+          "k": "Sul sito",
+          "v": "Accesso gratuito · servizi igienici pubblici · parcheggio nelle vicinanze · aree picnic · punto d'acqua al Plan des Fontainettes"
+        }
+      ],
+      "schema_amenities": [
+        "Base per sport acquatici",
+        "Aree pic-nic"
+      ],
+      "when_to_visit": "<p>Da <strong>da maggio a inizio novembre</strong>: la strada cola aperta il 22 maggio 2026 ed è prevista per chiudere il 9 novembre 2026 (la regola locale: dal 2 ° venerdì di maggio al 2 ° lunedì di novembre). In inverno la strada diventa in gran parte una pista da sci — L'Escargot, «La corsa verde più lunga d'Europa» (11 km). La pesca al lago di montagna ha aperto il 6 giugno 2026; pesca in barca è consentito il sabato in condizioni dal 2023.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "De watersportbasis van het plateau, die door het VVV als 'de hoogste van Europa' wordt beschouwd.",
+          "tag": "Watersportbasis",
+          "title": "Kayak en pedaal op 2000 m"
+        },
+        {
+          "description": "De volledige wandeling duurt ongeveer 5 uur; Het Fort de Ronce wordt in de zomer bezocht via de Sentier des 2000.",
+          "tag": "5 uur",
+          "title": "Het circuit van het meer en het Fort de Ronce"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>Lac du Mont-Cenis</strong> vult het plateau van de col aan de Italiaanse grens, in de gemeente Val-Cenis. Het is een EDF reservoir: \"de Mont-Cenis dam biedt een opslag van <strong>320 miljoen m³</strong> van het water,\" achter een constructie \"120 meter hoog en 1,4 km lang,\" gebouwd tussen 1962 en 1969 \"de grootste stuwdam van Frankrijk\" en de laatste bewaakte dam van het land vanwege zijn grenspositie; Het reservoir wordt ongeveer 1/5 gedeeld voor Italië en 4/5 voor Frankrijk. Op hoogte, officiële bronnen variëren \"meer dan 1979 meter\" (EDF), \"2000 m\" (toeristische kantoren) En we rapporteren beide.</p><p><strong>'Om veiligheidsredenen is zwemmen verboden'</strong> De straf is van het VVV. Het meer wordt anders geleefd: een kajak-en-pedalo basis gefactureerd als 'de hoogste in Europa', de wandeling ronde (5 uur lang), het Fort de Ronce via de Sentier des 2000, de Alpine Garden 'gratis te bezoeken in de zomer', en gereguleerde visserij (trot, char, meerforel). In het begin van het seizoen wordt de kust op grote schaal blootgelegd: begin juni 2026 was het reservoir slechts 58% vol.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Vrij",
+        "best_season": "Eind mei begin november (col road)",
+        "commune": "Val-Cenis",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Reservoir",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "Nee: \"om veiligheidsredenen is zwemmen verboden\" (VVV-kantoor Val Cenis). Het water blijft erg koud, en het niveau varieert sterk. Geconstrueerde peddelen kajak, pedaal gebeurt op de watersportbasis.",
+          "q": "Kun je zwemmen?"
+        },
+        {
+          "a": "'Het is mogelijk om rond het meer te lopen (allow 5 h)', staat Haute Maurienne Vanoise. Het Fort de Ronce is gemakkelijk bereikbaar in de zomer via de Sentier des 2000.",
+          "q": "Hoe lang duurt de wandeling rond het meer?"
+        },
+        {
+          "a": "In 2026: geopend sinds 22 mei, sluiting gepland 9 november. De lokale regel loopt van 2 mei tot 2 november. in de winter wordt de weg deels de L'Escargot skipiste (11 km).",
+          "q": "Wanneer is de weg open?"
+        },
+        {
+          "a": "vergunning vereist (dag, week of jaar); minimummaat 23 cm voor forel en char, 35 cm voor meerforel aanwezig in de Mont-Cenis, quotum van 6 vissen per dag per zeeduivel. Bergmeren geopend op 6 juni 2026.",
+          "q": "Wat zijn de regels voor de visserij?"
+        }
+      ],
+      "hero": {
+        "badge": "Reservoir · 2000 m",
+        "lead": "Het grote turquoise meer van het grensplateau: 320 miljoen m³ in het bezit van de grootste stuwdam van Frankrijk, een watersportbasis die wordt gefactureerd als 'Europa's hoogste', de vijf uur durende wandeling door de stad. en een zwemverbod dat niet bespreekbaar is."
+      },
+      "hero_alt": "Alpenweiden van het Mont-Cenis plateau rond het meer, Haute-Maurienne",
+      "how_to_get_there": {
+        "bike": "De col klim is een gerenommeerde fietsroute (Savoie Mont Blanc blad: gratis toegang, buiten het sneeuwseizoen).",
+        "car": "Door de D1006 van Lanslebourg (Val-Cenis), col weg geopend van eind mei tot begin november.",
+        "public_transport": null
+      },
+      "meta_description": "De Lac du Mont-Cenis op Val-Cenis: 320 miljoen m³ achter de grootste stuwdam van Frankrijk, zwemmen verboden, 'Europa's hoogste' kajak-pedalo basis, 5 uur lopen rond. Road open eind mei tot begin november.",
+      "meta_title": "Lac du Mont-Cenis · EDF dam, watersport op 2000 m",
+      "name": "Lac du Mont-Cenis",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Reservoir",
+          "v": "320 miljoen m³ (EDF) · dam 120 m hoog, 1,4 km lang (1962-1969) · ~1/5 Italië, 4/5 Frankrijk"
+        },
+        {
+          "k": "Hoogte",
+          "v": "Over 1979 m (EDF) 2000 m (toeristische kantoren): beide bronwaarden"
+        },
+        {
+          "k": "Zwemmen",
+          "v": "Verboden om veiligheidsredenen (Val Cenis VVV)"
+        },
+        {
+          "k": "Col road",
+          "v": "Open 22 mei 9 november 2026; gesloten in de winter (L'Escargot run, 11 km)"
+        },
+        {
+          "k": "Optrekken",
+          "v": "Zeer laag niveau in het begin van het seizoen 58% volledig in juni 2026 (visserijfederatie)"
+        },
+        {
+          "k": "Ter plaatse",
+          "v": "Gratis toegang · openbare toiletten · parkeren in de buurt · picknickplaatsen · waterpunt op de Plan des Fontainettes"
+        }
+      ],
+      "schema_amenities": [
+        "Watersportbasis",
+        "Picknickplaatsen"
+      ],
+      "when_to_visit": "<p>Van <strong>eind mei tot begin november</strong>: de col road is geopend op 22 mei 2026 en is gepland te sluiten op 9 november 2026 (de lokale regel: van 2 mei tot 2 november). In de winter wordt de weg grotendeels een skipiste L'Escargot, 'Europa's langste groene run' (11 km). Op 6 juni 2026; boot vissen is toegestaan op zaterdag onder omstandigheden sinds 2023.</p>"
+    }
+  },
+  "latitude": 45.2378,
+  "longitude": 6.9342,
+  "official_site_url": "https://www.haute-maurienne-vanoise.com/decouvrir-la-haute-maurienne-vanoise/les-incontournables/le-mont-cenis/",
+  "partners": [],
+  "postal_code": "73480",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-17, FR pages only (Haute Maurienne Vanoise, Val Cenis, EDF, Fédération de pêche). Retenue EDF : stockage 320 millions de m³, barrage haut de 120 m et long de 1,4 km, construit 1962–1969, « le barrage en enrochement le plus important de France », dernier barrage gardé de France (frontière) ; partage ~1/5 Italie, 4/5 France. BAIGNADE INTERDITE : « pour des raisons de sécurité, la baignade est interdite » (valcenis.com) ; base nautique kayak/pédalo « la plus haute d'Europe ». Tour du lac à pied ~5 h ; fort de Ronce par le sentier des 2000 ; Jardin Alpin gratuit l'été. Pêche réglementée (carte, truites/ombles 23 cm, cristivomer 35 cm, quota 6, barque le samedi sous condition depuis 2023 ; ouverture lacs de montagne 06/06/2026). Route du col : ouverte 22/05/2026, fermeture prévue 09/11/2026 (2e lundi de novembre – 2e vendredi de mai) → winter_access closed. Altitude : EDF « plus de 1979 m » vs OT « 2000 m » — reportée ; la cote 1974 m n'apparaît sur aucune page officielle, non imprimée. Marnage : lac très bas en début de saison (58 % en juin 2026). Pas de site ARS baignade (interdite).",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "lac-du-mont-cenis",
+  "sources": [
+    "https://www.haute-maurienne-vanoise.com/decouvrir-la-haute-maurienne-vanoise/les-incontournables/le-mont-cenis/",
+    "https://www.valcenis.com/les-activites-et-loisirs/l-ete-a-val-cenis/activites-fraicheur/",
+    "https://www.edf.fr/hydraulique-pays-de-savoie/barrage-du-mont-cenis-amenagement-hydroelectrique-de-haute-maurienne",
+    "https://www.valcenis.com/decouvrir-val-cenis/ouverture-fermeture-du-col/",
+    "https://www.savoiepeche.com/Actualites_Savoie_Peche/ouverture-lacs-montagne"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published for this site; kept null rather than inferred."
+  ]
+}

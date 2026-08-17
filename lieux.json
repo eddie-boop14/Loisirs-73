@@ -1298,6 +1298,42 @@
       "access_state": "free"
     },
     {
+      "slug": "lac-d-aiguebelette",
+      "categories": [
+        "lac"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Lac d'Aiguebelette",
+          "commune": "Nances"
+        },
+        "en": {
+          "name": "Lac d'Aiguebelette",
+          "commune": "Nances"
+        },
+        "de": {
+          "name": "Lac d'Aiguebelette",
+          "commune": "Nances"
+        },
+        "it": {
+          "name": "Lac d'Aiguebelette",
+          "commune": "Nances"
+        },
+        "es": {
+          "name": "Lac d'Aiguebelette",
+          "commune": "Nances"
+        },
+        "nl": {
+          "name": "Lac d'Aiguebelette",
+          "commune": "Nances"
+        }
+      },
+      "latitude": 45.55,
+      "longitude": 5.801,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
       "slug": "lac-de-carouge-saint-pierre-d-albigny",
       "categories": [
         "lac"
@@ -1330,6 +1366,150 @@
       },
       "latitude": 45.557346,
       "longitude": 6.169422,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
+      "slug": "lac-de-la-thuile",
+      "categories": [
+        "lac"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Lac de La Thuile",
+          "commune": "La Thuile"
+        },
+        "en": {
+          "name": "Lac de La Thuile",
+          "commune": "La Thuile"
+        },
+        "de": {
+          "name": "Lac de La Thuile",
+          "commune": "La Thuile"
+        },
+        "it": {
+          "name": "Lac de La Thuile",
+          "commune": "La Thuile"
+        },
+        "es": {
+          "name": "Lac de La Thuile",
+          "commune": "La Thuile"
+        },
+        "nl": {
+          "name": "Lac de La Thuile",
+          "commune": "La Thuile"
+        }
+      },
+      "latitude": 45.530335,
+      "longitude": 6.053048,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
+      "slug": "lac-de-sainte-helene",
+      "categories": [
+        "lac"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Lac de Sainte-Hélène",
+          "commune": "Sainte-Hélène-du-Lac"
+        },
+        "en": {
+          "name": "Lac de Sainte-Hélène",
+          "commune": "Sainte-Hélène-du-Lac"
+        },
+        "de": {
+          "name": "Lac de Sainte-Hélène",
+          "commune": "Sainte-Hélène-du-Lac"
+        },
+        "it": {
+          "name": "Lac de Sainte-Hélène",
+          "commune": "Sainte-Hélène-du-Lac"
+        },
+        "es": {
+          "name": "Lac de Sainte-Hélène",
+          "commune": "Sainte-Hélène-du-Lac"
+        },
+        "nl": {
+          "name": "Lac de Sainte-Hélène",
+          "commune": "Sainte-Hélène-du-Lac"
+        }
+      },
+      "latitude": 45.480535,
+      "longitude": 6.066771,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
+      "slug": "lac-de-tignes",
+      "categories": [
+        "lac"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Lac de Tignes",
+          "commune": "Tignes"
+        },
+        "en": {
+          "name": "Lac de Tignes",
+          "commune": "Tignes"
+        },
+        "de": {
+          "name": "Lac de Tignes",
+          "commune": "Tignes"
+        },
+        "it": {
+          "name": "Lac de Tignes",
+          "commune": "Tignes"
+        },
+        "es": {
+          "name": "Lac de Tignes",
+          "commune": "Tignes"
+        },
+        "nl": {
+          "name": "Lac de Tignes",
+          "commune": "Tignes"
+        }
+      },
+      "latitude": 45.4653,
+      "longitude": 6.9042,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
+      "slug": "lac-des-hurtieres",
+      "categories": [
+        "lac"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Lac des Hurtières",
+          "commune": "Saint-Alban-d'Hurtières"
+        },
+        "en": {
+          "name": "Lac des Hurtières",
+          "commune": "Saint-Alban-d'Hurtières"
+        },
+        "de": {
+          "name": "Lac des Hurtières",
+          "commune": "Saint-Alban-d'Hurtières"
+        },
+        "it": {
+          "name": "Lac des Hurtières",
+          "commune": "Saint-Alban-d'Hurtières"
+        },
+        "es": {
+          "name": "Lac des Hurtières",
+          "commune": "Saint-Alban-d'Hurtières"
+        },
+        "nl": {
+          "name": "Lac des Hurtières",
+          "commune": "Saint-Alban-d'Hurtières"
+        }
+      },
+      "latitude": 45.482352,
+      "longitude": 6.288291,
       "is_free": true,
       "access_state": "free"
     },
@@ -1370,6 +1550,78 @@
       "access_state": "free"
     },
     {
+      "slug": "lac-du-bourget",
+      "categories": [
+        "lac"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Lac du Bourget",
+          "commune": "Aix-les-Bains"
+        },
+        "en": {
+          "name": "Lac du Bourget",
+          "commune": "Aix-les-Bains"
+        },
+        "de": {
+          "name": "Lac du Bourget",
+          "commune": "Aix-les-Bains"
+        },
+        "it": {
+          "name": "Lac du Bourget",
+          "commune": "Aix-les-Bains"
+        },
+        "es": {
+          "name": "Lac du Bourget",
+          "commune": "Aix-les-Bains"
+        },
+        "nl": {
+          "name": "Lac du Bourget",
+          "commune": "Aix-les-Bains"
+        }
+      },
+      "latitude": 45.7043,
+      "longitude": 5.8859,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
+      "slug": "lac-du-mont-cenis",
+      "categories": [
+        "lac"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Lac du Mont-Cenis",
+          "commune": "Val-Cenis"
+        },
+        "en": {
+          "name": "Lac du Mont-Cenis",
+          "commune": "Val-Cenis"
+        },
+        "de": {
+          "name": "Lac du Mont-Cenis",
+          "commune": "Val-Cenis"
+        },
+        "it": {
+          "name": "Lac du Mont-Cenis",
+          "commune": "Val-Cenis"
+        },
+        "es": {
+          "name": "Lac du Mont-Cenis",
+          "commune": "Val-Cenis"
+        },
+        "nl": {
+          "name": "Lac du Mont-Cenis",
+          "commune": "Val-Cenis"
+        }
+      },
+      "latitude": 45.2378,
+      "longitude": 6.9342,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
       "slug": "lac-saint-andre-porte-de-savoie",
       "categories": [
         "lac"
@@ -1402,6 +1654,42 @@
       },
       "latitude": 45.494167,
       "longitude": 5.986513,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
+      "slug": "lacs-de-saint-jean-de-chevelu",
+      "categories": [
+        "lac"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Lacs de Saint-Jean-de-Chevelu",
+          "commune": "Saint-Jean-de-Chevelu"
+        },
+        "en": {
+          "name": "Lacs de Saint-Jean-de-Chevelu",
+          "commune": "Saint-Jean-de-Chevelu"
+        },
+        "de": {
+          "name": "Lacs de Saint-Jean-de-Chevelu",
+          "commune": "Saint-Jean-de-Chevelu"
+        },
+        "it": {
+          "name": "Lacs de Saint-Jean-de-Chevelu",
+          "commune": "Saint-Jean-de-Chevelu"
+        },
+        "es": {
+          "name": "Lacs de Saint-Jean-de-Chevelu",
+          "commune": "Saint-Jean-de-Chevelu"
+        },
+        "nl": {
+          "name": "Lacs de Saint-Jean-de-Chevelu",
+          "commune": "Saint-Jean-de-Chevelu"
+        }
+      },
+      "latitude": 45.69338,
+      "longitude": 5.825286,
       "is_free": true,
       "access_state": "free"
     },

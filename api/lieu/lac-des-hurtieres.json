@@ -1,0 +1,24 @@
+{
+  "name": "Lac des Hurtières",
+  "commune": "Saint-Alban-d'Hurtières",
+  "gps": {
+    "lat": 45.482352,
+    "lng": 6.288291
+  },
+  "type": "lac",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "Baignade surveillée l'été, 12 h à 18 h (voir contradiction sourcée)",
+  "winter": null,
+  "official_url": "https://www.explore-maurienne.com/patrimoine-naturel/lac-des-hurtieres/",
+  "last_verified": null
+}

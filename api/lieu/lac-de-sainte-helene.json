@@ -1,0 +1,31 @@
+{
+  "name": "Lac de Sainte-Hélène",
+  "commune": "Sainte-Hélène-du-Lac",
+  "gps": {
+    "lat": 45.480535,
+    "lng": 6.066771
+  },
+  "type": "lac",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": {
+    "status": "partiel",
+    "detail": "« Un chemin aménagé accessible aux personnes à mobilité réduite permet de faire le tour du lac à l'écart des berges » (Cœur de Savoie Tourisme). Berges sauvages et pontons de pêche sans niveau PMR déclaré.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_url": "https://tourisme.coeurdesavoie.fr/fiches/lac-sainte-helene-327139/",
+    "source_name": "Cœur de Savoie Tourisme"
+  },
+  "parking": null,
+  "transport": null,
+  "season": null,
+  "winter": null,
+  "official_url": "https://tourisme.coeurdesavoie.fr/fiches/lac-sainte-helene-327139/",
+  "last_verified": null
+}

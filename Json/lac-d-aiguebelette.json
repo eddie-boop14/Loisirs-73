@@ -1,0 +1,610 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-17",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "lac",
+  "commune": "Nances",
+  "date_modified_human": "17 août 2026",
+  "date_published_human": "17 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-17",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-barque-aviron.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "\"Die Abwesenheit von Wind ... macht den Lac d'Aiguebelette zu einem außergewöhnlichen Ruderplatz\": Abteilungsbasis (1985), Weltmeisterschaften 1997 und 2015.",
+          "tag": "Sport",
+          "title": "Rudern an einem Weltklasse-Ort"
+        },
+        {
+          "description": "17 leicht rollende km, einschließlich 11 km Grünstraße, vom Maison du Lac — Siehe unsere dedizierte Seite.",
+          "tag": "Leicht",
+          "title": "Die Lake Loop mit dem Fahrrad"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>Lac d'Aiguebelette</strong> Decken <strong>5.45 km²</strong> (545 ha) in einer durchschnittlichen Höhe von 373 m, mit einer mittleren Tiefe von 30,7 m und einer 71 m großen Grube in der Nähe des Aiguebelette-le-Lac-Anschlusses. Das Tourismusbüro präsentiert es als \"eine der wärmsten natürlichen Seen in Frankreich\": seine Oberflächengewässer \"kann im Sommer 28 °C erreichen\" — Das war genau die Lesung, die Mitte August 2026 angezeigt wurde. Seine blau-grüne Sommerfarbe und sein Name — \"schöne kleine Gewässer\" - Machen Sie den Rest.</p><p>Seine Besonderheit ist sowohl regulatorische als auch natürliche: <strong>Benzinmotoren sind strengstens verboten</strong> (das Datum von 1967, das in Umlauf ist, erscheint auf keiner offiziellen Seite, also drucken wir es nicht), die Geschwindigkeit ist auf 9 km / h begrenzt, und der See - in Privatbesitz — erfordert eine Navigationsgebühr (7 € pro Tag ohne Motor). Seit März 2015 bilden See, Sümpfe und Schilfbeete 844 ha <strong>Regionales Naturschutzgebiet</strong>, gemeinsam verwaltet von CCLA und Conservatoire d'Espaces Naturels de Savoie, im regionalen Naturpark Chartreuse.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "frei",
+        "best_season": null,
+        "commune": "Nances",
+        "dogs": "An der Leine (Reserveregeln)",
+        "parking": null,
+        "stroller": null,
+        "type": "Natürlicher See",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Das Tourismusbüro gibt an, dass Oberflächengewässer \"im Sommer 28 °C erreichen können\" - und zeigte Mitte August 2026 genau 28 °C. Unterhalb von 5 m bleibt das Wasser das ganze Jahr über kalt und überschreitet 5 °C unter 20 m nicht.",
+          "q": "Ist das Wasser wirklich 28 °C?"
+        },
+        {
+          "a": "Benzinmotoren sind auf dem See strengstens verboten (CCLA). Das oft zitierte Datum von 1967 erscheint auf keiner offiziellen Seite, die wir konsultiert haben - Wir wiederholen es also nicht. Elektromotoren bleiben erlaubt, mit der Navigationsgebühr.",
+          "q": "Warum gibt es keine Motorboote?"
+        },
+        {
+          "a": "Nein: Der See ist in Privatbesitz und jeder Benutzer zahlt eine Navigationsgebühr - 7 € pro Tag ohne Motor (12 € pro Woche, 20 € pro Jahr), 9 € mit Elektromotor. Höchstdrehzahl: 9 km/h.",
+          "q": "Ist Bootfahren kostenlos?"
+        },
+        {
+          "a": "Ja, mit der Genehmigung AAPPMA: Grobfische (Rochen, Schlehen, Karpfen ...), Räuber (Barsch, Hecht, Burbot) und Salmoniden — Polarkohle, Forelle, Lavaret.",
+          "q": "Kannst du fischen?"
+        }
+      ],
+      "hero": {
+        "badge": "Natursee · Regionalreservat",
+        "lead": "Ein Smaragdsee unter den wärmsten in Frankreich - bis 28 °C im Sommer — mit keinem einzigen Boot mit Benzinmotor, geschützt als regionales Naturschutzgebiet und Heimat eines der angesehensten Ruderplätze der Welt."
+      },
+      "hero_alt": "Ruderboot auf dem Lac d'Aiguebelette, Savoie",
+      "how_to_get_there": {
+        "bike": "Die Seeschleife (17 km, 11 km Grünstraße) beginnt am Maison du Lac.",
+        "car": "A43, Ausgang 12 'Lac d'Aiguebelette'; Großer Parkplatz am Maison du Lac (Nances).",
+        "public_transport": "Lépin-le-Lac TER Station, auf der Linie Lyon nach Chambéry."
+      },
+      "meta_description": "Der Lac d'Aiguebelette: einer der wärmsten Seen Frankreichs (bis 28 °C), keine Benzinmotoren, ein 844 ha großes regionales Naturschutzgebiet, Weltklasse-Rudern und sechs Strände mit der Bewertung Excellente.",
+      "meta_title": "Lac d'Aiguebelette · 28 °C, Naturschutzgebiet, Nullmotoren",
+      "name": "Lac d'Aiguebelette",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Abmessungen",
+          "v": "5.45 km² (545 ha) · average altitude 373 m · mean depth 30.7 m, 71 m pit"
+        },
+        {
+          "k": "Motoren",
+          "v": "Benzinmotoren strengstens verboten; elektrisch erlaubt · maximale Geschwindigkeit 9 km/h"
+        },
+        {
+          "k": "Navigationsgebühr",
+          "v": "Obligatorisch (Privatsee): kein Motor €7/Tag, €12/Woche, €20/Jahr; elektrisch €9/12/30"
+        },
+        {
+          "k": "Reserve",
+          "v": "Regionales Naturschutzgebiet (März 2015, 844 ha), gemeinsam verwaltetes CCLA + CEN Savoie; Feuer, Camping, Biwaks verboten"
+        },
+        {
+          "k": "Badegewässer",
+          "v": "Jeder klassifizierte Ort auf dem See: Ausgezeichnet (2025 Abteilungsrankings)"
+        },
+        {
+          "k": "Tourismusbüro",
+          "v": "Maison du Lac, 570 Strecke d'Aiguebelette, 73470 Nances · +33 4 79 36 00 02"
+        }
+      ],
+      "schema_amenities": [
+        "Strände",
+        "Ruderbasis",
+        "Naturschutzgebiet"
+      ],
+      "when_to_visit": "<p>Sommer zum Schwimmen - sechs Strände, und jeder klassifizierte Ort auf dem See wird bewertet <strong>Ausgezeichnet</strong> in den Badegewässern der Departements 2025 — die ruhigen Wasseranzüge Rudern das ganze Jahr über: Die Abteilungsbasis, die dem Département gehört und 1985 eröffnet wurde, war 1997 und 2015 Gastgeber der Weltmeisterschaften. Innerhalb des Reservats sind Feuer, Grill, Camping und Biwaks verboten, und Hunde gehen an der Leine.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "'The absence of wind… makes the Lac d'Aiguebelette an exceptional rowing venue': departmental base (1985), World Championships 1997 and 2015.",
+          "tag": "Sport",
+          "title": "Rowing on a world-class venue"
+        },
+        {
+          "description": "17 easy-rolling km including 11 km of greenway, from the Maison du Lac — see our dedicated page.",
+          "tag": "Easy",
+          "title": "The lake loop by bike"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Lac d'Aiguebelette</strong> covers <strong>5.45 km²</strong> (545 ha) at an average altitude of 373 m, with a mean depth of 30.7 m and a 71 m pit near the Aiguebelette-le-Lac port. The tourist office presents it as 'one of the warmest natural lakes in France': its surface waters 'can reach 28 °C in summer' — which was precisely the reading displayed in mid-August 2026. Its blue-green summer colour and its name — 'beautiful little waters' — do the rest.</p><p>Its distinctiveness is regulatory as much as natural: <strong>petrol-engined craft are strictly forbidden</strong> (the 1967 date that circulates appears on no official page, so we do not print it), speed is capped at 9 km/h, and the lake — privately owned — requires a navigation fee (€7 a day without motor). Since March 2015 the lake, marshes and reed beds form an 844 ha <strong>regional nature reserve</strong>, co-managed by the CCLA and the Conservatoire d'Espaces Naturels de Savoie, within the Chartreuse regional nature park.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free",
+        "best_season": null,
+        "commune": "Nances",
+        "dogs": "On a leash (reserve rules)",
+        "parking": null,
+        "stroller": null,
+        "type": "Natural lake",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "The tourist office states surface waters 'can reach 28 °C in summer' — and displayed exactly 28 °C in mid-August 2026. Below 5 m the water stays cold all year, and does not exceed 5 °C below 20 m.",
+          "q": "Is the water really 28 °C?"
+        },
+        {
+          "a": "Petrol-engined craft are strictly forbidden on the lake (CCLA). The often-quoted 1967 date appears on no official page we consulted — so we do not repeat it. Electric motors remain allowed, with the navigation fee.",
+          "q": "Why are there no motorboats?"
+        },
+        {
+          "a": "No: the lake is privately owned and every user pays a navigation fee — €7 a day without motor (€12 a week, €20 a year), €9 with an electric motor. Maximum speed: 9 km/h.",
+          "q": "Is boating free?"
+        },
+        {
+          "a": "Yes, with the AAPPMA permit: coarse fish (roach, tench, carp…), predators (perch, pike, burbot) and salmonids — Arctic char, trout, lavaret.",
+          "q": "Can you fish?"
+        }
+      ],
+      "hero": {
+        "badge": "Natural lake · Regional reserve",
+        "lead": "An emerald lake among the warmest in France — up to 28 °C in summer — with not a single petrol-engined boat, protected as a regional nature reserve and home to one of the world's most respected rowing venues."
+      },
+      "hero_alt": "Rowing boat on the Lac d'Aiguebelette, Savoie",
+      "how_to_get_there": {
+        "bike": "The lake loop (17 km, 11 km of greenway) starts at the Maison du Lac.",
+        "car": "A43, exit 12 'Lac d'Aiguebelette'; large car park at the Maison du Lac (Nances).",
+        "public_transport": "Lépin-le-Lac TER station, on the Lyon to Chambéry line."
+      },
+      "meta_description": "The Lac d'Aiguebelette: one of France's warmest lakes (up to 28 °C), no petrol engines, an 844 ha regional nature reserve, world-class rowing and six beaches rated Excellente.",
+      "meta_title": "Lac d'Aiguebelette · 28 °C, nature reserve, zero engines",
+      "name": "Lac d'Aiguebelette",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Dimensions",
+          "v": "5.45 km² (545 ha) · average altitude 373 m · mean depth 30.7 m, 71 m pit"
+        },
+        {
+          "k": "Motors",
+          "v": "Petrol engines strictly forbidden; electric allowed · max speed 9 km/h"
+        },
+        {
+          "k": "Navigation fee",
+          "v": "Mandatory (private lake): no motor €7/day, €12/week, €20/year; electric €9/12/30"
+        },
+        {
+          "k": "Reserve",
+          "v": "Regional nature reserve (March 2015, 844 ha), co-managed CCLA + CEN Savoie; fires, camping, bivouacs forbidden"
+        },
+        {
+          "k": "Bathing water",
+          "v": "Every classified site on the lake: Excellente (2025 departmental rankings)"
+        },
+        {
+          "k": "Tourist office",
+          "v": "Maison du Lac, 570 route d'Aiguebelette, 73470 Nances · +33 4 79 36 00 02"
+        }
+      ],
+      "schema_amenities": [
+        "Beaches",
+        "Rowing base",
+        "Nature reserve"
+      ],
+      "when_to_visit": "<p>Summer for swimming — six beaches, and every classified site on the lake is rated <strong>Excellente</strong> in the 2025 departmental bathing-water rankings —; the calm water suits rowing all year: the departmental base, owned by the Département and opened in 1985, hosted the World Championships in 1997 and 2015. Within the reserve, fires, barbecues, camping and bivouacs are forbidden, and dogs go on a leash.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "'La ausencia del viento... hace que el Lac d'Aiguebelette sea un lugar de remo excepcional': base departamental (1985), Campeonato Mundial 1997 y 2015.",
+          "tag": "Deporte",
+          "title": "Remar en un lugar de clase mundial"
+        },
+        {
+          "description": "17 km de fácil desplazamiento, incluyendo 11 km de vía verde, desde el Maison du Lac — ver nuestra página dedicada.",
+          "tag": "Fácil",
+          "title": "El lazo del lago en bicicleta"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>Lac d'Aiguebelette</strong> cubiertas <strong>5.45 km²</strong> (545 ha) a una altitud media de 373 m, con una profundidad media de 30.7 m y una fosa de 71 m cerca del puerto Aiguebelette-le-Lac. La oficina turística lo presenta como 'uno de los lagos naturales más cálidos de Francia': sus aguas superficiales pueden alcanzar los 28 °C en verano que fue precisamente la lectura mostrada a mediados de agosto de 2026. Su color de verano verde azul y su nombre \"Pequeñas aguas hermosas\" Haz el resto.</p><p>Su distintividad es tanto regulatoria como natural: <strong>Se prohíbe estrictamente el suministro de gasolina</strong> (la fecha de 1967 que circula no aparece en ninguna página oficial, por lo que no lo imprimimos), la velocidad está cubierta a 9 km/h, y el lago - propiedad privada — requiere una tasa de navegación (€7 al día sin motor). Desde marzo de 2015 el lago, marismas y camas de caña forman un 844 ha <strong>reserva natural regional</strong>, cogestionado por el CCLA y el Conservatoire d'Espaces Naturels de Savoie, dentro del parque natural regional Chartreuse.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": null,
+        "commune": "Nances",
+        "dogs": "Sobre una correa (reglas de reserva)",
+        "parking": null,
+        "stroller": null,
+        "type": "Lago natural",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "La oficina de turismo declara aguas superficiales 'puede llegar a 28 °C en verano' — y exhibido exactamente 28 °C a mediados de agosto 2026. Debajo de 5 m el agua permanece fría todo el año, y no excede 5 °C por debajo de 20 m.",
+          "q": "¿Es el agua realmente 28 °C?"
+        },
+        {
+          "a": "La artesanía de entrada de gasolina está estrictamente prohibida en el lago (CCLA). La citada fecha de 1967 no aparece en ninguna página oficial que consultamos — Así que no lo repetimos. Los motores eléctricos permanecen permitidos, con la tasa de navegación.",
+          "q": "¿Por qué no hay lanchas?"
+        },
+        {
+          "a": "No: el lago es propiedad privada y cada usuario paga una cuota de navegación — €7 al día sin motor (€12 a la semana, €20 al año), €9 con motor eléctrico. Velocidad máxima: 9 km/h.",
+          "q": "¿Está libre el bote?"
+        },
+        {
+          "a": "Sí, con el permiso AAPPMA: pescado grueso (roach, tench, carpa...), depredadores (porche, pique, burbot) y salmónidos Ártico char, trucha, lavaret.",
+          "q": "¿Puedes pescar?"
+        }
+      ],
+      "hero": {
+        "badge": "Lago natural · Reserva regional",
+        "lead": "Un lago esmeralda entre los más cálidos de Francia — hasta 28 °C en verano — no con un único bote de gasolina, protegido como reserva natural regional y hogar de uno de los lugares de remo más respetados del mundo."
+      },
+      "hero_alt": "bote de remo en el Lac d'Aiguebelette, Savoie",
+      "how_to_get_there": {
+        "bike": "El lazo del lago (17 km, 11 km de vía verde) comienza en el Maison du Lac.",
+        "car": "A43, salida 12 'Lac d'Aiguebelette'; aparcamiento grande en el Maison du Lac (Nances).",
+        "public_transport": "Estación Lépin-le-Lac TER, en la línea Lyon a Chambéry."
+      },
+      "meta_description": "El Lac d'Aiguebelette: uno de los lagos más cálidos de Francia (hasta 28 °C), no hay motores de gasolina, una reserva natural regional de 844 hectáreas, remo de clase mundial y seis playas valoradas Excelentee.",
+      "meta_title": "Lac d'Aiguebelette · 28 °C, reserva natural, motores cero",
+      "name": "Lac d'Aiguebelette",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Dimensiones",
+          "v": "5.45 km² (545 ha) · average altitude 373 m · mean depth 30.7 m, 71 m pit"
+        },
+        {
+          "k": "Motores",
+          "v": "Motores de gasolina estrictamente prohibidos; eléctrico permitido · velocidad máxima 9 km/h"
+        },
+        {
+          "k": "Tasa de navegación",
+          "v": "Obligatorio (lagos privados): no motor €7/día, €12/semana, €20/año; electric €9/12/30"
+        },
+        {
+          "k": "Reserva",
+          "v": "Reserva regional de naturaleza (marzo 2015, 844 ha), cogestionada CCLA + CEN Savoie; incendios, camping, bivouacs prohibido"
+        },
+        {
+          "k": "Agua de baño",
+          "v": "Cada sitio clasificado en el lago: Excelente (2025 rankings departamentales)"
+        },
+        {
+          "k": "Oficina de turismo",
+          "v": "Maison du Lac, 570 ruta d'Aiguebelette, 73470 Nances · +33 4 79 36 00 02"
+        }
+      ],
+      "schema_amenities": [
+        "Playas",
+        "Base de remo",
+        "Reserva natural"
+      ],
+      "when_to_visit": "<p>Verano para nadar — seis playas, y cada sitio clasificado en el lago se valora <strong>Excelentee</strong> en la clasificación de agua de baño departamental 2025; los trajes de agua tranquilos remar todo el año: la base departamental, propiedad del Departamento y abierta en 1985, acogió el Campeonato Mundial en 1997 y 2015. Dentro de la reserva, se prohíben incendios, barbacoas, campings y bivouacs, y los perros van sobre una correa.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "« L'absence de vent… font du lac d'Aiguebelette un site exceptionnel pour la pratique de l'aviron » : base départementale (1985), Mondiaux 1997 et 2015.",
+          "tag": "Sport",
+          "title": "Aviron sur un plan d'eau mondial"
+        },
+        {
+          "description": "17 km bien roulants dont 11 km de voie verte, au départ de la Maison du Lac — voir notre fiche dédiée.",
+          "tag": "Facile",
+          "title": "Le tour du lac à vélo"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Le <strong>lac d'Aiguebelette</strong> couvre <strong>5,45 km²</strong> (545 ha) à 373 m d'altitude moyenne, avec une profondeur moyenne de 30,7 m et une fosse de 71 m près du port d'Aiguebelette-le-Lac. L'office de tourisme le présente comme « l'un des lacs naturels les plus chauds de France » : ses eaux de surface « peuvent atteindre 28 °C en été » — c'était précisément le relevé affiché mi-août 2026. Sa couleur bleu-vert d'été et son nom — « belles petites eaux » — font le reste.</p><p>Sa singularité est réglementaire autant que naturelle : <strong>la navigation des embarcations à motorisation thermique est strictement interdite</strong> (la date de 1967 qui circule n'apparaît sur aucune page officielle, nous ne l'imprimons donc pas), la vitesse est plafonnée à 9 km/h, et le lac — de statut privé — exige un droit de navigation (7 € la journée sans moteur). Depuis mars 2015, lac, marais et roselières forment une <strong>réserve naturelle régionale</strong> de 844 ha, cogérée par la CCLA et le Conservatoire d'Espaces Naturels de Savoie, dans le Parc naturel régional de Chartreuse.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuit",
+        "best_season": null,
+        "commune": "Nances",
+        "dogs": "En laisse (règlement de la réserve)",
+        "parking": null,
+        "stroller": null,
+        "type": "Lac naturel",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "L'office de tourisme annonce que les eaux de surface « peuvent atteindre 28 °C en été » — et affichait précisément 28 °C mi-août 2026. En dessous de 5 m, l'eau reste froide toute l'année, et ne dépasse pas 5 °C sous 20 m.",
+          "q": "L'eau est-elle vraiment à 28 °C ?"
+        },
+        {
+          "a": "La navigation des embarcations à motorisation thermique est strictement interdite sur le lac (CCLA). La date de 1967 souvent citée ne figure sur aucune page officielle consultée — nous ne la reprenons donc pas. Les moteurs électriques restent admis, avec droit de navigation.",
+          "q": "Pourquoi n'y a-t-il pas de bateaux à moteur ?"
+        },
+        {
+          "a": "Non : le lac est de statut privé et tout usager s'acquitte d'un droit de navigation — 7 € la journée sans moteur (12 € la semaine, 20 € l'année), 9 € avec moteur électrique. Vitesse maximale : 9 km/h.",
+          "q": "La navigation est-elle libre ?"
+        },
+        {
+          "a": "Oui, avec le permis de l'AAPPMA : poissons blancs (gardon, tanche, carpe…), carnassiers (perche, brochet, lotte) et salmonidés — omble chevalier, truite, lavaret.",
+          "q": "Peut-on pêcher ?"
+        }
+      ],
+      "hero": {
+        "badge": "Lac naturel · Réserve régionale",
+        "lead": "Un lac émeraude parmi les plus chauds de France — jusqu'à 28 °C l'été —, sans un seul bateau à moteur thermique, protégé en réserve naturelle régionale et devenu l'un des plans d'eau d'aviron les plus réputés au monde."
+      },
+      "hero_alt": "Barque et rameurs sur le lac d'Aiguebelette, Savoie",
+      "how_to_get_there": {
+        "bike": "Le tour du lac (17 km, dont 11 km de voie verte) part de la Maison du Lac.",
+        "car": "A43, sortie 12 « Lac d'Aiguebelette » ; grand parking à la Maison du Lac (Nances).",
+        "public_transport": "Gare TER de Lépin-le-Lac, sur la ligne Lyon à Chambéry."
+      },
+      "meta_description": "Le lac d'Aiguebelette : l'un des plus chauds de France (jusqu'à 28 °C), sans moteurs thermiques, réserve naturelle régionale de 844 ha, aviron mondial et six plages classées Excellente.",
+      "meta_title": "Lac d'Aiguebelette · 28 °C, réserve naturelle, zéro moteur",
+      "name": "Lac d'Aiguebelette",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Dimensions",
+          "v": "5,45 km² (545 ha) · altitude moyenne 373 m · profondeur moyenne 30,7 m, fosse de 71 m"
+        },
+        {
+          "k": "Moteurs",
+          "v": "Thermiques strictement interdits ; électriques admis · vitesse max 9 km/h"
+        },
+        {
+          "k": "Droit de navigation",
+          "v": "Obligatoire (lac privé) : sans moteur 7 €/jour, 12 €/semaine, 20 €/an ; électrique 9/12/30 €"
+        },
+        {
+          "k": "Réserve",
+          "v": "Réserve naturelle régionale (mars 2015, 844 ha), cogérée CCLA + CEN Savoie ; feux, camping, bivouac interdits"
+        },
+        {
+          "k": "Eaux de baignade",
+          "v": "Tous les sites classés du lac : Excellente (classement départemental 2025)"
+        },
+        {
+          "k": "Office de tourisme",
+          "v": "Maison du Lac, 570 route d'Aiguebelette, 73470 Nances · 04 79 36 00 02"
+        }
+      ],
+      "schema_amenities": [
+        "Plages",
+        "Base d'aviron",
+        "Réserve naturelle"
+      ],
+      "when_to_visit": "<p>L'été pour la baignade — six plages, et tous les sites classés du lac sont notés <strong>Excellente</strong> au classement départemental 2025 des eaux de baignade — ; le calme de l'eau se prête à l'aviron toute l'année : la base départementale, propriété du Département et inaugurée en 1985, a accueilli les championnats du monde en 1997 et 2015. Dans la réserve, feux, barbecues, camping et bivouac sont interdits, et les chiens vont en laisse.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "\"L'assenza di vento... rende l'Lac d'Aiguebelette un luogo di voga eccezionale\": base dipartimentale (1985), Campionati del Mondo 1997 e 2015.",
+          "tag": "Sport",
+          "title": "Remi su un luogo di classe mondiale"
+        },
+        {
+          "description": "17 km di facile rotolamento compreso 11 km di greenway, dalla Maison du Lac — vedi la nostra pagina dedicata.",
+          "tag": "Facile",
+          "title": "Il ciclo del lago in bicicletta"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Lac d'Aiguebelette</strong> copertine <strong>5.45 km²</strong> (545 ha) ad un'altitudine media di 373 m, con una profondità media di 30.7 m e un pozzo di 71 m vicino al porto di Aiguebelette-le-Lac. L'ufficio turistico lo presenta come uno dei laghi naturali più caldi della Francia: le sue acque superficiali possono raggiungere 28 °C in estate — che era precisamente la lettura mostrata a metà agosto 2026. Il suo colore blu-verde estivo e il suo nome — «acqua dolce» — fare il resto.</p><p>La sua peculiarità è regolamentare tanto quanto naturale: <strong>a motore a benzina sono rigorosamente vietati</strong> (la data del 1967 che circola non appare in nessuna pagina ufficiale, quindi non la stampiamo), la velocità è bloccata a 9 km/h, e il lago — proprietà privata — richiede una tassa di navigazione (7€ al giorno senza motore). Dal marzo 2015 il lago, paludi e letti a reed formano un 844 ha <strong>riserva naturale regionale</strong>, co-gestito da CCLA e Conservatoire d'Espaces Naturels de Savoie, all'interno del parco naturale regionale Chartreuse.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": null,
+        "commune": "Nances",
+        "dogs": "Al guinzaglio (regole regole)",
+        "parking": null,
+        "stroller": null,
+        "type": "Lago naturale",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "L'ufficio turistico dichiara acque superficiali «può raggiungere i 28 °C in estate» — e mostrato esattamente 28 °C a metà agosto 2026. Sotto i 5 m l'acqua rimane fredda tutto l'anno e non supera i 5 °C sotto i 20 m.",
+          "q": "L'acqua è veramente 28 °C?"
+        },
+        {
+          "a": "Le imbarcazioni a motore a benzina sono rigorosamente proibite sul lago (CCLA). La data del 1967 spesso citata appare in nessuna pagina ufficiale consultata — così non lo ripetiamo. I motori elettrici rimangono ammessi, con la tassa di navigazione.",
+          "q": "Perché non ci sono barche a motore?"
+        },
+        {
+          "a": "No. il lago è di proprietà privata e ogni utente paga una tassa di navigazione — €7 al giorno senza motore (€12 a settimana, €20 all'anno), €9 con motore elettrico. Velocità massima: 9 km/h.",
+          "q": "La barca è libera?"
+        },
+        {
+          "a": "Sì, con il permesso AAPPMA: pesci grossolani (roach, tench, carp...), predatori (perch, pike, burbot) e salmonidi — Carattere artico, trota, lavaret.",
+          "q": "Puoi pescare?"
+        }
+      ],
+      "hero": {
+        "badge": "Lago naturale · Riserva regionale",
+        "lead": "Un lago smeraldo tra i più caldi della Francia — fino a 28 °C in estate — con non una singola barca a motore a benzina, protetta come riserva naturale regionale e sede di uno dei luoghi di canottaggio più rispettati al mondo."
+      },
+      "hero_alt": "Barca a remi Lac d'Aiguebelette, Savoie",
+      "how_to_get_there": {
+        "bike": "Il ciclo del lago (17 km, 11 km di greenway) inizia alla Maison du Lac.",
+        "car": "A43, uscita 12 'Lac d'Aiguebelette'; grande parcheggio al Maison du Lac (Nances).",
+        "public_transport": "Stazione Lépin-le-Lac TER, sulla linea Lione a Chambéry."
+      },
+      "meta_description": "La Lac d'Aiguebelette: uno dei laghi più caldi della Francia (fino a 28 °C), senza motori a benzina, una riserva naturale regionale di 844 ha, voga di classe mondiale e sei spiagge classificate Eccellente.",
+      "meta_title": "Lac d'Aiguebelette · 28 °C, riserva naturale, zero motori",
+      "name": "Lac d'Aiguebelette",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Dimensioni",
+          "v": "5.45 km² (545 ha) · average altitude 373 m · mean depth 30.7 m, 71 m pit"
+        },
+        {
+          "k": "Motori",
+          "v": "Motori a benzina rigorosamente vietati; elettrico consentito · velocità massima 9 km/h"
+        },
+        {
+          "k": "Tassa di navigazione",
+          "v": "Mandatorio (laghetto privato): no motore €7/giorno, €12/settimana, €20/anno; elettrico €9/12/30"
+        },
+        {
+          "k": "Riserva",
+          "v": "Riserva naturale regionale (marzo 2015, 844 ha), co-gestito CCLA + CEN Savoie; incendi, campeggio, bivacchi vietati"
+        },
+        {
+          "k": "Acqua da bagno",
+          "v": "Ogni sito classificato sul lago: Eccellente (2025 classifiche dipartimentali)"
+        },
+        {
+          "k": "Ufficio del turismo",
+          "v": "Maison du Lac, 570 route d'Aiguebelette, 73470 Nances · +33 4 79 36 00 02"
+        }
+      ],
+      "schema_amenities": [
+        "Spiagge",
+        "Base di riga",
+        "Riserva naturale"
+      ],
+      "when_to_visit": "<p>Estate per il nuoto — sei spiagge, e ogni sito classificato sul lago è valutato <strong>Eccellente.</strong> nella classifica delle acque di balneazione dipartimentali del 2025 —; l'acqua calma si addice tutto l'anno: la base dipartimentale, di proprietà del Dipartimento e aperta nel 1985, ha ospitato i Campionati del Mondo nel 1997 e 2015. All'interno della riserva sono vietati incendi, barbecue, campeggio e bivacchi, e i cani vanno al guinzaglio.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "'De afwezigheid van wind... maakt de Lac d'Aiguebelette een uitzonderlijke roeilocatie': departementale basis (1985), Wereldkampioenschappen 1997 en 2015.",
+          "tag": "Sport",
+          "title": "Roeien op een locatie van wereldklasse"
+        },
+        {
+          "description": "17 gemakkelijk te walsen km inclusief 11 km greenway, van de Maison du Lac Zie onze speciale pagina.",
+          "tag": "Makkelijk",
+          "title": "De meerlus per fiets"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>Lac d'Aiguebelette</strong> omslagen <strong>5.45 km²</strong> (545 ha) op een gemiddelde hoogte van 373 m, met een gemiddelde diepte van 30,7 m en een put van 71 m bij de Aiguebelette-le-Lac-poort. Het VVV-kantoor presenteert het als \"een van de warmste natuurlijke meren in Frankrijk\": het oppervlaktewater \"in de zomer 28 °C kan bereiken\"  dat was precies de lezing weergegeven midden augustus 2026. De blauw-groene zomerkleur en de naam ervan 'Mooie kleine wateren' Doe de rest.</p><p>Het onderscheidend vermogen is zowel regelgevend als natuurlijk: <strong>benzinemotorvaartuigen zijn strikt verboden</strong> (de datum van 1967 die circuleert verschijnt op geen enkele officiële pagina, zodat we het niet afdrukken), snelheid wordt begrensd op 9 km/h, en het meer . particulier eigendom vereist een navigatie vergoeding (€7 per dag zonder motor). Sinds maart 2015 vormen het meer, moerassen en rietbedden een 844 ha <strong>regionaal natuurreservaat</strong>, mede beheerd door de CCLA en de Conservatoire d'Espaces Naturels de Savoie, binnen het regionale natuurpark Chartreuse.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Vrij",
+        "best_season": null,
+        "commune": "Nances",
+        "dogs": "Aan de lijn (reserveregels)",
+        "parking": null,
+        "stroller": null,
+        "type": "Natuurmeer",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Het VVV-kantoor stelt oppervlaktewateren 'kan 28 °C bereiken in de zomer'  en precies 28 °C in midden augustus 2026. Onder 5 m blijft het water het hele jaar koud en niet meer dan 5 °C onder 20 m.",
+          "q": "Is het water echt 28 °C?"
+        },
+        {
+          "a": "Op het meer (CCLA) is het verboden om met benzinemotor te varen. De vaak geciteerde 1967 datum verschijnt op geen enkele officiële pagina die wij geraadpleegd hebben. Dus we herhalen het niet. Elektrische motoren blijven toegestaan, met de navigatiekosten.",
+          "q": "Waarom zijn er geen motorboten?"
+        },
+        {
+          "a": "Nee: het meer is privé-eigendom en elke gebruiker betaalt een navigatie vergoeding €7 per dag zonder motor (€12 per week, €20 per jaar), €9 met een elektromotor. Maximumsnelheid: 9 km/h.",
+          "q": "Is varen gratis?"
+        },
+        {
+          "a": "Ja, met de AAPPMA-vergunning: grove vis (kakkerlak, tench, karper...), roofdieren (perch, snoek, burbot) en zalmachtigen  Arctische char, forel, lavaret.",
+          "q": "Kun je vissen?"
+        }
+      ],
+      "hero": {
+        "badge": "Natuurmeer · Regionale reserve",
+        "lead": "Een smaragdmeer onder de warmste van Frankrijk  tot 28 °C in de zomer met geen enkele benzinemotor, beschermd als een regionaal natuurgebied en thuisbasis van een van 's werelds meest gerespecteerde roeiplaatsen."
+      },
+      "hero_alt": "Roeiboot op de Lac d'Aiguebelette, Savoie",
+      "how_to_get_there": {
+        "bike": "De meerlus (17 km, 11 km greenway) begint bij de Maison du Lac.",
+        "car": "A43, afslag 12 'Lac d'Aiguebelette'; grote parkeerplaats op de Maison du Lac (Nances).",
+        "public_transport": "Lépin-le-Lac TER station, op de Lyon naar Chambéry lijn."
+      },
+      "meta_description": "De Lac d'Aiguebelette: één van de warmste meren van Frankrijk (tot 28 °C), geen benzinemotoren, een regionaal natuurgebied van 844 ha, roeien van wereldklasse en zes stranden met Excelente-waarde.",
+      "meta_title": "Lac d'Aiguebelette · 28 °C, natuurreservaat, nulmotoren",
+      "name": "Lac d'Aiguebelette",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Afmetingen",
+          "v": "5.45 km² (545 ha) · average altitude 373 m · mean depth 30.7 m, 71 m pit"
+        },
+        {
+          "k": "Motoren",
+          "v": "benzinemotoren die strikt verboden zijn; elektrisch toegestaan · max. snelheid 9 km/h"
+        },
+        {
+          "k": "Navigatievergoeding",
+          "v": "Verplicht (privé-meer): geen motor €7/dag, €12/week, €20/jaar; electric €9/12/30"
+        },
+        {
+          "k": "Reserve",
+          "v": "Regionaal natuurreservaat (maart 2015, 844 ha), gezamenlijk beheerd CCLA + CEN Savoie; branden, kamperen, bivaks verboden"
+        },
+        {
+          "k": "Zwemwater",
+          "v": "Elke geheime plek op het meer: Excellente (2025 departementale ranglijsten)"
+        },
+        {
+          "k": "Bureau voor Toerisme",
+          "v": "Maison du Lac, 570 route d'Aiguebelette, 73470 Nances · +33 4 79 36 00 02"
+        }
+      ],
+      "schema_amenities": [
+        "Stranden",
+        "Roeibasis",
+        "Natuurreservaat"
+      ],
+      "when_to_visit": "<p>Zomer om te zwemmen zes stranden, en elke geheime site op het meer wordt beoordeeld <strong>Excelente</strong> in de departementale zwemwaterranglijst van 2025; Het kalme water past het hele jaar bij roeien: Het departementale basis, eigendom van het Département en geopend in 1985, was gastheer van het Wereldkampioenschap in 1997 en 2015. Binnen het reservaat zijn branden, barbecues, camping en bivaks verboden, en honden gaan aan de lijn.</p>"
+    }
+  },
+  "latitude": 45.55,
+  "longitude": 5.801,
+  "official_site_url": "https://www.lac-aiguebelette.com/decouvrir-le-lac-daiguebelette/",
+  "partners": [],
+  "postal_code": "73470",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-17, FR pages only (OT lac-aiguebelette.com + CCLA). 5,45 km² (545 ha), altitude moyenne 373 m, profondeur moyenne 30,7 m, fosse principale 71 m près du port d'Aiguebelette-le-Lac. « L'un des lacs naturels les plus chauds de France… 28 °C en été » — relevé 28 °C affiché le 15/08/2026. Moteurs thermiques « strictement interdits » (CCLA) — la date 1967 ne figure sur AUCUNE page officielle : non imprimée, contradiction consignée. RNR créée mars 2015, 844 ha, cogérée CCLA + CEN Savoie ; feux, camping, bivouac interdits ; chiens en laisse. Droit de navigation obligatoire (lac privé) : sans moteur 7 €/j, 12 €/sem, 20 €/an ; électrique 9/12/30 €. Vitesse max 9 km/h. Base départementale d'aviron (Département propriétaire, inaugurée 1985), Mondiaux 1997 et 2015. Six plages listées par l'OT. Pêche : blancs, carnassiers, salmonidés (omble, truite, lavaret), AAPPMA. ARS 2025 : tous les sites classés du lac Excellente (listing départemental). PNR de Chartreuse.",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "lac-d-aiguebelette",
+  "sources": [
+    "https://www.lac-aiguebelette.com/decouvrir-le-lac-daiguebelette/",
+    "https://www.lac-aiguebelette.com/temperature-de-leau/",
+    "https://www.lac-aiguebelette.com/une-reserve-naturelle-regionale/",
+    "https://www.lac-aiguebelette.com/droit-de-navigation/",
+    "https://ccla.fr/usages-du-lac-reglementation/droit-de-navigation/",
+    "https://ccla.fr/activites-recreatives-et-sportives/aviron/"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published for this site; kept null rather than inferred."
+  ]
+}

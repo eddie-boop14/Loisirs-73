@@ -1,0 +1,623 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-17",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "lac",
+  "commune": "Saint-Alban-d'Hurtières",
+  "date_modified_human": "17 août 2026",
+  "date_published_human": "17 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-17",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-reserve-zone-humide-3.jpg",
+  "hubs": [
+    "bases-de-loisirs"
+  ],
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Lifeguarded im Sommer 12:00 bis 18:00, Wasser ~ 25 ° C, bewertet Excellente in der Abteilungsrankings 2025.",
+          "tag": "frei",
+          "title": "Schwimmen von einem Sandstrand"
+        },
+        {
+          "description": "Spielerische Lernposten und eine Wildnis verstecken sich in der Ebene, klassifiziert seit 2002.",
+          "tag": "Natur",
+          "title": "Natura 2000 Entdeckungspfad"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>Lac des Hurtières</strong>, bei Le Verney in Saint-Alban-d'Hurtières, heiratet zwei Aufrufe: <strong>frei, Lifeguarded Sommerschwimmen</strong> von einem Sandstrand - das Wasser erreicht etwa 25 °C — und eine klare klassifizierte <strong>Natura 2000 seit 2002</strong>, verwaltet mit dem Conservatoire d'espaces naturels de Savoie, erkundet über einen Entdeckungspfad mit spielerischen Lernposten und einem Tier verstecken. Die 2025 Abteilung Badegewässer-Rankings bewerten die Website <strong>Ausgezeichnet</strong>.</p><p>Über den genauen Überwachungszeitraum unterscheiden sich die Quellen aus dem gleichen Netzwerk, und wir berichten sie so, wie sie sind: 'every afternoon during the summer season' from 12:00 to 18:00 per maurienne.fr, 'by two lifeguards between 12 and 6 pm every day in July-August' per explore-maurienne.com. Die gleiche Vorsicht gilt für die Oberfläche: Die Seite des Rathauses erwähnt 4,5 ha, dann 20 ha nach der Erweiterung — die zweite Zahl, die vielleicht den gesamten Standort abdeckt.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "frei",
+        "best_season": "Rettungsschwimmen im Sommer, 12:00 bis 18:00 Uhr (siehe Quelle Widerspruch)",
+        "commune": "Saint-Alban-d'Hurtières",
+        "dogs": "Nicht erlaubt am Strand",
+        "parking": null,
+        "stroller": null,
+        "type": "See",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Ja, frei. Zur Aufsicht existieren zwei Formulierungen: 'jeden Nachmittag während der Sommersaison' (12:00 bis 18:00 Uhr) per maurienne.fr, 'jeden Tag im Juli-August' mit zwei Rettungsschwimmern pro explore-maurienne.com. Das Wasser ist ausgezeichnet (2025 Abteilungsrankings).",
+          "q": "Ist Schwimmen frei und Lifeguarded?"
+        },
+        {
+          "a": "Die Hurtières Ebene ist seit 2002 Natura 2000, verwaltet mit dem Conservatoire d'espaces naturels de Savoie. Ein Entdeckungspfad mit spielerischen Lernposten und einem Wildtierversteck lässt Sie seine Flora und Fauna erkunden.",
+          "q": "Was ist der Natura 2000 Bereich?"
+        },
+        {
+          "a": "Nicht am Strand: \"Unsere Hundefreunde sind nicht am Strand erlaubt\" - Das Verbot gilt für das Badegebiet und die Natura 2000-Zone pro Maurienne Tourisme-Netzwerk.",
+          "q": "Sind Hunde erlaubt?"
+        },
+        {
+          "a": "Das Café Gourmand, ein guinguette-spirit Bar-Restaurant mit Terrasse über dem See, öffnet von Mitte Mai bis Ende August (Buchung über das Rathaus empfohlen).",
+          "q": "Überall zu essen?"
+        }
+      ],
+      "hero": {
+        "badge": "Freies Schwimmen · Natura 2000",
+        "lead": "Im unteren Maurienne auf 320 m befindet sich ein sandig gestrandeter See, in dem im Sommer frei schwimmen und gerettet wird. im Herzen einer Natura 2000-Ebene, mit einem Tierheim, Angeln und einem Gunguette-Café."
+      },
+      "hero_alt": "See und Feuchtgebiet an der Lac des Hurtières, Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "In der unteren Maurienne, zwischen Aiguebelle und La Chambre (A43 Ausfahrt 26), bei Le Verney; Großer kostenloser Parkplatz am Seeeingang.",
+        "public_transport": null
+      },
+      "meta_description": "Der Lac des Hurtières (unterer Maurienne, 320 m): kostenloses Sommerschwimmen mit Rettungsschwimmen, 25 °C Wasser mit ausgezeichneter Qualität, eine Natura 2000-Ebene mit einem Tierfell, eine Gunguette von Mitte Mai bis Ende August.",
+      "meta_title": "Lac des Hurtières · freies Schwimmen, Natura 2000",
+      "name": "Lac des Hurtières",
+      "name_alternates": [
+        "Plan d'eau des Hurtières"
+      ],
+      "practical_info": [
+        {
+          "k": "Schwimmen",
+          "v": "Frei, im Sommer 12:00 bis 18:00 Uhr ('jeden Nachmittag' / 'jeden Tag im Juli-August') - beide Formulierungen bezogen"
+        },
+        {
+          "k": "Wasser",
+          "v": "≈ 25 °C im Sommer · ausgezeichnet bewertet (2025 Abteilungsrankings)"
+        },
+        {
+          "k": "Einrichtungen",
+          "v": "Sandstrand, Beachvolleyball, Pétanque, Kinder-Abenteuerkurs, Spiel- und Picknickplätze"
+        },
+        {
+          "k": "Schutz",
+          "v": "Hurtières schlicht klassifiziert Natura 2000 seit 2002, verwaltet mit CEN Savoie"
+        },
+        {
+          "k": "Oberfläche",
+          "v": "4,5 ha ursprünglich — 20 ha nach Vergrößerung pro derselben Rathausseite (Geltungsumfang unsicher)"
+        },
+        {
+          "k": "Kontakt",
+          "v": "Rathaus +33 4 79 36 12 03 · Tourismusbüro +33 4 79 36 29 24"
+        }
+      ],
+      "schema_amenities": [
+        "Schwimmen mit Rettungsschwimmern",
+        "Wildtiere",
+        "Spielplatz"
+      ],
+      "when_to_visit": "<p>Sommer für das Rettungsschwimmen (12:00 bis 18:00 Uhr) und die <strong>Café Gourmand</strong>, \"mit seiner Terrasse und seinem guinguette Geist\", geöffnet von Mitte Mai bis Ende August. Die Website bleibt das ganze Jahr über geöffnet, kostenlos, mit einem großen Parkplatz am Eingang. Anmerkung: \"Unsere Hundefreunde sind nicht am Strand erlaubt.\" Angeln ist mit der Savoie-Genehmigung möglich, die im Tourismusbüro verkauft wird - Barsch und grober Fisch.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "Lifeguarded in summer 12:00 to 18:00, water ~25 °C, rated Excellente in the 2025 departmental rankings.",
+          "tag": "Free",
+          "title": "Swimming from a sandy beach"
+        },
+        {
+          "description": "Playful learning posts and a wildlife hide in the plain, classified since 2002.",
+          "tag": "Nature",
+          "title": "Natura 2000 discovery path"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Lac des Hurtières</strong>, at Le Verney in Saint-Alban-d'Hurtières, marries two callings: <strong>free, lifeguarded summer swimming</strong> from a sandy beach — the water reaches about 25 °C — and a plain classified <strong>Natura 2000 since 2002</strong>, managed with the Conservatoire d'espaces naturels de Savoie, explored via a discovery path with playful learning posts and a wildlife hide. The 2025 departmental bathing-water rankings rate the site <strong>Excellente</strong>.</p><p>On the exact supervision period, sources from the same network differ, and we report them as they stand: 'every afternoon during the summer season' from 12:00 to 18:00 per maurienne.fr, 'by two lifeguards between 12 and 6 pm every day in July-August' per explore-maurienne.com. The same caution applies to the surface area: the town hall's page mentions 4.5 ha, then 20 ha after enlargement — the second figure perhaps covering the whole site.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free",
+        "best_season": "Lifeguarded swimming in summer, 12:00 to 18:00 (see sourced contradiction)",
+        "commune": "Saint-Alban-d'Hurtières",
+        "dogs": "Not allowed on the beach",
+        "parking": null,
+        "stroller": null,
+        "type": "Lake",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Yes, free. On supervision, two wordings coexist: 'every afternoon during the summer season' (12:00 to 18:00) per maurienne.fr, 'every day in July-August' with two lifeguards per explore-maurienne.com. The water is rated Excellente (2025 departmental rankings).",
+          "q": "Is swimming free and lifeguarded?"
+        },
+        {
+          "a": "The Hurtières plain has been Natura 2000 since 2002, managed with the Conservatoire d'espaces naturels de Savoie. A discovery path with playful learning posts and a wildlife hide let you explore its flora and fauna.",
+          "q": "What is the Natura 2000 area?"
+        },
+        {
+          "a": "Not on the beach: 'our canine friends are not allowed on the beach' — the ban covers the bathing area and the Natura 2000 zone per the Maurienne Tourisme network.",
+          "q": "Are dogs allowed?"
+        },
+        {
+          "a": "The Café Gourmand, a guinguette-spirit bar-restaurant with a terrace over the lake, opens from mid-May to the end of August (booking advised via the town hall).",
+          "q": "Anywhere to eat?"
+        }
+      ],
+      "hero": {
+        "badge": "Free swimming · Natura 2000",
+        "lead": "In the lower Maurienne at 320 m, a sandy-beached lake where swimming is free and lifeguarded in summer — at the heart of a Natura 2000 plain, with a wildlife hide, fishing and a guinguette café."
+      },
+      "hero_alt": "Lake and wetland at the Lac des Hurtières, Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "In the lower Maurienne, between Aiguebelle and La Chambre (A43 exit 26), at Le Verney; large free car park at the lake entrance.",
+        "public_transport": null
+      },
+      "meta_description": "The Lac des Hurtières (lower Maurienne, 320 m): free lifeguarded summer swimming, 25 °C water rated Excellente, a Natura 2000 plain with a wildlife hide, a guinguette from mid-May to late August.",
+      "meta_title": "Lac des Hurtières · free swimming, Natura 2000",
+      "name": "Lac des Hurtières",
+      "name_alternates": [
+        "Plan d'eau des Hurtières"
+      ],
+      "practical_info": [
+        {
+          "k": "Swimming",
+          "v": "Free, lifeguarded in summer 12:00 to 18:00 ('every afternoon' / 'every day in July-August' — both wordings sourced)"
+        },
+        {
+          "k": "Water",
+          "v": "≈ 25 °C in summer · rated Excellente (2025 departmental rankings)"
+        },
+        {
+          "k": "Facilities",
+          "v": "Sandy beach, beach volleyball, pétanque, children's adventure course, play and picnic areas"
+        },
+        {
+          "k": "Protection",
+          "v": "Hurtières plain classified Natura 2000 since 2002, managed with CEN Savoie"
+        },
+        {
+          "k": "Surface",
+          "v": "4.5 ha originally — 20 ha after enlargement per the same town-hall page (scope uncertain)"
+        },
+        {
+          "k": "Contact",
+          "v": "Town hall +33 4 79 36 12 03 · tourist office +33 4 79 36 29 24"
+        }
+      ],
+      "schema_amenities": [
+        "Lifeguarded swimming",
+        "Wildlife hide",
+        "Playground"
+      ],
+      "when_to_visit": "<p>Summer for the lifeguarded swimming (12:00 to 18:00) and the <strong>Café Gourmand</strong>, 'with its terrace and its guinguette spirit', open from mid-May to the end of August. The site stays open all year, free, with a large car park at the entrance. Note: 'our canine friends are not allowed on the beach'. Fishing is possible with the Savoie permit, sold at the tourist office — perch and coarse fish.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "Salvavidas en verano de 12:00 a 18:00, agua ~25 °C, puntuado Excelentee en el ranking departamental 2025.",
+          "tag": "Gratis",
+          "title": "Nadando desde una playa de arena"
+        },
+        {
+          "description": "Postes lúdicos de aprendizaje y una fauna silvestre se esconden en la llanura, clasificada desde 2002.",
+          "tag": "Naturaleza",
+          "title": "Ruta de descubrimiento Natura 2000"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>Lac des Hurtières</strong>, en Le Verney en Saint-Alban-d'Hurtières, marries dos llamadas: <strong>natación de verano libre y salvavidas</strong> desde una playa de arena el agua alcanza unos 25 °C y una llanura clasificada <strong>Natura 2000 desde 2002</strong>, gestionado con el Conservatorio d'espaces naturels de Savoie, explorado a través de un camino de descubrimiento con puestos de aprendizaje lúdicos y un escondite de vida silvestre. Las clasificaciones de agua de baño departamental 2025 clasifican el sitio <strong>Excelentee</strong>.</p><p>En el período de supervisión exacto, las fuentes de la misma red difieren, y las reportamos como están: 'todas las tardes durante la temporada de verano' de 12:00 a 18:00 por maurienne.fr, 'por dos salvavidas entre 12 y 6 pm todos los días en julio-agosto' por explore-maurienne.com. La misma precaución se aplica a la superficie: la página del ayuntamiento menciona 4.5 ha, luego 20 ha después de la ampliación — la segunda figura quizás cubriendo todo el sitio.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": "Natación salvavidas en verano, de 12:00 a 18:00 (ver contradicción fuente)",
+        "commune": "Saint-Alban-d'Hurtières",
+        "dogs": "No se permite en la playa",
+        "parking": null,
+        "stroller": null,
+        "type": "Lago",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Sí, gratis. En supervisión coexisten dos palabras: 'cada tarde durante la temporada de verano' (12:00 a 18:00) por maurienne.fr, 'todo el día en julio-agosto' con dos salvavidas por explore-maurienne.com. El agua está valorada como Excelentee (2025 rankings departamentales).",
+          "q": "¿Está nadando libre y salvavidas?"
+        },
+        {
+          "a": "La llanura Hurtières ha sido Natura 2000 desde 2002, gestionada con el Conservatorio d'espaces naturels de Savoie. Un camino de descubrimiento con puestos de aprendizaje lúdicos y un escondite de vida silvestre te permite explorar su flora y fauna.",
+          "q": "¿Cuál es el área Natura 2000?"
+        },
+        {
+          "a": "No en la playa: \"nuestros amigos caninos no están permitidos en la playa\" la prohibición cubre la zona de baño y la zona Natura 2000 por la red Maurienne Tourisme.",
+          "q": "¿Se permiten perros?"
+        },
+        {
+          "a": "El Café Gourmand, bar-restaurante de espíritu de guinguette con una terraza sobre el lago, se abre de mediados de mayo a finales de agosto (reserva vía el ayuntamiento).",
+          "q": "¿Dónde comer?"
+        }
+      ],
+      "hero": {
+        "badge": "Piscina gratuita · Natura 2000",
+        "lead": "En la parte inferior Maurienne a 320 m, un lago arenoso donde la natación es libre y salvavidas en verano — en el corazón de una llanura Natura 2000, con un escondite de fauna, pesca y una cafetería de guinguette."
+      },
+      "hero_alt": "Lago y humedal en el Lac des Hurtières, Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "En la Maurienne inferior, entre Aiguebelle y La Chambre (A43, salida 26), en Le Verney; amplio aparcamiento gratuito en la entrada del lago.",
+        "public_transport": null
+      },
+      "meta_description": "El Lac des Hurtières (menos Maurienne, 320 m): natación de verano libre salvavidas, 25 °C agua puntuada Excelentee, una llanura Natura 2000 con un escondite de vida silvestre, una guinguette de mediados de mayo a finales de agosto.",
+      "meta_title": "Lac des Hurtières · natación gratuita, Natura 2000",
+      "name": "Lac des Hurtières",
+      "name_alternates": [
+        "Plan d'eau des Hurtières"
+      ],
+      "practical_info": [
+        {
+          "k": "Nadando",
+          "v": "Libre, salvavidas en verano de 12:00 a 18:00 ('cada tarde' / 'cada día en julio-agosto' — ambas palabras fuente)"
+        },
+        {
+          "k": "Agua",
+          "v": "≈ 25 °C en verano · puntuado Excelentee (2025 rankings departamentales)"
+        },
+        {
+          "k": "Instalaciones",
+          "v": "Playa de arena, voleibol playa, pétanque, campo de aventura infantil, zonas de juegos y picnic"
+        },
+        {
+          "k": "Protección",
+          "v": "Hurtières llano clasificado Natura 2000 desde 2002, gestionado con CEN Savoie"
+        },
+        {
+          "k": "Superficie",
+          "v": "4.5 ha originalmente — 20 ha después de la ampliación por la misma página del casco urbano (incierto del telescopio)"
+        },
+        {
+          "k": "Contacto",
+          "v": "Ayuntamiento +33 4 79 36 12 03 · oficina de turismo +33 4 79 36 29 24"
+        }
+      ],
+      "schema_amenities": [
+        "Natación salvavidas",
+        "Escondite de vida silvestre",
+        "Playground"
+      ],
+      "when_to_visit": "<p>Verano para la natación salvavidas (12:00 a 18:00) y el <strong>Café Gourmand</strong>, 'con su terraza y su espíritu de guinguette', abierto desde mediados de mayo hasta finales de agosto. El sitio permanece abierto todo el año, libre, con un gran aparcamiento en la entrada. Nota: \"nuestros amigos caninos no están permitidos en la playa\". La pesca es posible con el permiso Savoie, vendido en la oficina turística — perca y pescado grueso.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Surveillée l'été de 12 h à 18 h, eau ~25 °C, classée Excellente au classement départemental 2025.",
+          "tag": "Gratuit",
+          "title": "Baignade sur plage de sable"
+        },
+        {
+          "description": "Bornes ludiques et pédagogiques et observatoire dans la plaine classée depuis 2002.",
+          "tag": "Nature",
+          "title": "Chemin de découverte Natura 2000"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Le <strong>lac des Hurtières</strong>, au lieu-dit Le Verney à Saint-Alban-d'Hurtières, marie deux vocations : une <strong>baignade gratuite, surveillée l'été</strong> sur plage de sable — l'eau y atteint environ 25 °C —, et une plaine classée <strong>Natura 2000 depuis 2002</strong>, gérée avec le Conservatoire d'espaces naturels de Savoie, qu'un chemin de découverte à bornes pédagogiques et un observatoire font visiter. Le classement départemental 2025 des eaux de baignade note le site <strong>Excellente</strong>.</p><p>Sur la période exacte de surveillance, les sources du même réseau diffèrent, et nous les reportons telles quelles : « tous les après-midi pendant la saison estivale » de 12 h à 18 h selon maurienne.fr, « par deux maîtres-nageurs entre 12 h et 18 h tous les jours en juillet août » selon explore-maurienne.com. Même prudence pour la superficie : la page de la mairie évoque 4,5 ha puis 20 ha après agrandissement — le second chiffre visant peut-être l'ensemble du site.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuit",
+        "best_season": "Baignade surveillée l'été, 12 h à 18 h (voir contradiction sourcée)",
+        "commune": "Saint-Alban-d'Hurtières",
+        "dogs": "Interdits sur la plage",
+        "parking": null,
+        "stroller": null,
+        "type": "Plan d'eau",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Oui, gratuite. Sur la surveillance, deux formulations coexistent : « tous les après-midi pendant la saison estivale » (12 h à 18 h) selon maurienne.fr, « tous les jours en juillet août » par deux maîtres-nageurs selon explore-maurienne.com. L'eau est classée Excellente (classement départemental 2025).",
+          "q": "La baignade est-elle gratuite et surveillée ?"
+        },
+        {
+          "a": "La Plaine des Hurtières est classée Natura 2000 depuis 2002 et gérée avec le Conservatoire d'espaces naturels de Savoie. Un chemin de découverte à bornes ludiques et pédagogiques et un observatoire permettent d'explorer la faune et la flore.",
+          "q": "Qu'est-ce que la zone Natura 2000 ?"
+        },
+        {
+          "a": "Pas sur la plage : « nos amis les chiens ne sont pas autorisés sur la plage » — l'interdiction couvre la zone de baignade et la zone Natura 2000 selon le réseau Maurienne Tourisme.",
+          "q": "Les chiens sont-ils admis ?"
+        },
+        {
+          "a": "Le Café Gourmand, bar-restaurant à l'esprit guinguette avec terrasse sur le lac, ouvre de mi-mai à fin août (réservation conseillée auprès de la mairie).",
+          "q": "Et pour manger ?"
+        }
+      ],
+      "hero": {
+        "badge": "Baignade gratuite · Natura 2000",
+        "lead": "En basse Maurienne, à 320 m, un plan d'eau à plage de sable où la baignade est gratuite et surveillée l'été — au cœur d'une plaine classée Natura 2000, avec observatoire, pêche et guinguette."
+      },
+      "hero_alt": "Plan d'eau et zone humide du lac des Hurtières, Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "En basse Maurienne, entre Aiguebelle et La Chambre (A43 sortie 26), au lieu-dit Le Verney ; grand parking gratuit à l'entrée du lac.",
+        "public_transport": null
+      },
+      "meta_description": "Le lac des Hurtières (basse Maurienne, 320 m) : baignade gratuite surveillée l'été, eau à 25 °C classée Excellente, plaine Natura 2000 avec observatoire, guinguette de mi-mai à fin août.",
+      "meta_title": "Lac des Hurtières · baignade gratuite, Natura 2000",
+      "name": "Lac des Hurtières",
+      "name_alternates": [
+        "Plan d'eau des Hurtières"
+      ],
+      "practical_info": [
+        {
+          "k": "Baignade",
+          "v": "Gratuite, surveillée l'été 12 h à 18 h (« tous les après-midi » / « tous les jours en juillet août » — les deux formulations sourcées)"
+        },
+        {
+          "k": "Eau",
+          "v": "≈ 25 °C l'été · classée Excellente (classement départemental 2025)"
+        },
+        {
+          "k": "Équipements",
+          "v": "Plage de sable, beach-volley, pétanque, parcours-aventure enfants, aires de jeux et de pique-nique"
+        },
+        {
+          "k": "Protection",
+          "v": "Plaine des Hurtières classée Natura 2000 depuis 2002, gestion CEN Savoie"
+        },
+        {
+          "k": "Superficie",
+          "v": "4,5 ha à l'origine — 20 ha après agrandissement selon la même page mairie (périmètre incertain)"
+        },
+        {
+          "k": "Contact",
+          "v": "Mairie 04 79 36 12 03 · OT 04 79 36 29 24"
+        }
+      ],
+      "schema_amenities": [
+        "Baignade surveillée",
+        "Observatoire nature",
+        "Aire de jeux"
+      ],
+      "when_to_visit": "<p>L'été pour la baignade surveillée (12 h à 18 h) et le <strong>Café Gourmand</strong>, « avec sa terrasse et son esprit guinguette », ouvert de mi-mai à fin août. Le site reste ouvert toute l'année, gratuit, avec un grand parking à l'entrée. Attention : « nos amis les chiens ne sont pas autorisés sur la plage ». Pêche possible avec la carte de Savoie, vendue à l'office de tourisme — perches et poissons blancs.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Salvataggio in estate dalle 12:00 alle 18:00, acqua ~25 °C, valutato Eccellente nelle classifiche di reparto 2025.",
+          "tag": "Gratis",
+          "title": "Nuoto da una spiaggia di sabbia"
+        },
+        {
+          "description": "Post di apprendimento giocoso e una fauna selvatica si nascondono nella pianura, classificato dal 2002.",
+          "tag": "Natura",
+          "title": "Natura 2000 percorso di scoperta"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Lac des Hurtières</strong>, a Le Verney in Saint-Alban-d'Hurtières, sposa due chiamate: <strong>free, bagni estivi salvavita</strong> da una spiaggia di sabbia — l'acqua raggiunge circa 25 °C — e una pianura classificata <strong>Natura 2000 dal 2002</strong>, gestito con il Conservatoire d'espaces naturels de Savoie, esplorato attraverso un percorso di scoperta con posti di apprendimento giocosi e una pelle di fauna selvatica. La classificazione delle acque di balneazione del reparto 2025 valuta il sito <strong>Eccellente.</strong>.</p><p>Per l'esatto periodo di supervisione, le fonti della stessa rete differiscono, e noi li riferiamo come stanno: 'every afternoon during the summer season' from 12:00 to 18:00 per maurienne.fr, 'by two lifeguards between 12 and 6 pm every day in July-August' per explore-maurienne.com. La stessa cautela si applica alla superficie: la pagina del municipio menziona 4.5 ha, poi 20 ha dopo l'allargamento — la seconda figura forse che copre l'intero sito.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": "Nuoto salvagente in estate, dalle 12:00 alle 18:00 (vedi contraddizione fonte)",
+        "commune": "Saint-Alban-d'Hurtières",
+        "dogs": "Non consentito sulla spiaggia",
+        "parking": null,
+        "stroller": null,
+        "type": "Lago",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Si', libero. Su supervisione, due parole coesistono: 'ogni pomeriggio durante la stagione estiva' (12:00-18:00) per maurienne.fr, 'ogni giorno in luglio-agosto' con due bagnini per explore-maurienne.com. L'acqua è classificata Eccellente (2025 classifiche dipartimentali).",
+          "q": "Il nuoto è libero e salvagente?"
+        },
+        {
+          "a": "La pianura Hurtières è stata Natura 2000 dal 2002, gestita con il Conservatoire d'espaces naturels de Savoie. Un percorso di scoperta con posti di apprendimento giocosi e una pelle di fauna selvatica consentono di esplorare la sua flora e fauna.",
+          "q": "Qual è la zona Natura 2000?"
+        },
+        {
+          "a": "Non sulla spiaggia: «i nostri amici canini non sono ammessi sulla spiaggia» — il divieto copre la zona di balneazione e la zona Natura 2000 per la rete Maurienne Tourisme.",
+          "q": "I cani sono ammessi?"
+        },
+        {
+          "a": "L'Café Gourmand, bar-ristorante guinguette-spirit con terrazza sul lago, si apre da metà maggio a fine agosto (prenotazione consigliata tramite il municipio).",
+          "q": "Dove mangiare?"
+        }
+      ],
+      "hero": {
+        "badge": "Nuoto gratuito · Natura 2000",
+        "lead": "Nella parte inferiore Maurienne a 320 m, un lago sabbioso-beached dove il nuoto è libero e salvagente in estate — nel cuore di una pianura Natura 2000, con una pelle di fauna selvatica, pesca e un bar guinguette."
+      },
+      "hero_alt": "Lago e zona umida al Lac des Hurtières, Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Nella parte inferiore Maurienne, tra Aiguebelle e La Chambre (uscita 26 A43), a Le Verney; ampio parcheggio gratuito all'ingresso del lago.",
+        "public_transport": null
+      },
+      "meta_description": "Lac des Hurtières (basso Maurienne, 320 m): nuoto estivo protetto dalla vita, acqua di 25 °C eccellente, una pianura Natura 2000 con una pelle di fauna selvatica, un guinguette da metà maggio a fine agosto.",
+      "meta_title": "Lac des Hurtières · nuoto libero, Natura 2000",
+      "name": "Lac des Hurtières",
+      "name_alternates": [
+        "Plan d'eau des Hurtières"
+      ],
+      "practical_info": [
+        {
+          "k": "Nuoto",
+          "v": "Gratis, salvavita in estate dalle 12:00 alle 18:00 ('ogni pomeriggio' / 'ogni giorno in luglio-agosto' — entrambe le parole generate)"
+        },
+        {
+          "k": "Acqua",
+          "v": "≈ 25 °C in estate · valutato Eccellente (2025 classifiche dipartimentali)"
+        },
+        {
+          "k": "Servizi",
+          "v": "Spiaggia di sabbia, beach volley, pétanque, corso di avventura per bambini, aree giochi e picnic"
+        },
+        {
+          "k": "Protezione",
+          "v": "Hurtières classificato Natura 2000 dal 2002, gestito con CEN Savoie"
+        },
+        {
+          "k": "Superficie",
+          "v": "4.5 ha originariamente — 20 ha dopo l'allargamento per la stessa pagina del centro città (scope incerto)"
+        },
+        {
+          "k": "Contatto",
+          "v": "Town hall +33 4 79 36 12 03 · tourist office +33 4 79 36 29 24"
+        }
+      ],
+      "schema_amenities": [
+        "Nuoto salvagente",
+        "Nascondi la fauna selvatica",
+        "Parco giochi"
+      ],
+      "when_to_visit": "<p>Estate per il nuoto salvavita (12:00-18:00) e la <strong>Café Gourmand</strong>, 'con la sua terrazza e il suo spirito guinguette', aperto da metà maggio a fine agosto. Il sito rimane aperto tutto l'anno, gratuito, con un ampio parcheggio all'ingresso. Nota: I nostri amici canini non sono ammessi in spiaggia. La pesca è possibile con il permesso Savoie, venduto presso l'ufficio turistico — perch e pesce grossolano.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Bewaakt in de zomer van 12:00 tot 18:00, water ~25 °C, beoordeeld Excellente in de 2025 departementale ranglijst.",
+          "tag": "Vrij",
+          "title": "Zwemmen vanaf een zandstrand"
+        },
+        {
+          "description": "Speelvolle leerposten en een wilde dieren verbergen zich in de vlakte, geclassificeerd sinds 2002.",
+          "tag": "Natuur",
+          "title": "Natura 2000-ontdekkingspad"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>Lac des Hurtières</strong>, op Le Verney in Saint-Alban-d'Hurtières, trouwt twee oproepen: <strong>gratis, badmeester zomer zwemmen</strong> vanaf een zandstrand het water bereikt ongeveer 25 °C en een duidelijk ingedeelde <strong>Natura 2000 sinds 2002</strong>, beheerd met het Conservatoire d'espaces naturels de Savoie, verkend via een ontdekkingspad met speelse leerposten en een wilde dierenhuid. De departementale indeling van het zwemwater in 2025 is de waarde van het terrein <strong>Excelente</strong>.</p><p>Over de exacte controleperiode verschillen de bronnen van hetzelfde netwerk, en we rapporteren ze in hun huidige vorm: 'every afternoon during the summer season' from 12:00 to 18:00 per maurienne.fr, 'by two lifeguards between 12 and 6 pm every day in July-August' per explore-maurienne.com. Dezelfde voorzichtigheid geldt voor het oppervlak: Op de pagina van het gemeentehuis staat 4.5 ha, dan 20 ha na de uitbreiding. het tweede cijfer misschien de hele site.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Vrij",
+        "best_season": "Bewaakt zwemmen in de zomer, van 12:00 tot 18:00 uur (zie tegenstrijdigheid)",
+        "commune": "Saint-Alban-d'Hurtières",
+        "dogs": "Niet toegestaan op het strand",
+        "parking": null,
+        "stroller": null,
+        "type": "Meer",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Ja, vrij. Op het gebied van toezicht bestaan er twee formuleringen naast elkaar: 'Elke middag tijdens het zomerseizoen' (12:00 tot 18:00) per maurienne.fr, 'elke dag in juli-augustus' met twee badmeesters per explore-maurienne.com. Het water is beoordeeld Excellente (2025 departementale ranglijsten).",
+          "q": "Is zwemmen gratis en strandwacht?"
+        },
+        {
+          "a": "De Hurtières vlakte is Natura 2000 sinds 2002 beheerd met het Conservatoire d'espaces naturels de Savoie. Een ontdekkingspad met speelse leerposten en een wilde dierenhuid laat u de flora en fauna verkennen.",
+          "q": "Wat is het Natura 2000-gebied?"
+        },
+        {
+          "a": "Niet op het strand: 'Onze hondenvrienden zijn niet toegestaan op het strand' Het verbod heeft betrekking op de badzone en de Natura 2000-zone per Maurienne Tourisme-netwerk.",
+          "q": "Zijn honden toegestaan?"
+        },
+        {
+          "a": "De Café Gourmand, een guinguette-geest bar-restaurant met een terras over het meer, opent van half mei tot eind augustus (reservering geadviseerd via het stadhuis).",
+          "q": "Iets te eten?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratis zwemmen · Natura 2000",
+        "lead": "In de lagere Maurienne op 320 m, een meer met zandstranden waar zwemmen is gratis en badmeester in de zomer in het hart van een Natura 2000 vlakte, met een wildhuid, vissen en een ginguette café."
+      },
+      "hero_alt": "Meer en wetland op de Lac des Hurtières, Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "In de lagere Maurienne, tussen Aiguebelle en La Chambre (A43 afslag 26), bij Le Verney; grote gratis parkeerplaats bij de ingang van het meer.",
+        "public_transport": null
+      },
+      "meta_description": "De Lac des Hurtières (lagere Maurienne, 320 m): gratis badmeester zomerzwemmen, 25 °C water beoordeeld Excelente, een Natura 2000 vlakte met een wilde dierenhuid, een guinguette van half mei tot eind augustus.",
+      "meta_title": "Lac des Hurtières · gratis zwemmen, Natura 2000",
+      "name": "Lac des Hurtières",
+      "name_alternates": [
+        "Plan d'eau des Hurtières"
+      ],
+      "practical_info": [
+        {
+          "k": "Zwemmen",
+          "v": "Gratis, badmeester in de zomer van 12:00 tot 18:00 ('elke middag' / 'elke dag in juli-augustus') beide formuleringen afkomstig)"
+        },
+        {
+          "k": "Water",
+          "v": "≈ 25 °C in de zomer · gewaardeerd Excellente (2025 departementale ranglijsten)"
+        },
+        {
+          "k": "Voorzieningen",
+          "v": "Zandstrand, strandvolleybal, petanque, kinderavontuur, speel- en picknickruimtes"
+        },
+        {
+          "k": "Bescherming",
+          "v": "Hurtières standaard geclassificeerd Natura 2000 sinds 2002, beheerd met CEN Savoie"
+        },
+        {
+          "k": "Oppervlakte",
+          "v": "4,5 ha oorspronkelijk 20 ha na de uitbreiding per dezelfde stadhuispagina (scoop onzeker)"
+        },
+        {
+          "k": "Contactpersoon",
+          "v": "Stadhuis +33 4 79 36 12 03 · VVV-kantoor +33 4 79 36 29 24"
+        }
+      ],
+      "schema_amenities": [
+        "Zwemmende badmeesters",
+        "Wilde dieren",
+        "Speeltuin"
+      ],
+      "when_to_visit": "<p>Zomer voor de badmeester zwemmen (12:00 tot 18:00) en de <strong>Café Gourmand</strong>, 'met zijn terras en zijn guinguette geest', geopend van half mei tot eind augustus. De site blijft het hele jaar open, gratis, met een grote parkeerplaats bij de ingang. Opmerking: 'Onze hondenvrienden zijn niet toegestaan op het strand'. Vissen is mogelijk met de Savoie-vergunning, verkocht bij het VVV-kantoor baars en grove vis.</p>"
+    }
+  },
+  "latitude": 45.482352,
+  "longitude": 6.288291,
+  "official_site_url": "https://www.explore-maurienne.com/patrimoine-naturel/lac-des-hurtieres/",
+  "partners": [],
+  "postal_code": "73220",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-17, FR pages only (Maurienne Tourisme/explore-maurienne, maurienne.fr, mairie Saint-Alban-d'Hurtières, Porte de Maurienne Tourisme). Alt. 320 m, eau ~25 °C l'été (Porte de Maurienne). Baignade GRATUITE et surveillée : « tous les après-midi pendant la saison estivale » 12h–18h (maurienne.fr) vs « par deux maîtres-nageurs entre 12h et 18h tous les jours en juillet août » (explore-maurienne) — contradiction reportée. Superficie : « 4,5 ha » puis « 20 ha » sur la même page mairie (agrandissement ; le second chiffre vise peut-être le site) — reportée. Plage de sable ; chiens interdits sur la plage. Plaine des Hurtières en Natura 2000 depuis 2002, gestion CEN Savoie ; chemin de découverte à bornes pédagogiques, observatoire. Pêche : carte de Savoie à l'OT, perches et blancs. Café Gourmand esprit guinguette mi-mai à fin août. Grand parking gratuit. ARS 2025 : « PLAN D'EAU DES HURTIERES », Saint-Alban-d'Hurtières, Excellente (listing départemental). Commune d'attache = celle du listing ARS.",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "lac-des-hurtieres",
+  "sources": [
+    "https://www.explore-maurienne.com/patrimoine-naturel/lac-des-hurtieres/",
+    "http://www.maurienne.fr/fr/il4-equipement_i567072-lac-des-hurtieres.aspx",
+    "https://www.saintalbandhurtieres.org/tourisme_lac",
+    "https://www.portedemaurienne-tourisme.com/lac-des-hurtieres-2/"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published for this site; kept null rather than inferred."
+  ]
+}

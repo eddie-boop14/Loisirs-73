@@ -1,0 +1,588 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-17",
+    "confidence": "declarative",
+    "detail": "« Un chemin aménagé accessible aux personnes à mobilité réduite permet de faire le tour du lac à l'écart des berges » (Cœur de Savoie Tourisme). Berges sauvages et pontons de pêche sans niveau PMR déclaré.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_name": "Cœur de Savoie Tourisme",
+    "source_url": "https://tourisme.coeurdesavoie.fr/fiches/lac-sainte-helene-327139/",
+    "status": "partiel",
+    "tourisme_handicap": null
+  },
+  "category": "lac",
+  "commune": "Sainte-Hélène-du-Lac",
+  "date_modified_human": "17 août 2026",
+  "date_published_human": "17 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-17",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-reserve-zone-humide-2.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Gegenseitiger Ort: Barsch, Hecht, Karpfen (ohne Kill), Wels, Schwarzbarsch; Ruderboote mit der Option.",
+          "tag": "Kategorie 2",
+          "title": "Angeln in tiefer Ruhe"
+        },
+        {
+          "description": "Ein Natur-Sketching-Themen-Trail: ~3 h mit Zeichnungsstopps, leicht, Tiere akzeptiert.",
+          "tag": "1,2 km",
+          "title": "Rando'Croquis"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>Lac de Sainte-Hélène</strong>, gespeist durch den Coisin-Stream, ist ein natürlicher See der Combe de Savoie, dessen Ufer \"wild bleiben\". <strong>\"Schwimmen ist dort verboten\"</strong> — der Satz ist das Tourismusbüro, und es definiert den Ort: Hier fischen, gehen und zuschauen. Das große Feuchtgebiet um es herum beherbergt Reiher, europäische Bienenfresser, Baumfrösche und Biber und dient als Zwischenstopp für Zugvögel.</p><p><strong>Fischerei</strong> ist die Haupttätigkeit: Kategorie-2-Gewässer, ein von der Sainte-Hélène-du-Lac Anglervereinigung betriebener Ort auf Gegenseitigkeit — Barsch, grober Fisch, Hecht, Karpfen, Wels und Schwarzbarsch. Der Verband gibt die Regeln so an, wie sie sind: \"Fischen von einem Boot aus ist mit Rudern nur nach dem Kauf der Bootsoption möglich\" und \"Karpfenfischen ist mit einem einzigen widerhakenlosen Haken kein Töten\". Weder die Fläche noch die Höhe werden von den konsultierten Quellen veröffentlicht — Wir erfinden sie nicht.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "frei",
+        "best_season": null,
+        "commune": "Sainte-Hélène-du-Lac",
+        "dogs": "Akzeptiert auf dem Rando'Croquis Trail",
+        "parking": null,
+        "stroller": null,
+        "type": "Natürlicher See",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Nein: \"Schwimmen ist dort verboten\", schreibt das Tourismusamt. Der See ist ein erhaltenes Naturgebiet und ein Angelplatz - sie erscheint nicht in der Badegewässerüberwachung des Departements.",
+          "q": "Kannst du dort schwimmen?"
+        },
+        {
+          "a": "Kategorie 2, wechselseitiger Ort (Sainte-Hélène-du-Lac Anglerverband). Ruderboote nur mit der speziellen Option; Karpfen ohne Kill mit einem einzigen Widerhaken. Art: Barsch, grober Fisch, Hecht, Karpfen, Wels, Schwarzbarsch.",
+          "q": "Wie lauten die Fischereivorschriften?"
+        },
+        {
+          "a": "Ja: Das Tourismusbüro beschreibt \"einen angelegten Weg, der für Menschen mit eingeschränkter Mobilität zugänglich ist\", der den See von den Ufern weg umkreist. Die Banken selbst bleiben wild.",
+          "q": "Ist der See Loop Rollstuhl zugänglich?"
+        },
+        {
+          "a": "Die Feuchtgebiete beherbergen Reiher, europäische Bienenfresser, Baumfrösche und Biber; Es ist auch ein Migrationsstopp. Der Rando'Croquis Trail (1,2 km) bietet Skizzenstopps mit Blick auf den See.",
+          "q": "Was ist mit Wildtieren?"
+        }
+      ],
+      "hero": {
+        "badge": "Naturschutzgebiet · Fischerei",
+        "lead": "Ein natürlicher See mit wilden Ufern in Cœur de Savoie: Schwimmen verboten, aber ein echter Fischfangplatz - Karpfen ohne Todesfolge, nur Ruderboote — eine für Rollstuhlfahrer zugängliche Seeschleife und ein Feuchtgebiet, in dem Reiher und Bienenfresser nisten."
+      },
+      "hero_alt": "Feuchtgebiet am Lac de Sainte-Hélène, Cœur de Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "In der Combe de Savoie, zwischen Montmélian und Pontcharra (A43/D1090), am Fuße der Bauges.",
+        "public_transport": null
+      },
+      "meta_description": "Lac de Sainte-Hélène (Cœur de Savoie): Schwimmen verboten, gegenseitiges Fischen (Killerkarpfen), rollstuhlgerechte Seeschleife, Reiher und Bienenfresser im Feuchtgebiet. Freier Zugang das ganze Jahr über.",
+      "meta_title": "Lac de Sainte-Hélène · Fischerei, Natur, zugängliche Schleife",
+      "name": "Lac de Sainte-Hélène",
+      "name_alternates": [
+        "Lac Sainte-Hélène"
+      ],
+      "practical_info": [
+        {
+          "k": "Schwimmen",
+          "v": "Verboten (Touristenbüro, verbatim)"
+        },
+        {
+          "k": "Fischerei",
+          "v": "Kategorie 2 · Reziprok · Sainte-Hélène-du-Lac AAPPMA · Karpfen ohne Kill, Ruderboote (Option)"
+        },
+        {
+          "k": "Reduzierte Mobilität",
+          "v": "Seeschleife auf einem angelegten Weg, der für Menschen mit eingeschränkter Mobilität zugänglich ist (Touristenbüro)"
+        },
+        {
+          "k": "Wildtiere",
+          "v": "Nistreiher, Europäische Bienenfresser, Baumfrösche, Biber; Migrationsstopp"
+        },
+        {
+          "k": "Zugang",
+          "v": "Kostenlos, das ganze Jahr (01/01 –) 31/12) · Kontakt +33 4 79 84 22 75"
+        }
+      ],
+      "schema_amenities": [
+        "Zugänglicher Pfad",
+        "Fangpontons"
+      ],
+      "when_to_visit": "<p>Die Website ist das ganze Jahr über frei zugänglich. Ein festgelegter Weg <strong>zugänglich für Menschen mit eingeschränkter Mobilität</strong> erlaubt Ihnen, um den See weg von den Banken zu gehen; Der Rando'Croquis-Themenpfad (1,2 km, ca. 3 h mit Skizzenstopps, leicht, Tiere akzeptiert) lehrt Naturzeichnung von der D20, südöstlich des Dorfes.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "Reciprocal venue: perch, pike, carp (no-kill), catfish, black bass; rowing boats with the option.",
+          "tag": "Category 2",
+          "title": "Fishing in deep calm"
+        },
+        {
+          "description": "A nature-sketching themed trail: ~3 h with drawing stops, easy, animals accepted.",
+          "tag": "1.2 km",
+          "title": "Rando'Croquis"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Lac de Sainte-Hélène</strong>, fed by the Coisin stream, is a natural lake of the Combe de Savoie whose banks 'remain wild'. <strong>'Swimming is forbidden there'</strong> — the sentence is the tourist office's, and it defines the place: here you fish, walk and watch. The large wetland around it shelters nesting herons, European bee-eaters, tree frogs and beavers, and serves as a stopover for migrating birds.</p><p><strong>Fishing</strong> is the main activity: category-2 waters, a reciprocal venue run by the Sainte-Hélène-du-Lac anglers' association — perch, coarse fish, pike, carp, catfish and black bass. The federation states the rules as they stand: 'fishing from a boat is possible with oars only after purchase of the boat option', and 'carp fishing is no-kill with a single barbless hook'. Neither the surface area nor the altitude is published by the sources consulted — we do not invent them.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free",
+        "best_season": null,
+        "commune": "Sainte-Hélène-du-Lac",
+        "dogs": "Accepted on the Rando'Croquis trail",
+        "parking": null,
+        "stroller": null,
+        "type": "Natural lake",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "No: 'swimming is forbidden there', writes the tourist office. The lake is a preserved natural area and a fishing site — it does not appear in the departmental bathing-water monitoring.",
+          "q": "Can you swim there?"
+        },
+        {
+          "a": "Category 2, reciprocal venue (Sainte-Hélène-du-Lac anglers' association). Rowing boats only, with the dedicated option; no-kill carp with a single barbless hook. Species: perch, coarse fish, pike, carp, catfish, black bass.",
+          "q": "What are the fishing rules?"
+        },
+        {
+          "a": "Yes: the tourist office describes 'a laid-out path accessible to people with reduced mobility' circling the lake away from the banks. The banks themselves remain wild.",
+          "q": "Is the lake loop wheelchair-accessible?"
+        },
+        {
+          "a": "The wetland shelters nesting herons, European bee-eaters, tree frogs and beavers; it is also a migration stopover. The Rando'Croquis trail (1.2 km) offers sketching stops facing the lake.",
+          "q": "What about wildlife?"
+        }
+      ],
+      "hero": {
+        "badge": "Nature site · Fishing",
+        "lead": "A natural lake with wild banks in Cœur de Savoie: swimming forbidden, but a genuine fishing ground — no-kill carp, rowing boats only — a wheelchair-accessible lake loop and a wetland where herons and bee-eaters nest."
+      },
+      "hero_alt": "Wetland at the Lac de Sainte-Hélène, Cœur de Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "In the Combe de Savoie, between Montmélian and Pontcharra (A43/D1090), at the foot of the Bauges.",
+        "public_transport": null
+      },
+      "meta_description": "The Lac de Sainte-Hélène (Cœur de Savoie): swimming forbidden, reciprocal fishing (no-kill carp), wheelchair-accessible lake loop, herons and bee-eaters in the wetland. Free access all year.",
+      "meta_title": "Lac de Sainte-Hélène · fishing, nature, accessible loop",
+      "name": "Lac de Sainte-Hélène",
+      "name_alternates": [
+        "Lac Sainte-Hélène"
+      ],
+      "practical_info": [
+        {
+          "k": "Swimming",
+          "v": "Forbidden (tourist office, verbatim)"
+        },
+        {
+          "k": "Fishing",
+          "v": "Category 2 · reciprocal · Sainte-Hélène-du-Lac AAPPMA · no-kill carp, rowing boats (option)"
+        },
+        {
+          "k": "Reduced mobility",
+          "v": "Lake loop on a laid-out path accessible to people with reduced mobility (tourist office)"
+        },
+        {
+          "k": "Wildlife",
+          "v": "Nesting herons, European bee-eaters, tree frogs, beavers; migration stopover"
+        },
+        {
+          "k": "Access",
+          "v": "Free, all year (01/01 – 31/12) · contact +33 4 79 84 22 75"
+        }
+      ],
+      "schema_amenities": [
+        "Accessible path",
+        "Fishing pontoons"
+      ],
+      "when_to_visit": "<p>The site is freely accessible all year. 'A laid-out path <strong>accessible to people with reduced mobility</strong> allows you to walk round the lake away from the banks'; the Rando'Croquis themed trail (1.2 km, about 3 h with sketching stops, easy, animals accepted) teaches nature drawing from the D20, south-east of the village.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "Lugar recíproco: perch, pike, carp (no-kill), bagre, bajo negro; remar barcos con la opción.",
+          "tag": "Categoría 2",
+          "title": "Pesca en calma profunda"
+        },
+        {
+          "description": "Un sendero temático de naturaleza: ~3 h con paradas de dibujo, fácil, animales aceptados.",
+          "tag": "1,2 km",
+          "title": "Rando'Croquis"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>Lac de Sainte-Hélène</strong>, alimentado por el flujo Coisin, es un lago natural del Combe de Savoie cuyos bancos 'mantengan salvaje'. <strong>Nadar está prohibido.</strong> — la frase es de la oficina de turismo, y define el lugar: aquí pesca, camina y mira. El gran humedal que lo rodea alberga garzas anidantes, abejas europeas, ranas de árboles y castores, y sirve de escala para las aves migratorias.</p><p><strong>Pesca</strong> es la actividad principal: categoría-2 aguas, un lugar recíproco dirigido por la asociación de pescadores Sainte-Hélène-du-Lac — perca, pescado grueso, pique, carpa, bagre gato y bajo negro. La federación establece las reglas como están: 'La pesca de un barco es posible con los remos sólo después de la compra de la opción de barco', y 'la pesca de carpa no es matar con un solo gancho de la barbeza'. Ni la superficie ni la altitud son publicadas por las fuentes consultadas — no los inventamos.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": null,
+        "commune": "Sainte-Hélène-du-Lac",
+        "dogs": "Aceptado en el sendero Rando'Croquis",
+        "parking": null,
+        "stroller": null,
+        "type": "Lago natural",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "No: \"El recorte está prohibido allí\", escribe la oficina de turismo. El lago es una zona natural preservada y un lugar de pesca — no aparece en el monitoreo de agua de baño departamental.",
+          "q": "¿Puedes nadar ahí?"
+        },
+        {
+          "a": "Categoría 2, local recíproco ( asociación de pescadores Sainte-Hélène-du-Lac). Remo sólo barcos, con la opción dedicada; carpa sin matar con un solo gancho de la barbilla. Especies: perca, pescado grueso, pique, carpa, bagre, bajo negro.",
+          "q": "¿Cuáles son las reglas de pesca?"
+        },
+        {
+          "a": "Sí: la oficina turística describe 'un camino desocupado accesible a las personas con movilidad reducida' rodeando el lago lejos de los bancos. Los bancos siguen siendo salvajes.",
+          "q": "¿Es accesible la silla de ruedas del lago?"
+        },
+        {
+          "a": "Los refugios de humedales anidan garzas, abejas europeas, ranas de árboles y castores; es también una escala de migración. El sendero Rando'Croquis (1.2 km) ofrece paradas de bosquejo frente al lago.",
+          "q": "¿Y la vida silvestre?"
+        }
+      ],
+      "hero": {
+        "badge": "Sitio de la naturaleza · Pesca",
+        "lead": "Un lago natural con bancos salvajes en Cœur de Savoie: natación prohibida, pero un verdadero campo de pesca — carpa sin matar, botes de remo solamente — un bucle de lago accesible para silla de ruedas y un humedal donde anidan los erizos y los comederos."
+      },
+      "hero_alt": "Humedales en el Lac de Sainte-Hélène, Cœur de Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "En el Combe de Savoie, entre Montmélian y Pontcharra (A43/D1090), al pie de los Bauges.",
+        "public_transport": null
+      },
+      "meta_description": "El Lac de Sainte-Hélène (Cœur de Savoie): natación prohibida, pesca recíproca (carpa sin matar), bucle de lago accesible para silla de ruedas, garzas y comederos en el humedal. Acceso gratuito todo el año.",
+      "meta_title": "Lac de Sainte-Hélène · pesca, naturaleza, bucle accesible",
+      "name": "Lac de Sainte-Hélène",
+      "name_alternates": [
+        "Lac Sainte-Hélène"
+      ],
+      "practical_info": [
+        {
+          "k": "Nadando",
+          "v": "Prohibido (oficina turística, verbatim)"
+        },
+        {
+          "k": "Pesca",
+          "v": "Categoría 2 · reciprocal · Sainte-Hélène-du-Lac AAPPMA · carpa sin matar, botes de remo (opción)"
+        },
+        {
+          "k": "Reducción de la movilidad",
+          "v": "Lago de bucle en un camino abierto accesible a las personas con movilidad reducida (oficina turística)"
+        },
+        {
+          "k": "Vida silvestre",
+          "v": "Hierros anidados, abejas europeas, ranas de árboles, castores; migraciones"
+        },
+        {
+          "k": "Acceso",
+          "v": "Libre, todo el año (01/01 – 31/12) · contacto +33 4 79 84 22 75"
+        }
+      ],
+      "schema_amenities": [
+        "Sendero accesible",
+        "Caballos de pesca"
+      ],
+      "when_to_visit": "<p>El sitio es libremente accesible todo el año. 'Un camino relajado <strong>accesible para personas con movilidad reducida</strong> permite caminar alrededor del lago lejos de los bancos; el sendero temático Rando'Croquis (1.2 km, alrededor de 3 h con paradas de boceto, fácil, animales aceptados) enseña el dibujo natural del D20, sureste del pueblo.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Plan d'eau réciprocitaire : perche, brochet, carpe (no-kill), silure, black-bass ; barque à rame avec option.",
+          "tag": "2ᵉ catégorie",
+          "title": "Pêche au grand calme"
+        },
+        {
+          "description": "Sentier thématique de dessin nature : ~3 h avec les pauses croquis, facile, animaux acceptés.",
+          "tag": "1,2 km",
+          "title": "Rando'Croquis"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Le <strong>lac de Sainte-Hélène</strong>, alimenté par le Coisin, est un lac naturel de la combe de Savoie dont les berges « restent sauvages ». <strong>« La baignade y est interdite »</strong> — la phrase est celle de l'office de tourisme, et elle définit le lieu : ici, on pêche, on marche, on observe. La grande zone humide qui l'entoure abrite hérons nicheurs, guêpiers d'Europe, rainette verte et castor, et sert d'étape aux oiseaux migrateurs.</p><p>La <strong>pêche</strong> est l'activité principale : eaux de 2ᵉ catégorie, plan d'eau réciprocitaire géré par l'Amicale des pêcheurs de Sainte-Hélène-du-Lac — perche, poissons blancs, brochet, carpe, silure et black-bass. La fédération précise les règles telles quelles : « la pêche depuis une embarcation est possible à rame uniquement après l'acquisition de l'option barque », et « la pêche à la carpe est en no-kill avec 1 seul hameçon sans ardillon ». Ni la superficie ni l'altitude ne sont publiées par les sources consultées — nous ne les inventons pas.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuit",
+        "best_season": null,
+        "commune": "Sainte-Hélène-du-Lac",
+        "dogs": "Acceptés sur le sentier Rando'Croquis",
+        "parking": null,
+        "stroller": null,
+        "type": "Lac naturel",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Non : « la baignade y est interdite », écrit l'office de tourisme. Le lac est un espace naturel préservé et un site de pêche — il ne figure d'ailleurs pas au suivi départemental des eaux de baignade.",
+          "q": "Peut-on s'y baigner ?"
+        },
+        {
+          "a": "2ᵉ catégorie, plan d'eau réciprocitaire (AAPPMA Amicale des pêcheurs de Sainte-Hélène-du-Lac). Barque à rame uniquement, avec l'option dédiée ; carpe en no-kill avec un seul hameçon sans ardillon. Espèces : perche, blancs, brochet, carpe, silure, black-bass.",
+          "q": "Quelles règles de pêche ?"
+        },
+        {
+          "a": "Oui : l'office de tourisme indique « un chemin aménagé accessible aux personnes à mobilité réduite » qui fait le tour du lac à l'écart des berges. Les berges elles-mêmes restent sauvages.",
+          "q": "Le tour du lac est-il accessible en fauteuil ?"
+        },
+        {
+          "a": "La zone humide abrite hérons nicheurs, guêpiers d'Europe, rainette verte et castor ; c'est aussi une étape de migration. Le sentier Rando'Croquis (1,2 km) propose des pauses dessin face au lac.",
+          "q": "Que voir côté nature ?"
+        }
+      ],
+      "hero": {
+        "badge": "Site nature · Pêche",
+        "lead": "Un lac naturel aux berges sauvages en Cœur de Savoie : baignade interdite, mais un vrai territoire de pêche — carpe en no-kill, barque à rame — un tour du lac accessible en fauteuil et une zone humide où nichent hérons et guêpiers."
+      },
+      "hero_alt": "Zone humide du lac de Sainte-Hélène, Cœur de Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Dans la combe de Savoie, entre Montmélian et Pontcharra (A43/D1090), au pied des Bauges.",
+        "public_transport": null
+      },
+      "meta_description": "Le lac de Sainte-Hélène (Cœur de Savoie) : baignade interdite, pêche réciprocitaire (carpe no-kill), tour du lac accessible PMR, hérons et guêpiers dans la zone humide. Accès libre toute l'année.",
+      "meta_title": "Lac de Sainte-Hélène · pêche, nature, tour PMR",
+      "name": "Lac de Sainte-Hélène",
+      "name_alternates": [
+        "Lac Sainte-Hélène"
+      ],
+      "practical_info": [
+        {
+          "k": "Baignade",
+          "v": "Interdite (office de tourisme, verbatim)"
+        },
+        {
+          "k": "Pêche",
+          "v": "2ᵉ catégorie · réciprocitaire · AAPPMA de Sainte-Hélène-du-Lac · carpe no-kill, barque à rame (option)"
+        },
+        {
+          "k": "PMR",
+          "v": "Tour du lac par chemin aménagé accessible aux personnes à mobilité réduite (OT)"
+        },
+        {
+          "k": "Biodiversité",
+          "v": "Hérons nicheurs, guêpiers d'Europe, rainette verte, castor ; étape de migration"
+        },
+        {
+          "k": "Accès",
+          "v": "Libre, toute l'année (01/01 – 31/12) · contact 04 79 84 22 75"
+        }
+      ],
+      "schema_amenities": [
+        "Chemin PMR",
+        "Pontons de pêche"
+      ],
+      "when_to_visit": "<p>Le site est en accès libre toute l'année. « Un chemin aménagé <strong>accessible aux personnes à mobilité réduite</strong> permet de faire le tour du lac à l'écart des berges » ; le sentier thématique Rando'Croquis (1,2 km, environ 3 h avec les pauses dessin, niveau facile, animaux acceptés) initie au croquis nature depuis la D20, au sud-est du village.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Sede legale: perch, pike, carpa (no-kill), pesce gatto, basso nero; barche a remi con l'opzione.",
+          "tag": "Categoria 2",
+          "title": "Pesca nella calma profonda"
+        },
+        {
+          "description": "Un sentiero a tema per la natura: ~3 h con fermate di disegno, facile, animali accettati.",
+          "tag": "1.2 km",
+          "title": "Rando'Croquis"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Lac de Sainte-Hélène</strong>, alimentato dal flusso Coisin, è un lago naturale del Combe de Savoie le cui banche 'remain wild'. <strong>\"Il rabbordamento è proibito là\"</strong> — la frase è dell'ufficio turistico, e definisce il luogo: qui si pesca, camminare e guardare. La grande zona umida intorno a esso si rifugia in nidificazione di aironi, ape-aters europei, rane di alberi e castori, e serve come uno stopover per la migrazione di uccelli.</p><p><strong>Pesca</strong> è l'attività principale: categoria-2 acque, un luogo reciproco gestito dall'associazione pescatori Sainte-Hélène-du-Lac — pesce grossolano, pike, carpa, pesce gatto e basso nero. La federazione afferma le regole che stanno: 'la pesca da una barca è possibile con i remi solo dopo l'acquisto dell'opzione barca', e 'la pesca di carpa è senza-uccidere con un singolo gancio senza barbless'. Né la superficie né l'altitudine sono pubblicate dalle fonti consultate — noi non li inventiamo.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": null,
+        "commune": "Sainte-Hélène-du-Lac",
+        "dogs": "Accettato sul sentiero Rando'Croquis",
+        "parking": null,
+        "stroller": null,
+        "type": "Lago naturale",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "No. 'swimming è vietato là', scrive l'ufficio turistico. Il lago è una zona naturale conservata e un sito di pesca — non appare nel monitoraggio delle acque di balneazione dipartimentali.",
+          "q": "Puoi nuotare lì?"
+        },
+        {
+          "a": "Categoria 2, sede reciproca (Associazione pescatori Sainte-Hélène-du-Lac). solo barche a remi, con l'opzione dedicata; carpa no-kill con un singolo gancio senza barbless. Specie: pesce grossolano, pike, carpa, pesce gatto, basso nero.",
+          "q": "Quali sono le regole di pesca?"
+        },
+        {
+          "a": "Sì. l'ufficio turistico descrive 'un percorso deposto accessibile alle persone con mobilità ridotta' che circondano il lago lontano dalle banche. Le banche stesse rimangono selvagge.",
+          "q": "Il ciclo del lago è accessibile alle sedie a rotelle?"
+        },
+        {
+          "a": "Le zone umide riparano gli aironi, gli api-attori europei, le rane degli alberi e i castori; è anche una tappa di migrazione. Il sentiero Rando'Croquis (1.2 km) offre fermate di schizzo di fronte al lago.",
+          "q": "E la fauna selvatica?"
+        }
+      ],
+      "hero": {
+        "badge": "Sito naturale · Pesca",
+        "lead": "Un lago naturale con le banche selvatiche in Cœur de Savoie: nuoto vietato, ma un vero e proprio terreno di pesca — carpa no-kill, barche a remi solo — un anello di lago accessibile alla sedia a rotelle e una zona umida dove aironi e api nidificano."
+      },
+      "hero_alt": "Wetland alla Lac de Sainte-Hélène, Cœur de Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Nel Combe de Savoie, tra Montmélian e Pontcharra (A43/D1090), ai piedi dei Bauges.",
+        "public_transport": null
+      },
+      "meta_description": "Lac de Sainte-Hélène (Cœur de Savoie): nuotare vietata, pesca reciproca (carpa no-kill), anello lacustre accessibile alle sedie a rotelle, aironi e api nella zona umida. Accesso gratuito tutto l'anno.",
+      "meta_title": "Lac de Sainte-Hélène · pesca, natura, anello accessibile",
+      "name": "Lac de Sainte-Hélène",
+      "name_alternates": [
+        "Lac Sainte-Hélène"
+      ],
+      "practical_info": [
+        {
+          "k": "Nuoto",
+          "v": "Proibita (ufficio turistico, verbatim)"
+        },
+        {
+          "k": "Pesca",
+          "v": "Categoria 2 · reciproco · Sainte-Hélène-du-Lac AAPPMA · carpa no-kill, barche a remi (opzione)"
+        },
+        {
+          "k": "Mobilità ridotta",
+          "v": "Ciclo del lago su un percorso predisposto accessibile a persone con mobilità ridotta (ufficio turistico)"
+        },
+        {
+          "k": "La natura",
+          "v": "Armi di nidificazione, ape-aters europei, rane di alberi, castori; stopover migrazione"
+        },
+        {
+          "k": "Accesso",
+          "v": "Gratis, tutto l'anno (01/01 – 31/12) · contatto +33 4 79 84 22 75"
+        }
+      ],
+      "schema_amenities": [
+        "Sentiero accessibile",
+        "Pontoni da pesca"
+      ],
+      "when_to_visit": "<p>Il sito è liberamente accessibile tutto l'anno. \"Un sentiero deposto <strong>accessibile alle persone con mobilità ridotta</strong> permette di camminare intorno al lago lontano dalle banche'; il sentiero tematico Rando'Croquis (1.2 km, circa 3 h con fermate di schizzo, facile, animali accettati) insegna natura disegnando dal D20, a sud-est del villaggio.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Verwisselde locatie: baars, snoek, karper (geen doden), meerval, zwarte bas; roeiboten met de optie.",
+          "tag": "Categorie 2",
+          "title": "Vissen in diepe rust"
+        },
+        {
+          "description": "Een natuur-sketching thema pad: ~3 h met tekenen stops, gemakkelijk, dieren geaccepteerd.",
+          "tag": "1,2 km",
+          "title": "Rando'Croquis"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>Lac de Sainte-Hélène</strong>Het meer van de Combe de Savoie wordt gevoed door de Coisin stroom. <strong>Zwemmen is daar verboden.</strong> De zin is van het VVV, en het definieert de plaats: Hier ga je vissen, lopen en kijken. De grote wetland rond het beschutting nestelende reigers, Europese bijeneters, boomkikkers en bevers, en dient als een tussenstop voor migrerende vogels.</p><p><strong>Visserij</strong> de hoofdactiviteit is: wateren van categorie 2, een reciprociteitslocatie die wordt beheerd door de Sainte-Hélène-du-Lac vissersvereniging baars, grove vis, snoek, karper, meerval en zwarte bas. De federatie bepaalt de regels zoals ze zijn: 'vissen vanaf een boot is mogelijk met roeispanen alleen na aankoop van de boot optie', en 'karpen vissen is geen kill met een enkele prikkelloze haak'. Noch het oppervlak, noch de hoogte wordt gepubliceerd door de geraadpleegde bronnen We verzinnen ze niet.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Vrij",
+        "best_season": null,
+        "commune": "Sainte-Hélène-du-Lac",
+        "dogs": "Geaccepteerd op de Rando'Croquis trail",
+        "parking": null,
+        "stroller": null,
+        "type": "Natuurmeer",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Nee: 'Zwemmen is daar verboden', schrijft het VVV-kantoor. Het meer is een beschermd natuurgebied en een vissite. het niet voorkomt in het departementale zwemwatertoezicht.",
+          "q": "Kun je daar zwemmen?"
+        },
+        {
+          "a": "Categorie 2, wederzijdse locatie (Sainte-Hélène-du-Lac vissersvereniging). alleen roeien met de speciale optie; zonder karper te doden met een enkele haak zonder barbecue. Soort: baars, grove vis, snoek, karper, meerval, zwarte bas.",
+          "q": "Wat zijn de regels voor de visserij?"
+        },
+        {
+          "a": "Ja: het VVV-kantoor beschrijft \"een aangelegd pad dat toegankelijk is voor mensen met beperkte mobiliteit\" die het meer van de oevers omcirkelen. De banken zelf blijven wild.",
+          "q": "Is de meerlus rolstoeltoegankelijk?"
+        },
+        {
+          "a": "De wetlands schuilplaatsen nestelende reigers, Europese bijeneters, boomkikkers en bevers; Het is ook een migratiestop. De Rando'Croquis trail (1,2 km) biedt schetshaltes tegenover het meer.",
+          "q": "En wilde dieren?"
+        }
+      ],
+      "hero": {
+        "badge": "Natuurgebied · Vissen",
+        "lead": "Een natuurlijk meer met wilde oevers in Cœur de Savoie: zwemmen verboden, maar een echte visplaats  niet-dode karper, alleen roeiboten een rolstoeltoegankelijke meerlus en een wetland waar reigers en bijeneters nestelen."
+      },
+      "hero_alt": "Wetland op de Lac de Sainte-Hélène, Cœur de Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "In de Combe de Savoie, tussen Montmélian en Pontcharra (A43/D1090), aan de voet van de Bauges.",
+        "public_transport": null
+      },
+      "meta_description": "De Lac de Sainte-Hélène (Cœur de Savoie): Zwemmen verboden, wederkerig vissen (niet-dode karper), rolstoeltoegankelijke meerlus, reigers en bijeneters in het wetland. Gratis toegang het hele jaar.",
+      "meta_title": "Lac de Sainte-Hélène · vissen, natuur, toegankelijke lus",
+      "name": "Lac de Sainte-Hélène",
+      "name_alternates": [
+        "Lac Sainte-Hélène"
+      ],
+      "practical_info": [
+        {
+          "k": "Zwemmen",
+          "v": "Verboden (toeristische dienst, letterlijk)"
+        },
+        {
+          "k": "Visserij",
+          "v": "Categorie 2 · wederkerig · Sainte-Hélène-du-Lac AAPPMA · niet-kill carp, roeiboten (optie)"
+        },
+        {
+          "k": "Minder mobiliteit",
+          "v": "Lake loop op een aangelegd pad toegankelijk voor mensen met beperkte mobiliteit (toeristische kantoor)"
+        },
+        {
+          "k": "Wilde dieren",
+          "v": "nestende reigers, Europese bijeneters, boomkikkers, bevers; migratiestop"
+        },
+        {
+          "k": "Toegang",
+          "v": "Gratis, het hele jaar (01/01) 31/12) · contact +33 4 79 84 22 75"
+        }
+      ],
+      "schema_amenities": [
+        "Toegankelijk pad",
+        "Visserijpontons"
+      ],
+      "when_to_visit": "<p>De site is het hele jaar vrij toegankelijk. 'Een aangelegd pad <strong>toegankelijk voor personen met beperkte mobiliteit</strong> kunt u om het meer lopen weg van de oevers\"; De Rando'Croquis themapad (1.2 km, ongeveer 3 uur met schetshekken, gemakkelijk, dieren geaccepteerd) leert de natuur tekenen uit de D20, ten zuidoosten van het dorp.</p>"
+    }
+  },
+  "latitude": 45.480535,
+  "longitude": 6.066771,
+  "official_site_url": "https://tourisme.coeurdesavoie.fr/fiches/lac-sainte-helene-327139/",
+  "partners": [],
+  "postal_code": "73800",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-17, FR pages only (Cœur de Savoie Tourisme, Fédération de pêche de Savoie, miroir SIT explore-savoie). Lac naturel alimenté par le Coisin. « La baignade y est interdite. » (OT, verbatim). Pêche = activité principale : 2e catégorie, plan d'eau réciprocitaire, AAPPMA Amicale des pêcheurs de Sainte-Hélène-du-Lac ; espèces : perche, blancs, brochet, carpe, silure, black-bass ; barque à rame uniquement (option) ; carpe en no-kill, 1 hameçon sans ardillon. « Un chemin aménagé accessible aux personnes à mobilité réduite permet de faire le tour du lac à l'écart des berges. » Sentier Rando'Croquis 1,2 km ~3 h (pauses dessin), animaux acceptés. Biodiversité : hérons nicheurs, guêpiers d'Europe, rainette verte, castor. Accès libre 01/01–31/12. Superficie/altitude non publiées → null. Passage V62 au bord du lac non confirmé par une source tourisme → non imprimé. Pas de site ARS baignade (baignade interdite) — rien à citer.",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "lac-de-sainte-helene",
+  "sources": [
+    "https://tourisme.coeurdesavoie.fr/fiches/lac-sainte-helene-327139/",
+    "https://tourisme.coeurdesavoie.fr/fiches/rando-croquis-lac-sainte-helene-295569/",
+    "https://www.savoiepeche.com/sainte-helene-du-lac/peche-au-lac-de-sainte-helene",
+    "https://www.explore-savoie.com/sit/lac-de-sainte-helene-327122/"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": []
+}

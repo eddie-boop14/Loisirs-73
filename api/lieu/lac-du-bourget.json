@@ -1,0 +1,24 @@
+{
+  "name": "Lac du Bourget",
+  "commune": "Aix-les-Bains",
+  "gps": {
+    "lat": 45.7043,
+    "lng": 5.8859
+  },
+  "type": "lac",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "Plages surveillées 27 juin – 30 août 2026",
+  "winter": null,
+  "official_url": "https://www.aixlesbains-rivieradesalpes.com/la-destination/le-lac-du-bourget/",
+  "last_verified": null
+}

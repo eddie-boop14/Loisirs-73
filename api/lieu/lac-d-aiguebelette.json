@@ -1,0 +1,24 @@
+{
+  "name": "Lac d'Aiguebelette",
+  "commune": "Nances",
+  "gps": {
+    "lat": 45.55,
+    "lng": 5.801
+  },
+  "type": "lac",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": null,
+  "winter": null,
+  "official_url": "https://www.lac-aiguebelette.com/decouvrir-le-lac-daiguebelette/",
+  "last_verified": null
+}

@@ -1,5 +1,5 @@
 {
-  "count": 81,
+  "count": 89,
   "lieux": [
     {
       "slug": "base-de-loisirs-des-glieres-grignon",
@@ -758,6 +758,27 @@
       "photo": "/img/generique/generique-cascade.jpg"
     },
     {
+      "slug": "lac-d-aiguebelette",
+      "name": "Lac d'Aiguebelette",
+      "category": "lac",
+      "commune": "Nances",
+      "postal_code": "73470",
+      "latitude": 45.55,
+      "longitude": 5.801,
+      "urls": {
+        "fr": "https://loisirs73.fr/lac-d-aiguebelette",
+        "en": "https://loisirs73.fr/en/lac-d-aiguebelette",
+        "de": "https://loisirs73.fr/de/lac-d-aiguebelette",
+        "it": "https://loisirs73.fr/it/lac-d-aiguebelette",
+        "es": "https://loisirs73.fr/es/lac-d-aiguebelette",
+        "nl": "https://loisirs73.fr/nl/lac-d-aiguebelette"
+      },
+      "facet_md": "https://loisirs73.fr/content/lac-d-aiguebelette.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/lac-d-aiguebelette.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/lac-d-aiguebelette.json",
+      "photo": "/img/generique/generique-barque-aviron.jpg"
+    },
+    {
       "slug": "lac-de-carouge-saint-pierre-d-albigny",
       "name": "Lac de Carouge",
       "category": "lac",
@@ -777,6 +798,90 @@
       "facet_md_en": "https://loisirs73.fr/content/en/lac-de-carouge-saint-pierre-d-albigny.md",
       "facet_json": "https://loisirs73.fr/api/lieu/lac-de-carouge-saint-pierre-d-albigny.json",
       "photo": "/img/generique/generique-lac-coucher-soleil.jpg"
+    },
+    {
+      "slug": "lac-de-la-thuile",
+      "name": "Lac de La Thuile",
+      "category": "lac",
+      "commune": "La Thuile",
+      "postal_code": "73190",
+      "latitude": 45.530335,
+      "longitude": 6.053048,
+      "urls": {
+        "fr": "https://loisirs73.fr/lac-de-la-thuile",
+        "en": "https://loisirs73.fr/en/lac-de-la-thuile",
+        "de": "https://loisirs73.fr/de/lac-de-la-thuile",
+        "it": "https://loisirs73.fr/it/lac-de-la-thuile",
+        "es": "https://loisirs73.fr/es/lac-de-la-thuile",
+        "nl": "https://loisirs73.fr/nl/lac-de-la-thuile"
+      },
+      "facet_md": "https://loisirs73.fr/content/lac-de-la-thuile.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/lac-de-la-thuile.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/lac-de-la-thuile.json",
+      "photo": "/img/generique/generique-famille-balade.jpg"
+    },
+    {
+      "slug": "lac-de-sainte-helene",
+      "name": "Lac de Sainte-Hélène",
+      "category": "lac",
+      "commune": "Sainte-Hélène-du-Lac",
+      "postal_code": "73800",
+      "latitude": 45.480535,
+      "longitude": 6.066771,
+      "urls": {
+        "fr": "https://loisirs73.fr/lac-de-sainte-helene",
+        "en": "https://loisirs73.fr/en/lac-de-sainte-helene",
+        "de": "https://loisirs73.fr/de/lac-de-sainte-helene",
+        "it": "https://loisirs73.fr/it/lac-de-sainte-helene",
+        "es": "https://loisirs73.fr/es/lac-de-sainte-helene",
+        "nl": "https://loisirs73.fr/nl/lac-de-sainte-helene"
+      },
+      "facet_md": "https://loisirs73.fr/content/lac-de-sainte-helene.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/lac-de-sainte-helene.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/lac-de-sainte-helene.json",
+      "photo": "/img/generique/generique-reserve-zone-humide-2.jpg"
+    },
+    {
+      "slug": "lac-de-tignes",
+      "name": "Lac de Tignes",
+      "category": "lac",
+      "commune": "Tignes",
+      "postal_code": "73320",
+      "latitude": 45.4653,
+      "longitude": 6.9042,
+      "urls": {
+        "fr": "https://loisirs73.fr/lac-de-tignes",
+        "en": "https://loisirs73.fr/en/lac-de-tignes",
+        "de": "https://loisirs73.fr/de/lac-de-tignes",
+        "it": "https://loisirs73.fr/it/lac-de-tignes",
+        "es": "https://loisirs73.fr/es/lac-de-tignes",
+        "nl": "https://loisirs73.fr/nl/lac-de-tignes"
+      },
+      "facet_md": "https://loisirs73.fr/content/lac-de-tignes.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/lac-de-tignes.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/lac-de-tignes.json",
+      "photo": "/img/generique/generique-lac-hiver.jpg"
+    },
+    {
+      "slug": "lac-des-hurtieres",
+      "name": "Lac des Hurtières",
+      "category": "lac",
+      "commune": "Saint-Alban-d'Hurtières",
+      "postal_code": "73220",
+      "latitude": 45.482352,
+      "longitude": 6.288291,
+      "urls": {
+        "fr": "https://loisirs73.fr/lac-des-hurtieres",
+        "en": "https://loisirs73.fr/en/lac-des-hurtieres",
+        "de": "https://loisirs73.fr/de/lac-des-hurtieres",
+        "it": "https://loisirs73.fr/it/lac-des-hurtieres",
+        "es": "https://loisirs73.fr/es/lac-des-hurtieres",
+        "nl": "https://loisirs73.fr/nl/lac-des-hurtieres"
+      },
+      "facet_md": "https://loisirs73.fr/content/lac-des-hurtieres.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/lac-des-hurtieres.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/lac-des-hurtieres.json",
+      "photo": "/img/generique/generique-reserve-zone-humide-3.jpg"
     },
     {
       "slug": "lac-des-vaches-pralognan",
@@ -800,6 +905,48 @@
       "photo": "/img/generique/generique-sentier-foret-alpine.jpg"
     },
     {
+      "slug": "lac-du-bourget",
+      "name": "Lac du Bourget",
+      "category": "lac",
+      "commune": "Aix-les-Bains",
+      "postal_code": "73100",
+      "latitude": 45.7043,
+      "longitude": 5.8859,
+      "urls": {
+        "fr": "https://loisirs73.fr/lac-du-bourget",
+        "en": "https://loisirs73.fr/en/lac-du-bourget",
+        "de": "https://loisirs73.fr/de/lac-du-bourget",
+        "it": "https://loisirs73.fr/it/lac-du-bourget",
+        "es": "https://loisirs73.fr/es/lac-du-bourget",
+        "nl": "https://loisirs73.fr/nl/lac-du-bourget"
+      },
+      "facet_md": "https://loisirs73.fr/content/lac-du-bourget.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/lac-du-bourget.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/lac-du-bourget.json",
+      "photo": "/img/generique/generique-voiliers-coucher-soleil.jpg"
+    },
+    {
+      "slug": "lac-du-mont-cenis",
+      "name": "Lac du Mont-Cenis",
+      "category": "lac",
+      "commune": "Val-Cenis",
+      "postal_code": "73480",
+      "latitude": 45.2378,
+      "longitude": 6.9342,
+      "urls": {
+        "fr": "https://loisirs73.fr/lac-du-mont-cenis",
+        "en": "https://loisirs73.fr/en/lac-du-mont-cenis",
+        "de": "https://loisirs73.fr/de/lac-du-mont-cenis",
+        "it": "https://loisirs73.fr/it/lac-du-mont-cenis",
+        "es": "https://loisirs73.fr/es/lac-du-mont-cenis",
+        "nl": "https://loisirs73.fr/nl/lac-du-mont-cenis"
+      },
+      "facet_md": "https://loisirs73.fr/content/lac-du-mont-cenis.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/lac-du-mont-cenis.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/lac-du-mont-cenis.json",
+      "photo": "/img/generique/generique-plaine-verte.jpg"
+    },
+    {
       "slug": "lac-saint-andre-porte-de-savoie",
       "name": "Lac Saint-André",
       "category": "lac",
@@ -819,6 +966,27 @@
       "facet_md_en": "https://loisirs73.fr/content/en/lac-saint-andre-porte-de-savoie.md",
       "facet_json": "https://loisirs73.fr/api/lieu/lac-saint-andre-porte-de-savoie.json",
       "photo": "/img/generique/generique-lac.jpg"
+    },
+    {
+      "slug": "lacs-de-saint-jean-de-chevelu",
+      "name": "Lacs de Saint-Jean-de-Chevelu",
+      "category": "lac",
+      "commune": "Saint-Jean-de-Chevelu",
+      "postal_code": "73170",
+      "latitude": 45.69338,
+      "longitude": 5.825286,
+      "urls": {
+        "fr": "https://loisirs73.fr/lacs-de-saint-jean-de-chevelu",
+        "en": "https://loisirs73.fr/en/lacs-de-saint-jean-de-chevelu",
+        "de": "https://loisirs73.fr/de/lacs-de-saint-jean-de-chevelu",
+        "it": "https://loisirs73.fr/it/lacs-de-saint-jean-de-chevelu",
+        "es": "https://loisirs73.fr/es/lacs-de-saint-jean-de-chevelu",
+        "nl": "https://loisirs73.fr/nl/lacs-de-saint-jean-de-chevelu"
+      },
+      "facet_md": "https://loisirs73.fr/content/lacs-de-saint-jean-de-chevelu.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/lacs-de-saint-jean-de-chevelu.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/lacs-de-saint-jean-de-chevelu.json",
+      "photo": "/img/generique/generique-reserve-zone-humide-1.jpg"
     },
     {
       "slug": "les-charmettes-maison-jean-jacques-rousseau-chambery",

@@ -1,0 +1,31 @@
+{
+  "name": "Lacs de Saint-Jean-de-Chevelu",
+  "commune": "Saint-Jean-de-Chevelu",
+  "gps": {
+    "lat": 45.69338,
+    "lng": 5.825286
+  },
+  "type": "lac",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": {
+    "status": "partiel",
+    "detail": "Parcours de pêche labellisé « Famille » : pontons de pêche dont un accessible aux personnes à mobilité réduite (Fédération de pêche de Savoie). Le reste du site est un espace naturel sans aménagement PMR déclaré.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_url": "https://www.savoiepeche.com/saint-jean-de-chevelu/parcours-de-peche-famille-des-lacs-de-st-jean-de-chevelu",
+    "source_name": "Fédération de Savoie pour la Pêche"
+  },
+  "parking": null,
+  "transport": null,
+  "season": null,
+  "winter": null,
+  "official_url": "https://www.explore-savoie.com/sites-naturels/lacs-et-marais-de-saint-jean-de-chevelu-5216067/",
+  "last_verified": null
+}

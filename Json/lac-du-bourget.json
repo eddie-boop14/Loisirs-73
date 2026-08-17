@@ -1,0 +1,609 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-17",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "lac",
+  "commune": "Aix-les-Bains",
+  "date_modified_human": "17 août 2026",
+  "date_published_human": "17 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-17",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-voiliers-coucher-soleil.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Kreuzfahrten verbinden die Grand Port mit der Abtei Hautecombe und über die Canal de Savières mit dem Dorf Chanaz.",
+          "tag": "Auf dem Wasser",
+          "title": "Kreuzfahrt nach Hautecombe und Canal de Savières"
+        },
+        {
+          "description": "Die V63 folgt dem See von Aix-les-Bains bis Chambéry auf glattem Asphalt, das ganze Jahr über frei geöffnet.",
+          "tag": "Radfahren",
+          "title": "Die Eastshore Greenway"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>Lac du Bourget</strong> Strecken <strong>18 km</strong>, up to 3.5 km wide, 44.5 km² and 145 m deep at its deepest point, between the royal abbey of Hautecombe and the Grésine bay — die Zahlen sind die der Präfektur Savoie. The tourist office presents it as 'France's largest natural lake', and 'the largest natural lake by volume' (3.6 billion m³); the préfecture itself qualifies the surface-area title in favour of Lac d'Hourtin (58.3 km²) in Gironde. Beide Formulierungen werden in ihrer jetzigen Form gemeldet. Die Oberfläche variiert auch je nach Quelle: 44.5 km² (préfecture) or 45 km² (tourist office).</p><p>Rund um seine 40 km Ufer: Strände (alle bewertet) <strong>Ausgezeichnet</strong> in den Badegewässern des Departements 2025 13 Marina-Zonen pro Grand Lac — Das Tourismusbüro zählt 14 —, Kreuzfahrten nach Hautecombe und Canal de Savières und die V63-Grünstraße entlang der Ostküste von Aix-les-Bains nach Chambéry. Der See ist ein ausgewiesenes UNESCO Biosphärenreservat.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "frei",
+        "best_season": "Strände Rettungsschwimmer 27. Juni – 30. August 2026",
+        "commune": "Aix-les-Bains",
+        "dogs": "Nicht erlaubt an Stränden in der Saison",
+        "parking": null,
+        "stroller": null,
+        "type": "Natürlicher See",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Das Tourismusbüro sagt das und spezifiziert \"den größten natürlichen See nach Volumen\". Die Präfektur Savoie qualifiziert sie: by surface area, Lac d'Hourtin (Gironde, 58.3 km²) is larger. Wir berichten über beide Formulierungen - Nach Volumen ist der Titel unbestritten.",
+          "q": "Ist es wirklich Frankreichs größter natürlicher See?"
+        },
+        {
+          "a": "An den Stränden des Sees - Mémard, Rowing, Aqualac, Lido, Pointe de l'Ardre, Le Bourget-du-Lac, Mottets, Châtillon, Conjux — Alle bewerteten Excellente in den Abteilungsrankings 2025. Die meisten sind frei; Le Bourget-du-Lac und Mottets laden im Sommer auf.",
+          "q": "Wo kann man schwimmen?"
+        },
+        {
+          "a": "Kreuzfahrten (einschließlich der Abtei Hautecombe und der Abtei Canal de Savières bis Chanaz), Segeln, Paddleboarden, Kanufahren und Angeln (Lavaret, Arktiskohl, Barsch, Hecht). Die Grand Lac Marinas bieten etwa 2.960 Liegeplätze, 933 davon bei Aix-les-Bains' Grand Port.",
+          "q": "Was kann man auf dem Wasser machen?"
+        },
+        {
+          "a": "Die Ostküste wird von der V63 Greenway (La Belle Via) von Aix-les-Bains nach Chambéry gesäumt, die das ganze Jahr über kostenlos geöffnet ist. Die volle Schleife ist nicht völlig autofrei - Siehe unsere Greenway Seite.",
+          "q": "Kannst du um ihn herum radeln?"
+        }
+      ],
+      "hero": {
+        "badge": "Natürlicher See · Freier Zugang",
+        "lead": "Eighteen kilometres of water between the Dent du Chat and the vineyards: Lac du Bourget, das das Tourismusbüro als Frankreichs größter natürlicher See nach Volumen präsentiert, stellt Rettungsstrände, Yachthäfen, Kreuzfahrten zum Hautecombe und der Ostküsten-Grünstraße auf."
+      },
+      "hero_alt": "Segelboote bei Sonnenuntergang auf Lac du Bourget, Savoie",
+      "how_to_get_there": {
+        "bike": "V63 Greenway entlang der Ostküste, ViaRhôna-Verbindung bei Chanaz.",
+        "car": "A41 (Aix-les-Bains-Ausgang) oder A43 (Chambéry, dann Le Bourget-du-Lac). Parkplätze am Grand Port und den Stränden.",
+        "public_transport": "TER Stationen in Aix-les-Bains-Le Revard und Chambéry, beide in Küstennähe."
+      },
+      "meta_description": "Lac du Bourget: 18 km Wasser, Rettungsstrände bewertet Excellente, Kreuzfahrten nach Hautecombe und der Canal de Savières, der V63 Greenway. Offizielle Zahlen mit Quellenwidersprüchen.",
+      "meta_title": "Lac du Bourget · Strände, Kreuzfahrten, Greenway",
+      "name": "Lac du Bourget",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Abmessungen",
+          "v": "18 km × up to 3.5 km · 44.5 km² (préfecture; 45 km² per the tourist office) · 145 m max depth"
+        },
+        {
+          "k": "Volumen",
+          "v": "≈ 3.6 billion m³ (préfecture) — \"der größte natürliche See nach Volumen\" (Touristenbüro)"
+        },
+        {
+          "k": "Strände",
+          "v": "Am 27. Juni: 30. August 2026; alle bewertet Excellente (2025 Abteilungsrankings)"
+        },
+        {
+          "k": "Marinas",
+          "v": "13 Hafenzonen Grand Lac (~2,960 Liegeplätze, Grand Port 933); das Tourismusbüro zählt 14"
+        },
+        {
+          "k": "Etikett",
+          "v": "UNESCO Biosphärenreservat"
+        },
+        {
+          "k": "Hunde",
+          "v": "Nicht erlaubt an Grand Lac Stränden in der Sommersaison, auch nicht an der Leine"
+        }
+      ],
+      "schema_amenities": [
+        "Rettungsbewachte Strände",
+        "Marinas",
+        "Kreuzfahrten"
+      ],
+      "when_to_visit": "<p>Die Ufer und der Greenway können das ganze Jahr über genossen werden. In summer the water can reach 28 °C per the tourist office, and the beaches are lifeguarded from 27 June to 30 August 2026 (1 to 7 pm for most; Le Bourget-du-Lac und Mottets ab 10 Uhr. Anmerkung: an den von Grand Lac verwalteten Stränden sind Hunde in der Sommersaison nicht erlaubt, auch nicht an der Leine.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "Cruises link the Grand Port to Hautecombe abbey and, via the Canal de Savières, to the village of Chanaz.",
+          "tag": "On the water",
+          "title": "Cruise to Hautecombe and the Canal de Savières"
+        },
+        {
+          "description": "The V63 follows the lake from Aix-les-Bains to Chambéry on smooth asphalt, open free all year.",
+          "tag": "Cycling",
+          "title": "The east-shore greenway"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Lac du Bourget</strong> stretches <strong>18 km</strong>, up to 3.5 km wide, 44.5 km² and 145 m deep at its deepest point, between the royal abbey of Hautecombe and the Grésine bay — the figures are the Savoie préfecture's. The tourist office presents it as 'France's largest natural lake', and 'the largest natural lake by volume' (3.6 billion m³); the préfecture itself qualifies the surface-area title in favour of Lac d'Hourtin (58.3 km²) in Gironde. Both wordings are reported as they stand. The surface also varies by source: 44.5 km² (préfecture) or 45 km² (tourist office).</p><p>Around its 40 km of shores: the beaches (all rated <strong>Excellente</strong> in the 2025 departmental bathing-water rankings), 13 marina zones per Grand Lac — the tourist office counts 14 —, cruises to Hautecombe and the Canal de Savières, and the V63 greenway along the east shore from Aix-les-Bains to Chambéry. The lake is a designated UNESCO biosphere reserve.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free",
+        "best_season": "Beaches lifeguarded 27 June – 30 August 2026",
+        "commune": "Aix-les-Bains",
+        "dogs": "Not allowed on beaches in season",
+        "parking": null,
+        "stroller": null,
+        "type": "Natural lake",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "The tourist office says so, and specifies 'the largest natural lake by volume'. The Savoie préfecture qualifies it: by surface area, Lac d'Hourtin (Gironde, 58.3 km²) is larger. We report both wordings — by volume, the title is uncontested.",
+          "q": "Is it really France's largest natural lake?"
+        },
+        {
+          "a": "At the lake's beaches — Mémard, Rowing, Aqualac, Lido, Pointe de l'Ardre, Le Bourget-du-Lac, Mottets, Châtillon, Conjux — all rated Excellente in the 2025 departmental rankings. Most are free; Le Bourget-du-Lac and Mottets charge in summer.",
+          "q": "Where can you swim?"
+        },
+        {
+          "a": "Cruises (including Hautecombe abbey and the Canal de Savières to Chanaz), sailing, paddleboarding, canoeing and fishing (lavaret, Arctic char, perch, pike). The Grand Lac marinas offer about 2,960 moorings, 933 of them at Aix-les-Bains' Grand Port.",
+          "q": "What can you do on the water?"
+        },
+        {
+          "a": "The east shore is lined by the V63 greenway (La Belle Via) from Aix-les-Bains to Chambéry, open free all year. The full loop is not entirely car-free — see our greenway page.",
+          "q": "Can you cycle around it?"
+        }
+      ],
+      "hero": {
+        "badge": "Natural lake · Free access",
+        "lead": "Eighteen kilometres of water between the Dent du Chat and the vineyards: Lac du Bourget, which the tourist office presents as France's largest natural lake by volume, lines up lifeguarded beaches, marinas, cruises to Hautecombe and the east-shore greenway."
+      },
+      "hero_alt": "Sailing boats at sunset on Lac du Bourget, Savoie",
+      "how_to_get_there": {
+        "bike": "V63 greenway along the east shore, ViaRhôna connection at Chanaz.",
+        "car": "A41 (Aix-les-Bains exit) or A43 (Chambéry, then Le Bourget-du-Lac). Car parks at the Grand Port and the beaches.",
+        "public_transport": "TER stations at Aix-les-Bains-Le Revard and Chambéry, both close to the shores."
+      },
+      "meta_description": "Lac du Bourget: 18 km of water, lifeguarded beaches rated Excellente, cruises to Hautecombe and the Canal de Savières, the V63 greenway. Official figures with sourced contradictions.",
+      "meta_title": "Lac du Bourget · beaches, cruises, greenway",
+      "name": "Lac du Bourget",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Dimensions",
+          "v": "18 km × up to 3.5 km · 44.5 km² (préfecture; 45 km² per the tourist office) · 145 m max depth"
+        },
+        {
+          "k": "Volume",
+          "v": "≈ 3.6 billion m³ (préfecture) — 'the largest natural lake by volume' (tourist office)"
+        },
+        {
+          "k": "Beaches",
+          "v": "Lifeguarded 27 June – 30 August 2026; all rated Excellente (2025 departmental rankings)"
+        },
+        {
+          "k": "Marinas",
+          "v": "13 Grand Lac marina zones (~2,960 moorings, Grand Port 933); the tourist office counts 14"
+        },
+        {
+          "k": "Label",
+          "v": "UNESCO biosphere reserve"
+        },
+        {
+          "k": "Dogs",
+          "v": "Not allowed on Grand Lac beaches in the summer season, even on a leash"
+        }
+      ],
+      "schema_amenities": [
+        "Lifeguarded beaches",
+        "Marinas",
+        "Cruises"
+      ],
+      "when_to_visit": "<p>The shores and the greenway can be enjoyed all year. In summer the water can reach 28 °C per the tourist office, and the beaches are lifeguarded from 27 June to 30 August 2026 (1 to 7 pm for most; Le Bourget-du-Lac and Mottets from 10 am). Note: on the Grand Lac-managed beaches, dogs are not allowed in the summer season, even on a leash.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "Los cruceros conectan el Grand Port a la abadía Hautecombe y, a través del Canal de Savières, al pueblo de Chanaz.",
+          "tag": "En el agua",
+          "title": "Crucero a Hautecombe y Canal de Savières"
+        },
+        {
+          "description": "El V63 sigue el lago de Aix-les-Bains a Chambéry sobre asfalto liso, abierto gratis todo el año.",
+          "tag": "Ciclismo",
+          "title": "La Vía Verde del Este"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>Lac du Bourget</strong> estiramientos <strong>18 km</strong>, up to 3.5 km wide, 44.5 km² and 145 m deep at its deepest point, between the royal abbey of Hautecombe and the Grésine bay — las cifras son las de Savoie préfecture. The tourist office presents it as 'France's largest natural lake', and 'the largest natural lake by volume' (3.6 billion m³); the préfecture itself qualifies the surface-area title in favour of Lac d'Hourtin (58.3 km²) in Gironde. Ambas palabras son reportadas mientras están de pie. La superficie también varía según la fuente: 44.5 km² (préfecture) or 45 km² (tourist office).</p><p>Alrededor de sus 40 km de costas: las playas (todo calificado <strong>Excelentee</strong> en la clasificación de agua de baño departamental 2025), 13 zonas marinas por Grand Lac — la oficina turística cuenta 14 —, cruceros a Hautecombe y Canal de Savières, y la Vía Verde V63 a lo largo de la costa este de Aix-les-Bains a Chambéry. El lago es una reserva de biosfera UNESCO designada.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": "Playas salvavidas 27 junio – 30 de agosto de 2026",
+        "commune": "Aix-les-Bains",
+        "dogs": "No se permite en las playas en temporada",
+        "parking": null,
+        "stroller": null,
+        "type": "Lago natural",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "La oficina turística lo dice, y especifica \"el lago natural más grande por volumen\". La prefectura Savoie lo califica: by surface area, Lac d'Hourtin (Gironde, 58.3 km²) is larger. Informamos de ambas palabras: por volumen, el título no es impugnado.",
+          "q": "¿Es realmente el lago natural más grande de Francia?"
+        },
+        {
+          "a": "En las playas del lago — Mémard, Rowing, Aqualac, Lido, Pointe de l'Ardre, Le Bourget-du-Lac, Mottets, Châtillon, Conjux — todos valorados Excelentee en la clasificación 2025 departamental. La mayoría son libres; Le Bourget-du-Lac y Mottets cobran en verano.",
+          "q": "¿Dónde puedes nadar?"
+        },
+        {
+          "a": "Cruceros (incluyendo la abadía Hautecombe y la Canal de Savières a Chanaz), vela, paddleboarding, canoa y pesca (lavaret, Arctic char, perch, pike). Los puertos deportivos Grand Lac ofrecen cerca de 2.960 amarres, 933 de ellos en Aix-les-Bains' Grand Port.",
+          "q": "¿Qué puedes hacer en el agua?"
+        },
+        {
+          "a": "La costa este está forrada por la Vía Verde V63 (La Belle Via) de Aix-les-Bains a Chambéry, abierta todo el año. El bucle completo no es completamente libre de coches — ver nuestra página de la Vía Verde.",
+          "q": "¿Puedes rodearlo?"
+        }
+      ],
+      "hero": {
+        "badge": "Lago natural · Acceso libre",
+        "lead": "Dieciocho kilómetros de agua entre la Dent du Chat y los viñedos: Lac du Bourget, que la oficina turística presenta como el lago natural más grande de Francia por volumen, sube playas salvavidas, puertos deportivos, cruceros a Hautecombe y la vía verde de la costa este."
+      },
+      "hero_alt": "Barcos de vela al atardecer en Lac du Bourget, Savoie",
+      "how_to_get_there": {
+        "bike": "Vía verde V63 a lo largo de la costa este, conexión ViaRhôna en Chanaz.",
+        "car": "A41 (salida Aix-les-Bains) o A43 (Chambéry, luego Le Bourget-du-Lac). Aparcamientos en el Grand Port y las playas.",
+        "public_transport": "Estaciones de TER en Aix-les-Bains-Le Revard y Chambéry, ambas cercanas a las costas."
+      },
+      "meta_description": "Lac du Bourget: 18 km de agua, playas salvavidas valoradas como Excelentee, cruceros a Hautecombe y Canal de Savières, la Vía Verde V63. Figuras oficiales con contradicciones fuente.",
+      "meta_title": "Lac du Bourget · playas, cruceros, Vía Verde",
+      "name": "Lac du Bourget",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Dimensiones",
+          "v": "18 km × up to 3.5 km · 44.5 km² (préfecture; 45 km² per the tourist office) · 145 m max depth"
+        },
+        {
+          "k": "Volumen",
+          "v": "≈ 3.6 billion m³ (préfecture) — \"el lago natural más grande por volumen\" (oficina turística)"
+        },
+        {
+          "k": "Playas",
+          "v": "Salvavidas 27 de junio – 30 agosto 2026; todos los clasificación Excelentee (2025 rankings departamentales)"
+        },
+        {
+          "k": "Marinas",
+          "v": "13 zonas marinas Grand Lac (~2,960 amarres, Grand Port 933); la oficina turística cuenta 14"
+        },
+        {
+          "k": "Label",
+          "v": "Reserva de biosfera UNESCO"
+        },
+        {
+          "k": "Perros",
+          "v": "No se permite en las playas de Grand Lac en la temporada de verano, incluso en una correa"
+        }
+      ],
+      "schema_amenities": [
+        "Playas salvavidas",
+        "Marinas",
+        "Cruceros"
+      ],
+      "when_to_visit": "<p>Las costas y la Vía Verde se pueden disfrutar todo el año. En verano el agua puede llegar a 28 °C por la oficina turística, y las playas están salvavidas del 27 de junio al 30 de agosto de 2026 (1 a 7 pm para la mayoría; Le Bourget-du-Lac y Mottets de 10 am). Nota: en las playas gestionadas por Grand Lac, los perros no se permiten en la temporada de verano, incluso en una correa.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Les croisières relient le Grand Port à l'abbaye d'Hautecombe et, par le canal de Savières, au village de Chanaz.",
+          "tag": "Sur l'eau",
+          "title": "Croisière vers Hautecombe et le canal de Savières"
+        },
+        {
+          "description": "La V63 longe le lac d'Aix-les-Bains à Chambéry sur un enrobé lisse, en accès libre toute l'année.",
+          "tag": "Vélo",
+          "title": "La voie verte de la rive est"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Le <strong>lac du Bourget</strong> s'étire sur <strong>18 km</strong> pour 3,5 km de largeur maximale, 44,5 km² et 145 m de profondeur au point le plus profond, entre l'abbaye royale d'Hautecombe et la baie de Grésine — les chiffres sont ceux de la préfecture de la Savoie. L'office de tourisme le présente comme « plus grand lac naturel de France », et « le plus grand lac naturel en volume » (3,6 milliards de m³) ; la préfecture elle-même nuance le titre en surface, au profit du lac d'Hourtin (58,3 km²) en Gironde. Les deux formulations sont reportées telles quelles. La surface varie aussi selon la source : 44,5 km² (préfecture) ou 45 km² (office de tourisme).</p><p>Autour de ses 40 km de rives : les plages (toutes classées <strong>Excellente</strong> au classement départemental 2025 des eaux de baignade), 13 zones portuaires selon Grand Lac — l'office de tourisme en compte 14 —, les croisières vers Hautecombe et le canal de Savières, et la voie verte V63 qui longe la rive est d'Aix-les-Bains à Chambéry. Le lac est désigné réserve de biosphère UNESCO.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuit",
+        "best_season": "Plages surveillées 27 juin – 30 août 2026",
+        "commune": "Aix-les-Bains",
+        "dogs": "Interdits sur les plages en saison",
+        "parking": null,
+        "stroller": null,
+        "type": "Lac naturel",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "L'office de tourisme l'affirme, et précise « le plus grand lac naturel en volume ». La préfecture de la Savoie nuance : en surface, le lac d'Hourtin (Gironde, 58,3 km²) le dépasse. Nous reportons les deux formulations — en volume, le titre n'est pas contesté.",
+          "q": "Est-ce vraiment le plus grand lac naturel de France ?"
+        },
+        {
+          "a": "Sur les plages du lac — Mémard, Rowing, Aqualac, Lido, Pointe de l'Ardre, Le Bourget-du-Lac, Mottets, Châtillon, Conjux — toutes classées Excellente au classement départemental 2025. La plupart sont gratuites ; Le Bourget-du-Lac et les Mottets sont payantes en été.",
+          "q": "Où se baigner ?"
+        },
+        {
+          "a": "Croisières (dont l'abbaye d'Hautecombe et le canal de Savières vers Chanaz), voile, paddle, canoë et pêche (lavaret, omble chevalier, perche, brochet). Les ports Grand Lac offrent environ 2 960 anneaux, dont 933 au Grand Port d'Aix-les-Bains.",
+          "q": "Que faire sur l'eau ?"
+        },
+        {
+          "a": "La rive est se longe par la voie verte V63 (La Belle Via) d'Aix-les-Bains à Chambéry, en accès libre toute l'année. Le tour complet n'est pas intégralement en site propre — voir notre fiche voie verte.",
+          "q": "Peut-on en faire le tour à vélo ?"
+        }
+      ],
+      "hero": {
+        "badge": "Lac naturel · Accès libre",
+        "lead": "Dix-huit kilomètres d'eau entre Dent du Chat et vignobles : le lac du Bourget, que l'office de tourisme présente comme le plus grand lac naturel de France en volume, aligne plages surveillées, ports, croisières vers Hautecombe et la voie verte de la rive est."
+      },
+      "hero_alt": "Voiliers au coucher du soleil sur le lac du Bourget, Savoie",
+      "how_to_get_there": {
+        "bike": "Voie verte V63 le long de la rive est, connexion ViaRhôna à Chanaz.",
+        "car": "Par l'A41 (sortie Aix-les-Bains) ou l'A43 (Chambéry, puis Le Bourget-du-Lac). Parkings au Grand Port et aux plages.",
+        "public_transport": "Gares TER d'Aix-les-Bains-Le Revard et de Chambéry, toutes deux proches des rives."
+      },
+      "meta_description": "Le lac du Bourget : 18 km d'eau, plages surveillées classées Excellente, croisières vers Hautecombe et le canal de Savières, voie verte V63. Chiffres officiels et contradictions sourcées.",
+      "meta_title": "Lac du Bourget · plages, croisières, voie verte",
+      "name": "Lac du Bourget",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Dimensions",
+          "v": "18 km × 3,5 km max · 44,5 km² (préfecture ; 45 km² selon l'OT) · 145 m de profondeur max"
+        },
+        {
+          "k": "Volume",
+          "v": "≈ 3,6 milliards de m³ (préfecture) — « le plus grand lac naturel en volume » (OT)"
+        },
+        {
+          "k": "Plages",
+          "v": "Surveillées 27 juin – 30 août 2026 ; toutes classées Excellente (classement départemental 2025)"
+        },
+        {
+          "k": "Ports",
+          "v": "13 zones portuaires Grand Lac (~2 960 places, Grand Port 933) ; l'OT en compte 14"
+        },
+        {
+          "k": "Label",
+          "v": "Réserve de biosphère UNESCO"
+        },
+        {
+          "k": "Chiens",
+          "v": "Interdits sur les plages Grand Lac en saison estivale, même en laisse"
+        }
+      ],
+      "schema_amenities": [
+        "Plages surveillées",
+        "Ports",
+        "Croisières"
+      ],
+      "when_to_visit": "<p>Les rives et la voie verte se parcourent toute l'année. En été, l'eau peut atteindre 28 °C selon l'office de tourisme, et les plages sont surveillées du 27 juin au 30 août 2026 (13 h à 19 h pour la plupart ; Le Bourget-du-Lac et les Mottets dès 10 h). Attention : sur les plages gérées par Grand Lac, les chiens ne sont pas autorisés en saison estivale, même en laisse.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Le crociere collegano l'abbazia Grand Port all'abbazia di Hautecombe e, tramite Canal de Savières, al villaggio di Chanaz.",
+          "tag": "Sull'acqua",
+          "title": "Crociera a Hautecombe e Canal de Savières"
+        },
+        {
+          "description": "L'V63 segue il lago da Aix-les-Bains a Chambéry su asfalto liscio, aperto libero tutto l'anno.",
+          "tag": "Ciclismo",
+          "title": "Il verde sulla costa orientale"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Lac du Bourget</strong> tratti <strong>18 km</strong>, up to 3.5 km wide, 44.5 km² and 145 m deep at its deepest point, between the royal abbey of Hautecombe and the Grésine bay — le cifre sono la préfecture Savoie. The tourist office presents it as 'France's largest natural lake', and 'the largest natural lake by volume' (3.6 billion m³); the préfecture itself qualifies the surface-area title in favour of Lac d'Hourtin (58.3 km²) in Gironde. Entrambe le parole sono riportate come stanno. La superficie varia anche per fonte: 44.5 km² (préfecture) or 45 km² (tourist office).</p><p>Intorno ai suoi 40 km di sponde: le spiagge (tutte votate <strong>Eccellente.</strong> nella classifica delle acque di balneazione del reparto 2025), 13 zone portuali per Grand Lac — l'ufficio turistico conta 14 —, crociere a Hautecombe e Canal de Savières, e il verde V63 lungo la costa orientale da Aix-les-Bains a Chambéry. Il lago è una riserva di biosfera designata UNESCO.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": "Spiagge salvavita 27 giugno – 30 agosto 2026",
+        "commune": "Aix-les-Bains",
+        "dogs": "Non consentito sulle spiagge in stagione",
+        "parking": null,
+        "stroller": null,
+        "type": "Lago naturale",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "L'ufficio turistico lo dice, e specifica 'il più grande lago naturale per volume'. La préfecture Savoie lo qualifica: by surface area, Lac d'Hourtin (Gironde, 58.3 km²) is larger. Riportiamo entrambe le parole — per volume, il titolo non è contestato.",
+          "q": "È davvero il più grande lago naturale della Francia?"
+        },
+        {
+          "a": "Sulle spiagge del lago — Mémard, Rowing, Aqualac, Lido, Pointe de l'Ardre, Le Bourget-du-Lac, Mottets, Châtillon, Conjux — tutto valutato Eccellente nella classifica di reparto 2025. La maggior parte sono liberi; Le Bourget-du-Lac e Mottets caricano in estate.",
+          "q": "Dove puoi nuotare?"
+        },
+        {
+          "a": "Crociere (tra cui l'abbazia di Hautecombe e la Canal de Savières a Chanaz), vela, paddleboarding, canoa e pesca (lavaret, carbone artico, perch, pike). I porti turistici Grand Lac offrono circa 2,960 ormeggi, 933 di loro a Aix-les-Bains' Grand Port.",
+          "q": "Cosa puoi fare sull'acqua?"
+        },
+        {
+          "a": "La costa orientale è allineata dal verde V63 (La Belle Via) da Aix-les-Bains a Chambéry, aperto tutto l'anno. Il ciclo completo non è interamente privo di auto — vedi la nostra pagina verde.",
+          "q": "Puoi andare in bicicletta?"
+        }
+      ],
+      "hero": {
+        "badge": "Lago naturale · Accesso libero",
+        "lead": "Diciotto chilometri di acqua tra la Dent du Chat e i vigneti: Lac du Bourget, che l'ufficio turistico presenta come il più grande lago naturale della Francia per volume, linee su spiagge salvavita, porti turistici, crociere a Hautecombe e il verde della costa orientale."
+      },
+      "hero_alt": "Barche a vela al tramonto su Lac du Bourget, Savoie",
+      "how_to_get_there": {
+        "bike": "V63 greenway lungo la costa orientale, connessione ViaRhôna a Chanaz.",
+        "car": "A41 (uscita Aix-les-Bains) o A43 (Chambéry, poi Le Bourget-du-Lac). Parcheggi all'Grand Port e alle spiagge.",
+        "public_transport": "Stazioni TER a Aix-les-Bains-Le Revard e Chambéry, entrambe vicine alle rive."
+      },
+      "meta_description": "Lac du Bourget: 18 km di acqua, spiagge salvavita valutato Eccellente, crociere a Hautecombe e Canal de Savières, il verde V63. Figure ufficiali con contraddizioni di provenienza.",
+      "meta_title": "Lac du Bourget · spiagge, crociere, greenway",
+      "name": "Lac du Bourget",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Dimensioni",
+          "v": "18 km × up to 3.5 km · 44.5 km² (préfecture; 45 km² per the tourist office) · 145 m max depth"
+        },
+        {
+          "k": "Volume",
+          "v": "≈ 3.6 billion m³ (préfecture) — \"il più grande lago naturale per volume\" (ufficio turistico)"
+        },
+        {
+          "k": "Spiagge",
+          "v": "Protezione della vita 27 giugno – 30 agosto 2026; tutti classificati Eccellente (2025 classifiche dipartimentali)"
+        },
+        {
+          "k": "Marinai",
+          "v": "13 zone portuali Grand Lac (~2,960 ormeggi, Grand Port 933); l'ufficio turistico conta 14"
+        },
+        {
+          "k": "Etichetta",
+          "v": "Riserva della biosfera UNESCO"
+        },
+        {
+          "k": "Cani",
+          "v": "Non consentito sulle spiagge Grand Lac nella stagione estiva, anche al guinzaglio"
+        }
+      ],
+      "schema_amenities": [
+        "Spiagge all'avanguardia",
+        "Marinai",
+        "Crociere"
+      ],
+      "when_to_visit": "<p>Le sponde e la strada verde possono essere goduti tutto l'anno. In summer the water can reach 28 °C per the tourist office, and the beaches are lifeguarded from 27 June to 30 August 2026 (1 to 7 pm for most; Le Bourget-du-Lac and Mottets from 10 am). Nota: sulle spiagge Grand Lac gestite, i cani non sono ammessi nella stagione estiva, anche al guinzaglio.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Cruises koppelen de Grand Port aan de abdij Hautecombe en via de Canal de Savières aan het dorp Chanaz.",
+          "tag": "Op het water",
+          "title": "Cruise naar Hautecombe en de Canal de Savières"
+        },
+        {
+          "description": "De V63 volgt het meer van Aix-les-Bains tot Chambéry op glad asfalt, het hele jaar vrij geopend.",
+          "tag": "Fietsen",
+          "title": "De oostkust greenway"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>Lac du Bourget</strong> rekt <strong>18 km</strong>, up to 3.5 km wide, 44.5 km² and 145 m deep at its deepest point, between the royal abbey of Hautecombe and the Grésine bay — De cijfers zijn de Savoie préfecture's. The tourist office presents it as 'France's largest natural lake', and 'the largest natural lake by volume' (3.6 billion m³); the préfecture itself qualifies the surface-area title in favour of Lac d'Hourtin (58.3 km²) in Gironde. Beide formuleringen worden in hun huidige vorm gerapporteerd. Het oppervlak varieert ook per bron: 44.5 km² (préfecture) or 45 km² (tourist office).</p><p>Rond de 40 km kust: de stranden (alle beoordeeld <strong>Excelente</strong> in the 2025 departmental bathing-water rankings), 13 marina zones per Grand Lac — the tourist office counts 14 —, cruises to Hautecombe and the Canal de Savières, and the V63 greenway along the east shore from Aix-les-Bains to Chambéry. Het meer is een UNESCO biosfeerreservaat.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Vrij",
+        "best_season": "Stranden met strandwacht 27 juni 30 augustus 2026",
+        "commune": "Aix-les-Bains",
+        "dogs": "Niet toegestaan op stranden in het seizoen",
+        "parking": null,
+        "stroller": null,
+        "type": "Natuurmeer",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Het VVV zegt dat, en specificeert 'het grootste natuurlijke meer per volume'. De Savoie préfecture kwalificeert het: by surface area, Lac d'Hourtin (Gironde, 58.3 km²) is larger. We rapporteren beide formuleringen naar volume, de titel is niet betwist.",
+          "q": "Is het echt het grootste natuurlijke meer van Frankrijk?"
+        },
+        {
+          "a": "Aan de stranden van het meer Mémard, Rowing, Aqualac, Lido, Pointe de l'Ardre, Le Bourget-du-Lac, Mottets, Châtillon, Conjux — Alle beoordeeld Excelente in de 2025 departementale ranglijsten. De meeste zijn gratis; Le Bourget-du-Lac en Mottets betalen in de zomer.",
+          "q": "Waar kun je zwemmen?"
+        },
+        {
+          "a": "Cruises (waaronder Hautecombe abdij en Canal de Savières tot Chanaz), zeilen, paddleboarden, kanoën en vissen (lavaret, Arctische char, baars, snoek). De Grand Lac jachthavens bieden ongeveer 2.960 ligplaatsen, waarvan 933 op Aix-les-Bains' Grand Port.",
+          "q": "Wat kun je op het water doen?"
+        },
+        {
+          "a": "De oostkust wordt gevoerd door de V63 greenway (La Belle Via) van Aix-les-Bains tot Chambéry, het hele jaar gratis geopend. De volledige lus is niet volledig autovrij Zie onze Greenway pagina.",
+          "q": "Kun je er omheen fietsen?"
+        }
+      ],
+      "hero": {
+        "badge": "Natuurmeer · Gratis toegang",
+        "lead": "Achttien kilometer water tussen de Dent du Chat en de wijngaarden: Lac du Bourget, dat het VVV-kantoor presenteert als het grootste natuurlijke meer van volume in Frankrijk, lijnt stranden, jachthavens, cruises naar Hautecombe en de oostkust greenway."
+      },
+      "hero_alt": "Zeilboten bij zonsondergang op Lac du Bourget, Savoie",
+      "how_to_get_there": {
+        "bike": "V63 greenway langs de oostkust, ViaRhôna verbinding op Chanaz.",
+        "car": "A41 (Aix-les-Bains-uitgang) of A43 (Chambéry, dan Le Bourget-du-Lac). Parkeren bij de Grand Port en de stranden.",
+        "public_transport": "TER stations op Aix-les-Bains-Le Revard en Chambéry, beide dicht bij de kust."
+      },
+      "meta_description": "Lac du Bourget: 18 km water, stranden met badmeesters met Excelente, cruises naar Hautecombe en de Canal de Savières, de V63 greenway. Officiële cijfers met tegenstrijdigheden.",
+      "meta_title": "Lac du Bourget · stranden, cruises, greenway",
+      "name": "Lac du Bourget",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Afmetingen",
+          "v": "18 km × up to 3.5 km · 44.5 km² (préfecture; 45 km² per the tourist office) · 145 m max depth"
+        },
+        {
+          "k": "Volume",
+          "v": "≈ 3.6 billion m³ (préfecture) — \"het grootste natuurlijke meer van volume\" (toeristische kantoor)"
+        },
+        {
+          "k": "Stranden",
+          "v": "Bewaakt 27 juni 30 augustus 2026; alle beoordeelde Excellente (2025 departementale ranglijsten)"
+        },
+        {
+          "k": "Marina's",
+          "v": "13 Grand Lac jachthavenzones (~2,960 ligplaatsen, Grand Port 933); het VVV-kantoor telt 14"
+        },
+        {
+          "k": "Label",
+          "v": "UNESCO biosfeerreservaat"
+        },
+        {
+          "k": "Honden",
+          "v": "Niet toegestaan op Grand Lac stranden in het zomerseizoen, zelfs niet aan de lijn"
+        }
+      ],
+      "schema_amenities": [
+        "Bewaakte stranden",
+        "Marina's",
+        "Cruises"
+      ],
+      "when_to_visit": "<p>De oevers en de greenway kunnen het hele jaar worden genoten. In summer the water can reach 28 °C per the tourist office, and the beaches are lifeguarded from 27 June to 30 August 2026 (1 to 7 pm for most; Le Bourget-du-Lac en Mottets vanaf 10 uur. Opmerking: Op de Grand Lac stranden zijn honden niet toegestaan in het zomerseizoen, zelfs niet aan de lijn.</p>"
+    }
+  },
+  "latitude": 45.7043,
+  "longitude": 5.8859,
+  "official_site_url": "https://www.aixlesbains-rivieradesalpes.com/la-destination/le-lac-du-bourget/",
+  "partners": [],
+  "postal_code": "73100",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-17, FR pages only. Préfecture (savoie.gouv.fr « 10 questions ») : 18 km, largeur max 3,5 km, 44,5 km², profondeur max 145 m (entre Hautecombe et la baie de Grésine), volume ~3,6 milliards de m³ ; la préfecture CONTESTE le titre « plus grand lac naturel » en surface (Hourtin 58,3 km²). OT (FR) : « plus grand lac naturel de France » et « le plus grand lac naturel en volume » ; 40 km de rives ; eau jusqu'à 28 °C ; réserve de biosphère UNESCO. grand-lac.fr : 13 zones portuaires (~2 960 places, Grand Port 933) vs OT « 14 ports » — contradiction reportée. Surface 44,5 (préfecture) vs 45 km² (OT) — reportée. Chiens interdits sur les plages Grand Lac en saison, même en laisse. Plages surveillées 27/06–30/08 (13h–19h, Bourget-du-Lac et Mottets 10h–19h). ARS 2025 : tous les sites du lac classés Excellente (listing départemental). Ancre : Grand Port d'Aix-les-Bains (OSM).",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "lac-du-bourget",
+  "sources": [
+    "https://www.savoie.gouv.fr/Actualites/Actualites/10-questions-sur-le-lac-du-Bourget",
+    "https://www.aixlesbains-rivieradesalpes.com/la-destination/le-lac-du-bourget/",
+    "https://www.grand-lac.fr/au-quotidien/services-a-la-population/plages",
+    "https://www.grand-lac.fr/au-quotidien/services-a-la-population/ports/les-ports-de-grand-lac",
+    "https://www.cisalb.fr/le-territoire"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published for this site; kept null rather than inferred."
+  ]
+}

@@ -1,16 +1,16 @@
 # Phase 4 — photo assignments (gate artifact)
 
 **Date**: 2026-06-14
-**Total assignments**: 83 (one per (hub × slug) on the FR canonical hub)
+**Total assignments**: 92 (one per (hub × slug) on the FR canonical hub)
 
 ## Per-hub diversity
 
 | hub | fiches | distinct photos | max repeat of one photo |
 |---|---:|---:|---:|
-| `bases-de-loisirs` | 6 | 6 | 1 |
+| `bases-de-loisirs` | 7 | 7 | 1 |
 | `cascades` | 7 | 1 | 7 |
 | `chateaux` | 7 | 3 | 3 |
-| `lacs-plages` | 15 | 15 | 1 |
+| `lacs-plages` | 23 | 23 | 1 |
 | `musees` | 7 | 5 | 2 |
 | `points-de-vue` | 15 | 15 | 1 |
 | `sentiers` | 7 | 7 | 1 |
@@ -25,6 +25,7 @@
 | `bases-de-loisirs` | `base-de-loisirs-du-lac-bleu` | `nature` | `generique-plage-lac-8.jpg` | — | json hero (local) |
 | `bases-de-loisirs` | `base-de-loisirs-gresy-sur-isere` | `nature` | `generique-plage-lac-5.jpg` | — | json hero (local) |
 | `bases-de-loisirs` | `base-de-loisirs-les-iles-du-cheran` | `nature` | `generique-plage-lac-2.jpg` | — | json hero (local) |
+| `bases-de-loisirs` | `lac-des-hurtieres` | `nature` | `generique-reserve-zone-humide-3.jpg` | — | json hero (local) |
 | `bases-de-loisirs` | `plage-base-de-loisirs-du-sougey` | `aquatique` | `generique-plage-lac-3.jpg` | — | json hero (local) |
 | `bases-de-loisirs` | `plan-d-eau-de-bozel` | `nature` | `generique-plage-lac-11.jpg` | — | json hero (local) |
 | `cascades` | `cascade-de-la-fraiche` | `nature` | `generique-cascade.jpg` | — | json hero (local) |
@@ -42,8 +43,16 @@
 | `chateaux` | `redoute-marie-therese-avrieux` | `patrimoine` | `generique-chateau.jpg` | — | json hero (local) |
 | `chateaux` | `tours-de-chignin` | `patrimoine` | `generique-chateau.jpg` | — | json hero (local) |
 | `lacs-plages` | `base-de-loisirs-gresy-sur-isere` | `nature` | `generique-plage-lac-5.jpg` | — | json hero (local) |
+| `lacs-plages` | `lac-d-aiguebelette` | `nature` | `generique-barque-aviron.jpg` | — | json hero (local) |
 | `lacs-plages` | `lac-de-carouge-saint-pierre-d-albigny` | `nature` | `generique-lac-coucher-soleil.jpg` | — | json hero (local) |
+| `lacs-plages` | `lac-de-la-thuile` | `nature` | `generique-famille-balade.jpg` | — | json hero (local) |
+| `lacs-plages` | `lac-de-sainte-helene` | `nature` | `generique-reserve-zone-humide-2.jpg` | — | json hero (local) |
+| `lacs-plages` | `lac-de-tignes` | `nature` | `generique-lac-hiver.jpg` | — | json hero (local) |
+| `lacs-plages` | `lac-des-hurtieres` | `nature` | `generique-reserve-zone-humide-3.jpg` | — | json hero (local) |
+| `lacs-plages` | `lac-du-bourget` | `nature` | `generique-voiliers-coucher-soleil.jpg` | — | json hero (local) |
+| `lacs-plages` | `lac-du-mont-cenis` | `nature` | `generique-plaine-verte.jpg` | — | json hero (local) |
 | `lacs-plages` | `lac-saint-andre-porte-de-savoie` | `nature` | `generique-lac.jpg` | — | json hero (local) |
+| `lacs-plages` | `lacs-de-saint-jean-de-chevelu` | `nature` | `generique-reserve-zone-humide-1.jpg` | — | json hero (local) |
 | `lacs-plages` | `plage-aiguebelette-le-lac` | `aquatique` | `generique-plage-lac-4.jpg` | — | json hero (local) |
 | `lacs-plages` | `plage-base-de-loisirs-du-sougey` | `aquatique` | `generique-plage-lac-3.jpg` | — | json hero (local) |
 | `lacs-plages` | `plage-de-chatillon-chindrieux` | `aquatique` | `generique-plage-lac-13.jpg` | — | json hero (local) |

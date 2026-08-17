@@ -1,0 +1,601 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-17",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "lac",
+  "commune": "Tignes",
+  "date_modified_human": "17 août 2026",
+  "date_published_human": "17 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-17",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-lac-hiver.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Tauchbretter in den See (mit Neoprenanzug), Paddleboard, Pedalboot, Kanu, Kajak — 320 Promenade de Tovière.",
+          "tag": "Unter Aufsicht",
+          "title": "Acroland und die Wassersportbasis"
+        },
+        {
+          "description": "„Jeden Montag und Donnerstag der Sommersaison: Konzerte von einer schwimmenden Bühne auf dem See.",
+          "tag": "Konzerte",
+          "title": "Soirée Barge"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>Lac de Tignes</strong> ist ein natürlicher See im Herzen des Resorts in <strong>2100 Meter</strong>', deren Wasser 'geradeaus vom Grande Motte-Gletscher kommen'. Nicht zu verwechseln mit dem Lac du Chevril, dem großen stromabwärts gelegenen EEF-Reservoir — die der Fischereiverband tatsächlich \"Lac de Tignes (Le Chevril)\" nennt; Diese Seite behandelt den natürlichen See von Tignes-le-Lac.</p><p><strong>Schwimmen ist durch ständige Gemeindeverordnung verboten</strong>Das Rathaus nennt seine Gründe wörtlich: \"Der See weist sehr niedrige Wassertemperaturen, schnelle Schwankungen des Wasserstands und Schlammbänke auf\" und \"diese Verordnung schützt auch die im See vorhandenen Tier- und Pflanzenarten\". Auf der genauen Temperatur variieren die Seiten des Resorts - etwa 9 °C im Durchschnitt im Sommer pro eins, 10 bis 15 °C pro andere — Und wir berichten beides. Das Wasser wird daher unter Aufsicht genossen: <strong>Acroland</strong>Tauchbretter (Wetsuit zur Verfügung gestellt), Paddleboard, Pedalboot, Kanu und Kajak an der Promenade de Tovière Wassersportbasis.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "frei",
+        "best_season": "Wassersportbasis ~20. Juni – 6. September",
+        "commune": "Tignes",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Natürlicher Hochsee",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Nein: \"Das Verbot des Schwimmens im Lac de Tignes wird durch einen ständigen kommunalen Erlass geregelt\" (Rathaus). Angegebene Gründe: sehr kaltes Wasser, schnelle Niveauschwankungen, Schlammbänke, Artenschutz. Die Sprünge von Acroland in einem bereitgestellten Neoprenanzug sind die überwachte Ausnahme.",
+          "q": "Kannst du im Lac de Tignes schwimmen?"
+        },
+        {
+          "a": "Nein. Der Damm hält den Lac du Chevril stromabwärts zurück. Diese Seite behandelt den natürlichen See von Tignes-le-Lac, im Herzen des Resorts auf 2100 m — Beachten Sie, dass der Fischereiverband das Reservoir \"Lac de Tignes (Le Chevril)\" nennt, daher die häufige Verwirrung.",
+          "q": "Ist es der gleiche See wie der Tignes-Staudamm?"
+        },
+        {
+          "a": "Eine AAPPMA-Karte mit dem CPMA-Stempel sowie die Fischereirechte des Sees. Angelhütte geöffnet 15. Juni bis 4. Oktober, 07:00 bis 09:00 Uhr; Fischen von 7 Uhr morgens bis abends. Preise: Erwachsener Tag 14,50 €, Kind 8 €, Saison 103 € (Kind 52 €), 6 Tage 63 €.",
+          "q": "Wie fischen Sie?"
+        },
+        {
+          "a": "Der See friert und wird anders gelebt: Wandern zwischen den Quartieren des Resorts, Hundeschlittenfahren, Ice Floating und Untereistauchen, nach den aufgeführten Aktivitäten des Resorts.",
+          "q": "Und im Winter?"
+        }
+      ],
+      "hero": {
+        "badge": "Natürlicher See · 2100 m",
+        "lead": "Im Herzen des Resorts befindet sich ein Gletschersee, der direkt vom Grande Motte gefüttert wird: Schwimmen verboten durch ständige Verordnung, aber Acroland Tauchbretter, Paddleboards, Forellenfischerei, Floating-Bühnenkonzerte — und im Winter das Leben auf dem zugefrorenen See."
+      },
+      "hero_alt": "Hochsee im Winter bei Tignes, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Durch die D902 von Bourg-Saint-Maurice zu Tignes-le-Lac; Der See liegt im Herzen des Resorts.",
+        "public_transport": "Bourg-Saint-Maurice SNCF Station, dann Busverbindung zu Tignes."
+      },
+      "meta_description": "Der natürliche See von Tignes, auf 2100 m im Herzen des Resorts: Schwimmen verboten durch ständige Verordnung, Acroland und die Wassersportbasis, Forellenfischerei, schwimmende Konzerte — und Winter auf dem zugefrorenen See.",
+      "meta_title": "Lac de Tignes · Gletschersee auf 2100 m, Acroland",
+      "name": "Lac de Tignes",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Höhe",
+          "v": "2100 m, im Herzen des Resorts (tignes.net)"
+        },
+        {
+          "k": "Schwimmen",
+          "v": "Verboten durch permanente kommunale Verordnung (sehr kaltes Wasser, variable Niveaus, Schlammbänke, Artenschutz)"
+        },
+        {
+          "k": "Wassertemperatur",
+          "v": "≈ 9 °C Sommerdurchschnitt — 10 bis 15 °C pro anderer Resortseite: beide Quellenwerte"
+        },
+        {
+          "k": "Wassersportbasis",
+          "v": "320 Promenade de Tovière · täglich geöffnet ~ 20. Juni – 6. September · Schließfächer, Umkleidekabinen, Duschen"
+        },
+        {
+          "k": "Fischerei",
+          "v": "Forellen · Chalet 15. Juni – 4. Oktober (07:00 bis 09:00 Uhr) · Tag 14,50 €, Saison 103 €"
+        },
+        {
+          "k": "Winter",
+          "v": "gefrorener See: Überqueren, Hundeschlitten, Ice Floating, Untereistauchen"
+        }
+      ],
+      "schema_amenities": [
+        "Wassersportbasis",
+        "Fischerchalet"
+      ],
+      "when_to_visit": "<p>Sommer (Basis täglich geöffnet, etwa 20. Juni bis 6. September) für das Wasser, <strong>Forellenfischerei</strong> (Fanghütte 15. Juni bis 4. Oktober, 07:00 bis 09:00 Uhr); Erwachsener Tag 14,50 €, Kind 8 €, Saison 103 € und der leichte See-Loop-Spaziergang mit Blick auf die Grande Motte, die Grande Sassière und das Tufs-Massiv - Nicht zu vergessen die \"Soirée Barge\", Konzerte von einer schwimmenden Bühne \"jeden Montag und Donnerstag der Sommersaison\". Im Winter wird der zugefrorene See zu einer anderen Welt: Wandern zwischen den Quartieren des Resorts, Hundeschlittenfahren, Ice Floating, Untereistauchen.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "Diving boards into the lake (wetsuit provided), paddleboard, pedal boat, canoe, kayak — 320 Promenade de Tovière.",
+          "tag": "Supervised",
+          "title": "Acroland and the water-sports base"
+        },
+        {
+          "description": "'Every Monday and Thursday of the summer season': concerts from a floating stage on the lake.",
+          "tag": "Concerts",
+          "title": "Soirée Barge"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Lac de Tignes</strong> is a natural lake 'nestled in the heart of the resort at <strong>2100 metres</strong>', whose waters 'come straight down from the Grande Motte glacier'. Not to be confused with the Lac du Chevril, the great EDF reservoir downstream — which the fishing federation indeed calls 'Lac de Tignes (Le Chevril)'; this page covers the natural lake of Tignes-le-Lac.</p><p><strong>Swimming is banned by a permanent municipal decree</strong>. The town hall states its reasons verbatim: 'the lake presents very low water temperatures, rapid level variations and silted beds', and 'this regulation also protects the animal and plant species present in the lake'. On the exact temperature, the resort's pages vary — about 9 °C on average in summer per one, 10 to 15 °C per another — and we report both. The water is therefore enjoyed under supervision: <strong>Acroland</strong>'s diving boards (wetsuit provided), paddleboard, pedal boat, canoe and kayak at the Promenade de Tovière water-sports base.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free",
+        "best_season": "Water-sports base ~20 June – 6 September",
+        "commune": "Tignes",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "High-altitude natural lake",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "No: 'the ban on swimming in the Lac de Tignes is regulated by a permanent municipal decree' (town hall). Stated reasons: very cold water, rapid level variations, silted beds, species protection. Acroland's jumps, in a provided wetsuit, are the supervised exception.",
+          "q": "Can you swim in the Lac de Tignes?"
+        },
+        {
+          "a": "No. The dam holds back the Lac du Chevril, downstream. This page covers the natural lake of Tignes-le-Lac, in the resort's heart at 2100 m — note the fishing federation calls the reservoir 'Lac de Tignes (Le Chevril)', hence the frequent confusion.",
+          "q": "Is it the same lake as the Tignes dam?"
+        },
+        {
+          "a": "An AAPPMA card with the CPMA stamp, plus the lake's fishing rights. Fishing chalet open 15 June to 4 October, 07:00 to 09:00; fishing from 7 am to dusk. Prices: adult day €14.50, child €8, season €103 (child €52), 6 days €63.",
+          "q": "How do you fish?"
+        },
+        {
+          "a": "The lake freezes and is lived differently: walking across between the resort's quarters, dog sledding, Ice Floating and under-ice diving, per the resort's listed activities.",
+          "q": "And in winter?"
+        }
+      ],
+      "hero": {
+        "badge": "Natural lake · 2100 m",
+        "lead": "In the heart of the resort, a glacial lake fed straight from the Grande Motte: swimming banned by permanent decree, but Acroland's diving boards, paddleboards, trout fishing, floating-stage concerts — and in winter, life on the frozen lake."
+      },
+      "hero_alt": "High-altitude lake in winter at Tignes, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "By the D902 from Bourg-Saint-Maurice to Tignes-le-Lac; the lake is in the resort's heart.",
+        "public_transport": "Bourg-Saint-Maurice SNCF station, then coach connection to Tignes."
+      },
+      "meta_description": "The natural lake of Tignes, at 2100 m in the resort's heart: swimming banned by permanent decree, Acroland and the water-sports base, trout fishing, floating concerts — and winter on the frozen lake.",
+      "meta_title": "Lac de Tignes · glacial lake at 2100 m, Acroland",
+      "name": "Lac de Tignes",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Altitude",
+          "v": "2100 m, in the heart of the resort (tignes.net)"
+        },
+        {
+          "k": "Swimming",
+          "v": "Banned by permanent municipal decree (very cold water, variable levels, silted beds, species protection)"
+        },
+        {
+          "k": "Water temperature",
+          "v": "≈ 9 °C summer average — 10 to 15 °C per another resort page: both sourced values"
+        },
+        {
+          "k": "Water-sports base",
+          "v": "320 Promenade de Tovière · open daily ~20 June – 6 September · lockers, changing rooms, showers"
+        },
+        {
+          "k": "Fishing",
+          "v": "Trout · chalet 15 June – 4 October (07:00 to 09:00) · day €14.50, season €103"
+        },
+        {
+          "k": "Winter",
+          "v": "Frozen lake: walking across, dog sledding, Ice Floating, under-ice diving"
+        }
+      ],
+      "schema_amenities": [
+        "Water-sports base",
+        "Fishing chalet"
+      ],
+      "when_to_visit": "<p>Summer (base open daily, roughly 20 June to 6 September) for the water, <strong>trout fishing</strong> (fishing chalet 15 June to 4 October, 07:00 to 09:00; adult day €14.50, child €8, season €103) and the easy lake-loop walk facing the Grande Motte, the Grande Sassière and the Tufs massif — not forgetting the 'Soirée Barge', concerts played from a floating stage 'every Monday and Thursday of the summer season'. In winter the frozen lake becomes another world: walking across between the resort's quarters, dog sledding, Ice Floating, under-ice diving.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "Diving boards into the lake (wetsuit provided), paddleboard, pedal boat, canoe, kayak — 320 Promenade de Tovière.",
+          "tag": "Supervisado",
+          "title": "Acroland y la base de deportes acuáticos"
+        },
+        {
+          "description": "\"Cada lunes y jueves de la temporada de verano\": conciertos de un escenario flotante en el lago.",
+          "tag": "Conciertos",
+          "title": "Soirée Barge"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>Lac de Tignes</strong> es un lago natural 'nestled en el corazón del resort en <strong>2100 metros</strong>', cuyas aguas van directamente desde el glaciar Grande Motte'. No confundirse con el Lac du Chevril, el gran embalse EDF aguas abajo — que la federación de la pesca de hecho llama 'Lac de Tignes (Le Chevril)'; esta página cubre el lago natural de Tignes-le-Lac.</p><p><strong>La natación está prohibida por un decreto municipal permanente</strong>. El ayuntamiento declara sus razones literales: 'el lago presenta temperaturas muy bajas de agua, variaciones de nivel rápido y camas de silto', y 'esta regulación también protege a las especies animales y plantas presentes en el lago'. En la temperatura exacta, las páginas del resort varían — alrededor de 9 °C en promedio en verano por uno, 10 a 15 °C por uno y reportamos ambos. Por lo tanto, el agua se disfruta bajo supervisión: <strong>Acroland</strong>'s tablas de buceo (wetsuit provided), paddleboard, bote de pedal, canoa y kayak en la base de deportes acuáticos Promenade de Tovière.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": "Base de deportes acuáticos ~20 Junio – 6 de septiembre",
+        "commune": "Tignes",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Lago natural de alta altitud",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "No: 'la prohibición de nadar en el Lac de Tignes está regulada por un decreto municipal permanente' (puerta municipal). Motivos previstos: agua muy fría, variaciones de nivel rápido, camas descubiertas, protección de especies. Los saltos de Acroland, en un traje proporcionado, son la excepción supervisada.",
+          "q": "¿Puedes nadar en la Lac de Tignes?"
+        },
+        {
+          "a": "No. La presa retiene el Lac du Chevril, aguas abajo. Esta página cubre el lago natural de Tignes-le-Lac, en el corazón del resort a 2100 m — notar la federación de la pesca llama el depósito 'Lac de Tignes (Le Chevril)', por lo tanto la confusión frecuente.",
+          "q": "¿Es el mismo lago que la presa Tignes?"
+        },
+        {
+          "a": "Una tarjeta AAPPMA con el sello CPMA, además de los derechos de pesca del lago. Chalet de pesca abierto del 15 de junio al 4 de octubre de 07:00 a 09:00; pesca de 7 am a atardecer. Precios: Día adulto €14.50, niño €8, temporada €103 (niño €52), 6 días €63.",
+          "q": "¿Cómo pesca?"
+        },
+        {
+          "a": "El lago se congela y se vive de manera diferente: Caminando entre los barrios del resort, persianas, Ice Floating y submarinismo, por las actividades enumeradas por el resort.",
+          "q": "¿Y en invierno?"
+        }
+      ],
+      "hero": {
+        "badge": "Lago natural · 2100 m",
+        "lead": "En el corazón del complejo, un lago glacial alimentado directamente desde el Grande Motte: natación prohibida por decreto permanente, pero las tablas de buceo de Acroland, paddleboards, pesca de truchas, conciertos de escenario flotante — y en invierno, la vida en el lago congelado."
+      },
+      "hero_alt": "Lago de alta altitud en invierno en Tignes, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Por el D902 de Bourg-Saint-Maurice a Tignes-le-Lac; el lago está en el corazón del resort.",
+        "public_transport": "Estación Bourg-Saint-Maurice SNCF, luego conexión de autobús a Tignes."
+      },
+      "meta_description": "El lago natural de Tignes, a 2100 m en el corazón del resort: natación prohibida por decreto permanente, Acroland y la base de deportes acuáticos, pesca de truchas, conciertos flotantes — e invierno en el lago congelado.",
+      "meta_title": "Lac de Tignes · lago glacial a 2100 m, Acroland",
+      "name": "Lac de Tignes",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Altitud",
+          "v": "2100 m, en el corazón del complejo (tignes.net)"
+        },
+        {
+          "k": "Nadando",
+          "v": "Prohibido por decreto municipal permanente (muy agua fría, niveles variables, camas fundidas, protección de especies)"
+        },
+        {
+          "k": "Temperatura del agua",
+          "v": "♥ 9 °C promedio de verano 10 a 15 °C por otra página de resort: ambos valores fuente"
+        },
+        {
+          "k": "Base de deportes acuáticos",
+          "v": "320 Promenade de Tovière · abierto todos los días ~20 Junio – 6 septiembre · armarios, vestuarios, duchas"
+        },
+        {
+          "k": "Pesca",
+          "v": "Trout · chalet 15 junio – 4 octubre (07:00 a 09:00) · día 14,50 €, temporada 103 €"
+        },
+        {
+          "k": "Invierno",
+          "v": "Lago congelado: caminando a través de, perrito de trineo, Ice Floating, submarinismo"
+        }
+      ],
+      "schema_amenities": [
+        "Base de deportes acuáticos",
+        "chalet de pesca"
+      ],
+      "when_to_visit": "<p>Verano (base abierto diariamente, aproximadamente 20 de junio al 6 de septiembre) para el agua, <strong>pesca de truchas</strong> (Chalé de pesca 15 de junio a 4 de octubre, 07:00 a 09:00; Día adulto €14.50, niño €8, temporada €103) y el fácil paseo en la laguna frente al Grande Motte, el Grande Sassière y el macizo Tufs — no olvidar el 'Soirée Barge', conciertos jugados desde una etapa flotante 'todos los lunes y jueves de la temporada de verano'. En invierno el lago congelado se convierte en otro mundo: paseando entre los barrios del resort, remolino de perros, Ice Floating, submarinismo.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Plongeoirs dans le lac (combinaison fournie), paddle, pédaleau, canoë, kayak — 320 Promenade de Tovière.",
+          "tag": "Encadré",
+          "title": "Acroland et base nautique"
+        },
+        {
+          "description": "« Tous les lundis et jeudis de la saison estivale » : concerts depuis une scène flottante sur le lac.",
+          "tag": "Concerts",
+          "title": "Soirée Barge"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Le <strong>lac de Tignes</strong> est un lac naturel « niché en cœur de station à <strong>2100 mètres</strong> d'altitude », dont les eaux « descendent directement du glacier de la Grande Motte ». À ne pas confondre avec le lac du Chevril, la grande retenue EDF en aval — que la fédération de pêche nomme d'ailleurs « Lac de Tignes (Le Chevril) » ; cette fiche traite bien du lac naturel de Tignes-le-Lac.</p><p><strong>La baignade y est interdite par un arrêté municipal permanent</strong>. La mairie motive l'interdiction telle quelle : « le lac présente des températures d'eau très basses, des variations rapides de niveaux ainsi qu'un envasement des fonds », et « cette règlementation permet également de protéger les espèces animales et végétales présentes dans le lac ». Sur la température exacte, les pages de la station varient — environ 9 °C en moyenne l'été selon l'une, 10 à 15 °C selon l'autre — et nous reportons les deux. L'eau se vit donc encadré : les plongeoirs d'<strong>Acroland</strong> (combinaison néoprène fournie), paddle, pédaleau, canoë et kayak à la base nautique de la Promenade de Tovière.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuit",
+        "best_season": "Base nautique ~20 juin – 6 septembre",
+        "commune": "Tignes",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Lac naturel d'altitude",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Non : « l'interdiction de se baigner dans le lac de Tignes est règlementée par un arrêté municipal permanent » (mairie). Motifs cités : eau très froide, variations rapides de niveaux, envasement, protection des espèces. Les sauts d'Acroland, en combinaison fournie, sont l'exception encadrée.",
+          "q": "Peut-on se baigner dans le lac de Tignes ?"
+        },
+        {
+          "a": "Non. Le barrage retient le lac du Chevril, en aval. Cette fiche traite du lac naturel de Tignes-le-Lac, au cœur de la station à 2100 m — attention, la fédération de pêche appelle la retenue « Lac de Tignes (Le Chevril) », d'où la confusion fréquente.",
+          "q": "Est-ce le même lac que le barrage de Tignes ?"
+        },
+        {
+          "a": "Carte d'AAPPMA avec timbre CPMA, plus les droits de pêche du lac. Chalet de la pêche ouvert du 15 juin au 4 octobre, de 7 h à 9 h ; pêche de 7 h au crépuscule. Tarifs : journée adulte 14,50 €, enfant 8 €, saison 103 € (enfant 52 €), 6 jours 63 €.",
+          "q": "Comment pêcher ?"
+        },
+        {
+          "a": "Le lac gèle et devient praticable autrement : traversée à pied entre les quartiers de la station, chiens de traîneau, Ice Floating et plongée sous glace, selon les activités listées par la station.",
+          "q": "Et l'hiver ?"
+        }
+      ],
+      "hero": {
+        "badge": "Lac naturel · 2100 m",
+        "lead": "Au cœur de la station, un lac glaciaire dont les eaux descendent de la Grande Motte : baignade interdite par arrêté permanent, mais plongeoirs d'Acroland, paddle, pêche à la truite, concerts sur scène flottante — et l'hiver, la vie sur le lac gelé."
+      },
+      "hero_alt": "Lac d'altitude en hiver à Tignes, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Par la D902 depuis Bourg-Saint-Maurice jusqu'à Tignes-le-Lac ; le lac est au cœur de la station.",
+        "public_transport": "Gare SNCF de Bourg-Saint-Maurice puis liaison autocar vers Tignes."
+      },
+      "meta_description": "Le lac naturel de Tignes, à 2100 m au cœur de la station : baignade interdite par arrêté permanent, Acroland et base nautique, pêche à la truite, concerts flottants — et l'hiver sur le lac gelé.",
+      "meta_title": "Lac de Tignes · lac glaciaire à 2100 m, Acroland",
+      "name": "Lac de Tignes",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Altitude",
+          "v": "2100 m, au cœur de la station (tignes.net)"
+        },
+        {
+          "k": "Baignade",
+          "v": "Interdite par arrêté municipal permanent (eau très froide, niveaux variables, envasement, protection des espèces)"
+        },
+        {
+          "k": "Température de l'eau",
+          "v": "≈ 9 °C en moyenne l'été — 10 à 15 °C selon une autre page de la station : les deux valeurs sourcées"
+        },
+        {
+          "k": "Base nautique",
+          "v": "320 Promenade de Tovière · ouverte tous les jours ~20 juin – 6 septembre · casiers, vestiaires, douches"
+        },
+        {
+          "k": "Pêche",
+          "v": "Truite · chalet 15 juin – 4 octobre (7 h à 9 h) · journée 14,50 €, saison 103 €"
+        },
+        {
+          "k": "Hiver",
+          "v": "Lac gelé : traversée à pied, chiens de traîneau, Ice Floating, plongée sous glace"
+        }
+      ],
+      "schema_amenities": [
+        "Base nautique",
+        "Chalet de la pêche"
+      ],
+      "when_to_visit": "<p>L'été (base nautique ouverte tous les jours, environ du 20 juin au 6 septembre) pour l'eau, la <strong>pêche à la truite</strong> (chalet de la pêche du 15 juin au 4 octobre, 7 h à 9 h ; journée adulte 14,50 €, enfant 8 €, saison 103 €) et la balade facile du tour du lac, face à la Grande Motte, la Grande Sassière et le massif des Tufs — sans oublier la « Soirée Barge », les concerts donnés depuis une scène flottante « tous les lundis et jeudis de la saison estivale ». L'hiver, le lac gelé devient un terrain à part : traversée à pied entre les quartiers, chiens de traîneau, Ice Floating, plongée sous glace.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Diving boards in the lake (bagno fornito), paddleboard, pedal boat, canoa, kayak — 320 Promenade de Tovière.",
+          "tag": "Superviso",
+          "title": "Acroland e la base sport acquatici"
+        },
+        {
+          "description": "'Ogni lunedì e giovedì della stagione estiva': concerti da una fase galleggiante sul lago.",
+          "tag": "Concerti",
+          "title": "Soirée Barge"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Lac de Tignes</strong> è un lago naturale 'annerito nel cuore del resort <strong>2100 metri</strong>', le cui acque sono scese direttamente dal ghiacciaio Grande Motte'. Da non confondere con il Lac du Chevril, il grande serbatoio EDF a valle — che la federazione di pesca chiama effettivamente 'Lac de Tignes (Le Chevril)'; questa pagina copre il lago naturale di Tignes-le-Lac.</p><p><strong>Il nuoto è vietato da un decreto comunale permanente</strong>. Il municipio afferma le sue ragioni verbatim: «Il lago presenta temperature molto basse, variazioni di livello rapido e letti separati», e «questa regolamentazione protegge anche le specie animali e vegetali presenti nel lago». Sulla temperatura esatta, le pagine del resort variano — circa 9 °C in media in estate per uno, 10 a 15 °C per un altro — e riferiamo entrambi. L'acqua è quindi goduta sotto la supervisione: <strong>Acroland</strong>'s diving boards (bagno fornito), paddleboard, pedalò, canoa e kayak alla base di sport acquatici Promenade de Tovière.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": "Base sport acquatici ~20 giugno – 6 settembre",
+        "commune": "Tignes",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Lago naturale ad alta quota",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "No. \"Il divieto di nuoto nell'Lac de Tignes è regolato da un decreto municipale permanente\" (sala comunale). Motivi dichiarati: acqua molto fredda, variazioni di livello rapido, letti separati, protezione delle specie. I salti di Acroland, in una muta fornita, sono l'eccezione supervisionata.",
+          "q": "Puoi nuotare nella Lac de Tignes?"
+        },
+        {
+          "a": "No. La diga detiene il Lac du Chevril, a valle. Questa pagina copre il lago naturale di Tignes-le-Lac, nel cuore del resort a 2100 m — nota la federazione di pesca chiama il serbatoio 'Lac de Tignes (Le Chevril)', da cui la confusione frequente.",
+          "q": "È lo stesso lago della diga Tignes?"
+        },
+        {
+          "a": "Una carta AAPPMA con il timbro CPMA, oltre ai diritti di pesca del lago. Chalet da pesca aperto dal 15 giugno al 4 ottobre, dalle 07:00 alle 09:00; fishing from 7 am to dusk. Prezzi: adulto giorno €14,50, bambino €8, stagione €103 (bambino €52), 6 giorni €63.",
+          "q": "Come si pesca?"
+        },
+        {
+          "a": "Il lago si congela ed è vissuto in modo diverso: camminando tra i quartieri del resort, slittamento del cane, Ice Floating e immersioni subacquee, per le attività elencate del resort.",
+          "q": "E in inverno?"
+        }
+      ],
+      "hero": {
+        "badge": "Lago naturale · 2100 m",
+        "lead": "Nel cuore del resort, un lago glaciale alimentato direttamente dalla Grande Motte: nuoto vietato da decreto permanente, ma Acroland diving boards, paddleboards, pesca della trota, concerti fluttuanti-stadio — e in inverno, la vita sul lago ghiacciato."
+      },
+      "hero_alt": "Lago di alta quota in inverno a Tignes, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Dal D902 da Bourg-Saint-Maurice a Tignes-le-Lac; il lago è nel cuore del resort.",
+        "public_transport": "Stazione Bourg-Saint-Maurice SNCF, poi collegamento autobus a Tignes."
+      },
+      "meta_description": "Il lago naturale di Tignes, a 2100 m nel cuore del resort: nuoto vietato da decreto permanente, Acroland e la base di sport acquatici, pesca di trote, concerti galleggianti — e l'inverno sul lago ghiacciato.",
+      "meta_title": "Lac de Tignes · lago glaciale a 2100 m, Acroland",
+      "name": "Lac de Tignes",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Altitudine",
+          "v": "2100 m, nel cuore della località (tignes.net)"
+        },
+        {
+          "k": "Nuoto",
+          "v": "Banato da decreto municipale permanente (acqua fredda molto, livelli variabili, letti separati, protezione delle specie)"
+        },
+        {
+          "k": "Temperatura dell'acqua",
+          "v": "≈ 9 °C media estiva — da 10 a 15 °C per un'altra pagina di località: entrambi i valori sorgente"
+        },
+        {
+          "k": "Base per sport acquatici",
+          "v": "320 Promenade de Tovière · aperto tutti i giorni ~20 giugno – 6 settembre · armadietti, spogliatoi, docce"
+        },
+        {
+          "k": "Pesca",
+          "v": "Trota · chalet 15 giugno – 4 ottobre (07:00 - 09:00) · giorno €14.50, stagione €103"
+        },
+        {
+          "k": "Inverno",
+          "v": "Lago congelato: camminare attraverso, slittamento del cane, Ice Floating, subacquea"
+        }
+      ],
+      "schema_amenities": [
+        "Base per sport acquatici",
+        "Chalet di pesca"
+      ],
+      "when_to_visit": "<p>Estate (base aperta tutti i giorni, dal 20 giugno al 6 settembre) per l'acqua, <strong>pesca della trota</strong> ( Chalet di pesca dal 15 giugno al 4 ottobre, dalle 07:00 alle 09:00; giorno adulto €14,50, bambino €8, stagione €103) e la facile passeggiata sul lago di fronte al Grande Motte, Grande Sassière e il massiccio del Tufs — non dimenticando il 'Soirée Barge', concerti suonati da una fase galleggiante 'ogni lunedì e giovedì della stagione estiva'. In inverno il lago ghiacciato diventa un altro mondo: passeggiando tra i quartieri del resort, slittamento del cane, Ice Floating, immersioni subacquee.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Duiken boards in het meer (wetsuit voorzien), paddleboard, waterfietsen, kano, kajak 320 Promenade de Tovière.",
+          "tag": "Onder toezicht",
+          "title": "Acroland en de watersportbasis"
+        },
+        {
+          "description": "\"Elke maandag en donderdag van het zomerseizoen\": concerten vanaf een drijvend podium op het meer.",
+          "tag": "Concerten",
+          "title": "Soirée Barge"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>Lac de Tignes</strong> is een natuurlijk meer 'nesteld in het hart van het resort op <strong>2100 meter</strong>', wiens wateren rechtstreeks van de Grande Motte gletsjer komen.' Niet te verwarren met het Lac du Chevril, het grote EOF-reservoir stroomafwaarts . die de visserijfederatie inderdaad \"Lac de Tignes (Le Chevril)\" noemt; deze pagina behandelt het natuurlijke meer van Tignes-le-Lac.</p><p><strong>Zwemmen is verboden door een permanent gemeentelijk besluit</strong>. Het gemeentehuis verklaart zijn redenen letterlijk: \"het meer vertoont zeer lage watertemperaturen, snelle variaties in het niveau en verzandde bedden,\" en \"deze verordening beschermt ook de dier- en plantensoorten in het meer.\" Op de exacte temperatuur, de pagina's van het resort variëren gemiddeld ongeveer 9 °C in de zomer per één, 10 tot 15 °C per andere  En we rapporteren beide. Het water wordt daarom onder toezicht gehouden: <strong>Acroland</strong>'s duikplanken (wetsuit voorzien), paddleboard, pedaalboot, kano en kajak op de Promenade de Tovière watersport basis.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Vrij",
+        "best_season": "Watersport basis ~20 juni  6 september",
+        "commune": "Tignes",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Hoge hoogte natuurlijk meer",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Nee: \"het zwemverbod in de Lac de Tignes is geregeld bij een permanent gemeentelijk decreet\" (stadhuis). Vermelde redenen: zeer koud water, snelle niveau variaties, slibbedden, bescherming van soorten. De sprongen van Acroland, in een bijgeleverde wetsuit, zijn de uitzondering onder toezicht.",
+          "q": "Kun je zwemmen in de Lac de Tignes?"
+        },
+        {
+          "a": "Nee. De dam houdt de Lac du Chevril, stroomafwaarts, tegen. Deze pagina heeft betrekking op het natuurlijke meer van Tignes-le-Lac, in het hart van het resort op 2100 m de visserijfederatie noemt het reservoir 'Lac de Tignes (Le Chevril)', vandaar de frequente verwarring.",
+          "q": "Is het hetzelfde meer als de Tignes dam?"
+        },
+        {
+          "a": "Een AAPPMA kaart met de CPMA stempel, plus de visserijrechten van het meer. Vischalet geopend van 15 juni tot 4 oktober van 07:00 tot 09:00; vissen van 7 uur tot schemering. Prijzen: Dag voor volwassenen € 14,50, kind € 8, seizoen € 103 (kind € 52), 6 dagen € 63.",
+          "q": "Hoe vis je?"
+        },
+        {
+          "a": "Het meer bevriest en wordt anders geleefd: wandelen tussen de wijken van het resort, hondensleeën, Ice Floating en onder-ijs duiken, per de opgegeven activiteiten van het resort.",
+          "q": "En in de winter?"
+        }
+      ],
+      "hero": {
+        "badge": "Natuurlijk meer · 2100 m",
+        "lead": "In het hart van het resort, een gletsjer meer gevoed direct van de Grande Motte: zwemmen verboden bij permanent decreet, maar Acroland's duikplanken, paddleboards, forellen vissen, floating-stage concerten en in de winter, leven op het bevroren meer."
+      },
+      "hero_alt": "Hooggelegen meer in de winter bij Tignes, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Door de D902 van Bourg-Saint-Maurice tot Tignes-le-Lac; Het meer ligt in het hart van het resort.",
+        "public_transport": "Bourg-Saint-Maurice SNCF-station, vervolgens busverbinding met Tignes."
+      },
+      "meta_description": "Het natuurlijke meer van Tignes, op 2100 m in het hart van het resort: zwemmen verboden bij permanent decreet, Acroland en de watersport basis, forel vissen, drijvende concerten  en winter op het bevroren meer.",
+      "meta_title": "Lac de Tignes · ijsmeer op 2100 m, Acroland",
+      "name": "Lac de Tignes",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Hoogte",
+          "v": "2100 m, in het hart van het resort (tignes.net)"
+        },
+        {
+          "k": "Zwemmen",
+          "v": "Verboden door permanent gemeentelijk besluit (zeer koud water, variabele niveaus, slibbedden, bescherming van soorten)"
+        },
+        {
+          "k": "Watertemperatuur",
+          "v": "≈ 9 °C zomergemiddelde 10 tot 15 °C per andere resortpagina: beide bronwaarden"
+        },
+        {
+          "k": "Watersportbasis",
+          "v": "320 Promenade de Tovière · dagelijks geopend ~20 juni 6 september · Kluisjes, kleedkamers, douches"
+        },
+        {
+          "k": "Visserij",
+          "v": "Forel · chalet 15 juni 4 oktober (07:00 tot 09:00) · dag € 14,50, seizoen €103"
+        },
+        {
+          "k": "Winter",
+          "v": "bevroren meer: wandelen over, hond sleeën, Ice Floating, onder-ijs duiken"
+        }
+      ],
+      "schema_amenities": [
+        "Watersportbasis",
+        "Vischalet"
+      ],
+      "when_to_visit": "<p>Zomer (basis dagelijks geopend, ongeveer 20 juni tot 6 september) voor het water, <strong>forelvisserij</strong> (vischalet van 15 juni tot en met 4 oktober van 07:00 tot 09:00 uur; Dag voor volwassenen € 14,50, kind € 8, seizoen € 103) en de gemakkelijke wandeling van het meer met uitzicht op de Grande Motte, de Grande Sassière en de Tufs-massaf Niet te vergeten de 'Soirée Barge', concerten gespeeld vanaf een drijvende etappe 'elke maandag en donderdag van het zomerseizoen'. In de winter wordt het bevroren meer een andere wereld: wandelen tussen de vertrekken van het resort, hondensleeën, Ice Floating, onder-ijs duiken.</p>"
+    }
+  },
+  "latitude": 45.4653,
+  "longitude": 6.9042,
+  "official_site_url": "https://www.tignes.net/decouvrir/la-station/le-lac-de-tignes",
+  "partners": [],
+  "postal_code": "73320",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-17, FR pages only (tignes.net, canal officiel mairie illiwap). Lac NATUREL glaciaire « niché en cœur de station à 2100 mètres d'altitude », eaux « qui descendent directement du glacier de la Grande Motte ». NE PAS confondre avec le lac du Chevril (retenue EDF en aval — la fédération de pêche l'appelle « Lac de Tignes (Le Chevril) »). BAIGNADE INTERDITE par arrêté municipal permanent (mairie, 24/06/2026) : températures très basses, variations rapides de niveaux, envasement, protection des espèces. Base nautique 320 Promenade de Tovière : Acroland (plongeoirs, combinaison fournie), paddle, pédaleau, canoë, kayak ; ouverte tous les jours ~20 juin – 6 septembre. Pêche à la truite : carte AAPPMA + CPMA + droits du lac ; chalet de la pêche 15 juin – 4 octobre, 7h–9h ; journée adulte 14,50 €, enfant 8 €, saison 103 €/52 €, 6 jours 63 €. Balade facile autour du lac (vues Grande Motte, Grande Sassière, massif des Tufs). Soirée Barge (scène flottante) lundis et jeudis de l'été. Hiver : lac gelé — traversée à pied, chiens de traîneau, Ice Floating, plongée sous glace → winter_access open. Température de l'eau : « ~9 °C » vs « 10-15 °C » selon les pages tignes.net — contradiction reportée. Altitude 2100 m (station) retenue. Pas de site ARS (baignade interdite).",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "lac-de-tignes",
+  "sources": [
+    "https://www.tignes.net/decouvrir/la-station/le-lac-de-tignes",
+    "https://www.tignes.net/activites/ete/peche",
+    "https://station.illiwap.com/fr/public/73296/actu/lac-de-tignes-interdiction-de-baignade"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published for this site; kept null rather than inferred."
+  ]
+}

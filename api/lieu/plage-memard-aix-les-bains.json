@@ -1,0 +1,24 @@
+{
+  "name": "Plage de Mémard",
+  "commune": "Aix-les-Bains",
+  "gps": {
+    "lat": 45.707127,
+    "lng": 5.887824
+  },
+  "type": "plage",
+  "hours": "13h-19h",
+  "prices": {
+    "from": null,
+    "currency": null,
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "du 27 juin au 30 août 2026, de 13h à 19h",
+  "winter": null,
+  "official_url": "https://www.aixlesbains-rivieradesalpes.com/equipement/plage-de-memard-aix-les-bains/",
+  "last_verified": null
+}

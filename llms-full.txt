@@ -1,9 +1,9 @@
 # Loisirs 73 — Full content dump
 
-Generated: 2026-08-16
-Total lieux: 73
+Generated: 2026-08-17
+Total lieux: 81
 
-This file concatenates the FR facet markdown of all 73 leisure sites in Savoie. Each section is a standalone markdown document with YAML frontmatter and the fixed facet heading canon. Sections are separated by `===` rulers.
+This file concatenates the FR facet markdown of all 81 leisure sites in Savoie. Each section is a standalone markdown document with YAML frontmatter and the fixed facet heading canon. Sections are separated by `===` rulers.
 
 For programmatic access, fetch individual files at https://loisirs73.fr/content/{slug}.md (FR), https://loisirs73.fr/content/en/{slug}.md (EN), or https://loisirs73.fr/api/lieu/{slug}.json (typed JSON).
 
@@ -3164,6 +3164,555 @@ Saison surveillée du 13 juin au 30 août, 10h–19h
 ## Source officielle
 
 https://www.lac-aiguebelette.com/plage/plage-de-la-base-de-loisirs-du-sougey-81194/
+
+================================================================================
+
+---
+slug: plage-de-chatillon-chindrieux
+name: "Plage de Châtillon"
+category: plage
+category_label: "Plage"
+commune: "Chindrieux"
+postal_code: "73310"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.800129
+longitude: 5.845338
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/plage-de-chatillon-chindrieux
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/plage-de-chatillon-chindrieux.json
+photo_url: /img/generique/generique-plage-lac-13.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-17
+source: loisirs73.fr
+---
+
+# Plage de Châtillon
+
+## Faits
+
+- Commune: Chindrieux, Savoie (73310)
+- GPS: 45.800129, 5.845338
+- Catégorie: plage
+- Type: Plage de lac surveillée en saison
+
+## Horaires
+
+13h-19h
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Le stationnement est payant en période estivale (07/06 → 15/09) : 5 € la journée, 3 € à partir de 16h — et gratuit hors de cette période.
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+du 27 juin au 30 août 2026, de 13h à 19h
+
+## Source officielle
+
+https://www.aixlesbains-rivieradesalpes.com/equipement/plage-de-chatillon-chindrieux/
+
+================================================================================
+
+---
+slug: plage-de-conjux-la-chatiere
+name: "Plage de Conjux"
+category: plage
+category_label: "Plage"
+commune: "Conjux"
+postal_code: "73310"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.794514
+longitude: 5.820719
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/plage-de-conjux-la-chatiere
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/plage-de-conjux-la-chatiere.json
+photo_url: /img/generique/generique-plage-lac-14.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-17
+source: loisirs73.fr
+---
+
+# Plage de Conjux
+
+## Faits
+
+- Commune: Conjux, Savoie (73310)
+- GPS: 45.794514, 5.820719
+- Catégorie: plage
+- Type: Plage de lac surveillée en saison
+
+## Horaires
+
+13h-19h
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+- Statut: Partiellement accessible
+- Détail: « Place réservée PMR » et « Prestations adaptées pour déficience motrice », selon l'office de tourisme — la seule des huit à documenter une place réservée. Aucune ligne d'accès en fauteuil roulant en revanche.
+- Source: OT Aix-les-Bains Riviera des Alpes — https://www.aixlesbains-rivieradesalpes.com/equipement/plage-de-conjux-conjux/
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+du 27 juin au 30 août 2026, de 13h à 19h
+
+## Source officielle
+
+https://www.aixlesbains-rivieradesalpes.com/equipement/plage-de-conjux-conjux/
+
+================================================================================
+
+---
+slug: plage-de-la-pointe-de-l-ardre-brison-saint-innocent
+name: "Plage de la Pointe de l'Ardre"
+category: plage
+category_label: "Plage"
+commune: "Brison-Saint-Innocent"
+postal_code: "73100"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.720548
+longitude: 5.88173
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/plage-de-la-pointe-de-l-ardre-brison-saint-innocent
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/plage-de-la-pointe-de-l-ardre-brison-saint-innocent.json
+photo_url: /img/generique/generique-plage-lac-9.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-17
+source: loisirs73.fr
+---
+
+# Plage de la Pointe de l'Ardre
+
+## Faits
+
+- Commune: Brison-Saint-Innocent, Savoie (73100)
+- GPS: 45.720548, 5.88173
+- Catégorie: plage
+- Type: Plage de lac surveillée en saison
+
+## Horaires
+
+13h-19h
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+- Statut: Partiellement accessible
+- Détail: « Accessible en fauteuil roulant avec aide », seule mention d'accessibilité de la fiche. Ni équipement ni place PMR documentés.
+- Source: OT Aix-les-Bains Riviera des Alpes — https://www.aixlesbains-rivieradesalpes.com/equipement/plage-de-la-pointe-de-lardre-brison-saint-innocent/
+
+## Parking
+
+L'accès est libre mais le stationnement est payant et obligatoire : 1 €/heure en haute saison (01/05 → 15/09), 0,80 €/heure en moyenne saison (16/03 → 30/04 et 16/09 → 01/11).
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+du 27 juin au 30 août 2026, de 13h à 19h
+
+## Source officielle
+
+https://www.aixlesbains-rivieradesalpes.com/equipement/plage-de-la-pointe-de-lardre-brison-saint-innocent/
+
+================================================================================
+
+---
+slug: plage-des-mottets-viviers-du-lac
+name: "Plage des Mottets"
+category: plage
+category_label: "Plage"
+commune: "Viviers-du-Lac"
+postal_code: "73420"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.651211
+longitude: 5.883811
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/plage-des-mottets-viviers-du-lac
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/plage-des-mottets-viviers-du-lac.json
+photo_url: /img/generique/generique-plage-lac-12.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-17
+source: loisirs73.fr
+---
+
+# Plage des Mottets
+
+## Faits
+
+- Commune: Viviers-du-Lac, Savoie (73420)
+- GPS: 45.651211, 5.883811
+- Catégorie: plage
+- Type: Plage de lac surveillée en saison
+
+## Horaires
+
+10h-19h
+
+## Tarifs
+
+- À partir de: 1.7 EUR
+- None: 1,70 à 2,70 € EUR
+- None: 1,20 à 1,70 € EUR
+- None: 18 à 26 € EUR
+- None: 11,60 à 18 € EUR
+- None: 1,70 € EUR
+- None: 1,20 € EUR
+
+## Accès (PMR)
+
+- Statut: Accessible
+- Détail: « Accessible en fauteuil roulant en autonomie » et « Prestations adaptées pour déficience motrice ». La fiche ajoute, dans son corps de texte : « Cette plage bénéficie du label tourisme et handicap ».
+- Source: OT Aix-les-Bains Riviera des Alpes — https://www.aixlesbains-rivieradesalpes.com/equipement/plage-des-mottets-viviers-du-lac/
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+du 27 juin au 30 août 2026, de 10h à 19h
+
+## Source officielle
+
+https://www.aixlesbains-rivieradesalpes.com/equipement/plage-des-mottets-viviers-du-lac/
+
+================================================================================
+
+---
+slug: plage-du-lac-de-saint-jean-de-chevelu
+name: "Plage du lac de Saint-Jean-de-Chevelu"
+category: plage
+category_label: "Plage"
+commune: "Saint-Jean-de-Chevelu"
+postal_code: "73170"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.694599
+longitude: 5.824938
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/plage-du-lac-de-saint-jean-de-chevelu
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/plage-du-lac-de-saint-jean-de-chevelu.json
+photo_url: /img/generique/generique-plage-lac-15.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-17
+source: loisirs73.fr
+---
+
+# Plage du lac de Saint-Jean-de-Chevelu
+
+## Faits
+
+- Commune: Saint-Jean-de-Chevelu, Savoie (73170)
+- GPS: 45.694599, 5.824938
+- Catégorie: plage
+- Type: Plage de lac surveillée en saison
+
+## Horaires
+
+12h-18h
+
+## Tarifs
+
+- À partir de: 2 EUR
+- None: 2 € EUR
+- None: 1 € EUR
+- None: gratuit EUR
+- None: 18 € EUR
+- None: 8 € EUR
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+L'office de tourisme signale un parking à proximité, sans en donner le tarif.
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+du 27 juin au 27 août 2026, de 12h à 18h
+
+## Source officielle
+
+https://explore.dentduchat.fr/fr/activites/plage-du-lac-de-st-jean-de-chevelu
+
+================================================================================
+
+---
+slug: plage-du-lido-tresserve
+name: "Plage du Lido"
+category: plage
+category_label: "Plage"
+commune: "Tresserve"
+postal_code: "73100"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.668052
+longitude: 5.89378
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/plage-du-lido-tresserve
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/plage-du-lido-tresserve.json
+photo_url: /img/generique/generique-plage-lac-10.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-17
+source: loisirs73.fr
+---
+
+# Plage du Lido
+
+## Faits
+
+- Commune: Tresserve, Savoie (73100)
+- GPS: 45.668052, 5.89378
+- Catégorie: plage
+- Type: Plage de lac surveillée en saison
+
+## Horaires
+
+13h-19h
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+- Statut: Accessible
+- Détail: « Accessible en fauteuil roulant en autonomie », « Cheminement de plain-pied », « WC + barre d'appui + espace de circulation » et « Prestations adaptées pour déficience motrice », selon l'office de tourisme. La plus complète des huit sur ce point.
+- Source: OT Aix-les-Bains Riviera des Alpes — https://www.aixlesbains-rivieradesalpes.com/equipement/plage-du-lido-tresserve/
+
+## Parking
+
+Le stationnement est gratuit.
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+du 27 juin au 30 août 2026, de 13h à 19h
+
+## Source officielle
+
+https://www.aixlesbains-rivieradesalpes.com/equipement/plage-du-lido-tresserve/
+
+================================================================================
+
+---
+slug: plage-du-rowing-aix-les-bains
+name: "Plage du Rowing"
+category: plage
+category_label: "Plage"
+commune: "Aix-les-Bains"
+postal_code: "73100"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.688755
+longitude: 5.895034
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/plage-du-rowing-aix-les-bains
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/plage-du-rowing-aix-les-bains.json
+photo_url: /img/generique/generique-paddle-aviron-detail.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-17
+source: loisirs73.fr
+---
+
+# Plage du Rowing
+
+## Faits
+
+- Commune: Aix-les-Bains, Savoie (73100)
+- GPS: 45.688755, 5.895034
+- Catégorie: plage
+- Type: Plage de lac surveillée en saison
+
+## Horaires
+
+13h-19h
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+- Statut: Partiellement accessible
+- Détail: « Accessible en fauteuil roulant avec aide » et « Prestations adaptées pour déficience motrice », selon l'office de tourisme. Avec aide, donc pas en autonomie.
+- Source: OT Aix-les-Bains Riviera des Alpes — https://www.aixlesbains-rivieradesalpes.com/equipement/plage-du-rowing-aix-les-bains/
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+du 27 juin au 30 août 2026, de 13h à 19h
+
+## Source officielle
+
+https://www.aixlesbains-rivieradesalpes.com/equipement/plage-du-rowing-aix-les-bains/
+
+================================================================================
+
+---
+slug: plage-memard-aix-les-bains
+name: "Plage de Mémard"
+category: plage
+category_label: "Plage"
+commune: "Aix-les-Bains"
+postal_code: "73100"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.707127
+longitude: 5.887824
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/plage-memard-aix-les-bains
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/plage-memard-aix-les-bains.json
+photo_url: /img/generique/generique-plage-lac-7.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-17
+source: loisirs73.fr
+---
+
+# Plage de Mémard
+
+## Faits
+
+- Commune: Aix-les-Bains, Savoie (73100)
+- GPS: 45.707127, 5.887824
+- Catégorie: plage
+- Type: Plage de lac surveillée en saison
+
+## Horaires
+
+13h-19h
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+du 27 juin au 30 août 2026, de 13h à 19h
+
+## Source officielle
+
+https://www.aixlesbains-rivieradesalpes.com/equipement/plage-de-memard-aix-les-bains/
 
 ================================================================================
 

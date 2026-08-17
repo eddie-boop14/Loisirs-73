@@ -1,0 +1,692 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-17",
+    "confidence": null,
+    "detail": "La fiche de l'office de tourisme ne dit rien de l'accessibilité. Rien n'est affirmé, ni dans un sens ni dans l'autre.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_name": "OT Dent du Chat",
+    "source_url": "https://explore.dentduchat.fr/fr/activites/plage-du-lac-de-st-jean-de-chevelu",
+    "status": null,
+    "tourisme_handicap": []
+  },
+  "category": "plage",
+  "commune": "Saint-Jean-de-Chevelu",
+  "date_modified_human": "17 août 2026",
+  "date_published_human": "17 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-17",
+    "method": "Recherche du 17 août 2026, sources officielles uniquement. Saison surveillée et règle animaux : Grand Lac, gestionnaire (page + PDF), citées mot pour mot. Classement de l'eau : listing départemental ARS des 43 sites d'eau douce de Savoie, qui donne le nom administratif et la série 2022-2025 de chaque point ; les URL par site n'ont PAS été citées, un identifiant erroné y renvoyant un HTTP 200 portant « Une erreur inattendue est survenue ». Accessibilité et stationnement : fiche française de l'office de tourisme, citée mot pour mot. Les pages anglaises de l'office annoncent encore le calendrier 2025 (28/06 → 31/08) et n'ont pas été citées. Coordonnées : géocodeur IGN Géoplateforme, index POI. Contradictions signalées, jamais arbitrées."
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-plage-lac-15.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "vom 27. Juni bis zum 27. August 2026, von 12 bis 18 Uhr. Kein Grand-Lac-Strand: eigener Kalender, eigene Zeiten.",
+          "tag": "In der Saison",
+          "title": "Beaufsichtigtes Baden"
+        },
+        {
+          "description": "Erwachsene (ab 12 Jahren) 2 € · Kinder von 5 bis 12 Jahren 1 € · unter 5 Jahren frei · 10er-Karte 18 € für Erwachsene, 8 € für Kinder. Außerhalb von Juli und August gilt « l'accès au lac est libre ».",
+          "tag": "Vor Ort",
+          "title": "Preise"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>Plage du lac de Saint-Jean-de-Chevelu</strong> liegt am Ufer dieses kleinen Sees im Vorland westlich von Chambéry. Beaufsichtigtes Baden vom 27. Juni bis zum 27. August 2026, von 12 bis 18 Uhr. Der Eintritt ist kostenpflichtig, ab 2 € für Erwachsene.</p><p>Die Gesundheitsbehörde führt diese Badestelle unter dem Namen « PLAN D'EAU ST JEAN DE CHEVELU » und bewertet sie für die Saison 2025 — die zuletzt veröffentlichte — mit <strong>Gut</strong>. Reihe 2022 bis 2025: 6B · 4B · 5E · 5B.</p><p>Das Tourismusbüro nennt einen Parkplatz in der Nähe, ohne einen Tarif anzugeben. Keine offizielle Quelle sagt hier etwas zur Barrierefreiheit: weder zugänglich noch unzugänglich — unbekannt. « Les animaux ne sont pas acceptés sur le site » — Tiere sind vor Ort nicht zugelassen, schreibt das Tourismusbüro, dessen eigene Seite jedoch die widersprüchlichen Schlagworte « Animaux acceptés » und « Animaux non acceptés » trägt. Wir zitieren den Satz, nicht die Schlagworte.</p><p><strong>Sie folgt nicht dem Kalender der anderen.</strong> Dieser Strand wird nicht von Grand Lac betrieben: die Aufsicht endet am 27. August 2026, drei Tage vor den Stränden am Lac du Bourget, und das Zeitfenster ist 12-18 Uhr statt 13-19 Uhr. Außerhalb von Juli und August gilt « l'accès au lac est libre » — der Zugang zum See ist frei.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Kostenpflichtig ab 2 €",
+        "best_season": "vom 27. Juni bis zum 27. August 2026, von 12 bis 18 Uhr",
+        "commune": "Saint-Jean-de-Chevelu",
+        "dogs": "« Les animaux ne sont pas acceptés sur le site » — Tiere sind vor Ort nicht zugelassen, schreibt das Tourismusbüro, dessen eigene Seite jedoch die widersprüchlichen Schlagworte « Animaux acceptés » und « Animaux non acceptés » trägt. Wir zitieren den Satz, nicht die Schlagworte.",
+        "parking": "Das Tourismusbüro nennt einen Parkplatz in der Nähe, ohne einen Tarif anzugeben.",
+        "stroller": null,
+        "type": "Seestrand, in der Saison beaufsichtigt"
+      },
+      "faq": [
+        {
+          "a": "vom 27. Juni bis zum 27. August 2026, von 12 bis 18 Uhr. Kein Grand-Lac-Strand: eigener Kalender, eigene Zeiten.",
+          "q": "Wann wird 2026 beaufsichtigt gebadet?"
+        },
+        {
+          "a": "Erwachsene (ab 12 Jahren) 2 € · Kinder von 5 bis 12 Jahren 1 € · unter 5 Jahren frei · 10er-Karte 18 € für Erwachsene, 8 € für Kinder. Außerhalb von Juli und August gilt « l'accès au lac est libre ».",
+          "q": "Kostet der Eintritt etwas?"
+        },
+        {
+          "a": "Gut für die Saison 2025, unter dem Behördennamen « PLAN D'EAU ST JEAN DE CHEVELU ». Reihe 2022-2025: 6B · 4B · 5E · 5B. Die Bewertung 2026 liegt nicht vor.",
+          "q": "Wie ist die Wasserqualität?"
+        },
+        {
+          "a": "« Les animaux ne sont pas acceptés sur le site » — Tiere sind vor Ort nicht zugelassen, schreibt das Tourismusbüro, dessen eigene Seite jedoch die widersprüchlichen Schlagworte « Animaux acceptés » und « Animaux non acceptés » trägt. Wir zitieren den Satz, nicht die Schlagworte.",
+          "q": "Sind Hunde erlaubt?"
+        },
+        {
+          "a": "Keine offizielle Quelle sagt hier etwas zur Barrierefreiheit: weder zugänglich noch unzugänglich — unbekannt.",
+          "q": "Ist der Strand rollstuhlgerecht?"
+        },
+        {
+          "a": "Das Tourismusbüro nennt einen Parkplatz in der Nähe, ohne einen Tarif anzugeben.",
+          "q": "Ist das Parken kostenpflichtig?"
+        }
+      ],
+      "hero": {
+        "badge": "Kostenpflichtig ab 2 € · lac de Saint-Jean-de-Chevelu",
+        "lead": "Beaufsichtigtes Baden vom 27. Juni bis zum 27. August 2026, von 12 bis 18 Uhr, am lac de Saint-Jean-de-Chevelu. Kostenpflichtig ab 2 €, Wasser für die Saison 2025 mit Gut bewertet."
+      },
+      "hero_alt": "Plage du lac de Saint-Jean-de-Chevelu bei Saint-Jean-de-Chevelu, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "La Courbe, 73170 Saint-Jean-de-Chevelu. Veröffentlichter Punkt: 45.694599, 5.824938.",
+        "public_transport": null
+      },
+      "meta_description": "Plage du lac de Saint-Jean-de-Chevelu: beaufsichtigt vom 27. Juni bis zum 27. August 2026. Kostenpflichtig ab 2 €. Wasser 2025: Gut.",
+      "meta_title": "Plage du lac de Saint-Jean-de-Chevelu — Kostenpflichtig ab 2 €, beaufsichtigtes Baden 2026",
+      "name": "Plage du lac de Saint-Jean-de-Chevelu",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Adresse",
+          "v": "La Courbe, 73170 Saint-Jean-de-Chevelu"
+        },
+        {
+          "k": "Beaufsichtigte Saison",
+          "v": "vom 27. Juni bis zum 27. August 2026"
+        },
+        {
+          "k": "Aufsichtszeiten",
+          "v": "12-18 Uhr"
+        },
+        {
+          "k": "Preise",
+          "v": "Erwachsene (ab 12 Jahren) 2 € · Kinder von 5 bis 12 Jahren 1 € · unter 5 Jahren frei · 10er-Karte 18 € für Erwachsene, 8 € für Kinder. Außerhalb von Juli und August gilt « l'accès au lac est libre »."
+        },
+        {
+          "k": "Parken",
+          "v": "Das Tourismusbüro nennt einen Parkplatz in der Nähe, ohne einen Tarif anzugeben."
+        },
+        {
+          "k": "Wasserqualität",
+          "v": "Gut — Saison 2025"
+        },
+        {
+          "k": "Hunde",
+          "v": "« Les animaux ne sont pas acceptés sur le site » — Tiere sind vor Ort nicht zugelassen, schreibt das Tourismusbüro, dessen eigene Seite jedoch die widersprüchlichen Schlagworte « Animaux acceptés » und « Animaux non acceptés » trägt. Wir zitieren den Satz, nicht die Schlagworte."
+        }
+      ],
+      "schema_amenities": [
+        "Beaufsichtigtes Baden in der Saison"
+      ],
+      "when_to_visit": "<p>Während der beaufsichtigten Saison (vom 27. Juni bis zum 27. August 2026, von 12 bis 18 Uhr). Außerhalb dieses Zeitfensters ist kein Rettungsschwimmer im Dienst; das Baden erfolgt auf eigene Gefahr.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "27 June to 27 August 2026, 12:00 to 18:00. Not a Grand Lac beach: its own calendar and hours.",
+          "tag": "In season",
+          "title": "Supervised swimming"
+        },
+        {
+          "description": "Adult (12 and over) €2 · child 5 to 12 €1 · free under 5 · 10-entry card €18 adult, €8 child. Outside July and August, « l'accès au lac est libre » — access to the lake is free.",
+          "tag": "On site",
+          "title": "Prices"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Plage du lac de Saint-Jean-de-Chevelu</strong> sits on the shore of this small lake in the foothills west of Chambéry. Supervised swimming 27 June to 27 August 2026, 12:00 to 18:00. Entry is paid, from €2 for an adult.</p><p>The regional health agency files this bathing site under the name « PLAN D'EAU ST JEAN DE CHEVELU » and rates it <strong>Good</strong> for the 2025 season, the most recent one published. 2022 to 2025 series: 6B · 4B · 5E · 5B.</p><p>The tourist office mentions parking nearby but publishes no rate for it. No official source says anything about accessibility here: neither accessible nor inaccessible — unknown. « Les animaux ne sont pas acceptés sur le site » — animals are not accepted on site, says the tourist office, whose own page carries both the contradictory tags « Animaux acceptés » and « Animaux non acceptés ». We quote the sentence, not the tags.</p><p><strong>It does not follow the others' calendar.</strong> This beach is not run by Grand Lac: supervision ends on 27 August 2026, three days before the Lac du Bourget beaches, and the window is 12:00-18:00 rather than 13:00-19:00. Outside July and August, « l'accès au lac est libre » — access to the lake is free.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Paid entry from €2",
+        "best_season": "27 June to 27 August 2026, 12:00 to 18:00",
+        "commune": "Saint-Jean-de-Chevelu",
+        "dogs": "« Les animaux ne sont pas acceptés sur le site » — animals are not accepted on site, says the tourist office, whose own page carries both the contradictory tags « Animaux acceptés » and « Animaux non acceptés ». We quote the sentence, not the tags.",
+        "parking": "The tourist office mentions parking nearby but publishes no rate for it.",
+        "stroller": null,
+        "type": "Lake beach, supervised in season"
+      },
+      "faq": [
+        {
+          "a": "27 June to 27 August 2026, 12:00 to 18:00. Not a Grand Lac beach: its own calendar and hours.",
+          "q": "When is swimming supervised in 2026?"
+        },
+        {
+          "a": "Adult (12 and over) €2 · child 5 to 12 €1 · free under 5 · 10-entry card €18 adult, €8 child. Outside July and August, « l'accès au lac est libre » — access to the lake is free.",
+          "q": "Is there an entry fee?"
+        },
+        {
+          "a": "Good for the 2025 season, under the health-agency name « PLAN D'EAU ST JEAN DE CHEVELU ». 2022-2025 series: 6B · 4B · 5E · 5B. The 2026 rating is not out.",
+          "q": "What is the water quality?"
+        },
+        {
+          "a": "« Les animaux ne sont pas acceptés sur le site » — animals are not accepted on site, says the tourist office, whose own page carries both the contradictory tags « Animaux acceptés » and « Animaux non acceptés ». We quote the sentence, not the tags.",
+          "q": "Are dogs allowed?"
+        },
+        {
+          "a": "No official source says anything about accessibility here: neither accessible nor inaccessible — unknown.",
+          "q": "Is the beach wheelchair-accessible?"
+        },
+        {
+          "a": "The tourist office mentions parking nearby but publishes no rate for it.",
+          "q": "Is parking paid?"
+        }
+      ],
+      "hero": {
+        "badge": "Paid entry from €2 · lac de Saint-Jean-de-Chevelu",
+        "lead": "Supervised swimming 27 June to 27 August 2026, 12:00 to 18:00, on the lac de Saint-Jean-de-Chevelu. Paid entry from €2, water rated Good by the health agency for the 2025 season."
+      },
+      "hero_alt": "Plage du lac de Saint-Jean-de-Chevelu, at Saint-Jean-de-Chevelu, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "La Courbe, 73170 Saint-Jean-de-Chevelu. Published point: 45.694599, 5.824938.",
+        "public_transport": null
+      },
+      "meta_description": "Plage du lac de Saint-Jean-de-Chevelu: supervised swimming 27 June to 27 August 2026. Paid entry from €2. Water rated Good in 2025.",
+      "meta_title": "Plage du lac de Saint-Jean-de-Chevelu — Paid entry from €2, supervised swimming 2026",
+      "name": "Plage du lac de Saint-Jean-de-Chevelu",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Address",
+          "v": "La Courbe, 73170 Saint-Jean-de-Chevelu"
+        },
+        {
+          "k": "Supervised season",
+          "v": "27 June to 27 August 2026"
+        },
+        {
+          "k": "Supervision hours",
+          "v": "12:00-18:00"
+        },
+        {
+          "k": "Prices",
+          "v": "Adult (12 and over) €2 · child 5 to 12 €1 · free under 5 · 10-entry card €18 adult, €8 child. Outside July and August, « l'accès au lac est libre » — access to the lake is free."
+        },
+        {
+          "k": "Parking",
+          "v": "The tourist office mentions parking nearby but publishes no rate for it."
+        },
+        {
+          "k": "Water quality",
+          "v": "Good — 2025 season"
+        },
+        {
+          "k": "Dogs",
+          "v": "« Les animaux ne sont pas acceptés sur le site » — animals are not accepted on site, says the tourist office, whose own page carries both the contradictory tags « Animaux acceptés » and « Animaux non acceptés ». We quote the sentence, not the tags."
+        }
+      ],
+      "schema_amenities": [
+        "Supervised swimming in season"
+      ],
+      "when_to_visit": "<p>During the supervised season (27 June to 27 August 2026, 12:00 to 18:00). Outside that window no lifeguard is on duty and swimming is at your own risk.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "del 27 de junio al 27 de agosto de 2026, de las 12:00 a las 18:00. No es una playa de Grand Lac: calendario y horarios propios.",
+          "tag": "En temporada",
+          "title": "Baño vigilado"
+        },
+        {
+          "description": "Adulto (12 años o más) 2 € · niño de 5 a 12 años 1 € · gratis para menores de 5 años · bono de 10 entradas 18 € adulto, 8 € niño. Fuera de julio y agosto, « l'accès au lac est libre ».",
+          "tag": "En el sitio",
+          "title": "Tarifas"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>Plage du lac de Saint-Jean-de-Chevelu</strong> ocupa la orilla de este pequeño lago del piedemonte al oeste de Chambéry. Baño vigilado del 27 de junio al 27 de agosto de 2026, de las 12:00 a las 18:00. La entrada es de pago, desde 2 € por adulto.</p><p>La agencia sanitaria registra este punto de baño con el nombre « PLAN D'EAU ST JEAN DE CHEVELU » y le otorga la mención <strong>Buena</strong> en la temporada 2025, la última publicada. Serie de 2022 a 2025: 6B · 4B · 5E · 5B.</p><p>La oficina de turismo menciona un aparcamiento cercano sin indicar su tarifa. Ninguna fuente oficial dice nada sobre la accesibilidad: ni accesible ni inaccesible — se desconoce. « Les animaux ne sont pas acceptés sur le site » — no se admiten animales, dice la oficina de turismo, cuya propia página lleva las dos etiquetas contradictorias « Animaux acceptés » y « Animaux non acceptés ». Citamos la frase, no las etiquetas.</p><p><strong>No sigue el calendario de las demás.</strong> Esta playa no la gestiona Grand Lac: la vigilancia termina el 27 de agosto de 2026, tres días antes que las playas del Lac du Bourget, y la franja es de 12:00 a 18:00 y no de 13:00 a 19:00. Fuera de julio y agosto, « l'accès au lac est libre » — el acceso al lago es libre.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "De pago desde 2 €",
+        "best_season": "del 27 de junio al 27 de agosto de 2026, de las 12:00 a las 18:00",
+        "commune": "Saint-Jean-de-Chevelu",
+        "dogs": "« Les animaux ne sont pas acceptés sur le site » — no se admiten animales, dice la oficina de turismo, cuya propia página lleva las dos etiquetas contradictorias « Animaux acceptés » y « Animaux non acceptés ». Citamos la frase, no las etiquetas.",
+        "parking": "La oficina de turismo menciona un aparcamiento cercano sin indicar su tarifa.",
+        "stroller": null,
+        "type": "Playa de lago, vigilada en temporada"
+      },
+      "faq": [
+        {
+          "a": "del 27 de junio al 27 de agosto de 2026, de las 12:00 a las 18:00. No es una playa de Grand Lac: calendario y horarios propios.",
+          "q": "¿Cuándo está vigilado el baño en 2026?"
+        },
+        {
+          "a": "Adulto (12 años o más) 2 € · niño de 5 a 12 años 1 € · gratis para menores de 5 años · bono de 10 entradas 18 € adulto, 8 € niño. Fuera de julio y agosto, « l'accès au lac est libre ».",
+          "q": "¿Hay que pagar entrada?"
+        },
+        {
+          "a": "Buena en la temporada 2025, bajo el nombre « PLAN D'EAU ST JEAN DE CHEVELU ». Serie 2022-2025: 6B · 4B · 5E · 5B. La clasificación de 2026 no se ha publicado.",
+          "q": "¿Cuál es la calidad del agua?"
+        },
+        {
+          "a": "« Les animaux ne sont pas acceptés sur le site » — no se admiten animales, dice la oficina de turismo, cuya propia página lleva las dos etiquetas contradictorias « Animaux acceptés » y « Animaux non acceptés ». Citamos la frase, no las etiquetas.",
+          "q": "¿Se admiten perros?"
+        },
+        {
+          "a": "Ninguna fuente oficial dice nada sobre la accesibilidad: ni accesible ni inaccesible — se desconoce.",
+          "q": "¿Es accesible la playa en silla de ruedas?"
+        },
+        {
+          "a": "La oficina de turismo menciona un aparcamiento cercano sin indicar su tarifa.",
+          "q": "¿El aparcamiento es de pago?"
+        }
+      ],
+      "hero": {
+        "badge": "De pago desde 2 € · lac de Saint-Jean-de-Chevelu",
+        "lead": "Baño vigilado del 27 de junio al 27 de agosto de 2026, de las 12:00 a las 18:00, a orillas del lac de Saint-Jean-de-Chevelu. De pago desde 2 €, agua clasificada Buena en la temporada 2025."
+      },
+      "hero_alt": "Plage du lac de Saint-Jean-de-Chevelu, en Saint-Jean-de-Chevelu, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "La Courbe, 73170 Saint-Jean-de-Chevelu. Punto publicado: 45.694599, 5.824938.",
+        "public_transport": null
+      },
+      "meta_description": "Plage du lac de Saint-Jean-de-Chevelu: baño vigilado del 27 de junio al 27 de agosto de 2026. De pago desde 2 €. Agua Buena en 2025.",
+      "meta_title": "Plage du lac de Saint-Jean-de-Chevelu — De pago desde 2 €, baño vigilado 2026",
+      "name": "Plage du lac de Saint-Jean-de-Chevelu",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Dirección",
+          "v": "La Courbe, 73170 Saint-Jean-de-Chevelu"
+        },
+        {
+          "k": "Temporada vigilada",
+          "v": "del 27 de junio al 27 de agosto de 2026"
+        },
+        {
+          "k": "Horario de vigilancia",
+          "v": "12:00-18:00"
+        },
+        {
+          "k": "Tarifas",
+          "v": "Adulto (12 años o más) 2 € · niño de 5 a 12 años 1 € · gratis para menores de 5 años · bono de 10 entradas 18 € adulto, 8 € niño. Fuera de julio y agosto, « l'accès au lac est libre »."
+        },
+        {
+          "k": "Aparcamiento",
+          "v": "La oficina de turismo menciona un aparcamiento cercano sin indicar su tarifa."
+        },
+        {
+          "k": "Calidad del agua",
+          "v": "Buena — temporada 2025"
+        },
+        {
+          "k": "Animales",
+          "v": "« Les animaux ne sont pas acceptés sur le site » — no se admiten animales, dice la oficina de turismo, cuya propia página lleva las dos etiquetas contradictorias « Animaux acceptés » y « Animaux non acceptés ». Citamos la frase, no las etiquetas."
+        }
+      ],
+      "schema_amenities": [
+        "Baño vigilado en temporada"
+      ],
+      "when_to_visit": "<p>Durante la temporada vigilada (del 27 de junio al 27 de agosto de 2026, de las 12:00 a las 18:00). Fuera de esa franja no hay socorrista de servicio y el baño es bajo responsabilidad propia.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "du 27 juin au 27 août 2026, de 12h à 18h. Plage hors périmètre Grand Lac : calendrier et horaires propres.",
+          "tag": "En saison",
+          "title": "Baignade surveillée"
+        },
+        {
+          "description": "Adulte (12 ans et plus) 2 € · enfant de 5 à 12 ans 1 € · gratuit pour les moins de 5 ans · carte 10 entrées 18 € adulte, 8 € enfant. Hors juillet et août, « l'accès au lac est libre ».",
+          "tag": "Sur place",
+          "title": "Tarifs"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>Plage du lac de Saint-Jean-de-Chevelu</strong> occupe la rive de ce petit plan d'eau de l'avant-pays savoyard, à l'ouest de Chambéry. Baignade surveillée du 27 juin au 27 août 2026, de 12h à 18h. L'entrée est payante, à partir de 2 € pour un adulte.</p><p>L'ARS enregistre ce point de baignade sous le nom « PLAN D'EAU ST JEAN DE CHEVELU » et lui attribue la mention <strong>Bonne</strong> pour la saison 2025, dernière saison publiée à ce jour. Série 2022 à 2025 : 6B · 4B · 5E · 5B.</p><p>L'office de tourisme signale un parking à proximité, sans en donner le tarif. Aucune source officielle ne dit quoi que ce soit de l'accessibilité : ni accessible, ni non accessible — inconnu. « Les animaux ne sont pas acceptés sur le site », écrit l'office de tourisme — dont la fiche porte pourtant les deux étiquettes contradictoires « Animaux acceptés » et « Animaux non acceptés ». Nous citons la phrase, pas les étiquettes.</p><p><strong>Elle ne suit pas le calendrier des autres.</strong> Cette plage n'est pas gérée par Grand Lac : sa surveillance s'arrête le 27 août 2026, trois jours avant les plages du Lac du Bourget, et son amplitude est 12h-18h et non 13h-19h. Hors juillet et août, « l'accès au lac est libre ».</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Payant à partir de 2 €",
+        "best_season": "du 27 juin au 27 août 2026, de 12h à 18h",
+        "commune": "Saint-Jean-de-Chevelu",
+        "dogs": "« Les animaux ne sont pas acceptés sur le site », écrit l'office de tourisme — dont la fiche porte pourtant les deux étiquettes contradictoires « Animaux acceptés » et « Animaux non acceptés ». Nous citons la phrase, pas les étiquettes.",
+        "parking": "L'office de tourisme signale un parking à proximité, sans en donner le tarif.",
+        "stroller": null,
+        "type": "Plage de lac surveillée en saison"
+      },
+      "faq": [
+        {
+          "a": "du 27 juin au 27 août 2026, de 12h à 18h. Plage hors périmètre Grand Lac : calendrier et horaires propres.",
+          "q": "Quand la baignade est-elle surveillée en 2026 ?"
+        },
+        {
+          "a": "Adulte (12 ans et plus) 2 € · enfant de 5 à 12 ans 1 € · gratuit pour les moins de 5 ans · carte 10 entrées 18 € adulte, 8 € enfant. Hors juillet et août, « l'accès au lac est libre ».",
+          "q": "L'entrée est-elle payante ?"
+        },
+        {
+          "a": "Bonne pour la saison 2025, sous le nom ARS « PLAN D'EAU ST JEAN DE CHEVELU ». Série 2022-2025 : 6B · 4B · 5E · 5B. Le classement 2026 n'est pas paru.",
+          "q": "Quelle est la qualité de l'eau ?"
+        },
+        {
+          "a": "« Les animaux ne sont pas acceptés sur le site », écrit l'office de tourisme — dont la fiche porte pourtant les deux étiquettes contradictoires « Animaux acceptés » et « Animaux non acceptés ». Nous citons la phrase, pas les étiquettes.",
+          "q": "Les chiens sont-ils admis ?"
+        },
+        {
+          "a": "Aucune source officielle ne dit quoi que ce soit de l'accessibilité : ni accessible, ni non accessible — inconnu.",
+          "q": "La plage est-elle accessible en fauteuil roulant ?"
+        },
+        {
+          "a": "L'office de tourisme signale un parking à proximité, sans en donner le tarif.",
+          "q": "Le stationnement est-il payant ?"
+        }
+      ],
+      "hero": {
+        "badge": "Payant à partir de 2 € · lac de Saint-Jean-de-Chevelu",
+        "lead": "Baignade surveillée du 27 juin au 27 août 2026, de 12h à 18h, au bord du lac de Saint-Jean-de-Chevelu. Payant à partir de 2 €, eau classée Bonne par l'ARS pour la saison 2025."
+      },
+      "hero_alt": "Plage du lac de Saint-Jean-de-Chevelu, à Saint-Jean-de-Chevelu, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "La Courbe, 73170 Saint-Jean-de-Chevelu. Point publié : 45.694599, 5.824938.",
+        "public_transport": null
+      },
+      "meta_description": "Plage du lac de Saint-Jean-de-Chevelu : baignade surveillée du 27 juin au 27 août 2026. Payant à partir de 2 €. Eau classée Bonne par l'ARS en 2025.",
+      "meta_title": "Plage du lac de Saint-Jean-de-Chevelu — Payant à partir de 2 €, baignade surveillée 2026",
+      "name": "Plage du lac de Saint-Jean-de-Chevelu",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Adresse",
+          "v": "La Courbe, 73170 Saint-Jean-de-Chevelu"
+        },
+        {
+          "k": "Saison surveillée",
+          "v": "du 27 juin au 27 août 2026"
+        },
+        {
+          "k": "Horaires de surveillance",
+          "v": "12h-18h"
+        },
+        {
+          "k": "Tarifs",
+          "v": "Adulte (12 ans et plus) 2 € · enfant de 5 à 12 ans 1 € · gratuit pour les moins de 5 ans · carte 10 entrées 18 € adulte, 8 € enfant. Hors juillet et août, « l'accès au lac est libre »."
+        },
+        {
+          "k": "Stationnement",
+          "v": "L'office de tourisme signale un parking à proximité, sans en donner le tarif."
+        },
+        {
+          "k": "Qualité de l'eau",
+          "v": "Bonne — saison 2025"
+        },
+        {
+          "k": "Animaux",
+          "v": "« Les animaux ne sont pas acceptés sur le site », écrit l'office de tourisme — dont la fiche porte pourtant les deux étiquettes contradictoires « Animaux acceptés » et « Animaux non acceptés ». Nous citons la phrase, pas les étiquettes."
+        }
+      ],
+      "schema_amenities": [
+        "Baignade surveillée en saison"
+      ],
+      "when_to_visit": "<p>Pendant la saison surveillée (du 27 juin au 27 août 2026, de 12h à 18h). Hors de cette fenêtre, aucun maître-nageur n'est en poste : la baignade se fait alors aux risques et périls du baigneur.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "dal 27 giugno al 27 agosto 2026, dalle 12 alle 18. Non è una spiaggia Grand Lac: calendario e orari propri.",
+          "tag": "In stagione",
+          "title": "Balneazione sorvegliata"
+        },
+        {
+          "description": "Adulti (dai 12 anni) 2 € · bambini da 5 a 12 anni 1 € · gratuito sotto i 5 anni · carnet da 10 ingressi 18 € adulti, 8 € bambini. Fuori da luglio e agosto, « l'accès au lac est libre ».",
+          "tag": "In loco",
+          "title": "Tariffe"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>Plage du lac de Saint-Jean-de-Chevelu</strong> si affaccia su questo piccolo specchio d'acqua della fascia collinare a ovest di Chambéry. Balneazione sorvegliata dal 27 giugno al 27 agosto 2026, dalle 12 alle 18. L'ingresso è a pagamento, da 2 € per un adulto.</p><p>L'agenzia sanitaria registra questo punto di balneazione con il nome « PLAN D'EAU ST JEAN DE CHEVELU » e gli assegna la menzione <strong>Buona</strong> per la stagione 2025, l'ultima pubblicata. Serie dal 2022 al 2025: 6B · 4B · 5E · 5B.</p><p>L'ufficio del turismo segnala un parcheggio nelle vicinanze senza indicarne la tariffa. Nessuna fonte ufficiale dice nulla sull'accessibilità: né accessibile né inaccessibile — sconosciuto. « Les animaux ne sont pas acceptés sur le site » — gli animali non sono ammessi, scrive l'ufficio del turismo, la cui pagina porta però entrambe le etichette contraddittorie « Animaux acceptés » e « Animaux non acceptés ». Citiamo la frase, non le etichette.</p><p><strong>Non segue il calendario delle altre.</strong> Questa spiaggia non è gestita da Grand Lac: la sorveglianza termina il 27 agosto 2026, tre giorni prima delle spiagge del Lac du Bourget, e la fascia oraria è 12-18 anziché 13-19. Fuori da luglio e agosto, « l'accès au lac est libre » — l'accesso al lago è libero.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "A pagamento da 2 €",
+        "best_season": "dal 27 giugno al 27 agosto 2026, dalle 12 alle 18",
+        "commune": "Saint-Jean-de-Chevelu",
+        "dogs": "« Les animaux ne sont pas acceptés sur le site » — gli animali non sono ammessi, scrive l'ufficio del turismo, la cui pagina porta però entrambe le etichette contraddittorie « Animaux acceptés » e « Animaux non acceptés ». Citiamo la frase, non le etichette.",
+        "parking": "L'ufficio del turismo segnala un parcheggio nelle vicinanze senza indicarne la tariffa.",
+        "stroller": null,
+        "type": "Spiaggia lacustre, sorvegliata in stagione"
+      },
+      "faq": [
+        {
+          "a": "dal 27 giugno al 27 agosto 2026, dalle 12 alle 18. Non è una spiaggia Grand Lac: calendario e orari propri.",
+          "q": "Quando è sorvegliata la balneazione nel 2026?"
+        },
+        {
+          "a": "Adulti (dai 12 anni) 2 € · bambini da 5 a 12 anni 1 € · gratuito sotto i 5 anni · carnet da 10 ingressi 18 € adulti, 8 € bambini. Fuori da luglio e agosto, « l'accès au lac est libre ».",
+          "q": "L'ingresso è a pagamento?"
+        },
+        {
+          "a": "Buona per la stagione 2025, sotto il nome « PLAN D'EAU ST JEAN DE CHEVELU ». Serie 2022-2025: 6B · 4B · 5E · 5B. La classificazione 2026 non è uscita.",
+          "q": "Qual è la qualità dell'acqua?"
+        },
+        {
+          "a": "« Les animaux ne sont pas acceptés sur le site » — gli animali non sono ammessi, scrive l'ufficio del turismo, la cui pagina porta però entrambe le etichette contraddittorie « Animaux acceptés » e « Animaux non acceptés ». Citiamo la frase, non le etichette.",
+          "q": "I cani sono ammessi?"
+        },
+        {
+          "a": "Nessuna fonte ufficiale dice nulla sull'accessibilità: né accessibile né inaccessibile — sconosciuto.",
+          "q": "La spiaggia è accessibile in carrozzina?"
+        },
+        {
+          "a": "L'ufficio del turismo segnala un parcheggio nelle vicinanze senza indicarne la tariffa.",
+          "q": "Il parcheggio è a pagamento?"
+        }
+      ],
+      "hero": {
+        "badge": "A pagamento da 2 € · lac de Saint-Jean-de-Chevelu",
+        "lead": "Balneazione sorvegliata dal 27 giugno al 27 agosto 2026, dalle 12 alle 18, sul lac de Saint-Jean-de-Chevelu. A pagamento da 2 €, acqua classificata Buona per la stagione 2025."
+      },
+      "hero_alt": "Plage du lac de Saint-Jean-de-Chevelu, a Saint-Jean-de-Chevelu, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "La Courbe, 73170 Saint-Jean-de-Chevelu. Punto pubblicato: 45.694599, 5.824938.",
+        "public_transport": null
+      },
+      "meta_description": "Plage du lac de Saint-Jean-de-Chevelu: balneazione sorvegliata dal 27 giugno al 27 agosto 2026. A pagamento da 2 €. Acqua Buona nel 2025.",
+      "meta_title": "Plage du lac de Saint-Jean-de-Chevelu — A pagamento da 2 €, balneazione sorvegliata 2026",
+      "name": "Plage du lac de Saint-Jean-de-Chevelu",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Indirizzo",
+          "v": "La Courbe, 73170 Saint-Jean-de-Chevelu"
+        },
+        {
+          "k": "Stagione sorvegliata",
+          "v": "dal 27 giugno al 27 agosto 2026"
+        },
+        {
+          "k": "Orari di sorveglianza",
+          "v": "12-18"
+        },
+        {
+          "k": "Tariffe",
+          "v": "Adulti (dai 12 anni) 2 € · bambini da 5 a 12 anni 1 € · gratuito sotto i 5 anni · carnet da 10 ingressi 18 € adulti, 8 € bambini. Fuori da luglio e agosto, « l'accès au lac est libre »."
+        },
+        {
+          "k": "Parcheggio",
+          "v": "L'ufficio del turismo segnala un parcheggio nelle vicinanze senza indicarne la tariffa."
+        },
+        {
+          "k": "Qualità dell'acqua",
+          "v": "Buona — stagione 2025"
+        },
+        {
+          "k": "Animali",
+          "v": "« Les animaux ne sont pas acceptés sur le site » — gli animali non sono ammessi, scrive l'ufficio del turismo, la cui pagina porta però entrambe le etichette contraddittorie « Animaux acceptés » e « Animaux non acceptés ». Citiamo la frase, non le etichette."
+        }
+      ],
+      "schema_amenities": [
+        "Balneazione sorvegliata in stagione"
+      ],
+      "when_to_visit": "<p>Durante la stagione sorvegliata (dal 27 giugno al 27 agosto 2026, dalle 12 alle 18). Fuori da questa fascia non c'è alcun bagnino di servizio e si nuota a proprio rischio.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "27 juni tot en met 27 augustus 2026, van 12.00 tot 18.00 uur. Geen Grand Lac-strand: eigen kalender en tijden.",
+          "tag": "In het seizoen",
+          "title": "Bewaakt zwemmen"
+        },
+        {
+          "description": "Volwassenen (12 jaar en ouder) € 2 · kinderen van 5 tot 12 jaar € 1 · gratis onder 5 jaar · 10-badenkaart € 18 volwassenen, € 8 kinderen. Buiten juli en augustus geldt « l'accès au lac est libre ».",
+          "tag": "Ter plaatse",
+          "title": "Tarieven"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>Plage du lac de Saint-Jean-de-Chevelu</strong> ligt aan de oever van dit kleine meer in het heuvelland ten westen van Chambéry. Bewaakt zwemmen 27 juni tot en met 27 augustus 2026, van 12.00 tot 18.00 uur. De toegang is betaald, vanaf € 2 voor een volwassene.</p><p>De gezondheidsdienst registreert dit zwemwater onder de naam « PLAN D'EAU ST JEAN DE CHEVELU » en kent het voor het seizoen 2025 — het laatst gepubliceerde — de waardering <strong>Goed</strong> toe. Reeks 2022 tot 2025: 6B · 4B · 5E · 5B.</p><p>Het toeristenbureau vermeldt parkeergelegenheid in de buurt maar publiceert geen tarief. Geen enkele officiële bron zegt iets over de toegankelijkheid: niet toegankelijk, niet ontoegankelijk — onbekend. « Les animaux ne sont pas acceptés sur le site » — dieren zijn niet toegestaan, aldus het toeristenbureau, waarvan de eigen pagina tegelijk de tegenstrijdige labels « Animaux acceptés » en « Animaux non acceptés » draagt. Wij citeren de zin, niet de labels.</p><p><strong>Zij volgt de kalender van de andere niet.</strong> Dit strand wordt niet door Grand Lac beheerd: de bewaking stopt op 27 augustus 2026, drie dagen vóór de stranden aan de Lac du Bourget, en het venster is 12.00-18.00 in plaats van 13.00-19.00 uur. Buiten juli en augustus geldt « l'accès au lac est libre » — de toegang tot het meer is vrij.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Betaald vanaf € 2",
+        "best_season": "27 juni tot en met 27 augustus 2026, van 12.00 tot 18.00 uur",
+        "commune": "Saint-Jean-de-Chevelu",
+        "dogs": "« Les animaux ne sont pas acceptés sur le site » — dieren zijn niet toegestaan, aldus het toeristenbureau, waarvan de eigen pagina tegelijk de tegenstrijdige labels « Animaux acceptés » en « Animaux non acceptés » draagt. Wij citeren de zin, niet de labels.",
+        "parking": "Het toeristenbureau vermeldt parkeergelegenheid in de buurt maar publiceert geen tarief.",
+        "stroller": null,
+        "type": "Meerstrand, in het seizoen bewaakt"
+      },
+      "faq": [
+        {
+          "a": "27 juni tot en met 27 augustus 2026, van 12.00 tot 18.00 uur. Geen Grand Lac-strand: eigen kalender en tijden.",
+          "q": "Wanneer is het zwemmen in 2026 bewaakt?"
+        },
+        {
+          "a": "Volwassenen (12 jaar en ouder) € 2 · kinderen van 5 tot 12 jaar € 1 · gratis onder 5 jaar · 10-badenkaart € 18 volwassenen, € 8 kinderen. Buiten juli en augustus geldt « l'accès au lac est libre ».",
+          "q": "Moet je entree betalen?"
+        },
+        {
+          "a": "Goed voor het seizoen 2025, onder de naam « PLAN D'EAU ST JEAN DE CHEVELU ». Reeks 2022-2025: 6B · 4B · 5E · 5B. De beoordeling van 2026 is nog niet verschenen.",
+          "q": "Hoe is de waterkwaliteit?"
+        },
+        {
+          "a": "« Les animaux ne sont pas acceptés sur le site » — dieren zijn niet toegestaan, aldus het toeristenbureau, waarvan de eigen pagina tegelijk de tegenstrijdige labels « Animaux acceptés » en « Animaux non acceptés » draagt. Wij citeren de zin, niet de labels.",
+          "q": "Zijn honden toegestaan?"
+        },
+        {
+          "a": "Geen enkele officiële bron zegt iets over de toegankelijkheid: niet toegankelijk, niet ontoegankelijk — onbekend.",
+          "q": "Is het strand rolstoeltoegankelijk?"
+        },
+        {
+          "a": "Het toeristenbureau vermeldt parkeergelegenheid in de buurt maar publiceert geen tarief.",
+          "q": "Is parkeren betaald?"
+        }
+      ],
+      "hero": {
+        "badge": "Betaald vanaf € 2 · lac de Saint-Jean-de-Chevelu",
+        "lead": "Bewaakt zwemmen 27 juni tot en met 27 augustus 2026, van 12.00 tot 18.00 uur, aan het lac de Saint-Jean-de-Chevelu. Betaald vanaf € 2, water voor het seizoen 2025 beoordeeld als Goed."
+      },
+      "hero_alt": "Plage du lac de Saint-Jean-de-Chevelu bij Saint-Jean-de-Chevelu, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "La Courbe, 73170 Saint-Jean-de-Chevelu. Gepubliceerd punt: 45.694599, 5.824938.",
+        "public_transport": null
+      },
+      "meta_description": "Plage du lac de Saint-Jean-de-Chevelu: bewaakt zwemmen 27 juni tot en met 27 augustus 2026. Betaald vanaf € 2. Water 2025: Goed.",
+      "meta_title": "Plage du lac de Saint-Jean-de-Chevelu — Betaald vanaf € 2, bewaakt zwemmen 2026",
+      "name": "Plage du lac de Saint-Jean-de-Chevelu",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Adres",
+          "v": "La Courbe, 73170 Saint-Jean-de-Chevelu"
+        },
+        {
+          "k": "Bewaakt seizoen",
+          "v": "27 juni tot en met 27 augustus 2026"
+        },
+        {
+          "k": "Bewakingstijden",
+          "v": "12.00-18.00"
+        },
+        {
+          "k": "Tarieven",
+          "v": "Volwassenen (12 jaar en ouder) € 2 · kinderen van 5 tot 12 jaar € 1 · gratis onder 5 jaar · 10-badenkaart € 18 volwassenen, € 8 kinderen. Buiten juli en augustus geldt « l'accès au lac est libre »."
+        },
+        {
+          "k": "Parkeren",
+          "v": "Het toeristenbureau vermeldt parkeergelegenheid in de buurt maar publiceert geen tarief."
+        },
+        {
+          "k": "Waterkwaliteit",
+          "v": "Goed — seizoen 2025"
+        },
+        {
+          "k": "Honden",
+          "v": "« Les animaux ne sont pas acceptés sur le site » — dieren zijn niet toegestaan, aldus het toeristenbureau, waarvan de eigen pagina tegelijk de tegenstrijdige labels « Animaux acceptés » en « Animaux non acceptés » draagt. Wij citeren de zin, niet de labels."
+        }
+      ],
+      "schema_amenities": [
+        "Bewaakt zwemmen in het seizoen"
+      ],
+      "when_to_visit": "<p>Tijdens het bewaakte seizoen (27 juni tot en met 27 augustus 2026, van 12.00 tot 18.00 uur). Buiten dat venster is er geen badmeester aanwezig en zwemt u op eigen risico.</p>"
+    }
+  },
+  "latitude": 45.694599,
+  "longitude": 5.824938,
+  "official_site_url": "https://explore.dentduchat.fr/fr/activites/plage-du-lac-de-st-jean-de-chevelu",
+  "partners": [],
+  "postal_code": "73170",
+  "price_currency": "EUR",
+  "price_from": 2.0,
+  "price_tiers": [
+    {
+      "label": "Adulte (12 ans et +)",
+      "price": "2 €"
+    },
+    {
+      "label": "Enfant (5 à 12 ans)",
+      "price": "1 €"
+    },
+    {
+      "label": "Moins de 5 ans",
+      "price": "gratuit"
+    },
+    {
+      "label": "Abonnement 10 entrées adulte",
+      "price": "18 €"
+    },
+    {
+      "label": "Abonnement 10 entrées enfant",
+      "price": "8 €"
+    }
+  ],
+  "research_log": "Recherche du 17 août 2026, sources officielles uniquement. Saison surveillée et règle animaux : Grand Lac, gestionnaire (page + PDF), citées mot pour mot. Classement de l'eau : listing départemental ARS des 43 sites d'eau douce de Savoie, qui donne le nom administratif et la série 2022-2025 de chaque point ; les URL par site n'ont PAS été citées, un identifiant erroné y renvoyant un HTTP 200 portant « Une erreur inattendue est survenue ». Accessibilité et stationnement : fiche française de l'office de tourisme, citée mot pour mot. Les pages anglaises de l'office annoncent encore le calendrier 2025 (28/06 → 31/08) et n'ont pas été citées. Coordonnées : géocodeur IGN Géoplateforme, index POI. Contradictions signalées, jamais arbitrées.",
+  "schema_org": {
+    "amenities": [
+      "Baignade surveillée en saison"
+    ],
+    "is_free": false,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "plage-du-lac-de-saint-jean-de-chevelu",
+  "sources": [
+    "https://explore.dentduchat.fr/fr/activites/plage-du-lac-de-st-jean-de-chevelu",
+    "https://www.explore-savoie.com/plages-et-activites-nautiques/plage-du-lac-de-st-jean-de-chevelu-148601/",
+    "https://grand-lac.fr/au-quotidien/services-a-la-population/plages",
+    "https://grand-lac.fr/au-quotidien/services-a-la-population/plages/pdf",
+    "https://baignades.sante.gouv.fr/baignades/genererPDF.do?gen=yes&am1=checkbox&am2=checkbox&am3=checkbox&am4=checkbox&selDpt=073&selEau=DOUCE&image.x=33&image.y=2"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "aquatique",
+  "verify_flags": [
+    "HORS GRAND LAC — cette plage n'est pas gérée par Grand Lac. Sa saison surveillée s'arrête le 27/08/2026, trois jours avant les sept autres, et l'amplitude est 12h-18h. Ne jamais la ranger sous une bannière « 27 juin → 30 août » commune au reste de la tranche.",
+    "SEULE CLASSÉE « BONNE » — les sept autres sont classées Excellente en 2025 ; celle-ci est classée Bonne, après une saison 2024 Excellente. C'est un fait publié, pas un jugement.",
+    "ANIMAUX — la fiche se contredit : elle porte à la fois les étiquettes « Animaux acceptés » et « Animaux non acceptés », tandis que son corps de texte écrit « Les animaux ne sont pas acceptés sur le site ». Nous citons la phrase, pas les étiquettes.",
+    "COORDONNÉES — source unique (IGN). Aucune deuxième source pour recouper le point.",
+    "QUALITÉ DE L'EAU — classement ARS de la saison 2025, seule saison publiée à ce jour ; le classement 2026 n'est pas paru. Ne jamais l'étiqueter 2026. Source : listing départemental ARS (43 sites d'eau douce en Savoie), pas une URL par site : un identifiant de site erroné renvoie un HTTP 200 portant « Une erreur inattendue est survenue », qu'un vérificateur de liens lit comme valide.",
+    "ACCES_PMR_UNVERIFIED",
+    "COORDONNÉES — POI IGN « baignade surveillée » — source unique : la fiche ne publie pas de coordonnée et l'adresse « La Courbe » ne résout pas dans l'index adresse."
+  ]
+}

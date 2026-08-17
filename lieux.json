@@ -1658,6 +1658,294 @@
       "access_state": "free_seasonal"
     },
     {
+      "slug": "plage-de-chatillon-chindrieux",
+      "categories": [
+        "plage"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Plage de Châtillon",
+          "commune": "Chindrieux"
+        },
+        "en": {
+          "name": "Plage de Châtillon",
+          "commune": "Chindrieux"
+        },
+        "de": {
+          "name": "Plage de Châtillon",
+          "commune": "Chindrieux"
+        },
+        "it": {
+          "name": "Plage de Châtillon",
+          "commune": "Chindrieux"
+        },
+        "es": {
+          "name": "Plage de Châtillon",
+          "commune": "Chindrieux"
+        },
+        "nl": {
+          "name": "Plage de Châtillon",
+          "commune": "Chindrieux"
+        }
+      },
+      "latitude": 45.800129,
+      "longitude": 5.845338,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
+      "slug": "plage-de-conjux-la-chatiere",
+      "categories": [
+        "plage"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Plage de Conjux",
+          "commune": "Conjux"
+        },
+        "en": {
+          "name": "Plage de Conjux",
+          "commune": "Conjux"
+        },
+        "de": {
+          "name": "Plage de Conjux",
+          "commune": "Conjux"
+        },
+        "it": {
+          "name": "Plage de Conjux",
+          "commune": "Conjux"
+        },
+        "es": {
+          "name": "Plage de Conjux",
+          "commune": "Conjux"
+        },
+        "nl": {
+          "name": "Plage de Conjux",
+          "commune": "Conjux"
+        }
+      },
+      "latitude": 45.794514,
+      "longitude": 5.820719,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
+      "slug": "plage-de-la-pointe-de-l-ardre-brison-saint-innocent",
+      "categories": [
+        "plage"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Plage de la Pointe de l'Ardre",
+          "commune": "Brison-Saint-Innocent"
+        },
+        "en": {
+          "name": "Plage de la Pointe de l'Ardre",
+          "commune": "Brison-Saint-Innocent"
+        },
+        "de": {
+          "name": "Plage de la Pointe de l'Ardre",
+          "commune": "Brison-Saint-Innocent"
+        },
+        "it": {
+          "name": "Plage de la Pointe de l'Ardre",
+          "commune": "Brison-Saint-Innocent"
+        },
+        "es": {
+          "name": "Plage de la Pointe de l'Ardre",
+          "commune": "Brison-Saint-Innocent"
+        },
+        "nl": {
+          "name": "Plage de la Pointe de l'Ardre",
+          "commune": "Brison-Saint-Innocent"
+        }
+      },
+      "latitude": 45.720548,
+      "longitude": 5.88173,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
+      "slug": "plage-des-mottets-viviers-du-lac",
+      "categories": [
+        "plage"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Plage des Mottets",
+          "commune": "Viviers-du-Lac"
+        },
+        "en": {
+          "name": "Plage des Mottets",
+          "commune": "Viviers-du-Lac"
+        },
+        "de": {
+          "name": "Plage des Mottets",
+          "commune": "Viviers-du-Lac"
+        },
+        "it": {
+          "name": "Plage des Mottets",
+          "commune": "Viviers-du-Lac"
+        },
+        "es": {
+          "name": "Plage des Mottets",
+          "commune": "Viviers-du-Lac"
+        },
+        "nl": {
+          "name": "Plage des Mottets",
+          "commune": "Viviers-du-Lac"
+        }
+      },
+      "latitude": 45.651211,
+      "longitude": 5.883811,
+      "is_free": false,
+      "access_state": "paid"
+    },
+    {
+      "slug": "plage-du-lac-de-saint-jean-de-chevelu",
+      "categories": [
+        "plage"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Plage du lac de Saint-Jean-de-Chevelu",
+          "commune": "Saint-Jean-de-Chevelu"
+        },
+        "en": {
+          "name": "Plage du lac de Saint-Jean-de-Chevelu",
+          "commune": "Saint-Jean-de-Chevelu"
+        },
+        "de": {
+          "name": "Plage du lac de Saint-Jean-de-Chevelu",
+          "commune": "Saint-Jean-de-Chevelu"
+        },
+        "it": {
+          "name": "Plage du lac de Saint-Jean-de-Chevelu",
+          "commune": "Saint-Jean-de-Chevelu"
+        },
+        "es": {
+          "name": "Plage du lac de Saint-Jean-de-Chevelu",
+          "commune": "Saint-Jean-de-Chevelu"
+        },
+        "nl": {
+          "name": "Plage du lac de Saint-Jean-de-Chevelu",
+          "commune": "Saint-Jean-de-Chevelu"
+        }
+      },
+      "latitude": 45.694599,
+      "longitude": 5.824938,
+      "is_free": false,
+      "access_state": "paid"
+    },
+    {
+      "slug": "plage-du-lido-tresserve",
+      "categories": [
+        "plage"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Plage du Lido",
+          "commune": "Tresserve"
+        },
+        "en": {
+          "name": "Plage du Lido",
+          "commune": "Tresserve"
+        },
+        "de": {
+          "name": "Plage du Lido",
+          "commune": "Tresserve"
+        },
+        "it": {
+          "name": "Plage du Lido",
+          "commune": "Tresserve"
+        },
+        "es": {
+          "name": "Plage du Lido",
+          "commune": "Tresserve"
+        },
+        "nl": {
+          "name": "Plage du Lido",
+          "commune": "Tresserve"
+        }
+      },
+      "latitude": 45.668052,
+      "longitude": 5.89378,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
+      "slug": "plage-du-rowing-aix-les-bains",
+      "categories": [
+        "plage"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Plage du Rowing",
+          "commune": "Aix-les-Bains"
+        },
+        "en": {
+          "name": "Plage du Rowing",
+          "commune": "Aix-les-Bains"
+        },
+        "de": {
+          "name": "Plage du Rowing",
+          "commune": "Aix-les-Bains"
+        },
+        "it": {
+          "name": "Plage du Rowing",
+          "commune": "Aix-les-Bains"
+        },
+        "es": {
+          "name": "Plage du Rowing",
+          "commune": "Aix-les-Bains"
+        },
+        "nl": {
+          "name": "Plage du Rowing",
+          "commune": "Aix-les-Bains"
+        }
+      },
+      "latitude": 45.688755,
+      "longitude": 5.895034,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
+      "slug": "plage-memard-aix-les-bains",
+      "categories": [
+        "plage"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Plage de Mémard",
+          "commune": "Aix-les-Bains"
+        },
+        "en": {
+          "name": "Plage de Mémard",
+          "commune": "Aix-les-Bains"
+        },
+        "de": {
+          "name": "Plage de Mémard",
+          "commune": "Aix-les-Bains"
+        },
+        "it": {
+          "name": "Plage de Mémard",
+          "commune": "Aix-les-Bains"
+        },
+        "es": {
+          "name": "Plage de Mémard",
+          "commune": "Aix-les-Bains"
+        },
+        "nl": {
+          "name": "Plage de Mémard",
+          "commune": "Aix-les-Bains"
+        }
+      },
+      "latitude": 45.707127,
+      "longitude": 5.887824,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
       "slug": "plage-municipale-aix-les-bains-aqualac",
       "categories": [
         "plage"

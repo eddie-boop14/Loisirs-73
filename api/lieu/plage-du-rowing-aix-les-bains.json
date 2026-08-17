@@ -1,0 +1,31 @@
+{
+  "name": "Plage du Rowing",
+  "commune": "Aix-les-Bains",
+  "gps": {
+    "lat": 45.688755,
+    "lng": 5.895034
+  },
+  "type": "plage",
+  "hours": "13h-19h",
+  "prices": {
+    "from": null,
+    "currency": null,
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": {
+    "status": "partiel",
+    "detail": "« Accessible en fauteuil roulant avec aide » et « Prestations adaptées pour déficience motrice », selon l'office de tourisme. Avec aide, donc pas en autonomie.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_url": "https://www.aixlesbains-rivieradesalpes.com/equipement/plage-du-rowing-aix-les-bains/",
+    "source_name": "OT Aix-les-Bains Riviera des Alpes"
+  },
+  "parking": null,
+  "transport": null,
+  "season": "du 27 juin au 30 août 2026, de 13h à 19h",
+  "winter": null,
+  "official_url": "https://www.aixlesbains-rivieradesalpes.com/equipement/plage-du-rowing-aix-les-bains/",
+  "last_verified": null
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Plage de la Pointe de l'Ardre",
+  "commune": "Brison-Saint-Innocent",
+  "gps": {
+    "lat": 45.720548,
+    "lng": 5.88173
+  },
+  "type": "plage",
+  "hours": "13h-19h",
+  "prices": {
+    "from": null,
+    "currency": null,
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": {
+    "status": "partiel",
+    "detail": "« Accessible en fauteuil roulant avec aide », seule mention d'accessibilité de la fiche. Ni équipement ni place PMR documentés.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_url": "https://www.aixlesbains-rivieradesalpes.com/equipement/plage-de-la-pointe-de-lardre-brison-saint-innocent/",
+    "source_name": "OT Aix-les-Bains Riviera des Alpes"
+  },
+  "parking": "L'accès est libre mais le stationnement est payant et obligatoire : 1 €/heure en haute saison (01/05 → 15/09), 0,80 €/heure en moyenne saison (16/03 → 30/04 et 16/09 → 01/11).",
+  "transport": null,
+  "season": "du 27 juin au 30 août 2026, de 13h à 19h",
+  "winter": null,
+  "official_url": "https://www.aixlesbains-rivieradesalpes.com/equipement/plage-de-la-pointe-de-lardre-brison-saint-innocent/",
+  "last_verified": null
+}

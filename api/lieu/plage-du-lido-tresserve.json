@@ -1,0 +1,33 @@
+{
+  "name": "Plage du Lido",
+  "commune": "Tresserve",
+  "gps": {
+    "lat": 45.668052,
+    "lng": 5.89378
+  },
+  "type": "plage",
+  "hours": "13h-19h",
+  "prices": {
+    "from": null,
+    "currency": null,
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": {
+    "status": "accessible",
+    "detail": "« Accessible en fauteuil roulant en autonomie », « Cheminement de plain-pied », « WC + barre d'appui + espace de circulation » et « Prestations adaptées pour déficience motrice », selon l'office de tourisme. La plus complète des huit sur ce point.",
+    "equipment": [
+      "wc_adapte"
+    ],
+    "handiplage_level": null,
+    "source_url": "https://www.aixlesbains-rivieradesalpes.com/equipement/plage-du-lido-tresserve/",
+    "source_name": "OT Aix-les-Bains Riviera des Alpes"
+  },
+  "parking": "Le stationnement est gratuit.",
+  "transport": null,
+  "season": "du 27 juin au 30 août 2026, de 13h à 19h",
+  "winter": null,
+  "official_url": "https://www.aixlesbains-rivieradesalpes.com/equipement/plage-du-lido-tresserve/",
+  "last_verified": null
+}

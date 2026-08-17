@@ -2,7 +2,7 @@
 
 > Independent guide to public leisure sites in Savoie, France. Waterfalls, Castles, Domaine, Lakes, Museums, Beaches, Mountain passes and viewpoints, Trails, Cable cars and lifts, Greenways — every fact verified against official sources (communes, tourism offices, ONF).
 
-Loisirs 73 catalogs 73 leisure destinations in the Savoie department (73), French Alps. Each destination exposes three machine surfaces (below) plus HTML pages in 6 languages (French canonical).
+Loisirs 73 catalogs 81 leisure destinations in the Savoie department (73), French Alps. Each destination exposes three machine surfaces (below) plus HTML pages in 6 languages (French canonical).
 
 ## URL patterns (per lieu — fastest lane for agents)
 
@@ -33,7 +33,7 @@ Content quality signals: Every fact has a cited source. No marketing language. I
 
 ## Discovery files
 
-- [llms-full.txt — full content concatenated](https://loisirs73.fr/llms-full.txt): All 73 leisure sites' FR facet md — single file for full ingestion.
+- [llms-full.txt — full content concatenated](https://loisirs73.fr/llms-full.txt): All 81 leisure sites' FR facet md — single file for full ingestion.
 - [API — lieux index JSON](https://loisirs73.fr/api/lieux.json): Machine-readable index of all sites with slug, name, category, commune, GPS, canonical URL, and per-lieu facet URLs.
 - [Sitemap index](https://loisirs73.fr/sitemap.xml): Standard XML sitemap with lastmod, hreflang, image entries.
 - [.well-known/ai-info.json](https://loisirs73.fr/.well-known/ai-info.json): Discovery manifest with all AI-related endpoints.
@@ -53,7 +53,7 @@ Use these when the question spans many sites (e.g. "which waterfalls have parkin
 
 ## Category hubs (use these for browsing by type)
 
-- [Lacs & plages](https://loisirs73.fr/content/lacs.md): 7 lieux.
+- [Lacs & plages](https://loisirs73.fr/content/lacs.md): 15 lieux.
 - [Cascades](https://loisirs73.fr/content/cascades.md): 7 lieux.
 - [Bases de loisirs](https://loisirs73.fr/content/bases-de-loisirs.md): 4 lieux.
 - [Points de vue](https://loisirs73.fr/content/points-de-vue.md): 15 lieux.
@@ -63,14 +63,22 @@ Use these when the question spans many sites (e.g. "which waterfalls have parkin
 - [Voies vertes](https://loisirs73.fr/content/voies-vertes.md): 4 lieux.
 - [Musées](https://loisirs73.fr/content/musees.md): 7 lieux.
 
-## All lieux by category (73 total)
+## All lieux by category (81 total)
 
-### Lacs & plages (7 lieux)
+### Lacs & plages (15 lieux)
 
 - [Base de loisirs de Grésy-sur-Isère (Grésy-sur-Isère)](https://loisirs73.fr/content/base-de-loisirs-gresy-sur-isere.md): Le plan d'eau de Grésy-sur-Isère : accès gratuit, lauréat Pavillon Bleu, baignade surveillée l'été de 12h à 18h. Sources officielles, dates 2026.
 - [Lac de Carouge (Saint-Pierre-d'Albigny)](https://loisirs73.fr/content/lac-de-carouge-saint-pierre-d-albigny.md): Le lac de Carouge à Saint-Pierre-d'Albigny : plage gratuite, baignade surveillée en juillet-août (13h–19h), parking payant l'été. Sources officielles.
 - [Lac Saint-André (Porte-de-Savoie)](https://loisirs73.fr/content/lac-saint-andre-porte-de-savoie.md): Le lac Saint-André au pied du Granier : accès gratuit, tour du lac en toute saison, baignade tolérée non surveillée, pêche du 7 mars au 6 décembre…
 - [Plage d'Aiguebelette-le-Lac (Aiguebelette-le-Lac)](https://loisirs73.fr/content/plage-aiguebelette-le-lac.md): La plage d'Aiguebelette-le-Lac, au Port : payante du 13 juin au 30 août 2026, pédalos, canoës et paddle en location, accessible en fauteuil en…
+- [Plage de Châtillon (Chindrieux)](https://loisirs73.fr/content/plage-de-chatillon-chindrieux.md): Plage de Châtillon à Chindrieux : baignade surveillée du 27 juin au 30 août 2026. Gratuit. Eau classée Excellente par l'ARS en 2025.
+- [Plage de Conjux (Conjux)](https://loisirs73.fr/content/plage-de-conjux-la-chatiere.md): Plage de Conjux : baignade surveillée du 27 juin au 30 août 2026. Gratuit. Eau classée Excellente par l'ARS en 2025.
+- [Plage de la Pointe de l'Ardre (Brison-Saint-Innocent)](https://loisirs73.fr/content/plage-de-la-pointe-de-l-ardre-brison-saint-innocent.md): Plage de la Pointe de l'Ardre à Brison-Saint-Innocent : baignade surveillée du 27 juin au 30 août 2026. Gratuit. Eau classée Excellente par l'ARS en…
+- [Plage de Mémard (Aix-les-Bains)](https://loisirs73.fr/content/plage-memard-aix-les-bains.md): Plage de Mémard à Aix-les-Bains : baignade surveillée du 27 juin au 30 août 2026. Gratuit. Eau classée Excellente par l'ARS en 2025.
+- [Plage des Mottets (Viviers-du-Lac)](https://loisirs73.fr/content/plage-des-mottets-viviers-du-lac.md): Plage des Mottets à Viviers-du-Lac : baignade surveillée du 27 juin au 30 août 2026. Payant à partir de 1,70 €. Eau classée Excellente par l'ARS en…
+- [Plage du lac de Saint-Jean-de-Chevelu (Saint-Jean-de-Chevelu)](https://loisirs73.fr/content/plage-du-lac-de-saint-jean-de-chevelu.md): Plage du lac de Saint-Jean-de-Chevelu : baignade surveillée du 27 juin au 27 août 2026. Payant à partir de 2 €. Eau classée Bonne par l'ARS en 2025.
+- [Plage du Lido (Tresserve)](https://loisirs73.fr/content/plage-du-lido-tresserve.md): Plage du Lido à Tresserve : baignade surveillée du 27 juin au 30 août 2026. Gratuit. Eau classée Excellente par l'ARS en 2025.
+- [Plage du Rowing (Aix-les-Bains)](https://loisirs73.fr/content/plage-du-rowing-aix-les-bains.md): Plage du Rowing à Aix-les-Bains : baignade surveillée du 27 juin au 30 août 2026. Gratuit. Eau classée Excellente par l'ARS en 2025.
 - [Plage du Sougey (Saint-Alban-de-Montbel)](https://loisirs73.fr/content/plage-base-de-loisirs-du-sougey.md): La plage du Sougey au lac d'Aiguebelette : payante du 13 juin au 30 août 2026 (2,50 € semaine, 4 € week-end), parking gratuit, chiens interdits.…
 - [Plage municipale d'Aix-les-Bains (Aqualac) (Aix-les-Bains)](https://loisirs73.fr/content/plage-municipale-aix-les-bains-aqualac.md): La plage municipale d'Aix-les-Bains, attenante à Aqualac : gratuite, surveillée du 30 mai au 30 août 2026 de 10h à 19h, accessible en fauteuil en…
 - [Plage municipale du Bourget-du-Lac (Le Bourget-du-Lac)](https://loisirs73.fr/content/plage-municipale-le-bourget-du-lac.md): La plage municipale du Bourget-du-Lac : payante en saison (2,30–3,20 €), surveillée du 13 juin au 30 août 2026, entièrement accessible PMR. Sources…

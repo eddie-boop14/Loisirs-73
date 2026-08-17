@@ -1,0 +1,33 @@
+{
+  "name": "Plage de Conjux",
+  "commune": "Conjux",
+  "gps": {
+    "lat": 45.794514,
+    "lng": 5.820719
+  },
+  "type": "plage",
+  "hours": "13h-19h",
+  "prices": {
+    "from": null,
+    "currency": null,
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": {
+    "status": "partiel",
+    "detail": "« Place réservée PMR » et « Prestations adaptées pour déficience motrice », selon l'office de tourisme — la seule des huit à documenter une place réservée. Aucune ligne d'accès en fauteuil roulant en revanche.",
+    "equipment": [
+      "place_pmr"
+    ],
+    "handiplage_level": null,
+    "source_url": "https://www.aixlesbains-rivieradesalpes.com/equipement/plage-de-conjux-conjux/",
+    "source_name": "OT Aix-les-Bains Riviera des Alpes"
+  },
+  "parking": null,
+  "transport": null,
+  "season": "du 27 juin au 30 août 2026, de 13h à 19h",
+  "winter": null,
+  "official_url": "https://www.aixlesbains-rivieradesalpes.com/equipement/plage-de-conjux-conjux/",
+  "last_verified": null
+}

@@ -1,5 +1,5 @@
 {
-  "count": 73,
+  "count": 81,
   "lieux": [
     {
       "slug": "base-de-loisirs-des-glieres-grignon",
@@ -966,6 +966,174 @@
       "facet_md_en": "https://loisirs73.fr/content/en/plage-base-de-loisirs-du-sougey.md",
       "facet_json": "https://loisirs73.fr/api/lieu/plage-base-de-loisirs-du-sougey.json",
       "photo": "/img/generique/generique-plage-lac-3.jpg"
+    },
+    {
+      "slug": "plage-de-chatillon-chindrieux",
+      "name": "Plage de Châtillon",
+      "category": "plage",
+      "commune": "Chindrieux",
+      "postal_code": "73310",
+      "latitude": 45.800129,
+      "longitude": 5.845338,
+      "urls": {
+        "fr": "https://loisirs73.fr/plage-de-chatillon-chindrieux",
+        "en": "https://loisirs73.fr/en/plage-de-chatillon-chindrieux",
+        "de": "https://loisirs73.fr/de/plage-de-chatillon-chindrieux",
+        "it": "https://loisirs73.fr/it/plage-de-chatillon-chindrieux",
+        "es": "https://loisirs73.fr/es/plage-de-chatillon-chindrieux",
+        "nl": "https://loisirs73.fr/nl/plage-de-chatillon-chindrieux"
+      },
+      "facet_md": "https://loisirs73.fr/content/plage-de-chatillon-chindrieux.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/plage-de-chatillon-chindrieux.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/plage-de-chatillon-chindrieux.json",
+      "photo": "/img/generique/generique-plage-lac-13.jpg"
+    },
+    {
+      "slug": "plage-de-conjux-la-chatiere",
+      "name": "Plage de Conjux",
+      "category": "plage",
+      "commune": "Conjux",
+      "postal_code": "73310",
+      "latitude": 45.794514,
+      "longitude": 5.820719,
+      "urls": {
+        "fr": "https://loisirs73.fr/plage-de-conjux-la-chatiere",
+        "en": "https://loisirs73.fr/en/plage-de-conjux-la-chatiere",
+        "de": "https://loisirs73.fr/de/plage-de-conjux-la-chatiere",
+        "it": "https://loisirs73.fr/it/plage-de-conjux-la-chatiere",
+        "es": "https://loisirs73.fr/es/plage-de-conjux-la-chatiere",
+        "nl": "https://loisirs73.fr/nl/plage-de-conjux-la-chatiere"
+      },
+      "facet_md": "https://loisirs73.fr/content/plage-de-conjux-la-chatiere.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/plage-de-conjux-la-chatiere.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/plage-de-conjux-la-chatiere.json",
+      "photo": "/img/generique/generique-plage-lac-14.jpg"
+    },
+    {
+      "slug": "plage-de-la-pointe-de-l-ardre-brison-saint-innocent",
+      "name": "Plage de la Pointe de l'Ardre",
+      "category": "plage",
+      "commune": "Brison-Saint-Innocent",
+      "postal_code": "73100",
+      "latitude": 45.720548,
+      "longitude": 5.88173,
+      "urls": {
+        "fr": "https://loisirs73.fr/plage-de-la-pointe-de-l-ardre-brison-saint-innocent",
+        "en": "https://loisirs73.fr/en/plage-de-la-pointe-de-l-ardre-brison-saint-innocent",
+        "de": "https://loisirs73.fr/de/plage-de-la-pointe-de-l-ardre-brison-saint-innocent",
+        "it": "https://loisirs73.fr/it/plage-de-la-pointe-de-l-ardre-brison-saint-innocent",
+        "es": "https://loisirs73.fr/es/plage-de-la-pointe-de-l-ardre-brison-saint-innocent",
+        "nl": "https://loisirs73.fr/nl/plage-de-la-pointe-de-l-ardre-brison-saint-innocent"
+      },
+      "facet_md": "https://loisirs73.fr/content/plage-de-la-pointe-de-l-ardre-brison-saint-innocent.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/plage-de-la-pointe-de-l-ardre-brison-saint-innocent.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/plage-de-la-pointe-de-l-ardre-brison-saint-innocent.json",
+      "photo": "/img/generique/generique-plage-lac-9.jpg"
+    },
+    {
+      "slug": "plage-des-mottets-viviers-du-lac",
+      "name": "Plage des Mottets",
+      "category": "plage",
+      "commune": "Viviers-du-Lac",
+      "postal_code": "73420",
+      "latitude": 45.651211,
+      "longitude": 5.883811,
+      "urls": {
+        "fr": "https://loisirs73.fr/plage-des-mottets-viviers-du-lac",
+        "en": "https://loisirs73.fr/en/plage-des-mottets-viviers-du-lac",
+        "de": "https://loisirs73.fr/de/plage-des-mottets-viviers-du-lac",
+        "it": "https://loisirs73.fr/it/plage-des-mottets-viviers-du-lac",
+        "es": "https://loisirs73.fr/es/plage-des-mottets-viviers-du-lac",
+        "nl": "https://loisirs73.fr/nl/plage-des-mottets-viviers-du-lac"
+      },
+      "facet_md": "https://loisirs73.fr/content/plage-des-mottets-viviers-du-lac.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/plage-des-mottets-viviers-du-lac.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/plage-des-mottets-viviers-du-lac.json",
+      "photo": "/img/generique/generique-plage-lac-12.jpg"
+    },
+    {
+      "slug": "plage-du-lac-de-saint-jean-de-chevelu",
+      "name": "Plage du lac de Saint-Jean-de-Chevelu",
+      "category": "plage",
+      "commune": "Saint-Jean-de-Chevelu",
+      "postal_code": "73170",
+      "latitude": 45.694599,
+      "longitude": 5.824938,
+      "urls": {
+        "fr": "https://loisirs73.fr/plage-du-lac-de-saint-jean-de-chevelu",
+        "en": "https://loisirs73.fr/en/plage-du-lac-de-saint-jean-de-chevelu",
+        "de": "https://loisirs73.fr/de/plage-du-lac-de-saint-jean-de-chevelu",
+        "it": "https://loisirs73.fr/it/plage-du-lac-de-saint-jean-de-chevelu",
+        "es": "https://loisirs73.fr/es/plage-du-lac-de-saint-jean-de-chevelu",
+        "nl": "https://loisirs73.fr/nl/plage-du-lac-de-saint-jean-de-chevelu"
+      },
+      "facet_md": "https://loisirs73.fr/content/plage-du-lac-de-saint-jean-de-chevelu.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/plage-du-lac-de-saint-jean-de-chevelu.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/plage-du-lac-de-saint-jean-de-chevelu.json",
+      "photo": "/img/generique/generique-plage-lac-15.jpg"
+    },
+    {
+      "slug": "plage-du-lido-tresserve",
+      "name": "Plage du Lido",
+      "category": "plage",
+      "commune": "Tresserve",
+      "postal_code": "73100",
+      "latitude": 45.668052,
+      "longitude": 5.89378,
+      "urls": {
+        "fr": "https://loisirs73.fr/plage-du-lido-tresserve",
+        "en": "https://loisirs73.fr/en/plage-du-lido-tresserve",
+        "de": "https://loisirs73.fr/de/plage-du-lido-tresserve",
+        "it": "https://loisirs73.fr/it/plage-du-lido-tresserve",
+        "es": "https://loisirs73.fr/es/plage-du-lido-tresserve",
+        "nl": "https://loisirs73.fr/nl/plage-du-lido-tresserve"
+      },
+      "facet_md": "https://loisirs73.fr/content/plage-du-lido-tresserve.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/plage-du-lido-tresserve.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/plage-du-lido-tresserve.json",
+      "photo": "/img/generique/generique-plage-lac-10.jpg"
+    },
+    {
+      "slug": "plage-du-rowing-aix-les-bains",
+      "name": "Plage du Rowing",
+      "category": "plage",
+      "commune": "Aix-les-Bains",
+      "postal_code": "73100",
+      "latitude": 45.688755,
+      "longitude": 5.895034,
+      "urls": {
+        "fr": "https://loisirs73.fr/plage-du-rowing-aix-les-bains",
+        "en": "https://loisirs73.fr/en/plage-du-rowing-aix-les-bains",
+        "de": "https://loisirs73.fr/de/plage-du-rowing-aix-les-bains",
+        "it": "https://loisirs73.fr/it/plage-du-rowing-aix-les-bains",
+        "es": "https://loisirs73.fr/es/plage-du-rowing-aix-les-bains",
+        "nl": "https://loisirs73.fr/nl/plage-du-rowing-aix-les-bains"
+      },
+      "facet_md": "https://loisirs73.fr/content/plage-du-rowing-aix-les-bains.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/plage-du-rowing-aix-les-bains.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/plage-du-rowing-aix-les-bains.json",
+      "photo": "/img/generique/generique-paddle-aviron-detail.jpg"
+    },
+    {
+      "slug": "plage-memard-aix-les-bains",
+      "name": "Plage de Mémard",
+      "category": "plage",
+      "commune": "Aix-les-Bains",
+      "postal_code": "73100",
+      "latitude": 45.707127,
+      "longitude": 5.887824,
+      "urls": {
+        "fr": "https://loisirs73.fr/plage-memard-aix-les-bains",
+        "en": "https://loisirs73.fr/en/plage-memard-aix-les-bains",
+        "de": "https://loisirs73.fr/de/plage-memard-aix-les-bains",
+        "it": "https://loisirs73.fr/it/plage-memard-aix-les-bains",
+        "es": "https://loisirs73.fr/es/plage-memard-aix-les-bains",
+        "nl": "https://loisirs73.fr/nl/plage-memard-aix-les-bains"
+      },
+      "facet_md": "https://loisirs73.fr/content/plage-memard-aix-les-bains.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/plage-memard-aix-les-bains.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/plage-memard-aix-les-bains.json",
+      "photo": "/img/generique/generique-plage-lac-7.jpg"
     },
     {
       "slug": "plage-municipale-aix-les-bains-aqualac",

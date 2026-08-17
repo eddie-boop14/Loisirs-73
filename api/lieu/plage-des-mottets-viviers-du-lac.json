@@ -1,0 +1,62 @@
+{
+  "name": "Plage des Mottets",
+  "commune": "Viviers-du-Lac",
+  "gps": {
+    "lat": 45.651211,
+    "lng": 5.883811
+  },
+  "type": "plage",
+  "hours": "10h-19h",
+  "prices": {
+    "from": 1.7,
+    "currency": "EUR",
+    "tiers": [
+      {
+        "name": null,
+        "price": "1,70 à 2,70 €",
+        "note": null
+      },
+      {
+        "name": null,
+        "price": "1,20 à 1,70 €",
+        "note": null
+      },
+      {
+        "name": null,
+        "price": "18 à 26 €",
+        "note": null
+      },
+      {
+        "name": null,
+        "price": "11,60 à 18 €",
+        "note": null
+      },
+      {
+        "name": null,
+        "price": "1,70 €",
+        "note": null
+      },
+      {
+        "name": null,
+        "price": "1,20 €",
+        "note": null
+      }
+    ],
+    "is_free": false,
+    "note": null
+  },
+  "access_pmr": {
+    "status": "accessible",
+    "detail": "« Accessible en fauteuil roulant en autonomie » et « Prestations adaptées pour déficience motrice ». La fiche ajoute, dans son corps de texte : « Cette plage bénéficie du label tourisme et handicap ».",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_url": "https://www.aixlesbains-rivieradesalpes.com/equipement/plage-des-mottets-viviers-du-lac/",
+    "source_name": "OT Aix-les-Bains Riviera des Alpes"
+  },
+  "parking": null,
+  "transport": null,
+  "season": "du 27 juin au 30 août 2026, de 10h à 19h",
+  "winter": null,
+  "official_url": "https://www.aixlesbains-rivieradesalpes.com/equipement/plage-des-mottets-viviers-du-lac/",
+  "last_verified": null
+}

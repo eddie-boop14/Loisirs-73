@@ -1,0 +1,645 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-17",
+    "confidence": null,
+    "detail": "L'office de tourisme annonce « Prestations adaptées pour déficience motrice ». Aucune ligne d'accès en fauteuil roulant, aucun matériel de mise à l'eau, aucune place PMR documentée.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_name": "OT Aix-les-Bains Riviera des Alpes",
+    "source_url": "https://www.aixlesbains-rivieradesalpes.com/equipement/plage-de-memard-aix-les-bains/",
+    "status": null,
+    "tourisme_handicap": []
+  },
+  "category": "plage",
+  "commune": "Aix-les-Bains",
+  "date_modified_human": "17 août 2026",
+  "date_published_human": "17 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-17",
+    "method": "Recherche du 17 août 2026, sources officielles uniquement. Saison surveillée et règle animaux : Grand Lac, gestionnaire (page + PDF), citées mot pour mot. Classement de l'eau : listing départemental ARS des 43 sites d'eau douce de Savoie, qui donne le nom administratif et la série 2022-2025 de chaque point ; les URL par site n'ont PAS été citées, un identifiant erroné y renvoyant un HTTP 200 portant « Une erreur inattendue est survenue ». Accessibilité et stationnement : fiche française de l'office de tourisme, citée mot pour mot. Les pages anglaises de l'office annoncent encore le calendrier 2025 (28/06 → 31/08) et n'ont pas été citées. Coordonnées : géocodeur IGN Géoplateforme, index POI. Contradictions signalées, jamais arbitrées."
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-plage-lac-7.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "vom 27. Juni bis zum 30. August 2026, von 13 bis 19 Uhr. Strand unter der Verwaltung von Grand Lac.",
+          "tag": "In der Saison",
+          "title": "Beaufsichtigtes Baden"
+        },
+        {
+          "description": "Ausgezeichnet für die Saison 2025, unter dem Behördennamen « PLAGE MEMARD ». Reihe 2022-2025: 4E · 4E · 4E · 4E. Die Bewertung 2026 liegt nicht vor.",
+          "tag": "Vor Ort",
+          "title": "Wasserqualität"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>Plage de Mémard</strong> nimmt das Ostufer des <strong>Lac du Bourget</strong> bei Aix-les-Bains ein. Beaufsichtigtes Baden vom 27. Juni bis zum 30. August 2026, von 13 bis 19 Uhr. Der Eintritt ist frei.</p><p>Die Gesundheitsbehörde führt diese Badestelle unter dem Namen « PLAGE MEMARD » und bewertet sie für die Saison 2025 — die zuletzt veröffentlichte — mit <strong>Ausgezeichnet</strong>. Reihe 2022 bis 2025: 4E · 4E · 4E · 4E.</p><p>Das Parken wird von der offiziellen Quelle nicht dokumentiert, und wir leiten es nicht von den Nachbarstränden ab. Keine offizielle Quelle sagt hier etwas zur Barrierefreiheit: weder zugänglich noch unzugänglich — unbekannt. Hunde sind nicht erlaubt — « même en laisse durant la saison estivale », auch nicht angeleint während der Sommersaison. Grand Lac wendet dieselbe Regel auf allen neun Stränden an.</p><p>Grand Lac betreibt neun Strände rund um den Lac du Bourget. Aufsichtsregel und Tierregel sind überall dieselben; Preis, Parken, Barrierefreiheit und Wasserbewertung sind es nicht und müssen Strand für Strand gelesen werden. Deshalb nennt diese Seite sie einzeln statt unter einer gemeinsamen Überschrift.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Kostenlos",
+        "best_season": "vom 27. Juni bis zum 30. August 2026, von 13 bis 19 Uhr",
+        "commune": "Aix-les-Bains",
+        "dogs": "Hunde sind nicht erlaubt — « même en laisse durant la saison estivale », auch nicht angeleint während der Sommersaison. Grand Lac wendet dieselbe Regel auf allen neun Stränden an.",
+        "parking": null,
+        "stroller": null,
+        "type": "Seestrand, in der Saison beaufsichtigt"
+      },
+      "faq": [
+        {
+          "a": "vom 27. Juni bis zum 30. August 2026, von 13 bis 19 Uhr. Strand unter der Verwaltung von Grand Lac.",
+          "q": "Wann wird 2026 beaufsichtigt gebadet?"
+        },
+        {
+          "a": "Nein, der Eintritt ist frei.",
+          "q": "Kostet der Eintritt etwas?"
+        },
+        {
+          "a": "Ausgezeichnet für die Saison 2025, unter dem Behördennamen « PLAGE MEMARD ». Reihe 2022-2025: 4E · 4E · 4E · 4E. Die Bewertung 2026 liegt nicht vor.",
+          "q": "Wie ist die Wasserqualität?"
+        },
+        {
+          "a": "Hunde sind nicht erlaubt — « même en laisse durant la saison estivale », auch nicht angeleint während der Sommersaison. Grand Lac wendet dieselbe Regel auf allen neun Stränden an.",
+          "q": "Sind Hunde erlaubt?"
+        },
+        {
+          "a": "Keine offizielle Quelle sagt hier etwas zur Barrierefreiheit: weder zugänglich noch unzugänglich — unbekannt.",
+          "q": "Ist der Strand rollstuhlgerecht?"
+        }
+      ],
+      "hero": {
+        "badge": "Kostenlos · Lac du Bourget",
+        "lead": "Beaufsichtigtes Baden vom 27. Juni bis zum 30. August 2026, von 13 bis 19 Uhr, am Lac du Bourget. Kostenlos, Wasser für die Saison 2025 mit Ausgezeichnet bewertet."
+      },
+      "hero_alt": "Plage de Mémard, das Ostufer des Lac du Bourget, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Grand Port, 73100 Aix-les-Bains. Veröffentlichter Punkt: 45.707127, 5.887824.",
+        "public_transport": null
+      },
+      "meta_description": "Plage de Mémard, Aix-les-Bains: beaufsichtigt vom 27. Juni bis zum 30. August 2026. Kostenlos. Wasser 2025: Ausgezeichnet.",
+      "meta_title": "Plage de Mémard — Kostenlos, beaufsichtigtes Baden 2026",
+      "name": "Plage de Mémard",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Adresse",
+          "v": "Grand Port, 73100 Aix-les-Bains"
+        },
+        {
+          "k": "Beaufsichtigte Saison",
+          "v": "vom 27. Juni bis zum 30. August 2026"
+        },
+        {
+          "k": "Aufsichtszeiten",
+          "v": "13-19 Uhr"
+        },
+        {
+          "k": "Preise",
+          "v": "Kostenlos"
+        },
+        {
+          "k": "Parken",
+          "v": null
+        },
+        {
+          "k": "Wasserqualität",
+          "v": "Ausgezeichnet — Saison 2025"
+        },
+        {
+          "k": "Hunde",
+          "v": "Hunde sind nicht erlaubt — « même en laisse durant la saison estivale », auch nicht angeleint während der Sommersaison. Grand Lac wendet dieselbe Regel auf allen neun Stränden an."
+        }
+      ],
+      "schema_amenities": [
+        "Beaufsichtigtes Baden in der Saison"
+      ],
+      "when_to_visit": "<p>Während der beaufsichtigten Saison (vom 27. Juni bis zum 30. August 2026, von 13 bis 19 Uhr). Außerhalb dieses Zeitfensters ist kein Rettungsschwimmer im Dienst; das Baden erfolgt auf eigene Gefahr.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "27 June to 30 August 2026, 13:00 to 19:00. Beach managed by Grand Lac.",
+          "tag": "In season",
+          "title": "Supervised swimming"
+        },
+        {
+          "description": "Excellent for the 2025 season, under the health-agency name « PLAGE MEMARD ». 2022-2025 series: 4E · 4E · 4E · 4E. The 2026 rating is not out.",
+          "tag": "On site",
+          "title": "Water quality"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Plage de Mémard</strong> occupies the eastern shore of the <strong>Lac du Bourget</strong>, at Aix-les-Bains. Supervised swimming 27 June to 30 August 2026, 13:00 to 19:00. Entry is free.</p><p>The regional health agency files this bathing site under the name « PLAGE MEMARD » and rates it <strong>Excellent</strong> for the 2025 season, the most recent one published. 2022 to 2025 series: 4E · 4E · 4E · 4E.</p><p>Parking is not documented by the official source, and we do not infer it from the neighbouring beaches. No official source says anything about accessibility here: neither accessible nor inaccessible — unknown. Dogs are not allowed — « même en laisse durant la saison estivale », not even on a lead during the summer season. Grand Lac applies the same rule on all nine of its beaches.</p><p>Grand Lac runs nine beaches around the Lac du Bourget. The supervision rule and the animals rule are the same at every one of them; price, parking, accessibility and water rating are not, and have to be read beach by beach. That is why this page gives them separately rather than under one banner.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free",
+        "best_season": "27 June to 30 August 2026, 13:00 to 19:00",
+        "commune": "Aix-les-Bains",
+        "dogs": "Dogs are not allowed — « même en laisse durant la saison estivale », not even on a lead during the summer season. Grand Lac applies the same rule on all nine of its beaches.",
+        "parking": null,
+        "stroller": null,
+        "type": "Lake beach, supervised in season"
+      },
+      "faq": [
+        {
+          "a": "27 June to 30 August 2026, 13:00 to 19:00. Beach managed by Grand Lac.",
+          "q": "When is swimming supervised in 2026?"
+        },
+        {
+          "a": "No — entry is free.",
+          "q": "Is there an entry fee?"
+        },
+        {
+          "a": "Excellent for the 2025 season, under the health-agency name « PLAGE MEMARD ». 2022-2025 series: 4E · 4E · 4E · 4E. The 2026 rating is not out.",
+          "q": "What is the water quality?"
+        },
+        {
+          "a": "Dogs are not allowed — « même en laisse durant la saison estivale », not even on a lead during the summer season. Grand Lac applies the same rule on all nine of its beaches.",
+          "q": "Are dogs allowed?"
+        },
+        {
+          "a": "No official source says anything about accessibility here: neither accessible nor inaccessible — unknown.",
+          "q": "Is the beach wheelchair-accessible?"
+        }
+      ],
+      "hero": {
+        "badge": "Free · Lac du Bourget",
+        "lead": "Supervised swimming 27 June to 30 August 2026, 13:00 to 19:00, on the Lac du Bourget. Free, water rated Excellent by the health agency for the 2025 season."
+      },
+      "hero_alt": "Plage de Mémard, the eastern shore of the Lac du Bourget, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Grand Port, 73100 Aix-les-Bains. Published point: 45.707127, 5.887824.",
+        "public_transport": null
+      },
+      "meta_description": "Plage de Mémard, Aix-les-Bains: supervised swimming 27 June to 30 August 2026. Free. Water rated Excellent in 2025.",
+      "meta_title": "Plage de Mémard — Free, supervised swimming 2026",
+      "name": "Plage de Mémard",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Address",
+          "v": "Grand Port, 73100 Aix-les-Bains"
+        },
+        {
+          "k": "Supervised season",
+          "v": "27 June to 30 August 2026"
+        },
+        {
+          "k": "Supervision hours",
+          "v": "13:00-19:00"
+        },
+        {
+          "k": "Prices",
+          "v": "Free"
+        },
+        {
+          "k": "Parking",
+          "v": null
+        },
+        {
+          "k": "Water quality",
+          "v": "Excellent — 2025 season"
+        },
+        {
+          "k": "Dogs",
+          "v": "Dogs are not allowed — « même en laisse durant la saison estivale », not even on a lead during the summer season. Grand Lac applies the same rule on all nine of its beaches."
+        }
+      ],
+      "schema_amenities": [
+        "Supervised swimming in season"
+      ],
+      "when_to_visit": "<p>During the supervised season (27 June to 30 August 2026, 13:00 to 19:00). Outside that window no lifeguard is on duty and swimming is at your own risk.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "del 27 de junio al 30 de agosto de 2026, de las 13:00 a las 19:00. Playa gestionada por Grand Lac.",
+          "tag": "En temporada",
+          "title": "Baño vigilado"
+        },
+        {
+          "description": "Excelente en la temporada 2025, bajo el nombre « PLAGE MEMARD ». Serie 2022-2025: 4E · 4E · 4E · 4E. La clasificación de 2026 no se ha publicado.",
+          "tag": "En el sitio",
+          "title": "Calidad del agua"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>Plage de Mémard</strong> ocupa la orilla este del <strong>Lac du Bourget</strong>, en Aix-les-Bains. Baño vigilado del 27 de junio al 30 de agosto de 2026, de las 13:00 a las 19:00. La entrada es gratuita.</p><p>La agencia sanitaria registra este punto de baño con el nombre « PLAGE MEMARD » y le otorga la mención <strong>Excelente</strong> en la temporada 2025, la última publicada. Serie de 2022 a 2025: 4E · 4E · 4E · 4E.</p><p>El aparcamiento no está documentado por la fuente oficial y no lo deducimos de las playas vecinas. Ninguna fuente oficial dice nada sobre la accesibilidad: ni accesible ni inaccesible — se desconoce. Perros no admitidos — « même en laisse durant la saison estivale », ni siquiera con correa durante la temporada de verano. Grand Lac aplica la misma regla en sus nueve playas.</p><p>Grand Lac gestiona nueve playas alrededor del Lac du Bourget. La norma de vigilancia y la de animales son idénticas en todas; la tarifa, el aparcamiento, la accesibilidad y la clasificación del agua no lo son, y se leen playa por playa. Por eso esta ficha los da por separado y no bajo un único rótulo.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuito",
+        "best_season": "del 27 de junio al 30 de agosto de 2026, de las 13:00 a las 19:00",
+        "commune": "Aix-les-Bains",
+        "dogs": "Perros no admitidos — « même en laisse durant la saison estivale », ni siquiera con correa durante la temporada de verano. Grand Lac aplica la misma regla en sus nueve playas.",
+        "parking": null,
+        "stroller": null,
+        "type": "Playa de lago, vigilada en temporada"
+      },
+      "faq": [
+        {
+          "a": "del 27 de junio al 30 de agosto de 2026, de las 13:00 a las 19:00. Playa gestionada por Grand Lac.",
+          "q": "¿Cuándo está vigilado el baño en 2026?"
+        },
+        {
+          "a": "No, la entrada es gratuita.",
+          "q": "¿Hay que pagar entrada?"
+        },
+        {
+          "a": "Excelente en la temporada 2025, bajo el nombre « PLAGE MEMARD ». Serie 2022-2025: 4E · 4E · 4E · 4E. La clasificación de 2026 no se ha publicado.",
+          "q": "¿Cuál es la calidad del agua?"
+        },
+        {
+          "a": "Perros no admitidos — « même en laisse durant la saison estivale », ni siquiera con correa durante la temporada de verano. Grand Lac aplica la misma regla en sus nueve playas.",
+          "q": "¿Se admiten perros?"
+        },
+        {
+          "a": "Ninguna fuente oficial dice nada sobre la accesibilidad: ni accesible ni inaccesible — se desconoce.",
+          "q": "¿Es accesible la playa en silla de ruedas?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratuito · Lac du Bourget",
+        "lead": "Baño vigilado del 27 de junio al 30 de agosto de 2026, de las 13:00 a las 19:00, a orillas del Lac du Bourget. Gratuito, agua clasificada Excelente en la temporada 2025."
+      },
+      "hero_alt": "Plage de Mémard, la orilla este del Lac du Bourget, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Grand Port, 73100 Aix-les-Bains. Punto publicado: 45.707127, 5.887824.",
+        "public_transport": null
+      },
+      "meta_description": "Plage de Mémard, Aix-les-Bains: baño vigilado del 27 de junio al 30 de agosto de 2026. Gratuito. Agua Excelente en 2025.",
+      "meta_title": "Plage de Mémard — Gratuito, baño vigilado 2026",
+      "name": "Plage de Mémard",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Dirección",
+          "v": "Grand Port, 73100 Aix-les-Bains"
+        },
+        {
+          "k": "Temporada vigilada",
+          "v": "del 27 de junio al 30 de agosto de 2026"
+        },
+        {
+          "k": "Horario de vigilancia",
+          "v": "13:00-19:00"
+        },
+        {
+          "k": "Tarifas",
+          "v": "Gratuito"
+        },
+        {
+          "k": "Aparcamiento",
+          "v": null
+        },
+        {
+          "k": "Calidad del agua",
+          "v": "Excelente — temporada 2025"
+        },
+        {
+          "k": "Animales",
+          "v": "Perros no admitidos — « même en laisse durant la saison estivale », ni siquiera con correa durante la temporada de verano. Grand Lac aplica la misma regla en sus nueve playas."
+        }
+      ],
+      "schema_amenities": [
+        "Baño vigilado en temporada"
+      ],
+      "when_to_visit": "<p>Durante la temporada vigilada (del 27 de junio al 30 de agosto de 2026, de las 13:00 a las 19:00). Fuera de esa franja no hay socorrista de servicio y el baño es bajo responsabilidad propia.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "du 27 juin au 30 août 2026, de 13h à 19h. Plage gérée par Grand Lac.",
+          "tag": "En saison",
+          "title": "Baignade surveillée"
+        },
+        {
+          "description": "Excellente pour la saison 2025, sous le nom ARS « PLAGE MEMARD ». Série 2022-2025 : 4E · 4E · 4E · 4E. Le classement 2026 n'est pas paru.",
+          "tag": "Sur place",
+          "title": "Qualité de l'eau"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>Plage de Mémard</strong> occupe la rive est du <strong>Lac du Bourget</strong>, à Aix-les-Bains. Baignade surveillée du 27 juin au 30 août 2026, de 13h à 19h. L'entrée est gratuite.</p><p>L'ARS enregistre ce point de baignade sous le nom « PLAGE MEMARD » et lui attribue la mention <strong>Excellente</strong> pour la saison 2025, dernière saison publiée à ce jour. Série 2022 à 2025 : 4E · 4E · 4E · 4E.</p><p>Le stationnement n'est pas documenté par la source officielle : nous ne le devinons pas d'après les plages voisines. Aucune source officielle ne dit quoi que ce soit de l'accessibilité : ni accessible, ni non accessible — inconnu. Chiens interdits, « même en laisse durant la saison estivale » (Grand Lac, règle identique sur ses neuf plages).</p><p>Grand Lac gère neuf plages autour du Lac du Bourget. La règle de surveillance et celle sur les animaux y sont identiques d'une plage à l'autre ; le tarif, le stationnement, l'accessibilité et le classement de l'eau, eux, se lisent plage par plage. C'est pour cela que cette fiche les donne séparément plutôt que sous une bannière commune.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuit",
+        "best_season": "du 27 juin au 30 août 2026, de 13h à 19h",
+        "commune": "Aix-les-Bains",
+        "dogs": "Chiens interdits, « même en laisse durant la saison estivale » (Grand Lac, règle identique sur ses neuf plages).",
+        "parking": null,
+        "stroller": null,
+        "type": "Plage de lac surveillée en saison"
+      },
+      "faq": [
+        {
+          "a": "du 27 juin au 30 août 2026, de 13h à 19h. Plage gérée par Grand Lac.",
+          "q": "Quand la baignade est-elle surveillée en 2026 ?"
+        },
+        {
+          "a": "Non, l'entrée est gratuite.",
+          "q": "L'entrée est-elle payante ?"
+        },
+        {
+          "a": "Excellente pour la saison 2025, sous le nom ARS « PLAGE MEMARD ». Série 2022-2025 : 4E · 4E · 4E · 4E. Le classement 2026 n'est pas paru.",
+          "q": "Quelle est la qualité de l'eau ?"
+        },
+        {
+          "a": "Chiens interdits, « même en laisse durant la saison estivale » (Grand Lac, règle identique sur ses neuf plages).",
+          "q": "Les chiens sont-ils admis ?"
+        },
+        {
+          "a": "Aucune source officielle ne dit quoi que ce soit de l'accessibilité : ni accessible, ni non accessible — inconnu.",
+          "q": "La plage est-elle accessible en fauteuil roulant ?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratuit · Lac du Bourget",
+        "lead": "Baignade surveillée du 27 juin au 30 août 2026, de 13h à 19h, au bord du Lac du Bourget. Gratuit, eau classée Excellente par l'ARS pour la saison 2025."
+      },
+      "hero_alt": "Plage de Mémard, la rive est du Lac du Bourget, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Grand Port, 73100 Aix-les-Bains. Point publié : 45.707127, 5.887824.",
+        "public_transport": null
+      },
+      "meta_description": "Plage de Mémard à Aix-les-Bains : baignade surveillée du 27 juin au 30 août 2026. Gratuit. Eau classée Excellente par l'ARS en 2025.",
+      "meta_title": "Plage de Mémard — Gratuit, baignade surveillée 2026",
+      "name": "Plage de Mémard",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Adresse",
+          "v": "Grand Port, 73100 Aix-les-Bains"
+        },
+        {
+          "k": "Saison surveillée",
+          "v": "du 27 juin au 30 août 2026"
+        },
+        {
+          "k": "Horaires de surveillance",
+          "v": "13h-19h"
+        },
+        {
+          "k": "Tarifs",
+          "v": "Gratuit"
+        },
+        {
+          "k": "Stationnement",
+          "v": null
+        },
+        {
+          "k": "Qualité de l'eau",
+          "v": "Excellente — saison 2025"
+        },
+        {
+          "k": "Animaux",
+          "v": "Chiens interdits, « même en laisse durant la saison estivale » (Grand Lac, règle identique sur ses neuf plages)."
+        }
+      ],
+      "schema_amenities": [
+        "Baignade surveillée en saison"
+      ],
+      "when_to_visit": "<p>Pendant la saison surveillée (du 27 juin au 30 août 2026, de 13h à 19h). Hors de cette fenêtre, aucun maître-nageur n'est en poste : la baignade se fait alors aux risques et périls du baigneur.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "dal 27 giugno al 30 agosto 2026, dalle 13 alle 19. Spiaggia gestita da Grand Lac.",
+          "tag": "In stagione",
+          "title": "Balneazione sorvegliata"
+        },
+        {
+          "description": "Eccellente per la stagione 2025, sotto il nome « PLAGE MEMARD ». Serie 2022-2025: 4E · 4E · 4E · 4E. La classificazione 2026 non è uscita.",
+          "tag": "In loco",
+          "title": "Qualità dell'acqua"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>Plage de Mémard</strong> occupa la sponda orientale del <strong>Lac du Bourget</strong>, a Aix-les-Bains. Balneazione sorvegliata dal 27 giugno al 30 agosto 2026, dalle 13 alle 19. L'ingresso è gratuito.</p><p>L'agenzia sanitaria registra questo punto di balneazione con il nome « PLAGE MEMARD » e gli assegna la menzione <strong>Eccellente</strong> per la stagione 2025, l'ultima pubblicata. Serie dal 2022 al 2025: 4E · 4E · 4E · 4E.</p><p>Il parcheggio non è documentato dalla fonte ufficiale e non lo deduciamo dalle spiagge vicine. Nessuna fonte ufficiale dice nulla sull'accessibilità: né accessibile né inaccessibile — sconosciuto. Cani vietati — « même en laisse durant la saison estivale », nemmeno al guinzaglio durante la stagione estiva. Grand Lac applica la stessa regola su tutte e nove le sue spiagge.</p><p>Grand Lac gestisce nove spiagge attorno al Lac du Bourget. La regola di sorveglianza e quella sugli animali sono identiche ovunque; tariffa, parcheggio, accessibilità e classificazione dell'acqua no, e vanno letti spiaggia per spiaggia. Per questo questa scheda li dà separatamente e non sotto un'unica insegna.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuito",
+        "best_season": "dal 27 giugno al 30 agosto 2026, dalle 13 alle 19",
+        "commune": "Aix-les-Bains",
+        "dogs": "Cani vietati — « même en laisse durant la saison estivale », nemmeno al guinzaglio durante la stagione estiva. Grand Lac applica la stessa regola su tutte e nove le sue spiagge.",
+        "parking": null,
+        "stroller": null,
+        "type": "Spiaggia lacustre, sorvegliata in stagione"
+      },
+      "faq": [
+        {
+          "a": "dal 27 giugno al 30 agosto 2026, dalle 13 alle 19. Spiaggia gestita da Grand Lac.",
+          "q": "Quando è sorvegliata la balneazione nel 2026?"
+        },
+        {
+          "a": "No, l'ingresso è gratuito.",
+          "q": "L'ingresso è a pagamento?"
+        },
+        {
+          "a": "Eccellente per la stagione 2025, sotto il nome « PLAGE MEMARD ». Serie 2022-2025: 4E · 4E · 4E · 4E. La classificazione 2026 non è uscita.",
+          "q": "Qual è la qualità dell'acqua?"
+        },
+        {
+          "a": "Cani vietati — « même en laisse durant la saison estivale », nemmeno al guinzaglio durante la stagione estiva. Grand Lac applica la stessa regola su tutte e nove le sue spiagge.",
+          "q": "I cani sono ammessi?"
+        },
+        {
+          "a": "Nessuna fonte ufficiale dice nulla sull'accessibilità: né accessibile né inaccessibile — sconosciuto.",
+          "q": "La spiaggia è accessibile in carrozzina?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratuito · Lac du Bourget",
+        "lead": "Balneazione sorvegliata dal 27 giugno al 30 agosto 2026, dalle 13 alle 19, sul Lac du Bourget. Gratuito, acqua classificata Eccellente per la stagione 2025."
+      },
+      "hero_alt": "Plage de Mémard, la sponda orientale del Lac du Bourget, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Grand Port, 73100 Aix-les-Bains. Punto pubblicato: 45.707127, 5.887824.",
+        "public_transport": null
+      },
+      "meta_description": "Plage de Mémard, Aix-les-Bains: balneazione sorvegliata dal 27 giugno al 30 agosto 2026. Gratuito. Acqua Eccellente nel 2025.",
+      "meta_title": "Plage de Mémard — Gratuito, balneazione sorvegliata 2026",
+      "name": "Plage de Mémard",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Indirizzo",
+          "v": "Grand Port, 73100 Aix-les-Bains"
+        },
+        {
+          "k": "Stagione sorvegliata",
+          "v": "dal 27 giugno al 30 agosto 2026"
+        },
+        {
+          "k": "Orari di sorveglianza",
+          "v": "13-19"
+        },
+        {
+          "k": "Tariffe",
+          "v": "Gratuito"
+        },
+        {
+          "k": "Parcheggio",
+          "v": null
+        },
+        {
+          "k": "Qualità dell'acqua",
+          "v": "Eccellente — stagione 2025"
+        },
+        {
+          "k": "Animali",
+          "v": "Cani vietati — « même en laisse durant la saison estivale », nemmeno al guinzaglio durante la stagione estiva. Grand Lac applica la stessa regola su tutte e nove le sue spiagge."
+        }
+      ],
+      "schema_amenities": [
+        "Balneazione sorvegliata in stagione"
+      ],
+      "when_to_visit": "<p>Durante la stagione sorvegliata (dal 27 giugno al 30 agosto 2026, dalle 13 alle 19). Fuori da questa fascia non c'è alcun bagnino di servizio e si nuota a proprio rischio.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "27 juni tot en met 30 augustus 2026, van 13.00 tot 19.00 uur. Strand beheerd door Grand Lac.",
+          "tag": "In het seizoen",
+          "title": "Bewaakt zwemmen"
+        },
+        {
+          "description": "Uitstekend voor het seizoen 2025, onder de naam « PLAGE MEMARD ». Reeks 2022-2025: 4E · 4E · 4E · 4E. De beoordeling van 2026 is nog niet verschenen.",
+          "tag": "Ter plaatse",
+          "title": "Waterkwaliteit"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>Plage de Mémard</strong> ligt aan de oostoever van het <strong>Lac du Bourget</strong>, bij Aix-les-Bains. Bewaakt zwemmen 27 juni tot en met 30 augustus 2026, van 13.00 tot 19.00 uur. De toegang is gratis.</p><p>De gezondheidsdienst registreert dit zwemwater onder de naam « PLAGE MEMARD » en kent het voor het seizoen 2025 — het laatst gepubliceerde — de waardering <strong>Uitstekend</strong> toe. Reeks 2022 tot 2025: 4E · 4E · 4E · 4E.</p><p>Parkeren wordt niet door de officiële bron gedocumenteerd, en wij leiden het niet af van de naburige stranden. Geen enkele officiële bron zegt iets over de toegankelijkheid: niet toegankelijk, niet ontoegankelijk — onbekend. Honden niet toegestaan — « même en laisse durant la saison estivale », ook niet aangelijnd tijdens het zomerseizoen. Grand Lac hanteert dezelfde regel op al zijn negen stranden.</p><p>Grand Lac beheert negen stranden rond de Lac du Bourget. De bewakingsregel en de dierenregel zijn overal gelijk; tarief, parkeren, toegankelijkheid en waterbeoordeling niet — die moeten strand voor strand worden gelezen. Daarom geeft deze pagina ze apart en niet onder één noemer.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": "27 juni tot en met 30 augustus 2026, van 13.00 tot 19.00 uur",
+        "commune": "Aix-les-Bains",
+        "dogs": "Honden niet toegestaan — « même en laisse durant la saison estivale », ook niet aangelijnd tijdens het zomerseizoen. Grand Lac hanteert dezelfde regel op al zijn negen stranden.",
+        "parking": null,
+        "stroller": null,
+        "type": "Meerstrand, in het seizoen bewaakt"
+      },
+      "faq": [
+        {
+          "a": "27 juni tot en met 30 augustus 2026, van 13.00 tot 19.00 uur. Strand beheerd door Grand Lac.",
+          "q": "Wanneer is het zwemmen in 2026 bewaakt?"
+        },
+        {
+          "a": "Nee, de toegang is gratis.",
+          "q": "Moet je entree betalen?"
+        },
+        {
+          "a": "Uitstekend voor het seizoen 2025, onder de naam « PLAGE MEMARD ». Reeks 2022-2025: 4E · 4E · 4E · 4E. De beoordeling van 2026 is nog niet verschenen.",
+          "q": "Hoe is de waterkwaliteit?"
+        },
+        {
+          "a": "Honden niet toegestaan — « même en laisse durant la saison estivale », ook niet aangelijnd tijdens het zomerseizoen. Grand Lac hanteert dezelfde regel op al zijn negen stranden.",
+          "q": "Zijn honden toegestaan?"
+        },
+        {
+          "a": "Geen enkele officiële bron zegt iets over de toegankelijkheid: niet toegankelijk, niet ontoegankelijk — onbekend.",
+          "q": "Is het strand rolstoeltoegankelijk?"
+        }
+      ],
+      "hero": {
+        "badge": "Gratis · Lac du Bourget",
+        "lead": "Bewaakt zwemmen 27 juni tot en met 30 augustus 2026, van 13.00 tot 19.00 uur, aan het Lac du Bourget. Gratis, water voor het seizoen 2025 beoordeeld als Uitstekend."
+      },
+      "hero_alt": "Plage de Mémard, de oostoever van het Lac du Bourget, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Grand Port, 73100 Aix-les-Bains. Gepubliceerd punt: 45.707127, 5.887824.",
+        "public_transport": null
+      },
+      "meta_description": "Plage de Mémard, Aix-les-Bains: bewaakt zwemmen 27 juni tot en met 30 augustus 2026. Gratis. Water 2025: Uitstekend.",
+      "meta_title": "Plage de Mémard — Gratis, bewaakt zwemmen 2026",
+      "name": "Plage de Mémard",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Adres",
+          "v": "Grand Port, 73100 Aix-les-Bains"
+        },
+        {
+          "k": "Bewaakt seizoen",
+          "v": "27 juni tot en met 30 augustus 2026"
+        },
+        {
+          "k": "Bewakingstijden",
+          "v": "13.00-19.00"
+        },
+        {
+          "k": "Tarieven",
+          "v": "Gratis"
+        },
+        {
+          "k": "Parkeren",
+          "v": null
+        },
+        {
+          "k": "Waterkwaliteit",
+          "v": "Uitstekend — seizoen 2025"
+        },
+        {
+          "k": "Honden",
+          "v": "Honden niet toegestaan — « même en laisse durant la saison estivale », ook niet aangelijnd tijdens het zomerseizoen. Grand Lac hanteert dezelfde regel op al zijn negen stranden."
+        }
+      ],
+      "schema_amenities": [
+        "Bewaakt zwemmen in het seizoen"
+      ],
+      "when_to_visit": "<p>Tijdens het bewaakte seizoen (27 juni tot en met 30 augustus 2026, van 13.00 tot 19.00 uur). Buiten dat venster is er geen badmeester aanwezig en zwemt u op eigen risico.</p>"
+    }
+  },
+  "latitude": 45.707127,
+  "longitude": 5.887824,
+  "official_site_url": "https://www.aixlesbains-rivieradesalpes.com/equipement/plage-de-memard-aix-les-bains/",
+  "partners": [],
+  "postal_code": "73100",
+  "price_currency": null,
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Recherche du 17 août 2026, sources officielles uniquement. Saison surveillée et règle animaux : Grand Lac, gestionnaire (page + PDF), citées mot pour mot. Classement de l'eau : listing départemental ARS des 43 sites d'eau douce de Savoie, qui donne le nom administratif et la série 2022-2025 de chaque point ; les URL par site n'ont PAS été citées, un identifiant erroné y renvoyant un HTTP 200 portant « Une erreur inattendue est survenue ». Accessibilité et stationnement : fiche française de l'office de tourisme, citée mot pour mot. Les pages anglaises de l'office annoncent encore le calendrier 2025 (28/06 → 31/08) et n'ont pas été citées. Coordonnées : géocodeur IGN Géoplateforme, index POI. Contradictions signalées, jamais arbitrées.",
+  "schema_org": {
+    "amenities": [
+      "Baignade surveillée en saison"
+    ],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "plage-memard-aix-les-bains",
+  "sources": [
+    "https://www.aixlesbains-rivieradesalpes.com/equipement/plage-de-memard-aix-les-bains/",
+    "https://grand-lac.fr/au-quotidien/services-a-la-population/plages",
+    "https://grand-lac.fr/au-quotidien/services-a-la-population/plages/pdf",
+    "https://baignades.sante.gouv.fr/baignades/genererPDF.do?gen=yes&am1=checkbox&am2=checkbox&am3=checkbox&am4=checkbox&selDpt=073&selEau=DOUCE&image.x=33&image.y=2",
+    "https://grand-lac.fr/au-quotidien/protection-de-lenvironnement/qualite-de-leau-de-baignade"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "aquatique",
+  "verify_flags": [
+    "STATIONNEMENT — non documenté sur la fiche de l'office de tourisme. Laissé null plutôt que déduit des plages voisines.",
+    "QUALITÉ DE L'EAU — classement ARS de la saison 2025, seule saison publiée à ce jour ; le classement 2026 n'est pas paru. Ne jamais l'étiqueter 2026. Source : listing départemental ARS (43 sites d'eau douce en Savoie), pas une URL par site : un identifiant de site erroné renvoie un HTTP 200 portant « Une erreur inattendue est survenue », qu'un vérificateur de liens lit comme valide.",
+    "SOURCES — les pages ANGLAISES de l'office de tourisme annoncent 28/06 → 31/08 là où leurs jumelles françaises annoncent 27/06 → 30/08 : c'est le calendrier 2025, encore en ligne. Seules les URL françaises sont citées.",
+    "ACCES_PMR_UNVERIFIED",
+    "COORDONNÉES — IGN POI « Plage de Mémard », catégorie baignade surveillée."
+  ]
+}

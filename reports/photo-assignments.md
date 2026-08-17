@@ -1,7 +1,7 @@
 # Phase 4 — photo assignments (gate artifact)
 
 **Date**: 2026-06-14
-**Total assignments**: 75 (one per (hub × slug) on the FR canonical hub)
+**Total assignments**: 83 (one per (hub × slug) on the FR canonical hub)
 
 ## Per-hub diversity
 
@@ -10,7 +10,7 @@
 | `bases-de-loisirs` | 6 | 6 | 1 |
 | `cascades` | 7 | 1 | 7 |
 | `chateaux` | 7 | 3 | 3 |
-| `lacs-plages` | 7 | 7 | 1 |
+| `lacs-plages` | 15 | 15 | 1 |
 | `musees` | 7 | 5 | 2 |
 | `points-de-vue` | 15 | 15 | 1 |
 | `sentiers` | 7 | 7 | 1 |
@@ -46,6 +46,14 @@
 | `lacs-plages` | `lac-saint-andre-porte-de-savoie` | `nature` | `generique-lac.jpg` | — | json hero (local) |
 | `lacs-plages` | `plage-aiguebelette-le-lac` | `aquatique` | `generique-plage-lac-4.jpg` | — | json hero (local) |
 | `lacs-plages` | `plage-base-de-loisirs-du-sougey` | `aquatique` | `generique-plage-lac-3.jpg` | — | json hero (local) |
+| `lacs-plages` | `plage-de-chatillon-chindrieux` | `aquatique` | `generique-plage-lac-13.jpg` | — | json hero (local) |
+| `lacs-plages` | `plage-de-conjux-la-chatiere` | `aquatique` | `generique-plage-lac-14.jpg` | — | json hero (local) |
+| `lacs-plages` | `plage-de-la-pointe-de-l-ardre-brison-saint-innocent` | `aquatique` | `generique-plage-lac-9.jpg` | — | json hero (local) |
+| `lacs-plages` | `plage-des-mottets-viviers-du-lac` | `aquatique` | `generique-plage-lac-12.jpg` | — | json hero (local) |
+| `lacs-plages` | `plage-du-lac-de-saint-jean-de-chevelu` | `aquatique` | `generique-plage-lac-15.jpg` | — | json hero (local) |
+| `lacs-plages` | `plage-du-lido-tresserve` | `aquatique` | `generique-plage-lac-10.jpg` | — | json hero (local) |
+| `lacs-plages` | `plage-du-rowing-aix-les-bains` | `aquatique` | `generique-paddle-aviron-detail.jpg` | — | json hero (local) |
+| `lacs-plages` | `plage-memard-aix-les-bains` | `aquatique` | `generique-plage-lac-7.jpg` | — | json hero (local) |
 | `lacs-plages` | `plage-municipale-aix-les-bains-aqualac` | `aquatique` | `generique-plage-lac-1.jpg` | — | json hero (local) |
 | `lacs-plages` | `plage-municipale-le-bourget-du-lac` | `aquatique` | `generique-plage-lac-2.jpg` | — | json hero (local) |
 | `musees` | `espace-alu-saint-michel-de-maurienne` | `patrimoine` | `generique-musee-moderne.jpg` | — | json hero (local) |

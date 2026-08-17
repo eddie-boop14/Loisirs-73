@@ -4,7 +4,7 @@
   "publisher": "bleu-canard éditions",
   "website": "https://loisirs73.fr",
   "contact": "contact@loisirs73.fr",
-  "last_updated": "2026-08-16",
+  "last_updated": "2026-08-17",
   "discovery_files": {
     "llms_txt": "https://loisirs73.fr/llms.txt",
     "llms_full_txt": "https://loisirs73.fr/llms-full.txt",
@@ -95,10 +95,10 @@
   ],
   "canonical_language": "fr",
   "geographic_scope": "Savoie (73), France — ~50 km radius around Chambéry",
-  "content_count": 73,
+  "content_count": 81,
   "specification": {
     "llms_txt_version": "1.7.0",
-    "last_validated": "2026-08-16"
+    "last_validated": "2026-08-17"
   },
   "facet_indexes": {
     "url_pattern": "https://loisirs73.fr/content/facets/{facet}.md",

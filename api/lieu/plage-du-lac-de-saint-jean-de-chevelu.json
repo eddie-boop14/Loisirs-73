@@ -1,0 +1,50 @@
+{
+  "name": "Plage du lac de Saint-Jean-de-Chevelu",
+  "commune": "Saint-Jean-de-Chevelu",
+  "gps": {
+    "lat": 45.694599,
+    "lng": 5.824938
+  },
+  "type": "plage",
+  "hours": "12h-18h",
+  "prices": {
+    "from": 2.0,
+    "currency": "EUR",
+    "tiers": [
+      {
+        "name": null,
+        "price": "2 €",
+        "note": null
+      },
+      {
+        "name": null,
+        "price": "1 €",
+        "note": null
+      },
+      {
+        "name": null,
+        "price": "gratuit",
+        "note": null
+      },
+      {
+        "name": null,
+        "price": "18 €",
+        "note": null
+      },
+      {
+        "name": null,
+        "price": "8 €",
+        "note": null
+      }
+    ],
+    "is_free": false,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": "L'office de tourisme signale un parking à proximité, sans en donner le tarif.",
+  "transport": null,
+  "season": "du 27 juin au 27 août 2026, de 12h à 18h",
+  "winter": null,
+  "official_url": "https://explore.dentduchat.fr/fr/activites/plage-du-lac-de-st-jean-de-chevelu",
+  "last_verified": null
+}

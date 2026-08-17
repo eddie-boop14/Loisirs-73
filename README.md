@@ -2,75 +2,84 @@
 
 An independent leisure guide for **Savoie**, France — the second département built
 on the Loisirs engine. Sister site of [loisirs74.fr](https://loisirs74.fr)
-(Haute-Savoie, 434 places, 12 languages, ~6 100 static pages).
+(Haute-Savoie), and cross-linked with it both ways.
 
-🌐 loisirs73.fr — **not live yet.**
+🌐 **[loisirs73.fr](https://loisirs73.fr) — live.**
 
 ---
 
-## Status: foundation laid, no content
+## Status: launched and growing
 
 | Piece | State |
 |---|---|
-| Domain `loisirs73.fr` | bought, active until Aug 2027, **not pointed at Netlify yet** |
-| Netlify project | connected to this repo, serving the holding page |
-| `site.config.json` | ✅ written — the whole per-site identity |
-| Engine (`scripts/`) | ❌ not transplanted — see `docs/LAUNCH-PLAN.md` |
-| Fiches (`Json/`) | ❌ empty — 0 of a target ~80 to launch |
-| Ingest queue (`data/`) | ❌ one command away, see below |
-| Indexing | 🔒 blocked on purpose (`robots.txt` + `noindex`) until launch |
-
-Nothing here renders a page yet. `netlify.toml` has **no build command** on
-purpose: the repo root is published, which serves `index.html`, and that is all.
+| Site | ✅ live on Netlify, indexed, ~1 100 static pages |
+| Fiches (`Json/`) | ✅ **113 published lieux**, every one verified against official sources |
+| Languages | ✅ 6 — fr · en · de · it · es · nl, full coverage, zero fallback |
+| Category hubs | ✅ 10 — points de vue 15 · lacs 15 · télécabines 15 · cascades 12 · musées 12 · châteaux 12 · plages 12 · sentiers 12 · bases de loisirs · voies vertes |
+| Intent pages | ✅ 5 — où se baigner, cascades & gorges, quand il pleut, sorties famille, cols de Savoie |
+| Commune pages | ✅ one per commune with published places |
+| CI | ✅ `build-gate.yml` — the full 33-gate battery + byte-stable double build on every push |
+| Photos | 🚧 generic heroes on most fiches; the 30 cols/lifts carry real photos — see `reports/PHOTOS-WIKIMEDIA.md` for the fetch list |
 
 ---
 
-## The rule everything else will follow
+## The rule everything else follows
 
 Same law as the 74: **JSON is the source of truth.** Every page, hub, sitemap and
-machine surface is *derived* from `Json/<slug>.json` by the Python pipeline.
-Nothing in a rendered page is written by hand — a wrong comma is fixed at the
-source and re-rendered, never patched in the HTML.
+machine surface is *derived* from `Json/<slug>.json` by the Python pipeline
+(`scripts/build_all.py`). Nothing in a rendered page is written by hand — a wrong
+comma is fixed at the source and re-rendered, never patched in the HTML. Two
+consecutive builds must be byte-identical; CI checks it.
 
 And the honesty rule that makes the guide worth citing: if a fact cannot be
-verified against an official source, it stays `null` and is flagged. Never
-guessed, never inferred, never taken from a reseller. A missing opening time is
-a gap; a wrong one sends someone to a locked door.
+verified against an official source, it stays `null` and is flagged. **When two
+official sources contradict each other, the page quotes both instead of picking
+one** — supervision dates, lake surfaces, difficulty ratings, even a swimming
+ban one mairie tolerates and one tourist office forbids. Never guessed, never
+inferred, never taken from a reseller.
+
+Working rules learned the hard way, now house law:
+- **French official pages only** — the English twins of tourist-office fiches
+  run a year late or scramble their own figures.
+- Bathing-water quality is cited from the **department-level ARS listing** only;
+  per-site URLs return soft errors.
+- Proper names stay **frozen French** in every language — a German reader
+  searches « Plage du Sougey », not "Le Sougey beach".
 
 Tripadvisor, GetYourGuide, Visorando and blogs are not valid sources and never
 enter the corpus.
 
 ---
 
-## Build the ingest queue (first real command)
+## How content gets made
 
-`scripts/extract_dt_dept.py` downloads the daily DATAtourisme Auvergne-Rhône-Alpes
-export (~45 MB, licence ouverte) and keeps the Savoie POI that carry a
-leisure/heritage category:
+1. **Research** — parallel agents against official sources (offices de tourisme,
+   mairies, préfecture, ARS, EDF, fishing federation, national registers like
+   Mérimée and the DRAC Musée-de-France list), quotes captured verbatim, every
+   URL logged in the fiche's `research_log`.
+2. **Author** — FR + EN written by the editor; the four other locales come from
+   the **$0 machine-translation lane** (offline argos, frozen-noun masking,
+   sentence-splitting, digit-parity checks, English fallback on any flagged
+   segment) — no per-word translation billing.
+3. **Gate** — 33 gates: schema, vocabulary, duplicate/centroid, canonical,
+   phantom-slash, i18n-leak, hero integrity, winter rules, link integrity,
+   reachability, byte-stability… red blocks the deploy.
+4. **Ship** — Netlify redeploys from `main`; sitemap, hreflang, JSON-LD, the
+   API mirror (`api/`) and the AI discovery layer (`llms.txt`, per-lieu
+   markdown) all regenerate with the build.
 
-```bash
-python3 scripts/extract_dt_dept.py --dept 73
-# -> data/dt-ara-73-candidates.json   (~3 100 candidates, ~2 MB)
-```
-
-Expect roughly 3 100 rows. That is a queue of **candidates**, not fiches:
-nothing is published from it until it goes through Studio with verified facts
-and a hero photo.
-
-The filter (postcode prefix + `SportsAndLeisurePlace | CulturalSite | Tour |
-NaturalHeritage`) is the one that produced the 74's queue — reverse-engineered
-from that file and verified at 3012/3012, with a round-trip test that reproduces
-the committed 74 rows exactly. The script also works for any future département:
-`--dept 38`, `--dept 01`.
+`PROJECT-STATE.md` is regenerated on every build and is the machine-readable
+status of record.
 
 ---
 
-## What launch needs
+## For a new département
 
-Read `docs/LAUNCH-PLAN.md`. Short version: the engine transplant (blocked on the
-74's config phase 2), then ~80 fiches in FR + EN, ski-domain-first — because the
-Savoie data concentrates in the Trois Vallées, unlike the 74's lake-and-valley
-spread.
+`site.config.json` carries the whole per-site identity — name, domain, dept,
+sister-site block (count + top picks on the homepage card), hub roster
+(`data/hub-titles.json`). The engine is the same as the 74's; a new category is
+one roster line plus a hub shell. `scripts/extract_dt_dept.py --dept XX` builds
+the DATAtourisme candidate queue for any département.
 
 ---
 

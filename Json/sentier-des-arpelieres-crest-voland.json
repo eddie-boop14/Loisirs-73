@@ -1,0 +1,606 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-18",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "sentier",
+  "commune": "Crest-Voland",
+  "date_modified_human": "18 août 2026",
+  "date_published_human": "18 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-18",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-reserve-zone-humide-5.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Drei Schleifen zur Auswahl auf den Holzwegen des größten Säuremoosmoors der Alpen.",
+          "tag": "1,2 – 4,2 km",
+          "title": "Die Boardwalk Figur-of-Eight"
+        },
+        {
+          "description": "Öffentliche Führungen (€2), Nachtbesuche (€4), kostenlos unter 18 Jahren; Kinderaktivitäten kostenlos.",
+          "tag": "2 € – 4",
+          "title": "Geführte und nächtliche Besuche"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>Arpelières Pfad</strong>, bei Crest-Voland (1.536 m), kreuzt die <strong>Saisies-Beaufortain-Val d'Arly Moor regionales Naturschutzgebiet</strong> - \"das größte Säuremoos in den Alpen\". Seine <strong>Achtstellig</strong> Layout lässt die Wahl: eine 1,8 km lange Schleife, eine 1,2 km lange oder der gesamte Weg, 4,2 km. Dauer und Anstieg werden nicht auf dem Blatt veröffentlicht — Wir erfinden sie nicht.</p><p>Der zerbrechliche Boden des Moors legt die Regeln fest, so wie sie stehen: Sie gehen \"auf hölzernen Entenbrettbrücken, also Vorsicht bei nassem Wetter, rutschigem Boden\" und \"verlasse vor allem nicht den Weg\" - Die Holzpfosten, die den Weg weisen, \"die Kinder werden es lieben\". In der Reserve müssen Hunde an der Leine gehalten werden; Der Trail ist \"nicht für Kinderwagen geeignet\".</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Frei (selbstgeführt)",
+        "best_season": "1. Juni – 30. September",
+        "commune": "Crest-Voland",
+        "dogs": "Leine obligatorisch (Reserve)",
+        "parking": "Kostenlos (Nant Rouge, Monument, La Palette)",
+        "stroller": "Nicht geeignet",
+        "type": "Themenpfad",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "Der Weg durchquert ein regionales Naturschutzgebiet mit zerbrechlichem Torfgrund: \"Verlasse vor allem nicht den Weg\" - Die Entenbretter und Holzpfosten existieren, um das Moor genauso zu schützen wie die Besucher.",
+          "q": "Warum musst du auf dem Weg bleiben?"
+        },
+        {
+          "a": "Die Zahl-of-eight bietet drei Optionen: die kleine 1,2 km-Schleife, die größere 1,8 km-Schleife oder die gesamte Strecke bei 4,2 km. Dauer und Klettern sind unveröffentlicht.",
+          "q": "Welche Schleife sollten Sie wählen?"
+        },
+        {
+          "a": "Nein, die selbstgeführte Route ist vom 1. Juni bis 30. September kostenlos. Geführte Besuche kosten 2 € (4 € in der Nacht), kostenlos unter 18 Jahren.",
+          "q": "Hat der Trail Gebühren?"
+        },
+        {
+          "a": "Hunde ja, aber \"Verpflichtung\" an der Leine (Naturschutzgebiet). Kinderwagen Nr.: Das Blatt sagt \"nicht geeignet für Kinderwagen\" trotz der Promenade.",
+          "q": "Sind Hunde und Kinderwagen erlaubt?"
+        }
+      ],
+      "hero": {
+        "badge": "Torfmoor · Boardwalks",
+        "lead": "Auf den Promenaden des größten Säuremoosmoors der Alpen, einer Zahl von acht, wo Sie Ihre Schleife auswählen - 1,2, 1,8 oder 4,2 km — Und wo das Abirren vom Pfad das einzige ist, was du nicht tun darfst."
+      },
+      "hero_alt": "Boardwalk durch das Saisies-Moor im Morgengrauen, Beaufortain",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Drei Trailheads: the Nant Rouge on the D71A (Saisies road), the Monument car park at the Col des Saisies, or the La Palette forest road from Le Cernix (mandatory car park then 20 min on foot).",
+        "public_transport": null
+      },
+      "meta_description": "Der Arpelières Trail bei Crest-Voland: eine Achterpromenade durch das größte Säuremoor der Alpen. Kostenlos 1. Juni bis 30. September, obligatorische Leinen, kein Abweichen vom Weg.",
+      "meta_title": "Sentier des Arpelières · Saisies mog, Crest-Voland",
+      "name": "Sentier des Arpelières",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Layout",
+          "v": "Figure-of-eight: Schleifen von 1,2 km, 1,8 km oder 4,2 km in allen · alt. 1,536 m"
+        },
+        {
+          "k": "Saison",
+          "v": "1. Juni bis 30. September, jeden Tag, selbstgeführt und frei"
+        },
+        {
+          "k": "Sicherheit",
+          "v": "Entenbretter bei Nässe rutschig; Den Weg nicht verlassen (Reserve)"
+        },
+        {
+          "k": "Hunde/Kinderwagen",
+          "v": "Hunde an der obligatorischen Leine · nicht Kinderwagen geeignet"
+        },
+        {
+          "k": "Vor Ort",
+          "v": "Kostenlose Parkplätze, Trockentoiletten, Picknickplatz · Karte und GPX online, Booklet im Maison des tourbières"
+        },
+        {
+          "k": "Kontakt",
+          "v": "Crest-Voland Cohennoz Tourismusbüro +33 4 79 31 62 57 · Les Saisies +33 4 79 38 90 30"
+        }
+      ],
+      "schema_amenities": [
+        "Boardwalks",
+        "Trockentoiletten",
+        "Picknickbereich"
+      ],
+      "when_to_visit": "<p><strong>vom 1. Juni bis 30. September</strong>Frei und kostenlos jeden Tag. Geführte Besuche werden angeboten (2 € pro Person, Nachtbesuche 4 €, kostenlos unter 18 Jahren, Kinderaktivitäten kostenlos). Drei Trailheads: der Nant Rouge auf der D71A (Saisies-Straße), der Parkplatz Monument am Col des Saisies oder die Forststraße La Palette — Pflichtparkplatz dann 20 Minuten zu Fuß. Kostenlose Parkplätze, Trockentoiletten, Picknickplatz; Karte und GPX online, Booklet im Maison des tourbières.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "Three loops to choose from on the wooden walkways of the largest acid moss bog in the Alps.",
+          "tag": "1.2 – 4.2 km",
+          "title": "The boardwalk figure-of-eight"
+        },
+        {
+          "description": "Public guided visits (€2), night visits (€4), free under 18; children's activities free.",
+          "tag": "€2 – 4",
+          "title": "Guided and night visits"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Arpelières trail</strong>, at Crest-Voland (1,536 m), crosses the <strong>Saisies-Beaufortain-Val d'Arly bog regional nature reserve</strong> — 'the largest acid moss bog in the Alps'. Its <strong>figure-of-eight</strong> layout leaves the choice: a 1.8 km loop, a 1.2 km one, or the whole trail, 4.2 km. Duration and climb are not published on the sheet — we do not invent them.</p><p>The bog's fragile ground sets the rules, written as they stand: you walk 'on wooden duckboard footbridges, so beware in wet weather, slippery ground', and 'above all do not leave the path' — the wooden posts guiding the way, 'the children will love it'. In the reserve, dogs 'MUST' be kept on a leash; the trail is 'not suitable for strollers'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free (self-guided)",
+        "best_season": "1 June – 30 September",
+        "commune": "Crest-Voland",
+        "dogs": "Leash mandatory (reserve)",
+        "parking": "Free (Nant Rouge, Monument, La Palette)",
+        "stroller": "Not suitable",
+        "type": "Themed trail",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "The trail crosses a regional nature reserve with fragile peat ground: 'above all do not leave the path' — the duckboards and wooden posts exist to protect the bog as much as the visitors.",
+          "q": "Why must you stay on the path?"
+        },
+        {
+          "a": "The figure-of-eight offers three options: the small 1.2 km loop, the larger 1.8 km one, or the whole trail at 4.2 km. Duration and climb are unpublished.",
+          "q": "Which loop should you pick?"
+        },
+        {
+          "a": "No, the self-guided route is free from 1 June to 30 September. Guided visits cost €2 (€4 at night), free under 18.",
+          "q": "Does the trail charge?"
+        },
+        {
+          "a": "Dogs yes, but 'MANDATORILY' on a leash (nature reserve). Strollers no: the sheet states 'not suitable for strollers' despite the boardwalks.",
+          "q": "Are dogs and strollers allowed?"
+        }
+      ],
+      "hero": {
+        "badge": "Peat bog · Boardwalks",
+        "lead": "On the boardwalks of the largest acid moss bog in the Alps, a figure-of-eight where you pick your loop — 1.2, 1.8 or 4.2 km — and where straying off the path is the one thing you must not do."
+      },
+      "hero_alt": "Boardwalk through the Saisies bog at dawn, Beaufortain",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Three trailheads: the Nant Rouge on the D71A (Saisies road), the Monument car park at the Col des Saisies, or the La Palette forest road from Le Cernix (mandatory car park then 20 min on foot).",
+        "public_transport": null
+      },
+      "meta_description": "The Arpelières trail at Crest-Voland: a boardwalk figure-of-eight through the largest acid moss bog in the Alps. Free 1 June to 30 September, mandatory leashes, no straying off the path.",
+      "meta_title": "Sentier des Arpelières · Saisies bog, Crest-Voland",
+      "name": "Sentier des Arpelières",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Layout",
+          "v": "Figure-of-eight: loops of 1.2 km, 1.8 km or 4.2 km in all · alt. 1,536 m"
+        },
+        {
+          "k": "Season",
+          "v": "1 June to 30 September, every day, self-guided and free"
+        },
+        {
+          "k": "Safety",
+          "v": "Duckboards slippery in wet weather; do not leave the path (reserve)"
+        },
+        {
+          "k": "Dogs / strollers",
+          "v": "Dogs on mandatory leash · not stroller-suitable"
+        },
+        {
+          "k": "On site",
+          "v": "Free car parks, dry toilets, picnic area · map and GPX online, booklet at the Maison des tourbières"
+        },
+        {
+          "k": "Contact",
+          "v": "Crest-Voland Cohennoz tourist office +33 4 79 31 62 57 · Les Saisies +33 4 79 38 90 30"
+        }
+      ],
+      "schema_amenities": [
+        "Boardwalks",
+        "Dry toilets",
+        "Picnic area"
+      ],
+      "when_to_visit": "<p><strong>From 1 June to 30 September</strong>, freely and free of charge every day. Guided visits are offered (€2 per person, night visits €4, free under 18, children's activities free). Three trailheads: the Nant Rouge on the D71A (Saisies road), the Monument car park at the Col des Saisies, or the La Palette forest road — mandatory car park then 20 minutes on foot. Free parking, dry toilets, picnic area; map and GPX online, booklet at the Maison des tourbières.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "Tres bucles para elegir en las pasarelas de madera del más grande ácido moss bog en los Alpes.",
+          "tag": "1.2 – 4.2 km",
+          "title": "La pizarra de la derecha"
+        },
+        {
+          "description": "Visitas guiadas públicas (€2), visitas nocturnas (€4), gratis menores de 18 años; actividades infantiles libres.",
+          "tag": "€2 – 4",
+          "title": "Visitas guiadas y nocturnas"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>Ruta Arpelières</strong>, en Crest-Voland (1,536 m), cruza el <strong>Reserva regional de naturaleza Saisies-Beaufortain-Val d'Arly</strong> — 'el más grande ácido moss bog en los Alpes'. Es... <strong>Gráfico de ocho</strong> el diseño deja la opción: un bucle de 1,8 km, uno de 1,2 km, o todo el sendero, 4.2 km. La duración y la escalada no se publican en la hoja — no los inventamos.</p><p>El terreno frágil del bog establece las reglas, escritas como están: caminas 'en las pasarelas de madera de pizarra, así que ten cuidado con el tiempo húmedo, suelo resbaladizo', y 'ambos todos no salen del camino' — los postes de madera que guían el camino, 'los niños les encantará'. En la reserva, los perros 'MUST' se mantienen en una correa; el sendero no es adecuado para los paseadores.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Libre (autoguiado)",
+        "best_season": "1 de junio – 30 de septiembre",
+        "commune": "Crest-Voland",
+        "dogs": "Correa obligatoria (reserve)",
+        "parking": "Gratis (Nant Rouge, Monumento, La Palette)",
+        "stroller": "No es adecuado",
+        "type": "Ruta temática",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "El sendero cruza una reserva regional de naturaleza con terreno frágil de turba: 'Ambove all do not leave the path' — las tablas y los postes de madera existen para proteger el bog tanto como los visitantes.",
+          "q": "¿Por qué debes quedarte en el camino?"
+        },
+        {
+          "a": "La cifra de ocho ofrece tres opciones: el pequeño círculo de 1,2 km, el más grande 1,8 km uno, o todo el sendero a 4.2 km. La duración y la escalada son inéditas.",
+          "q": "¿Qué bucle debería elegir?"
+        },
+        {
+          "a": "No, la ruta autoguiada está libre del 1 de junio al 30 de septiembre. Visitas guiadas cuestan €2 (€4 por noche), gratis menos de 18.",
+          "q": "¿El rastro cobra?"
+        },
+        {
+          "a": "Los perros sí, pero 'MANDATORILY' en una correa (reserva de la naturaleza). Strollers no: la hoja declara 'no adecuado para los caminantes' a pesar de los paseos.",
+          "q": "¿Se permiten perros y paseadores?"
+        }
+      ],
+      "hero": {
+        "badge": "Peat bog · Boardwalks",
+        "lead": "En las pasarelas del más grande trapo de moss ácido en los Alpes, una figura-de-ocho donde usted elige su bucle — 1.2, 1.8 o 4.2 km — y donde alejarse del camino es lo único que no debes hacer."
+      },
+      "hero_alt": "Paseando por el bog Saisies al amanecer, Beaufortain",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Tres cabezas de ruta: the Nant Rouge on the D71A (Saisies road), the Monument car park at the Col des Saisies, or the La Palette forest road from Le Cernix (mandatory car park then 20 min on foot).",
+        "public_transport": null
+      },
+      "meta_description": "El sendero Arpelières en Crest-Voland: una figura de pizarra de la vista a través del más grande ácido moss bog en los Alpes. Libres del 1 de junio al 30 de septiembre, correas obligatorias, sin alejarse del camino.",
+      "meta_title": "Sentier des Arpelières · Bog Saisies, Crest-Voland",
+      "name": "Sentier des Arpelières",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "A ti",
+          "v": "Gráfico de la vista: bucles de 1,2 km, 1,8 km o 4.2 km en todos · alt. 1,536 m"
+        },
+        {
+          "k": "Estación",
+          "v": "1o de junio a 30 de septiembre, todos los días, autoguiados y libres"
+        },
+        {
+          "k": "Seguridad",
+          "v": "Patillos resbaladizos en clima húmedo; no dejar el camino (reserve)"
+        },
+        {
+          "k": "Perros / paseos",
+          "v": "Perros en correa obligatoria · no apto para cochecitos"
+        },
+        {
+          "k": "En el sitio",
+          "v": "Aparcamientos gratis, aseos secos, área de picnic · mapa y GPX en línea, folleto en el Maison des tourbières"
+        },
+        {
+          "k": "Contacto",
+          "v": "Crest-Voland Cohennoz oficina de turismo +33 4 79 31 62 57 · Les Saisies +33 4 79 38 90 30"
+        }
+      ],
+      "schema_amenities": [
+        "Boardwalks",
+        "Inodoros secos",
+        "Zona de picnic"
+      ],
+      "when_to_visit": "<p><strong>Del 1 de junio al 30 de septiembre</strong>, libre y gratuito todos los días. Se ofrecen visitas guiadas (€2 por persona, visitas nocturnas €4, gratis menos de 18, actividades infantiles gratuitas). Tres cabezas de ruta: el Nant Rouge en la carretera D71A, el aparcamiento Monumento en el Col des Saisies, o la carretera forestal La Palette, aparcamiento obligatorio a 20 minutos a pie. Aparcamiento gratuito, aseos secos, zona de picnic; mapa y GPX en línea, booklet en el Maison des tourbières.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Trois boucles au choix sur les passerelles de bois de la plus grande tourbière acide à mousse des Alpes.",
+          "tag": "1,2 – 4,2 km",
+          "title": "Le « 8 » des caillebotis"
+        },
+        {
+          "description": "Visites guidées grand public (2 €), nocturnes (4 €), gratuites pour les moins de 18 ans ; animations enfants gratuites.",
+          "tag": "2 – 4 €",
+          "title": "Visites guidées et nocturnes"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Le <strong>sentier des Arpelières</strong>, à Crest-Voland (1 536 m), parcourt la <strong>Réserve Naturelle Régionale de la tourbière des Saisies-Beaufortain-Val d'Arly</strong> — « la plus grande tourbière acide à mousse des Alpes ». Son tracé en <strong>« 8 »</strong> laisse le choix : une boucle de 1,8 km, une de 1,2 km, ou la totalité, 4,2 km. La durée et le dénivelé ne sont pas publiés par la fiche — nous ne les inventons pas.</p><p>Le sol fragile de la tourbière impose ses règles, écrites telles quelles : on chemine « sur des passerelles de bois de type caillebotis donc attention par temps humide, terrain glissant », et « il ne faudra surtout pas sortir du chemin » — les plots de bois qui guident le parcours, « les enfants vont adorer ». Dans la réserve, les chiens doivent « OBLIGATOIREMENT » être tenus en laisse ; le sentier est « non adapté aux poussettes ».</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuit (parcours libre)",
+        "best_season": "1er juin – 30 septembre",
+        "commune": "Crest-Voland",
+        "dogs": "En laisse obligatoire (réserve)",
+        "parking": "Gratuit (Nant Rouge, Monument, la Palette)",
+        "stroller": "Non adapté",
+        "type": "Sentier thématique",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "Le sentier traverse une réserve naturelle régionale au sol de tourbe fragile : « il ne faudra surtout pas sortir du chemin » — les caillebotis et plots de bois existent pour protéger la tourbière autant que les visiteurs.",
+          "q": "Pourquoi ne pas sortir du chemin ?"
+        },
+        {
+          "a": "Le parcours en « 8 » offre trois options : la petite boucle de 1,2 km, la grande de 1,8 km, ou la totalité du sentier, 4,2 km. Durée et dénivelé ne sont pas publiés.",
+          "q": "Quelle boucle choisir ?"
+        },
+        {
+          "a": "Non, le parcours libre est gratuit du 1er juin au 30 septembre. Les visites guidées coûtent 2 € (4 € en nocturne), gratuites pour les moins de 18 ans.",
+          "q": "Le sentier est-il payant ?"
+        },
+        {
+          "a": "Les chiens oui, mais « OBLIGATOIREMENT » tenus en laisse (réserve naturelle). Les poussettes non : la fiche indique « non adapté aux poussettes » malgré les caillebotis.",
+          "q": "Les chiens et poussettes sont-ils admis ?"
+        }
+      ],
+      "hero": {
+        "badge": "Tourbière · Caillebotis",
+        "lead": "Sur les caillebotis de la plus grande tourbière acide à mousse des Alpes, un parcours en « 8 » où l'on choisit sa boucle — 1,2, 1,8 ou 4,2 km — et où l'on ne sort surtout pas du chemin."
+      },
+      "hero_alt": "Caillebotis dans la tourbière des Saisies au petit matin, Beaufortain",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Trois départs : le Nant Rouge sur la D71A (route des Saisies), le parking du Monument au col des Saisies, ou la route forestière de la Palette depuis Le Cernix (parking obligatoire puis 20 min à pied).",
+        "public_transport": null
+      },
+      "meta_description": "Le sentier des Arpelières à Crest-Voland : un « 8 » sur caillebotis dans la plus grande tourbière acide à mousse des Alpes. Gratuit du 1er juin au 30 septembre, chiens en laisse obligatoire, hors chemin interdit.",
+      "meta_title": "Sentier des Arpelières · tourbière des Saisies, Crest-Voland",
+      "name": "Sentier des Arpelières",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Parcours",
+          "v": "En « 8 » : boucles de 1,2 km, 1,8 km ou 4,2 km au total · alt. 1 536 m"
+        },
+        {
+          "k": "Saison",
+          "v": "Du 1er juin au 30 septembre, tous les jours, parcours libre gratuit"
+        },
+        {
+          "k": "Sécurité",
+          "v": "Caillebotis glissants par temps humide ; ne pas sortir du chemin (réserve)"
+        },
+        {
+          "k": "Chiens / poussettes",
+          "v": "Chiens en laisse obligatoire · non adapté aux poussettes"
+        },
+        {
+          "k": "Sur place",
+          "v": "Parkings gratuits, toilettes sèches, pique-nique · plan et GPX en ligne, livret à la Maison des tourbières"
+        },
+        {
+          "k": "Contact",
+          "v": "OT Crest-Voland Cohennoz 04 79 31 62 57 · OT Les Saisies 04 79 38 90 30"
+        }
+      ],
+      "schema_amenities": [
+        "Caillebotis",
+        "Toilettes sèches",
+        "Aire de pique-nique"
+      ],
+      "when_to_visit": "<p><strong>Du 1er juin au 30 septembre</strong>, en parcours libre gratuit tous les jours. Des visites guidées sont proposées (2 € par personne, nocturnes 4 €, gratuit pour les moins de 18 ans, animations enfants gratuites). Trois départs possibles : le Nant Rouge sur la D71A (route des Saisies), le parking du Monument au col des Saisies, ou la route forestière de la Palette — parking obligatoire puis 20 minutes à pied. Parking gratuit, toilettes sèches, aire de pique-nique ; plan et trace GPX en ligne, livret à la Maison des tourbières.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Tre cappi da scegliere sulle passerelle in legno del più grande moss di acido bog nelle Alpi.",
+          "tag": "1.2 – 4,2 km",
+          "title": "La figura della passerella"
+        },
+        {
+          "description": "Visite guidate pubbliche (€2), visite notturne (€4), gratuite sotto i 18 anni; attività per bambini gratis.",
+          "tag": "€2 – 4",
+          "title": "Visite guidate e notturne"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Arpelières sentiero</strong>, a Crest-Voland (1,536 m), attraversa il <strong>Saisies-Beaufortain-Val d'Arly riserva naturale regionale</strong> — «la più grande tazza acida nelle Alpi». La <strong>figura dell'otto</strong> il layout lascia la scelta: un anello di 1,8 km, uno di 1,2 km, o l'intero sentiero, 4,2 km. Durata e salita non sono pubblicati sul foglio — noi non li inventiamo.</p><p>Il terreno fragile del bog definisce le regole, scritte come stanno: si cammina 'su passerelle di anatra di legno, quindi attenzione in tempo umido, terra scivolosa', e 'sopra tutti non lasciano il sentiero' — i post in legno che guidano la strada, 'i bambini lo ameranno'. Nella riserva, i cani 'MUST' essere tenuti al guinzaglio; il sentiero non è adatto per i passeggini.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis (autoguida)",
+        "best_season": "1 giugno – 30 settembre",
+        "commune": "Crest-Voland",
+        "dogs": "guinzaglio obbligatorio (conserva)",
+        "parking": "Gratis (Nant Rouge, Monumento, La Palette)",
+        "stroller": "Non adatto",
+        "type": "Sentiero tematico",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "Il sentiero attraversa una riserva naturale regionale con fragile torba: «soprattutto non lasciano il sentiero» — i cartoni e i posti in legno esistono per proteggere il bog tanto quanto i visitatori.",
+          "q": "Perche' devi rimanere sul sentiero?"
+        },
+        {
+          "a": "La figura dell'altezza offre tre opzioni: il piccolo anello di 1,2 km, il più grande 1,8 km uno, o l'intero sentiero a 4,2 km. Durata e salita sono inediti.",
+          "q": "Quale anello dovresti scegliere?"
+        },
+        {
+          "a": "No, il percorso autoguidato è gratuito dal 1 giugno al 30 settembre. Visite guidate costano €2 (€4 di notte), gratuito sotto i 18 anni.",
+          "q": "Il sentiero costa?"
+        },
+        {
+          "a": "Cani sì, ma 'MANDATORILY' al guinzaglio (riserva della natura). Passeggini no: il foglio afferma 'non adatto per i passeggini' nonostante le passerelle.",
+          "q": "Sono ammessi cani e passeggini?"
+        }
+      ],
+      "hero": {
+        "badge": "Pesca · Passeggiate",
+        "lead": "Sulle passerelle del più grande moss di acido bog nelle Alpi, una figura di otto dove si sceglie il vostro loop — 1.2, 1.8 o 4,2 km — e dove allontanarsi dal sentiero è l'unica cosa che non dovete fare."
+      },
+      "hero_alt": "Passeggiare attraverso il bog Saisies all'alba, Beaufortain",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Tre piste: the Nant Rouge on the D71A (Saisies road), the Monument car park at the Col des Saisies, or the La Palette forest road from Le Cernix (mandatory car park then 20 min on foot).",
+        "public_transport": null
+      },
+      "meta_description": "Il sentiero Arpelières a Crest-Voland: una figura di marciapiede di otto attraverso il più grande moss di acido bog nelle Alpi. Gratis dal 1 giugno al 30 settembre, guinzagli obbligatori, senza allontanarsi dal sentiero.",
+      "meta_title": "Sentier des Arpelières · Saisies bog, Crest-Voland",
+      "name": "Sentier des Arpelières",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Telaio",
+          "v": "Figura dell'altezza: loop di 1,2 km, 1,8 km o 4,2 km in tutto · alt. 1,536 m"
+        },
+        {
+          "k": "Stagione",
+          "v": "dal 1 giugno al 30 settembre, ogni giorno, autoguida e gratuita"
+        },
+        {
+          "k": "Sicurezza",
+          "v": "Lavagne scorrevoli in tempo umido; non lasciare il sentiero (conservare)"
+        },
+        {
+          "k": "Cani / passeggini",
+          "v": "Cani al guinzaglio obbligatorio · non passeggino adatto"
+        },
+        {
+          "k": "Sul sito",
+          "v": "Parcheggio gratuito, servizi igienici asciutti, area picnic · mappa e GPX online, opuscolo al Maison des tourbières"
+        },
+        {
+          "k": "Contatto",
+          "v": "Crest-Voland Cohennoz ufficio turistico +33 4 79 31 62 57 · Les Saisies +33 4 79 38 90 30"
+        }
+      ],
+      "schema_amenities": [
+        "Passeggiate",
+        "Bagni secchi",
+        "Area Picnic"
+      ],
+      "when_to_visit": "<p><strong>Dal 1 giugno al 30 settembre</strong>, liberamente e gratuitamente ogni giorno. Visite guidate sono disponibili (€2 a persona, visite notturne €4, gratuito sotto i 18 anni, attività per bambini gratuite). Tre piste: la Nant Rouge sulla D71A (strada Saisies), il parcheggio Monument al Col des Saisies, o la strada forestale La Palette — parcheggio obbligatorio poi 20 minuti a piedi. Parcheggio gratuito, servizi igienici asciutti, area picnic; mappa e GPX online, opuscolo al Maison des tourbières.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Drie lussen om uit te kiezen op de houten looppaden van het grootste zure moeras in de Alpen.",
+          "tag": "1.2 4,2 km",
+          "title": "De boulevard figuur-van-acht"
+        },
+        {
+          "description": "Openbare bezoeken (€2), nachtbezoeken (€4), gratis onder de 18 jaar; Kinderactiviteiten gratis.",
+          "tag": "€2 – 4",
+          "title": "Begeleide en nachtelijke bezoeken"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>Arpelières-spoor</strong>, bij Crest-Voland (1,536 m), <strong>Saisies-Beaufortain-Val d'Arly moeras regionaal natuurgebied</strong> Het grootste zure moeras in de Alpen. Zijn <strong>figure-of-eight</strong> layout laat de keuze: een lus van 1,8 km, een 1,2 km, of de hele route, 4,2 km. Duur en klim worden niet gepubliceerd op het vel We verzinnen ze niet.</p><p>De kwetsbare grond van het moeras bepaalt de regels, geschreven als ze staan: je loopt 'op houten eendboard voetbruggen, dus pas op bij nat weer, gladde grond', en 'boven alles verlaat het pad niet' de houten palen die de weg leiden, 'de kinderen zullen ervan houden'. In het reservaat worden honden 'MUST' aangelijnd; het pad is 'niet geschikt voor wandelaars'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Vrij (zelfgeleid)",
+        "best_season": "1 juni 30 september",
+        "commune": "Crest-Voland",
+        "dogs": "Verplichte riem (reserve)",
+        "parking": "Vrij (Nant Rouge, Monument, La Palette)",
+        "stroller": "Niet geschikt",
+        "type": "Themaspoor",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "Het pad passeert een regionaal natuurgebied met kwetsbare veengrond: 'Verlaat boven alles het pad niet' de eendenplanken en houten palen bestaan om het moeras te beschermen net als de bezoekers.",
+          "q": "Waarom moet je op het pad blijven?"
+        },
+        {
+          "a": "Het cijfer van acht biedt drie opties: de kleine 1,2 km lus, de grotere 1,8 km één, of de hele route op 4,2 km. Duur en klim zijn niet gepubliceerd.",
+          "q": "Welke lus moet je kiezen?"
+        },
+        {
+          "a": "Nee, de zelfgeleide route is vrij van 1 juni tot 30 september. Rondleidingen kosten €2 (€4 's nachts), gratis onder de 18.",
+          "q": "Is het spoor geladen?"
+        },
+        {
+          "a": "Honden ja, maar 'MANDATORILY' aan een riem (natuurreservaat). Rollers nr.: Op het blad staat 'niet geschikt voor kinderwagens' ondanks de boardwalks.",
+          "q": "Zijn honden en kinderwagens toegestaan?"
+        }
+      ],
+      "hero": {
+        "badge": "Peat veen · Boardwalks",
+        "lead": "Op de promenade van het grootste zure moeras moeras in de Alpen, een cijfer-van-acht waar u uw lus te kiezen  1,2, 1,8 of 4,2 km En waar je van het pad afdwaalt is het enige wat je niet moet doen."
+      },
+      "hero_alt": "Boardwalk door de Saisies moeras bij dageraad, Beaufortain",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Drie sporen: the Nant Rouge on the D71A (Saisies road), the Monument car park at the Col des Saisies, or the La Palette forest road from Le Cernix (mandatory car park then 20 min on foot).",
+        "public_transport": null
+      },
+      "meta_description": "De Arpelières trail op Crest-Voland: een boardwalk figuur-van-acht door de grootste zure mos moeras in de Alpen. Vrij van 1 juni tot 30 september, verplichte riemen, geen afdwaling van het pad.",
+      "meta_title": "Sentier des Arpelières · Saisies bug, Crest-Voland",
+      "name": "Sentier des Arpelières",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Indeling",
+          "v": "Figure-of-eight: loopbanden van 1,2 km, 1,8 km of 4,2 km in totaal · alt. 1,536 m"
+        },
+        {
+          "k": "Seizoen",
+          "v": "1 juni t/m 30 september, elke dag zelfgeleid en gratis"
+        },
+        {
+          "k": "Veiligheid",
+          "v": "eendenplanken glad bij nat weer; het pad niet verlaten (reserveren)"
+        },
+        {
+          "k": "Honden / kinderwagens",
+          "v": "Honden met verplichte riem · niet kinderwagen-geschikt"
+        },
+        {
+          "k": "Ter plaatse",
+          "v": "Gratis parkeerplaatsen, droge toiletten, picknickplaats · kaart en GPX online, boekje op de Maison des tourbières"
+        },
+        {
+          "k": "Contactpersoon",
+          "v": "Crest-Voland Cohennoz VVV-kantoor +33 4 79 31 62 57 · Les Saisies +33 4 79 38 90 30"
+        }
+      ],
+      "schema_amenities": [
+        "Boardwalks",
+        "Droge toiletten",
+        "Picknickgebied"
+      ],
+      "when_to_visit": "<p><strong>1 juni t/m 30 september</strong>, vrij en gratis elke dag. Rondleidingen worden aangeboden (€2 per persoon, nachtbezoeken €4, gratis onder de 18 jaar, kinderactiviteiten gratis). Drie sporen: de Nant Rouge op de D71A (Saisies weg), de Monument parkeerplaats op de Col des Saisies, of de La Palette bosweg verplichte parkeerplaats dan 20 minuten te voet. Gratis parkeren, droge toiletten, picknickplaats; kaart en GPX online, boekje op de Maison des tourbières.</p>"
+    }
+  },
+  "latitude": 45.772,
+  "longitude": 6.5273,
+  "official_site_url": "https://www.lessaisies.com/sentier-des-arpelieres-crest-voland.html",
+  "partners": [],
+  "postal_code": "73590",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-18, FR pages only (OT Les Saisies / Crest-Voland Cohennoz). Sentier thématique en « 8 » dans la Réserve Naturelle Régionale de la tourbière des Saisies-Beaufortain-Val d'Arly — « la plus grande tourbière acide à mousse des Alpes ». Boucles de 1,8 km, 1,2 km ou 4,2 km au total ; alt. 1 536 m ; durée et dénivelé non publiés. Du 01/06 au 30/09, parcours libre gratuit ; visites guidées 2 € (nocturnes 4 €, gratuit -18 ans). Caillebotis : « attention par temps humide, terrain glissant » ; « il ne faudra surtout pas sortir du chemin ». Chiens « OBLIGATOIREMENT » en laisse (réserve naturelle). « Non adapté aux poussettes ». Départs : Nant Rouge (D71A), parking du Monument (col des Saisies), route forestière de la Palette (+20 min à pied). Parking gratuit, toilettes sèches, pique-nique ; plan + GPX en ligne ; livret à la Maison des tourbières.",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "sentier-des-arpelieres-crest-voland",
+  "sources": [
+    "https://www.lessaisies.com/sentier-des-arpelieres-crest-voland.html",
+    "https://www.lessaisies.com/reserve-naturelle-regionale-de-la-tourbiere-des-saisies-les-saisies.html"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "ACCES_PMR_UNVERIFIED — malgré les caillebotis, aucun statut fauteuil roulant n'est publié ; « non adapté aux poussettes » est en revanche explicite."
+  ]
+}

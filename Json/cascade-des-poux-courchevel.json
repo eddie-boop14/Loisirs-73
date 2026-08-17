@@ -1,0 +1,557 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-18",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "cascade",
+  "commune": "Courchevel",
+  "date_modified_human": "18 août 2026",
+  "date_published_human": "18 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-18",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-cascade.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "2,7 km zurück durch einen Wald von \"abwechslungsreichen, seltenen und geschützten\" Arten, zu den Pools des Wasserfalls.",
+          "tag": "1 h",
+          "title": "Der botanische Weg"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>Cascade des Poux</strong> vom Rosièresee (Courchevel Moriond, Avalstal) aus über die <strong>Botanischer Pfad</strong>: über <strong>1 h und 2,7 km Rückkehr</strong>, leicht, rund hundert Meter Aufstieg, bis zu 1.645 m. In diesem leuchtenden Wald ist die Nähe des Wassers ruhig. Entdecke dabei abwechslungsreiche, seltene und geschützte Arten, schreibt Courchevel Tourisme. Drei große Pools bilden den Wasserfall.</p><p>Die Website ist <strong>frei</strong>, geöffnet \"vom 1. Mai bis 31. Oktober\" bei schönem Wetter, und Tiere werden akzeptiert. Die offizielle Warnung verdient es, so wie sie ist, wiederholt zu werden: <strong>\"Nicht bei starken Regenfällen aufbrechen\"</strong>Da das Parken in La Rosière \"manchmal kompliziert\" ist, empfiehlt es sich, auf dem überdachten Parkplatz Cimes Blanches (im Sommer kostenlos) in Courchevel Moriond zu parken und den Shuttle zum Eingang des Geländes zu nehmen.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "frei",
+        "best_season": "1. Mai – 31. Oktober",
+        "commune": "Courchevel",
+        "dogs": "Akzeptiert",
+        "parking": "Cimes Blanches beraten + Shuttle",
+        "stroller": null,
+        "type": "Wasserfall",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "Etwa 1 h für 2,7 km Rückkehr vom Parkplatz Rosière See, leicht, rund hundert Meter Aufstieg (offizielles Courchevel Tourismusblatt).",
+          "q": "Wie lang ist der Spaziergang?"
+        },
+        {
+          "a": "Parken in La Rosière ist \"manchmal kompliziert\": Die offizielle Empfehlung ist der überdachte Cimes Blanches-Parkplatz (im Sommer kostenlos) in Courchevel Moriond, dann der Shuttle zum Geländeeingang.",
+          "q": "Wo parken Sie?"
+        },
+        {
+          "a": "Die Warnung des offiziellen Blattes: \"Gehen Sie nicht bei starkem Regen.\" Die Eröffnung wird bei schönem Wetter angekündigt.",
+          "q": "Besteht Gefahr?"
+        },
+        {
+          "a": "Ja, 'angenommene Tiere' nach dem offiziellen Blatt — Das Gelände liegt außerhalb des Nationalparks Vanoise.",
+          "q": "Sind Hunde erlaubt?"
+        }
+      ],
+      "hero": {
+        "badge": "Wasserfall · Botanischer Pfad",
+        "lead": "Vom Rosière-See führt ein einstündiger botanischer Weg durch den leuchtenden Wald zu den Pools des Poux-Wasserfalls — frei, markiert und bei starkem Regen zu vermeiden, wie das Blatt selbst sagt."
+      },
+      "hero_alt": "Poux Wasserfall und seine Pools, Avals Valley, Courchevel",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "In Courchevel Moriond, Rosière Straße (oder Cimes Blanches Parkplatz + Linie H Shuttle).",
+        "public_transport": "Linie H Shuttle zum Geländeeingang im Sommer."
+      },
+      "meta_description": "Der Poux Wasserfall bei Courchevel: 1 h auf dem botanischen Weg vom Rosière See, eine einfache 2,7 km Rückkehr, kostenlos, Hunde akzeptiert, 1. Mai bis 31. Oktober. Vermeiden Sie starke Regenfälle.",
+      "meta_title": "Cascade des Poux · Botanischer Pfad von Rosière, Courchevel",
+      "name": "Cascade des Poux",
+      "name_alternates": [
+        "Botanical trail and Poux waterfall"
+      ],
+      "practical_info": [
+        {
+          "k": "Route",
+          "v": "≈ 1 h · 2,7 km Rückkehr · leicht · +100 m · max alt. 1.645 m · markiert, GPX online"
+        },
+        {
+          "k": "Saison",
+          "v": "1. Mai bis 31. Oktober bei schönem Wetter"
+        },
+        {
+          "k": "Sicherheit",
+          "v": "\"Nicht bei starken Regenfällen aufbrechen\" (Amtsblatt)"
+        },
+        {
+          "k": "Parken",
+          "v": "Überdachter Parkplatz Cimes Blanches empfohlen (kostenlos im Sommer) + Shuttle"
+        },
+        {
+          "k": "Kontakt",
+          "v": "Courchevel Tourismus · +33 4 79 08 00 29"
+        }
+      ],
+      "schema_amenities": [
+        "Markierungspfad",
+        "Sommershuttle"
+      ],
+      "when_to_visit": "<p>Vom 1. Mai bis 31. Oktober, außerhalb von Schwerregenzaubern. Der Weg ist markiert und der GPX-Track kann vom offiziellen Blatt heruntergeladen werden. Vor Ort runden der Rosière See, sein Père Fritsch Botanical Trail und seine Anfänger via ferrata den Ausflug ab.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "2.7 km return through a forest of 'varied, rare and protected' species, to the waterfall's pools.",
+          "tag": "1 h",
+          "title": "The botanical trail"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Cascade des Poux</strong> is reached from the Rosière lake (Courchevel Moriond, Avals valley) by the <strong>botanical trail</strong>: about <strong>1 h and 2.7 km return</strong>, easy, around a hundred metres of climb, up to 1,645 m. 'In this luminous forest, the water's closeness is restful. Along the way, discover varied, rare and protected species', writes Courchevel Tourisme. Three large pools form the waterfall.</p><p>The site is <strong>free</strong>, open 'from 1 May to 31 October' subject to fair weather, and animals are accepted. The official warning deserves repeating as it stands: <strong>'Do not set out in heavy rainfall'</strong>. Parking at La Rosière being 'sometimes complicated', the official advice is to park at the covered Cimes Blanches car park (free in summer) in Courchevel Moriond and take the shuttle to the site entrance.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free",
+        "best_season": "1 May – 31 October",
+        "commune": "Courchevel",
+        "dogs": "Accepted",
+        "parking": "Cimes Blanches advised + shuttle",
+        "stroller": null,
+        "type": "Waterfall",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "About 1 h for 2.7 km return from the Rosière lake car park, easy, around a hundred metres of climb (official Courchevel Tourisme sheet).",
+          "q": "How long is the walk?"
+        },
+        {
+          "a": "Parking at La Rosière is 'sometimes complicated': the official advice is the covered Cimes Blanches car park (free in summer) in Courchevel Moriond, then the shuttle to the site entrance.",
+          "q": "Where do you park?"
+        },
+        {
+          "a": "The official sheet's warning: 'Do not set out in heavy rainfall'. Opening is announced subject to fair weather.",
+          "q": "Is there any danger?"
+        },
+        {
+          "a": "Yes, 'animals accepted' per the official sheet — the site lies outside the Vanoise national park's core.",
+          "q": "Are dogs allowed?"
+        }
+      ],
+      "hero": {
+        "badge": "Waterfall · Botanical trail",
+        "lead": "From the Rosière lake, an hour's botanical trail through luminous forest leads to the pools of the Poux waterfall — free, waymarked, and to be avoided in heavy rain, as the sheet itself says."
+      },
+      "hero_alt": "Poux waterfall and its pools, Avals valley, Courchevel",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "In Courchevel Moriond, Rosière road (or Cimes Blanches car park + line H shuttle).",
+        "public_transport": "Line H shuttle to the site entrance in summer."
+      },
+      "meta_description": "The Poux waterfall at Courchevel: 1 h on the botanical trail from the Rosière lake, an easy 2.7 km return, free, dogs accepted, 1 May to 31 October. Avoid in heavy rain.",
+      "meta_title": "Cascade des Poux · Rosière botanical trail, Courchevel",
+      "name": "Cascade des Poux",
+      "name_alternates": [
+        "Botanical trail and Poux waterfall"
+      ],
+      "practical_info": [
+        {
+          "k": "Route",
+          "v": "≈ 1 h · 2.7 km return · easy · +100 m · max alt. 1,645 m · waymarked, GPX online"
+        },
+        {
+          "k": "Season",
+          "v": "1 May to 31 October, subject to fair weather"
+        },
+        {
+          "k": "Safety",
+          "v": "'Do not set out in heavy rainfall' (official sheet)"
+        },
+        {
+          "k": "Parking",
+          "v": "Covered Cimes Blanches car park advised (free in summer) + shuttle"
+        },
+        {
+          "k": "Contact",
+          "v": "Courchevel Tourisme · +33 4 79 08 00 29"
+        }
+      ],
+      "schema_amenities": [
+        "Waymarked trail",
+        "Summer shuttle"
+      ],
+      "when_to_visit": "<p>From 1 May to 31 October, outside heavy-rain spells. The trail is waymarked and the GPX track downloadable from the official sheet. On site, the Rosière lake, its Père Fritsch botanical trail and its beginners' via ferrata round out the outing.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "2.7 km regresa a través de un bosque de especies \"variadas, raras y protegidas\", a las piscinas de la cascada.",
+          "tag": "1 h",
+          "title": "El sendero botánico"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>Cascade des Poux</strong> se llega desde el lago Rosière (Courchevel Moriond, valle de Avals) por el <strong>sendero botánico</strong>sobre <strong>Regreso de 1 h y 2.7 km</strong>, fácil, alrededor de cien metros de subida, hasta 1.645 m. En este bosque luminoso, la cercanía del agua es tranquila. A lo largo del camino, descubra especies variadas, raras y protegidas, escribe Courchevel Tourisme. Tres grandes piscinas forman la cascada.</p><p>El sitio es <strong>gratis</strong>, abierto 'del 1 de mayo al 31 de octubre' sujeto al clima justo, y los animales son aceptados. La advertencia oficial merece repetirse tal como está: <strong>\"No te pongas en lluvias pesadas\"</strong>. Estacionamiento en La Rosière siendo 'a veces complicado', el consejo oficial es aparcar en el aparcamiento cubierto Cimes Blanches (gratuito en verano) en Courchevel Moriond y tomar el transbordador a la entrada del sitio.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": "1 de mayo – 31 de octubre",
+        "commune": "Courchevel",
+        "dogs": "Aceptado",
+        "parking": "Cimes Blanches asesor + transbordador",
+        "stroller": null,
+        "type": "Waterfall",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "Aproximadamente 1 h para 2.7 km de regreso del aparcamiento del lago Rosière, fácil, a unos cientos de metros de escalada (hoja oficial Courchevel Tourisme).",
+          "q": "¿Cuánto dura el paseo?"
+        },
+        {
+          "a": "El aparcamiento en La Rosière es 'a veces complicado': el consejo oficial es el aparcamiento Cimes Blanches cubierto (gratuito en verano) en Courchevel Moriond, luego el transbordador a la entrada del sitio.",
+          "q": "¿Dónde aparcas?"
+        },
+        {
+          "a": "La advertencia de la hoja oficial: No salgas con lluvias pesadas. La apertura se anuncia sujeto a un clima justo.",
+          "q": "¿Hay peligro?"
+        },
+        {
+          "a": "Sí, 'animales aceptados' por la hoja oficial — el sitio está fuera del núcleo del parque nacional Vanoise.",
+          "q": "¿Se permiten perros?"
+        }
+      ],
+      "hero": {
+        "badge": "Cascada · Sendero botánico",
+        "lead": "Desde el lago Rosière, un sendero botánico de una hora a través del bosque luminoso conduce a las piscinas de la cascada Poux — libre, señalizado, y para ser evitado en la lluvia pesada, como dice la sábana misma."
+      },
+      "hero_alt": "Poux cascada y sus piscinas, valle de Avals, Courchevel",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "En Courchevel Moriond, carretera Rosière (o aparcamiento Cimes Blanches + línea H lanzadera).",
+        "public_transport": "Línea H lanzadera a la entrada del sitio en verano."
+      },
+      "meta_description": "La cascada Poux en Courchevel: 1 h en el sendero botánico del lago Rosière, un regreso fácil de 2,7 km, libre, perros aceptados, 1 de mayo al 31 de octubre. Evite con lluvia pesada.",
+      "meta_title": "Cascade des Poux · Ruta botánica Rosière, Courchevel",
+      "name": "Cascade des Poux",
+      "name_alternates": [
+        "Botanical trail and Poux waterfall"
+      ],
+      "practical_info": [
+        {
+          "k": "Ruta",
+          "v": "♥ 1 h · 2.7 km de vuelta · fácil · +100 m · max alt. 1,645 m · señalización, GPX en línea"
+        },
+        {
+          "k": "Estación",
+          "v": "1o de mayo a 31 de octubre, sujeto a un clima justo"
+        },
+        {
+          "k": "Seguridad",
+          "v": "\"No se fijen en lluvias pesadas\" (sábana oficial)"
+        },
+        {
+          "k": "Aparcamiento",
+          "v": "Aparcamiento cubierto Cimes Blanches aconsejado (gratuito en verano) + traslado"
+        },
+        {
+          "k": "Contacto",
+          "v": "Courchevel Tourisme · +33 4 79 08 00 29"
+        }
+      ],
+      "schema_amenities": [
+        "Sendero Waymarked",
+        "Traslado de verano"
+      ],
+      "when_to_visit": "<p>Del 1 de mayo al 31 de octubre, fuera de los hechizos de ira pesada. El sendero está señalizado y la pista GPX descargable de la hoja oficial. En el sitio, el lago Rosière, su sendero botánico Père Fritsch y sus principiantes' vía ferrata redondeando el paseo.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "2,7 km aller-retour dans une forêt d'essences « variées, rares et protégées », jusqu'aux vasques de la cascade.",
+          "tag": "1 h",
+          "title": "Le sentier botanique"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>cascade des Poux</strong> se gagne depuis le lac de la Rosière (Courchevel Moriond, vallée des Avals) par le <strong>sentier botanique</strong> : environ <strong>1 h et 2,7 km aller-retour</strong>, niveau facile, une centaine de mètres de dénivelé, jusqu'à 1 645 m d'altitude. « Dans cette forêt lumineuse, la proximité de l'eau est reposante. Sur le chemin, découvrez des essences variées, rares et protégées », écrit Courchevel Tourisme. Trois grandes vasques d'eau forment la cascade.</p><p>Le site est <strong>gratuit</strong>, ouvert « du 1er mai au 31 octobre » sous réserve de météo favorable, et les animaux sont acceptés. L'avertissement officiel vaut d'être répété tel quel : <strong>« Ne pas s'engager en cas de fortes précipitations »</strong>. Le stationnement à la Rosière étant « parfois compliqué », le conseil officiel est de se garer au parking couvert des Cimes Blanches (gratuit l'été) à Courchevel Moriond et de prendre la navette jusqu'à l'entrée du site.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuit",
+        "best_season": "1er mai – 31 octobre",
+        "commune": "Courchevel",
+        "dogs": "Acceptés",
+        "parking": "Cimes Blanches conseillé + navette",
+        "stroller": null,
+        "type": "Cascade",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "Environ 1 h pour 2,7 km aller-retour depuis le parking du lac de la Rosière, niveau facile, une centaine de mètres de dénivelé (fiche officielle Courchevel Tourisme).",
+          "q": "Combien de temps pour y aller ?"
+        },
+        {
+          "a": "Le stationnement à la Rosière est « parfois compliqué » : le conseil officiel est de se garer au parking couvert des Cimes Blanches (gratuit en été) à Courchevel Moriond, puis de prendre la navette jusqu'à l'entrée du site.",
+          "q": "Où se garer ?"
+        },
+        {
+          "a": "L'avertissement de la fiche officielle : « Ne pas s'engager en cas de fortes précipitations ». L'ouverture est annoncée sous réserve de conditions météo favorables.",
+          "q": "Y a-t-il un danger ?"
+        },
+        {
+          "a": "Oui, « animaux acceptés » selon la fiche officielle — le site est hors du cœur du Parc national de la Vanoise.",
+          "q": "Les chiens sont-ils admis ?"
+        }
+      ],
+      "hero": {
+        "badge": "Cascade · Sentier botanique",
+        "lead": "Depuis le lac de la Rosière, une heure de sentier botanique dans une forêt lumineuse mène aux vasques de la cascade des Poux — gratuit, balisé, et à éviter par fortes pluies, comme le dit la fiche elle-même."
+      },
+      "hero_alt": "Cascade des Poux et ses vasques, vallée des Avals, Courchevel",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "À Courchevel Moriond, route de la Rosière (ou parking des Cimes Blanches + navette ligne H).",
+        "public_transport": "Navette ligne H jusqu'à l'entrée du site l'été."
+      },
+      "meta_description": "La cascade des Poux à Courchevel : 1 h de sentier botanique depuis le lac de la Rosière, 2,7 km aller-retour faciles, gratuit, chiens acceptés, du 1er mai au 31 octobre. À éviter par fortes pluies.",
+      "meta_title": "Cascade des Poux · sentier botanique de la Rosière, Courchevel",
+      "name": "Cascade des Poux",
+      "name_alternates": [
+        "Sentier botanique et cascade des Poux"
+      ],
+      "practical_info": [
+        {
+          "k": "Itinéraire",
+          "v": "≈ 1 h · 2,7 km aller-retour · facile · +100 m · alt. max 1 645 m · balisé, GPX en ligne"
+        },
+        {
+          "k": "Saison",
+          "v": "Du 1er mai au 31 octobre, sous réserve de météo favorable"
+        },
+        {
+          "k": "Sécurité",
+          "v": "« Ne pas s'engager en cas de fortes précipitations » (fiche officielle)"
+        },
+        {
+          "k": "Stationnement",
+          "v": "Parking couvert des Cimes Blanches conseillé (gratuit l'été) + navette"
+        },
+        {
+          "k": "Contact",
+          "v": "Courchevel Tourisme · 04 79 08 00 29"
+        }
+      ],
+      "schema_amenities": [
+        "Sentier balisé",
+        "Navette estivale"
+      ],
+      "when_to_visit": "<p>Du 1er mai au 31 octobre, hors épisodes de fortes pluies. Le sentier est balisé et la trace GPX est téléchargeable sur la fiche officielle. Sur place : le lac de la Rosière, son sentier botanique du Père Fritsch et sa via ferrata d'initiation complètent la sortie.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "2.7 km ritornano attraverso una foresta di specie 'variate, rare e protette', alle piscine della cascata.",
+          "tag": "1 h",
+          "title": "Il sentiero botanico"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Cascade des Poux</strong> si raggiunge dal lago Rosière (Courchevel Moriond, valle Avals) vicino al <strong>sentiero botanico</strong>: <strong>1 h e 2,7 km ritorno</strong>, facile, circa cento metri di salita, fino a 1,645 m. In questa luminosa foresta, la vicinanza dell'acqua è riposante. Lungo il percorso, scoprire specie varie, rare e protette', scrive Courchevel Tourisme. Tre grandi piscine formano la cascata.</p><p>Il sito è <strong>gratis</strong>, aperto dal 1° maggio al 31 ottobre, soggetto a condizioni meteorologiche eque, e gli animali sono accettati. L'avvertimento ufficiale merita di ripetersi come sta: <strong>'Non uscire in precipitazioni pesanti'</strong>. Parcheggio a La Rosière essendo 'a volte complicato', il consiglio ufficiale è quello di parcheggiare al parcheggio coperto Cimes Blanches (gratuito in estate) in Courchevel Moriond e prendere la navetta per l'ingresso del sito.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": "1 maggio – 31 ottobre",
+        "commune": "Courchevel",
+        "dogs": "Accettato",
+        "parking": "Cimes Blanches consigliato + navetta",
+        "stroller": null,
+        "type": "Cascata",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "Circa 1 h per 2,7 km ritorno dal parcheggio del lago Rosière, facile, circa un centinaio di metri di salita (lastra ufficiale del turismo di Courchevel).",
+          "q": "Quanto dura la passeggiata?"
+        },
+        {
+          "a": "Parcheggio a La Rosière è 'a volte complicato': il consiglio ufficiale è il parcheggio coperto Cimes Blanches (gratuito in estate) in Courchevel Moriond, poi la navetta per l'ingresso del sito.",
+          "q": "Dove parcheggi?"
+        },
+        {
+          "a": "Avvertenza del foglio ufficiale: 'Non impostare in precipitazioni pesanti'. L'apertura è annunciata soggetto a tempo equo.",
+          "q": "C'e' qualche pericolo?"
+        },
+        {
+          "a": "Sì, «animali accettati» per la scheda ufficiale — il sito si trova al di fuori del nucleo del parco nazionale Vanoise.",
+          "q": "I cani sono ammessi?"
+        }
+      ],
+      "hero": {
+        "badge": "Cascata · Sentiero botanico",
+        "lead": "Dal lago di Rosière, un'ora di percorso botanico attraverso una luminosa foresta conduce alle piscine della cascata di Poux — libero, segnato, e per essere evitato in pioggia pesante, come dice il foglio stesso."
+      },
+      "hero_alt": "cascata Poux e le sue piscine, valle Avals, Courchevel",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "In Courchevel Moriond, strada Rosière (o parcheggio Cimes Blanches + linea H shuttle).",
+        "public_transport": "Linea H navetta per l'ingresso del sito in estate."
+      },
+      "meta_description": "La cascata di Poux a Courchevel: 1 h sul sentiero botanico dal lago Rosière, un facile ritorno di 2.7 km, gratuito, cani accettati, dal 1 maggio al 31 ottobre. Evitare in pioggia pesante.",
+      "meta_title": "Cascade des Poux · Rosière sentiero botanico, Courchevel",
+      "name": "Cascade des Poux",
+      "name_alternates": [
+        "Botanical trail and Poux waterfall"
+      ],
+      "practical_info": [
+        {
+          "k": "Itinerario",
+          "v": "≈ 1 h · 2,7 km di ritorno · facile · +100 m · max alt. 1.645 m · waymarked, GPX online"
+        },
+        {
+          "k": "Stagione",
+          "v": "dal 1° maggio al 31 ottobre, a condizione di tempo equo"
+        },
+        {
+          "k": "Sicurezza",
+          "v": "'Non impostare in precipitazioni pesanti' (scheda ufficiale)"
+        },
+        {
+          "k": "Parcheggio",
+          "v": "Parcheggio coperto Cimes Blanches consigliato (gratuito in estate) + navetta"
+        },
+        {
+          "k": "Contatto",
+          "v": "Courchevel Turismo · +33 4 79 08 00 29"
+        }
+      ],
+      "schema_amenities": [
+        "Sentiero segnalato",
+        "Navetta estiva"
+      ],
+      "when_to_visit": "<p>Dal 1 maggio al 31 ottobre, al di fuori di incantesimi pesanti. Il sentiero è segnalato e la pista GPX scaricabile dal foglio ufficiale. In loco, il lago Rosière, il suo sentiero botanico Père Fritsch e la via ferrata dei suoi principianti completano l'uscita.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "2,7 km keert terug door een bos van 'variërende, zeldzame en beschermde' soorten, naar de zwembaden van de waterval.",
+          "tag": "1 uur",
+          "title": "Het botanische pad"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>Cascade des Poux</strong> is bereikbaar vanaf het Rosière meer (Courchevel Moriond, Avals vallei) door de <strong>botanisch spoor</strong>: over <strong>1 uur en 2,7 km terugkeer</strong>, gemakkelijk, ongeveer honderd meter klim, tot 1,645 m. 'In dit lichtgevende bos is de nabijheid van het water rustgevend. Onderweg, ontdek gevarieerde, zeldzame en beschermde soorten,\" schrijft Courchevel Tourisme. Drie grote zwembaden vormen de waterval.</p><p>De site is <strong>vrij</strong>, open 'van 1 mei tot en met 31 oktober' bij mooi weer, en dieren worden geaccepteerd. De officiële waarschuwing verdient herhaling: <strong>'Niet in zware regenval'</strong>. Parkeren bij La Rosière 'soms ingewikkeld', het officiële advies is om te parkeren op de overdekte Cimes Blanches parkeerplaats (gratis in de zomer) in Courchevel Moriond en neem de shuttle naar de site ingang.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Vrij",
+        "best_season": "1 mei 31 oktober",
+        "commune": "Courchevel",
+        "dogs": "Goedgekeurd",
+        "parking": "Cimes Blanches geadviseerd + shuttle",
+        "stroller": null,
+        "type": "Waterval",
+        "winter_access": "closed"
+      },
+      "faq": [
+        {
+          "a": "Ongeveer 1 uur voor 2,7 km terug van de Rosière meer parkeerplaats, gemakkelijk, ongeveer honderd meter klim (officieel Courchevel Tourisme blad).",
+          "q": "Hoe lang duurt de wandeling?"
+        },
+        {
+          "a": "Parkeren bij La Rosière is 'soms ingewikkeld': het officiële advies is de overdekte Cimes Blanches parkeerplaats (gratis in de zomer) in Courchevel Moriond, dan de shuttle naar de ingang van de site.",
+          "q": "Waar parkeer je?"
+        },
+        {
+          "a": "Waarschuwing van het officiële blad: 'Niet in zware regenval'. Opening wordt aangekondigd onder voorbehoud van mooi weer.",
+          "q": "Is er gevaar?"
+        },
+        {
+          "a": "Ja, 'dieren geaccepteerd' per officieel blad  De site ligt buiten de kern van het nationaal park Vanoise.",
+          "q": "Zijn honden toegestaan?"
+        }
+      ],
+      "hero": {
+        "badge": "Waterval · Botanisch pad",
+        "lead": "Vanaf het meer van Rosière, een uur botanische route door lichtgevende bossen leidt naar de zwembaden van de Poux waterval Vrij, bewegwijzerd en te vermijden in zware regen, zoals het laken zelf zegt."
+      },
+      "hero_alt": "Poux waterval en zijn zwembaden, Avals vallei, Courchevel",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "In Courchevel Moriond, Rosière weg (of Cimes Blanches parkeerplaats + lijn H shuttle).",
+        "public_transport": "Line H shuttle naar de site ingang in de zomer."
+      },
+      "meta_description": "De Poux waterval op Courchevel: 1 uur op de botanische route vanaf het Rosière meer, een gemakkelijke 2,7 km terugkeer, gratis, honden geaccepteerd, 1 mei tot 31 oktober. Vermijd in zware regenval.",
+      "meta_title": "Cascade des Poux · Rosière botanische route, Courchevel",
+      "name": "Cascade des Poux",
+      "name_alternates": [
+        "Botanical trail and Poux waterfall"
+      ],
+      "practical_info": [
+        {
+          "k": "Route",
+          "v": "1 uur · 2,7 km terug · gemakkelijk · + 100 m · max alt. 1,645 m · waymarked, GPX online"
+        },
+        {
+          "k": "Seizoen",
+          "v": "1 mei tot en met 31 oktober, onder voorbehoud van mooi weer"
+        },
+        {
+          "k": "Veiligheid",
+          "v": "Niet in zware regenval (officieel blad)"
+        },
+        {
+          "k": "Parkeren",
+          "v": "Overdekte Cimes Blanches parkeerplaats geadviseerd (gratis in de zomer) + shuttle"
+        },
+        {
+          "k": "Contactpersoon",
+          "v": "Courchevel Tourisme · +33 4 79 08 00 29"
+        }
+      ],
+      "schema_amenities": [
+        "Waymarked trail",
+        "Zomershuttle"
+      ],
+      "when_to_visit": "<p>Van 1 mei tot 31 oktober, buiten zware regenspreuken. De trail is gemarkeerd en de GPX track downloadbaar van het officiële blad. Op het terrein, de Rosière meer, de Père Fritsch botanische route en zijn beginners' via ferrata rond de uitstap.</p>"
+    }
+  },
+  "latitude": 45.417849,
+  "longitude": 6.645094,
+  "official_site_url": "https://courchevel.com/a/sentier-botanique-et-cascade-des-poux-6072981/",
+  "partners": [],
+  "postal_code": "73120",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-18, FR pages only (Courchevel Tourisme). Sentier botanique et cascade des Poux : ~1 h, 2,7 km aller-retour, facile, +100/-100 m, alt. max 1 645 m, balisé, GPX téléchargeable. Départ parking du lac de la Rosière (Courchevel Moriond) — stationnement parfois compliqué : conseil officiel de se garer aux Cimes Blanches (couvert, gratuit l'été) et de prendre la navette. Gratuit ; « Animaux acceptés » ; ouverture « du 01/05 au 31/10 », « sous réserve de conditions météo favorables » ; avertissement verbatim : « Ne pas s'engager en cas de fortes précipitations ». Trois grandes vasques forment la cascade. NB : la fiche affiche latitude/longitude inversées — remises dans l'ordre. Hors cœur du Parc.",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "cascade-des-poux-courchevel",
+  "sources": [
+    "https://courchevel.com/a/sentier-botanique-et-cascade-des-poux-6072981/"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published for this site; kept null rather than inferred."
+  ]
+}

@@ -1,9 +1,9 @@
 # Loisirs 73 — Full content dump
 
 Generated: 2026-08-17
-Total lieux: 103
+Total lieux: 113
 
-This file concatenates the FR facet markdown of all 103 leisure sites in Savoie. Each section is a standalone markdown document with YAML frontmatter and the fixed facet heading canon. Sections are separated by `===` rulers.
+This file concatenates the FR facet markdown of all 113 leisure sites in Savoie. Each section is a standalone markdown document with YAML frontmatter and the fixed facet heading canon. Sections are separated by `===` rulers.
 
 For programmatic access, fetch individual files at https://loisirs73.fr/content/{slug}.md (FR), https://loisirs73.fr/content/en/{slug}.md (EN), or https://loisirs73.fr/api/lieu/{slug}.json (typed JSON).
 
@@ -347,6 +347,148 @@ https://www.lescheraines.fr/economie-/-tourisme-/-loisirs/base-de-loisirs-des-il
 ================================================================================
 
 ---
+slug: boucle-de-la-chambotte-entrelacs
+name: "Boucle de la Chambotte"
+category: sentier
+category_label: "Sentier"
+commune: "Entrelacs"
+postal_code: "73410"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.773324
+longitude: 5.874995
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/boucle-de-la-chambotte-entrelacs
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/boucle-de-la-chambotte-entrelacs.json
+photo_url: /img/generique/generique-sentier-sommet-panorama.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-18
+source: loisirs73.fr
+---
+
+# Boucle de la Chambotte
+
+## Faits
+
+- Commune: Entrelacs, Savoie (73410)
+- GPS: 45.773324, 5.874995
+- Catégorie: sentier
+- Type: Boucle panoramique
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+- Statut: Non accessible
+- Détail: « Non accessible en fauteuil roulant » et « non adapté aux poussettes » (fiche OT Aix-les-Bains Riviera des Alpes).
+- Source: OT Aix-les-Bains Riviera des Alpes — https://www.aixlesbains-rivieradesalpes.com/equipement/boucle-de-la-chambotte-entrelacs/
+
+## Parking
+
+Parking du Belvédère
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Non renseigné
+- Fenêtre d'accès hiver: Non renseigné
+- Infrastructure hiver: Non renseigné
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
+
+## Source officielle
+
+https://www.aixlesbains-rivieradesalpes.com/equipement/boucle-de-la-chambotte-entrelacs/
+
+================================================================================
+
+---
+slug: boucle-du-lac-de-la-rosiere-courchevel
+name: "Boucle du lac de la Rosière"
+category: sentier
+category_label: "Sentier"
+commune: "Courchevel"
+postal_code: "73120"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.417529
+longitude: 6.609155
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/boucle-du-lac-de-la-rosiere-courchevel
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/boucle-du-lac-de-la-rosiere-courchevel.json
+photo_url: /img/generique/generique-famille-foret.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-18
+source: loisirs73.fr
+---
+
+# Boucle du lac de la Rosière
+
+## Faits
+
+- Commune: Courchevel, Savoie (73120)
+- GPS: 45.417529, 6.609155
+- Catégorie: sentier
+- Type: Boucle familiale
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+À proximité ; Cimes Blanches conseillé
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+15 avril – 31 octobre (boucle d'été)
+- Fenêtre d'accès hiver: Non renseigné
+- Infrastructure hiver: Non renseigné
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
+
+## Source officielle
+
+https://courchevel.com/fr/a/promenade-confort-torrent-et-lac-de-la-rosiere-121364/
+
+================================================================================
+
+---
 slug: cascade-de-la-fraiche
 name: "Cascade de la Fraîche"
 category: cascade
@@ -417,6 +559,76 @@ https://www.pralognan.com/prestataire/cascade-de-la-fraiche-randonnee-pedestre-e
 ================================================================================
 
 ---
+slug: cascade-de-la-vuzelle-planay
+name: "Cascade de la Vuzelle"
+category: cascade
+category_label: "Cascade"
+commune: "Planay"
+postal_code: "73350"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.411105
+longitude: 6.721487
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/cascade-de-la-vuzelle-planay
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/cascade-de-la-vuzelle-planay.json
+photo_url: /img/generique/generique-cascade.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-18
+source: loisirs73.fr
+---
+
+# Cascade de la Vuzelle
+
+## Faits
+
+- Commune: Planay, Savoie (73350)
+- GPS: 45.411105, 6.721487
+- Catégorie: cascade
+- Type: Cascade
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Non renseigné
+- Fenêtre d'accès hiver: Non renseigné
+- Infrastructure hiver: Non renseigné
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
+
+## Source officielle
+
+https://www.valleedebozel.com/cascade-de-la-vuzelle.html
+
+================================================================================
+
+---
 slug: cascade-de-saint-benoit
 name: "Cascade de Saint-Benoît"
 category: cascade
@@ -483,6 +695,146 @@ Non renseigné
 ## Source officielle
 
 https://www.la-norma.fr/patrimoine-naturel/saint-benoit-waterfall-avrieux/
+
+================================================================================
+
+---
+slug: cascade-de-saint-cassin
+name: "Cascade de Saint-Cassin"
+category: cascade
+category_label: "Cascade"
+commune: "Saint-Cassin"
+postal_code: "73160"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.534
+longitude: 5.866
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/cascade-de-saint-cassin
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/cascade-de-saint-cassin.json
+photo_url: /img/generique/generique-cascade.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-18
+source: loisirs73.fr
+---
+
+# Cascade de Saint-Cassin
+
+## Faits
+
+- Commune: Saint-Cassin, Savoie (73160)
+- GPS: 45.534, 5.866
+- Catégorie: cascade
+- Type: Cascade
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Non renseigné
+- Fenêtre d'accès hiver: Non renseigné
+- Infrastructure hiver: Non renseigné
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
+
+## Source officielle
+
+https://www.chamberymontagnes.com/fiche/cascade-de-saint-cassin/
+
+================================================================================
+
+---
+slug: cascade-des-poux-courchevel
+name: "Cascade des Poux"
+category: cascade
+category_label: "Cascade"
+commune: "Courchevel"
+postal_code: "73120"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.417849
+longitude: 6.645094
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/cascade-des-poux-courchevel
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/cascade-des-poux-courchevel.json
+photo_url: /img/generique/generique-cascade.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-18
+source: loisirs73.fr
+---
+
+# Cascade des Poux
+
+## Faits
+
+- Commune: Courchevel, Savoie (73120)
+- GPS: 45.417849, 6.645094
+- Catégorie: cascade
+- Type: Cascade
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Cimes Blanches conseillé + navette
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+1er mai – 31 octobre
+- Fenêtre d'accès hiver: Fermé (route fermée l'hiver) — État en temps réel : savoie-route.fr
+- Infrastructure hiver: Non renseigné
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
+
+## Source officielle
+
+https://courchevel.com/a/sentier-botanique-et-cascade-des-poux-6072981/
 
 ================================================================================
 
@@ -623,6 +975,150 @@ Débit maximal à la fonte et après orage
 ## Source officielle
 
 https://rando.parcdesbauges.com/trek/9605-Cascade-du-Pissieu
+
+================================================================================
+
+---
+slug: cascade-du-py-champagny
+name: "Cascade du Py"
+category: cascade
+category_label: "Cascade"
+commune: "Champagny-en-Vanoise"
+postal_code: "73350"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.449186
+longitude: 6.781253
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/cascade-du-py-champagny
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/cascade-du-py-champagny.json
+photo_url: /img/generique/generique-cascade.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-18
+source: loisirs73.fr
+---
+
+# Cascade du Py
+
+## Faits
+
+- Commune: Champagny-en-Vanoise, Savoie (73350)
+- GPS: 45.449186, 6.781253
+- Catégorie: cascade
+- Type: Cascade
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+- Statut: Accessible
+- Détail: « Accessible en fauteuil roulant en autonomie » (fiche officielle la-plagne.com). Site du Laisonnay, vallon de Champagny-le-Haut.
+- Source: Office de tourisme de La Plagne — https://www.la-plagne.com/decouvrir-la-plagne/le-patrimoine/patrimoine-naturel/patrimoine-naturel/cascade-du-py
+
+## Parking
+
+Le Laisonnay d'en bas
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Non renseigné
+- Fenêtre d'accès hiver: Non renseigné
+- Infrastructure hiver: Non renseigné
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
+
+## Source officielle
+
+https://www.la-plagne.com/decouvrir-la-plagne/le-patrimoine/patrimoine-naturel/patrimoine-naturel/cascade-du-py
+
+================================================================================
+
+---
+slug: cascades-de-jacob-bellecombette
+name: "Cascades de Jacob et la Grobelle"
+category: cascade
+category_label: "Cascade"
+commune: "Jacob-Bellecombette"
+postal_code: "73000"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.555862
+longitude: 5.907877
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/cascades-de-jacob-bellecombette
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/cascades-de-jacob-bellecombette.json
+photo_url: /img/generique/generique-cascade.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-18
+source: loisirs73.fr
+---
+
+# Cascades de Jacob et la Grobelle
+
+## Faits
+
+- Commune: Jacob-Bellecombette, Savoie (73000)
+- GPS: 45.555862, 5.907877
+- Catégorie: cascade
+- Type: Cascades
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+- Statut: Non accessible
+- Détail: « Non accessible en fauteuil roulant » et « non adapté aux poussettes » (fiche Chambéry Montagnes).
+- Source: Chambéry Montagnes — https://www.chamberymontagnes.com/que-faire/activites-pleine-nature/les-cascades-de-jacob-et-la-grobelle-jacob-bellecombette-fr-5783442/
+
+## Parking
+
+École du Grand Pré
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Après la pluie ou la fonte des neiges
+- Fenêtre d'accès hiver: Non renseigné
+- Infrastructure hiver: Non renseigné
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
+
+## Source officielle
+
+https://www.chamberymontagnes.com/que-faire/activites-pleine-nature/les-cascades-de-jacob-et-la-grobelle-jacob-bellecombette-fr-5783442/
 
 ================================================================================
 
@@ -3916,6 +4412,76 @@ https://www.chambery.fr/231-venir-aux-charmettes.htm
 ================================================================================
 
 ---
+slug: monolithe-de-sardieres
+name: "Monolithe de Sardières"
+category: sentier
+category_label: "Sentier"
+commune: "Val-Cenis"
+postal_code: "73500"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.242659
+longitude: 6.780167
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/monolithe-de-sardieres
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/monolithe-de-sardieres.json
+photo_url: /img/generique/generique-sentier-foret-alpine.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-18
+source: loisirs73.fr
+---
+
+# Monolithe de Sardières
+
+## Faits
+
+- Commune: Val-Cenis, Savoie (73500)
+- GPS: 45.242659, 6.780167
+- Catégorie: sentier
+- Type: Balade familiale
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Église de Sardières (été)
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Non renseigné
+- Fenêtre d'accès hiver: Non renseigné
+- Infrastructure hiver: Non renseigné
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
+
+## Source officielle
+
+https://www.haute-maurienne-vanoise.com/tour-monolithe-sardieres/
+
+================================================================================
+
+---
 slug: musee-d-art-et-d-histoire-albertville
 name: "Musée d'art et d'histoire d'Albertville"
 category: musee
@@ -5349,6 +5915,78 @@ https://www.valleedebozel.com/plan-d-eau-de-bozel-bozel.html
 ================================================================================
 
 ---
+slug: promenade-du-plan-de-l-eau-des-bruyeres
+name: "Promenade du plan de l'Eau des Bruyères"
+category: sentier
+category_label: "Sentier"
+commune: "Les Belleville"
+postal_code: "73440"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.313649
+longitude: 6.54062
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/promenade-du-plan-de-l-eau-des-bruyeres
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/promenade-du-plan-de-l-eau-des-bruyeres.json
+photo_url: /img/generique/generique-reserve-zone-humide-6.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-18
+source: loisirs73.fr
+---
+
+# Promenade du plan de l'Eau des Bruyères
+
+## Faits
+
+- Commune: Les Belleville, Savoie (73440)
+- GPS: 45.313649, 6.54062
+- Catégorie: sentier
+- Type: Promenade confort
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+- Statut: Partiellement accessible
+- Détail: Publiée par le Parc national de la Vanoise dans « Un parc accessible à tous / des sites aménagés » comme « Promenade accessible », labellisée « Promenade confort » (900 m, très facile). Aucun statut fauteuil roulant explicite n'est publié.
+- Source: Parc national de la Vanoise — https://www.vanoise-parcnational.fr/fr/des-decouvertes/un-parc-accessible-tous/des-sites-amenages/promenade-accessible-au-plan-deau-des
+
+## Parking
+
+À 200 m
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Non renseigné
+- Fenêtre d'accès hiver: Ouvert (accès déneigé)
+- Infrastructure hiver: Non renseigné
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
+
+## Source officielle
+
+https://www.lesmenuires.com/fr/promenade-du-plan-de-leau-des-bruyeres
+
+================================================================================
+
+---
 slug: redoute-marie-therese-avrieux
 name: "Redoute Marie-Thérèse"
 category: chateau
@@ -5483,6 +6121,76 @@ Du printemps à l'automne — les œuvres sont renouvelées chaque printemps
 ## Source officielle
 
 https://rando.vanoise.com/fr/trek/59587-Sentier-artistique-de-Hautecour---Boucle-Liberte
+
+================================================================================
+
+---
+slug: sentier-des-arpelieres-crest-voland
+name: "Sentier des Arpelières"
+category: sentier
+category_label: "Sentier"
+commune: "Crest-Voland"
+postal_code: "73590"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.772
+longitude: 6.5273
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/sentier-des-arpelieres-crest-voland
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/sentier-des-arpelieres-crest-voland.json
+photo_url: /img/generique/generique-reserve-zone-humide-5.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-18
+source: loisirs73.fr
+---
+
+# Sentier des Arpelières
+
+## Faits
+
+- Commune: Crest-Voland, Savoie (73590)
+- GPS: 45.772, 6.5273
+- Catégorie: sentier
+- Type: Sentier thématique
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Gratuit (Nant Rouge, Monument, la Palette)
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+1er juin – 30 septembre
+- Fenêtre d'accès hiver: Fermé (route fermée l'hiver) — État en temps réel : savoie-route.fr
+- Infrastructure hiver: Non renseigné
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
+
+## Source officielle
+
+https://www.lessaisies.com/sentier-des-arpelieres-crest-voland.html
 
 ================================================================================
 

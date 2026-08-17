@@ -1,0 +1,558 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-18",
+    "confidence": "declarative",
+    "detail": "Publiée par le Parc national de la Vanoise dans « Un parc accessible à tous / des sites aménagés » comme « Promenade accessible », labellisée « Promenade confort » (900 m, très facile). Aucun statut fauteuil roulant explicite n'est publié.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_name": "Parc national de la Vanoise",
+    "source_url": "https://www.vanoise-parcnational.fr/fr/des-decouvertes/un-parc-accessible-tous/des-sites-amenages/promenade-accessible-au-plan-deau-des",
+    "status": "partiel",
+    "tourisme_handicap": null
+  },
+  "category": "sentier",
+  "commune": "Les Belleville",
+  "date_modified_human": "18 août 2026",
+  "date_published_human": "18 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-18",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-reserve-zone-humide-6.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Eine sehr einfache 900 m um den Teich, mit Picknick und Angeln vor Ort.",
+          "tag": "30 min.",
+          "title": "Die Teichschleife"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>Plan de l'Eau des Bruyères Walk</strong>, im Viertel Bruyères (Les Menuires, Gemeinde Les Belleville), läuft <strong>900 Meter</strong> Um den ersten Teich herum: 30 Minuten, 15 m Aufstieg, \"sehr einfach\". \"Der Bruyères-Teich, ein kleines natürliches Juwel an der Spitze eines erhaltenen Tals, beherbergt ein bemerkenswertes Ökosystem\", schreibt das Büro. Frösche, Libellen, Forellen und Bachkohl, listet den Vanoise-Nationalpark auf.</p><p>Der Park veröffentlicht es tatsächlich in seiner Sektion <strong>\"Ein Park, der für alle / angelegten Standorte zugänglich ist\"</strong>als \"zugänglicher Spaziergang\", der die <strong>\"Comfort Walk\"</strong> Etikett — Es wird kein expliziter Rollstuhlstatus veröffentlicht, wir erfassen die Einrichtung wie erklärt, nicht weiter. Vor Ort: Picknicken, Angeln und der Ausgangspunkt der Lac du Lou Wanderung. Parkplätze 200 m entfernt.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "frei",
+        "best_season": null,
+        "commune": "Les Belleville",
+        "dogs": null,
+        "parking": "200 m entfernt",
+        "stroller": null,
+        "type": "Komfortspaziergang",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Der Vanoise-Nationalpark veröffentlicht ihn unter den \"verlegten Stätten\" seines \"für alle zugänglichen Parks\" unter dem Label \"Comfort Walk\" (900 m, sehr einfach). Es wird kein expliziter Rollstuhlstatus veröffentlicht — Wir melden die Anlage wie erklärt.",
+          "q": "Ist der Spaziergang für alle zugänglich?"
+        },
+        {
+          "a": "Ein \"bemerkenswertes Ökosystem\": Frösche, Libellen, Forellen und Bachkohl je Nationalpark.",
+          "q": "Was lebt im Teich?"
+        },
+        {
+          "a": "Ja: Der Bruyères Teichparkplatz ist auch der Ausgangspunkt der Lac du Lou Wanderung.",
+          "q": "Kannst du weiter gehen?"
+        },
+        {
+          "a": "\"Ein schöner Winterspaziergang auch\", bemerkt der Nationalpark.",
+          "q": "Und im Winter?"
+        }
+      ],
+      "hero": {
+        "badge": "900 m · Komfort zu Fuß",
+        "lead": "An der Spitze eines erhaltenen Menuires-Tals, ein 900 Meter langer \"sehr einfacher\" Spaziergang um einen Teich aus Fröschen und Libellen - ein Gelände, das der Nationalpark selbst unter seinen für alle zugänglichen Einrichtungen auflistet."
+      },
+      "hero_alt": "Boardwalk am Bruyères-Teich, Les Menuires",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Les Menuires (D117), Viertel Les Bruyères; Teichparkplatz 200 m entfernt.",
+        "public_transport": null
+      },
+      "meta_description": "Der Bruyères Teich am Les Menuires: ein sehr einfaches 900 m um einen Teich aus Fröschen und Libellen, der vom Vanoise-Park unter seinen für alle zugänglichen Standorten aufgeführt ist.",
+      "meta_title": "Plan de l'Eau des Bruyères · Komfortspaziergang, Les Menuires",
+      "name": "Promenade du plan de l'Eau des Bruyères",
+      "name_alternates": [
+        "Plan de l'eau des Bruyères"
+      ],
+      "practical_info": [
+        {
+          "k": "Route",
+          "v": "900 m · ~30 min · +15 m · 'sehr einfach'"
+        },
+        {
+          "k": "Etikett",
+          "v": "'Comfort Walk', aufgeführt vom Park unter 'Ein Park für alle zugänglich'"
+        },
+        {
+          "k": "Ökosystem",
+          "v": "Frösche, Libellen, Forellen, Bachkohl (Nationalpark)"
+        },
+        {
+          "k": "Vor Ort",
+          "v": "Picknick, Angeln, Lac du Lou Trailhead · Parkplätze 200 m entfernt"
+        },
+        {
+          "k": "Kontakt",
+          "v": "Les Menuires Tourismusbüro · +33 4 79 00 73 00"
+        }
+      ],
+      "schema_amenities": [
+        "Komfortspaziergang",
+        "Picknickbereich"
+      ],
+      "when_to_visit": "<p>Sommer für das Ökosystem des Teiches - und der Park stellt fest, dass es \"auch ein schöner Winterspaziergang\" ist. Ein PDF-Beschreibungsblatt des zugänglichen Spaziergangs kann von der Website des Nationalparks heruntergeladen werden.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "A very easy 900 m around the pond, with picnicking and fishing on site.",
+          "tag": "30 min",
+          "title": "The pond loop"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Plan de l'Eau des Bruyères walk</strong>, at the Bruyères quarter (Les Menuires, commune of Les Belleville), runs <strong>900 metres</strong> around the first pond: 30 minutes, 15 m of climb, 'very easy'. 'The Bruyères pond, a little natural gem at the head of a preserved valley, shelters a remarkable ecosystem', writes the office — frogs, dragonflies, trout and brook char, lists the Vanoise national park.</p><p>The park indeed publishes it in its section <strong>'A park accessible to all / laid-out sites'</strong>, as an 'accessible walk' carrying the <strong>'Comfort Walk'</strong> label — no explicit wheelchair status being published, we record the facility as declared, no further. On site: picnicking, fishing, and the trailhead of the Lac du Lou hike. Car parks 200 m away.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free",
+        "best_season": null,
+        "commune": "Les Belleville",
+        "dogs": null,
+        "parking": "200 m away",
+        "stroller": null,
+        "type": "Comfort walk",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "The Vanoise national park publishes it among the 'laid-out sites' of its 'park accessible to all' section, under the 'Comfort Walk' label (900 m, very easy). No explicit wheelchair status is published — we report the facility as declared.",
+          "q": "Is the walk accessible to everyone?"
+        },
+        {
+          "a": "A 'remarkable ecosystem': frogs, dragonflies, trout and brook char, per the national park.",
+          "q": "What lives in the pond?"
+        },
+        {
+          "a": "Yes: the Bruyères pond car park is also the trailhead of the Lac du Lou hike.",
+          "q": "Can you walk further?"
+        },
+        {
+          "a": "'A lovely winter walk too', notes the national park.",
+          "q": "And in winter?"
+        }
+      ],
+      "hero": {
+        "badge": "900 m · Comfort walk",
+        "lead": "At the head of a preserved Menuires valley, a 900-metre 'very easy' walk around a pond of frogs and dragonflies — a site the national park itself lists among its accessible-to-all facilities."
+      },
+      "hero_alt": "Boardwalk by the Bruyères pond, Les Menuires",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "At Les Menuires (D117), Les Bruyères quarter; pond car park 200 m away.",
+        "public_transport": null
+      },
+      "meta_description": "The Bruyères pond walk at Les Menuires: a very easy 900 m around a pond of frogs and dragonflies, listed by the Vanoise park among its accessible-to-all sites.",
+      "meta_title": "Plan de l'Eau des Bruyères · comfort walk, Les Menuires",
+      "name": "Promenade du plan de l'Eau des Bruyères",
+      "name_alternates": [
+        "Plan de l'eau des Bruyères"
+      ],
+      "practical_info": [
+        {
+          "k": "Route",
+          "v": "900 m · ~30 min · +15 m · 'very easy'"
+        },
+        {
+          "k": "Label",
+          "v": "'Comfort Walk', listed by the park under 'A park accessible to all'"
+        },
+        {
+          "k": "Ecosystem",
+          "v": "Frogs, dragonflies, trout, brook char (national park)"
+        },
+        {
+          "k": "On site",
+          "v": "Picnic, fishing, Lac du Lou trailhead · car parks 200 m away"
+        },
+        {
+          "k": "Contact",
+          "v": "Les Menuires tourist office · +33 4 79 00 73 00"
+        }
+      ],
+      "schema_amenities": [
+        "Comfort walk",
+        "Picnic area"
+      ],
+      "when_to_visit": "<p>Summer for the pond's ecosystem — and the park notes it is 'a lovely winter walk too'. A PDF description sheet of the accessible walk can be downloaded from the national park's site.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "Un muy fácil 900 m alrededor del estanque, con picnic y pesca en el sitio.",
+          "tag": "30 min",
+          "title": "El bucle del estanque"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>Plan de l'Eau des Bruyères walk</strong>, en el barrio de Bruyères (Les Menuires, comuna de Les Belleville), corre <strong>900 metros</strong> alrededor del primer estanque: 30 minutos, 15 m de escalada, 'muy fácil'. \"El estanque de Bruyères, una pequeña joya natural en la cabeza de un valle preservado, alberga un ecosistema notable\", escribe la oficina ranas, libélulas, truchas y brook char, enumera el parque nacional Vanoise.</p><p>El parque lo publica en su sección <strong>'Un parque accesible a todos / sitios desocupados'</strong>, como un 'a pie accesible' que lleva el <strong>'Camina de consuelo'</strong> etiqueta: no explícito estatus de silla de ruedas que se publica, registramos la instalación como declarada, no más. En el sitio: picnic, pesca, y la cabeza del sendero de la caminata Lac du Lou. Aparcamientos a 200 m.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": null,
+        "commune": "Les Belleville",
+        "dogs": null,
+        "parking": "200 m de distancia",
+        "stroller": null,
+        "type": "Cómodo paseo",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "El parque nacional Vanoise lo publica entre los 'sitios de salida' de su sección 'parque accesible a todos', bajo la etiqueta 'Comfort Walk' (900 m, muy fácil). No se publica un estado explícito de silla de ruedas — reportamos la instalación como se declaró.",
+          "q": "¿El paseo es accesible para todos?"
+        },
+        {
+          "a": "Un 'ecosistema notable': ranas, libélulas, trucha y brook char, por el parque nacional.",
+          "q": "¿Qué vive en el estanque?"
+        },
+        {
+          "a": "Sí: el aparcamiento del estanque de Bruyères es también la punta del sendero de la caminata Lac du Lou.",
+          "q": "¿Puedes caminar más lejos?"
+        },
+        {
+          "a": "'Una hermosa caminata de invierno', señala el parque nacional.",
+          "q": "¿Y en invierno?"
+        }
+      ],
+      "hero": {
+        "badge": "900 m · Cómoda caminata",
+        "lead": "En la cabeza de un valle de Menuires preservado, una caminata de 900 metros \"muy fácil\" alrededor de un estanque de ranas y libélulas — un sitio el parque nacional en sí mismo lista entre sus instalaciones accesibles para todos."
+      },
+      "hero_alt": "Paseo marítimo por el estanque de Bruyères, Les Menuires",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "En Les Menuires (D117), Les Bruyères quarter; aparcamiento de estanques a 200 m.",
+        "public_transport": null
+      },
+      "meta_description": "El estanque de Bruyères camina en Les Menuires: a muy fácil 900 m alrededor de un estanque de ranas y libélulas, listado por el parque Vanoise entre sus sitios accesibles para todos.",
+      "meta_title": "Plan de l'Eau des Bruyères · confort walk, Les Menuires",
+      "name": "Promenade du plan de l'Eau des Bruyères",
+      "name_alternates": [
+        "Plan de l'eau des Bruyères"
+      ],
+      "practical_info": [
+        {
+          "k": "Ruta",
+          "v": "900 m · ~30 min · +15 m · 'muy fácil'"
+        },
+        {
+          "k": "Label",
+          "v": "'Comfort Walk', lista por el parque bajo 'A parque accesible para todos'"
+        },
+        {
+          "k": "Ecosystem",
+          "v": "Ranas, libélulas, trucha, brook char (parque nacional)"
+        },
+        {
+          "k": "En el sitio",
+          "v": "Picnic, pesca, Lac du Lou trailhead · aparcamientos a 200 m"
+        },
+        {
+          "k": "Contacto",
+          "v": "Oficina de turismo Les Menuires · +33 4 79 00 73 00"
+        }
+      ],
+      "schema_amenities": [
+        "Cómodo paseo",
+        "Zona de picnic"
+      ],
+      "when_to_visit": "<p>Verano para el ecosistema del estanque - y el parque señala que es 'una hermosa caminata de invierno también'. Una hoja de descripción PDF del paseo accesible se puede descargar desde el sitio del parque nacional.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "900 m très faciles autour du plan d'eau, pique-nique et pêche sur place.",
+          "tag": "30 min",
+          "title": "Le tour du plan d'eau"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>promenade du plan de l'Eau des Bruyères</strong>, au hameau des Bruyères (Les Menuires, commune des Belleville), fait <strong>900 mètres</strong> autour du premier plan d'eau : 30 minutes, 15 m de dénivelé, « très facile ». « Le plan de l'eau des Bruyères, petit écrin naturel, au fond d'un vallon préservé abrite un écosystème remarquable », écrit l'office — grenouilles, libellules, truites et saumons de fontaine, énumère le Parc national de la Vanoise.</p><p>Le Parc la publie d'ailleurs dans sa rubrique <strong>« Un parc accessible à tous / des sites aménagés »</strong>, au titre de « Promenade accessible » labellisée <strong>« Promenade confort »</strong> — aucun statut fauteuil explicite n'étant publié, nous le notons comme aménagement déclaré, pas davantage. Sur place : pique-nique, pêche, et le départ de la randonnée du lac du Lou. Parkings à 200 m.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuit",
+        "best_season": null,
+        "commune": "Les Belleville",
+        "dogs": null,
+        "parking": "À 200 m",
+        "stroller": null,
+        "type": "Promenade confort",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Le Parc national de la Vanoise la publie parmi ses « sites aménagés » de la rubrique « Un parc accessible à tous », sous le label « Promenade confort » (900 m, très facile). Aucun statut fauteuil roulant explicite n'est publié — nous rapportons l'aménagement tel qu'il est déclaré.",
+          "q": "La promenade est-elle accessible à tous ?"
+        },
+        {
+          "a": "Un « écosystème remarquable » : grenouilles, libellules, truites et saumons de fontaine, selon le Parc national.",
+          "q": "Que voir dans le plan d'eau ?"
+        },
+        {
+          "a": "Oui : le parking du plan de l'Eau des Bruyères est aussi le départ de la randonnée du lac du Lou.",
+          "q": "Peut-on continuer plus loin ?"
+        },
+        {
+          "a": "« Jolie balade d'hiver également », note le Parc national.",
+          "q": "Et en hiver ?"
+        }
+      ],
+      "hero": {
+        "badge": "900 m · Promenade confort",
+        "lead": "Au fond d'un vallon préservé des Menuires, 900 mètres de promenade « très facile » autour d'un plan d'eau à grenouilles et libellules — un site que le Parc national range lui-même parmi ses aménagements accessibles à tous."
+      },
+      "hero_alt": "Caillebotis au bord du plan d'eau des Bruyères, Les Menuires",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Aux Menuires (D117), quartier des Bruyères ; parking du plan de l'Eau à 200 m.",
+        "public_transport": null
+      },
+      "meta_description": "La promenade du plan de l'Eau des Bruyères aux Menuires : 900 m très faciles autour d'un plan d'eau à grenouilles et libellules, publiée par le Parc de la Vanoise parmi ses sites accessibles à tous.",
+      "meta_title": "Plan de l'Eau des Bruyères · promenade confort, Les Menuires",
+      "name": "Promenade du plan de l'Eau des Bruyères",
+      "name_alternates": [
+        "Plan de l'eau des Bruyères"
+      ],
+      "practical_info": [
+        {
+          "k": "Itinéraire",
+          "v": "900 m · ~30 min · +15 m · « très facile »"
+        },
+        {
+          "k": "Label",
+          "v": "« Promenade confort », publiée par le Parc dans « Un parc accessible à tous »"
+        },
+        {
+          "k": "Écosystème",
+          "v": "Grenouilles, libellules, truites, saumons de fontaine (Parc national)"
+        },
+        {
+          "k": "Sur place",
+          "v": "Pique-nique, pêche, départ de la rando du lac du Lou · parkings à 200 m"
+        },
+        {
+          "k": "Contact",
+          "v": "OT Les Menuires · 04 79 00 73 00"
+        }
+      ],
+      "schema_amenities": [
+        "Promenade confort",
+        "Aire de pique-nique"
+      ],
+      "when_to_visit": "<p>L'été pour l'écosystème du plan d'eau — et le Parc note que c'est « une jolie balade d'hiver également ». Une fiche descriptive PDF de la promenade accessible est téléchargeable sur le site du Parc national.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Molto facile 900 m intorno al laghetto, con picnic e pesca in loco.",
+          "tag": "30 min",
+          "title": "Il giro del laghetto"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Passeggiata Plan de l'Eau des Bruyères</strong>, al quartiere di Bruyères (Les Menuires, comune di Les Belleville), piste <strong>900 metri</strong> intorno al primo stagno: 30 minuti, 15 m di salita, 'molto facile'. «Il laghetto Bruyères, un piccolo gioiello naturale alla testa di una valle conservata, ripara un notevole ecosistema», scrive l'ufficio — rane, libellule, trote e ruscello, elenca il parco nazionale Vanoise.</p><p>Il parco infatti lo pubblica nella sua sezione <strong>'Un parco accessibile a tutti / posti fuori'</strong>, come una 'passeggiata accessibile' che trasporta <strong>'Comfort Walk'</strong> etichetta Non viene pubblicato alcun stato esplicito della sedia a rotelle, registriamo la struttura come dichiarato, non oltre. In loco: pic-nic, pesca, e la pista dell'escursione Lac du Lou. Parcheggi a 200 m di distanza.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": null,
+        "commune": "Les Belleville",
+        "dogs": null,
+        "parking": "200 m di distanza",
+        "stroller": null,
+        "type": "Comfort a piedi",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Il parco nazionale Vanoise lo pubblica tra i siti \"laid-out\" della sua sezione \"parco accessibile a tutti\", sotto l'etichetta 'Comfort Walk' (900 m, molto facile). Nessuna condizione esplicita della sedia a rotelle è pubblicata — riferiamo alla struttura come dichiarato.",
+          "q": "La passeggiata è accessibile a tutti?"
+        },
+        {
+          "a": "Un 'ecosistema notevole': rane, libellule, trote e ruscello, per il parco nazionale.",
+          "q": "Cosa vive nel laghetto?"
+        },
+        {
+          "a": "Sì. il parco del laghetto di Bruyères è anche il sentiero del Lac du Lou.",
+          "q": "Puoi andare oltre?"
+        },
+        {
+          "a": "'Anche una bella passeggiata invernale', nota il parco nazionale.",
+          "q": "E in inverno?"
+        }
+      ],
+      "hero": {
+        "badge": "900 m · Comfort walk",
+        "lead": "Alla testa di una valle di Menuires conservata, una passeggiata \"molto facile\" di 900 metri intorno a uno stagno di rane e libellule — un sito il parco nazionale stesso elenca tra le sue strutture accessibili a tutti."
+      },
+      "hero_alt": "Passeggiate lungo lo stagno di Bruyères, Les Menuires",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "A Les Menuires (D117), quartiere di Les Bruyères; parco auto stagno a 200 m di distanza.",
+        "public_transport": null
+      },
+      "meta_description": "Il lago Bruyères cammina a Les Menuires: a 900 m molto facile intorno a uno stagno di rane e libellule, elencati dal parco Vanoise tra i suoi siti accessibili a tutti.",
+      "meta_title": "Plan de l'Eau des Bruyères · comfort walk, Les Menuires",
+      "name": "Promenade du plan de l'Eau des Bruyères",
+      "name_alternates": [
+        "Plan de l'eau des Bruyères"
+      ],
+      "practical_info": [
+        {
+          "k": "Itinerario",
+          "v": "900 m · ~30 min · +15 m · 'molto facile'"
+        },
+        {
+          "k": "Etichetta",
+          "v": "'Comfort Walk', elencato dal parco sotto 'Un parco accessibile a tutti'"
+        },
+        {
+          "k": "Ecosistema",
+          "v": "Rane, libellule, trote, ruscello di beneficenza (parco nazionale)"
+        },
+        {
+          "k": "Sul sito",
+          "v": "Picnic, pesca, Lac du Lou Trailhead · parcheggi a 200 m di distanza"
+        },
+        {
+          "k": "Contatto",
+          "v": "Ufficio turistico di Les Menuires · +33 4 79 00 73 00"
+        }
+      ],
+      "schema_amenities": [
+        "Comfort a piedi",
+        "Area Picnic"
+      ],
+      "when_to_visit": "<p>Estate per l'ecosistema del laghetto — e il parco nota che è 'una bella passeggiata invernale anche'. Un foglio di descrizione PDF della passeggiata accessibile può essere scaricato dal sito del parco nazionale.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Een zeer gemakkelijke 900 m rond de vijver, met picknicken en vissen ter plaatse.",
+          "tag": "30 min.",
+          "title": "De vijverlus"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>Plan de l'Eau des Bruyères wandeling</strong>, in de wijk Bruyères (Les Menuires, gemeente Les Belleville), loopt <strong>900 meter</strong> rond de eerste vijver: 30 minuten, 15 meter klim, 'zeer gemakkelijk'. 'De vijver Bruyères, een klein natuurlijk juweeltje aan het hoofd van een bewaarde vallei, beschut een opmerkelijk ecosysteem', schrijft het kantoor kikkers, libellen, forel en beek char, geeft een lijst van de Vanoise nationaal park.</p><p>Het park publiceert het inderdaad in zijn sectie <strong>'Een park toegankelijk voor alle / aangelegde sites'</strong>, als een 'toegankelijke wandeling' <strong>'Comfort Walk'</strong> label Geen expliciete rolstoelstatus wordt gepubliceerd, we registreren de faciliteit zoals aangegeven, niet verder. Ter plaatse: Picknicken, vissen, en het pad van de Lac du Lou wandeling. Parkeren op 200 m afstand.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Vrij",
+        "best_season": null,
+        "commune": "Les Belleville",
+        "dogs": null,
+        "parking": "200 m afstand",
+        "stroller": null,
+        "type": "Comfort wandeling",
+        "winter_access": "open"
+      },
+      "faq": [
+        {
+          "a": "Het nationale park Vanoise publiceert het onder het label 'Comfort Walk' (900 m, zeer gemakkelijk). Er wordt geen expliciete rolstoelstatus gepubliceerd We melden de faciliteit zoals aangegeven.",
+          "q": "Is de wandeling toegankelijk voor iedereen?"
+        },
+        {
+          "a": "Een 'opmerkelijk ecosysteem': kikkers, libellen, forel en beekchar, per nationaal park.",
+          "q": "Wat leeft er in de vijver?"
+        },
+        {
+          "a": "Ja: De vijverparking Bruyères is ook het pad van de wandeling Lac du Lou.",
+          "q": "Kun je verder lopen?"
+        },
+        {
+          "a": "'Een heerlijke winterwandeling ook', merkt het nationale park op.",
+          "q": "En in de winter?"
+        }
+      ],
+      "hero": {
+        "badge": "900 m · Comfort wandeling",
+        "lead": "Aan het hoofd van een bewaarde Menuires vallei, een 900 meter 'zeer gemakkelijk' wandeling rond een vijver van kikkers en libellen . een site die het nationale park zelf onder zijn toegankelijke faciliteiten laat zien."
+      },
+      "hero_alt": "Boardwalk langs de Bruyères vijver, Les Menuires",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Bij Les Menuires (D117), Les Bruyères kwartaal; vijver parkeerplaats 200 m afstand.",
+        "public_transport": null
+      },
+      "meta_description": "De Bruyères vijver wandeling op Les Menuires: een zeer gemakkelijke 900 m rond een vijver van kikkers en libellen, vermeld door de Vanoise park onder de toegankelijke-tot-alle sites.",
+      "meta_title": "Plan de l'Eau des Bruyères · comfort walk, Les Menuires",
+      "name": "Promenade du plan de l'Eau des Bruyères",
+      "name_alternates": [
+        "Plan de l'eau des Bruyères"
+      ],
+      "practical_info": [
+        {
+          "k": "Route",
+          "v": "900 m · ~ 30 min · + 15 m · \"zeer gemakkelijk\""
+        },
+        {
+          "k": "Label",
+          "v": "'Comfort Walk', vermeld door het park onder 'Een park toegankelijk voor iedereen'"
+        },
+        {
+          "k": "Ecosysteem",
+          "v": "Kikkers, libellen, forel, beek char (nationaal park)"
+        },
+        {
+          "k": "Ter plaatse",
+          "v": "Picknick, vissen, Lac du Lou trailhead · parkeerplaatsen 200 m afstand"
+        },
+        {
+          "k": "Contactpersoon",
+          "v": "Les Menuires VVV-kantoor · +33 4 79 00 73 00"
+        }
+      ],
+      "schema_amenities": [
+        "Comfort wandeling",
+        "Picknickgebied"
+      ],
+      "when_to_visit": "<p>Zomer voor het ecosysteem van de vijver en het park merkt op dat het ook 'een heerlijke winterwandeling' is. Een PDF-beschrijving van de toegankelijke wandeling kunt u downloaden van de site van het nationaal park.</p>"
+    }
+  },
+  "latitude": 45.313649,
+  "longitude": 6.54062,
+  "official_site_url": "https://www.lesmenuires.com/fr/promenade-du-plan-de-leau-des-bruyeres",
+  "partners": [],
+  "postal_code": "73440",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-18, FR pages only (Les Menuires, Parc national de la Vanoise). Promenade de « 900 m », 30 min, +15 m, « Très facile », autour du premier plan d'eau, au hameau des Bruyères (Les Menuires). Le Parc national la publie dans sa rubrique « Un parc accessible à tous / des sites aménagés » comme « Promenade accessible » labellisée « Promenade confort » → acces_pmr partiel (aménagement cité, pas de statut fauteuil explicite). « Le plan de l'eau des Bruyères, petit écrin naturel, au fond d'un vallon préservé abrite un écosystème remarquable » : grenouilles, libellules, truites et saumons de fontaine. Pique-nique, pêche, départ de la rando du lac du Lou. Parkings à 200 m. « Jolie balade d'hiver également » (Vanoise). GPS non publié par les sources → géocodage IGN du hameau des Bruyères (45.313649/6.54062), noté ici.",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "promenade-du-plan-de-l-eau-des-bruyeres",
+  "sources": [
+    "https://www.lesmenuires.com/fr/promenade-du-plan-de-leau-des-bruyeres",
+    "https://www.vanoise-parcnational.fr/fr/des-decouvertes/un-parc-accessible-tous/des-sites-amenages/promenade-accessible-au-plan-deau-des"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "GPS — non publié par les sources officielles ; coordonnées du hameau des Bruyères par géocodeur IGN (45.313649, 6.54062)."
+  ]
+}

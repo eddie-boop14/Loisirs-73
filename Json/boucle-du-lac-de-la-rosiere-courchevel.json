@@ -1,0 +1,565 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-18",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "sentier",
+  "commune": "Courchevel",
+  "date_modified_human": "18 août 2026",
+  "date_published_human": "18 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-18",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-famille-foret.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Eine einfache 1,8 km um den Waldsee, eine Fußgängerbrücke über dem Wasser, ein Picknickplatz.",
+          "tag": "1 h",
+          "title": "Die Lake Loop und ihre Fußgängerbrücke"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>Rosière-Seeschlaufen</strong>, am Fuße des Avals-Tals (Courchevel Moriond), wird von Courchevel Tourisme als \"Comfort Walk\" eingestuft: <strong>1,8 km, ca. 1 h, 40 m Aufstieg</strong>, leicht, bis zu 1.686 m. Der Familienblog des Büros nennt es \"perfekt geeignet für Familien mit kleinen Kindern\", mit einem \"Kinderwagen-zugänglichen Weg\". Unterwegs: die Fußgängerbrücke über den See, den Père Fritsch botanischen Pfad, ein Anfänger' via ferrata und Molche zu sehen. Der Poux Wasserfall, in der Nähe, hat unsere separate Seite.</p><p>Eine Zeitung Kuriosität, zitiert wie es steht: im Winter die gleiche Website veröffentlicht ein Schneeschuh \"Rosière See Schleife\" — <strong>3,5 km, 1 h 45, +180 m, bewertet 'Schwierig'</strong> (1. Dezember bis 30. April), mit dieser Warnung: \"Achten Sie darauf, nicht unter den großen Lawinen Couloirs des Dent du Villard zu stoppen.\" Gleicher Ort, zwei Schleifen, zwei Jahreszeiten - nicht im Winter auf die Stärke des Sommerblattes gehen.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "frei",
+        "best_season": "15. April – 31. Oktober (Sommerschleife)",
+        "commune": "Courchevel",
+        "dogs": "Akzeptiert",
+        "parking": "in der Nähe; Cimes Blanches beraten",
+        "stroller": "Kinderwagen-zugänglich (Touristenbüro)",
+        "type": "Familienschleifen",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Ja: Der Familienblog von Courchevel Tourisme kündigt einen \"schlenderzugänglichen Pfad\" an, auf einer 1,8 km langen Schleife, etwa 1 h, 40 m Aufstieg, der als \"Comfort Walk\" eingestuft wird.",
+          "q": "Passt die Schleife zu Kinderwagen?"
+        },
+        {
+          "a": "Nein — und die offiziellen Blätter unterscheiden sich: Sommer 1,8 km / 1 h / leicht; Winter (Schneeschuhe, 01/12 bis 30/04) 3,5 km / 1 h 45 / +180 m / 'Schwierig', mit einer Lawinenwarnung unterhalb des Dent du Villard. Wir zitieren beide.",
+          "q": "Sommer und Winter — Die gleiche Schleife?"
+        },
+        {
+          "a": "Die Fußgängerbrücke über den See, der botanische Père Fritsch-Pfad, eine Anfänger-Überfahrt, Molche im See - und den Poux-Wasserfall nebenan (separate Seite).",
+          "q": "Was gibt es zu sehen?"
+        },
+        {
+          "a": "Ja, \"Tiere akzeptiert\" pro Sommerblatt.",
+          "q": "Sind Hunde erlaubt?"
+        }
+      ],
+      "hero": {
+        "badge": "1 h Schleife · Kinderwagen",
+        "lead": "Eine Stunde \"Comfort Walk\" um einen Waldsee und seine Fußgängerbrücke, kinderwagenfreundlich - und im Winter ändert die gleiche Schleife Name, Länge und Grad: Beide Blätter sind zitiert."
+      },
+      "hero_alt": "Familienwald Spaziergang am Rosière See, Courchevel",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Courchevel Moriond, Straße Rosière; Parkplatz in der Nähe des Sees (Cimes Blanches + Shuttle im Sommer empfohlen).",
+        "public_transport": "Line H Shuttle im Sommer."
+      },
+      "meta_description": "Die Rosière Lake Loop bei Courchevel: eine einfache 1,8 km in 1 h, Kinderwagen-zugänglich, eine Fußgängerbrücke über den See und einen botanischen Weg. Die längere, \"schwierige\" Winterversion wird ebenfalls zitiert.",
+      "meta_title": "Rosière-Seeschleife · 1 h, Kinderwagen, Courchevel",
+      "name": "Boucle du lac de la Rosière",
+      "name_alternates": [
+        "Comfort walk: torrent and Rosière lake"
+      ],
+      "practical_info": [
+        {
+          "k": "Sommerschleife",
+          "v": "1,8 km · ~1 h · +40 m · leicht · 15/04 – 31/10 · frei"
+        },
+        {
+          "k": "Winterschleife (Schneeschuhe)",
+          "v": "3,5 km · 1 h 45 · +180 m · \"schwierig\" · 01/12 – 30/04 (getrenntes Blatt, Lawinenwarnung)"
+        },
+        {
+          "k": "Kinderwagen",
+          "v": "'Stroller-zugänglicher Pfad' (Tourist-Office-Blog)"
+        },
+        {
+          "k": "Vor Ort",
+          "v": "Fußgängerbrücke, Père Fritsch botanischer Pfad, Anfänger via ferrata, Picknick, Toiletten"
+        },
+        {
+          "k": "Kontakt",
+          "v": "Courchevel Tourismus · +33 4 79 08 00 29"
+        }
+      ],
+      "schema_amenities": [
+        "Fußbrücke",
+        "Picknickbereich",
+        "Toiletten"
+      ],
+      "when_to_visit": "<p>Die Sommerschleife wird angekündigt <strong>vom 15. April bis 31. Oktober</strong> (Wetterabhängiger Zugang), frei, Tiere akzeptiert. Parken in der Nähe des Sees - Häufig beschäftigt: Das Büro berät Cimes Blanches + Shuttle. Picknickbereich und Toiletten vor Ort.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "An easy 1.8 km around the forest lake, a footbridge over the water, a picnic area.",
+          "tag": "1 h",
+          "title": "The lake loop and its footbridge"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Rosière lake loop</strong>, at the foot of the Avals valley (Courchevel Moriond), is classed a 'Comfort Walk' by Courchevel Tourisme: <strong>1.8 km, about 1 h, 40 m of climb</strong>, easy, up to 1,686 m. The office's family blog calls it 'perfectly suited to families with young children', with a 'stroller-accessible path'. Along the way: the footbridge across the lake, the Père Fritsch botanical trail, a beginners' via ferrata, and newts to spot. The Poux waterfall, close by, has our separate page.</p><p>A paper curiosity, quoted as it stands: in winter the same site publishes a snowshoe 'Rosière lake loop' — <strong>3.5 km, 1 h 45, +180 m, rated 'Difficult'</strong> (1 December to 30 April), with this warning: 'take care not to stop beneath the great avalanche couloirs of the Dent du Villard'. Same place, two loops, two seasons — do not set out in winter on the strength of the summer sheet.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free",
+        "best_season": "15 April – 31 October (summer loop)",
+        "commune": "Courchevel",
+        "dogs": "Accepted",
+        "parking": "Nearby; Cimes Blanches advised",
+        "stroller": "Stroller-accessible (tourist office)",
+        "type": "Family loop",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Yes: Courchevel Tourisme's family blog announces a 'stroller-accessible path', on a 1.8 km loop, about 1 h, 40 m of climb, classed a 'Comfort Walk'.",
+          "q": "Does the loop suit strollers?"
+        },
+        {
+          "a": "No — and the official sheets differ: summer 1.8 km / 1 h / easy; winter (snowshoes, 01/12 to 30/04) 3.5 km / 1 h 45 / +180 m / 'Difficult', with an avalanche warning below the Dent du Villard. We quote both.",
+          "q": "Summer and winter — the same loop?"
+        },
+        {
+          "a": "The footbridge across the lake, the Père Fritsch botanical trail, a beginners' via ferrata, newts in the lake — and the Poux waterfall next door (separate page).",
+          "q": "What is there to see?"
+        },
+        {
+          "a": "Yes, 'animals accepted' per the summer sheet.",
+          "q": "Are dogs allowed?"
+        }
+      ],
+      "hero": {
+        "badge": "1 h loop · Strollers",
+        "lead": "An hour's 'Comfort Walk' around a forest lake and its footbridge, stroller-friendly — and in winter the same loop changes name, length and grade: both sheets are quoted."
+      },
+      "hero_alt": "Family forest walk at the Rosière lake, Courchevel",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Courchevel Moriond, Rosière road; parking near the lake (Cimes Blanches + shuttle advised in summer).",
+        "public_transport": "Line H shuttle in summer."
+      },
+      "meta_description": "The Rosière lake loop at Courchevel: an easy 1.8 km in 1 h, stroller-accessible, a footbridge over the lake and a botanical trail. The longer, 'difficult' winter version is quoted too.",
+      "meta_title": "Rosière lake loop · 1 h, strollers, Courchevel",
+      "name": "Boucle du lac de la Rosière",
+      "name_alternates": [
+        "Comfort walk: torrent and Rosière lake"
+      ],
+      "practical_info": [
+        {
+          "k": "Summer loop",
+          "v": "1.8 km · ~1 h · +40 m · easy · 15/04 – 31/10 · free"
+        },
+        {
+          "k": "Winter loop (snowshoes)",
+          "v": "3.5 km · 1 h 45 · +180 m · 'Difficult' · 01/12 – 30/04 (separate sheet, avalanche warning)"
+        },
+        {
+          "k": "Strollers",
+          "v": "'Stroller-accessible path' (tourist-office blog)"
+        },
+        {
+          "k": "On site",
+          "v": "Footbridge, Père Fritsch botanical trail, beginners' via ferrata, picnic, toilets"
+        },
+        {
+          "k": "Contact",
+          "v": "Courchevel Tourisme · +33 4 79 08 00 29"
+        }
+      ],
+      "schema_amenities": [
+        "Footbridge",
+        "Picnic area",
+        "Toilets"
+      ],
+      "when_to_visit": "<p>The summer loop is announced <strong>from 15 April to 31 October</strong> (access subject to weather), free, animals accepted. Parking near the lake — often busy: the office advises Cimes Blanches + shuttle. Picnic area and toilets on site.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "Un fácil 1,8 km alrededor del lago forestal, una pasarela sobre el agua, una zona de picnic.",
+          "tag": "1 h",
+          "title": "El lazo del lago y su pasarela"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>Loop del lago Rosière</strong>, a los pies del valle de Avals (Courchevel Moriond), se clasifica un 'Camino de confort' por Courchevel Tourisme: <strong>1,8 km, aproximadamente 1 h, 40 m de escalada</strong>, fácil, hasta 1.686 m. El blog familiar de la oficina lo llama 'apto para familias con niños pequeños', con una 'carretera accesible a la fuerza'. Por el camino: la pasarela a través del lago, el sendero botánico Père Fritsch, un principiante vía ferrata, y nuevos para detectar. La cascada Poux, cerca, tiene nuestra página separada.</p><p>Una curiosidad de papel, citada como está: en invierno el mismo sitio publica un snowshoe 'Rosière lake loop' — <strong>3.5 km, 1 h 45, +180 m, valorado 'Dificulto'</strong> (1 de diciembre a 30 de abril), con esta advertencia: 'tomen cuidado de no parar bajo los grandes couloirs avalanche de la Dent du Villard'. El mismo lugar, dos lazos, dos estaciones: no se establece en invierno en la fuerza de la hoja de verano.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": "15 de abril – 31 de octubre (arriba de verano)",
+        "commune": "Courchevel",
+        "dogs": "Aceptado",
+        "parking": "Cerca; Cimes Blanches aconsejada",
+        "stroller": "Stroller-accessible (oficina turística)",
+        "type": "Loop familiar",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Sí: El blog familiar de Courchevel Tourisme anuncia una 'carretera de acceso a la fuerza', en un bucle de 1,8 km, alrededor de 1 h, 40 m de escalada, clasificado un 'Camino de confort'.",
+          "q": "¿Tiene el traje de bucle paseos?"
+        },
+        {
+          "a": "No. y las hojas oficiales difieren: verano 1,8 km / 1 h / fácil; invierno (snowshoes, 01/12 a 30/04) 3.5 km / 1 h 45 / +180 m / 'Difficult', con una advertencia avalancha debajo de la Dent du Villard. Citamos ambos.",
+          "q": "Verano e invierno ¿El mismo bucle?"
+        },
+        {
+          "a": "La pasarela por el lago, el sendero botánico Père Fritsch, un principiante vía ferrata, nuevos en el lago — y la cascada Poux al lado (página separada).",
+          "q": "¿Qué hay que ver?"
+        },
+        {
+          "a": "Sí, 'animales aceptados' por la hoja de verano.",
+          "q": "¿Se permiten perros?"
+        }
+      ],
+      "hero": {
+        "badge": "1 h bucle · Strollers",
+        "lead": "Una hora de 'Camina de Confort' alrededor de un lago de bosque y su pasarela, fácil de pasear — y en invierno el mismo bucle cambia nombre, longitud y grado: ambas hojas se citan."
+      },
+      "hero_alt": "Paseo en bosque familiar en el lago Rosière, Courchevel",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Courchevel Moriond, carretera Rosière; aparcamiento cerca del lago (Cimes Blanches + servicio de enlace en verano).",
+        "public_transport": "Transbordador de línea H en verano."
+      },
+      "meta_description": "El lazo del lago Rosière en Courchevel: un fácil 1.8 km en 1 h, acceso al cochero, una pasarela sobre el lago y un sendero botánico. La versión de invierno más larga, 'difícil' también se cita.",
+      "meta_title": "Loop del lago Rosière · 1 h, cochecitos, Courchevel",
+      "name": "Boucle du lac de la Rosière",
+      "name_alternates": [
+        "Comfort walk: torrent and Rosière lake"
+      ],
+      "practical_info": [
+        {
+          "k": "Bucle de verano",
+          "v": "1.8 km · ~1 h · +40 m · fácil · 15/04 – 31/10 · gratis"
+        },
+        {
+          "k": "Bucle de invierno (snowshoes)",
+          "v": "3.5 km · 1 h 45 · +180 m · 'Difícil' · 01/12 – 30/04 (sola separada, advertencia de avalancha)"
+        },
+        {
+          "k": "Strollers",
+          "v": "'Stroller-accesible path' (turist-office blog)"
+        },
+        {
+          "k": "En el sitio",
+          "v": "Footbridge, Père Fritsch sendero botánico, principiantes' via ferrata, picnic, aseos"
+        },
+        {
+          "k": "Contacto",
+          "v": "Courchevel Tourisme · +33 4 79 08 00 29"
+        }
+      ],
+      "schema_amenities": [
+        "Footbridge",
+        "Zona de picnic",
+        "Toilets"
+      ],
+      "when_to_visit": "<p>El bucle de verano se anuncia <strong>del 15 de abril al 31 de octubre</strong> (acceso sujeto al clima), libre, animales aceptados. Aparcamiento cerca del lago — a menudo ocupado: la oficina asesora Cimes Blanches + transbordador. Zona de picnic y aseos en el sitio.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "1,8 km faciles autour du lac de forêt, passerelle au milieu de l'eau, aire de pique-nique.",
+          "tag": "1 h",
+          "title": "Le tour du lac et sa passerelle"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>boucle du lac de la Rosière</strong>, au pied de la vallée des Avals (Courchevel Moriond), est classée « Promenade Confort » par Courchevel Tourisme : <strong>1,8 km, environ 1 h, 40 m de dénivelé</strong>, niveau facile, jusqu'à 1 686 m. Le blog familles de l'office la dit « parfaitement adaptée aux familles avec de jeunes enfants », avec un « sentier accessible aux poussettes ». Sur le parcours : la passerelle qui traverse le lac, le sentier botanique du Père Fritsch, une via ferrata d'initiation, et des tritons à observer. La cascade des Poux, toute proche, fait l'objet de notre fiche séparée.</p><p>Une curiosité de papier, citée telle quelle : l'hiver, le même site publie une « Boucle du lac de la Rosière » en raquettes — <strong>3,5 km, 1 h 45, +180 m, niveau « Difficile »</strong> (du 1er décembre au 30 avril), avec cet avertissement : « attention de ne pas stationner au pied des grands couloirs d'avalanche de la Dent du Villard ». Même lieu, deux boucles, deux saisons — ne partez pas l'hiver sur la foi de la fiche d'été.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuit",
+        "best_season": "15 avril – 31 octobre (boucle d'été)",
+        "commune": "Courchevel",
+        "dogs": "Acceptés",
+        "parking": "À proximité ; Cimes Blanches conseillé",
+        "stroller": "Accessible aux poussettes (OT)",
+        "type": "Boucle familiale",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Oui : le blog familles de Courchevel Tourisme annonce un « sentier accessible aux poussettes », sur une boucle de 1,8 km, 1 h environ, 40 m de dénivelé, classée « Promenade Confort ».",
+          "q": "La boucle convient-elle aux poussettes ?"
+        },
+        {
+          "a": "Non — et les fiches officielles diffèrent : été 1,8 km / 1 h / facile ; hiver (raquettes, 01/12 à 30/04) 3,5 km / 1 h 45 / +180 m / « Difficile », avec un avertissement avalanche sous la Dent du Villard. Nous citons les deux.",
+          "q": "Été et hiver, est-ce la même boucle ?"
+        },
+        {
+          "a": "La passerelle qui traverse le lac, le sentier botanique du Père Fritsch, une via ferrata d'initiation, des tritons dans le lac — et la cascade des Poux à côté (fiche séparée).",
+          "q": "Que voir sur place ?"
+        },
+        {
+          "a": "Oui, « animaux acceptés » selon la fiche d'été.",
+          "q": "Les chiens sont-ils admis ?"
+        }
+      ],
+      "hero": {
+        "badge": "Boucle 1 h · Poussettes",
+        "lead": "Une heure de « Promenade Confort » autour d'un lac de forêt et de sa passerelle, accessible aux poussettes — et, l'hiver, la même boucle change de nom, de longueur et de niveau : les deux fiches sont citées."
+      },
+      "hero_alt": "Balade familiale en forêt au lac de la Rosière, Courchevel",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Courchevel Moriond, route de la Rosière ; parking à proximité du lac (Cimes Blanches + navette conseillés en été).",
+        "public_transport": "Navette ligne H l'été."
+      },
+      "meta_description": "La boucle du lac de la Rosière à Courchevel : 1,8 km faciles en 1 h, accessible aux poussettes, passerelle sur le lac et sentier botanique. La version hivernale, plus longue et « difficile », est citée aussi.",
+      "meta_title": "Boucle du lac de la Rosière · 1 h, poussettes, Courchevel",
+      "name": "Boucle du lac de la Rosière",
+      "name_alternates": [
+        "Promenade Confort : torrent et lac de la Rosière"
+      ],
+      "practical_info": [
+        {
+          "k": "Boucle d'été",
+          "v": "1,8 km · ~1 h · +40 m · facile · 15/04 – 31/10 · gratuit"
+        },
+        {
+          "k": "Boucle d'hiver (raquettes)",
+          "v": "3,5 km · 1 h 45 · +180 m · « Difficile » · 01/12 – 30/04 (fiche distincte, avertissement avalanche)"
+        },
+        {
+          "k": "Poussettes",
+          "v": "« Sentier accessible aux poussettes » (blog OT)"
+        },
+        {
+          "k": "Sur place",
+          "v": "Passerelle, sentier botanique du Père Fritsch, via ferrata d'initiation, pique-nique, toilettes"
+        },
+        {
+          "k": "Contact",
+          "v": "Courchevel Tourisme · 04 79 08 00 29"
+        }
+      ],
+      "schema_amenities": [
+        "Passerelle",
+        "Aire de pique-nique",
+        "Toilettes"
+      ],
+      "when_to_visit": "<p>La boucle d'été est annoncée <strong>du 15 avril au 31 octobre</strong> (accès selon conditions météo), gratuite, animaux acceptés. Parking à proximité du lac — souvent chargé : l'office conseille les Cimes Blanches + navette. Aire de pique-nique et toilettes sur place.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Un facile 1,8 km intorno al lago forestale, una passerella sopra l'acqua, una zona picnic.",
+          "tag": "1 h",
+          "title": "L'anello del lago e la sua passerella"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Ciclo lago Rosière</strong>, ai piedi della valle Avals (Courchevel Moriond), è classificato un 'Comfort Walk' di Courchevel Tourisme: <strong>1.8 km, circa 1 h, 40 m di salita</strong>, facile, fino a 1,686 m. Il blog di famiglia dell'ufficio lo chiama 'perfettamente adatto a famiglie con bambini piccoli', con un 'percorso forte-accessibile'. Lungo la strada: il ponte pedonale attraverso il lago, il sentiero botanico Père Fritsch, la via ferrata dei principianti e le novità da avvistare. La cascata di Poux, vicino, ha la nostra pagina separata.</p><p>Una curiosità di carta, citata come sta: in inverno lo stesso sito pubblica una racchetta da neve 'Rosière lago loop' — <strong>3.5 km, 1 h 45, +180 m, valutato 'Difficile'</strong> (dal 1 dicembre al 30 aprile), con questo avvertimento: 'Fare attenzione a non fermarsi sotto le grandi valanghe couloirs della Dent du Villard'. Stesso posto, due cappi, due stagioni — non impostare in inverno sulla forza del foglio estivo.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": "15 aprile – 31 ottobre (anello estivo)",
+        "commune": "Courchevel",
+        "dogs": "Accettato",
+        "parking": "Nelle vicinanze; Cimes Blanches consigliato",
+        "stroller": "Passeggino-accessibile (ufficio turistico)",
+        "type": "Ciclo di famiglia",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Sì. Il blog familiare di Courchevel Tourisme annuncia un percorso 'forte-accessibile', su un anello di 1,8 km, circa 1 h, 40 m di salita, classificato 'Comfort Walk'.",
+          "q": "I passeggini della tuta?"
+        },
+        {
+          "a": "No. e i fogli ufficiali differiscono: estate 1,8 km / 1 h / facile; inverno (snowshoes, 01/12 al 30/04) 3.5 km / 1 h 45 / +180 m / 'Difficult', con un avviso valanga sotto il Dent du Villard. Citiamo entrambi.",
+          "q": "Estate e inverno — lo stesso anello?"
+        },
+        {
+          "a": "Il ponte pedonale attraverso il lago, il sentiero botanico Père Fritsch, una via ferrata dei principianti, le novitÃ nel lago — e la cascata di Poux accanto porta (pagina separata).",
+          "q": "Cosa c'è da vedere?"
+        },
+        {
+          "a": "Sì, 'animali accettati' per il foglio estivo.",
+          "q": "I cani sono ammessi?"
+        }
+      ],
+      "hero": {
+        "badge": "1 h loop · Passeggiatori",
+        "lead": "Un'ora di 'Comfort Walk' intorno a un lago di foresta e la sua passerella, passeggino-friendly — e in inverno lo stesso anello cambia nome, lunghezza e grado: entrambi i fogli sono citati."
+      },
+      "hero_alt": "Passeggiata nella foresta di famiglia al lago Rosière, Courchevel",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Courchevel Moriond, strada Rosière; parcheggio vicino al lago (Cimes Blanches + navetta consigliata in estate).",
+        "public_transport": "Navetta H linea in estate."
+      },
+      "meta_description": "Il ciclo del lago Rosière a Courchevel: un facile 1,8 km in 1 h, passeggino-accessibile, una passerella sul lago e un sentiero botanico. Anche la versione invernale \"difficile\" più lunga è citata.",
+      "meta_title": "Ciclo lago Rosière · 1 h, passeggini, Courchevel",
+      "name": "Boucle du lac de la Rosière",
+      "name_alternates": [
+        "Comfort walk: torrent and Rosière lake"
+      ],
+      "practical_info": [
+        {
+          "k": "Ciclo estivo",
+          "v": "1.8 km · ~1 h · +40 m · facile · 15/04 – 31/10 · gratuito"
+        },
+        {
+          "k": "Ciclo invernale (snowshoes)",
+          "v": "3.5 km · 1 h 45 · +180 m · 'Difficile' · 01/12 – 30/04 (retro separato, avviso valanghe)"
+        },
+        {
+          "k": "Passeggini",
+          "v": "'Stroller-accessible path' (turista-office blog)"
+        },
+        {
+          "k": "Sul sito",
+          "v": "Passerella, sentiero botanico Père Fritsch, via ferrata, picnic, toilette"
+        },
+        {
+          "k": "Contatto",
+          "v": "Courchevel Turismo · +33 4 79 08 00 29"
+        }
+      ],
+      "schema_amenities": [
+        "Ponte delle gambe",
+        "Area Picnic",
+        "Servizi igienici"
+      ],
+      "when_to_visit": "<p>Il ciclo estivo è annunciato <strong>dal 15 aprile al 31 ottobre</strong> (accesso soggetto al tempo), libero, animali accettati. Parcheggio vicino al lago — spesso occupato: l'ufficio consiglia Cimes Blanches + navetta. Area Picnic e servizi igienici in loco.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Een gemakkelijk 1,8 km rond het bosmeer, een voetgangersbrug over het water, een picknickgebied.",
+          "tag": "1 uur",
+          "title": "De lus van het meer en zijn voetbrug"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>Rosière meerlus</strong>Aan de voet van de vallei van Avals (Courchevel Moriond) wordt een 'Comfort Walk' van Courchevel Tourisme genoemd: <strong>1,8 km, ongeveer 1 uur, 40 m klim</strong>, gemakkelijk, tot 1686 m. De familieblog van het kantoor noemt het 'perfect geschikt voor gezinnen met jonge kinderen', met een 'stroller toegankelijk pad'. Onderweg: de voetbrug over het meer, de Père Fritsch botanische route, een beginners' via ferrata, en salamanders te spotten. De Poux waterval, vlakbij, heeft onze aparte pagina.</p><p>Een krantennieuwsgierigheid, geciteerd in zijn huidige vorm: in de winter publiceert dezelfde site een sneeuwschoen 'Rosière Lake loop' <strong>3,5 km, 1 uur 45, +180 m, 'moeilijk'</strong> (1 December to 30 April), with this warning: 'Pas op om niet te stoppen onder de grote lawine couloirs van de Dent du Villard'. Zelfde plaats, twee lussen, twee seizoenen. niet in de winter op de sterkte van het zomerblad.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Vrij",
+        "best_season": "15 april 31 oktober (zomerloop)",
+        "commune": "Courchevel",
+        "dogs": "Goedgekeurd",
+        "parking": "In de buurt; Cimes Blanches geadviseerd",
+        "stroller": "Toegankelijk voor wandelaars (toeristenkantoor)",
+        "type": "Familieloop",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Ja: Het familieblog van Courchevel Tourisme kondigt een 'stroller-toegankelijk pad' aan, op een lus van 1,8 km, ongeveer 1 uur, 40 meter klim, een 'Comfort Walk' genoemd.",
+          "q": "Doet de lus kinderwagens aan?"
+        },
+        {
+          "a": "Nee. en de officiële bladen verschillen: zomer 1,8 km / 1 uur / gemakkelijk; winter (sneeuwschoenen, 01/12 tot 30/04) 3,5 km / 1 uur 45 / +180 m / 'moeilijk', met een lawine waarschuwing onder de Dent du Villard. We citeren beide.",
+          "q": "Zomer en winter Dezelfde lus?"
+        },
+        {
+          "a": "De voetbrug over het meer, de Père Fritsch botanische route, een beginners' via ferrata, salamanders in het meer . en de Poux waterval naast de deur (afzonderlijke pagina).",
+          "q": "Wat valt er te zien?"
+        },
+        {
+          "a": "Ja, 'dieren geaccepteerd' per zomerblad.",
+          "q": "Zijn honden toegestaan?"
+        }
+      ],
+      "hero": {
+        "badge": "1 h loop · kinderwagens",
+        "lead": "Een uur 'Comfort Walk' rond een bosmeer en zijn voetbrug, kinderwagen-vriendelijk en in de winter dezelfde lus verandert naam, lengte en rang: beide bladen zijn geciteerd."
+      },
+      "hero_alt": "Familie boswandeling aan het meer van Rosière, Courchevel",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Courchevel Moriond, Rosière Road; parkeren bij het meer (Cimes Blanches + shuttle geadviseerd in de zomer).",
+        "public_transport": "Line H shuttle in de zomer."
+      },
+      "meta_description": "De Rosière meerlus op Courchevel: een gemakkelijke 1,8 km in 1 uur, wandelwagen-toegankelijk, een voetgangersbrug over het meer en een botanische route. Ook de langere, 'moeilijke' winterversie wordt geciteerd.",
+      "meta_title": "Rosière meerlus · 1 uur, kinderwagens, Courchevel",
+      "name": "Boucle du lac de la Rosière",
+      "name_alternates": [
+        "Comfort walk: torrent and Rosière lake"
+      ],
+      "practical_info": [
+        {
+          "k": "Zomerlus",
+          "v": "1.8 km · ~1 h · +40 m · easy · 15/04 – 31/10 · vrij"
+        },
+        {
+          "k": "Winterloop (sneeuwschoenen)",
+          "v": "3,5 km · 1 uur 45 · +180 m · \"moeilijk\" · 01/12 30/04 (afzonderlijke waarschuwing lawine)"
+        },
+        {
+          "k": "kinderwagens",
+          "v": "'Toegankelijk pad voor wandelaars' (blog voor toeristen)"
+        },
+        {
+          "k": "Ter plaatse",
+          "v": "Voetbrug, Père Fritsch botanische route, beginners via ferrata, picknick, toiletten"
+        },
+        {
+          "k": "Contactpersoon",
+          "v": "Courchevel Tourisme · +33 4 79 08 00 29"
+        }
+      ],
+      "schema_amenities": [
+        "Voetbrug",
+        "Picknickgebied",
+        "Toiletten"
+      ],
+      "when_to_visit": "<p>De zomerlus wordt aangekondigd <strong>van 15 april tot en met 31 oktober</strong> (toegang afhankelijk van het weer), gratis, dieren geaccepteerd. Parkeren bij het meer vaak druk: het kantoor adviseert Cimes Blanches + shuttle. Picknickplaats en toiletten ter plaatse.</p>"
+    }
+  },
+  "latitude": 45.417529,
+  "longitude": 6.609155,
+  "official_site_url": "https://courchevel.com/fr/a/promenade-confort-torrent-et-lac-de-la-rosiere-121364/",
+  "partners": [],
+  "postal_code": "73120",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-18, FR pages only (Courchevel Tourisme). « Promenade Confort : torrent et lac de la Rosière » : 1,8 km, 1 h, +40/-40 m, boucle, alt. max 1 686 m, « Facile », du 15/04 au 31/10 ; « Animaux acceptés » ; « sentier accessible aux poussettes » (blog OT famille). Passerelle qui traverse le lac ; sentier botanique du Père Fritsch ; via ferrata d'initiation ; cascade des Poux voisine (fiche séparée). CONTRADICTION saisonnière portée : la fiche raquettes hivernale du même site, même nom de boucle, donne 3,5 km / 1 h 45 / +180 m / « Difficile » (du 01/12 au 30/04) avec avertissement avalanche (Dent du Villard). Parking à proximité + aire de pique-nique + toilettes. NB fiche : lat/lon affichées inversées — remises dans l'ordre. Tarif « Gratuit ».",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "boucle-du-lac-de-la-rosiere-courchevel",
+  "sources": [
+    "https://courchevel.com/fr/a/promenade-confort-torrent-et-lac-de-la-rosiere-121364/",
+    "https://courchevel.com/fr/a/lac-de-la-rosiere-112166/",
+    "https://courchevel.com/fr/a/boucle-du-lac-de-la-rosiere-5969697/"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "ACCES_PMR_UNVERIFIED — la fiche annonce un sentier accessible aux poussettes, mais aucun statut fauteuil roulant n'est publié ; null plutôt qu'inféré."
+  ]
+}

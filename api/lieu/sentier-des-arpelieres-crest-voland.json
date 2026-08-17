@@ -1,0 +1,31 @@
+{
+  "name": "Sentier des Arpelières",
+  "commune": "Crest-Voland",
+  "gps": {
+    "lat": 45.772,
+    "lng": 6.5273
+  },
+  "type": "sentier",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": "Gratuit (Nant Rouge, Monument, la Palette)",
+  "transport": null,
+  "season": "1er juin – 30 septembre",
+  "winter": {
+    "access": "closed",
+    "infrastructure": [],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": "https://savoie-route.fr"
+  },
+  "official_url": "https://www.lessaisies.com/sentier-des-arpelieres-crest-voland.html",
+  "last_verified": null
+}

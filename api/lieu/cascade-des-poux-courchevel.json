@@ -1,0 +1,31 @@
+{
+  "name": "Cascade des Poux",
+  "commune": "Courchevel",
+  "gps": {
+    "lat": 45.417849,
+    "lng": 6.645094
+  },
+  "type": "cascade",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": "Cimes Blanches conseillé + navette",
+  "transport": null,
+  "season": "1er mai – 31 octobre",
+  "winter": {
+    "access": "closed",
+    "infrastructure": [],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": "https://savoie-route.fr"
+  },
+  "official_url": "https://courchevel.com/a/sentier-botanique-et-cascade-des-poux-6072981/",
+  "last_verified": null
+}

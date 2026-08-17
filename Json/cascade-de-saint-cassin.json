@@ -1,0 +1,482 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-18",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "cascade",
+  "commune": "Saint-Cassin",
+  "date_modified_human": "18 août 2026",
+  "date_published_human": "18 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-18",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-cascade.jpg",
+  "i18n": {
+    "de": {
+      "activities": [],
+      "body": {
+        "what_is": "<p>Die <strong>Cascade de Saint-Cassin</strong> fällt von den letzten Ausläufern des Chartreuse-Massivs südlich von Chambéry: \"Der Strom wirft sich auf einem fast vertikalen Hang in den Hyères und lässt ihn sich vollständig von der Klippe lösen\", schreibt das Tourismusamt. Die Seite, entlang der alten Route nationale 6, ist <strong>frei zugänglich, das ganze Jahr</strong>. Sie wird oft \"Cascade de Couz\" genannt, nach dem benachbarten Weiler — die offiziellen Blätter legen es in der Gemeinde von Saint-Cassin.</p><p>Der Fall hat sein Gästebuch: Das Blatt zitiert <strong>Rousseau, Lamartine und George Sand</strong> Unter den Schriftstellern, die kamen, um es zu bewundern. Auf der anderen Seite veröffentlicht kein offizielles Blatt den Ansatz zu Fuß, Parkplatz, Hunderegeln oder Sicherheitsvorkehrungen - So bleiben die hier abwesend statt erfunden.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "frei",
+        "best_season": null,
+        "commune": "Saint-Cassin",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Wasserfall",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Beide Namen zirkulieren: Der Nachbarort heißt Couz, aber die offiziellen Blätter (Chambéry Montagnes, Savoie Mont Blanc) legen den Wasserfall in der Gemeinde Saint-Cassin. Wir behalten ihren namen, mit dem anderen als alias.",
+          "q": "Saint-Cassin oder Couz Wasserfall?"
+        },
+        {
+          "a": "Die Website ist entlang der alten RN 6 frei zugänglich, aber kein offizielles Blatt beschreibt den Anflug zu Fuß oder Parkplatz - Wir erfinden sie nicht. Nützlicher Kontakt: Saint-Cassin Rathaus, +33 4 79 69 47 26.",
+          "q": "Wie erreichen Sie es?"
+        },
+        {
+          "a": "Das offizielle Blatt zitiert Rousseau, Lamartine und George Sand unter den illustren Besuchern des Herbstes.",
+          "q": "Wer hat es berühmt gemacht?"
+        },
+        {
+          "a": "Seine Vertikalität: \"Der Strom wirft sich auf einem fast vertikalen Hang in den Hyères und lässt ihn sich vollständig von der Klippe lösen.\"",
+          "q": "Was macht es besonders?"
+        }
+      ],
+      "hero": {
+        "badge": "Wasserfall · Freier Zugang",
+        "lead": "Auf den letzten Ausläufern des Chartreuse, einem Bach, der sich vollständig von der Klippe löst - ein Fall, der vor Ihnen von Rousseau, Lamartine und George Sand bewundert wurde."
+      },
+      "hero_alt": "Saint-Cassin Wasserfall auf den Chartreuse Ausläufern, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "südlich von Chambéry über das Couz-Tal (alte RN 6, Richtung Col de Couz); Der Wasserfall liegt in der Gemeinde Saint-Cassin.",
+        "public_transport": null
+      },
+      "meta_description": "Der Saint-Cassin Wasserfall, bekannt als die Cascade de Couz: ein Bach, der sich von der Klippe auf den Chartreuse-Ausläufern löst, bewundert von Rousseau, Lamartine und George Sand. Freier Zugang das ganze Jahr über.",
+      "meta_title": "Cascade de Saint-Cassin (Couz) · Chartreuse, Chambéry",
+      "name": "Cascade de Saint-Cassin",
+      "name_alternates": [
+        "Cascade de Couz"
+      ],
+      "practical_info": [
+        {
+          "k": "Standort",
+          "v": "Entlang der RN 6, 73160 Saint-Cassin — letzte Ausläufer des Chartreuse"
+        },
+        {
+          "k": "Zugang",
+          "v": "Kostenlos, das ganze Jahr, täglich geöffnet (offizielle Blätter)"
+        },
+        {
+          "k": "Geschichte",
+          "v": "Rousseau, Lamartine und George Sand unter seinen Besuchern zitiert"
+        },
+        {
+          "k": "Kontakt",
+          "v": "Saint-Cassin Rathaus · +33 4 79 69 47 26"
+        }
+      ],
+      "schema_amenities": [],
+      "when_to_visit": "<p>Das ganze jahr über wird die website \"jeden tag geöffnet\" mit freiem zugang angekündigt. Wie bei jedem Chartreuse-Stream, der Fluss — und die Show - Spitzen nach Regen und bei Schneeschmelze.</p>"
+    },
+    "en": {
+      "activities": [],
+      "body": {
+        "what_is": "<p>The <strong>Cascade de Saint-Cassin</strong> falls from the last foothills of the Chartreuse massif, south of Chambéry: 'the stream throws itself into the Hyères on an almost vertical slope, letting it detach completely from the cliff', writes the tourist office. The site, along the old route nationale 6, is <strong>freely accessible, all year</strong>. It is often called the 'Cascade de Couz', after the neighbouring hamlet — the official sheets place it in the commune of Saint-Cassin.</p><p>The fall has its guest book: the sheet cites <strong>Rousseau, Lamartine and George Sand</strong> among the writers who came to admire it. On the other hand, no official sheet publishes the approach walk, parking, dog rules or safety precautions — so those stay absent here rather than invented.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free",
+        "best_season": null,
+        "commune": "Saint-Cassin",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Waterfall",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Both names circulate: the neighbouring hamlet is called Couz, but the official sheets (Chambéry Montagnes, Savoie Mont Blanc) place the waterfall in the commune of Saint-Cassin. We keep their name, with the other as an alias.",
+          "q": "Saint-Cassin or Couz waterfall?"
+        },
+        {
+          "a": "The site is freely accessible along the old RN 6, but no official sheet describes the approach walk or parking — we do not invent them. Useful contact: Saint-Cassin town hall, +33 4 79 69 47 26.",
+          "q": "How do you reach it?"
+        },
+        {
+          "a": "The official sheet cites Rousseau, Lamartine and George Sand among the fall's illustrious visitors.",
+          "q": "Who made it famous?"
+        },
+        {
+          "a": "Its verticality: 'the stream throws itself into the Hyères on an almost vertical slope, letting it detach completely from the cliff'.",
+          "q": "What makes it special?"
+        }
+      ],
+      "hero": {
+        "badge": "Waterfall · Free access",
+        "lead": "On the last foothills of the Chartreuse, a stream that detaches completely from the cliff — a fall admired before you by Rousseau, Lamartine and George Sand."
+      },
+      "hero_alt": "Saint-Cassin waterfall on the Chartreuse foothills, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "South of Chambéry via the Couz valley (old RN 6, towards the Col de Couz); the waterfall is in the commune of Saint-Cassin.",
+        "public_transport": null
+      },
+      "meta_description": "The Saint-Cassin waterfall, known as the Cascade de Couz: a stream detaching from the cliff on the Chartreuse foothills, admired by Rousseau, Lamartine and George Sand. Free access all year.",
+      "meta_title": "Cascade de Saint-Cassin (Couz) · Chartreuse, Chambéry",
+      "name": "Cascade de Saint-Cassin",
+      "name_alternates": [
+        "Cascade de Couz"
+      ],
+      "practical_info": [
+        {
+          "k": "Location",
+          "v": "Along the RN 6, 73160 Saint-Cassin — last foothills of the Chartreuse"
+        },
+        {
+          "k": "Access",
+          "v": "Free, all year, open every day (official sheets)"
+        },
+        {
+          "k": "History",
+          "v": "Rousseau, Lamartine and George Sand cited among its visitors"
+        },
+        {
+          "k": "Contact",
+          "v": "Saint-Cassin town hall · +33 4 79 69 47 26"
+        }
+      ],
+      "schema_amenities": [],
+      "when_to_visit": "<p>All year, the site being announced 'open every day' with free access. As with any Chartreuse stream, the flow — and the show — peaks after rain and at snowmelt.</p>"
+    },
+    "es": {
+      "activities": [],
+      "body": {
+        "what_is": "<p>El <strong>Cascade de Saint-Cassin</strong> cae de las últimas estribaciones del macizo Chartreuse, al sur de Chambéry: 'la corriente se lanza a la Hyères en una pendiente casi vertical, dejando que se desprenda completamente del acantilado', escribe la oficina turística. El sitio, a lo largo de la antigua ruta nacionale 6, es <strong>libre acceso, todo el año</strong>. A menudo se llama la 'Cascade de Couz', después de la aldea vecina — las hojas oficiales lo colocan en la comuna de Saint-Cassin.</p><p>El otoño tiene su libro de invitados: la hoja cita <strong>Rousseau, Lamartine y George Sand</strong> entre los escritores que vinieron a admirarlo. Por otro lado, ninguna hoja oficial publica la caminata de aproximación, estacionamiento, reglas de perros o precauciones de seguridad — Así que los que se quedan ausentes aquí en lugar de inventar.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": null,
+        "commune": "Saint-Cassin",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Waterfall",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Ambos nombres circulan: la aldea vecina se llama Couz, pero las hojas oficiales (Chambéry Montagnes, Savoie Mont Blanc) colocan la cascada en la comuna de Saint-Cassin. Mantenemos su nombre, con el otro como alias.",
+          "q": "¿Fundación Saint-Cassin o Couz?"
+        },
+        {
+          "a": "El sitio es libremente accesible a lo largo de la antigua RN 6, pero ninguna hoja oficial describe el paseo de aproximación o estacionamiento — no los inventamos. Contacto útil: Ayuntamiento de Saint-Cassin, +33 4 79 69 47 26.",
+          "q": "¿Cómo lo alcanzas?"
+        },
+        {
+          "a": "La hoja oficial cita Rousseau, Lamartine y George Sand entre los ilustres visitantes del otoño.",
+          "q": "¿Quién lo hizo famoso?"
+        },
+        {
+          "a": "Su verticalidad: 'la corriente se lanza a la Hyères en una pendiente casi vertical, dejando que se desprenda completamente del acantilado'.",
+          "q": "¿Qué lo hace especial?"
+        }
+      ],
+      "hero": {
+        "badge": "Cascada · Acceso libre",
+        "lead": "En las últimas estribaciones de la Chartreuse, un arroyo que se separa completamente del acantilado — una caída admirada ante usted por Rousseau, Lamartine y George Sand."
+      },
+      "hero_alt": "Saint-Cassin cascada en las estribaciones Chartreuse, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Sur de Chambéry a través del valle Couz (antiguo RN 6, hacia el Col de Couz); la cascada está en la comuna de Saint-Cassin.",
+        "public_transport": null
+      },
+      "meta_description": "La cascada Saint-Cassin, conocida como la Cascade de Couz: un arroyo que se separa del acantilado en las estribaciones Chartreuse, admirado por Rousseau, Lamartine y George Sand. Acceso gratuito todo el año.",
+      "meta_title": "Cascade de Saint-Cassin (Couz) · Chartreuse, Chambéry",
+      "name": "Cascade de Saint-Cassin",
+      "name_alternates": [
+        "Cascade de Couz"
+      ],
+      "practical_info": [
+        {
+          "k": "Ubicación",
+          "v": "A lo largo del RN 6, 73160 Saint-Cassin — últimas estribaciones de la Chartreuse"
+        },
+        {
+          "k": "Acceso",
+          "v": "Libre, todo el año, abierto todos los días (sábanas oficiales)"
+        },
+        {
+          "k": "Historia",
+          "v": "Rousseau, Lamartine y George Sand citados entre sus visitantes"
+        },
+        {
+          "k": "Contacto",
+          "v": "Ayuntamiento de Saint-Cassin · +33 4 79 69 47 26"
+        }
+      ],
+      "schema_amenities": [],
+      "when_to_visit": "<p>Todo el año, el sitio que se anuncia 'abierto todos los días' con acceso gratuito. Como con cualquier flujo Chartreuse, el flujo — y el espectáculo picos después de la lluvia y en la nieve.</p>"
+    },
+    "fr": {
+      "activities": [],
+      "body": {
+        "what_is": "<p>La <strong>cascade de Saint-Cassin</strong> tombe des derniers contreforts du massif de la Chartreuse, au sud de Chambéry : « le torrent se jette dans l'Hyères dans une pente presque verticale, lui permettant de se détacher complètement de la falaise », écrit l'office de tourisme. Le site, le long de l'ancienne route nationale 6, est <strong>en accès libre, toute l'année</strong>. On l'appelle souvent « cascade de Couz », du nom du hameau voisin — les fiches officielles la situent, elles, sur la commune de Saint-Cassin.</p><p>La chute a son livre d'or : la fiche cite <strong>Rousseau, Lamartine et George Sand</strong> parmi les écrivains venus l'admirer. En revanche, aucune fiche officielle ne publie la marche d'approche, le stationnement, la règle pour les chiens ni les précautions d'usage — ces informations restent donc absentes ici plutôt qu'inventées.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuit",
+        "best_season": null,
+        "commune": "Saint-Cassin",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Cascade",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Les deux noms circulent : le hameau voisin s'appelle Couz, mais les fiches officielles (Chambéry Montagnes, Savoie Mont Blanc) situent la cascade sur la commune de Saint-Cassin. Nous gardons leur nom, et l'autre en alias.",
+          "q": "Cascade de Saint-Cassin ou cascade de Couz ?"
+        },
+        {
+          "a": "Le site est en accès libre le long de l'ancienne RN 6, mais aucune fiche officielle ne décrit la marche d'approche ni le stationnement — nous ne les inventons pas. Contact utile : mairie de Saint-Cassin, 04 79 69 47 26.",
+          "q": "Comment y accède-t-on ?"
+        },
+        {
+          "a": "La fiche officielle cite Rousseau, Lamartine et George Sand parmi les visiteurs illustres de la chute.",
+          "q": "Qui l'a rendue célèbre ?"
+        },
+        {
+          "a": "Sa verticalité : « le torrent se jette dans l'Hyères dans une pente presque verticale, lui permettant de se détacher complètement de la falaise ».",
+          "q": "Qu'a-t-elle de particulier ?"
+        }
+      ],
+      "hero": {
+        "badge": "Cascade · Accès libre",
+        "lead": "Sur les derniers contreforts de la Chartreuse, un torrent qui se détache complètement de la falaise — une chute admirée avant vous par Rousseau, Lamartine et George Sand."
+      },
+      "hero_alt": "Cascade de Saint-Cassin sur les contreforts de la Chartreuse, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Au sud de Chambéry par la vallée de Couz (ancienne RN 6, direction col de Couz) ; la cascade est sur la commune de Saint-Cassin.",
+        "public_transport": null
+      },
+      "meta_description": "La cascade de Saint-Cassin, dite cascade de Couz : un torrent qui se détache de la falaise sur les contreforts de la Chartreuse, admiré par Rousseau, Lamartine et George Sand. Accès libre toute l'année.",
+      "meta_title": "Cascade de Saint-Cassin (Couz) · Chartreuse, Chambéry",
+      "name": "Cascade de Saint-Cassin",
+      "name_alternates": [
+        "Cascade de Couz"
+      ],
+      "practical_info": [
+        {
+          "k": "Situation",
+          "v": "Le long de la RN 6, 73160 Saint-Cassin — derniers contreforts de la Chartreuse"
+        },
+        {
+          "k": "Accès",
+          "v": "Libre, toute l'année, ouvert tous les jours (fiches officielles)"
+        },
+        {
+          "k": "Histoire",
+          "v": "Rousseau, Lamartine et George Sand cités parmi ses visiteurs"
+        },
+        {
+          "k": "Contact",
+          "v": "Mairie de Saint-Cassin · 04 79 69 47 26"
+        }
+      ],
+      "schema_amenities": [],
+      "when_to_visit": "<p>Toute l'année, le site étant annoncé « ouvert tous les jours » en accès libre. Comme pour tout torrent de Chartreuse, le débit — et le spectacle — est au plus fort après la pluie et à la fonte des neiges.</p>"
+    },
+    "it": {
+      "activities": [],
+      "body": {
+        "what_is": "<p>The <strong>Cascade de Saint-Cassin</strong> cade dagli ultimi piedi del massiccio Chartreuse, a sud di Chambéry: 'il torrente si getta nella Hyères su un pendio quasi verticale, lasciandolo staccare completamente dalla scogliera', scrive l'ufficio turistico. Il sito, lungo la vecchia via nazionale 6, è <strong>liberamente accessibile, tutto l'anno</strong>. È spesso chiamato il 'Cascade de Couz', dopo la frazione vicina — i fogli ufficiali lo collocano nel comune di Saint-Cassin.</p><p>La caduta ha il suo libro degli ospiti: il foglio cita <strong>Rousseau, Lamartine e George Sand</strong> tra gli scrittori che sono venuti ad ammirarlo. D'altra parte, nessun foglio ufficiale pubblica l'approccio camminare, parcheggi, regole del cane o precauzioni di sicurezza — così quelli rimangono assenti qui piuttosto che inventati.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": null,
+        "commune": "Saint-Cassin",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Cascata",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Entrambi i nomi circolano: la frazione vicina si chiama Couz, ma le lenzuola ufficiali (Chambéry Montagnes, Savoie Mont Blanc) collocano la cascata nel comune di Saint-Cassin. Teniamo il loro nome, con l'altro come un alias.",
+          "q": "Saint-Cassin o cascata Couz?"
+        },
+        {
+          "a": "Il sito è liberamente accessibile lungo il vecchio RN 6, ma nessun foglio ufficiale descrive l'approccio camminare o parcheggio — noi non li inventiamo. Contatto utile: Saint-Cassin municipio, +33 4 79 69 47 26.",
+          "q": "Come si raggiunge?"
+        },
+        {
+          "a": "Il foglio ufficiale cita Rousseau, Lamartine e George Sand tra i visitatori illustri della caduta.",
+          "q": "Chi l'ha reso famoso?"
+        },
+        {
+          "a": "La sua verticalità: Il torrente si getta nella Hyères su un pendio quasi verticale, lasciandolo staccare completamente dalla scogliera.",
+          "q": "Cosa lo rende speciale?"
+        }
+      ],
+      "hero": {
+        "badge": "Cascata · Accesso libero",
+        "lead": "Sulle ultime pendici della Chartreuse, un ruscello che stacca completamente dalla scogliera — una caduta ammirata prima di voi da Rousseau, Lamartine e George Sand."
+      },
+      "hero_alt": "Saint-Cassin cascata sui piedi Chartreuse, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "A sud di Chambéry attraverso la valle Couz (vecchia RN 6, verso il Col de Couz); la cascata è nel comune di Saint-Cassin.",
+        "public_transport": null
+      },
+      "meta_description": "La cascata Saint-Cassin, conosciuta come Cascade de Couz: un ruscello staccato dalla scogliera sui piedi Chartreuse, ammirato da Rousseau, Lamartine e George Sand. Accesso gratuito tutto l'anno.",
+      "meta_title": "Cascade de Saint-Cassin (Couz) · Chartreuse, Chambéry",
+      "name": "Cascade de Saint-Cassin",
+      "name_alternates": [
+        "Cascade de Couz"
+      ],
+      "practical_info": [
+        {
+          "k": "Location",
+          "v": "Lungo la RN 6, 73160 Saint-Cassin — ultimi passi della Chartreuse"
+        },
+        {
+          "k": "Accesso",
+          "v": "Gratis, tutto l'anno, aperto tutti i giorni (lenzuole ufficiali)"
+        },
+        {
+          "k": "Storia",
+          "v": "Rousseau, Lamartine e George Sand citati tra i suoi visitatori"
+        },
+        {
+          "k": "Contatto",
+          "v": "Saint-Cassin municipio · +33 4 79 69 47 26"
+        }
+      ],
+      "schema_amenities": [],
+      "when_to_visit": "<p>Tutto l'anno, il sito viene annunciato \"aperto ogni giorno\" con accesso gratuito. Come con qualsiasi flusso Chartreuse, il flusso — e lo spettacolo — picchi dopo la pioggia e a snowmelt.</p>"
+    },
+    "nl": {
+      "activities": [],
+      "body": {
+        "what_is": "<p>De <strong>Cascade de Saint-Cassin</strong> valt van de laatste uitlopers van het Chartreuse-massief, ten zuiden van Chambéry: 'De stroom gooit zich in de Hyères op een bijna verticale helling, waardoor hij zich volledig van de klif losmaakt', schrijft het VVV-kantoor. De site, langs de oude route nationale 6, is <strong>vrij toegankelijk, het hele jaar</strong>. Het wordt vaak de 'Cascade de Couz' genoemd, na het naburige gehucht  De officiële bladen plaatsen het in de gemeente Saint-Cassin.</p><p>De herfst heeft zijn gastenboek: het blad citeert <strong>Rousseau, Lamartine en George Sand</strong> Onder de schrijvers die het kwamen bewonderen. Aan de andere kant, geen officieel blad publiceert de aanpak wandeling, parkeren, hondenregels of veiligheidsmaatregelen Dus die blijven hier afwezig in plaats van uitgevonden.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Vrij",
+        "best_season": null,
+        "commune": "Saint-Cassin",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Waterval",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Beide namen circuleren: Het naburige gehucht heet Couz, maar de officiële bladen (Chambéry Montagnes, Savoie Mont Blanc) plaatsen de waterval in de gemeente Saint-Cassin. We houden hun naam bij de andere als alias.",
+          "q": "Saint-Cassin of Couz waterval?"
+        },
+        {
+          "a": "De site is vrij toegankelijk langs de oude RN 6, maar geen officieel blad beschrijft de naderingswandeling of parkeren We verzinnen ze niet. Nuttig contact: Saint-Cassin stadhuis, +33 4 79 69 47 26.",
+          "q": "Hoe bereik je het?"
+        },
+        {
+          "a": "Het officiële blad citeert Rousseau, Lamartine en George Sand onder de illustere bezoekers van de herfst.",
+          "q": "Wie heeft het beroemd gemaakt?"
+        },
+        {
+          "a": "Verticaal: 'De stroom gooit zichzelf in de Hyères op een bijna verticale helling, waardoor hij zich volledig van de klif losmaakt'.",
+          "q": "Wat maakt het speciaal?"
+        }
+      ],
+      "hero": {
+        "badge": "Waterval · Gratis toegang",
+        "lead": "Op de laatste uitlopers van de Chartreuse, een beek die volledig van de klif losraakt een val bewonderd voor u door Rousseau, Lamartine en George Sand."
+      },
+      "hero_alt": "Saint-Cassin waterval op de Chartreuse uitlopers, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "ten zuiden van Chambéry via de Couz vallei (oude RN 6, richting Col de Couz); de waterval ligt in de gemeente Saint-Cassin.",
+        "public_transport": null
+      },
+      "meta_description": "De Saint-Cassin waterval, bekend als de Cascade de Couz: een stroom die loskomt van de klif op de Chartreuse uitlopers, bewonderd door Rousseau, Lamartine en George Sand. Gratis toegang het hele jaar.",
+      "meta_title": "Cascade de Saint-Cassin (Couz) · Chartreuse, Chambéry",
+      "name": "Cascade de Saint-Cassin",
+      "name_alternates": [
+        "Cascade de Couz"
+      ],
+      "practical_info": [
+        {
+          "k": "Locatie",
+          "v": "Langs de RN 6, 73160 Saint-Cassin laatste uitlopers van de Chartreuse"
+        },
+        {
+          "k": "Toegang",
+          "v": "Gratis, het hele jaar, elke dag geopend (officiële sheets)"
+        },
+        {
+          "k": "Voorgeschiedenis",
+          "v": "Rousseau, Lamartine en George Sand geciteerd onder de bezoekers"
+        },
+        {
+          "k": "Contactpersoon",
+          "v": "Stadhuis Saint-Cassin · +33 4 79 69 47 26"
+        }
+      ],
+      "schema_amenities": [],
+      "when_to_visit": "<p>Het hele jaar, de site wordt aangekondigd 'open elke dag' met gratis toegang. Zoals met elke Chartreuse stroom, de flow en de show pieken na regen en bij sneeuwmelt.</p>"
+    }
+  },
+  "latitude": 45.534,
+  "longitude": 5.866,
+  "official_site_url": "https://www.chamberymontagnes.com/fiche/cascade-de-saint-cassin/",
+  "partners": [],
+  "postal_code": "73160",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-18, FR pages only (Chambéry Montagnes, Savoie Mont Blanc). Cascade sur les derniers contreforts de la Chartreuse : « le torrent se jette dans l'Hyères dans une pente presque verticale, lui permettant de se détacher complètement de la falaise ». Le long de la RN 6 (adresse fiche). « En accès libre », « toute l'année : ouvert tous les jours ». Rousseau, Lamartine et George Sand cités par la fiche parmi les visiteurs illustres. Souvent appelée « cascade de Couz » (hameau voisin) mais les deux fiches officielles la situent à Saint-Cassin. AUCUNE fiche officielle ne publie marche d'approche, stationnement, chiens ni dangers → tous null, flag posé. GPS fiche officielle 45.534/5.866 (IGN : lieu-dit la Cascade 45.531877/5.862146).",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "cascade-de-saint-cassin",
+  "sources": [
+    "https://www.chamberymontagnes.com/fiche/cascade-de-saint-cassin/",
+    "https://www.savoie-mont-blanc.com/offre/fiche/cascade-de-saint-cassin/107069"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "FICHE SOURCE MINCE — aucune fiche officielle ne publie la marche d'approche, le stationnement, la règle chiens ni les précautions ; ces champs restent null plutôt qu'inventés.",
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published for this site; kept null rather than inferred.",
+    "TOPONYMIE — souvent appelée « cascade de Couz » (hameau voisin) ; les fiches officielles la situent commune de Saint-Cassin."
+  ]
+}

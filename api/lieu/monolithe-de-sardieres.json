@@ -1,0 +1,31 @@
+{
+  "name": "Monolithe de Sardières",
+  "commune": "Val-Cenis",
+  "gps": {
+    "lat": 45.242659,
+    "lng": 6.780167
+  },
+  "type": "sentier",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": "Église de Sardières (été)",
+  "transport": null,
+  "season": null,
+  "winter": {
+    "access": null,
+    "infrastructure": [],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
+  "official_url": "https://www.haute-maurienne-vanoise.com/tour-monolithe-sardieres/",
+  "last_verified": null
+}

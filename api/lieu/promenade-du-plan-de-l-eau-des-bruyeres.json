@@ -1,0 +1,38 @@
+{
+  "name": "Promenade du plan de l'Eau des Bruyères",
+  "commune": "Les Belleville",
+  "gps": {
+    "lat": 45.313649,
+    "lng": 6.54062
+  },
+  "type": "sentier",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": {
+    "status": "partiel",
+    "detail": "Publiée par le Parc national de la Vanoise dans « Un parc accessible à tous / des sites aménagés » comme « Promenade accessible », labellisée « Promenade confort » (900 m, très facile). Aucun statut fauteuil roulant explicite n'est publié.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_url": "https://www.vanoise-parcnational.fr/fr/des-decouvertes/un-parc-accessible-tous/des-sites-amenages/promenade-accessible-au-plan-deau-des",
+    "source_name": "Parc national de la Vanoise"
+  },
+  "parking": "À 200 m",
+  "transport": null,
+  "season": null,
+  "winter": {
+    "access": "open",
+    "infrastructure": [],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
+  "official_url": "https://www.lesmenuires.com/fr/promenade-du-plan-de-leau-des-bruyeres",
+  "last_verified": null
+}

@@ -1,5 +1,5 @@
 {
-  "count": 103,
+  "count": 113,
   "lieux": [
     {
       "slug": "abbaye-royale-d-hautecombe",
@@ -107,6 +107,48 @@
       "photo": "/img/generique/generique-plage-lac-2.jpg"
     },
     {
+      "slug": "boucle-de-la-chambotte-entrelacs",
+      "name": "Boucle de la Chambotte",
+      "category": "sentier",
+      "commune": "Entrelacs",
+      "postal_code": "73410",
+      "latitude": 45.773324,
+      "longitude": 5.874995,
+      "urls": {
+        "fr": "https://loisirs73.fr/boucle-de-la-chambotte-entrelacs",
+        "en": "https://loisirs73.fr/en/boucle-de-la-chambotte-entrelacs",
+        "de": "https://loisirs73.fr/de/boucle-de-la-chambotte-entrelacs",
+        "it": "https://loisirs73.fr/it/boucle-de-la-chambotte-entrelacs",
+        "es": "https://loisirs73.fr/es/boucle-de-la-chambotte-entrelacs",
+        "nl": "https://loisirs73.fr/nl/boucle-de-la-chambotte-entrelacs"
+      },
+      "facet_md": "https://loisirs73.fr/content/boucle-de-la-chambotte-entrelacs.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/boucle-de-la-chambotte-entrelacs.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/boucle-de-la-chambotte-entrelacs.json",
+      "photo": "/img/generique/generique-sentier-sommet-panorama.jpg"
+    },
+    {
+      "slug": "boucle-du-lac-de-la-rosiere-courchevel",
+      "name": "Boucle du lac de la Rosière",
+      "category": "sentier",
+      "commune": "Courchevel",
+      "postal_code": "73120",
+      "latitude": 45.417529,
+      "longitude": 6.609155,
+      "urls": {
+        "fr": "https://loisirs73.fr/boucle-du-lac-de-la-rosiere-courchevel",
+        "en": "https://loisirs73.fr/en/boucle-du-lac-de-la-rosiere-courchevel",
+        "de": "https://loisirs73.fr/de/boucle-du-lac-de-la-rosiere-courchevel",
+        "it": "https://loisirs73.fr/it/boucle-du-lac-de-la-rosiere-courchevel",
+        "es": "https://loisirs73.fr/es/boucle-du-lac-de-la-rosiere-courchevel",
+        "nl": "https://loisirs73.fr/nl/boucle-du-lac-de-la-rosiere-courchevel"
+      },
+      "facet_md": "https://loisirs73.fr/content/boucle-du-lac-de-la-rosiere-courchevel.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/boucle-du-lac-de-la-rosiere-courchevel.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/boucle-du-lac-de-la-rosiere-courchevel.json",
+      "photo": "/img/generique/generique-famille-foret.jpg"
+    },
+    {
       "slug": "cascade-de-la-fraiche",
       "name": "Cascade de la Fraîche",
       "category": "cascade",
@@ -128,6 +170,27 @@
       "photo": "/img/generique/generique-cascade.jpg"
     },
     {
+      "slug": "cascade-de-la-vuzelle-planay",
+      "name": "Cascade de la Vuzelle",
+      "category": "cascade",
+      "commune": "Planay",
+      "postal_code": "73350",
+      "latitude": 45.411105,
+      "longitude": 6.721487,
+      "urls": {
+        "fr": "https://loisirs73.fr/cascade-de-la-vuzelle-planay",
+        "en": "https://loisirs73.fr/en/cascade-de-la-vuzelle-planay",
+        "de": "https://loisirs73.fr/de/cascade-de-la-vuzelle-planay",
+        "it": "https://loisirs73.fr/it/cascade-de-la-vuzelle-planay",
+        "es": "https://loisirs73.fr/es/cascade-de-la-vuzelle-planay",
+        "nl": "https://loisirs73.fr/nl/cascade-de-la-vuzelle-planay"
+      },
+      "facet_md": "https://loisirs73.fr/content/cascade-de-la-vuzelle-planay.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/cascade-de-la-vuzelle-planay.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/cascade-de-la-vuzelle-planay.json",
+      "photo": "/img/generique/generique-cascade.jpg"
+    },
+    {
       "slug": "cascade-de-saint-benoit",
       "name": "Cascade de Saint-Benoît",
       "category": "cascade",
@@ -146,6 +209,48 @@
       "facet_md": "https://loisirs73.fr/content/cascade-de-saint-benoit.md",
       "facet_md_en": "https://loisirs73.fr/content/en/cascade-de-saint-benoit.md",
       "facet_json": "https://loisirs73.fr/api/lieu/cascade-de-saint-benoit.json",
+      "photo": "/img/generique/generique-cascade.jpg"
+    },
+    {
+      "slug": "cascade-de-saint-cassin",
+      "name": "Cascade de Saint-Cassin",
+      "category": "cascade",
+      "commune": "Saint-Cassin",
+      "postal_code": "73160",
+      "latitude": 45.534,
+      "longitude": 5.866,
+      "urls": {
+        "fr": "https://loisirs73.fr/cascade-de-saint-cassin",
+        "en": "https://loisirs73.fr/en/cascade-de-saint-cassin",
+        "de": "https://loisirs73.fr/de/cascade-de-saint-cassin",
+        "it": "https://loisirs73.fr/it/cascade-de-saint-cassin",
+        "es": "https://loisirs73.fr/es/cascade-de-saint-cassin",
+        "nl": "https://loisirs73.fr/nl/cascade-de-saint-cassin"
+      },
+      "facet_md": "https://loisirs73.fr/content/cascade-de-saint-cassin.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/cascade-de-saint-cassin.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/cascade-de-saint-cassin.json",
+      "photo": "/img/generique/generique-cascade.jpg"
+    },
+    {
+      "slug": "cascade-des-poux-courchevel",
+      "name": "Cascade des Poux",
+      "category": "cascade",
+      "commune": "Courchevel",
+      "postal_code": "73120",
+      "latitude": 45.417849,
+      "longitude": 6.645094,
+      "urls": {
+        "fr": "https://loisirs73.fr/cascade-des-poux-courchevel",
+        "en": "https://loisirs73.fr/en/cascade-des-poux-courchevel",
+        "de": "https://loisirs73.fr/de/cascade-des-poux-courchevel",
+        "it": "https://loisirs73.fr/it/cascade-des-poux-courchevel",
+        "es": "https://loisirs73.fr/es/cascade-des-poux-courchevel",
+        "nl": "https://loisirs73.fr/nl/cascade-des-poux-courchevel"
+      },
+      "facet_md": "https://loisirs73.fr/content/cascade-des-poux-courchevel.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/cascade-des-poux-courchevel.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/cascade-des-poux-courchevel.json",
       "photo": "/img/generique/generique-cascade.jpg"
     },
     {
@@ -188,6 +293,48 @@
       "facet_md": "https://loisirs73.fr/content/cascade-du-pissieu.md",
       "facet_md_en": "https://loisirs73.fr/content/en/cascade-du-pissieu.md",
       "facet_json": "https://loisirs73.fr/api/lieu/cascade-du-pissieu.json",
+      "photo": "/img/generique/generique-cascade.jpg"
+    },
+    {
+      "slug": "cascade-du-py-champagny",
+      "name": "Cascade du Py",
+      "category": "cascade",
+      "commune": "Champagny-en-Vanoise",
+      "postal_code": "73350",
+      "latitude": 45.449186,
+      "longitude": 6.781253,
+      "urls": {
+        "fr": "https://loisirs73.fr/cascade-du-py-champagny",
+        "en": "https://loisirs73.fr/en/cascade-du-py-champagny",
+        "de": "https://loisirs73.fr/de/cascade-du-py-champagny",
+        "it": "https://loisirs73.fr/it/cascade-du-py-champagny",
+        "es": "https://loisirs73.fr/es/cascade-du-py-champagny",
+        "nl": "https://loisirs73.fr/nl/cascade-du-py-champagny"
+      },
+      "facet_md": "https://loisirs73.fr/content/cascade-du-py-champagny.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/cascade-du-py-champagny.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/cascade-du-py-champagny.json",
+      "photo": "/img/generique/generique-cascade.jpg"
+    },
+    {
+      "slug": "cascades-de-jacob-bellecombette",
+      "name": "Cascades de Jacob et la Grobelle",
+      "category": "cascade",
+      "commune": "Jacob-Bellecombette",
+      "postal_code": "73000",
+      "latitude": 45.555862,
+      "longitude": 5.907877,
+      "urls": {
+        "fr": "https://loisirs73.fr/cascades-de-jacob-bellecombette",
+        "en": "https://loisirs73.fr/en/cascades-de-jacob-bellecombette",
+        "de": "https://loisirs73.fr/de/cascades-de-jacob-bellecombette",
+        "it": "https://loisirs73.fr/it/cascades-de-jacob-bellecombette",
+        "es": "https://loisirs73.fr/es/cascades-de-jacob-bellecombette",
+        "nl": "https://loisirs73.fr/nl/cascades-de-jacob-bellecombette"
+      },
+      "facet_md": "https://loisirs73.fr/content/cascades-de-jacob-bellecombette.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/cascades-de-jacob-bellecombette.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/cascades-de-jacob-bellecombette.json",
       "photo": "/img/generique/generique-cascade.jpg"
     },
     {
@@ -1199,6 +1346,27 @@
       "photo": "/img/generique/generique-jardin-allee-roses.jpg"
     },
     {
+      "slug": "monolithe-de-sardieres",
+      "name": "Monolithe de Sardières",
+      "category": "sentier",
+      "commune": "Val-Cenis",
+      "postal_code": "73500",
+      "latitude": 45.242659,
+      "longitude": 6.780167,
+      "urls": {
+        "fr": "https://loisirs73.fr/monolithe-de-sardieres",
+        "en": "https://loisirs73.fr/en/monolithe-de-sardieres",
+        "de": "https://loisirs73.fr/de/monolithe-de-sardieres",
+        "it": "https://loisirs73.fr/it/monolithe-de-sardieres",
+        "es": "https://loisirs73.fr/es/monolithe-de-sardieres",
+        "nl": "https://loisirs73.fr/nl/monolithe-de-sardieres"
+      },
+      "facet_md": "https://loisirs73.fr/content/monolithe-de-sardieres.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/monolithe-de-sardieres.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/monolithe-de-sardieres.json",
+      "photo": "/img/generique/generique-sentier-foret-alpine.jpg"
+    },
+    {
       "slug": "musee-d-art-et-d-histoire-albertville",
       "name": "Musée d'art et d'histoire d'Albertville",
       "category": "musee",
@@ -1640,6 +1808,27 @@
       "photo": "/img/generique/generique-plage-lac-11.jpg"
     },
     {
+      "slug": "promenade-du-plan-de-l-eau-des-bruyeres",
+      "name": "Promenade du plan de l'Eau des Bruyères",
+      "category": "sentier",
+      "commune": "Les Belleville",
+      "postal_code": "73440",
+      "latitude": 45.313649,
+      "longitude": 6.54062,
+      "urls": {
+        "fr": "https://loisirs73.fr/promenade-du-plan-de-l-eau-des-bruyeres",
+        "en": "https://loisirs73.fr/en/promenade-du-plan-de-l-eau-des-bruyeres",
+        "de": "https://loisirs73.fr/de/promenade-du-plan-de-l-eau-des-bruyeres",
+        "it": "https://loisirs73.fr/it/promenade-du-plan-de-l-eau-des-bruyeres",
+        "es": "https://loisirs73.fr/es/promenade-du-plan-de-l-eau-des-bruyeres",
+        "nl": "https://loisirs73.fr/nl/promenade-du-plan-de-l-eau-des-bruyeres"
+      },
+      "facet_md": "https://loisirs73.fr/content/promenade-du-plan-de-l-eau-des-bruyeres.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/promenade-du-plan-de-l-eau-des-bruyeres.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/promenade-du-plan-de-l-eau-des-bruyeres.json",
+      "photo": "/img/generique/generique-reserve-zone-humide-6.jpg"
+    },
+    {
       "slug": "redoute-marie-therese-avrieux",
       "name": "Redoute Marie-Thérèse",
       "category": "chateau",
@@ -1680,6 +1869,27 @@
       "facet_md_en": "https://loisirs73.fr/content/en/sentier-artistique-hautecour.md",
       "facet_json": "https://loisirs73.fr/api/lieu/sentier-artistique-hautecour.json",
       "photo": "/img/generique/generique-sentier-foret.jpg"
+    },
+    {
+      "slug": "sentier-des-arpelieres-crest-voland",
+      "name": "Sentier des Arpelières",
+      "category": "sentier",
+      "commune": "Crest-Voland",
+      "postal_code": "73590",
+      "latitude": 45.772,
+      "longitude": 6.5273,
+      "urls": {
+        "fr": "https://loisirs73.fr/sentier-des-arpelieres-crest-voland",
+        "en": "https://loisirs73.fr/en/sentier-des-arpelieres-crest-voland",
+        "de": "https://loisirs73.fr/de/sentier-des-arpelieres-crest-voland",
+        "it": "https://loisirs73.fr/it/sentier-des-arpelieres-crest-voland",
+        "es": "https://loisirs73.fr/es/sentier-des-arpelieres-crest-voland",
+        "nl": "https://loisirs73.fr/nl/sentier-des-arpelieres-crest-voland"
+      },
+      "facet_md": "https://loisirs73.fr/content/sentier-des-arpelieres-crest-voland.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/sentier-des-arpelieres-crest-voland.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/sentier-des-arpelieres-crest-voland.json",
+      "photo": "/img/generique/generique-reserve-zone-humide-5.jpg"
     },
     {
       "slug": "signal-de-bisanne",

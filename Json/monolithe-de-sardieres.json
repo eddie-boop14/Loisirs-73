@@ -1,0 +1,608 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-18",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "sentier",
+  "commune": "Val-Cenis",
+  "date_modified_human": "18 août 2026",
+  "date_published_human": "18 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-18",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-sentier-foret-alpine.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Über den Biches Trail von der Sardières Kirche — Der 93 m hohe Turm erscheint zwischen den Kiefern.",
+          "tag": "Familie",
+          "title": "Die Monolithschleife"
+        },
+        {
+          "description": "Wegmarkierte Route Nr. 1 aus dem nordischen Chalet: 4,3 km, 2 h 15, +230 m, 15/12 bis 01/04, ungepflegt.",
+          "tag": "Nein. 1",
+          "title": "Schneeschuhe im Winter"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Im Herzen des wunderschönen Kiefernwaldes Sardières erhebt sich eine unerwartete Silhouette zwischen den Stämmen. Es ist die <strong>Monolith</strong>, ein schlanker cargneule Turm von fast <strong>93 Meter</strong>„ — Die Präsentation ist das Haute Maurienne Vanoise Büro. Der Turm wurde erstmals 1957 von Michel Paquier bestiegen; Seine Schleife, über die <strong>Biches Trail</strong>, wird als \"ein leichter Spaziergang\", \"für Familien\", vom Sardières Kirchenparkplatz (Val-Cenis) gegeben.</p><p>Die Zahlen hängen von der Route ab und wir zitieren sie alle: das Sommerblatt veröffentlicht keine ('bescheidener' Anstieg); Routennummer mit Markierung. 1 in seiner Winterversion kündigt an <strong>4,3 km, 2 h 15, +230 m</strong> (15. Dezember bis 1. April, ungepflegt); die größere Schleife des Vanoise Parks, von der Plan de la Croix bei Aussois, ist <strong>7,6 km, 4 h 30, +579 m</strong>, bewertet \"sehr einfach\". Der Sektor liegt innerhalb der <strong>Nationalparks</strong> Umfang: \"Unsere Hundefreunde sind nicht erlaubt\" und Drohnen auch nicht.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "frei",
+        "best_season": null,
+        "commune": "Val-Cenis",
+        "dogs": "Verboten (Nationalparkperimeter)",
+        "parking": "Sardières Kirche (Sommer)",
+        "stroller": null,
+        "type": "Familienspaziergang",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Ein cargneule-Turm von fast 93 Metern, der im Sardières-Kiefernwald steht und 1957 erstmals von Michel Paquier bestiegen wurde. Seine Wanderschleife ist ein Familienausflug.",
+          "q": "Was ist der Monolith?"
+        },
+        {
+          "a": "Drei offizielle Strecken, drei Zahlensätze — alle genannten: das Sommerblatt gibt keine ('bescheidener' Anstieg); die markierte Winterversion ist 4,3 km / 2 h 15 / +230 m; die größere Vanoise Schleife von Aussois ist 7,6 km / 4 h 30 / +579 m.",
+          "q": "Wie lang ist die Schleife?"
+        },
+        {
+          "a": "Nein: \"unsere Hundefreunde sind nicht innerhalb des Nationalparks erlaubt\" - Die Regel gilt auch für Drohnen.",
+          "q": "Kannst du einen Hund mitbringen?"
+        },
+        {
+          "a": "Die Warnung des Parks, wörtlich: \"der Chappe Telegraph Aussichtspunkt überblickt ungesicherte Klippen\", und einige markierte Abschnitte sind nicht auf der IGN Karte.",
+          "q": "Besteht Gefahr?"
+        }
+      ],
+      "hero": {
+        "badge": "93 m Turm · Familienspaziergang",
+        "lead": "Im Kiefernwald Sardières erhebt sich ein cargneule-Turm von fast 93 Metern zwischen den Stämmen — Eine Familienschleife, ein Kletterdenkmal, das erstmals 1957 bestiegen wurde, und das Hundeverbot des Nationalparks."
+      },
+      "hero_alt": "Alpinenwald um den Sardières Monolithen Haute-Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D1006 bis Sollières-Sardières (Val-Cenis), dann der Weiler Sardières; Kirchenparkplatz.",
+        "public_transport": "Buslinie S52, Haltestelle 'Église'."
+      },
+      "meta_description": "Der Sardières Monolith: ein 93 m cargneule Turm im Kiefernwald, eine Familienschleife über den Biches Trail, die markierte Schneeschuhversion — Das Hundeverbot des Nationalparks.",
+      "meta_title": "Monolithe de Sardières · 93 m Turm, Val-Cenis",
+      "name": "Monolithe de Sardières",
+      "name_alternates": [
+        "Monolith loop via the Biches trail"
+      ],
+      "practical_info": [
+        {
+          "k": "Der Monolith",
+          "v": "Cargneule Turm von ≈ 93 m · Erstbesteigung 1957 (Michel Paquier)"
+        },
+        {
+          "k": "Sommerschleife",
+          "v": "Biches Trail, ein \"einfacher\" Familienspaziergang - Zahlen unveröffentlicht"
+        },
+        {
+          "k": "Winter",
+          "v": "Schneeschuhroute Nr. 1: 4,3 km · 2 h 15 · +230 m · 15/12 – 01/04 · ungepflegt"
+        },
+        {
+          "k": "Größere Schleife",
+          "v": "Aus dem Plan de la Croix (Aussois): 7,6 km · 4 h 30 · +579 m · 'sehr einfach' (rando.vanoise.com)"
+        },
+        {
+          "k": "Vorschriften",
+          "v": "Hunde und Drohnen verboten (Vanoise Nationalpark Perimeter)"
+        },
+        {
+          "k": "Kontakt",
+          "v": "Val Cenis · +33 4 79 05 99 06"
+        }
+      ],
+      "schema_amenities": [
+        "Markierungspfad"
+      ],
+      "when_to_visit": "<p>Das ganze Jahr über auf Schneeschuhen von Mitte Dezember bis Anfang April. Eine Parkwarnung verdient es, so zu zitieren, wie sie steht: Die Route ist markiert, aber einige Abschnitte sind nicht auf der IGN-Karte. Bringen Sie geeignete Schuhe mit. Der Chappe Telegraph Aussichtspunkt überblickt ungesicherte Klippen.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "Via the Biches trail from the Sardières church — the 93 m spire appears between the pines.",
+          "tag": "Family",
+          "title": "The monolith loop"
+        },
+        {
+          "description": "Waymarked route no. 1 from the Nordic chalet: 4.3 km, 2 h 15, +230 m, 15/12 to 01/04, ungroomed.",
+          "tag": "No. 1",
+          "title": "Snowshoes in winter"
+        }
+      ],
+      "body": {
+        "what_is": "<p>'In the heart of the beautiful Sardières pine forest, an unexpected silhouette rises between the trunks. It is the <strong>Monolith</strong>, a slender cargneule spire of nearly <strong>93 metres</strong>' — the presentation is the Haute Maurienne Vanoise office's. The spire was first climbed in 1957 by Michel Paquier; its loop, via the <strong>Biches trail</strong>, is given as 'an easy walk', 'for families', from the Sardières church car park (Val-Cenis).</p><p>The figures depend on the route, and we quote them all: the summer sheet publishes none ('modest' climb); waymarked route no. 1 in its winter version announces <strong>4.3 km, 2 h 15, +230 m</strong> (15 December to 1 April, ungroomed); the Vanoise park's larger loop, from the Plan de la Croix at Aussois, is <strong>7.6 km, 4 h 30, +579 m</strong>, rated 'very easy'. The sector lies within the <strong>national park's</strong> perimeter: 'our canine friends are not allowed', nor are drones.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free",
+        "best_season": null,
+        "commune": "Val-Cenis",
+        "dogs": "Forbidden (national-park perimeter)",
+        "parking": "Sardières church (summer)",
+        "stroller": null,
+        "type": "Family walk",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "A cargneule spire of nearly 93 metres, standing in the Sardières pine forest, first climbed in 1957 by Michel Paquier. Its walking loop is a family outing.",
+          "q": "What is the Monolith?"
+        },
+        {
+          "a": "Three official routes, three sets of figures — all quoted: the summer sheet gives none ('modest' climb); the waymarked winter version is 4.3 km / 2 h 15 / +230 m; the larger Vanoise loop from Aussois is 7.6 km / 4 h 30 / +579 m.",
+          "q": "How long is the loop?"
+        },
+        {
+          "a": "No: 'our canine friends are not allowed within the national park's perimeter' — the rule covers drones too.",
+          "q": "Can you bring a dog?"
+        },
+        {
+          "a": "The park's warning, verbatim: 'the Chappe telegraph viewpoint overlooks unsecured cliffs', and some waymarked sections are not on the IGN map.",
+          "q": "Is there any danger?"
+        }
+      ],
+      "hero": {
+        "badge": "93 m spire · Family walk",
+        "lead": "In the Sardières pine forest, a cargneule spire of nearly 93 metres rises between the trunks — a family loop, a climbing monument first ascended in 1957, and the national park's dog ban to respect."
+      },
+      "hero_alt": "Alpine pine forest around the Sardières monolith, Haute-Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D1006 to Sollières-Sardières (Val-Cenis), then the Sardières hamlet; church car park.",
+        "public_transport": "Bus line S52, 'Église' stop."
+      },
+      "meta_description": "The Sardières monolith: a 93 m cargneule spire in the pine forest, a family loop via the Biches trail, the waymarked snowshoe version — and the national park's dog ban.",
+      "meta_title": "Monolithe de Sardières · 93 m spire, Val-Cenis",
+      "name": "Monolithe de Sardières",
+      "name_alternates": [
+        "Monolith loop via the Biches trail"
+      ],
+      "practical_info": [
+        {
+          "k": "The monolith",
+          "v": "Cargneule spire of ≈ 93 m · first ascent 1957 (Michel Paquier)"
+        },
+        {
+          "k": "Summer loop",
+          "v": "Biches trail, an 'easy' family walk — figures unpublished"
+        },
+        {
+          "k": "Winter",
+          "v": "Snowshoe route no. 1: 4.3 km · 2 h 15 · +230 m · 15/12 – 01/04 · ungroomed"
+        },
+        {
+          "k": "Larger loop",
+          "v": "From the Plan de la Croix (Aussois): 7.6 km · 4 h 30 · +579 m · 'very easy' (rando.vanoise.com)"
+        },
+        {
+          "k": "Rules",
+          "v": "Dogs and drones forbidden (Vanoise national-park perimeter)"
+        },
+        {
+          "k": "Contact",
+          "v": "Val Cenis · +33 4 79 05 99 06"
+        }
+      ],
+      "schema_amenities": [
+        "Waymarked trail"
+      ],
+      "when_to_visit": "<p>All year, on snowshoes from mid-December to early April. One park warning deserves quoting as it stands: 'the route is waymarked but some sections are not on the IGN map. Bring suitable footwear. The Chappe telegraph viewpoint overlooks unsecured cliffs.'</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "Via the Biches trail from the Sardières church — la aguja de 93 m aparece entre los pinos.",
+          "tag": "Familia",
+          "title": "El monolito"
+        },
+        {
+          "description": "Ruta Waymarked no. 1 del chalet nórdico: 4.3 km, 2 h 15, +230 m, 15/12 a 01/04, sin novio.",
+          "tag": "No. 1",
+          "title": "Bolas de nieve en invierno"
+        }
+      ],
+      "body": {
+        "what_is": "<p>'En el corazón del hermoso bosque de pino Sardières, una silueta inesperada se eleva entre los troncos. Es el <strong>Monolith</strong>, una aguja cargneule delgada de casi <strong>93 metros</strong>' la presentación es de la oficina Haute Maurienne Vanoise. La aguja fue subida por primera vez en 1957 por Michel Paquier; su bucle, a través del <strong>Biches de sendero</strong>, se da como 'un fácil paseo', 'para las familias', desde el aparcamiento de la iglesia Sardières (Val-Cenis).</p><p>Las cifras dependen de la ruta, y las citamos todas: la hoja de verano no publica ninguna (la escalada de lo mejor); ruta señalizada no. 1 en su versión de invierno anuncia <strong>4.3 km, 2 h 15, +230 m</strong> (15 de diciembre a 1o de abril, sin lugar a dudas); el bucle más grande del parque Vanoise, del Plan de la Croix en Aussois, es <strong>7.6 km, 4 h 30, +579 m</strong>, valorado 'muy fácil'. El sector está dentro del <strong>Parque Nacional</strong> perímetro: \"nuestros amigos caninos no están permitidos\", ni son drones.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": null,
+        "commune": "Val-Cenis",
+        "dogs": "Prohibido (perímetro del parque nacional)",
+        "parking": "Iglesia Sardières (verano)",
+        "stroller": null,
+        "type": "Paseo en familia",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Una aguja cargneule de casi 93 metros, de pie en el pinar Sardières, subió por primera vez en 1957 por Michel Paquier. Su bucle es una salida familiar.",
+          "q": "¿Qué es el Monolito?"
+        },
+        {
+          "a": "Tres rutas oficiales, tres conjuntos de cifras: todos citados: la hoja de verano no da ninguna (la escalada más adecuada); la versión de invierno marcada es de 4,3 km / 2 h 15 / +230 m; el bucle Vanoise más grande de Aussois es de 7.6 km / 4 h 30 / +579 m.",
+          "q": "¿Cuánto tiempo es el bucle?"
+        },
+        {
+          "a": "No: \"nuestros amigos caninos no están permitidos dentro del perímetro del parque nacional\" la regla cubre los drones también.",
+          "q": "¿Puedes traer un perro?"
+        },
+        {
+          "a": "La advertencia del parque, literal: 'el punto de vista telegráfico de Chappe tiene vistas a acantilados no protegidos', y algunas secciones marcadas no están en el mapa de IGN.",
+          "q": "¿Hay peligro?"
+        }
+      ],
+      "hero": {
+        "badge": "93 m spire · Paseo familiar",
+        "lead": "En el bosque de pino Sardières, una aguja cargneule de casi 93 metros se eleva entre los troncos — un bucle familiar, un monumento ascendente ascendió por primera vez en 1957, y la prohibición del perro del parque nacional para respetar."
+      },
+      "hero_alt": "Bosque de pino alpino alrededor del monolito Sardières, Haute-Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D1006 a Sollières-Sardières (Val-Cenis), luego la aldea Sardières; Parque de la iglesia.",
+        "public_transport": "Línea de autobuses S52, 'Église' parada."
+      },
+      "meta_description": "El monolito Sardières: a 93 m cargneule aspira en el bosque de pinos, un bucle familiar a través de la ruta de Biches, la versión de snowshoe señalizada - y la prohibición de perros del parque nacional.",
+      "meta_title": "Monolithe de Sardières · aguja de 93 m, Val-Cenis",
+      "name": "Monolithe de Sardières",
+      "name_alternates": [
+        "Monolith loop via the Biches trail"
+      ],
+      "practical_info": [
+        {
+          "k": "El monolito",
+          "v": "Garra de Cargneule ♥ 93 m · primer ascenso 1957 (Michel Paquier)"
+        },
+        {
+          "k": "Bucle de verano",
+          "v": "Carreteras, un paseo familiar \"fácil\" cifras inéditas"
+        },
+        {
+          "k": "Invierno",
+          "v": "Ruta de Snowshoe no. 1: 4.3 km · 2 h 15 · +230 m · 15/12 – 01/04 · no aprobada"
+        },
+        {
+          "k": "Loop más grande",
+          "v": "De la Plan de la Croix (Aussois): 7.6 km · 4 h 30 · +579 m · 'muy fácil' (rando.vanoise.com)"
+        },
+        {
+          "k": "Reglas",
+          "v": "Perros y drones prohibidos (Vanoise perímetro del parque nacional)"
+        },
+        {
+          "k": "Contacto",
+          "v": "Val Cenis · +33 4 79 05 99 06"
+        }
+      ],
+      "schema_amenities": [
+        "Sendero Waymarked"
+      ],
+      "when_to_visit": "<p>Todo el año, en raquetas de nieve de mediados de diciembre a principios de abril. Una advertencia del parque merece citarse como está: 'la ruta está marcada pero algunas secciones no están en el mapa de IGN. Trae calzado adecuado. El mirador telegráfico de Chappe tiene vistas a acantilados no protegidos\".</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Par le sentier des Biches depuis l'église de Sardières — l'aiguille de 93 m apparaît entre les pins.",
+          "tag": "Familial",
+          "title": "Le tour du monolithe"
+        },
+        {
+          "description": "Itinéraire balisé n°1 depuis le chalet nordique : 4,3 km, 2 h 15, +230 m, du 15/12 au 01/04, non damé.",
+          "tag": "N°1",
+          "title": "Raquettes en hiver"
+        }
+      ],
+      "body": {
+        "what_is": "<p>« Au cœur de la belle forêt de pins de Sardières, une silhouette inattendue s'élève entre les troncs. C'est le <strong>Monolithe</strong>, fine aiguille de cargneule de près de <strong>93 mètres</strong> » — la présentation est celle de l'office de Haute Maurienne Vanoise. L'aiguille a été gravie pour la première fois en 1957 par Michel Paquier ; son tour, par le <strong>sentier des Biches</strong>, est donné pour « une balade facile », « familiale », au départ du parking de l'église de Sardières (Val-Cenis).</p><p>Les chiffres, eux, dépendent du tracé, et nous les citons tous : la fiche d'été ne publie rien (dénivelé « modeste ») ; l'itinéraire balisé n°1 en version hivernale annonce <strong>4,3 km, 2 h 15, +230 m</strong> (du 15 décembre au 1er avril, non damé) ; la grande boucle du Parc de la Vanoise, depuis le Plan de la Croix à Aussois, fait <strong>7,6 km, 4 h 30, +579 m</strong>, classée « très facile ». Le secteur est dans le périmètre du <strong>Parc national</strong> : « nos amis les chiens ne sont pas autorisés », et les drones non plus.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuit",
+        "best_season": null,
+        "commune": "Val-Cenis",
+        "dogs": "Interdits (périmètre du Parc national)",
+        "parking": "Église de Sardières (été)",
+        "stroller": null,
+        "type": "Balade familiale",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Une aiguille de cargneule de près de 93 mètres, dressée dans la forêt de pins de Sardières, gravie pour la première fois en 1957 par Michel Paquier. Son tour à pied est une balade familiale.",
+          "q": "Qu'est-ce que le Monolithe ?"
+        },
+        {
+          "a": "Trois tracés officiels, trois jeux de chiffres — tous cités : la fiche d'été ne chiffre pas (« dénivelé modeste ») ; la version hivernale balisée fait 4,3 km / 2 h 15 / +230 m ; la grande boucle Vanoise depuis Aussois fait 7,6 km / 4 h 30 / +579 m.",
+          "q": "Quelle est la longueur du tour ?"
+        },
+        {
+          "a": "Non : « nos amis les chiens ne sont pas autorisés dans le périmètre du Parc national » — la règle vaut aussi pour les drones.",
+          "q": "Peut-on venir avec un chien ?"
+        },
+        {
+          "a": "L'avertissement du Parc, verbatim : « le point de vue du télégraphe Chappe surplombe des falaises non sécurisées », et certaines portions balisées ne figurent pas sur la carte IGN.",
+          "q": "Y a-t-il un danger ?"
+        }
+      ],
+      "hero": {
+        "badge": "Aiguille de 93 m · Balade familiale",
+        "lead": "Dans la forêt de pins de Sardières, une aiguille de cargneule de près de 93 mètres surgit entre les troncs — un tour familial, un monument d'escalade gravi en 1957, et l'interdiction des chiens du Parc national à respecter."
+      },
+      "hero_alt": "Forêt de pins alpine autour du monolithe de Sardières, Haute-Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D1006 jusqu'à Sollières-Sardières (Val-Cenis), puis hameau de Sardières ; parking de l'église.",
+        "public_transport": "Bus ligne S52, arrêt « Église »."
+      },
+      "meta_description": "Le monolithe de Sardières : une aiguille de cargneule de 93 m dans la forêt de pins, un tour familial par le sentier des Biches, la version raquettes balisée — et l'interdiction des chiens du Parc national.",
+      "meta_title": "Monolithe de Sardières · aiguille de 93 m, Val-Cenis",
+      "name": "Monolithe de Sardières",
+      "name_alternates": [
+        "Tour du monolithe par le sentier des Biches"
+      ],
+      "practical_info": [
+        {
+          "k": "Le monolithe",
+          "v": "Aiguille de cargneule de ≈ 93 m · première ascension 1957 (Michel Paquier)"
+        },
+        {
+          "k": "Tour été",
+          "v": "Sentier des Biches, « balade facile » familiale — chiffres non publiés"
+        },
+        {
+          "k": "Hiver",
+          "v": "Itinéraire raquettes n°1 : 4,3 km · 2 h 15 · +230 m · 15/12 – 01/04 · non damé"
+        },
+        {
+          "k": "Grande boucle",
+          "v": "Depuis le Plan de la Croix (Aussois) : 7,6 km · 4 h 30 · +579 m · « très facile » (rando.vanoise.com)"
+        },
+        {
+          "k": "Règles",
+          "v": "Chiens et drones interdits (périmètre du Parc national de la Vanoise)"
+        },
+        {
+          "k": "Contact",
+          "v": "Val Cenis · 04 79 05 99 06"
+        }
+      ],
+      "schema_amenities": [
+        "Sentier balisé"
+      ],
+      "when_to_visit": "<p>Toute l'année, en raquettes de la mi-décembre au début avril. Un avertissement du Parc vaut d'être repris tel quel : « l'itinéraire est balisé mais certaines portions ne sont pas sur la carte IGN. Prévoir des chaussures adéquates. Le point de vue du télégraphe Chappe surplombe des falaises non sécurisées. »</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Attraverso il sentiero di Biches dalla chiesa di Sardières — la spia di 93 m appare tra i pini.",
+          "tag": "Famiglia",
+          "title": "Il ciclo monolitico"
+        },
+        {
+          "description": "E' un percorso molto preciso, no. 1 dallo chalet nordico: 4.3 km, 2 h 15, +230 m, 15/12 al 01/04, non battute.",
+          "tag": "No. 1",
+          "title": "Racchette da neve in inverno"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Nel cuore della bella pineta Sardières, una silhouette inaspettata sorge tra i tronchi. E'... <strong>Monolito</strong>, una sottile spire cargneule di quasi <strong>93 metri</strong>« la presentazione è dell'ufficio Haute Maurienne Vanoise. La guglia fu scalata per la prima volta nel 1957 da Michel Paquier; il suo anello, attraverso il <strong>Sentiero dei bicchieri</strong>, è dato come 'una passeggiata facile', 'per le famiglie', dal parcheggio della chiesa Sardières (Val-Cenis).</p><p>Le cifre dipendono dal percorso, e le citiamo tutti: il foglio estivo non pubblica nessuno ('modest' climbing); il sentiero n. 1 nella sua versione invernale annuncia <strong>4.3 km, 2 h 15, +230 m</strong> dal 15 dicembre al 1 aprile; l'anello più grande del parco di Vanoise, dal Plan de la Croix a Aussois, è <strong>7,6 km, 4 h 30, +579 m</strong>, valutato 'molto facile'. Il settore si trova all'interno <strong>parco nazionale</strong> perimetro: I nostri amici canini non sono ammessi, né sono droni.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": null,
+        "commune": "Val-Cenis",
+        "dogs": "Proibita (perimetro nazionale-parco)",
+        "parking": "Chiesa di Sardières (estate)",
+        "stroller": null,
+        "type": "Passeggiata in famiglia",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Una spia cargneule di quasi 93 metri, in piedi nella pineta Sardières, per la prima volta scalata nel 1957 da Michel Paquier. Il suo anello a piedi è una gita di famiglia.",
+          "q": "Cos'è il Monolite?"
+        },
+        {
+          "a": "Tre rotte ufficiali, tre serie di cifre: tutti citati: il foglio estivo non dà nessuno ('modest' climbing); la versione invernale è 4.3 km / 2 h 15 / +230 m; il più grande loop Vanoise da Aussois è 7,6 km / 4 h 30 / +579 m.",
+          "q": "Quanto dura l'anello?"
+        },
+        {
+          "a": "No. «i nostri amici canini non sono ammessi all'interno del perimetro del parco nazionale» — la regola copre anche i droni.",
+          "q": "Puoi portare un cane?"
+        },
+        {
+          "a": "L'avvertimento del parco, verbatim: Il telegrafo Chappe si affaccia sulle scogliere non protette e alcune sezioni segnalate non sono sulla mappa IGN.",
+          "q": "C'e' qualche pericolo?"
+        }
+      ],
+      "hero": {
+        "badge": "93 m spire · Passeggiata in famiglia",
+        "lead": "Nella pineta di Sardières, una spia cargneule di quasi 93 metri sale tra i tronchi — un anello di famiglia, un monumento di arrampicata prima ascese nel 1957, e il divieto cane del parco nazionale di rispettare."
+      },
+      "hero_alt": "pineta alpina intorno al monolite Sardières, Haute-Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D1006 a Sollières-Sardières (Val-Cenis), poi la frazione Sardières; parcheggio della chiesa.",
+        "public_transport": "Bus line S52, fermata 'Église'."
+      },
+      "meta_description": "Il monolite Sardières: a 93 m cargneule spire nella pineta, un anello di famiglia attraverso il sentiero Biches, la versione con le ciaspole - e il divieto di cane del parco nazionale.",
+      "meta_title": "Monolithe de Sardières · 93 m spire, Val-Cenis",
+      "name": "Monolithe de Sardières",
+      "name_alternates": [
+        "Monolith loop via the Biches trail"
+      ],
+      "practical_info": [
+        {
+          "k": "Il monolite",
+          "v": "Cargneule spire di ≈ 93 m · prima salita 1957 (Michel Paquier)"
+        },
+        {
+          "k": "Ciclo estivo",
+          "v": "Biches trail, una passeggiata familiare 'facile' — cifre inedite"
+        },
+        {
+          "k": "Inverno",
+          "v": "No. 1: 4.3 km · 2 h 15 · +230 m · 15/12 – 01/04 · non battute"
+        },
+        {
+          "k": "Ciclo più grande",
+          "v": "Dal Plan de la Croix (Aussois): 7.6 km · 4 h 30 · +579 m · 'molto facile' (rando.vanoise.com)"
+        },
+        {
+          "k": "Regole",
+          "v": "Cani e droni vietati (perimetrale di parcheggio nazionale)"
+        },
+        {
+          "k": "Contatto",
+          "v": "Val Cenis · +33 4 79 05 99 06"
+        }
+      ],
+      "schema_amenities": [
+        "Sentiero segnalato"
+      ],
+      "when_to_visit": "<p>Tutto l'anno, sulle ciaspole da metà dicembre a inizio aprile. Un avviso di parco merita di citare come sta: Il percorso è segnato ma alcune sezioni non sono sulla mappa IGN. Portare calzature adatte. Il telegrafo Chappe si affaccia sulle scogliere non protette.'</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Via het pad van Biches van de Sardières kerk De 93 m hoge toren staat tussen de dennen.",
+          "tag": "Familie",
+          "title": "De monolietlus"
+        },
+        {
+          "description": "Waymarked route no. 1 uit het Noordse chalet: 4,3 km, 2 uur 15, +230 m, 15/12 tot 01/04, onbewoond.",
+          "tag": "Nee. 1",
+          "title": "Sneeuwschoenen in de winter"
+        }
+      ],
+      "body": {
+        "what_is": "<p>'In het hart van het prachtige dennenbos Sardières stijgt een onverwacht silhouet tussen de stammen. Het is <strong>Monoliet</strong>, een slanke cargneule toren van bijna <strong>93 meter</strong>' de presentatie is de Haute Maurienne Vanoise kantoor. De spits werd voor het eerst beklommen in 1957 door Michel Paquier; de lus, via de <strong>Biches trail</strong>, wordt gegeven als 'een gemakkelijke wandeling', 'voor gezinnen', van de Sardières kerk parkeerplaats (Val-Cenis).</p><p>De cijfers hangen af van de route, en we citeren ze allemaal: het zomerblad publiceert geen (\"modest' klim); waymarked route no. 1 in de winter versie kondigt <strong>4,3 km, 2 uur 15, +230 m</strong> (15 december t/m 1 april, onbeheerd); de grotere loop van het Vanoise park, van de Plan de la Croix op Aussois, is <strong>7,6 km, 4 uur 30, +579 m</strong>, beoordeeld 'zeer gemakkelijk'. De sector ligt binnen de <strong>nationaal park</strong> Omtrek: 'Onze hondenvrienden zijn niet toegestaan', noch zijn drones.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Vrij",
+        "best_season": null,
+        "commune": "Val-Cenis",
+        "dogs": "Verboden (nationaal park)",
+        "parking": "Sardières kerk (zomer)",
+        "stroller": null,
+        "type": "Familiewandeling",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Een cargneule-toren van bijna 93 meter, die in het dennenbos Sardières staat, voor het eerst beklommen in 1957 door Michel Paquier. De loop is een familieuitje.",
+          "q": "Wat is de Monoliet?"
+        },
+        {
+          "a": "Drie officiële routes, drie sets figuren alle geciteerd: het zomerblad geeft geen \"modest\" klim; de waymarked winterversie is 4,3 km / 2 h 15 / +230 m; de grotere Vanoise loop van Aussois is 7,6 km / 4 h 30 / +579 m.",
+          "q": "Hoe lang duurt de lus?"
+        },
+        {
+          "a": "Nee: 'Onze hondenvrienden zijn niet toegestaan binnen het nationaal park' De regel dekt ook drones.",
+          "q": "Kun je een hond meenemen?"
+        },
+        {
+          "a": "De waarschuwing van het park, letterlijk: \"Het standpunt van de Chappe telegraaf kijkt uit over onbeveiligde kliffen,\" en sommige gemarkeerde secties staan niet op de IGN-kaart.",
+          "q": "Is er gevaar?"
+        }
+      ],
+      "hero": {
+        "badge": "93 m toren · Gezinswandeling",
+        "lead": "In het Sardières dennenbos stijgt een cargneule-toren van bijna 93 meter tussen de stammen. Een familielus, een klimmonument dat voor het eerst in 1957 is opgestegen, en het hondenverbod van het nationale park."
+      },
+      "hero_alt": "Alpine dennenbos rond de Sardières monoliet, Haute-Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D1006 tot Sollières-Sardières (Val-Cenis), dan het Sardières gehucht; Kerk parkeerplaats.",
+        "public_transport": "Buslijn S52, 'Église' stop."
+      },
+      "meta_description": "De Sardières monoliet: een 93 m cargneule-toren in het dennenbos, een familielus via de Biches-route, de bewegwijzerde sneeuwschoenversie En het hondenverbod van het nationale park.",
+      "meta_title": "Monolithe de Sardières · 93 m spire, Val-Cenis",
+      "name": "Monolithe de Sardières",
+      "name_alternates": [
+        "Monolith loop via the Biches trail"
+      ],
+      "practical_info": [
+        {
+          "k": "De monoliet",
+          "v": "Cargneule spire van ≈ 93 m · eerste stijging 1957 (Michel Paquier)"
+        },
+        {
+          "k": "Zomerlus",
+          "v": "Biches trail, een 'gemakkelijke' familiewandeling  niet-gepubliceerde cijfers"
+        },
+        {
+          "k": "Winter",
+          "v": "Snowshoe route no. 1: 4,3 km · 2 uur 15 · +230 m · 15/12 01/04 · onbeheerd"
+        },
+        {
+          "k": "Grotere lus",
+          "v": "Van de Plan de la Croix (Aussois): 7,6 km · 4 uur 30 · +579 m · \"zeer gemakkelijk\" (rando.vanoise.com)"
+        },
+        {
+          "k": "Regels",
+          "v": "Honden en drones verboden (Vanoise National-park perimeter)"
+        },
+        {
+          "k": "Contactpersoon",
+          "v": "Val Cenis · +33 4 79 05 99 06"
+        }
+      ],
+      "schema_amenities": [
+        "Waymarked trail"
+      ],
+      "when_to_visit": "<p>Het hele jaar, op sneeuwschoenen van midden december tot begin april. Een parkwaarschuwing verdient een citaat: 'De route is gemarkeerd maar sommige secties staan niet op de IGN kaart. Breng geschikt schoeisel mee. Het standpunt van Chappe telegraaf kijkt uit op onbeveiligde kliffen.\"</p>"
+    }
+  },
+  "latitude": 45.242659,
+  "longitude": 6.780167,
+  "official_site_url": "https://www.haute-maurienne-vanoise.com/tour-monolithe-sardieres/",
+  "partners": [],
+  "postal_code": "73500",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-18, FR pages only (Haute Maurienne Vanoise, Val Cenis, rando.vanoise.com). « Au coeur de la belle forêt de pins de Sardières, une silhouette inattendue s'élève entre les troncs. C'est le Monolithe, fine aiguille de cargneule de près de 93 mètres » — gravi pour la première fois en 1957 par Michel Paquier. Balade « facile », « familiale » (sentier des Biches, sans chiffres publiés) ; itinéraire hiver balisé n°1 : 4,3 km / 2 h 15 / +230 m (15/12–01/04, non damé) ; boucle élargie Vanoise (Plan de la Croix, Aussois) : 7,6 km / 4 h 30 / +579 m « Très facile » — trois tracés, trois jeux de chiffres, tous cités. Chiens interdits (périmètre du Parc national) ; drones interdits. Falaises non sécurisées au point de vue du télégraphe Chappe (avertissement Vanoise verbatim). Départ été : parking de l'église de Sardières (bus S52) ; hiver : chalet nordique. Accès libre.",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "monolithe-de-sardieres",
+  "sources": [
+    "https://www.haute-maurienne-vanoise.com/tour-monolithe-sardieres/",
+    "https://www.valcenis.com/equipement/itineraire-pieton-raquettes-le-monolithe-par-sardieres-val-cenis/",
+    "https://rando.vanoise.com/fr/trek/3902-Sur-les-traces-du-monolithe-de-Sardieres-et-du-telegraphe-Chappe"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published for this site; kept null rather than inferred.",
+    "CHIFFRES MULTIPLES — trois tracés officiels autour du monolithe publient trois jeux de chiffres (fiche été sans chiffres ; hiver 4,3 km/2 h 15/+230 m ; boucle Vanoise 7,6 km/4 h 30/+579 m) ; tous cités, aucun moyenné."
+  ]
+}

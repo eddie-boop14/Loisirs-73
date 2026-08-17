@@ -1,0 +1,556 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-18",
+    "confidence": "declarative",
+    "detail": "« Non accessible en fauteuil roulant » et « non adapté aux poussettes » (fiche Chambéry Montagnes).",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_name": "Chambéry Montagnes",
+    "source_url": "https://www.chamberymontagnes.com/que-faire/activites-pleine-nature/les-cascades-de-jacob-et-la-grobelle-jacob-bellecombette-fr-5783442/",
+    "status": "non_accessible",
+    "tourisme_handicap": null
+  },
+  "category": "cascade",
+  "commune": "Jacob-Bellecombette",
+  "date_modified_human": "18 août 2026",
+  "date_published_human": "18 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-18",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-cascade.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "5,9 gelb markierte Kilometer hinter den drei Wasserfällen, den Wasserkochern des Riesen und den kleinen Schluchten des Nant du Pontet.",
+          "tag": "2 h 15",
+          "title": "Die Wasserfallschleife"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>Jakobswasserfälle</strong> und die <strong>Grobelle</strong> Punktieren Sie den Nant du Pontet, einen Bach, der in 750 m Höhe auf den Ausläufern des Chartreuse geboren wurde und sechs Kilometer unter dem Hyères an den Toren des Chambéry anschließt. Entlang der <strong>gelb markierte Schleife</strong> — 2 h 15, 5,9 km, mäßig — Das Wasser hat \"Riesenkessel, kleine Schluchten und Riesentreppen\" in den Kalkstein geschnitzt. Nach etwa zehn Minuten zu Fuß führt eine Fußgängerbrücke zum Fuß des ersten Falls.</p><p>Der Ort hat seine Legenden: das <strong>Nymphenbad</strong> Pool, wo Hortense Mancini im 18. Jahrhundert badete, und eine Szene von 'Mlle La Quintinie', die George Sand genau hier gesetzt. Auf dem Aufstieg sagt das Webblatt 228 m und die Stadt PDF topo 222 m — Wir berichten beides. Die Strecke ist \"nicht für Kinderwagen geeignet\" und \"nicht für Rollstühle zugänglich\". Hunde an der Leine zu halten, wird \"sehr dringend empfohlen\".</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "frei",
+        "best_season": "Nach Regen oder Schneeschmelze",
+        "commune": "Jacob-Bellecombette",
+        "dogs": "Leine sehr stark empfohlen",
+        "parking": "Grand Pré Schule",
+        "stroller": "Nicht geeignet",
+        "type": "Wasserfälle",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "\"moderat\" bewertet: 2 h 15 für 5,9 km mit 228 m Anstieg je Bahnblatt — 222 m pro PDF-Topo der Stadt; Wir zitieren beides. Steiniger und irdener Boden mit Oberflächenabschnitten, nicht für Kinderwagen geeignet.",
+          "q": "Ist die Schleife hart?"
+        },
+        {
+          "a": "Ja: \"Nach etwa zehn Minuten zu Fuß, an der Holzschranke, können Sie die kleine Fußgängerbrücke nehmen, um den Fuß des Wasserfalls zu erreichen.\"",
+          "q": "Kannst du einen Sturz sehen, ohne die ganze Schleife zu gehen?"
+        },
+        {
+          "a": "Der Pool verdankt seinen Namen den Bädern von Hortense Mancini, Herzogin von Mazarin, im 18. Jahrhundert; George Sand stellte eine Szene ihres Romans \"Mlle La Quintinie\" bei den Wasserfällen auf.",
+          "q": "Was ist die Geschichte des Nymphenbades?"
+        },
+        {
+          "a": "Von Chambéry, Buslinie A oder Linie 1, 'Université Jacob' Haltestelle, dann starten Sie vom Grand Pré Schulparkplatz.",
+          "q": "Wie kommt man ohne Auto?"
+        }
+      ],
+      "hero": {
+        "badge": "3 Wasserfälle · Am Chambéry Gates",
+        "lead": "Zehn Minuten vom Chambéry-Campus entfernt springt der Nant du Pontet dreimal zwischen riesigen Wasserkochern und kleinen Schluchten. Eine 2 h 15 schleife in der geschichte, vom nymphenbad bis George Sand."
+      },
+      "hero_alt": "Wasserfall auf dem Nant du Pontet bei Jacob-Bellecombette, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "In Jacob-Bellecombette, südlich von Chambéry; Parken Sie auf dem Grand Pré Schulparkplatz.",
+        "public_transport": "Buslinie A oder 1 von Chambéry, 'Université Jacob' Haltestelle."
+      },
+      "meta_description": "Drei Wasserfälle auf dem Nant du Pontet an den Toren von Chambéry: a 2 h 15 markierte Schleife (5,9 km), Riesenkessel, das Nymphenbad und George Sand. Feinste nach Regen — Der Ratschlag ist offiziell.",
+      "meta_title": "Jacob und Grobelle Wasserfälle · 2 h 15 loop, Chambéry",
+      "name": "Cascades de Jacob et la Grobelle",
+      "name_alternates": [
+        "Jacob-Bellecombette waterfalls"
+      ],
+      "practical_info": [
+        {
+          "k": "Route",
+          "v": "2 h 15 · 5,9 km · moderate · gelbe Wegmarken · Aufstieg 228 m (Webblatt) / 222 m (Stadt PDF)"
+        },
+        {
+          "k": "Beginn",
+          "v": "Grand Pré school car park, rue des Écoles · bus A/1, Université Jacob stop"
+        },
+        {
+          "k": "Zugänglichkeit",
+          "v": "Nicht für Kinderwagen geeignet · nicht für Rollstühle zugänglich (offizielles Blatt)"
+        },
+        {
+          "k": "Hunde",
+          "v": "Leash \"sehr dringend empfohlen\""
+        },
+        {
+          "k": "Notfall",
+          "v": "112 · IGN TOP 25 map 3333 OT Chartreuse Nord"
+        }
+      ],
+      "schema_amenities": [
+        "Markierungsschleife",
+        "Fußbrücke"
+      ],
+      "when_to_visit": "<p>\"Dieser sprudelnde Strom ist spektakulärer nach Regen oder Schneeschmelze\" - Der Ratschlag ist das offizielle Blatt. Das ganze Jahr über bei schönem Wetter; Start am Grand Pré Schulparkplatz oder mit dem Bus von Chambéry (Linie A oder 1, Haltestelle Université Jacob).</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "5.9 yellow-waymarked km past the three falls, the giant's kettles and the little canyons of the Nant du Pontet.",
+          "tag": "2 h 15",
+          "title": "The waterfalls loop"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Jacob waterfalls</strong> and the <strong>Grobelle</strong> punctuate the Nant du Pontet, a stream born at 750 m on the Chartreuse foothills that joins the Hyères six kilometres below, at Chambéry's gates. Along the <strong>yellow-waymarked loop</strong> — 2 h 15, 5.9 km, moderate — the water has carved 'giant's kettles, little canyons and giant's staircases' into the limestone. After about ten minutes' walk, a footbridge leads to the foot of the first fall.</p><p>The place has its legends: the <strong>Nymphs' Bath</strong> pool, where Hortense Mancini bathed in the 18th century, and a scene of 'Mlle La Quintinie' that George Sand set right here. On the climb, the web sheet says 228 m and the town's PDF topo 222 m — we report both. The trail is 'not suitable for strollers' and 'not wheelchair-accessible'; keeping dogs on a leash is 'very strongly recommended'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free",
+        "best_season": "After rain or snowmelt",
+        "commune": "Jacob-Bellecombette",
+        "dogs": "Leash very strongly recommended",
+        "parking": "Grand Pré school",
+        "stroller": "Not suitable",
+        "type": "Waterfalls",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Rated 'moderate': 2 h 15 for 5.9 km, with 228 m of climb per the web sheet — 222 m per the town's PDF topo; we quote both. Stony and earthen ground with surfaced sections, not stroller-suitable.",
+          "q": "Is the loop hard?"
+        },
+        {
+          "a": "Yes: 'after about ten minutes' walk, at the wooden barrier, you can take the small footbridge to reach the foot of the waterfall'.",
+          "q": "Can you see a fall without walking the whole loop?"
+        },
+        {
+          "a": "The pool owes its name to the baths of Hortense Mancini, duchess of Mazarin, in the 18th century; George Sand set a scene of her novel 'Mlle La Quintinie' at the falls.",
+          "q": "What is the story of the Nymphs' Bath?"
+        },
+        {
+          "a": "From Chambéry, bus line A or line 1, 'Université Jacob' stop, then start from the Grand Pré school car park.",
+          "q": "How do you come without a car?"
+        }
+      ],
+      "hero": {
+        "badge": "3 waterfalls · At Chambéry's gates",
+        "lead": "Ten minutes from the Chambéry campus, the Nant du Pontet leaps three times between giant's kettles and little canyons — a 2 h 15 loop steeped in history, from the Nymphs' Bath to George Sand."
+      },
+      "hero_alt": "Waterfall on the Nant du Pontet at Jacob-Bellecombette, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "In Jacob-Bellecombette, south of Chambéry; park at the Grand Pré school car park.",
+        "public_transport": "Bus line A or 1 from Chambéry, 'Université Jacob' stop."
+      },
+      "meta_description": "Three waterfalls on the Nant du Pontet at Chambéry's gates: a 2 h 15 waymarked loop (5.9 km), giant's kettles, the Nymphs' Bath and George Sand. Finest after rain — the advice is official.",
+      "meta_title": "Jacob and Grobelle waterfalls · 2 h 15 loop, Chambéry",
+      "name": "Cascades de Jacob et la Grobelle",
+      "name_alternates": [
+        "Jacob-Bellecombette waterfalls"
+      ],
+      "practical_info": [
+        {
+          "k": "Route",
+          "v": "2 h 15 · 5.9 km · moderate · yellow waymarks · climb 228 m (web sheet) / 222 m (town PDF)"
+        },
+        {
+          "k": "Start",
+          "v": "Grand Pré school car park, rue des Écoles · bus A/1, Université Jacob stop"
+        },
+        {
+          "k": "Accessibility",
+          "v": "Not stroller-suitable · not wheelchair-accessible (official sheet)"
+        },
+        {
+          "k": "Dogs",
+          "v": "Leash 'very strongly recommended'"
+        },
+        {
+          "k": "Emergency",
+          "v": "112 · IGN TOP 25 map 3333 OT Chartreuse Nord"
+        }
+      ],
+      "schema_amenities": [
+        "Waymarked loop",
+        "Footbridge"
+      ],
+      "when_to_visit": "<p>'This gushing stream is more spectacular after rain or snowmelt' — the advice is the official sheet's. All year subject to fair weather; start at the Grand Pré school car park, or by bus from Chambéry (line A or 1, Université Jacob stop).</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "5.9 km de marca amarilla pasando las tres caídas, los hervidores del gigante y los pequeños cañones de la Nant du Pontet.",
+          "tag": "2 h 15",
+          "title": "El bucle de cascadas"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>Jacob cascadas</strong> y el <strong>Grobelle</strong> puntuar la Nant du Pontet, una corriente nacida a 750 m en las estribaciones Chartreuse que se une a la Hyères seis kilómetros abajo, a las puertas de Chambéry. Junto a <strong>bucle de color amarillo</strong> — 2 h 15, 5,9 km, moderado — el agua ha tallado los hervidores 'giant', pequeños cañones y escaleras gigantes' en la piedra caliza. Después de unos diez minutos caminando, una pasarela conduce al pie de la primera caída.</p><p>El lugar tiene sus leyendas: el <strong>Baño de Nymphs</strong> pool, where Hortense Mancini bathed in the 18th century, and a scene of 'Mlle La Quintinie' that George Sand set right here. En la escalada, la hoja web dice 228 m y el topo PDF de la ciudad 222 m — reportamos ambos. El sendero no es adecuado para los caminantes y 'no para silla de ruedas-accesible'; Mantener perros en una correa es 'muy recomendado'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": "Después de la lluvia o la nieve",
+        "commune": "Jacob-Bellecombette",
+        "dogs": "Leash muy recomendado",
+        "parking": "Escuela Grand Pré",
+        "stroller": "No es adecuado",
+        "type": "Cascadas",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Rated 'moderate': 2 h 15 por 5,9 km, con 228 m de escalada por la hoja web — 222 m por topo PDF de la ciudad; citamos ambos. Terreno de piedra y tierra con secciones superficiales, no apto para pasear.",
+          "q": "¿Es difícil el bucle?"
+        },
+        {
+          "a": "Sí: 'después de unos diez minutos' a pie, en la barrera de madera, se puede tomar la pequeña pasarela para llegar al pie de la cascada'.",
+          "q": "¿Puedes ver una caída sin caminar todo el bucle?"
+        },
+        {
+          "a": "The pool owes its name to the baths of Hortense Mancini, duchess of Mazarin, in the 18th century; George Sand puso una escena de su novela \"Mlle La Quintinie\" en las cataratas.",
+          "q": "¿Cuál es la historia del Baño de Nymphs?"
+        },
+        {
+          "a": "Desde Chambéry, línea de autobuses A o línea 1, 'Université Jacob' parada, luego comienza desde el aparcamiento escolar Grand Pré.",
+          "q": "¿Cómo vienes sin un coche?"
+        }
+      ],
+      "hero": {
+        "badge": "3 cascadas · A las puertas de Chambéry",
+        "lead": "Ten minutes from the Chambéry campus, the Nant du Pontet leaps three times between giant's kettles and little canyons — a 2 h 15 bucle empinado en la historia, desde el Baño de Nymphs a George Sand."
+      },
+      "hero_alt": "Cascada en el Nant du Pontet en Jacob-Bellecombette, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "En Jacob-Bellecombette, al sur de Chambéry; parque en el aparcamiento escolar Grand Pré.",
+        "public_transport": "Línea de autobuses A o 1 de Chambéry, 'Université Jacob' parada."
+      },
+      "meta_description": "Tres cascadas en la Nant du Pontet a las puertas de Chambéry: a 2 h 15 bucle señalizado (5.9 km), hervidores gigantes, el Baño de Nymphs y George Sand. Más fino después de la lluvia — el consejo es oficial.",
+      "meta_title": "cascadas Jacob y Grobelle · 2 h 15 bucle, Chambéry",
+      "name": "Cascades de Jacob et la Grobelle",
+      "name_alternates": [
+        "Jacob-Bellecombette waterfalls"
+      ],
+      "practical_info": [
+        {
+          "k": "Ruta",
+          "v": "2 h 15 · 5.9 km · moderado · amarillo marcapuntos · subida 228 m (papel de hierba) / 222 m (ciudad PDF)"
+        },
+        {
+          "k": "Comienzo",
+          "v": "Grand Pré school car park, rue des Écoles · bus A/1, Université Jacob stop"
+        },
+        {
+          "k": "Accesibilidad",
+          "v": "No es adecuado para cochecitos · no accesible silla de ruedas (sábana oficial)"
+        },
+        {
+          "k": "Perros",
+          "v": "Leash 'muy recomendado'"
+        },
+        {
+          "k": "Emergencia",
+          "v": "112 · IGN TOP 25 mapa 3333 OT Chartreuse Nord"
+        }
+      ],
+      "schema_amenities": [
+        "Loop Waymarked",
+        "Footbridge"
+      ],
+      "when_to_visit": "<p>'Esta corriente de enfriamiento es más espectacular después de la lluvia o la nieve' — el consejo es de la hoja oficial. Todo el año sujeto al clima justo; empezar en el aparcamiento escolar Grand Pré, o en autobús desde Chambéry (línea A o 1, Université Jacob parada).</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "5,9 km balisés en jaune entre les trois cascades, les marmites de géants et les petits canyons du Nant du Pontet.",
+          "tag": "2 h 15",
+          "title": "La boucle des cascades"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Les <strong>cascades de Jacob</strong> et la <strong>Grobelle</strong> jalonnent le Nant du Pontet, un torrent né à 750 m sur les contreforts de la Chartreuse qui rejoint l'Hyères six kilomètres plus bas, aux portes de Chambéry. Le long de la <strong>boucle balisée en jaune</strong> — 2 h 15, 5,9 km, niveau moyen —, l'eau a creusé « des marmites de géants, des petits canyons et des escaliers de géants » dans le calcaire. Après une dizaine de minutes de marche, une passerelle mène au pied de la première cascade.</p><p>Le lieu a son légendaire : la vasque du <strong>Bain des Nymphes</strong>, où se baignait Hortense Mancini au XVIIIᵉ siècle, et une scène de « Mlle La Quintinie » que George Sand situe ici même. Sur le dénivelé, la fiche web dit 228 m et le topo PDF de la mairie 222 m — nous reportons les deux. Le sentier est « non adapté aux poussettes » et « non accessible en fauteuil roulant » ; il est « très fortement recommandé de tenir vos chiens en laisse ».</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuit",
+        "best_season": "Après la pluie ou la fonte des neiges",
+        "commune": "Jacob-Bellecombette",
+        "dogs": "En laisse très fortement recommandé",
+        "parking": "École du Grand Pré",
+        "stroller": "Non adapté",
+        "type": "Cascades",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Niveau « moyen » : 2 h 15 pour 5,9 km, avec 228 m de dénivelé selon la fiche web — 222 m selon le topo PDF de la mairie ; nous citons les deux. Terrain cailloux, terre et sections revêtues, non adapté aux poussettes.",
+          "q": "La boucle est-elle difficile ?"
+        },
+        {
+          "a": "Oui : « après une dizaine de minutes de marche, au niveau de la barrière en bois, vous pouvez emprunter la petite passerelle pour vous rendre au pied de la cascade ».",
+          "q": "Peut-on voir une cascade sans faire toute la boucle ?"
+        },
+        {
+          "a": "Cette vasque doit son nom aux baignades d'Hortense Mancini, duchesse de Mazarin, au XVIIIᵉ siècle ; George Sand, elle, situe aux cascades une scène de son roman « Mlle La Quintinie ».",
+          "q": "Quelle est l'histoire du Bain des Nymphes ?"
+        },
+        {
+          "a": "Depuis Chambéry, bus ligne A ou ligne 1, arrêt « Université Jacob », puis départ du parking de l'école du Grand Pré.",
+          "q": "Comment venir sans voiture ?"
+        }
+      ],
+      "hero": {
+        "badge": "3 cascades · Aux portes de Chambéry",
+        "lead": "À dix minutes du campus de Chambéry, le Nant du Pontet saute trois fois entre marmites de géants et petits canyons — une boucle de 2 h 15 chargée d'histoire, du Bain des Nymphes à George Sand."
+      },
+      "hero_alt": "Cascade du Nant du Pontet à Jacob-Bellecombette, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "À Jacob-Bellecombette, au sud de Chambéry ; stationner au parking de l'école du Grand Pré.",
+        "public_transport": "Bus ligne A ou ligne 1 depuis Chambéry, arrêt « Université Jacob »."
+      },
+      "meta_description": "Trois cascades sur le Nant du Pontet aux portes de Chambéry : boucle balisée de 2 h 15 (5,9 km), marmites de géants, Bain des Nymphes et George Sand. Plus belles après la pluie — le conseil est officiel.",
+      "meta_title": "Cascades de Jacob et la Grobelle · boucle 2 h 15, Chambéry",
+      "name": "Cascades de Jacob et la Grobelle",
+      "name_alternates": [
+        "Cascades de Jacob-Bellecombette"
+      ],
+      "practical_info": [
+        {
+          "k": "Itinéraire",
+          "v": "2 h 15 · 5,9 km · niveau moyen · balisage jaune · dénivelé 228 m (fiche web) / 222 m (PDF mairie)"
+        },
+        {
+          "k": "Départ",
+          "v": "Parking de l'école du Grand Pré, rue des Écoles · bus A/1 arrêt Université Jacob"
+        },
+        {
+          "k": "Accessibilité",
+          "v": "Non adapté aux poussettes · non accessible en fauteuil roulant (fiche officielle)"
+        },
+        {
+          "k": "Chiens",
+          "v": "« Très fortement recommandé » de les tenir en laisse"
+        },
+        {
+          "k": "Urgences",
+          "v": "112 · carte IGN TOP 25 3333 OT Chartreuse Nord"
+        }
+      ],
+      "schema_amenities": [
+        "Boucle balisée",
+        "Passerelle"
+      ],
+      "when_to_visit": "<p>« Ce torrent jaillissant est plus spectaculaire après la pluie ou la fonte des neiges » — le conseil est celui de la fiche officielle. Toute l'année sous réserve de météo favorable ; départ au parking de l'école du Grand Pré, ou en bus depuis Chambéry (ligne A ou 1, arrêt Université Jacob).</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "5,9 km giallo-marcati oltre le tre cascate, i bollitori del gigante e i piccoli canyon della Nant du Pontet.",
+          "tag": "2 h 15",
+          "title": "Il ciclo delle cascate"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Cascate di Jacob</strong> e il <strong>Grobelle</strong> puntualizza l'Nant du Pontet, un torrente nato a 750 m sulle pendici Chartreuse che si unisce allo Hyères sei chilometri sotto, alle porte di Chambéry. Lungo il <strong>anello giallo-marcato</strong> — 2 h 15, 5,9 km, moderato — l'acqua ha intagliato i bollitori, i piccoli canyon e le scale del gigante nel calcare. Dopo circa dieci minuti a piedi, una passerella porta ai piedi del primo autunno.</p><p>Il luogo ha le sue leggende: il <strong>Bagno di ninfe</strong> pool, where Hortense Mancini bathed in the 18th century, and a scene of 'Mlle La Quintinie' that George Sand set right here. Sulla scalata, il foglio web dice 228 m e il topo PDF della città 222 m — Facciamo rapporto a entrambi. Il sentiero non è adatto per i passeggini e 'non accessibile alla sedia a rotelle'; tenere i cani al guinzaglio è 'molto fortemente raccomandato'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": "Dopo pioggia o nevemelt",
+        "commune": "Jacob-Bellecombette",
+        "dogs": "Leash molto fortemente raccomandato",
+        "parking": "Scuola di Grand Pré",
+        "stroller": "Non adatto",
+        "type": "Cascate",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Voto 'moderate': 2 h 15 per 5,9 km, con 228 m di salita per foglio web — 222 m per topo PDF della città; Citiamo entrambi. Stony e terra con sezioni di superficie, non passeggino-adatto.",
+          "q": "Il loop e' difficile?"
+        },
+        {
+          "a": "Sì. 'dopo circa dieci minuti' a piedi, alla barriera di legno, è possibile prendere la piccola passerella per raggiungere i piedi della cascata'.",
+          "q": "Riesci a vedere una caduta senza camminare tutto il ciclo?"
+        },
+        {
+          "a": "The pool owes its name to the baths of Hortense Mancini, duchess of Mazarin, in the 18th century; George Sand ha messo una scena del suo romanzo 'Mlle La Quintinie' alle cascate.",
+          "q": "Qual è la storia del bagno delle ninfe?"
+        },
+        {
+          "a": "Da Chambéry, linea A o linea 1, fermata 'Université Jacob', poi partire dal parcheggio della scuola Grand Pré.",
+          "q": "Come fai a venire senza una macchina?"
+        }
+      ],
+      "hero": {
+        "badge": "3 cascate · Alle porte di Chambéry",
+        "lead": "A dieci minuti dal campus Chambéry, l'Nant du Pontet salta tre volte tra i bollitori del gigante e i piccoli canyon — a 2 h 15 anello ripido nella storia, dal bagno di Ninfe a George Sand."
+      },
+      "hero_alt": "Cascata sull'Nant du Pontet a Jacob-Bellecombette, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "In Jacob-Bellecombette, a sud di Chambéry; parco al parcheggio della scuola Grand Pré.",
+        "public_transport": "Autobus linea A o 1 da Chambéry, fermata 'Université Jacob'."
+      },
+      "meta_description": "Tre cascate sull'Nant du Pontet alle porte di Chambéry: a 2 h 15 passante segnalato (5,9 km), bollitori di giganti, il bagno di Nymphs e George Sand. Più fine dopo la pioggia — il consiglio è ufficiale.",
+      "meta_title": "Cascate di Jacob e Grobelle · 2 h 15 loop, Chambéry",
+      "name": "Cascades de Jacob et la Grobelle",
+      "name_alternates": [
+        "Jacob-Bellecombette waterfalls"
+      ],
+      "practical_info": [
+        {
+          "k": "Itinerario",
+          "v": "2 h 15 · 5.9 km · moderato · giallo waymarks · salita 228 m (libro web) / 222 m (città PDF)"
+        },
+        {
+          "k": "Inizio",
+          "v": "Grand Pré school car park, rue des Écoles · bus A/1, Université Jacob stop"
+        },
+        {
+          "k": "Accessibilità",
+          "v": "Non passeggino adatto · non accessibile alla sedia a rotelle (foglio ufficiale)"
+        },
+        {
+          "k": "Cani",
+          "v": "Leash 'molto fortemente raccomandato'"
+        },
+        {
+          "k": "Emergenza",
+          "v": "112 · IGN TOP 25 mappa 3333 OT Chartreuse Nord"
+        }
+      ],
+      "schema_amenities": [
+        "Ciclo di riferimento",
+        "Ponte delle gambe"
+      ],
+      "when_to_visit": "<p>«Questo flusso di gushing è più spettacolare dopo la pioggia o la neve» — il consiglio è il foglio ufficiale. Tutto l'anno soggetto a tempo equo; partire al parcheggio della scuola Grand Pré o in autobus da Chambéry (linea A o 1, fermata Université Jacob).</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "5,9 kilometer langs de drie watervallen, de keteltjes van de reus en de kleine canyons van de Nant du Pontet.",
+          "tag": "2 uur 15",
+          "title": "De watervallenlus"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>Jacobwatervallen</strong> en de <strong>Grobelle</strong> kruis de Nant du Pontet, een rivier geboren op 750 m op de Chartreuse uitlopers die zes kilometer onder de Hyères komt, bij de poorten van Chambéry. Langs de <strong>geel gemarkeerde lus</strong> 2 uur 15, 5.9 km, matig Het water heeft 'reuzenketeltjes, ravijnen en reuzentrappen' in de kalksteen gekerfd. Na ongeveer tien minuten lopen leidt een loopbrug naar de voet van de eerste herfst.</p><p>De plaats heeft zijn legendes: de <strong>Nymfenbad</strong> zwembad, waar Hortense Mancini badde in de 18e eeuw, en een scène van 'Mlle La Quintinie' die George Sand hier heeft gezet. Op de klim, de web sheet zegt 228 m en de stad PDF topo 222 m We rapporteren beide. Het pad is 'niet geschikt voor kinderwagens' en 'niet toegankelijk voor rolstoelgebruikers'; honden aan de riem houden is 'zeer sterk aanbevolen'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Vrij",
+        "best_season": "Na regen of sneeuwmelt",
+        "commune": "Jacob-Bellecombette",
+        "dogs": "Lijn zeer sterk aanbevolen",
+        "parking": "Grand Pré school",
+        "stroller": "Niet geschikt",
+        "type": "Watervallen",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Nominaal \"matig\": 2 uur 15 voor 5.9 km, met 228 m klim per webblad  222 m per PDF topo van de stad; We citeren beide. Steen- en aarden grond met vlakke secties, niet kinderwagen-geschikt.",
+          "q": "Is de lus hard?"
+        },
+        {
+          "a": "Ja: 'Na ongeveer tien minuten lopen, bij de houten barrière, kunt u de kleine voetbrug nemen om de voet van de waterval te bereiken'.",
+          "q": "Zie je een val zonder de hele lus te lopen?"
+        },
+        {
+          "a": "Het zwembad dankt zijn naam aan de baden van Hortense Mancini, hertogin van Mazarin, in de 18e eeuw; George Sand zette bij de waterval een scène van haar roman 'Mlle La Quintinie'.",
+          "q": "Wat is het verhaal van het bad van de nimfen?"
+        },
+        {
+          "a": "Vanaf Chambéry, buslijn A of lijn 1, 'Université Jacob' stoppen, dan beginnen vanaf de Grand Pré school parkeerplaats.",
+          "q": "Hoe kom je zonder auto?"
+        }
+      ],
+      "hero": {
+        "badge": "3 watervallen · bij de poorten van Chambéry",
+        "lead": "Op tien minuten van de Chambéry campus springt de Nant du Pontet drie keer tussen reuzenketeltjes en kleine canyons. een 2 h 15 lus doordrenkt in de geschiedenis, van het bad van de nimfen tot George Sand."
+      },
+      "hero_alt": "Waterval op de Nant du Pontet bij Jacob-Bellecombette, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "In Jacob-Bellecombette, ten zuiden van Chambéry; parkeren op de parkeerplaats Grand Pré school.",
+        "public_transport": "Buslijn A of 1 van Chambéry, 'Université Jacob' stoppen."
+      },
+      "meta_description": "Drie watervallen op de Nant du Pontet bij de poorten van Chambéry: een 2 h 15 waymarked lus (5,9 km), reuzenketeltjes, de Nymphs' Bath en George Sand. Fijnste na regen het advies officieel is.",
+      "meta_title": "Jacob en Grobelle watervallen · 2 h 15 lus, Chambéry",
+      "name": "Cascades de Jacob et la Grobelle",
+      "name_alternates": [
+        "Jacob-Bellecombette waterfalls"
+      ],
+      "practical_info": [
+        {
+          "k": "Route",
+          "v": "2 uur 15 · 5,9 km · gemiddelde · gele wegwijzers · klim 228 m (webplaat) / 222 m (stad PDF)"
+        },
+        {
+          "k": "Begin",
+          "v": "Grand Pré school car park, rue des Écoles · bus A/1, Université Jacob stop"
+        },
+        {
+          "k": "Toegankelijkheid",
+          "v": "Niet voor kinderwagen geschikt · niet voor rolstoelen toegankelijk (officieel blad)"
+        },
+        {
+          "k": "Honden",
+          "v": "Lijn 'zeer sterk aanbevolen'"
+        },
+        {
+          "k": "Noodgeval",
+          "v": "112 · IGN TOP 25 map 3333 OT Chartreuse Nord"
+        }
+      ],
+      "schema_amenities": [
+        "Waymarked loop",
+        "Voetbrug"
+      ],
+      "when_to_visit": "<p>'Deze stromende stroom is spectaculairer na regen of sneeuwsmelt' het advies is van het officiële blad. Het hele jaar aan mooi weer onderworpen; start op de Grand Pré schoolparking, of met de bus vanaf Chambéry (lijn A of 1, Université Jacob stop).</p>"
+    }
+  },
+  "latitude": 45.555862,
+  "longitude": 5.907877,
+  "official_site_url": "https://www.chamberymontagnes.com/que-faire/activites-pleine-nature/les-cascades-de-jacob-et-la-grobelle-jacob-bellecombette-fr-5783442/",
+  "partners": [],
+  "postal_code": "73000",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-18, FR pages only (Chambéry Montagnes + topo PDF mairie/Grand Chambéry Alpes Tourisme). Trois cascades sur le Nant du Pontet (source 750 m, contreforts de la Chartreuse, confluence avec l'Hyères). Boucle balisée jaune : 2 h 15, 5,9 km, « Moyen » ; dénivelé 228 m (fiche web) vs 222 m (PDF) — contradiction reportée. Départ parking de l'école du Grand Pré ; bus ligne A/1 arrêt Université Jacob. Passerelle vers le pied de la cascade après ~10 min. « Non adapté aux poussettes » ; « Non accessible en fauteuil roulant » → acces_pmr non_accessible. Chiens : « très fortement recommandé de tenir vos chiens en laisse ». Marmites de géants, petits canyons ; Bain des Nymphes (Hortense Mancini, XVIIIe) ; George Sand y situe une scène de « Mlle La Quintinie ». « Plus spectaculaire après la pluie ou la fonte des neiges ».",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "cascades-de-jacob-bellecombette",
+  "sources": [
+    "https://www.chamberymontagnes.com/que-faire/activites-pleine-nature/les-cascades-de-jacob-et-la-grobelle-jacob-bellecombette-fr-5783442/",
+    "https://jacob-bellecombette.fr/wp-content/uploads/2023/02/14-les-cascades-de-jacob-bellecombette-et-de-la-grobelle.pdf"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": []
+}

@@ -1,19 +1,19 @@
 # Phase 4 — photo assignments (gate artifact)
 
 **Date**: 2026-06-14
-**Total assignments**: 106 (one per (hub × slug) on the FR canonical hub)
+**Total assignments**: 116 (one per (hub × slug) on the FR canonical hub)
 
 ## Per-hub diversity
 
 | hub | fiches | distinct photos | max repeat of one photo |
 |---|---:|---:|---:|
 | `bases-de-loisirs` | 7 | 7 | 1 |
-| `cascades` | 7 | 1 | 7 |
+| `cascades` | 12 | 1 | 12 |
 | `chateaux` | 12 | 5 | 4 |
 | `lacs-plages` | 27 | 27 | 1 |
 | `musees` | 12 | 8 | 3 |
 | `points-de-vue` | 15 | 15 | 1 |
-| `sentiers` | 7 | 7 | 1 |
+| `sentiers` | 12 | 10 | 2 |
 | `telecabines` | 15 | 15 | 1 |
 | `voies-vertes` | 4 | 4 | 1 |
 
@@ -29,9 +29,14 @@
 | `bases-de-loisirs` | `plage-base-de-loisirs-du-sougey` | `aquatique` | `generique-plage-lac-3.jpg` | — | json hero (local) |
 | `bases-de-loisirs` | `plan-d-eau-de-bozel` | `nature` | `generique-plage-lac-11.jpg` | — | json hero (local) |
 | `cascades` | `cascade-de-la-fraiche` | `nature` | `generique-cascade.jpg` | — | json hero (local) |
+| `cascades` | `cascade-de-la-vuzelle-planay` | `nature` | `generique-cascade.jpg` | — | json hero (local) |
 | `cascades` | `cascade-de-saint-benoit` | `nature` | `generique-cascade.jpg` | — | json hero (local) |
+| `cascades` | `cascade-de-saint-cassin` | `nature` | `generique-cascade.jpg` | — | json hero (local) |
+| `cascades` | `cascade-des-poux-courchevel` | `nature` | `generique-cascade.jpg` | — | json hero (local) |
 | `cascades` | `cascade-du-morel` | `nature` | `generique-cascade.jpg` | — | json hero (local) |
 | `cascades` | `cascade-du-pissieu` | `nature` | `generique-cascade.jpg` | — | json hero (local) |
+| `cascades` | `cascade-du-py-champagny` | `nature` | `generique-cascade.jpg` | — | json hero (local) |
+| `cascades` | `cascades-de-jacob-bellecombette` | `nature` | `generique-cascade.jpg` | — | json hero (local) |
 | `cascades` | `cirque-de-saint-meme` | `nature` | `generique-cascade.jpg` | — | json hero (local) |
 | `cascades` | `gorges-du-sierroz-cascade-de-gresy` | `nature` | `generique-cascade.jpg` | — | json hero (local) |
 | `cascades` | `grande-cascade-de-la-doria` | `nature` | `generique-cascade.jpg` | — | json hero (local) |
@@ -101,12 +106,17 @@
 | `points-de-vue` | `cormet-d-areches` | `nature` | `cormet-d-areches-hero.jpg` | — | json hero (local) |
 | `points-de-vue` | `cormet-de-roselend` | `nature` | `cormet-de-roselend-hero.jpg` | — | json hero (local) |
 | `points-de-vue` | `signal-de-bisanne` | `nature` | `signal-de-bisanne-hero.jpg` | — | json hero (local) |
+| `sentiers` | `boucle-de-la-chambotte-entrelacs` | `nature` | `generique-sentier-sommet-panorama.jpg` | — | json hero (local) |
+| `sentiers` | `boucle-du-lac-de-la-rosiere-courchevel` | `nature` | `generique-famille-foret.jpg` | — | json hero (local) |
 | `sentiers` | `chemin-du-petit-bonheur` | `nature` | `generique-sentier-melezes-automne.jpg` | — | json hero (local) |
 | `sentiers` | `chemin-lacustre-lac-du-bourget` | `nature` | `generique-sentier-automne-orange.jpg` | — | json hero (local) |
 | `sentiers` | `croix-du-nivolet-la-feclaz` | `nature` | `generique-sentier-sommet-panorama.jpg` | — | json hero (local) |
 | `sentiers` | `dent-du-chat-col-du-chat` | `nature` | `generique-sentier-arete-alpine.jpg` | — | json hero (local) |
 | `sentiers` | `lac-des-vaches-pralognan` | `nature` | `generique-sentier-foret-alpine.jpg` | — | json hero (local) |
+| `sentiers` | `monolithe-de-sardieres` | `nature` | `generique-sentier-foret-alpine.jpg` | — | json hero (local) |
+| `sentiers` | `promenade-du-plan-de-l-eau-des-bruyeres` | `nature` | `generique-reserve-zone-humide-6.jpg` | — | json hero (local) |
 | `sentiers` | `sentier-artistique-hautecour` | `nature` | `generique-sentier-foret.jpg` | — | json hero (local) |
+| `sentiers` | `sentier-des-arpelieres-crest-voland` | `nature` | `generique-reserve-zone-humide-5.jpg` | — | json hero (local) |
 | `sentiers` | `tour-du-lac-aiguebelette` | `nature` | `generique-sentier.jpg` | — | json hero (local) |
 | `telecabines` | `funiculaire-de-la-grande-motte` | `transport` | `funiculaire-de-la-grande-motte-hero.jpg` | — | json hero (local) |
 | `telecabines` | `telecabine-de-champagny` | `transport` | `telecabine-de-champagny-hero.jpg` | — | json hero (local) |

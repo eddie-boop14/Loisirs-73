@@ -1,0 +1,38 @@
+{
+  "name": "Cascades de Jacob et la Grobelle",
+  "commune": "Jacob-Bellecombette",
+  "gps": {
+    "lat": 45.555862,
+    "lng": 5.907877
+  },
+  "type": "cascade",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": {
+    "status": "non_accessible",
+    "detail": "« Non accessible en fauteuil roulant » et « non adapté aux poussettes » (fiche Chambéry Montagnes).",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_url": "https://www.chamberymontagnes.com/que-faire/activites-pleine-nature/les-cascades-de-jacob-et-la-grobelle-jacob-bellecombette-fr-5783442/",
+    "source_name": "Chambéry Montagnes"
+  },
+  "parking": "École du Grand Pré",
+  "transport": null,
+  "season": "Après la pluie ou la fonte des neiges",
+  "winter": {
+    "access": null,
+    "infrastructure": [],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
+  "official_url": "https://www.chamberymontagnes.com/que-faire/activites-pleine-nature/les-cascades-de-jacob-et-la-grobelle-jacob-bellecombette-fr-5783442/",
+  "last_verified": null
+}

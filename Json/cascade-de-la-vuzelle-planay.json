@@ -1,0 +1,542 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-18",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "cascade",
+  "commune": "Planay",
+  "date_modified_human": "18 août 2026",
+  "date_published_human": "18 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-18",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-cascade.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Der vom Tourismusbüro beschriebene Ansatz beginnt im Dorf Chambéranger, stromabwärts des Herbstes.",
+          "tag": "Offizieller Zugang",
+          "title": "Der Chambéranger Trail"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>Cascade de la Vuzelle</strong>, bei Planay im Bozel-Tal, fällt über <strong>100 Meter</strong>\"Klassifiziert 1935\" - Ministerialerlass vom 27. November 1935 — \"Es ist ein bemerkenswertes Element der Tallandschaft, das dank der drei Vuzelle-Gipfel, von denen der höchste 2.654 Meter erreicht, leicht zu erkennen ist\", schreibt das Tourismusamt. Es wird \"stromabwärts entdeckt und nimmt den Weg vom typischen Dorf Chambéranger\". Tiere werden akzeptiert.</p><p>Ein Stück aktuelle Nachrichten erfordert Vorsicht, und wir geben es so, wie es steht: Das Blatt des Tourismusbüros kündigt eine Website an, die \"das ganze Jahr über geöffnet ist ... Zugänglichkeit abhängig von den Wetterbedingungen\", aber die Gemeinde Planay schloss am 1. April 2026 \"den Weg, der La Rochette mit dem Vuzelle-Wasserfall verbindet ... bis auf Weiteres\", nach den Lawinen des Winters. Nur dieser Ansatz ist betroffen; Der vom Büro beschriebene Zugriff von Chambéranger ist nicht. Überprüfen Sie die Trail-Bedingungen, bevor Sie sich aufmachen.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "frei",
+        "best_season": null,
+        "commune": "Planay",
+        "dogs": "Akzeptiert (Touristenbüroblatt)",
+        "parking": null,
+        "stroller": null,
+        "type": "Wasserfall",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Zwei Aussagen koexistieren, zitiert, wie sie stehen: das Tourismusbüro kündigt eine Website an, die das ganze Jahr über geöffnet ist, abhängig von den Bedingungen; Die Gemeinde Planay schloss \"bis auf Weiteres\" den La Rochette zum Wasserfallweg (Notiz vom 01.04.2026, nach den Winterlawinen). Der vom Büro beschriebene Zugriff von Chambéranger ist von dieser Mitteilung nicht betroffen.",
+          "q": "Ist der Trail offen?"
+        },
+        {
+          "a": "Die Website ist geschützt durch Ministerialerlass vom 27. November 1935 — einer der ältesten Landschaftsschutzanlagen des Tals.",
+          "q": "Warum ist der Wasserfall \"klassifiziert\"?"
+        },
+        {
+          "a": "Es wird aus dem Tal dank der drei Vuzelle Gipfel (2.654 m am höchsten) gesichtet und stromabwärts über den Weg von Chambéranger entdeckt.",
+          "q": "Wo kann man es am besten sehen?"
+        },
+        {
+          "a": "Ja, \"Tiere akzeptiert\" pro Blatt des Tourismusbüros - Das Gelände liegt außerhalb des Kerns des Vanoise-Nationalparks.",
+          "q": "Sind Hunde erlaubt?"
+        }
+      ],
+      "hero": {
+        "badge": "~100 m Wasserfall · Geschützt seit 1935",
+        "lead": "Unterhalb der drei Vuzelle Gipfel, ein Fall von rund hundert Metern geschützt seit 1935 — Erreicht durch den Chambéranger-Trail, der andere Ansatz ist seit den Lawinen des Winters geschlossen."
+      },
+      "hero_alt": "Vuzelle Wasserfall unter den drei Gipfeln, Bozel Tal, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Im Bozel-Tal (D915 in Richtung Pralognan), Gemeinde Planay; Der Weg beginnt im Dorf Chambéranger.",
+        "public_transport": null
+      },
+      "meta_description": "Der Vuzelle Wasserfall bei Planay: rund 100 m Tropfen, ein seit 1935 geschützter Ort, Pfad von Chambéranger. Der La Rochette-Ansatz ist bis auf weiteres geschlossen — beide zitierten Quellen.",
+      "meta_title": "Cascade de la Vuzelle · geschützt seit 1935, Planay",
+      "name": "Cascade de la Vuzelle",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Höhe",
+          "v": "≈ 100 m (Touristenbüroblatt)"
+        },
+        {
+          "k": "Schutz",
+          "v": "Ort mit Ministerialerlass vom 27. November 1935 klassifiziert"
+        },
+        {
+          "k": "Zugang",
+          "v": "Trail von Chambéranger; Der Trail von La Rochette ist bis auf weiteres geschlossen (01/04/2026)"
+        },
+        {
+          "k": "Hunde",
+          "v": "Akzeptiert (Touristenbüroblatt)"
+        },
+        {
+          "k": "Kontakt",
+          "v": "Bozel Tal Tourismusbüro · +33 4 79 55 03 77"
+        }
+      ],
+      "schema_amenities": [
+        "Markierungspfad"
+      ],
+      "when_to_visit": "<p>Die warme Jahreszeit, der Herbst ist \"abhängig von den Wetterbedingungen zugänglich\". Keine Gehzeit wird von offiziellen Quellen veröffentlicht — Wir erfinden keine.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "The approach described by the tourist office starts from the village of Chambéranger, downstream of the fall.",
+          "tag": "Official access",
+          "title": "The Chambéranger trail"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Cascade de la Vuzelle</strong>, at Planay in the Bozel valley, drops about <strong>100 metres</strong>. 'Classified in 1935' — by ministerial decree of 27 November 1935 — it 'is a remarkable element of the valley's landscape, easily spotted thanks to the three Vuzelle peaks, the highest of which reaches 2,654 metres', writes the tourist office. It is discovered 'downstream, taking the trail from the typical village of Chambéranger'. Animals are accepted.</p><p>One piece of current news demands caution, and we give it as it stands: the tourist office's sheet announces a site open 'all year… accessibility depending on weather conditions', but the Planay commune closed, by notice of 1 April 2026, 'the trail linking La Rochette to the Vuzelle waterfall… until further notice', following the winter's avalanches. Only that approach is affected; the office's described access from Chambéranger is not. Check trail conditions before setting out.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free",
+        "best_season": null,
+        "commune": "Planay",
+        "dogs": "Accepted (tourist-office sheet)",
+        "parking": null,
+        "stroller": null,
+        "type": "Waterfall",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Two statements coexist, quoted as they stand: the tourist office announces a site open all year depending on conditions; the Planay commune closed 'until further notice' the La Rochette to waterfall trail (notice of 01/04/2026, after the winter's avalanches). The office's described access from Chambéranger is not affected by that notice.",
+          "q": "Is the trail open?"
+        },
+        {
+          "a": "The site is protected by ministerial decree of 27 November 1935 — one of the valley's oldest landscape protections.",
+          "q": "Why is the waterfall 'classified'?"
+        },
+        {
+          "a": "It is spotted from the valley thanks to the three Vuzelle peaks (2,654 m at the highest) and discovered downstream via the trail from Chambéranger.",
+          "q": "Where is it best seen from?"
+        },
+        {
+          "a": "Yes, 'animals accepted' per the tourist office's sheet — the site lies outside the Vanoise national park's core.",
+          "q": "Are dogs allowed?"
+        }
+      ],
+      "hero": {
+        "badge": "~100 m waterfall · Protected since 1935",
+        "lead": "Beneath the three Vuzelle peaks, a fall of around a hundred metres protected since 1935 — reached by the Chambéranger trail, the other approach being closed since the winter's avalanches."
+      },
+      "hero_alt": "Vuzelle waterfall beneath the three peaks, Bozel valley, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "In the Bozel valley (D915 towards Pralognan), commune of Planay; the trail starts at the village of Chambéranger.",
+        "public_transport": null
+      },
+      "meta_description": "The Vuzelle waterfall at Planay: around 100 m of drop, a site protected since 1935, trail from Chambéranger. The La Rochette approach is closed until further notice — both sources quoted.",
+      "meta_title": "Cascade de la Vuzelle · protected since 1935, Planay",
+      "name": "Cascade de la Vuzelle",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Height",
+          "v": "≈ 100 m (tourist-office sheet)"
+        },
+        {
+          "k": "Protection",
+          "v": "Site classified by ministerial decree of 27 November 1935"
+        },
+        {
+          "k": "Access",
+          "v": "Trail from Chambéranger; the trail from La Rochette is closed until further notice (01/04/2026)"
+        },
+        {
+          "k": "Dogs",
+          "v": "Accepted (tourist-office sheet)"
+        },
+        {
+          "k": "Contact",
+          "v": "Bozel valley tourist office · +33 4 79 55 03 77"
+        }
+      ],
+      "schema_amenities": [
+        "Waymarked trail"
+      ],
+      "when_to_visit": "<p>The warm season, the fall being 'accessible depending on weather conditions'. No walking time is published by the official sources — we do not invent one.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "El enfoque descrito por la oficina turística comienza desde el pueblo de Chambéranger, aguas abajo de la caída.",
+          "tag": "Acceso oficial",
+          "title": "El sendero Chambéranger"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>Cascade de la Vuzelle</strong>, en Planay en el valle Bozel, gotas alrededor <strong>100 metros</strong>\"Clasificado en 1935\" por decreto ministerial de 27 de noviembre de 1935 es un elemento notable del paisaje del valle, fácilmente visto gracias a los tres picos Vuzelle, el más alto de los cuales alcanza los 2.654 metros, escribe la oficina turística. Se descubre 'stream, tomando el sendero del típico pueblo de Chambéranger'. Se aceptan animales.</p><p>Una parte de las noticias actuales exige precaución, y la damos como está: la ficha de la oficina turística anuncia un sitio abierto 'todo el año... accesibilidad dependiendo de las condiciones climáticas', pero la comuna Planay cerró, por aviso del 1 de abril de 2026, 'el sendero que une La Rochette a la cascada Vuzelle... hasta nuevo aviso', tras los avalanches del invierno. Sólo ese enfoque se ve afectado; la oficina describió el acceso de Chambéranger no lo es. Compruebe las condiciones de la ruta antes de salir.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": null,
+        "commune": "Planay",
+        "dogs": "Aceptada (papel de oficina turístico)",
+        "parking": null,
+        "stroller": null,
+        "type": "Waterfall",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Conviven dos declaraciones, citadas como están: la oficina de turismo anuncia un sitio abierto todo el año dependiendo de las condiciones; la comuna Planay cerró \"hasta nuevo aviso\" el La Rochette a la pista de cascada (noz del 01/04/2026, después de las avalanchas del invierno). El acceso descrito por la oficina de Chambéranger no se ve afectado por ese aviso.",
+          "q": "¿Está abierto el rastro?"
+        },
+        {
+          "a": "El sitio está protegido por decreto ministerial de 27 de noviembre de 1935 — una de las protecciones de paisaje más antiguas del valle.",
+          "q": "¿Por qué la cascada es 'clasificada'?"
+        },
+        {
+          "a": "Se observa desde el valle gracias a los tres picos Vuzelle (2,654 m al más alto) y se descubre por el sendero desde Chambéranger.",
+          "q": "¿De dónde es mejor visto?"
+        },
+        {
+          "a": "Sí, 'animales aceptados' por la hoja de la oficina de turismo — el sitio está fuera del núcleo del parque nacional Vanoise.",
+          "q": "¿Se permiten perros?"
+        }
+      ],
+      "hero": {
+        "badge": "~100 m cascada · Protegido desde 1935",
+        "lead": "Debajo de los tres picos Vuzelle, una caída de alrededor de cien metros protegidos desde 1935 — alcanzado por el sendero Chambéranger, el otro acercamiento está cerrado desde los avalanches del invierno."
+      },
+      "hero_alt": "Vuzelle cascada bajo los tres picos, valle Bozel, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "In the Bozel Valley (D915 towards Pralognan), commune of Planay; el sendero comienza en el pueblo de Chambéranger.",
+        "public_transport": null
+      },
+      "meta_description": "La cascada Vuzelle en Planay: alrededor de 100 m de gota, un sitio protegido desde 1935, sendero desde Chambéranger. El enfoque La Rochette está cerrado hasta nuevo aviso — ambas fuentes citadas.",
+      "meta_title": "Cascade de la Vuzelle · protegido desde 1935, Planay",
+      "name": "Cascade de la Vuzelle",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Altura",
+          "v": "Ω 100 m (papel de oficina turístico)"
+        },
+        {
+          "k": "Protección",
+          "v": "Sitio clasificado por decreto ministerial de 27 de noviembre de 1935"
+        },
+        {
+          "k": "Acceso",
+          "v": "Trail from Chambéranger; el sendero de La Rochette está cerrado hasta nuevo aviso (01/04/2026)"
+        },
+        {
+          "k": "Perros",
+          "v": "Aceptada (papel de oficina turístico)"
+        },
+        {
+          "k": "Contacto",
+          "v": "Oficina de turismo del valle de Bozel · +33 4 79 55 03 77"
+        }
+      ],
+      "schema_amenities": [
+        "Sendero Waymarked"
+      ],
+      "when_to_visit": "<p>La temporada cálida, la caída es \"accesible dependiendo de las condiciones climáticas\". No hay tiempo de caminar publicado por las fuentes oficiales — no inventamos uno.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "L'approche décrite par l'office de tourisme part du village de Chambéranger, en aval de la chute.",
+          "tag": "Accès OT",
+          "title": "Le sentier de Chambéranger"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>cascade de la Vuzelle</strong>, à Planay dans la vallée de Bozel, tombe d'environ <strong>100 mètres</strong>. « Classée en 1935 » — par arrêté ministériel du 27 novembre 1935 —, elle « constitue un élément remarquable du paysage de la vallée, facilement repérable grâce aux trois pointes de la Vuzelle dont la plus haute culmine à 2 654 mètres », écrit l'office de tourisme. Elle se découvre « en aval en empruntant le sentier depuis le village typique de Chambéranger ». Les animaux sont acceptés.</p><p>Un point d'actualité impose la prudence, et nous le donnons tel quel : la fiche de l'office annonce un site ouvert « toute l'année… accessibilité selon condition climatique », mais la commune de Planay a fermé, par avis du 1er avril 2026, « le sentier reliant la Rochette à la cascade de la Vuzelle… jusqu'à nouvel ordre », à la suite des avalanches de l'hiver. Seule cette approche est visée ; l'accès décrit par l'office, depuis Chambéranger, ne l'est pas. Vérifiez l'état des sentiers avant de partir.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuit",
+        "best_season": null,
+        "commune": "Planay",
+        "dogs": "Acceptés (fiche OT)",
+        "parking": null,
+        "stroller": null,
+        "type": "Cascade",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Deux informations coexistent, citées telles quelles : l'OT annonce un site ouvert toute l'année selon conditions ; la commune de Planay a fermé « jusqu'à nouvel ordre » le sentier La Rochette à cascade (avis du 01/04/2026, après les avalanches de l'hiver). L'accès décrit par l'OT part de Chambéranger et n'est pas visé par cet avis.",
+          "q": "Le sentier est-il ouvert ?"
+        },
+        {
+          "a": "Le site est classé par arrêté ministériel du 27 novembre 1935 — l'une des plus anciennes protections de paysage de la vallée.",
+          "q": "Pourquoi la cascade est-elle « classée » ?"
+        },
+        {
+          "a": "Elle se repère depuis la vallée grâce aux trois pointes de la Vuzelle (2 654 m au plus haut) et se découvre en aval par le sentier depuis Chambéranger.",
+          "q": "D'où la voit-on le mieux ?"
+        },
+        {
+          "a": "Oui, « animaux acceptés » selon la fiche de l'office de tourisme — le site est hors du cœur du Parc national de la Vanoise.",
+          "q": "Les chiens sont-ils admis ?"
+        }
+      ],
+      "hero": {
+        "badge": "Cascade ~100 m · Site classé 1935",
+        "lead": "Sous les trois pointes de la Vuzelle, une chute d'une centaine de mètres classée depuis 1935 — à découvrir par le sentier de Chambéranger, l'autre approche étant fermée depuis les avalanches de l'hiver."
+      },
+      "hero_alt": "Cascade de la Vuzelle sous les trois pointes, vallée de Bozel, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Dans la vallée de Bozel (D915 vers Pralognan), commune de Planay ; départ du sentier au village de Chambéranger.",
+        "public_transport": null
+      },
+      "meta_description": "La cascade de la Vuzelle à Planay : environ 100 m de chute, site classé depuis 1935, sentier depuis Chambéranger. L'approche par La Rochette est fermée jusqu'à nouvel ordre — les deux sources sont citées.",
+      "meta_title": "Cascade de la Vuzelle · site classé 1935, Planay",
+      "name": "Cascade de la Vuzelle",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Hauteur",
+          "v": "≈ 100 m (fiche OT)"
+        },
+        {
+          "k": "Protection",
+          "v": "Site classé par arrêté ministériel du 27 novembre 1935"
+        },
+        {
+          "k": "Accès",
+          "v": "Sentier depuis Chambéranger ; le sentier depuis La Rochette est fermé jusqu'à nouvel ordre (01/04/2026)"
+        },
+        {
+          "k": "Chiens",
+          "v": "Acceptés (fiche OT)"
+        },
+        {
+          "k": "Contact",
+          "v": "OT vallée de Bozel · 04 79 55 03 77"
+        }
+      ],
+      "schema_amenities": [
+        "Sentier balisé"
+      ],
+      "when_to_visit": "<p>La belle saison, la chute étant « accessible selon condition climatique ». Aucune durée de marche n'est publiée par les sources officielles — nous n'en inventons pas.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "L'approccio descritto dall'ufficio turistico parte dal villaggio di Chambéranger, a valle della caduta.",
+          "tag": "Accesso ufficiale",
+          "title": "Il sentiero Chambéranger"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Cascade de la Vuzelle</strong>, a Planay nella valle Bozel, gocce circa <strong>100 metri</strong>. «Classificato nel 1935» — con decreto ministeriale del 27 novembre 1935 — è un elemento notevole del paesaggio della valle, facilmente individuato grazie alle tre vette Vuzelle, la più alta delle quali raggiunge i 2.654 metri, scrive l'ufficio turistico. È scoperto 'a valle, prendendo il sentiero dal tipico villaggio di Chambéranger'. Gli animali sono accettati.</p><p>Un pezzo di notizie attuali richiede cautela, e lo diamo come sta: il foglio dell'ufficio turistico annuncia un sito aperto 'tutto l'anno... accessibilità a seconda delle condizioni atmosferiche', ma il comune Planay chiuso, con avviso del 1o aprile 2026, 'il sentiero che collega La Rochette alla cascata Vuzelle... fino ad ulteriore preavviso', dopo le valanghe invernali. Solo questo approccio è interessato; l'accesso descritto dell'ufficio da Chambéranger non è. Controllare le condizioni del sentiero prima di partire.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": null,
+        "commune": "Planay",
+        "dogs": "Accettato (scheda turismo-ufficio)",
+        "parking": null,
+        "stroller": null,
+        "type": "Cascata",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Due dichiarazioni coesistono, citate come stanno: l'ufficio turistico annuncia un sito aperto tutto l'anno a seconda delle condizioni; il comune Planay ha chiuso 'fino a ulteriore avviso' il sentiero La Rochette a cascata (nota del 01/04/2026, dopo le valanghe dell'inverno). L'accesso descritto dell'ufficio da Chambéranger non è influenzato da tale avviso.",
+          "q": "Il sentiero è aperto?"
+        },
+        {
+          "a": "Il sito è protetto dal decreto ministeriale del 27 novembre 1935 — una delle più antiche protezioni paesaggistiche della valle.",
+          "q": "Perché la cascata è classificata?"
+        },
+        {
+          "a": "Si trova dalla valle grazie alle tre vette Vuzelle (2.654 m al massimo) e scoperte a valle attraverso il sentiero di Chambéranger.",
+          "q": "Da dove si vede meglio?"
+        },
+        {
+          "a": "Sì, «animali accettati» per la scheda dell'ufficio turistico — il sito si trova al di fuori del nucleo del parco nazionale Vanoise.",
+          "q": "I cani sono ammessi?"
+        }
+      ],
+      "hero": {
+        "badge": "~100 m cascata · Protetto dal 1935",
+        "lead": "Sotto le tre vette Vuzelle, una caduta di circa un centinaio di metri protetti dal 1935 — raggiunto dal sentiero Chambéranger, l'altro approccio è chiuso dalle valanghe invernali."
+      },
+      "hero_alt": "Vuzelle cascata sotto le tre cime, Bozel valle, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Nella valle Bozel (D915 in direzione Pralognan), comune di Planay; il sentiero inizia al villaggio di Chambéranger.",
+        "public_transport": null
+      },
+      "meta_description": "La cascata Vuzelle a Planay: circa 100 m di goccia, un sito protetto dal 1935, sentiero da Chambéranger. L'approccio La Rochette è chiuso fino a nuovo avviso — entrambe le fonti citate.",
+      "meta_title": "Cascade de la Vuzelle · protetto dal 1935, Planay",
+      "name": "Cascade de la Vuzelle",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Altezza",
+          "v": "≈ 100 m (tourist-office sheet)"
+        },
+        {
+          "k": "Protezione",
+          "v": "Sito classificato con decreto ministeriale del 27 novembre 1935"
+        },
+        {
+          "k": "Accesso",
+          "v": "Sentiero da Chambéranger; il sentiero da La Rochette è chiuso fino a nuovo avviso (01/04/2026)"
+        },
+        {
+          "k": "Cani",
+          "v": "Accettato (scheda turismo-ufficio)"
+        },
+        {
+          "k": "Contatto",
+          "v": "Ufficio turistico della valle di Bozel · +33 4 79 55 03 77"
+        }
+      ],
+      "schema_amenities": [
+        "Sentiero segnalato"
+      ],
+      "when_to_visit": "<p>La stagione calda, la caduta è 'accessibile a seconda delle condizioni atmosferiche'. Nessun tempo di camminata è pubblicato dalle fonti ufficiali — noi non inventiamo uno.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "De aanpak beschreven door het VVV vertrekt uit het dorp Chambéranger, stroomafwaarts van de val.",
+          "tag": "Officiële toegang",
+          "title": "De Chambéranger trail"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>Cascade de la Vuzelle</strong>, bij Planay in de Bozel vallei, daalt ongeveer <strong>100 meter</strong>. 'Classified in 1935' bij ministerieel besluit van 27 november 1935  Het is 'een opmerkelijk element van het landschap van de vallei, gemakkelijk gespot dankzij de drie Vuzelle pieken, waarvan de hoogste bereikt 2.654 meter', schrijft het VVV. Het wordt ontdekt 'downstream, het nemen van het pad van het typische dorp Chambéranger'. Dieren worden geaccepteerd.</p><p>Eén stukje actueel nieuws vraagt om voorzichtigheid, en we geven het zoals het nu is: Het blad van het VVV-kantoor kondigt een site 'het hele jaar geopend... bereikbaarheid afhankelijk van de weersomstandigheden' aan, maar de Planay gemeente sloot bij bericht van 1 april 2026 'het pad dat La Rochette verbindt met de Vuzelle waterval... tot nader order', na de lawine van de winter. Alleen die benadering wordt beïnvloed; de door het kantoor beschreven toegang van Chambéranger niet. Controleer de omstandigheden voordat u vertrekt.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Vrij",
+        "best_season": null,
+        "commune": "Planay",
+        "dogs": "Aanvaard (toeristisch kantoorblad)",
+        "parking": null,
+        "stroller": null,
+        "type": "Waterval",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Twee verklaringen bestaan naast elkaar, zoals ze nu zijn: het VVV-kantoor kondigt het hele jaar door een site aan, afhankelijk van de omstandigheden; de gemeente Planay sloot 'tot nader order' de La Rochette tot watervalpad (bericht van 01/04/2026, na de lawines van de winter). Het kantoor beschreven toegang van Chambéranger wordt niet beïnvloed door die kennisgeving.",
+          "q": "Is het pad open?"
+        },
+        {
+          "a": "Het terrein wordt beschermd door ministerieel decreet van 27 november 1935 . een van de oudste landschapsbeschermingen van de vallei.",
+          "q": "Waarom is de waterval 'ingedeeld'?"
+        },
+        {
+          "a": "Het wordt gezien vanuit de vallei dankzij de drie Vuzelle pieken (2.654 m op het hoogste) en ontdekt stroomafwaarts via het pad van Chambéranger.",
+          "q": "Waar kan ik het het beste vandaan zien?"
+        },
+        {
+          "a": "Ja, 'dieren geaccepteerd' per blad van het VVV-kantoor De site ligt buiten het nationaal park Vanoise.",
+          "q": "Zijn honden toegestaan?"
+        }
+      ],
+      "hero": {
+        "badge": "100 m waterval beschermd sinds 1935",
+        "lead": "Onder de drie Vuzelle pieken, een val van ongeveer honderd meter beschermd sinds 1935  bereikt door de Chambéranger pad, de andere aanpak wordt gesloten sinds de winter lawines."
+      },
+      "hero_alt": "Vuzelle waterval onder de drie pieken, Bozel vallei, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "In de Bozel vallei (D915 richting Pralognan), gemeente Planay; het pad begint bij het dorp Chambéranger.",
+        "public_transport": null
+      },
+      "meta_description": "De Vuzelle waterval op Planay: ongeveer 100 m druppel, een beschermd terrein sinds 1935, pad van Chambéranger. De La Rochette-aanpak is gesloten tot nader order. beide geciteerde bronnen.",
+      "meta_title": "Cascade de la Vuzelle · beschermd sinds 1935, Planay",
+      "name": "Cascade de la Vuzelle",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Hoogte",
+          "v": "≈ 100 m (toeristisch kantoorblad)"
+        },
+        {
+          "k": "Bescherming",
+          "v": "Site geclassificeerd bij ministerieel decreet van 27 november 1935"
+        },
+        {
+          "k": "Toegang",
+          "v": "spoor van Chambéranger; het pad van La Rochette is gesloten tot nader order (01/04/2026)"
+        },
+        {
+          "k": "Honden",
+          "v": "Aanvaard (toeristisch kantoorblad)"
+        },
+        {
+          "k": "Contactpersoon",
+          "v": "Bozel Valley VVV · +33 4 79 55 03 77"
+        }
+      ],
+      "schema_amenities": [
+        "Waymarked trail"
+      ],
+      "when_to_visit": "<p>Het warme seizoen, de herfst is 'toegankelijk afhankelijk van de weersomstandigheden'. Geen wandeltijd wordt gepubliceerd door de officiële bronnen We vinden er geen uit.</p>"
+    }
+  },
+  "latitude": 45.411105,
+  "longitude": 6.721487,
+  "official_site_url": "https://www.valleedebozel.com/cascade-de-la-vuzelle.html",
+  "partners": [],
+  "postal_code": "73350",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-18, FR pages only (OT vallée de Bozel, mairie de Planay). Chute d'environ 100 m, site classé par arrêté ministériel du 27 novembre 1935, repérable aux trois pointes de la Vuzelle (2 654 m). Accès décrit par l'OT : sentier depuis Chambéranger ; « Animaux acceptés » ; « Toute l'année… accessibilité selon condition climatique ». CONTRADICTION PORTÉE : la commune de Planay (actualité du 01/04/2026, arrêté joint) ferme « jusqu'à nouvel ordre » LE SENTIER RELIANT LA ROCHETTE À LA CASCADE (avalanches de l'hiver) — seule cette approche est fermée ; l'accès OT par Chambéranger n'est pas visé. Un éboulement de juin 2026 évoqué par des sources non officielles n'est PAS retenu. Aucune durée de marche publiée.",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "cascade-de-la-vuzelle-planay",
+  "sources": [
+    "https://www.valleedebozel.com/cascade-de-la-vuzelle.html",
+    "https://www.planay.com/actualites/fermeture-sentier-reliant-la-rochette-a-la-cascade-de-la-vuzelle"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "FERMETURE PARTIELLE — le sentier La Rochette → cascade est fermé « jusqu'à nouvel ordre » (commune de Planay, 01/04/2026, avalanches) ; l'accès décrit par l'OT part de Chambéranger. Vérifier l'état des sentiers avant d'y aller.",
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published for this site; kept null rather than inferred.",
+    "DUREE DE MARCHE — non publiée par la fiche officielle."
+  ]
+}

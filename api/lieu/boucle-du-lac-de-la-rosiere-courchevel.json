@@ -1,0 +1,31 @@
+{
+  "name": "Boucle du lac de la Rosière",
+  "commune": "Courchevel",
+  "gps": {
+    "lat": 45.417529,
+    "lng": 6.609155
+  },
+  "type": "sentier",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": "À proximité ; Cimes Blanches conseillé",
+  "transport": null,
+  "season": "15 avril – 31 octobre (boucle d'été)",
+  "winter": {
+    "access": null,
+    "infrastructure": [],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
+  "official_url": "https://courchevel.com/fr/a/promenade-confort-torrent-et-lac-de-la-rosiere-121364/",
+  "last_verified": null
+}

@@ -182,6 +182,78 @@
       "access_state": "free"
     },
     {
+      "slug": "boucle-de-la-chambotte-entrelacs",
+      "categories": [
+        "sentier"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Boucle de la Chambotte",
+          "commune": "Entrelacs"
+        },
+        "en": {
+          "name": "Boucle de la Chambotte",
+          "commune": "Entrelacs"
+        },
+        "de": {
+          "name": "Boucle de la Chambotte",
+          "commune": "Entrelacs"
+        },
+        "it": {
+          "name": "Boucle de la Chambotte",
+          "commune": "Entrelacs"
+        },
+        "es": {
+          "name": "Boucle de la Chambotte",
+          "commune": "Entrelacs"
+        },
+        "nl": {
+          "name": "Boucle de la Chambotte",
+          "commune": "Entrelacs"
+        }
+      },
+      "latitude": 45.773324,
+      "longitude": 5.874995,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
+      "slug": "boucle-du-lac-de-la-rosiere-courchevel",
+      "categories": [
+        "sentier"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Boucle du lac de la Rosière",
+          "commune": "Courchevel"
+        },
+        "en": {
+          "name": "Boucle du lac de la Rosière",
+          "commune": "Courchevel"
+        },
+        "de": {
+          "name": "Boucle du lac de la Rosière",
+          "commune": "Courchevel"
+        },
+        "it": {
+          "name": "Boucle du lac de la Rosière",
+          "commune": "Courchevel"
+        },
+        "es": {
+          "name": "Boucle du lac de la Rosière",
+          "commune": "Courchevel"
+        },
+        "nl": {
+          "name": "Boucle du lac de la Rosière",
+          "commune": "Courchevel"
+        }
+      },
+      "latitude": 45.417529,
+      "longitude": 6.609155,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
       "slug": "cascade-de-la-fraiche",
       "categories": [
         "cascade"
@@ -218,6 +290,42 @@
       "access_state": "free"
     },
     {
+      "slug": "cascade-de-la-vuzelle-planay",
+      "categories": [
+        "cascade"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Cascade de la Vuzelle",
+          "commune": "Planay"
+        },
+        "en": {
+          "name": "Cascade de la Vuzelle",
+          "commune": "Planay"
+        },
+        "de": {
+          "name": "Cascade de la Vuzelle",
+          "commune": "Planay"
+        },
+        "it": {
+          "name": "Cascade de la Vuzelle",
+          "commune": "Planay"
+        },
+        "es": {
+          "name": "Cascade de la Vuzelle",
+          "commune": "Planay"
+        },
+        "nl": {
+          "name": "Cascade de la Vuzelle",
+          "commune": "Planay"
+        }
+      },
+      "latitude": 45.411105,
+      "longitude": 6.721487,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
       "slug": "cascade-de-saint-benoit",
       "categories": [
         "cascade"
@@ -250,6 +358,78 @@
       },
       "latitude": null,
       "longitude": null,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
+      "slug": "cascade-de-saint-cassin",
+      "categories": [
+        "cascade"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Cascade de Saint-Cassin",
+          "commune": "Saint-Cassin"
+        },
+        "en": {
+          "name": "Cascade de Saint-Cassin",
+          "commune": "Saint-Cassin"
+        },
+        "de": {
+          "name": "Cascade de Saint-Cassin",
+          "commune": "Saint-Cassin"
+        },
+        "it": {
+          "name": "Cascade de Saint-Cassin",
+          "commune": "Saint-Cassin"
+        },
+        "es": {
+          "name": "Cascade de Saint-Cassin",
+          "commune": "Saint-Cassin"
+        },
+        "nl": {
+          "name": "Cascade de Saint-Cassin",
+          "commune": "Saint-Cassin"
+        }
+      },
+      "latitude": 45.534,
+      "longitude": 5.866,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
+      "slug": "cascade-des-poux-courchevel",
+      "categories": [
+        "cascade"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Cascade des Poux",
+          "commune": "Courchevel"
+        },
+        "en": {
+          "name": "Cascade des Poux",
+          "commune": "Courchevel"
+        },
+        "de": {
+          "name": "Cascade des Poux",
+          "commune": "Courchevel"
+        },
+        "it": {
+          "name": "Cascade des Poux",
+          "commune": "Courchevel"
+        },
+        "es": {
+          "name": "Cascade des Poux",
+          "commune": "Courchevel"
+        },
+        "nl": {
+          "name": "Cascade des Poux",
+          "commune": "Courchevel"
+        }
+      },
+      "latitude": 45.417849,
+      "longitude": 6.645094,
       "is_free": true,
       "access_state": "free"
     },
@@ -322,6 +502,78 @@
       },
       "latitude": 45.677406,
       "longitude": 6.103709,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
+      "slug": "cascade-du-py-champagny",
+      "categories": [
+        "cascade"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Cascade du Py",
+          "commune": "Champagny-en-Vanoise"
+        },
+        "en": {
+          "name": "Cascade du Py",
+          "commune": "Champagny-en-Vanoise"
+        },
+        "de": {
+          "name": "Cascade du Py",
+          "commune": "Champagny-en-Vanoise"
+        },
+        "it": {
+          "name": "Cascade du Py",
+          "commune": "Champagny-en-Vanoise"
+        },
+        "es": {
+          "name": "Cascade du Py",
+          "commune": "Champagny-en-Vanoise"
+        },
+        "nl": {
+          "name": "Cascade du Py",
+          "commune": "Champagny-en-Vanoise"
+        }
+      },
+      "latitude": 45.449186,
+      "longitude": 6.781253,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
+      "slug": "cascades-de-jacob-bellecombette",
+      "categories": [
+        "cascade"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Cascades de Jacob et la Grobelle",
+          "commune": "Jacob-Bellecombette"
+        },
+        "en": {
+          "name": "Cascades de Jacob et la Grobelle",
+          "commune": "Jacob-Bellecombette"
+        },
+        "de": {
+          "name": "Cascades de Jacob et la Grobelle",
+          "commune": "Jacob-Bellecombette"
+        },
+        "it": {
+          "name": "Cascades de Jacob et la Grobelle",
+          "commune": "Jacob-Bellecombette"
+        },
+        "es": {
+          "name": "Cascades de Jacob et la Grobelle",
+          "commune": "Jacob-Bellecombette"
+        },
+        "nl": {
+          "name": "Cascades de Jacob et la Grobelle",
+          "commune": "Jacob-Bellecombette"
+        }
+      },
+      "latitude": 45.555862,
+      "longitude": 5.907877,
       "is_free": true,
       "access_state": "free"
     },
@@ -2054,6 +2306,42 @@
       "access_state": "free"
     },
     {
+      "slug": "monolithe-de-sardieres",
+      "categories": [
+        "sentier"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Monolithe de Sardières",
+          "commune": "Val-Cenis"
+        },
+        "en": {
+          "name": "Monolithe de Sardières",
+          "commune": "Val-Cenis"
+        },
+        "de": {
+          "name": "Monolithe de Sardières",
+          "commune": "Val-Cenis"
+        },
+        "it": {
+          "name": "Monolithe de Sardières",
+          "commune": "Val-Cenis"
+        },
+        "es": {
+          "name": "Monolithe de Sardières",
+          "commune": "Val-Cenis"
+        },
+        "nl": {
+          "name": "Monolithe de Sardières",
+          "commune": "Val-Cenis"
+        }
+      },
+      "latitude": 45.242659,
+      "longitude": 6.780167,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
       "slug": "musee-d-art-et-d-histoire-albertville",
       "categories": [
         "musee"
@@ -2810,6 +3098,42 @@
       "access_state": "free"
     },
     {
+      "slug": "promenade-du-plan-de-l-eau-des-bruyeres",
+      "categories": [
+        "sentier"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Promenade du plan de l'Eau des Bruyères",
+          "commune": "Les Belleville"
+        },
+        "en": {
+          "name": "Promenade du plan de l'Eau des Bruyères",
+          "commune": "Les Belleville"
+        },
+        "de": {
+          "name": "Promenade du plan de l'Eau des Bruyères",
+          "commune": "Les Belleville"
+        },
+        "it": {
+          "name": "Promenade du plan de l'Eau des Bruyères",
+          "commune": "Les Belleville"
+        },
+        "es": {
+          "name": "Promenade du plan de l'Eau des Bruyères",
+          "commune": "Les Belleville"
+        },
+        "nl": {
+          "name": "Promenade du plan de l'Eau des Bruyères",
+          "commune": "Les Belleville"
+        }
+      },
+      "latitude": 45.313649,
+      "longitude": 6.54062,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
       "slug": "redoute-marie-therese-avrieux",
       "categories": [
         "chateau"
@@ -2878,6 +3202,42 @@
       },
       "latitude": 45.506831,
       "longitude": 6.545049,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
+      "slug": "sentier-des-arpelieres-crest-voland",
+      "categories": [
+        "sentier"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Sentier des Arpelières",
+          "commune": "Crest-Voland"
+        },
+        "en": {
+          "name": "Sentier des Arpelières",
+          "commune": "Crest-Voland"
+        },
+        "de": {
+          "name": "Sentier des Arpelières",
+          "commune": "Crest-Voland"
+        },
+        "it": {
+          "name": "Sentier des Arpelières",
+          "commune": "Crest-Voland"
+        },
+        "es": {
+          "name": "Sentier des Arpelières",
+          "commune": "Crest-Voland"
+        },
+        "nl": {
+          "name": "Sentier des Arpelières",
+          "commune": "Crest-Voland"
+        }
+      },
+      "latitude": 45.772,
+      "longitude": 6.5273,
       "is_free": true,
       "access_state": "free"
     },

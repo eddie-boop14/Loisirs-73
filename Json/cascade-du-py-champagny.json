@@ -1,0 +1,547 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-18",
+    "confidence": "declarative",
+    "detail": "« Accessible en fauteuil roulant en autonomie » (fiche officielle la-plagne.com). Site du Laisonnay, vallon de Champagny-le-Haut.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_name": "Office de tourisme de La Plagne",
+    "source_url": "https://www.la-plagne.com/decouvrir-la-plagne/le-patrimoine/patrimoine-naturel/patrimoine-naturel/cascade-du-py",
+    "status": "accessible",
+    "tourisme_handicap": null
+  },
+  "category": "cascade",
+  "commune": "Champagny-en-Vanoise",
+  "date_modified_human": "18 août 2026",
+  "date_published_human": "18 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-18",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-cascade.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Eine Fußgängerbrücke überquert den Fluss unter dem 80-Meter-Tropfen bei Le Laisonnay.",
+          "tag": "Freier Zugang",
+          "title": "Die Fußgängerbrücke am Fuße des Falls"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>Cascade du Py</strong> Fall <strong>80 Meter</strong> bei Le Laisonnay (1,250 m), an der Spitze der <strong>Champagny-le-Haut</strong> Tal — eine seit 1992 geschützte Naturstätte und ein Tor zum Vanoise-Nationalpark. Das Tourismusbüro präsentiert es als \"das spektakulärste im Tal\", und eine Fußgängerbrücke überquert den Fluss am Fuße.</p><p>Zwei Aussagen aus dem offiziellen Blatt verdienen es, so wie sie stehen, zitiert zu werden: <strong>\"freier Zugang\"</strong>, und <strong>\"Mit dem Rollstuhl ohne Hilfe erreichbar\"</strong> Eine Seltenheit für einen alpinen Wasserfall. Das Blatt veröffentlicht jedoch keine Gehzeit vom unteren Laisonnay-Parkplatz; Wir erfinden keine. Höher oben klettert der Weg neben dem Fall in Richtung Plaisance Refugium und tritt in die regulierte Zone des Parks ein, in der Hunde verboten sind.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "frei",
+        "best_season": null,
+        "commune": "Champagny-en-Vanoise",
+        "dogs": null,
+        "parking": "Le Laisonnay d'en bas",
+        "stroller": null,
+        "type": "Wasserfall",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Das offizielle Blatt des Tourismusbüros besagt, dass \"mit dem Rollstuhl ohne Hilfe erreichbar\" ist - Eine seltene Aussage für einen Wasserfall. Der Standort befindet sich am Le Laisonnay, an der Spitze des Champagny-le-Haut-Tals.",
+          "q": "Ist der Wasserfall Rollstuhl-zugänglich?"
+        },
+        {
+          "a": "Das offizielle Blatt veröffentlicht keine Dauer vom unteren Laisonnay Parkplatz — Wir erfinden keine. Der Plaisance Zufluchtsweg, der den Fall passiert, wird als ca. 2 h und +600 m zum Zufluchtsort angegeben.",
+          "q": "Wie lang ist der Spaziergang?"
+        },
+        {
+          "a": "Das Wasserfallblatt sagt nicht. Beachten Sie jedoch: Höher im Tal, im Kern des Vanoise-Nationalparks, sind Hunde sogar an der Leine verboten.",
+          "q": "Kannst du einen Hund mitbringen?"
+        },
+        {
+          "a": "Ein Tal, das seit 1992 als Naturstätte klassifiziert ist, ein Tor zum Vanoise-Nationalpark mit alpinen Dörfern und Zufluchtsorten. Der Wasserfall Py ist sein spektakulärstes Naturdenkmal.",
+          "q": "Was ist das Champagny-le-Haut Valley?"
+        }
+      ],
+      "hero": {
+        "badge": "80 m Wasserfall · Freier Zugang",
+        "lead": "An der Spitze des geschützten Champagny-le-Haut-Tals fällt der Py-Wasserfall 80 Meter bei Le Laisonnay - der spektakulärste Fall des Tals, mit einer Fußgängerbrücke am Fuße und, selten für die Alpen, Zugang angegeben als Rollstuhl möglich ohne Hilfe."
+      },
+      "hero_alt": "Py Wasserfall im Champagny-le-Haut Tal, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Von Champagny-en-Vanoise folgen Sie der Champagny-le-Haut Talstraße zum unteren Laisonnay Parkplatz.",
+        "public_transport": null
+      },
+      "meta_description": "Der Py Wasserfall bei Champagny-en-Vanoise: eine 80-m-Drop am Le Laisonnay, Fußgängerbrücke am Fuß, freier Zugang und erklärte Rollstuhl-zugänglich ohne Unterstützung. Ein geschütztes Tal am Vanoise Gateway.",
+      "meta_title": "Cascade du Py · 80 m bei Champagny-le-Haut, Rollstuhlzugang",
+      "name": "Cascade du Py",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Höhe",
+          "v": "80 m (Amtsblatt)"
+        },
+        {
+          "k": "Standort",
+          "v": "Le Laisonnay, 1.250 m, Champagny-le-Haut Tal (geschütztes Gelände, 1992)"
+        },
+        {
+          "k": "Zugang",
+          "v": "Kostenlos · niedrigerer Laisonnay Parkplatz"
+        },
+        {
+          "k": "Reduzierte Mobilität",
+          "v": "\"Mit dem Rollstuhl ohne Hilfe erreichbar\" (Amtsblatt)"
+        },
+        {
+          "k": "Kontakt",
+          "v": "La Plagne Tourismusbüro · +33 4 79 55 06 55"
+        }
+      ],
+      "schema_amenities": [
+        "Fußbrücke",
+        "Rollstuhlzugang"
+      ],
+      "when_to_visit": "<p>Das Champagny-le-Haut-Tal ist hauptsächlich ein Besuch in der Warmzeit; Die Talstraße ist eine kleine Bergstraße. Das offizielle Blatt kündigt keine Saison oder Öffnungszeiten an - Die Website ist frei zugänglich.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "A footbridge crosses the river beneath the 80-metre drop, at Le Laisonnay.",
+          "tag": "Free access",
+          "title": "The footbridge at the foot of the fall"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Cascade du Py</strong> falls <strong>80 metres</strong> at Le Laisonnay (1,250 m), at the head of the <strong>Champagny-le-Haut</strong> valley — a natural site protected since 1992 and a gateway to the Vanoise national park. The tourist office presents it as 'the most spectacular in the valley', and a footbridge crosses the river at its foot.</p><p>Two statements from the official sheet deserve quoting as they stand: <strong>'free access'</strong>, and <strong>'accessible by wheelchair unassisted'</strong> — a rarity for an alpine waterfall. The sheet publishes no walking time from the lower Laisonnay car park, however; we do not invent one. Higher up, the trail alongside the fall climbs towards the Plaisance refuge and enters the park's regulated zone, where dogs are forbidden.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free",
+        "best_season": null,
+        "commune": "Champagny-en-Vanoise",
+        "dogs": null,
+        "parking": "Le Laisonnay d'en bas",
+        "stroller": null,
+        "type": "Waterfall",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "The tourist office's official sheet states 'accessible by wheelchair unassisted' — a rare statement for a waterfall. The site is at Le Laisonnay, at the head of the Champagny-le-Haut valley.",
+          "q": "Is the waterfall wheelchair-accessible?"
+        },
+        {
+          "a": "The official sheet publishes no duration from the lower Laisonnay car park — we do not invent one. The Plaisance refuge trail, which passes the fall, is given as about 2 h and +600 m to the refuge.",
+          "q": "How long is the walk?"
+        },
+        {
+          "a": "The waterfall's sheet does not say. Note however: higher in the valley, in the Vanoise national park's core, dogs are forbidden, even on a leash.",
+          "q": "Can you bring a dog?"
+        },
+        {
+          "a": "A valley classified as a natural site since 1992, a gateway to the Vanoise national park, with alpine hamlets and refuges. The Py waterfall is its most spectacular natural monument.",
+          "q": "What is the Champagny-le-Haut valley?"
+        }
+      ],
+      "hero": {
+        "badge": "80 m waterfall · Free access",
+        "lead": "At the head of the protected Champagny-le-Haut valley, the Py waterfall drops 80 metres at Le Laisonnay — the valley's most spectacular fall, with a footbridge at its foot and, rarely for the Alps, access stated as wheelchair-possible unassisted."
+      },
+      "hero_alt": "Py waterfall in the Champagny-le-Haut valley, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "From Champagny-en-Vanoise, follow the Champagny-le-Haut valley road to the lower Laisonnay car park.",
+        "public_transport": null
+      },
+      "meta_description": "The Py waterfall at Champagny-en-Vanoise: an 80 m drop at Le Laisonnay, footbridge at its foot, free access and stated wheelchair-accessible unassisted. A protected valley at the Vanoise gateway.",
+      "meta_title": "Cascade du Py · 80 m at Champagny-le-Haut, wheelchair access",
+      "name": "Cascade du Py",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Height",
+          "v": "80 m (official sheet)"
+        },
+        {
+          "k": "Site",
+          "v": "Le Laisonnay, 1,250 m, Champagny-le-Haut valley (protected site, 1992)"
+        },
+        {
+          "k": "Access",
+          "v": "Free · lower Laisonnay car park"
+        },
+        {
+          "k": "Reduced mobility",
+          "v": "'Accessible by wheelchair unassisted' (official sheet)"
+        },
+        {
+          "k": "Contact",
+          "v": "La Plagne tourist office · +33 4 79 55 06 55"
+        }
+      ],
+      "schema_amenities": [
+        "Footbridge",
+        "Wheelchair access"
+      ],
+      "when_to_visit": "<p>The Champagny-le-Haut valley is mainly a warm-season visit; the valley road is a small mountain road. The official sheet announces no season or opening hours — the site is freely accessible.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "Una pasarela cruza el río debajo de la caída de 80 metros, en Le Laisonnay.",
+          "tag": "Acceso gratuito",
+          "title": "La pasarela al pie de la caída"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>Cascade du Py</strong> Fallas <strong>80 metros</strong> en Le Laisonnay (1,250 m), en la cabeza del <strong>Champagny-le-Haut</strong> valle un sitio natural protegido desde 1992 y una puerta de entrada al parque nacional Vanoise. La oficina turística lo presenta como 'el más espectacular del valle', y una pasarela cruza el río a su pie.</p><p>Dos declaraciones de la hoja oficial merecen citar como están: <strong>'acceso libre'</strong>, y <strong>'accesible por silla de ruedas sin respuesta'</strong> - una rareza para una cascada alpina. La hoja no publica tiempo de caminata desde el aparcamiento inferior Laisonnay, sin embargo; no inventamos uno. Más arriba, el sendero junto a la caída se eleva hacia el refugio de Plaisance y entra en la zona regulada del parque, donde los perros están prohibidos.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": null,
+        "commune": "Champagny-en-Vanoise",
+        "dogs": null,
+        "parking": "Le Laisonnay d'en bas",
+        "stroller": null,
+        "type": "Waterfall",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "La hoja oficial de la oficina de turismo declara 'accesible por silla de ruedas sin respuesta' — una rara declaración para una cascada. El sitio está en Le Laisonnay, a la cabeza del valle Champagny-le-Haut.",
+          "q": "¿La silla de ruedas de cascada es accesible?"
+        },
+        {
+          "a": "La hoja oficial no publica duración del aparcamiento inferior Laisonnay — no inventamos uno. El sendero de refugio de Plaisance, que pasa la caída, se da alrededor de 2 h y +600 m al refugio.",
+          "q": "¿Cuánto dura el paseo?"
+        },
+        {
+          "a": "La hoja de la cascada no dice. No obstante: más alto en el valle, en el núcleo del parque nacional Vanoise, los perros están prohibidos, incluso en una correa.",
+          "q": "¿Puedes traer un perro?"
+        },
+        {
+          "a": "Un valle clasificado como un sitio natural desde 1992, una puerta de entrada al parque nacional Vanoise, con aldeas alpinas y refugios. La cascada Py es su monumento natural más espectacular.",
+          "q": "¿Qué es el valle Champagny-le-Haut?"
+        }
+      ],
+      "hero": {
+        "badge": "cascada de 80 m · Acceso libre",
+        "lead": "En la cabeza del valle protegido Champagny-le-Haut, la cascada Py cae 80 metros en Le Laisonnay — la caída más espectacular del valle, con una pasarela a su pie y, raramente para los Alpes, el acceso declarado como sillón de ruedas no es posible."
+      },
+      "hero_alt": "Pica cascada en el valle Champagny-le-Haut, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Desde Champagny-en-Vanoise, siga la carretera del valle Champagny-le-Haut hasta el aparcamiento Laisonnay inferior.",
+        "public_transport": null
+      },
+      "meta_description": "La cascada Py en Champagny-en-Vanoise: una gota de 80 m en Le Laisonnay, pasarela a su pie, acceso libre y acceso declarado silla de ruedas sin respuesta. Un valle protegido en la entrada Vanoise.",
+      "meta_title": "Cascade du Py · 80 m en Champagny-le-Haut, acceso a silla de ruedas",
+      "name": "Cascade du Py",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Altura",
+          "v": "80 m (página oficial)"
+        },
+        {
+          "k": "Sitio",
+          "v": "Le Laisonnay, 1.250 m, valle Champagny-le-Haut (sitio protegido, 1992)"
+        },
+        {
+          "k": "Acceso",
+          "v": "Gratis · menos aparcamiento Laisonnay"
+        },
+        {
+          "k": "Reducción de la movilidad",
+          "v": "\"Accesible por silla de ruedas sin respuesta\" (sábana oficial)"
+        },
+        {
+          "k": "Contacto",
+          "v": "La Plagne oficina de turismo · +33 4 79 55 06 55"
+        }
+      ],
+      "schema_amenities": [
+        "Footbridge",
+        "Acceso a silla de ruedas"
+      ],
+      "when_to_visit": "<p>El valle Champagny-le-Haut es principalmente una visita de temporada cálida; el camino del valle es un pequeño camino de montaña. La hoja oficial anuncia que no hay estación ni horario de apertura — el sitio es libremente accesible.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Une passerelle traverse la rivière au pied des 80 mètres de chute, au Laisonnay.",
+          "tag": "Accès libre",
+          "title": "La passerelle au pied de la cascade"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>cascade du Py</strong> tombe de <strong>80 mètres</strong> au Laisonnay (1 250 m), au fond du vallon de <strong>Champagny-le-Haut</strong> — un site naturel classé depuis 1992, porte d'entrée du Parc national de la Vanoise. L'office de tourisme la présente comme « la plus spectaculaire du vallon », et une passerelle permet de traverser la rivière à son pied.</p><p>Deux mentions de la fiche officielle valent d'être reprises telles quelles : <strong>« Accès libre »</strong>, et <strong>« Accessible en fauteuil roulant en autonomie »</strong> — une rareté pour une cascade alpine. La fiche ne publie en revanche aucune durée de marche depuis le parking du Laisonnay d'en bas ; nous n'en inventons pas. Plus haut, le sentier qui longe la cascade monte vers le refuge de Plaisance et entre dans la zone réglementée du Parc, où les chiens sont interdits.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuit",
+        "best_season": null,
+        "commune": "Champagny-en-Vanoise",
+        "dogs": null,
+        "parking": "Le Laisonnay d'en bas",
+        "stroller": null,
+        "type": "Cascade",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "La fiche officielle de l'office de tourisme indique « Accessible en fauteuil roulant en autonomie » — une mention rare pour une cascade. Le site est au Laisonnay, au fond du vallon de Champagny-le-Haut.",
+          "q": "La cascade est-elle accessible en fauteuil roulant ?"
+        },
+        {
+          "a": "La fiche officielle ne publie aucune durée depuis le parking du Laisonnay d'en bas — nous ne l'inventons pas. Le sentier du refuge de Plaisance, qui longe la cascade, est donné pour environ 2 h et +600 m jusqu'au refuge.",
+          "q": "Combien de temps de marche ?"
+        },
+        {
+          "a": "La fiche de la cascade ne le précise pas. Attention toutefois : plus haut dans le vallon, en cœur du Parc national de la Vanoise, les chiens sont interdits, même en laisse.",
+          "q": "Peut-on venir avec un chien ?"
+        },
+        {
+          "a": "Un vallon classé site naturel depuis 1992, porte d'entrée du Parc national de la Vanoise, avec hameaux d'alpage et refuges. La cascade du Py en est le monument naturel le plus spectaculaire.",
+          "q": "Qu'est-ce que le vallon de Champagny-le-Haut ?"
+        }
+      ],
+      "hero": {
+        "badge": "Cascade 80 m · Accès libre",
+        "lead": "Au fond du vallon classé de Champagny-le-Haut, la cascade du Py déroule ses 80 mètres au Laisonnay — la plus spectaculaire du vallon, avec une passerelle au pied et, fait rare, un accès annoncé possible en fauteuil roulant en autonomie."
+      },
+      "hero_alt": "Cascade du Py dans le vallon de Champagny-le-Haut, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "De Champagny-en-Vanoise, suivre la route du vallon de Champagny-le-Haut jusqu'au parking du Laisonnay d'en bas.",
+        "public_transport": null
+      },
+      "meta_description": "La cascade du Py à Champagny-en-Vanoise : 80 m de chute au Laisonnay, passerelle au pied, accès libre et annoncé accessible en fauteuil roulant en autonomie. Vallon classé, porte de la Vanoise.",
+      "meta_title": "Cascade du Py · 80 m à Champagny-le-Haut, accès PMR",
+      "name": "Cascade du Py",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Hauteur",
+          "v": "80 m (fiche officielle)"
+        },
+        {
+          "k": "Site",
+          "v": "Le Laisonnay, 1 250 m, vallon de Champagny-le-Haut (site classé 1992)"
+        },
+        {
+          "k": "Accès",
+          "v": "Libre · parking Le Laisonnay d'en bas"
+        },
+        {
+          "k": "PMR",
+          "v": "« Accessible en fauteuil roulant en autonomie » (fiche officielle)"
+        },
+        {
+          "k": "Contact",
+          "v": "OT La Plagne · 04 79 55 06 55"
+        }
+      ],
+      "schema_amenities": [
+        "Passerelle",
+        "Accès PMR"
+      ],
+      "when_to_visit": "<p>Le vallon de Champagny-le-Haut se visite surtout à la belle saison ; la route du vallon est une petite route de montagne. La fiche officielle n'annonce ni saison ni horaire — le site est en accès libre.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Una passerella attraversa il fiume sotto la goccia di 80 metri, a Le Laisonnay.",
+          "tag": "Accesso gratuito",
+          "title": "Il ponte pedonale ai piedi della caduta"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Cascade du Py</strong> Cascate <strong>80 metri</strong> a Le Laisonnay (1,250 m), alla testa della <strong>Champagny-le-Haut</strong> valle — un sito naturale protetto dal 1992 e un gateway per il parco nazionale Vanoise. L'ufficio turistico lo presenta come 'la più spettacolare della valle', e una passerella attraversa il fiume ai suoi piedi.</p><p>Due dichiarazioni del foglio ufficiale meritano di citare come stanno: <strong>'accesso libero'</strong>e <strong>'accessibile con sedia a rotelle non assistita''</strong> — una rarità per una cascata alpina. Il foglio non pubblica alcun tempo a piedi dal parcheggio inferiore Laisonnay, tuttavia; noi non inventiamo uno. Più in alto, il sentiero accanto alla caduta sale verso il rifugio Plaisance e entra nella zona regolamentata del parco, dove i cani sono vietati.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": null,
+        "commune": "Champagny-en-Vanoise",
+        "dogs": null,
+        "parking": "Le Laisonnay d'en bas",
+        "stroller": null,
+        "type": "Cascata",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "La scheda ufficiale dell'ufficio turistico afferma «accessibile su sedia a rotelle non assistita» — una rara dichiarazione per una cascata. Il sito si trova a Le Laisonnay, alla testa della valle Champagny-le-Haut.",
+          "q": "La cascata è accessibile alle sedie a rotelle?"
+        },
+        {
+          "a": "Il foglio ufficiale non pubblica alcuna durata dal parcheggio più basso Laisonnay — noi non inventiamo uno. Il sentiero di rifugio Plaisance, che passa la caduta, è dato circa 2 h e +600 m al rifugio.",
+          "q": "Quanto dura la passeggiata?"
+        },
+        {
+          "a": "Il foglio della cascata non dice. Nota tuttavia: più in alto nella valle, nel nucleo del parco nazionale Vanoise, i cani sono vietati, anche al guinzaglio.",
+          "q": "Puoi portare un cane?"
+        },
+        {
+          "a": "Una valle classificata come sito naturale dal 1992, una porta d'accesso al parco nazionale Vanoise, con borghi e rifugi alpini. La cascata di Py è il suo monumento naturale più spettacolare.",
+          "q": "Qual è la valle Champagny-le-Haut?"
+        }
+      ],
+      "hero": {
+        "badge": "cascata di 80 m · Accesso libero",
+        "lead": "Alla testa della valle protetta di Champagny-le-Haut, la cascata di Py scende 80 metri a Le Laisonnay — la caduta più spettacolare della valle, con una passerella ai suoi piedi e, raramente per le Alpi, l'accesso dichiarato come sedia a rotelle-possibile non assistita."
+      },
+      "hero_alt": "Pista cascata nella valle Champagny-le-Haut, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Da Champagny-en-Vanoise, seguire la strada a valle Champagny-le-Haut fino al parcheggio Laisonnay inferiore.",
+        "public_transport": null
+      },
+      "meta_description": "La cascata Py a Champagny-en-Vanoise: una caduta di 80 m a Le Laisonnay, passerella al piede, accesso libero e dichiarata accessibile alla sedia a rotelle non assistita. Una valle protetta al gateway Vanoise.",
+      "meta_title": "Cascade du Py · 80 m a Champagny-le-Haut, accesso alla sedia a rotelle",
+      "name": "Cascade du Py",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Altezza",
+          "v": "80 m (foglio ufficiale)"
+        },
+        {
+          "k": "Sito web",
+          "v": "Le Laisonnay, 1.250 m, valle Champagny-le-Haut (sito protetto, 1992)"
+        },
+        {
+          "k": "Accesso",
+          "v": "Gratis · parcheggio più basso Laisonnay"
+        },
+        {
+          "k": "Mobilità ridotta",
+          "v": "'Accessibile su sedia a rotelle non assistita' (scheda ufficiale)"
+        },
+        {
+          "k": "Contatto",
+          "v": "La Plagne ufficio turistico · +33 4 79 55 06 55"
+        }
+      ],
+      "schema_amenities": [
+        "Ponte delle gambe",
+        "Accesso disabili"
+      ],
+      "when_to_visit": "<p>La valle Champagny-le-Haut è principalmente una visita di stagione calda; la strada della valle è una piccola strada di montagna. Il foglio ufficiale non annuncia alcuna stagione o orario di apertura — il sito è liberamente accessibile.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Een voetbrug steekt de rivier onder de 80 meter diepte over, bij Le Laisonnay.",
+          "tag": "Vrije toegang",
+          "title": "De voetbrug aan de voet van de val"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>Cascade du Py</strong> vallen <strong>80 meter</strong> bij Le Laisonnay (1.250 m), aan het hoofd van de <strong>Champagny-le-Haut</strong> vallei een beschermd natuurgebied sinds 1992 en een toegangspoort tot het nationale park Vanoise. Het VVV-kantoor presenteert het als 'de meest spectaculaire in de vallei', en een voetbrug steekt de rivier aan zijn voet over.</p><p>Twee verklaringen uit het officiële blad verdienen een citaat: <strong>\"vrije toegang\"</strong>en <strong>\"toegankelijk voor rolstoelen zonder hulp\"</strong> Een zeldzaamheid voor een alpine waterval. Het blad publiceert echter geen wandeltijd vanaf de lagere parkeerplaats Laisonnay; We vinden er geen uit. Hogerop klimt het pad langs de val naar het toevluchtsoord Plaisance en komt de gereguleerde zone van het park binnen, waar honden verboden zijn.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Vrij",
+        "best_season": null,
+        "commune": "Champagny-en-Vanoise",
+        "dogs": null,
+        "parking": "Le Laisonnay d'en bas",
+        "stroller": null,
+        "type": "Waterval",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "In het officiële blad van het VVV staat 'toegankelijk voor rolstoelen zonder hulp'. een zeldzame uitspraak voor een waterval. De site is op Le Laisonnay, aan het hoofd van de Champagny-le-Haut vallei.",
+          "q": "Is de waterval rolstoel toegankelijk?"
+        },
+        {
+          "a": "Het officiële blad publiceert geen duur vanaf de lagere parkeerplaats Laisonnay  We vinden er geen uit. Het Plaisance toevluchtspad, dat de val passeert, wordt gegeven als ongeveer 2 uur en +600 m naar het toevluchtsoord.",
+          "q": "Hoe lang duurt de wandeling?"
+        },
+        {
+          "a": "Het laken van de waterval zegt niets. Opmerking: hoger in de vallei, in de kern van het nationale park Vanoise, zijn honden verboden, zelfs aan een riem.",
+          "q": "Kun je een hond meenemen?"
+        },
+        {
+          "a": "Een vallei geclassificeerd als een natuurlijke site sinds 1992, een poort naar het Vanoise nationaal park, met alpine gehuchten en schuilplaatsen. De Py waterval is het meest spectaculaire natuurlijke monument.",
+          "q": "Wat is de Champagny-le-Haut vallei?"
+        }
+      ],
+      "hero": {
+        "badge": "80 m waterval · Gratis toegang",
+        "lead": "Aan het hoofd van de beschermde Champagny-le-Haut vallei, daalt de Py waterval 80 meter op Le Laisonnay de meest spectaculaire vallei, met een voetbrug aan de voet en, zelden voor de Alpen, toegang verklaard als rolstoel-mogelijk niet ondersteund."
+      },
+      "hero_alt": "Py waterval in de Champagny-le-Haut vallei, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Vanaf Champagny-en-Vanoise, volg de Champagny-le-Haut vallei weg naar de lagere Laisonnay parkeerplaats.",
+        "public_transport": null
+      },
+      "meta_description": "De Py waterval op Champagny-en-Vanoise: een val van 80 m bij Le Laisonnay, een voetbrug aan de voet, gratis toegang en een onbegeleide rolstoel. Een beschermde vallei bij de Vanoise gateway.",
+      "meta_title": "Cascade du Py · 80 m bij Champagny-le-Haut, rolstoeltoegang",
+      "name": "Cascade du Py",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Hoogte",
+          "v": "80 m (officieel blad)"
+        },
+        {
+          "k": "Site",
+          "v": "Le Laisonnay, 1.250 m, Champagny-le-Haut vallei (beschermd terrein, 1992)"
+        },
+        {
+          "k": "Toegang",
+          "v": "Gratis · lagere parkeerplaats Laisonnay"
+        },
+        {
+          "k": "Minder mobiliteit",
+          "v": "\"Toegankelijk voor rolstoelen zonder hulp\" (officieel blad)"
+        },
+        {
+          "k": "Contactpersoon",
+          "v": "La Plagne VVV · +33 4 79 55 06 55"
+        }
+      ],
+      "schema_amenities": [
+        "Voetbrug",
+        "Rolstoeltoegang"
+      ],
+      "when_to_visit": "<p>De Champagny-le-Haut vallei is vooral een warm seizoen bezoek; de valleiweg is een kleine bergweg. Het officiële blad kondigt geen seizoen of openingstijden aan de site is vrij toegankelijk.</p>"
+    }
+  },
+  "latitude": 45.449186,
+  "longitude": 6.781253,
+  "official_site_url": "https://www.la-plagne.com/decouvrir-la-plagne/le-patrimoine/patrimoine-naturel/patrimoine-naturel/cascade-du-py",
+  "partners": [],
+  "postal_code": "73350",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-18, FR pages only (la-plagne.com). Cascade de 80 m au Laisonnay (alt. 1250 m), vallon de Champagny-le-Haut, « la plus spectaculaire du vallon » ; passerelle pour traverser la rivière. « Accès libre » et « Accessible en fauteuil roulant en autonomie » (fiche officielle, verbatim) → acces_pmr accessible. Vallon = site naturel classé (1992), porte du Parc national de la Vanoise ; en cœur de parc les chiens sont interdits (vanoise-parcnational.fr) — la passerelle est hors cœur, le sentier du refuge de Plaisance monte en zone réglementée. Pas de durée de marche publiée. Parking Le Laisonnay d'en bas.",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "cascade-du-py-champagny",
+  "sources": [
+    "https://www.la-plagne.com/decouvrir-la-plagne/le-patrimoine/patrimoine-naturel/patrimoine-naturel/cascade-du-py",
+    "https://www.savoie-mont-blanc.com/en/natural-sites/valley-of-champagny-le-haut-201945/"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "DUREE DE MARCHE — non publiée par la fiche officielle ; aucune durée n'est inventée ici.",
+    "CHIENS — non renseignés sur la fiche de la cascade ; en cœur du Parc national de la Vanoise (plus haut dans le vallon), ils sont interdits."
+  ]
+}

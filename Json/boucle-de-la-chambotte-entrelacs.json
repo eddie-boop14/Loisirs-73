@@ -1,0 +1,597 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-18",
+    "confidence": "declarative",
+    "detail": "« Non accessible en fauteuil roulant » et « non adapté aux poussettes » (fiche OT Aix-les-Bains Riviera des Alpes).",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_name": "OT Aix-les-Bains Riviera des Alpes",
+    "source_url": "https://www.aixlesbains-rivieradesalpes.com/equipement/boucle-de-la-chambotte-entrelacs/",
+    "status": "non_accessible",
+    "tourisme_handicap": null
+  },
+  "category": "sentier",
+  "commune": "Entrelacs",
+  "date_modified_human": "18 août 2026",
+  "date_published_human": "18 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-18",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-sentier-sommet-panorama.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Einer der schönsten Aussichtspunkte über Lac du Bourget und Hautecombe, Restaurant Dachterrasse frei zugänglich.",
+          "tag": "Freier Zugang",
+          "title": "Der Chambotte Belvedere"
+        },
+        {
+          "description": "4,7 gelb-grün markierte km, weitgehend durch den Wald, über die Haut de Chambotte und La Tailla.",
+          "tag": "1 h 50",
+          "title": "Die Schleife über Mont Corsuet"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>Chambotte-Schleife</strong> startet vom Parkplatz Belvedere bei Saint-Germain-la-Chambotte (Entrelacs): <strong>4,7 km, ca. 1 h 50, 269 m Aufstieg</strong>, gelb-grüne PR-Wegmarken, bis zu 820 m. Das Chambotte Belvedere ist einer der schönsten Aussichtspunkte über die Abtei Lac du Bourget und Hautecombe (freier Zugang zum Dach des Restaurants). Eine 4,7 km lange Schleife bietet einen Verdauungsspaziergang weitgehend durch den Wald , schreibt das Tourismusamt - Der ganze Schritt-für-Schritt passiert den natürlichen Belvedere, die Haut de Chambotte, Mont Corsuet, La Tailla und den Weiler Chambotte.</p><p>Auf Schwierigkeit, das gleiche offizielle Blatt widerspricht sich selbst — \"sehr einfach\" in seinem Routenblock, \"einfach\" in seinem Zusammenfassungsfeld - Und wir zitieren beides. Tiere werden akzeptiert; Der steinerne, irdene Boden ist \"nicht für Kinderwagen geeignet\" und die Strecke \"nicht für Rollstühle zugänglich\". Bei der Rückkehr entlang der Belvedere-Straße, \"mind the traffic\".</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "frei",
+        "best_season": null,
+        "commune": "Entrelacs",
+        "dogs": "Akzeptiert",
+        "parking": "Parkplatz Belvedere",
+        "stroller": "Nicht geeignet",
+        "type": "Panoramaschleife",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Das offizielle Blatt selbst zögert: \"sehr einfach\" in seinem Routenblock, \"einfach\" in seinem Zusammenfassungsfeld - Wir zitieren beides. Erlauben Sie 4,7 km, ca. 1 h 50 und 269 m Aufstieg, auf Steinen und Erde.",
+          "q": "Ist die Schleife einfach?"
+        },
+        {
+          "a": "\"Einer der besten Aussichtspunkte über die Lac du Bourget und Hautecombe Abbey\" - und die Dachterrasse des Belvedere Restaurants ist frei zugänglich.",
+          "q": "Was sehen Sie vom Belvedere aus?"
+        },
+        {
+          "a": "Nein: Auf dem Blatt steht \"nicht für Kinderwagen geeignet\" und \"nicht für Rollstühle zugänglich\". Der Belvedere selbst ist zu Beginn mit dem Auto erreichbar.",
+          "q": "Ist es Kinderwagen- oder Rollstuhl-freundlich?"
+        },
+        {
+          "a": "Die Rückkehr folgt der Belvedere Straße: \"Mind the Traffic\", warnt das Blatt.",
+          "q": "Irgendein Abschnitt zum Anschauen?"
+        }
+      ],
+      "hero": {
+        "badge": "4,7 km · Belvedere",
+        "lead": "Von einem der schönsten Balkone über Lac du Bourget — Die Dachterrasse des Belvedere-Restaurants ist frei zugänglich - 4,7 km \"Verdauungsweg\" durch den Wald, über Mont Corsuet und den Weiler Chambotte."
+      },
+      "hero_alt": "Panorama über Lac du Bourget von der Chambotte, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Von Aix-les-Bains oder Albens (D991b) bis Saint-Germain-la-Chambotte aufsteigen; Parkplatz Belvedere am Start.",
+        "public_transport": null
+      },
+      "meta_description": "Die Chambotte Schleife bei Entrelacs: 4,7 km von einem der schönsten Belvederes über Lac du Bourget, über Mont Corsuet. Hunde akzeptiert, nicht Kinderwagen geeignet - Das offizielle Blatt widerspricht sich in Bezug auf die Schwierigkeit, also zitieren wir alles.",
+      "meta_title": "Chambotte loop · Lac du Bourget belvedere",
+      "name": "Boucle de la Chambotte",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Route",
+          "v": "4,7 km · ~1 h 50 · +269 m · max alt. 820 m · gelb-grüne PR-Wegmarkierungen"
+        },
+        {
+          "k": "Schwierigkeiten",
+          "v": "\"Sehr einfach\" (Streckenblock) / \"Einfach\" (Zusammenfassungsbox) - gleiches Blatt, beide zitiert"
+        },
+        {
+          "k": "Beginn",
+          "v": "Parkplatz Belvedere, Saint-Germain-la-Chambotte, 73410 Entrelacs"
+        },
+        {
+          "k": "Zugänglichkeit",
+          "v": "Nicht für Kinderwagen geeignet · nicht für Rollstühle zugänglich (Touristen-Büroblatt)"
+        },
+        {
+          "k": "Sicherheit",
+          "v": "Zurück auf der Belvedere Road: Achten Sie auf den Verkehr"
+        },
+        {
+          "k": "Kontakt",
+          "v": "Aix-les-Bains Riviera des Alpes Tourismusbüro · +33 4 79 88 68 00"
+        }
+      ],
+      "schema_amenities": [
+        "Belvedere",
+        "Markierungsschleife"
+      ],
+      "when_to_visit": "<p>\"Das ganze Jahr, jeden Tag\", außerhalb verschneite Zauber und bei schönem Wetter. Die Ansicht des Belvedere erstreckt sich über die gesamte Lac du Bourget, mit der Abtei Hautecombe unten - Die KML-Datei der Schleife kann aus dem offiziellen Blatt heruntergeladen werden.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "One of the finest viewpoints over Lac du Bourget and Hautecombe, restaurant roof terrace freely accessible.",
+          "tag": "Free access",
+          "title": "The Chambotte belvedere"
+        },
+        {
+          "description": "4.7 yellow-and-green waymarked km, largely through forest, via the Haut de Chambotte and La Tailla.",
+          "tag": "1 h 50",
+          "title": "The loop via Mont Corsuet"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Chambotte loop</strong> starts from the Belvedere car park at Saint-Germain-la-Chambotte (Entrelacs): <strong>4.7 km, about 1 h 50, 269 m of climb</strong>, yellow-and-green PR waymarks, up to 820 m. 'The Chambotte Belvedere is one of the finest viewpoints over the Lac du Bourget and Hautecombe Abbey (free access to the restaurant's roof). A 4.7 km loop offers a digestive walk largely through forest', writes the tourist office — the full step-by-step passes the natural belvedere, the Haut de Chambotte, Mont Corsuet, La Tailla and the Chambotte hamlet.</p><p>On difficulty, the same official sheet contradicts itself — 'very easy' in its route block, 'easy' in its summary box — and we quote both. Animals are accepted; the stony, earthen ground is 'not suitable for strollers' and the circuit 'not wheelchair-accessible'. On the return along the belvedere road, 'mind the traffic'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free",
+        "best_season": null,
+        "commune": "Entrelacs",
+        "dogs": "Accepted",
+        "parking": "Belvedere car park",
+        "stroller": "Not suitable",
+        "type": "Panoramic loop",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "The official sheet itself hesitates: 'very easy' in its route block, 'easy' in its summary box — we quote both. Allow 4.7 km, about 1 h 50 and 269 m of climb, on stones and earth.",
+          "q": "Is the loop easy?"
+        },
+        {
+          "a": "'One of the finest viewpoints over the Lac du Bourget and Hautecombe Abbey' — and the belvedere restaurant's roof terrace is freely accessible.",
+          "q": "What do you see from the belvedere?"
+        },
+        {
+          "a": "No: the sheet states 'not suitable for strollers' and 'not wheelchair-accessible'. The belvedere itself, at the start, is reached by car.",
+          "q": "Is it stroller- or wheelchair-friendly?"
+        },
+        {
+          "a": "The return follows the belvedere road: 'mind the traffic', warns the sheet.",
+          "q": "Any section to watch?"
+        }
+      ],
+      "hero": {
+        "badge": "4.7 km · Belvedere",
+        "lead": "From one of the finest balconies over Lac du Bourget — the belvedere restaurant's roof terrace is freely accessible — a 4.7 km 'digestive walk' through forest, via Mont Corsuet and the Chambotte hamlet."
+      },
+      "hero_alt": "Panorama over Lac du Bourget from the Chambotte, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "From Aix-les-Bains or Albens (D991b), climb to Saint-Germain-la-Chambotte; Belvedere car park at the start.",
+        "public_transport": null
+      },
+      "meta_description": "The Chambotte loop at Entrelacs: 4.7 km from one of the finest belvederes over Lac du Bourget, via Mont Corsuet. Dogs accepted, not stroller-suitable — the official sheet contradicts itself on difficulty, so we quote it all.",
+      "meta_title": "Chambotte loop · Lac du Bourget belvedere",
+      "name": "Boucle de la Chambotte",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Route",
+          "v": "4.7 km · ~1 h 50 · +269 m · max alt. 820 m · yellow-green PR waymarks"
+        },
+        {
+          "k": "Difficulty",
+          "v": "'Very easy' (route block) / 'Easy' (summary box) — same sheet, both quoted"
+        },
+        {
+          "k": "Start",
+          "v": "Belvedere car park, Saint-Germain-la-Chambotte, 73410 Entrelacs"
+        },
+        {
+          "k": "Accessibility",
+          "v": "Not stroller-suitable · not wheelchair-accessible (tourist-office sheet)"
+        },
+        {
+          "k": "Safety",
+          "v": "Return along the belvedere road: mind the traffic"
+        },
+        {
+          "k": "Contact",
+          "v": "Aix-les-Bains Riviera des Alpes tourist office · +33 4 79 88 68 00"
+        }
+      ],
+      "schema_amenities": [
+        "Belvedere",
+        "Waymarked loop"
+      ],
+      "when_to_visit": "<p>'All year, every day', outside snowy spells and subject to fair weather. The belvedere's view spans the whole Lac du Bourget, with Hautecombe abbey below — the loop's KML file can be downloaded from the official sheet.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "Uno de los puntos de vista más bellos sobre Lac du Bourget y Hautecombe, terraza de la azotea del restaurante de acceso libre.",
+          "tag": "Acceso gratuito",
+          "title": "La Chambotte belvedere"
+        },
+        {
+          "description": "4.7 km amarillo y verde, en gran parte a través del bosque, a través de la Haut de Chambotte y La Tailla.",
+          "tag": "1 h 50",
+          "title": "El bucle via Mont Corsuet"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>Chambotte loop</strong> comienza desde el aparcamiento Belvedere en Saint-Germain-la-Chambotte (Entrelacs): <strong>4.7 km, aproximadamente 1 h 50, 269 m de escalada</strong>, marcadores de PR amarillo y verde, hasta 820 m. 'La Chambotte Belvedere es uno de los mejores miradores sobre la Abadía Lac du Bourget y Hautecombe (acceso libre al techo del restaurante). Un bucle de 4.7 km ofrece un paseo digestivo en gran parte a través del bosque', escribe la oficina turística — el paso a paso completo pasa el belvedere natural, el Haut de Chambotte, Mont Corsuet, La Tailla y la aldea Chambotte.</p><p>En dificultad, la misma hoja oficial se contradice: 'muy fácil' en su bloque de ruta, 'fácil' en su caja sumaria — y citamos ambos. Se aceptan animales; el pedregoso, tierra es 'no adecuado para los paseadores' y el circuito 'no silla de ruedas-accesible'. En el regreso a lo largo de la carretera belvedere, 'mientras el tráfico'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": null,
+        "commune": "Entrelacs",
+        "dogs": "Aceptado",
+        "parking": "Aparcamiento Belvedere",
+        "stroller": "No es adecuado",
+        "type": "Bucle panorámico",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "La propia hoja oficial duda: 'muy fácil' en su bloque de ruta, 'fácil' en su caja sumaria — citamos ambos. Permitir 4.7 km, aproximadamente 1 h 50 y 269 m de escalada, en piedras y tierra.",
+          "q": "¿El bucle es fácil?"
+        },
+        {
+          "a": "'Uno de los mejores puntos de vista sobre la Abadía Lac du Bourget y Hautecombe' — y la terraza del restaurante belvedere es de acceso gratuito.",
+          "q": "¿Qué ves del belvedere?"
+        },
+        {
+          "a": "No: la hoja declara 'no adecuado para los cochecitos' y 'no silla de ruedas-accesible'. El belvedere mismo, al principio, se alcanza en coche.",
+          "q": "¿Es agradable el cochecito o silla de ruedas?"
+        },
+        {
+          "a": "El regreso sigue la carretera belvedere: \"Mentira el tráfico\", advierte la hoja.",
+          "q": "¿Alguna sección para ver?"
+        }
+      ],
+      "hero": {
+        "badge": "4.7 km · Belvedere",
+        "lead": "De uno de los mejores balcones sobre Lac du Bourget: la terraza de la azotea del restaurante belvedere es libremente accesible — a 4,7 km 'pasaje digestivo' a través del bosque, vía Mont Corsuet y la aldea Chambotte."
+      },
+      "hero_alt": "Panorama sobre Lac du Bourget de la Chambotte, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Desde Aix-les-Bains o Albens (D991b), sube a Saint-Germain-la-Chambotte; El aparcamiento Belvedere al principio.",
+        "public_transport": null
+      },
+      "meta_description": "El bucle Chambotte en Entrelacs: 4.7 km de uno de los mejores belvederes sobre Lac du Bourget, vía Mont Corsuet. Perros aceptados, no aptos para pasear — la hoja oficial se contradice en dificultad, así que lo citamos todo.",
+      "meta_title": "Bucle de Chambotte · Lac du Bourget belvedere",
+      "name": "Boucle de la Chambotte",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Ruta",
+          "v": "4.7 km · ~1 h 50 · +269 m · max alt. 820 m · marcadores de PR verde amarillo"
+        },
+        {
+          "k": "Dificultad",
+          "v": "\"Muy fácil\" (bloqueo de ruta) / \"Easy\" (caja de verano) — misma hoja, ambos citados"
+        },
+        {
+          "k": "Comienzo",
+          "v": "Aparcamiento Belvedere, Saint-Germain-la-Chambotte, 73410 Entrelacs"
+        },
+        {
+          "k": "Accesibilidad",
+          "v": "No apto para cochecitos · no accesible para sillas de ruedas (papel de oficina turístico)"
+        },
+        {
+          "k": "Seguridad",
+          "v": "Regrese por la carretera belvedere: mente el tráfico"
+        },
+        {
+          "k": "Contacto",
+          "v": "Aix-les-Bains Riviera des Alpes oficina de turismo · +33 4 79 88 68 00"
+        }
+      ],
+      "schema_amenities": [
+        "Belvedere",
+        "Loop Waymarked"
+      ],
+      "when_to_visit": "<p>'Todo el año, todos los días', fuera de los hechizos nevados y sujetos al clima justo. La vista del belvedere abarca todo el Lac du Bourget, con abadía Hautecombe abajo — el archivo KML del bucle se puede descargar desde la hoja oficial.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "L'un des plus beaux points de vue sur le lac du Bourget et Hautecombe, toiture du restaurant en accès libre.",
+          "tag": "Accès libre",
+          "title": "Le belvédère de la Chambotte"
+        },
+        {
+          "description": "4,7 km balisés jaune et vert, en grande partie en forêt, par le Haut de Chambotte et La Tailla.",
+          "tag": "1 h 50",
+          "title": "La boucle par le Mont Corsuet"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>boucle de la Chambotte</strong> part du parking du Belvédère, à Saint-Germain-la-Chambotte (Entrelacs) : <strong>4,7 km, environ 1 h 50, 269 m de dénivelé</strong>, balisage « petite randonnée » jaune et vert, jusqu'à 820 m d'altitude. « Le Belvédère de la Chambotte est un des plus beaux points de vue sur le Lac du Bourget et l'Abbaye d'Hautecombe (accès libre à la toiture du restaurant). Une boucle de 4,7 km offre une balade digestive en grande partie forêt », écrit l'office de tourisme — le pas-à-pas complet passe par le belvédère naturel, le Haut de Chambotte, le Mont Corsuet, La Tailla et le hameau de la Chambotte.</p><p>Sur la difficulté, la même fiche officielle se contredit — « très facile » dans le bloc itinéraire, « facile » dans l'encadré récapitulatif — et nous citons les deux. Les animaux sont acceptés ; le terrain de cailloux et de terre est « non adapté aux poussettes » et le circuit « non accessible en fauteuil roulant ». Au retour par la route du belvédère, « attention à la circulation ».</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratuit",
+        "best_season": null,
+        "commune": "Entrelacs",
+        "dogs": "Acceptés",
+        "parking": "Parking du Belvédère",
+        "stroller": "Non adapté",
+        "type": "Boucle panoramique",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "La fiche officielle elle-même hésite : « très facile » dans son bloc itinéraire, « facile » dans son encadré récapitulatif — nous citons les deux. Comptez 4,7 km, environ 1 h 50 et 269 m de dénivelé, sur cailloux et terre.",
+          "q": "La boucle est-elle facile ?"
+        },
+        {
+          "a": "« Un des plus beaux points de vue sur le Lac du Bourget et l'Abbaye d'Hautecombe » — et la toiture du restaurant du belvédère est en accès libre.",
+          "q": "Que voit-on du belvédère ?"
+        },
+        {
+          "a": "Non : la fiche indique « non adapté aux poussettes » et « non accessible en fauteuil roulant ». Le belvédère lui-même, au départ, se rejoint en voiture.",
+          "q": "Est-ce praticable avec une poussette ou en fauteuil ?"
+        },
+        {
+          "a": "Le retour emprunte la route du belvédère : « attention à la circulation », prévient la fiche.",
+          "q": "Y a-t-il un passage à surveiller ?"
+        }
+      ],
+      "hero": {
+        "badge": "4,7 km · Belvédère",
+        "lead": "Depuis l'un des plus beaux balcons du lac du Bourget — la toiture du restaurant du belvédère est en accès libre —, une « balade digestive » de 4,7 km en forêt, par le Mont Corsuet et le hameau de la Chambotte."
+      },
+      "hero_alt": "Panorama sur le lac du Bourget depuis la Chambotte, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Depuis Aix-les-Bains ou Albens (D991b), monter à Saint-Germain-la-Chambotte ; parking du Belvédère au départ.",
+        "public_transport": null
+      },
+      "meta_description": "La boucle de la Chambotte à Entrelacs : 4,7 km depuis l'un des plus beaux belvédères du lac du Bourget, par le Mont Corsuet. Chiens acceptés, non adapté poussettes — la fiche officielle se contredit sur la difficulté, on cite tout.",
+      "meta_title": "Boucle de la Chambotte · belvédère du lac du Bourget",
+      "name": "Boucle de la Chambotte",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Itinéraire",
+          "v": "4,7 km · ~1 h 50 · +269 m · alt. max 820 m · balisage PR jaune et vert"
+        },
+        {
+          "k": "Difficulté",
+          "v": "« Très facile » (bloc itinéraire) / « Facile » (encadré) — même fiche, les deux cités"
+        },
+        {
+          "k": "Départ",
+          "v": "Parking du Belvédère, Saint-Germain-la-Chambotte, 73410 Entrelacs"
+        },
+        {
+          "k": "Accessibilité",
+          "v": "Non adapté aux poussettes · non accessible en fauteuil roulant (fiche OT)"
+        },
+        {
+          "k": "Sécurité",
+          "v": "Retour par la route du belvédère : attention à la circulation"
+        },
+        {
+          "k": "Contact",
+          "v": "OT Aix-les-Bains Riviera des Alpes · 04 79 88 68 00"
+        }
+      ],
+      "schema_amenities": [
+        "Belvédère",
+        "Boucle balisée"
+      ],
+      "when_to_visit": "<p>« Toute l'année, tous les jours », hors période d'enneigement et sous réserve de conditions météo favorables. La vue du belvédère porte sur tout le lac du Bourget, l'abbaye d'Hautecombe en contrebas — le fichier KML de la boucle est téléchargeable sur la fiche officielle.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Uno dei migliori punti di vista su Lac du Bourget e Hautecombe, terrazza sul tetto del ristorante liberamente accessibile.",
+          "tag": "Accesso gratuito",
+          "title": "Il belvedere di Chambotte"
+        },
+        {
+          "description": "4.7 km segnati giallo e verde, in gran parte attraverso la foresta, attraverso l'Haut de Chambotte e La Tailla.",
+          "tag": "1 h 50",
+          "title": "Il loop tramite Mont Corsuet"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Ciclo Chambotte</strong> parte dal parcheggio Belvedere a Saint-Germain-la-Chambotte (Entrelacs): <strong>4.7 km, circa 1 h 50, 269 m di salita</strong>, segnali stradali PR gialli e verdi, fino a 820 m. 'Il Belvedere Chambotte è uno dei migliori punti di vista sopra l'Abbazia Lac du Bourget e Hautecombe (accesso gratuito al tetto del ristorante). Un anello di 4,7 km offre una passeggiata digestiva in gran parte attraverso la foresta, scrive l'ufficio turistico — il belvedere naturale, la Haut de Chambotte, Mont Corsuet, La Tailla e la frazione Chambotte.</p><p>Su difficoltà, lo stesso foglio ufficiale si contraddice — «molto facile» nel suo blocco di rotta, «facile» nella sua casella riassuntiva — e citiamo entrambi. Gli animali sono accettati; lo stony, terreno terra è 'non adatto per passeggini' e il circuito 'non accessibile alla sedia a rotelle'. Al ritorno lungo la strada belvedere, 'mind the traffic'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Gratis",
+        "best_season": null,
+        "commune": "Entrelacs",
+        "dogs": "Accettato",
+        "parking": "Parco auto Belvedere",
+        "stroller": "Non adatto",
+        "type": "Ciclo panoramico",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Il foglio ufficiale stesso esita: «molto facile» nel suo blocco di rotta, «facile» nella sua casella riassuntiva — Citiamo entrambi. Consentire 4.7 km, circa 1 h 50 e 269 m di salita, su pietre e terra.",
+          "q": "Il loop è facile?"
+        },
+        {
+          "a": "«Uno dei migliori punti di vista sull'Abbazia di Lac du Bourget e Hautecombe» — e la terrazza sul tetto del ristorante belvedere è liberamente accessibile.",
+          "q": "Cosa vedi dal belvedere?"
+        },
+        {
+          "a": "No. il foglio afferma 'non adatto per i passeggini' e 'non accessibile alla sedia a rotelle'. Il belvedere stesso, all'inizio, è raggiungibile in auto.",
+          "q": "È passeggino o sedia a rotelle?"
+        },
+        {
+          "a": "Il ritorno segue la strada belvedere: 'mind the traffic', avverte il foglio.",
+          "q": "Qualche sezione da guardare?"
+        }
+      ],
+      "hero": {
+        "badge": "4.7 km · Belvedere",
+        "lead": "Da uno dei migliori balconi sopra Lac du Bourget — la terrazza sul tetto del ristorante belvedere è liberamente accessibile — una passeggiata di 4,7 km attraverso la foresta, via Mont Corsuet e la frazione Chambotte."
+      },
+      "hero_alt": "Panorama su Lac du Bourget dal Chambotte, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Da Aix-les-Bains o Albens (D991b), salire a Saint-Germain-la-Chambotte; Parcheggio Belvedere all'inizio.",
+        "public_transport": null
+      },
+      "meta_description": "Il loop Chambotte a Entrelacs: 4.7 km da uno dei migliori belvedere sopra Lac du Bourget, via Mont Corsuet. Cani accettati, non passeggino-adatti — il foglio ufficiale si contraddice sulla difficoltà, quindi citiamo tutto.",
+      "meta_title": "Chambotte loop · Lac du Bourget belvedere",
+      "name": "Boucle de la Chambotte",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Itinerario",
+          "v": "4.7 km · ~1 h 50 · +269 m · max alt. 820 m · segnalibri PR giallo-verde"
+        },
+        {
+          "k": "Difficoltà",
+          "v": "«Molto facile» (blocco di rotta) / «Easy» (scatola di base) — stesso foglio, entrambi citati"
+        },
+        {
+          "k": "Inizio",
+          "v": "Parcheggio Belvedere, Saint-Germain-la-Chambotte, 73410 Entrelacs"
+        },
+        {
+          "k": "Accessibilità",
+          "v": "Non passeggino-adatto · non accessibile alla sedia a rotelle (telista-ufficio)"
+        },
+        {
+          "k": "Sicurezza",
+          "v": "Ritorno lungo la strada belvedere: mente il traffico"
+        },
+        {
+          "k": "Contatto",
+          "v": "Aix-les-Bains Riviera des Alpes ufficio turistico · +33 4 79 88 68 00"
+        }
+      ],
+      "schema_amenities": [
+        "Belvedere",
+        "Ciclo di riferimento"
+      ],
+      "when_to_visit": "<p>'Tutto l'anno, ogni giorno', fuori incantesimi nevosi e soggetto a tempo equo. La vista del belvedere abbraccia l'intero Lac du Bourget, con l'abbazia di Hautecombe sotto — il file KML del loop può essere scaricato dal foglio ufficiale.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Een van de mooiste uitkijkpunten over Lac du Bourget en Hautecombe, restaurant dakterras vrij toegankelijk.",
+          "tag": "Vrije toegang",
+          "title": "De Chambotte belvedere"
+        },
+        {
+          "description": "4.7 geel-groen gemarkeerde km, grotendeels door bos, via de Haut de Chambotte en La Tailla.",
+          "tag": "1 uur 50",
+          "title": "De lus via Mont Corsuet"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>Chambotte-lus</strong> vertrekt vanaf de parkeerplaats Belvedere op Saint-Germain-la-Chambotte (Entrelacs): <strong>4.7 km, ongeveer 1 uur 50, 269 m klim</strong>, geel-groene PR waymarks, tot 820 m. 'De Chambotte Belvedere is een van de mooiste uitkijkpunten over de Lac du Bourget en Hautecombe Abbey (gratis toegang tot het dak van het restaurant). Een 4,7 km lus biedt een spijsverteringswandeling grotendeels door het bos', schrijft het VVV-kantoor de volledige stap voor stap passeert de natuurlijke belvedere, de Haut de Chambotte, Mont Corsuet, La Tailla en het Chambotte gehucht.</p><p>Bij moeilijkheden is hetzelfde officiële blad in tegenspraak met zichzelf. 'zeer gemakkelijk' in zijn routeblok, 'gemakkelijk' in zijn samenvattingsdoos En we citeren beide. De dieren worden toegelaten; de stenige, aardse grond is 'niet geschikt voor kinderwagens' en het circuit 'niet rolstoeltoegankelijk'. Bij de terugweg langs de Belvedere weg, 'let op het verkeer'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Vrij",
+        "best_season": null,
+        "commune": "Entrelacs",
+        "dogs": "Goedgekeurd",
+        "parking": "Parkeerplaats Belvedere",
+        "stroller": "Niet geschikt",
+        "type": "Panoramalus",
+        "winter_access": null
+      },
+      "faq": [
+        {
+          "a": "Het officiële blad zelf aarzelt: 'zeer gemakkelijk' in zijn routeblok, 'gemakkelijk' in zijn samenvattingsdoos We citeren beide. Laat 4,7 km, ongeveer 1 uur 50 en 269 m klim, op stenen en aarde.",
+          "q": "Is de lus makkelijk?"
+        },
+        {
+          "a": "'Een van de mooiste standpunten over de Lac du Bourget en Hautecombe Abbey' en het dakterras van restaurant Belvedere is vrij toegankelijk.",
+          "q": "Wat zie je aan de belvedere?"
+        },
+        {
+          "a": "Nee: in het blad staat 'niet geschikt voor kinderwagens' en 'niet voor rolstoelgebruikers'. De belvedere zelf, bij het begin, wordt bereikt met de auto.",
+          "q": "Is het kinderwagen- of rolstoelvriendelijk?"
+        },
+        {
+          "a": "De terugweg volgt de belvedere weg: 'Let op het verkeer', waarschuwt het rapport.",
+          "q": "Enige sectie om naar te kijken?"
+        }
+      ],
+      "hero": {
+        "badge": "4,7 km · Belvedere",
+        "lead": "Vanuit een van de mooiste balkons boven Lac du Bourget Het dakterras van het Belvedere restaurant is vrij toegankelijk. een 4,7 km 'verteringswandeling' door bos, via Mont Corsuet en het Chambotte gehucht."
+      },
+      "hero_alt": "Panorama over Lac du Bourget van de Chambotte, Savoie",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "Van Aix-les-Bains of Albens (D991b), klim naar Saint-Germain-la-Chambotte; Parkeerplaats Belvedere bij het begin.",
+        "public_transport": null
+      },
+      "meta_description": "De Chambotte loop op Entrelacs: 4,7 km van één van de mooiste belvederes boven Lac du Bourget, via Mont Corsuet. Honden geaccepteerd, niet kinderwagen-geschikt Het officiële blad spreekt zichzelf tegen over moeilijkheden, dus we citeren het allemaal.",
+      "meta_title": "Chambotte loop · Lac du Bourget belvedere",
+      "name": "Boucle de la Chambotte",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Route",
+          "v": "4,7 km · ~1 uur 50 · +269 m · max alt. 820 m · geelgroene PR-wegwijzers"
+        },
+        {
+          "k": "Moeilijkheid",
+          "v": "\"Zeer eenvoudig\" (routeblok) / \"Easy\" (samenvattingvak)  hetzelfde blad, beide geciteerd"
+        },
+        {
+          "k": "Begin",
+          "v": "Parkeerplaats Belvedere, Saint-Germain-la-Chambotte, 73410 Entrelacs"
+        },
+        {
+          "k": "Toegankelijkheid",
+          "v": "Niet voor kinderwagen geschikt · niet toegankelijk voor rolstoelgebruikers (toeristen-kantoorblad)"
+        },
+        {
+          "k": "Veiligheid",
+          "v": "Terug langs de belvedere weg: Let op het verkeer."
+        },
+        {
+          "k": "Contactpersoon",
+          "v": "Aix-les-Bains Riviera des Alpes VVV · +33 4 79 88 68 00"
+        }
+      ],
+      "schema_amenities": [
+        "Belvedere",
+        "Waymarked loop"
+      ],
+      "when_to_visit": "<p>'Het hele jaar, elke dag', buiten besneeuwde spreuken en onderhevig aan mooi weer. Het uitzicht van de belvedere overspant de hele Lac du Bourget, met de Hautecombe abdij hieronder het KML-bestand van de lus kan worden gedownload van het officiële blad.</p>"
+    }
+  },
+  "latitude": 45.773324,
+  "longitude": 5.874995,
+  "official_site_url": "https://www.aixlesbains-rivieradesalpes.com/equipement/boucle-de-la-chambotte-entrelacs/",
+  "partners": [],
+  "postal_code": "73410",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-18, FR pages only (OT Aix-les-Bains Riviera des Alpes). Boucle de 4,7 km, 1 h 50, +269 m, alt. max 820 m, balisage PR jaune et vert, départ parking du Belvédère (Saint-Germain-la-Chambotte, Entrelacs). « Le Belvédère de la Chambotte est un des plus beaux points de vue sur le Lac du Bourget et l'Abbaye d'Hautecombe (accès libre à la toiture du restaurant). » Difficulté : « Très facile » (bloc itinéraire) vs « Facile » (encadré) — même fiche, contradiction reportée. « Toute l'année… hors période d'enneigement », selon météo. « Animaux acceptés : Oui ». Terrain cailloux/terre, « non adapté aux poussettes » ; « non accessible en fauteuil roulant » → acces_pmr non_accessible. Retour par la route du belvédère : « attention à la circulation ». Pas-à-pas complet + KML sur la fiche.",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "boucle-de-la-chambotte-entrelacs",
+  "sources": [
+    "https://www.aixlesbains-rivieradesalpes.com/equipement/boucle-de-la-chambotte-entrelacs/"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": []
+}

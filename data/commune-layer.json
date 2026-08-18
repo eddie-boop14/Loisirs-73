@@ -1,6 +1,69 @@
 {
   "communes": [
     {
+      "commune": "Aiguebelette-le-Lac",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "The village that gives its name to the emerald lake of Savoie's foothills, with its Port beach and watersport hire.",
+      "intro_fr": "Le village qui donne son nom au lac émeraude de l'avant-pays savoyard, avec sa plage du Port et ses locations nautiques.",
+      "lieux": [
+        {
+          "category": "plage",
+          "slug": "plage-aiguebelette-le-lac",
+          "title_fr": "Plage d'Aiguebelette-le-Lac"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73610",
+      "research_log": "Added with the lacs-plages batch, 2026-08-10.",
+      "slug": "aiguebelette-le-lac",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
+      "commune": "Aix-les-Bains",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "Spa town of the Lac du Bourget, Aix-les-Bains lines a free municipal beach and an aquatic centre along France's largest natural lake.",
+      "intro_fr": "Ville thermale du lac du Bourget, Aix-les-Bains aligne plage municipale gratuite et centre aquatique au bord du plus grand lac naturel de France.",
+      "lieux": [
+        {
+          "category": "plage",
+          "slug": "plage-municipale-aix-les-bains-aqualac",
+          "title_fr": "Plage municipale d'Aix-les-Bains (Aqualac)"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73100",
+      "research_log": "Added with the lacs-plages batch, 2026-08-10.",
+      "slug": "aix-les-bains",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
+      "commune": "Albertville",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "Olympic city of 1992, Albertville carries the Winter Games' legacy in its Halle Olympique and the Tremplin 92 space.",
+      "intro_fr": "Ville olympique de 1992, Albertville porte l'héritage des Jeux d'hiver dans sa Halle Olympique et l'espace Tremplin 92.",
+      "lieux": [
+        {
+          "category": "musee",
+          "slug": "tremplin-92-maison-des-jeux-olympiques-albertville",
+          "title_fr": "Tremplin 92, Montagne et Olympisme"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73200",
+      "research_log": "Added with the musées batch, 2026-08-10.",
+      "slug": "albertville",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
       "commune": "Albiez-Montrond",
       "department": "Savoie",
       "hero_image": null,
@@ -21,6 +84,76 @@
       "stats": {
         "total": 1
       },
+      "verify_flags": []
+    },
+    {
+      "commune": "Argentine",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "A lower-Maurienne village on the banks of the Arc, Argentine is home to the Musée du Félicien and its peasant-life memory.",
+      "intro_fr": "Village de basse Maurienne sur la rive de l'Arc, Argentine abrite le musée du Félicien et sa mémoire paysanne.",
+      "lieux": [
+        {
+          "category": "musee",
+          "slug": "musee-du-felicien-argentine",
+          "title_fr": "Musée du Félicien"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73220",
+      "research_log": [],
+      "slug": "argentine",
+      "stats": {
+        "total": 1
+      },
+      "verify_flags": []
+    },
+    {
+      "commune": "Aussois",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "A Haute Maurienne village below the Vanoise, Aussois guards the Sardinian forts of the Esseillon barrier.",
+      "intro_fr": "Village de Haute Maurienne au pied de la Vanoise, Aussois garde les forts sardes de la barrière de l'Esseillon.",
+      "lieux": [
+        {
+          "category": "chateau",
+          "slug": "fort-victor-emmanuel-aussois",
+          "title_fr": "Fort Victor-Emmanuel"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73500",
+      "research_log": "Added with the châteaux batch, 2026-08-10.",
+      "slug": "aussois",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
+      "commune": "Avrieux",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "In Haute Maurienne, on the Esseillon forts road, Avrieux neighbours the Saint-Benoît waterfall and its chapel.",
+      "intro_fr": "En Haute Maurienne, sur la route des forts de l'Esseillon, Avrieux voisine la cascade de Saint-Benoît et sa chapelle.",
+      "lieux": [
+        {
+          "category": "cascade",
+          "slug": "cascade-de-saint-benoit",
+          "title_fr": "Cascade de Saint-Benoît"
+        },
+        {
+          "category": "chateau",
+          "slug": "redoute-marie-therese-avrieux",
+          "title_fr": "Redoute Marie-Thérèse"
+        }
+      ],
+      "lieux_count": 2,
+      "postal_code": "73500",
+      "research_log": "Added with the cascades batch, 2026-08-10.",
+      "slug": "avrieux",
+      "stats": {},
       "verify_flags": []
     },
     {
@@ -83,6 +216,27 @@
       "verify_flags": []
     },
     {
+      "commune": "Bourdeau",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "A village on the Lac du Bourget's west shore, Bourdeau carries the Dent du Chat's summit on its commune.",
+      "intro_fr": "Village de la rive ouest du lac du Bourget, Bourdeau porte sur sa commune le sommet de la Dent du Chat.",
+      "lieux": [
+        {
+          "category": "sentier",
+          "slug": "dent-du-chat-col-du-chat",
+          "title_fr": "Dent du Chat"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73370",
+      "research_log": "Added with the sentiers batch, 2026-08-10.",
+      "slug": "bourdeau",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
       "centroid": {
         "lat": 45.5531,
         "lon": 6.8418
@@ -110,6 +264,88 @@
       "verify_flags": []
     },
     {
+      "commune": "Bozel",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "A Tarentaise town below the Courchevel resorts, Bozel comes alive in summer around its free swimming lake.",
+      "intro_fr": "Bourg de Tarentaise au pied des stations de Courchevel, Bozel s'anime l'été autour de son plan d'eau de baignade gratuite.",
+      "lieux": [
+        {
+          "category": "domaine",
+          "slug": "plan-d-eau-de-bozel",
+          "title_fr": "Plan d'eau de Bozel"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73350",
+      "research_log": [],
+      "slug": "bozel",
+      "stats": {
+        "total": 1
+      },
+      "verify_flags": []
+    },
+    {
+      "commune": "Brison-Saint-Innocent",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "Vine-clad slopes on the shore of Lac du Bourget just north of Aix-les-Bains, with the Pointe de l'Ardre beach.",
+      "intro_fr": "Coteaux de vignes au bord du lac du Bourget, juste au nord d'Aix-les-Bains, avec la plage de la Pointe de l'Ardre.",
+      "lieux": [
+        {
+          "category": "plage",
+          "slug": "plage-de-la-pointe-de-l-ardre-brison-saint-innocent",
+          "title_fr": "Plage de la Pointe de l'Ardre"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73100",
+      "research_log": [],
+      "slug": "brison-saint-innocent",
+      "stats": {
+        "total": 1
+      },
+      "verify_flags": []
+    },
+    {
+      "commune": "Chambéry",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "Historic capital of the dukes of Savoy, Chambéry keeps their castle, its Sainte-Chapelle and the largest carillon in France.",
+      "intro_fr": "Capitale historique des ducs de Savoie, Chambéry garde leur château, sa Sainte-Chapelle et le plus grand carillon de France.",
+      "lieux": [
+        {
+          "category": "chateau",
+          "slug": "chateau-des-ducs-de-savoie-chambery",
+          "title_fr": "Château des ducs de Savoie"
+        },
+        {
+          "category": "musee",
+          "slug": "musee-savoisien-chambery",
+          "title_fr": "Musée Savoisien"
+        },
+        {
+          "category": "musee",
+          "slug": "musee-des-beaux-arts-chambery",
+          "title_fr": "Musée des Beaux-Arts de Chambéry"
+        },
+        {
+          "category": "musee",
+          "slug": "les-charmettes-maison-jean-jacques-rousseau-chambery",
+          "title_fr": "Les Charmettes, maison de Jean-Jacques Rousseau"
+        }
+      ],
+      "lieux_count": 4,
+      "postal_code": "73000",
+      "research_log": "Added with the châteaux batch, 2026-08-10.",
+      "slug": "chambery",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
       "centroid": {
         "lat": 45.4562,
         "lon": 6.6931
@@ -131,6 +367,96 @@
       "postal_code": "73350",
       "research_log": [],
       "slug": "champagny-en-vanoise",
+      "stats": {
+        "total": 1
+      },
+      "verify_flags": []
+    },
+    {
+      "commune": "Chanaz",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "The little port of the Canal de Savières, where the ViaRhôna touches Savoie, between the Rhône and Lac du Bourget.",
+      "intro_fr": "Le petit port du canal de Savières, où la ViaRhôna touche la Savoie, entre Rhône et lac du Bourget.",
+      "lieux": [
+        {
+          "category": "voie-verte",
+          "slug": "viarhona-en-chautagne",
+          "title_fr": "ViaRhôna en Chautagne (EV17)"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73310",
+      "research_log": [],
+      "slug": "chanaz",
+      "stats": {
+        "total": 1
+      },
+      "verify_flags": []
+    },
+    {
+      "commune": "Chignin",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "A winegrowing village between Chambéry and Montmélian, Chignin raises its seven medieval towers amid the vines.",
+      "intro_fr": "Village vigneron entre Chambéry et Montmélian, Chignin dresse ses sept tours médiévales au milieu des vignes.",
+      "lieux": [
+        {
+          "category": "chateau",
+          "slug": "tours-de-chignin",
+          "title_fr": "Tours de Chignin"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73800",
+      "research_log": "Added with the châteaux batch, 2026-08-10.",
+      "slug": "chignin",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
+      "commune": "Chindrieux",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "At the north of Lac du Bourget, in the Chautagne, Chindrieux opens its Châtillon beach onto the lake's calmest shore.",
+      "intro_fr": "Au nord du lac du Bourget, en Chautagne, Chindrieux ouvre sa plage de Châtillon sur la rive la plus calme du lac.",
+      "lieux": [
+        {
+          "category": "plage",
+          "slug": "plage-de-chatillon-chindrieux",
+          "title_fr": "Plage de Châtillon"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73310",
+      "research_log": [],
+      "slug": "chindrieux",
+      "stats": {
+        "total": 1
+      },
+      "verify_flags": []
+    },
+    {
+      "commune": "Conjux",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "A village on Lac du Bourget's wild shore, at its far north, with the municipal La Chatière beach.",
+      "intro_fr": "Village de la rive sauvage du lac du Bourget, tout au nord, avec sa plage municipale de la Chatière.",
+      "lieux": [
+        {
+          "category": "plage",
+          "slug": "plage-de-conjux-la-chatiere",
+          "title_fr": "Plage de Conjux"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73310",
+      "research_log": [],
+      "slug": "conjux",
       "stats": {
         "total": 1
       },
@@ -169,6 +495,203 @@
       "verify_flags": []
     },
     {
+      "commune": "Crest-Voland",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "A balcony village of the Val d'Arly facing the Aravis, gateway to the Arpelières trail and the Saisies peat bog.",
+      "intro_fr": "Village-balcon du Val d'Arly face aux Aravis, porte du sentier des Arpelières et de la tourbière des Saisies.",
+      "lieux": [
+        {
+          "category": "sentier",
+          "slug": "sentier-des-arpelieres-crest-voland",
+          "title_fr": "Sentier des Arpelières"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73590",
+      "research_log": [],
+      "slug": "crest-voland",
+      "stats": {
+        "total": 1
+      },
+      "verify_flags": []
+    },
+    {
+      "commune": "Détrier",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "A Val Gelon commune on the border of Savoie and Isère, set around Lac Saint-Clair and its accessible lake loop.",
+      "intro_fr": "Commune du val Gelon, aux confins de la Savoie et de l'Isère, autour du lac Saint-Clair et de son tour accessible.",
+      "lieux": [
+        {
+          "category": "lac",
+          "slug": "lac-saint-clair-detrier",
+          "title_fr": "Lac Saint-Clair"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73110",
+      "research_log": [],
+      "slug": "detrier",
+      "stats": {
+        "total": 1
+      },
+      "verify_flags": []
+    },
+    {
+      "commune": "Entrelacs",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "A new commune of the Albanais whose Chambotte belvedere overlooks the whole of Lac du Bourget.",
+      "intro_fr": "Commune nouvelle de l'Albanais dont le belvédère de la Chambotte domine tout le lac du Bourget.",
+      "lieux": [
+        {
+          "category": "sentier",
+          "slug": "boucle-de-la-chambotte-entrelacs",
+          "title_fr": "Boucle de la Chambotte"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73410",
+      "research_log": [],
+      "slug": "entrelacs",
+      "stats": {
+        "total": 1
+      },
+      "verify_flags": []
+    },
+    {
+      "commune": "Entremont-le-Vieux",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "In the heart of the Chartreuse's Entremonts, Entremont-le-Vieux keeps the memory of the Balme à Collomb's cave bear.",
+      "intro_fr": "Au cœur des Entremonts en Chartreuse, Entremont-le-Vieux garde la mémoire de l'ours des cavernes de la Balme à Collomb.",
+      "lieux": [
+        {
+          "category": "musee",
+          "slug": "musee-ours-des-cavernes-entremont-le-vieux",
+          "title_fr": "Musée de l'Ours des Cavernes"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73670",
+      "research_log": "Added with the musées batch, 2026-08-10.",
+      "slug": "entremont-le-vieux",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
+      "commune": "Grand-Aigueblanche",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "In the Tarentaise below Valmorel, Grand-Aigueblanche strings the fifty falls of the Morel along its torrent-correction trail.",
+      "intro_fr": "En Tarentaise, sous Valmorel, Grand-Aigueblanche aligne les cinquante cascades du Morel le long de son sentier de correction torrentielle.",
+      "lieux": [
+        {
+          "category": "cascade",
+          "slug": "cascade-du-morel",
+          "title_fr": "Cascade du Morel"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73260",
+      "research_log": "Added with the cascades batch, 2026-08-10.",
+      "slug": "grand-aigueblanche",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
+      "commune": "Grésy-sur-Aix",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "At the gates of Aix-les-Bains, Grésy-sur-Aix reopened its Sierroz gorges in 2021 — cantilevered walkways to the Grésy waterfall.",
+      "intro_fr": "Aux portes d'Aix-les-Bains, Grésy-sur-Aix rouvre depuis 2021 ses gorges du Sierroz, passerelles en encorbellement jusqu'à la cascade de Grésy.",
+      "lieux": [
+        {
+          "category": "cascade",
+          "slug": "gorges-du-sierroz-cascade-de-gresy",
+          "title_fr": "Gorges du Sierroz et cascade de Grésy"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73100",
+      "research_log": "Added with the cascades batch, 2026-08-10.",
+      "slug": "gresy-sur-aix",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
+      "commune": "Grésy-sur-Isère",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "In the Combe de Savoie, Grésy-sur-Isère keeps a Pavillon Bleu laureate leisure base by the Isère.",
+      "intro_fr": "En Combe de Savoie, Grésy-sur-Isère tient une base de loisirs lauréate Pavillon Bleu au bord de l'Isère.",
+      "lieux": [
+        {
+          "category": "lac",
+          "slug": "base-de-loisirs-gresy-sur-isere",
+          "title_fr": "Base de loisirs de Grésy-sur-Isère"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73460",
+      "research_log": "Added with the lacs-plages batch, 2026-08-10.",
+      "slug": "gresy-sur-isere",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
+      "commune": "Grignon",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "At Albertville's gates, on the Isère, Grignon offers free swimming at the Glières lake.",
+      "intro_fr": "Aux portes d'Albertville, sur l'Isère, Grignon offre la baignade gratuite du plan d'eau des Glières.",
+      "lieux": [
+        {
+          "category": "domaine",
+          "slug": "base-de-loisirs-des-glieres-grignon",
+          "title_fr": "Base de loisirs des Glières"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73200",
+      "research_log": [],
+      "slug": "grignon",
+      "stats": {
+        "total": 1
+      },
+      "verify_flags": []
+    },
+    {
+      "commune": "Hautecour",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "On the sunny slope above Moûtiers, Hautecour renews its artistic trail's land art every spring.",
+      "intro_fr": "Sur l'adret au-dessus de Moûtiers, Hautecour renouvelle chaque printemps le Land'Art de son sentier artistique.",
+      "lieux": [
+        {
+          "category": "sentier",
+          "slug": "sentier-artistique-hautecour",
+          "title_fr": "Sentier artistique de Hautecour"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73600",
+      "research_log": "Added with the sentiers batch, 2026-08-10.",
+      "slug": "hautecour",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
       "commune": "Hauteluce",
       "department": "Savoie",
       "hero_image": null,
@@ -193,6 +716,29 @@
       "slug": "hauteluce",
       "stats": {
         "total": 2
+      },
+      "verify_flags": []
+    },
+    {
+      "commune": "Jacob-Bellecombette",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "A university commune at Chambéry's gates, where the Nant du Pontet leaps in three waterfalls down the Chartreuse foothills.",
+      "intro_fr": "Commune universitaire aux portes de Chambéry, où le Nant du Pontet saute en trois cascades sur les contreforts de la Chartreuse.",
+      "lieux": [
+        {
+          "category": "cascade",
+          "slug": "cascades-de-jacob-bellecombette",
+          "title_fr": "Cascades de Jacob et la Grobelle"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73000",
+      "research_log": [],
+      "slug": "jacob-bellecombette",
+      "stats": {
+        "total": 1
       },
       "verify_flags": []
     },
@@ -226,6 +772,97 @@
       "stats": {
         "total": 2
       },
+      "verify_flags": []
+    },
+    {
+      "commune": "La Thuile",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "A village of the lower Bauges around its small reed-fringed mountain lake at 874 m.",
+      "intro_fr": "Village des Bauges piémontaises autour de son petit lac de montagne à 874 m, bordé de roseaux.",
+      "lieux": [
+        {
+          "category": "lac",
+          "slug": "lac-de-la-thuile",
+          "title_fr": "Lac de La Thuile"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73190",
+      "research_log": [],
+      "slug": "la-thuile",
+      "stats": {
+        "total": 1
+      },
+      "verify_flags": []
+    },
+    {
+      "commune": "Le Bourget-du-Lac",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "On the southern shore of France's largest natural lake, Le Bourget-du-Lac watches over the ruins of the château de Thomas II.",
+      "intro_fr": "Sur la rive sud du plus grand lac naturel de France, Le Bourget-du-Lac veille sur les ruines du château de Thomas II.",
+      "lieux": [
+        {
+          "category": "chateau",
+          "slug": "chateau-de-thomas-ii-le-bourget-du-lac",
+          "title_fr": "Château de Thomas II"
+        },
+        {
+          "category": "plage",
+          "slug": "plage-municipale-le-bourget-du-lac",
+          "title_fr": "Plage municipale du Bourget-du-Lac"
+        }
+      ],
+      "lieux_count": 2,
+      "postal_code": "73370",
+      "research_log": "Added with the châteaux batch, 2026-08-10.",
+      "slug": "le-bourget-du-lac",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
+      "commune": "Le Châtelard",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "The Bauges' main village, Le Châtelard leads to the Pissieu tufa waterfall, fed by the Tanne du Cochon chasm.",
+      "intro_fr": "Chef-lieu des Bauges, Le Châtelard mène à la cascade-tufière du Pissieu, alimentée par le gouffre de la Tanne du Cochon.",
+      "lieux": [
+        {
+          "category": "cascade",
+          "slug": "cascade-du-pissieu",
+          "title_fr": "Cascade du Pissieu"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73630",
+      "research_log": "Added with the cascades batch, 2026-08-10.",
+      "slug": "le-chatelard",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
+      "commune": "Lépin-le-Lac",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "From its lakeside station at the Lac d'Aiguebelette starts the walking circuit, three days of ridges and shores.",
+      "intro_fr": "De sa gare au bord du lac d'Aiguebelette part le tour du lac à pied, trois jours de crêtes et de rives.",
+      "lieux": [
+        {
+          "category": "sentier",
+          "slug": "tour-du-lac-aiguebelette",
+          "title_fr": "Tour du lac d'Aiguebelette à pied"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73610",
+      "research_log": "Added with the sentiers batch, 2026-08-10.",
+      "slug": "lepin-le-lac",
+      "stats": {},
       "verify_flags": []
     },
     {
@@ -288,6 +925,143 @@
       "verify_flags": []
     },
     {
+      "commune": "Les Déserts",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "Home of La Féclaz in Savoie Grand Revard, Les Déserts leads from the Plateau Sud to the croix du Nivolet.",
+      "intro_fr": "Commune de La Féclaz en Savoie Grand Revard, Les Déserts mène du Plateau Sud à la croix du Nivolet.",
+      "lieux": [
+        {
+          "category": "sentier",
+          "slug": "croix-du-nivolet-la-feclaz",
+          "title_fr": "Croix du Nivolet depuis le Plateau Sud"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73230",
+      "research_log": "Added with the sentiers batch, 2026-08-10.",
+      "slug": "les-deserts",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
+      "commune": "Lescheraines",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "In the heart of the Bauges, on the Chéran, Lescheraines lays out its leisure base with two lakes.",
+      "intro_fr": "Au cœur des Bauges, sur le Chéran, Lescheraines déploie sa base de loisirs aux deux plans d'eau.",
+      "lieux": [
+        {
+          "category": "domaine",
+          "slug": "base-de-loisirs-les-iles-du-cheran",
+          "title_fr": "Base de loisirs des Îles du Chéran"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73340",
+      "research_log": [],
+      "slug": "lescheraines",
+      "stats": {
+        "total": 1
+      },
+      "verify_flags": []
+    },
+    {
+      "commune": "Mercury",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "Above Albertville, Mercury carries the fort de Tamié and its belvederes over the Combe de Savoie.",
+      "intro_fr": "Au-dessus d'Albertville, Mercury porte le fort de Tamié et ses belvédères sur la combe de Savoie.",
+      "lieux": [
+        {
+          "category": "chateau",
+          "slug": "fort-de-tamie-mercury",
+          "title_fr": "Fort de Tamié"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73200",
+      "research_log": "Added with the châteaux batch, 2026-08-10.",
+      "slug": "mercury",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
+      "commune": "Modane",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "Gateway to Haute Maurienne Vanoise, Modane opens the chemin du Petit Bonheur running village to village towards Bonneval-sur-Arc.",
+      "intro_fr": "Porte de la Haute Maurienne Vanoise, Modane ouvre le chemin du Petit Bonheur qui file de village en village vers Bonneval-sur-Arc.",
+      "lieux": [
+        {
+          "category": "sentier",
+          "slug": "chemin-du-petit-bonheur",
+          "title_fr": "Chemin du Petit Bonheur"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73500",
+      "research_log": "Added with the sentiers batch, 2026-08-10.",
+      "slug": "modane",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
+      "commune": "Montmélian",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "A former stronghold at the foot of its rock, in the heart of the Savoie vineyards and their wine museum.",
+      "intro_fr": "Ancienne place forte au pied de son rocher, au cœur du vignoble de Savoie et de son musée de la vigne et du vin.",
+      "lieux": [
+        {
+          "category": "musee",
+          "slug": "musee-de-la-vigne-et-du-vin-de-savoie-montmelian",
+          "title_fr": "Musée de la vigne et du vin de Savoie"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73800",
+      "research_log": [],
+      "slug": "montmelian",
+      "stats": {
+        "total": 1
+      },
+      "verify_flags": []
+    },
+    {
+      "commune": "Nances",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "At the northern entrance to Lac d'Aiguebelette, Nances hosts the Maison du Lac, start of the greenway and the lake loop.",
+      "intro_fr": "À l'entrée nord du lac d'Aiguebelette, Nances accueille la Maison du Lac, départ de la voie verte et du tour du lac.",
+      "lieux": [
+        {
+          "category": "lac",
+          "slug": "lac-d-aiguebelette",
+          "title_fr": "Lac d'Aiguebelette"
+        },
+        {
+          "category": "voie-verte",
+          "slug": "voie-verte-du-lac-d-aiguebelette",
+          "title_fr": "Voie verte du lac d'Aiguebelette"
+        }
+      ],
+      "lieux_count": 2,
+      "postal_code": "73470",
+      "research_log": [],
+      "slug": "nances",
+      "stats": {
+        "total": 2
+      },
+      "verify_flags": []
+    },
+    {
       "commune": "Orelle",
       "department": "Savoie",
       "hero_image": null,
@@ -338,6 +1112,50 @@
       "verify_flags": []
     },
     {
+      "commune": "Planay",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "A Bozel-valley commune stepping up towards Pralognan, beneath the protected Vuzelle waterfall.",
+      "intro_fr": "Commune de la vallée de Bozel étagée vers Pralognan, sous la cascade classée de la Vuzelle.",
+      "lieux": [
+        {
+          "category": "cascade",
+          "slug": "cascade-de-la-vuzelle-planay",
+          "title_fr": "Cascade de la Vuzelle"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73350",
+      "research_log": [],
+      "slug": "planay",
+      "stats": {
+        "total": 1
+      },
+      "verify_flags": []
+    },
+    {
+      "commune": "Porte-de-Savoie",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "At Les Marches, below the Granier's cliff, Porte-de-Savoie keeps the Lac Saint-André and its loop through the vines.",
+      "intro_fr": "Aux Marches, sous l'abrupt du Granier, Porte-de-Savoie garde le lac Saint-André et son tour dans les vignes.",
+      "lieux": [
+        {
+          "category": "lac",
+          "slug": "lac-saint-andre-porte-de-savoie",
+          "title_fr": "Lac Saint-André"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73800",
+      "research_log": "Added with the lacs-plages batch, 2026-08-10.",
+      "slug": "porte-de-savoie",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
       "centroid": {
         "lat": 45.3863,
         "lon": 6.7302
@@ -364,6 +1182,73 @@
       "postal_code": "73710",
       "research_log": [],
       "slug": "pralognan-la-vanoise",
+      "stats": {
+        "total": 1
+      },
+      "verify_flags": []
+    },
+    {
+      "commune": "Saint-Alban-d'Hurtières",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "A lower-Maurienne village whose Verney lake pairs summer swimming with a Natura 2000 plain.",
+      "intro_fr": "Village de basse Maurienne dont le plan d'eau du Verney marie baignade d'été et plaine Natura 2000.",
+      "lieux": [
+        {
+          "category": "lac",
+          "slug": "lac-des-hurtieres",
+          "title_fr": "Lac des Hurtières"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73220",
+      "research_log": [],
+      "slug": "saint-alban-d-hurtieres",
+      "stats": {
+        "total": 1
+      },
+      "verify_flags": []
+    },
+    {
+      "commune": "Saint-Alban-de-Montbel",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "On the Lac d'Aiguebelette's west shore, Saint-Alban-de-Montbel opens the Sougey leisure base and its supervised beach.",
+      "intro_fr": "Sur la rive ouest du lac d'Aiguebelette, Saint-Alban-de-Montbel ouvre la base de loisirs du Sougey et sa plage surveillée.",
+      "lieux": [
+        {
+          "category": "plage",
+          "slug": "plage-base-de-loisirs-du-sougey",
+          "title_fr": "Plage du Sougey"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73610",
+      "research_log": "Added with the lacs-plages batch, 2026-08-10.",
+      "slug": "saint-alban-de-montbel",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
+      "commune": "Saint-Cassin",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "A village on the Chartreuse foothills south of Chambéry, known for the waterfall admired from Rousseau to George Sand.",
+      "intro_fr": "Village des contreforts de la Chartreuse au sud de Chambéry, connu pour sa cascade admirée de Rousseau à George Sand.",
+      "lieux": [
+        {
+          "category": "cascade",
+          "slug": "cascade-de-saint-cassin",
+          "title_fr": "Cascade de Saint-Cassin"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73160",
+      "research_log": [],
+      "slug": "saint-cassin",
       "stats": {
         "total": 1
       },
@@ -424,6 +1309,78 @@
       "verify_flags": []
     },
     {
+      "commune": "Saint-Georges-d'Hurtières",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "Old mining country of the lower Maurienne, where the Grand Filon opens Savoie's largest iron mine to visitors.",
+      "intro_fr": "Ancien pays minier de basse Maurienne, où le Grand Filon fait visiter la plus grande mine de fer de Savoie.",
+      "lieux": [
+        {
+          "category": "musee",
+          "slug": "le-grand-filon-musee-du-fer",
+          "title_fr": "Le Grand Filon, musée du fer"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73220",
+      "research_log": [],
+      "slug": "saint-georges-d-hurtieres",
+      "stats": {
+        "total": 1
+      },
+      "verify_flags": []
+    },
+    {
+      "commune": "Saint-Jean-d'Arvey",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "A Bauges balcony above Chambéry, Saint-Jean-d'Arvey opens onto the great Doria waterfall and its viewpoint.",
+      "intro_fr": "Balcon des Bauges au-dessus de Chambéry, Saint-Jean-d'Arvey donne accès à la grande cascade de la Doria et son belvédère.",
+      "lieux": [
+        {
+          "category": "cascade",
+          "slug": "grande-cascade-de-la-doria",
+          "title_fr": "Grande cascade de la Doria"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73230",
+      "research_log": "Added with the cascades batch, 2026-08-10.",
+      "slug": "saint-jean-d-arvey",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
+      "commune": "Saint-Jean-de-Chevelu",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "Two glacial lakes at the foot of the Dent du Chat, between the Jongieux vineyards and the Col du Chat.",
+      "intro_fr": "Deux lacs glaciaires au pied de la Dent du Chat, entre vignoble de Jongieux et col du Chat.",
+      "lieux": [
+        {
+          "category": "lac",
+          "slug": "lacs-de-saint-jean-de-chevelu",
+          "title_fr": "Lacs de Saint-Jean-de-Chevelu"
+        },
+        {
+          "category": "plage",
+          "slug": "plage-du-lac-de-saint-jean-de-chevelu",
+          "title_fr": "Plage du lac de Saint-Jean-de-Chevelu"
+        }
+      ],
+      "lieux_count": 2,
+      "postal_code": "73170",
+      "research_log": [],
+      "slug": "saint-jean-de-chevelu",
+      "stats": {
+        "total": 2
+      },
+      "verify_flags": []
+    },
+    {
       "centroid": {
         "lat": 45.2794,
         "lon": 6.3466
@@ -456,6 +1413,120 @@
       "verify_flags": []
     },
     {
+      "commune": "Saint-Michel-de-Maurienne",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "Gateway town of the industrial Maurienne, Saint-Michel-de-Maurienne tells a century of the valley's aluminium at the Espace Alu.",
+      "intro_fr": "Ville-porte de la Maurienne industrielle, Saint-Michel-de-Maurienne raconte à l'Espace Alu un siècle d'aluminium dans la vallée.",
+      "lieux": [
+        {
+          "category": "musee",
+          "slug": "espace-alu-saint-michel-de-maurienne",
+          "title_fr": "Espace Alu"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73140",
+      "research_log": "Added with the musées batch, 2026-08-10.",
+      "slug": "saint-michel-de-maurienne",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
+      "commune": "Saint-Pierre-d'Albigny",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "On the Combe de Savoie's balcony, Saint-Pierre-d'Albigny carries the Miolans fortress, the dukes' state prison.",
+      "intro_fr": "Au balcon de la Combe de Savoie, Saint-Pierre-d'Albigny porte la forteresse de Miolans, prison d'État des ducs.",
+      "lieux": [
+        {
+          "category": "chateau",
+          "slug": "chateau-de-miolans-saint-pierre-d-albigny",
+          "title_fr": "Château de Miolans"
+        },
+        {
+          "category": "lac",
+          "slug": "lac-de-carouge-saint-pierre-d-albigny",
+          "title_fr": "Lac de Carouge"
+        }
+      ],
+      "lieux_count": 2,
+      "postal_code": "73250",
+      "research_log": "Added with the châteaux batch, 2026-08-10.",
+      "slug": "saint-pierre-d-albigny",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
+      "commune": "Saint-Pierre-d'Entremont",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "At the gates of the Savoie Chartreuse, Saint-Pierre-d'Entremont guards the Cirque de Saint-Même and the four falls of the Guiers Vif.",
+      "intro_fr": "Aux portes de la Chartreuse savoyarde, Saint-Pierre-d'Entremont garde le cirque de Saint-Même et les quatre cascades du Guiers Vif.",
+      "lieux": [
+        {
+          "category": "cascade",
+          "slug": "cirque-de-saint-meme",
+          "title_fr": "Cirque de Saint-Même"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73670",
+      "research_log": "Added with the cascades batch, 2026-08-10.",
+      "slug": "saint-pierre-d-entremont",
+      "stats": {},
+      "verify_flags": []
+    },
+    {
+      "commune": "Saint-Pierre-de-Curtille",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "On Lac du Bourget's wild shore, the commune of the royal abbey of Hautecombe, set at the water's edge.",
+      "intro_fr": "Sur la rive sauvage du lac du Bourget, la commune de l'abbaye royale d'Hautecombe, posée au bord de l'eau.",
+      "lieux": [
+        {
+          "category": "chateau",
+          "slug": "abbaye-royale-d-hautecombe",
+          "title_fr": "Abbaye d'Hautecombe"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73310",
+      "research_log": [],
+      "slug": "saint-pierre-de-curtille",
+      "stats": {
+        "total": 1
+      },
+      "verify_flags": []
+    },
+    {
+      "commune": "Saint-Rémy-de-Maurienne",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "In the lower Maurienne, Saint-Rémy lays out the Lac Bleu leisure base, between swimming lake and pool.",
+      "intro_fr": "En basse Maurienne, Saint-Rémy déploie la base de loisirs du Lac Bleu, entre lac de baignade et piscine.",
+      "lieux": [
+        {
+          "category": "domaine",
+          "slug": "base-de-loisirs-du-lac-bleu",
+          "title_fr": "Base de loisirs du Lac Bleu"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73660",
+      "research_log": [],
+      "slug": "saint-remy-de-maurienne",
+      "stats": {
+        "total": 1
+      },
+      "verify_flags": []
+    },
+    {
       "centroid": {
         "lat": 45.2275,
         "lon": 6.2035
@@ -477,6 +1548,29 @@
       "postal_code": "73530",
       "research_log": [],
       "slug": "saint-sorlin-d-arves",
+      "stats": {
+        "total": 1
+      },
+      "verify_flags": []
+    },
+    {
+      "commune": "Sainte-Hélène-du-Lac",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "A Combe de Savoie village around its wild-banked natural lake, an anglers' ground.",
+      "intro_fr": "Village de la combe de Savoie autour de son lac naturel aux berges sauvages, terrain des pêcheurs.",
+      "lieux": [
+        {
+          "category": "lac",
+          "slug": "lac-de-sainte-helene",
+          "title_fr": "Lac de Sainte-Hélène"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73800",
+      "research_log": [],
+      "slug": "sainte-helene-du-lac",
       "stats": {
         "total": 1
       },
@@ -535,6 +1629,27 @@
       "stats": {
         "total": 2
       },
+      "verify_flags": []
+    },
+    {
+      "commune": "Tresserve",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "Between Aix-les-Bains and the lake, Tresserve opens the Lido beach and the water-level lakeside path.",
+      "intro_fr": "Entre Aix-les-Bains et le lac, Tresserve ouvre la plage du Lido et le chemin lacustre à fleur d'eau.",
+      "lieux": [
+        {
+          "category": "sentier",
+          "slug": "chemin-lacustre-lac-du-bourget",
+          "title_fr": "Chemin lacustre du lac du Bourget"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73100",
+      "research_log": "Added with the sentiers batch, 2026-08-10.",
+      "slug": "tresserve",
+      "stats": {},
       "verify_flags": []
     },
     {
@@ -625,579 +1740,49 @@
       "verify_flags": []
     },
     {
-      "commune": "Saint-Pierre-d'Entremont",
+      "commune": "Villard-Sallet",
       "department": "Savoie",
       "hero_image": null,
       "hero_strategy": null,
-      "intro_en": "At the gates of the Savoie Chartreuse, Saint-Pierre-d'Entremont guards the Cirque de Saint-Même and the four falls of the Guiers Vif.",
-      "intro_fr": "Aux portes de la Chartreuse savoyarde, Saint-Pierre-d'Entremont garde le cirque de Saint-Même et les quatre cascades du Guiers Vif.",
-      "lieux": [
-        {
-          "category": "cascade",
-          "slug": "cirque-de-saint-meme",
-          "title_fr": "Cirque de Saint-Même"
-        }
-      ],
-      "lieux_count": 1,
-      "postal_code": "73670",
-      "research_log": "Added with the cascades batch, 2026-08-10.",
-      "slug": "saint-pierre-d-entremont",
-      "stats": {},
-      "verify_flags": []
-    },
-    {
-      "commune": "Grand-Aigueblanche",
-      "department": "Savoie",
-      "hero_image": null,
-      "hero_strategy": null,
-      "intro_en": "In the Tarentaise below Valmorel, Grand-Aigueblanche strings the fifty falls of the Morel along its torrent-correction trail.",
-      "intro_fr": "En Tarentaise, sous Valmorel, Grand-Aigueblanche aligne les cinquante cascades du Morel le long de son sentier de correction torrentielle.",
-      "lieux": [
-        {
-          "category": "cascade",
-          "slug": "cascade-du-morel",
-          "title_fr": "Cascade du Morel"
-        }
-      ],
-      "lieux_count": 1,
-      "postal_code": "73260",
-      "research_log": "Added with the cascades batch, 2026-08-10.",
-      "slug": "grand-aigueblanche",
-      "stats": {},
-      "verify_flags": []
-    },
-    {
-      "commune": "Grésy-sur-Aix",
-      "department": "Savoie",
-      "hero_image": null,
-      "hero_strategy": null,
-      "intro_en": "At the gates of Aix-les-Bains, Grésy-sur-Aix reopened its Sierroz gorges in 2021 — cantilevered walkways to the Grésy waterfall.",
-      "intro_fr": "Aux portes d'Aix-les-Bains, Grésy-sur-Aix rouvre depuis 2021 ses gorges du Sierroz, passerelles en encorbellement jusqu'à la cascade de Grésy.",
-      "lieux": [
-        {
-          "category": "cascade",
-          "slug": "gorges-du-sierroz-cascade-de-gresy",
-          "title_fr": "Gorges du Sierroz et cascade de Grésy"
-        }
-      ],
-      "lieux_count": 1,
-      "postal_code": "73100",
-      "research_log": "Added with the cascades batch, 2026-08-10.",
-      "slug": "gresy-sur-aix",
-      "stats": {},
-      "verify_flags": []
-    },
-    {
-      "commune": "Le Châtelard",
-      "department": "Savoie",
-      "hero_image": null,
-      "hero_strategy": null,
-      "intro_en": "The Bauges' main village, Le Châtelard leads to the Pissieu tufa waterfall, fed by the Tanne du Cochon chasm.",
-      "intro_fr": "Chef-lieu des Bauges, Le Châtelard mène à la cascade-tufière du Pissieu, alimentée par le gouffre de la Tanne du Cochon.",
-      "lieux": [
-        {
-          "category": "cascade",
-          "slug": "cascade-du-pissieu",
-          "title_fr": "Cascade du Pissieu"
-        }
-      ],
-      "lieux_count": 1,
-      "postal_code": "73630",
-      "research_log": "Added with the cascades batch, 2026-08-10.",
-      "slug": "le-chatelard",
-      "stats": {},
-      "verify_flags": []
-    },
-    {
-      "commune": "Avrieux",
-      "department": "Savoie",
-      "hero_image": null,
-      "hero_strategy": null,
-      "intro_en": "In Haute Maurienne, on the Esseillon forts road, Avrieux neighbours the Saint-Benoît waterfall and its chapel.",
-      "intro_fr": "En Haute Maurienne, sur la route des forts de l'Esseillon, Avrieux voisine la cascade de Saint-Benoît et sa chapelle.",
-      "lieux": [
-        {
-          "category": "cascade",
-          "slug": "cascade-de-saint-benoit",
-          "title_fr": "Cascade de Saint-Benoît"
-        },
-        {
-          "category": "chateau",
-          "slug": "redoute-marie-therese-avrieux",
-          "title_fr": "Redoute Marie-Thérèse"
-        }
-      ],
-      "lieux_count": 2,
-      "postal_code": "73500",
-      "research_log": "Added with the cascades batch, 2026-08-10.",
-      "slug": "avrieux",
-      "stats": {},
-      "verify_flags": []
-    },
-    {
-      "commune": "Saint-Jean-d'Arvey",
-      "department": "Savoie",
-      "hero_image": null,
-      "hero_strategy": null,
-      "intro_en": "A Bauges balcony above Chambéry, Saint-Jean-d'Arvey opens onto the great Doria waterfall and its viewpoint.",
-      "intro_fr": "Balcon des Bauges au-dessus de Chambéry, Saint-Jean-d'Arvey donne accès à la grande cascade de la Doria et son belvédère.",
-      "lieux": [
-        {
-          "category": "cascade",
-          "slug": "grande-cascade-de-la-doria",
-          "title_fr": "Grande cascade de la Doria"
-        }
-      ],
-      "lieux_count": 1,
-      "postal_code": "73230",
-      "research_log": "Added with the cascades batch, 2026-08-10.",
-      "slug": "saint-jean-d-arvey",
-      "stats": {},
-      "verify_flags": []
-    },
-    {
-      "commune": "Chambéry",
-      "department": "Savoie",
-      "hero_image": null,
-      "hero_strategy": null,
-      "intro_en": "Historic capital of the dukes of Savoy, Chambéry keeps their castle, its Sainte-Chapelle and the largest carillon in France.",
-      "intro_fr": "Capitale historique des ducs de Savoie, Chambéry garde leur château, sa Sainte-Chapelle et le plus grand carillon de France.",
+      "intro_en": "A small Val Gelon village beneath the medieval ruins of the Montmayeur towers.",
+      "intro_fr": "Petit village du val Gelon sous les ruines médiévales des tours de Montmayeur.",
       "lieux": [
         {
           "category": "chateau",
-          "slug": "chateau-des-ducs-de-savoie-chambery",
-          "title_fr": "Château des ducs de Savoie"
-        },
-        {
-          "category": "musee",
-          "slug": "musee-savoisien-chambery",
-          "title_fr": "Musée Savoisien"
-        },
-        {
-          "category": "musee",
-          "slug": "musee-des-beaux-arts-chambery",
-          "title_fr": "Musée des Beaux-Arts de Chambéry"
-        },
-        {
-          "category": "musee",
-          "slug": "les-charmettes-maison-jean-jacques-rousseau-chambery",
-          "title_fr": "Les Charmettes, maison de Jean-Jacques Rousseau"
-        }
-      ],
-      "lieux_count": 4,
-      "postal_code": "73000",
-      "research_log": "Added with the châteaux batch, 2026-08-10.",
-      "slug": "chambery",
-      "stats": {},
-      "verify_flags": []
-    },
-    {
-      "commune": "Saint-Pierre-d'Albigny",
-      "department": "Savoie",
-      "hero_image": null,
-      "hero_strategy": null,
-      "intro_en": "On the Combe de Savoie's balcony, Saint-Pierre-d'Albigny carries the Miolans fortress, the dukes' state prison.",
-      "intro_fr": "Au balcon de la Combe de Savoie, Saint-Pierre-d'Albigny porte la forteresse de Miolans, prison d'État des ducs.",
-      "lieux": [
-        {
-          "category": "chateau",
-          "slug": "chateau-de-miolans-saint-pierre-d-albigny",
-          "title_fr": "Château de Miolans"
-        },
-        {
-          "category": "lac",
-          "slug": "lac-de-carouge-saint-pierre-d-albigny",
-          "title_fr": "Lac de Carouge"
-        }
-      ],
-      "lieux_count": 2,
-      "postal_code": "73250",
-      "research_log": "Added with the châteaux batch, 2026-08-10.",
-      "slug": "saint-pierre-d-albigny",
-      "stats": {},
-      "verify_flags": []
-    },
-    {
-      "commune": "Aussois",
-      "department": "Savoie",
-      "hero_image": null,
-      "hero_strategy": null,
-      "intro_en": "A Haute Maurienne village below the Vanoise, Aussois guards the Sardinian forts of the Esseillon barrier.",
-      "intro_fr": "Village de Haute Maurienne au pied de la Vanoise, Aussois garde les forts sardes de la barrière de l'Esseillon.",
-      "lieux": [
-        {
-          "category": "chateau",
-          "slug": "fort-victor-emmanuel-aussois",
-          "title_fr": "Fort Victor-Emmanuel"
+          "slug": "tours-de-montmayeur-villard-sallet",
+          "title_fr": "Tours de Montmayeur"
         }
       ],
       "lieux_count": 1,
-      "postal_code": "73500",
-      "research_log": "Added with the châteaux batch, 2026-08-10.",
-      "slug": "aussois",
-      "stats": {},
+      "postal_code": "73110",
+      "research_log": [],
+      "slug": "villard-sallet",
+      "stats": {
+        "total": 1
+      },
       "verify_flags": []
     },
     {
-      "commune": "Mercury",
+      "commune": "Viviers-du-Lac",
       "department": "Savoie",
       "hero_image": null,
       "hero_strategy": null,
-      "intro_en": "Above Albertville, Mercury carries the fort de Tamié and its belvederes over the Combe de Savoie.",
-      "intro_fr": "Au-dessus d'Albertville, Mercury porte le fort de Tamié et ses belvédères sur la combe de Savoie.",
-      "lieux": [
-        {
-          "category": "chateau",
-          "slug": "fort-de-tamie-mercury",
-          "title_fr": "Fort de Tamié"
-        }
-      ],
-      "lieux_count": 1,
-      "postal_code": "73200",
-      "research_log": "Added with the châteaux batch, 2026-08-10.",
-      "slug": "mercury",
-      "stats": {},
-      "verify_flags": []
-    },
-    {
-      "commune": "Le Bourget-du-Lac",
-      "department": "Savoie",
-      "hero_image": null,
-      "hero_strategy": null,
-      "intro_en": "On the southern shore of France's largest natural lake, Le Bourget-du-Lac watches over the ruins of the château de Thomas II.",
-      "intro_fr": "Sur la rive sud du plus grand lac naturel de France, Le Bourget-du-Lac veille sur les ruines du château de Thomas II.",
-      "lieux": [
-        {
-          "category": "chateau",
-          "slug": "chateau-de-thomas-ii-le-bourget-du-lac",
-          "title_fr": "Château de Thomas II"
-        },
-        {
-          "category": "plage",
-          "slug": "plage-municipale-le-bourget-du-lac",
-          "title_fr": "Plage municipale du Bourget-du-Lac"
-        }
-      ],
-      "lieux_count": 2,
-      "postal_code": "73370",
-      "research_log": "Added with the châteaux batch, 2026-08-10.",
-      "slug": "le-bourget-du-lac",
-      "stats": {},
-      "verify_flags": []
-    },
-    {
-      "commune": "Chignin",
-      "department": "Savoie",
-      "hero_image": null,
-      "hero_strategy": null,
-      "intro_en": "A winegrowing village between Chambéry and Montmélian, Chignin raises its seven medieval towers amid the vines.",
-      "intro_fr": "Village vigneron entre Chambéry et Montmélian, Chignin dresse ses sept tours médiévales au milieu des vignes.",
-      "lieux": [
-        {
-          "category": "chateau",
-          "slug": "tours-de-chignin",
-          "title_fr": "Tours de Chignin"
-        }
-      ],
-      "lieux_count": 1,
-      "postal_code": "73800",
-      "research_log": "Added with the châteaux batch, 2026-08-10.",
-      "slug": "chignin",
-      "stats": {},
-      "verify_flags": []
-    },
-    {
-      "commune": "Saint-Michel-de-Maurienne",
-      "department": "Savoie",
-      "hero_image": null,
-      "hero_strategy": null,
-      "intro_en": "Gateway town of the industrial Maurienne, Saint-Michel-de-Maurienne tells a century of the valley's aluminium at the Espace Alu.",
-      "intro_fr": "Ville-porte de la Maurienne industrielle, Saint-Michel-de-Maurienne raconte à l'Espace Alu un siècle d'aluminium dans la vallée.",
-      "lieux": [
-        {
-          "category": "musee",
-          "slug": "espace-alu-saint-michel-de-maurienne",
-          "title_fr": "Espace Alu"
-        }
-      ],
-      "lieux_count": 1,
-      "postal_code": "73140",
-      "research_log": "Added with the musées batch, 2026-08-10.",
-      "slug": "saint-michel-de-maurienne",
-      "stats": {},
-      "verify_flags": []
-    },
-    {
-      "commune": "Entremont-le-Vieux",
-      "department": "Savoie",
-      "hero_image": null,
-      "hero_strategy": null,
-      "intro_en": "In the heart of the Chartreuse's Entremonts, Entremont-le-Vieux keeps the memory of the Balme à Collomb's cave bear.",
-      "intro_fr": "Au cœur des Entremonts en Chartreuse, Entremont-le-Vieux garde la mémoire de l'ours des cavernes de la Balme à Collomb.",
-      "lieux": [
-        {
-          "category": "musee",
-          "slug": "musee-ours-des-cavernes-entremont-le-vieux",
-          "title_fr": "Musée de l'Ours des Cavernes"
-        }
-      ],
-      "lieux_count": 1,
-      "postal_code": "73670",
-      "research_log": "Added with the musées batch, 2026-08-10.",
-      "slug": "entremont-le-vieux",
-      "stats": {},
-      "verify_flags": []
-    },
-    {
-      "commune": "Albertville",
-      "department": "Savoie",
-      "hero_image": null,
-      "hero_strategy": null,
-      "intro_en": "Olympic city of 1992, Albertville carries the Winter Games' legacy in its Halle Olympique and the Tremplin 92 space.",
-      "intro_fr": "Ville olympique de 1992, Albertville porte l'héritage des Jeux d'hiver dans sa Halle Olympique et l'espace Tremplin 92.",
-      "lieux": [
-        {
-          "category": "musee",
-          "slug": "tremplin-92-maison-des-jeux-olympiques-albertville",
-          "title_fr": "Tremplin 92, Montagne et Olympisme"
-        }
-      ],
-      "lieux_count": 1,
-      "postal_code": "73200",
-      "research_log": "Added with the musées batch, 2026-08-10.",
-      "slug": "albertville",
-      "stats": {},
-      "verify_flags": []
-    },
-    {
-      "commune": "Aix-les-Bains",
-      "department": "Savoie",
-      "hero_image": null,
-      "hero_strategy": null,
-      "intro_en": "Spa town of the Lac du Bourget, Aix-les-Bains lines a free municipal beach and an aquatic centre along France's largest natural lake.",
-      "intro_fr": "Ville thermale du lac du Bourget, Aix-les-Bains aligne plage municipale gratuite et centre aquatique au bord du plus grand lac naturel de France.",
+      "intro_en": "Between Aix-les-Bains and Chambéry, Lac du Bourget's south-eastern shore and its Mottets beach.",
+      "intro_fr": "Entre Aix-les-Bains et Chambéry, la rive sud-est du lac du Bourget et sa plage des Mottets.",
       "lieux": [
         {
           "category": "plage",
-          "slug": "plage-municipale-aix-les-bains-aqualac",
-          "title_fr": "Plage municipale d'Aix-les-Bains (Aqualac)"
+          "slug": "plage-des-mottets-viviers-du-lac",
+          "title_fr": "Plage des Mottets"
         }
       ],
       "lieux_count": 1,
-      "postal_code": "73100",
-      "research_log": "Added with the lacs-plages batch, 2026-08-10.",
-      "slug": "aix-les-bains",
-      "stats": {},
-      "verify_flags": []
-    },
-    {
-      "commune": "Saint-Alban-de-Montbel",
-      "department": "Savoie",
-      "hero_image": null,
-      "hero_strategy": null,
-      "intro_en": "On the Lac d'Aiguebelette's west shore, Saint-Alban-de-Montbel opens the Sougey leisure base and its supervised beach.",
-      "intro_fr": "Sur la rive ouest du lac d'Aiguebelette, Saint-Alban-de-Montbel ouvre la base de loisirs du Sougey et sa plage surveillée.",
-      "lieux": [
-        {
-          "category": "plage",
-          "slug": "plage-base-de-loisirs-du-sougey",
-          "title_fr": "Plage du Sougey"
-        }
-      ],
-      "lieux_count": 1,
-      "postal_code": "73610",
-      "research_log": "Added with the lacs-plages batch, 2026-08-10.",
-      "slug": "saint-alban-de-montbel",
-      "stats": {},
-      "verify_flags": []
-    },
-    {
-      "commune": "Aiguebelette-le-Lac",
-      "department": "Savoie",
-      "hero_image": null,
-      "hero_strategy": null,
-      "intro_en": "The village that gives its name to the emerald lake of Savoie's foothills, with its Port beach and watersport hire.",
-      "intro_fr": "Le village qui donne son nom au lac émeraude de l'avant-pays savoyard, avec sa plage du Port et ses locations nautiques.",
-      "lieux": [
-        {
-          "category": "plage",
-          "slug": "plage-aiguebelette-le-lac",
-          "title_fr": "Plage d'Aiguebelette-le-Lac"
-        }
-      ],
-      "lieux_count": 1,
-      "postal_code": "73610",
-      "research_log": "Added with the lacs-plages batch, 2026-08-10.",
-      "slug": "aiguebelette-le-lac",
-      "stats": {},
-      "verify_flags": []
-    },
-    {
-      "commune": "Porte-de-Savoie",
-      "department": "Savoie",
-      "hero_image": null,
-      "hero_strategy": null,
-      "intro_en": "At Les Marches, below the Granier's cliff, Porte-de-Savoie keeps the Lac Saint-André and its loop through the vines.",
-      "intro_fr": "Aux Marches, sous l'abrupt du Granier, Porte-de-Savoie garde le lac Saint-André et son tour dans les vignes.",
-      "lieux": [
-        {
-          "category": "lac",
-          "slug": "lac-saint-andre-porte-de-savoie",
-          "title_fr": "Lac Saint-André"
-        }
-      ],
-      "lieux_count": 1,
-      "postal_code": "73800",
-      "research_log": "Added with the lacs-plages batch, 2026-08-10.",
-      "slug": "porte-de-savoie",
-      "stats": {},
-      "verify_flags": []
-    },
-    {
-      "commune": "Grésy-sur-Isère",
-      "department": "Savoie",
-      "hero_image": null,
-      "hero_strategy": null,
-      "intro_en": "In the Combe de Savoie, Grésy-sur-Isère keeps a Pavillon Bleu laureate leisure base by the Isère.",
-      "intro_fr": "En Combe de Savoie, Grésy-sur-Isère tient une base de loisirs lauréate Pavillon Bleu au bord de l'Isère.",
-      "lieux": [
-        {
-          "category": "lac",
-          "slug": "base-de-loisirs-gresy-sur-isere",
-          "title_fr": "Base de loisirs de Grésy-sur-Isère"
-        }
-      ],
-      "lieux_count": 1,
-      "postal_code": "73460",
-      "research_log": "Added with the lacs-plages batch, 2026-08-10.",
-      "slug": "gresy-sur-isere",
-      "stats": {},
-      "verify_flags": []
-    },
-    {
-      "commune": "Bourdeau",
-      "department": "Savoie",
-      "hero_image": null,
-      "hero_strategy": null,
-      "intro_en": "A village on the Lac du Bourget's west shore, Bourdeau carries the Dent du Chat's summit on its commune.",
-      "intro_fr": "Village de la rive ouest du lac du Bourget, Bourdeau porte sur sa commune le sommet de la Dent du Chat.",
-      "lieux": [
-        {
-          "category": "sentier",
-          "slug": "dent-du-chat-col-du-chat",
-          "title_fr": "Dent du Chat"
-        }
-      ],
-      "lieux_count": 1,
-      "postal_code": "73370",
-      "research_log": "Added with the sentiers batch, 2026-08-10.",
-      "slug": "bourdeau",
-      "stats": {},
-      "verify_flags": []
-    },
-    {
-      "commune": "Hautecour",
-      "department": "Savoie",
-      "hero_image": null,
-      "hero_strategy": null,
-      "intro_en": "On the sunny slope above Moûtiers, Hautecour renews its artistic trail's land art every spring.",
-      "intro_fr": "Sur l'adret au-dessus de Moûtiers, Hautecour renouvelle chaque printemps le Land'Art de son sentier artistique.",
-      "lieux": [
-        {
-          "category": "sentier",
-          "slug": "sentier-artistique-hautecour",
-          "title_fr": "Sentier artistique de Hautecour"
-        }
-      ],
-      "lieux_count": 1,
-      "postal_code": "73600",
-      "research_log": "Added with the sentiers batch, 2026-08-10.",
-      "slug": "hautecour",
-      "stats": {},
-      "verify_flags": []
-    },
-    {
-      "commune": "Les Déserts",
-      "department": "Savoie",
-      "hero_image": null,
-      "hero_strategy": null,
-      "intro_en": "Home of La Féclaz in Savoie Grand Revard, Les Déserts leads from the Plateau Sud to the croix du Nivolet.",
-      "intro_fr": "Commune de La Féclaz en Savoie Grand Revard, Les Déserts mène du Plateau Sud à la croix du Nivolet.",
-      "lieux": [
-        {
-          "category": "sentier",
-          "slug": "croix-du-nivolet-la-feclaz",
-          "title_fr": "Croix du Nivolet depuis le Plateau Sud"
-        }
-      ],
-      "lieux_count": 1,
-      "postal_code": "73230",
-      "research_log": "Added with the sentiers batch, 2026-08-10.",
-      "slug": "les-deserts",
-      "stats": {},
-      "verify_flags": []
-    },
-    {
-      "commune": "Lépin-le-Lac",
-      "department": "Savoie",
-      "hero_image": null,
-      "hero_strategy": null,
-      "intro_en": "From its lakeside station at the Lac d'Aiguebelette starts the walking circuit, three days of ridges and shores.",
-      "intro_fr": "De sa gare au bord du lac d'Aiguebelette part le tour du lac à pied, trois jours de crêtes et de rives.",
-      "lieux": [
-        {
-          "category": "sentier",
-          "slug": "tour-du-lac-aiguebelette",
-          "title_fr": "Tour du lac d'Aiguebelette à pied"
-        }
-      ],
-      "lieux_count": 1,
-      "postal_code": "73610",
-      "research_log": "Added with the sentiers batch, 2026-08-10.",
-      "slug": "lepin-le-lac",
-      "stats": {},
-      "verify_flags": []
-    },
-    {
-      "commune": "Tresserve",
-      "department": "Savoie",
-      "hero_image": null,
-      "hero_strategy": null,
-      "intro_en": "Between Aix-les-Bains and the lake, Tresserve opens the Lido beach and the water-level lakeside path.",
-      "intro_fr": "Entre Aix-les-Bains et le lac, Tresserve ouvre la plage du Lido et le chemin lacustre à fleur d'eau.",
-      "lieux": [
-        {
-          "category": "sentier",
-          "slug": "chemin-lacustre-lac-du-bourget",
-          "title_fr": "Chemin lacustre du lac du Bourget"
-        }
-      ],
-      "lieux_count": 1,
-      "postal_code": "73100",
-      "research_log": "Added with the sentiers batch, 2026-08-10.",
-      "slug": "tresserve",
-      "stats": {},
-      "verify_flags": []
-    },
-    {
-      "commune": "Modane",
-      "department": "Savoie",
-      "hero_image": null,
-      "hero_strategy": null,
-      "intro_en": "Gateway to Haute Maurienne Vanoise, Modane opens the chemin du Petit Bonheur running village to village towards Bonneval-sur-Arc.",
-      "intro_fr": "Porte de la Haute Maurienne Vanoise, Modane ouvre le chemin du Petit Bonheur qui file de village en village vers Bonneval-sur-Arc.",
-      "lieux": [
-        {
-          "category": "sentier",
-          "slug": "chemin-du-petit-bonheur",
-          "title_fr": "Chemin du Petit Bonheur"
-        }
-      ],
-      "lieux_count": 1,
-      "postal_code": "73500",
-      "research_log": "Added with the sentiers batch, 2026-08-10.",
-      "slug": "modane",
-      "stats": {},
+      "postal_code": "73420",
+      "research_log": [],
+      "slug": "viviers-du-lac",
+      "stats": {
+        "total": 1
+      },
       "verify_flags": []
     }
   ],

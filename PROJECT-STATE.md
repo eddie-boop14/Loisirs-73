@@ -25,8 +25,8 @@
 | fiche JSONs (total) | **113** |
 | published | **113** |
 | access-cost: free / free_seasonal / paid | 82 / 2 / 29 |
-| built HTML pages | 1104 |
-| sitemap URLs | 1084 |
+| built HTML pages | 1254 |
+| sitemap URLs | 1234 |
 | facet hubs (data/facet-hubs.json) | 0 |
 | intent pages (data/intent-registry.json) | 6 |
 

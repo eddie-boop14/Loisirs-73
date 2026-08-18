@@ -15,6 +15,10 @@
     "en": "A Maurienne village below the Aiguilles d'Arves, Albiez-Montrond commands the climb to the Col du Mollard and its hairpins.",
     "fr": "Village de Maurienne sous les Aiguilles d'Arves, Albiez-Montrond commande la montée du col du Mollard et ses lacets."
   },
+  "argentine": {
+    "fr": "Village de basse Maurienne sur la rive de l'Arc, Argentine abrite le musée du Félicien et sa mémoire paysanne.",
+    "en": "A lower-Maurienne village on the banks of the Arc, Argentine is home to the Musée du Félicien and its peasant-life memory."
+  },
   "aussois": {
     "en": "A Haute Maurienne village below the Vanoise, Aussois guards the Sardinian forts of the Esseillon barrier.",
     "fr": "Village de Haute Maurienne au pied de la Vanoise, Aussois garde les forts sardes de la barrière de l'Esseillon."
@@ -39,6 +43,14 @@
     "en": "Gateway to the upper Tarentaise, Bourg-Saint-Maurice gives access to Les Arcs and the Aiguille Rouge cable car.",
     "fr": "Porte de la haute Tarentaise, Bourg-Saint-Maurice donne accès aux Arcs et au téléphérique de l'Aiguille Rouge."
   },
+  "bozel": {
+    "fr": "Bourg de Tarentaise au pied des stations de Courchevel, Bozel s'anime l'été autour de son plan d'eau de baignade gratuite.",
+    "en": "A Tarentaise town below the Courchevel resorts, Bozel comes alive in summer around its free swimming lake."
+  },
+  "brison-saint-innocent": {
+    "fr": "Coteaux de vignes au bord du lac du Bourget, juste au nord d'Aix-les-Bains, avec la plage de la Pointe de l'Ardre.",
+    "en": "Vine-clad slopes on the shore of Lac du Bourget just north of Aix-les-Bains, with the Pointe de l'Ardre beach."
+  },
   "chambery": {
     "en": "Historic capital of the dukes of Savoy, Chambéry keeps their castle, its Sainte-Chapelle and the largest carillon in France.",
     "fr": "Capitale historique des ducs de Savoie, Chambéry garde leur château, sa Sainte-Chapelle et le plus grand carillon de France."
@@ -47,13 +59,37 @@
     "en": "At the gates of the Vanoise national park, Champagny links its valley to the high ground by gondola.",
     "fr": "Aux portes du parc national de la Vanoise, Champagny relie sa vallée au domaine d'altitude par une télécabine."
   },
+  "chanaz": {
+    "fr": "Le petit port du canal de Savières, où la ViaRhôna touche la Savoie, entre Rhône et lac du Bourget.",
+    "en": "The little port of the Canal de Savières, where the ViaRhôna touches Savoie, between the Rhône and Lac du Bourget."
+  },
   "chignin": {
     "en": "A winegrowing village between Chambéry and Montmélian, Chignin raises its seven medieval towers amid the vines.",
     "fr": "Village vigneron entre Chambéry et Montmélian, Chignin dresse ses sept tours médiévales au milieu des vignes."
   },
+  "chindrieux": {
+    "fr": "Au nord du lac du Bourget, en Chautagne, Chindrieux ouvre sa plage de Châtillon sur la rive la plus calme du lac.",
+    "en": "At the north of Lac du Bourget, in the Chautagne, Chindrieux opens its Châtillon beach onto the lake's calmest shore."
+  },
+  "conjux": {
+    "fr": "Village de la rive sauvage du lac du Bourget, tout au nord, avec sa plage municipale de la Chatière.",
+    "en": "A village on Lac du Bourget's wild shore, at its far north, with the municipal La Chatière beach."
+  },
   "courchevel": {
     "en": "A Trois Vallées resort, Courchevel holds the Saulire cable car and one side of the Col de la Loze, a high road closed to cars.",
     "fr": "Station des 3 Vallées, Courchevel tient le téléphérique de la Saulire et un versant du col de la Loze, route d'altitude interdite aux voitures."
+  },
+  "crest-voland": {
+    "fr": "Village-balcon du Val d'Arly face aux Aravis, porte du sentier des Arpelières et de la tourbière des Saisies.",
+    "en": "A balcony village of the Val d'Arly facing the Aravis, gateway to the Arpelières trail and the Saisies peat bog."
+  },
+  "detrier": {
+    "fr": "Commune du val Gelon, aux confins de la Savoie et de l'Isère, autour du lac Saint-Clair et de son tour accessible.",
+    "en": "A Val Gelon commune on the border of Savoie and Isère, set around Lac Saint-Clair and its accessible lake loop."
+  },
+  "entrelacs": {
+    "fr": "Commune nouvelle de l'Albanais dont le belvédère de la Chambotte domine tout le lac du Bourget.",
+    "en": "A new commune of the Albanais whose Chambotte belvedere overlooks the whole of Lac du Bourget."
   },
   "entremont-le-vieux": {
     "en": "In the heart of the Chartreuse's Entremonts, Entremont-le-Vieux keeps the memory of the Balme à Collomb's cave bear.",
@@ -71,6 +107,10 @@
     "en": "In the Combe de Savoie, Grésy-sur-Isère keeps a Pavillon Bleu laureate leisure base by the Isère.",
     "fr": "En Combe de Savoie, Grésy-sur-Isère tient une base de loisirs lauréate Pavillon Bleu au bord de l'Isère."
   },
+  "grignon": {
+    "fr": "Aux portes d'Albertville, sur l'Isère, Grignon offre la baignade gratuite du plan d'eau des Glières.",
+    "en": "At Albertville's gates, on the Isère, Grignon offers free swimming at the Glières lake."
+  },
   "hautecour": {
     "en": "On the sunny slope above Moûtiers, Hautecour renews its artistic trail's land art every spring.",
     "fr": "Sur l'adret au-dessus de Moûtiers, Hautecour renouvelle chaque printemps le Land'Art de son sentier artistique."
@@ -79,9 +119,17 @@
     "en": "A Beaufortain commune, Hauteluce carries the Les Saisies resort, its year-round pass and the Signal de Bisanne.",
     "fr": "Commune du Beaufortain, Hauteluce porte la station des Saisies, son col ouvert toute l'année et le Signal de Bisanne."
   },
+  "jacob-bellecombette": {
+    "fr": "Commune universitaire aux portes de Chambéry, où le Nant du Pontet saute en trois cascades sur les contreforts de la Chartreuse.",
+    "en": "A university commune at Chambéry's gates, where the Nant du Pontet leaps in three waterfalls down the Chartreuse foothills."
+  },
   "la-plagne-tarentaise": {
     "en": "The heart of La Plagne, the commune lines up the high lifts, from Roche de Mio to the Bellecôte glacier.",
     "fr": "Cœur de La Plagne, la commune aligne les remontées d'altitude, de la Roche de Mio au glacier de Bellecôte."
+  },
+  "la-thuile": {
+    "fr": "Village des Bauges piémontaises autour de son petit lac de montagne à 874 m, bordé de roseaux.",
+    "en": "A village of the lower Bauges around its small reed-fringed mountain lake at 874 m."
   },
   "le-bourget-du-lac": {
     "en": "On the southern shore of France's largest natural lake, Le Bourget-du-Lac watches over the ruins of the château de Thomas II.",
@@ -107,6 +155,10 @@
     "en": "Home of La Féclaz in Savoie Grand Revard, Les Déserts leads from the Plateau Sud to the croix du Nivolet.",
     "fr": "Commune de La Féclaz en Savoie Grand Revard, Les Déserts mène du Plateau Sud à la croix du Nivolet."
   },
+  "lescheraines": {
+    "fr": "Au cœur des Bauges, sur le Chéran, Lescheraines déploie sa base de loisirs aux deux plans d'eau.",
+    "en": "In the heart of the Bauges, on the Chéran, Lescheraines lays out its leisure base with two lakes."
+  },
   "mercury": {
     "en": "Above Albertville, Mercury carries the fort de Tamié and its belvederes over the Combe de Savoie.",
     "fr": "Au-dessus d'Albertville, Mercury porte le fort de Tamié et ses belvédères sur la combe de Savoie."
@@ -114,6 +166,14 @@
   "modane": {
     "en": "Gateway to Haute Maurienne Vanoise, Modane opens the chemin du Petit Bonheur running village to village towards Bonneval-sur-Arc.",
     "fr": "Porte de la Haute Maurienne Vanoise, Modane ouvre le chemin du Petit Bonheur qui file de village en village vers Bonneval-sur-Arc."
+  },
+  "montmelian": {
+    "fr": "Ancienne place forte au pied de son rocher, au cœur du vignoble de Savoie et de son musée de la vigne et du vin.",
+    "en": "A former stronghold at the foot of its rock, in the heart of the Savoie vineyards and their wine museum."
+  },
+  "nances": {
+    "fr": "À l'entrée nord du lac d'Aiguebelette, Nances accueille la Maison du Lac, départ de la voie verte et du tour du lac.",
+    "en": "At the northern entrance to Lac d'Aiguebelette, Nances hosts the Maison du Lac, start of the greenway and the lake loop."
   },
   "orelle": {
     "en": "A small Maurienne commune, Orelle is the southern gateway to Les Trois Vallées via the link to the Cime Caron.",
@@ -123,6 +183,10 @@
     "en": "Peisey-Nancroix holds one end of the Vanoise Express, which spans the valley towards La Plagne.",
     "fr": "Peisey-Nancroix tient une extrémité du Vanoise Express, qui franchit la vallée vers La Plagne."
   },
+  "planay": {
+    "fr": "Commune de la vallée de Bozel étagée vers Pralognan, sous la cascade classée de la Vuzelle.",
+    "en": "A Bozel-valley commune stepping up towards Pralognan, beneath the protected Vuzelle waterfall."
+  },
   "porte-de-savoie": {
     "en": "At Les Marches, below the Granier's cliff, Porte-de-Savoie keeps the Lac Saint-André and its loop through the vines.",
     "fr": "Aux Marches, sous l'abrupt du Granier, Porte-de-Savoie garde le lac Saint-André et son tour dans les vignes."
@@ -131,9 +195,17 @@
     "en": "A gateway village to the Vanoise national park, Pralognan climbs to Mont Bochor by cable car.",
     "fr": "Village-porte du parc national de la Vanoise, Pralognan monte au Mont Bochor par téléphérique."
   },
+  "saint-alban-d-hurtieres": {
+    "fr": "Village de basse Maurienne dont le plan d'eau du Verney marie baignade d'été et plaine Natura 2000.",
+    "en": "A lower-Maurienne village whose Verney lake pairs summer swimming with a Natura 2000 plain."
+  },
   "saint-alban-de-montbel": {
     "en": "On the Lac d'Aiguebelette's west shore, Saint-Alban-de-Montbel opens the Sougey leisure base and its supervised beach.",
     "fr": "Sur la rive ouest du lac d'Aiguebelette, Saint-Alban-de-Montbel ouvre la base de loisirs du Sougey et sa plage surveillée."
+  },
+  "saint-cassin": {
+    "fr": "Village des contreforts de la Chartreuse au sud de Chambéry, connu pour sa cascade admirée de Rousseau à George Sand.",
+    "en": "A village on the Chartreuse foothills south of Chambéry, known for the waterfall admired from Rousseau to George Sand."
   },
   "saint-colomban-des-villards": {
     "en": "At the head of the Villards valley, Saint-Colomban commands the Savoyard side of the Col du Glandon.",
@@ -143,9 +215,17 @@
     "en": "A Maurienne resort, Saint-François-Longchamp holds the southern side of the Col de la Madeleine.",
     "fr": "Station de Maurienne, Saint-François-Longchamp tient le versant sud du col de la Madeleine."
   },
+  "saint-georges-d-hurtieres": {
+    "fr": "Ancien pays minier de basse Maurienne, où le Grand Filon fait visiter la plus grande mine de fer de Savoie.",
+    "en": "Old mining country of the lower Maurienne, where the Grand Filon opens Savoie's largest iron mine to visitors."
+  },
   "saint-jean-d-arvey": {
     "en": "A Bauges balcony above Chambéry, Saint-Jean-d'Arvey opens onto the great Doria waterfall and its viewpoint.",
     "fr": "Balcon des Bauges au-dessus de Chambéry, Saint-Jean-d'Arvey donne accès à la grande cascade de la Doria et son belvédère."
+  },
+  "saint-jean-de-chevelu": {
+    "fr": "Deux lacs glaciaires au pied de la Dent du Chat, entre vignoble de Jongieux et col du Chat.",
+    "en": "Two glacial lakes at the foot of the Dent du Chat, between the Jongieux vineyards and the Col du Chat."
   },
   "saint-jean-de-maurienne": {
     "en": "Sub-prefecture of the Maurienne, Saint-Jean commands the climb to the Col du Chaussy via the Lacets de Montvernier.",
@@ -163,9 +243,21 @@
     "en": "At the gates of the Savoie Chartreuse, Saint-Pierre-d'Entremont guards the Cirque de Saint-Même and the four falls of the Guiers Vif.",
     "fr": "Aux portes de la Chartreuse savoyarde, Saint-Pierre-d'Entremont garde le cirque de Saint-Même et les quatre cascades du Guiers Vif."
   },
+  "saint-pierre-de-curtille": {
+    "fr": "Sur la rive sauvage du lac du Bourget, la commune de l'abbaye royale d'Hautecombe, posée au bord de l'eau.",
+    "en": "On Lac du Bourget's wild shore, the commune of the royal abbey of Hautecombe, set at the water's edge."
+  },
+  "saint-remy-de-maurienne": {
+    "fr": "En basse Maurienne, Saint-Rémy déploie la base de loisirs du Lac Bleu, entre lac de baignade et piscine.",
+    "en": "In the lower Maurienne, Saint-Rémy lays out the Lac Bleu leisure base, between swimming lake and pool."
+  },
   "saint-sorlin-d-arves": {
     "en": "A village of the Arves, Saint-Sorlin opens onto the Col de la Croix de Fer.",
     "fr": "Village des Arves, Saint-Sorlin ouvre sur le col de la Croix de Fer."
+  },
+  "sainte-helene-du-lac": {
+    "fr": "Village de la combe de Savoie autour de son lac naturel aux berges sauvages, terrain des pêcheurs.",
+    "en": "A Combe de Savoie village around its wild-banked natural lake, an anglers' ground."
   },
   "seez": {
     "en": "On the road to the Petit-Saint-Bernard, Séez guards the last French pass before Italy.",
@@ -190,5 +282,13 @@
   "valloire": {
     "en": "Between the Télégraphe and the Galibier, Valloire holds two of the most-crossed passes of the Tour de France.",
     "fr": "Entre Télégraphe et Galibier, Valloire tient deux des cols les plus franchis du Tour de France."
+  },
+  "villard-sallet": {
+    "fr": "Petit village du val Gelon sous les ruines médiévales des tours de Montmayeur.",
+    "en": "A small Val Gelon village beneath the medieval ruins of the Montmayeur towers."
+  },
+  "viviers-du-lac": {
+    "fr": "Entre Aix-les-Bains et Chambéry, la rive sud-est du lac du Bourget et sa plage des Mottets.",
+    "en": "Between Aix-les-Bains and Chambéry, Lac du Bourget's south-eastern shore and its Mottets beach."
   }
 }

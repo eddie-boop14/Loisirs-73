@@ -173,6 +173,13 @@ jobs:
       - name: Redirect-shadow gate (no 301 source shadows a built 200 path)
         run: python3 scripts/gate_redirect_shadows.py
 
+      # File-only, and deliberately so: the shadow gate above needs a correct
+      # build to see a bad rule, which is how 816 self-loops shipped green on
+      # 2026-08-19. This one reads _redirects and nothing else, so it cannot go
+      # green on a broken tree.
+      - name: Redirect self-loop gate (no rule points at itself modulo a slash)
+        run: python3 scripts/gate_redirect_selfloop.py
+
       - name: Byte-stable double build
         # build_all has just run. Snapshot, rebuild, diff. Two consecutive
         # builds must be md5-identical or the pipeline is not idempotent.

@@ -47,7 +47,14 @@ def shadow_of(tree, src):
             return f"{p[:-2]}/ (non-empty directory)"
         return None
     if p.endswith("/"):
-        candidates = [p + "index.html"]
+        # Netlify matches a rule "regardless of whether or not [the path]
+        # contains a trailing slash", so /slug/ and /slug are ONE rule at the
+        # edge. A forced 301 from /slug/ to /slug therefore redirects the
+        # canonical to itself, forever — Netlify documents this exact shape as
+        # an infinite redirect. Testing only <path>/index.html let 816 such
+        # rules ship green on 2026-08-19 and took every fiche off the site.
+        base = p.rstrip("/")
+        candidates = [p + "index.html", base, base + ".html"]
     else:
         candidates = [p, p + ".html", p + "/index.html"]
     for c in candidates:

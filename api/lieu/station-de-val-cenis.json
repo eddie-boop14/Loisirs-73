@@ -1,0 +1,36 @@
+{
+  "name": "Val Cenis",
+  "commune": "Val-Cenis",
+  "gps": {
+    "lat": 45.284131,
+    "lng": 6.873613
+  },
+  "type": "station",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": false,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "12 ou 13 décembre 2026 – 16 avril 2027 (selon la page)",
+  "winter": {
+    "access": "open",
+    "infrastructure": [
+      "ski_alpin",
+      "ski_fond",
+      "luge",
+      "raquettes"
+    ],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
+  "official_url": "https://www.valcenis.com/ski-et-glisse/le-domaine-alpin-de-val-cenis/",
+  "last_verified": null
+}

@@ -1,7 +1,7 @@
 # Phase 4 — photo assignments (gate artifact)
 
 **Date**: 2026-06-14
-**Total assignments**: 116 (one per (hub × slug) on the FR canonical hub)
+**Total assignments**: 132 (one per (hub × slug) on the FR canonical hub)
 
 ## Per-hub diversity
 
@@ -14,6 +14,7 @@
 | `musees` | 12 | 8 | 3 |
 | `points-de-vue` | 15 | 15 | 1 |
 | `sentiers` | 12 | 10 | 2 |
+| `stations-de-ski` | 16 | 15 | 2 |
 | `telecabines` | 15 | 15 | 1 |
 | `voies-vertes` | 4 | 4 | 1 |
 
@@ -118,6 +119,22 @@
 | `sentiers` | `sentier-artistique-hautecour` | `nature` | `generique-sentier-foret.jpg` | — | json hero (local) |
 | `sentiers` | `sentier-des-arpelieres-crest-voland` | `nature` | `generique-reserve-zone-humide-5.jpg` | — | json hero (local) |
 | `sentiers` | `tour-du-lac-aiguebelette` | `nature` | `generique-sentier.jpg` | — | json hero (local) |
+| `stations-de-ski` | `savoie-grand-revard` | `nature` | `generique-chiens-de-traineau-2.jpg` | — | json hero (local) |
+| `stations-de-ski` | `station-d-aussois` | `nature` | `generique-chiens-de-traineau-1.jpg` | — | json hero (local) |
+| `stations-de-ski` | `station-de-courchevel` | `nature` | `generique-ski-piste.jpg` | — | json hero (local) |
+| `stations-de-ski` | `station-de-la-plagne` | `nature` | `generique-foret-neige-aerien.jpg` | — | json hero (local) |
+| `stations-de-ski` | `station-de-la-rosiere` | `nature` | `generique-patinoire-patins-blancs.jpg` | — | json hero (local) |
+| `stations-de-ski` | `station-de-meribel` | `nature` | `generique-ski-descente.jpg` | — | json hero (local) |
+| `stations-de-ski` | `station-de-pralognan-la-vanoise` | `nature` | `generique-patinoire-hockey.jpg` | — | json hero (local) |
+| `stations-de-ski` | `station-de-tignes` | `nature` | `generique-telesiege.jpg` | — | json hero (local) |
+| `stations-de-ski` | `station-de-val-cenis` | `nature` | `generique-ski-piste.jpg` | — | json hero (local) |
+| `stations-de-ski` | `station-de-val-d-isere` | `nature` | `generique-snowboard-saut.jpg` | — | json hero (local) |
+| `stations-de-ski` | `station-de-val-thorens` | `nature` | `generique-snowboard-poudreuse.jpg` | — | json hero (local) |
+| `stations-de-ski` | `station-de-valloire` | `nature` | `generique-patinoire-skater.jpg` | — | json hero (local) |
+| `stations-de-ski` | `station-de-valmorel` | `nature` | `generique-foret-enneigee-crepuscule.jpg` | — | json hero (local) |
+| `stations-de-ski` | `station-des-arcs` | `nature` | `generique-foret-enneigee.jpg` | — | json hero (local) |
+| `stations-de-ski` | `station-des-menuires` | `nature` | `generique-ski-freestyle.jpg` | — | json hero (local) |
+| `stations-de-ski` | `station-des-saisies` | `nature` | `generique-sentier-hiver-neige.jpg` | — | json hero (local) |
 | `telecabines` | `funiculaire-de-la-grande-motte` | `transport` | `funiculaire-de-la-grande-motte-hero.jpg` | — | json hero (local) |
 | `telecabines` | `telecabine-de-champagny` | `transport` | `telecabine-de-champagny-hero.jpg` | — | json hero (local) |
 | `telecabines` | `telecabine-de-la-pointe-de-la-masse` | `transport` | `telecabine-de-la-pointe-de-la-masse-hero.jpg` | — | json hero (local) |

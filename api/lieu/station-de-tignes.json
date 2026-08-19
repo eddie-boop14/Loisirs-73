@@ -1,0 +1,36 @@
+{
+  "name": "Tignes",
+  "commune": "Tignes",
+  "gps": {
+    "lat": 45.468338,
+    "lng": 6.906293
+  },
+  "type": "station",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": false,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "21 novembre 2026 – 2 mai 2027",
+  "winter": {
+    "access": "open",
+    "infrastructure": [
+      "ski_alpin",
+      "luge",
+      "raquettes",
+      "ski_rando"
+    ],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
+  "official_url": "https://www.tignes.net/ski/domaine-skiable",
+  "last_verified": null
+}

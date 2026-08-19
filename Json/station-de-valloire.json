@@ -1,0 +1,633 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-18",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "station",
+  "commune": "Valloire",
+  "date_modified_human": "18 août 2026",
+  "date_published_human": "18 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-18",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-patinoire-skater.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Die mit Valmeinier verknüpfte Domäne, 1.430 bis 2.750 m — durch die Pisten verbunden.",
+          "tag": "Galibier-Thabor",
+          "title": "160 km über 5 Berghänge"
+        },
+        {
+          "description": "Der Anfängerbereich des Weilers, ruhig und familienfreundlich, frei von Zugang.",
+          "tag": "Kein Pass",
+          "title": "Der kostenlose Les Verneys Drag Lift"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Valloire</strong>, 'zwischen dem Col du Télégraphe und dem Col du Galibier gelegen', öffnet die <strong>Galibier-Thabor</strong> Domain, verknüpft mit Valmeinier: „<strong>160 km Pisten verteilt auf 5 Berghänge</strong>', von 1.430 bis 2.750 m, mit '70% der Läufe über 2.000 m' und einem Snowpark 'sitzt auf 2.300 m'. Valloire eigene Flanke — Sétaz und Crey du Quart — Wiegt 80 km, innerhalb der Domain '90 läuft: 8 schwarze, 33 rote, 32 blaue, 17 grüne und 30 moderne Lifte, darunter 2 Gondeln im Herzen des Resorts. Wissenswert: Es gibt kein Shuttle zwischen Valloire und Valmeinier - Die Verbindung ist allein durch die Pisten.</p><p>Drei Anfängerbereiche stapeln sich: Thymel (über die Gondel Sétaz) und la Séa (über die Gondel Brive) auf Sonderpässen — und<strong>Les Verneys Schlepplift, frei zugänglich</strong>, in dem gleichnamigen Weiler, ist ein ruhiger, familiärer Raum. Das Les Verneys Plateau beherbergt auch Langlaufen, \"ideal\" pro Resort - Seine Kilometerzahl ist unveröffentlicht, also erfinden wir es nicht. Im Dorf trägt die Eisbahn einen lokalen Gleitsportnamen: Philippe Candéloro.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Bezahlt",
+        "best_season": "19. Dezember 2026 – 9. April 2027",
+        "commune": "Valloire",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Skigebiet",
+        "winter_access": "open",
+        "winter_infra": [
+          "Ski alpin",
+          "ski fond"
+        ]
+      },
+      "faq": [
+        {
+          "a": "In drei Phasen: Vorschau vom 5. bis 6. Dezember 2026, das Valloire-Massiv allein vom 12. bis 18. Dezember, dann die gesamte Galibier-Thabor-Domain vom 19. Dezember 2026 bis 9. April 2027.",
+          "q": "Wann beginnt die Saison 2026-27?"
+        },
+        {
+          "a": "Nein: Das Resort Staaten gibt es \"kein Shuttle zwischen Valloire und Valmeinier\" — Die beiden Galibier-Thabor-Resorts verbinden sich nur auf Skiern.",
+          "q": "Können Sie Valmeinier anders als durch die Pisten erreichen?"
+        },
+        {
+          "a": "Drei Bereiche: der Schlepplift Les Verneys, frei, im Weiler Les Verneys — \"ein ruhiger, familiärer Raum\"; Thymel und la Séa, thront und mit Gondel mit speziellen Tag oder progressive Pässe erreicht.",
+          "q": "Wo lernst du, und für wie viel?"
+        },
+        {
+          "a": "\"70% laufen über 2.000 m\", eine Domäne erreicht 2.750 m und ein Snowpark auf 2.300 m - Höhe macht die Arbeit über diese fünf Maurienne Berghänge.",
+          "q": "Ist der Schnee zuverlässig?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · Galibier-Thabor",
+        "lead": "Zwischen dem Col du Télégraphe und dem Col du Galibier, einem Maurienne-Dorf, der sich mit dem Valmeinier '160 km Pisten über 5 Berghänge verteilt' teilt — 70% davon über 2.000 m."
+      },
+      "hero_alt": "Skater auf der Eisbahn Valloire, Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D902 von Saint-Michel-de-Maurienne (A43) über den Col du Télégraphe.",
+        "public_transport": "Saint-Michel zum Valloire SNCF-Bahnhof, dann Bus über den Télégraphe."
+      },
+      "meta_description": "Valloire, zwischen Télégraphe und Galibier: die Galibier-Thabor-Domäne mit Valmeinier verbunden, 160 km über 5 Berghänge, 70% der Läufe über 2.000 m, kostenlos Les Verneys Schlepplift. Saison 2026-27: 19. Dezember bis 9. April.",
+      "meta_title": "Valloire · Galibier-Thabor, 160 km über 5 Berghängen",
+      "name": "Valloire",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Einstellung",
+          "v": "'Zwischen dem Col du Télégraphe und dem Col du Galibier'"
+        },
+        {
+          "k": "Domain",
+          "v": "Galibier-Thabor 160 km, 90 Pisten, 30 Lifte · Valloire Massiv 80 km"
+        },
+        {
+          "k": "Höhe",
+          "v": "1.430 – 2.750 m · 70% Läufe über 2.000 m · Snowpark auf 2.300 m"
+        },
+        {
+          "k": "Saison 26/27",
+          "v": "19. Dezember 2026 – 9. April 2027 (Vorschau 5-6 und 12-18 Dezember)"
+        },
+        {
+          "k": "frei",
+          "v": "Les Verneys Drag Lift, Anfängerbereich des Weilers"
+        },
+        {
+          "k": "Kontakt",
+          "v": "Tourismusbüro Valloire · 210 rue des Grandes Alpes · +33 4 79 59 03 96"
+        }
+      ],
+      "schema_amenities": [
+        "Free Les Verneys Schlepplift",
+        "Snowpark auf 2.300 m",
+        "Philippe Candéloro"
+      ],
+      "when_to_visit": "<p>Die Saison 2026-27 wird in drei Phasen veröffentlicht: Teilvorschau auf <strong>5-6 Dezember 2026</strong>, das Valloire-Massiv allein 12 bis 18 Dezember, dann die vollständige Galibier-Thabor-Domain <strong>19. Dezember 2026 bis 9. April 2027</strong>Im Sommer dreht Valloire das Radsport-Basislager zwischen dem Télégraphe und dem Galibier, mit Mountainbike und Paragliding.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "The domain linked with Valmeinier, 1,430 to 2,750 m — linked by the slopes.",
+          "tag": "Galibier-Thabor",
+          "title": "160 km over 5 mountainsides"
+        },
+        {
+          "description": "The hamlet's beginner area, calm and family-friendly, free of access.",
+          "tag": "No pass",
+          "title": "The free Les Verneys drag lift"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Valloire</strong>, 'nestled between the Col du Télégraphe and the Col du Galibier', opens the <strong>Galibier-Thabor</strong> domain, linked with Valmeinier: '<strong>160 km of runs spread over 5 mountainsides</strong>', from 1,430 to 2,750 m, with '70% of runs above 2,000 m' and a snowpark 'sitting at 2,300 m'. Valloire's own flank — the Sétaz and the Crey du Quart — weighs 80 km, within the domain's '90 runs: 8 black, 33 red, 32 blue, 17 green' and '30 modern lifts including 2 gondolas in the resort's heart'. Worth knowing: there is 'no shuttle between Valloire and Valmeinier' — the link is by the slopes alone.</p><p>Three beginner areas stack up: Thymel (via the Sétaz gondola) and la Séa (via the Brive gondola), on special passes — and '<strong>the Les Verneys drag lift, free of access</strong>, in the hamlet of the same name, is a calm, family space'. The Les Verneys plateau also hosts cross-country skiing, 'ideal' per the resort — its mileage is unpublished, so we do not invent it. In the village, the ice rink bears a local glide-sports name: Philippe Candéloro.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Paid",
+        "best_season": "19 December 2026 – 9 April 2027",
+        "commune": "Valloire",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Ski resort",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin",
+          "ski_fond"
+        ]
+      },
+      "faq": [
+        {
+          "a": "In three stages: previews on 5-6 December 2026, the Valloire massif alone from 12 to 18 December, then the whole Galibier-Thabor domain from 19 December 2026 to 9 April 2027.",
+          "q": "When does the 2026-27 season open?"
+        },
+        {
+          "a": "No: the resort states there is 'no shuttle between Valloire and Valmeinier' — the two Galibier-Thabor resorts link up on skis only.",
+          "q": "Can you reach Valmeinier other than by the slopes?"
+        },
+        {
+          "a": "Three areas: the Les Verneys drag lift, free, in the Les Verneys hamlet — 'a calm, family space'; Thymel and la Séa, perched and reached by gondola with special day or progressive passes.",
+          "q": "Where do you learn, and for how much?"
+        },
+        {
+          "a": "'70% of runs above 2,000 m', a domain reaching 2,750 m and a snowpark at 2,300 m — altitude does the work across these five Maurienne mountainsides.",
+          "q": "Is the snow reliable?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · Galibier-Thabor",
+        "lead": "Between the Col du Télégraphe and the Col du Galibier, a Maurienne village sharing with Valmeinier '160 km of runs spread over 5 mountainsides' — 70% of them above 2,000 m."
+      },
+      "hero_alt": "Skater on the Valloire ice rink, Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D902 from Saint-Michel-de-Maurienne (A43), over the Col du Télégraphe.",
+        "public_transport": "Saint-Michel to Valloire SNCF station, then coach over the Télégraphe."
+      },
+      "meta_description": "Valloire, between the Télégraphe and the Galibier: the Galibier-Thabor domain linked with Valmeinier, 160 km over 5 mountainsides, 70% of runs above 2,000 m, free Les Verneys drag lift. 2026-27 season: 19 December to 9 April.",
+      "meta_title": "Valloire · Galibier-Thabor, 160 km over 5 mountainsides",
+      "name": "Valloire",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Setting",
+          "v": "'Nestled between the Col du Télégraphe and the Col du Galibier'"
+        },
+        {
+          "k": "Domain",
+          "v": "Galibier-Thabor 160 km, 90 runs, 30 lifts · Valloire massif 80 km"
+        },
+        {
+          "k": "Altitude",
+          "v": "1,430 – 2,750 m · 70% of runs above 2,000 m · snowpark at 2,300 m"
+        },
+        {
+          "k": "Season 26/27",
+          "v": "19 December 2026 – 9 April 2027 (previews 5-6 and 12-18 December)"
+        },
+        {
+          "k": "Free",
+          "v": "Les Verneys drag lift, the hamlet's beginner area"
+        },
+        {
+          "k": "Contact",
+          "v": "Valloire tourist office · 210 rue des Grandes Alpes · +33 4 79 59 03 96"
+        }
+      ],
+      "schema_amenities": [
+        "Free Les Verneys drag lift",
+        "Snowpark at 2,300 m",
+        "Philippe Candéloro rink"
+      ],
+      "when_to_visit": "<p>The 2026-27 season is published in three stages: partial previews on <strong>5-6 December 2026</strong>, the Valloire massif alone 12 to 18 December, then the full Galibier-Thabor domain <strong>19 December 2026 to 9 April 2027</strong>. In summer, Valloire turns cycling base camp between the Télégraphe and the Galibier, with mountain biking and paragliding.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "El dominio vinculado con Valmeinier, 1.430 a 2.750 m — ligado por las pistas.",
+          "tag": "Galibier-Thabor",
+          "title": "160 km sobre 5 laderas de montaña"
+        },
+        {
+          "description": "La zona de inicio de la aldea, tranquila y familiar, libre de acceso.",
+          "tag": "No pase",
+          "title": "El ascensor de tracción Les Verneys gratis"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Valloire</strong>, 'nestled between the Col du Télégraphe and the Col du Galibier', opens the <strong>Galibier-Thabor</strong> dominio, vinculado con Valmeinier: '<strong>160 km de pistas repartidas sobre 5 laderas de montaña</strong>', de 1 430 a 2 750 m, con '70% de carreras por encima de 2.000 m' y un parque de nieve 'sitting a 2.300 m'. El propio flanco de Valloire: el Sétaz y el Crey du Quart pesa 80 km, dentro de las '90 carreras del dominio: 8 negro, 33 rojo, 32 azul, 17 verde y 30 ascensores modernos incluyendo 2 góndolas en el corazón del resort\". Worth saber: no hay ningún transbordador entre Valloire y Valmeinier el enlace es solo por las pistas.</p><p>Tres áreas de inicio se acumulan: Thymel (a través de la góndola Sétaz) y la Séa (a través de la góndola Brive), en pases especiales — y<strong>el ascensor de Les Verneys, libre de acceso</strong>En la aldea del mismo nombre, es un espacio tranquilo y familiar. La meseta de Les Verneys también alberga esquí de fondo, 'ideal' por el resort: su kilometraje es inédito, así que no lo inventamos. En el pueblo, la pista de hielo lleva un nombre local de glide-sports: Philippe Candéloro.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagado",
+        "best_season": "19 de diciembre 2026 – 9 de abril de 2027",
+        "commune": "Valloire",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Escuela de esquí",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski alpin",
+          "ski fond"
+        ]
+      },
+      "faq": [
+        {
+          "a": "En tres etapas: previsualiza el 5-6 de diciembre de 2026, el macizo Valloire solo del 12 al 18 de diciembre, luego todo el dominio Galibier-Thabor del 19 de diciembre de 2026 al 9 de abril de 2027.",
+          "q": "¿Cuándo se abre la temporada 2026-27?"
+        },
+        {
+          "a": "No: el resort declara que no hay ningún transbordador entre Valloire y Valmeinier los dos resorts Galibier-Thabor se unen solo en esquís.",
+          "q": "¿Puedes llegar a Valmeinier más allá de las pistas?"
+        },
+        {
+          "a": "Tres áreas: el ascensor de Les Verneys, libre, en la aldea de Les Verneys 'un espacio tranquilo, familiar'; Thymel y la Séa, encaramados y alcanzados por gondola con pases especiales de día o progresivos.",
+          "q": "¿Dónde aprendes, y por cuánto?"
+        },
+        {
+          "a": "'70% de carreras por encima de 2.000 m', un dominio que alcanza 2.750 m y un parque de nieve a 2.300 m la altitud hace el trabajo a través de estas cinco montañas Maurienne.",
+          "q": "¿La nieve es fiable?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · Galibier-Thabor",
+        "lead": "Entre el Col du Télégraphe y el Col du Galibier, un pueblo de Maurienne que comparte con Valmeinier '160 km de carreras repartidas en 5 laderas de montaña' — 70% de ellos por encima de 2.000 m."
+      },
+      "hero_alt": "Skater en la pista de hielo Valloire, Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D902 de Saint-Michel-de-Maurienne (A43), sobre el Col du Télégraphe.",
+        "public_transport": "Estación de Saint-Michel a Valloire SNCF, luego entrena en la Télégraphe."
+      },
+      "meta_description": "Valloire, entre el Télégraphe y el Galibier: el dominio Galibier-Thabor vinculado con Valmeinier, 160 km sobre 5 lados de montaña, 70% de las pistas por encima de 2.000 m, libre Les Verneys drag lift. 2026-27 temporada: 19 de diciembre a 9 de abril.",
+      "meta_title": "Valloire · Galibier-Thabor, 160 km sobre 5 laderas de montaña",
+      "name": "Valloire",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Ajuste",
+          "v": "'Nestled between the Col du Télégraphe and the Col du Galibier'"
+        },
+        {
+          "k": "Dominio",
+          "v": "Galibier-Thabor 160 km, 90 pistas, 30 ascensores · Masivo Valloire 80 km"
+        },
+        {
+          "k": "Altitud",
+          "v": "1.430 – 2 750 m · 70% de las pistas por encima de 2.000 m · snowpark a 2.300 m"
+        },
+        {
+          "k": "Temporada 26/27",
+          "v": "19 de diciembre 2026 – 9 April 2027 (previews 5-6 and 12-18 December)"
+        },
+        {
+          "k": "Gratis",
+          "v": "Les Verneys, la zona de inicio de la aldea"
+        },
+        {
+          "k": "Contacto",
+          "v": "Valloire oficina de turismo · 210 rue des Grandes Alpes · +33 4 79 59 03 96"
+        }
+      ],
+      "schema_amenities": [
+        "Libre Les Verneys drag lift",
+        "Snowpark a 2.300 m",
+        "Arruga Philippe Candéloro"
+      ],
+      "when_to_visit": "<p>La temporada 2026-27 se publica en tres etapas: previsualizaciones parciales en <strong>5 a 6 de diciembre 2026</strong>, el macizo Valloire solo del 12 al 18 de diciembre, luego el dominio Galibier-Thabor completo <strong>19 de diciembre de 2026 a 9 de abril de 2027</strong>. En verano, Valloire convierte el campamento base de ciclismo entre el Télégraphe y el Galibier, con bicicleta de montaña y parapente.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Le domaine relié avec Valmeinier, de 1 430 à 2 750 m — liaison par les pistes.",
+          "tag": "Galibier-Thabor",
+          "title": "160 km sur 5 versants"
+        },
+        {
+          "description": "L'espace débutant du hameau des Verneys, calme et familial, en accès libre.",
+          "tag": "Sans forfait",
+          "title": "Le téléski gratuit des Verneys"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Valloire</strong>, « nichée entre le col du Télégraphe et le col du Galibier », ouvre le domaine <strong>Galibier-Thabor</strong>, relié à Valmeinier : « <strong>160 km de pistes répartis sur 5 versants</strong> », de 1 430 à 2 750 m, avec « 70 % des pistes au-dessus de 2 000 m » et un snowpark « situé à 2300 m d'altitude ». Le versant propre de Valloire — la Sétaz et le Crey du Quart — pèse 80 km, sur les « 90 pistes : 8 noires, 33 rouges, 32 bleues, 17 vertes » et « 30 remontées mécaniques modernes dont 2 télécabines en cœur de station » du domaine. Détail à connaître : il n'y a « pas de navette entre Valloire et Valmeinier » — la liaison se fait par les pistes.</p><p>Trois espaces débutants s'étagent : Thymel (par la télécabine de la Sétaz) et la Séa (par la télécabine de la Brive), sur forfaits spéciaux — et « <strong>le téléski des Verneys, en accès gratuit</strong>, situé au hameau du même nom, est un espace calme et familial ». Le plateau des Verneys est aussi le terrain du ski de fond, « idéal » selon la station — son kilométrage n'étant pas publié, nous ne l'inventons pas. En village, la patinoire porte le nom d'un enfant du pays de la glisse : Philippe Candéloro.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Payant",
+        "best_season": "19 décembre 2026 – 9 avril 2027",
+        "commune": "Valloire",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Station de ski",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin",
+          "ski_fond"
+        ]
+      },
+      "faq": [
+        {
+          "a": "En trois temps : préouvertures les 5-6 décembre 2026, massif de Valloire seul du 12 au 18 décembre, puis l'ensemble du domaine Galibier-Thabor du 19 décembre 2026 au 9 avril 2027.",
+          "q": "Quand ouvre la saison 2026-27 ?"
+        },
+        {
+          "a": "Non : la station précise qu'il n'y a « pas de navette entre Valloire et Valmeinier » — la liaison des deux stations du Galibier-Thabor se fait uniquement skis aux pieds.",
+          "q": "Peut-on rejoindre Valmeinier autrement que par les pistes ?"
+        },
+        {
+          "a": "Trois espaces : le téléski des Verneys, gratuit, au hameau des Verneys — « un espace calme et familial » ; Thymel et la Séa, perchés et accessibles par télécabine avec des forfaits spéciaux journée ou évolutifs.",
+          "q": "Où débuter, et pour combien ?"
+        },
+        {
+          "a": "« 70 % des pistes au-dessus de 2 000 m », un domaine qui monte à 2 750 m et un snowpark à 2 300 m — l'altitude fait le travail sur ces cinq versants de Maurienne.",
+          "q": "Le domaine est-il sûr côté neige ?"
+        }
+      ],
+      "hero": {
+        "badge": "Station · Galibier-Thabor",
+        "lead": "Entre le col du Télégraphe et le col du Galibier, un village de Maurienne qui partage avec Valmeinier « 160 km de pistes répartis sur 5 versants » — dont 70 % au-dessus de 2 000 m."
+      },
+      "hero_alt": "Patineur sur la patinoire de Valloire, Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D902 depuis Saint-Michel-de-Maurienne (A43), par le col du Télégraphe.",
+        "public_transport": "Gare SNCF de Saint-Michel à Valloire, puis autocar par le Télégraphe."
+      },
+      "meta_description": "Valloire, entre Télégraphe et Galibier : domaine Galibier-Thabor relié à Valmeinier, 160 km sur 5 versants, 70 % des pistes au-dessus de 2 000 m, téléski des Verneys gratuit. Saison 2026-27 : 19 décembre – 9 avril.",
+      "meta_title": "Valloire · Galibier-Thabor, 160 km sur 5 versants",
+      "name": "Valloire",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Situation",
+          "v": "« Nichée entre le col du Télégraphe et le col du Galibier »"
+        },
+        {
+          "k": "Domaine",
+          "v": "Galibier-Thabor 160 km, 90 pistes, 30 remontées · massif de Valloire 80 km"
+        },
+        {
+          "k": "Altitude",
+          "v": "1 430 – 2 750 m · 70 % des pistes au-dessus de 2 000 m · snowpark à 2 300 m"
+        },
+        {
+          "k": "Saison 26/27",
+          "v": "19 décembre 2026 – 9 avril 2027 (préouvertures 5-6 et 12-18 décembre)"
+        },
+        {
+          "k": "Gratuit",
+          "v": "Téléski des Verneys, espace débutant du hameau"
+        },
+        {
+          "k": "Contact",
+          "v": "OT Valloire · 210 rue des Grandes Alpes · 04 79 59 03 96"
+        }
+      ],
+      "schema_amenities": [
+        "Téléski des Verneys gratuit",
+        "Snowpark à 2 300 m",
+        "Patinoire Philippe Candéloro"
+      ],
+      "when_to_visit": "<p>Saison 2026-27 publiée en trois temps : préouvertures partielles les <strong>5 et 6 décembre 2026</strong>, massif de Valloire seul du 12 au 18 décembre, puis domaine Galibier-Thabor complet <strong>du 19 décembre 2026 au 9 avril 2027</strong>. L'été, Valloire devient camp de base cycliste entre Télégraphe et Galibier, avec VTT et parapente.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Il dominio collegato a Valmeinier, 1.430 a 2.750 m — collegato alle piste.",
+          "tag": "Galibier-Thabor",
+          "title": "160 km su 5 monti"
+        },
+        {
+          "description": "L'area principiante della frazione, tranquilla e familiare, è gratuita.",
+          "tag": "No pass",
+          "title": "Il free Les Verneys drag lift"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Valloire</strong>, tra il Col du Télégraphe e il Col du Galibier, apre il <strong>Galibier-Thabor</strong> dominio, collegato con Valmeinier: '<strong>160 km di piste distribuite su 5 monti</strong>', da 1.430 a 2.750 m, con il 70% delle piste sopra i 2.000 m' e un snowpark 'sitting a 2.300 m'. Il fianco di Valloire — Sétaz e Crey du Quart — pesa 80 km, all'interno del dominio '90 corre: 8 ascensori neri, 33 rossi, 32 blu, 17 verdi e '30 moderni tra cui 2 gondole nel cuore del resort'. Vale la pena sapere: c'è 'nessuna navetta tra Valloire e Valmeinier' — il collegamento è solo sulle piste.</p><p>Tre aree principianti impilano: Thymel (tramite la gondola Sétaz) e la Séa (via la gondola Brive), su pass speciali — e<strong>ascensore Les Verneys, gratuito</strong>, nella frazione dello stesso nome, è uno spazio tranquillo e familiare. L'altopiano di Les Verneys ospita anche sci di fondo, 'ideale' per il resort — il suo chilometraggio è inedito, quindi non lo inventiamo. Nel villaggio, la pista di pattinaggio porta un nome locale: Philippe Candéloro.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagato",
+        "best_season": "19 dicembre 2026 – 9 aprile 2027",
+        "commune": "Valloire",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Stazione sciistica",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski alpin",
+          "sci fond"
+        ]
+      },
+      "faq": [
+        {
+          "a": "In tre fasi: prevede il 5-6 dicembre 2026, il massiccio Valloire da solo dal 12 al 18 dicembre, poi l'intero dominio Galibier-Thabor dal 19 dicembre 2026 al 9 aprile 2027.",
+          "q": "Quando apre la stagione 2026-27?"
+        },
+        {
+          "a": "No. il resort afferma che non c'è 'no navetta tra Valloire e Valmeinier' — i due resort Galibier-Thabor collegano solo sugli sci.",
+          "q": "Si può raggiungere Valmeinier diverso dalle piste?"
+        },
+        {
+          "a": "Tre aree: il Les Verneys drag lift, gratuito, nella frazione Les Verneys — 'uno spazio tranquillo e familiare'; Thymel e la Séa, arroccato e raggiunto da gondola con passanti speciali o progressivi.",
+          "q": "Dove impari, e per quanto?"
+        },
+        {
+          "a": "Il 70 % delle piste supera i 2.000 m', un dominio che raggiunge 2.750 m e un snowpark a 2.300 m — l'altitudine fa il lavoro attraverso questi cinque monti Maurienne.",
+          "q": "La neve è affidabile?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · Galibier-Thabor",
+        "lead": "Tra il Col du Télégraphe e il Col du Galibier, un villaggio di Maurienne che condivide con Valmeinier '160 km di piste sparse su 5 montagne' — 70% di loro sopra 2.000 m."
+      },
+      "hero_alt": "Skater sulla pista di ghiaccio Valloire, Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D902 da Saint-Michel-de-Maurienne (A43), sopra il Col du Télégraphe.",
+        "public_transport": "Da Saint-Michel a Valloire SNCF station, poi allenatore sulla Télégraphe."
+      },
+      "meta_description": "Valloire, tra Télégraphe e Galibier: il dominio Galibier-Thabor collegato con Valmeinier, 160 km su 5 montani, 70% delle piste sopra i 2.000 m, free Les Verneys drag lift. 2026-27 stagione: Dal 19 dicembre al 9 aprile.",
+      "meta_title": "Valloire · Galibier-Thabor, 160 km su 5 montagne",
+      "name": "Valloire",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Impostazione",
+          "v": "'Nestled tra il Col du Télégraphe e il Col du Galibier'"
+        },
+        {
+          "k": "Dominio",
+          "v": "Galibier-Thabor 160 km, 90 piste, 30 ascensori · Valloire massiccio 80 km"
+        },
+        {
+          "k": "Altitudine",
+          "v": "1.430 – 2.750 m · 70% delle piste sopra i 2.000 m · snowpark a 2.300 m"
+        },
+        {
+          "k": "Stagione 26/27",
+          "v": "19 dicembre 2026 – 9 aprile 2027 (anteprima 5-6 e 12-18 dicembre)"
+        },
+        {
+          "k": "Gratis",
+          "v": "Les Verneys drag lift, zona principiante della frazione"
+        },
+        {
+          "k": "Contatto",
+          "v": "Ufficio turistico di Valloire · 210 rue des Grandes Alpes · +33 4 79 59 03 96"
+        }
+      ],
+      "schema_amenities": [
+        "Free Les Verneys drag lift",
+        "Snowpark a 2.300 m",
+        "Corsa Philippe Candéloro"
+      ],
+      "when_to_visit": "<p>La stagione 2026-27 è pubblicata in tre fasi: anteprime parziali su <strong>5-6 dicembre 2026</strong>, il massiccio Valloire da solo 12 a 18 dicembre, quindi il dominio completo Galibier-Thabor <strong>19 dicembre 2026 - 9 aprile 2027</strong>. In estate, Valloire gira il campo di base ciclistica tra Télégraphe e Galibier, con mountain bike e parapendio.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Het domein gelinkt aan Valmeinier, 1.430 tot 2.750 m verbonden door de pisten.",
+          "tag": "Galibier-Thabor",
+          "title": "160 km meer dan 5 bergen"
+        },
+        {
+          "description": "De beginner van het gehucht, rustig en gezinsvriendelijk, vrij van toegang.",
+          "tag": "Geen pass",
+          "title": "De gratis Les Verneys sleeplift"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Valloire</strong>, 'tussen de Col du Télégraphe en de Col du Galibier', opent de <strong>Galibier-Thabor</strong> domein, gekoppeld aan Valmeinier: '<strong>160 km runs verspreid over 5 berghellingen</strong>\", van 1.430 tot 2.750 m, met '70% van de runs boven 2000 m' en een snowpark 'zittend op 2.300 m'. Valloire's eigen flank de Sétaz en de Crey du Quart weegt 80 km, binnen het domein '90 loopt: 8 zwart, 33 rood, 32 blauw, 17 groen' en '30 moderne liften inclusief 2 gondels in het hart van het resort'. Wetenswaardig: er is 'geen shuttle tussen Valloire en Valmeinier' de link ligt alleen bij de hellingen.</p><p>Drie beginners gebieden stapelen zich op: Thymel (via de Sétaz gondel) en la Séa (via de Brive gondel), op speciale pasjes en '<strong>de Les Verneys sleeplift, vrij van toegang</strong>, in het gehucht met dezelfde naam, is een rustige, familiale ruimte.\" Het Les Verneys plateau biedt ook langlaufen, 'ideaal' per resort. De kilometerstand is niet gepubliceerd, dus we vinden het niet uit. In het dorp draagt de ijsbaan een lokale glijsportnaam: Philippe Candéloro.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Betaald",
+        "best_season": "19 december 2026 9 april 2027",
+        "commune": "Valloire",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Skigebied",
+        "winter_access": "open",
+        "winter_infra": [
+          "Skialpin",
+          "Skipfond"
+        ]
+      },
+      "faq": [
+        {
+          "a": "In drie fasen: previews op 5-6 december 2026, het Valloire-massief alleen al van 12 tot 18 december, dan het hele Galibier-Thabor-domein van 19 december 2026 tot 9 april 2027.",
+          "q": "Wanneer opent het seizoen 2026-27?"
+        },
+        {
+          "a": "Nee: het resort staat er 'geen shuttle tussen Valloire en Valmeinier' de twee Galibier-Thabor resorts alleen op ski's aansluiten.",
+          "q": "Kan je Valmeinier bereiken anders dan door de pisten?"
+        },
+        {
+          "a": "Drie gebieden: de Les Verneys sleeplift, gratis, in het Les Verneys gehucht \"een rustige familieruimte\"; Thymel en la Séa, bevestigd en bereikt door gondel met speciale dag- of progressieve passen.",
+          "q": "Waar leer je en voor hoeveel?"
+        },
+        {
+          "a": "'70% van de runs boven de 2000 m', een domein van 2750 m en een snowpark op 2.300 m' Hoogte doet het werk over deze vijf Maurienne berghellingen.",
+          "q": "Is de sneeuw betrouwbaar?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · Galibier-Thabor",
+        "lead": "Tussen de Col du Télégraphe en de Col du Galibier, een Maurienne dorp delen met Valmeinier '160 km van pistes verspreid over 5 berghellingen' 70% van hen boven de 2000 m."
+      },
+      "hero_alt": "Skater op de Valloire ijsbaan, Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D902 van Saint-Michel-de-Maurienne (A43), over de Col du Télégraphe.",
+        "public_transport": "Saint-Michel naar het SNCF-station Valloire en vervolgens over de Télégraphe."
+      },
+      "meta_description": "Valloire tussen de Télégraphe en de Galibier: het Galibier-Thabor domein gekoppeld aan Valmeinier, 160 km over 5 berghellingen, 70% van de runs boven 2000 m, gratis Les Verneys sleeplift. 2026-27 seizoen: 19 december tot en met 9 april.",
+      "meta_title": "Valloire · Galibier-Thabor, 160 km over 5 berghellingen",
+      "name": "Valloire",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Instellingen",
+          "v": "'Gelegen tussen de Col du Télégraphe en de Col du Galibier'"
+        },
+        {
+          "k": "Domein",
+          "v": "Galibier-Thabor 160 km, 90 pisten, 30 liften · Valloire massaf 80 km"
+        },
+        {
+          "k": "Hoogte",
+          "v": "1 430 2750 m · 70% van de runs boven 2000 m · snowpark op 2.300 m"
+        },
+        {
+          "k": "Seizoen 26/27",
+          "v": "19 december 2026 9 april 2027 (voorbeelden 5-6 en 12-18 december)"
+        },
+        {
+          "k": "Vrij",
+          "v": "Les Verneys sleeplift, de beginner van het gehucht"
+        },
+        {
+          "k": "Contactpersoon",
+          "v": "Valloire VVV · 210 rue des Grandes Alpes · +33 4 79 59 03 96"
+        }
+      ],
+      "schema_amenities": [
+        "Gratis Les Verneys sleeplift",
+        "Snowpark op 2.300 m",
+        "Philippe Candéloro-baan"
+      ],
+      "when_to_visit": "<p>Het seizoen 2026-27 wordt in drie fasen gepubliceerd: gedeeltelijke previews op <strong>5-6 december 2026</strong>, het Valloire-massief alleen al van 12 tot 18 december, dan het volledige Galibier-Thabor-domein <strong>19 december 2026 tot en met 9 april 2027</strong>. In de zomer draait Valloire fietsbasiskamp tussen de Télégraphe en de Galibier, met mountainbiken en paragliden.</p>"
+    }
+  },
+  "latitude": 45.165666,
+  "longitude": 6.429148,
+  "official_site_url": "https://www.valloire.net/profiter-de-valloire/le-ski/",
+  "partners": [],
+  "postal_code": "73450",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-18, FR pages only (valloire.net). Station « nichée entre le col du Télégraphe et le col du Galibier » ; domaine de 1 430 m à 2 750 m, « 70 % des pistes au-dessus de 2 000 m », snowpark « situé à 2300 m d'altitude ». Domaine Galibier-Thabor relié avec Valmeinier : « 160 km de pistes répartis sur 5 versants » ; massif de Valloire (Sétaz, Crey du Quart) 80 km ; « 90 pistes : 8 noires, 33 rouges, 32 bleues, 17 vertes » ; « 30 remontées mécaniques modernes dont 2 télécabines en cœur de station ». « Pas de navette entre Valloire et Valmeinier » (liaison par les pistes uniquement). Saison 26/27 publiée : domaine complet 19 décembre 2026 – 9 avril 2027 ; préouvertures 5-6 décembre ; massif de Valloire seul 12-18 décembre. GRATUIT : « Le téléski des Verneys, en accès gratuit, situé au hameau du même nom, est un espace calme et familial » ; espaces Thymel et la Séa par télécabine (forfaits spéciaux, non gratuits). Ski de fond au plateau des Verneys (km non publiés → null). Patinoire Philippe Candéloro. Été : cols du Télégraphe et du Galibier, VTT, parapente. Coordonnées IGN (adresse OT).",
+  "schema_org": {
+    "amenities": [],
+    "is_free": false,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "station-de-valloire",
+  "sources": [
+    "https://www.valloire.net/profiter-de-valloire/le-ski/",
+    "https://www.valloire.net/profiter-de-valloire/le-ski/le-domaine-skiable/",
+    "https://www.valloire.net/profiter-de-valloire/le-ski/la-glisse-pour-tous/les-espaces-debutants/",
+    "https://www.valloire.net/"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "SKI DE FOND — kilométrage nordique non publié sur les pages consultées ; non renseigné.",
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published; kept null."
+  ]
+}

@@ -444,6 +444,7 @@ CAT_TO_FR_HUB = {
     "plage": ("lacs-plages", "Lacs & plages"),
     "point-de-vue": ("points-de-vue", "Points de vue"),
     "sentier": ("sentiers", "Sentiers"),
+    "station": ("stations-de-ski", "Stations de ski"),
     "telecabine": ("telecabines", "Télécabines"),
     "voie-verte": ("voies-vertes", "Voies vertes"),
 }
@@ -461,6 +462,7 @@ HUB_LOCALE_SLUGS = {
     "sentiers":        {"fr": "sentiers",        "en": "trails",         "de": "wanderwege",        "it": "sentieri",        "es": "senderos",     "nl": "wandelpaden"},
     "telecabines":     {"fr": "telecabines",     "en": "cable-cars",     "de": "seilbahnen",        "it": "funivie",         "es": "telefericos",  "nl": "kabelbanen"},
     "voies-vertes":    {"fr": "voies-vertes",    "en": "greenways",      "de": "radwege",           "it": "vie-verdi",       "es": "vias-verdes",  "nl": "fietsroutes"},
+    "stations-de-ski": {"fr": "stations-de-ski", "en": "ski-resorts",    "de": "skigebiete",        "it": "stazioni-sciistiche", "es": "estaciones-de-esqui", "nl": "skigebieden"},
     "lacs-plages":     {"fr": "lacs-plages",     "en": "lakes",          "de": "seen",              "it": "laghi",           "es": "lagos",        "nl": "meren"},
     "bases-de-loisirs":{"fr": "bases-de-loisirs","en": "leisure-parks",  "de": "freizeitparks",     "it": "aree-ricreative", "es": "areas-de-ocio","nl": "recreatieparken"},
     # que-faire is a hub like any other and belongs in the same table. It was
@@ -480,6 +482,7 @@ HUB_LOCALE_LABELS = {
     "sentiers":        {"fr": "Sentiers",         "en": "Trails",           "de": "Wanderwege",       "it": "Sentieri",         "es": "Senderos",      "nl": "Wandelpaden"},
     "telecabines":     {"fr": "Télécabines",      "en": "Cable cars",       "de": "Seilbahnen",       "it": "Funivie",          "es": "Teleféricos",   "nl": "Kabelbanen"},
     "voies-vertes":    {"fr": "Voies vertes",     "en": "Greenways",        "de": "Radwege",          "it": "Vie verdi",        "es": "Vías verdes",   "nl": "Fietsroutes"},
+    "stations-de-ski": {"fr": "Stations de ski",  "en": "Ski resorts",      "de": "Skigebiete",       "it": "Stazioni sciistiche", "es": "Estaciones de esquí", "nl": "Skigebieden"},
     "lacs-plages":     {"fr": "Lacs & plages",    "en": "Lakes",            "de": "Seen",             "it": "Laghi",            "es": "Lagos",         "nl": "Meren"},
     "bases-de-loisirs":{"fr": "Bases de loisirs", "en": "Leisure parks",    "de": "Freizeitparks",    "it": "Aree ricreative",  "es": "Áreas de ocio", "nl": "Recreatieparken"},
 }

@@ -1,0 +1,37 @@
+{
+  "name": "Val d'Isère",
+  "commune": "Val-d'Isère",
+  "gps": {
+    "lat": 45.450377,
+    "lng": 6.978164
+  },
+  "type": "station",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": false,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "28 novembre 2026 – 2 mai 2027",
+  "winter": {
+    "access": "open",
+    "infrastructure": [
+      "ski_alpin",
+      "ski_fond",
+      "ski_rando",
+      "raquettes",
+      "luge"
+    ],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
+  "official_url": "https://www.valdisere.com/val-disere-en-hiver/ski-et-glisse/domaine-skiable-alpes-savoie/",
+  "last_verified": null
+}

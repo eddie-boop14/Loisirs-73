@@ -1,0 +1,37 @@
+{
+  "name": "Pralognan-la-Vanoise",
+  "commune": "Pralognan-la-Vanoise",
+  "gps": {
+    "lat": 45.372015,
+    "lng": 6.715221
+  },
+  "type": "station",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": false,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": null,
+  "winter": {
+    "access": "open",
+    "infrastructure": [
+      "ski_alpin",
+      "ski_fond",
+      "raquettes",
+      "chiens_traineau",
+      "ski_rando"
+    ],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
+  "official_url": "https://www.pralognan.com/activites/activites-hiver/ski-alpin/",
+  "last_verified": null
+}

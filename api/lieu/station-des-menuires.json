@@ -1,0 +1,35 @@
+{
+  "name": "Les Menuires",
+  "commune": "Les Belleville",
+  "gps": {
+    "lat": 45.327393,
+    "lng": 6.53682
+  },
+  "type": "station",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": false,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "5 décembre 2026 – 18 avril 2027",
+  "winter": {
+    "access": "open",
+    "infrastructure": [
+      "ski_alpin",
+      "luge",
+      "raquettes"
+    ],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
+  "official_url": "https://lesmenuires.com/fr/domaine-skiable",
+  "last_verified": null
+}

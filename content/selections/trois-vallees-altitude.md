@@ -13,6 +13,10 @@ Saulire, Mont Vallon, Pointe de la Masse, Cime Caron : les sommets des 3 Vallée
 - [Boucle du lac de la Rosière](https://loisirs73.fr/boucle-du-lac-de-la-rosiere-courchevel) — Courchevel · [md](https://loisirs73.fr/content/boucle-du-lac-de-la-rosiere-courchevel.md)
 - [Cascade des Poux](https://loisirs73.fr/cascade-des-poux-courchevel) — Courchevel · [md](https://loisirs73.fr/content/cascade-des-poux-courchevel.md)
 - [Lac de Tuéda](https://loisirs73.fr/lac-de-tueda-les-allues) — Les Allues · [md](https://loisirs73.fr/content/lac-de-tueda-les-allues.md)
+- [Courchevel](https://loisirs73.fr/station-de-courchevel) — Courchevel · [md](https://loisirs73.fr/content/station-de-courchevel.md)
+- [Méribel](https://loisirs73.fr/station-de-meribel) — Les Allues · [md](https://loisirs73.fr/content/station-de-meribel.md)
+- [Val Thorens](https://loisirs73.fr/station-de-val-thorens) — Les Belleville · [md](https://loisirs73.fr/content/station-de-val-thorens.md)
+- [Les Menuires](https://loisirs73.fr/station-des-menuires) — Les Belleville · [md](https://loisirs73.fr/content/station-des-menuires.md)
 - [Promenade du plan de l'Eau des Bruyères](https://loisirs73.fr/promenade-du-plan-de-l-eau-des-bruyeres) — Les Belleville · [md](https://loisirs73.fr/content/promenade-du-plan-de-l-eau-des-bruyeres.md)
 
 Source: https://loisirs73.fr/que-faire/les-3-vallees-en-altitude/

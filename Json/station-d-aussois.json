@@ -1,0 +1,626 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-18",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "station",
+  "commune": "Aussois",
+  "date_modified_human": "18 août 2026",
+  "date_published_human": "18 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-18",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-chiens-de-traineau-1.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Ein Human-Scale-Bereich — 21 Runs, 8 Lifts, 135 Schneekanonen.",
+          "tag": "Alpen",
+          "title": "55 km mit Blick auf den Vanoise"
+        },
+        {
+          "description": "39,5 km geteilt mit Val Cenis-Sardières, unterhalb der 93 m Monolith.",
+          "tag": "Nordwesten",
+          "title": "Skaten auf dem Monolithen"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Aussois</strong>, ein Dorf Resort bei <strong>1.500 m</strong> mit Blick nach Süden in Richtung Vanoise, hält eine menschliche Skala: <strong>55 km Laufstrecke</strong> (8 km grün, 19 blau, 19 rot, 3 schwarz), 21 markierte Pisten, 8 Aufzüge und 135 Schneekanonen, mit einem Snowpark und Schlittenflächen. Auf ihrem Höhepunkt widerspricht sich die offizielle Website: '1.500 m bis 2.700 m' auf der Skigebietsseite, '2.150 m am Sessellift Grand Jeu' auf der Homepage — Wir zitieren beide, ohne sie zu regeln.</p><p>Auf nordischer Seite teilt sich Aussois die <strong>Monolith</strong> Domain mit Val Cenis-Sardières: 39,5 km über 9 Trails per aussois.com — '39 km' pro valcenis.com, eine Nuance, die wir zitieren - präpariert für Schlittschuhlaufen und Klassiker zwischen 1.500 und 1.600 m, unter dem Sardières-Monolithen (der eine eigene Seite hat). Der Pass ist kostenlos für unter 5 und über 75 (Nachweis erforderlich); kein anderes kostenloses Angebot veröffentlicht wird. Das Dorf nennt sich \"das ideale Basislager für einen Familiensommer\": Aktivitäten, Wanderungen, Erbe und Natur vor den Toren des Vanoise-Nationalparks - \"Minuten von einem internationalen TGV-Bahnhof und der Autobahn\".</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Bezahlt",
+        "best_season": "12. Dezember 2026 – 9. April 2027",
+        "commune": "Aussois",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Skigebiet",
+        "winter_access": "open",
+        "winter_infra": [
+          "Ski alpin",
+          "ski fond",
+          "Raquetten",
+          "chiens traineau",
+          "Lastwagen"
+        ]
+      },
+      "faq": [
+        {
+          "a": "vom 12. Dezember 2026 bis 9. April 2027 — Veröffentlicht auf aussois.com. Für den Rekord hatte die Saison 2025-26 am 13. Dezember mit einer Voreröffnung von -20% eröffnet.",
+          "q": "Wann beginnt die Saison 2026-27?"
+        },
+        {
+          "a": "Die offizielle Website veröffentlicht beide: '1.500 m bis 2.700 m' auf der Skigebietsseite, '2.150 m am Sessellift Grand Jeu' auf der Homepage. Wir zitieren beide Zahlen, ohne zu entscheiden.",
+          "q": "Erreicht die Domain 2.150 oder 2.700 m?"
+        },
+        {
+          "a": "Auf der Monolithe-Domain, geteilt mit Val Cenis-Sardières: 39,5 km über 9 Trails pro aussois.com (39 km pro valcenis.com), Skating und Classic zwischen 1.500 und 1.600 m — Unterhalb des Sardières Monolithen.",
+          "q": "Wo Skifahren Sie Cross-Country in Aussois?"
+        },
+        {
+          "a": "Der Pass für unter 5 und über 75, auf Altersnachweis. Kein anderes kostenloses Angebot (Anfängerlift, Schlittenfahrt) wird auf den konsultierten Seiten veröffentlicht.",
+          "q": "Was ist kostenlos?"
+        }
+      ],
+      "hero": {
+        "badge": "Dorfresort · 1.500 m",
+        "lead": "Ein Haute Maurienne Dorf mit Blick auf den Süden in Richtung Vanoise Gletscher — 55 menschliche Kilometer Läufe und die Monolithe Nordic Domain mit Val Cenis geteilt."
+      },
+      "hero_alt": "Hundeschlittenteam bei Aussois, Haute Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D215 von Modane (A43), auf einem Balkon über dem Arc-Tal.",
+        "public_transport": "Modane SNCF Station (TGV), dann Reisebus oder Taxi — \"Minuten entfernt\"."
+      },
+      "meta_description": "Aussois (1.500 m), der nach Süden ausgerichtete Dorfort der Haute Maurienne: 55 km Pisten, 8 Lifte, die Monolithe Nordic Domain mit Val Cenis geteilt. Saison 2026-27: 12. Dezember bis 9. April.",
+      "meta_title": "Aussois · nach Süden ausgerichtetes Dorf Resort, 55 km vor dem Vanoise",
+      "name": "Aussois",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Höhe",
+          "v": "Dorf 1.500 m · Hochpunkt: 2 700 m (Skigebietsseite) oder 2 150 m (Homepage) — beide zitiert"
+        },
+        {
+          "k": "Domain",
+          "v": "55 km · 21 Pisten · 8 Lifte · 135 Schneekanonen · Nordic 39,5 km (Monolithe)"
+        },
+        {
+          "k": "Saison 26/27",
+          "v": "12. Dezember 2026 – 9. April 2027"
+        },
+        {
+          "k": "frei",
+          "v": "Pass unter 5 und 75+ (Nachweis erforderlich)"
+        },
+        {
+          "k": "Kontakt",
+          "v": "Haute Maurienne Vanoise Tourismusbüro · +33 4 79 05 99 06"
+        }
+      ],
+      "schema_amenities": [
+        "Schlittenbereiche",
+        "Snowpark",
+        "Monolithe Nordisches Gebiet"
+      ],
+      "when_to_visit": "<p>Die Saison 2026-27 wird veröffentlicht: <strong>12. Dezember 2026 bis 9. April 2027</strong>Winter fügt Schneeschuhwandern, Hundeschlittenfahren, Eisklettern und Gleitschirmfliegen hinzu; Im Sommer verspricht der Aktivitätspass (37 €, 5. Juli bis 30. August 2026) \"ein Maximum an Aktivitäten zu einem Minipreis\" an den Vanoise-Toren.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "A human-scale domain — 21 runs, 8 lifts, 135 snow guns.",
+          "tag": "Alpine",
+          "title": "55 km facing the Vanoise"
+        },
+        {
+          "description": "39.5 km shared with Val Cenis-Sardières, beneath the 93 m monolith.",
+          "tag": "Nordic",
+          "title": "Skating the Monolithe"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Aussois</strong>, a village resort at <strong>1,500 m</strong> facing full south toward the Vanoise, keeps a human scale: <strong>55 km of runs</strong> (8 km green, 19 blue, 19 red, 3 black), 21 waymarked runs, 8 lifts and 135 snow guns, with a snowpark and sledging areas. On its high point the official site contradicts itself: '1,500 m to 2,700 m' on the ski-area page, '2,150 m at the Grand Jeu chairlift' on the homepage — we quote both without settling it.</p><p>On the Nordic side, Aussois shares the <strong>Monolithe</strong> domain with Val Cenis-Sardières: 39.5 km over 9 trails per aussois.com — '39 km' per valcenis.com, a nuance we quote — groomed for skating and classic between 1,500 and 1,600 m, beneath the Sardières monolith (which has its own page). The pass is free for under-5s and over-75s (proof required); no other free offer is published. The village calls itself 'the ideal base camp for a family summer: activities, hikes, heritage and nature at the gates of the Vanoise National Park' — 'minutes from an international TGV station and the motorway'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Paid",
+        "best_season": "12 December 2026 – 9 April 2027",
+        "commune": "Aussois",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Ski resort",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin",
+          "ski_fond",
+          "raquettes",
+          "chiens_traineau",
+          "luge"
+        ]
+      },
+      "faq": [
+        {
+          "a": "From 12 December 2026 to 9 April 2027 — dates published on aussois.com. For the record, the 2025-26 season had opened 13 December with a -20% pre-opening.",
+          "q": "When does the 2026-27 season open?"
+        },
+        {
+          "a": "The official site publishes both: '1,500 m to 2,700 m' on the ski-area page, '2,150 m at the Grand Jeu chairlift' on the homepage. We quote both figures without arbitrating.",
+          "q": "Does the domain reach 2,150 or 2,700 m?"
+        },
+        {
+          "a": "On the Monolithe domain, shared with Val Cenis-Sardières: 39.5 km over 9 trails per aussois.com (39 km per valcenis.com), skating and classic between 1,500 and 1,600 m — beneath the Sardières monolith.",
+          "q": "Where do you ski cross-country in Aussois?"
+        },
+        {
+          "a": "The pass for under-5s and over-75s, on proof of age. No other free offer (beginner lift, sledging) is published on the pages consulted.",
+          "q": "What is free?"
+        }
+      ],
+      "hero": {
+        "badge": "Village resort · 1,500 m",
+        "lead": "A Haute Maurienne village facing full south toward the Vanoise glaciers — 55 human-scale kilometres of runs, and the Monolithe Nordic domain shared with Val Cenis."
+      },
+      "hero_alt": "Dog-sled team near Aussois, Haute Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D215 from Modane (A43), on a balcony above the Arc valley.",
+        "public_transport": "Modane SNCF station (TGV), then coach or taxi — 'minutes away'."
+      },
+      "meta_description": "Aussois (1,500 m), Haute Maurienne's south-facing village resort: 55 km of runs, 8 lifts, the Monolithe Nordic domain shared with Val Cenis. 2026-27 season: 12 December to 9 April.",
+      "meta_title": "Aussois · south-facing village resort, 55 km before the Vanoise",
+      "name": "Aussois",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Altitude",
+          "v": "Village 1,500 m · high point: 2,700 m (ski-area page) or 2,150 m (homepage) — both quoted"
+        },
+        {
+          "k": "Domain",
+          "v": "55 km · 21 runs · 8 lifts · 135 snow guns · Nordic 39.5 km (Monolithe)"
+        },
+        {
+          "k": "Season 26/27",
+          "v": "12 December 2026 – 9 April 2027"
+        },
+        {
+          "k": "Free",
+          "v": "Pass under 5 and 75+ (proof required)"
+        },
+        {
+          "k": "Contact",
+          "v": "Haute Maurienne Vanoise tourist office · +33 4 79 05 99 06"
+        }
+      ],
+      "schema_amenities": [
+        "Sledging areas",
+        "Snowpark",
+        "Monolithe Nordic domain"
+      ],
+      "when_to_visit": "<p>The 2026-27 season is published: <strong>12 December 2026 to 9 April 2027</strong>. Winter adds snowshoeing, dog sledding, ice climbing and paragliding; in summer the activity pass (€37, 5 July to 30 August 2026) promises 'a maximum of activities at a mini price' at the Vanoise gates.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "Un dominio a escala humana — 21 carreras, 8 ascensores, 135 armas de nieve.",
+          "tag": "Alpine",
+          "title": "55 km frente a la Vanoise"
+        },
+        {
+          "description": "39,5 km compartido con Val Cenis-Sardières, bajo el monolito de 93 m.",
+          "tag": "Nordic",
+          "title": "Skating el Monolithe"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Aussois</strong>, un complejo de pueblo en <strong>1.500 m</strong> mirando hacia el sur hacia el Vanoise, mantiene una escala humana: <strong>55 km de pistas</strong> (8 km verde, 19 azul, 19 rojo, 3 negro), 21 pistas de señalización, 8 ascensores y 135 pistolas de nieve, con un parque de nieve y áreas de trineo. En su punto alto el sitio oficial se contradice: '1 500 m a 2.700 m' en la página de esquí-área, '2 150 m en el sillín Grand Jeu' en la página principal — citamos ambos sin resolverlo.</p><p>En el lado nórdico, Aussois comparte el <strong>Monolithe</strong> dominio con Val Cenis-Sardières: 39,5 km sobre 9 senderos por aussois.com — '39 km' por valcenis.com, un matiz que citamos: apto para patinaje y clásico entre 1.500 y 1.600 m, bajo el monolito de Sardières (que tiene su propia página). El pase es gratuito para menores de 5 años y más de 75 años (prueba requerida); no se publica otra oferta gratuita. El pueblo se llama 'el campamento base ideal para un verano familiar: actividades, caminatas, patrimonio y naturaleza a las puertas del Parque Nacional Vanoise' — 'a minutos de una estación internacional de TGV y de la autopista'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagado",
+        "best_season": "12 diciembre 2026 – 9 de abril de 2027",
+        "commune": "Aussois",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Escuela de esquí",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski alpin",
+          "ski fond",
+          "raquetas",
+          "chiens traineau",
+          "Luge"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Del 12 de diciembre de 2026 al 9 de abril de 2027 — fechas publicadas en aussois.com. Para el registro, la temporada 2025-26 había abierto el 13 de diciembre con un -20% de pre-apertura.",
+          "q": "¿Cuándo se abre la temporada 2026-27?"
+        },
+        {
+          "a": "El sitio oficial publica ambos: '1 500 m a 2.700 m' en la página de esquí-área, '2 150 m en el sillín Grand Jeu' en la página principal. Citamos ambas cifras sin arbitrar.",
+          "q": "¿El dominio alcanza los 2.150 o 2.700 m?"
+        },
+        {
+          "a": "En el dominio Monolithe, compartido con Val Cenis-Sardières: 39,5 km sobre 9 senderos por aussois.com (39 km por valcenis.com), patinaje y clásico entre 1.500 y 1.600 m — bajo el monolito de Sardières.",
+          "q": "¿Dónde esquias cross-country en Aussois?"
+        },
+        {
+          "a": "El pase para menores de 5 años y mayores de 75 años, a prueba de edad. No se publica ninguna otra oferta gratuita (con ascensor inicial, trineo) en las páginas consultadas.",
+          "q": "¿Qué es gratis?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort de pueblo · 1.500 m",
+        "lead": "Un pueblo de Haute Maurienne mirando hacia el sur hacia los glaciares Vanoise — 55 kilómetros de carreras a escala humana, y el dominio nórdico Monolithe compartido con Val Cenis."
+      },
+      "hero_alt": "Equipo de perros cerca de Aussois, Haute Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D215 desde Modane (A43), en un balcón sobre el valle del Arco.",
+        "public_transport": "Estación Modane SNCF (TGV), luego autobús o taxi — \"a minutos de distancia\"."
+      },
+      "meta_description": "Aussois (1.500 m), la localidad de Haute Maurienne orientada al sur: 55 km de pistas, 8 ascensores, el dominio nórdico Monolithe compartido con Val Cenis. 2026-27 temporada: 12 de diciembre a 9 de abril.",
+      "meta_title": "Aussois · complejo urbano orientado al sur, 55 km antes de la Vanoise",
+      "name": "Aussois",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Altitud",
+          "v": "Pueblo 1 500 m · punto alto: 2.700 m (página de esquí) o 2.150 m (página de inicio) — ambos citados"
+        },
+        {
+          "k": "Dominio",
+          "v": "55 km · 21 pistas · 8 ascensores · 135 cañones de nieve · Nórdico 39,5 km (Monolithe)"
+        },
+        {
+          "k": "Temporada 26/27",
+          "v": "12 diciembre 2026 – 9 de abril de 2027"
+        },
+        {
+          "k": "Gratis",
+          "v": "Pase debajo de 5 y 75+ (prueba requerida)"
+        },
+        {
+          "k": "Contacto",
+          "v": "Haute Maurienne Vanoise oficina de turismo · +33 4 79 05 99 06"
+        }
+      ],
+      "schema_amenities": [
+        "Zonas de ensayo",
+        "Snowpark",
+        "Monolithe Nordic domain"
+      ],
+      "when_to_visit": "<p>La temporada 2026-27 se publica: <strong>12 de diciembre de 2026 a 9 de abril de 2027</strong>. El invierno añade raquetas de nieve, trineo de perros, escalada de hielo y parapente; in summer the activity pass (€37, 5 July to 30 August 2026) promises 'a maximum of activities at a mini price' at the Vanoise gates.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Un domaine à taille humaine — 21 pistes, 8 remontées, 135 enneigeurs.",
+          "tag": "Alpin",
+          "title": "55 km plein sud face à la Vanoise"
+        },
+        {
+          "description": "39,5 km partagés avec Val Cenis-Sardières, sous le monolithe de 93 m.",
+          "tag": "Nordique",
+          "title": "Le Monolithe en skating"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Aussois</strong>, village-station à <strong>1 500 m</strong> exposé plein sud face à la Vanoise, garde l'échelle humaine : <strong>55 km de pistes</strong> (8 km de vertes, 19 de bleues, 19 de rouges, 3 de noires), 21 pistes balisées, 8 remontées mécaniques et 135 enneigeurs, avec snowpark et espaces luge. Sur son point culminant, le site officiel se contredit : « 1500m à 2700m » sur la page du domaine skiable, « 2 150 m au télésiège du Grand Jeu » sur la page d'accueil — nous citons les deux sans trancher.</p><p>Côté nordique, Aussois partage avec Val Cenis-Sardières le domaine du <strong>Monolithe</strong> : 39,5 km sur 9 pistes selon aussois.com — « 39 kms » selon valcenis.com, nuance citée — tracés en skating et alternatif entre 1 500 et 1 600 m, sous le monolithe de Sardières (fiche dédiée). Le forfait est gratuit pour les moins de 5 ans et les plus de 75 ans (justificatif demandé) ; aucune autre gratuité n'est publiée. Le village se veut « le camp de base idéal pour un été en famille : activités, randonnées, patrimoine et nature aux portes du Parc national de la Vanoise » — « à quelques minutes d'une gare internationale TGV et de l'autoroute ».</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Payant",
+        "best_season": "12 décembre 2026 – 9 avril 2027",
+        "commune": "Aussois",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Station de ski",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin",
+          "ski_fond",
+          "raquettes",
+          "chiens_traineau",
+          "luge"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Du 12 décembre 2026 au 9 avril 2027 — dates publiées sur aussois.com. À titre de mémoire, la saison 2025-26 avait ouvert le 13 décembre avec une préouverture à -20 %.",
+          "q": "Quand ouvre la saison 2026-27 ?"
+        },
+        {
+          "a": "Le site officiel publie les deux : « 1500m à 2700m » sur la page domaine skiable, « 2 150 m au télésiège du Grand Jeu » en page d'accueil. Nous citons les deux chiffres sans arbitrer.",
+          "q": "Le domaine monte à 2 150 ou 2 700 m ?"
+        },
+        {
+          "a": "Sur le domaine du Monolithe, partagé avec Val Cenis-Sardières : 39,5 km sur 9 pistes selon aussois.com (39 km selon valcenis.com), en skating et alternatif entre 1 500 et 1 600 m — sous le monolithe de Sardières.",
+          "q": "Où skie-t-on de fond à Aussois ?"
+        },
+        {
+          "a": "Le forfait pour les moins de 5 ans et les plus de 75 ans, sur justificatif. Aucune autre gratuité (remontée débutant, luge) n'est publiée sur les pages consultées.",
+          "q": "Qu'est-ce qui est gratuit ?"
+        }
+      ],
+      "hero": {
+        "badge": "Village-station · 1 500 m",
+        "lead": "Un village de Haute Maurienne exposé plein sud face aux glaciers de la Vanoise — 55 km de pistes à taille humaine, et le domaine nordique du Monolithe partagé avec Val Cenis."
+      },
+      "hero_alt": "Attelage de chiens de traîneau près d'Aussois, Haute Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D215 depuis Modane (A43), en balcon au-dessus de la vallée de l'Arc.",
+        "public_transport": "Gare SNCF de Modane (TGV), puis autocar ou taxi — « à quelques minutes »."
+      },
+      "meta_description": "Aussois (1 500 m), village-station plein sud de Haute Maurienne : 55 km de pistes, 8 remontées, nordique du Monolithe partagé avec Val Cenis. Saison 2026-27 : 12 décembre – 9 avril.",
+      "meta_title": "Aussois · village-station plein sud, 55 km face à la Vanoise",
+      "name": "Aussois",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Altitude",
+          "v": "Village 1 500 m · point haut : 2 700 m (page domaine) ou 2 150 m (page d'accueil) — les deux cités"
+        },
+        {
+          "k": "Domaine",
+          "v": "55 km · 21 pistes · 8 remontées · 135 enneigeurs · nordique 39,5 km (Monolithe)"
+        },
+        {
+          "k": "Saison 26/27",
+          "v": "12 décembre 2026 – 9 avril 2027"
+        },
+        {
+          "k": "Gratuit",
+          "v": "Forfait <5 ans et 75+ (justificatif)"
+        },
+        {
+          "k": "Contact",
+          "v": "OT Haute Maurienne Vanoise · 04 79 05 99 06"
+        }
+      ],
+      "schema_amenities": [
+        "Espaces luge",
+        "Snowpark",
+        "Domaine nordique du Monolithe"
+      ],
+      "when_to_visit": "<p>Saison 2026-27 publiée : <strong>du 12 décembre 2026 au 9 avril 2027</strong>. L'hiver ajoute raquettes, chiens de traîneaux, cascade de glace et parapente ; l'été, le Pass activités (37 €, du 5 juillet au 30 août 2026) promet « un max d'activités à prix mini » aux portes de la Vanoise.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Un dominio su scala umana — 21 piste, 8 ascensori, 135 generatori di neve.",
+          "tag": "Alpi",
+          "title": "55 km di fronte al Vanoise"
+        },
+        {
+          "description": "39,5 km condiviso con Val Cenis-Sardières, sotto il monolite di 93 m.",
+          "tag": "Nordico",
+          "title": "Pattinaggio del Monolithe"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Aussois</strong>, un villaggio resort a <strong>1.500 m</strong> di fronte a sud verso la Vanoise, mantiene una scala umana: <strong>55 km di piste</strong> (8 km verde, 19 blu, 19 rosso, 3 nero), 21 piste segnalate, 8 ascensori e 135 cannoni da neve, con un snowpark e zone di slittamento. Al suo alto punto il sito ufficiale si contraddice: '1.500 m a 2.700 m' sulla pagina della ski-area, '2 150 m alla seggiovia Grand Jeu' sulla homepage — Citiamo entrambi senza fissarlo.</p><p>Sul lato nordico, Aussois condivide il <strong>Monolito</strong> dominio con Val Cenis-Sardières: 39,5 km su 9 percorsi per aussois.com — «39 km» per valcenis.com, una sfumatura che citiamo — curata per il pattinaggio e il classico tra 1.500 e 1.600 m, sotto il monolite Sardières (che ha la sua pagina). Il pass è gratuito per under-5 e over-75s (a prova richiesta); nessun'altra offerta gratuita è pubblicata. Il villaggio si chiama 'il campo base ideale per un'estate di famiglia: attività, escursioni, patrimonio e natura alle porte del Parco Nazionale Vanoise' — 'minuti da una stazione internazionale TGV e l'autostrada'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagato",
+        "best_season": "12 dicembre 2026 – 9 aprile 2027",
+        "commune": "Aussois",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Stazione sciistica",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski alpin",
+          "sci fond",
+          "racchette",
+          "Chiens traineau",
+          "L'acqua"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Dal 12 dicembre 2026 al 9 aprile 2027 — date pubblicate su aussois.com. Per la cronaca, la stagione 2025-26 aveva aperto il 13 dicembre con una pre-apertura del -20%.",
+          "q": "Quando apre la stagione 2026-27?"
+        },
+        {
+          "a": "Il sito ufficiale pubblica entrambi: ' 1.500 m a 2.700 m' sulla pagina della ski-area, '2 150 m alla seggiovia Grand Jeu' sulla homepage. Citiamo entrambe le figure senza arbitrare.",
+          "q": "Il dominio raggiunge 2 150 o 2 700 m?"
+        },
+        {
+          "a": "Sul dominio Monolithe, condiviso con Val Cenis-Sardières: 39,5 km su 9 percorsi per aussois.com (39 km per valcenis.com), pattinaggio e classico tra 1.500 e 1.600 m — sotto il monolite dei Sardières.",
+          "q": "Dove sci di fondo in Aussois?"
+        },
+        {
+          "a": "Il pass per meno di 5 anni e più di 75 anni, a prova di età. Nessuna altra offerta gratuita (trasferimento, slittamento) è pubblicata sulle pagine consultate.",
+          "q": "Che cosa è libero?"
+        }
+      ],
+      "hero": {
+        "badge": "Villaggio turistico · 1.500 m",
+        "lead": "Un villaggio Haute Maurienne rivolto a sud verso i ghiacciai Vanoise — 55 chilometri di piste su scala umana, e il dominio nordico Monolithe condiviso con Val Cenis."
+      },
+      "hero_alt": "Squadra di cani vicino a Aussois, Haute Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D215 da Modane (A43), su un balcone sopra la valle dell'Arco.",
+        "public_transport": "Stazione Modane SNCF (TGV), poi autobus o taxi — 'minuti di distanza'."
+      },
+      "meta_description": "Aussois (1.500 m), villaggio di Haute Maurienne rivolto a sud: 55 km di piste, 8 ascensori, il dominio Monolithe Nordic condiviso con Val Cenis. 2026-27 stagione: Dal 12 dicembre al 9 aprile.",
+      "meta_title": "Aussois · resort di villaggio a sud, 55 km prima dell'Vanoise",
+      "name": "Aussois",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Altitudine",
+          "v": "Villaggio 1.500 m · alto punto: 2.700 m (pagina di sci) o 2 150 m (pagina di casa) — entrambi citati"
+        },
+        {
+          "k": "Dominio",
+          "v": "55 km · 21 piste · 8 ascensori · 135 cannoni da neve · Nordic 39.5 km (Monolithe)"
+        },
+        {
+          "k": "Stagione 26/27",
+          "v": "12 dicembre 2026 – 9 aprile 2027"
+        },
+        {
+          "k": "Gratis",
+          "v": "Passo sotto 5 e 75+ (a prova richiesta)"
+        },
+        {
+          "k": "Contatto",
+          "v": "Haute Maurienne Vanoise ufficio turistico · +33 4 79 05 99 06"
+        }
+      ],
+      "schema_amenities": [
+        "Aree di scorrimento",
+        "Snowpark",
+        "Monolithe Nordic domain"
+      ],
+      "when_to_visit": "<p>La stagione 2026-27 è pubblicata: <strong>12 dicembre 2026 - 9 aprile 2027</strong>. Inverno aggiunge racchette da neve, slittamento del cane, arrampicata su ghiaccio e parapendio; in estate il pass di attività (€37, 5 luglio - 30 agosto 2026) promette 'un massimo di attività ad un prezzo minimo' alle porte Vanoise.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Een human-scale domein 21 runs, 8 liften, 135 sneeuwgeweren.",
+          "tag": "Alpen",
+          "title": "55 km naar de Vanoise"
+        },
+        {
+          "description": "39,5 km gedeeld met Val Cenis-Sardières, onder de 93 m monoliet.",
+          "tag": "Noors",
+          "title": "Schaatsen op de Monolithe"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Aussois</strong>, een dorp resort op <strong>1.500 m</strong> Gezicht volledig zuiden richting de Vanoise, houdt een menselijke schaal: <strong>55 km hardlopen</strong> (8 km groen, 19 blauw, 19 rood, 3 zwart), 21 bewegwijzerde pistes, 8 liften en 135 sneeuwgeweren, met een snowpark en sleegebieden. Op zijn hoogtepunt spreekt de officiële site zichzelf tegen: '1.500 m tot 2.700 m' op de skigebiedpagina, '2150 m bij de Grand Jeu stoeltjeslift' op de homepage We citeren beide zonder het te regelen.</p><p>Aan de Scandinavische kant deelt Aussois de <strong>Monolitheen</strong> domein met Val Cenis-Sardières: 39,5 km meer dan 9 paden per aussois.com '39 km' per valcenis.com, een nuance die wij citeren geschikt voor skaten en klassieker tussen 1500 en 1.600 m, onder de Sardières monoliet (die een eigen pagina heeft). De pas is vrij voor minder dan 5 jaar en ouder dan 75 jaar (bewijs vereist); er wordt geen andere gratis aanbieding gepubliceerd. Het dorp noemt zichzelf 'het ideale basiskamp voor een familie zomer: activiteiten, wandelingen, erfgoed en natuur aan de poorten van het Vanoise Nationaal Park'  \"minuten van een internationaal TGV-station en de snelweg.\"</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Betaald",
+        "best_season": "12 december 2026 9 april 2027",
+        "commune": "Aussois",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Skigebied",
+        "winter_access": "open",
+        "winter_infra": [
+          "Skialpin",
+          "Skipfond",
+          "raquettes",
+          "chiens traineau",
+          "luge"
+        ]
+      },
+      "faq": [
+        {
+          "a": "van 12 december 2026 tot en met 9 april 2027 data gepubliceerd op aussois.com. Voor de goede orde, het 2025-26 seizoen had geopend 13 december met een -20% voor opening.",
+          "q": "Wanneer opent het seizoen 2026-27?"
+        },
+        {
+          "a": "De officiële site publiceert zowel: '1.500 m tot 2.700 m' op de skigebiedpagina, '2150 m bij de Grand Jeu stoeltjeslift' op de homepage. Wij citeren beide cijfers zonder te oordelen.",
+          "q": "Bereikt het domein 2.150 of 2.700 m?"
+        },
+        {
+          "a": "Op het Monolithe domein, gedeeld met Val Cenis-Sardières: 39,5 km meer dan 9 trails per aussois.com (39 km per valcenis.com), skaten en klassieker tussen 1500 en 1.600 m onder de Sardières monoliet.",
+          "q": "Waar ski je langlaufen in Aussois?"
+        },
+        {
+          "a": "The pass for under-5s and over-75s, on proof of age. Geen andere gratis aanbieding (beginner lift, sleeding) wordt gepubliceerd op de geraadpleegde pagina's.",
+          "q": "Wat is gratis?"
+        }
+      ],
+      "hero": {
+        "badge": "Village resort · 1500 m",
+        "lead": "Een Haute Maurienne dorp met uitzicht op het volledige zuiden richting de Vanoise gletsjers 55 menselijke kilometers aan pistes, en het Monolithe Nordic domein gedeeld met Val Cenis."
+      },
+      "hero_alt": "Hondenploeg bij Aussois, Haute Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D215 van Modane (A43), op een balkon boven de Arc vallei.",
+        "public_transport": "Modane SNCF station (TGV), then coach or taxi — 'minuten weg'."
+      },
+      "meta_description": "Aussois (1500 m), het dorpsresort van Haute Maurienne op het zuiden: 55 km pistes, 8 liften, het Monolithe Nordic domein gedeeld met Val Cenis. 2026-27 seizoen: 12 december tot en met 9 april.",
+      "meta_title": "Aussois · zuidwaarts gelegen dorpsresort, 55 km voor de Vanoise",
+      "name": "Aussois",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Hoogte",
+          "v": "Dorp 1.500 m · hoog punt: 2.700 m (skigebied pagina) of 2.150 m (homepage) beide geciteerd"
+        },
+        {
+          "k": "Domein",
+          "v": "55 km · 21 pisten · 8 liften · 135 sneeuwgeweren · Nordic 39,5 km (Monolithe)"
+        },
+        {
+          "k": "Seizoen 26/27",
+          "v": "12 december 2026 9 april 2027"
+        },
+        {
+          "k": "Vrij",
+          "v": "Passeer onder 5 en 75+ (bewijs vereist)"
+        },
+        {
+          "k": "Contactpersoon",
+          "v": "Haute Maurienne Vanoise VVV · +33 4 79 05 99 06"
+        }
+      ],
+      "schema_amenities": [
+        "Sledeplaatsen",
+        "Snowpark",
+        "Monolithe Nordic domein"
+      ],
+      "when_to_visit": "<p>Het seizoen 2026-27 wordt gepubliceerd: <strong>12 december 2026 tot en met 9 april 2027</strong>. Winter voegt sneeuwschoenen, hondensleeën, ijsklimmen en paragliden; in de zomer belooft de activiteitspas (€37, 5 juli tot 30 augustus 2026) 'een maximum aan activiteiten tegen een miniprijs' aan de Vanoise poorten.</p>"
+    }
+  },
+  "latitude": 45.229546,
+  "longitude": 6.74217,
+  "official_site_url": "https://www.aussois.com/hiver/domaine-skiable/",
+  "partners": [],
+  "postal_code": "73500",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-18, FR pages only (aussois.com, valcenis.com pour le Monolithe). Village-station à 1 500 m, exposé plein sud face à la Vanoise ; domaine « 1500m à 2700m » (page domaine) — CONTRADICTION : page d'accueil « 2 150 m au télésiège du Grand Jeu » ; reportée. 55 km de pistes (8 vertes, 19 bleues, 19 rouges, 3 noires en km), 21 pistes, 8 remontées, 135 enneigeurs, snowpark, espaces luge. Nordique : 39,5 km sur 9 pistes (domaine du Monolithe partagé avec Val Cenis-Sardières ; valcenis.com écrit « 39 kms » — nuance citée). Saison 26/27 publiée : « Du 12/12/2026 au 09/04/2027 ». GRATUIT : forfait <5 ans et 75+ (justificatif) ; pas d'autre gratuité publiée. « Le camp de base idéal pour un été en famille… aux portes du Parc national de la Vanoise » ; Pass activités été 37 €. « À quelques minutes d'une gare internationale TGV et de l'autoroute ». Coordonnées IGN (commune).",
+  "schema_org": {
+    "amenities": [],
+    "is_free": false,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "station-d-aussois",
+  "sources": [
+    "https://www.aussois.com/hiver/domaine-skiable/",
+    "https://www.aussois.com/",
+    "https://www.valcenis.com/ski-et-glisse/le-domaine-nordique-de-val-cenis/"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "POINT HAUT — « 2 700 m » (page domaine skiable) vs « 2 150 m au télésiège du Grand Jeu » (page d'accueil) sur le même site officiel ; les deux cités, jamais arbitrés.",
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published; kept null."
+  ]
+}

@@ -1,0 +1,643 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-18",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "station",
+  "commune": "Les Belleville",
+  "date_modified_human": "18 août 2026",
+  "date_published_human": "18 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-18",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-snowboard-poudreuse.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "\"Frankreichs längster Schlittenlauf\", von Europas höchstem Resort.",
+          "tag": "Tag und Nacht",
+          "title": "Cosmojet, der 45-minütige Schlitten"
+        },
+        {
+          "description": "Eine 1.800 m große Doppelzipline und Abendskifahren auf dem Péclet-Gletscher.",
+          "tag": "Thrills",
+          "title": "La Bee und Péclet bei Nacht"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Val Thorens</strong>, im Belleville-Tal, sitzt auf 2.300 Metern, rangiert <strong>Europas höchstes Skigebiet</strong>„ — \"Schnee hält von November bis Mai auf dem Boden.\" Sechs Viertel bilden das Resort mit Ferienduftnamen: Soleil, Grande Rue, Balcons, Lombarde, Slalom und Plein Sud. Dieses semi-Fußgänger-Resort ist in nur zwanzig Minuten durchquert. Es beansprucht zehn Titel des \"besten Skigebiets der Welt\" und öffnet sich zum 3 Vallées, dem \"größten Skigebiet der Welt\".</p><p>Eine Transparenz ist zu verdanken: Die Website des Tourismusbüros (valthorens.com) war <strong>Unerreichbar am Forschungstag</strong> (anhaltender Fehler 403) — Diese Seite stützt sich daher auf die offizielle 3 Vallées-Association-Website, und die lokalen Zahlen der Domain (Kilometer, Läufe, eigene Lifte) bleiben bestehen <strong>nicht angegeben statt geschätzt</strong>Was überprüft wird: der kostenlose Shuttle zwischen den Quartieren und das Tal Shuttle nach Les Menuires und Saint-Martin, die <strong>Cosmojet</strong> Schlittenlauf — \"Frankreichs längste\", eine 45-minütige Abfahrt, bei Tag und bei Nacht - die 1.800 m La Bee doppelte Zipline und die Péclet bei Nachtabendski.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Bezahlt",
+        "best_season": "21. November 2026 – 2. Mai 2027",
+        "commune": "Les Belleville",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Skigebiet",
+        "winter_access": "open",
+        "winter_infra": [
+          "Ski alpin",
+          "Lastwagen",
+          "Raquetten",
+          "chiens traineau"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Da die Website des Tourismusbüros am Forschungstag nicht erreichbar war (403 Fehler), und wir nie eine Zahl schätzen: Die lokalen Statistiken der Domain bleiben bis zur Verifizierung an der Quelle nicht angegeben.",
+          "q": "Warum gibt diese Seite keine Pistenkilometer?"
+        },
+        {
+          "a": "Vom 21. November 2026 bis zum 2. Mai 2027 (mit Orelle) — Savoie's longest season, from the mid-November Grande Première to the early-May Grande Dernière. Auf 2.300 m hält \"Schnee von November bis Mai auf dem Boden\".",
+          "q": "Wann fahren Sie in Val Thorens?"
+        },
+        {
+          "a": "\"Frankreichs längster Schlittenlauf\": eine verspielte 45-minütige Abfahrt, geöffnet bei Tag und Nacht.",
+          "q": "Was ist der Cosmojet?"
+        },
+        {
+          "a": "Halbfußgänger: Sechs Viertel zu Fuß in zwanzig Minuten, ein kostenloser Shuttle zwischen ihnen und ein Tal Shuttle zu Les Menuires und Saint-Martin-de-Belleville.",
+          "q": "Ist das Resort Fußgänger?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · 2.300 m",
+        "lead": "Europas höchstes Skigebiet, Halbfußgänger, sechs Viertel in zwanzig Minuten gekreuzt — wo von November bis Mai Schnee herrscht und die Saison 2026-27 bereits am 21. November beginnt."
+      },
+      "hero_alt": "Snowboarden in Pulver bei Val Thorens, 2.300 m",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D117 von Moûtiers (A430), ganz am Ende des Belleville-Tals.",
+        "public_transport": "Moûtiers-Salins SNCF Station, dann Valley Coach."
+      },
+      "meta_description": "Val Thorens, Europas höchstes Skigebiet (2.300 m): Saison 21 November 2026 bis 2 Mai 2027, die Cosmojet — Frankreichs längste Schlittenfahrt – und kostenlose Shuttles. Unüberprüfbare Zahlen bleiben unausgesprochen.",
+      "meta_title": "Val Thorens · 2.300 m, Europas höchstes Resort",
+      "name": "Val Thorens",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Höhe",
+          "v": "2300 m — \"Europas höchstes Skigebiet\""
+        },
+        {
+          "k": "Viertel",
+          "v": "Soleil, Grande Rue, Balcons, Lombarde, Slalom, Plein Sud Halbfußgänger, 20 Minuten zu Fuß"
+        },
+        {
+          "k": "Saison 26/27",
+          "v": "21. November 2026 – 2. Mai 2027 (mit Orelle)"
+        },
+        {
+          "k": "frei",
+          "v": "Shuttle zwischen Quartieren · Valley Shuttle nach Les Menuires und Saint-Martin"
+        },
+        {
+          "k": "Lokale Domain",
+          "v": "Zahlen nicht verifizierbar am 18/08/2026 (Tourist-Office-Site nach unten) — links unausgesprochen"
+        },
+        {
+          "k": "Kontakt",
+          "v": "Val Thorens Tourismusbüro · +33 4 79 00 08 08"
+        }
+      ],
+      "schema_amenities": [
+        "Freie Shuttles",
+        "Cosmojet Schlitten",
+        "Halbfußgängerort"
+      ],
+      "when_to_visit": "<p>Die Saison 2026-27 wird veröffentlicht: <strong>21. November 2026 bis 2. Mai 2027</strong> (mit Orelle) — Savoie's längste, eröffnet von Mitte November 'Grande Première' und geschlossen von der 'Grande Dernière' des ersten Wochenendes im Mai. Im Sommer fahren die Lifte vom 4. Juli bis 28. August (Caron, Deux Lacs).</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "'France's longest sledge run', from Europe's highest resort.",
+          "tag": "Day and night",
+          "title": "Cosmojet, the 45-minute sledge"
+        },
+        {
+          "description": "A 1,800 m double zipline, and evening skiing on the Péclet glacier.",
+          "tag": "Thrills",
+          "title": "La Bee and Péclet by Night"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Val Thorens</strong>, in the Belleville valley, sits 'at 2,300 metres, ranked <strong>Europe's highest ski resort</strong>' — 'snow holds on the ground from November to May'. 'Six quarters make up the resort, with holiday-scented names: Soleil, Grande Rue, Balcons, Lombarde, Slalom and Plein Sud. This semi-pedestrian resort is crossed in just twenty minutes.' It claims ten titles of 'world's best ski resort', and opens onto the 3 Vallées, 'the world's largest ski area'.</p><p>One transparency is owed: the tourist office's site (valthorens.com) was <strong>unreachable on research day</strong> (persistent 403 error) — this page therefore relies on the official 3 Vallées association site, and the domain's local figures (kilometres, runs, own lifts) remain <strong>unstated rather than estimated</strong>. What is verified: the free shuttle between quarters and the valley shuttle to Les Menuires and Saint-Martin, the <strong>Cosmojet</strong> sledge run — 'France's longest', a 45-minute descent, by day and by night —, the 1,800 m La Bee double zipline and the Péclet by Night evening skiing.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Paid",
+        "best_season": "21 November 2026 – 2 May 2027",
+        "commune": "Les Belleville",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Ski resort",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin",
+          "luge",
+          "raquettes",
+          "chiens_traineau"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Because the tourist office's site was unreachable (403 error) on research day, and we never estimate a figure: the domain's local statistics stay unstated until verified at the source.",
+          "q": "Why does this page not give piste kilometres?"
+        },
+        {
+          "a": "From 21 November 2026 to 2 May 2027 (with Orelle) — Savoie's longest season, from the mid-November Grande Première to the early-May Grande Dernière. At 2,300 m, 'snow holds on the ground from November to May'.",
+          "q": "When do you ski in Val Thorens?"
+        },
+        {
+          "a": "'France's longest sledge run': a playful 45-minute descent, open by day and by night.",
+          "q": "What is the Cosmojet?"
+        },
+        {
+          "a": "Semi-pedestrian: six quarters crossed on foot in twenty minutes, a free shuttle between them, and a valley shuttle to Les Menuires and Saint-Martin-de-Belleville.",
+          "q": "Is the resort pedestrian?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · 2,300 m",
+        "lead": "Europe's highest ski resort, semi-pedestrian, six quarters crossed in twenty minutes — where snow holds from November to May and the 2026-27 season opens as early as 21 November."
+      },
+      "hero_alt": "Snowboarding in powder at Val Thorens, 2,300 m",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D117 from Moûtiers (A430), at the very end of the Belleville valley.",
+        "public_transport": "Moûtiers-Salins SNCF station, then valley coach."
+      },
+      "meta_description": "Val Thorens, Europe's highest ski resort (2,300 m): season 21 November 2026 to 2 May 2027, the Cosmojet — France's longest sledge run — and free shuttles. Unverifiable figures stay unstated.",
+      "meta_title": "Val Thorens · 2,300 m, Europe's highest resort",
+      "name": "Val Thorens",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Altitude",
+          "v": "2,300 m — 'Europe's highest ski resort'"
+        },
+        {
+          "k": "Quarters",
+          "v": "Soleil, Grande Rue, Balcons, Lombarde, Slalom, Plein Sud — semi-pedestrian, 20 min on foot"
+        },
+        {
+          "k": "Season 26/27",
+          "v": "21 November 2026 – 2 May 2027 (with Orelle)"
+        },
+        {
+          "k": "Free",
+          "v": "Shuttle between quarters · valley shuttle to Les Menuires and Saint-Martin"
+        },
+        {
+          "k": "Local domain",
+          "v": "Figures unverifiable on 18/08/2026 (tourist-office site down) — left unstated"
+        },
+        {
+          "k": "Contact",
+          "v": "Val Thorens tourist office · +33 4 79 00 08 08"
+        }
+      ],
+      "schema_amenities": [
+        "Free shuttles",
+        "Cosmojet sledge",
+        "Semi-pedestrian resort"
+      ],
+      "when_to_visit": "<p>The 2026-27 season is published: <strong>21 November 2026 to 2 May 2027</strong> (with Orelle) — Savoie's longest, opened by the mid-November 'Grande Première' and closed by the 'Grande Dernière' of May's first weekend. In summer the lifts run 4 July to 28 August (Caron, Deux Lacs).</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "\"La carrera más larga de Francia\", del complejo más alto de Europa.",
+          "tag": "Día y noche",
+          "title": "Cosmojet, la cornisa de 45 minutos"
+        },
+        {
+          "description": "Una doble cremallera de 1 800 m, y esquí nocturno en el glaciar Péclet.",
+          "tag": "Umbrales",
+          "title": "La Bee y Péclet por noche"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Val Thorens</strong>, en el valle de Belleville, se encuentra a 2.300 metros, <strong>La estación de esquí más alta de Europa</strong>' 'snow se mantiene en el suelo de noviembre a mayo'. 'Seis trimestres componen el complejo, con nombres de vacaciones: Soleil, Grande Rue, Balcons, Lombarde, Slalom y Plein Sud. Este complejo semi-peatonal se cruza en sólo veinte minutos.' Reclama diez títulos de la mejor estación de esquí del mundo y se abre a la 3 Vallées, \"la zona de esquí más grande del mundo\".</p><p>Se debe una transparencia: el sitio de la oficina de turismo (valthorens.com) <strong>inalcanzable en el día de la investigación</strong> (persistente error 403) — por lo tanto, esta página se basa en el sitio oficial de asociación 3 Vallées, y las figuras locales del dominio (kilometros, carreras, propios ascensores) permanecen <strong>en lugar de calcular</strong>. Lo que se verifica: el transbordador gratuito entre trimestres y el transbordador del valle a Les Menuires y Saint-Martin, el <strong>Cosmojet</strong> sledge run - 'El más largo de Francia', un descenso de 45 minutos, por día y por noche, la doble cremallera La Bee de 1.800 m y el Péclet por Noche.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagado",
+        "best_season": "21 noviembre 2026 – 2 de mayo de 2027",
+        "commune": "Les Belleville",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Escuela de esquí",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski alpin",
+          "Luge",
+          "raquetas",
+          "chiens traineau"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Debido a que el sitio de la oficina de turismo fue inalcanzable (403 error) en el día de investigación, y nunca estimamos una cifra: las estadísticas locales del dominio permanecen inestables hasta que sean verificadas en la fuente.",
+          "q": "¿Por qué esta página no da kilómetros de pista?"
+        },
+        {
+          "a": "Del 21 de noviembre de 2026 al 2 de mayo de 2027 (con Orelle) — La temporada más larga de Savoie, de mediados de noviembre Grande Première a principios de mayo Grande Dernière. A 2.300 m, 'snow se mantiene en el suelo de noviembre a mayo'.",
+          "q": "¿Cuándo esquias en Val Thorens?"
+        },
+        {
+          "a": "'La carrera más larga de Francia': un lúdico descenso de 45 minutos, abierto de día y de noche.",
+          "q": "¿Qué es el Cosmojet?"
+        },
+        {
+          "a": "Semi-pedestrian: Seis cuartos cruzaron a pie en veinte minutos, un transbordador gratuito entre ellos, y un transbordador de valle a Les Menuires y Saint-Martin-de-Belleville.",
+          "q": "¿Es el peatón del complejo?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · 2.300 m",
+        "lead": "La estación de esquí más alta de Europa, semipedestria, seis trimestres cruzados en veinte minutos — donde se mantiene la nieve de noviembre a mayo y la temporada 2026-27 se abre tan temprano como el 21 de noviembre."
+      },
+      "hero_alt": "Snowboarding en polvo en Val Thorens, 2.300 m",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D117 de Moûtiers (A430), al final del valle de Belleville.",
+        "public_transport": "Estación de Moûtiers-Salins SNCF, luego entrenador del valle."
+      },
+      "meta_description": "Val Thorens, la estación de esquí más alta de Europa (2.300 m): del 21 de noviembre de 2026 al 2 de mayo de 2027, el Cosmojet La carrera más larga de Francia — y transbordadores gratis. Las cifras no verificables permanecen inestables.",
+      "meta_title": "Val Thorens · 2.300 m, el resort más alto de Europa",
+      "name": "Val Thorens",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Altitud",
+          "v": "2.300 m – 'La estación de esquí más alta de Europa'"
+        },
+        {
+          "k": "Barrios",
+          "v": "Soleil, Grande Rue, Balcons, Lombarde, Slalom, Plein Sud — semipedestrian, 20 min a pie"
+        },
+        {
+          "k": "Temporada 26/27",
+          "v": "21 noviembre 2026 – 2 May 2027 (con Orelle)"
+        },
+        {
+          "k": "Gratis",
+          "v": "Transbordador entre trimestres · transbordador al valle a Les Menuires y Saint-Martin"
+        },
+        {
+          "k": "Dominio local",
+          "v": "Figuras no verificables el 18/08/2026 (sitio de oficina turístico abajo) — izquierda sin estado"
+        },
+        {
+          "k": "Contacto",
+          "v": "Val Thorens tourist office · +33 4 79 00 08 08"
+        }
+      ],
+      "schema_amenities": [
+        "Traslados gratuitos",
+        "Sledge Cosmojet",
+        "Semi-pedestrian resort"
+      ],
+      "when_to_visit": "<p>La temporada 2026-27 se publica: <strong>21 de noviembre de 2026 a 2 de mayo de 2027</strong> (con Orelle) El más largo de Savoie, abierto a mediados de noviembre 'Grande Première' y cerrado por el 'Grande Dernière' del primer fin de semana de mayo. En verano los ascensores funcionan del 4 de julio al 28 de agosto (Caron, Deux Lacs).</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "« La plus longue piste de luge de France », au départ de la plus haute station d'Europe.",
+          "tag": "Jour et soir",
+          "title": "Cosmojet, la luge de 45 minutes"
+        },
+        {
+          "description": "Double tyrolienne de 1 800 m, et ski en soirée sur le glacier de Péclet.",
+          "tag": "Sensations",
+          "title": "La Bee et Péclet by Night"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Val Thorens</strong>, dans la vallée des Belleville, est « à 2 300 mètres d'altitude classée <strong>plus haute station de ski d'Europe</strong> » — « la neige tient au sol de novembre à mai ». « Six quartiers composent la station, avec des noms fleurant bon les vacances : Soleil, Grande Rue, Balcons, Lombarde, Slalom et Plein Sud. Cette station semi-piétonne se traverse en vingt minutes seulement. » Elle revendique dix titres de « meilleure station de ski du monde », et ouvre sur les 3 Vallées, « le plus grand domaine skiable du monde ».</p><p>Une transparence s'impose : le site de l'office de tourisme (valthorens.com) était <strong>inaccessible le jour de la recherche</strong> (erreur 403 persistante) — cette fiche s'appuie donc sur le site officiel de l'association des 3 Vallées, et les chiffres locaux du domaine (kilomètres, pistes, remontées propres) restent <strong>non renseignés plutôt qu'estimés</strong>. Ce qui est vérifié : la navette gratuite entre les quartiers et la navette de vallée vers Les Menuires et Saint-Martin, la luge <strong>Cosmojet</strong> — « la plus longue piste de luge de France », 45 minutes de descente, en journée comme en soirée —, la double tyrolienne La Bee (1 800 m) et le ski en soirée Péclet by Night.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Payant",
+        "best_season": "21 novembre 2026 – 2 mai 2027",
+        "commune": "Les Belleville",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Station de ski",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin",
+          "luge",
+          "raquettes",
+          "chiens_traineau"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Parce que le site de l'office de tourisme était inaccessible (erreur 403) le jour de la recherche, et que nous n'estimons jamais un chiffre : les statistiques locales du domaine restent non renseignées jusqu'à vérification à la source.",
+          "q": "Pourquoi la fiche ne donne-t-elle pas les kilomètres de pistes ?"
+        },
+        {
+          "a": "Du 21 novembre 2026 au 2 mai 2027 (avec Orelle) — la saison la plus longue de Savoie, de la Grande Première de mi-novembre à la Grande Dernière de début mai. À 2 300 m, « la neige tient au sol de novembre à mai ».",
+          "q": "Quand skie-t-on à Val Thorens ?"
+        },
+        {
+          "a": "« La plus longue piste de luge de France » : 45 minutes de descente ludique, praticable en journée comme en soirée.",
+          "q": "Qu'est-ce que le Cosmojet ?"
+        },
+        {
+          "a": "Semi-piétonne : six quartiers qui se traversent en vingt minutes à pied, une navette gratuite entre eux, et une navette de vallée vers Les Menuires et Saint-Martin-de-Belleville.",
+          "q": "La station est-elle piétonne ?"
+        }
+      ],
+      "hero": {
+        "badge": "Station · 2 300 m",
+        "lead": "La plus haute station de ski d'Europe, semi-piétonne, six quartiers qui se traversent en vingt minutes — où la neige tient de novembre à mai et où la saison 2026-27 ouvre dès le 21 novembre."
+      },
+      "hero_alt": "Snowboard dans la poudreuse à Val Thorens, 2 300 m",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D117 depuis Moûtiers (A430), tout au bout de la vallée des Belleville.",
+        "public_transport": "Gare SNCF de Moûtiers-Salins, puis autocar de vallée."
+      },
+      "meta_description": "Val Thorens, plus haute station de ski d'Europe (2 300 m) : saison du 21 novembre 2026 au 2 mai 2027, luge Cosmojet la plus longue de France, navettes gratuites. Les chiffres non vérifiables restent non renseignés.",
+      "meta_title": "Val Thorens · 2 300 m, la plus haute station d'Europe",
+      "name": "Val Thorens",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Altitude",
+          "v": "2 300 m — « plus haute station de ski d'Europe »"
+        },
+        {
+          "k": "Quartiers",
+          "v": "Soleil, Grande Rue, Balcons, Lombarde, Slalom, Plein Sud — semi-piétonne, 20 min à pied"
+        },
+        {
+          "k": "Saison 26/27",
+          "v": "21 novembre 2026 – 2 mai 2027 (avec Orelle)"
+        },
+        {
+          "k": "Gratuit",
+          "v": "Navette entre quartiers · navette vallée vers Les Menuires et Saint-Martin"
+        },
+        {
+          "k": "Domaine local",
+          "v": "Chiffres non vérifiables le 18/08/2026 (site OT inaccessible) — non renseignés"
+        },
+        {
+          "k": "Contact",
+          "v": "OT Val Thorens · 04 79 00 08 08"
+        }
+      ],
+      "schema_amenities": [
+        "Navettes gratuites",
+        "Luge Cosmojet",
+        "Station semi-piétonne"
+      ],
+      "when_to_visit": "<p>Saison 2026-27 publiée : <strong>du 21 novembre 2026 au 2 mai 2027</strong> (avec Orelle) — la plus longue de Savoie, ouverte par « la Grande Première » de mi-novembre et refermée par « la Grande Dernière » du premier week-end de mai. L'été, les remontées tournent du 4 juillet au 28 août (Caron, Deux Lacs).</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "«La corsa più lunga della Francia», dal resort più alto d'Europa.",
+          "tag": "Giorno e notte",
+          "title": "Cosmojet, la slitta di 45 minuti"
+        },
+        {
+          "description": "A 1 800 m doppio zipline, e sci serale sul ghiacciaio Péclet.",
+          "tag": "Thrills",
+          "title": "La Bee e Péclet di notte"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Val Thorens</strong>, nella valle di Belleville, si trova a 2.300 metri, classificato <strong>La stazione sciistica più alta d'Europa</strong>« 'snow detiene a terra da novembre a maggio'. 'Sei quarti compongono il resort, con i nomi delle vacanze: Soleil, Grande Rue, Balconi, Lombarde, Slalom e Plein Sud. Questo resort semi-pedonale è attraversato in soli venti minuti.' Esso rivendica dieci titoli della migliore stazione sciistica del mondo, e si apre sulla 3 Vallées, 'la più grande area sciistica del mondo'.</p><p>Una trasparenza è dovuta: il sito dell'ufficio turistico (valthorens.com) era <strong>irraggiungibile nel giorno della ricerca</strong> (persistente 403 errore) — questa pagina si basa quindi sul sito ufficiale di associazione 3 Vallées, e le figure locali del dominio (kilometres, run, propri ascensori) rimangono <strong>piuttosto che stimata</strong>. Che cosa è verificato: la navetta gratuita tra i quarti e la navetta a valle per Les Menuires e Saint-Martin, la <strong>Cosmojet</strong> ) «La Francia è più lunga», una discesa di 45 minuti, di giorno e di notte —, la doppia zipline La Bee di 1800 m e la Péclet di sera.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagato",
+        "best_season": "21 novembre 2026 – 2 maggio 2027",
+        "commune": "Les Belleville",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Stazione sciistica",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski alpin",
+          "L'acqua",
+          "racchette",
+          "Chiens traineau"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Poiché il sito dell'ufficio turistico era irraggiungibile (403 errore) il giorno della ricerca, e non abbiamo mai stimare una cifra: le statistiche locali del dominio rimangono instabili fino a verificate alla fonte.",
+          "q": "Perché questa pagina non dà chilometri di piste?"
+        },
+        {
+          "a": "Dal 21 novembre 2026 al 2 maggio 2027 (con Orelle) — La stagione più lunga di Savoie, dalla metà di novembre Grande Première al primo maggio Grande Dernière. A 2.300 m, 'snow detiene a terra da novembre a maggio'.",
+          "q": "Quando sciare in Val Thorens?"
+        },
+        {
+          "a": "'La corsa più lunga della Francia': una discese di 45 minuti, aperta di giorno e di notte.",
+          "q": "Cos'è Cosmojet?"
+        },
+        {
+          "a": "Semi-pedonale: sei quarti attraversati a piedi in venti minuti, una navetta gratuita tra loro, e una navetta a valle per Les Menuires e Saint-Martin-de-Belleville.",
+          "q": "Il resort è pedonale?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · 2.300 m",
+        "lead": "La stazione sciistica più alta d'Europa, semi-pedonale, sei quarti attraversati in venti minuti — dove la neve detiene da novembre a maggio e la stagione 2026-27 si apre a partire dal 21 novembre."
+      },
+      "hero_alt": "Snowboarding in polvere a Val Thorens, 2.300 m",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D117 da Moûtiers (A430), alla fine della valle di Belleville.",
+        "public_transport": "Stazione Moûtiers-Salins SNCF, poi allenatore di valle."
+      },
+      "meta_description": "Val Thorens, la stazione sciistica più alta d'Europa (2.300 m): stagione 21 novembre 2026 a 2 maggio 2027, Cosmojet — La corsa più lunga della Francia — e navette gratuite. Le cifre inaffidabili rimangono instabili.",
+      "meta_title": "Val Thorens · 2.300 m, il resort più alto d'Europa",
+      "name": "Val Thorens",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Altitudine",
+          "v": "2.300 m — \"La stazione sciistica più alta d'Europa\""
+        },
+        {
+          "k": "Quartieri",
+          "v": "Soleil, Grande Rue, Balconi, Lombarde, Slalom, Plein Sud — semi-pedonale, 20 min a piedi"
+        },
+        {
+          "k": "Stagione 26/27",
+          "v": "21 novembre 2026 – 2 maggio 2027 (con Orelle)"
+        },
+        {
+          "k": "Gratis",
+          "v": "Navetta tra i quarti · navetta a valle per Les Menuires e Saint-Martin"
+        },
+        {
+          "k": "Dominio locale",
+          "v": "Figure rivelabili il 18/08/2026 (sito turistico in giù) — sinistra non stabilita"
+        },
+        {
+          "k": "Contatto",
+          "v": "Val Thorens ufficio turistico · +33 4 79 00 08 08"
+        }
+      ],
+      "schema_amenities": [
+        "Navette gratuite",
+        "Slittamento Cosmojet",
+        "Località semi-pedonale"
+      ],
+      "when_to_visit": "<p>La stagione 2026-27 è pubblicata: <strong>21 novembre 2026 - 2 maggio 2027</strong> (con Orelle) — Savoie è il più lungo, aperto dalla metà di novembre 'Grande Première' e chiuso dal 'Grande Dernière' del primo fine settimana di maggio. In estate gli impianti di risalita vanno dal 4 luglio al 28 agosto (Caron, Deux Lacs).</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "De langste slederit van Frankrijk, uit het hoogste resort van Europa.",
+          "tag": "Dag en nacht",
+          "title": "Cosmojet, de 45 minuten slee"
+        },
+        {
+          "description": "Een 1800 m dubbele zipline, en avondskiën op de Péclet gletsjer.",
+          "tag": "Opwinding",
+          "title": "La Bee en Péclet bij nacht"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Val Thorens</strong>, in de Belleville vallei, op 2.300 meter, gerangschikt <strong>Het hoogste skigebied van Europa</strong>' 'sneeuw houdt op de grond van november tot mei'. 'Zes kwartjes vormen het resort, met vakantiegeur namen: Soleil, Grande Rue, Balcons, Lombarde, Slalom en Plein Sud. Dit semi-pedestrische resort wordt in slechts twintig minuten overgestoken.' Het claimt tien titels van 's werelds beste skigebied', en opent zich op de 3 Vallées, 's werelds grootste skigebied'.</p><p>Eén transparantie is verschuldigd: de site van het VVV (valthorens.com) was <strong>onbereikbaar op onderzoeksdag</strong> (permanente 403 fout) deze pagina is daarom gebaseerd op de officiële 3 Vallées associatie site, en de lokale cijfers van het domein (kilometers, runs, eigen liften) blijven <strong>niet vermeld in plaats van geschat</strong>- Wat wordt geverifieerd: de gratis shuttle tussen de vertrekken en de vallei shuttle naar Les Menuires en Saint-Martin, de <strong>Cosmojet</strong> slee run 'Frankrijk's langste', een 45 minuten durende afdaling, overdag en 's nachts, de 1800 m La Bee dubbele zipline en de Péclet by Night avondskiën.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Betaald",
+        "best_season": "21 november 2026 2 mei 2027",
+        "commune": "Les Belleville",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Skigebied",
+        "winter_access": "open",
+        "winter_infra": [
+          "Skialpin",
+          "luge",
+          "raquettes",
+          "chiens traineau"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Omdat de site van het VVV onbereikbaar was (403 fout) op de onderzoeksdag, en we nooit een cijfer schatten: de lokale statistieken van het domein blijven onaangekondigd totdat geverifieerd bij de bron.",
+          "q": "Waarom geeft deze pagina geen piste kilometers?"
+        },
+        {
+          "a": "van 21 november 2026 tot en met 2 mei 2027 (met Orelle) Het langste seizoen van Savoie, van half november Grande Première tot begin mei Grande Dernière. Op 2.300 m, 'sneeuw houdt op de grond van november tot mei'.",
+          "q": "Wanneer ski je in Val Thorens?"
+        },
+        {
+          "a": "'Frankrijk's langste sleebaan': een speelse 45 minuten afdaling, open overdag en 's nachts.",
+          "q": "Wat is de Cosmojet?"
+        },
+        {
+          "a": "Halfvoetigen: Zes kwartier te voet gekruist in twintig minuten, een gratis shuttle tussen hen, en een dal shuttle naar Les Menuires en Saint-Martin-de-Belleville.",
+          "q": "Is het resort voetgangers?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · 2.300 m",
+        "lead": "Europa's hoogste skigebied, semi-pedestriaan, zes kwartieren gekruist in twintig minuten  waar sneeuw van november tot mei en het seizoen 2026-27 opent al op 21 november."
+      },
+      "hero_alt": "Snowboarden in poeder bij Val Thorens, 2.300 m",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D117 uit Moûtiers (A430), aan het einde van de Bellevillevallei.",
+        "public_transport": "Moûtiers-Salins SNCF-station, dan dalcoach."
+      },
+      "meta_description": "Val Thorens, het hoogste skigebied van Europa (2300 m): het seizoen 21 november 2026 tot 2 mei 2027, de Cosmojet De langste slede van Frankrijk  en gratis shuttles. Onverifieerbare cijfers blijven niet vermeld.",
+      "meta_title": "Val Thorens · 2.300 m, het hoogste resort van Europa",
+      "name": "Val Thorens",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Hoogte",
+          "v": "2.300 m 'Het hoogste skigebied van Europa'"
+        },
+        {
+          "k": "Kwartels",
+          "v": "Soleil, Grande Rue, Balcons, Lombarde, Slalom, Plein Sud semi-pedestriaan, 20 min te voet"
+        },
+        {
+          "k": "Seizoen 26/27",
+          "v": "21 november 2026 2 mei 2027 (met Orelle)"
+        },
+        {
+          "k": "Vrij",
+          "v": "Shuttle tussen wijken · vallei shuttle naar Les Menuires en Saint-Martin"
+        },
+        {
+          "k": "Lokaal domein",
+          "v": "Cijfers niet te verifiëren op 18/08/2026 (toeristische-kantoor site naar beneden) niet opgegeven"
+        },
+        {
+          "k": "Contactpersoon",
+          "v": "Val Thorens VVV · +33 4 79 00 08 08"
+        }
+      ],
+      "schema_amenities": [
+        "Gratis pendeldiensten",
+        "Cosmojet slee",
+        "Semi-pedestrische resort"
+      ],
+      "when_to_visit": "<p>Het seizoen 2026-27 wordt gepubliceerd: <strong>21 november 2026 tot en met 2 mei 2027</strong> (met Orelle) Het langste van Savoie, geopend door half november 'Grande Première' en afgesloten door de 'Grande Dernière' van mei's eerste weekend. In de zomer lopen de liften 4 juli tot 28 augustus (Caron, Deux Lacs).</p>"
+    }
+  },
+  "latitude": 45.297213,
+  "longitude": 6.57718,
+  "official_site_url": "https://www.les3vallees.com/fr/station/val-thorens",
+  "partners": [],
+  "postal_code": "73440",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-18. ATTENTION SOURCE : valthorens.com (site OT) renvoyait une erreur Cloudflare 403 sur toutes les pages testées — la fiche s'appuie sur les3vallees.com (site officiel de l'association du domaine). « À 2 300 mètres d'altitude classée plus haute station de ski d'Europe » ; « la neige tient au sol de novembre à mai » ; six quartiers, station semi-piétonne traversée en vingt minutes ; « 10 fois meilleure station de ski du monde ». Stats locales (km, pistes, remontées propres) NON vérifiables → null, flag posé. Saison 26/27 publiée : Val Thorens et Orelle du 21 novembre 2026 au 2 mai 2027, entre la Grande Première et la Grande Dernière. Navette gratuite entre quartiers + navette vallée vers Les Menuires et Saint-Martin. Luge Cosmojet « la plus longue piste de luge de France », 45 min, jour et soirée. Tyrolienne La Bee 1 800 m. Été : remontées 04/07–28/08 (Caron, Deux Lacs…).",
+  "schema_org": {
+    "amenities": [],
+    "is_free": false,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "station-de-val-thorens",
+  "sources": [
+    "https://www.les3vallees.com/fr/station/val-thorens",
+    "https://www.les3vallees.com/fr/news/ouvertures-3-vallees"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "SOURCE — valthorens.com inaccessible (Cloudflare 403) le 18/08/2026 sur toutes les pages testées ; fiche établie sur les3vallees.com. Stats locales du domaine (km/pistes/remontées propres) non vérifiables : null, jamais estimées.",
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published; kept null."
+  ]
+}

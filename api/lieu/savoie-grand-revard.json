@@ -1,0 +1,39 @@
+{
+  "name": "Savoie Grand Revard",
+  "commune": "Les Déserts",
+  "gps": {
+    "lat": 45.645381,
+    "lng": 5.983047
+  },
+  "type": "station",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": false,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": null,
+  "winter": {
+    "access": "open",
+    "infrastructure": [
+      "ski_nordique",
+      "ski_fond",
+      "ski_alpin",
+      "raquettes",
+      "chiens_traineau",
+      "luge",
+      "ski_rando"
+    ],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
+  "official_url": "https://www.chamberymontagnes.com/savoiegrandrevard/",
+  "last_verified": null
+}

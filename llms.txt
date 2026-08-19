@@ -1,8 +1,8 @@
 # Loisirs 73
 
-> Independent guide to public leisure sites in Savoie, France. Waterfalls, Castles, Domaine, Lakes, Museums, Beaches, Mountain passes and viewpoints, Trails, Cable cars and lifts, Greenways — every fact verified against official sources (communes, tourism offices, ONF).
+> Independent guide to public leisure sites in Savoie, France. Waterfalls, Castles, Domaine, Lakes, Museums, Beaches, Mountain passes and viewpoints, Trails, Ski resorts, Cable cars and lifts, Greenways — every fact verified against official sources (communes, tourism offices, ONF).
 
-Loisirs 73 catalogs 113 leisure destinations in the Savoie department (73), French Alps. Each destination exposes three machine surfaces (below) plus HTML pages in 6 languages (French canonical).
+Loisirs 73 catalogs 129 leisure destinations in the Savoie department (73), French Alps. Each destination exposes three machine surfaces (below) plus HTML pages in 6 languages (French canonical).
 
 ## URL patterns (per lieu — fastest lane for agents)
 
@@ -33,18 +33,19 @@ Content quality signals: Every fact has a cited source. No marketing language. I
 
 ## Discovery files
 
-- [llms-full.txt — full content concatenated](https://loisirs73.fr/llms-full.txt): All 113 leisure sites' FR facet md — single file for full ingestion.
+- [llms-full.txt — full content concatenated](https://loisirs73.fr/llms-full.txt): All 129 leisure sites' FR facet md — single file for full ingestion.
 - [API — lieux index JSON](https://loisirs73.fr/api/lieux.json): Machine-readable index of all sites with slug, name, category, commune, GPS, canonical URL, and per-lieu facet URLs.
 - [Sitemap index](https://loisirs73.fr/sitemap.xml): Standard XML sitemap with lastmod, hreflang, image entries.
 - [.well-known/ai-info.json](https://loisirs73.fr/.well-known/ai-info.json): Discovery manifest with all AI-related endpoints.
 
 ## Éditorial / Sélections (compiled best-of pages, stated criteria)
 
+- [Les cormets du Beaufortain : Roselend et Arêches](https://loisirs73.fr/content/selections/beaufortain-cols.md): 6 lieux · page: https://loisirs73.fr/que-faire/cols-du-beaufortain/
 - [Les cols de Maurienne à vélo : profils et ouvertures](https://loisirs73.fr/content/selections/cols-maurienne-velo.md): 9 lieux · page: https://loisirs73.fr/que-faire/cols-de-maurienne-a-velo/
 - [Les grands cols de Savoie : altitudes, ouvertures, accès](https://loisirs73.fr/content/selections/cols-savoie.md): 15 lieux · page: https://loisirs73.fr/que-faire/cols-de-savoie/
 - [Téléphériques et télécabines de Savoie : horaires et tarifs vérifiés](https://loisirs73.fr/content/selections/remontees-savoie.md): 15 lieux · page: https://loisirs73.fr/que-faire/remontees-mecaniques-savoie/
 - [La Tarentaise en altitude : glaciers, funiculaire et téléphériques](https://loisirs73.fr/content/selections/tarentaise-altitude.md): 14 lieux · page: https://loisirs73.fr/que-faire/tarentaise-en-altitude/
-- [Les 3 Vallées en altitude : les points hauts accessibles](https://loisirs73.fr/content/selections/trois-vallees-altitude.md): 10 lieux · page: https://loisirs73.fr/que-faire/les-3-vallees-en-altitude/
+- [Les 3 Vallées en altitude : les points hauts accessibles](https://loisirs73.fr/content/selections/trois-vallees-altitude.md): 14 lieux · page: https://loisirs73.fr/que-faire/les-3-vallees-en-altitude/
 
 <!-- facet-indexes:start -->
 ## Facet indexes (cross-cutting answers in one fetch)
@@ -62,8 +63,9 @@ Use these when the question spans many sites (e.g. "which waterfalls have parkin
 - [Sentiers](https://loisirs73.fr/content/sentiers.md): 12 lieux.
 - [Voies vertes](https://loisirs73.fr/content/voies-vertes.md): 4 lieux.
 - [Musées](https://loisirs73.fr/content/musees.md): 12 lieux.
+- [Attractions & loisirs](https://loisirs73.fr/content/attractions.md): 16 lieux.
 
-## All lieux by category (113 total)
+## All lieux by category (129 total)
 
 ### Lacs & plages (27 lieux)
 
@@ -204,3 +206,22 @@ Use these when the question spans many sites (e.g. "which waterfalls have parkin
 - [Musée Savoisien (Chambéry)](https://loisirs73.fr/content/musee-savoisien-chambery.md): Le Musée Savoisien à Chambéry : entrée libre et gratuite, histoire et cultures de la Savoie, cloître ouvert. Horaires et fermetures aux sources…
 - [Musée Val Histoire (Val-d'Isère)](https://loisirs73.fr/content/musee-val-histoire-val-d-isere.md): Musée Val Histoire à Val-d'Isère, en Savoie : Gratuit, Deux périodes publiées, deux fenêtres non publiées. Sources officielles, contradictions…
 - [Tremplin 92, Montagne et Olympisme (Albertville)](https://loisirs73.fr/content/tremplin-92-maison-des-jeux-olympiques-albertville.md): Tremplin 92, l'espace Montagne et Olympisme d'Albertville : l'héritage des Jeux de 1992, 500 m² d'exposition dans la Halle Olympique. Sources…
+
+### Attractions & loisirs (16 lieux)
+
+- [Aussois (Aussois)](https://loisirs73.fr/content/station-d-aussois.md): Aussois (1 500 m), village-station plein sud de Haute Maurienne : 55 km de pistes, 8 remontées, nordique du Monolithe partagé avec Val Cenis. Saison…
+- [Courchevel (Courchevel)](https://loisirs73.fr/content/station-de-courchevel.md): Courchevel : six villages reliés de 1 100 à 1 850 m, 150 km de pistes propres, navettes gratuites, ski de fond offert — et les 3 Vallées, 600 km.…
+- [La Plagne (La Plagne Tarentaise)](https://loisirs73.fr/content/station-de-la-plagne.md): La Plagne : onze villages, 225 km de pistes jusqu'à 3 080 m, 16 remontées débutants gratuites, piste olympique de bobsleigh d'Albertville 1992 — et…
+- [La Rosière (Montvalezan)](https://loisirs73.fr/content/station-de-la-rosiere.md): La Rosière (1 850 m), la plus italienne des stations françaises : 156 km de l'Espace San Bernardo reliés à La Thuile par le Petit Saint-Bernard,…
+- [Les Arcs (Bourg-Saint-Maurice)](https://loisirs73.fr/content/station-des-arcs.md): Les Arcs : quatre sites au-dessus de Bourg-Saint-Maurice, funiculaire en 7 minutes, 200 km de pistes sous l'Aiguille Rouge (3 226 m), Vanoise Express…
+- [Les Menuires (Les Belleville)](https://loisirs73.fr/content/station-des-menuires.md): Les Menuires (1 850 m) : 81 pistes locales, les 3 Vallées à skis — et dix remontées débutants gratuites, listées nominativement sur le plan officiel.…
+- [Les Saisies (Hauteluce)](https://loisirs73.fr/content/station-des-saisies.md): Les Saisies (1 650 m) : 120 km de ski de fond sur le site olympique de 1992, ouverts dès le 11 novembre, nordique offert avec le forfait alpin — et…
+- [Méribel (Les Allues)](https://loisirs73.fr/content/station-de-meribel.md): Méribel : villages de 1 100 à 1 750 m au cœur des 3 Vallées, 150 km de pistes (50 % vert-bleu), forfait offert aux -5 ans et 75+, luge gratuite du…
+- [Pralognan-la-Vanoise (Pralognan-la-Vanoise)](https://loisirs73.fr/content/station-de-pralognan-la-vanoise.md): Pralognan-la-Vanoise (1 410 m) : station-village au cœur de la Vanoise, 25 pistes, nordique 27 km, patinoire olympique du curling de 1992 — remontées…
+- [Savoie Grand Revard (Les Déserts)](https://loisirs73.fr/content/savoie-grand-revard.md): Savoie Grand Revard, le « Petit Canada » des Bauges : 150 km de ski de fond sur trois portes (La Féclaz, Le Revard, Saint-François-de-Sales), 30 km…
+- [Tignes (Tignes)](https://loisirs73.fr/content/station-de-tignes.md): Tignes : cinq villages entre 1 550 et 2 100 m, 300 km reliés à Val d'Isère, zones débutants gratuites, navettes gratuites. Saison 2026-27 dès le 21…
+- [Val Cenis (Val-Cenis)](https://loisirs73.fr/content/station-de-val-cenis.md): Val Cenis : trois villages reliés skis aux pieds, 125 km de pistes de 1 300 à 2 800 m, la plus longue verte d'Europe (l'Escargot, 10 km) — et le…
+- [Val d'Isère (Val-d'Isère)](https://loisirs73.fr/content/station-de-val-d-isere.md): Val d'Isère (1 850 m) : domaine relié à Tignes, « 300 km de pistes » entre 1 550 et 3 400 m, navettes Val Bus gratuites, remontées débutants…
+- [Val Thorens (Les Belleville)](https://loisirs73.fr/content/station-de-val-thorens.md): Val Thorens, plus haute station de ski d'Europe (2 300 m) : saison du 21 novembre 2026 au 2 mai 2027, luge Cosmojet la plus longue de France,…
+- [Valloire (Valloire)](https://loisirs73.fr/content/station-de-valloire.md): Valloire, entre Télégraphe et Galibier : domaine Galibier-Thabor relié à Valmeinier, 160 km sur 5 versants, 70 % des pistes au-dessus de 2 000 m,…
+- [Valmorel (Les Avanchers-Valmorel)](https://loisirs73.fr/content/station-de-valmorel.md): Valmorel : le Grand Domaine et ses 165 km de pistes (1 250 – 2 550 m) avec Saint-François-Longchamp, deux remontées débutants gratuites et une luge…

@@ -1,0 +1,36 @@
+{
+  "name": "Val Thorens",
+  "commune": "Les Belleville",
+  "gps": {
+    "lat": 45.297213,
+    "lng": 6.57718
+  },
+  "type": "station",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": false,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "21 novembre 2026 – 2 mai 2027",
+  "winter": {
+    "access": "open",
+    "infrastructure": [
+      "ski_alpin",
+      "luge",
+      "raquettes",
+      "chiens_traineau"
+    ],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
+  "official_url": "https://www.les3vallees.com/fr/station/val-thorens",
+  "last_verified": null
+}

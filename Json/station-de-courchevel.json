@@ -1,0 +1,633 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-18",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "station",
+  "commune": "Courchevel",
+  "date_modified_human": "18 août 2026",
+  "date_published_human": "18 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-18",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-ski-piste.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Courchevel eigene Domain, ein Tor zum 3 Vallées und ihre 600 km.",
+          "tag": "Alpen",
+          "title": "150 km Heimatpisten"
+        },
+        {
+          "description": "Wasserzentrum (Sauna, Hammam, Salzhöhle), Eisbahn und Bowling um 1850.",
+          "tag": "Abseits der Pisten",
+          "title": "Aquamotion und das Forum"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Courchevel</strong> versammelt \"sechs Dörfer verbunden Ski-in\": Saint-Bon (1.100 m), La Tania (1.400 m), Courchevel-Village (1.550 m), Moriond (1.650 m), Le Praz und Courchevel 1850. Allein auf der eigenen Domain von Courchevel, <strong>150 Kilometer markierte Strecken</strong> sind deine - Das Resort ist ein Tor zum <strong>Les 3 Vallées</strong>, die es als \"das größte Skigebiet der Welt\" präsentiert: \"600 Kilometer Läufe\", 347 Läufe, 85% der Domäne über 1.800 m, hoher Punkt auf 3.230 m.</p><p>Bei der 3 Vallées-Liftzählung sind sich die eigenen Resorts der Domain nicht einig - '155' per courchevel.com, '156' per lesmenuires.com — Und wir zitieren beides. Für Familien: die \"Easy Rider\" Anfängerzonen, \"weit, sanft und gesichert, erreichbar von jedem Dorf\", die 1850 Family Park und \"die Verbindung zwischen den Dörfern ... dank der <strong>Freie Shuttles</strong>„. Langlaufen auf \"frei zugänglichen Trails\".</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Bezahlt",
+        "best_season": "4. Dezember 2026 – 18. April 2027",
+        "commune": "Courchevel",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Skigebiet",
+        "winter_access": "open",
+        "winter_infra": [
+          "Ski alpin",
+          "ski fond",
+          "Lastwagen",
+          "Raquetten",
+          "chiens traineau",
+          "Ski rando"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Vom 4. Dezember 2026 bis 18. April 2027, nach dem von der offiziellen 3 Vallées-Website veröffentlichten \"Winter 26/27\" -Kalender. Ab dem 18. August 2026 zeigte courchevel.com noch keine genauen Daten (\"Dezember bis April\").",
+          "q": "Wann beginnt die Saison 2026-27?"
+        },
+        {
+          "a": "Die Shuttles zwischen den sechs Dörfern und Langlaufen auf \"frei zugänglichen Wegen\". Kostenlose Anfängerlifte werden auf den konsultierten Seiten nicht explizit angegeben - Die Easy Rider-Zonen sind jedoch von jedem Dorf aus erreichbar.",
+          "q": "Was ist kostenlos?"
+        },
+        {
+          "a": "\"600 Kilometer Läufe\", 347 Läufe, über 2.100 Schneekanonen, 85% der Domäne über 1.800 m, Hochpunkt 3.230 m. Auf Aufzügen 155 pro courchevel.com — 156 per lesmenuires.com: beide genannten Zahlen.",
+          "q": "Wie groß ist Les 3 Vallées?"
+        },
+        {
+          "a": "Eisbahn und Bowling auf dem Forum (1850), dem Aquamotion-Wasserzentrum, dem Tovets-Schlittenlauf, Schneeschuhwandern, Hundeschlittenfahren, Reiten auf Schnee, Gleitschirmfliegen und Ballonfahren.",
+          "q": "Und ohne Skifahren?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · Les 3 Vallées",
+        "lead": "Sechs Dörfer, die von 1.100 bis 1.850 m inszeniert sind, Ski-in oder mit kostenlosen Shuttles verbunden sind, 150 km Heimatpisten — und das Gateway zur Domain Courchevel präsentiert sich als das größte der Welt."
+      },
+      "hero_alt": "Präparierte Skipisten bei Courchevel, Les 3 Vallées",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D91A von Moûtiers (A430), durch Saint-Bon dann die inszenierten Dörfer.",
+        "public_transport": "Moûtiers-Salins SNCF Station, dann Trainer zu den Dörfern."
+      },
+      "meta_description": "Courchevel: sechs verbundene Dörfer von 1.100 bis 1.850 m, 150 km Heimatpisten, kostenlose Shuttles, kostenloses Cross-Country — und die 600 km von Les 3 Vallées. Saison 2026-27: 4. Dezember bis 18. April.",
+      "meta_title": "Courchevel · sechs Dörfer, 150 km, 3 Vallées Gateway",
+      "name": "Courchevel",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Dörfer",
+          "v": "Saint-Bon 1 100 m · La Tania 1 400 m · Dorf 1 550 m · Moriond 1 650 m · Le Praz · 1850 m"
+        },
+        {
+          "k": "Domain",
+          "v": "150 km eigene · 3 Vallées 600 km, 347 Pisten, 155 Lifte (156 per lesmenuires.com)"
+        },
+        {
+          "k": "Saison 26/27",
+          "v": "4. Dezember 2026 – 18. April 2027 (les3vallees.com)"
+        },
+        {
+          "k": "frei",
+          "v": "Inter-Dorf Shuttles · frei zugängliche Cross-Country-Trails"
+        },
+        {
+          "k": "Kontakt",
+          "v": "Courchevel Tourismus · +33 4 79 08 00 29 · Pässe: skipasscourchevel.com"
+        }
+      ],
+      "schema_amenities": [
+        "Freie Shuttles",
+        "Easy Rider Anfängerzonen",
+        "Aquamotion"
+      ],
+      "when_to_visit": "<p>Die Wintersaison 2026-27 wird von der offiziellen 3 Vallées-Website veröffentlicht: <strong>4. Dezember 2026 bis 18. April 2027</strong>Im Sommer wird das Resort \"vom 4. Juli bis zum 30. August\" wieder geöffnet, täglich fahrende Lifte (Saulire, Verdons, Praz). Über Skifahren hinaus: Forum Eisbahn und Bowling, Aquamotion Wasserzentrum, Tovets Schlittenlauf, Hundeschlittenfahren, Heißluftballonfahren.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "Courchevel's own domain, a gateway to the 3 Vallées and their 600 km.",
+          "tag": "Alpine",
+          "title": "150 km of home slopes"
+        },
+        {
+          "description": "Water centre (sauna, hammam, salt cave), ice rink and bowling at 1850.",
+          "tag": "Off the slopes",
+          "title": "Aquamotion and the Forum"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Courchevel</strong> gathers 'six villages linked ski-in': Saint-Bon (1,100 m), La Tania (1,400 m), Courchevel-Village (1,550 m), Moriond (1,650 m), Le Praz and Courchevel 1850. 'On Courchevel's own domain alone, <strong>150 kilometres of waymarked runs</strong> are yours' — and the resort is one gateway to <strong>Les 3 Vallées</strong>, which it presents as 'the world's largest ski area': '600 kilometres of runs', 347 runs, 85% of the domain above 1,800 m, high point at 3,230 m.</p><p>On the 3 Vallées lift count, the domain's own resorts disagree — '155' per courchevel.com, '156' per lesmenuires.com — and we quote both. For families: the 'Easy Rider' beginner zones, 'wide, gentle and secured, reachable from every village', the 1850 Family Park, and 'the link between villages… thanks to the <strong>free shuttles</strong>'. Cross-country skiing runs on 'free-access trails'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Paid",
+        "best_season": "4 December 2026 – 18 April 2027",
+        "commune": "Courchevel",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Ski resort",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin",
+          "ski_fond",
+          "luge",
+          "raquettes",
+          "chiens_traineau",
+          "ski_rando"
+        ]
+      },
+      "faq": [
+        {
+          "a": "From 4 December 2026 to 18 April 2027, per the 'Winter 26/27' calendar published by the official 3 Vallées site. As of 18 August 2026, courchevel.com still showed no precise dates ('December to April').",
+          "q": "When does the 2026-27 season open?"
+        },
+        {
+          "a": "The shuttles between the six villages, and cross-country skiing on 'free-access trails'. Free beginner lifts are not made explicit on the pages consulted — the Easy Rider zones are, however, reachable from every village.",
+          "q": "What is free?"
+        },
+        {
+          "a": "'600 kilometres of runs', 347 runs, over 2,100 snow guns, 85% of the domain above 1,800 m, high point 3,230 m. On lifts, 155 per courchevel.com — 156 per lesmenuires.com: both figures quoted.",
+          "q": "How big are Les 3 Vallées?"
+        },
+        {
+          "a": "Ice rink and bowling at the Forum (1850), the Aquamotion water centre, the Tovets sledge run, snowshoeing, dog sledding, horse riding on snow, paragliding and ballooning.",
+          "q": "And without skiing?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · Les 3 Vallées",
+        "lead": "Six villages staged from 1,100 to 1,850 m, linked ski-in or by free shuttles, 150 km of home slopes — and the gateway to the domain Courchevel presents as the world's largest."
+      },
+      "hero_alt": "Groomed ski run at Courchevel, Les 3 Vallées",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D91A from Moûtiers (A430), through Saint-Bon then the staged villages.",
+        "public_transport": "Moûtiers-Salins SNCF station, then coach to the villages."
+      },
+      "meta_description": "Courchevel: six linked villages from 1,100 to 1,850 m, 150 km of home slopes, free shuttles, free cross-country — and the 600 km of Les 3 Vallées. 2026-27 season: 4 December to 18 April.",
+      "meta_title": "Courchevel · six villages, 150 km, 3 Vallées gateway",
+      "name": "Courchevel",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Villages",
+          "v": "Saint-Bon 1,100 m · La Tania 1,400 m · Village 1,550 m · Moriond 1,650 m · Le Praz · 1850"
+        },
+        {
+          "k": "Domain",
+          "v": "150 km own · 3 Vallées 600 km, 347 runs, 155 lifts (156 per lesmenuires.com)"
+        },
+        {
+          "k": "Season 26/27",
+          "v": "4 December 2026 – 18 April 2027 (les3vallees.com)"
+        },
+        {
+          "k": "Free",
+          "v": "Inter-village shuttles · free-access cross-country trails"
+        },
+        {
+          "k": "Contact",
+          "v": "Courchevel Tourisme · +33 4 79 08 00 29 · passes: skipasscourchevel.com"
+        }
+      ],
+      "schema_amenities": [
+        "Free shuttles",
+        "Easy Rider beginner zones",
+        "Aquamotion"
+      ],
+      "when_to_visit": "<p>The 2026-27 winter season is published by the official 3 Vallées site: <strong>4 December 2026 to 18 April 2027</strong>. In summer the resort reopens 'from 4 July to 30 August', lifts running daily (Saulire, Verdons, Praz). Beyond skiing: the Forum ice rink and bowling, the Aquamotion water centre, the Tovets sledge run, dog sledding, hot-air ballooning.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "El propio dominio de Courchevel, una puerta de entrada a la 3 Vallées y sus 600 km.",
+          "tag": "Alpine",
+          "title": "150 km de pistas caseras"
+        },
+        {
+          "description": "Centro de agua (sauna, hammam, cueva de sal), pista de hielo y bolos en 1850.",
+          "tag": "Fuera de las pistas",
+          "title": "Aquamotion y el Foro"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Courchevel</strong> reúne 'seis aldeas vinculadas al esquí': Saint-Bon (1.100 m), La Tania (1.400 m), Courchevel-Village (1.550 m), Moriond (1.650 m), Le Praz y Courchevel 1850. 'En el propio dominio de Courchevel solo, <strong>150 kilómetros de carreras señalizadas</strong> son tuyos y el complejo es una puerta de entrada <strong>Les 3 Vallées</strong>, que presenta como 'la zona de esquí más grande del mundo': '600 kilómetros de carreras', 347 pistas, 85% del dominio sobre 1.800 m, punto alto a 3.230 m.</p><p>En el recuento de elevación 3 Vallées, los propios resorts del dominio discrepan — '155' por courchevel.com, '156' por lesmenuires.com y citamos ambos. Para las familias: las zonas de inicio de 'Easy Rider', 'todas, suaves y aseguradas, alcanzables desde cada pueblo', el 1850 Family Park, y 'el enlace entre aldeas... gracias al <strong>Traslados gratuitos</strong>'. El esquí en el campo cruzado se ejecuta en senderos de acceso libre.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagado",
+        "best_season": "4 de diciembre 2026 – 18 abril 2027",
+        "commune": "Courchevel",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Escuela de esquí",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski alpin",
+          "ski fond",
+          "Luge",
+          "raquetas",
+          "chiens traineau",
+          "ski rando"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Del 4 de diciembre de 2026 al 18 de abril de 2027, por el calendario \"Invierno 26/27\" publicado por el sitio oficial 3 Vallées. Al 18 de agosto de 2026, courchevel.com todavía no mostraba fechas precisas ('diciembre a abril').",
+          "q": "¿Cuándo se abre la temporada 2026-27?"
+        },
+        {
+          "a": "Los transbordadores entre los seis pueblos, y el esquí de fondo cruzado en ' senderos de acceso libre'. Los ascensores gratuitos no se hacen explícitamente en las páginas consultadas — las zonas Easy Rider son, sin embargo, accesibles desde cada pueblo.",
+          "q": "¿Qué es gratis?"
+        },
+        {
+          "a": "'600 kilómetros de carreras', 347 carreras, más de 2.100 armas de nieve, 85% del dominio sobre 1.800 m, punto alto 3.230 m. En ascensores, 155 por courchevel.com — 156 per lesmenuires.com: ambas cifras citadas.",
+          "q": "¿Qué tan grande es Les 3 Vallées?"
+        },
+        {
+          "a": "Arruga de hielo y bolos en el Foro (1850), el centro de agua Aquamotion, la carrera de trineo Tovets, raqueta de nieve, trineo de perros, equitación en nieve, parapente y globo.",
+          "q": "¿Y sin esquiar?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · Les 3 Vallées",
+        "lead": "Seis aldeas situadas de 1.100 a 1.850 m, enlazadas por esquí o por transbordadores gratuitos, 150 km de pistas de casa — y la puerta de entrada al dominio Courchevel presenta como el más grande del mundo."
+      },
+      "hero_alt": "Esquí a novio en Courchevel, Les 3 Vallées",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D91A de Moûtiers (A430), a través de Saint-Bon luego las aldeas escalonadas.",
+        "public_transport": "Estación de Moûtiers-Salins SNCF, luego entrenador a los pueblos."
+      },
+      "meta_description": "Courchevel: seis aldeas vinculadas de 1.100 a 1.850 m, 150 km de pistas de casa, transbordadores gratuitos, cross-country libre — y los 600 km de Les 3 Vallées. 2026-27 temporada: 4 de diciembre a 18 de abril.",
+      "meta_title": "Courchevel · seis pueblos, 150 km, puerta de entrada 3 Vallées",
+      "name": "Courchevel",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Villages",
+          "v": "Saint-Bon 1 100 m · La Tania 1 400 m · Pueblo 1 550 m · Moriond 1 650 m · Le Praz · 1850"
+        },
+        {
+          "k": "Dominio",
+          "v": "150 km de propiedad · 3 Vallées 600 km, 347 pistas, 155 ascensores (156 por lesmenuires.com)"
+        },
+        {
+          "k": "Temporada 26/27",
+          "v": "4 de diciembre 2026 – 18 abril 2027 (les3vallees.com)"
+        },
+        {
+          "k": "Gratis",
+          "v": "Traslados entre aldeanos · rutas de acceso libre a través del país"
+        },
+        {
+          "k": "Contacto",
+          "v": "Courchevel Tourisme · +33 4 79 08 00 29 · pases: skipasscourchevel.com"
+        }
+      ],
+      "schema_amenities": [
+        "Traslados gratuitos",
+        "Zonas de inicio Easy Rider",
+        "Aquamotion"
+      ],
+      "when_to_visit": "<p>La temporada de invierno 2026-27 es publicada por el sitio oficial 3 Vallées: <strong>4 de diciembre de 2026 a 18 de abril de 2027</strong>. En verano el complejo vuelve a abrirse entre el 4 de julio y el 30 de agosto, los ascensores que corren diariamente (Saulire, Verdons, Praz). Más allá del esquí: la pista de hielo del Foro y bolos, el centro de agua Aquamotion, la carrera de trineo Tovets, remolino de perros, globos de aire caliente.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Le domaine propre de Courchevel, porte des 3 Vallées et de leurs 600 km.",
+          "tag": "Alpin",
+          "title": "Skier sur 150 km à domicile"
+        },
+        {
+          "description": "Centre aqualudique (sauna, hammam, grotte saline), patinoire et bowling à 1850.",
+          "tag": "Hors ski",
+          "title": "Aquamotion et le Forum"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Courchevel</strong> réunit « six villages reliés skis aux pieds » : Saint-Bon (1 100 m), La Tania (1 400 m), Courchevel-Village (1 550 m), Moriond (1 650 m), Le Praz et Courchevel 1850. « Sur le seul domaine de Courchevel, ce sont <strong>150 kilomètres de pistes balisées</strong> qui s'offrent à vous » — et la station est l'une des portes des <strong>3 Vallées</strong>, qu'elle présente comme « le plus vaste domaine skiable du monde » : « 600 kilomètres de pistes », 347 pistes, 85 % du domaine au-dessus de 1 800 m, point culminant à 3 230 m.</p><p>Sur le nombre de remontées des 3 Vallées, les stations du domaine ne disent pas la même chose — « 155 » selon courchevel.com, « 156 » selon lesmenuires.com — et nous citons les deux. Côté famille : les zones débutants « Easy Rider », « larges, peu pentues et sécurisées, accessibles depuis tous les villages », le Family Park de 1850, et « la liaison entre les villages… grâce aux <strong>navettes gratuites</strong> ». Le ski de fond se pratique sur des « pistes en accès offert ».</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Payant",
+        "best_season": "4 décembre 2026 – 18 avril 2027",
+        "commune": "Courchevel",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Station de ski",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin",
+          "ski_fond",
+          "luge",
+          "raquettes",
+          "chiens_traineau",
+          "ski_rando"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Du 4 décembre 2026 au 18 avril 2027, selon le calendrier « Hiver 26/27 » publié par le site officiel des 3 Vallées. Au 18 août 2026, courchevel.com n'affichait pas encore de dates précises (« de décembre à avril »).",
+          "q": "Quand ouvre la saison 2026-27 ?"
+        },
+        {
+          "a": "Les navettes entre les six villages, et le ski de fond sur « pistes en accès offert ». La gratuité des remontées débutants n'est pas explicitée sur les pages consultées — les zones Easy Rider sont, elles, accessibles depuis tous les villages.",
+          "q": "Qu'est-ce qui est gratuit ?"
+        },
+        {
+          "a": "« 600 kilomètres de pistes », 347 pistes, plus de 2 100 enneigeurs, 85 % du domaine au-dessus de 1 800 m, point culminant à 3 230 m. Sur les remontées, 155 selon courchevel.com — 156 selon lesmenuires.com : les deux chiffres sont cités.",
+          "q": "Le domaine des 3 Vallées, c'est combien ?"
+        },
+        {
+          "a": "Patinoire et bowling au Forum (1850), centre aqualudique Aquamotion, luge des Tovets, raquettes, chiens de traîneaux, équitation sur neige, parapente et montgolfière.",
+          "q": "Et sans skier ?"
+        }
+      ],
+      "hero": {
+        "badge": "Station · Les 3 Vallées",
+        "lead": "Six villages étagés de 1 100 à 1 850 m, reliés skis aux pieds ou par navettes gratuites, 150 km de pistes à domicile — et la porte du domaine que Courchevel présente comme le plus vaste du monde."
+      },
+      "hero_alt": "Piste de ski damée à Courchevel, Les 3 Vallées",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D91A depuis Moûtiers (A430), par Saint-Bon puis les villages étagés.",
+        "public_transport": "Gare SNCF de Moûtiers-Salins, puis autocar vers les villages."
+      },
+      "meta_description": "Courchevel : six villages reliés de 1 100 à 1 850 m, 150 km de pistes propres, navettes gratuites, ski de fond offert — et les 3 Vallées, 600 km. Saison 2026-27 : 4 décembre – 18 avril.",
+      "meta_title": "Courchevel · six villages, 150 km, porte des 3 Vallées",
+      "name": "Courchevel",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Villages",
+          "v": "Saint-Bon 1 100 m · La Tania 1 400 m · Village 1 550 m · Moriond 1 650 m · Le Praz · 1850"
+        },
+        {
+          "k": "Domaine",
+          "v": "150 km propres · 3 Vallées 600 km, 347 pistes, 155 remontées (156 selon lesmenuires.com)"
+        },
+        {
+          "k": "Saison 26/27",
+          "v": "4 décembre 2026 – 18 avril 2027 (les3vallees.com)"
+        },
+        {
+          "k": "Gratuit",
+          "v": "Navettes inter-villages · ski de fond en accès offert"
+        },
+        {
+          "k": "Contact",
+          "v": "Courchevel Tourisme · 04 79 08 00 29 · forfaits : skipasscourchevel.com"
+        }
+      ],
+      "schema_amenities": [
+        "Navettes gratuites",
+        "Zones débutants Easy Rider",
+        "Aquamotion"
+      ],
+      "when_to_visit": "<p>Saison d'hiver 2026-27 publiée par le site officiel des 3 Vallées : <strong>du 4 décembre 2026 au 18 avril 2027</strong>. L'été, la station rouvre « du 4 juillet au 30 août », remontées 7 j/7 (Saulire, Verdons, Praz). Hors ski : patinoire du Forum, bowling, centre aqualudique Aquamotion, luge des Tovets, chiens de traîneaux, montgolfière.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Il dominio di Courchevel, un gateway per 3 Vallées e i loro 600 km.",
+          "tag": "Alpi",
+          "title": "150 km di piste di casa"
+        },
+        {
+          "description": "Centro acquatico (sauna, hammam, grotta di sale), pista di ghiaccio e bowling al 1850.",
+          "tag": "Fuori dalle piste",
+          "title": "Aquamotion e il Forum"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Courchevel</strong> raccoglie 'sei villaggi collegati ski-in': Saint-Bon (1 100 m), La Tania (1 400 m), Courchevel-Village (1 550 m), Moriond (1 650 m), Le Praz e Courchevel 1850. Solo sul dominio di Courchevel, <strong>150 chilometri di piste segnalate</strong> sono i tuoi. e il resort è un gateway per <strong>Les 3 Vallées</strong>, che presenta come 'la più grande area sciistica del mondo': '600 chilometri di piste', 347 piste, 85% del dominio superiore a 1.800 m, punto alto a 3.230 m.</p><p>Sul numero di ascensori 3 Vallées, i resort del dominio non sono d'accordo — 155 per courchevel.com, '156' per lesmenuires.com e citiamo entrambi. Per le famiglie: le zone principianti 'Easy Rider', 'larghe, gentili e sicure, raggiungibili da ogni villaggio', il 1850 Family Park, e' il collegamento tra i villaggi... grazie al <strong>navette gratuite</strong>'. piste da sci di fondo su ' piste di libero accesso'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagato",
+        "best_season": "4 dicembre 2026 – 18 aprile 2027",
+        "commune": "Courchevel",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Stazione sciistica",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski alpin",
+          "sci fond",
+          "L'acqua",
+          "racchette",
+          "Chiens traineau",
+          "ski rando"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Dal 4 dicembre 2026 al 18 aprile 2027, per il calendario 'Winter 26/27' pubblicato dal sito ufficiale 3 Vallées. A partire dal 18 agosto 2026, courchevel.com non mostra ancora date precise (da dicembre ad aprile).",
+          "q": "Quando apre la stagione 2026-27?"
+        },
+        {
+          "a": "Le navette tra i sei villaggi e lo sci di fondo su 'percorsi di accesso libero'. Gli ascensori principianti gratuiti non sono espliciti sulle pagine consultate — le zone Easy Rider sono tuttavia raggiungibili da ogni villaggio.",
+          "q": "Che cosa è libero?"
+        },
+        {
+          "a": "'600 chilometri di piste', 347 piste, oltre 2.100 generatori di neve, 85% del dominio sopra 1.800 m, punto alto 3.230 m. Su ascensori, 155 per courchevel.com — 156 per lesmenuires.com: entrambe le cifre citate.",
+          "q": "Quanto sono grandi Les 3 Vallées?"
+        },
+        {
+          "a": "Pista di ghiaccio e bowling al Forum (1850), il centro dell'acqua Aquamotion, la pista di slitta Tovets, racchette da neve, slittamento del cane, equitazione sulla neve, parapendio e mongolfiera.",
+          "q": "E senza sciare?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · Les 3 Vallées",
+        "lead": "Sei villaggi in scena da 1.100 a 1.850 m, sci-in collegato o con navette gratuite, 150 km di piste di casa — e il gateway per il dominio Courchevel presenta come il più grande del mondo."
+      },
+      "hero_alt": "Groomed pista da sci a Courchevel, Les 3 Vallées",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D91A da Moûtiers (A430), attraverso Saint-Bon poi i villaggi in scena.",
+        "public_transport": "Stazione Moûtiers-Salins SNCF, poi allenatore ai villaggi."
+      },
+      "meta_description": "Courchevel: sei villaggi collegati da 1.100 a 1.850 m, 150 km di piste da casa, navette gratuite, libero fondo — e i 600 km di Les 3 Vallées. 2026-27 stagione: dal 4 dicembre al 18 aprile.",
+      "meta_title": "Courchevel · sei villaggi, 150 km, 3 Vallées gateway",
+      "name": "Courchevel",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Villaggi",
+          "v": "Saint-Bon 1 100 m · La Tania 1 400 m · Villaggio 1.550 m · Moriond 1 650 m · Le Praz · 1850"
+        },
+        {
+          "k": "Dominio",
+          "v": "150 km · 3 Vallées 600 km, 347 piste, 155 ascensori (156 per lesmenuires.com)"
+        },
+        {
+          "k": "Stagione 26/27",
+          "v": "4 dicembre 2026 – 18 aprile 2027 (les3vallees.com)"
+        },
+        {
+          "k": "Gratis",
+          "v": "Inter-villaggio navette · piste da fondo gratuite"
+        },
+        {
+          "k": "Contatto",
+          "v": "Courchevel Tourisme · +33 4 79 08 00 29 · passa: skipasscourchevel.com"
+        }
+      ],
+      "schema_amenities": [
+        "Navette gratuite",
+        "Zone di avviamento Easy Rider",
+        "Aquamotion"
+      ],
+      "when_to_visit": "<p>La stagione invernale 2026-27 è pubblicata dal sito ufficiale 3 Vallées: <strong>4 dicembre 2026 - 18 aprile 2027</strong>. In estate il resort riapre 'dal 4 luglio al 30 agosto', ascensori che funzionano tutti i giorni (Saulire, Verdons, Praz). Oltre lo sci: la pista di pattinaggio del Forum e bowling, il centro dell'acqua Aquamotion, la corsa di slitta Tovets, slittamento del cane, mongolfiera.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Courchevel's eigen domein, een poort naar de 3 Vallées en hun 600 km.",
+          "tag": "Alpen",
+          "title": "150 km aan thuispistes"
+        },
+        {
+          "description": "Watercentrum (sauna, hammam, zoutgrot), ijsbaan en bowling om 1850.",
+          "tag": "Van de pisten",
+          "title": "Aquamotion en het Forum"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Courchevel</strong> verzamelt 'zes dorpen verbonden ski-in': Saint-Bon (1.100 m), La Tania (1.400 m), Courchevel-Village (1 550 m), Moriond (1.650 m), Le Praz en Courchevel 1850. 'Op Courchevel's eigen domein alleen, <strong>150 kilometer bewegwijzerde ritten</strong> Zijn van jou? en het resort is een poort naar <strong>Les 3 Vallées</strong>, die het presenteert als 's werelds grootste skigebied': '600 kilometer runs', 347 runs, 85% van het domein boven 1.800 m, hoogtepunt op 3.230 m.</p><p>Op de 3 Vallées lift graaf, het domein eigen resorts niet akkoord  '155' per courchevel.com, '156' per lesmenuires.com En we citeren beide. Voor gezinnen: de 'Easy Rider' beginnerzones, 'breed, zacht en beveiligd, bereikbaar vanaf elk dorp', de 1850 Family Park, en 'de verbinding tussen dorpen... dankzij de <strong>gratis shuttles</strong>'. Langlaufen op 'gratis toegang'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Betaald",
+        "best_season": "4 december 2026 18 april 2027",
+        "commune": "Courchevel",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Skigebied",
+        "winter_access": "open",
+        "winter_infra": [
+          "Skialpin",
+          "Skipfond",
+          "luge",
+          "raquettes",
+          "chiens traineau",
+          "ski rando"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Van 4 december 2026 tot 18 april 2027, per de 'Winter 26/27' kalender gepubliceerd door de officiële 3 Vallées site. Vanaf 18 augustus 2026 vertoonde courchevel.com nog geen precieze data ('december tot april').",
+          "q": "Wanneer opent het seizoen 2026-27?"
+        },
+        {
+          "a": "De shuttles tussen de zes dorpen en langlaufen op 'gratis toegang'. Gratis beginnersliften worden niet expliciet vermeld op de geraadpleegde pagina's De Easy Rider zones zijn echter vanuit elk dorp bereikbaar.",
+          "q": "Wat is gratis?"
+        },
+        {
+          "a": "'600 kilometer runs', 347 runs, meer dan 2100 sneeuwkanonnen, 85% van het domein boven 1.800 m, hoog punt 3.230 m. Op liften, 155 per courchevel.com 156 per lesmenuires.com: beide genoemde cijfers.",
+          "q": "Hoe groot is Les 3 Vallées?"
+        },
+        {
+          "a": "IJsbaan en bowling op het Forum (1850), het watercentrum Aquamotion, de Tovets sledebaan, sneeuwschoenwandelen, hondensleeën, paardrijden op sneeuw, paragliding en ballonvaart.",
+          "q": "En zonder te skiën?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · Les 3 Vallées",
+        "lead": "Zes dorpen opgevoerd van 1100 tot 1.850 m, verbonden ski-in of door gratis shuttles, 150 km van thuis pistes  en de poort naar het domein Courchevel presenteert zich als 's werelds grootste."
+      },
+      "hero_alt": "Groomed skirun op Courchevel, Les 3 Vallées",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D91A van Moûtiers (A430), via Saint-Bon dan de geënsceneerde dorpen.",
+        "public_transport": "Moûtiers-Salins SNCF station, vervolgens coach naar de dorpen."
+      },
+      "meta_description": "Courchevel: zes verbonden dorpen van 1100 tot 1.850 m, 150 km aan thuispistes, gratis pendeldiensten, gratis cross-country en de 600 km Les 3 Vallées. 2026-27 seizoen: 4 december tot en met 18 april.",
+      "meta_title": "Courchevel · zes dorpen, 150 km, 3 Vallées gateway",
+      "name": "Courchevel",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Dorpen",
+          "v": "Saint-Bon 1.100 m · La Tania 1.400 m · Village 1.550 m · Moriond 1.650 m · Le Praz · 1850"
+        },
+        {
+          "k": "Domein",
+          "v": "150 km eigen · 3 Vallées 600 km, 347 pisten, 155 liften (156 per lesmenuires.com)"
+        },
+        {
+          "k": "Seizoen 26/27",
+          "v": "4 december 2026 18 april 2027 (les3vallees.com)"
+        },
+        {
+          "k": "Vrij",
+          "v": "Shuttles tussen dorpen · gratis toegang tot langlaufpaden"
+        },
+        {
+          "k": "Contactpersoon",
+          "v": "Courchevel Tourisme · +33 4 79 08 00 29 · passen: skipasscourchevel.com"
+        }
+      ],
+      "schema_amenities": [
+        "Gratis pendeldiensten",
+        "Easy Rider beginnerszones",
+        "Aquamotion"
+      ],
+      "when_to_visit": "<p>Het 2026-27 winterseizoen wordt gepubliceerd door de officiële 3 Vallées site: <strong>van 4 december 2026 tot en met 18 april 2027</strong>. In de zomer heropent het resort 'van 4 juli tot 30 augustus', liften die dagelijks rijden (Saulire, Verdons, Praz). Na het skiën: De Forum ijsbaan en bowling, de Aquamotion water centrum, de Tovets slede run, hond sleeën, hete lucht ballonnen.</p>"
+    }
+  },
+  "latitude": 45.410566,
+  "longitude": 6.633669,
+  "official_site_url": "https://www.courchevel.com/fr/le-ski-alpin/",
+  "partners": [],
+  "postal_code": "73120",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-18, FR pages only (courchevel.com, les3vallees.com). Six villages reliés skis aux pieds : Saint-Bon 1100 m, La Tania 1400 m, Village 1550 m, Moriond 1650 m, Le Praz, 1850. 150 km de pistes propres ; 3 Vallées « le plus vaste domaine skiable du monde », 600 km, 347 pistes, « 155 remontées mécaniques » (courchevel.com) vs « 156 » (lesmenuires.com) — contradiction reportée. Saison 26/27 publiée par les3vallees.com : 4 décembre – 18 avril ; courchevel.com sans dates précises au 18/08. Navettes gratuites inter-villages ; ski de fond « pistes en accès offert » ; zones débutants Easy Rider (gratuité des remontées non explicitée). Altitude de la Saulire non chiffrée sur les pages consultées — non imprimée. Été : 4 juillet – 30 août.",
+  "schema_org": {
+    "amenities": [],
+    "is_free": false,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "station-de-courchevel",
+  "sources": [
+    "https://www.courchevel.com/fr/le-ski-alpin/",
+    "https://www.courchevel.com/fr/le-domaine-skiable-des-3-vallees/",
+    "https://www.les3vallees.com/fr/station/courchevel",
+    "https://www.les3vallees.com/fr/news/ouvertures-3-vallees"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "SAULIRE — altitude non publiée en toutes lettres sur les pages officielles consultées ; non imprimée.",
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published; kept null."
+  ]
+}

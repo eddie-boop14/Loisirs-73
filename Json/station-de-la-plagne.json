@@ -1,0 +1,633 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-18",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "station",
+  "commune": "La Plagne Tarentaise",
+  "date_modified_human": "18 août 2026",
+  "date_published_human": "18 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-18",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-foret-neige-aerien.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "1,5 km, 19 Kurven: Bob Raft, Speed Luge oder Bob Racing bis zu 120 km/h.",
+          "tag": "Einzigartig in Frankreich",
+          "title": "Die olympische Bobbahn"
+        },
+        {
+          "description": "\"Freie\" Zonen in den meisten Dörfern sowie Europas längste Funslope.",
+          "tag": "Kein Pass",
+          "title": "Sechzehn kostenlose Anfängerlifte"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>La Plagne</strong> Streuung <strong>eleven villages</strong> zwischen Tal und Höhe — Champagny-en-Vanoise (1 200 m), Montchavin-Les Coches, Plagne Centre (1 970 m), Belle Plagne (2 050 m), Aime 2000 (2 100 m)... Sein Bereich erstreckt sich 'von 1.250 m bis 3.080 m' mit '<strong>225 km Laufstrecke</strong>14 Wanderwege und 22 % des Gebiets im Wald; verbunden mit Les Arcs durch den Vanoise Express, bildet es <strong>Paradiski</strong> und seine \"425 km Läufe\" - Eine figur, die die homepage des resorts direkt beansprucht, ein ausrutscher, den wir markieren. Die eigene Liftzählung von La Plagne wird nicht veröffentlicht: Es bleibt unausgesprochen.</p><p>Das Resort veröffentlicht ein seltenes kostenloses Angebot: „<strong>16 Anfängerlifte sind ohne Skipass kostenlos zugänglich</strong>', Zonen mit der Aufschrift 'Free' in den meisten Dörfern, die Funslope — \"Europas längstes!\" und einen Freipass bis zum 5. Geburtstag eines Kindes. Die andere exklusive ist Olympic: das <strong>Albertville 1992 Bob-Bahn</strong>\"Einzigartig in Frankreich\" - '1,5 km Sinkflug, unterbrochen von 19 Kurven', 124,5 m Sinkflug — gefahren von Bob Raft (80 km/h), Speed Luge (90 km/h) oder Bob Racing (120 km/h).</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Bezahlt",
+        "best_season": "12. Dezember 2026 – 24. April 2027",
+        "commune": "La Plagne Tarentaise",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Skigebiet",
+        "winter_access": "open",
+        "winter_infra": [
+          "Ski alpin",
+          "ski fond",
+          "Lastwagen",
+          "Raquetten",
+          "chiens traineau",
+          "Ski rando"
+        ]
+      },
+      "faq": [
+        {
+          "a": "\"16 Anfängerlifte sind ohne Skipass kostenlos zugänglich\" — Mit Anfängerzonen, die in den meisten Dörfern mit \"Frei\" gekennzeichnet sind, und dem Funslope, \"Europas längste\". Der Pass ist bis zum 5. Geburtstag eines Kindes kostenlos.",
+          "q": "Welche Lifte sind kostenlos?"
+        },
+        {
+          "a": "Vom 12. Dezember 2026 bis 24. April 2027 in Plagne Altitude; bis 17. April in Champagny-en-Vanoise, Montchavin-Les Coches und Plagne Montalbert. Die Taldörfer leben das ganze Jahr über.",
+          "q": "Wann fahren Sie 2026-27 Ski?"
+        },
+        {
+          "a": "Drei Formeln auf der Strecke Albertville 1992 auf La Roche (1.800 m): der selbstgeführte Bob Raft bei 80 km/h, der Speed Luge bei 90 km/h, der pilotierte Bob Racing bei 120 km/h — '1,5 km Abfahrt durch 19 Kurven unterbrochen', Mitte Dezember bis Ende März.",
+          "q": "Wie fährt man auf der olympischen Bobbahn?"
+        },
+        {
+          "a": "Beide, je nach Maßstab: 225 km für La Plagne eigene Domain (1.250 –) 3 080 m), 425 km für Paradiski mit Les Arcs und Peisey-Vallandry. Die Homepage zeigt die Paradiski Figur — Wir buchstabieren die Nuance.",
+          "q": "225 km oder 425 km?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · Paradiski",
+        "lead": "Elf Dörfer von 1.200 bis 2.100 m, 225 km Pisten auf 3.080 m, sechzehn kostenlose Anfängerlifte — Frankreichs einzige olympische Bobbahn."
+      },
+      "hero_alt": "Schneebedeckter Wald von oben bei La Plagne gesehen",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "N90 nach Aime, dann D221/D86 bis zu den Höhendörfern.",
+        "public_transport": "Aime-la-Plagne SNCF Station, dann Höhenshuttle."
+      },
+      "meta_description": "La Plagne: elf Dörfer, 225 km Pisten bis 3.080 m, 16 kostenlose Anfängerlifte, die Albertville 1992 Olympic Bobsleigh Track — und Paradiski 425 km. 2026-27 Saison vom 12. Dezember.",
+      "meta_title": "La Plagne · 11 Dörfer, olympischer Bob, Paradiski",
+      "name": "La Plagne",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Dörfer",
+          "v": "11, von Champagny (1.200 m) nach Aime 2000 (2.100 m)"
+        },
+        {
+          "k": "Domain",
+          "v": "225 km eigene (1 250 –) 3.080 m) · Paradiski 425 km · eigener Lift unveröffentlicht"
+        },
+        {
+          "k": "Saison 26/27",
+          "v": "Höhe: 12. Dezember – 24. April · Gateway Dörfer: 12. Dezember – 17. April"
+        },
+        {
+          "k": "frei",
+          "v": "16 Anfängerlifte ohne Pass · Funslope · Freipass unter 5"
+        },
+        {
+          "k": "Kontakt",
+          "v": "Fremdenverkehrsamt Grande Plagne · +33 4 79 09 02 01"
+        }
+      ],
+      "schema_amenities": [
+        "16 kostenlose Anfängerlifte",
+        "Olympische Bobbahn",
+        "Funslope"
+      ],
+      "when_to_visit": "<p>Die Saison 2026-27 wird Dorf für Dorf veröffentlicht: <strong>Plagne Höhe 12. Dezember bis 24. April</strong>; Champagny-en-Vanoise, Montchavin-Les Coches und Plagne Montalbert vom 12. Dezember bis 17. April — und 'La Plagne Vallée: Willkommen das ganze Jahr über! Die Bobbahn öffnet sich \"Mitte Dezember bis Ende März\". Im Sommer beginnt Montchavin-Les Coches 27. Juni, die Höhendörfer 4. Juli, bis 29. August.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "1.5 km, 19 bends: Bob Raft, Speed Luge or Bob Racing up to 120 km/h.",
+          "tag": "Unique in France",
+          "title": "The Olympic bobsleigh track"
+        },
+        {
+          "description": "'Free' zones in most villages, plus Europe's longest Funslope.",
+          "tag": "No pass",
+          "title": "Sixteen free beginner lifts"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>La Plagne</strong> scatters <strong>eleven villages</strong> between valley and altitude — Champagny-en-Vanoise (1,200 m), Montchavin-Les Coches, Plagne Centre (1,970 m), Belle Plagne (2,050 m), Aime 2000 (2,100 m)… Its domain stretches 'from 1,250 m to 3,080 m' with '<strong>225 km of runs</strong>', 14 cross-country trails and 22% of the domain in forest; linked to Les Arcs by the Vanoise Express, it forms <strong>Paradiski</strong> and its '425 km of runs' — a figure the resort's homepage claims directly, a slippage we flag. La Plagne's own lift count is not published: it stays unstated.</p><p>The resort publishes a rare free offer: '<strong>16 beginner lifts are accessible free of charge, without a ski pass</strong>', zones labelled 'Free' in most villages, the Funslope — 'Europe's longest!' — and a free pass up to the eve of a child's 5th birthday. The other exclusive is Olympic: the <strong>Albertville 1992 bobsleigh track</strong>, 'Unique in France' — '1.5 km of descent punctuated by 19 bends', 124.5 m of drop — ridden by Bob Raft (80 km/h), Speed Luge (90 km/h) or Bob Racing (120 km/h).</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Paid",
+        "best_season": "12 December 2026 – 24 April 2027",
+        "commune": "La Plagne Tarentaise",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Ski resort",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin",
+          "ski_fond",
+          "luge",
+          "raquettes",
+          "chiens_traineau",
+          "ski_rando"
+        ]
+      },
+      "faq": [
+        {
+          "a": "'16 beginner lifts are accessible free of charge, without a ski pass' — with beginner zones marked 'Free' in most villages and the Funslope, 'Europe's longest'. The pass is free up to the eve of a child's 5th birthday.",
+          "q": "Which lifts are free?"
+        },
+        {
+          "a": "From 12 December 2026 to 24 April 2027 in Plagne Altitude; until 17 April in Champagny-en-Vanoise, Montchavin-Les Coches and Plagne Montalbert. The valley villages live year-round.",
+          "q": "When do you ski in 2026-27?"
+        },
+        {
+          "a": "Three formulas on the Albertville 1992 track at La Roche (1,800 m): the self-guided Bob Raft at 80 km/h, the Speed Luge at 90 km/h, the piloted Bob Racing at 120 km/h — '1.5 km of descent punctuated by 19 bends', mid-December to late March.",
+          "q": "How do you ride the Olympic bobsleigh track?"
+        },
+        {
+          "a": "Both, depending on scale: 225 km for La Plagne's own domain (1,250 – 3,080 m), 425 km for Paradiski with Les Arcs and Peisey-Vallandry. The homepage showcases the Paradiski figure — we spell out the nuance.",
+          "q": "225 km or 425 km?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · Paradiski",
+        "lead": "Eleven villages from 1,200 to 2,100 m, 225 km of runs climbing to 3,080 m, sixteen free beginner lifts — and France's only Olympic bobsleigh track."
+      },
+      "hero_alt": "Snow-covered forest seen from above at La Plagne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "N90 to Aime, then D221/D86 up to the altitude villages.",
+        "public_transport": "Aime-la-Plagne SNCF station, then altitude shuttle."
+      },
+      "meta_description": "La Plagne: eleven villages, 225 km of runs up to 3,080 m, 16 free beginner lifts, the Albertville 1992 Olympic bobsleigh track — and Paradiski's 425 km. 2026-27 season from 12 December.",
+      "meta_title": "La Plagne · 11 villages, Olympic bobsleigh, Paradiski",
+      "name": "La Plagne",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Villages",
+          "v": "11, from Champagny (1,200 m) to Aime 2000 (2,100 m)"
+        },
+        {
+          "k": "Domain",
+          "v": "225 km own (1,250 – 3,080 m) · Paradiski 425 km · own lift count unpublished"
+        },
+        {
+          "k": "Season 26/27",
+          "v": "Altitude: 12 December – 24 April · gateway villages: 12 December – 17 April"
+        },
+        {
+          "k": "Free",
+          "v": "16 beginner lifts without a pass · Funslope · free pass under 5"
+        },
+        {
+          "k": "Contact",
+          "v": "Grande Plagne tourist office · +33 4 79 09 02 01"
+        }
+      ],
+      "schema_amenities": [
+        "16 free beginner lifts",
+        "Olympic bobsleigh track",
+        "Funslope"
+      ],
+      "when_to_visit": "<p>The 2026-27 season is published village by village: <strong>Plagne Altitude 12 December to 24 April</strong>; Champagny-en-Vanoise, Montchavin-Les Coches and Plagne Montalbert 12 December to 17 April — and 'La Plagne Vallée: welcome all year round!'. The bobsleigh track opens 'mid-December to late March'. In summer, Montchavin-Les Coches starts 27 June, the altitude villages 4 July, through 29 August.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "1,5 km, 19 curvas: Bob Raft, Speed Luge o Bob Racing hasta 120 km/h.",
+          "tag": "Único en Francia",
+          "title": "The Olympic bobsleigh track"
+        },
+        {
+          "description": "Zonas libres en la mayoría de los pueblos, además de Funslope más larga de Europa.",
+          "tag": "No pase",
+          "title": "Dieciséis ascensores gratuitos"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>La Plagne</strong> dispersos <strong>eleven villages</strong> entre valle y altitud Champagny-en-Vanoise (1.200 m), Montchavin-Les Coches, Plagne Centre (1.970 m), Belle Plagne (2.050 m), Aime 2000 (2.100 m)... Su dominio se extiende 'de 1 250 m a 3.080 m' con '<strong>225 km de pistas</strong>', 14 senderos cross-country y 22% del dominio en bosque; vinculado a Les Arcs por el Vanoise Express, se forma <strong>Paradiski</strong> y sus '425 km de carreras' — una figura de la página principal del resort reclama directamente, un deslizamiento que marcamos. La Plagne no se publica el recuento de ascensor propio: se mantiene inestable.</p><p>El complejo publica una rara oferta gratuita: '<strong>16 ascensores principiantes son accesibles gratuitamente, sin pase de esquí</strong>', zonas etiquetadas 'libre' en la mayoría de los pueblos, el Funslope ¡Europa es más larga! and a free pass up to the eve of a child's 5th birthday. La otra exclusiva es olímpica: el <strong>Albertville 1992 bobsleigh track</strong>, 'Unique in France' 1,5 km de descenso marcado por 19 curvas, 124,5 m de caída montado por Bob Raft (80 km/h), Speed Luge (90 km/h) o Bob Racing (120 km/h).</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagado",
+        "best_season": "12 diciembre 2026 – 24 abril 2027",
+        "commune": "La Plagne Tarentaise",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Escuela de esquí",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski alpin",
+          "ski fond",
+          "Luge",
+          "raquetas",
+          "chiens traineau",
+          "ski rando"
+        ]
+      },
+      "faq": [
+        {
+          "a": "'16 ascensores principiantes son accesibles gratuitamente, sin pase de esquí' — con zonas de principiantes marcadas 'Libertad' en la mayoría de los pueblos y Funslope, 'Europa es más larga'. The pass is free up to the eve of a child's 5th birthday.",
+          "q": "¿Qué ascensores son gratis?"
+        },
+        {
+          "a": "Del 12 de diciembre de 2026 al 24 de abril de 2027 en Plagne Altitud; hasta el 17 de abril en Champagny-en-Vanoise, Montchavin-Les Coches y Plagne Montalbert. Los pueblos del valle viven durante todo el año.",
+          "q": "¿Cuándo esquias en 2026-27?"
+        },
+        {
+          "a": "Tres fórmulas en la vía Albertville 1992 en La Roche (1.800 m): el Bob Raft autoguiado a 80 km/h, el Speed Luge a 90 km/h, el piloto Bob Racing a 120 km/h '1.5 km de descenso perforado por 19 curvas', de mediados de diciembre a finales de marzo.",
+          "q": "¿Cómo montas en la pista olímpica?"
+        },
+        {
+          "a": "Ambos, dependiendo de la escala: 225 km para el propio dominio de La Plagne (1 250 – 3.080 m), 425 km para Paradiski con Les Arcs y Peisey-Vallandry. La página principal muestra la figura Paradiski — deletreamos el matiz.",
+          "q": "¿225 km o 425 km?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · Paradiski",
+        "lead": "Once aldeas de 1.200 a 2.100 m, 225 km de recorridos que ascienden a 3.080 m, dieciséis ascensores gratuitos para principiantes — y la única pista olímpica de Francia."
+      },
+      "hero_alt": "Bosque cubierto de nieve visto desde arriba en La Plagne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "N90 a Aime, luego D221/D86 hasta las aldeas de altitud.",
+        "public_transport": "Estación de Aime-la-Plagne SNCF, luego lanzadera de altitud."
+      },
+      "meta_description": "La Plagne: eleven villages, 225 km of runs up to 3 080 m, 16 free beginner lifts, the Albertville 1992 Olympic bobsleigh track — y Paradiski 425 km. 2026-27 temporada del 12 de diciembre.",
+      "meta_title": "La Plagne · 11 pueblos, trineo olímpico, Paradiski",
+      "name": "La Plagne",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Villages",
+          "v": "11, desde Champagny (1.200 m) hasta Aime 2000 (2.100 m)"
+        },
+        {
+          "k": "Dominio",
+          "v": "225 km de propiedad (1 250 – 3 080 m) · Paradiski 425 km · cuenta de ascensor propia sin publicar"
+        },
+        {
+          "k": "Temporada 26/27",
+          "v": "Altitud: 12 de diciembre – 24 de abril · pueblos de puerta cerrada: 12 de diciembre – 17 de abril"
+        },
+        {
+          "k": "Gratis",
+          "v": "16 ascensores principiantes sin pase · Funslope · pase gratuito bajo 5"
+        },
+        {
+          "k": "Contacto",
+          "v": "Grande Plagne oficina de turismo · +33 4 79 09 02 01"
+        }
+      ],
+      "schema_amenities": [
+        "16 ascensores gratuitos",
+        "Bobsleigh pista olímpica",
+        "Funslope"
+      ],
+      "when_to_visit": "<p>La temporada 2026-27 se publica aldea por pueblo: <strong>Plagne Altitude 12 de diciembre a 24 de abril</strong>Champagny-en-Vanoise, Montchavin-Les Coches y Plagne Montalbert 12 de diciembre a 17 de abril — y 'La Plagne Vallée: bienvenido todo el año!'. La pista de bobsleigh abre 'mid-December to late March'. En verano, Montchavin-Les Coches comienza el 27 de junio, las aldeas de altitud del 4 de julio al 29 de agosto.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "1,5 km, 19 virages : Bob Raft, Speed Luge ou Bob Racing jusqu'à 120 km/h.",
+          "tag": "Unique en France",
+          "title": "La piste olympique de bobsleigh"
+        },
+        {
+          "description": "Zones « Gratuit » dans la plupart des villages, et la Funslope la plus longue d'Europe.",
+          "tag": "Sans forfait",
+          "title": "Seize remontées débutants gratuites"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>La Plagne</strong> éparpille <strong>onze villages</strong> entre vallée et altitude — Champagny-en-Vanoise (1 200 m), Montchavin-Les Coches, Plagne Centre (1 970 m), Belle Plagne (2 050 m), Aime 2000 (2 100 m)… Son domaine s'étend « de 1 250 m à 3 080 m » avec « <strong>225 km de pistes</strong> », 14 pistes de ski de fond et 22 % du domaine en forêt ; relié aux Arcs par le Vanoise Express, il forme <strong>Paradiski</strong> et ses « 425 km de pistes » — un chiffre que la page d'accueil de la station s'attribue directement, et nous signalons ce glissement. Le nombre de remontées propres à La Plagne n'est pas publié : il reste non renseigné.</p><p>La station publie une gratuité rare : « <strong>16 remontées mécaniques pour débutants sont accessibles gratuitement, sans forfait de ski</strong> », des zones étiquetées « Gratuit » dans la plupart des villages, la Funslope « la plus longue d'Europe ! » — et le forfait offert aux moins de 5 ans. L'autre exclusivité est olympique : la <strong>piste de bobsleigh d'Albertville 1992</strong>, « Unique en France » — « 1,5 km de descente ponctuée de 19 virages », 124,5 m de dénivelé — se descend en Bob Raft (80 km/h), Speed Luge (90 km/h) ou Bob Racing (120 km/h).</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Payant",
+        "best_season": "12 décembre 2026 – 24 avril 2027",
+        "commune": "La Plagne Tarentaise",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Station de ski",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin",
+          "ski_fond",
+          "luge",
+          "raquettes",
+          "chiens_traineau",
+          "ski_rando"
+        ]
+      },
+      "faq": [
+        {
+          "a": "« 16 remontées mécaniques pour débutants sont accessibles gratuitement, sans forfait de ski » — avec des zones débutants marquées « Gratuit » dans la plupart des villages et la Funslope, « la plus longue d'Europe ». Le forfait est offert jusqu'à la veille des 5 ans.",
+          "q": "Quelles remontées sont gratuites ?"
+        },
+        {
+          "a": "Du 12 décembre 2026 au 24 avril 2027 en Plagne Altitude ; jusqu'au 17 avril à Champagny-en-Vanoise, Montchavin-Les Coches et Plagne Montalbert. Les villages de vallée vivent toute l'année.",
+          "q": "Quand skie-t-on en 2026-27 ?"
+        },
+        {
+          "a": "Trois formules sur la piste d'Albertville 1992, à La Roche (1 800 m) : Bob Raft autoguidé à 80 km/h, Speed Luge à 90 km/h, Bob Racing piloté à 120 km/h — « 1,5 km de descente ponctuée de 19 virages », de mi-décembre à fin mars.",
+          "q": "Comment essaye-t-on la piste olympique de bobsleigh ?"
+        },
+        {
+          "a": "Les deux, selon l'échelle : 225 km pour le domaine de La Plagne seule (1 250 – 3 080 m), 425 km pour Paradiski avec Les Arcs et Peisey-Vallandry. La page d'accueil met le chiffre Paradiski en vitrine — nous précisons la nuance.",
+          "q": "225 km ou 425 km ?"
+        }
+      ],
+      "hero": {
+        "badge": "Station · Paradiski",
+        "lead": "Onze villages de 1 200 à 2 100 m, 225 km de pistes montant à 3 080 m, seize remontées débutants gratuites — et la seule piste olympique de bobsleigh de France."
+      },
+      "hero_alt": "Forêt enneigée vue du ciel au-dessus de La Plagne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "N90 jusqu'à Aime, puis D221/D86 vers les villages d'altitude.",
+        "public_transport": "Gare SNCF d'Aime-la-Plagne, puis navette d'altitude."
+      },
+      "meta_description": "La Plagne : onze villages, 225 km de pistes jusqu'à 3 080 m, 16 remontées débutants gratuites, piste olympique de bobsleigh d'Albertville 1992 — et Paradiski, 425 km. Saison 2026-27 dès le 12 décembre.",
+      "meta_title": "La Plagne · 11 villages, bobsleigh olympique, Paradiski",
+      "name": "La Plagne",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Villages",
+          "v": "11, de Champagny (1 200 m) à Aime 2000 (2 100 m)"
+        },
+        {
+          "k": "Domaine",
+          "v": "225 km propres (1 250 – 3 080 m) · Paradiski 425 km · remontées propres non publiées"
+        },
+        {
+          "k": "Saison 26/27",
+          "v": "Altitude : 12 décembre – 24 avril · villages-portes : 12 décembre – 17 avril"
+        },
+        {
+          "k": "Gratuit",
+          "v": "16 remontées débutants sans forfait · Funslope · forfait offert aux -5 ans"
+        },
+        {
+          "k": "Contact",
+          "v": "OT de la Grande Plagne · 04 79 09 02 01"
+        }
+      ],
+      "schema_amenities": [
+        "16 remontées débutants gratuites",
+        "Piste olympique de bobsleigh",
+        "Funslope"
+      ],
+      "when_to_visit": "<p>Saison 2026-27 publiée village par village : <strong>Plagne Altitude du 12 décembre au 24 avril</strong> ; Champagny-en-Vanoise, Montchavin-Les Coches et Plagne Montalbert du 12 décembre au 17 avril — et « La Plagne Vallée : bienvenue toute l'année ! ». La piste de bobsleigh ouvre « de mi-décembre à fin mars ». L'été, Montchavin-Les Coches démarre le 27 juin, l'altitude le 4 juillet, jusqu'au 29 août.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "1,5 km, 19 curve: Bob Raft, Speed Luge o Bob Racing fino a 120 km/h.",
+          "tag": "Unico in Francia",
+          "title": "La pista olimpica di bobsleigh"
+        },
+        {
+          "description": "Zone \"Free\" nella maggior parte dei villaggi, più il più lungo Funslope d'Europa.",
+          "tag": "No pass",
+          "title": "Sedici impianti di risalita gratuiti"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>La Plagne</strong> spargimenti <strong>eleven villages</strong> tra valle e altitudine — Champagny-en-Vanoise (1 200 m), Montchavin-Les Coches, Plagne Centre (1 970 m), Belle Plagne (2 050 m), Aime 2000 (2 100 m)... Il suo dominio si estende da 1.250 m a 3.080 m' con '<strong>225 km di piste</strong>', 14 percorsi di fondo e 22% del dominio nella foresta; collegato a Les Arcs dal Vanoise Express, si forma <strong>Paradiski</strong> e i suoi '425 km di piste' — una figura che la homepage del resort sostiene direttamente, una scheda che bandiamo. Il numero di ascensori di La Plagne non è pubblicato: resta instabile.</p><p>Il resort pubblica una rara offerta gratuita: '<strong>16 impianti di risalita sono accessibili gratuitamente, senza skipass</strong>«, zone denominate «Free» nella maggior parte dei villaggi, Funslope — «L'Europa è più lunga!» — e un pass gratuito fino alla vigilia del 5 ° compleanno di un bambino. L'altra esclusiva è Olympic: il <strong>Albertville 1992 pista di bobsleigh</strong>, 'Unique in France' — «1,5 km di discesa punteggiata da 19 curve», 124,5 m di goccia — guidato da Bob Raft (80 km/h), Speed Luge (90 km/h) o Bob Racing (120 km/h).</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagato",
+        "best_season": "12 dicembre 2026 – 24 aprile 2027",
+        "commune": "La Plagne Tarentaise",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Stazione sciistica",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski alpin",
+          "sci fond",
+          "L'acqua",
+          "racchette",
+          "Chiens traineau",
+          "ski rando"
+        ]
+      },
+      "faq": [
+        {
+          "a": "«16 impianti di risalita sono accessibili gratuitamente, senza skipass» — con zone principianti contrassegnate 'Free' nella maggior parte dei villaggi e Funslope, 'la più lunga Europa'. Il pass è gratuito fino alla vigilia del 5 ° compleanno di un bambino.",
+          "q": "Quali ascensori sono gratuiti?"
+        },
+        {
+          "a": "Dal 12 dicembre 2026 al 24 aprile 2027 a Plagne Altitude; fino al 17 aprile in Champagny-en-Vanoise, Montchavin-Les Coches e Plagne Montalbert. I villaggi della valle vivono tutto l'anno.",
+          "q": "Quando si scia nel 2026-27?"
+        },
+        {
+          "a": "Tre formule sulla traccia Albertville 1992 a La Roche (1.800 m): l'autoguidato Bob Raft a 80 km/h, l'Speed Luge a 90 km/h, il pilotato Bob Racing a 120 km/h — '1,5 km di discesa punteggiata da 19 curve', da metà dicembre a fine marzo.",
+          "q": "Come si guida la pista olimpica bobsleigh?"
+        },
+        {
+          "a": "Entrambi, a seconda della scala: 225 km per il proprio dominio di La Plagne (1 250 – 3 080 m), 425 km per Paradiski con Les Arcs e Peisey-Vallandry. La homepage mostra la figura Paradiski — esprimiamo la sfumatura.",
+          "q": "225 km o 425 km?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · Paradiski",
+        "lead": "Undici villaggi da 1.200 a 2.100 m, 225 km di piste che scalano a 3.080 m, sedici ascensori principianti liberi — e l'unica pista olimpica della Francia."
+      },
+      "hero_alt": "Foresta coperta di neve vista dall'alto a La Plagne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "N90 ad Aime, poi D221/D86 fino ai villaggi di altitudine.",
+        "public_transport": "Stazione Aime-la-Plagne SNCF, poi navetta a quota."
+      },
+      "meta_description": "La Plagne: eleven villages, 225 km of runs up to 3 080 m, 16 free beginner lifts, the Albertville 1992 Olympic bobsleigh track — e 425 km di Paradiski. 2026-27 stagione dal 12 dicembre.",
+      "meta_title": "La Plagne · 11 villaggi, Olympic bobsleigh, Paradiski",
+      "name": "La Plagne",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Villaggi",
+          "v": "11, da Champagny (1 200 m) a Aime 2000 (2 100 m)"
+        },
+        {
+          "k": "Dominio",
+          "v": "225 km proprie (1 250 – 3 080 m) · Paradiski 425 km · proprio conta ascensore inedito"
+        },
+        {
+          "k": "Stagione 26/27",
+          "v": "Altitudine: 12 dicembre – 24 aprile · villaggi di passaggio: 12 dicembre – 17 aprile"
+        },
+        {
+          "k": "Gratis",
+          "v": "16 ascensori principianti senza un passaggio · Funslope · passaggio libero sotto 5"
+        },
+        {
+          "k": "Contatto",
+          "v": "Grande Plagne ufficio turistico · +33 4 79 09 02 01"
+        }
+      ],
+      "schema_amenities": [
+        "16 ascensori principianti gratuiti",
+        "Pista olimpica bobsleigh",
+        "Funslope"
+      ],
+      "when_to_visit": "<p>La stagione 2026-27 è pubblicata villaggio per villaggio: <strong>Altitudine Plagne 12 dicembre al 24 aprile</strong>; Champagny-en-Vanoise, Montchavin-Les Coches e Plagne Montalbert dal 12 dicembre al 17 aprile e 'La Plagne Vallée: benvenuto tutto l'anno! La pista di bobsleigh si apre tra dicembre e fine marzo. In estate, Montchavin-Les Coches inizia il 27 giugno, i villaggi di altitudine 4 luglio, fino al 29 agosto.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "1,5 km, 19 bochten: Bob Raft, Speed Luge of Bob Racing tot 120 km/h.",
+          "tag": "Uniek in Frankrijk",
+          "title": "Olympisch bobsleebaan"
+        },
+        {
+          "description": "Vrije zones in de meeste dorpen, plus Europa's langste Funslope.",
+          "tag": "Geen pass",
+          "title": "Zestien gratis beginner liften"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>La Plagne</strong> verstrooit <strong>elf dorpen</strong> tussen de vallei en de hoogte Champagny-en-Vanoise (1.200 m), Montchavin-Les Coches, Plagne Centre (1.970 m), Belle Plagne (2.050 m), Aime 2000 (2.100 m)... Het domein strekt zich uit 'van 1.250 m tot 3.080 m' met '<strong>225 km hardlopen</strong>\"14 cross-country trails en 22% van het domein in het bos; gekoppeld aan Les Arcs door de Vanoise Express, het vormt <strong>Paradiski</strong> en zijn \"425 km aan runs\" Een figuur op de homepage van het resort claimt direct, een slipping die we markeren. De eigen lifttelling van La Plagne wordt niet gepubliceerd: Het blijft onopgemerkt.</p><p>Het resort publiceert een zeldzame gratis aanbieding: '<strong>16 beginnersliften zijn gratis toegankelijk, zonder skipas</strong>\", zones met het opschrift \"Vrij\" in de meeste dorpen, de Funslope 'Europa's langste!' en een gratis pas tot aan de vooravond van de 5e verjaardag van een kind. De andere exclusieve is Olympic: de <strong>Albertville 1992 bobsleigh track</strong>, \"Uniek in Frankrijk\" \"1,5 km afdaling door 19 bochten,\" 124,5 m val gereden door Bob Raft (80 km/u), Speed Luge (90 km/u) of Bob Racing (120 km/u).</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Betaald",
+        "best_season": "12 december 2026 24 april 2027",
+        "commune": "La Plagne Tarentaise",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Skigebied",
+        "winter_access": "open",
+        "winter_infra": [
+          "Skialpin",
+          "Skipfond",
+          "luge",
+          "raquettes",
+          "chiens traineau",
+          "ski rando"
+        ]
+      },
+      "faq": [
+        {
+          "a": "'16 beginnersliften zijn gratis toegankelijk, zonder skipas' met beginnerszones met 'Vrij' in de meeste dorpen en de Funslope, 'Europa's langste'. De pas is gratis tot aan de vooravond van de 5e verjaardag van een kind.",
+          "q": "Welke liften zijn gratis?"
+        },
+        {
+          "a": "Van 12 december 2026 tot 24 april 2027 in Plagne Hoogte; tot 17 april in Champagny-en-Vanoise, Montchavin-Les Coches en Plagne Montalbert. De vallei dorpen leven het hele jaar door.",
+          "q": "Wanneer ski je in 2026-27?"
+        },
+        {
+          "a": "Drie formules op de Albertville 1992 track op La Roche (1.800 m): de zelfgeleide Bob Raft op 80 km/h, de Speed Luge op 90 km/h, de bestuurde Bob Racing op 120 km/h \"1,5 km afdaling in 19 bochten,\" half december tot eind maart.",
+          "q": "Hoe rijd je op de Olympische bobsleebaan?"
+        },
+        {
+          "a": "Beide, afhankelijk van de schaal: 225 km voor het eigen domein van La Plagne (1.250  3 080 m), 425 km voor Paradiski met Les Arcs en Peisey-Vallandry. De homepage toont de Paradiski figuur We spellen de nuance.",
+          "q": "225 km of 425 km?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · Paradiski",
+        "lead": "Elf dorpen van 1.200 tot 2100 m, 225 km aan pistes klimmen tot 3.080 m, zestien gratis beginnersliften En Frankrijk's enige Olympische bobsleebaan."
+      },
+      "hero_alt": "Besneeuwd bos vanaf boven bij La Plagne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "N90 naar Aime, dan D221/D86 naar de hoogte dorpen.",
+        "public_transport": "Aime-la-Plagne SNCF station, dan hoogte shuttle."
+      },
+      "meta_description": "La Plagne: elf dorpen, 225 km loopt tot 3.080 m, 16 gratis beginnersliften, de Albertville 1992 Olympische bobsleigh track en de 425 km van Paradiski. 2026-27 seizoen van 12 december.",
+      "meta_title": "La Plagne · 11 dorpen, Olympische bobsleigh, Paradiski",
+      "name": "La Plagne",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Dorpen",
+          "v": "11, van Champagny (1.200 m) tot Aime 2000 (2100 m)"
+        },
+        {
+          "k": "Domein",
+          "v": "225 km eigen (1.250  3.080 m) · Paradiski 425 km · eigen lift aantal niet gepubliceerd"
+        },
+        {
+          "k": "Seizoen 26/27",
+          "v": "Hoogte: 12 december 24 april · poortdorpen: 12 december 17 april"
+        },
+        {
+          "k": "Vrij",
+          "v": "16 beginnersliften zonder pas · Funslope · vrije pas onder 5"
+        },
+        {
+          "k": "Contactpersoon",
+          "v": "Grande Plagne VVV-kantoor · +33 4 79 09 02 01"
+        }
+      ],
+      "schema_amenities": [
+        "16 gratis beginner liften",
+        "Olympisch bobsleebaan",
+        "Funslope"
+      ],
+      "when_to_visit": "<p>De 2026-27 seizoen wordt gepubliceerd dorp door dorp: <strong>Plagne Hoogte 12 december tot 24 april</strong>; Champagny-en-Vanoise, Montchavin-Les Coches en Plagne Montalbert 12 december t/m 17 april en \"La Plagne Vallée: het hele jaar welkom!'. De bobsleigh track opent 'mid-december tot eind maart'. In de zomer start Montchavin-Les Coches op 27 juni, de hoogtedorpen op 4 juli en 29 augustus.</p>"
+    }
+  },
+  "latitude": 45.506069,
+  "longitude": 6.675518,
+  "official_site_url": "https://www.la-plagne.com/decouvrir-la-plagne/domaine-skiable",
+  "partners": [],
+  "postal_code": "73210",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-18, FR pages only (la-plagne.com). 11 villages : Aime 2000 (2 100 m), Belle Plagne (2 050 m), Plagne Centre (1 970 m), Montchavin-Les Coches (1 250-1 450 m), Champagny (1 200 m)… Domaine La Plagne « de 1 250 m à 3 080 m », « 225 km de pistes », 14 pistes de ski de fond, 22 % en forêt ; Paradiski (avec Les Arcs/Peisey-Vallandry) « 425 km ». CONTRADICTION de présentation : la page d'accueil met « 425 km » en avant comme chiffre de la station — reportée. Nombre de remontées propres non publié → non renseigné. Saison 26/27 publiée par villages : Plagne Altitude 12/12–24/04 ; Champagny, Montchavin-Les Coches, Montalbert 12/12–17/04. GRATUIT : « 16 remontées mécaniques pour débutants sont accessibles gratuitement, sans forfait de ski » ; Funslope « la plus longue d'Europe » gratuite ; forfait offert <5 ans. Piste olympique de bobsleigh d'Albertville 1992 : « Unique en France », 1,5 km, 19 virages, 124,5 m de dénivelé, Bob Raft 80 km/h, Speed Luge 90 km/h, Bob Racing 120 km/h, mi-décembre à fin mars. Navettes intra-station non confirmées — non affirmé. Coordonnées IGN (Plagne Centre).",
+  "schema_org": {
+    "amenities": [],
+    "is_free": false,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "station-de-la-plagne",
+  "sources": [
+    "https://www.la-plagne.com/decouvrir-la-plagne/domaine-skiable",
+    "https://www.la-plagne.com/dates-d-ouvertures",
+    "https://www.la-plagne.com/decouvrir-la-plagne/domaine-skiable/des-forfaits-pour-toutes-les-envies",
+    "https://www.la-plagne.com/savourez-une-multitude-d-activites/immergez-vous-au-coeur-de-l-hiver/bobsleigh-skeleton-luge"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "REMONTEES — le nombre de remontées mécaniques de La Plagne seule n'est pas publié sur les pages consultées ; non renseigné.",
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published; kept null."
+  ]
+}

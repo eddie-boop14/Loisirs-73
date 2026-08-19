@@ -3170,6 +3170,42 @@
       "access_state": "paid"
     },
     {
+      "slug": "savoie-grand-revard",
+      "categories": [
+        "station"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Savoie Grand Revard",
+          "commune": "Les Déserts"
+        },
+        "en": {
+          "name": "Savoie Grand Revard",
+          "commune": "Les Déserts"
+        },
+        "de": {
+          "name": "Savoie Grand Revard",
+          "commune": "Les Déserts"
+        },
+        "it": {
+          "name": "Savoie Grand Revard",
+          "commune": "Les Déserts"
+        },
+        "es": {
+          "name": "Savoie Grand Revard",
+          "commune": "Les Déserts"
+        },
+        "nl": {
+          "name": "Savoie Grand Revard",
+          "commune": "Les Déserts"
+        }
+      },
+      "latitude": 45.645381,
+      "longitude": 5.983047,
+      "is_free": false,
+      "access_state": "paid"
+    },
+    {
       "slug": "sentier-artistique-hautecour",
       "categories": [
         "sentier"
@@ -3276,6 +3312,546 @@
       "longitude": 6.505779,
       "is_free": true,
       "access_state": "free"
+    },
+    {
+      "slug": "station-d-aussois",
+      "categories": [
+        "station"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Aussois",
+          "commune": "Aussois"
+        },
+        "en": {
+          "name": "Aussois",
+          "commune": "Aussois"
+        },
+        "de": {
+          "name": "Aussois",
+          "commune": "Aussois"
+        },
+        "it": {
+          "name": "Aussois",
+          "commune": "Aussois"
+        },
+        "es": {
+          "name": "Aussois",
+          "commune": "Aussois"
+        },
+        "nl": {
+          "name": "Aussois",
+          "commune": "Aussois"
+        }
+      },
+      "latitude": 45.229546,
+      "longitude": 6.74217,
+      "is_free": false,
+      "access_state": "paid"
+    },
+    {
+      "slug": "station-de-courchevel",
+      "categories": [
+        "station"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Courchevel",
+          "commune": "Courchevel"
+        },
+        "en": {
+          "name": "Courchevel",
+          "commune": "Courchevel"
+        },
+        "de": {
+          "name": "Courchevel",
+          "commune": "Courchevel"
+        },
+        "it": {
+          "name": "Courchevel",
+          "commune": "Courchevel"
+        },
+        "es": {
+          "name": "Courchevel",
+          "commune": "Courchevel"
+        },
+        "nl": {
+          "name": "Courchevel",
+          "commune": "Courchevel"
+        }
+      },
+      "latitude": 45.410566,
+      "longitude": 6.633669,
+      "is_free": false,
+      "access_state": "paid"
+    },
+    {
+      "slug": "station-de-la-plagne",
+      "categories": [
+        "station"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "La Plagne",
+          "commune": "La Plagne Tarentaise"
+        },
+        "en": {
+          "name": "La Plagne",
+          "commune": "La Plagne Tarentaise"
+        },
+        "de": {
+          "name": "La Plagne",
+          "commune": "La Plagne Tarentaise"
+        },
+        "it": {
+          "name": "La Plagne",
+          "commune": "La Plagne Tarentaise"
+        },
+        "es": {
+          "name": "La Plagne",
+          "commune": "La Plagne Tarentaise"
+        },
+        "nl": {
+          "name": "La Plagne",
+          "commune": "La Plagne Tarentaise"
+        }
+      },
+      "latitude": 45.506069,
+      "longitude": 6.675518,
+      "is_free": false,
+      "access_state": "paid"
+    },
+    {
+      "slug": "station-de-la-rosiere",
+      "categories": [
+        "station"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "La Rosière",
+          "commune": "Montvalezan"
+        },
+        "en": {
+          "name": "La Rosière",
+          "commune": "Montvalezan"
+        },
+        "de": {
+          "name": "La Rosière",
+          "commune": "Montvalezan"
+        },
+        "it": {
+          "name": "La Rosière",
+          "commune": "Montvalezan"
+        },
+        "es": {
+          "name": "La Rosière",
+          "commune": "Montvalezan"
+        },
+        "nl": {
+          "name": "La Rosière",
+          "commune": "Montvalezan"
+        }
+      },
+      "latitude": 45.618937,
+      "longitude": 6.85608,
+      "is_free": false,
+      "access_state": "paid"
+    },
+    {
+      "slug": "station-de-meribel",
+      "categories": [
+        "station"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Méribel",
+          "commune": "Les Allues"
+        },
+        "en": {
+          "name": "Méribel",
+          "commune": "Les Allues"
+        },
+        "de": {
+          "name": "Méribel",
+          "commune": "Les Allues"
+        },
+        "it": {
+          "name": "Méribel",
+          "commune": "Les Allues"
+        },
+        "es": {
+          "name": "Méribel",
+          "commune": "Les Allues"
+        },
+        "nl": {
+          "name": "Méribel",
+          "commune": "Les Allues"
+        }
+      },
+      "latitude": 45.397522,
+      "longitude": 6.564358,
+      "is_free": false,
+      "access_state": "paid"
+    },
+    {
+      "slug": "station-de-pralognan-la-vanoise",
+      "categories": [
+        "station"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Pralognan-la-Vanoise",
+          "commune": "Pralognan-la-Vanoise"
+        },
+        "en": {
+          "name": "Pralognan-la-Vanoise",
+          "commune": "Pralognan-la-Vanoise"
+        },
+        "de": {
+          "name": "Pralognan-la-Vanoise",
+          "commune": "Pralognan-la-Vanoise"
+        },
+        "it": {
+          "name": "Pralognan-la-Vanoise",
+          "commune": "Pralognan-la-Vanoise"
+        },
+        "es": {
+          "name": "Pralognan-la-Vanoise",
+          "commune": "Pralognan-la-Vanoise"
+        },
+        "nl": {
+          "name": "Pralognan-la-Vanoise",
+          "commune": "Pralognan-la-Vanoise"
+        }
+      },
+      "latitude": 45.372015,
+      "longitude": 6.715221,
+      "is_free": false,
+      "access_state": "paid"
+    },
+    {
+      "slug": "station-de-tignes",
+      "categories": [
+        "station"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Tignes",
+          "commune": "Tignes"
+        },
+        "en": {
+          "name": "Tignes",
+          "commune": "Tignes"
+        },
+        "de": {
+          "name": "Tignes",
+          "commune": "Tignes"
+        },
+        "it": {
+          "name": "Tignes",
+          "commune": "Tignes"
+        },
+        "es": {
+          "name": "Tignes",
+          "commune": "Tignes"
+        },
+        "nl": {
+          "name": "Tignes",
+          "commune": "Tignes"
+        }
+      },
+      "latitude": 45.468338,
+      "longitude": 6.906293,
+      "is_free": false,
+      "access_state": "paid"
+    },
+    {
+      "slug": "station-de-val-cenis",
+      "categories": [
+        "station"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Val Cenis",
+          "commune": "Val-Cenis"
+        },
+        "en": {
+          "name": "Val Cenis",
+          "commune": "Val-Cenis"
+        },
+        "de": {
+          "name": "Val Cenis",
+          "commune": "Val-Cenis"
+        },
+        "it": {
+          "name": "Val Cenis",
+          "commune": "Val-Cenis"
+        },
+        "es": {
+          "name": "Val Cenis",
+          "commune": "Val-Cenis"
+        },
+        "nl": {
+          "name": "Val Cenis",
+          "commune": "Val-Cenis"
+        }
+      },
+      "latitude": 45.284131,
+      "longitude": 6.873613,
+      "is_free": false,
+      "access_state": "paid"
+    },
+    {
+      "slug": "station-de-val-d-isere",
+      "categories": [
+        "station"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Val d'Isère",
+          "commune": "Val-d'Isère"
+        },
+        "en": {
+          "name": "Val d'Isère",
+          "commune": "Val-d'Isère"
+        },
+        "de": {
+          "name": "Val d'Isère",
+          "commune": "Val-d'Isère"
+        },
+        "it": {
+          "name": "Val d'Isère",
+          "commune": "Val-d'Isère"
+        },
+        "es": {
+          "name": "Val d'Isère",
+          "commune": "Val-d'Isère"
+        },
+        "nl": {
+          "name": "Val d'Isère",
+          "commune": "Val-d'Isère"
+        }
+      },
+      "latitude": 45.450377,
+      "longitude": 6.978164,
+      "is_free": false,
+      "access_state": "paid"
+    },
+    {
+      "slug": "station-de-val-thorens",
+      "categories": [
+        "station"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Val Thorens",
+          "commune": "Les Belleville"
+        },
+        "en": {
+          "name": "Val Thorens",
+          "commune": "Les Belleville"
+        },
+        "de": {
+          "name": "Val Thorens",
+          "commune": "Les Belleville"
+        },
+        "it": {
+          "name": "Val Thorens",
+          "commune": "Les Belleville"
+        },
+        "es": {
+          "name": "Val Thorens",
+          "commune": "Les Belleville"
+        },
+        "nl": {
+          "name": "Val Thorens",
+          "commune": "Les Belleville"
+        }
+      },
+      "latitude": 45.297213,
+      "longitude": 6.57718,
+      "is_free": false,
+      "access_state": "paid"
+    },
+    {
+      "slug": "station-de-valloire",
+      "categories": [
+        "station"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Valloire",
+          "commune": "Valloire"
+        },
+        "en": {
+          "name": "Valloire",
+          "commune": "Valloire"
+        },
+        "de": {
+          "name": "Valloire",
+          "commune": "Valloire"
+        },
+        "it": {
+          "name": "Valloire",
+          "commune": "Valloire"
+        },
+        "es": {
+          "name": "Valloire",
+          "commune": "Valloire"
+        },
+        "nl": {
+          "name": "Valloire",
+          "commune": "Valloire"
+        }
+      },
+      "latitude": 45.165666,
+      "longitude": 6.429148,
+      "is_free": false,
+      "access_state": "paid"
+    },
+    {
+      "slug": "station-de-valmorel",
+      "categories": [
+        "station"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Valmorel",
+          "commune": "Les Avanchers-Valmorel"
+        },
+        "en": {
+          "name": "Valmorel",
+          "commune": "Les Avanchers-Valmorel"
+        },
+        "de": {
+          "name": "Valmorel",
+          "commune": "Les Avanchers-Valmorel"
+        },
+        "it": {
+          "name": "Valmorel",
+          "commune": "Les Avanchers-Valmorel"
+        },
+        "es": {
+          "name": "Valmorel",
+          "commune": "Les Avanchers-Valmorel"
+        },
+        "nl": {
+          "name": "Valmorel",
+          "commune": "Les Avanchers-Valmorel"
+        }
+      },
+      "latitude": 45.461698,
+      "longitude": 6.442483,
+      "is_free": false,
+      "access_state": "paid"
+    },
+    {
+      "slug": "station-des-arcs",
+      "categories": [
+        "station"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Les Arcs",
+          "commune": "Bourg-Saint-Maurice"
+        },
+        "en": {
+          "name": "Les Arcs",
+          "commune": "Bourg-Saint-Maurice"
+        },
+        "de": {
+          "name": "Les Arcs",
+          "commune": "Bourg-Saint-Maurice"
+        },
+        "it": {
+          "name": "Les Arcs",
+          "commune": "Bourg-Saint-Maurice"
+        },
+        "es": {
+          "name": "Les Arcs",
+          "commune": "Bourg-Saint-Maurice"
+        },
+        "nl": {
+          "name": "Les Arcs",
+          "commune": "Bourg-Saint-Maurice"
+        }
+      },
+      "latitude": 45.573264,
+      "longitude": 6.780428,
+      "is_free": false,
+      "access_state": "paid"
+    },
+    {
+      "slug": "station-des-menuires",
+      "categories": [
+        "station"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Les Menuires",
+          "commune": "Les Belleville"
+        },
+        "en": {
+          "name": "Les Menuires",
+          "commune": "Les Belleville"
+        },
+        "de": {
+          "name": "Les Menuires",
+          "commune": "Les Belleville"
+        },
+        "it": {
+          "name": "Les Menuires",
+          "commune": "Les Belleville"
+        },
+        "es": {
+          "name": "Les Menuires",
+          "commune": "Les Belleville"
+        },
+        "nl": {
+          "name": "Les Menuires",
+          "commune": "Les Belleville"
+        }
+      },
+      "latitude": 45.327393,
+      "longitude": 6.53682,
+      "is_free": false,
+      "access_state": "paid"
+    },
+    {
+      "slug": "station-des-saisies",
+      "categories": [
+        "station"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Les Saisies",
+          "commune": "Hauteluce"
+        },
+        "en": {
+          "name": "Les Saisies",
+          "commune": "Hauteluce"
+        },
+        "de": {
+          "name": "Les Saisies",
+          "commune": "Hauteluce"
+        },
+        "it": {
+          "name": "Les Saisies",
+          "commune": "Hauteluce"
+        },
+        "es": {
+          "name": "Les Saisies",
+          "commune": "Hauteluce"
+        },
+        "nl": {
+          "name": "Les Saisies",
+          "commune": "Hauteluce"
+        }
+      },
+      "latitude": 45.744688,
+      "longitude": 6.561016,
+      "is_free": false,
+      "access_state": "paid"
     },
     {
       "slug": "telecabine-de-champagny",

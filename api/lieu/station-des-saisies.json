@@ -1,0 +1,37 @@
+{
+  "name": "Les Saisies",
+  "commune": "Hauteluce",
+  "gps": {
+    "lat": 45.744688,
+    "lng": 6.561016
+  },
+  "type": "station",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": false,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "12 décembre 2026 – 10 avril 2027",
+  "winter": {
+    "access": "open",
+    "infrastructure": [
+      "ski_alpin",
+      "ski_fond",
+      "luge",
+      "raquettes",
+      "chiens_traineau"
+    ],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
+  "official_url": "https://www.lessaisies.com/ski-alpin-ski-nordique-grand-domaine-altitude.html",
+  "last_verified": null
+}

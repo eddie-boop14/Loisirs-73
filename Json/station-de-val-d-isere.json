@@ -1,0 +1,626 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-18",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "station",
+  "commune": "Val-d'Isère",
+  "date_modified_human": "18 août 2026",
+  "date_published_human": "18 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-18",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-snowboard-saut.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Die mit Tignes verknüpfte Domain: 161 verläuft, von der Schneefront bis zu den Gletschern.",
+          "tag": "Alpen",
+          "title": "300 km zwischen 1.550 und 3.400 m"
+        },
+        {
+          "description": "Die 28-29 November 2026 Eröffnungswochenende, vor fünf Monaten der Saison.",
+          "tag": "Öffnung",
+          "title": "Premières Traces"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Val d'Isère</strong>, ein Haute-Tarentaise-Dorf auf 1.850 m, bildet mit Tignes eine verknüpfte Domäne — ehemalige Espace Killy — Skifahren 'zwischen 1.550 m und über 3.400 m': „<strong>300 km markierte Strecken</strong>\", 161 Pisten (21 grün, 65 blau, 41 rot, 32 schwarz) und \"71 Lifte\", darunter 37 Sesselbahnen, 6 Gondeln und 3 Seilbahnen - <strong>11 Lifte sind für Fußgänger geöffnet</strong>.</p><p>Auf dem Lift der verlinkten Domain veröffentlichen die beiden Resorts nicht die gleiche Zahl - „71“ pro valdisere.com, „74“ pro tignes.net — Und wir zitieren beides. Freie Dinge veröffentlicht: \"mehrere kostenlose Lifte\" an der Schneefront für Anfänger, die <strong>Val Bus</strong> Shuttles laufen \"Winter und Sommer gleichermaßen\" und die Snake Gliss-Sitzung \"unser Schnee-Host lässt Sie kostenlos entdecken\". Das Dorf behält auch seine kulturelle Seitenlinie: das Val Histoire-Museum, das Aquasportif-Zentrum, der Eisfall.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Bezahlt",
+        "best_season": "28. November 2026 – 2. Mai 2027",
+        "commune": "Val-d'Isère",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Skigebiet",
+        "winter_access": "open",
+        "winter_infra": [
+          "Ski alpin",
+          "ski fond",
+          "Ski rando",
+          "Raquetten",
+          "Lastwagen"
+        ]
+      },
+      "faq": [
+        {
+          "a": "vom 28. November 2026 bis zum 2. Mai 2027 — Die Eröffnung wird mit dem Wochenende \"Premières Traces\" vom 28. bis 29. November 2026 gefeiert. Auf der Tignes-Seite öffnet sich die verlinkte Domain ab dem 21. November.",
+          "q": "Wann beginnt die Saison 2026-27?"
+        },
+        {
+          "a": "Beide Zahlen koexistieren auf den offiziellen Websites der verlinkten Domain: '71 Lifte' pro valdisere.com, '74' pro tignes.net. Wir zitieren beide, ohne zu entscheiden.",
+          "q": "Hat die Domain 71 oder 74 Lifte?"
+        },
+        {
+          "a": "\"Mehrere kostenlose Lifte\" an der Schneefront für Anfänger, die Val Bus-Shuttles rund um das Dorf \"Winter und Sommer\" und die Snake Gliss-Session laufen kostenlos vom Schnee-Host.",
+          "q": "Was ist kostenlos?"
+        },
+        {
+          "a": "Elf Lifte stehen Fußgängern offen. Fügen Sie die Eisbahn, Schneeschuhwandern, den Eisfall, Paragliding, Fatbiken, Schneemobilfahren, das Val Histoire-Museum, das Kino und das Aquasportif-Zentrum hinzu.",
+          "q": "Und ohne Skifahren?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · 1.850 m",
+        "lead": "Ein Dorf auf 1.850 m unterhalb des Col de l'Iseran, ein Gebiet mit Tignes Skifahren 'zwischen 1.550 m und über 3.400 m verbunden - und eine der längsten Jahreszeiten der Alpen, 28. November bis 2. Mai."
+      },
+      "hero_alt": "Snowboardsprung bei Val d'Isère, Haute-Tarentaise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D902 von Bourg-Saint-Maurice (A430 dann N90), das hohe Isère-Tal hinauf.",
+        "public_transport": "Bourg-Saint-Maurice SNCF Station, dann High-Tarentaise Bus."
+      },
+      "meta_description": "Val d'Isère (1.850 m): Domain verbunden mit Tignes, \"300 km Pisten\" zwischen 1.550 und 3.400 m, kostenlose Val Bus Shuttles, kostenlose Anfängerlifte. Saison 2026-27: 28. November bis 2. Mai.",
+      "meta_title": "Val d'Isère · 300 km verbunden mit Tignes, eine 5-Monats-Saison",
+      "name": "Val d'Isère",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Höhe",
+          "v": "Dorf 1.850 m · Domäne 'zwischen 1.550 m und über 3.400 m'"
+        },
+        {
+          "k": "Verlinkte Domain",
+          "v": "300 km · 161 Pisten · 71 Aufzüge (74 pro tignes.net) beide zitiert"
+        },
+        {
+          "k": "Saison 26/27",
+          "v": "28. November 2026 – 2. Mai 2027"
+        },
+        {
+          "k": "frei",
+          "v": "Anfänger-Schneelifte · Val Bus Shuttles · gehostete Snake Gliss"
+        },
+        {
+          "k": "Kontakt",
+          "v": "Val d'Isère Tourismusbüro · Ort Jacques Mouflier · +33 4 79 06 06 60"
+        }
+      ],
+      "schema_amenities": [
+        "Kostenlose Val Bus Shuttles",
+        "Kostenlose Anfängerlifte",
+        "Aquasportif Zentrum"
+      ],
+      "when_to_visit": "<p>Die Wintersaison 2026-27 wird veröffentlicht: <strong>28. November 2026 bis 2. Mai 2027</strong>, eröffnet durch das 'Premières Traces' Wochenende vom 28. bis 29. November. Im Sommer (4. Juli) 30. August), Val d'Isère dreht Rad-Basislager: Der Col de l'Iseran, \"der höchste Straßenpass der Alpen\", liegt 2.770 m über dem Dorf.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "The domain linked with Tignes: 161 runs, from the snow front to the glaciers.",
+          "tag": "Alpine",
+          "title": "300 km between 1,550 and 3,400 m"
+        },
+        {
+          "description": "The 28-29 November 2026 opening weekend, before five months of season.",
+          "tag": "Opening",
+          "title": "Premières Traces"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Val d'Isère</strong>, a Haute-Tarentaise village at 1,850 m, forms with Tignes a linked domain — the former Espace Killy — skiing 'between 1,550 m and over 3,400 m': '<strong>300 km of waymarked runs</strong>', 161 runs (21 green, 65 blue, 41 red, 32 black) and '71 lifts', including 37 chairlifts, 6 gondolas and 3 cable cars — <strong>11 lifts are open to pedestrians</strong>.</p><p>On the linked domain's lift count the two resorts do not publish the same figure — '71' per valdisere.com, '74' per tignes.net — and we quote both. Published free things: 'several free lifts' on the snow front for beginners, the <strong>Val Bus</strong> shuttles running 'winter and summer alike', and the Snake Gliss session 'our snow host lets you discover free of charge'. The village keeps its cultural sidelines too: the Val Histoire museum, the Aquasportif centre, the ice fall.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Paid",
+        "best_season": "28 November 2026 – 2 May 2027",
+        "commune": "Val-d'Isère",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Ski resort",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin",
+          "ski_fond",
+          "ski_rando",
+          "raquettes",
+          "luge"
+        ]
+      },
+      "faq": [
+        {
+          "a": "From 28 November 2026 to 2 May 2027 — opening is celebrated with the 'Premières Traces' weekend of 28-29 November 2026. On the Tignes side, the linked domain opens from 21 November.",
+          "q": "When does the 2026-27 season open?"
+        },
+        {
+          "a": "Both figures coexist on the linked domain's official sites: '71 lifts' per valdisere.com, '74' per tignes.net. We quote both without arbitrating.",
+          "q": "Does the domain have 71 or 74 lifts?"
+        },
+        {
+          "a": "'Several free lifts' on the snow front for beginners, the Val Bus shuttles around the village 'winter and summer alike', and the Snake Gliss session run free of charge by the snow host.",
+          "q": "What is free?"
+        },
+        {
+          "a": "Eleven lifts are open to pedestrians. Add the ice rink, snowshoeing, the ice fall, paragliding, fat biking, snowmobiling, the Val Histoire museum, the cinema and the Aquasportif centre.",
+          "q": "And without skiing?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · 1,850 m",
+        "lead": "A village at 1,850 m below the Col de l'Iseran, a domain linked with Tignes skiing 'between 1,550 m and over 3,400 m' — and one of the Alps' longest seasons, 28 November to 2 May."
+      },
+      "hero_alt": "Snowboard jump at Val d'Isère, Haute-Tarentaise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D902 from Bourg-Saint-Maurice (A430 then N90), up the high Isère valley.",
+        "public_transport": "Bourg-Saint-Maurice SNCF station, then high-Tarentaise coach."
+      },
+      "meta_description": "Val d'Isère (1,850 m): domain linked with Tignes, '300 km of runs' between 1,550 and 3,400 m, free Val Bus shuttles, free beginner lifts. 2026-27 season: 28 November to 2 May.",
+      "meta_title": "Val d'Isère · 300 km linked with Tignes, a 5-month season",
+      "name": "Val d'Isère",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Altitude",
+          "v": "Village 1,850 m · domain 'between 1,550 m and over 3,400 m'"
+        },
+        {
+          "k": "Linked domain",
+          "v": "300 km · 161 runs · 71 lifts (74 per tignes.net — both quoted)"
+        },
+        {
+          "k": "Season 26/27",
+          "v": "28 November 2026 – 2 May 2027"
+        },
+        {
+          "k": "Free",
+          "v": "Beginner snow-front lifts · Val Bus shuttles · hosted Snake Gliss"
+        },
+        {
+          "k": "Contact",
+          "v": "Val d'Isère tourist office · place Jacques Mouflier · +33 4 79 06 06 60"
+        }
+      ],
+      "schema_amenities": [
+        "Free Val Bus shuttles",
+        "Free beginner lifts",
+        "Aquasportif centre"
+      ],
+      "when_to_visit": "<p>The 2026-27 winter season is published: <strong>28 November 2026 to 2 May 2027</strong>, opened by the 'Premières Traces' weekend of 28-29 November. In summer (4 July – 30 August), Val d'Isère turns cycling base camp: the Col de l'Iseran, 'the highest road pass in the Alps', tops out at 2,770 m above the village.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "El dominio vinculado con Tignes: 161 carreras, desde el frente de nieve hasta los glaciares.",
+          "tag": "Alpine",
+          "title": "300 km entre 1 550 y 3.400 m"
+        },
+        {
+          "description": "El 28-29 de noviembre de 2026 el fin de semana de apertura, antes de cinco meses de temporada.",
+          "tag": "Apertura",
+          "title": "Premières Traces"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Val d'Isère</strong>, un pueblo Haute-Tarentaise a 1.850 m, forma con Tignes un dominio vinculado — la antigua Espace Killy esquiando entre 1.550 m y más de 3.400 m': '<strong>300 km de carreras señalizadas</strong>', 161 carreras (21 verdes, 65 azules, 41 rojos, 32 negros) y '71 ascensores', incluyendo 37 sillones, 6 góndolas y 3 teleféricos <strong>11 ascensores están abiertos a peatones</strong>.</p><p>En la elevación del dominio vinculado cuentan que los dos resorts no publican la misma figura — '71' por valdisere.com, '74' por tignes.net y citamos ambos. Publicado cosas gratis: 'several ascensores gratis' en el frente de nieve para principiantes, los <strong>Val Bus</strong> lanzaderas que operan 'invierno y verano por igual', y la sesión Snake Gliss 'nuestro host de nieve le permite descubrir de forma gratuita'. El pueblo mantiene también sus líneas culturales: el museo Val Histoire, el centro Aquasportif, la caída del hielo.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagado",
+        "best_season": "28 de noviembre de 2026 – 2 de mayo de 2027",
+        "commune": "Val-d'Isère",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Escuela de esquí",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski alpin",
+          "ski fond",
+          "ski rando",
+          "raquetas",
+          "Luge"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Del 28 de noviembre de 2026 al 2 de mayo de 2027 — apertura se celebra con el fin de semana 'Premières Traces' del 28 al 29 de noviembre de 2026. En el lado Tignes, el dominio vinculado se abre del 21 de noviembre.",
+          "q": "¿Cuándo se abre la temporada 2026-27?"
+        },
+        {
+          "a": "Ambas figuras coexisten en los sitios oficiales del dominio vinculado: 71 ascensores por valdisere.com, 74 por tignes.net. Citamos ambos sin arbitrar.",
+          "q": "¿El dominio tiene 71 o 74 ascensores?"
+        },
+        {
+          "a": "'Several free lifts' en el frente de la nieve para principiantes, los transbordadores Val Bus alrededor del pueblo 'invierno y verano por igual', y la sesión Snake Gliss se ejecuta de forma gratuita por el host de nieve.",
+          "q": "¿Qué es gratis?"
+        },
+        {
+          "a": "Once ascensores están abiertos a peatones. Añadir la pista de hielo, raqueta de nieve, la caída de hielo, parapente, bicicleta de grasa, moto de nieve, el museo Val Histoire, el cine y el centro Aquasportif.",
+          "q": "¿Y sin esquiar?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · 1.850 m",
+        "lead": "Un pueblo a 1 850 m debajo del Col de l'Iseran, un dominio vinculado con el esquí Tignes 'entre 1 550 m y más de 3.400 m' y una de las temporadas más largas de los Alpes, del 28 de noviembre al 2 de mayo."
+      },
+      "hero_alt": "Salto de snowboard en Val d'Isère, Haute-Tarentaise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D902 de Bourg-Saint-Maurice (A430 luego N90), en el alto valle de Isère.",
+        "public_transport": "Estación Bourg-Saint-Maurice SNCF, luego entrenador de alto nivel."
+      },
+      "meta_description": "Val d'Isère (1.850 m): dominio vinculado con Tignes, '300 km de pistas' entre 1 550 y 3.400 m, transbordadores Val Bus gratuitos, ascensores principiantes gratuitos. 2026-27 temporada: 28 de noviembre a 2 de mayo.",
+      "meta_title": "Val d'Isère · 300 km conectado con Tignes, una temporada de 5 meses",
+      "name": "Val d'Isère",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Altitud",
+          "v": "Pueblo 1 850 m · dominio 'entre 1 550 m y más de 3.400 m'"
+        },
+        {
+          "k": "Dominio vinculado",
+          "v": "300 km · 161 pistas · 71 ascensores (74 por tignes.net – ambos citados)"
+        },
+        {
+          "k": "Temporada 26/27",
+          "v": "28 de noviembre de 2026 – 2 de mayo de 2027"
+        },
+        {
+          "k": "Gratis",
+          "v": "Beginner snow-front lifts · Val Bus shuttles · hosted Snake Gliss"
+        },
+        {
+          "k": "Contacto",
+          "v": "Val d'Isère tourist office · place Jacques Mouflier · +33 4 79 06 06 60"
+        }
+      ],
+      "schema_amenities": [
+        "Traslados gratuitos Val Bus",
+        "Ascensores de principiantes gratis",
+        "Centro Aquasportif"
+      ],
+      "when_to_visit": "<p>La temporada de invierno 2026-27 se publica: <strong>28 de noviembre de 2026 a 2 de mayo de 2027</strong>, abierto por el fin de semana 'Premières Traces' del 28 al 29 de noviembre. En verano (4 de julio – 30 agosto), Val d'Isère convierte el campamento base de ciclismo: el Col de l'Iseran, 'la carretera más alta en los Alpes', sale a 2 770 m sobre el pueblo.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Le domaine relié avec Tignes : 161 pistes, du front de neige aux glaciers.",
+          "tag": "Alpin",
+          "title": "300 km entre 1 550 et 3 400 m"
+        },
+        {
+          "description": "Le week-end d'ouverture des 28-29 novembre 2026, avant cinq mois de saison.",
+          "tag": "Ouverture",
+          "title": "Premières Traces"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Val d'Isère</strong>, village de Haute-Tarentaise à 1 850 m, forme avec Tignes un domaine relié — l'ancien Espace Killy — où l'on skie « entre 1 550 m et plus de 3 400 m » : « <strong>300 km de pistes balisées</strong> », 161 pistes (21 vertes, 65 bleues, 41 rouges, 32 noires) et « 71 remontées mécaniques », dont 37 télésièges, 6 télécabines et 3 téléphériques — <strong>11 remontées sont accessibles aux piétons</strong>.</p><p>Sur le nombre de remontées du domaine relié, les deux stations ne publient pas le même chiffre — « 71 » selon valdisere.com, « 74 » selon tignes.net — et nous citons les deux. Côté gratuités publiées : « plusieurs remontées mécaniques gratuites » sur le front de neige pour débuter, les navettes <strong>Val Bus</strong> qui circulent « hiver comme été », et l'animation Snake Gliss que « notre animateur des neiges vous fait découvrir gratuitement ». Le village garde aussi ses hors-pistes culturels : le musée Val Histoire, le Centre Aquasportif, la cascade de glace.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Payant",
+        "best_season": "28 novembre 2026 – 2 mai 2027",
+        "commune": "Val-d'Isère",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Station de ski",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin",
+          "ski_fond",
+          "ski_rando",
+          "raquettes",
+          "luge"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Du 28 novembre 2026 au 2 mai 2027 — l'ouverture est fêtée par le week-end « Premières Traces » des 28 et 29 novembre 2026. Côté Tignes, le domaine relié ouvre dès le 21 novembre.",
+          "q": "Quand ouvre la saison 2026-27 ?"
+        },
+        {
+          "a": "Les deux chiffres coexistent sur les sites officiels du domaine relié : « 71 remontées mécaniques » selon valdisere.com, « 74 » selon tignes.net. Nous citons les deux sans arbitrer.",
+          "q": "Le domaine fait-il 71 ou 74 remontées ?"
+        },
+        {
+          "a": "« Plusieurs remontées mécaniques gratuites » sur le front de neige pour les débutants, les navettes Val Bus dans le village « hiver comme été », et l'animation Snake Gliss encadrée gratuitement par l'animateur des neiges.",
+          "q": "Qu'est-ce qui est gratuit ?"
+        },
+        {
+          "a": "Onze remontées sont accessibles aux piétons. S'y ajoutent patinoire, raquettes, cascade de glace, parapente, fat bike, motoneige, le musée Val Histoire, le cinéma et le Centre Aquasportif.",
+          "q": "Et sans skier ?"
+        }
+      ],
+      "hero": {
+        "badge": "Station · 1 850 m",
+        "lead": "Un village à 1 850 m au pied du col de l'Iseran, un domaine relié à Tignes qui skie « entre 1 550 m et plus de 3 400 m » — et l'une des saisons les plus longues des Alpes, du 28 novembre au 2 mai."
+      },
+      "hero_alt": "Saut en snowboard à Val d'Isère, Haute-Tarentaise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D902 depuis Bourg-Saint-Maurice (A430 puis N90), par la haute vallée de l'Isère.",
+        "public_transport": "Gare SNCF de Bourg-Saint-Maurice, puis autocar de haute Tarentaise."
+      },
+      "meta_description": "Val d'Isère (1 850 m) : domaine relié à Tignes, « 300 km de pistes » entre 1 550 et 3 400 m, navettes Val Bus gratuites, remontées débutants offertes. Saison 2026-27 : 28 novembre – 2 mai.",
+      "meta_title": "Val d'Isère · 300 km reliés à Tignes, saison de 5 mois",
+      "name": "Val d'Isère",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Altitude",
+          "v": "Village 1 850 m · domaine « entre 1 550 m et plus de 3 400 m »"
+        },
+        {
+          "k": "Domaine relié",
+          "v": "300 km · 161 pistes · 71 remontées (74 selon tignes.net — les deux cités)"
+        },
+        {
+          "k": "Saison 26/27",
+          "v": "28 novembre 2026 – 2 mai 2027"
+        },
+        {
+          "k": "Gratuit",
+          "v": "Remontées du front de neige débutants · navettes Val Bus · Snake Gliss animé"
+        },
+        {
+          "k": "Contact",
+          "v": "OT Val d'Isère · place Jacques Mouflier · 04 79 06 06 60"
+        }
+      ],
+      "schema_amenities": [
+        "Navettes Val Bus gratuites",
+        "Remontées débutants gratuites",
+        "Centre Aquasportif"
+      ],
+      "when_to_visit": "<p>Saison d'hiver 2026-27 publiée : <strong>du 28 novembre 2026 au 2 mai 2027</strong>, ouverte par le week-end « Premières Traces » des 28 et 29 novembre. L'été (4 juillet – 30 août), Val d'Isère devient camp de base cycliste : le col de l'Iseran, « plus haut col routier des Alpes », culmine à 2 770 m au-dessus du village.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Il dominio collegato a Tignes: 161 piste, dal fronte della neve ai ghiacciai.",
+          "tag": "Alpi",
+          "title": "300 km tra 1 550 e 3.400 m"
+        },
+        {
+          "description": "Il 28-29 novembre 2026 weekend di apertura, prima di cinque mesi di stagione.",
+          "tag": "Apertura",
+          "title": "Premières Traces"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Val d'Isère</strong>, un villaggio di Haute-Tarentaise a 1.850 m, forma con Tignes un dominio collegato — l'ex Espace Killy — sci 'tra 1 550 m e oltre 3.400 m': '<strong>300 km di piste segnalate</strong>', 161 piste (21 verde, 65 blu, 41 rosso, 32 nero) e '71 ascensori, tra cui 37 seggiovie, 6 gondole e 3 funivie — <strong>11 ascensori sono aperti ai pedoni</strong>.</p><p>Sull'ascensore del dominio collegato contare i due resort non pubblicare la stessa cifra — '71' per valdisere.com, '74' per tignes.net e citiamo entrambi. Pubblicato libero: 'several free lift' sul fronte neve per principianti, <strong>Val Bus</strong> navette in esecuzione 'inverno e estate allo stesso modo', e la sessione Snake Gliss 'il nostro host neve ti permette di scoprire gratuitamente'. Il villaggio mantiene anche i suoi aspetti culturali: il museo Val Histoire, il centro Aquasportif, la caduta del ghiaccio.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagato",
+        "best_season": "28 novembre 2026 – 2 maggio 2027",
+        "commune": "Val-d'Isère",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Stazione sciistica",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski alpin",
+          "sci fond",
+          "ski rando",
+          "racchette",
+          "L'acqua"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Dal 28 novembre 2026 al 2 maggio 2027 — l'apertura è celebrata con il fine settimana 'Premières Traces' del 28-29 novembre 2026. Sul lato Tignes, il dominio collegato si apre dal 21 novembre.",
+          "q": "Quando apre la stagione 2026-27?"
+        },
+        {
+          "a": "Entrambe le figure coesistono sui siti ufficiali del dominio collegato: '71 ascensori per valdisere.com, '74' per tignes.net. Citiamo entrambi senza arbitrare.",
+          "q": "Il dominio ha 71 o 74 ascensori?"
+        },
+        {
+          "a": "'Several free lift' sul fronte neve per i principianti, la Val Bus navette intorno al villaggio 'inverno e l'estate allo stesso modo', e la sessione Snake Gliss corsa gratuita dall'host neve.",
+          "q": "Che cosa è libero?"
+        },
+        {
+          "a": "Undici ascensori sono aperti ai pedoni. Aggiungete la pista di pattinaggio, le racchette da neve, la caduta del ghiaccio, il parapendio, la bicicletta grassa, la motoslitta, il museo Val Histoire, il cinema e il centro Aquasportif.",
+          "q": "E senza sciare?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · 1.850 m",
+        "lead": "Un villaggio a 1.850 m sotto il Col de l'Iseran, un dominio legato allo sci Tignes 'tra 1 550 m e oltre 3.400 m' — e una delle stagioni più lunghe delle Alpi, dal 28 novembre al 2 maggio."
+      },
+      "hero_alt": "Snowboard jump at Val d'Isère, Haute-Tarentaise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D902 da Bourg-Saint-Maurice (A430 poi N90), sull'alta valle di Isère.",
+        "public_transport": "Stazione Bourg-Saint-Maurice SNCF, poi allenatore ad alta velocità."
+      },
+      "meta_description": "Val d'Isère (1 850 m): dominio collegato con Tignes, '300 km di piste' tra 1 550 e 3400 m, navette Val Bus gratuite, ascensori principianti gratuiti. 2026-27 stagione: Dal 28 novembre al 2 maggio.",
+      "meta_title": "Val d'Isère · 300 km collegati con Tignes, una stagione di 5 mesi",
+      "name": "Val d'Isère",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Altitudine",
+          "v": "Villaggio 1 850 m · dominio 'tra 1 550 m e oltre 3400 m'"
+        },
+        {
+          "k": "Dominio collegato",
+          "v": "300 km · 161 piste · 71 ascensori (74 per tignes.net — entrambi citati)"
+        },
+        {
+          "k": "Stagione 26/27",
+          "v": "28 novembre 2026 – 2 maggio 2027"
+        },
+        {
+          "k": "Gratis",
+          "v": "Impianti di risalita principianti · Navette Val Bus · ospitate Snake Gliss"
+        },
+        {
+          "k": "Contatto",
+          "v": "Val d'Isère tourist office · place Jacques Mouflier · +33 4 79 06 06 60"
+        }
+      ],
+      "schema_amenities": [
+        "Navette Val Bus gratuite",
+        "Ascensori principianti gratuiti",
+        "Centro Aquasportif"
+      ],
+      "when_to_visit": "<p>La stagione invernale 2026-27 è pubblicata: <strong>28 novembre 2026 - 2 maggio 2027</strong>, aperto dal weekend 'Premières Traces' del 28-29 novembre. In estate (4 luglio – 30 agosto), Val d'Isère gira campo base ciclismo: il Col de l'Iseran, 'il passo più alto delle Alpi', si eleva a 2.770 m sopra il villaggio.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Het domein gekoppeld aan Tignes: 161 rennen, van de sneeuw naar de gletsjers.",
+          "tag": "Alpen",
+          "title": "300 km tussen 1.550 en 3.400 m"
+        },
+        {
+          "description": "De 28-29 november 2026 opening weekend, vóór vijf maanden van het seizoen.",
+          "tag": "Opening",
+          "title": "Premières Traces"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Val d'Isère</strong>, een Haute-Tarentaise dorp op 1.850 m, vormt met Tignes een verbonden domein de voormalige Espace Killy skiën 'tussen 1 550 m en meer dan 3.400 m': '<strong>300 km waymarked runs</strong>', 161 runs (21 groen, 65 blauw, 41 rood, 32 zwart) en '71 liften', waaronder 37 stoeltjesliften, 6 gondels en 3 kabelbanen <strong>11 liften zijn open voor voetgangers</strong>.</p><p>Op de lift van het gekoppelde domein tellen de twee resorts niet hetzelfde cijfer publiceren  '71' per valdisere.com, '74' per tignes.net  En we citeren beide. Gepubliceerde gratis dingen: 'Verschillende gratis liften' op het sneeuwfront voor beginners, de <strong>Val Bus</strong> shuttles die 'winter en zomer' draaien, en de Snake Gliss sessie 'onze sneeuw host laat je gratis ontdekken'. Ook het dorp behoudt zijn culturele zijlijn: het Val Histoire museum, het Aquasportif centrum, de ijsval.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Betaald",
+        "best_season": "28 november 2026 2 mei 2027",
+        "commune": "Val-d'Isère",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Skigebied",
+        "winter_access": "open",
+        "winter_infra": [
+          "Skialpin",
+          "Skipfond",
+          "ski rando",
+          "raquettes",
+          "luge"
+        ]
+      },
+      "faq": [
+        {
+          "a": "van 28 november 2026 tot en met 2 mei 2027 opening wordt gevierd met het 'Premières Traces' weekend van 28-29 november 2026. Aan de Tignes kant opent het gekoppelde domein vanaf 21 november.",
+          "q": "Wanneer opent het seizoen 2026-27?"
+        },
+        {
+          "a": "Beide cijfers bestaan naast elkaar op de officiële websites van het gekoppelde domein: '71 lifts' per valdisere.com, '74' per tignes.net. Wij citeren beide zonder te oordelen.",
+          "q": "Heeft het domein 71 of 74 liften?"
+        },
+        {
+          "a": "'Verschillende gratis liften' op het sneeuwfront voor beginners, de Val Bus shuttles rond het dorp 'winter en zomer', en de Snake Gliss sessie wordt gratis uitgevoerd door de sneeuw gastheer.",
+          "q": "Wat is gratis?"
+        },
+        {
+          "a": "Elf liften zijn open voor voetgangers. Voeg de ijsbaan, sneeuwschoenwandelen, de ijsval, paragliding, vet fietsen, sneeuwmobilisatie, het Val Histoire museum, de bioscoop en het Aquasportif centrum toe.",
+          "q": "En zonder te skiën?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · 1 850 m",
+        "lead": "Een dorp op 1.850 m onder de Col de l'Iseran, een domein gekoppeld aan Tignes skiën 'tussen 1.550 m en meer dan 3.400 m' en een van de langste seizoenen van de Alpen, van 28 november tot 2 mei."
+      },
+      "hero_alt": "Snowboard jump op Val d'Isère, Haute-Tarentaise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D902 van Bourg-Saint-Maurice (A430 dan N90), de hoge Isère vallei op.",
+        "public_transport": "Bourg-Saint-Maurice SNCF station, dan high-Tarentaise bus."
+      },
+      "meta_description": "Val d'Isère (1 850 m): domein gekoppeld aan Tignes, '300 km runs' tussen 1.550 en 3.400 m, gratis Val Bus shuttles, gratis beginnersliften. 2026-27 seizoen: 28 november tot en met 2 mei.",
+      "meta_title": "Val d'Isère · 300 km gekoppeld aan Tignes, een seizoen van 5 maanden",
+      "name": "Val d'Isère",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Hoogte",
+          "v": "Village 1.850 m · domein 'tussen 1.550 m en meer dan 3.400 m'"
+        },
+        {
+          "k": "Gekoppeld domein",
+          "v": "300 km · 161 pisten · 71 liften (74 per tignes.net beide geciteerd)"
+        },
+        {
+          "k": "Seizoen 26/27",
+          "v": "28 november 2026 2 mei 2027"
+        },
+        {
+          "k": "Vrij",
+          "v": "Beginners sneeuw-liften · Val Bus shuttles · gehost Snake Gliss"
+        },
+        {
+          "k": "Contactpersoon",
+          "v": "Val d'Isère VVV-kantoor · plaats Jacques Mouflier · +33 4 79 06 06 60"
+        }
+      ],
+      "schema_amenities": [
+        "Gratis Val Bus shuttles",
+        "Gratis beginnersliften",
+        "Aquasportif-centrum"
+      ],
+      "when_to_visit": "<p>Het winterseizoen 2026-27 wordt gepubliceerd: <strong>28 november 2026 t/m 2 mei 2027</strong>, geopend door het 'Premières Traces' weekend van 28-29 november. In de zomer (4 juli) 30 augustus), Val d'Isère draait fietsbasiskamp: De Col de l'Iseran, 'de hoogste wegpas in de Alpen', ligt op 2.770 m boven het dorp.</p>"
+    }
+  },
+  "latitude": 45.450377,
+  "longitude": 6.978164,
+  "official_site_url": "https://www.valdisere.com/val-disere-en-hiver/ski-et-glisse/domaine-skiable-alpes-savoie/",
+  "partners": [],
+  "postal_code": "73150",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-18, FR pages only (valdisere.com). Village à 1 850 m ; domaine relié avec Tignes : « Skiez entre 1 550 m et plus de 3 400 m », « 300 km de pistes balisées », 161 pistes (21 vertes, 65 bleues, 41 rouges, 32 noires), « 71 remontées mécaniques » dont 37 télésièges, 6 télécabines, 3 téléphériques, 11 accessibles aux piétons. CONTRADICTION : tignes.net compte « 74 remontées mécaniques » pour le même domaine — reportée. Saison 26/27 publiée : 28 novembre 2026 – 2 mai 2027, week-end « Premières Traces » les 28-29 novembre. Gratuit : « plusieurs remontées mécaniques gratuites » sur le front de neige, navettes Val Bus « hiver comme été », animation Snake Gliss gratuite. Col de l'Iseran « plus haut col routier des Alpes, 2 770 m ». Été : 4 juillet – 30 août 2026. Coordonnées IGN data.geopf.fr.",
+  "schema_org": {
+    "amenities": [],
+    "is_free": false,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "station-de-val-d-isere",
+  "sources": [
+    "https://www.valdisere.com/val-disere-en-hiver/ski-et-glisse/domaine-skiable-alpes-savoie/",
+    "https://www.valdisere.com/",
+    "https://www.valdisere.com/guide-du-village/circuler-sur-place/",
+    "https://www.valdisere.com/envies/activites-hors-ski/"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published; kept null."
+  ]
+}

@@ -1,0 +1,657 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-18",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "station",
+  "commune": "Bourg-Saint-Maurice",
+  "date_modified_human": "18 août 2026",
+  "date_published_human": "18 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-18",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-foret-enneigee.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Das Dach der Domain - 200 km mit Peisey-Vallandry, 425 km über Paradiski.",
+          "tag": "Gipfel",
+          "title": "Der Aiguille Rouge auf 3.226 m"
+        },
+        {
+          "description": "Bourg-Saint-Maurice ↔ Arc 1600, inbegriffen mit den Pässen — Der autofreie Weg nach oben.",
+          "tag": "Vom Bahnhof",
+          "title": "Die 7-Minuten-Seilbahn"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Les Arcs</strong> vier Höhenlagen ausrichten — Arc 1600, Arc 1800, Arc 1950, Arc 2000 — oben <strong>Bourg-Saint-Maurice</strong>, gebunden an das Tal durch eine Standseilbahn, die \"in nur 7 Minuten\" klettert. Die mit Peisey-Vallandry geteilte Domain bietet '<strong>200 km Skipisten</strong>' und 52 Lifte, unter 'einem Gipfel auf 3.226 m', der Aiguille Rouge. Auf der laufenden Zählung widerspricht sich die offizielle Seite: \"123 Skipisten\" als Schlagzeile, aber ein Detail - 18 grün, 55 blau, 42 rot, 16 schwarz — Summe 131; Wir zitieren beide Versionen.</p><p>Mit La Plagne ist \"die Paradiski-Domain ein einzigartiger Spielplatz\": '425 km Pisten', 258 Pisten, 'die drei Resorts, die durch die größte Seilbahn der Welt verbunden sind: Vanoise Express'. Um herumzukommen, \"kostenlose Shuttles bringen Sie leicht von einem Ort zum anderen\". Ein ehrlicher Punkt: im Gegensatz zu La Plagne, <strong>Es werden keine kostenlosen Anfängerlifte veröffentlicht</strong> auf den eingesehenen Seiten — Die Strecken Première Glisse, Premiers Virages und Première Descente sind auf einen Anfängerpass für 44 € (36 € reduziert) angewiesen.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Bezahlt",
+        "best_season": "12. Dezember 2026 – 17. April 2027",
+        "commune": "Bourg-Saint-Maurice",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Skigebiet",
+        "winter_access": "open",
+        "winter_infra": [
+          "Ski alpin",
+          "ski fond",
+          "Ski rando",
+          "Raquetten",
+          "chiens traineau",
+          "Lastwagen"
+        ]
+      },
+      "faq": [
+        {
+          "a": "\"Die Standseilbahn bringt Sie in nur 7 Minuten von Bourg Saint Maurice nach Les Arcs.\" included with the Classique, Essentiel, Premium, Piéton and Piéton+ passes. Die SNCF-Station ist gegenüber; kostenlose Shuttles verbinden dann die Seiten.",
+          "q": "Wie kommt man ohne Auto auf?"
+        },
+        {
+          "a": "Die offizielle Les Arcs / Peisey-Vallandry-Domainseite kündigt \"123 Skipisten\" an, aber ihr eigenes Detail (18 grün, 55 blau, 42 rot, 16 schwarz) beträgt insgesamt 131. Wir zitieren beide Zahlen, ohne zu entscheiden.",
+          "q": "123 oder 131 Runs?"
+        },
+        {
+          "a": "Nichts dergleichen wird auf den konsultierten offiziellen Seiten veröffentlicht - Die Anfängerrouten (Première Glisse, Premiers Virages, Première Descente bei Arc 1800, Arc 2000 und Peisey-Vallandry) verwenden einen dedizierten Pass zu 44 € Vollpreis, 36 € reduziert. Wir kennzeichnen es als unbestätigt und nicht als nicht existent.",
+          "q": "Sind die Anfängerlifte kostenlos?"
+        },
+        {
+          "a": "Die verknüpfte Domain Les Arcs – Peisey-Vallandry – La Plagne: \"425 km Pisten\", 258 Pisten und die Vanoise Express, \"die größte Seilbahn der Welt\", die das Tal zwischen den beiden Flanken überspannt.",
+          "q": "Was ist Paradiski?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · Paradiski",
+        "lead": "Vier Höhenlagen über Bourg-Saint-Maurice, eine Standseilbahn in 7 Minuten, 200 km Pisten unter dem Aiguille Rouge (3 226 m) - und der Vanoise Express zu La Plagne."
+      },
+      "hero_alt": "Schneebedeckter Wald an den Hängen von Les Arcs, Tarentaise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "N90 bis Bourg-Saint-Maurice, dann D119 bis Les Arcs — Oder die Standseilbahn vom Bahnhof.",
+        "public_transport": "Bourg-Saint-Maurice SNCF Station, dann die Standseilbahn zu Arc 1600 in 7 Minuten."
+      },
+      "meta_description": "Les Arcs: vier Standorte über Bourg-Saint-Maurice, eine 7-minütige Standseilbahn, 200 km Pisten unter dem Aiguille Rouge (3 226 m), der Vanoise Express bis La Plagne. Saison 2026-27: 12. Dezember bis 17. April.",
+      "meta_title": "Les Arcs · Standseilbahn, Aiguille Rouge, Paradiski",
+      "name": "Les Arcs",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Gebiete",
+          "v": "Arc 1600 · Arc 1800 · Arc 1950 · Arc 2000 · Bourg-Saint-Maurice (Tal)"
+        },
+        {
+          "k": "Domain",
+          "v": "200 km mit Peisey-Vallandry · 52 Lifte · Aiguille Rouge Gipfel 3.226 m"
+        },
+        {
+          "k": "Läufe",
+          "v": "\"123 Runs\" angekündigt - veröffentlichte Detailsumme zu 131 (beide zitiert)"
+        },
+        {
+          "k": "Saison 26/27",
+          "v": "12. Dezember 2026 – 17. April 2027"
+        },
+        {
+          "k": "frei",
+          "v": "Intersite Shuttles · Anfängerlifte: Kein kostenloses Angebot veröffentlicht"
+        },
+        {
+          "k": "Kontakt",
+          "v": "Les Arcs Tourismusbüro · place de la Gare, Bourg-Saint-Maurice · +33 4 79 07 12 57"
+        }
+      ],
+      "schema_amenities": [
+        "Funicular vom Bahnhof",
+        "Freie Shuttles",
+        "Vanoise Express"
+      ],
+      "when_to_visit": "<p>Die Saison 2026-27 wird veröffentlicht: <strong>12. Dezember 2026 bis 17. April 2027</strong>Im Sommer laufen die Aktivitäten bis zum 13. September — einschließlich \"151 km Mountainbike-Strecken\" — und der La Ronde Shuttle bedient Bourg-Saint-Maurice täglich vom 4. Juli bis 30. August.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "The domain's roof — 200 km of runs with Peisey-Vallandry, 425 km across Paradiski.",
+          "tag": "Summit",
+          "title": "The Aiguille Rouge at 3,226 m"
+        },
+        {
+          "description": "Bourg-Saint-Maurice ↔ Arc 1600, included with the passes — the car-free way up.",
+          "tag": "From the station",
+          "title": "The 7-minute funicular"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Les Arcs</strong> line up four altitude sites — Arc 1600, Arc 1800, Arc 1950, Arc 2000 — above <strong>Bourg-Saint-Maurice</strong>, tied to the valley by a funicular that climbs 'in just 7 minutes'. The domain shared with Peisey-Vallandry offers '<strong>200 km of ski runs</strong>' and 52 lifts, beneath 'one summit at 3,226 m', the Aiguille Rouge. On the run count the official page contradicts itself: '123 ski runs' as the headline, but a detail — 18 green, 55 blue, 42 red, 16 black — summing to 131; we quote both versions.</p><p>With La Plagne, 'the Paradiski domain is a unique playground': '425 km of runs', 258 runs, 'the three resorts linked by the world's largest cable car: the Vanoise Express'. To get around, 'free shuttles take you easily from one site to another'. One honesty point: unlike La Plagne, <strong>no free beginner lifts are published</strong> on the pages consulted — the Première Glisse, Premiers Virages and Première Descente routes rely on a beginner pass at €44 (€36 reduced).</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Paid",
+        "best_season": "12 December 2026 – 17 April 2027",
+        "commune": "Bourg-Saint-Maurice",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Ski resort",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin",
+          "ski_fond",
+          "ski_rando",
+          "raquettes",
+          "chiens_traineau",
+          "luge"
+        ]
+      },
+      "faq": [
+        {
+          "a": "'The funicular takes you up to Les Arcs from Bourg Saint Maurice in just 7 minutes' — included with the Classique, Essentiel, Premium, Piéton and Piéton+ passes. The SNCF station is opposite; free shuttles then link the sites.",
+          "q": "How do you get up without a car?"
+        },
+        {
+          "a": "The official Les Arcs/Peisey-Vallandry domain page announces '123 ski runs' but its own detail (18 green, 55 blue, 42 red, 16 black) totals 131. We quote both figures without arbitrating.",
+          "q": "123 or 131 runs?"
+        },
+        {
+          "a": "Nothing of the sort is published on the official pages consulted — the beginner routes (Première Glisse, Premiers Virages, Première Descente at Arc 1800, Arc 2000 and Peisey-Vallandry) use a dedicated pass at €44 full price, €36 reduced. We flag it as unconfirmed rather than nonexistent.",
+          "q": "Are the beginner lifts free?"
+        },
+        {
+          "a": "The linked domain Les Arcs – Peisey-Vallandry – La Plagne: '425 km of runs', 258 runs, and the Vanoise Express, 'the world's largest cable car', spanning the valley between the two flanks.",
+          "q": "What is Paradiski?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · Paradiski",
+        "lead": "Four altitude sites above Bourg-Saint-Maurice, a funicular up in 7 minutes, 200 km of runs beneath the Aiguille Rouge (3,226 m) — and the Vanoise Express across to La Plagne."
+      },
+      "hero_alt": "Snow-covered forest on the slopes of Les Arcs, Tarentaise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "N90 to Bourg-Saint-Maurice, then D119 up to Les Arcs — or the funicular from the station.",
+        "public_transport": "Bourg-Saint-Maurice SNCF station, then the funicular to Arc 1600 in 7 minutes."
+      },
+      "meta_description": "Les Arcs: four sites above Bourg-Saint-Maurice, a 7-minute funicular, 200 km of runs beneath the Aiguille Rouge (3,226 m), the Vanoise Express to La Plagne. 2026-27 season: 12 December to 17 April.",
+      "meta_title": "Les Arcs · funicular, Aiguille Rouge, Paradiski",
+      "name": "Les Arcs",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Sites",
+          "v": "Arc 1600 · Arc 1800 · Arc 1950 · Arc 2000 · Bourg-Saint-Maurice (valley)"
+        },
+        {
+          "k": "Domain",
+          "v": "200 km with Peisey-Vallandry · 52 lifts · Aiguille Rouge summit 3,226 m"
+        },
+        {
+          "k": "Runs",
+          "v": "'123 runs' announced — published detail summing to 131 (both quoted)"
+        },
+        {
+          "k": "Season 26/27",
+          "v": "12 December 2026 – 17 April 2027"
+        },
+        {
+          "k": "Free",
+          "v": "Inter-site shuttles · beginner lifts: no free offer published"
+        },
+        {
+          "k": "Contact",
+          "v": "Les Arcs tourist office · place de la Gare, Bourg-Saint-Maurice · +33 4 79 07 12 57"
+        }
+      ],
+      "schema_amenities": [
+        "Funicular from the station",
+        "Free shuttles",
+        "Vanoise Express"
+      ],
+      "when_to_visit": "<p>The 2026-27 season is published: <strong>12 December 2026 to 17 April 2027</strong>. In summer, activities run until 13 September — including '151 km of mountain-bike trails' — and the La Ronde shuttle serves Bourg-Saint-Maurice daily from 4 July to 30 August.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "El techo del dominio — 200 km de pistas con Peisey-Vallandry, 425 km a través de Paradiski.",
+          "tag": "Cumbre",
+          "title": "Aiguille Rouge a 3.226 m"
+        },
+        {
+          "description": "Bourg-Saint-Maurice ↔ Arc 1600, incluido con los pases - la forma libre de autos.",
+          "tag": "Desde la estación",
+          "title": "El funicular de 7 minutos"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Les Arcs</strong> line up four altitude sites — Arc 1600, Arc 1800, Arc 1950, Arc 2000 — arriba <strong>Bourg-Saint-Maurice</strong>, atado al valle por un funicular que escala 'en sólo 7 minutos'. El dominio compartido con Peisey-Vallandry ofrece '<strong>200 km de pistas de esquí</strong>' y 52 ascensores, bajo 'una cumbre a 3.226 m', el Aiguille Rouge. Al correr cuenta la página oficial se contradice: '123 pistas de esquí' como titular, pero un detalle - 18 verde, 55 azul, 42 rojo, 16 negro — a 131; citamos ambas versiones.</p><p>Con La Plagne, 'el dominio Paradiski es un parque infantil único': '425 km de carreras', 258 carreras, 'los tres resorts vinculados por el mayor coche de cable del mundo: el Vanoise Express. Para moverse, 'los transbordadores gratuitos te llevan fácilmente de un sitio a otro'. Un punto de honestidad: a diferencia de La Plagne, <strong>no se publican ascensores gratuitos</strong> en las páginas consultadas las rutas Première Glisse, Premiers Virages y Première Descente dependen de un pase de inicio a €44 (€36 reducido).</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagado",
+        "best_season": "12 diciembre 2026 – 17 abril 2027",
+        "commune": "Bourg-Saint-Maurice",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Escuela de esquí",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski alpin",
+          "ski fond",
+          "ski rando",
+          "raquetas",
+          "chiens traineau",
+          "Luge"
+        ]
+      },
+      "faq": [
+        {
+          "a": "'El funicular te lleva hasta Les Arcs desde Bourg Saint Maurice en sólo 7 minutos' included with the Classique, Essentiel, Premium, Piéton and Piéton+ passes. La estación SNCF es opuesta; transbordadores gratuitos luego conectan los sitios.",
+          "q": "¿Cómo te levantas sin un coche?"
+        },
+        {
+          "a": "La página oficial de dominio Les Arcs/Peisey-Vallandry anuncia '123 pistas de esquí' pero su propio detalle (18 verde, 55 azul, 42 rojo, 16 negro) total 131. Citamos ambas cifras sin arbitrar.",
+          "q": "123 o 131 carreras?"
+        },
+        {
+          "a": "Nada de ese tipo se publica en las páginas oficiales consultadas — las rutas principiantes (Première Glisse, Premiers Virages, Première Descente en Arc 1800, Arc 2000 y Peisey-Vallandry) utilizan un pase dedicado a 44 € precio completo, 36 € reducido. Lo marcamos como inconfirmado en lugar de inexistente.",
+          "q": "¿Están libres los ascensores principiantes?"
+        },
+        {
+          "a": "El dominio vinculado Les Arcs – Peisey-Vallandry – La Plagne: '425 km de carreras', 258 carreras, y el Vanoise Express, 'el coche de cable más grande del mundo', que abarca el valle entre los dos flancos.",
+          "q": "¿Qué es Paradiski?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · Paradiski",
+        "lead": "Cuatro puntos de altitud por encima de Bourg-Saint-Maurice, un funicular en 7 minutos, 200 km de pistas por debajo de la Aiguille Rouge (3 226 m) — y el Vanoise Express a través de La Plagne."
+      },
+      "hero_alt": "Bosque cubierto de nieve en las pendientes de Les Arcs, Tarentaise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "N90 a Bourg-Saint-Maurice, luego D119 hasta Les Arcs — o el funicular de la estación.",
+        "public_transport": "Estación Bourg-Saint-Maurice SNCF, luego el funicular a Arc 1600 en 7 minutos."
+      },
+      "meta_description": "Les Arcs: four sites above Bourg-Saint-Maurice, a 7-minute funicular, 200 km of runs beneath the Aiguille Rouge (3 226 m), the Vanoise Express to La Plagne. 2026-27 temporada: 12 de diciembre a 17 de abril.",
+      "meta_title": "Les Arcs · funicular, Aiguille Rouge, Paradiski",
+      "name": "Les Arcs",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Sitios",
+          "v": "Arc 1600 · Arc 1800 · Arc 1950 · Arc 2000 · Bourg-Saint-Maurice (valle)"
+        },
+        {
+          "k": "Dominio",
+          "v": "200 km con Peisey-Vallandry · 52 ascensores · Cumbre Aiguille Rouge 3 226 m"
+        },
+        {
+          "k": "Corres",
+          "v": "'123 carreras' anunciadas publicado detalle summing a 131 (ambos citados)"
+        },
+        {
+          "k": "Temporada 26/27",
+          "v": "12 diciembre 2026 – 17 abril 2027"
+        },
+        {
+          "k": "Gratis",
+          "v": "Traslados in situ · ascensores principiantes: no oferta gratuita publicada"
+        },
+        {
+          "k": "Contacto",
+          "v": "Les Arcs oficina de turismo · lugar de la Gare, Bourg-Saint-Maurice · +33 4 79 07 12 57"
+        }
+      ],
+      "schema_amenities": [
+        "Funicular desde la estación",
+        "Traslados gratuitos",
+        "Vanoise Express"
+      ],
+      "when_to_visit": "<p>La temporada 2026-27 se publica: <strong>12 de diciembre de 2026 a 17 de abril de 2027</strong>. En verano, las actividades se ejecutan hasta el 13 de septiembre incluyendo '151 km de senderos montañosos' — y el transbordador La Ronde sirve diariamente Bourg-Saint-Maurice del 4 de julio al 30 de agosto.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Le toit du domaine — 200 km de pistes avec Peisey-Vallandry, 425 km en Paradiski.",
+          "tag": "Sommet",
+          "title": "L'Aiguille Rouge à 3 226 m"
+        },
+        {
+          "description": "Bourg-Saint-Maurice ↔ Arc 1600, inclus dans les Pass — la montée sans voiture.",
+          "tag": "Depuis la gare",
+          "title": "Le funiculaire en 7 minutes"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Les Arcs</strong> alignent quatre sites d'altitude — Arc 1600, Arc 1800, Arc 1950, Arc 2000 — au-dessus de <strong>Bourg-Saint-Maurice</strong>, reliés à la vallée par un funiculaire qui grimpe « en 7 minutes seulement ». Le domaine partagé avec Peisey-Vallandry offre « <strong>200 km de pistes de ski</strong> » et 52 remontées, sous « 1 sommet à 3226m », l'Aiguille Rouge. Sur le nombre de pistes, la page officielle se contredit elle-même : « 123 pistes de ski » en titre, mais un détail — 18 vertes, 55 bleues, 42 rouges, 16 noires — qui somme à 131 ; nous citons les deux versions.</p><p>Avec La Plagne, « le domaine Paradiski est un terrain de jeu unique » : « 425 km de pistes », 258 pistes, « les trois stations reliées par le plus grand téléphérique du monde : Le Vanoise Express ». Pour circuler, « des navettes gratuites vous emmènent facilement d'un site à l'autre ». Un point d'honnêteté : contrairement à La Plagne, <strong>aucune gratuité des remontées débutants n'est publiée</strong> sur les pages consultées — les parcours Première Glisse, Premiers Virages et Première Descente s'appuient sur un forfait débutant à 44 € (36 € réduit).</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Payant",
+        "best_season": "12 décembre 2026 – 17 avril 2027",
+        "commune": "Bourg-Saint-Maurice",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Station de ski",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin",
+          "ski_fond",
+          "ski_rando",
+          "raquettes",
+          "chiens_traineau",
+          "luge"
+        ]
+      },
+      "faq": [
+        {
+          "a": "« Le funiculaire vous permet de monter aux Arcs depuis Bourg Saint Maurice en 7 minutes seulement » — il est accessible avec les Pass Classique, Essentiel, Premium, Piéton et Piéton+. La gare SNCF est en face ; des navettes gratuites relient ensuite les sites.",
+          "q": "Comment monte-t-on sans voiture ?"
+        },
+        {
+          "a": "La page officielle du domaine Les Arcs/Peisey-Vallandry annonce « 123 pistes de ski » mais son propre détail (18 vertes, 55 bleues, 42 rouges, 16 noires) totalise 131. Nous citons les deux chiffres sans arbitrer.",
+          "q": "123 ou 131 pistes ?"
+        },
+        {
+          "a": "Rien de tel n'est publié sur les pages officielles consultées — les parcours débutants (Première Glisse, Premiers Virages, Première Descente à Arc 1800, Arc 2000 et Peisey-Vallandry) passent par un forfait dédié à 44 € plein tarif, 36 € réduit. Nous le signalons comme non confirmé plutôt qu'inexistant.",
+          "q": "Les remontées débutants sont-elles gratuites ?"
+        },
+        {
+          "a": "Le domaine relié Les Arcs – Peisey-Vallandry – La Plagne : « 425 km de pistes », 258 pistes, et le Vanoise Express, « le plus grand téléphérique du monde », pour franchir la vallée entre les deux versants.",
+          "q": "Qu'est-ce que Paradiski ?"
+        }
+      ],
+      "hero": {
+        "badge": "Station · Paradiski",
+        "lead": "Quatre sites d'altitude au-dessus de Bourg-Saint-Maurice, un funiculaire qui monte en 7 minutes, 200 km de pistes sous l'Aiguille Rouge (3 226 m) — et le Vanoise Express vers La Plagne."
+      },
+      "hero_alt": "Forêt enneigée sur les pentes des Arcs, Tarentaise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "N90 jusqu'à Bourg-Saint-Maurice, puis D119 vers les Arcs — ou le funiculaire depuis la gare.",
+        "public_transport": "Gare SNCF de Bourg-Saint-Maurice, puis funiculaire vers Arc 1600 en 7 minutes."
+      },
+      "meta_description": "Les Arcs : quatre sites au-dessus de Bourg-Saint-Maurice, funiculaire en 7 minutes, 200 km de pistes sous l'Aiguille Rouge (3 226 m), Vanoise Express vers La Plagne. Saison 2026-27 : 12 décembre – 17 avril.",
+      "meta_title": "Les Arcs · funiculaire, Aiguille Rouge, Paradiski",
+      "name": "Les Arcs",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Sites",
+          "v": "Arc 1600 · Arc 1800 · Arc 1950 · Arc 2000 · Bourg-Saint-Maurice (vallée)"
+        },
+        {
+          "k": "Domaine",
+          "v": "200 km avec Peisey-Vallandry · 52 remontées · sommet Aiguille Rouge 3 226 m"
+        },
+        {
+          "k": "Pistes",
+          "v": "« 123 pistes » annoncées — détail publié sommant à 131 (les deux cités)"
+        },
+        {
+          "k": "Saison 26/27",
+          "v": "12 décembre 2026 – 17 avril 2027"
+        },
+        {
+          "k": "Gratuit",
+          "v": "Navettes inter-sites · remontées débutants : gratuité non publiée"
+        },
+        {
+          "k": "Contact",
+          "v": "OT Les Arcs · place de la Gare, Bourg-Saint-Maurice · 04 79 07 12 57"
+        }
+      ],
+      "schema_amenities": [
+        "Funiculaire depuis la gare",
+        "Navettes gratuites",
+        "Vanoise Express"
+      ],
+      "when_to_visit": "<p>Saison 2026-27 publiée : <strong>du 12 décembre 2026 au 17 avril 2027</strong>. L'été, les activités courent jusqu'au 13 septembre — dont « 151 km de pistes de VTT » — et la navette La Ronde dessert Bourg-Saint-Maurice tous les jours du 4 juillet au 30 août.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Il tetto del dominio — 200 km di piste con Peisey-Vallandry, 425 km attraverso Paradiski.",
+          "tag": "Vertice",
+          "title": "Aiguille Rouge a 3 226 m"
+        },
+        {
+          "description": "Bourg-Saint-Maurice ↔ Arc 1600, incluso con i passaggi — la strada senza auto.",
+          "tag": "Dalla stazione",
+          "title": "La funicolare di 7 minuti"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Les Arcs</strong> fila su quattro siti di altitudine — Arc 1600, Arc 1800, Arc 1950, Arc 2000 — sopra <strong>Bourg-Saint-Maurice</strong>, legato alla valle da una funicolare che sale 'in soli 7 minuti'. Il dominio condiviso con Peisey-Vallandry offre '<strong>200 km di piste da sci</strong>' e 52 ascensori, sotto una vetta a 3.226 m', la Aiguille Rouge. In corsa si contraddice la pagina ufficiale: «123 piste da sci» come titolo, ma un dettaglio — 18 verde, 55 blu, 42 rosso, 16 nero — a 131; citiamo entrambe le versioni.</p><p>Con La Plagne, 'il dominio Paradiski è un parco giochi unico': '425 km di piste', 258 piste, 'le tre località collegate dalla più grande funivia del mondo: Vanoise Express'. Per andare in giro, le navette libere ti portano facilmente da un sito all'altro. Un punto di onestà: a differenza di La Plagne, <strong>non sono pubblicati ascensori principianti gratuiti</strong> sulle pagine consultate — I percorsi Première Glisse, Premiers Virages e Première Descente si basano su un pass principiante a €44 (€36 ridotti).</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagato",
+        "best_season": "12 dicembre 2026 – 17 aprile 2027",
+        "commune": "Bourg-Saint-Maurice",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Stazione sciistica",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski alpin",
+          "sci fond",
+          "ski rando",
+          "racchette",
+          "Chiens traineau",
+          "L'acqua"
+        ]
+      },
+      "faq": [
+        {
+          "a": "\"La funicolare ti porta fino a Les Arcs da Bourg Saint Maurice in soli 7 minuti\" included with the Classique, Essentiel, Premium, Piéton and Piéton+ passes. La stazione SNCF è opposta; navette gratuite poi collegare i siti.",
+          "q": "Come ti alzi senza auto?"
+        },
+        {
+          "a": "La pagina ufficiale di dominio Les Arcs/Peisey-Vallandry annuncia '123 piste da sci' ma il suo dettaglio (18 verde, 55 blu, 42 rosso, 16 nero) totali 131. Citiamo entrambe le figure senza arbitrare.",
+          "q": "123 o 131 piste?"
+        },
+        {
+          "a": "Nulla di questo genere è pubblicato sulle pagine ufficiali consultate — i percorsi principianti (Première Glisse, Premiers Virages, Première Descente a Arc 1800, Arc 2000 e Peisey-Vallandry) utilizzano un pass dedicato a €44 a prezzo pieno, €36 ridotto. Lo bandiamo come non confermato piuttosto che inesistente.",
+          "q": "I principianti sono liberi?"
+        },
+        {
+          "a": "Il dominio collegato Les Arcs – Peisey-Vallandry – La Plagne: '425 km di piste', 258 piste, e la Vanoise Express, 'la più grande funivia del mondo', che spazia la valle tra i due fianchi.",
+          "q": "Cos'è Paradiski?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · Paradiski",
+        "lead": "Quattro siti di altitudine sopra Bourg-Saint-Maurice, una funicolare in 7 minuti, 200 km di piste sotto Aiguille Rouge (3 226 m) — e Vanoise Express fino a La Plagne."
+      },
+      "hero_alt": "Foresta coperta di neve sulle pendici di Les Arcs, Tarentaise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "N90 a Bourg-Saint-Maurice, poi D119 fino a Les Arcs — o la funicolare dalla stazione.",
+        "public_transport": "Stazione Bourg-Saint-Maurice SNCF, poi la funicolare di Arc 1600 in 7 minuti."
+      },
+      "meta_description": "Les Arcs: quattro siti sopra Bourg-Saint-Maurice, un funicolare di 7 minuti, 200 km di piste sotto il Aiguille Rouge (3 226 m), Vanoise Express a La Plagne. 2026-27 stagione: Dal 12 dicembre al 17 aprile.",
+      "meta_title": "Les Arcs · funicolare, Aiguille Rouge, Paradiski",
+      "name": "Les Arcs",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Siti",
+          "v": "Arc 1600 · Arc 1800 · Arc 1950 · Arc 2000 · Bourg-Saint-Maurice (valle)"
+        },
+        {
+          "k": "Dominio",
+          "v": "200 km con Peisey-Vallandry · 52 ascensori · Aiguille Rouge vertice 3 226 m"
+        },
+        {
+          "k": "Corri",
+          "v": "«123 piste» annunciate — dettaglio pubblicato a 131 (entrambi citati)"
+        },
+        {
+          "k": "Stagione 26/27",
+          "v": "12 dicembre 2026 – 17 aprile 2027"
+        },
+        {
+          "k": "Gratis",
+          "v": "Navette interstabili · ascensori principianti: nessuna offerta gratuita pubblicata"
+        },
+        {
+          "k": "Contatto",
+          "v": "Ufficio turistico di Les Arcs · place de la Gare, Bourg-Saint-Maurice · +33 4 79 07 12 57"
+        }
+      ],
+      "schema_amenities": [
+        "Funicolare dalla stazione",
+        "Navette gratuite",
+        "Vanoise Express"
+      ],
+      "when_to_visit": "<p>La stagione 2026-27 è pubblicata: <strong>12 dicembre 2026 - 17 aprile 2027</strong>. In estate, le attività si svolgono fino al 13 settembre — incluso '151 km di piste ciclabili' — e la navetta La Ronde serve Bourg-Saint-Maurice ogni giorno dal 4 luglio al 30 agosto.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Het dak van het domein 200 km hardlopen met Peisey-Vallandry, 425 km dwars door Paradiski.",
+          "tag": "Top",
+          "title": "De Aiguille Rouge op 3.226 m"
+        },
+        {
+          "description": "Bourg-Saint-Maurice ↔ Arc 1600, meegeleverd met de pasjes de autovrije weg omhoog.",
+          "tag": "Vanaf het station",
+          "title": "De 7 minuten kabelbaan"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Les Arcs</strong> line-up van vier hoogteplaatsen  Arc 1600, Arc 1800, Arc 1950, Arc 2000 boven <strong>Bourg-Saint-Maurice</strong>, gebonden aan de vallei door een kabelbaan die 'in slechts 7 minuten' klimt. Het domein gedeeld met Peisey-Vallandry biedt '<strong>200 km aan skipistes</strong>' en 52 liften, onder 'één top op 3.226 m', de Aiguille Rouge. Op de vlucht telt de officiële pagina spreekt zichzelf tegen: '123 skipistes' als kop, maar een detail 18 groen, 55 blauw, 42 rood, 16 zwart som van 131; We citeren beide versies.</p><p>Met La Plagne is 'het Paradiski domein een unieke speeltuin': '425 km runs', 258 runs, 'de drie resorts verbonden door 's werelds grootste kabelbaan: de Vanoise Express.\" Om rond te komen, 'gratis shuttles nemen je gemakkelijk van de ene site naar de andere'. Eén eerlijkheidspunt: in tegenstelling tot La Plagne, <strong>er worden geen gratis beginnersliften gepubliceerd</strong> op de geraadpleegde pagina's de routes Première Glisse, Premiers Virages en Première Descente zijn afhankelijk van een beginnerspas van €44 (€36 verlaagd).</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Betaald",
+        "best_season": "12 december 2026 17 april 2027",
+        "commune": "Bourg-Saint-Maurice",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Skigebied",
+        "winter_access": "open",
+        "winter_infra": [
+          "Skialpin",
+          "Skipfond",
+          "ski rando",
+          "raquettes",
+          "chiens traineau",
+          "luge"
+        ]
+      },
+      "faq": [
+        {
+          "a": "'De kabelbaan neemt u mee naar Les Arcs van Bourg Saint Maurice in slechts 7 minuten' included with the Classique, Essentiel, Premium, Piéton and Piéton+ passes. Het SNCF-station is tegenovergesteld; gratis shuttles dan koppelen de sites.",
+          "q": "Hoe kom je op zonder auto?"
+        },
+        {
+          "a": "De officiële Les Arcs/Peisey-Vallandry domein pagina kondigt '123 skipistes' aan maar zijn eigen detail (18 groen, 55 blauw, 42 rood, 16 zwart) totaal 131. Wij citeren beide cijfers zonder te oordelen.",
+          "q": "123 of 131 runs?"
+        },
+        {
+          "a": "Niets van dit soort wordt gepubliceerd op de officiële geraadpleegde pagina's de beginnersroutes (Première Glisse, Premiers Virages, Première Descente op Arc 1800, Arc 2000 en Peisey-Vallandry) gebruiken een speciale pas voor €44 volledige prijs, €36 gereduceerd. We merken het als onbevestigd in plaats van onbestaande.",
+          "q": "Zijn de beginnersliften gratis?"
+        },
+        {
+          "a": "Het gelinkte domein Les Arcs Peisey-Vallandry La Plagne: '425 km runs', 258 runs, en de Vanoise Express, 's werelds grootste kabelbaan, over de vallei tussen de twee flanken.",
+          "q": "Wat is Paradiski?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · Paradiski",
+        "lead": "Vier hoogteplaatsen boven Bourg-Saint-Maurice, een kabelbaan omhoog in 7 minuten, 200 km aan ritten onder de Aiguille Rouge (3.226 m) en de Vanoise Express naar La Plagne."
+      },
+      "hero_alt": "Besneeuwd bos op de hellingen van Les Arcs, Tarentaise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "N90 tot Bourg-Saint-Maurice, dan D119 tot Les Arcs  of de kabelbaan vanaf het station.",
+        "public_transport": "Bourg-Saint-Maurice SNCF station, dan de kabelbaan naar Arc 1600 in 7 minuten."
+      },
+      "meta_description": "Les Arcs: vier plaatsen boven Bourg-Saint-Maurice, een kabelbaan van 7 minuten, 200 km aan runs onder de Aiguille Rouge (3.226 m), de Vanoise Express tot La Plagne. 2026-27 seizoen: 12 december tot en met 17 april.",
+      "meta_title": "Les Arcs · kabelbaan, Aiguille Rouge, Paradiski",
+      "name": "Les Arcs",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Sites",
+          "v": "Arc 1600 · Arc 1800 · Arc 1950 · Arc 2000 · Bourg-Saint-Maurice (valley)"
+        },
+        {
+          "k": "Domein",
+          "v": "200 km met Peisey-Vallandry · 52 liften · Aiguille Rouge top 3.226 m"
+        },
+        {
+          "k": "Runs",
+          "v": "'123 runs' aangekondigd publicatie van een samenvatting tot 131 (beide geciteerd)"
+        },
+        {
+          "k": "Seizoen 26/27",
+          "v": "12 december 2026 17 april 2027"
+        },
+        {
+          "k": "Vrij",
+          "v": "Shuttles voor beginners: geen gratis aanbieding gepubliceerd"
+        },
+        {
+          "k": "Contactpersoon",
+          "v": "Les Arcs VVV-kantoor · place de la Gare, Bourg-Saint-Maurice · +33 4 79 07 12 57"
+        }
+      ],
+      "schema_amenities": [
+        "Funicular van het station",
+        "Gratis pendeldiensten",
+        "Vanoise Express"
+      ],
+      "when_to_visit": "<p>Het seizoen 2026-27 wordt gepubliceerd: <strong>12 december 2026 t/m 17 april 2027</strong>. In de zomer, activiteiten lopen tot 13 september . inclusief \"151 km mountainbike trails\" De La Ronde shuttle serveert dagelijks Bourg-Saint-Maurice van 4 juli tot 30 augustus.</p>"
+    }
+  },
+  "latitude": 45.573264,
+  "longitude": 6.780428,
+  "official_site_url": "https://www.lesarcs.com/domaine-skiable.html",
+  "partners": [],
+  "postal_code": "73700",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-18, FR pages only (lesarcs.com). Cinq sites : Arc 1600, 1800, 1950, 2000 et Bourg-Saint-Maurice en vallée ; « 1 sommet à 3226m » (Aiguille Rouge) ; altitude basse non chiffrée. Domaine Les Arcs/Peisey-Vallandry : « 200km de pistes de ski », « 123 pistes » — mais le détail publié sur la même page (18 vertes, 55 bleues, 42 rouges, 16 noires) somme à 131 : contradiction interne reportée. 52 remontées (compteur ouvertures). Paradiski : « 425 km », « 258 pistes », « les trois stations reliées par le plus grand téléphérique du monde : Le Vanoise Express ». Saison 26/27 publiée : 12 décembre 2026 – 17 avril 2027. Funiculaire Bourg-Saint-Maurice ↔ Arc 1600 « en 7 minutes seulement ». Navettes inter-sites gratuites (blog officiel). Remontées débutants gratuites NON confirmées (forfait débutant 44 €/36 €) — signalé non confirmé plutôt qu'inexistant. Été : activités jusqu'au 13 septembre. Coordonnées IGN (Arc 1800).",
+  "schema_org": {
+    "amenities": [],
+    "is_free": false,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "station-des-arcs",
+  "sources": [
+    "https://www.lesarcs.com/domaine-skiable.html",
+    "https://www.lesarcs.com/domaine-de-montagne/domaine-de-montagne/domaine-les-arcs-peisey-vallandry",
+    "https://www.lesarcs.com/funiculaire",
+    "https://www.lesarcs.com/blog/voila-pourquoi-venir-aux-arcs-cet-hiver"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "PISTES — total « 123 pistes » incohérent avec le détail publié (18+55+42+16 = 131) sur la même page officielle ; les deux versions citées.",
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published; kept null."
+  ]
+}

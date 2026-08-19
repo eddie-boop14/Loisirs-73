@@ -1,0 +1,38 @@
+{
+  "name": "Les Arcs",
+  "commune": "Bourg-Saint-Maurice",
+  "gps": {
+    "lat": 45.573264,
+    "lng": 6.780428
+  },
+  "type": "station",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": false,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "12 décembre 2026 – 17 avril 2027",
+  "winter": {
+    "access": "open",
+    "infrastructure": [
+      "ski_alpin",
+      "ski_fond",
+      "ski_rando",
+      "raquettes",
+      "chiens_traineau",
+      "luge"
+    ],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
+  "official_url": "https://www.lesarcs.com/domaine-skiable.html",
+  "last_verified": null
+}

@@ -1,0 +1,627 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-18",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "station",
+  "commune": "Pralognan-la-Vanoise",
+  "date_modified_human": "18 août 2026",
+  "date_published_human": "18 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-18",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-patinoire-hockey.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Das Curling der Spiele 1992 wurde hier gespielt - Le Cristal hält es am Leben.",
+          "tag": "Albertville 1992",
+          "title": "Die olympische Eisbahn"
+        },
+        {
+          "description": "25 verläuft von 1.410 bis 2.355 m, in einer Gemeinde 70% innerhalb des Nationalparks.",
+          "tag": "Vanoise",
+          "title": "Skifahren an den Parkgates"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Pralognan-la-Vanoise</strong>, 'auf 1.410 Metern im Herzen des Vanoise-Massivs gelegen', ist die Anti-Ski-Fabrik: 'ein Familiendorf Skigebiet der Alpen', das 'die typischen Traditionen eines kleinen Savoyard Bergdorf gehalten hat', mit '<strong>70% seines Territoriums im Herzen des Vanoise Nationalparks</strong>„. Seine nicht verknüpfte Domain klettert von 1.410 auf 2.355 m - \"Fast 1000 Meter vertikal\" - mit <strong>25 Läufe</strong> (9 grün, 3 blau, 8 rot, 5 schwarz), 12 Aufzüge und 64% der Oberfläche unter Beschneiung; Die nordische Domain bietet \"27 km markierte Wege\", die 6. nordische Website von Savoie, mit dem Label \"3 Nordics with excellence in services\".</p><p>Die kostenlosen Angebote sind familienförmig: Die Anfänger-Stufe vom Dorf ist \"frei für unter-5s\", Lifte sind kostenlos für unter-5s und die 75-und-über, und der Anfängerpass (Petit Poucet und Barioz läuft) hält bei 20 € pro Tag. Das olympische Erbe lebt in der <strong>Le Cristal</strong> Sportzentrum: das <strong>Olympische Eisbahn</strong> Das war Gastgeber des Curlings der Albertville 1992 Games - \"Olympische Eisbahn, Lockenbahn, Multisporthalle, Fitnessraum, Spa, Pool und Rutsche, Billard, Bowling und Bar\".</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Bezahlt",
+        "best_season": null,
+        "commune": "Pralognan-la-Vanoise",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Skigebiet",
+        "winter_access": "open",
+        "winter_infra": [
+          "Ski alpin",
+          "ski fond",
+          "Raquetten",
+          "chiens traineau",
+          "Ski rando"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Es ist ein Dorf zuerst, ein Resort zweitens: Eine nicht miteinander verbundene Domäne von 25 Läufen zwischen 1.410 und 2.355 m, erhaltene savoyische Traditionen und 70% des Landes der Gemeinde im Herzen des Vanoise-Nationalparks.",
+          "q": "Was unterscheidet Pralognan von den großen Resorts?"
+        },
+        {
+          "a": "Die Daten wurden am 18. August 2026 unveröffentlicht. Als Referenz lief die Saison 2025-26 vom 20. Dezember bis 5. April. Wir werden über die Veröffentlichung aktualisieren.",
+          "q": "Wann beginnt die Saison 2026-27?"
+        },
+        {
+          "a": "Der Anfängerbereich in der Nähe des Dorfes ist frei für unter 5s; Aufzüge sind kostenlos für unter 5 und die 75-und-über; der Anfängerpass (Petit Poucet, Barioz) kostet 20 € pro Tag; 9 Wander-Schneeschuh-Pfade sind markiert und 3 Aufzüge akzeptieren Fußgänger.",
+          "q": "Was ist kostenlos oder erschwinglich?"
+        },
+        {
+          "a": "Die olympische Eisbahn des Albertville 1992 Curling, ein Curling Sheet (nur Winter), eine Multisporthalle, Fitnessraum, Spa, Pool mit Rutsche, Billard, Bowling und eine Bar.",
+          "q": "Was gibt es bei Le Cristal?"
+        }
+      ],
+      "hero": {
+        "badge": "Dorfresort · 1.410 m",
+        "lead": "Ein wahres Savoyard-Dorf im Herzen des Vanoise-Massivs, 70% seines Landes im Nationalpark - ein menschliches Skigebiet und die olympische Eisbahn der Spiele 1992."
+      },
+      "hero_alt": "Hockeyspiel auf der Eisbahn Pralognan-la-Vanoise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D915 von Moûtiers (A430) über Bozel bis zum Kopf des Doron-Tals.",
+        "public_transport": "Moûtiers-Salins SNCF Station, dann Bus nach Pralognan."
+      },
+      "meta_description": "Pralognan-la-Vanoise (1.410 m): ein Ferienort im Herzen des Vanoise, 25 Läufe, 27 nordische km, die Eisbahn des Curlings von 1992 — freie Aufzüge unter 5 und 75+.",
+      "meta_title": "Pralognan-la-Vanoise · Park Village Resort, Olympische Eisbahn",
+      "name": "Pralognan-la-Vanoise",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Höhe",
+          "v": "Dorf 1.410 m · Domäne bis zu 2.355 m (≈ 1.000 m vertikal)"
+        },
+        {
+          "k": "Domain",
+          "v": "25 Pisten · 12 Lifte · 64% Beschneiung · Nordic 27 km"
+        },
+        {
+          "k": "Saison 26/27",
+          "v": "Unveröffentlicht am 18.08.2026 (2025-26): 20. Dezember – 5. April"
+        },
+        {
+          "k": "frei",
+          "v": "Anfängerbereich und Aufzüge unter 5 · Aufzüge 75+ · Anfängerpass €20"
+        },
+        {
+          "k": "Kontakt",
+          "v": "Tourismusbüro Pralognan · 290 avenue Chasseforêt · +33 4 79 08 79 08"
+        }
+      ],
+      "schema_amenities": [
+        "Le Cristal Olympiahalle",
+        "Freier Anfängerbereich unter 5",
+        "Schneeschuhspuren"
+      ],
+      "when_to_visit": "<p>Ab dem 18. August 2026 war die Saison 2026-27 noch nicht datiert; Als Referenz lief die Saison 2025-26 <strong>20. Dezember bis 5. April</strong> (9:00-16:45, dann 9:00-17:15 vom 7. Februar). Curling wird \"nur im Winter\" gespielt. Im Sommer lebt das Dorf vom 6. Juni bis zum 13. September, Tor zu einem Nationalpark, der \"über 400 km markierte Wanderwege\" bietet.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "The 1992 Games' curling was played here — Le Cristal keeps it alive.",
+          "tag": "Albertville 1992",
+          "title": "The Olympic ice rink"
+        },
+        {
+          "description": "25 runs from 1,410 to 2,355 m, in a commune 70% inside the national park.",
+          "tag": "Vanoise",
+          "title": "Skiing at the park gates"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Pralognan-la-Vanoise</strong>, 'nestled at 1,410 metres at the heart of the Vanoise massif', is the anti-ski-factory: 'a family village ski resort of the Alps' that has 'kept the typical traditions of a small Savoyard mountain village', with '<strong>70% of its territory at the heart of the Vanoise National Park</strong>'. Its unlinked domain climbs from 1,410 to 2,355 m — 'nearly 1,000 metres of vertical' — with <strong>25 runs</strong> (9 green, 3 blue, 8 red, 5 black), 12 lifts and 64% of the surface under snowmaking; the Nordic domain lines up '27 km of waymarked trails', Savoie's 6th Nordic site, holding the '3 Nordics with excellence in services' label.</p><p>The free offers are family-shaped: the beginner area steps from the village is 'free for under-5s', lifts are free for under-5s and the 75-and-over, and the beginner pass (Petit Poucet and Barioz runs) holds at €20 a day. The Olympic heritage lives at the <strong>Le Cristal</strong> sports centre: the <strong>Olympic rink</strong> that hosted the curling of the Albertville 1992 Games — 'Olympic ice rink, curling sheet, multisports hall, fitness room, spa, pool and slide, billiards, bowling and bar'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Paid",
+        "best_season": null,
+        "commune": "Pralognan-la-Vanoise",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Ski resort",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin",
+          "ski_fond",
+          "raquettes",
+          "chiens_traineau",
+          "ski_rando"
+        ]
+      },
+      "faq": [
+        {
+          "a": "It is a village first, a resort second: an unlinked domain of 25 runs between 1,410 and 2,355 m, preserved Savoyard traditions, and 70% of the commune's land at the heart of the Vanoise National Park.",
+          "q": "What sets Pralognan apart from the big resorts?"
+        },
+        {
+          "a": "The dates were unpublished as of 18 August 2026. For reference, the 2025-26 season ran 20 December to 5 April. We will update on publication.",
+          "q": "When does the 2026-27 season open?"
+        },
+        {
+          "a": "The beginner area near the village is free for under-5s; lifts are free for under-5s and the 75-and-over; the beginner pass (Petit Poucet, Barioz) costs €20 a day; 9 walking-snowshoe paths are waymarked and 3 lifts accept pedestrians.",
+          "q": "What is free or affordable?"
+        },
+        {
+          "a": "The Olympic rink of the Albertville 1992 curling, a curling sheet (winter only), a multisports hall, fitness room, spa, pool with slide, billiards, bowling and a bar.",
+          "q": "What is there at Le Cristal?"
+        }
+      ],
+      "hero": {
+        "badge": "Village resort · 1,410 m",
+        "lead": "A true Savoyard village at the heart of the Vanoise massif, 70% of its land inside the national park — a human-scale ski area, and the Olympic rink of the 1992 Games' curling."
+      },
+      "hero_alt": "Hockey game on the Pralognan-la-Vanoise ice rink",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D915 from Moûtiers (A430), through Bozel to the head of the Doron valley.",
+        "public_transport": "Moûtiers-Salins SNCF station, then coach to Pralognan."
+      },
+      "meta_description": "Pralognan-la-Vanoise (1,410 m): a village resort at the heart of the Vanoise, 25 runs, 27 Nordic km, the 1992 curling's Olympic rink — free lifts under 5 and 75+.",
+      "meta_title": "Pralognan-la-Vanoise · park village resort, Olympic rink",
+      "name": "Pralognan-la-Vanoise",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Altitude",
+          "v": "Village 1,410 m · domain up to 2,355 m (≈1,000 m of vertical)"
+        },
+        {
+          "k": "Domain",
+          "v": "25 runs · 12 lifts · 64% snowmaking · Nordic 27 km"
+        },
+        {
+          "k": "Season 26/27",
+          "v": "Unpublished as of 18/08/2026 (2025-26: 20 December – 5 April)"
+        },
+        {
+          "k": "Free",
+          "v": "Beginner area and lifts under 5 · lifts 75+ · beginner pass €20"
+        },
+        {
+          "k": "Contact",
+          "v": "Pralognan tourist office · 290 avenue Chasseforêt · +33 4 79 08 79 08"
+        }
+      ],
+      "schema_amenities": [
+        "Le Cristal Olympic rink",
+        "Free beginner area under 5",
+        "Snowshoe trails"
+      ],
+      "when_to_visit": "<p>As of 18 August 2026 the 2026-27 season was not yet dated; for reference, the 2025-26 season ran <strong>20 December to 5 April</strong> (9:00-16:45, then 9:00-17:15 from 7 February). Curling is played 'in winter only'. In summer the village lives from 6 June to 13 September, gateway to a national park that 'offers over 400 km of waymarked trails'.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "El curling de los Juegos de 1992 se jugó aquí — Le Cristal lo mantiene vivo.",
+          "tag": "Albertville 1992",
+          "title": "El hielo olímpico"
+        },
+        {
+          "description": "25 carreras de 1.410 a 2.355 m, en una comuna 70% dentro del parque nacional.",
+          "tag": "Vanoise",
+          "title": "Esquí en las puertas del parque"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Pralognan-la-Vanoise</strong>, 'nestled at 1 410 metres at the heart of the Vanoise massif', es el anti-ski-factory: 'una estación de esquí de pueblo familiar de los Alpes' que ha 'guardado las tradiciones típicas de un pequeño pueblo de montaña Savoyard', con '<strong>70% de su territorio en el corazón del Parque Nacional Vanoise</strong>'. Su dominio sin conexión asciende de 1.410 a 2.355 m — \"Aproximadamente 1.000 metros de vertical\" con <strong>25 carreras</strong> (9 verde, 3 azul, 8 rojo, 5 negro), 12 ascensores y 64% de la superficie bajo la nieve; the Nordic domain lines up '27 km of waymarked trails', Savoie's 6th Nordic site, holding the '3 Nordics with excellence in services' label.</p><p>Las ofertas gratuitas son en forma de familia: el área de inicio a pasos del pueblo es 'libre para menores de 5 años', los ascensores son gratuitos para menores de 5 años y el 75-y-over, y el pase de inicio (Petit Poucet y Barioz carreras) tiene 20 € al día. El patrimonio olímpico vive en <strong>Le Cristal</strong> centro deportivo: el <strong>Arruga olímpica</strong> que acogió la curvatura de los Juegos Albertville 1992 — 'Bebida de hielo olímpica, hoja de curling, sala de multiports, gimnasio, spa, piscina y diapositivas, billar, bolos y bar'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagado",
+        "best_season": null,
+        "commune": "Pralognan-la-Vanoise",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Escuela de esquí",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski alpin",
+          "ski fond",
+          "raquetas",
+          "chiens traineau",
+          "ski rando"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Es un pueblo primero, un segundo resort: un dominio sin conexión de 25 carreras entre 1.410 y 2.355 m, preservado las tradiciones de Savoyard, y 70% de la tierra de la comuna en el corazón del Parque Nacional Vanoise.",
+          "q": "¿Qué diferencia a Pralognan de los grandes resorts?"
+        },
+        {
+          "a": "Las fechas fueron inéditas al 18 de agosto de 2026. Para referencia, la temporada 2025-26 duró del 20 de diciembre al 5 de abril. Actualizaremos sobre la publicación.",
+          "q": "¿Cuándo se abre la temporada 2026-27?"
+        },
+        {
+          "a": "La zona de inicio cerca de la aldea es gratuita para menores de 5 años; Los ascensores son gratuitos para menores de 5 años y los 75 y siguientes; el pase inicial (Petit Poucet, Barioz) cuesta 20 € al día; 9 rutas de senderismo-snowshoe son señalizadas y 3 ascensores aceptan peatones.",
+          "q": "¿Qué es gratis o asequible?"
+        },
+        {
+          "a": "La pista olímpica del curling Albertville 1992, una hoja de curling (invierno solamente), un salón multideporte, gimnasio, spa, piscina con diapositivas, billar, bolos y un bar.",
+          "q": "¿Qué hay en Le Cristal?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort de pueblo · 1.410 m",
+        "lead": "Un verdadero pueblo de Savoyard en el corazón del macizo Vanoise, 70% de su tierra dentro del parque nacional — una zona de esquí a escala humana, y la pista olímpica de la curva de los Juegos de 1992."
+      },
+      "hero_alt": "Hockey juego en la pista de hielo Pralognan-la-Vanoise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D915 de Moûtiers (A430), a través de Bozel a la cabeza del valle de Doron.",
+        "public_transport": "Estación de Moûtiers-Salins SNCF, luego entrenador a Pralognan."
+      },
+      "meta_description": "Pralognan-la-Vanoise (1.410 m): un complejo de pueblo en el corazón de la Vanoise, 25 carreras, 27 km nórdicos, la pista olímpica de la curva de 1992 — ascensores gratis inferiores a 5 y 75+.",
+      "meta_title": "Pralognan-la-Vanoise · complejo de pueblo del parque, pista olímpica",
+      "name": "Pralognan-la-Vanoise",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Altitud",
+          "v": "Aldea 1 410 m · dominio hasta 2.355 m (Equipo de 1.000 m de vertical)"
+        },
+        {
+          "k": "Dominio",
+          "v": "25 carreras · 12 ascensores · 64% nevado · Nórdico 27 km"
+        },
+        {
+          "k": "Temporada 26/27",
+          "v": "Inédito al 18/08/2026 (2025-26: 20 de diciembre – 5 de abril)"
+        },
+        {
+          "k": "Gratis",
+          "v": "Área de inicio y ascensores menores de 5 · ascensores 75+ · pase inicial 20 €"
+        },
+        {
+          "k": "Contacto",
+          "v": "Pralognan tourist office · 290 avenue Chasseforêt · +33 4 79 08 79 08"
+        }
+      ],
+      "schema_amenities": [
+        "Arruga olímpica Le Cristal",
+        "Zona de inicio libre bajo 5",
+        "Rutas de Snowshoe"
+      ],
+      "when_to_visit": "<p>Al 18 de agosto de 2026 la temporada 2026-27 todavía no estaba fechada; para referencia, la temporada 2025-26 corrió <strong>20 de diciembre a 5 de abril</strong> (9:00-16:45, luego 9:00-17:15 del 7 de febrero). Curling se juega 'en invierno solamente'. En verano el pueblo vive del 6 de junio al 13 de septiembre, puerta de entrada a un parque nacional que \"ofrece más de 400 km de senderos señalizados\".</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Le curling des Jeux de 1992 se jouait ici — Le Cristal l'entretient toujours.",
+          "tag": "Albertville 1992",
+          "title": "La patinoire olympique"
+        },
+        {
+          "description": "25 pistes de 1 410 à 2 355 m, dans une commune à 70 % en cœur de parc national.",
+          "tag": "Vanoise",
+          "title": "Skier aux portes du Parc"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Pralognan-la-Vanoise</strong>, « nichée à 1410 mètres au coeur du massif de la Vanoise », est l'anti-usine à ski : « une station de ski village familiale des Alpes » qui a « conservé les traditions typiques d'un petit village de montagne savoyard », avec « <strong>70 % de son territoire au cœur du Parc national de la Vanoise</strong> ». Son domaine, non relié, monte de 1 410 à 2 355 m — « près de 1000 mètres de dénivelé » — avec <strong>25 pistes</strong> (9 vertes, 3 bleues, 8 rouges, 5 noires), 12 remontées et 64 % de la surface en neige de culture ; le domaine nordique aligne « 27 km de pistes balisées », 6e site nordique de Savoie, labellisé « 3 Nordics avec excellence en services ».</p><p>Les gratuités sont familiales : l'espace débutant à deux pas du village est « gratuit pour les – de 5 ans », les remontées sont offertes aux moins de 5 ans et aux 75 ans et plus, et le forfait débutant (pistes Petit Poucet et Barioz) tient à 20 € la journée. L'héritage olympique se vit au centre sportif <strong>Le Cristal</strong> : la <strong>patinoire olympique</strong> qui accueillit le curling des Jeux d'Albertville 1992 — « patinoire olympique, piste de curling, salle multisports, salle de fitness, spa, piscine et toboggan, billard, bowling et bar ».</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Payant",
+        "best_season": null,
+        "commune": "Pralognan-la-Vanoise",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Station de ski",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin",
+          "ski_fond",
+          "raquettes",
+          "chiens_traineau",
+          "ski_rando"
+        ]
+      },
+      "faq": [
+        {
+          "a": "C'est un village d'abord, une station ensuite : domaine non relié de 25 pistes entre 1 410 et 2 355 m, traditions savoyardes conservées, et 70 % du territoire communal au cœur du Parc national de la Vanoise.",
+          "q": "Qu'est-ce qui distingue Pralognan des grandes stations ?"
+        },
+        {
+          "a": "Les dates n'étaient pas publiées au 18 août 2026. En référence, la saison 2025-26 allait du 20 décembre au 5 avril. Nous mettrons à jour dès publication.",
+          "q": "Quand ouvre la saison 2026-27 ?"
+        },
+        {
+          "a": "L'espace débutant proche du village est gratuit pour les moins de 5 ans ; les remontées sont offertes aux moins de 5 ans et aux 75 ans et plus ; le forfait débutant (Petit Poucet, Barioz) coûte 20 € la journée ; 9 chemins piétons-raquettes sont balisés et 3 remontées acceptent les piétons.",
+          "q": "Qu'est-ce qui est gratuit ou accessible ?"
+        },
+        {
+          "a": "La patinoire olympique du curling des Jeux d'Albertville 1992, une piste de curling (hiver uniquement), salle multisports, fitness, spa, piscine avec toboggan, billard, bowling et bar.",
+          "q": "Que trouve-t-on au Cristal ?"
+        }
+      ],
+      "hero": {
+        "badge": "Station-village · 1 410 m",
+        "lead": "Un vrai village savoyard au cœur du massif de la Vanoise, 70 % du territoire dans le Parc national — un domaine à taille humaine, et la patinoire olympique du curling des Jeux de 1992."
+      },
+      "hero_alt": "Match de hockey sur la patinoire de Pralognan-la-Vanoise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D915 depuis Moûtiers (A430), par Bozel jusqu'au fond de la vallée du Doron.",
+        "public_transport": "Gare SNCF de Moûtiers-Salins, puis autocar jusqu'à Pralognan."
+      },
+      "meta_description": "Pralognan-la-Vanoise (1 410 m) : station-village au cœur de la Vanoise, 25 pistes, nordique 27 km, patinoire olympique du curling de 1992 — remontées gratuites pour les -5 ans et 75+.",
+      "meta_title": "Pralognan-la-Vanoise · station-village du Parc, patinoire olympique",
+      "name": "Pralognan-la-Vanoise",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Altitude",
+          "v": "Village 1 410 m · domaine jusqu'à 2 355 m (≈1 000 m de dénivelé)"
+        },
+        {
+          "k": "Domaine",
+          "v": "25 pistes · 12 remontées · 64 % en neige de culture · nordique 27 km"
+        },
+        {
+          "k": "Saison 26/27",
+          "v": "Non publiée au 18/08/2026 (2025-26 : 20 décembre – 5 avril)"
+        },
+        {
+          "k": "Gratuit",
+          "v": "Espace débutant et remontées <5 ans · remontées 75+ · forfait débutant 20 €"
+        },
+        {
+          "k": "Contact",
+          "v": "OT Pralognan · 290 avenue Chasseforêt · 04 79 08 79 08"
+        }
+      ],
+      "schema_amenities": [
+        "Patinoire olympique Le Cristal",
+        "Espace débutant gratuit -5 ans",
+        "Sentiers raquettes"
+      ],
+      "when_to_visit": "<p>Au 18 août 2026, la saison 2026-27 n'était pas encore datée ; en référence, la saison 2025-26 courait <strong>du 20 décembre au 5 avril</strong> (9h-16h45, puis 9h-17h15 à partir du 7 février). Le curling se pratique « uniquement en hiver ». L'été, le village vit du 6 juin au 13 septembre, porte d'un parc national qui « offre plus de 400 km de sentiers balisés ».</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Il curling dei Giochi del 1992 è stato giocato qui — Le Cristal lo mantiene vivo.",
+          "tag": "Albertville 1992",
+          "title": "La pista olimpica"
+        },
+        {
+          "description": "25 corre da 1.410 a 2.355 m, in un comune 70% all'interno del parco nazionale.",
+          "tag": "Vanoise",
+          "title": "Sciare ai cancelli del parco"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Pralognan-la-Vanoise</strong>, a 1 410 metri nel cuore del massiccio Vanoise, è la fabbrica antiscivolo: \"una stazione sciistica del villaggio di famiglia delle Alpi\" che ha 'attraverso le tradizioni tipiche di un piccolo villaggio di montagna Savoyard', con '<strong>70% del suo territorio nel cuore del Parco Nazionale Vanoise</strong>'. Il suo dominio non collegato sale da 1.410 a 2 355 m — — circa 1.000 metri di altezza con <strong>25 piste</strong> (9 verde, 3 blu, 8 rosso, 5 nero), 12 ascensori e 64% della superficie sotto innevamento; the Nordic domain lines up '27 km of waymarked trails', Savoie's 6th Nordic site, holding the '3 Nordics with excellence in services' label.</p><p>Le offerte gratuite sono a forma di famiglia: l'area di partenza a pochi passi dal villaggio è 'gratuita per meno di 5', gli ascensori sono gratuiti per meno di 5 anni e il 75-e-over, e il passaggio principiante (Petit Poucet e Barioz piste) detiene a €20 al giorno. Il patrimonio olimpico vive al <strong>Le Cristal</strong> centro sportivo: il <strong>Pista olimpica</strong> che ha ospitato il curling dei giochi Albertville 1992 — Pista di ghiaccio olimpica, curling foglio, sala multisport, sala fitness, spa, piscina e scivolo, biliardo, bowling e bar.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagato",
+        "best_season": null,
+        "commune": "Pralognan-la-Vanoise",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Stazione sciistica",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski alpin",
+          "sci fond",
+          "racchette",
+          "Chiens traineau",
+          "ski rando"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Si tratta di un villaggio prima, un secondo resort: un dominio non collegato di 25 corse tra 1.410 e 2.355 m, conservate tradizioni savoiarda, e il 70% della terra del comune nel cuore del Parco Nazionale Vanoise.",
+          "q": "Cosa distingue Pralognan dalle grandi stazioni?"
+        },
+        {
+          "a": "Le date furono inedite a partire dal 18 agosto 2026. Per riferimento, la stagione 2025-26 è passata dal 20 dicembre al 5 aprile. Ci aggiorneremo sulla pubblicazione.",
+          "q": "Quando apre la stagione 2026-27?"
+        },
+        {
+          "a": "La zona principiante vicino al villaggio è gratuita per meno di 5 anni; gli ascensori sono gratuiti per meno di 5 anni e 75-e-over; il passaggio principiante (Petit Poucet, Barioz) costa €20 al giorno; 9 sentieri escursionistici sono segnalati e 3 ascensori accettano pedoni.",
+          "q": "Che cosa è libero o conveniente?"
+        },
+        {
+          "a": "La pista olimpica del curling Albertville 1992, un foglio di curling (solo in inverno), una sala multisport, sala fitness, spa, piscina con scivolo, biliardo, bowling e un bar.",
+          "q": "Cosa c'è a Le Cristal?"
+        }
+      ],
+      "hero": {
+        "badge": "Villaggio turistico · 1.410 m",
+        "lead": "Un vero villaggio Savoyard nel cuore del massiccio Vanoise, il 70% della sua terra all'interno del parco nazionale — una zona di sci su scala umana, e la pista olimpica del curling dei Giochi del 1992."
+      },
+      "hero_alt": "Gioco di hockey sulla pista di ghiaccio Pralognan-la-Vanoise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D915 da Moûtiers (A430), attraverso Bozel alla testa della valle del Doron.",
+        "public_transport": "Stazione Moûtiers-Salins SNCF, poi allenatore a Pralognan."
+      },
+      "meta_description": "Pralognan-la-Vanoise (1 410 m): un villaggio resort nel cuore della Vanoise, 25 piste, 27 nordic km, la pista olimpica del curling 1992 — ascensori gratuiti inferiori a 5 e 75+.",
+      "meta_title": "Pralognan-la-Vanoise · villaggio di parco, pista olimpica",
+      "name": "Pralognan-la-Vanoise",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Altitudine",
+          "v": "Villaggio 1.410 m · dominio fino a 2.355 m (≈1.000 m di verticale)"
+        },
+        {
+          "k": "Dominio",
+          "v": "25 piste · 12 ascensori · 64% innevamento · Nordic 27 km"
+        },
+        {
+          "k": "Stagione 26/27",
+          "v": "Inedito a partire dal 18/08/2026 (2025-26: 20 dicembre – 5 aprile)"
+        },
+        {
+          "k": "Gratis",
+          "v": "Zona principiante e ascensori sotto i 5 · ascensori 75+ · pass principiante €20"
+        },
+        {
+          "k": "Contatto",
+          "v": "Pralognan tourist office · 290 avenue Chasseforêt · +33 4 79 08 79 08"
+        }
+      ],
+      "schema_amenities": [
+        "Le Cristal pista olimpica",
+        "Area principianti gratuita sotto 5",
+        "Escursioni con le ciaspole"
+      ],
+      "when_to_visit": "<p>A partire dal 18 agosto 2026 la stagione 2026-27 non era ancora datata; per riferimento, la stagione 2025-26 <strong>20 dicembre al 5 aprile</strong> (9:00-16:45, poi 9:00-17:15 dal 7 febbraio). Il curling viene giocato solo in inverno. In estate il villaggio vive dal 6 giugno al 13 settembre, porta di accesso ad un parco nazionale che 'offre oltre 400 km di sentieri segnalati'.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "De curling van 1992 werd hier gespeeld Le Cristal houdt het in leven.",
+          "tag": "Albertville 1992",
+          "title": "De Olympische ijsbaan"
+        },
+        {
+          "description": "25 loopt van 1.410 tot 2.355 m, in een gemeente 70% binnen het nationale park.",
+          "tag": "Vanoise",
+          "title": "Skiën bij de parkpoorten"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Pralognan-la-Vanoise</strong>, is de anti-skifabriek die zich op 1 410 meter in het hart van het Vanoise-massief bevindt: 'Een familiedorp skigebied van de Alpen' dat 'de typische tradities van een klein Savoyard bergdorp heeft bewaard', met '<strong>70% van zijn grondgebied in het hart van het nationale park Vanoise</strong>'. Het losgekoppelde domein klimt van 1.410 tot 2.355 m \"bijna 1.000 meter verticaal\" met <strong>25 runs</strong> (9 groen, 3 blauw, 8 rood, 5 zwart), 12 liften en 64% van het oppervlak onder sneeuw maken; Het Noordse domein lijnt op '27 km waymarked trails', Savoie's 6e Scandinavische site, met het label '3 Nordics with excellence in services'.</p><p>De gratis aanbiedingen zijn familievormig: Het beginnergebied is 'gratis voor minder dan 5s', liften zijn gratis voor minder dan 5s en de 75-and-over, en de beginnerpas (Petit Poucet en Barioz runs) houdt voor € 20 per dag. Het olympisch erfgoed leeft op de <strong>Le Cristal</strong> sportcentrum: de <strong>Olympische ijsbaan</strong> die de curling van de Albertville 1992 Games hosten 'Olympische ijsbaan, curlingplaat, multisporthal, fitnessruimte, spa, zwembad en glijbaan, biljart, bowling en bar'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Betaald",
+        "best_season": null,
+        "commune": "Pralognan-la-Vanoise",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Skigebied",
+        "winter_access": "open",
+        "winter_infra": [
+          "Skialpin",
+          "Skipfond",
+          "raquettes",
+          "chiens traineau",
+          "ski rando"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Het is een dorp eerst, een resort tweede: Een niet verbonden domein van 25 ligt tussen 1.410 en 2.355 m, bewaard Savoyard tradities, en 70% van de gemeente land in het hart van het Vanoise National Park.",
+          "q": "Wat onderscheidt Pralognan van de grote resorts?"
+        },
+        {
+          "a": "De data werden vanaf 18 augustus 2026 niet gepubliceerd. Het seizoen 2025-26 liep van 20 december tot 5 april. We zullen de publicatie updaten.",
+          "q": "Wanneer opent het seizoen 2026-27?"
+        },
+        {
+          "a": "Het beginnersgebied in de buurt van het dorp is gratis voor minder dan 5 jaar; liften zijn gratis voor minder dan 5 jaar en de 75 jaar en ouder; de beginnerspas (Petit Poucet, Barioz) kost €20 per dag; 9 wandel-sneeuwschoenpaden zijn gemarkeerd en 3 liften accepteren voetgangers.",
+          "q": "Wat is gratis of betaalbaar?"
+        },
+        {
+          "a": "De Olympische baan van de Albertville 1992 curling, een curling vel (alleen winter), een multisporthal, fitnessruimte, spa, zwembad met glijbaan, biljart, bowling en een bar.",
+          "q": "Wat is er op Le Cristal?"
+        }
+      ],
+      "hero": {
+        "badge": "Village resort · 1 410 m",
+        "lead": "Een echt Savoyard-dorp in het hart van het Vanoise-massief, 70% van het land in het nationale park. een menselijk skigebied en de Olympische baan van de Spelen van 1992."
+      },
+      "hero_alt": "Hockey spel op de Pralognan-la-Vanoise ijsbaan",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D915 van Moûtiers (A430), door Bozel tot het hoofd van de Doronvallei.",
+        "public_transport": "Moûtiers-Salins SNCF station, vervolgens coach naar Pralognan."
+      },
+      "meta_description": "Pralognan-la-Vanoise (1.410 m): een dorpsresort in het hart van de Vanoise, 25 runs, 27 Nordic km, de 1992 curling Olympisch skigebied gratis liften onder 5 en 75+.",
+      "meta_title": "Pralognan-la-Vanoise · park dorpsresort, Olympische baan",
+      "name": "Pralognan-la-Vanoise",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Hoogte",
+          "v": "Dorp 1 410 m · domein tot 2 355 m (≈1000 m verticaal)"
+        },
+        {
+          "k": "Domein",
+          "v": "25 pisten · 12 liften · 64% sneeuw maken · Nordic 27 km"
+        },
+        {
+          "k": "Seizoen 26/27",
+          "v": "Niet gepubliceerd per 18/08/2026 (2025-26: 20 december 5 april)"
+        },
+        {
+          "k": "Vrij",
+          "v": "Begingebied en liften onder 5 · liften 75+ · beginner pas € 20"
+        },
+        {
+          "k": "Contactpersoon",
+          "v": "Pralognan VVV · 290 avenue Chasseforêt · +33 4 79 08 79 08"
+        }
+      ],
+      "schema_amenities": [
+        "Le Cristal Olympische baan",
+        "Gratis beginner gebied onder 5",
+        "Sneeuwschoenpaden"
+      ],
+      "when_to_visit": "<p>Vanaf 18 augustus 2026 was het seizoen 2026-27 nog niet gedateerd; ter referentie, het 2025-26 seizoen liep <strong>van 20 december tot en met 5 april</strong> (9:00-16:45, dan 9:00-17:15 van 7 februari). Curling wordt 'alleen in de winter' gespeeld. In de zomer leeft het dorp van 6 juni tot 13 september, de toegangspoort tot een nationaal park dat 'meer dan 400 km bewegwijzerde paden' aanbiedt.</p>"
+    }
+  },
+  "latitude": 45.372015,
+  "longitude": 6.715221,
+  "official_site_url": "https://www.pralognan.com/activites/activites-hiver/ski-alpin/",
+  "partners": [],
+  "postal_code": "73710",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-18, FR pages only (pralognan.com). « Nichée à 1410 mètres au coeur du massif de la Vanoise » ; domaine de 1 410 à 2 355 m (« près de 1000 mètres de dénivelé ») ; 25 pistes (9 vertes, 3 bleues, 8 rouges, 5 noires), 12 remontées (1 télécabine, 4 télésièges, 7 téléskis), 64 % en neige de culture. Nordique : « 27 km de pistes balisées », 6e site nordique de Savoie, label « 3 Nordics avec excellence en services ». Station-village non reliée, « 70 % de son territoire au cœur du Parc national de la Vanoise ». Saison 26/27 NON publiée au 18/08 ; référence 2025-26 : 20 décembre – 5 avril (9h-16h45 puis 9h-17h15 dès le 7 février). GRATUIT : espace débutant « gratuit pour les – de 5 ans », remontées gratuites <5 ans et 75+, forfait débutant 20 €/jour (Petit Poucet, Barioz) ; 9 chemins piétons/raquettes, 3 remontées piétons. Patinoire olympique (curling JO 1992) au centre Le Cristal. Été : 6 juin – 13 septembre 2026, parc « plus de 400 km de sentiers ». Coordonnées IGN (commune).",
+  "schema_org": {
+    "amenities": [],
+    "is_free": false,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "station-de-pralognan-la-vanoise",
+  "sources": [
+    "https://www.pralognan.com/activites/activites-hiver/ski-alpin/",
+    "https://www.pralognan.com/activites/activites-hiver/ski-nordique/",
+    "https://www.pralognan.com/decouvrez-pralognan/station-familiale/",
+    "https://www.pralognan.com/prestataire/le-cristal-centre-sportif-de-la-vanoise-4702386/"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "SAISON 26/27 — non publiée au 18/08/2026 ; les dates 2025-26 (20 décembre – 5 avril) sont citées en référence. À mettre à jour dès publication.",
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published; kept null."
+  ]
+}

@@ -18,7 +18,9 @@
       "postal_code": "73610",
       "research_log": "Added with the lacs-plages batch, 2026-08-10.",
       "slug": "aiguebelette-le-lac",
-      "stats": {},
+      "stats": {
+        "total": 1
+      },
       "verify_flags": []
     },
     {
@@ -39,7 +41,9 @@
       "postal_code": "73100",
       "research_log": "Added with the lacs-plages batch, 2026-08-10.",
       "slug": "aix-les-bains",
-      "stats": {},
+      "stats": {
+        "total": 1
+      },
       "verify_flags": []
     },
     {
@@ -60,7 +64,9 @@
       "postal_code": "73200",
       "research_log": "Added with the musées batch, 2026-08-10.",
       "slug": "albertville",
-      "stats": {},
+      "stats": {
+        "total": 1
+      },
       "verify_flags": []
     },
     {
@@ -121,13 +127,20 @@
           "category": "chateau",
           "slug": "fort-victor-emmanuel-aussois",
           "title_fr": "Fort Victor-Emmanuel"
+        },
+        {
+          "category": "station",
+          "slug": "station-d-aussois",
+          "title_fr": "Aussois"
         }
       ],
-      "lieux_count": 1,
+      "lieux_count": 2,
       "postal_code": "73500",
       "research_log": "Added with the châteaux batch, 2026-08-10.",
       "slug": "aussois",
-      "stats": {},
+      "stats": {
+        "total": 2
+      },
       "verify_flags": []
     },
     {
@@ -153,7 +166,9 @@
       "postal_code": "73500",
       "research_log": "Added with the cascades batch, 2026-08-10.",
       "slug": "avrieux",
-      "stats": {},
+      "stats": {
+        "total": 2
+      },
       "verify_flags": []
     },
     {
@@ -233,7 +248,9 @@
       "postal_code": "73370",
       "research_log": "Added with the sentiers batch, 2026-08-10.",
       "slug": "bourdeau",
-      "stats": {},
+      "stats": {
+        "total": 1
+      },
       "verify_flags": []
     },
     {
@@ -249,17 +266,22 @@
       "intro_fr": "Porte de la haute Tarentaise, Bourg-Saint-Maurice donne accès aux Arcs et au téléphérique de l'Aiguille Rouge.",
       "lieux": [
         {
+          "category": "station",
+          "slug": "station-des-arcs",
+          "title_fr": "Les Arcs"
+        },
+        {
           "category": "telecabine",
           "slug": "telepherique-de-l-aiguille-rouge",
           "title_fr": "Téléphérique de l'Aiguille Rouge"
         }
       ],
-      "lieux_count": 1,
+      "lieux_count": 2,
       "postal_code": "73700",
       "research_log": [],
       "slug": "bourg-saint-maurice",
       "stats": {
-        "total": 1
+        "total": 2
       },
       "verify_flags": []
     },
@@ -324,8 +346,8 @@
         },
         {
           "category": "musee",
-          "slug": "musee-savoisien-chambery",
-          "title_fr": "Musée Savoisien"
+          "slug": "les-charmettes-maison-jean-jacques-rousseau-chambery",
+          "title_fr": "Les Charmettes, maison de Jean-Jacques Rousseau"
         },
         {
           "category": "musee",
@@ -334,15 +356,17 @@
         },
         {
           "category": "musee",
-          "slug": "les-charmettes-maison-jean-jacques-rousseau-chambery",
-          "title_fr": "Les Charmettes, maison de Jean-Jacques Rousseau"
+          "slug": "musee-savoisien-chambery",
+          "title_fr": "Musée Savoisien"
         }
       ],
       "lieux_count": 4,
       "postal_code": "73000",
       "research_log": "Added with the châteaux batch, 2026-08-10.",
       "slug": "chambery",
-      "stats": {},
+      "stats": {
+        "total": 4
+      },
       "verify_flags": []
     },
     {
@@ -413,7 +437,9 @@
       "postal_code": "73800",
       "research_log": "Added with the châteaux batch, 2026-08-10.",
       "slug": "chignin",
-      "stats": {},
+      "stats": {
+        "total": 1
+      },
       "verify_flags": []
     },
     {
@@ -480,17 +506,22 @@
           "title_fr": "Col de la Loze"
         },
         {
+          "category": "station",
+          "slug": "station-de-courchevel",
+          "title_fr": "Courchevel"
+        },
+        {
           "category": "telecabine",
           "slug": "telepherique-de-la-saulire",
           "title_fr": "Téléphérique de la Saulire"
         }
       ],
-      "lieux_count": 2,
+      "lieux_count": 3,
       "postal_code": "73120",
       "research_log": [],
       "slug": "courchevel",
       "stats": {
-        "total": 2
+        "total": 3
       },
       "verify_flags": []
     },
@@ -581,7 +612,9 @@
       "postal_code": "73670",
       "research_log": "Added with the musées batch, 2026-08-10.",
       "slug": "entremont-le-vieux",
-      "stats": {},
+      "stats": {
+        "total": 1
+      },
       "verify_flags": []
     },
     {
@@ -602,7 +635,9 @@
       "postal_code": "73260",
       "research_log": "Added with the cascades batch, 2026-08-10.",
       "slug": "grand-aigueblanche",
-      "stats": {},
+      "stats": {
+        "total": 1
+      },
       "verify_flags": []
     },
     {
@@ -623,7 +658,9 @@
       "postal_code": "73100",
       "research_log": "Added with the cascades batch, 2026-08-10.",
       "slug": "gresy-sur-aix",
-      "stats": {},
+      "stats": {
+        "total": 1
+      },
       "verify_flags": []
     },
     {
@@ -644,7 +681,9 @@
       "postal_code": "73460",
       "research_log": "Added with the lacs-plages batch, 2026-08-10.",
       "slug": "gresy-sur-isere",
-      "stats": {},
+      "stats": {
+        "total": 1
+      },
       "verify_flags": []
     },
     {
@@ -688,7 +727,9 @@
       "postal_code": "73600",
       "research_log": "Added with the sentiers batch, 2026-08-10.",
       "slug": "hautecour",
-      "stats": {},
+      "stats": {
+        "total": 1
+      },
       "verify_flags": []
     },
     {
@@ -708,14 +749,19 @@
           "category": "point-de-vue",
           "slug": "signal-de-bisanne",
           "title_fr": "Signal de Bisanne"
+        },
+        {
+          "category": "station",
+          "slug": "station-des-saisies",
+          "title_fr": "Les Saisies"
         }
       ],
-      "lieux_count": 2,
+      "lieux_count": 3,
       "postal_code": "73620",
       "research_log": [],
       "slug": "hauteluce",
       "stats": {
-        "total": 2
+        "total": 3
       },
       "verify_flags": []
     },
@@ -755,6 +801,11 @@
       "intro_fr": "Cœur de La Plagne, la commune aligne les remontées d'altitude, de la Roche de Mio au glacier de Bellecôte.",
       "lieux": [
         {
+          "category": "station",
+          "slug": "station-de-la-plagne",
+          "title_fr": "La Plagne"
+        },
+        {
           "category": "telecabine",
           "slug": "telecabine-de-la-roche-de-mio",
           "title_fr": "Télécabine de la Roche de Mio"
@@ -765,12 +816,12 @@
           "title_fr": "Télécabine des Glaciers"
         }
       ],
-      "lieux_count": 2,
+      "lieux_count": 3,
       "postal_code": "73210",
       "research_log": [],
       "slug": "la-plagne-tarentaise",
       "stats": {
-        "total": 2
+        "total": 3
       },
       "verify_flags": []
     },
@@ -820,7 +871,9 @@
       "postal_code": "73370",
       "research_log": "Added with the châteaux batch, 2026-08-10.",
       "slug": "le-bourget-du-lac",
-      "stats": {},
+      "stats": {
+        "total": 2
+      },
       "verify_flags": []
     },
     {
@@ -841,7 +894,9 @@
       "postal_code": "73630",
       "research_log": "Added with the cascades batch, 2026-08-10.",
       "slug": "le-chatelard",
-      "stats": {},
+      "stats": {
+        "total": 1
+      },
       "verify_flags": []
     },
     {
@@ -862,7 +917,9 @@
       "postal_code": "73610",
       "research_log": "Added with the sentiers batch, 2026-08-10.",
       "slug": "lepin-le-lac",
-      "stats": {},
+      "stats": {
+        "total": 1
+      },
       "verify_flags": []
     },
     {
@@ -878,15 +935,47 @@
       "intro_fr": "Commune de Méribel et première du département par le nombre de lieux recensés, Les Allues monte au Mont Vallon à 2 952 m.",
       "lieux": [
         {
+          "category": "station",
+          "slug": "station-de-meribel",
+          "title_fr": "Méribel"
+        },
+        {
           "category": "telecabine",
           "slug": "telecabine-du-mont-vallon",
           "title_fr": "Télécabine du Mont Vallon"
         }
       ],
-      "lieux_count": 1,
+      "lieux_count": 2,
       "postal_code": "73550",
       "research_log": [],
       "slug": "les-allues",
+      "stats": {
+        "total": 2
+      },
+      "verify_flags": []
+    },
+    {
+      "centroid": {
+        "lat": 45.475589,
+        "lon": 6.455625
+      },
+      "commune": "Les Avanchers-Valmorel",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "Above the Aigueblanche valleys, Les Avanchers-Valmorel holds a pedestrian village street and the gateway to the Grand Domaine.",
+      "intro_fr": "Au-dessus des vallées d'Aigueblanche, Les Avanchers-Valmorel porte un village-rue piéton et la porte du Grand Domaine.",
+      "lieux": [
+        {
+          "category": "station",
+          "slug": "station-de-valmorel",
+          "title_fr": "Valmorel"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73260",
+      "research_log": [],
+      "slug": "les-avanchers-valmorel",
       "stats": {
         "total": 1
       },
@@ -905,6 +994,16 @@
       "intro_fr": "Commune des Menuires, de Val Thorens et de Saint-Martin, Les Belleville culmine à la Cime Caron.",
       "lieux": [
         {
+          "category": "station",
+          "slug": "station-de-val-thorens",
+          "title_fr": "Val Thorens"
+        },
+        {
+          "category": "station",
+          "slug": "station-des-menuires",
+          "title_fr": "Les Menuires"
+        },
+        {
           "category": "telecabine",
           "slug": "telecabine-de-la-pointe-de-la-masse",
           "title_fr": "Télécabine de la Pointe de la Masse"
@@ -915,12 +1014,12 @@
           "title_fr": "Téléphérique de la Cime Caron"
         }
       ],
-      "lieux_count": 2,
+      "lieux_count": 4,
       "postal_code": "73440",
       "research_log": [],
       "slug": "les-belleville",
       "stats": {
-        "total": 2
+        "total": 4
       },
       "verify_flags": []
     },
@@ -936,13 +1035,20 @@
           "category": "sentier",
           "slug": "croix-du-nivolet-la-feclaz",
           "title_fr": "Croix du Nivolet depuis le Plateau Sud"
+        },
+        {
+          "category": "station",
+          "slug": "savoie-grand-revard",
+          "title_fr": "Savoie Grand Revard"
         }
       ],
-      "lieux_count": 1,
+      "lieux_count": 2,
       "postal_code": "73230",
       "research_log": "Added with the sentiers batch, 2026-08-10.",
       "slug": "les-deserts",
-      "stats": {},
+      "stats": {
+        "total": 2
+      },
       "verify_flags": []
     },
     {
@@ -986,7 +1092,9 @@
       "postal_code": "73200",
       "research_log": "Added with the châteaux batch, 2026-08-10.",
       "slug": "mercury",
-      "stats": {},
+      "stats": {
+        "total": 1
+      },
       "verify_flags": []
     },
     {
@@ -1007,7 +1115,9 @@
       "postal_code": "73500",
       "research_log": "Added with the sentiers batch, 2026-08-10.",
       "slug": "modane",
-      "stats": {},
+      "stats": {
+        "total": 1
+      },
       "verify_flags": []
     },
     {
@@ -1028,6 +1138,33 @@
       "postal_code": "73800",
       "research_log": [],
       "slug": "montmelian",
+      "stats": {
+        "total": 1
+      },
+      "verify_flags": []
+    },
+    {
+      "centroid": {
+        "lat": 45.618937,
+        "lon": 6.85608
+      },
+      "commune": "Montvalezan",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "On the road to the Petit Saint-Bernard pass, Montvalezan holds La Rosière and its Franco-Italian ski area.",
+      "intro_fr": "Sur la route du col du Petit Saint-Bernard, Montvalezan tient La Rosière et son domaine skiable franco-italien.",
+      "lieux": [
+        {
+          "category": "station",
+          "slug": "station-de-la-rosiere",
+          "title_fr": "La Rosière"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73700",
+      "research_log": [],
+      "slug": "montvalezan",
       "stats": {
         "total": 1
       },
@@ -1152,7 +1289,9 @@
       "postal_code": "73800",
       "research_log": "Added with the lacs-plages batch, 2026-08-10.",
       "slug": "porte-de-savoie",
-      "stats": {},
+      "stats": {
+        "total": 1
+      },
       "verify_flags": []
     },
     {
@@ -1168,22 +1307,27 @@
       "intro_fr": "Village-porte du parc national de la Vanoise, Pralognan monte au Mont Bochor par téléphérique.",
       "lieux": [
         {
-          "category": "telecabine",
-          "slug": "telepherique-du-mont-bochor",
-          "title_fr": "Téléphérique du Mont-Bochor"
-        },
-        {
           "category": "sentier",
           "slug": "lac-des-vaches-pralognan",
           "title_fr": "Lac des Vaches"
+        },
+        {
+          "category": "station",
+          "slug": "station-de-pralognan-la-vanoise",
+          "title_fr": "Pralognan-la-Vanoise"
+        },
+        {
+          "category": "telecabine",
+          "slug": "telepherique-du-mont-bochor",
+          "title_fr": "Téléphérique du Mont-Bochor"
         }
       ],
-      "lieux_count": 2,
+      "lieux_count": 3,
       "postal_code": "73710",
       "research_log": [],
       "slug": "pralognan-la-vanoise",
       "stats": {
-        "total": 1
+        "total": 3
       },
       "verify_flags": []
     },
@@ -1228,7 +1372,9 @@
       "postal_code": "73610",
       "research_log": "Added with the lacs-plages batch, 2026-08-10.",
       "slug": "saint-alban-de-montbel",
-      "stats": {},
+      "stats": {
+        "total": 1
+      },
       "verify_flags": []
     },
     {
@@ -1349,7 +1495,9 @@
       "postal_code": "73230",
       "research_log": "Added with the cascades batch, 2026-08-10.",
       "slug": "saint-jean-d-arvey",
-      "stats": {},
+      "stats": {
+        "total": 1
+      },
       "verify_flags": []
     },
     {
@@ -1393,14 +1541,14 @@
       "intro_fr": "Sous-préfecture de la Maurienne, Saint-Jean commande la montée du col du Chaussy par les lacets de Montvernier.",
       "lieux": [
         {
-          "category": "point-de-vue",
-          "slug": "col-du-chaussy",
-          "title_fr": "Col du Chaussy"
-        },
-        {
           "category": "musee",
           "slug": "musee-opinel-saint-jean-de-maurienne",
           "title_fr": "Musée Opinel"
+        },
+        {
+          "category": "point-de-vue",
+          "slug": "col-du-chaussy",
+          "title_fr": "Col du Chaussy"
         }
       ],
       "lieux_count": 2,
@@ -1408,7 +1556,7 @@
       "research_log": [],
       "slug": "saint-jean-de-maurienne",
       "stats": {
-        "total": 1
+        "total": 2
       },
       "verify_flags": []
     },
@@ -1430,7 +1578,9 @@
       "postal_code": "73140",
       "research_log": "Added with the musées batch, 2026-08-10.",
       "slug": "saint-michel-de-maurienne",
-      "stats": {},
+      "stats": {
+        "total": 1
+      },
       "verify_flags": []
     },
     {
@@ -1456,7 +1606,9 @@
       "postal_code": "73250",
       "research_log": "Added with the châteaux batch, 2026-08-10.",
       "slug": "saint-pierre-d-albigny",
-      "stats": {},
+      "stats": {
+        "total": 2
+      },
       "verify_flags": []
     },
     {
@@ -1477,7 +1629,9 @@
       "postal_code": "73670",
       "research_log": "Added with the cascades batch, 2026-08-10.",
       "slug": "saint-pierre-d-entremont",
-      "stats": {},
+      "stats": {
+        "total": 1
+      },
       "verify_flags": []
     },
     {
@@ -1612,6 +1766,11 @@
       "intro_fr": "Tignes monte au glacier de la Grande Motte par deux appareils en série : un funiculaire en tunnel, puis un téléphérique.",
       "lieux": [
         {
+          "category": "station",
+          "slug": "station-de-tignes",
+          "title_fr": "Tignes"
+        },
+        {
           "category": "telecabine",
           "slug": "funiculaire-de-la-grande-motte",
           "title_fr": "Funiculaire de la Grande Motte"
@@ -1622,12 +1781,12 @@
           "title_fr": "Téléphérique de la Grande Motte"
         }
       ],
-      "lieux_count": 2,
+      "lieux_count": 3,
       "postal_code": "73320",
       "research_log": [],
       "slug": "tignes",
       "stats": {
-        "total": 2
+        "total": 3
       },
       "verify_flags": []
     },
@@ -1649,7 +1808,9 @@
       "postal_code": "73100",
       "research_log": "Added with the sentiers batch, 2026-08-10.",
       "slug": "tresserve",
-      "stats": {},
+      "stats": {
+        "total": 1
+      },
       "verify_flags": []
     },
     {
@@ -1668,14 +1829,19 @@
           "category": "point-de-vue",
           "slug": "col-du-mont-cenis",
           "title_fr": "Col du Mont-Cenis"
+        },
+        {
+          "category": "station",
+          "slug": "station-de-val-cenis",
+          "title_fr": "Val Cenis"
         }
       ],
-      "lieux_count": 1,
+      "lieux_count": 2,
       "postal_code": "73480",
       "research_log": [],
       "slug": "val-cenis",
       "stats": {
-        "total": 1
+        "total": 2
       },
       "verify_flags": []
     },
@@ -1688,6 +1854,11 @@
       "intro_fr": "Val-d'Isère aligne ses remontées d'altitude au-dessus de l'Isère naissante, dont une gratuite aux piétons l'été.",
       "lieux": [
         {
+          "category": "station",
+          "slug": "station-de-val-d-isere",
+          "title_fr": "Val d'Isère"
+        },
+        {
           "category": "telecabine",
           "slug": "telecabine-de-solaise",
           "title_fr": "Télécabine de Solaise"
@@ -1698,12 +1869,12 @@
           "title_fr": "Téléphérique de l'Olympique"
         }
       ],
-      "lieux_count": 2,
+      "lieux_count": 3,
       "postal_code": "73150",
       "research_log": [],
       "slug": "val-d-isere",
       "stats": {
-        "total": 2
+        "total": 3
       },
       "verify_flags": []
     },
@@ -1728,14 +1899,19 @@
           "category": "point-de-vue",
           "slug": "col-du-telegraphe",
           "title_fr": "Col du Télégraphe"
+        },
+        {
+          "category": "station",
+          "slug": "station-de-valloire",
+          "title_fr": "Valloire"
         }
       ],
-      "lieux_count": 2,
+      "lieux_count": 3,
       "postal_code": "73450",
       "research_log": [],
       "slug": "valloire",
       "stats": {
-        "total": 2
+        "total": 3
       },
       "verify_flags": []
     },

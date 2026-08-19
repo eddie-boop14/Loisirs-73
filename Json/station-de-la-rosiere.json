@@ -1,0 +1,615 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-18",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "station",
+  "commune": "Montvalezan",
+  "date_modified_human": "18 août 2026",
+  "date_published_human": "18 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-18",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-patinoire-patins-blancs.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Der Espace San Bernardo verbindet La Rosière mit La Thuile über den Petit Saint-Bernard Pass.",
+          "tag": "Frankreich nach Italien",
+          "title": "Skifahren in zwei Ländern"
+        },
+        {
+          "description": "Der Höhepunkt der Domain und ihre überwachte Freeride-Zone.",
+          "tag": "Freeride",
+          "title": "Der Mont Valaisan auf 2.800 m"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>La Rosière</strong>, auf 1.850 m in der Gemeinde Montvalezan, ist \"der italienischste der französischen Resorts\": Verbunden mit dem italienischen Resort von <strong>La Thuile</strong> Mit dem Col du Petit Saint-Bernard bietet Ihnen La Rosière Zugang zu einem abwechslungsreichen Skigebiet - das <strong>Espace San Bernardo</strong>,<strong>156 km zertifizierte Strecken</strong>' und 39 Lifte (darunter 22 Sesselbahnen) zwischen Frankreich und dem Aosta-Tal, von 1.176 m bis zum Mont Valaisan (2.800 m). Die veröffentlichte Aufschlüsselung — 45% grün und blau, 40% rot, 15% schwarz — und die <strong>Famille Plus</strong> Label sprechen von einem Progression Resort, mit Blick nach Süden in Richtung Beaufortain Massiv.</p><p>Zwei Transparenzen: Ab dem 18. August 2026 war die Saison 2026-27 <strong>nicht mit einem Jahr datiert</strong> - die Homepage kündigt \"Wir erwarten Sie ab dem 12. Dezember.\" ohne Jahr an, die Domainseite zitiert immer noch die Saison 2025-26 ('13. Dezember 2025 bis 18. April 2026'); und <strong>Kein kostenloses Angebot</strong> (Anfängerlifte, Schlitten) wird auf den konsultierten Seiten veröffentlicht — Also behaupten wir nichts.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Bezahlt",
+        "best_season": null,
+        "commune": "Montvalezan",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Skigebiet",
+        "winter_access": "open",
+        "winter_infra": [
+          "Ski alpin",
+          "Raquetten",
+          "Lastwagen"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Ja — Das ist die Identität des Espace San Bernardo: La Rosière und La Thuile (Aosta-Tal) sind über den Col du Petit Saint-Bernard verbunden, für 156 km zertifizierte Pisten und 39 Lifte in den beiden Ländern.",
+          "q": "Kannst du wirklich Ski nach Italien fahren?"
+        },
+        {
+          "a": "Das Resort kündigt \"ab dem 12. Dezember\" an - ohne Veröffentlichung des Jahres zum 18. August 2026. Als Referenz lief die Saison 2025-26 vom 13. Dezember bis 18. April, der Zugang zur vollständigen Domain Frankreich-Italien endete am 12. April. Wir werden aktualisieren, sobald die datierte saison veröffentlicht wird.",
+          "q": "Wann beginnt die Saison 2026-27?"
+        },
+        {
+          "a": "Auf den offiziellen Seiten wird kein kostenloses Angebot veröffentlicht — weder Anfängerlifte noch Schlitten. Ein Fußgänger-Schneeschuh-Pass existierte ab 19 € (2025-26 Saison).",
+          "q": "Gibt es kostenlose Lifte?"
+        },
+        {
+          "a": "Es hält das Famille Plus-Label, blickt auf seine Pisten ganz nach Süden und veröffentlicht 45% grüne und blaue Pisten. mit der überwachten Freeride-Zone Mont Valaisan für erfahrene Skifahrer.",
+          "q": "Ist das Resort für Familien geeignet?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · 1.850 m",
+        "lead": "Haute-Tarentaise's französisch-italienisches Resort: über den Petit Saint-Bernard-Pass verbindet der Espace San Bernardo La Rosière mit La Thuile — 156 km Pisten durch zwei Länder."
+      },
+      "hero_alt": "Weiße Schlittschuhe auf der Eisbahn La Rosière, Haute-Tarentaise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D1090 von Bourg-Saint-Maurice, Haarnadeln zum Petit Saint-Bernard Pass.",
+        "public_transport": "Bourg-Saint-Maurice SNCF Station, dann Bus zu La Rosière."
+      },
+      "meta_description": "La Rosière (1.850 m), das italienischste der französischen Resorts: Die 156 km des Espace San Bernardo sind mit La Thuile über das Petit Saint-Bernard, Famille Plus Label verbunden. Saison 2026-27 vom 12. Dezember angekündigt.",
+      "meta_title": "La Rosière · Espace San Bernardo, Skifahren Frankreich-Italien",
+      "name": "La Rosière",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Höhe",
+          "v": "Resort 1.850 m · Domain von 1.176 m bis 2.800 m (Mont Valaisan)"
+        },
+        {
+          "k": "Domain",
+          "v": "Espace San Bernardo: 156 zertifizierte km · 39 Aufzüge Frankreich + Italien"
+        },
+        {
+          "k": "Saison 26/27",
+          "v": "\"Ab dem 12. Dezember\" — Jahr unveröffentlicht (2025-26): 13 Dec – 18. April"
+        },
+        {
+          "k": "Etikett",
+          "v": "Famille Plus"
+        },
+        {
+          "k": "Kontakt",
+          "v": "La Rosière Tourismusbüro · 705 route du Col du Petit St. Bernard, Montvalezan · +33 4 79 06 80 51"
+        }
+      ],
+      "schema_amenities": [
+        "Französisch-italienische Domain",
+        "Überwachte Freeride-Zone",
+        "Famille Plus Label"
+      ],
+      "when_to_visit": "<p>\"Wir erwarten Sie ab dem 12. Dezember\", kündigt das Resort an - ohne Angabe des Jahres; Als Referenz lief die Saison 2025-26 vom 13. Dezember bis 18. April, die vollständige Domain Frankreich-Italien schloss am 12. April. Kommen Winter, die überwachte Mont Valaisan Freeride-Zone und die Eisbahn runden das Skifahren ab; Im Sommer übernehmen Wandern, Mountainbiken, Paragliding, Canyoning und ein 9-Loch-Golfplatz.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "The Espace San Bernardo links La Rosière to La Thuile over the Petit Saint-Bernard pass.",
+          "tag": "France to Italy",
+          "title": "Skiing across two countries"
+        },
+        {
+          "description": "The domain's high point and its supervised freeride zone.",
+          "tag": "Freeride",
+          "title": "The Mont Valaisan at 2,800 m"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>La Rosière</strong>, at 1,850 m in the commune of Montvalezan, is 'the most Italian of French resorts': 'Linked to the Italian resort of <strong>La Thuile</strong> by the Col du Petit Saint-Bernard, La Rosière gives you access to a varied ski area' — the <strong>Espace San Bernardo</strong>, '<strong>156 km of certified runs</strong>' and 39 lifts (including 22 chairlifts) spread between France and the Aosta Valley, from 1,176 m to the Mont Valaisan (2,800 m). The published breakdown — 45% green and blue, 40% red, 15% black — and the <strong>Famille Plus</strong> label speak of a progression resort, facing full south toward the Beaufortain massif.</p><p>Two transparencies: as of 18 August 2026 the 2026-27 season was <strong>not dated with a year</strong> — the homepage announces 'We await you from 12 December.' with no year, the domain page still citing the 2025-26 season ('13 December 2025 to 18 April 2026'); and <strong>no free offer</strong> (beginner lifts, sledging) is published on the pages consulted — so we assert none.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Paid",
+        "best_season": null,
+        "commune": "Montvalezan",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Ski resort",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin",
+          "raquettes",
+          "luge"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Yes — that is the Espace San Bernardo's identity: La Rosière and La Thuile (Aosta Valley) are linked over the Col du Petit Saint-Bernard, for 156 km of certified runs and 39 lifts across the two countries.",
+          "q": "Can you really ski into Italy?"
+        },
+        {
+          "a": "The resort announces 'from 12 December' — without publishing the year as of 18 August 2026. For reference, the 2025-26 season ran 13 December to 18 April, access to the full France-Italy domain ending 12 April. We will update as soon as the dated season is published.",
+          "q": "When does the 2026-27 season open?"
+        },
+        {
+          "a": "No free offer is published on the official pages consulted — neither beginner lifts nor sledging. A pedestrian-snowshoe pass existed from €19 (2025-26 season).",
+          "q": "Are there free lifts?"
+        },
+        {
+          "a": "It holds the Famille Plus label, faces its slopes full south and publishes 45% green and blue runs — with the supervised Mont Valaisan freeride zone for seasoned skiers.",
+          "q": "Does the resort suit families?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · 1,850 m",
+        "lead": "Haute-Tarentaise's Franco-Italian resort: over the Petit Saint-Bernard pass, the Espace San Bernardo links La Rosière to La Thuile — 156 km of runs across two countries."
+      },
+      "hero_alt": "White skates on the La Rosière ice rink, Haute-Tarentaise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D1090 from Bourg-Saint-Maurice, hairpins toward the Petit Saint-Bernard pass.",
+        "public_transport": "Bourg-Saint-Maurice SNCF station, then coach to La Rosière."
+      },
+      "meta_description": "La Rosière (1,850 m), the most Italian of French resorts: the Espace San Bernardo's 156 km linked to La Thuile over the Petit Saint-Bernard, Famille Plus label. 2026-27 season announced from 12 December.",
+      "meta_title": "La Rosière · Espace San Bernardo, France-Italy skiing",
+      "name": "La Rosière",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Altitude",
+          "v": "Resort 1,850 m · domain from 1,176 m to 2,800 m (Mont Valaisan)"
+        },
+        {
+          "k": "Domain",
+          "v": "Espace San Bernardo: 156 certified km · 39 lifts France + Italy"
+        },
+        {
+          "k": "Season 26/27",
+          "v": "'From 12 December' — year unpublished (2025-26: 13 Dec – 18 April)"
+        },
+        {
+          "k": "Label",
+          "v": "Famille Plus"
+        },
+        {
+          "k": "Contact",
+          "v": "La Rosière tourist office · 705 route du Col du Petit St Bernard, Montvalezan · +33 4 79 06 80 51"
+        }
+      ],
+      "schema_amenities": [
+        "Franco-Italian domain",
+        "Supervised freeride zone",
+        "Famille Plus label"
+      ],
+      "when_to_visit": "<p>'We await you from 12 December', the resort announces — without stating the year; for reference, the 2025-26 season ran 13 December to 18 April, the full France-Italy domain closing 12 April. Come winter, the supervised Mont Valaisan freeride zone and the ice rink round out the skiing; in summer, hiking, mountain biking, paragliding, canyoning and a 9-hole golf course take over.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "El Espace San Bernardo vincula La Rosière a La Thuile sobre el paso Petit Saint-Bernard.",
+          "tag": "Francia a Italia",
+          "title": "Esquí en dos países"
+        },
+        {
+          "description": "El punto alto del dominio y su zona de freeride supervisada.",
+          "tag": "Freeride",
+          "title": "Mont Valaisan a 2.800 m"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>La Rosière</strong>, a 1 850 m en la comuna de Montvalezan, es 'el más italiano de los resorts franceses': 'Enlazado al complejo italiano de <strong>La Thuile</strong> por el Col du Petit Saint-Bernard, La Rosière le da acceso a una variada zona de esquí el <strong>Espace San Bernardo</strong>, '<strong>156 km de carreras certificadas</strong>' y 39 ascensores (incluidos 22 sillones) se extienden entre Francia y el Valle de Aosta, de 1.176 m a la Mont Valaisan (2.800 m). El desglose publicado 45% verde y azul, 40% rojo, 15% negro — y el <strong>Famille Plus</strong> etiqueta hablar de un resort de progresión, frente al sur lleno hacia el macizo Beaufortain.</p><p>Dos transparencias: al 18 de agosto de 2026 la temporada 2026-27 <strong>no fechado con un año</strong> — la página web anuncia 'Le esperamos del 12 de diciembre.' sin un año, la página de dominio todavía citando la temporada 2025-26 ('13 de diciembre de 2025 al 18 de abril de 2026'); y <strong>no oferta gratuita</strong> (remontes principiantes, trineo) se publica en las páginas consultadas: Así que no afirmamos nada.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagado",
+        "best_season": null,
+        "commune": "Montvalezan",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Escuela de esquí",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski alpin",
+          "raquetas",
+          "Luge"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Sí. que es la identidad de Espace San Bernardo: La Rosière y La Thuile (Valle de Aosta) están vinculados al Col du Petit Saint-Bernard, por 156 km de pistas certificadas y 39 ascensores por los dos países.",
+          "q": "¿Puedes esquiar en Italia?"
+        },
+        {
+          "a": "El resort anuncia 'a partir del 12 de diciembre' — sin publicar el año al 18 de agosto de 2026. Para referencia, la temporada 2025-26 duró del 13 de diciembre al 18 de abril, el acceso al dominio completo Francia-Italia que terminó el 12 de abril. Actualizaremos tan pronto como se publique la temporada fechada.",
+          "q": "¿Cuándo se abre la temporada 2026-27?"
+        },
+        {
+          "a": "No se publica ninguna oferta gratuita en las páginas oficiales consultadas — Ni ascensores principiantes ni trineos. Un pase peatonal-snowshoe existía desde 19 € (2025-26 temporada).",
+          "q": "¿Hay ascensores gratis?"
+        },
+        {
+          "a": "Posee la etiqueta Famille Plus, se enfrenta a sus pendientes al sur y publica un 45% de pistas verdes y azules — con la zona de freeride Mont Valaisan supervisada para esquiadores de temporada.",
+          "q": "¿El complejo se adapta a las familias?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · 1.850 m",
+        "lead": "El complejo franco-italiano de Haute-Tarentaise: sobre el paso Petit Saint-Bernard, los enlaces Espace San Bernardo La Rosière a La Thuile — 156 km de recorridos por dos países."
+      },
+      "hero_alt": "Patines blancos en la pista de hielo La Rosière, Haute-Tarentaise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D1090 de Bourg-Saint-Maurice, horquillas hacia el paso Petit Saint-Bernard.",
+        "public_transport": "Estación Bourg-Saint-Maurice SNCF, luego en coche a La Rosière."
+      },
+      "meta_description": "La Rosière (1.850 m), el más italiano de los resorts franceses: el Espace San Bernardo's 156 km vinculado a La Thuile sobre la etiqueta Petit Saint-Bernard, Famille Plus. 2026-27 temporada anunciada del 12 de diciembre.",
+      "meta_title": "La Rosière · Espace San Bernardo, esquí Francia-Italia",
+      "name": "La Rosière",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Altitud",
+          "v": "Resort 1 850 m · dominio de 1 176 m a 2.800 m (Mont Valaisan)"
+        },
+        {
+          "k": "Dominio",
+          "v": "Espace San Bernardo: 156 km certificado · 39 ascensores Francia + Italia"
+        },
+        {
+          "k": "Temporada 26/27",
+          "v": "\"Desde el 12 de diciembre\" año inédito (2025-26: 13 de diciembre – 18 de abril)"
+        },
+        {
+          "k": "Label",
+          "v": "Famille Plus"
+        },
+        {
+          "k": "Contacto",
+          "v": "La Rosière oficina de turismo · 705 ruta du Col du Petit St Bernard, Montvalezan · +33 4 79 06 80 51"
+        }
+      ],
+      "schema_amenities": [
+        "Franco-Italiano dominio",
+        "Zona de freeride supervisada",
+        "Etiquetas Famille Plus"
+      ],
+      "when_to_visit": "<p>\"Te esperamos desde el 12 de diciembre\", anuncia el resort: sin indicar el año; para referencia, la temporada 2025-26 duró del 13 de diciembre al 18 de abril, el dominio completo Francia-Italia cerró el 12 de abril. Ven el invierno, la zona de freeride Mont Valaisan supervisada y la pista de hielo redondean el esquí; en verano, senderismo, bicicleta de montaña, parapente, canyoning y un campo de golf de 9 hoyos se apoderan.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "L'Espace San Bernardo relie La Rosière à La Thuile par le col du Petit Saint-Bernard.",
+          "tag": "France à Italie",
+          "title": "Skier entre deux pays"
+        },
+        {
+          "description": "Le point haut du domaine et sa zone freeride encadrée.",
+          "tag": "Freeride",
+          "title": "Le Mont Valaisan à 2 800 m"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>La Rosière</strong>, à 1 850 m sur la commune de Montvalezan, est « la plus italienne des stations françaises » : « Reliée à la station italienne de <strong>La Thuile</strong> par le Col du Petit Saint-Bernard, La Rosière vous donne accès à un espace de glisse varié » — l'<strong>Espace San Bernardo</strong>, « <strong>156 km de pistes certifiées</strong> » et 39 remontées mécaniques (dont 22 télésièges) réparties entre France et Vallée d'Aoste, de 1 176 m au Mont Valaisan (2 800 m). La répartition publiée — 45 % de vertes et bleues, 40 % de rouges, 15 % de noires — et le label <strong>Famille Plus</strong> disent une station de progression, exposée plein sud face au massif du Beaufortain.</p><p>Deux transparences : au 18 août 2026, la saison 2026-27 n'était <strong>pas datée avec millésime</strong> — la page d'accueil annonce « On vous attend dès le 12 décembre. » sans année, la page domaine citant encore la saison 2025-26 (« du 13 décembre 2025 au 18 avril 2026 ») ; et <strong>aucune gratuité</strong> (remontées débutants, luge) n'est publiée sur les pages consultées — nous n'affirmons donc rien de tel.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Payant",
+        "best_season": null,
+        "commune": "Montvalezan",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Station de ski",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin",
+          "raquettes",
+          "luge"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Oui — c'est l'identité de l'Espace San Bernardo : La Rosière et La Thuile (Vallée d'Aoste) sont reliées par le col du Petit Saint-Bernard, pour 156 km de pistes certifiées et 39 remontées entre les deux pays.",
+          "q": "Peut-on vraiment skier jusqu'en Italie ?"
+        },
+        {
+          "a": "La station annonce « dès le 12 décembre » — sans publier l'année au 18 août 2026. En référence, la saison 2025-26 allait du 13 décembre au 18 avril, l'accès à l'ensemble du domaine France-Italie s'arrêtant le 12 avril. Nous mettrons à jour dès publication du millésime.",
+          "q": "Quand ouvre la saison 2026-27 ?"
+        },
+        {
+          "a": "Aucune gratuité n'est publiée sur les pages officielles consultées — ni remontées débutants, ni luge. Un forfait piéton-raquettes existait à partir de 19 € (saison 2025-26).",
+          "q": "Y a-t-il des remontées gratuites ?"
+        },
+        {
+          "a": "Elle porte le label Famille Plus, expose ses pistes plein sud et publie 45 % de vertes et bleues — avec la zone freeride encadrée du Mont Valaisan pour les skieurs aguerris.",
+          "q": "La station convient-elle aux familles ?"
+        }
+      ],
+      "hero": {
+        "badge": "Station · 1 850 m",
+        "lead": "La station franco-italienne de Haute-Tarentaise : par le col du Petit Saint-Bernard, l'Espace San Bernardo relie La Rosière à La Thuile — 156 km de pistes entre deux pays."
+      },
+      "hero_alt": "Patins blancs sur la patinoire de La Rosière, Haute-Tarentaise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D1090 depuis Bourg-Saint-Maurice, en lacets vers le col du Petit Saint-Bernard.",
+        "public_transport": "Gare SNCF de Bourg-Saint-Maurice, puis autocar vers La Rosière."
+      },
+      "meta_description": "La Rosière (1 850 m), la plus italienne des stations françaises : 156 km de l'Espace San Bernardo reliés à La Thuile par le Petit Saint-Bernard, label Famille Plus. Saison 26/27 annoncée dès le 12 décembre.",
+      "meta_title": "La Rosière · l'Espace San Bernardo, ski France-Italie",
+      "name": "La Rosière",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Altitude",
+          "v": "Station 1 850 m · domaine de 1 176 m à 2 800 m (Mont Valaisan)"
+        },
+        {
+          "k": "Domaine",
+          "v": "Espace San Bernardo : 156 km certifiés · 39 remontées France + Italie"
+        },
+        {
+          "k": "Saison 26/27",
+          "v": "« Dès le 12 décembre » — millésime non publié (2025-26 : 13 déc – 18 avril)"
+        },
+        {
+          "k": "Label",
+          "v": "Famille Plus"
+        },
+        {
+          "k": "Contact",
+          "v": "OT La Rosière · 705 route du Col du Petit St Bernard, Montvalezan · 04 79 06 80 51"
+        }
+      ],
+      "schema_amenities": [
+        "Domaine franco-italien",
+        "Zone freeride encadrée",
+        "Label Famille Plus"
+      ],
+      "when_to_visit": "<p>« On vous attend dès le 12 décembre », annonce la station — sans préciser l'année ; en référence, la saison 2025-26 courait du 13 décembre au 18 avril, l'ensemble du domaine France-Italie fermant le 12 avril. L'hiver venu, la zone freeride encadrée du Mont Valaisan et la patinoire complètent le ski ; l'été, randonnée, VTT, parapente, canyoning et un golf 9 trous prennent le relais.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Espace San Bernardo collega La Rosière a La Thuile tramite il passaggio Petit Saint-Bernard.",
+          "tag": "Francia a Italia",
+          "title": "Sciare in due paesi"
+        },
+        {
+          "description": "L'alto punto del dominio e la sua zona di freeride supervisionata.",
+          "tag": "Freeride",
+          "title": "Mont Valaisan a 2.800 m"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>La Rosière</strong>, a 1.850 m nel comune di Montvalezan, è 'il più italiano delle località francesi': 'Linked al resort italiano di <strong>La Thuile</strong> dal Col du Petit Saint-Bernard, La Rosière ti dà accesso ad una variegata area sciistica» — il <strong>Espace San Bernardo</strong>#<strong>156 km di piste certificate</strong>' e 39 ascensori (di cui 22 seggiovie) distribuiti tra la Francia e la Valle d'Aosta, da 1.176 m a Mont Valaisan (2.800 m). La ripartizione pubblicata — 45% verde e blu, 40% rosso, 15% nero — e il <strong>Famille Plus</strong> etichetta parla di una stazione di progressione, di fronte a sud pieno verso il massiccio Beaufortain.</p><p>Due trasparenze: a partire dal 18 agosto 2026 la stagione 2026-27 era <strong>non datato con un anno</strong> — la homepage annuncia «Ti aspettiamo dal 12 dicembre». Senza anno, la pagina di dominio citando ancora la stagione 2025-26 ('13 dicembre 2025 - 18 aprile 2026'); e <strong>nessuna offerta gratuita</strong> (ascensori, slittamento) è pubblicato sulle pagine consultate — così non affermiamo nessuno.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagato",
+        "best_season": null,
+        "commune": "Montvalezan",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Stazione sciistica",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski alpin",
+          "racchette",
+          "L'acqua"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Sì. che è l'identità di Espace San Bernardo: La Rosière e La Thuile (Valle di Aosta) sono collegati sopra il Col du Petit Saint-Bernard, per 156 km di piste certificate e 39 ascensori attraverso i due paesi.",
+          "q": "Puoi davvero sciare in Italia?"
+        },
+        {
+          "a": "Il resort annuncia «dal 12 dicembre» — senza pubblicare l'anno a partire dal 18 agosto 2026. Per riferimento, la stagione 2025-26 si è disputata dal 13 dicembre al 18 aprile, con l'accesso all'intero dominio Francia-Italia che termina il 12 aprile. Si aggiornerà non appena la stagione datata sarà pubblicata.",
+          "q": "Quando apre la stagione 2026-27?"
+        },
+        {
+          "a": "Nessuna offerta libera è pubblicata sulle pagine ufficiali consultate — né ascensori principianti né slittino. Un pass pedonale-snowshoe esisteva a partire da €19 (2025-26 stagione).",
+          "q": "Ci sono ascensori gratuiti?"
+        },
+        {
+          "a": "Detiene l'etichetta Famille Plus, si affaccia sulle sue piste a sud e pubblica il 45% di piste verdi e blu — con la zona di freeride supervisionata Mont Valaisan per gli sciatori esperti.",
+          "q": "Il resort si adatta alle famiglie?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · 1.850 m",
+        "lead": "Il resort franco-italiano di Haute-Tarentaise: sopra il passaggio Petit Saint-Bernard, il Espace San Bernardo collega La Rosière a La Thuile — 156 km di piste in due paesi."
+      },
+      "hero_alt": "Pattini bianchi sulla pista di ghiaccio La Rosière, Haute-Tarentaise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D1090 da Bourg-Saint-Maurice, forcine verso il passaggio Petit Saint-Bernard.",
+        "public_transport": "Stazione Bourg-Saint-Maurice SNCF, poi allenatore a La Rosière."
+      },
+      "meta_description": "La Rosière (1 850 m), il più italiano delle località francesi: i 156 km di Espace San Bernardo collegati a La Thuile sopra l'etichetta Petit Saint-Bernard, Famille Plus. 2026-27 stagione annunciata dal 12 dicembre.",
+      "meta_title": "La Rosière · Espace San Bernardo, Francia-Italia sci",
+      "name": "La Rosière",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Altitudine",
+          "v": "Resort 1 850 m · dominio da 1.176 m a 2.800 m (Mont Valaisan)"
+        },
+        {
+          "k": "Dominio",
+          "v": "Espace San Bernardo: 156 km certificati · 39 ascensori Francia + Italia"
+        },
+        {
+          "k": "Stagione 26/27",
+          "v": "«Dal 12 dicembre» anno inedito (2025-26: 13 dic – 18 aprile)"
+        },
+        {
+          "k": "Etichetta",
+          "v": "Famille Plus"
+        },
+        {
+          "k": "Contatto",
+          "v": "Ufficio turistico di La Rosière · 705 route du Col du Petit St Bernard, Montvalezan · +33 4 79 06 80 51"
+        }
+      ],
+      "schema_amenities": [
+        "Franco-Italiano dominio",
+        "Zona di freeride supervisionata",
+        "Etichetta Famille Plus"
+      ],
+      "when_to_visit": "<p>«Vi aspettiamo dal 12 dicembre», annuncia il resort — senza indicare l'anno; per riferimento, la stagione 2025-26 ha corso dal 13 dicembre al 18 aprile, il dominio Francia-Italia completo che chiude il 12 aprile. Vieni inverno, la zona di freeride Mont Valaisan supervisionata e la pista di ghiaccio completano lo sci; in estate, escursioni, mountain bike, parapendio, canyoning e un campo da golf a 9 buche prendono il sopravvento.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "De Espace San Bernardo verbindt La Rosière met La Thuile via de Petit Saint-Bernard-pas.",
+          "tag": "Frankrijk naar Italië",
+          "title": "Skiën in twee landen"
+        },
+        {
+          "description": "Hoog punt van het domein en de gecontroleerde freeride zone.",
+          "tag": "Freeride",
+          "title": "De Mont Valaisan op 2.800 m"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>La Rosière</strong>, op 1850 m in de gemeente Montvalezan, is \"de meeste Italiaanse van Franse resorts\": \"Gekoppeld aan het Italiaanse resort van <strong>La Thuile</strong> door de Col du Petit Saint-Bernard, La Rosière geeft u toegang tot een gevarieerd skigebied' de <strong>Espace San Bernardo</strong>, '<strong>156 km gecertificeerde ritten</strong>' en 39 liften (waaronder 22 stoeltjesliften) verspreid tussen Frankrijk en de Aostavallei, van 1.176 m tot de Mont Valaisan (2.800 m). De gepubliceerde uitsplitsing 45% groen en blauw, 40% rood, 15% zwart en de <strong>Famille Plus</strong> label spreken van een progressie resort, gericht op het volledige zuiden richting de Beaufortain massief.</p><p>Twee transparanten: Vanaf 18 augustus 2026 was het 2026-27 seizoen <strong>niet gedateerd met een jaar</strong> De homepage kondigt aan 'We wachten u vanaf 12 december.' zonder jaar, de domeinpagina nog steeds verwijzend naar het 2025-26 seizoen ('13 december 2025 tot 18 april 2026'); en <strong>geen gratis aanbod</strong> (beginnersliften, sleeën) wordt gepubliceerd op de geraadpleegde pagina's Dus we beweren van niet.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Betaald",
+        "best_season": null,
+        "commune": "Montvalezan",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Skigebied",
+        "winter_access": "open",
+        "winter_infra": [
+          "Skialpin",
+          "raquettes",
+          "luge"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Ja. dat is de identiteit van de Espace San Bernardo: La Rosière en La Thuile (Aosta Valley) zijn verbonden over de Col du Petit Saint-Bernard, voor 156 km gecertificeerde pistes en 39 liften in de twee landen.",
+          "q": "Kun je echt naar Italië skiën?"
+        },
+        {
+          "a": "Het resort kondigt 'van 12 december' aan zonder het jaar te publiceren vanaf 18 augustus 2026. For reference, the 2025-26 season ran 13 December to 18 April, access to the full France-Italy domain ending 12 April. We zullen updaten zodra het gedateerde seizoen is gepubliceerd.",
+          "q": "Wanneer opent het seizoen 2026-27?"
+        },
+        {
+          "a": "Er wordt geen gratis aanbieding gepubliceerd op de officiële geraadpleegde pagina's. Geen beginnersliften of sleeën. Vanaf het seizoen van €19 (2025-26) bestond een pas voor voetgangerssneeuwschoenen.",
+          "q": "Zijn er gratis liften?"
+        },
+        {
+          "a": "Het heeft het Famille Plus label, kijkt uit op de hellingen in het zuiden en publiceert 45% groene en blauwe runs. met de gecontroleerde Mont Valaisan freeride zone voor ervaren skiërs.",
+          "q": "Is het resort geschikt voor gezinnen?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · 1 850 m",
+        "lead": "Het Frans-Italiaanse resort Haute-Tarentaise: over de Petit Saint-Bernard-pas, de Espace San Bernardo links La Rosière naar La Thuile 156 km loopt in twee landen."
+      },
+      "hero_alt": "Witte schaatsen op de La Rosière ijsbaan, Haute-Tarentaise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D1090 van Bourg-Saint-Maurice, haarspelden richting de Petit Saint-Bernard-pas.",
+        "public_transport": "Bourg-Saint-Maurice SNCF station, dan coach naar La Rosière."
+      },
+      "meta_description": "La Rosière (1 850 m), de meest Italiaanse van de Franse resorts: de 156 km van Espace San Bernardo gekoppeld aan La Thuile via het Petit Saint-Bernard, Famille Plus label. 2026-27 seizoen aangekondigd vanaf 12 december.",
+      "meta_title": "La Rosière · Espace San Bernardo, Frankrijk-Italië skiën",
+      "name": "La Rosière",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Hoogte",
+          "v": "Resort 1.850 m · domein van 1.176 m tot 2.800 m (Mont Valaisan)"
+        },
+        {
+          "k": "Domein",
+          "v": "Espace San Bernardo: 156 gecertificeerde km · 39 liften Frankrijk + Italië"
+        },
+        {
+          "k": "Seizoen 26/27",
+          "v": "Vanaf 12 december jaar niet gepubliceerd (2025-26: 13 december 18 april)"
+        },
+        {
+          "k": "Label",
+          "v": "Famille Plus"
+        },
+        {
+          "k": "Contactpersoon",
+          "v": "La Rosière VVV · 705 route du Col du Petit St Bernard, Montvalezan · +33 4 79 06 80 51"
+        }
+      ],
+      "schema_amenities": [
+        "Frans-Italiaans domein",
+        "Gecontroleerde freeride-zone",
+        "Famille Plus-label"
+      ],
+      "when_to_visit": "<p>'We wachten u vanaf 12 december', het resort kondigt aan zonder vermelding van het jaar; Het seizoen 2025-26 liep van 13 december tot 18 april, het volledige domein Frankrijk-Italië sluit 12 april. In de winter, de gecontroleerde Mont Valaisan freeride zone en de ijsbaan rond het skiën; in de zomer, wandelen, mountainbiken, paragliden, canyoning en een 9-holes golfbaan nemen het over.</p>"
+    }
+  },
+  "latitude": 45.618937,
+  "longitude": 6.85608,
+  "official_site_url": "https://www.larosiere.net/ski-glisse/domaine-skiable-espace-san-bernado/",
+  "partners": [],
+  "postal_code": "73700",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-18, FR pages only (larosiere.net). Station à 1 850 m sur la commune de Montvalezan, Haute-Tarentaise. Espace San Bernardo : « 156 km de pistes certifiées », 39 remontées (dont 22 télésièges) France + Italie, 45 % vertes/bleues, 40 % rouges, 15 % noires, de 1 176 m à 2 800 m (Mont Valaisan). « Reliée à la station italienne de La Thuile par le Col du Petit Saint-Bernard » ; « la plus italienne des stations françaises ». Saison 26/27 : NON publiée avec millésime — la page d'accueil affiche « On vous attend dès le 12 décembre. » sans année ; référence 2025-26 : « du 13 décembre 2025 au 18 avril 2026 (jusqu'au 12 avril pour l'ensemble du domaine France-Italie) » — contradiction/écart reporté, best_season laissé sur le 12 décembre sans année de fin. Aucune gratuité officielle trouvée sur les pages FR → rien d'affirmé. Label Famille Plus. Forfait piéton-raquettes à partir de 19 € (2025-26). Coordonnées IGN (centroïde Montvalezan).",
+  "schema_org": {
+    "amenities": [],
+    "is_free": false,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "station-de-la-rosiere",
+  "sources": [
+    "https://www.larosiere.net/ski-glisse/domaine-skiable-espace-san-bernado/",
+    "https://www.larosiere.net/",
+    "https://www.larosiere.net/forfaits-de-ski/"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "SAISON 26/27 — millésime non publié : la page d'accueil annonce « dès le 12 décembre » sans année ; les dates 2025-26 sont citées en référence. À mettre à jour dès publication.",
+    "GRATUITES — aucune offre gratuite (remontées débutants, luge) publiée sur les pages FR consultées ; rien d'affirmé.",
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published; kept null."
+  ]
+}

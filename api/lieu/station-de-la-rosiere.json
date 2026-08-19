@@ -1,0 +1,35 @@
+{
+  "name": "La Rosière",
+  "commune": "Montvalezan",
+  "gps": {
+    "lat": 45.618937,
+    "lng": 6.85608
+  },
+  "type": "station",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": false,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": null,
+  "winter": {
+    "access": "open",
+    "infrastructure": [
+      "ski_alpin",
+      "raquettes",
+      "luge"
+    ],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
+  "official_url": "https://www.larosiere.net/ski-glisse/domaine-skiable-espace-san-bernado/",
+  "last_verified": null
+}

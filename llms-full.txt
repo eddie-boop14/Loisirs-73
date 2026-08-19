@@ -1,9 +1,9 @@
 # Loisirs 73 — Full content dump
 
-Generated: 2026-08-18
-Total lieux: 113
+Generated: 2026-08-19
+Total lieux: 129
 
-This file concatenates the FR facet markdown of all 113 leisure sites in Savoie. Each section is a standalone markdown document with YAML frontmatter and the fixed facet heading canon. Sections are separated by `===` rulers.
+This file concatenates the FR facet markdown of all 129 leisure sites in Savoie. Each section is a standalone markdown document with YAML frontmatter and the fixed facet heading canon. Sections are separated by `===` rulers.
 
 For programmatic access, fetch individual files at https://loisirs73.fr/content/{slug}.md (FR), https://loisirs73.fr/content/en/{slug}.md (EN), or https://loisirs73.fr/api/lieu/{slug}.json (typed JSON).
 
@@ -6055,6 +6055,76 @@ https://www.redoutemarietherese.fr/
 ================================================================================
 
 ---
+slug: savoie-grand-revard
+name: "Savoie Grand Revard"
+category: station
+category_label: "Station"
+commune: "Les Déserts"
+postal_code: "73230"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.645381
+longitude: 5.983047
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/savoie-grand-revard
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/savoie-grand-revard.json
+photo_url: /img/generique/generique-chiens-de-traineau-2.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-18
+source: loisirs73.fr
+---
+
+# Savoie Grand Revard
+
+## Faits
+
+- Commune: Les Déserts, Savoie (73230)
+- GPS: 45.645381, 5.983047
+- Catégorie: station
+- Type: Domaine nordique
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Non renseigné
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Non renseigné
+- Fenêtre d'accès hiver: Ouvert (accès déneigé)
+- Infrastructure hiver: Ski nordique · Ski de fond · Ski alpin · Raquettes · Chiens de traîneau · Luge · Ski de rando
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
+
+## Source officielle
+
+https://www.chamberymontagnes.com/savoiegrandrevard/
+
+================================================================================
+
+---
 slug: sentier-artistique-hautecour
 name: "Sentier artistique de Hautecour"
 category: sentier
@@ -6261,6 +6331,1056 @@ Non renseigné
 ## Source officielle
 
 https://fr.wikipedia.org/wiki/Mont%C3%A9e_de_Bisanne
+
+================================================================================
+
+---
+slug: station-d-aussois
+name: "Aussois"
+category: station
+category_label: "Station"
+commune: "Aussois"
+postal_code: "73500"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.229546
+longitude: 6.74217
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/station-d-aussois
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/station-d-aussois.json
+photo_url: /img/generique/generique-chiens-de-traineau-1.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-18
+source: loisirs73.fr
+---
+
+# Aussois
+
+## Faits
+
+- Commune: Aussois, Savoie (73500)
+- GPS: 45.229546, 6.74217
+- Catégorie: station
+- Type: Station de ski
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Non renseigné
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+12 décembre 2026 – 9 avril 2027
+- Fenêtre d'accès hiver: Ouvert (accès déneigé)
+- Infrastructure hiver: Ski alpin · Ski de fond · Raquettes · Chiens de traîneau · Luge
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
+
+## Source officielle
+
+https://www.aussois.com/hiver/domaine-skiable/
+
+================================================================================
+
+---
+slug: station-de-courchevel
+name: "Courchevel"
+category: station
+category_label: "Station"
+commune: "Courchevel"
+postal_code: "73120"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.410566
+longitude: 6.633669
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/station-de-courchevel
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/station-de-courchevel.json
+photo_url: /img/generique/generique-ski-piste.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-18
+source: loisirs73.fr
+---
+
+# Courchevel
+
+## Faits
+
+- Commune: Courchevel, Savoie (73120)
+- GPS: 45.410566, 6.633669
+- Catégorie: station
+- Type: Station de ski
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Non renseigné
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+4 décembre 2026 – 18 avril 2027
+- Fenêtre d'accès hiver: Ouvert (accès déneigé)
+- Infrastructure hiver: Ski alpin · Ski de fond · Luge · Raquettes · Chiens de traîneau · Ski de rando
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
+
+## Source officielle
+
+https://www.courchevel.com/fr/le-ski-alpin/
+
+================================================================================
+
+---
+slug: station-de-la-plagne
+name: "La Plagne"
+category: station
+category_label: "Station"
+commune: "La Plagne Tarentaise"
+postal_code: "73210"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.506069
+longitude: 6.675518
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/station-de-la-plagne
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/station-de-la-plagne.json
+photo_url: /img/generique/generique-foret-neige-aerien.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-18
+source: loisirs73.fr
+---
+
+# La Plagne
+
+## Faits
+
+- Commune: La Plagne Tarentaise, Savoie (73210)
+- GPS: 45.506069, 6.675518
+- Catégorie: station
+- Type: Station de ski
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Non renseigné
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+12 décembre 2026 – 24 avril 2027
+- Fenêtre d'accès hiver: Ouvert (accès déneigé)
+- Infrastructure hiver: Ski alpin · Ski de fond · Luge · Raquettes · Chiens de traîneau · Ski de rando
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
+
+## Source officielle
+
+https://www.la-plagne.com/decouvrir-la-plagne/domaine-skiable
+
+================================================================================
+
+---
+slug: station-de-la-rosiere
+name: "La Rosière"
+category: station
+category_label: "Station"
+commune: "Montvalezan"
+postal_code: "73700"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.618937
+longitude: 6.85608
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/station-de-la-rosiere
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/station-de-la-rosiere.json
+photo_url: /img/generique/generique-patinoire-patins-blancs.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-18
+source: loisirs73.fr
+---
+
+# La Rosière
+
+## Faits
+
+- Commune: Montvalezan, Savoie (73700)
+- GPS: 45.618937, 6.85608
+- Catégorie: station
+- Type: Station de ski
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Non renseigné
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Non renseigné
+- Fenêtre d'accès hiver: Ouvert (accès déneigé)
+- Infrastructure hiver: Ski alpin · Raquettes · Luge
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
+
+## Source officielle
+
+https://www.larosiere.net/ski-glisse/domaine-skiable-espace-san-bernado/
+
+================================================================================
+
+---
+slug: station-de-meribel
+name: "Méribel"
+category: station
+category_label: "Station"
+commune: "Les Allues"
+postal_code: "73550"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.397522
+longitude: 6.564358
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/station-de-meribel
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/station-de-meribel.json
+photo_url: /img/generique/generique-ski-descente.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-18
+source: loisirs73.fr
+---
+
+# Méribel
+
+## Faits
+
+- Commune: Les Allues, Savoie (73550)
+- GPS: 45.397522, 6.564358
+- Catégorie: station
+- Type: Station de ski
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Non renseigné
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+5 décembre 2026 – 18 avril 2027
+- Fenêtre d'accès hiver: Ouvert (accès déneigé)
+- Infrastructure hiver: Ski alpin · Ski de fond · Luge · Raquettes
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
+
+## Source officielle
+
+https://www.meribel.net/domaine-skiable/
+
+================================================================================
+
+---
+slug: station-de-pralognan-la-vanoise
+name: "Pralognan-la-Vanoise"
+category: station
+category_label: "Station"
+commune: "Pralognan-la-Vanoise"
+postal_code: "73710"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.372015
+longitude: 6.715221
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/station-de-pralognan-la-vanoise
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/station-de-pralognan-la-vanoise.json
+photo_url: /img/generique/generique-patinoire-hockey.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-18
+source: loisirs73.fr
+---
+
+# Pralognan-la-Vanoise
+
+## Faits
+
+- Commune: Pralognan-la-Vanoise, Savoie (73710)
+- GPS: 45.372015, 6.715221
+- Catégorie: station
+- Type: Station de ski
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Non renseigné
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Non renseigné
+- Fenêtre d'accès hiver: Ouvert (accès déneigé)
+- Infrastructure hiver: Ski alpin · Ski de fond · Raquettes · Chiens de traîneau · Ski de rando
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
+
+## Source officielle
+
+https://www.pralognan.com/activites/activites-hiver/ski-alpin/
+
+================================================================================
+
+---
+slug: station-de-tignes
+name: "Tignes"
+category: station
+category_label: "Station"
+commune: "Tignes"
+postal_code: "73320"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.468338
+longitude: 6.906293
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/station-de-tignes
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/station-de-tignes.json
+photo_url: /img/generique/generique-telesiege.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-18
+source: loisirs73.fr
+---
+
+# Tignes
+
+## Faits
+
+- Commune: Tignes, Savoie (73320)
+- GPS: 45.468338, 6.906293
+- Catégorie: station
+- Type: Station de ski
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Non renseigné
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+21 novembre 2026 – 2 mai 2027
+- Fenêtre d'accès hiver: Ouvert (accès déneigé)
+- Infrastructure hiver: Ski alpin · Luge · Raquettes · Ski de rando
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
+
+## Source officielle
+
+https://www.tignes.net/ski/domaine-skiable
+
+================================================================================
+
+---
+slug: station-de-val-cenis
+name: "Val Cenis"
+category: station
+category_label: "Station"
+commune: "Val-Cenis"
+postal_code: "73480"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.284131
+longitude: 6.873613
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/station-de-val-cenis
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/station-de-val-cenis.json
+photo_url: /img/generique/generique-ski-piste.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-18
+source: loisirs73.fr
+---
+
+# Val Cenis
+
+## Faits
+
+- Commune: Val-Cenis, Savoie (73480)
+- GPS: 45.284131, 6.873613
+- Catégorie: station
+- Type: Station de ski
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Non renseigné
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+12 ou 13 décembre 2026 – 16 avril 2027 (selon la page)
+- Fenêtre d'accès hiver: Ouvert (accès déneigé)
+- Infrastructure hiver: Ski alpin · Ski de fond · Luge · Raquettes
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
+
+## Source officielle
+
+https://www.valcenis.com/ski-et-glisse/le-domaine-alpin-de-val-cenis/
+
+================================================================================
+
+---
+slug: station-de-val-d-isere
+name: "Val d'Isère"
+category: station
+category_label: "Station"
+commune: "Val-d'Isère"
+postal_code: "73150"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.450377
+longitude: 6.978164
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/station-de-val-d-isere
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/station-de-val-d-isere.json
+photo_url: /img/generique/generique-snowboard-saut.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-18
+source: loisirs73.fr
+---
+
+# Val d'Isère
+
+## Faits
+
+- Commune: Val-d'Isère, Savoie (73150)
+- GPS: 45.450377, 6.978164
+- Catégorie: station
+- Type: Station de ski
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Non renseigné
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+28 novembre 2026 – 2 mai 2027
+- Fenêtre d'accès hiver: Ouvert (accès déneigé)
+- Infrastructure hiver: Ski alpin · Ski de fond · Ski de rando · Raquettes · Luge
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
+
+## Source officielle
+
+https://www.valdisere.com/val-disere-en-hiver/ski-et-glisse/domaine-skiable-alpes-savoie/
+
+================================================================================
+
+---
+slug: station-de-val-thorens
+name: "Val Thorens"
+category: station
+category_label: "Station"
+commune: "Les Belleville"
+postal_code: "73440"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.297213
+longitude: 6.57718
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/station-de-val-thorens
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/station-de-val-thorens.json
+photo_url: /img/generique/generique-snowboard-poudreuse.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-18
+source: loisirs73.fr
+---
+
+# Val Thorens
+
+## Faits
+
+- Commune: Les Belleville, Savoie (73440)
+- GPS: 45.297213, 6.57718
+- Catégorie: station
+- Type: Station de ski
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Non renseigné
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+21 novembre 2026 – 2 mai 2027
+- Fenêtre d'accès hiver: Ouvert (accès déneigé)
+- Infrastructure hiver: Ski alpin · Luge · Raquettes · Chiens de traîneau
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
+
+## Source officielle
+
+https://www.les3vallees.com/fr/station/val-thorens
+
+================================================================================
+
+---
+slug: station-de-valloire
+name: "Valloire"
+category: station
+category_label: "Station"
+commune: "Valloire"
+postal_code: "73450"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.165666
+longitude: 6.429148
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/station-de-valloire
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/station-de-valloire.json
+photo_url: /img/generique/generique-patinoire-skater.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-18
+source: loisirs73.fr
+---
+
+# Valloire
+
+## Faits
+
+- Commune: Valloire, Savoie (73450)
+- GPS: 45.165666, 6.429148
+- Catégorie: station
+- Type: Station de ski
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Non renseigné
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+19 décembre 2026 – 9 avril 2027
+- Fenêtre d'accès hiver: Ouvert (accès déneigé)
+- Infrastructure hiver: Ski alpin · Ski de fond
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
+
+## Source officielle
+
+https://www.valloire.net/profiter-de-valloire/le-ski/
+
+================================================================================
+
+---
+slug: station-de-valmorel
+name: "Valmorel"
+category: station
+category_label: "Station"
+commune: "Les Avanchers-Valmorel"
+postal_code: "73260"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.461698
+longitude: 6.442483
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/station-de-valmorel
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/station-de-valmorel.json
+photo_url: /img/generique/generique-foret-enneigee-crepuscule.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-18
+source: loisirs73.fr
+---
+
+# Valmorel
+
+## Faits
+
+- Commune: Les Avanchers-Valmorel, Savoie (73260)
+- GPS: 45.461698, 6.442483
+- Catégorie: station
+- Type: Station de ski
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Non renseigné
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+18 décembre 2026 – 10 avril 2027
+- Fenêtre d'accès hiver: Ouvert (accès déneigé)
+- Infrastructure hiver: Ski alpin · Ski de fond · Luge · Raquettes · Chiens de traîneau · Ski de rando
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
+
+## Source officielle
+
+https://www.valmorel.com/activites-hiver/ski-glisse/domaine-skiable/
+
+================================================================================
+
+---
+slug: station-des-arcs
+name: "Les Arcs"
+category: station
+category_label: "Station"
+commune: "Bourg-Saint-Maurice"
+postal_code: "73700"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.573264
+longitude: 6.780428
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/station-des-arcs
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/station-des-arcs.json
+photo_url: /img/generique/generique-foret-enneigee.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-18
+source: loisirs73.fr
+---
+
+# Les Arcs
+
+## Faits
+
+- Commune: Bourg-Saint-Maurice, Savoie (73700)
+- GPS: 45.573264, 6.780428
+- Catégorie: station
+- Type: Station de ski
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Non renseigné
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+12 décembre 2026 – 17 avril 2027
+- Fenêtre d'accès hiver: Ouvert (accès déneigé)
+- Infrastructure hiver: Ski alpin · Ski de fond · Ski de rando · Raquettes · Chiens de traîneau · Luge
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
+
+## Source officielle
+
+https://www.lesarcs.com/domaine-skiable.html
+
+================================================================================
+
+---
+slug: station-des-menuires
+name: "Les Menuires"
+category: station
+category_label: "Station"
+commune: "Les Belleville"
+postal_code: "73440"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.327393
+longitude: 6.53682
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/station-des-menuires
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/station-des-menuires.json
+photo_url: /img/generique/generique-ski-freestyle.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-18
+source: loisirs73.fr
+---
+
+# Les Menuires
+
+## Faits
+
+- Commune: Les Belleville, Savoie (73440)
+- GPS: 45.327393, 6.53682
+- Catégorie: station
+- Type: Station de ski
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Non renseigné
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+5 décembre 2026 – 18 avril 2027
+- Fenêtre d'accès hiver: Ouvert (accès déneigé)
+- Infrastructure hiver: Ski alpin · Luge · Raquettes
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
+
+## Source officielle
+
+https://lesmenuires.com/fr/domaine-skiable
+
+================================================================================
+
+---
+slug: station-des-saisies
+name: "Les Saisies"
+category: station
+category_label: "Station"
+commune: "Hauteluce"
+postal_code: "73620"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.744688
+longitude: 6.561016
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/station-des-saisies
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/station-des-saisies.json
+photo_url: /img/generique/generique-sentier-hiver-neige.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-18
+source: loisirs73.fr
+---
+
+# Les Saisies
+
+## Faits
+
+- Commune: Hauteluce, Savoie (73620)
+- GPS: 45.744688, 6.561016
+- Catégorie: station
+- Type: Station de ski
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Non renseigné
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+12 décembre 2026 – 10 avril 2027
+- Fenêtre d'accès hiver: Ouvert (accès déneigé)
+- Infrastructure hiver: Ski alpin · Ski de fond · Luge · Raquettes · Chiens de traîneau
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
+
+## Source officielle
+
+https://www.lessaisies.com/ski-alpin-ski-nordique-grand-domaine-altitude.html
 
 ================================================================================
 

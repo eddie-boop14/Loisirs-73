@@ -1,0 +1,645 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-18",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "station",
+  "commune": "Les Allues",
+  "date_modified_human": "18 août 2026",
+  "date_published_human": "18 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-18",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-ski-descente.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Die Doron-Strecke und der gesicherte Altiport-Bereich sind frei zugänglich.",
+          "tag": "frei",
+          "title": "Der kostenlose Doron Schlittenlauf"
+        },
+        {
+          "description": "470 m von Fall und 28 Kurven von Tougnète — Méribels thematischer Schlittenlauf.",
+          "tag": "3,4 km",
+          "title": "Mission Black Forest"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Méribel</strong>, in der Gemeinde Les Allues, inszeniert seine Dörfer \"von 1.100 m bis 1.750 m\" — Les Allues, Méribel Village, Méribel Centre — am <strong>Herzstück des 3 Vallées</strong> und ihre \"600 km Läufe\". Die eigene Domain erstreckt sich über 422 Hektar auf \"150 km Läufe\", mit \"50% grünen und blauen Läufen\" und 85% der Domain über 1.800 m. Das Resort hält die <strong>Flocon Vert</strong> Zertifizierung.</p><p>Das wahre Schnäppchen ist die veröffentlichte Liste der freien Dinge: \"Wenn Ihre Kinder unter 5 Jahre alt sind, ist ihr Skipass kostenlos!\" - und für die 75-und-over auch; das <strong>freier Schlittenlauf Doron</strong> und der gesicherte Schlittenbereich Altiport; die \"freien Shuttles, die bei Tag und Abend verkehren\"; die Parc Olympique-Eisbahn frei unter 5. Auf der Paid-Thrill-Seite, <strong>Mission Black Forest</strong>: '3,4 km Schneestrecke, 470 m Tropfen und 28 Kurven' von der Spitze der Tougnète Gondel.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Bezahlt",
+        "best_season": "5. Dezember 2026 – 18. April 2027",
+        "commune": "Les Allues",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Skigebiet",
+        "winter_access": "open",
+        "winter_infra": [
+          "Ski alpin",
+          "ski fond",
+          "Lastwagen",
+          "Raquetten"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Der Pass für unter-5s und die 75-und-über; die Schlittenlaufbahn Doron und der Schlittenbereich Altiport; die Shuttles bei Tag und Abend; die Eisbahn für unter 5 Personen (5 € für Erwachsene).",
+          "q": "Was ist kostenlos in Méribel?"
+        },
+        {
+          "a": "5. Dezember 2026 bis 18. April 2027 (Skigebietsseite + les3vallees.com). Anmerkung: eine Seite der gleichen Website zeigte immer noch die 2025-26 Daten am 18. August — Wir zeigen die Lücke.",
+          "q": "Wann beginnt die Saison 2026-27?"
+        },
+        {
+          "a": "Méribels großer Schneeschlittenlauf: '3,4 km Strecke, 470 m Drop und 28 Kurven', von der Spitze der Tougnète Gondel. Bezahlt — Die Bereiche Doron und Altiport bleiben die freien Optionen.",
+          "q": "Was ist Mission Black Forest?"
+        },
+        {
+          "a": "\"50% grün und blau läuft\", ein MINI PASS Initiation Pass, Schneegärten - und die zentrale 3 Vallées-Position, um danach voranzukommen.",
+          "q": "Passt die Domain für Anfänger?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · Herz des 3 Vallées",
+        "lead": "Im geografischen Zentrum des 3 Vallées, Chalet-Dörfer inszeniert von 1.100 bis 1.750 m, 150 km Pisten die Hälfte von ihnen grün-blau — und eine echte Liste kostenloser Dinge, vom Schlittenlauf Doron bis zu den abendlichen Shuttles."
+      },
+      "hero_alt": "Skifahrer beim Méribel, Herzstück des 3 Vallées",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D90 von Moûtiers (A430) nach Les Allues und dann Méribel.",
+        "public_transport": "Moûtiers-Salins SNCF Station, dann Trainer."
+      },
+      "meta_description": "Méribel: Dörfer von 1.100 bis 1.750 m im Herzen des 3 Vallées, 150 km Pisten (50% grün-blau), Freipass unter 5 und 75+, freier Doron Schlittenlauf. Saison 2026-27: 5. Dezember bis 18. April.",
+      "meta_title": "Méribel · Herzstück des 3 Vallées, freier Doron Schlitten",
+      "name": "Méribel",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Dörfer",
+          "v": "Von 1.100 m (Les Allues) bis 1.750 m; Zentrum auf 1.450 m"
+        },
+        {
+          "k": "Domain",
+          "v": "150 km eigene (422 ha, 50% grün-blau) · Herz des 3 Vallées (600 km)"
+        },
+        {
+          "k": "Saison 26/27",
+          "v": "5. Dezember 2026 – 18. April 2027"
+        },
+        {
+          "k": "frei",
+          "v": "Passieren Sie unter 5 und 75+ · Doron und Altiport Schlitten · Tag / Abend Shuttles · Bahn unter 5"
+        },
+        {
+          "k": "Etikett",
+          "v": "Flocon Vert"
+        },
+        {
+          "k": "Kontakt",
+          "v": "Méribel Tourismus · +33 4 79 08 60 01"
+        }
+      ],
+      "schema_amenities": [
+        "Freie Shuttles",
+        "Doron Schlittenlauf",
+        "Parc Olympique"
+      ],
+      "when_to_visit": "<p>Die Saison 2026-27 wird veröffentlicht: <strong>5. Dezember 2026 bis 18. April 2027</strong> — obwohl eine Seite der gleichen Website noch angezeigt, am 18. August, die 2025-26 Daten (6. Dezember – 17. April: Wir zitieren beide, wobei die Skigebietsseite maßgeblich ist. Im Sommer eröffnet das Resort \"vom 4. Juli bis 29. August 2026\" mit dem Bike Park, einem 18-Loch-Golfplatz und über 29 Aktivitäten.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "The Doron track and the secured Altiport area, freely accessible.",
+          "tag": "Free",
+          "title": "The free Doron sledge run"
+        },
+        {
+          "description": "470 m of drop and 28 bends from Tougnète — Méribel's themed sledge run.",
+          "tag": "3.4 km",
+          "title": "Mission Black Forest"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Méribel</strong>, in the commune of Les Allues, stages its villages 'from 1,100 m to 1,750 m' — Les Allues, Méribel Village, Méribel Centre — at the <strong>heart of the 3 Vallées</strong> and their '600 km of runs'. Its own domain lines up '150 km of runs' over 422 hectares, with '50% green and blue runs' and 85% of the domain above 1,800 m. The resort holds the <strong>Flocon Vert</strong> certification.</p><p>The real bargain is the published list of free things: 'if your children are under 5, their ski pass is free!' — and for the 75-and-over too; the <strong>free Doron sledge run</strong> and the secured Altiport sledging area; the 'free shuttles running by day and by evening'; the Parc Olympique ice rink free under 5. On the paid-thrills side, <strong>Mission Black Forest</strong>: '3.4 km of snow track, 470 m of drop and 28 bends' from the top of the Tougnète gondola.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Paid",
+        "best_season": "5 December 2026 – 18 April 2027",
+        "commune": "Les Allues",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Ski resort",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin",
+          "ski_fond",
+          "luge",
+          "raquettes"
+        ]
+      },
+      "faq": [
+        {
+          "a": "The pass for under-5s and the 75-and-over; the Doron sledge run and the Altiport sledging area; the shuttles by day and evening; the ice rink for under-5s (€5 adult).",
+          "q": "What is free in Méribel?"
+        },
+        {
+          "a": "5 December 2026 to 18 April 2027 (ski-area page + les3vallees.com). Note: one page of the same site still showed the 2025-26 dates on 18 August — we flag the gap.",
+          "q": "When does the 2026-27 season open?"
+        },
+        {
+          "a": "Méribel's big snow sledge run: '3.4 km of track, 470 m of drop and 28 bends', from the top of the Tougnète gondola. Paid — the Doron and Altiport areas remain the free options.",
+          "q": "What is Mission Black Forest?"
+        },
+        {
+          "a": "'50% green and blue runs', a MINI PASS initiation pass, snow gardens — and the central 3 Vallées position to progress afterwards.",
+          "q": "Does the domain suit beginners?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · Heart of the 3 Vallées",
+        "lead": "At the geographic centre of the 3 Vallées, chalet villages staged from 1,100 to 1,750 m, 150 km of runs half of them green-and-blue — and a genuine list of free things, from the Doron sledge run to the evening shuttles."
+      },
+      "hero_alt": "Skier descending at Méribel, heart of the 3 Vallées",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D90 from Moûtiers (A430) to Les Allues then Méribel.",
+        "public_transport": "Moûtiers-Salins SNCF station, then coach."
+      },
+      "meta_description": "Méribel: villages from 1,100 to 1,750 m at the heart of the 3 Vallées, 150 km of runs (50% green-blue), free pass under 5 and 75+, free Doron sledge run. 2026-27 season: 5 December to 18 April.",
+      "meta_title": "Méribel · heart of the 3 Vallées, free Doron sledging",
+      "name": "Méribel",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Villages",
+          "v": "From 1,100 m (Les Allues) to 1,750 m; Centre at 1,450 m"
+        },
+        {
+          "k": "Domain",
+          "v": "150 km own (422 ha, 50% green-blue) · heart of the 3 Vallées (600 km)"
+        },
+        {
+          "k": "Season 26/27",
+          "v": "5 December 2026 – 18 April 2027"
+        },
+        {
+          "k": "Free",
+          "v": "Pass under 5 and 75+ · Doron and Altiport sledging · day/evening shuttles · rink under 5"
+        },
+        {
+          "k": "Label",
+          "v": "Flocon Vert"
+        },
+        {
+          "k": "Contact",
+          "v": "Méribel Tourisme · +33 4 79 08 60 01"
+        }
+      ],
+      "schema_amenities": [
+        "Free shuttles",
+        "Doron sledge run",
+        "Parc Olympique"
+      ],
+      "when_to_visit": "<p>The 2026-27 season is published: <strong>5 December 2026 to 18 April 2027</strong> — though one page of the same site still displayed, on 18 August, the 2025-26 dates (6 December – 17 April): we quote both, the ski-area page being authoritative. In summer the resort opens 'from 4 July to 29 August 2026' with the Bike Park, an 18-hole golf course and over 29 activities.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "La pista Doron y el área Altiport asegurada, accesible libremente.",
+          "tag": "Gratis",
+          "title": "La prueba gratuita Doron"
+        },
+        {
+          "description": "470 m de gota y 28 curvas de Tougnète — Méribel es una carrera temática.",
+          "tag": "3,4 km",
+          "title": "Mission Black Forest"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Méribel</strong>, en la comuna de Les Allues, pasa sus aldeas de 1.100 m a 1.750 m' — Les Allues, Méribel Village, Méribel Centre — en el <strong>corazón de la 3 Vallées</strong> y sus '600 km de carreras'. Sus propias líneas de dominio suben '150 km de pistas' sobre 422 hectáreas, con '50% de carreras verdes y azules' y 85% del dominio sobre 1.800 m. El complejo tiene <strong>Flocon Vert</strong> certificación.</p><p>La verdadera ganga es la lista publicada de cosas libres: Si tus hijos tienen menos de 5 años, ¡su pase de esquí es gratis! y también para los 75 años; el <strong>free Doron sledge run</strong> y la zona de trineo Altiport asegurada; los \"transbordadores gratuitos que funcionan día y noche\"; la pista de hielo Parc Olympique libre bajo 5. En el lado de los taladros pagados, <strong>Mission Black Forest</strong>: '3.4 km de pista de nieve, 470 m de gota y 28 curvas' de la parte superior de la góndola Tougnète.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagado",
+        "best_season": "5 de diciembre 2026 – 18 abril 2027",
+        "commune": "Les Allues",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Escuela de esquí",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski alpin",
+          "ski fond",
+          "Luge",
+          "raquetas"
+        ]
+      },
+      "faq": [
+        {
+          "a": "El pase para menores de 5 años y el 75-y-over; la carrera de trineo Doron y el área de trineo Altiport; los transbordadores por día y noche; la pista de hielo para menores de 5 años (€5 adultos).",
+          "q": "¿Qué es gratis en Méribel?"
+        },
+        {
+          "a": "5 de diciembre de 2026 a 18 de abril de 2027 (página de esquí + les3vallees.com). Nota: una página del mismo sitio mostró las fechas 2025-26 el 18 de agosto — marcamos la brecha.",
+          "q": "¿Cuándo se abre la temporada 2026-27?"
+        },
+        {
+          "a": "Méribel de nieve grande corren: '3.4 km de pista, 470 m de gota y 28 curvas', desde la parte superior de la góndola Tougnète. Pagado las áreas Doron y Altiport siguen siendo las opciones gratuitas.",
+          "q": "¿Qué es Mission Black Forest?"
+        },
+        {
+          "a": "'50% de carreras verdes y azules', un pase de iniciación MINI PASS, jardines de nieve y la posición central de 3 Vallées para avanzar después.",
+          "q": "¿El dominio se adapta a los principiantes?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · Corazón del 3 Vallées",
+        "lead": "En el centro geográfico de la 3 Vallées, las aldeas de chalets se realizaron de 1.100 a 1.750 m, a 150 km de la mitad de ellas verdes y azules — y una auténtica lista de cosas gratis, desde el sledge Doron correr hasta los transbordadores de la noche."
+      },
+      "hero_alt": "Skier descendiendo en Méribel, corazón del 3 Vallées",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D90 de Moûtiers (A430) a Les Allues y Méribel.",
+        "public_transport": "Estación Moûtiers-Salins SNCF, luego entrenador."
+      },
+      "meta_description": "Méribel: aldeas de 1.100 a 1.750 m en el corazón de la 3 Vallées, 150 km de carreras (50% verde-azul), pase libre bajo 5 y 75+, libre Doron sledge run. 2026-27 temporada: 5 de diciembre a 18 de abril.",
+      "meta_title": "Méribel · corazón del 3 Vallées, trineo Doron gratis",
+      "name": "Méribel",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Villages",
+          "v": "De 1.100 m (Les Allues) a 1.750 m; Centro a 1.450 m"
+        },
+        {
+          "k": "Dominio",
+          "v": "150 km de propiedad (422 ha, 50% verde-azul) · corazón de la 3 Vallées (600 km)"
+        },
+        {
+          "k": "Temporada 26/27",
+          "v": "5 de diciembre 2026 – 18 abril 2027"
+        },
+        {
+          "k": "Gratis",
+          "v": "Pasar por debajo de 5 y 75+ · Doron y Altiport esguince · transbordador de día/evento · pista bajo 5"
+        },
+        {
+          "k": "Label",
+          "v": "Flocon Vert"
+        },
+        {
+          "k": "Contacto",
+          "v": "Méribel Tourisme · +33 4 79 08 60 01"
+        }
+      ],
+      "schema_amenities": [
+        "Traslados gratuitos",
+        "Doron sledge run",
+        "Parc Olympique"
+      ],
+      "when_to_visit": "<p>La temporada 2026-27 se publica: <strong>5 de diciembre de 2026 a 18 de abril de 2027</strong> — aunque una página del mismo sitio todavía se muestra, el 18 de agosto, las fechas 2025-26 (6 de diciembre – 17 de abril): citamos ambos, la página de esquí-área siendo autorizada. En verano el complejo abre 'del 4 de julio al 29 de agosto de 2026' con el parque de bicicletas, un campo de golf de 18 hoyos y más de 29 actividades.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "La piste du Doron et l'espace sécurisé de l'Altiport, en accès libre.",
+          "tag": "Gratuit",
+          "title": "Luge gratuite du Doron"
+        },
+        {
+          "description": "470 m de dénivelé et 28 virages depuis Tougnète — la luge scénarisée de Méribel.",
+          "tag": "3,4 km",
+          "title": "Mission Black Forest"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Méribel</strong>, sur la commune des Allues, étage ses villages « de 1 100 m à 1 750 m » — Les Allues, Méribel Village, Méribel Centre — au <strong>cœur des 3 Vallées</strong> et de leurs « 600 km de pistes ». Son domaine propre aligne « 150 km de pistes » sur 422 hectares, avec « 50 % de pistes vertes et bleues » et 85 % du domaine au-dessus de 1 800 m. La station est certifiée <strong>Flocon Vert</strong>.</p><p>Le vrai bon plan est la liste des gratuités, toutes publiées : « si vos enfants ont moins de 5 ans, le forfait de ski leur est offert ! » — et aux 75 ans et plus aussi ; la <strong>piste de luge gratuite du Doron</strong> et l'espace luge sécurisé de l'Altiport ; les « navettes gratuites qui circulent en journée comme en soirée » ; la patinoire du Parc Olympique offerte aux moins de 5 ans. Côté sensations payantes, <strong>Mission Black Forest</strong> : « 3,4 km de piste sur neige, 470 m de dénivelé et 28 virages » depuis le sommet de la télécabine de Tougnète.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Payant",
+        "best_season": "5 décembre 2026 – 18 avril 2027",
+        "commune": "Les Allues",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Station de ski",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin",
+          "ski_fond",
+          "luge",
+          "raquettes"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Le forfait pour les moins de 5 ans et les 75 ans et plus ; la piste de luge du Doron et l'espace luge de l'Altiport ; les navettes en journée comme en soirée ; la patinoire pour les moins de 5 ans (5 € adulte).",
+          "q": "Qu'est-ce qui est gratuit à Méribel ?"
+        },
+        {
+          "a": "Du 5 décembre 2026 au 18 avril 2027 (page domaine skiable + les3vallees.com). Attention : une page du même site affichait encore les dates 2025-26 au 18 août — nous signalons l'écart.",
+          "q": "Quand ouvre la saison 2026-27 ?"
+        },
+        {
+          "a": "La grande luge sur neige de Méribel : « 3,4 km de piste, 470 m de dénivelé et 28 virages », au départ du sommet de la télécabine de Tougnète. Payante — les espaces du Doron et de l'Altiport restent les options gratuites.",
+          "q": "Qu'est-ce que Mission Black Forest ?"
+        },
+        {
+          "a": "« 50 % de pistes vertes et bleues », un forfait d'initiation MINI PASS, des jardins de neige — et la position centrale dans les 3 Vallées pour progresser ensuite.",
+          "q": "Le domaine convient-il aux débutants ?"
+        }
+      ],
+      "hero": {
+        "badge": "Station · Cœur des 3 Vallées",
+        "lead": "Au centre géographique des 3 Vallées, des villages-chalets étagés de 1 100 à 1 750 m, 150 km de pistes dont la moitié en vert et bleu — et une vraie liste de gratuités, de la luge du Doron aux navettes du soir."
+      },
+      "hero_alt": "Skieur en descente à Méribel, cœur des 3 Vallées",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D90 depuis Moûtiers (A430) jusqu'aux Allues puis Méribel.",
+        "public_transport": "Gare SNCF de Moûtiers-Salins, puis autocar."
+      },
+      "meta_description": "Méribel : villages de 1 100 à 1 750 m au cœur des 3 Vallées, 150 km de pistes (50 % vert-bleu), forfait offert aux -5 ans et 75+, luge gratuite du Doron. Saison 2026-27 : 5 décembre – 18 avril.",
+      "meta_title": "Méribel · cœur des 3 Vallées, luge gratuite du Doron",
+      "name": "Méribel",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Villages",
+          "v": "De 1 100 m (Les Allues) à 1 750 m ; Centre à 1 450 m"
+        },
+        {
+          "k": "Domaine",
+          "v": "150 km propres (422 ha, 50 % vert-bleu) · cœur des 3 Vallées (600 km)"
+        },
+        {
+          "k": "Saison 26/27",
+          "v": "5 décembre 2026 – 18 avril 2027"
+        },
+        {
+          "k": "Gratuit",
+          "v": "Forfait <5 ans et 75+ · luge Doron et Altiport · navettes jour/soir · patinoire <5 ans"
+        },
+        {
+          "k": "Label",
+          "v": "Flocon Vert"
+        },
+        {
+          "k": "Contact",
+          "v": "Méribel Tourisme · 04 79 08 60 01"
+        }
+      ],
+      "schema_amenities": [
+        "Navettes gratuites",
+        "Luge du Doron",
+        "Parc Olympique"
+      ],
+      "when_to_visit": "<p>Saison 2026-27 publiée : <strong>du 5 décembre 2026 au 18 avril 2027</strong> — une page du même site affichait encore, au 18 août, les dates 2025-26 (6 décembre – 17 avril) : nous citons les deux, la page domaine skiable faisant foi. L'été, la station ouvre « du 4 juillet au 29 août 2026 » avec Bike Park, golf 18 trous et plus de 29 activités.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "La pista Doron e l'area protetta Altiport, liberamente accessibile.",
+          "tag": "Gratis",
+          "title": "La corsa libera di slittamento Doron"
+        },
+        {
+          "description": "470 m di goccia e 28 curve da Tougnète — La corsa a slitta a tema di Méribel.",
+          "tag": "3.4 km",
+          "title": "Mission Black Forest"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Méribel</strong>, nel comune di Les Allues, stadi i suoi villaggi 'da 1.100 m a 1.750 m' — Les Allues, Méribel Village, Méribel Centre — a <strong>cuore della 3 Vallées</strong> e i loro '600 km di piste'. Il suo dominio si estende su '150 km di piste' su 422 ettari, con '50% green and blue run' e 85% del dominio sopra 1.800 m. Il resort detiene il <strong>Flocon Vert</strong> certificazione.</p><p>Il vero affare è l'elenco pubblicato di cose libere: Se i vostri figli sono sotto i 5 anni, il loro skipass è gratuito! e anche per il 75-e-over; il <strong>free Doron slidge run</strong> e l'area protetta di slittamento Altiport; le 'navette gratuite in esecuzione di giorno e di sera'; la pista di ghiaccio Parc Olympique libera sotto i 5 anni. Sul lato dei lati pagati, <strong>Mission Black Forest</strong>: '3.4 km di pista da neve, 470 m di goccia e 28 curve' dalla parte superiore della gondola Tougnète.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagato",
+        "best_season": "5 dicembre 2026 – 18 aprile 2027",
+        "commune": "Les Allues",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Stazione sciistica",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski alpin",
+          "sci fond",
+          "L'acqua",
+          "racchette"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Il pass per meno di 5 anni e il 75-e-over; la corsa a slitta Doron e l'area di slittamento Altiport; le navette di giorno e di sera; la pista di pattinaggio per under 5 (€5 adulto).",
+          "q": "Che cosa è gratuito in Méribel?"
+        },
+        {
+          "a": "5 dicembre 2026 - 18 aprile 2027 (ski-area pagina + les3vallees.com). Nota: una pagina dello stesso sito ha ancora mostrato le date 2025-26 il 18 agosto — bandiamo il divario.",
+          "q": "Quando apre la stagione 2026-27?"
+        },
+        {
+          "a": "La grande pista di neve di Méribel: '3.4 km di pista, 470 m di goccia e 28 curve', dalla parte superiore della gondola Tougnète. Pagamenti le aree Doron e Altiport rimangono le opzioni gratuite.",
+          "q": "Cos'è Mission Black Forest?"
+        },
+        {
+          "a": "'50% green and blue run', un passaggio di iniziazione MINI PASS, giardini di neve — e la posizione centrale di 3 Vallées per progredire dopo.",
+          "q": "Il dominio si adatta ai principianti?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · Cuore della 3 Vallées",
+        "lead": "Al centro geografico della 3 Vallées, villaggi chalet in scena da 1.100 a 1.750 m, 150 km di piste metà di loro verde-e-blu — e una vera e propria lista di cose libere, dalla pista di slitta Doron alle navette serali."
+      },
+      "hero_alt": "Sciatore che scende a Méribel, cuore della 3 Vallées",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D90 da Moûtiers (A430) a Les Allues poi Méribel.",
+        "public_transport": "Stazione Moûtiers-Salins SNCF, poi allenatore."
+      },
+      "meta_description": "Méribel: villaggi da 1.100 a 1.750 m nel cuore della 3 Vallées, 150 km di piste (50% verde-blu), free pass sotto 5 e 75+, free Doron sledge run. 2026-27 stagione: Dal 5 dicembre al 18 aprile.",
+      "meta_title": "Méribel · cuore della 3 Vallées, slittamento libero Doron",
+      "name": "Méribel",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Villaggi",
+          "v": "Da 1.100 m (Les Allues) a 1.750 m; Centro a 1.450 m"
+        },
+        {
+          "k": "Dominio",
+          "v": "150 km proprie (422 ha, 50% verde-blu) · cuore della 3 Vallées (600 km)"
+        },
+        {
+          "k": "Stagione 26/27",
+          "v": "5 dicembre 2026 – 18 aprile 2027"
+        },
+        {
+          "k": "Gratis",
+          "v": "Passo sotto 5 e 75+ · Doron e Altiport slittamento · giorno / serale navette · pista sotto 5"
+        },
+        {
+          "k": "Etichetta",
+          "v": "Flocon Vert"
+        },
+        {
+          "k": "Contatto",
+          "v": "Méribel Turismo · +33 4 79 08 60 01"
+        }
+      ],
+      "schema_amenities": [
+        "Navette gratuite",
+        "Doron Sledge run",
+        "Parc Olympique"
+      ],
+      "when_to_visit": "<p>La stagione 2026-27 è pubblicata: <strong>5 dicembre 2026 - 18 aprile 2027</strong> — anche se una pagina dello stesso sito è ancora visualizzata, il 18 agosto, le date 2025-26 (6 dicembre – 17 aprile): citiamo entrambi, la pagina ski-area è autorevole. In estate il resort si apre 'dal 4 luglio al 29 agosto 2026' con il Bike Park, un campo da golf a 18 buche e oltre 29 attività.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "De Doron track en het beveiligde Altiport gebied, vrij toegankelijk.",
+          "tag": "Vrij",
+          "title": "De gratis Doron slee"
+        },
+        {
+          "description": "470 m drop en 28 bochten van Tougnète Méribel's thema slee.",
+          "tag": "3,4 km",
+          "title": "Mission Black Forest"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Méribel</strong>, in de gemeente Les Allues, zet haar dorpen 'van 1100 m tot 1.750 m' Les Allues, Méribel Village, Méribel Centre op het <strong>hart van de 3 Vallées</strong> en hun '600 km hardlopen'. De eigen domeinlijn loopt '150 km runs' over 422 hectare, met '50% groene en blauwe runs' en 85% van het domein boven 1.800 m. Het resort heeft de <strong>Flocon Vert</strong> certificering.</p><p>Het echte koopje is de gepubliceerde lijst van gratis dingen: 'Als uw kinderen onder de 5 jaar zijn, is hun skipas gratis!'  En voor de 75-plussers. de <strong>gratis Doron slee</strong> en de beveiligde Altiport-slede; de \"vrije shuttles die overdag en 's avonds rijden\"; de Parc Olympique ijsbaan vrij onder de 5. Op de betaalde-thrills kant, <strong>Mission Black Forest</strong>: '3.4 km sneeuwbaan, 470 m drop en 28 bochten' vanaf de bovenkant van de Tougnète gondel.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Betaald",
+        "best_season": "5 december 2026 18 april 2027",
+        "commune": "Les Allues",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Skigebied",
+        "winter_access": "open",
+        "winter_infra": [
+          "Skialpin",
+          "Skipfond",
+          "luge",
+          "raquettes"
+        ]
+      },
+      "faq": [
+        {
+          "a": "de pas voor minder dan 5 en de 75-en-over; de Doron-slederun en de Altiport-slede; de shuttles overdag en 's avonds; de ijsbaan voor minder dan 5 jaar (€ 5 volwassene).",
+          "q": "Wat is gratis in Méribel?"
+        },
+        {
+          "a": "5 december 2026 tot 18 april 2027 (skigebied pagina + les3vallees.com). Opmerking: een pagina van dezelfde site toonde nog steeds de 2025-26 data op 18 augustus  We markeren de kloof.",
+          "q": "Wanneer opent het seizoen 2026-27?"
+        },
+        {
+          "a": "Méribel's grote sneeuwslee: '3,4 km spoor, 470 m drop en 28 bochten', vanaf de bovenkant van de Tougnète gondel. Betaald de Doron en Altiport gebieden blijven de vrije opties.",
+          "q": "Wat is Mission Black Forest?"
+        },
+        {
+          "a": "'50% groene en blauwe runs', een MINI PASS initiation pass, sneeuwtuinen en de centrale 3 Vallées positie om daarna verder te gaan.",
+          "q": "Past het domein bij beginners?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · Hart van de 3 Vallées",
+        "lead": "In het geografische centrum van de 3 Vallées, chalet dorpen opgevoerd van 1100 tot 1.750 m, 150 km van runs de helft van hen groen-en-blauw en een echte lijst van gratis dingen, van de Doron slede lopen naar de avond shuttles."
+      },
+      "hero_alt": "Skier dalend op Méribel, hart van de 3 Vallées",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D90 van Moûtiers (A430) naar Les Allues dan Méribel.",
+        "public_transport": "Moûtiers-Salins SNCF station, dan coach."
+      },
+      "meta_description": "Méribel: dorpjes van 1.100 tot 1.750 m in het hart van de 3 Vallées, 150 km pistes (50% groen-blauw), vrije pas onder 5 en 75+, gratis Doron slede run. 2026-27 seizoen: 5 december tot en met 18 april.",
+      "meta_title": "Méribel · hart van de 3 Vallées, gratis Doron slede",
+      "name": "Méribel",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Dorpen",
+          "v": "van 1100 m (Les Allues) tot 1.750 m; Centrum op 1.450 m"
+        },
+        {
+          "k": "Domein",
+          "v": "150 km eigen (422 ha, 50% groenblauw) · hart van de 3 Vallées (600 km)"
+        },
+        {
+          "k": "Seizoen 26/27",
+          "v": "5 december 2026 18 april 2027"
+        },
+        {
+          "k": "Vrij",
+          "v": "Passeer onder 5 en 75+ · Doron en Altiport sleedging · dag/avond shuttles · baan onder 5"
+        },
+        {
+          "k": "Label",
+          "v": "Flocon Vert"
+        },
+        {
+          "k": "Contactpersoon",
+          "v": "Méribel Tourisme · +33 4 79 08 60 01"
+        }
+      ],
+      "schema_amenities": [
+        "Gratis pendeldiensten",
+        "Doron slee uitvoeren",
+        "Parc Olympique"
+      ],
+      "when_to_visit": "<p>Het seizoen 2026-27 wordt gepubliceerd: <strong>5 december 2026 tot en met 18 april 2027</strong> Hoewel een pagina van dezelfde site nog steeds weergegeven, op 18 augustus, de 2025-26 data (6 december  17 april: We citeren beide, de ski-gebied pagina is gezaghebbend. In de zomer opent het resort 'van 4 juli tot 29 augustus 2026' met het Bike Park, een 18-holes golfbaan en meer dan 29 activiteiten.</p>"
+    }
+  },
+  "latitude": 45.397522,
+  "longitude": 6.564358,
+  "official_site_url": "https://www.meribel.net/domaine-skiable/",
+  "partners": [],
+  "postal_code": "73550",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-18, FR pages only (meribel.net, les3vallees.com). Villages de 1 100 à 1 750 m (Les Allues 1100, Village 1400, Centre 1450) ; 150 km propres, 422 ha, 50 % de pistes vertes et bleues ; cœur des 3 Vallées 600 km. Saison 26/27 publiée : 5 décembre 2026 – 18 avril 2027 (meribel.net + les3vallees.com) — mais une page non mise à jour du même site affiche encore la saison 2025-26 : contradiction reportée. Gratuit : forfait <5 ans et 75+, luge du Doron et espace luge de l'Altiport, navettes jour et soirée, patinoire <5 ans. Mission Black Forest : 3,4 km, 470 m de dénivelé, 28 virages (payante). Flocon Vert. Mont Vallon 2 952 m non revérifié mot à mot — non imprimé en chiffre.",
+  "schema_org": {
+    "amenities": [],
+    "is_free": false,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "station-de-meribel",
+  "sources": [
+    "https://www.meribel.net/domaine-skiable/",
+    "https://www.meribel.net/les-bons-plans-ski-au-coeur-des-3-vallees/",
+    "https://www.meribel.net/activites-hiver/activites-hiver-en-famille/pistes-de-luge/",
+    "https://www.les3vallees.com/fr/station/meribel"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "MONT VALLON — l'altitude (souvent 2 952 m) n'a pas été revérifiée mot à mot sur la page ; non imprimée.",
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published; kept null."
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Valmorel",
+  "commune": "Les Avanchers-Valmorel",
+  "gps": {
+    "lat": 45.461698,
+    "lng": 6.442483
+  },
+  "type": "station",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": false,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "18 décembre 2026 – 10 avril 2027",
+  "winter": {
+    "access": "open",
+    "infrastructure": [
+      "ski_alpin",
+      "ski_fond",
+      "luge",
+      "raquettes",
+      "chiens_traineau",
+      "ski_rando"
+    ],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
+  "official_url": "https://www.valmorel.com/activites-hiver/ski-glisse/domaine-skiable/",
+  "last_verified": null
+}

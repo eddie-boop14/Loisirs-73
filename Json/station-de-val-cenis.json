@@ -1,0 +1,646 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-18",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "station",
+  "commune": "Val-Cenis",
+  "date_modified_human": "18 août 2026",
+  "date_published_human": "18 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-18",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-ski-piste.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Europas längste grüne Piste steigt entlang der Mont-Cenis Straße ab.",
+          "tag": "Europas längste",
+          "title": "Der Escargot, 10 grüne km"
+        },
+        {
+          "description": "29 km offen für alle auf der Bramans Seite — und freien Zugang bei Termignon, unterhalb des Vanoise.",
+          "tag": "€0",
+          "title": "Free Nordic im Val d'Ambin"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Val Cenis</strong>, in Haute Maurienne Vanoise verbindet drei Gateway Dörfer Ski-in — Lanslevillard, Lanslebourg und Termignon — auf einer alpinen Domäne von <strong>1.300 bis 2.800 m</strong> (1.500 m vertikal): „<strong>125 km markierte Strecken</strong>', '65 Pisten einschließlich 17 grün, 21 blau, 22 rot und 5 schwarz' und 29 Lifte. Seine Unterschrift Lauf erstreckt sich '10 km: die Länge des Escargot-Laufs, <strong>Europas längster Green Run</strong>„ — entlang der Mont-Cenis Passstraße. Das Resort hält die <strong>Flocon Vert</strong> Etikett.</p><p>Frei bedeutet hier nordisch und vollständig: „Die <strong>Val d'Ambin</strong> Nordische Skigebiete <strong>ist für alle kostenlos!</strong>' (29 km zwischen 1.230 und 1.800 m, auf der Bramans Seite), und bei Val Cenis Termignon, 'am Fuße des Vanoise Nationalparks und entlang der Doron', 'Zugang ist frei und offen!'. Die dritte Domäne, die Monolithe (39 km für Eislaufen und Klassik präpariert), wird mit Aussois geteilt. Auf der alpinen Seite ist der Pass \"frei für Kinder unter 5 und Senioren über 75\", und die \"Wettergarantie\" wird als \"exklusiv Val Cenis\" präsentiert.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Bezahlt",
+        "best_season": "12. oder 13. Dezember 2026 – 16. April 2027 (abhängig von der Seite)",
+        "commune": "Val-Cenis",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Skigebiet",
+        "winter_access": "open",
+        "winter_infra": [
+          "Ski alpin",
+          "ski fond",
+          "Lastwagen",
+          "Raquetten"
+        ]
+      },
+      "faq": [
+        {
+          "a": "10 km: die Länge des Escargot-Laufs, Europas längster grüner Lauf - Es schlängelt sich entlang der Mont-Cenis Passstraße. Sein einst zitierter freier Zugang wird nicht mehr auf den aktuellen Seiten veröffentlicht: Wir behaupten es nicht.",
+          "q": "Was ist der Escargot Run?"
+        },
+        {
+          "a": "Ja, zwei von drei Domains: 'Die Val d'Ambin Nordische Ski-Domain ist für alle kostenlos!' (29 km auf der Bramans Seite) und bei Termignon 'Zugang ist kostenlos und offen!'. Der Monolithe (39 km, geteilt mit Aussois) bleibt bezahlt.",
+          "q": "Ist Cross-Country wirklich kostenlos?"
+        },
+        {
+          "a": "Die Website veröffentlicht zwei Daten: 12. Dezember 2026 (Alpin-Domain-Seite) und Sonntag, 13. Dezember 2026 (Pass-Seite, mit Teilbereichen 13-18 Dezember bei -50%). Abschluss 16. April 2027 in beiden Versionen. Beide werden zitiert.",
+          "q": "Wann beginnt die Saison 2026-27?"
+        },
+        {
+          "a": "Freipass unter 5 und über 75, eine 900 m lange Schlittenlaufbahn, ein Snowpark, Boardercross, Snowtub; und die \"Wettergarantie\", präsentiert als Val Cenis exklusiv.",
+          "q": "Was sind die Familien-Deals?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · Haute Maurienne",
+        "lead": "Drei Tordörfer, die unter dem Mont-Cenis-Pass Ski-in verbunden sind, 125 km Pisten, darunter Europas längstes Grün - und zwei völlig freie nordische Domains."
+      },
+      "hero_alt": "Präparierter Lauf bei Val Cenis, Haute Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D1006 von Modane (A43) bis Lanslebourg — Die Mont-Cenis Passstraße.",
+        "public_transport": "Modane SNCF Station, dann Haute Maurienne Trainer."
+      },
+      "meta_description": "Val Cenis: drei Ski-Dörfer, 125 km Pisten von 1.300 bis 2.800 m, Europas längste grüne Piste (die 10 km Escargot) - und kostenlos Nordic im Val d'Ambin und Termignon. Saison 2026-27 ab Mitte Dezember.",
+      "meta_title": "Val Cenis · der Escargot, 125 km, frei nordisch",
+      "name": "Val Cenis",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Dörfer",
+          "v": "Lanslevillard · Lanslebourg · Termignon, verknüpftes Ski-in"
+        },
+        {
+          "k": "Domain",
+          "v": "125 km · 65 Pisten · 29 Lifte · 1.300 – 2 800 m"
+        },
+        {
+          "k": "Saison 26/27",
+          "v": "12. Dezember (Alpenseite) oder 13. Dezember (Ausweisseite) – 16. April 2027"
+        },
+        {
+          "k": "frei",
+          "v": "Val d'Ambin und Termignon Nordic · Pass unter 5 und 75+"
+        },
+        {
+          "k": "Etikett",
+          "v": "Flocon Vert"
+        },
+        {
+          "k": "Kontakt",
+          "v": "Haute Maurienne Vanoise Tourismusbüro · +33 4 79 05 99 06"
+        }
+      ],
+      "schema_amenities": [
+        "Kostenlose Val d'Ambin Nordic",
+        "900 m Schlittenlaufbahn",
+        "Wettergarantie"
+      ],
+      "when_to_visit": "<p>Für 2026-27 veröffentlicht die offizielle Website zwei Daten: \"vom 12. Dezember 2026 bis zum 16. April 2027\" auf der Alpendomänenseite, \"vom Sonntag, dem 13. Dezember 2026\" auf der Passseite (Teileröffnung 13-18 Dezember bei -50%, Saisonende 10-16 April bei -30%) - Wir zitieren beides. Die nordischen Domains öffnen am 19. Dezember (Val d'Ambin bis 12. März, die Monolithe bis 14. März, Termignon bis 5. März).</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "Europe's longest green run descends along the Mont-Cenis road.",
+          "tag": "Europe's longest",
+          "title": "The Escargot, 10 green km"
+        },
+        {
+          "description": "29 km open to all on the Bramans side — and free access at Termignon, below the Vanoise.",
+          "tag": "€0",
+          "title": "Free Nordic at the Val d'Ambin"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Val Cenis</strong>, in Haute Maurienne Vanoise, links three gateway villages ski-in — Lanslevillard, Lanslebourg and Termignon — on an alpine domain from <strong>1,300 to 2,800 m</strong> (1,500 m of vertical): '<strong>125 km of waymarked runs</strong>', '65 runs including 17 green, 21 blue, 22 red and 5 black' and 29 lifts. Its signature run stretches '10 km: the length of the Escargot run, <strong>Europe's longest green run</strong>' — winding down along the Mont-Cenis pass road. The resort holds the <strong>Flocon Vert</strong> label.</p><p>Free here means Nordic, and completely: 'The <strong>Val d'Ambin</strong> Nordic ski domain <strong>is free for everyone!</strong>' (29 km between 1,230 and 1,800 m, on the Bramans side), and at Val Cenis Termignon, 'at the foot of the Vanoise National Park and along the Doron', 'Access is free and open!'. The third domain, the Monolithe (39 km groomed for skating and classic), is shared with Aussois. On the alpine side, the pass is 'free for children under 5 and seniors over 75', and the 'weather guarantee' is presented as 'a Val Cenis exclusive'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Paid",
+        "best_season": "12 or 13 December 2026 – 16 April 2027 (depending on the page)",
+        "commune": "Val-Cenis",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Ski resort",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin",
+          "ski_fond",
+          "luge",
+          "raquettes"
+        ]
+      },
+      "faq": [
+        {
+          "a": "'10 km: the length of the Escargot run, Europe's longest green run' — it snakes along the Mont-Cenis pass road. Its once-quoted free access is no longer published on the current pages: we do not assert it.",
+          "q": "What is the Escargot run?"
+        },
+        {
+          "a": "Yes, two domains out of three: 'The Val d'Ambin Nordic ski domain is free for everyone!' (29 km on the Bramans side) and at Termignon 'Access is free and open!'. The Monolithe (39 km, shared with Aussois) remains paid.",
+          "q": "Is cross-country really free?"
+        },
+        {
+          "a": "The site publishes two dates: 12 December 2026 (alpine-domain page) and Sunday 13 December 2026 (passes page, with partials 13-18 December at -50%). Closing 16 April 2027 in both versions. Both are quoted.",
+          "q": "When does the 2026-27 season open?"
+        },
+        {
+          "a": "Free pass under 5 and over 75, a 900 m sledge run, a snowpark, boardercross, snowtubing — and the 'weather guarantee', presented as a Val Cenis exclusive.",
+          "q": "What are the family deals?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · Haute Maurienne",
+        "lead": "Three gateway villages linked ski-in beneath the Mont-Cenis pass, 125 km of runs including Europe's longest green — and two entirely free Nordic domains."
+      },
+      "hero_alt": "Groomed run at Val Cenis, Haute Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D1006 from Modane (A43), through Lanslebourg — the Mont-Cenis pass road.",
+        "public_transport": "Modane SNCF station, then Haute Maurienne coach."
+      },
+      "meta_description": "Val Cenis: three ski-in villages, 125 km of runs from 1,300 to 2,800 m, Europe's longest green run (the 10 km Escargot) — and free Nordic at the Val d'Ambin and Termignon. 2026-27 season from mid-December.",
+      "meta_title": "Val Cenis · the Escargot, 125 km, free Nordic",
+      "name": "Val Cenis",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Villages",
+          "v": "Lanslevillard · Lanslebourg · Termignon, linked ski-in"
+        },
+        {
+          "k": "Domain",
+          "v": "125 km · 65 runs · 29 lifts · 1,300 – 2,800 m"
+        },
+        {
+          "k": "Season 26/27",
+          "v": "12 December (alpine page) or 13 December (passes page) – 16 April 2027"
+        },
+        {
+          "k": "Free",
+          "v": "Val d'Ambin and Termignon Nordic · pass under 5 and 75+"
+        },
+        {
+          "k": "Label",
+          "v": "Flocon Vert"
+        },
+        {
+          "k": "Contact",
+          "v": "Haute Maurienne Vanoise tourist office · +33 4 79 05 99 06"
+        }
+      ],
+      "schema_amenities": [
+        "Free Val d'Ambin Nordic",
+        "900 m sledge run",
+        "Weather guarantee"
+      ],
+      "when_to_visit": "<p>For 2026-27 the official site publishes two dates: 'from 12 December 2026 to 16 April 2027' on the alpine-domain page, 'from Sunday 13 December 2026' on the passes page (partial opening 13-18 December at -50%, season's end 10-16 April at -30%) — we quote both. The Nordic domains open 19 December (Val d'Ambin until 12 March, the Monolithe until 14 March, Termignon until 5 March).</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "La carrera verde más larga de Europa baja por la carretera Mont-Cenis.",
+          "tag": "Europa es más larga",
+          "title": "El Escargot, 10 km verde"
+        },
+        {
+          "description": "29 km abierto a todos en el lado Bramans – y acceso gratuito en Termignon, debajo de Vanoise.",
+          "tag": "€0",
+          "title": "Nórdico libre en el Val d'Ambin"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Val Cenis</strong>, en Haute Maurienne Vanoise, enlaza tres pueblos puerta de entrada - Lanslevillard, Lanslebourg y Termignon — en un dominio alpino <strong>1.300 a 2.800 m</strong> (1.500 m de vertical): '<strong>125 km de recorridos señalizados</strong>', '65 carreras incluyendo 17 verde, 21 azul, 22 rojo y 5 negro' y 29 ascensores. Su carrera de firmas se extiende '10 km: la longitud del Escargot correr, <strong>La carrera verde más larga de Europa</strong>' enrollando por la carretera Mont-Cenis. El complejo tiene <strong>Flocon Vert</strong> etiqueta.</p><p>Libre aquí significa nórdico, y completamente: 'El <strong>Val d'Ambin</strong> Dominio nórdico de esquí <strong>es libre para todos!</strong>' (29 km entre 1.230 y 1.800 m, en el lado Bramans), y en Val Cenis Termignon, 'a los pies del Parque Nacional Vanoise y a lo largo de Doron', 'El acceso es libre y abierto!'. El tercer dominio, el Monolithe (39 km escotado para patinaje y clásico), se comparte con Aussois. En la parte alpina, el pase es \"libre para niños menores de 5 años y mayores de 75 años\", y la \"garantía del tiempo\" se presenta como 'una exclusiva Val Cenis'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagado",
+        "best_season": "12 o 13 de diciembre 2026 – 16 de abril de 2027 (dependiendo de la página)",
+        "commune": "Val-Cenis",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Escuela de esquí",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski alpin",
+          "ski fond",
+          "Luge",
+          "raquetas"
+        ]
+      },
+      "faq": [
+        {
+          "a": "10 km: la longitud de la carrera de Escargot, la carrera verde más larga de Europa serpientes a lo largo de la carretera Mont-Cenis. Su acceso gratuito no se publica en las páginas actuales: no lo afirmamos.",
+          "q": "¿Qué corre el Escargot?"
+        },
+        {
+          "a": "Sí, dos dominios de tres: 'El dominio de esquí nórdico Val d'Ambin es gratuito para todos!' (29 km en el lado Bramans) y en Termignon 'El acceso es gratuito y abierto!'. El Monolithe (39 km, compartido con Aussois) sigue siendo pagado.",
+          "q": "¿El cross-country es realmente libre?"
+        },
+        {
+          "a": "El sitio publica dos fechas: 12 de diciembre de 2026 (página de dominio alpino) y domingo 13 de diciembre de 2026 (página de pagos, con parciales 13-18 de diciembre a -50%). Cierre 16 abril 2027 en ambas versiones. Ambos son citados.",
+          "q": "¿Cuándo se abre la temporada 2026-27?"
+        },
+        {
+          "a": "Pase libre bajo 5 y más de 75, una carrera de 900 m, un parque de nieve, cruce de embarques, nevadas — y la \"garantía del tiempo\", presentada como exclusiva Val Cenis.",
+          "q": "¿Cuáles son las ofertas familiares?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · Alto Maurienne",
+        "lead": "Tres aldeas enlazaron el esquí bajo el paso Mont-Cenis, 125 km de recorridos incluyendo el verde más largo de Europa — y dos dominios nórdicos totalmente libres."
+      },
+      "hero_alt": "Corrida a novio en Val Cenis, Haute Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D1006 de Modane (A43), a través de Lanslebourg la carretera de paso Mont-Cenis.",
+        "public_transport": "Estación Modane SNCF, luego entrenador Haute Maurienne."
+      },
+      "meta_description": "Val Cenis: tres aldeas de esquí, 125 km de carreras de 1.300 a 2.800 m, la carrera verde más larga de Europa (los 10 km Escargot) — y libre Nórdico en el Val d'Ambin y Termignon. 2026-27 temporada a mediados de diciembre.",
+      "meta_title": "Val Cenis · El Escargot, 125 km, libre Nórdico",
+      "name": "Val Cenis",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Villages",
+          "v": "Lanslevillard · Lanslebourg · Termignon, esquí enlazado"
+        },
+        {
+          "k": "Dominio",
+          "v": "125 km · 65 pistas · 29 ascensores · 1.300 – 2.800 m"
+        },
+        {
+          "k": "Temporada 26/27",
+          "v": "12 de diciembre (página alpina) o 13 de diciembre (página de pago) – 16 abril 2027"
+        },
+        {
+          "k": "Gratis",
+          "v": "Val d'Ambin y Termignon Nordic · pasar bajo 5 y 75+"
+        },
+        {
+          "k": "Label",
+          "v": "Flocon Vert"
+        },
+        {
+          "k": "Contacto",
+          "v": "Haute Maurienne Vanoise oficina de turismo · +33 4 79 05 99 06"
+        }
+      ],
+      "schema_amenities": [
+        "Val d'Ambin Nordic",
+        "900 m sledge run",
+        "Garantía meteorológica"
+      ],
+      "when_to_visit": "<p>Para 2026-27 el sitio oficial publica dos fechas: 'de 12 de diciembre de 2026 a 16 de abril de 2027' en la página de dominio alpino, 'de domingo 13 de diciembre de 2026' en la página de pases (abrimiento parcial 13-18 de diciembre a -50%, final de la temporada 10-16 de abril a -30%) citamos ambos. Los dominios nórdicos abren el 19 de diciembre (Val d'Ambin hasta el 12 de marzo, el Monolithe hasta el 14 de marzo, Termignon hasta el 5 de marzo).</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "La piste verte la plus longue d'Europe descend le long de la route du Mont-Cenis.",
+          "tag": "Plus longue d'Europe",
+          "title": "L'Escargot, 10 km de verte"
+        },
+        {
+          "description": "29 km offerts à tous côté Bramans — et accès libre à Termignon, au pied de la Vanoise.",
+          "tag": "0 €",
+          "title": "Nordique gratuit au Val d'Ambin"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Val Cenis</strong>, en Haute Maurienne Vanoise, relie skis aux pieds trois villages-portes — Lanslevillard, Lanslebourg et Termignon — sur un domaine alpin de <strong>1 300 à 2 800 m</strong> (1 500 m de dénivelé) : « <strong>125 km de pistes balisées</strong> », « 65 pistes dont 17 vertes, 21 bleues, 22 rouges et 5 noires » et 29 remontées mécaniques. Sa piste-signature s'étire sur « 10 km : la longueur de la piste de l'Escargot, <strong>la plus longue piste verte d'Europe</strong> » — qui descend le long de la route du col du Mont-Cenis. La station est labellisée <strong>Flocon Vert</strong>.</p><p>La gratuité, ici, est nordique et totale : « Le domaine skiable nordique du <strong>Val d'Ambin est gratuit pour tous !</strong> » (29 km entre 1 230 et 1 800 m, côté Bramans), et à Val Cenis Termignon, « au pied du Parc national de la Vanoise et le long du Doron », « L'accès est libre et gratuit ! ». Le troisième domaine, le Monolithe (39 km tracés en skating et alternatif), se partage avec Aussois. Côté alpin, le forfait est « offert aux enfants de moins de 5 ans et aux seniors de plus de 75 ans », et la « garantie météo » est présentée comme « une exclusivité Val Cenis ».</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Payant",
+        "best_season": "12 ou 13 décembre 2026 – 16 avril 2027 (selon la page)",
+        "commune": "Val-Cenis",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Station de ski",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin",
+          "ski_fond",
+          "luge",
+          "raquettes"
+        ]
+      },
+      "faq": [
+        {
+          "a": "« 10 km : la longueur de la piste de l'Escargot, la plus longue piste verte d'Europe » — elle serpente le long de la route du col du Mont-Cenis. Sa gratuité, autrefois évoquée, n'est plus publiée sur les pages actuelles : nous ne l'affirmons pas.",
+          "q": "Qu'est-ce que la piste de l'Escargot ?"
+        },
+        {
+          "a": "Oui, deux domaines sur trois : « Le domaine skiable nordique du Val d'Ambin est gratuit pour tous ! » (29 km côté Bramans) et à Termignon « L'accès est libre et gratuit ! ». Le Monolithe (39 km, partagé avec Aussois) reste payant.",
+          "q": "Le ski de fond est-il vraiment gratuit ?"
+        },
+        {
+          "a": "Le site publie deux dates : 12 décembre 2026 (page domaine alpin) et dimanche 13 décembre 2026 (page forfaits, avec partielles du 13 au 18 décembre à -50 %). Fermeture le 16 avril 2027 dans les deux versions. Les deux sont citées.",
+          "q": "Quand ouvre la saison 2026-27 ?"
+        },
+        {
+          "a": "Forfait offert aux moins de 5 ans et aux plus de 75 ans, piste de luge de 900 m, snowpark, boardercross, snowtubing — et la « garantie météo », présentée comme une exclusivité Val Cenis.",
+          "q": "Quels bons plans famille ?"
+        }
+      ],
+      "hero": {
+        "badge": "Station · Haute Maurienne",
+        "lead": "Trois villages-portes reliés skis aux pieds sous le col du Mont-Cenis, 125 km de pistes dont la plus longue verte d'Europe — et deux domaines nordiques entièrement gratuits."
+      },
+      "hero_alt": "Piste damée à Val Cenis, Haute Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D1006 depuis Modane (A43), par Lanslebourg — route du col du Mont-Cenis.",
+        "public_transport": "Gare SNCF de Modane, puis autocar de Haute Maurienne."
+      },
+      "meta_description": "Val Cenis : trois villages reliés skis aux pieds, 125 km de pistes de 1 300 à 2 800 m, la plus longue verte d'Europe (l'Escargot, 10 km) — et le nordique gratuit au Val d'Ambin et à Termignon. Saison 2026-27 dès mi-décembre.",
+      "meta_title": "Val Cenis · l'Escargot, 125 km, nordique gratuit",
+      "name": "Val Cenis",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Villages",
+          "v": "Lanslevillard · Lanslebourg · Termignon, reliés skis aux pieds"
+        },
+        {
+          "k": "Domaine",
+          "v": "125 km · 65 pistes · 29 remontées · 1 300 – 2 800 m"
+        },
+        {
+          "k": "Saison 26/27",
+          "v": "12 décembre (page alpin) ou 13 décembre (page forfaits) – 16 avril 2027"
+        },
+        {
+          "k": "Gratuit",
+          "v": "Nordique Val d'Ambin et Termignon · forfait <5 ans et 75+"
+        },
+        {
+          "k": "Label",
+          "v": "Flocon Vert"
+        },
+        {
+          "k": "Contact",
+          "v": "OT Haute Maurienne Vanoise · 04 79 05 99 06"
+        }
+      ],
+      "schema_amenities": [
+        "Nordique gratuit Val d'Ambin",
+        "Piste de luge 900 m",
+        "Garantie météo"
+      ],
+      "when_to_visit": "<p>Sur la saison 2026-27, le site officiel publie deux dates : « du 12 décembre 2026 au 16 avril 2027 » sur la page du domaine alpin, « du dimanche 13 décembre 2026 » sur la page forfaits (ouverture partielle du 13 au 18 décembre à -50 %, fin de saison du 10 au 16 avril à -30 %) — nous citons les deux. Les domaines nordiques ouvrent le 19 décembre (Val d'Ambin jusqu'au 12 mars, le Monolithe au 14 mars, Termignon au 5 mars).</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "La pista verde più lunga d'Europa scende lungo la strada Mont-Cenis.",
+          "tag": "L'Europa è più lunga",
+          "title": "L'Escargot, 10 km verdi"
+        },
+        {
+          "description": "29 km aperti a tutti sul lato Bramans — e accesso gratuito a Termignon, sotto la Vanoise.",
+          "tag": "€0",
+          "title": "Nordic gratuito al Val d'Ambin"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Val Cenis</strong>, in Haute Maurienne Vanoise, collega tre villaggi gateway ski-in — Lanslevillard, Lanslebourg e Termignon — su un dominio alpino da <strong>da 1.300 a 2.800 m</strong> (1.500 m di verticale): '<strong>125 km di piste segnalate</strong>', '65 piste tra cui 17 verde, 21 blu, 22 rosso e 5 nero' e 29 ascensori. La sua firma si estende '10 km: la lunghezza della corsa di Escargot, <strong>La corsa verde più lunga d'Europa</strong>« si snoda lungo la strada di passaggio Mont-Cenis. Il resort detiene il <strong>Flocon Vert</strong> etichetta.</p><p>Gratis qui significa nordico, e completamente: ' <strong>Val d'Ambin</strong> Settore sci nordico <strong>è gratuito per tutti!</strong>' (29 km tra 1.230 e 1.800 m, sul lato Bramans), e a Val Cenis Termignon, 'ai piedi del Parco Nazionale Vanoise e lungo il Doron', 'L'accesso è gratuito e aperto!'. Il terzo dominio, il Monolithe (39 km curato per il pattinaggio e il classico), è condiviso con Aussois. Sul lato alpino, il pass è 'gratuito per i bambini sotto i 5 anni e gli anziani oltre i 75', e la 'gara garanzia' è presentata come 'una Val Cenis esclusiva'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagato",
+        "best_season": "12 o 13 dicembre 2026 – 16 aprile 2027 (a seconda della pagina)",
+        "commune": "Val-Cenis",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Stazione sciistica",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski alpin",
+          "sci fond",
+          "L'acqua",
+          "racchette"
+        ]
+      },
+      "faq": [
+        {
+          "a": "'10 km: la lunghezza della corsa di Escargot, la corsa verde più lunga d'Europa» — serpente lungo la strada di passaggio Mont-Cenis. Il suo accesso gratuito non è più pubblicato sulle pagine attuali: noi non lo affermiamo.",
+          "q": "Cos'è la corsa dell'Escargot?"
+        },
+        {
+          "a": "Sì, due domini su tre: 'Il dominio sci nordico Val d'Ambin è gratuito per tutti!' (29 km sul lato Bramans) e a Termignon 'L'accesso è gratuito e aperto!' Il Monolithe (39 km, condiviso con Aussois) rimane pagato.",
+          "q": "Il fondo è davvero libero?"
+        },
+        {
+          "a": "Il sito pubblica due date: 12 dicembre 2026 (pagina alpina-dominio) e domenica 13 dicembre 2026 (pagina dei passi, con parziali 13-18 dicembre a -50%). Chiusura 16 aprile 2027 in entrambe le versioni. Entrambi sono citati.",
+          "q": "Quando apre la stagione 2026-27?"
+        },
+        {
+          "a": "Passo libero sotto 5 e oltre 75, una corsa di slitta 900 m, un snowpark, boardercross, snowtubing — e la 'garanzia', presentata come esclusiva Val Cenis.",
+          "q": "Quali sono le offerte familiari?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · Haute Maurienne",
+        "lead": "Tre villaggi di gateway collegati ski-in sotto il passo Mont-Cenis, 125 km di piste tra cui il verde più lungo d'Europa — e due domini nordici completamente liberi."
+      },
+      "hero_alt": "Groomed run a Val Cenis, Haute Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D1006 da Modane (A43), attraverso Lanslebourg — la strada di passaggio Mont-Cenis.",
+        "public_transport": "Stazione Modane SNCF, poi allenatore Haute Maurienne."
+      },
+      "meta_description": "Val Cenis: tre villaggi sciistici, 125 km di piste da 1.300 a 2.800 m, pista verde più lunga d'Europa (il 10 km Escargot) — e nordico libero al Val d'Ambin e Termignon. 2026-27 stagione a metà dicembre.",
+      "meta_title": "Val Cenis · Escargot, 125 km, nordico gratuito",
+      "name": "Val Cenis",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Villaggi",
+          "v": "Lanslevillard · Lanslebourg · Termignon, ski-in collegato"
+        },
+        {
+          "k": "Dominio",
+          "v": "125 km · 65 piste · 29 ascensori · 1.300 – 2.800 m"
+        },
+        {
+          "k": "Stagione 26/27",
+          "v": "12 dicembre (pagina alpina) o 13 dicembre (pagina dei passi) – 16 aprile 2027"
+        },
+        {
+          "k": "Gratis",
+          "v": "Val d'Ambin e Termignon Nordic · passaggio sotto 5 e 75+"
+        },
+        {
+          "k": "Etichetta",
+          "v": "Flocon Vert"
+        },
+        {
+          "k": "Contatto",
+          "v": "Haute Maurienne Vanoise ufficio turistico · +33 4 79 05 99 06"
+        }
+      ],
+      "schema_amenities": [
+        "Gratis Val d'Ambin Nordic",
+        "900 m slitta corsa",
+        "Garanzia del tempo"
+      ],
+      "when_to_visit": "<p>Per il 2026-27 il sito ufficiale pubblica due date: «dal 12 dicembre 2026 al 16 aprile 2027» sulla pagina del dominio alpino, «da domenica 13 dicembre 2026» sulla pagina dei passaggi (apertura parziale 13-18 dicembre al -50%, fine stagione 10-16 aprile al -30%) — Citiamo entrambi. I domini nordici aprono il 19 dicembre (Val d'Ambin fino al 12 marzo, il Monolithe fino al 14 marzo, Termignon fino al 5 marzo).</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "De langste groene run van Europa daalt af langs de Mont-Cenis weg.",
+          "tag": "Europa's langste",
+          "title": "De Escargot, 10 groene km"
+        },
+        {
+          "description": "29 km open voor iedereen aan de Bramans kant en gratis toegang tot Termignon, onder de Vanoise.",
+          "tag": "€0",
+          "title": "Vrij Noords op de Val d'Ambin"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Val Cenis</strong>, in Haute Maurienne Vanoise, verbindt drie gateway dorpen ski-in Lanslevillard, Lanslebourg en Termignon op een alpine domein van <strong>1.300 tot 2.800 m</strong> (1500 m verticaal): '<strong>125 km waymarked runs</strong>', '65 runs waaronder 17 groen, 21 blauw, 22 rood en 5 zwart' en 29 liften. Zijn handtekening loopt '10 km: de lengte van de Escargot-loop, <strong>De langste groene run van Europa</strong>' langs de Mont-Cenis-pasweg naar beneden. Het resort heeft de <strong>Flocon Vert</strong> label.</p><p>Gratis betekent hier Nordic, en volledig: \"De <strong>Val d'Ambin</strong> Nordic ski domein <strong>is gratis voor iedereen!</strong>\" (29 km tussen 1230 en 1.800 m, aan de Bramans kant), en op Val Cenis Termignon, 'aan de voet van het Vanoise National Park en langs de Doron', 'Access is gratis en open!'. Het derde domein, de Monolithe (39 km geprepareerd voor schaatsen en klassieker), wordt gedeeld met Aussois. Aan de alpine kant is de pas 'vrij voor kinderen onder de 5 jaar en senioren boven de 75', en de 'weergarantie' wordt gepresenteerd als 'a Val Cenis exclusief'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Betaald",
+        "best_season": "12 of 13 december 2026 16 april 2027 (afhankelijk van de bladzijde)",
+        "commune": "Val-Cenis",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Skigebied",
+        "winter_access": "open",
+        "winter_infra": [
+          "Skialpin",
+          "Skipfond",
+          "luge",
+          "raquettes"
+        ]
+      },
+      "faq": [
+        {
+          "a": "\"10 km: de lengte van de Escargot run, Europa's langste groene run\" het slangen langs de Mont-Cenis pass weg. De eens genoemde gratis toegang wordt niet meer gepubliceerd op de huidige pagina's: Wij beweren dat niet.",
+          "q": "Wat doet de Escargot?"
+        },
+        {
+          "a": "Ja, twee van de drie domeinen: 'Het Val d'Ambin Nordic ski domein is gratis voor iedereen!' (29 km aan de Bramans zijde) en bij Termignon 'Access is gratis en geopend!'. De Monolithe (39 km, gedeeld met Aussois) blijft betaald.",
+          "q": "Is cross-country echt vrij?"
+        },
+        {
+          "a": "De site publiceert twee data: 12 december 2026 (alpine-domeinpagina) en zondag 13 december 2026 (pass pagina, met gedeeltelijke 13-18 december om -50%). Afsluiten 16 april 2027 in beide versies. Beide worden geciteerd.",
+          "q": "Wanneer opent het seizoen 2026-27?"
+        },
+        {
+          "a": "Vrije pas onder de 5 en meer 75, een 900 m slede run, een snowpark, boardercross, snowtubing en de 'weergarantie', gepresenteerd als een Val Cenis exclusief.",
+          "q": "Wat zijn de familiedeals?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · Haute Maurienne",
+        "lead": "Drie gateway dorpen verbonden ski-in onder de Mont-Cenis-pas, 125 km aan pistes inclusief Europa's langste groen en twee volledig gratis Noordse domeinen."
+      },
+      "hero_alt": "Groomed run op Val Cenis, Haute Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D1006 van Modane (A43), via Lanslebourg  de Mont-Cenis-pasweg.",
+        "public_transport": "Modane SNCF station, dan Haute Maurienne coach."
+      },
+      "meta_description": "Val Cenis: drie ski-in dorpen, 125 km aan pistes van 1.300 tot 2.800 m, Europa's langste groene run (de 10 km Escargot) en vrij Nordic op de Val d'Ambin en Termignon. 2026-27 seizoen van midden december.",
+      "meta_title": "Val Cenis · de Escargot, 125 km, gratis Nordic",
+      "name": "Val Cenis",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Dorpen",
+          "v": "Lanslevillard · Lanslebourg · Termignon, gekoppelde ski-in"
+        },
+        {
+          "k": "Domein",
+          "v": "125 km · 65 afdalingen · 29 liften · 1.300 2.800 m"
+        },
+        {
+          "k": "Seizoen 26/27",
+          "v": "12 december (alpinebladzijde) of 13 december (passpagina) 16 april 2027"
+        },
+        {
+          "k": "Vrij",
+          "v": "Val d'Ambin en Termignon Nordic · passeren onder 5 en 75+"
+        },
+        {
+          "k": "Label",
+          "v": "Flocon Vert"
+        },
+        {
+          "k": "Contactpersoon",
+          "v": "Haute Maurienne Vanoise VVV · +33 4 79 05 99 06"
+        }
+      ],
+      "schema_amenities": [
+        "Free Val d'Ambin nordic",
+        "900 m sleeloop",
+        "Weergarantie"
+      ],
+      "when_to_visit": "<p>Voor 2026-27 publiceert de officiële site twee data: \"van 12 december 2026 tot 16 april 2027\" op de alpine-domeinpagina, vanaf zondag 13 december 2026 op de passpage (gedeeltelijke opening 13-18 december op -50%, seizoen eind 10-16 april op -30%) We citeren beide. De Noordse domeinen openen 19 december (Val d'Ambin tot 12 maart, de Monolithe tot 14 maart, Termignon tot 5 maart).</p>"
+    }
+  },
+  "latitude": 45.284131,
+  "longitude": 6.873613,
+  "official_site_url": "https://www.valcenis.com/ski-et-glisse/le-domaine-alpin-de-val-cenis/",
+  "partners": [],
+  "postal_code": "73480",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-18, FR pages only (valcenis.com). Domaine alpin de 1 300 à 2 800 m reliant Val Cenis Lanslevillard, Lanslebourg et Termignon skis aux pieds, 1 500 m de dénivelé ; « 125 km de pistes balisées », « 65 pistes dont 17 vertes, 21 bleues, 22 rouges et 5 noires », 29 remontées ; « 10 km : la longueur de la piste de l'Escargot, la plus longue piste verte d'Europe » (gratuité de la zone débutant NON retrouvée sur les pages actuelles — non affirmée). Saison 26/27 : CONTRADICTION interne — page alpin « du 12 décembre 2026 au 16 avril 2027 » vs page forfaits « du dimanche 13 décembre 2026 au vendredi 16 avril 2027 » (partielles 13-18/12 à -50 %, 10-16/04 à -30 %) — les deux citées. GRATUIT : « Le domaine skiable nordique du Val d'Ambin est gratuit pour tous ! » (29 km, 1 230-1 800 m) ; à Termignon « L'accès est libre et gratuit ! » ; le Monolithe (Sardières/Aussois) « 39 kms » ; forfait offert <5 ans et 75+ ; « garantie météo : une exclusivité Val Cenis ». Nordique 26/27 : Val d'Ambin 19/12–12/03, Monolithe 19/12–14/03, Termignon 19/12–05/03. Luge 900 m, snowpark, snowtubing. Label Flocon Vert. Col et lac du Mont-Cenis déjà publiés — non repris. Coordonnées IGN (commune Val-Cenis, INSEE 73290).",
+  "schema_org": {
+    "amenities": [],
+    "is_free": false,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "station-de-val-cenis",
+  "sources": [
+    "https://www.valcenis.com/ski-et-glisse/le-domaine-alpin-de-val-cenis/",
+    "https://www.valcenis.com/ski-et-glisse/les-forfaits-de-ski/",
+    "https://www.valcenis.com/ski-et-glisse/le-domaine-nordique-de-val-cenis/",
+    "https://www.valcenis.com/"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "OUVERTURE 26/27 — deux dates sur le même site officiel : « 12 décembre 2026 » (page alpin) vs « dimanche 13 décembre 2026 » (page forfaits) ; les deux citées, jamais arbitrées.",
+    "ESCARGOT — la gratuité historique de la zone débutant n'est plus publiée sur les pages actuelles ; non affirmée.",
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published; kept null."
+  ]
+}

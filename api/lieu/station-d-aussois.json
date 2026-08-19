@@ -1,0 +1,37 @@
+{
+  "name": "Aussois",
+  "commune": "Aussois",
+  "gps": {
+    "lat": 45.229546,
+    "lng": 6.74217
+  },
+  "type": "station",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": false,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "12 décembre 2026 – 9 avril 2027",
+  "winter": {
+    "access": "open",
+    "infrastructure": [
+      "ski_alpin",
+      "ski_fond",
+      "raquettes",
+      "chiens_traineau",
+      "luge"
+    ],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
+  "official_url": "https://www.aussois.com/hiver/domaine-skiable/",
+  "last_verified": null
+}

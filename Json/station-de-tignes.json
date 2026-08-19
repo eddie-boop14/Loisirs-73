@@ -1,0 +1,620 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-18",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "station",
+  "commune": "Tignes",
+  "date_modified_human": "18 août 2026",
+  "date_published_human": "18 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-18",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-telesiege.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Der Gipfel der Domäne, bis in den Sommer (20. Juni -) 19. Juli 2026.",
+          "tag": "Alle Jahreszeiten",
+          "title": "Der Grande Motte Gletscher"
+        },
+        {
+          "description": "\"Sanfte, kostenlose Aufzüge\" in speziellen gesicherten Zonen.",
+          "tag": "Kein Pass",
+          "title": "Freie Anfängerzonen"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Tignes</strong> ist \"5 Dörfer zwischen 1.550 m und 2.100 m eingebettet\" — Val Claret, le Lac, le Lavachet, Tignes 1800, les Brévières — unter dem <strong>Grande Motte</strong> Gletscher. Die Domain, die mit Val d'Isère verknüpft ist, steht auf '<strong>300 km Laufstrecke</strong>' über etwa 10.000 Hektar. An seinen eigenen Grenzen zögert die offizielle Website: \"Ausdehnung zwischen 1.550 m und 3 450 m\" auf der Skigebietsseite, \"zwischen 1.550 m und 3 456 m\" auf der Homepage — Wir zitieren beide, wie wir tignes.net '74 Lifts' gegen valdisere.com '71' tun.</p><p>Für Anfänger, 'gesicherte Zonen wurden speziell angelegt' mit '<strong>leichte, freie Aufzüge</strong>„; Um sich fortzubewegen, fahren \"kostenlose Shuttles den ganzen Tag in regelmäßigen Abständen, Sommer und Winter gleichermaßen\", zwischen den Dörfern und weiter zum Val d'Isère. Abseits der Pisten spielt das Resort eine einzigartige Hand: Eistauchen, Speed Riding, Winterbergsteigen, der Tignespace-Komplex, das Wasserzentrum Lagon und das Schneedorf La Banquise.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Bezahlt",
+        "best_season": "21. November 2026 – 2. Mai 2027",
+        "commune": "Tignes",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Skigebiet",
+        "winter_access": "open",
+        "winter_infra": [
+          "Ski alpin",
+          "Lastwagen",
+          "Raquetten",
+          "Ski rando"
+        ]
+      },
+      "faq": [
+        {
+          "a": "vom 21. November 2026 bis zum 2. Mai 2027 — unter den ersten Eröffnungen von Savoie, schrittweise hochgefahren; Die Val d'Isère-Verbindung öffnet sich ab dem 28. November, wenn Schnee es zulässt.",
+          "q": "Wann öffnet sich Tignes?"
+        },
+        {
+          "a": "Die offiziellen Seiten widersprechen: Der höchste Punkt der Domäne wird als '3 450 m' (Seite Skigebiet) und '3 456 m' (Homepage) angegeben. Aufzüge wie '74' (tignes.net) und '71' (valdisere.com). Wir zitieren jede Version.",
+          "q": "3.450 m oder 3.456 m? 71 oder 74 Lifte?"
+        },
+        {
+          "a": "Die gesicherten Anfängerzonen verlassen sich auf \"sanfte, kostenlose Lifte\" - und die Shuttles zwischen den Dörfern sind den ganzen Tag kostenlos, Sommer und Winter gleichermaßen.",
+          "q": "Kostet Skifahren in Tignes Geld?"
+        },
+        {
+          "a": "Eistauchen (auf dem Tignes See, der eine eigene Seite hat), Speed Riding, Winterbergsteigen, Tignespace (Trampoline, Klettern, Skatepark), der Lagon und das La Banquise Schneedorf.",
+          "q": "Was ist einzigartig abseits der Pisten?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · 5 Dörfer",
+        "lead": "Fünf Dörfer zwischen 1.550 und 2.100 m um den Gletscher Grande Motte, 300 km verbunden mit Val d'Isère — und der erste Schnee von Savoie ab dem 21. November."
+      },
+      "hero_alt": "Sessellift über den Tignes Pisten, Haute-Tarentaise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D902 from Bourg-Saint-Maurice, past les Brévières then the Tignes dam.",
+        "public_transport": "Bourg-Saint-Maurice SNCF Station, dann High-Tarentaise Bus."
+      },
+      "meta_description": "Tignes: fünf Dörfer zwischen 1.550 und 2.100 m, 300 km mit Val d'Isère verbunden, kostenlose Anfängerzonen, kostenlose Shuttles. Saison 2026-27 ab 21. November — Der erste Schnee von Savoie.",
+      "meta_title": "Tignes · 5 Dörfer, der Grande Motte Gletscher",
+      "name": "Tignes",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Dörfer",
+          "v": "Val Claret · le Lac · le Lavachet · Tignes 1800 · les Brévières (1 550 – 2100 m"
+        },
+        {
+          "k": "Verlinkte Domain",
+          "v": "300 km mit Val d'Isère · 74 Lifte (71 pro valdisere.com) · Hochpunkt 3.450 oder 3.456 m je nach Seite"
+        },
+        {
+          "k": "Saison 26/27",
+          "v": "21. November 2026 – 2. Mai 2027"
+        },
+        {
+          "k": "frei",
+          "v": "Sanfte Lifte für Anfängerzonen · Inter-Dorf-Shuttle den ganzen Tag"
+        },
+        {
+          "k": "Kontakt",
+          "v": "Maisons de Tignes · +33 4 79 40 04 40"
+        }
+      ],
+      "schema_amenities": [
+        "Freie Shuttles",
+        "Freie Anfängerzonen",
+        "Der Lagon"
+      ],
+      "when_to_visit": "<p>Die Saison 2026-27 wird veröffentlicht: <strong>21. November 2026 bis 2. Mai 2027</strong>, mit \"progressiver Öffnung des Skigebiets ab 21. November\", die Val d'Isère verknüpfte Domäne nach \"ab 28. November\" Schnee erlaubt. Im Sommer lebt der Gletscher vom 20. Juni bis zum 6. September. Sommerskifahren auf dem Grande Motte 20. Juni bis 19. Juli, ein \"220 Kilometer\" Bike Park 27. Juni bis 30. August.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "The domain's summit, skiable into summer (20 June – 19 July 2026).",
+          "tag": "All seasons",
+          "title": "The Grande Motte glacier"
+        },
+        {
+          "description": "'Gentle, free lifts' in dedicated secured zones.",
+          "tag": "No pass",
+          "title": "Free beginner zones"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Tignes</strong> is '5 villages nestled between 1,550 m and 2,100 m' — Val Claret, le Lac, le Lavachet, Tignes 1800, les Brévières — beneath the <strong>Grande Motte</strong> glacier. The domain linked with Val d'Isère lines up '<strong>300 km of runs</strong>' over some 10,000 hectares. On its own bounds the official site hesitates: 'stretching between 1,550 m and 3,450 m' on the ski-area page, 'between 1,550 m and 3,456 m' on the homepage — we quote both, as we do tignes.net's '74 lifts' against valdisere.com's '71'.</p><p>For beginners, 'secured zones have been specially laid out' with '<strong>gentle, free lifts</strong>'; for getting around, 'free shuttles run all day at regular intervals, summer and winter alike', between the villages and on to Val d'Isère. Off the slopes the resort plays a singular hand: ice diving, speed riding, winter mountaineering, the Tignespace complex, the Lagon aquatic centre and the La Banquise snow village.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Paid",
+        "best_season": "21 November 2026 – 2 May 2027",
+        "commune": "Tignes",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Ski resort",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin",
+          "luge",
+          "raquettes",
+          "ski_rando"
+        ]
+      },
+      "faq": [
+        {
+          "a": "From 21 November 2026 to 2 May 2027 — among Savoie's first openings, ramping up progressively; the Val d'Isère link opens from 28 November, snow permitting.",
+          "q": "When does Tignes open?"
+        },
+        {
+          "a": "The official pages disagree: the domain's high point is given as '3,450 m' (ski-area page) and '3,456 m' (homepage); lifts as '74' (tignes.net) and '71' (valdisere.com). We quote each version.",
+          "q": "3,450 m or 3,456 m? 71 or 74 lifts?"
+        },
+        {
+          "a": "The secured beginner zones rely on 'gentle, free lifts' — and the shuttles between villages are free all day, summer and winter alike.",
+          "q": "Does learning to ski cost money in Tignes?"
+        },
+        {
+          "a": "Ice diving (on the Tignes lake, which has its own page), speed riding, winter mountaineering, Tignespace (trampolines, climbing, skatepark), the Lagon and the La Banquise snow village.",
+          "q": "What is unique off the slopes?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · 5 villages",
+        "lead": "Five villages between 1,550 and 2,100 m around the Grande Motte glacier, 300 km linked with Val d'Isère — and Savoie's first snow, from 21 November."
+      },
+      "hero_alt": "Chairlift above the Tignes slopes, Haute-Tarentaise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D902 from Bourg-Saint-Maurice, past les Brévières then the Tignes dam.",
+        "public_transport": "Bourg-Saint-Maurice SNCF station, then high-Tarentaise coach."
+      },
+      "meta_description": "Tignes: five villages between 1,550 and 2,100 m, 300 km linked with Val d'Isère, free beginner zones, free shuttles. 2026-27 season from 21 November — Savoie's first snow.",
+      "meta_title": "Tignes · 5 villages, the Grande Motte glacier",
+      "name": "Tignes",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Villages",
+          "v": "Val Claret · le Lac · le Lavachet · Tignes 1800 · les Brévières (1,550 – 2,100 m)"
+        },
+        {
+          "k": "Linked domain",
+          "v": "300 km with Val d'Isère · 74 lifts (71 per valdisere.com) · high point 3,450 or 3,456 m depending on the page"
+        },
+        {
+          "k": "Season 26/27",
+          "v": "21 November 2026 – 2 May 2027"
+        },
+        {
+          "k": "Free",
+          "v": "Gentle beginner-zone lifts · inter-village shuttles all day"
+        },
+        {
+          "k": "Contact",
+          "v": "Maisons de Tignes · +33 4 79 40 04 40"
+        }
+      ],
+      "schema_amenities": [
+        "Free shuttles",
+        "Free beginner zones",
+        "The Lagon"
+      ],
+      "when_to_visit": "<p>The 2026-27 season is published: <strong>21 November 2026 to 2 May 2027</strong>, with 'progressive opening of the ski area from 21 November', the Val d'Isère linked domain following 'from 28 November' snow permitting. In summer the glacier lives from 20 June to 6 September — summer skiing on the Grande Motte 20 June to 19 July, a '220-kilometre' Bike Park 27 June to 30 August.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "Cumbre del dominio, esquiable en verano (20 de junio – 19 de julio de 2026).",
+          "tag": "Todas las estaciones",
+          "title": "El glaciar Grande Motte"
+        },
+        {
+          "description": "'Gentileza, ascensores gratis' en zonas aseguradas dedicadas.",
+          "tag": "No pase",
+          "title": "Zonas de inicio libres"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Tignes</strong> es '5 aldeas situadas entre 1 550 m y 2.100 m' Val Claret, le Lac, le Lavachet, Tignes 1800, les Brévières — debajo de <strong>Grande Motte</strong> glaciar. El dominio vinculado con las líneas Val d'Isère suben '<strong>300 km de pistas</strong>Más de 10.000 hectáreas. En sus propios límites el sitio oficial duda: 'entre 1 550 m y 3.450 m' en la página de esquí-área, 'entre 1.550 m y 3.456 m' en la página principal — citamos ambos, como hacemos los '74 ascensores' de tignes.net contra el '71' de Valdisere.com.</p><p>Para principiantes, 'zonas aseguradas han sido especialmente establecidas' con '<strong>ascensores suaves y libres</strong>'; para moverse, 'los transbordadores libres corren todo el día a intervalos regulares, verano e invierno por igual', entre los pueblos y en Val d'Isère. Fuera de las pistas el resort juega una mano singular: buceo de hielo, paseos rápidos, montañismo de invierno, el complejo Tignespace, el centro acuático Lagon y el pueblo de nieve La Banquise.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagado",
+        "best_season": "21 noviembre 2026 – 2 de mayo de 2027",
+        "commune": "Tignes",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Escuela de esquí",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski alpin",
+          "Luge",
+          "raquetas",
+          "ski rando"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Del 21 de noviembre de 2026 al 2 de mayo de 2027 — entre las primeras aberturas de Savoie, aumentando progresivamente; el enlace Val d'Isère se abre a partir del 28 de noviembre, permitiendo la nieve.",
+          "q": "¿Cuándo abre Tignes?"
+        },
+        {
+          "a": "Las páginas oficiales discrepan: el punto alto del dominio se da como '3 450 m' (página de esquí) y '3 456 m' (página de inicio); ascensores como '74' (tignes.net) y '71' (valdisere.com). Citamos cada versión.",
+          "q": "¿3.450 m o 3.456 m? 71 o 74 ascensores?"
+        },
+        {
+          "a": "Las zonas de inicio seguras dependen de 'montajes rápidos y libres' — y los transbordadores entre pueblos son gratis todo el día, verano e invierno por igual.",
+          "q": "¿Aprendiendo a esquiar cuesta dinero en Tignes?"
+        },
+        {
+          "a": "Buceo de hielo (en el lago Tignes, que tiene su propia página), paseos rápidos, montañismo de invierno, Tignespace (trampolines, escalada, skatepark), el Lagon y el pueblo de nieve La Banquise.",
+          "q": "¿Qué es único en las pistas?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · 5 aldeas",
+        "lead": "Cinco aldeas entre 1.550 y 2.100 m alrededor del glaciar Grande Motte, 300 km conectados con Val d'Isère y la primera nieve de Savoie, del 21 de noviembre."
+      },
+      "hero_alt": "Escenario por encima de las pistas Tignes, Alto-Tarentaise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D902 from Bourg-Saint-Maurice, past les Brévières then the Tignes dam.",
+        "public_transport": "Estación Bourg-Saint-Maurice SNCF, luego entrenador de alto nivel."
+      },
+      "meta_description": "Tignes: five villages between 1 550 and 2 100 m, 300 km linked with Val d'Isère, free beginner zones, free shuttles. 2026-27 temporada desde el 21 de noviembre — La primera nieve de Savoie.",
+      "meta_title": "Tignes · 5 pueblos, el glaciar Grande Motte",
+      "name": "Tignes",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Villages",
+          "v": "Val Claret · le Lac · le Lavachet · Tignes 1800 · les Brévières (1 550 – 2.100 m)"
+        },
+        {
+          "k": "Dominio vinculado",
+          "v": "300 km con Val d'Isère · 74 ascensores (71 por valdisere.com) · punto alto 3.450 o 3.456 m dependiendo de la página"
+        },
+        {
+          "k": "Temporada 26/27",
+          "v": "21 noviembre 2026 – 2 de mayo de 2027"
+        },
+        {
+          "k": "Gratis",
+          "v": "Remontes suaves de la zona de inicio · transbordadores entre aldeanos todo el día"
+        },
+        {
+          "k": "Contacto",
+          "v": "Maisons de Tignes · +33 4 79 40 04 40"
+        }
+      ],
+      "schema_amenities": [
+        "Traslados gratuitos",
+        "Zonas de inicio libres",
+        "El Lagon"
+      ],
+      "when_to_visit": "<p>La temporada 2026-27 se publica: <strong>21 de noviembre de 2026 a 2 de mayo de 2027</strong>, con 'abrimiento progresivo de la zona de esquí desde el 21 de noviembre', el dominio vinculado Val d'Isère tras 'de 28 noviembre' permiso de nieve. En verano el glaciar vive del 20 de junio al 6 de septiembre — esquí de verano en el Grande Motte del 20 de junio al 19 de julio, un parque de bicicletas \"220 kilómetros\" del 27 de junio al 30 de agosto.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Sommet du domaine, skiable jusqu'en été (20 juin – 19 juillet 2026).",
+          "tag": "Toutes saisons",
+          "title": "Le glacier de la Grande Motte"
+        },
+        {
+          "description": "« Remontées mécaniques douces et gratuites » dans des zones sécurisées dédiées.",
+          "tag": "Sans forfait",
+          "title": "Zones débutants gratuites"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Tignes</strong>, ce sont « 5 villages nichés entre 1550m et 2100m d'altitude » — Val Claret, le Lac, le Lavachet, Tignes 1800, les Brévières — sous le glacier de la <strong>Grande Motte</strong>. Le domaine relié avec Val d'Isère aligne « <strong>300 km de pistes</strong> » sur environ 10 000 hectares. Sur ses bornes, le site officiel lui-même hésite : « étendu entre 1 550 m et 3 450 m d'altitude » sur la page domaine, « entre 1 550 m et 3 456 m » sur la page d'accueil — nous citons les deux, comme les « 74 remontées mécaniques » de tignes.net face aux « 71 » de valdisere.com.</p><p>Pour débuter, « des zones sécurisées ont été spécialement aménagées » avec des « <strong>remontées mécaniques douces et gratuites</strong> » ; pour circuler, « des navettes gratuites circulent toute la journée à intervalles réguliers été comme hiver », entre les villages et jusqu'à Val d'Isère. Hors ski, la station joue une carte singulière : plongée sous glace, speed riding, alpinisme, le complexe Tignespace, l'espace aquatique du Lagon et le village des neiges de La Banquise.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Payant",
+        "best_season": "21 novembre 2026 – 2 mai 2027",
+        "commune": "Tignes",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Station de ski",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin",
+          "luge",
+          "raquettes",
+          "ski_rando"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Du 21 novembre 2026 au 2 mai 2027 — parmi les premières ouvertures de Savoie, en montée en puissance progressive ; la liaison avec Val d'Isère ouvre dès le 28 novembre, sous réserve d'enneigement.",
+          "q": "Quand ouvre Tignes ?"
+        },
+        {
+          "a": "Les pages officielles ne concordent pas : le point haut du domaine est donné à « 3 450 m » (page domaine skiable) et « 3 456 m » (page d'accueil) ; les remontées à « 74 » (tignes.net) et « 71 » (valdisere.com). Nous citons chaque version.",
+          "q": "3 450 m ou 3 456 m ? 71 ou 74 remontées ?"
+        },
+        {
+          "a": "Les zones débutants sécurisées s'appuient sur des « remontées mécaniques douces et gratuites » — et les navettes entre villages sont gratuites toute la journée, été comme hiver.",
+          "q": "Débuter à Tignes, c'est payant ?"
+        },
+        {
+          "a": "La plongée sous glace (sur le lac de Tignes, fiche dédiée), le speed riding, l'alpinisme hivernal, Tignespace (trampolines, escalade, skatepark), Le Lagon et le village des neiges de La Banquise.",
+          "q": "Que faire d'unique hors ski ?"
+        }
+      ],
+      "hero": {
+        "badge": "Station · 5 villages",
+        "lead": "Cinq villages entre 1 550 et 2 100 m autour du glacier de la Grande Motte, 300 km reliés à Val d'Isère — et la première neige de Savoie, dès le 21 novembre."
+      },
+      "hero_alt": "Télésiège au-dessus des pistes de Tignes, Haute-Tarentaise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D902 depuis Bourg-Saint-Maurice, par les Brévières puis le barrage de Tignes.",
+        "public_transport": "Gare SNCF de Bourg-Saint-Maurice, puis autocar de haute Tarentaise."
+      },
+      "meta_description": "Tignes : cinq villages entre 1 550 et 2 100 m, 300 km reliés à Val d'Isère, zones débutants gratuites, navettes gratuites. Saison 2026-27 dès le 21 novembre — la première neige de Savoie.",
+      "meta_title": "Tignes · 5 villages, glacier de la Grande Motte",
+      "name": "Tignes",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Villages",
+          "v": "Val Claret · le Lac · le Lavachet · Tignes 1800 · les Brévières (1 550 – 2 100 m)"
+        },
+        {
+          "k": "Domaine relié",
+          "v": "300 km avec Val d'Isère · 74 remontées (71 selon valdisere.com) · point haut 3 450 ou 3 456 m selon la page"
+        },
+        {
+          "k": "Saison 26/27",
+          "v": "21 novembre 2026 – 2 mai 2027"
+        },
+        {
+          "k": "Gratuit",
+          "v": "Remontées douces des zones débutants · navettes inter-villages toute la journée"
+        },
+        {
+          "k": "Contact",
+          "v": "Maisons de Tignes · 04 79 40 04 40"
+        }
+      ],
+      "schema_amenities": [
+        "Navettes gratuites",
+        "Zones débutants gratuites",
+        "Le Lagon"
+      ],
+      "when_to_visit": "<p>Saison 2026-27 publiée : <strong>du 21 novembre 2026 au 2 mai 2027</strong>, en « ouverture progressive du domaine skiable dès le 21 novembre », le domaine relié de Val d'Isère suivant « dès le 28 novembre » sous réserve d'enneigement. L'été, le glacier vit du 20 juin au 6 septembre — ski d'été sur la Grande Motte du 20 juin au 19 juillet, Bike Park de « 220 kilomètres de pistes » du 27 juin au 30 août.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "La vetta del dominio, sciabile in estate (20 giugno – 19 luglio 2026).",
+          "tag": "Tutte le stagioni",
+          "title": "Il ghiacciaio Grande Motte"
+        },
+        {
+          "description": "'Gentle, free lift' in zone protette dedicate.",
+          "tag": "No pass",
+          "title": "Zone principianti libere"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Tignes</strong> è '5 villaggi incastonati tra 1 550 m e 2.100 m' — Val Claret, le Lac, le Lavachet, Tignes 1800, les Brévières — sotto il <strong>Grande Motte</strong> ghiacciaio. Il dominio collegato alle linee Val d'Isère '<strong>300 km di piste</strong>Per circa 10.000 ettari. Su propri limiti il sito ufficiale esita: «stretching tra 1 550 m e 3.450 m» sulla pagina della ski-area, «tra 1 550 m e 3.456 m» sulla homepage — citiamo entrambi, come facciamo tignes.net '74 ascensori' contro valdisere.com '71'.</p><p>Per i principianti, \"le zone protette sono state appositamente predisposte\" con<strong>ascensori gentili e gratuiti</strong>'; per muoversi, 'nave libere correre tutto il giorno a intervalli regolari, estate e inverno, tra i villaggi e su Val d'Isère. Sulle pendici il resort gioca una mano singolare: immersioni su ghiaccio, speed riding, alpinismo invernale, il complesso Tignespace, il centro acquatico Lagon e il villaggio neve La Banquise.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagato",
+        "best_season": "21 novembre 2026 – 2 maggio 2027",
+        "commune": "Tignes",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Stazione sciistica",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski alpin",
+          "L'acqua",
+          "racchette",
+          "ski rando"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Dal 21 novembre 2026 al 2 maggio 2027 — tra le prime aperture di Savoie, dilagando progressivamente; il collegamento Val d'Isère si apre dal 28 novembre, neve permettendo.",
+          "q": "Quando si apre Tignes?"
+        },
+        {
+          "a": "Le pagine ufficiali non sono d'accordo: l'alto punto del dominio è dato come '3 450 m' (pagina di sci-area) e '3 456 m' (homepage); ascensori come '74' (tignes.net) e '71' (valdisere.com). Citiamo ogni versione.",
+          "q": "3.450 m o 3.456 m? 71 o 74 ascensori?"
+        },
+        {
+          "a": "Le zone di avviamento assicurate si basano su \"pulizia, ascensori liberi\" — e le navette tra villaggi sono gratuite tutto il giorno, l'estate e l'inverno.",
+          "q": "Imparare a sciare i soldi dei costi in Tignes?"
+        },
+        {
+          "a": "Immersioni nel ghiaccio (sul lago Tignes, che ha una propria pagina), escursioni a velocità, alpinismo invernale, Tignespace (trampolini, arrampicata, skatepark), Lagon e il villaggio neve La Banquise.",
+          "q": "Che cosa è unico fuori dalle piste?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · 5 villaggi",
+        "lead": "Cinque villaggi tra 1 550 e 2.100 m intorno al ghiacciaio Grande Motte, 300 km collegati con Val d'Isère — e la prima neve di Savoie, dal 21 novembre."
+      },
+      "hero_alt": "Seggiovia sopra le piste Tignes, Haute-Tarentaise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D902 from Bourg-Saint-Maurice, past les Brévières then the Tignes dam.",
+        "public_transport": "Stazione Bourg-Saint-Maurice SNCF, poi allenatore ad alta velocità."
+      },
+      "meta_description": "Tignes: cinque villaggi tra 1 550 e 2.100 m, 300 km collegati con Val d'Isère, zone principianti gratuite, navette gratuite. 2026-27 stagione dal 21 novembre — La prima neve di Savoie.",
+      "meta_title": "Tignes · 5 villaggi, il ghiacciaio Grande Motte",
+      "name": "Tignes",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Villaggi",
+          "v": "Val Claret · le Lac · le Lavachet · Tignes 1800 · les Brévières (1 550 – 2.100 m)"
+        },
+        {
+          "k": "Dominio collegato",
+          "v": "300 km con Val d'Isère · 74 ascensori (71 per valdisere.com) · alto punto 3 450 o 3 456 m a seconda della pagina"
+        },
+        {
+          "k": "Stagione 26/27",
+          "v": "21 novembre 2026 – 2 maggio 2027"
+        },
+        {
+          "k": "Gratis",
+          "v": "Gentle startner-zone lift · navette inter-villaggio tutto il giorno"
+        },
+        {
+          "k": "Contatto",
+          "v": "Maisons de Tignes · +33 4 79 40 04 40"
+        }
+      ],
+      "schema_amenities": [
+        "Navette gratuite",
+        "Zone principianti libere",
+        "Il Lagon"
+      ],
+      "when_to_visit": "<p>La stagione 2026-27 è pubblicata: <strong>21 novembre 2026 - 2 maggio 2027</strong>, con 'apertura progressiva dell'area sciistica dal 21 novembre', il dominio Val d'Isère collegato dopo 'dal 28 novembre' neve permettendo. In estate il ghiacciaio vive dal 20 giugno al 6 settembre — sci estivo sull'Grande Motte dal 20 giugno al 19 luglio, un '220 km' Bike Park dal 27 giugno al 30 agosto.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Top van het domein, in de zomer te skiën (20 juni 19 juli 2026).",
+          "tag": "Alle seizoenen",
+          "title": "De Grande Motte gletsjer"
+        },
+        {
+          "description": "'Zacht, gratis liften' in speciale beveiligde zones.",
+          "tag": "Geen pass",
+          "title": "Vrije beginnerszones"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Tignes</strong> is '5 dorpen genesteld tussen 1 550 m en 2100 m' Val Claret, le Lac, le Lavachet, Tignes 1800, les Brévières — onder de <strong>Grande Motte</strong> Gletsjer. Het domein gelinkt met Val d'Isère lijnen omhoog '<strong>300 km hardlopen</strong>Meer dan 10.000 hectare. Op eigen kracht aarzelt de officiële site: \"tussen 1 550 m en 3450 m\" op de skigebiedpagina, \"tussen 1 550 m en 3 456 m\" op de homepage Wij citeren beide, net als de '74 liften' van tignes.net tegen de '71' van valdisere.com.</p><p>Voor beginners zijn \"beveiligde zones speciaal aangelegd\" met \"<strong>zachte, gratis liften</strong>\"; Voor rondreis, 'gratis shuttles lopen de hele dag met regelmatige tussenpozen, zomer en winter', tussen de dorpen en op naar Val d'Isère. Vanuit de pisten speelt het resort een unieke hand: ijsduiken, snelheid rijden, winter bergsport, het Tignespace complex, het Lagon water centrum en het La Banquise sneeuwdorp.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Betaald",
+        "best_season": "21 november 2026 2 mei 2027",
+        "commune": "Tignes",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Skigebied",
+        "winter_access": "open",
+        "winter_infra": [
+          "Skialpin",
+          "luge",
+          "raquettes",
+          "ski rando"
+        ]
+      },
+      "faq": [
+        {
+          "a": "van 21 november 2026 tot en met 2 mei 2027 tussen de eerste openingen van Savoie, geleidelijk aan oplopend; de Val d'Isère link opent vanaf 28 november, sneeuw maakt het mogelijk.",
+          "q": "Wanneer opent Tignes?"
+        },
+        {
+          "a": "De officiële pagina's zijn het oneens: het hoogtepunt van het domein is '3 450 m' (skigebiedpagina) en '3 456 m' (homepage); tilt als '74' (tignes.net) en '71' (valdisere.com). We citeren elke versie.",
+          "q": "3.450 m of 3.456 m? 71 of 74 liften?"
+        },
+        {
+          "a": "De beveiligde beginnerzones zijn afhankelijk van 'zachte, vrije liften'. en de shuttles tussen dorpen zijn de hele dag gratis, zomer en winter.",
+          "q": "Kost het leren skiën geld in Tignes?"
+        },
+        {
+          "a": "IJsduiken (op het Tignes meer, dat zijn eigen pagina heeft), snelrijden, winter bergsport, Tignespace (trampolines, klimmen, skatepark), de Lagon en het La Banquise sneeuwdorp.",
+          "q": "Wat is uniek aan de pistes?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · 5 dorpen",
+        "lead": "Vijf dorpjes tussen 1.550 en 2100 m rond de Grande Motte gletsjer, 300 km verbonden met Val d'Isère en Savoie's eerste sneeuw, vanaf 21 november."
+      },
+      "hero_alt": "Stoeltjeslift boven de Tignes pisten, Haute-Tarentaise",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D902 from Bourg-Saint-Maurice, past les Brévières then the Tignes dam.",
+        "public_transport": "Bourg-Saint-Maurice SNCF station, dan high-Tarentaise bus."
+      },
+      "meta_description": "Tignes: vijf dorpen tussen 1.550 en 2100 m, 300 km verbonden met Val d'Isère, gratis beginnerszones, gratis pendeldiensten. 2026-27 seizoen van 21 November De eerste sneeuw van Savoie.",
+      "meta_title": "Tignes · 5 dorpen, de Grande Motte gletsjer",
+      "name": "Tignes",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Dorpen",
+          "v": "Val Claret · le Lac · le Lavachet · Tignes 1800 · les Brévières (1 550 – 2100 m)"
+        },
+        {
+          "k": "Gekoppeld domein",
+          "v": "300 km met Val d'Isère · 74 liften (71 per valdisere.com) · hoogtepunt 3 450 of 3 456 m, afhankelijk van de pagina"
+        },
+        {
+          "k": "Seizoen 26/27",
+          "v": "21 november 2026 2 mei 2027"
+        },
+        {
+          "k": "Vrij",
+          "v": "Voorzichtige beginner-zone liften · inter-dorp shuttles de hele dag"
+        },
+        {
+          "k": "Contactpersoon",
+          "v": "Maisons de Tignes · +33 4 79 40 04 40"
+        }
+      ],
+      "schema_amenities": [
+        "Gratis pendeldiensten",
+        "Vrije beginnerszones",
+        "De Lagon"
+      ],
+      "when_to_visit": "<p>Het seizoen 2026-27 wordt gepubliceerd: <strong>21 november 2026 tot en met 2 mei 2027</strong>, met 'progressieve opening van het skigebied vanaf 21 november', het met Val d'Isère verbonden domein na 'van 28 november' sneeuw toestaan. In de zomer leeft de gletsjer van 20 juni tot en met 6 september Zomerskiën op de Grande Motte van 20 juni tot 19 juli, een '220 kilometer' Bike Park van 27 juni tot 30 augustus.</p>"
+    }
+  },
+  "latitude": 45.468338,
+  "longitude": 6.906293,
+  "official_site_url": "https://www.tignes.net/ski/domaine-skiable",
+  "partners": [],
+  "postal_code": "73320",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-18, FR pages only (tignes.net). « 5 villages nichés entre 1550m et 2100m d'altitude » ; domaine « étendu entre 1 550 m et 3 450 m » (page domaine) vs page d'accueil « entre 1 550 m et 3 456 m » — contradiction interne reportée. « 300 km de pistes », « 74 remontées mécaniques » sur ~10 000 ha (valdisere.com : « 71 » — reportée). Saison 26/27 publiée : 21 novembre 2026 – 2 mai 2027, « ouverture progressive dès le 21 novembre », domaine relié de Val d'Isère « dès le 28 novembre » sous réserve d'enneigement. Zones débutants : « Remontées mécaniques douces et gratuites ». Navettes gratuites « toute la journée à intervalles réguliers été comme hiver » (Tignes 2100, 1800, Les Brévières, + circuit vers Val d'Isère). Été : glacier 20/06–06/09, ski d'été Grande Motte 20/06–19/07, Bike Park 220 km 27/06–30/08. Patinoire/chiens de traîneaux non confirmés sur la page activités — non repris. Fiche station distincte de la fiche lac-de-tignes déjà publiée.",
+  "schema_org": {
+    "amenities": [],
+    "is_free": false,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "station-de-tignes",
+  "sources": [
+    "https://www.tignes.net/ski/domaine-skiable",
+    "https://www.tignes.net/ouvertures-station",
+    "https://www.tignes.net/guide-station/mobilite/se-deplacer",
+    "https://www.tignes.net/"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published; kept null."
+  ]
+}

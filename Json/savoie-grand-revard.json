@@ -1,0 +1,676 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-18",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "station",
+  "commune": "Les Déserts",
+  "date_modified_human": "18 août 2026",
+  "date_published_human": "18 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-18",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-chiens-de-traineau-2.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Schlittschuhlaufen und Klassiker zwischen den drei Gateways des Bauges - Savoie 'Little Canada'.",
+          "tag": "Nordwesten",
+          "title": "150 km Wanderwege auf dem Plateau"
+        },
+        {
+          "description": "Evening skiing Tuesdays and Thursdays, 5 pm to 8:30 pm, under the floodlights.",
+          "tag": "Nachtski",
+          "title": "Die Hibou Abende"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Savoie Grand Revard</strong> ist kein Downhill-Resort mit etwas Cross Country an der Seite - Es ist umgekehrt. Auf dem Bauges-Massivplateau \"manchmal mit einem Spitznamen\"<strong>Kleines Kanada</strong>\", drei Gateways -\" <strong>La Féclaz</strong> (Les Déserts) <strong>Le Revard</strong> und <strong>Saint-François-de-Sales</strong> — offen<strong>150 km nordische Skiwege</strong>', präpariert für Schlittschuhlaufen und klassisch, verdoppelt um rund 60 km Schneeschuhrouten. Auf dem Rang der Domain sagen die offiziellen Websites nicht dasselbe: \"Frankreichs verkehrsreichstes nordisches Gebiet\" per savoienordic.com, \"anerkannt als eines der besten Europas\" und \"eine nordische Ski-Benchmark\" per chamberymontagnes.com — Wir zitieren jede Formel. Das nordische Beschneiungsnetz wird als \"Frankreichs größtes\" bezeichnet.</p><p>Alpine existiert in seinem eigenen Maßstab: \"30 km Pisten über zwei Sektoren\", 26 meist blaue Pisten, 2 Sesselbahnen, 2 Teppiche und 4 Schlepplifte - Eine Lerndomäne 30 Minuten von Chambéry und 35 von Aix-les-Bains. Der Winter erstreckt sich über das Skifahren hinaus: biathlon, dog sledding, yooner, snow fatbiking, and the 'Hibou evenings' night skiing 'every Tuesday and Thursday evening, from 5 pm to 8:30 pm'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Bezahlt",
+        "best_season": null,
+        "commune": "Les Déserts",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Nordisches Skigebiet",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski nordique",
+          "ski fond",
+          "Ski alpin",
+          "Raquetten",
+          "chiens traineau",
+          "Lastwagen",
+          "Ski rando"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Für seine Wälder und verschneiten Mittelberghohlräume: Das Savoie Grand Revard-Plateau wird manchmal als \"Little Canada\" bezeichnet, schreibt die offizielle Website. Die Domain umfasst drei Gateways: La Féclaz, Le Revard und Saint-François-de-Sales.",
+          "q": "Warum \"Kanada\"?"
+        },
+        {
+          "a": "Nein — Der Zugang zur nordischen Domain erfolgt per Trailgebühr (12 € pro Erwachsenentag in den Jahren 2025-26, 12,50 € für 2026-27). Auf den konsultierten Seiten wird kein kostenloses Angebot veröffentlicht.",
+          "q": "Ist Cross-Country hier frei?"
+        },
+        {
+          "a": "Noch nicht veröffentlicht am 18. August 2026. Referenz: Nordic 2025-26 lief vom 22. November bis 6. April 'Schneebedingungen erlauben', alpine 20. Dezember bis 22. März. Wir werden über die Veröffentlichung aktualisieren.",
+          "q": "Wann beginnt die Saison 2026-27?"
+        },
+        {
+          "a": "Ja: the 'Hibou evenings' light up night skiing 'every Tuesday and Thursday evening, from 5 pm to 8:30 pm' — mit Fackelabfahrten und Feuerwerk im Veranstaltungskalender.",
+          "q": "Können Sie nachts Ski fahren?"
+        }
+      ],
+      "hero": {
+        "badge": "Nordische Domain · Bauges",
+        "lead": "Die Bauges 'Little Canada', 30 Minuten von Chambéry: 150 km Überland über ein Dreitorplateau — Die nordische Region Savoie Nordic nennt Frankreichs verkehrsreichste."
+      },
+      "hero_alt": "Schlittenhunde auf dem Savoie Grand Revard Plateau",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D913 von Chambéry über Saint-Jean-d'Arvey oder von Aix-les-Bains über den Revard.",
+        "public_transport": "Von Chambéry, Buslinien bis La Féclaz (saisonal)."
+      },
+      "meta_description": "Savoie Grand Revard, die Bauges 'Little Canada': 150 km Überland über drei Gateways (La Féclaz, Le Revard, Saint-François-de-Sales), 30 km Alpen, Hibou Nachtabende — 30 Minuten von Chambéry.",
+      "meta_title": "Savoie Grand Revard · Little Canada, 150 nordische km",
+      "name": "Savoie Grand Revard",
+      "name_alternates": [
+        "La Féclaz"
+      ],
+      "practical_info": [
+        {
+          "k": "Gateways",
+          "v": "La Féclaz (Les Déserts) · Le Revard · Saint-François-de-Sales"
+        },
+        {
+          "k": "Nordwesten",
+          "v": "150 km Eislaufen-klassisch · ~60 km Schneeschuh · Tagesgebühr 12,50 € (26/27)"
+        },
+        {
+          "k": "Alpen",
+          "v": "30 km über zwei Sektoren · 26 Pisten · 2 Sesselbahnen, 2 Teppiche, 4 Schlepplifte"
+        },
+        {
+          "k": "Saison 26/27",
+          "v": "Unveröffentlicht (2025-26): Nordic 22 Nov – 6. April, alpine 20 Dec – 22. März"
+        },
+        {
+          "k": "Zugang",
+          "v": "30 min von Chambéry, 35 min von Aix-les-Bains"
+        },
+        {
+          "k": "Kontakt",
+          "v": "La Féclaz Tourismusbüro · Ort Centrale, Les Déserts · +33 4 79 25 80 49"
+        }
+      ],
+      "schema_amenities": [
+        "150 nordische km",
+        "Hibou Abendabend",
+        "Schneeschuhrouten"
+      ],
+      "when_to_visit": "<p>Ab dem 18. August 2026 war die Saison 2026-27 nicht datiert — Obwohl die Preise von 2026-27 Nordic bereits online sind (Erwachsenentag bei 12,50 €). Als Referenz öffnete Nordic 2025-26 \"vom 22. November ... Schneebedingungen erlauben\" bis zum 6. April, alpine 20. Dezember bis 22. März. Der Zugang zu den nordischen Trails wird bezahlt (Trail-Gebühr). Im Sommer wird das Plateau zum Wandern, dem Fahrradpark, dem Sommerbiathlon und dem Schienenschlitten.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "Skating and classic between the Bauges' three gateways — Savoie's 'Little Canada'.",
+          "tag": "Nordic",
+          "title": "150 km of trails on the plateau"
+        },
+        {
+          "description": "Evening skiing Tuesdays and Thursdays, 5 pm to 8:30 pm, under the floodlights.",
+          "tag": "Night skiing",
+          "title": "The Hibou evenings"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Savoie Grand Revard</strong> is not a downhill resort with some cross-country on the side — it is the reverse. On the Bauges massif plateau, 'sometimes nicknamed '<strong>Little Canada</strong>'', three gateways — <strong>La Féclaz</strong> (Les Déserts), <strong>Le Revard</strong> and <strong>Saint-François-de-Sales</strong> — open '<strong>150 km of Nordic ski trails</strong>', groomed for skating and classic, doubled by some 60 km of snowshoe routes. On the domain's rank, the official sites do not say the same thing: 'France's busiest Nordic area' per savoienordic.com, 'recognised as one of Europe's finest' and 'a Nordic skiing benchmark' per chamberymontagnes.com — we quote each formula. The Nordic snowmaking network is given as 'France's largest'.</p><p>Alpine exists, at its own scale: '30 km of runs over two sectors', 26 mostly-blue runs, 2 chairlifts, 2 carpets and 4 drag lifts — a learning domain 30 minutes from Chambéry and 35 from Aix-les-Bains. Winter stretches beyond skiing: biathlon, dog sledding, yooner, snow fatbiking, and the 'Hibou evenings' night skiing 'every Tuesday and Thursday evening, from 5 pm to 8:30 pm'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Paid",
+        "best_season": null,
+        "commune": "Les Déserts",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Nordic ski area",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_nordique",
+          "ski_fond",
+          "ski_alpin",
+          "raquettes",
+          "chiens_traineau",
+          "luge",
+          "ski_rando"
+        ]
+      },
+      "faq": [
+        {
+          "a": "For its forests and snowy mid-mountain hollows: 'the Savoie Grand Revard plateau is sometimes nicknamed 'Little Canada'', writes the official site. The domain spans three gateways: La Féclaz, Le Revard and Saint-François-de-Sales.",
+          "q": "Why 'Little Canada'?"
+        },
+        {
+          "a": "No — access to the Nordic domain is by trail fee (€12 an adult day in 2025-26, €12.50 posted for 2026-27). No free offer is published on the pages consulted.",
+          "q": "Is cross-country free here?"
+        },
+        {
+          "a": "Not yet published as of 18 August 2026. For reference: Nordic 2025-26 ran 22 November to 6 April 'snow conditions permitting', alpine 20 December to 22 March. We will update on publication.",
+          "q": "When does the 2026-27 season open?"
+        },
+        {
+          "a": "Yes: the 'Hibou evenings' light up night skiing 'every Tuesday and Thursday evening, from 5 pm to 8:30 pm' — with torchlit descents and fireworks on the events calendar.",
+          "q": "Can you ski at night?"
+        }
+      ],
+      "hero": {
+        "badge": "Nordic domain · Bauges",
+        "lead": "The Bauges' 'Little Canada', 30 minutes from Chambéry: 150 km of cross-country over a three-gateway plateau — the Nordic area Savoie Nordic calls France's busiest."
+      },
+      "hero_alt": "Sled dogs on the Savoie Grand Revard plateau",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D913 from Chambéry via Saint-Jean-d'Arvey, or from Aix-les-Bains via the Revard.",
+        "public_transport": "From Chambéry, coach lines to La Féclaz (seasonal)."
+      },
+      "meta_description": "Savoie Grand Revard, the Bauges' 'Little Canada': 150 km of cross-country over three gateways (La Féclaz, Le Revard, Saint-François-de-Sales), 30 km of alpine, Hibou night evenings — 30 minutes from Chambéry.",
+      "meta_title": "Savoie Grand Revard · Little Canada, 150 Nordic km",
+      "name": "Savoie Grand Revard",
+      "name_alternates": [
+        "La Féclaz"
+      ],
+      "practical_info": [
+        {
+          "k": "Gateways",
+          "v": "La Féclaz (Les Déserts) · Le Revard · Saint-François-de-Sales"
+        },
+        {
+          "k": "Nordic",
+          "v": "150 km skating-classic · ~60 km snowshoe · day fee €12.50 (26/27)"
+        },
+        {
+          "k": "Alpine",
+          "v": "30 km over two sectors · 26 runs · 2 chairlifts, 2 carpets, 4 drag lifts"
+        },
+        {
+          "k": "Season 26/27",
+          "v": "Unpublished (2025-26: Nordic 22 Nov – 6 April, alpine 20 Dec – 22 March)"
+        },
+        {
+          "k": "Access",
+          "v": "30 min from Chambéry, 35 min from Aix-les-Bains"
+        },
+        {
+          "k": "Contact",
+          "v": "La Féclaz tourist office · place centrale, Les Déserts · +33 4 79 25 80 49"
+        }
+      ],
+      "schema_amenities": [
+        "150 Nordic km",
+        "Hibou night evenings",
+        "Snowshoe routes"
+      ],
+      "when_to_visit": "<p>As of 18 August 2026 the 2026-27 season was not dated — though the 2026-27 Nordic rates are already online (adult day at €12.50). For reference, Nordic 2025-26 opened 'from 22 November… snow conditions permitting' until 6 April, alpine 20 December to 22 March. Access to the Nordic trails is paid (trail fee). In summer, the plateau turns to hiking, the bike park, summer biathlon and the rail sledge.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "Skating and classic between the Bauges' three gateways — Savoie es \"Pequeño Canadá\".",
+          "tag": "Nordic",
+          "title": "150 km de senderos en la meseta"
+        },
+        {
+          "description": "Esquiando los martes y jueves, de 5 a 8:30 pm, bajo las luces de inundación.",
+          "tag": "Esquí nocturno",
+          "title": "Las noches Hibou"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Savoie Grand Revard</strong> no es un complejo de cuesta abajo con algún país cruzado en el lado - Es el revés. En la meseta de macizo Bauges, a veces apodado<strong>Little Canada</strong>'', tres portales - <strong>La Féclaz</strong> (Les Déserts), <strong>Le Revard</strong> y <strong>Saint-François-de-Sales</strong> - abierto<strong>150 km de pistas de esquí nórdico</strong>', preparado para patinaje y clásico, doblado por unos 60 km de rutas de nieve. En el rango del dominio, los sitios oficiales no dicen lo mismo: 'La zona nórdica más activa de Francia' per savoienordic.com, 'reconocido como uno de los mejores de Europa' y 'un punto de referencia nórdico de esquí' por Chamberymontagnes.com — citamos cada fórmula. La red nórdica de snowmaking se da como 'la más grande de Francia'.</p><p>Alpine existe, a su propia escala: 30 km de carreras sobre dos sectores, 26 carreras en su mayoría azules, 2 telesillas, 2 alfombras y 4 ascensores de arrastre – a dominio de aprendizaje 30 minutos de Chambéry y 35 de Aix-les-Bains. El invierno se extiende más allá del esquí: Biatlón, perejil, yooner, goma de nieve, y la noche de \"Hibou\" esquiando 'todo el martes y jueves por la noche, de 5 pm a 8:30 pm'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagado",
+        "best_season": null,
+        "commune": "Les Déserts",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Zona nórdica de esquí",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski nordique",
+          "ski fond",
+          "ski alpin",
+          "raquetas",
+          "chiens traineau",
+          "Luge",
+          "ski rando"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Por sus bosques y huecas nevadas de media montaña: 'la meseta Savoie Grand Revard es a veces apodada 'Pequeño Canadá', escribe el sitio oficial. El dominio abarca tres portales: La Féclaz, Le Revard y Saint-François-de-Sales.",
+          "q": "¿Por qué 'Pequeño Canadá'?"
+        },
+        {
+          "a": "No. acceso al dominio nórdico es por tarifa de ruta (€12 un día adulto en 2025-26, €12.50 posted for 2026-27). No se publica ninguna oferta gratuita en las páginas consultadas.",
+          "q": "¿Está libre el cross-country aquí?"
+        },
+        {
+          "a": "Aún no publicado el 18 de agosto de 2026. Para referencia: Nordic 2025-26 corrió entre el 22 de noviembre y el 6 de abril 'condiciones de conocimiento permitidas', alpina del 20 de diciembre al 22 de marzo. Actualizaremos sobre la publicación.",
+          "q": "¿Cuándo se abre la temporada 2026-27?"
+        },
+        {
+          "a": "Sí: las noches Hibou iluminan el esquí nocturno todo el martes y jueves por la noche, de 5 pm a 8:30 pm con linajes y fuegos artificiales en el calendario de eventos.",
+          "q": "¿Puedes esquiar por la noche?"
+        }
+      ],
+      "hero": {
+        "badge": "Dominio nórdico · Bauges",
+        "lead": "El Bauges \"Pequeño Canadá\", a 30 minutos de Chambéry: 150 km de cross-country sobre una meseta de tres vías — el área nórdica Savoie Nordic llama el más ocupado de Francia."
+      },
+      "hero_alt": "Perros trineos en la meseta Savoie Grand Revard",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D913 de Chambéry vía Saint-Jean-d'Arvey, o desde Aix-les-Bains a través del Revard.",
+        "public_transport": "Desde Chambéry, líneas de autobús hasta La Féclaz (seasonal)."
+      },
+      "meta_description": "Savoie Grand Revard, el Bauges 'Pequeño Canadá': 150 km de cross-country sobre tres portales (La Féclaz, Le Revard, Saint-François-de-Sales), 30 km de noches nocturnas alpinas, Hibou A 30 minutos de Chambéry.",
+      "meta_title": "Savoie Grand Revard · Pequeño Canadá, 150 km nórdico",
+      "name": "Savoie Grand Revard",
+      "name_alternates": [
+        "La Féclaz"
+      ],
+      "practical_info": [
+        {
+          "k": "Gateways",
+          "v": "La Féclaz (Les Déserts) · Le Revard · Saint-François-de-Sales"
+        },
+        {
+          "k": "Nordic",
+          "v": "150 km skating-classic · ~60 km snowshoe · day fee 12,50 € (26/27)"
+        },
+        {
+          "k": "Alpine",
+          "v": "30 km sobre dos sectores · 26 pistas · 2 telesillas, 2 alfombras, 4 ascensores"
+        },
+        {
+          "k": "Temporada 26/27",
+          "v": "Inédito (2025-26: Nórdico 22 nov – 6 de abril, alpino 20 de diciembre – 22 de marzo)"
+        },
+        {
+          "k": "Acceso",
+          "v": "30 min de Chambéry, 35 min de Aix-les-Bains"
+        },
+        {
+          "k": "Contacto",
+          "v": "La Féclaz oficina de turismo · lugar central, Les Déserts · +33 4 79 25 80 49"
+        }
+      ],
+      "schema_amenities": [
+        "150 km nórdico",
+        "Hibou noches nocturnas",
+        "Rutas de Snowhoe"
+      ],
+      "when_to_visit": "<p>Al 18 de agosto de 2026 la temporada 2026-27 no estaba fechada — aunque las tarifas nórdicas 2026-27 ya están en línea (día adulta a 12,50 €). Para referencia, Nordic 2025-26 abrió 'desde el 22 de noviembre... las condiciones de nieve permiten' hasta el 6 de abril, alpina del 20 de diciembre al 22 de marzo. El acceso a los senderos nórdicos se paga (de pago). En verano, la meseta se convierte en senderismo, el parque de bicicletas, el biatlón de verano y la cornisa del ferrocarril.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Skating et alternatif entre les trois portes des Bauges — le « Petit Canada » savoyard.",
+          "tag": "Nordique",
+          "title": "150 km de fond sur le plateau"
+        },
+        {
+          "description": "Ski en soirée les mardis et jeudis, de 17h à 20h30, sous les projecteurs.",
+          "tag": "Nocturne",
+          "title": "Les soirées Hibou"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Savoie Grand Revard</strong> n'est pas une station de descente qui fait du fond à côté — c'est l'inverse. Sur le plateau du massif des Bauges, « parfois surnommé '<strong>le Petit Canada</strong>' », trois portes — <strong>La Féclaz</strong> (Les Déserts), <strong>Le Revard</strong> et <strong>Saint-François-de-Sales</strong> — ouvrent « <strong>150 km de pistes pour le ski nordique</strong> », tracés en skating et alternatif, doublés d'environ 60 km d'itinéraires raquettes. Sur le rang du domaine, les sites officiels ne disent pas la même chose : « Espace nordique le plus fréquenté de France » selon savoienordic.com, « reconnu comme l'un des plus beaux d'Europe » et « référence du ski nordique » selon chamberymontagnes.com — nous citons chaque formule. Le réseau de neige de culture nordique est donné comme « le plus grand de France ».</p><p>L'alpin existe, à sa mesure : « 30 km de pistes répartis sur deux secteurs », 26 pistes majoritairement bleues, 2 télésièges, 2 tapis et 4 téléskis — un domaine d'apprentissage à 30 minutes de Chambéry et 35 d'Aix-les-Bains. L'hiver s'y étire au-delà du ski : biathlon, chiens de traîneaux, yooner, fatbike sur neige, et le ski nocturne des « soirées Hibou », « tous les mardis et jeudis soirs, de 17h à 20h30 ».</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Payant",
+        "best_season": null,
+        "commune": "Les Déserts",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Domaine nordique",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_nordique",
+          "ski_fond",
+          "ski_alpin",
+          "raquettes",
+          "chiens_traineau",
+          "luge",
+          "ski_rando"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Pour ses forêts et ses combes enneigées de moyenne montagne : « le plateau de Savoie Grand Revard est parfois surnommé 'le Petit Canada' », écrit le site officiel. Le domaine s'étend sur trois portes : La Féclaz, Le Revard et Saint-François-de-Sales.",
+          "q": "Pourquoi « le Petit Canada » ?"
+        },
+        {
+          "a": "Non — l'accès au domaine nordique se fait par redevance (12 € la journée adulte en 2025-26, 12,50 € affichés pour 2026-27). Aucune gratuité n'est publiée sur les pages consultées.",
+          "q": "Le ski de fond y est-il gratuit ?"
+        },
+        {
+          "a": "Pas encore publiée au 18 août 2026. En référence : nordique 2025-26 du 22 novembre au 6 avril « sous réserve d'enneigement suffisant », alpin du 20 décembre au 22 mars. Nous mettrons à jour dès publication.",
+          "q": "Quand ouvre la saison 2026-27 ?"
+        },
+        {
+          "a": "Oui : les « soirées Hibou » éclairent le ski nocturne « tous les mardis et jeudis soirs, de 17h à 20h30 » — avec descentes aux flambeaux et feu d'artifice au calendrier des animations.",
+          "q": "Peut-on y skier le soir ?"
+        }
+      ],
+      "hero": {
+        "badge": "Domaine nordique · Bauges",
+        "lead": "Le « Petit Canada » des Bauges, à 30 minutes de Chambéry : 150 km de ski de fond sur un plateau à trois portes — l'espace nordique que Savoie Nordic dit le plus fréquenté de France."
+      },
+      "hero_alt": "Chiens de traîneau sur le plateau de Savoie Grand Revard",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D913 depuis Chambéry par Saint-Jean-d'Arvey, ou depuis Aix-les-Bains par le Revard.",
+        "public_transport": "Depuis Chambéry, lignes d'autocar vers La Féclaz (selon saison)."
+      },
+      "meta_description": "Savoie Grand Revard, le « Petit Canada » des Bauges : 150 km de ski de fond sur trois portes (La Féclaz, Le Revard, Saint-François-de-Sales), 30 km d'alpin, soirées Hibou — à 30 minutes de Chambéry.",
+      "meta_title": "Savoie Grand Revard · le Petit Canada, 150 km nordiques",
+      "name": "Savoie Grand Revard",
+      "name_alternates": [
+        "La Féclaz"
+      ],
+      "practical_info": [
+        {
+          "k": "Portes",
+          "v": "La Féclaz (Les Déserts) · Le Revard · Saint-François-de-Sales"
+        },
+        {
+          "k": "Nordique",
+          "v": "150 km skating-alternatif · ~60 km raquettes · redevance journée 12,50 € (26/27)"
+        },
+        {
+          "k": "Alpin",
+          "v": "30 km sur deux secteurs · 26 pistes · 2 télésièges, 2 tapis, 4 téléskis"
+        },
+        {
+          "k": "Saison 26/27",
+          "v": "Non publiée (2025-26 : nordique 22 nov – 6 avril, alpin 20 déc – 22 mars)"
+        },
+        {
+          "k": "Accès",
+          "v": "À 30 min de Chambéry, 35 min d'Aix-les-Bains"
+        },
+        {
+          "k": "Contact",
+          "v": "OT de La Féclaz · place centrale, Les Déserts · 04 79 25 80 49"
+        }
+      ],
+      "schema_amenities": [
+        "150 km nordiques",
+        "Soirées Hibou nocturnes",
+        "Itinéraires raquettes"
+      ],
+      "when_to_visit": "<p>Au 18 août 2026, la saison 2026-27 n'était pas datée — les tarifs nordiques 2026-27, eux, sont déjà en ligne (journée adulte 12,50 €). En référence, le nordique 2025-26 ouvrait « dès le 22 novembre… sous réserve d'enneigement suffisant » jusqu'au 6 avril, l'alpin du 20 décembre au 22 mars. L'accès aux pistes nordiques est payant (redevance). L'été, place aux randonnées, au bike park, au biathlon d'été et à la luge sur rail.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Pattinaggio e classico tra i tre gateway di Bauges — \"Little Canada\" di Savoie.",
+          "tag": "Nordico",
+          "title": "150 km di sentieri sull'altopiano"
+        },
+        {
+          "description": "Evening skiing Tuesdays and Thursdays, 5 pm to 8:30 pm, under the floodlights.",
+          "tag": "Sci notturno",
+          "title": "Le serate Hibou"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Savoie Grand Revard</strong> non è un resort in discesa con qualche fondo sul lato — è il contrario. Sull'altopiano del massiccio Bauges, 'a volte soprannominato '<strong>Piccolo Canada</strong>«, tre porte — <strong>La Féclaz</strong> (Les Déserts), <strong>Le Revard</strong> e <strong>Saint-François-de-Sales</strong> — aperto (')<strong>150 km di piste da sci nordiche</strong>', curata per pattinaggio e classico, raddoppiata da circa 60 km di piste ciaspole. Sul rango del dominio, i siti ufficiali non dicono la stessa cosa: «L'area nordica più trafficata della Francia» per savoienordic.com, «riconosciuta come una delle più belle d'Europa» e «un punto di riferimento per lo sci nordico» per cameraymontagnes.com — citiamo ogni formula. La rete di innevamento nordico è considerata la più grande della Francia.</p><p>Esiste alpino, a propria scala: «30 km di piste su due settori», 26 piste per lo più azzurre, 2 seggiovie, 2 tappeti e 4 sollevatori di trascinamento — un dominio di apprendimento a 30 minuti da Chambéry e 35 da Aix-les-Bains. L'inverno va oltre lo sci: biathlon, dog sledding, yooner, snow fatbiking, and the 'Hibou evenings' night skiing 'every Tuesday and Thursday evening, from 5 pm to 8:30 pm'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagato",
+        "best_season": null,
+        "commune": "Les Déserts",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Zona sciistica nordica",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski nordique",
+          "sci fond",
+          "ski alpin",
+          "racchette",
+          "Chiens traineau",
+          "L'acqua",
+          "ski rando"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Per le sue foreste e le cavità innevate: 'l'altopiano Savoie Grand Revard è talvolta soprannominato 'Little Canada'', scrive il sito ufficiale. Il dominio abbraccia tre gateway: La Féclaz, Le Revard e Saint-François-de-Sales.",
+          "q": "Perché 'Little Canada'?"
+        },
+        {
+          "a": "No. l'accesso al dominio nordico è a pagamento (€12 un giorno adulto nel 2025-26, €12.50 per 2026-27). Nessuna offerta gratuita è pubblicata sulle pagine consultate.",
+          "q": "Qui non c'è nessun paese?"
+        },
+        {
+          "a": "Non ancora pubblicato il 18 agosto 2026. Per riferimento: Il nordico 2025-26 ha corso dal 22 novembre al 6 aprile 'snow conditions permettendo', alpino dal 20 dicembre al 22 marzo. Ci aggiorneremo sulla pubblicazione.",
+          "q": "Quando apre la stagione 2026-27?"
+        },
+        {
+          "a": "Sì. the 'Hibou evenings' light up night skiing 'every Tuesday and Thursday evening, from 5 pm to 8:30 pm' — con discese incendiate e fuochi d'artificio sul calendario eventi.",
+          "q": "Puoi sciare di notte?"
+        }
+      ],
+      "hero": {
+        "badge": "dominio nordico · Bauges",
+        "lead": "Bauges 'Little Canada', a 30 minuti da Chambéry: 150 km di fondo su un altopiano a tre porte — la zona nordica Savoie Nordic chiama la più trafficata della Francia."
+      },
+      "hero_alt": "Cani sled sull'altopiano Savoie Grand Revard",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D913 da Chambéry tramite Saint-Jean-d'Arvey, o da Aix-les-Bains tramite Revard.",
+        "public_transport": "Da Chambéry, linee di autobus a La Féclaz (stagionale)."
+      },
+      "meta_description": "Savoie Grand Revard, il Bauges 'Little Canada': 150 km di fondo su tre porte (La Féclaz, Le Revard, Saint-François-de-Sales), 30 km di alpeggio, serate di notte Hibou — 30 minuti da Chambéry.",
+      "meta_title": "Savoie Grand Revard · Little Canada, 150 km nordici",
+      "name": "Savoie Grand Revard",
+      "name_alternates": [
+        "La Féclaz"
+      ],
+      "practical_info": [
+        {
+          "k": "Gateways",
+          "v": "La Féclaz (Les Déserts) · Le Revard · Saint-François-de-Sales"
+        },
+        {
+          "k": "Nordico",
+          "v": "150 km skating-classic · ~60 km racchetta da neve · tassa di giorno €12.50 (26/27)"
+        },
+        {
+          "k": "Alpi",
+          "v": "30 km su due settori · 26 piste · 2 seggiovie, 2 tappeti, 4 sollevatori di trascinamento"
+        },
+        {
+          "k": "Stagione 26/27",
+          "v": "Inedito (2025-26: Nordic 22 Nov – 6 aprile, alpino 20 dic – 22 marzo)"
+        },
+        {
+          "k": "Accesso",
+          "v": "30 min da Chambéry, 35 min da Aix-les-Bains"
+        },
+        {
+          "k": "Contatto",
+          "v": "La Féclaz ufficio turistico · posto centrale, Les Déserts · +33 4 79 25 80 49"
+        }
+      ],
+      "schema_amenities": [
+        "150 km nordico",
+        "Hibou serate serali",
+        "Itinerari con le ciaspole"
+      ],
+      "when_to_visit": "<p>A partire dal 18 agosto 2026 la stagione 2026-27 non era datata — anche se i prezzi nordici 2026-27 sono già online (giorno adulto a € 12,50). Per riferimento, Nordic 2025-26 ha aperto 'dal 22 novembre... condizioni di neve che permettono' fino al 6 aprile, alpino 20 dicembre al 22 marzo. L'accesso ai percorsi nordici è pagato (tassa di trasporto). In estate, l'altopiano si trasforma in trekking, il bike park, il biathlon estivo e la slitta ferroviaria.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Schaatsen en klassieker tussen de drie gateways van de Bauges Savoie's 'Little Canada'.",
+          "tag": "Noors",
+          "title": "150 km paden op het plateau"
+        },
+        {
+          "description": "Evening skiing Tuesdays and Thursdays, 5 pm to 8:30 pm, under the floodlights.",
+          "tag": "Nachtskiën",
+          "title": "De Hibou avonden"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Savoie Grand Revard</strong> is geen bergafwaarts resort met een aantal cross-country aan de zijkant Het is het omgekeerde. Op het Bauges Massif plateau, 'soms bijgenaamd'<strong>Klein Canada</strong>',\" drie gateways <strong>La Féclaz</strong> (Les Déserts), <strong>Le Revard</strong> en <strong>Saint-François-de-Sales</strong> Openen.<strong>150 km Nordic skipistes</strong>', geprepareerd voor schaatsen en klassieke, verdubbeld door ongeveer 60 km van sneeuwschoen routes. Op de rang van het domein, de officiële sites zeggen niet hetzelfde: \"Frankrijk's drukste Nordic area\" per savoienordic.com, \"erkend als een van Europa's beste\" en \"een Nordic ski-benchmark\" per Chamberymontagnes.com  We citeren elke formule. Het Noordse snowmakingsnetwerk is het grootste van Frankrijk.</p><p>Alpine bestaat op zijn eigen schaal: '30 km runs over twee sectoren', 26 meestal blauwe pistes, 2 stoeltjesliften, 2 tapijten en 4 sleepliften. een leerdomein 30 minuten van Chambéry en 35 van Aix-les-Bains. De winter strekt zich verder dan skiën: biathlon, dog sledding, yooner, snow fatbiking, and the 'Hibou evenings' night skiing 'every Tuesday and Thursday evening, from 5 pm to 8:30 pm'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Betaald",
+        "best_season": null,
+        "commune": "Les Déserts",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Noordse skigebied",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski nordique",
+          "Skipfond",
+          "Skialpin",
+          "raquettes",
+          "chiens traineau",
+          "luge",
+          "ski rando"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Voor zijn bossen en besneeuwde mid-berg holten: 'Het Savoie Grand Revard plateau wordt soms bijgenaamd 'Little Canada'', schrijft de officiële site. Het domein beslaat drie gateways: La Féclaz, Le Revard en Saint-François-de-Sales.",
+          "q": "Waarom 'Kleine Canada'?"
+        },
+        {
+          "a": "Nee. toegang tot het Noordse domein is per trail fee (€12 een volwassen dag in 2025-26, €12,50 gepost voor 2026-27). Er wordt geen gratis offerte gepubliceerd op de geraadpleegde pagina's.",
+          "q": "Is het land hier vrij?"
+        },
+        {
+          "a": "Nog niet gepubliceerd op 18 augustus 2026. Referentie: Nordic 2025-26 liep van 22 november tot 6 april 'sneeuw omstandigheden toestaan', alpine 20 december tot 22 maart. We zullen de publicatie updaten.",
+          "q": "Wanneer opent het seizoen 2026-27?"
+        },
+        {
+          "a": "Ja: the 'Hibou evenings' light up night skiing 'every Tuesday and Thursday evening, from 5 pm to 8:30 pm' — met afdalingen en vuurwerk op de evenementenkalender.",
+          "q": "Kun je 's nachts skiën?"
+        }
+      ],
+      "hero": {
+        "badge": "Noords domein · Bauges",
+        "lead": "De Bauges' 'Little Canada', 30 minuten van Chambéry: 150 km over een plateau met drie poorten Het Noordse gebied Savoie Nordic noemt Frankrijk het drukst."
+      },
+      "hero_alt": "Slede honden op het Savoie Grand Revard plateau",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D913 van Chambéry via Saint-Jean-d'Arvey, of van Aix-les-Bains via de Revard.",
+        "public_transport": "Van Chambéry naar La Féclaz (seizoen)."
+      },
+      "meta_description": "Savoie Grand Revard, de Bauges' 'Little Canada': 150 km lang land over drie gateways (La Féclaz, Le Revard, Saint-François-de-Sales), 30 km alpine, Hibou nachtavonden 30 minuten van Chambéry.",
+      "meta_title": "Savoie Grand Revard · Little Canada, 150 Nordic km",
+      "name": "Savoie Grand Revard",
+      "name_alternates": [
+        "La Féclaz"
+      ],
+      "practical_info": [
+        {
+          "k": "Gateways",
+          "v": "La Féclaz (Les Déserts) · Le Revard · Saint-François-de-Sales"
+        },
+        {
+          "k": "Noors",
+          "v": "150 km skaten-klassiek · ~60 km sneeuwschoen · daggeld € 12,50 (26/27)"
+        },
+        {
+          "k": "Alpen",
+          "v": "30 km over twee sectoren · 26 runs · 2 stoeltjesliften, 2 tapijten, 4 sleepliften"
+        },
+        {
+          "k": "Seizoen 26/27",
+          "v": "Niet gepubliceerd (2025-26: Nordic 22 Nov 6 april, alpine 20 dec 22 maart)"
+        },
+        {
+          "k": "Toegang",
+          "v": "30 min van Chambéry, 35 min van Aix-les-Bains"
+        },
+        {
+          "k": "Contactpersoon",
+          "v": "La Féclaz VVV-kantoor · plaats centraal, Les Déserts · +33 4 79 25 80 49"
+        }
+      ],
+      "schema_amenities": [
+        "150 Nordic km",
+        "Hibou avondavonden",
+        "Sneeuwschoenroutes"
+      ],
+      "when_to_visit": "<p>Op 18 augustus 2026 was het seizoen 2026-27 niet gedateerd. Hoewel de 2026-27 Nordic tarieven al online zijn (volwassen dag voor € 12,50). De Noordse 2025-26 opende 'van 22 november... sneeuwomstandigheden die het toelaten' tot 6 april, alpine 20 december tot 22 maart. Toegang tot de Nordic trails wordt betaald (trail fee). In de zomer verandert het plateau in wandelen, het fietspark, de zomer biathlon en de railslede.</p>"
+    }
+  },
+  "latitude": 45.645381,
+  "longitude": 5.983047,
+  "official_site_url": "https://www.chamberymontagnes.com/savoiegrandrevard/",
+  "partners": [],
+  "postal_code": "73230",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-18, FR pages only (chamberymontagnes.com — savoiegrandrevard.com y redirige — et savoienordic.com). Plateau nordique du massif des Bauges, trois portes : La Féclaz (Les Déserts), Le Revard, Saint-François-de-Sales. « 150 km de pistes pour le ski nordique » (skating et alternatif), ~60 km d'itinéraires raquettes ; alpin « 30 km de pistes répartis sur deux secteurs », 26 pistes (3 noires, 8 rouges, 11 bleues, 4 vertes), 2 télésièges, 2 tapis, 4 téléskis. Surnom publié : « le plateau de Savoie Grand Revard est parfois surnommé 'le Petit Canada' ». Revendications divergentes sur le rang : « Espace nordique le plus fréquenté de France » (savoienordic.com) vs « reconnu comme l'un des plus beaux d'Europe » / « référence du ski nordique » (chamberymontagnes.com) — citées telles quelles, jamais « le plus grand domaine nordique de France » (non retrouvé). « Le plus grand réseau de neige de culture de France » (nordique, savoienordic.com). Saison 26/27 NON publiée ; référence 2025-26 : nordique 22 novembre – 6 avril « sous réserve d'enneigement », alpin 20/12–22/03 ; tarifs nordiques 26/27 déjà en ligne (12,50 €/jour adulte). Redevance nordique : accès payant. Ski nocturne « soirées Hibou » mardis et jeudis 17h-20h30. Altitude non publiée (≈1 324 m IGN à La Féclaz — non imprimée). Coordonnées IGN (rue centrale, La Féclaz).",
+  "schema_org": {
+    "amenities": [],
+    "is_free": false,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "savoie-grand-revard",
+  "sources": [
+    "https://www.chamberymontagnes.com/savoiegrandrevard/",
+    "https://www.chamberymontagnes.com/savoiegrandrevard/que-faire/ski-glisse-neige/ski-nordique-ski-de-fond/",
+    "https://www.chamberymontagnes.com/savoiegrandrevard/que-faire/ski-glisse-neige/ski-alpin/",
+    "https://www.savoienordic.com/savoie-grand-revard-domaine-nordique.html"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "SAISON 26/27 — non publiée au 18/08/2026 (tarifs nordiques 26/27 déjà en ligne) ; les dates 2025-26 citées en référence. À mettre à jour dès publication.",
+    "ALTITUDE — non publiée sur les pages officielles consultées ; le ≈1 324 m (service altimétrique IGN) n'est pas imprimé.",
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published; kept null."
+  ]
+}

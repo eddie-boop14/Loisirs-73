@@ -1,0 +1,633 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-18",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "station",
+  "commune": "Les Avanchers-Valmorel",
+  "date_modified_human": "18 août 2026",
+  "date_published_human": "18 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-18",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-foret-enneigee-crepuscule.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Piratenthematisch und gesichert, tagsüber geöffnet und nachts beleuchtet.",
+          "tag": "Tag und Nacht",
+          "title": "Der freie Dorf-Herz-Schlittenlauf"
+        },
+        {
+          "description": "Mit Saint-François-Longchamp, Doucy und Celliers, von 1.250 bis 2.550 m.",
+          "tag": "Alpen",
+          "title": "165 km des Grand Domaine"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Valmorel</strong>, in der Gemeinde von Les Avanchers-Valmorel, öffnet sich auf die <strong>Grand Domaine</strong>: 'Der Grand Domaine von Valmorel erstreckt sich über 3.600 Hektar, von 1.250 bis 2.550 Meter' mit '<strong>165 km Pisten</strong>\", sammeln \"die Resorts von Valmorel, Saint-François-Longchamp, Doucy und Celliers\" — den Valmorel-Only Pass (mit Doucy) über \"95 km Pisten\". Vier Anfängerbereiche, vier Freeride-Zonen und 50 km markierte Wander- und Schneeschuhwege runden das Bild ab.</p><p>Die kostenlosen Angebote werden in Schwarz-Weiß im offiziellen Ticketshop veröffentlicht: der \"Bois de la Croix-Teppich (frei)\" und der \"Cheval Blanc-Schlepplift (frei)\" ohne Durchfahrt zu starten; und die <strong>Freier Dorf-Herz-Schlittenbereich</strong>: Dieser Schlittenlauf liegt im Herzen des Valmorel-Resorts. Vollständig gesichert um ein Piratenthema, tagsüber geöffnet und nachts beleuchtet\" (\"Skiers und Hunde in der Zone verboten!\").</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Bezahlt",
+        "best_season": "18. Dezember 2026 – 10. April 2027",
+        "commune": "Les Avanchers-Valmorel",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Skigebiet",
+        "winter_access": "open",
+        "winter_infra": [
+          "Ski alpin",
+          "ski fond",
+          "Lastwagen",
+          "Raquetten",
+          "chiens traineau",
+          "Ski rando"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Zwei Anfängerlifte, die im offiziellen Ticketshop aufgeführt sind - der Teppich Bois de la Croix und der Schlepplift Cheval Blanc — und das Dorf-Herz-Schlitten-Bereich, Piraten-Thema und gesichert, offen bei Tag und beleuchtet in der Nacht.",
+          "q": "Was ist kostenlos in Valmorel?"
+        },
+        {
+          "a": "18. Dezember 2026 bis 10. April 2027, Daten, die auf der Skigebietsseite veröffentlicht und auf der Homepage wiedergegeben wurden (\"Eröffnung 18. Dezember!\").",
+          "q": "Wann beginnt die Saison 2026-27?"
+        },
+        {
+          "a": "Der Grand Domaine (165 km, 3.600 ha, von 1.250 bis 2.550 m) vereint Valmorel, Saint-François-Longchamp, Doucy und Celliers. Der Valmorel-only Pass umfasst 95 km mit Doucy.",
+          "q": "Grand Domaine oder Valmorel Pass?"
+        },
+        {
+          "a": "50 km markierte Wander- und Schneeschuhpfade, Schlitten und seine Varianten (Flugzeug, Schlangenrutsch, Yooner) \"auf halbem Weg zwischen Schlitten und Ski\", Hundeschlittenfahren, Schlittschuhlaufen und geführte Schneeschuhausflüge.",
+          "q": "Und ohne Ski?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · Grand Domaine",
+        "lead": "Eine Fußgängerzone an der Spitze der Aigueblanche-Täler, eine 165 km lange Grand Domaine, die mit Saint-François-Longchamp geteilt wurde — und ein freier Dorf-Herz-Schlittenlauf, beleuchtet nach Einbruch der Dunkelheit."
+      },
+      "hero_alt": "Schneebedeckter Wald bei Dämmerung über Valmorel",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D95 von Aigueblanche (N90, Ausfahrt Aigueblanche-Täler), bis zur Schneefront.",
+        "public_transport": "Moûtiers-Salins SNCF Station, dann Bus zum Valmorel."
+      },
+      "meta_description": "Valmorel: 165 km der Grand Domaine (1.250 –) 2.550 m) mit Saint-François-Longchamp, zwei kostenlosen Anfängerliften und einer Dorf-Herz-Schlittenfahrt bei Nacht beleuchtet. Saison 2026-27: 18. Dezember bis 10. April.",
+      "meta_title": "Valmorel · 165 km Grand Domaine, freies Flutlicht Schlitten",
+      "name": "Valmorel",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Domain",
+          "v": "Grand Domaine 165 km (3.600 ha), 1.250 – 2.550 m · Valmorel Pass 95 km"
+        },
+        {
+          "k": "Saison 26/27",
+          "v": "18. Dezember 2026 – 10. April 2027"
+        },
+        {
+          "k": "frei",
+          "v": "Bois de la Croix Teppich · Cheval Blanc Schlepplift · beleuchteter Schlittenbereich"
+        },
+        {
+          "k": "Trails",
+          "v": "50 km Wanderschuh · 4 Anfängerbereiche · 4 Freeride-Zonen"
+        },
+        {
+          "k": "Kontakt",
+          "v": "Valmorel und Aigueblanche Täler Tourismusbüro · 25 Bourg Morel · +33 4 79 09 85 55"
+        }
+      ],
+      "schema_amenities": [
+        "Freier Schlittenbereich",
+        "Kostenlose Anfängerlifte",
+        "Schneeschuhspuren"
+      ],
+      "when_to_visit": "<p>Die Saison 2026-27 wird veröffentlicht: <strong>18. Dezember 2026 bis 10. April 2027</strong> \"Eröffnung 18. Dezember!\", kündigt die Homepage an. Im Sommer lebt das Resort vom 4. Juli bis zum 30. August 2026. Im Winter streckt sich die freie beleuchtete Schlittenbahn den Tag über die Schließung der Pisten hinaus.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "Pirate-themed and secured, open by day and lit at night.",
+          "tag": "Day and night",
+          "title": "The free village-heart sledge run"
+        },
+        {
+          "description": "With Saint-François-Longchamp, Doucy and Celliers, from 1,250 to 2,550 m.",
+          "tag": "Alpine",
+          "title": "165 km of the Grand Domaine"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Valmorel</strong>, in the commune of Les Avanchers-Valmorel, opens onto the <strong>Grand Domaine</strong>: 'The Grand Domaine of Valmorel stretches over 3,600 hectares, from 1,250 to 2,550 metres' with '<strong>165 km of runs</strong>', gathering 'the resorts of Valmorel, Saint-François-Longchamp, Doucy and Celliers' — the Valmorel-only pass (with Doucy) covering '95 km of runs'. Four beginner areas, four freeride zones and 50 km of waymarked walking and snowshoe trails round out the picture.</p><p>The free offers are published in black and white on the official ticket shop: the 'Bois de la Croix carpet (free)' and the 'Cheval Blanc drag lift (free)' to start without a pass — and the <strong>free village-heart sledging area</strong>: 'This sledge run sits at the heart of the Valmorel resort. Fully secured around a pirate theme, open by day and lit at night' ('Skiers and dogs forbidden on the zone!').</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Paid",
+        "best_season": "18 December 2026 – 10 April 2027",
+        "commune": "Les Avanchers-Valmorel",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Ski resort",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin",
+          "ski_fond",
+          "luge",
+          "raquettes",
+          "chiens_traineau",
+          "ski_rando"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Two beginner lifts listed on the official ticket shop — the Bois de la Croix carpet and the Cheval Blanc drag lift — and the village-heart sledging area, pirate-themed and secured, open by day and lit at night.",
+          "q": "What is free in Valmorel?"
+        },
+        {
+          "a": "18 December 2026 to 10 April 2027, dates published on the ski-area page and echoed on the homepage ('Opening 18 December!').",
+          "q": "When does the 2026-27 season open?"
+        },
+        {
+          "a": "The Grand Domaine (165 km, 3,600 ha, from 1,250 to 2,550 m) unites Valmorel, Saint-François-Longchamp, Doucy and Celliers; the Valmorel-only pass covers 95 km with Doucy.",
+          "q": "Grand Domaine or Valmorel pass?"
+        },
+        {
+          "a": "50 km of waymarked walking and snowshoe trails, sledging and its variants (airboard, snake-gliss, yooner — 'halfway between sledge and ski'), dog sledding, skating and guided snowshoe outings.",
+          "q": "And without skis?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · Grand Domaine",
+        "lead": "A pedestrian village street at the head of the Aigueblanche valleys, a 165 km Grand Domaine shared with Saint-François-Longchamp — and a free village-heart sledge run, lit after dark."
+      },
+      "hero_alt": "Snow-covered forest at dusk above Valmorel",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D95 from Aigueblanche (N90, Aigueblanche-valleys exit), up to the snow front.",
+        "public_transport": "Moûtiers-Salins SNCF station, then coach to Valmorel."
+      },
+      "meta_description": "Valmorel: the Grand Domaine's 165 km of runs (1,250 – 2,550 m) with Saint-François-Longchamp, two free beginner lifts and a village-heart sledge run lit at night. 2026-27 season: 18 December to 10 April.",
+      "meta_title": "Valmorel · 165 km Grand Domaine, free floodlit sledging",
+      "name": "Valmorel",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Domain",
+          "v": "Grand Domaine 165 km (3,600 ha, 1,250 – 2,550 m) · Valmorel pass 95 km"
+        },
+        {
+          "k": "Season 26/27",
+          "v": "18 December 2026 – 10 April 2027"
+        },
+        {
+          "k": "Free",
+          "v": "Bois de la Croix carpet · Cheval Blanc drag lift · floodlit sledging area"
+        },
+        {
+          "k": "Trails",
+          "v": "50 km walking-snowshoe · 4 beginner areas · 4 freeride zones"
+        },
+        {
+          "k": "Contact",
+          "v": "Valmorel and Aigueblanche valleys tourist office · 25 Bourg Morel · +33 4 79 09 85 55"
+        }
+      ],
+      "schema_amenities": [
+        "Free sledging area",
+        "Free beginner lifts",
+        "Snowshoe trails"
+      ],
+      "when_to_visit": "<p>The 2026-27 season is published: <strong>18 December 2026 to 10 April 2027</strong> — 'Opening 18 December!', announces the homepage. In summer the resort lives from 4 July to 30 August 2026. In winter, the free floodlit sledge run stretches the day past the closing of the slopes.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "Pirate-themed y asegurado, abierto por el día y encendido por la noche.",
+          "tag": "Día y noche",
+          "title": "The free village-heart sledge run"
+        },
+        {
+          "description": "Con Saint-François-Longchamp, Doucy y Celliers, de 1.250 a 2.550 m.",
+          "tag": "Alpine",
+          "title": "165 km del Grand Domaine"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Valmorel</strong>, en la comuna de Les Avanchers-Valmorel, se abre a la <strong>Grand Domaine</strong>: 'La Grand Domaine de Valmorel se extiende más de 3.600 hectáreas, de 1.250 a 2 550 metros' con '<strong>165 km de pistas</strong>', reuniendo 'los resorts de Valmorel, Saint-François-Longchamp, Doucy y Celliers' — el Valmorel-sólo pasa (con Doucy) cubriendo '95 km de carreras'. Cuatro áreas de inicio, cuatro zonas de freeride y 50 km de senderos de senderismo y raquetas de nieve alrededor de la imagen.</p><p>Las ofertas gratuitas se publican en blanco y negro en la taquilla oficial: el 'Bois de la Croix alfombra (gratuito)' y el 'Cheval Blanc drag lift (gratuito)' para comenzar sin un pase y el <strong>zona de trineo de corazón de aldea libre</strong>: 'Este sledge run se encuentra en el corazón del complejo Valmorel. Completamente asegurado alrededor de un tema pirata, abierto por el día y encendido por la noche\" ('Skiers y perros prohibidos en la zona!').</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagado",
+        "best_season": "18 de diciembre de 2026 – 10 de abril de 2027",
+        "commune": "Les Avanchers-Valmorel",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Escuela de esquí",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski alpin",
+          "ski fond",
+          "Luge",
+          "raquetas",
+          "chiens traineau",
+          "ski rando"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Dos ascensores principiantes listados en la taquilla oficial — la alfombra Bois de la Croix y el elevador Cheval Blanc y la zona de trineo de corazón de la aldea, temática pirata y asegurada, abierta de día y iluminada de noche.",
+          "q": "¿Qué es gratis en Valmorel?"
+        },
+        {
+          "a": "18 de diciembre de 2026 a 10 de abril de 2027, fechas publicadas en la página de esquí y resonadas en la página de inicio ('Abierto 18 de diciembre!').",
+          "q": "¿Cuándo se abre la temporada 2026-27?"
+        },
+        {
+          "a": "El Grand Domaine (165 km, 3.600 ha, de 1.250 a 2 550 m) une Valmorel, Saint-François-Longchamp, Doucy y Celliers; el solo paso Valmorel cubre 95 km con Doucy.",
+          "q": "¿Pasa Grand Domaine o Valmorel?"
+        },
+        {
+          "a": "50 km de senderos para caminar y raquetas de nieve, trineos y sus variantes (aerobor, víbora, yooner) 'la mitad entre la cornisa y el esquí'), el patinaje de perros, el patinaje y los paseos guiados de nieve.",
+          "q": "¿Y sin esquís?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · Grand Domaine",
+        "lead": "Una calle peatonal en la cabeza de los valles de Aigueblanche, un Grand Domaine de 165 km compartido con Saint-François-Longchamp — y un baile de corazón de pueblo libre, iluminado después de la oscuridad."
+      },
+      "hero_alt": "Bosque cubierto de nieve al atardecer sobre Valmorel",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D95 desde Aigueblanche (N90, salida Aigueblanche-valleys), hasta el frente de nieve.",
+        "public_transport": "Estación de Moûtiers-Salins SNCF, y luego autobús a Valmorel."
+      },
+      "meta_description": "Valmorel: los 165 km de carreras de Grand Domaine (1 250 – 2.550 m) con Saint-François-Longchamp, dos ascensores gratuitos y una cornisa de corazón de pueblo que se ilumina por la noche. 2026-27 temporada: 18 de diciembre a 10 de abril.",
+      "meta_title": "Valmorel · 165 km Grand Domaine, trineo sin inundaciones",
+      "name": "Valmorel",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Dominio",
+          "v": "Grand Domaine 165 km (3.600 ha, 1.250 – 2 550 m) · Valmorel pasar 95 km"
+        },
+        {
+          "k": "Temporada 26/27",
+          "v": "18 de diciembre de 2026 – 10 de abril de 2027"
+        },
+        {
+          "k": "Gratis",
+          "v": "Alfombra Bois de la Croix · Cheval Blanc Altura de arrastre · área de trineo inundada"
+        },
+        {
+          "k": "Senderos",
+          "v": "50 km caminando-snowshoe · 4 áreas de inicio · 4 zonas de freeride"
+        },
+        {
+          "k": "Contacto",
+          "v": "Oficina de turismo de los valles Valmorel y Aigueblanche · 25 Bourg Morel · +33 4 79 09 85 55"
+        }
+      ],
+      "schema_amenities": [
+        "Zona de trineo libre",
+        "Ascensores de principiantes gratis",
+        "Rutas de Snowshoe"
+      ],
+      "when_to_visit": "<p>La temporada 2026-27 se publica: <strong>18 de diciembre de 2026 a 10 de abril de 2027</strong> —¡Abre el 18 de diciembre!», anuncia la página principal. En verano el complejo vive del 4 de julio al 30 de agosto de 2026. En invierno, la correa libre de inundación se extiende el día pasado por el cierre de las pistas.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Sécurisée sur le thème des pirates, ouverte de jour et éclairée la nuit.",
+          "tag": "Jour et nuit",
+          "title": "La luge gratuite du cœur de station"
+        },
+        {
+          "description": "Avec Saint-François-Longchamp, Doucy et Celliers, de 1 250 à 2 550 m.",
+          "tag": "Alpin",
+          "title": "165 km du Grand Domaine"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Valmorel</strong>, sur la commune des Avanchers-Valmorel, ouvre sur le <strong>Grand Domaine</strong> : « Le Grand Domaine de Valmorel s'étend sur 3 600 hectares, de 1250 à 2550 mètres d'altitude » et « <strong>165km de pistes</strong> », en regroupant « les stations de Valmorel, Saint-François-Longchamp, Doucy et Celliers » — le forfait Valmorel seul (avec Doucy) couvrant « 95km de pistes ». Quatre espaces débutants, quatre zones freeride et 50 km de sentiers piétons-raquettes complètent le tableau.</p><p>Les gratuités sont publiées noir sur blanc sur la billetterie officielle : le « Tapis du bois de la croix (gratuit) » et le « Téléski du Cheval Blanc (gratuit) » pour débuter sans forfait — et l'<strong>espace luge de cœur de station, gratuit</strong> : « Cette piste de luge est située au cœur de la station de Valmorel. Complètement sécurisée autour du thème des pirates, ouverte de jour et éclairée la nuit » (« Accès skieurs et chiens interdits sur la zone ! »).</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Payant",
+        "best_season": "18 décembre 2026 – 10 avril 2027",
+        "commune": "Les Avanchers-Valmorel",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Station de ski",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin",
+          "ski_fond",
+          "luge",
+          "raquettes",
+          "chiens_traineau",
+          "ski_rando"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Deux remontées débutants listées sur la billetterie officielle — le tapis du Bois de la Croix et le téléski du Cheval Blanc — et l'espace luge du cœur de station, sécurisé sur le thème des pirates, ouvert de jour et éclairé la nuit.",
+          "q": "Qu'est-ce qui est gratuit à Valmorel ?"
+        },
+        {
+          "a": "Du 18 décembre 2026 au 10 avril 2027, dates publiées sur la page domaine skiable et reprises en page d'accueil (« Ouverture le 18 décembre ! »).",
+          "q": "Quand ouvre la saison 2026-27 ?"
+        },
+        {
+          "a": "Le Grand Domaine (165 km, 3 600 ha, de 1 250 à 2 550 m) réunit Valmorel, Saint-François-Longchamp, Doucy et Celliers ; le forfait Valmorel seul couvre 95 km avec Doucy.",
+          "q": "Grand Domaine ou forfait Valmorel ?"
+        },
+        {
+          "a": "50 km de sentiers piétons et raquettes balisés, la luge et ses variantes (airboard, snake-gliss, yooner — « à mi-chemin entre la luge et le ski »), les chiens de traîneau, le patinage et les sorties raquettes encadrées.",
+          "q": "Et sans skis ?"
+        }
+      ],
+      "hero": {
+        "badge": "Station · Grand Domaine",
+        "lead": "Un village-rue piéton au débouché des vallées d'Aigueblanche, un Grand Domaine de 165 km partagé avec Saint-François-Longchamp — et une luge de cœur de station gratuite, éclairée la nuit."
+      },
+      "hero_alt": "Forêt enneigée au crépuscule au-dessus de Valmorel",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D95 depuis Aigueblanche (N90 sortie vallées d'Aigueblanche), jusqu'au front de neige.",
+        "public_transport": "Gare SNCF de Moûtiers-Salins, puis autocar vers Valmorel."
+      },
+      "meta_description": "Valmorel : le Grand Domaine et ses 165 km de pistes (1 250 – 2 550 m) avec Saint-François-Longchamp, deux remontées débutants gratuites et une luge de cœur de station éclairée la nuit. Saison 2026-27 : 18 décembre – 10 avril.",
+      "meta_title": "Valmorel · Grand Domaine 165 km, luge gratuite éclairée",
+      "name": "Valmorel",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Domaine",
+          "v": "Grand Domaine 165 km (3 600 ha, 1 250 – 2 550 m) · forfait Valmorel 95 km"
+        },
+        {
+          "k": "Saison 26/27",
+          "v": "18 décembre 2026 – 10 avril 2027"
+        },
+        {
+          "k": "Gratuit",
+          "v": "Tapis du Bois de la Croix · téléski du Cheval Blanc · espace luge éclairé"
+        },
+        {
+          "k": "Sentiers",
+          "v": "50 km piétons-raquettes balisés · 4 espaces débutants · 4 zones freeride"
+        },
+        {
+          "k": "Contact",
+          "v": "OT de Valmorel et des Vallées d'Aigueblanche · 25 Bourg Morel · 04 79 09 85 55"
+        }
+      ],
+      "schema_amenities": [
+        "Espace luge gratuit",
+        "Remontées débutants gratuites",
+        "Sentiers raquettes"
+      ],
+      "when_to_visit": "<p>Saison 2026-27 publiée : <strong>du 18 décembre 2026 au 10 avril 2027</strong> — « Ouverture le 18 décembre ! », annonce la page d'accueil. L'été, la station vit du 4 juillet au 30 août 2026. L'hiver, la luge gratuite éclairée prolonge les journées après la fermeture des pistes.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "A tema pirata e protetto, aperto di giorno e acceso di notte.",
+          "tag": "Giorno e notte",
+          "title": "La corsa di slitta del villaggio-cuore libero"
+        },
+        {
+          "description": "Con Saint-François-Longchamp, Doucy e Celliers, da 1.250 a 2.550 m.",
+          "tag": "Alpi",
+          "title": "165 km della Grand Domaine"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Valmorel</strong>, nel comune di Les Avanchers-Valmorel, si apre sul <strong>Grand Domaine</strong>: «L'Grand Domaine di Valmorel si estende su 3.600 ettari, da 1.250 a 2 550 metri»<strong>165 km di piste</strong>«, raccogliendo le località di Valmorel, Saint-François-Longchamp, Doucy e Celliers» — il pass Valmorel (con Doucy) che copre '95 km di piste'. Quattro aree principianti, quattro zone di freeride e 50 km di sentieri escursionistici e racchette da neve che circondano l'immagine.</p><p>Le offerte gratuite sono pubblicate in bianco e nero sulla biglietteria ufficiale: il tappeto Bois de la Croix (gratuito) e l'ascensore di trascinamento Cheval Blanc (gratuito) per iniziare senza un passaggio — e il <strong>area di slittamento del cuore del villaggio libero</strong>: 'Questa corsa di slitta si trova nel cuore del resort Valmorel. Completamente protetto intorno a un tema pirata, aperto di giorno e acceso di notte ('Skiers e cani proibiti sulla zona!').</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagato",
+        "best_season": "18 dicembre 2026 – 10 aprile 2027",
+        "commune": "Les Avanchers-Valmorel",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Stazione sciistica",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski alpin",
+          "sci fond",
+          "L'acqua",
+          "racchette",
+          "Chiens traineau",
+          "ski rando"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Due ascensori principianti elencati nella biglietteria ufficiale — il tappeto Bois de la Croix e l'ascensore di trascinamento Cheval Blanc — e la zona di slittamento del cuore del villaggio, a tema pirata e protetta, aperta di giorno e illuminata di notte.",
+          "q": "Che cosa è gratuito in Valmorel?"
+        },
+        {
+          "a": "Dal 18 dicembre 2026 al 10 aprile 2027, le date pubblicate sulla pagina delle aree sciistiche e riecheggiate sulla homepage ('Aprire 18 dicembre!').",
+          "q": "Quando apre la stagione 2026-27?"
+        },
+        {
+          "a": "Grand Domaine (165 km, 3600 ha, da 1.250 a 2.550 m) unisce Valmorel, Saint-François-Longchamp, Doucy e Celliers; il pass Valmorel copre solo 95 km con Doucy.",
+          "q": "Passo Grand Domaine o Valmorel?"
+        },
+        {
+          "a": "50 km di sentieri escursionistici e racchette da neve, slittamento e le sue varianti (a bordo, serpente-glis, yooner — 'a metà strada tra slitta e sci'), slittamento del cane, pattinaggio e gite guidate con le ciaspole.",
+          "q": "E senza sci?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · Grand Domaine",
+        "lead": "Una strada pedonale del villaggio alla testa delle valli Aigueblanche, un 165 km Grand Domaine condiviso con Saint-François-Longchamp — e una corsa di slitta al cuore del villaggio libero, illuminata dopo il buio."
+      },
+      "hero_alt": "Foresta coperta di neve al tramonto sopra Valmorel",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D95 da Aigueblanche (N90, uscita Aigueblanche-valle), fino al fronte neve.",
+        "public_transport": "Stazione Moûtiers-Salins SNCF, poi allenatore a Valmorel."
+      },
+      "meta_description": "Valmorel: 165 km di piste di Grand Domaine (1 250 – 2.550 m) con Saint-François-Longchamp, due ascensori principianti gratuiti e una pista di slitta al cuore del villaggio illuminata di notte. 2026-27 stagione: Dal 18 dicembre al 10 aprile.",
+      "meta_title": "Valmorel · 165 km Grand Domaine, slittamento libero illuminato",
+      "name": "Valmorel",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Dominio",
+          "v": "Grand Domaine 165 km (3.600 ha, 1.250 – 2.550 m) · Valmorel passaggio 95 km"
+        },
+        {
+          "k": "Stagione 26/27",
+          "v": "18 dicembre 2026 – 10 aprile 2027"
+        },
+        {
+          "k": "Gratis",
+          "v": "Bois de la Croix tappeto · Cheval Blanc drag lift · area di slittamento illuminata"
+        },
+        {
+          "k": "Sentieri",
+          "v": "50 km a piedi-snowshoe · 4 aree principianti · 4 zone freeride"
+        },
+        {
+          "k": "Contatto",
+          "v": "Valmorel e Aigueblanche vallate ufficio turistico · 25 Bourg Morel · +33 4 79 09 85 55"
+        }
+      ],
+      "schema_amenities": [
+        "Area di slittamento gratuita",
+        "Ascensori principianti gratuiti",
+        "Escursioni con le ciaspole"
+      ],
+      "when_to_visit": "<p>La stagione 2026-27 è pubblicata: <strong>18 dicembre 2026 - 10 aprile 2027</strong> «Aprire il 18 dicembre!», annuncia la homepage. In estate il resort vive dal 4 luglio al 30 agosto 2026. In inverno, il free floodlit sledge run si estende il giorno dopo la chiusura delle piste.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Piraat-thema en beveiligd, open overdag en verlicht 's nachts.",
+          "tag": "Dag en nacht",
+          "title": "De gratis dorp-hart slee run"
+        },
+        {
+          "description": "Met Saint-François-Longchamp, Doucy en Celliers, van 1.250 tot 2.550 m.",
+          "tag": "Alpen",
+          "title": "165 km van de Grand Domaine"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Valmorel</strong>, in de gemeente Les Avanchers-Valmorel, opent <strong>Grand Domaine</strong>: 'De Grand Domaine van Valmorel strekt zich uit over 3.600 hectare, van 1.250 tot 2.550 meter' met '<strong>165 km hardlopen</strong>', het verzamelen van 'de resorts van Valmorel, Saint-François-Longchamp, Doucy en Celliers' de alleen-Valmorel-pas (met Doucy) die '95 km runs' beslaat. Vier beginnersgebieden, vier freeride zones en 50 km bewegwijzerde wandel- en sneeuwschoenpaden rond het plaatje.</p><p>De gratis aanbiedingen worden in zwart-wit gepubliceerd op de officiële ticketshop: de 'Bois de la Croix tapijt (gratis)' en de 'Cheval Blanc sleeplift (gratis)' om zonder pas te beginnen en de <strong>gratis dorp-hart sleeding gebied</strong>: 'Deze slee ligt in het hart van het Valmorel resort. Volledig beveiligd rond een piraat thema, open overdag en verlicht 's nachts' ('Skiers en honden verboden op de zone!').</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Betaald",
+        "best_season": "18 december 2026 10 april 2027",
+        "commune": "Les Avanchers-Valmorel",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Skigebied",
+        "winter_access": "open",
+        "winter_infra": [
+          "Skialpin",
+          "Skipfond",
+          "luge",
+          "raquettes",
+          "chiens traineau",
+          "ski rando"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Twee beginnersliften vermeld op de officiële ticketwinkel het Bois de la Croix tapijt en de Cheval Blanc sleeplift en het dorp-hart sleeding gebied, piraat-thema en beveiligd, open overdag en verlicht 's nachts.",
+          "q": "Wat is gratis in Valmorel?"
+        },
+        {
+          "a": "18 december 2026 t/m 10 april 2027, data gepubliceerd op de ski-gebied pagina en echo op de homepage ('Opening 18 december!').",
+          "q": "Wanneer opent het seizoen 2026-27?"
+        },
+        {
+          "a": "De Grand Domaine (165 km, 3600 ha, van 1.250 tot 2.550 m) verenigt Valmorel, Saint-François-Longchamp, Doucy en Celliers; De Valmorel-pas beslaat 95 km met Doucy.",
+          "q": "Grand Domaine of Valmorel-pas?"
+        },
+        {
+          "a": "50 km bewegwijzerde wandel- en sneeuwschoenpaden, sleeën en zijn varianten (airboard, slang-gliss, yooner 'halfweg tussen slede en ski', hondensleeën, schaatsen en sneeuwschoentochten.",
+          "q": "En zonder ski's?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · Grand Domaine",
+        "lead": "Een voetgangersdorp straat aan het hoofd van de Aigueblanche valleien, een 165 km Grand Domaine gedeeld met Saint-François-Longchamp en een gratis dorp-hart slee lopen, verlicht na donker."
+      },
+      "hero_alt": "Met sneeuw bedekt bos bij schemering boven Valmorel",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D95 van Aigueblanche (N90, Aigueblanche-valleys afrit), tot aan de sneeuwfront.",
+        "public_transport": "Moûtiers-Salins SNCF station, vervolgens coach naar Valmorel."
+      },
+      "meta_description": "Valmorel: de 165 km hardloopritten van de Grand Domaine (1.250 km) 2 550 m) met Saint-François-Longchamp, twee gratis beginnersliften en 's nachts een dorpshartslede verlicht. 2026-27 seizoen: 18 december tot en met 10 april.",
+      "meta_title": "Valmorel · 165 km Grand Domaine, vrij verlicht sleeën",
+      "name": "Valmorel",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Domein",
+          "v": "Grand Domaine 165 km (3.600 ha, 1.250  2 550 m) · Valmorel-pas 95 km"
+        },
+        {
+          "k": "Seizoen 26/27",
+          "v": "18 december 2026 10 april 2027"
+        },
+        {
+          "k": "Vrij",
+          "v": "Bois de la Croix tapijt · Cheval Blanc sleeplift · verlicht sledegebied"
+        },
+        {
+          "k": "Trails",
+          "v": "50 km wandel-sneeuwschoen · 4 begingebieden · 4 vrije zones"
+        },
+        {
+          "k": "Contactpersoon",
+          "v": "Valmorel en Aigueblanche valleien VVV · 25 Bourg Morel · +33 4 79 09 85 55"
+        }
+      ],
+      "schema_amenities": [
+        "Vrije slede",
+        "Gratis beginnersliften",
+        "Sneeuwschoenpaden"
+      ],
+      "when_to_visit": "<p>Het seizoen 2026-27 wordt gepubliceerd: <strong>van 18 december 2026 tot en met 10 april 2027</strong> 'Opening 18 december!', kondigt de homepage aan. In de zomer leeft het resort van 4 juli tot 30 augustus 2026. In de winter strekt de gratis verlichte slee zich de dag voorbij het sluiten van de pisten uit.</p>"
+    }
+  },
+  "latitude": 45.461698,
+  "longitude": 6.442483,
+  "official_site_url": "https://www.valmorel.com/activites-hiver/ski-glisse/domaine-skiable/",
+  "partners": [],
+  "postal_code": "73260",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-18, FR pages only (valmorel.com, skipass.valmorel.com). « Le Grand Domaine de Valmorel s'étend sur 3 600 hectares, de 1250 à 2550 mètres d'altitude » ; « 165km de pistes » ; forfait Valmorel (Valmorel + Doucy) « 95km de pistes » ; le Grand Domaine regroupe Valmorel, Saint-François-Longchamp, Doucy et Celliers. 4 espaces débutants, 4 zones freeride, 50 km de sentiers piétons/raquettes. Saison 26/27 publiée : 18 décembre 2026 – 10 avril 2027. GRATUIT : « Tapis du bois de la croix (gratuit) », « Téléski du Cheval Blanc (gratuit) » (skipass.valmorel.com) ; espace luge « Gratuit », « autour du thème des pirates, ouverte de jour et éclairée la nuit », « Accès skieurs et chiens interdits sur la zone ! ». Altitude du village non publiée verbatim (le « 1400 m » des sites tiers non retenu). Été : 4 juillet – 30 août 2026. Coordonnées IGN (lieu-dit Valmorel, Les Avanchers-Valmorel).",
+  "schema_org": {
+    "amenities": [],
+    "is_free": false,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "station-de-valmorel",
+  "sources": [
+    "https://www.valmorel.com/activites-hiver/ski-glisse/domaine-skiable/",
+    "https://www.valmorel.com/espace-luge-valmorel/",
+    "https://skipass.valmorel.com/fr/espaces-glisse-debutants",
+    "https://www.valmorel.com/"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "ALTITUDE VILLAGE — non publiée verbatim sur valmorel.com ; non imprimée (le « 1 400 m » des sites tiers n'est pas retenu).",
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published; kept null."
+  ]
+}

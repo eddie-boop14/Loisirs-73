@@ -1,0 +1,626 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-18",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "station",
+  "commune": "Hauteluce",
+  "date_modified_human": "18 août 2026",
+  "date_published_human": "18 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-18",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-sentier-hiver-neige.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Die 1992 Spiele Cross-Country und Biathlon-Website, früh durch Schnee Landwirtschaft eröffnet.",
+          "tag": "Ab dem 11. November",
+          "title": "120 olympische nordische Kilometer"
+        },
+        {
+          "description": "Von Les Saisies zu Praz-sur-Arly — 192 oder 200 km je nach Seite, beide zitiert.",
+          "tag": "Alpen",
+          "title": "Das Sechs-Dorf Espace Diamant"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Les Saisies</strong>, \"auf 1.650 Metern, zwischen dem Beaufortain und dem Val d'Arly\", ist ein Resort mit zwei Gesichtern. Auf der alpinen Seite öffnet sich die <strong>Espace Diamant</strong>, 'die Sechs-Dorf-Schaltung' mit Hauteluce, Crest-Voland, Notre-Dame-de-Bellecombe, Flumet und Praz-sur-Arly: \"192 km präparierte, gesicherte Runs\" pro Grand Domaine-Seite - 200 km pro anderer Seite derselben Website (45 grün, 87 blau, 52 rot, 10 schwarz); Wir zitieren beide, Les Saisies eigene Domain mit einem Gewicht von 84 km.</p><p>Auf nordischer Seite ist es ein Ort der Geschichte: der Ort \"die Langlauf- und Biathlon-Events der Albertville Olympischen Winterspiele\" (1992), heute \"<strong>120 km Langlaufstrecken</strong>' mit Nordic France 'Site of Excellence, 4 Tannen' Label. Und eine veröffentlichte Brücke zwischen den beiden Welten: „<strong>Der alpine Skipass öffnet automatisch die Türen der olympischen nordischen Domäne für Sie, kostenlos</strong>„. Für Kinder ist \"La glissade des elfes\" \"eine Schlittenbahn von etwa 50 m, frei und offen zugänglich\".</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Bezahlt",
+        "best_season": "12. Dezember 2026 – 10. April 2027",
+        "commune": "Hauteluce",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Skigebiet",
+        "winter_access": "open",
+        "winter_infra": [
+          "Ski alpin",
+          "ski fond",
+          "Lastwagen",
+          "Raquetten",
+          "chiens traineau"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Die nordische Domäne ist die olympische Cross-Country- und Biathlon-Site von Albertville 1992: 120 km Wanderwege, Nordic France 'Site of Excellence, 4 Tannen' Label — und eine Eröffnung ab dem 11. November dank der Schneelandwirtschaft des La Glacière-Trails.",
+          "q": "Warum kommen Langläufer zum Les Saisies?"
+        },
+        {
+          "a": "Ja, und es wird in so vielen Worten veröffentlicht: \"Der alpine Skipass öffnet Ihnen automatisch die Türen der olympischen nordischen Domäne, kostenlos.\"",
+          "q": "Beinhaltet der Alpenpass die nordische Domäne?"
+        },
+        {
+          "a": "Beide Figuren koexistieren auf der offiziellen Website: '192 km präparierte, gesicherte Pisten' auf der Grand Domaine Seite, 200 km (45 grün, 87 blau, 52 rot, 10 schwarz) auf der Skiseite. Wir zitieren beides; Die eigene Domain von Les Saisies zählt 84 km.",
+          "q": "Ist der Espace Diamant 192 oder 200 km?"
+        },
+        {
+          "a": "\"La glissade des elfes\", eine Schlittenfahrt von etwa 50 m beim Espace Erwin Eckl, ist frei und für alle zugänglich; Der Schienenschlitten Mountain Twister und das Aquasportzentrum Le Signal runden das Set ab.",
+          "q": "Und für Kinder?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · 1.650 m",
+        "lead": "Auf dem Pass zwischen dem Beaufortain und dem Val d'Arly, der olympischen Cross-Country-Domain von 1992 - 120 nordische Kilometer geöffnet ab 11. November, und das Sechs-Dorf Espace Diamant für alpine."
+      },
+      "hero_alt": "Snowy Winter Trail bei Les Saisies, Beaufortain",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D218b über dem Col des Saisies — von Albertville über Beaufort oder über Flumet.",
+        "public_transport": "Albertville SNCF Station, dann Bus zu Les Saisies."
+      },
+      "meta_description": "Les Saisies (1 650 m): 120 km Langlauf auf der Olympiade 1992, geöffnet ab 11. November, nordisch frei mit dem Alpenpass — und das Sechs-Dorf Espace Diamant. Alpensaison: 12. Dezember bis 10. April.",
+      "meta_title": "Les Saisies · Olympic Nordic, Espace Diamant",
+      "name": "Les Saisies",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Höhe",
+          "v": "1.650 m zwischen Beaufortain und Val d'Arly"
+        },
+        {
+          "k": "Domain",
+          "v": "Espace Diamant 192 km (200 pro Skiseite) · Les Saisies 84 km · Nordic 120 km"
+        },
+        {
+          "k": "Saison 26/27",
+          "v": "Nordisch ab 11. November · alpine 12. Dezember – 10. April"
+        },
+        {
+          "k": "frei",
+          "v": "Nordic inkludiert mit dem Alpenpass · Elfenschlitten (50 m) offen für alle"
+        },
+        {
+          "k": "Kontakt",
+          "v": "Tourismusbüro Les Saisies · 316 avenue des Jeux Olympiques · +33 4 79 38 90 30"
+        }
+      ],
+      "schema_amenities": [
+        "Nordic inklusive mit Alpenpass",
+        "Schlittenlauf für Elfen",
+        "Le Signal Zentrum"
+      ],
+      "when_to_visit": "<p>Die nordische Domain öffnet sich unter den ersten Savoie: <strong>ab dem 11. November 2026</strong> auf dem La Glacière-Trail, der durch Schneelandwirtschaft erhalten wurde. Alpine folgt mit einer 5-6 Dezember Vorschau, dann <strong>12. Dezember 2026 bis 10. April 2027</strong>; die vollen Espace Diamant Skier vom 19. Dezember bis 3. April.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "The 1992 Games' cross-country and biathlon site, opened early by snow farming.",
+          "tag": "From 11 November",
+          "title": "120 Olympic Nordic kilometres"
+        },
+        {
+          "description": "From Les Saisies to Praz-sur-Arly — 192 or 200 km depending on the page, both quoted.",
+          "tag": "Alpine",
+          "title": "The six-village Espace Diamant"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Les Saisies</strong>, 'located at 1,650 metres, between the Beaufortain and the Val d'Arly', is a resort with two faces. On the alpine side it opens the <strong>Espace Diamant</strong>, 'the six-village circuit' with Hauteluce, Crest-Voland, Notre-Dame-de-Bellecombe, Flumet and Praz-sur-Arly: '192 km of groomed, secured runs' per the Grand Domaine page — 200 km per another page of the same site (45 green, 87 blue, 52 red, 10 black); we quote both, Les Saisies' own domain weighing 84 km.</p><p>On the Nordic side it is a place of history: the site of 'the cross-country skiing and biathlon events of the Albertville Winter Olympics' (1992), today '<strong>120 km of cross-country trails</strong>' holding Nordic France's 'Site of excellence, 4 firs' label. And a published bridge between the two worlds: '<strong>The alpine ski pass automatically opens the doors of the Olympic Nordic domain to you, free of charge</strong>'. For children, 'La glissade des elfes' is 'a sledge run of about 50 m, freely and openly accessible'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Paid",
+        "best_season": "12 December 2026 – 10 April 2027",
+        "commune": "Hauteluce",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Ski resort",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin",
+          "ski_fond",
+          "luge",
+          "raquettes",
+          "chiens_traineau"
+        ]
+      },
+      "faq": [
+        {
+          "a": "The Nordic domain is the Olympic cross-country and biathlon site of Albertville 1992: 120 km of trails, Nordic France's 'Site of excellence, 4 firs' label — and an opening from 11 November thanks to the snow farming of the La Glacière trail.",
+          "q": "Why do cross-country skiers come to Les Saisies?"
+        },
+        {
+          "a": "Yes, and it is published in so many words: 'The alpine ski pass automatically opens the doors of the Olympic Nordic domain to you, free of charge'.",
+          "q": "Does the alpine pass include the Nordic domain?"
+        },
+        {
+          "a": "Both figures coexist on the official site: '192 km of groomed, secured runs' on the Grand Domaine page, 200 km (45 green, 87 blue, 52 red, 10 black) on the ski page. We quote both; Les Saisies' own domain counts 84 km.",
+          "q": "Is the Espace Diamant 192 or 200 km?"
+        },
+        {
+          "a": "'La glissade des elfes', a sledge run of about 50 m at the Espace Erwin Eckl, is free and open to all; the Mountain Twister rail sledge and the Le Signal aquasports centre round out the set.",
+          "q": "And for children?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · 1,650 m",
+        "lead": "On the pass between the Beaufortain and the Val d'Arly, the 1992 Olympic cross-country domain — 120 Nordic kilometres open from 11 November, and the six-village Espace Diamant for alpine."
+      },
+      "hero_alt": "Snowy winter trail at Les Saisies, Beaufortain",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D218b over the Col des Saisies — from Albertville via Beaufort or via Flumet.",
+        "public_transport": "Albertville SNCF station, then coach to Les Saisies."
+      },
+      "meta_description": "Les Saisies (1,650 m): 120 km of cross-country on the 1992 Olympic site, open from 11 November, Nordic free with the alpine pass — and the six-village Espace Diamant. Alpine season: 12 December to 10 April.",
+      "meta_title": "Les Saisies · Olympic Nordic, Espace Diamant",
+      "name": "Les Saisies",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Altitude",
+          "v": "1,650 m, between the Beaufortain and the Val d'Arly"
+        },
+        {
+          "k": "Domain",
+          "v": "Espace Diamant 192 km (200 per the ski page) · Les Saisies 84 km · Nordic 120 km"
+        },
+        {
+          "k": "Season 26/27",
+          "v": "Nordic from 11 November · alpine 12 December – 10 April"
+        },
+        {
+          "k": "Free",
+          "v": "Nordic included with the alpine pass · elves' sledge run (50 m) open to all"
+        },
+        {
+          "k": "Contact",
+          "v": "Les Saisies tourist office · 316 avenue des Jeux Olympiques · +33 4 79 38 90 30"
+        }
+      ],
+      "schema_amenities": [
+        "Nordic included with alpine pass",
+        "Free elves' sledge run",
+        "Le Signal centre"
+      ],
+      "when_to_visit": "<p>The Nordic domain opens among Savoie's first: <strong>from 11 November 2026</strong> on the La Glacière trail, preserved by snow farming. Alpine follows with a 5-6 December preview, then <strong>12 December 2026 to 10 April 2027</strong>; the full Espace Diamant skis from 19 December to 3 April.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "El sitio cross-country y biatlón de los Juegos de 1992, abierto temprano por la agricultura de nieve.",
+          "tag": "Del 11 de noviembre",
+          "title": "120 kilómetros nórdicos olímpicos"
+        },
+        {
+          "description": "De Les Saisies a Praz-sur-Arly — 192 o 200 km dependiendo de la página, ambos citados.",
+          "tag": "Alpine",
+          "title": "Las seis aldeas Espace Diamant"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Les Saisies</strong>, 'ubicado a 1.650 metros, entre el Beaufortain y el Val d'Arly', es un resort con dos caras. En el lado alpino abre el <strong>Espace Diamant</strong>, 'el circuito de seis aldeas' con Hauteluce, Crest-Voland, Notre-Dame-de-Bellecombe, Flumet y Praz-sur-Arly: '192 km de carreras arregladas y aseguradas' por la página Grand Domaine: 200 km por otra página del mismo sitio (45 verde, 87 azul, 52 rojo, 10 negro); citamos ambos, el propio dominio Les Saisies pesa 84 km.</p><p>En el lado nórdico es un lugar histórico: el sitio de 'los eventos de esquí de fondo y biatlón de los Juegos Olímpicos de Invierno Albertville' (1992), hoy '<strong>120 km de senderos cruzados</strong>Sosteniendo la etiqueta de Nordic France de excelencia, 4 firs. Y un puente publicado entre los dos mundos: '<strong>El pase de esquí alpino abre automáticamente las puertas del dominio nórdico olímpico, de forma gratuita.</strong>'. Para los niños, 'La glissade des elfes' es 'una carrera de alrededor de 50 m, libre y abiertamente accesible'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagado",
+        "best_season": "12 diciembre 2026 – 10 de abril de 2027",
+        "commune": "Hauteluce",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Escuela de esquí",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski alpin",
+          "ski fond",
+          "Luge",
+          "raquetas",
+          "chiens traineau"
+        ]
+      },
+      "faq": [
+        {
+          "a": "El dominio nórdico es el campo olímpico y sitio de biatlón de Albertville 1992: 120 km de senderos, Nordic France's 'Site of excellence, 4 firs' label — y una apertura del 11 de noviembre gracias a la agricultura de nieve del sendero La Glacière.",
+          "q": "¿Por qué los esquiadores cruzados vienen a Les Saisies?"
+        },
+        {
+          "a": "Sí, y se publica en tantas palabras: \"El pase de esquí alpino abre automáticamente las puertas del dominio nórdico olímpico, de forma gratuita\".",
+          "q": "¿El pase alpino incluye el dominio nórdico?"
+        },
+        {
+          "a": "Ambas figuras coexisten en el sitio oficial: '192 km de escobas, carreras aseguradas' en la página Grand Domaine, 200 km (45 verde, 87 azul, 52 rojo, 10 negro) en la página de esquí. Citamos ambos; El dominio Les Saisies cuenta con 84 km.",
+          "q": "¿Es el Espace Diamant 192 o 200 km?"
+        },
+        {
+          "a": "'La glissade des elfes', una carrera de alrededor de 50 m en el Espace Erwin Eckl, es libre y abierto a todos; el barrido Mountain Twister y el centro de aquasports Le Signal redondean el set.",
+          "q": "¿Y para niños?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · 1 650 m",
+        "lead": "Sobre el paso entre el Beaufortain y el Val d'Arly, el dominio olímpico de 1992 – 120 kilómetros nórdicos abren del 11 de noviembre y el Espace Diamant de seis aldeas para las alpinas."
+      },
+      "hero_alt": "Ruta de invierno de nieve en Les Saisies, Beaufortain",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D218b sobre el Col des Saisies — desde Albertville vía Beaufort o vía Flumet.",
+        "public_transport": "Estación Albertville SNCF, luego en coche a Les Saisies."
+      },
+      "meta_description": "Les Saisies (1.650 m): 120 km de cross-country en el sitio olímpico de 1992, abierto del 11 de noviembre, libre nórdico con el paso alpino — y el Espace Diamant de seis aldeas. Temporada alpino: 12 de diciembre a 10 de abril.",
+      "meta_title": "Les Saisies · Nórdico Olímpico, Espace Diamant",
+      "name": "Les Saisies",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Altitud",
+          "v": "1 650 m, entre el Beaufortain y el Val d'Arly"
+        },
+        {
+          "k": "Dominio",
+          "v": "Espace Diamant 192 km (200 por página de esquí) · Les Saisies 84 km · Nórdico 120 km"
+        },
+        {
+          "k": "Temporada 26/27",
+          "v": "Nórdico del 11 de noviembre · alpino 12 de diciembre – 10 de abril"
+        },
+        {
+          "k": "Gratis",
+          "v": "nórdico incluido con el paso alpino · eloves' sledge run (50 m) abierto a todos"
+        },
+        {
+          "k": "Contacto",
+          "v": "Les Saisies oficina de turismo · 316 avenida des Jeux Olympiques · +33 4 79 38 90 30"
+        }
+      ],
+      "schema_amenities": [
+        "Nordic incluido con pase alpino",
+        "Elevas libre de gobernación",
+        "Centro Le Signal"
+      ],
+      "when_to_visit": "<p>El dominio nórdico se abre entre Savoie: <strong>del 11 de noviembre de 2026</strong> en el sendero La Glacière, conservado por la agricultura de nieve. Alpine sigue con una vista previa de 5-6 de diciembre, luego <strong>12 de diciembre de 2026 a 10 de abril de 2027</strong>; los esquís Espace Diamant completos del 19 de diciembre al 3 de abril.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Le site de fond et de biathlon des Jeux de 1992, ouvert tôt par snowfarming.",
+          "tag": "Dès le 11 novembre",
+          "title": "120 km nordiques olympiques"
+        },
+        {
+          "description": "Des Saisies à Praz-sur-Arly — 192 ou 200 km selon la page, les deux cités.",
+          "tag": "Alpin",
+          "title": "L'Espace Diamant des 6 villages"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Les Saisies</strong>, « située à 1650 mètres d'altitude, entre le Beaufortain et le Val d'Arly », est une station à deux visages. Côté alpin, elle ouvre l'<strong>Espace Diamant</strong>, « le circuit des 6 villages » avec Hauteluce, Crest-Voland, Notre-Dame-de-Bellecombe, Flumet et Praz-sur-Arly : « 192 kms de pistes damées et sécurisées » selon la page du Grand Domaine — 200 km selon une autre page du même site (45 vertes, 87 bleues, 52 rouges, 10 noires) ; nous citons les deux, le domaine propre des Saisies pesant 84 km.</p><p>Côté nordique, c'est un lieu d'histoire : le site des « épreuves de ski de fond et de biathlon lors des Jeux Olympiques d'hiver d'Albertville » (1992), aujourd'hui « <strong>120KM de pistes de ski de fond</strong> » labellisés « Site d'excellence 4 sapins » par Nordic France. Et une passerelle entre les deux mondes, publiée en toutes lettres : « <strong>Le forfait de ski alpin vous ouvre automatiquement et gratuitement les portes du domaine nordique Olympique</strong> ». Pour les enfants, « La glissade des elfes » est une « piste de luge d'environ 50m de long en accès libre et gratuit ».</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Payant",
+        "best_season": "12 décembre 2026 – 10 avril 2027",
+        "commune": "Hauteluce",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Station de ski",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin",
+          "ski_fond",
+          "luge",
+          "raquettes",
+          "chiens_traineau"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Le domaine nordique est le site olympique du fond et du biathlon d'Albertville 1992 : 120 km de pistes, label « Site d'excellence 4 sapins » de Nordic France — et une ouverture dès le 11 novembre grâce au snowfarming de la piste La Glacière.",
+          "q": "Pourquoi les fondeurs viennent-ils aux Saisies ?"
+        },
+        {
+          "a": "Oui, et c'est publié en toutes lettres : « Le forfait de ski alpin vous ouvre automatiquement et gratuitement les portes du domaine nordique Olympique ».",
+          "q": "Le forfait alpin donne-t-il accès au nordique ?"
+        },
+        {
+          "a": "Les deux chiffres coexistent sur le site officiel : « 192 kms de pistes damées et sécurisées » sur la page du Grand Domaine, 200 km (45 vertes, 87 bleues, 52 rouges, 10 noires) sur la page ski. Nous citons les deux ; le domaine propre des Saisies compte 84 km.",
+          "q": "L'Espace Diamant fait-il 192 ou 200 km ?"
+        },
+        {
+          "a": "« La glissade des elfes », piste de luge d'environ 50 m à l'Espace Erwin Eckl, est en accès libre et gratuit ; la luge sur rail Mountain Twister et le centre aquasportif Le Signal complètent la panoplie.",
+          "q": "Et pour les enfants ?"
+        }
+      ],
+      "hero": {
+        "badge": "Station · 1 650 m",
+        "lead": "Sur le col entre Beaufortain et Val d'Arly, le domaine olympique du ski de fond de 1992 — 120 km nordiques ouverts dès le 11 novembre, et l'Espace Diamant alpin des six villages."
+      },
+      "hero_alt": "Sentier hivernal enneigé aux Saisies, Beaufortain",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D218b, par le col des Saisies — depuis Albertville via Beaufort ou via Flumet.",
+        "public_transport": "Gare SNCF d'Albertville, puis autocar vers Les Saisies."
+      },
+      "meta_description": "Les Saisies (1 650 m) : 120 km de ski de fond sur le site olympique de 1992, ouverts dès le 11 novembre, nordique offert avec le forfait alpin — et l'Espace Diamant des six villages. Saison alpine : 12 décembre – 10 avril.",
+      "meta_title": "Les Saisies · nordique olympique, Espace Diamant",
+      "name": "Les Saisies",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Altitude",
+          "v": "1 650 m, entre Beaufortain et Val d'Arly"
+        },
+        {
+          "k": "Domaine",
+          "v": "Espace Diamant 192 km (200 selon la page ski) · Les Saisies 84 km · nordique 120 km"
+        },
+        {
+          "k": "Saison 26/27",
+          "v": "Nordique dès le 11 novembre · alpin 12 décembre – 10 avril"
+        },
+        {
+          "k": "Gratuit",
+          "v": "Nordique inclus dans le forfait alpin · luge des elfes (50 m) en accès libre"
+        },
+        {
+          "k": "Contact",
+          "v": "OT Les Saisies · 316 avenue des Jeux Olympiques · 04 79 38 90 30"
+        }
+      ],
+      "schema_amenities": [
+        "Nordique inclus au forfait alpin",
+        "Luge gratuite des elfes",
+        "Centre Le Signal"
+      ],
+      "when_to_visit": "<p>Le nordique ouvre le premier de Savoie ou presque : <strong>dès le 11 novembre 2026</strong> sur la piste de La Glacière, conservée par snowfarming. L'alpin suit les 5-6 décembre en avant-première, puis <strong>du 12 décembre 2026 au 10 avril 2027</strong> ; l'Espace Diamant complet se skie du 19 décembre au 3 avril.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Il sito del 1992 Games' cross-country e biathlon, aperto all'inizio dall'allevamento di neve.",
+          "tag": "Dall'11 novembre",
+          "title": "120 chilometri olimpici nordici"
+        },
+        {
+          "description": "Da Les Saisies a Praz-sur-Arly — 192 o 200 km a seconda della pagina, entrambi citati.",
+          "tag": "Alpi",
+          "title": "Il sei villaggio Espace Diamant"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Les Saisies</strong>, situato a 1 650 metri, tra Beaufortain e Val d'Arly, è un resort con due facce. Sul versante alpino si apre il <strong>Espace Diamant</strong>, 'il circuito di sei villaggi' con Hauteluce, Crest-Voland, Notre-Dame-de-Bellecombe, Flumet e Praz-sur-Arly: «192 km di piste preparate e protette» per la pagina Grand Domaine — 200 km per un'altra pagina dello stesso sito (45 verde, 87 blu, 52 rosso, 10 nero); citiamo entrambi, il dominio di Les Saisies del peso di 84 km.</p><p>Sul lato nordico è un luogo di storia: il sito degli eventi di sci di fondo e biathlon delle Olimpiadi invernali Albertville (1992), oggi '<strong>120 km di piste da fondo</strong>Tenendo Nordic France 'Sito di eccellenza, 4 abeti' etichetta. E un ponte pubblicato tra i due mondi: '<strong>Lo skipass alpino apre automaticamente le porte del dominio olimpico nordico, gratuitamente</strong>'. Per i bambini, 'La glissade des elfes' è 'una corsa di slitta di circa 50 m, liberamente e apertamente accessibile'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagato",
+        "best_season": "12 dicembre 2026 – 10 aprile 2027",
+        "commune": "Hauteluce",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Stazione sciistica",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski alpin",
+          "sci fond",
+          "L'acqua",
+          "racchette",
+          "Chiens traineau"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Il dominio nordico è il sito olimpico di fondo e biathlon di Albertville 1992: 120 km di sentieri, Nordic France 'Sito di eccellenza, etichetta 4 abeti' — e un'apertura dall'11 novembre grazie all'allevamento di neve del sentiero La Glacière.",
+          "q": "Perché gli sciatori di fondo vengono a Les Saisies?"
+        },
+        {
+          "a": "Sì, ed è pubblicato in così tante parole: 'Il skipass alpino apre automaticamente le porte del dominio olimpico nordico, gratuitamente'.",
+          "q": "Il passaggio alpino include il dominio nordico?"
+        },
+        {
+          "a": "Entrambe le figure coesistono sul sito ufficiale: '192 km di piste curate, protette' sulla pagina Grand Domaine, 200 km (45 verde, 87 blu, 52 rosso, 10 nero) sulla pagina sciistica. Citiamo entrambi; Il dominio di Les Saisies conta 84 km.",
+          "q": "Espace Diamant 192 o 200 km?"
+        },
+        {
+          "a": "'La glissade des elfes', una corsa di slitta di circa 50 m all'Espace Erwin Eckl, è libera e aperta a tutti; il binario Mountain Twister e il centro aquasport Le Signal completano il set.",
+          "q": "E per i bambini?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · 1.650 m",
+        "lead": "Sul passaggio tra Beaufortain e Val d'Arly, il dominio di fondo olimpico 1992 — 120 chilometri nordici aperti dall'11 novembre, e il sei villaggio Espace Diamant per la montagna."
+      },
+      "hero_alt": "Sentiero invernale nevoso a Les Saisies, Beaufortain",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D218b sul Col des Saisies — da Albertville tramite Beaufort o tramite Flumet.",
+        "public_transport": "Stazione Albertville SNCF, poi allenatore a Les Saisies."
+      },
+      "meta_description": "Les Saisies (1 650 m): 120 km di sci di fondo sul sito olimpico 1992, aperto dall'11 novembre, Nordic free con il passo alpino — e il sei villaggio Espace Diamant. Stagione alpina: Dal 12 dicembre al 10 aprile.",
+      "meta_title": "Les Saisies · Nordic olimpico, Espace Diamant",
+      "name": "Les Saisies",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Altitudine",
+          "v": "1.650 m, tra Beaufortain e Val d'Arly"
+        },
+        {
+          "k": "Dominio",
+          "v": "Espace Diamant 192 km (200 per pagina sciistica) · Les Saisies 84 km · Nordic 120 km"
+        },
+        {
+          "k": "Stagione 26/27",
+          "v": "nordico dall'11 novembre · alpino 12 dicembre – 10 aprile"
+        },
+        {
+          "k": "Gratis",
+          "v": "Nordic incluso con il passo alpino · pista di slitta degli elfi (50 m) aperta a tutti"
+        },
+        {
+          "k": "Contatto",
+          "v": "Les Saisies ufficio turistico · 316 avenue des Jeux Olympiques · +33 4 79 38 90 30"
+        }
+      ],
+      "schema_amenities": [
+        "Nordic incluso con passo alpino",
+        "Corsa libera degli elfi",
+        "Centro Le Signal"
+      ],
+      "when_to_visit": "<p>Il dominio nordico si apre tra i primi di Savoie: <strong>dall'11 novembre 2026</strong> sulla pista La Glacière, conservata dall'allevamento di neve. Alpine segue con un'anteprima del 5-6 dicembre, poi <strong>12 dicembre 2026 - 10 aprile 2027</strong>; gli sci Espace Diamant completi dal 19 dicembre al 3 aprile.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "De Games van 1992' cross-country en biatlon site, geopend vroeg door sneeuw landbouw.",
+          "tag": "Vanaf 11 november",
+          "title": "120 olympische Noordse kilometers"
+        },
+        {
+          "description": "Van Les Saisies naar Praz-sur-Arly 192 of 200 km afhankelijk van de pagina, beide geciteerd.",
+          "tag": "Alpen",
+          "title": "Het zesdorp Espace Diamant"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Les Saisies</strong>, 'op 1 650 meter, tussen de Beaufortain en de Val d'Arly', is een resort met twee gezichten. Op de alpine kant opent het de <strong>Espace Diamant</strong>, 'het zesdorpscircuit' met Hauteluce, Crest-Voland, Notre-Dame-de-Bellecombe, Flumet en Praz-sur-Arly: '192 km geprepareerde, beveiligde runs' per de pagina Grand Domaine 200 km per pagina (45 groen, 87 blauw, 52 rood, 10 zwart); We citeren beide, Les Saisies' eigen domein met een gewicht van 84 km.</p><p>Aan de noordkant is het een plaats van geschiedenis: de site van 'de langlauf- en biatlonevenementen van de Albertville Winterspelen' (1992), vandaag '<strong>120 km langlaufpaden</strong>' met Nordic France's 'Site of excellence, 4 sparren' label. En een gepubliceerde brug tussen de twee werelden: '<strong>De alpine skipas opent automatisch de deuren van het Olympic Nordic domein voor u, gratis</strong>'. Voor kinderen is 'La glissade des elfes' 'een slee van ongeveer 50 m, vrij en open toegankelijk'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Betaald",
+        "best_season": "12 december 2026 10 april 2027",
+        "commune": "Hauteluce",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Skigebied",
+        "winter_access": "open",
+        "winter_infra": [
+          "Skialpin",
+          "Skipfond",
+          "luge",
+          "raquettes",
+          "chiens traineau"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Het Noordse domein is de Olympische cross-country en biatlon site van Albertville 1992: 120 km aan trails, Nordic France's 'Site of excellence, 4 dennen' label en een opening vanaf 11 november dankzij de sneeuwteelt van de La Glacière trail.",
+          "q": "Waarom komen langlaufers naar Les Saisies?"
+        },
+        {
+          "a": "Ja, en het wordt in zoveel woorden gepubliceerd: 'De alpine skipas opent automatisch de deuren van het Olympic Nordic domein voor u, gratis'.",
+          "q": "Omvat de alpine pass het Noordse domein?"
+        },
+        {
+          "a": "Beide cijfers bestaan naast elkaar op de officiële site: '192 km verzorgde, beveiligde runs' op de pagina Grand Domaine, 200 km (45 groen, 87 blauw, 52 rood, 10 zwart) op de skipagina. Wij citeren beide; Het eigen domein van Les Saisies telt 84 km.",
+          "q": "Is de Espace Diamant 192 of 200 km?"
+        },
+        {
+          "a": "'La glissade des elfes', een slee van ongeveer 50 m bij de Espace Erwin Eckl, is vrij en open voor iedereen; de Mountain Twister railslede en het Le Signal aquasports centrum ronden de set af.",
+          "q": "En voor kinderen?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · 1 650 m",
+        "lead": "Op de pas tussen de Beaufortain en de Val d'Arly, het Olympische cross-country domein van 1992 120 Noordse kilometers geopend vanaf 11 november, en de zes-dorp Espace Diamant voor alpine."
+      },
+      "hero_alt": "Bobby winterpad op Les Saisies, Beaufortain",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D218b over de Col des Saisies van Albertville via Beaufort of via Flumet.",
+        "public_transport": "Albertville SNCF station, dan coach naar Les Saisies."
+      },
+      "meta_description": "Les Saisies (1 650 m): 120 km lang land op de Olympische site van 1992, geopend vanaf 11 november, Nordic gratis met de alpine pas  en de zes-dorp Espace Diamant. Alpenseizoen: 12 december tot en met 10 april.",
+      "meta_title": "Les Saisies · Olympic Nordic, Espace Diamant",
+      "name": "Les Saisies",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Hoogte",
+          "v": "1 650 m, tussen de Beaufortain en de Val d'Arly"
+        },
+        {
+          "k": "Domein",
+          "v": "Espace Diamant 192 km (200 per skipagina) · Les Saisies 84 km · Nordic 120 km"
+        },
+        {
+          "k": "Seizoen 26/27",
+          "v": "Noords vanaf 11 november · alpine 12 december 10 april"
+        },
+        {
+          "k": "Vrij",
+          "v": "Nordic inbegrepen met de alpine pas · elves sleeloop (50 m) open voor iedereen"
+        },
+        {
+          "k": "Contactpersoon",
+          "v": "Les Saisies VVV-kantoor · 316 avenue des Jeux Olympiques · +33 4 79 38 90 30"
+        }
+      ],
+      "schema_amenities": [
+        "Nordic inclusief alpine pass",
+        "Gratis elvenslee",
+        "Le Signal-centrum"
+      ],
+      "when_to_visit": "<p>Het Noordse domein opent onder Savoie's eerste: <strong>vanaf 11 november 2026</strong> op het La Glacière pad, bewaard door de sneeuwteelt. Alpine volgt met een 5-6 december preview, dan <strong>12 december 2026 tot en met 10 april 2027</strong>; de volledige Espace Diamant ski's van 19 december tot 3 april.</p>"
+    }
+  },
+  "latitude": 45.744688,
+  "longitude": 6.561016,
+  "official_site_url": "https://www.lessaisies.com/ski-alpin-ski-nordique-grand-domaine-altitude.html",
+  "partners": [],
+  "postal_code": "73620",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-18, FR pages only (lessaisies.com, reservation.lessaisies.com). « Située à 1650 mètres d'altitude, entre le Beaufortain et le Val d'Arly ». Espace Diamant : « 192 kms de pistes damées et sécurisées » sur 6 stations/villages — CONTRADICTION : une autre page du même site présente 200 km (45 vertes, 87 bleues, 52 rouges, 10 noires) — reportée. Domaine alpin propre 84 km ; nordique « 120KM de pistes de ski de fond », site olympique 1992 (fond et biathlon), label « Site d'excellence 4 sapins » Nordic France. Saison 26/27 publiée : alpin 5-6 décembre puis 12 décembre 2026 – 10 avril 2027 ; Espace Diamant complet 19/12–03/04 ; nordique dès le 11 novembre via la piste La Glacière (snowfarming). GRATUIT : luge « La glissade des elfes » « piste d'environ 50m en accès libre et gratuit » (Espace Erwin Eckl) ; « Le forfait de ski alpin vous ouvre automatiquement et gratuitement les portes du domaine nordique Olympique ». Espaces débutants gratuits mentionnés seulement sur la version EN — non retenus (house law FR only). Coordonnées IGN (route des Saisies, Hauteluce).",
+  "schema_org": {
+    "amenities": [],
+    "is_free": false,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "station-des-saisies",
+  "sources": [
+    "https://www.lessaisies.com/ski-alpin-ski-nordique-grand-domaine-altitude.html",
+    "https://www.lessaisies.com/decouvrir/grand-domaine-espace-diamant/",
+    "https://www.lessaisies.com/une-fois-sur-place/les-saisies-sous-la-neige/ski-de-fond/",
+    "https://reservation.lessaisies.com/forfait-de-ski-alpin-espace-diamant-1-1-1.html"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published; kept null."
+  ]
+}

@@ -1,0 +1,638 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-18",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "station",
+  "commune": "Les Belleville",
+  "date_modified_human": "18 août 2026",
+  "date_published_human": "18 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-18",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-ski-freestyle.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Benannt auf der offiziellen Anfängerkarte von 2026 - Teppiche, ein Schlepplift, eine Gondel und die Preyerand Seilbahn.",
+          "tag": "Kein Pass",
+          "title": "Zehn freie Aufzüge"
+        },
+        {
+          "description": "4 km Schneeschlitten auf der einen Seite, Schienenschlitten auf der anderen Seite — in einem Resort mit 10 Schlittenflächen.",
+          "tag": "Schlitten",
+          "title": "Roc'n Bob und La Mine"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Les Menuires</strong>Sein Herz bei <strong>La Croisette (1.850 m)</strong> im Belleville-Tal eine lokale Domäne von <strong>81 Pisten und 30 Lifte</strong> geteilt mit Saint-Martin-de-Belleville - 16% grün, 41% blau - mit 85% der Domäne über 1.800 m, und die 3 Vallées-Verbindung über die Mont de la Chambre (2.800 m). Das Resort liegt \"im Zentrum des größten Skigebiets der Welt\": \"600 Pistenkilometer und 156 Lifte\" - courchevel.com zählt 155; beide Zahlen sind angegeben.</p><p>Die Seltenheit liegt anderswo: das <strong>Offizielle 2026 Anfänger-Pistenkarte benennt die freien Lifte einen nach dem anderen</strong> — sieben Teppiche (Pelvoux, bedeckt Les Plans, Reberty 1850, Preyerand, bedeckt Les Bruyères, Biolley 1 und 2), der Village Drag Lift, die Croisette Gondel und die Preyerand Seilbahn: <strong>Zehn Maschinen ohne Pass</strong>. Fügen Sie die kostenlosen Shuttles innerhalb des Resorts und zu Val Thorens und Saint-Martin hinzu, 36 Spaßzonen und 10 Schlittenbereiche, die 4 km lange Roc'n Bob-Schlittenbahn und den La Mine-Schienenschlitten.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Bezahlt",
+        "best_season": "5. Dezember 2026 – 18. April 2027",
+        "commune": "Les Belleville",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Skigebiet",
+        "winter_access": "open",
+        "winter_infra": [
+          "Ski alpin",
+          "Lastwagen",
+          "Raquetten"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Die offizielle 2026 Anfänger Piste Karte listet sie auf: Teppiche Pelvoux, Les Plans (abgedeckt), Reberty 1850, Preyerand, Les Bruyères (abgedeckt) und Biolley 1 und 2, der Schlepplift Village, die Croisette Gondel und die Seilbahn Preyerand — Zehn Maschinen, kein Pass erforderlich.",
+          "q": "Welche Aufzüge sind wirklich kostenlos?"
+        },
+        {
+          "a": "5. Dezember 2026 bis 18. April 2027 nach dem 3 Vallées 'Winter 26/27'-Kalender — im Einklang mit den 2026-27 Preisperioden bereits online unter lesmenuires.com.",
+          "q": "Wann beginnt die Saison 2026-27?"
+        },
+        {
+          "a": "Zwei Register: Roc'n Bob, 4 km Schneeschlitten von La Croisette und La Mine, ein Schienenschlitten im Bruyères-Viertel (ab 5 und 1,10 m). Das Resort umfasst insgesamt 10 Schlittenbereiche und 36 Spaßzonen.",
+          "q": "Was ist mit den Schlittenläufen?"
+        },
+        {
+          "a": "Kostenlose Shuttles innerhalb des Resorts und Valley Shuttles zu Val Thorens und Saint-Martin-de-Belleville; Öffentliche Aufzüge und angelegte Wanderwege vervollständigen das Netz.",
+          "q": "Wie bewegt man sich ohne Auto?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · 1.850 m",
+        "lead": "Im Herzen des Belleville-Tals, ein Resort auf 1.850 m, das in Schwarz-Weiß die Liste seiner zehn kostenlosen Lifte veröffentlicht - vom überdachten Bruyères-Teppich zur Preyerand-Seilbahn — am Fuße des 3 Vallées '600 km."
+      },
+      "hero_alt": "Freestyle auf den Les Menuires Pisten, Belleville Valley",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D117 von Moûtiers (A430), Belleville Valley.",
+        "public_transport": "Moûtiers-Salins SNCF Station, dann Valley Coach."
+      },
+      "meta_description": "Les Menuires (1.850 m): 81 lokale Pisten, der 3 Vallées auf Skiern — und zehn kostenlose Anfängerlifte, die auf der offiziellen Karte nacheinander benannt sind. Saison 2026-27: 5. Dezember bis 18. April.",
+      "meta_title": "Les Menuires · 10 kostenlose Aufzüge, 3 Vallées",
+      "name": "Les Menuires",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Höhe",
+          "v": "La Croisette 1.850 m · 3 Vallées-Verbindung am Mont de la Chambre (2.800 m)"
+        },
+        {
+          "k": "Lokale Domain",
+          "v": "81 Pisten · 30 Lifte (mit Saint-Martin) · 85% über 1.800 m"
+        },
+        {
+          "k": "3 Vallées",
+          "v": "600 km · 156 Lifte (155 pro courchevel.com) beide zitiert"
+        },
+        {
+          "k": "Saison 26/27",
+          "v": "5. Dezember 2026 – 18. April 2027"
+        },
+        {
+          "k": "frei",
+          "v": "10 Anfängerlifte auf der offiziellen Karte · Resort und Valley Shuttles"
+        },
+        {
+          "k": "Kontakt",
+          "v": "Les Menuires Tourismusbüro · +33 4 79 00 73 00"
+        }
+      ],
+      "schema_amenities": [
+        "10 freie Aufzüge",
+        "Freie Shuttles",
+        "Schlittenbereiche"
+      ],
+      "when_to_visit": "<p>Saison 2026-27: <strong>5. Dezember 2026 bis 18. April 2027</strong> (der offizielle 3 Vallées-Kalender, im Einklang mit den eigenen 2026-27-Preisperioden des Resorts). Im Sommer sind über 90 Aktivitäten, 70 Wanderwege, Lifte vom 4. Juli bis 28. August geöffnet.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "Named on the official 2026 beginner map — carpets, a drag lift, a gondola and the Preyerand cable car.",
+          "tag": "No pass",
+          "title": "Ten free lifts"
+        },
+        {
+          "description": "4 km of snow sledging on one side, a rail sledge on the other — in a resort with 10 sledging areas.",
+          "tag": "Sledging",
+          "title": "Roc'n Bob and La Mine"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Les Menuires</strong>, its heart at <strong>La Croisette (1,850 m)</strong> in the Belleville valley, lines up a local domain of <strong>81 runs and 30 lifts</strong> shared with Saint-Martin-de-Belleville — 16% green, 41% blue — with 85% of the domain above 1,800 m, and the 3 Vallées link over the Mont de la Chambre (2,800 m). The resort sits 'at the centre of the world's largest ski area': '600 kilometres of runs and 156 lifts' — courchevel.com counts 155; both figures are quoted.</p><p>The rarity lies elsewhere: the <strong>official 2026 beginner piste map names the free lifts one by one</strong> — seven carpets (Pelvoux, covered Les Plans, Reberty 1850, Preyerand, covered Les Bruyères, Biolley 1 and 2), the Village drag lift, the Croisette gondola and the Preyerand cable car: <strong>ten machines without a pass</strong>. Add the free shuttles within the resort and to Val Thorens and Saint-Martin, 36 fun zones and 10 sledging areas, the 4 km Roc'n Bob sledge run and the La Mine rail sledge.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Paid",
+        "best_season": "5 December 2026 – 18 April 2027",
+        "commune": "Les Belleville",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Ski resort",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin",
+          "luge",
+          "raquettes"
+        ]
+      },
+      "faq": [
+        {
+          "a": "The official 2026 beginner piste map lists them: the Pelvoux, Les Plans (covered), Reberty 1850, Preyerand, Les Bruyères (covered) and Biolley 1 and 2 carpets, the Village drag lift, the Croisette gondola and the Preyerand cable car — ten machines, no pass needed.",
+          "q": "Which lifts are genuinely free?"
+        },
+        {
+          "a": "5 December 2026 to 18 April 2027, per the 3 Vallées 'Winter 26/27' calendar — consistent with the 2026-27 pricing periods already online at lesmenuires.com.",
+          "q": "When does the 2026-27 season open?"
+        },
+        {
+          "a": "Two registers: Roc'n Bob, 4 km of snow sledging from La Croisette, and La Mine, a rail sledge in the Bruyères quarter (from age 5 and 1.10 m). The resort counts 10 sledging areas and 36 fun zones in all.",
+          "q": "What about the sledge runs?"
+        },
+        {
+          "a": "Free shuttles within the resort, and valley shuttles to Val Thorens and Saint-Martin-de-Belleville; public lifts and laid-out walking paths complete the network.",
+          "q": "How do you move around without a car?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · 1,850 m",
+        "lead": "In the heart of the Belleville valley, a resort at 1,850 m that publishes in black and white the list of its ten free lifts — from the covered Bruyères carpet to the Preyerand cable car — at the foot of the 3 Vallées' 600 km."
+      },
+      "hero_alt": "Freestyle on the Les Menuires slopes, Belleville valley",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D117 from Moûtiers (A430), Belleville valley.",
+        "public_transport": "Moûtiers-Salins SNCF station, then valley coach."
+      },
+      "meta_description": "Les Menuires (1,850 m): 81 local runs, the 3 Vallées on skis — and ten free beginner lifts, named one by one on the official map. 2026-27 season: 5 December to 18 April.",
+      "meta_title": "Les Menuires · 10 free lifts, 3 Vallées",
+      "name": "Les Menuires",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Altitude",
+          "v": "La Croisette 1,850 m · 3 Vallées link at the Mont de la Chambre (2,800 m)"
+        },
+        {
+          "k": "Local domain",
+          "v": "81 runs · 30 lifts (with Saint-Martin) · 85% above 1,800 m"
+        },
+        {
+          "k": "3 Vallées",
+          "v": "600 km · 156 lifts (155 per courchevel.com — both quoted)"
+        },
+        {
+          "k": "Season 26/27",
+          "v": "5 December 2026 – 18 April 2027"
+        },
+        {
+          "k": "Free",
+          "v": "10 beginner lifts named on the official map · resort and valley shuttles"
+        },
+        {
+          "k": "Contact",
+          "v": "Les Menuires tourist office · +33 4 79 00 73 00"
+        }
+      ],
+      "schema_amenities": [
+        "10 free lifts",
+        "Free shuttles",
+        "Sledging areas"
+      ],
+      "when_to_visit": "<p>2026-27 season: <strong>5 December 2026 to 18 April 2027</strong> (the official 3 Vallées calendar, consistent with the resort's own 2026-27 pricing periods). In summer, over 90 activities, 70 hiking trails, lifts open 4 July to 28 August.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "Nombre en el mapa oficial de inicio 2026 — alfombras, ascensor, una góndola y el teleférico Preyerand.",
+          "tag": "No pase",
+          "title": "Diez ascensores gratis"
+        },
+        {
+          "description": "4 km de trineo de nieve en un lado, una cornisa de ferrocarril en el otro - en un resort con 10 áreas de trineo.",
+          "tag": "Promesas",
+          "title": "Roc'n Bob y La Mine"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Les Menuires</strong>, su corazón en <strong>La Croisette (1.850 m)</strong> en el valle de Belleville, alinea un dominio local <strong>81 pistas y 30 ascensores</strong> compartido con Saint-Martin-de-Belleville — 16% verde, 41% azul - con el 85% del dominio superior a 1.800 m, y el enlace 3 Vallées sobre el Mont de la Chambre (2.800 m). El complejo se encuentra en el centro de la zona de esquí más grande del mundo: '600 kilómetros de pistas y 156 ascensores' — courchevel.com cuenta con 155; ambas cifras se citan.</p><p>La rareza está en otras partes: el <strong>oficial 2026 página inicial nombres de los ascensores gratis uno por uno</strong> — siete alfombras (Pelvoux, cubiertas Les Plans, Reberty 1850, Preyerand, cubiertas Les Bruyères, Biolley 1 y 2), la grúa Village, la góndola Croisette y el teleférico Preyerand: <strong>ten machines without a pass</strong>. Agregue los transbordadores gratuitos dentro del complejo y a Val Thorens y Saint-Martin, 36 zonas de diversión y 10 áreas de trineo, la carrera de 4 km de Roc'n Bob y la cornisa La Mine.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagado",
+        "best_season": "5 de diciembre 2026 – 18 abril 2027",
+        "commune": "Les Belleville",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Escuela de esquí",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski alpin",
+          "Luge",
+          "raquetas"
+        ]
+      },
+      "faq": [
+        {
+          "a": "El mapa oficial de inicio 2026 piste lista: el Pelvoux, Les Plans (cubierto), Reberty 1850, Preyerand, Les Bruyères (cubierto) y Biolley 1 y 2 alfombras, el elevador Village, la góndola Croisette y el teleférico Preyerand — Diez máquinas, no se necesita pase.",
+          "q": "¿Qué ascensores son realmente libres?"
+        },
+        {
+          "a": "5 de diciembre de 2026 a 18 de abril de 2027, según el calendario 3 Vallées \"Invierno 26/27\" compatible con los plazos 2026-27 ya en línea en lesmenuires.com.",
+          "q": "¿Cuándo se abre la temporada 2026-27?"
+        },
+        {
+          "a": "Dos registros: Roc'n Bob, 4 km de trineo de nieve de La Croisette, y La Mine, una cornisa ferroviaria en el barrio Bruyères (de 5 y 1.10 m). El complejo cuenta con 10 áreas de trineo y 36 zonas de diversión en todos.",
+          "q": "¿Qué hay de las carreras de sledge?"
+        },
+        {
+          "a": "Traslados gratuitos dentro del complejo, y transbordadores de valles a Val Thorens y Saint-Martin-de-Belleville; Los ascensores públicos y los senderos para caminar fijos completan la red.",
+          "q": "¿Cómo te mueves sin un coche?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · 1.850 m",
+        "lead": "En el corazón del valle de Belleville, un resort a 1.850 m que publica en blanco y negro la lista de sus diez ascensores gratis — desde la alfombra Bruyères cubierta hasta el coche de cable Preyerand a los pies del 3 Vallées' 600 km."
+      },
+      "hero_alt": "Estilo libre en las pistas Les Menuires, Valle Belleville",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D117 de Moûtiers (A430), Valle de Belleville.",
+        "public_transport": "Estación de Moûtiers-Salins SNCF, luego entrenador del valle."
+      },
+      "meta_description": "Les Menuires (1.850 m): 81 pistas locales, la 3 Vallées en esquís — y diez ascensores gratuitos, uno por uno en el mapa oficial. 2026-27 temporada: 5 de diciembre a 18 de abril.",
+      "meta_title": "Les Menuires · 10 ascensores gratis, 3 Vallées",
+      "name": "Les Menuires",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Altitud",
+          "v": "La Croisette 1 850 m · 3 Vallées link en el Mont de la Chambre (2 800 m)"
+        },
+        {
+          "k": "Dominio local",
+          "v": "81 pistas · 30 ascensores (con Saint-Martin) · 85% sobre 1.800 m"
+        },
+        {
+          "k": "3 Vallées",
+          "v": "600 km · 156 ascensores (155 por courchevel.com – ambos citados)"
+        },
+        {
+          "k": "Temporada 26/27",
+          "v": "5 de diciembre 2026 – 18 abril 2027"
+        },
+        {
+          "k": "Gratis",
+          "v": "10 ascensores principiantes nombrados en el mapa oficial · resort and Valley transfers"
+        },
+        {
+          "k": "Contacto",
+          "v": "Oficina de turismo Les Menuires · +33 4 79 00 73 00"
+        }
+      ],
+      "schema_amenities": [
+        "10 ascensores gratis",
+        "Traslados gratuitos",
+        "Zonas de ensayo"
+      ],
+      "when_to_visit": "<p>2026-27 temporada: <strong>5 de diciembre de 2026 a 18 de abril de 2027</strong> (el calendario oficial 3 Vallées, consistente con los propios períodos de precios 2026-27 del resort). En verano, más de 90 actividades, 70 rutas de senderismo, ascensores abiertos del 4 de julio al 28 de agosto.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Listées sur le plan débutant officiel 2026 — tapis, téléski, télébenne et le téléphérique de Preyerand.",
+          "tag": "Sans forfait",
+          "title": "Dix remontées gratuites"
+        },
+        {
+          "description": "4 km de luge sur neige d'un côté, luge sur rails de l'autre — dans une station à 10 espaces luges.",
+          "tag": "Luge",
+          "title": "Roc'n Bob et La Mine"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Les Menuires</strong>, cœur de station à <strong>La Croisette (1 850 m)</strong> dans la vallée des Belleville, aligne un domaine local de <strong>81 pistes et 30 remontées</strong> partagé avec Saint-Martin-de-Belleville — 16 % de vertes, 41 % de bleues — avec 85 % du domaine au-dessus de 1 800 m, et la liaison 3 Vallées par le Mont de la Chambre (2 800 m). La station se place « au centre du plus grand domaine skiable du monde » : « 600 kilomètres de pistes et 156 remontées mécaniques » — courchevel.com en compte 155, les deux chiffres sont cités.</p><p>La rareté est ailleurs : le <strong>plan officiel des pistes débutant 2026 liste nominativement les remontées gratuites</strong> — sept tapis (Pelvoux, les Plans couvert, Reberty 1850, Preyerand, les Bruyères couvert, Biolley 1 et 2), le téléski du Village, la télébenne de la Croisette et le téléphérique de Preyerand : <strong>dix appareils sans forfait</strong>. S'y ajoutent les navettes gratuites dans la station et vers Val Thorens et Saint-Martin, 36 espaces ludiques et 10 espaces luges, la luge Roc'n Bob (4 km) et la luge sur rails La Mine.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Payant",
+        "best_season": "5 décembre 2026 – 18 avril 2027",
+        "commune": "Les Belleville",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Station de ski",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski_alpin",
+          "luge",
+          "raquettes"
+        ]
+      },
+      "faq": [
+        {
+          "a": "Le plan officiel des pistes débutant 2026 les liste : les tapis Pelvoux, les Plans (couvert), Reberty 1850, Preyerand, les Bruyères (couvert) et Biolley 1 et 2, le téléski du Village, la télébenne de la Croisette et le téléphérique de Preyerand — dix appareils accessibles sans forfait.",
+          "q": "Quelles remontées sont vraiment gratuites ?"
+        },
+        {
+          "a": "Du 5 décembre 2026 au 18 avril 2027, selon le calendrier « Hiver 26/27 » des 3 Vallées — cohérent avec les périodes tarifaires 2026-27 déjà en ligne sur lesmenuires.com.",
+          "q": "Quand ouvre la saison 2026-27 ?"
+        },
+        {
+          "a": "Deux registres : Roc'n Bob, 4 km de luge sur neige depuis La Croisette, et La Mine, luge sur rails au quartier des Bruyères (à partir de 5 ans et 1,10 m). La station compte en tout 10 espaces luges et 36 espaces ludiques.",
+          "q": "Que valent les luges des Menuires ?"
+        },
+        {
+          "a": "Navettes gratuites dans la station, et navettes de vallée vers Val Thorens et Saint-Martin-de-Belleville ; ascenseurs publics et sentiers piétons aménagés complètent le réseau.",
+          "q": "Comment circule-t-on sans voiture ?"
+        }
+      ],
+      "hero": {
+        "badge": "Station · 1 850 m",
+        "lead": "Au cœur de la vallée des Belleville, une station à 1 850 m qui publie noir sur blanc la liste de ses dix remontées gratuites — du tapis couvert des Bruyères au téléphérique de Preyerand — au pied des 600 km des 3 Vallées."
+      },
+      "hero_alt": "Freestyle sur les pistes des Menuires, vallée des Belleville",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D117 depuis Moûtiers (A430), vallée des Belleville.",
+        "public_transport": "Gare SNCF de Moûtiers-Salins, puis autocar de vallée."
+      },
+      "meta_description": "Les Menuires (1 850 m) : 81 pistes locales, les 3 Vallées à skis — et dix remontées débutants gratuites, listées nominativement sur le plan officiel. Saison 2026-27 : 5 décembre – 18 avril.",
+      "meta_title": "Les Menuires · 10 remontées gratuites, 3 Vallées",
+      "name": "Les Menuires",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Altitude",
+          "v": "La Croisette 1 850 m · liaison 3 Vallées au Mont de la Chambre (2 800 m)"
+        },
+        {
+          "k": "Domaine local",
+          "v": "81 pistes · 30 remontées (avec Saint-Martin) · 85 % au-dessus de 1 800 m"
+        },
+        {
+          "k": "3 Vallées",
+          "v": "600 km · 156 remontées (155 selon courchevel.com — les deux cités)"
+        },
+        {
+          "k": "Saison 26/27",
+          "v": "5 décembre 2026 – 18 avril 2027"
+        },
+        {
+          "k": "Gratuit",
+          "v": "10 remontées débutants nominativement listées · navettes station et vallée"
+        },
+        {
+          "k": "Contact",
+          "v": "OT Les Menuires · 04 79 00 73 00"
+        }
+      ],
+      "schema_amenities": [
+        "10 remontées gratuites",
+        "Navettes gratuites",
+        "Espaces luges"
+      ],
+      "when_to_visit": "<p>Saison 2026-27 : <strong>du 5 décembre 2026 au 18 avril 2027</strong> (calendrier officiel des 3 Vallées, cohérent avec les périodes tarifaires du site de la station). L'été, plus de 90 activités, 70 sentiers de randonnée, remontées ouvertes du 4 juillet au 28 août.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Nominato sulla mappa di avviamento ufficiale del 2026 — tappeti, un ascensore, una gondola e la funivia Preyerand.",
+          "tag": "No pass",
+          "title": "Dieci impianti gratuiti"
+        },
+        {
+          "description": "4 km di slittamento di neve da un lato, una slitta ferroviaria dall'altro — in un resort con 10 zone di slittamento.",
+          "tag": "Sledging",
+          "title": "Roc'n Bob e La Mine"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Les Menuires</strong>il suo cuore <strong>La Croisette (1 850 m)</strong> nella valle di Belleville, delimita un dominio locale <strong>81 piste e 30 ascensori</strong> condiviso con Saint-Martin-de-Belleville — 16% verde, 41% blu — con 85% del dominio superiore a 1.800 m, e il collegamento 3 Vallées sull'Mont de la Chambre (2.800 m). Il resort si trova al centro della più grande area sciistica del mondo: — 600 chilometri di piste e 156 ascensori courchevel.com conta 155; le cifre sono citate.</p><p>La rarità si trova altrove: il <strong>ufficiale 2026 principiante mappa della pista nomi i free lift uno per uno</strong> — sette tappeti (Pelvoux, coperto Les Plans, Reberty 1850, Preyerand, coperto Les Bruyères, Biolley 1 e 2), l'ascensore di trascinamento Village, la gondola Croisette e la funivia Preyerand: <strong>dieci macchine senza pass</strong>. Aggiungi le navette gratuite all'interno del resort e a Val Thorens e Saint-Martin, 36 zone di divertimento e 10 aree di slittamento, la corsa di slitta Roc'n Bob 4 km e la slitta La Mine.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagato",
+        "best_season": "5 dicembre 2026 – 18 aprile 2027",
+        "commune": "Les Belleville",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Stazione sciistica",
+        "winter_access": "open",
+        "winter_infra": [
+          "ski alpin",
+          "L'acqua",
+          "racchette"
+        ]
+      },
+      "faq": [
+        {
+          "a": "La mappa ufficiale delle piste 2026 principiante li elenca: Pelvoux, Les Plans (coperto), Reberty 1850, Preyerand, Les Bruyères (coperto) e Biolley 1 e 2 tappeti, l'ascensore di trascinamento Village, la gondola Croisette e la funivia Preyerand — Dieci macchine, nessun pass necessario.",
+          "q": "Quali ascensori sono veramente liberi?"
+        },
+        {
+          "a": "5 dicembre 2026 - 18 aprile 2027, per il calendario 3 Vallées 'inverno 26/27' — coerente con i periodi di prezzi 2026-27 già online su lesmenuires.com.",
+          "q": "Quando apre la stagione 2026-27?"
+        },
+        {
+          "a": "Due registri: Roc'n Bob, 4 km di slittamento neve da La Croisette, e La Mine, una slitta ferroviaria nel quartiere Bruyères (da 5 anni e 1,10 m). Il resort conta 10 zone di slittamento e 36 zone di divertimento in tutto.",
+          "q": "Che mi dici delle corse di slitta?"
+        },
+        {
+          "a": "Navette gratuite all'interno del resort e navette a valle per Val Thorens e Saint-Martin-de-Belleville; gli ascensori pubblici e i sentieri percorribili completano la rete.",
+          "q": "Come ti trasferisci senza una macchina?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · 1.850 m",
+        "lead": "Nel cuore della valle di Belleville, un resort a 1.850 m che pubblica in bianco e nero la lista dei suoi dieci ascensori liberi — dal tappeto Bruyères coperto alla funivia Preyerand — ai piedi della 3 Vallées' 600 km."
+      },
+      "hero_alt": "Freestyle sulle piste Les Menuires, valle di Belleville",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D117 da Moûtiers (A430), valle di Belleville.",
+        "public_transport": "Stazione Moûtiers-Salins SNCF, poi allenatore di valle."
+      },
+      "meta_description": "Les Menuires (1 850 m): 81 piste locali, la 3 Vallées sugli sci — e dieci ascensori gratuiti, nominati uno per uno sulla mappa ufficiale. 2026-27 stagione: Dal 5 dicembre al 18 aprile.",
+      "meta_title": "Les Menuires · 10 ascensori gratuiti, 3 Vallées",
+      "name": "Les Menuires",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Altitudine",
+          "v": "La Croisette 1 850 m · 3 Vallées collegamento al Mont de la Chambre (2.800 m)"
+        },
+        {
+          "k": "Dominio locale",
+          "v": "81 piste · 30 ascensori (con Saint-Martin) · 85% sopra 1.800 m"
+        },
+        {
+          "k": "3 Vallées",
+          "v": "600 km · 156 ascensori (155 per courchevel.com — entrambi citati)"
+        },
+        {
+          "k": "Stagione 26/27",
+          "v": "5 dicembre 2026 – 18 aprile 2027"
+        },
+        {
+          "k": "Gratis",
+          "v": "10 ascensori principianti denominati sulla mappa ufficiale · resort e navette a valle"
+        },
+        {
+          "k": "Contatto",
+          "v": "Ufficio turistico di Les Menuires · +33 4 79 00 73 00"
+        }
+      ],
+      "schema_amenities": [
+        "10 impianti di risalita gratuiti",
+        "Navette gratuite",
+        "Aree di scorrimento"
+      ],
+      "when_to_visit": "<p>2026-27 stagione: <strong>5 dicembre 2026 - 18 aprile 2027</strong> (il calendario ufficiale 3 Vallées, coerente con i propri 2026-27 periodi di prezzi del resort). In estate, oltre 90 attività, 70 sentieri escursionistici, ascensori aperti dal 4 luglio al 28 agosto.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Genaamd op de officiële 2026 beginner kaart tapijten, een sleeplift, een gondel en de Preyerand kabelbaan.",
+          "tag": "Geen pass",
+          "title": "Tien gratis liften"
+        },
+        {
+          "description": "4 km sneeuwslede aan de ene kant, een spoorslede aan de andere kant in een resort met 10 sleegebieden.",
+          "tag": "Slede",
+          "title": "Roc'n Bob en La Mine"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>Les Menuires</strong>, het hart <strong>La Croisette (1 850 m)</strong> in de Belleville vallei, lijnt een lokaal domein van <strong>81 ritten en 30 liften</strong> gedeeld met Saint-Martin-de-Belleville 16% groen, 41% blauw met 85% van het domein boven 1.800 m, en de 3 Vallées link over de Mont de la Chambre (2.800 m). Het resort ligt 'in het centrum van 's werelds grootste skigebied': \"600 kilometer afdalingen en 156 liften\" courchevel.com telt 155; beide cijfers worden geciteerd.</p><p>De zeldzaamheid ligt elders: de <strong>officiële 2026 beginner piste kaart namen de gratis liften een voor een</strong> Zeven tapijten (Pelvoux, overdekte Les Plans, Reberty 1850, Preyerand, overdekte Les Bruyères, Biolley 1 en 2), de Village draglift, de Croisette gondel en de Preyerand kabelbaan: <strong>tien machines zonder pas</strong>. Voeg de gratis shuttles binnen het resort en aan Val Thorens en Saint-Martin, 36 leuke zones en 10 sledes, de 4 km Roc'n Bob slede run en de La Mine rail slede.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Betaald",
+        "best_season": "5 december 2026 18 april 2027",
+        "commune": "Les Belleville",
+        "dogs": null,
+        "parking": null,
+        "stroller": null,
+        "type": "Skigebied",
+        "winter_access": "open",
+        "winter_infra": [
+          "Skialpin",
+          "luge",
+          "raquettes"
+        ]
+      },
+      "faq": [
+        {
+          "a": "De officiële 2026 beginner piste kaart geeft ze: de Pelvoux, Les Plans (overdekt), Reberty 1850, Preyerand, Les Bruyères (overdekt) en Biolley 1 en 2 tapijten, de Village draglift, de Croisette gondel en de Preyerand kabelbaan Tien machines, geen pas nodig.",
+          "q": "Welke liften zijn echt gratis?"
+        },
+        {
+          "a": "5 december 2026 t/m 18 april 2027, per de 3 Vallées 'Winter 26/27' kalender consistent met de 2026-27 prijsperioden al online op lesmenuires.com.",
+          "q": "Wanneer opent het seizoen 2026-27?"
+        },
+        {
+          "a": "Twee registers: Roc'n Bob, 4 km sneeuwslede van La Croisette, en La Mine, een spoorslede in het Bruyères-kwartier (vanaf 5 en 1.10 m). Het resort telt 10 sleegebieden en 36 leuke zones in totaal.",
+          "q": "En de slee?"
+        },
+        {
+          "a": "Gratis shuttles binnen het resort, en vallei shuttles naar Val Thorens en Saint-Martin-de-Belleville; openbare liften en aangelegde wandelpaden maken het netwerk compleet.",
+          "q": "Hoe beweeg je zonder auto?"
+        }
+      ],
+      "hero": {
+        "badge": "Resort · 1 850 m",
+        "lead": "In het hart van de Belleville vallei, een resort op 1.850 m die in zwart-wit de lijst van de tien gratis liften publiceert . van het overdekte Bruyères tapijt naar de Preyerand kabelbaan aan de voet van de 3 Vallées' 600 km."
+      },
+      "hero_alt": "Freestyle op de Les Menuires pisten, Belleville vallei",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D117 uit Moûtiers (A430), Belleville Valley.",
+        "public_transport": "Moûtiers-Salins SNCF-station, dan dalcoach."
+      },
+      "meta_description": "Les Menuires (1 850 m): 81 lokale pistes, de 3 Vallées op ski's en tien gratis beginnersliften, één voor één genoemd op de officiële kaart. 2026-27 seizoen: 5 december tot en met 18 april.",
+      "meta_title": "Les Menuires · 10 gratis liften, 3 Vallées",
+      "name": "Les Menuires",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Hoogte",
+          "v": "La Croisette 1 850 m · 3 Vallées link op de Mont de la Chambre (2.800 m)"
+        },
+        {
+          "k": "Lokaal domein",
+          "v": "81 pisten · 30 liften (met Saint-Martin) · 85% boven 1.800 m"
+        },
+        {
+          "k": "3 Vallées",
+          "v": "600 km · 156 liften (155 per courchevel.com beide geciteerd)"
+        },
+        {
+          "k": "Seizoen 26/27",
+          "v": "5 december 2026 18 april 2027"
+        },
+        {
+          "k": "Vrij",
+          "v": "10 beginner liften genoemd op de officiële kaart · resort en vallei shuttles"
+        },
+        {
+          "k": "Contactpersoon",
+          "v": "Les Menuires VVV-kantoor · +33 4 79 00 73 00"
+        }
+      ],
+      "schema_amenities": [
+        "10 gratis liften",
+        "Gratis pendeldiensten",
+        "Sledeplaatsen"
+      ],
+      "when_to_visit": "<p>2026-27 seizoen: <strong>5 december 2026 tot en met 18 april 2027</strong> (de officiële 3 Vallées kalender, in overeenstemming met de eigen 2026-27 prijsperioden van het resort). In de zomer, meer dan 90 activiteiten, 70 wandelwegen, liften geopend 4 juli tot 28 augustus.</p>"
+    }
+  },
+  "latitude": 45.327393,
+  "longitude": 6.53682,
+  "official_site_url": "https://lesmenuires.com/fr/domaine-skiable",
+  "partners": [],
+  "postal_code": "73440",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-18, FR pages only (lesmenuires.com + plan officiel des pistes débutant 2026, les3vallees.com). Cœur de station La Croisette à 1 850 m ; liaison 3 Vallées par le Mont de la Chambre (2 800 m) ; 85 % du domaine au-dessus de 1 800 m. Domaine local Les Menuires–Saint-Martin : 81 pistes, 30 remontées (16 % vertes, 41 % bleues, 33 % rouges, 10 % noires). 3 Vallées « 600 km et 156 remontées » (vs 155 chez courchevel.com — reportée). Saison 26/27 : 5 décembre – 18 avril (les3vallees.com, cohérent avec les périodes tarifaires du site). GRATUIT, listé nominativement sur le plan débutant 2026 : 7 tapis (Pelvoux, Plans couvert, Reberty 1850, Preyerand, Bruyères couvert, Biolley 1 & 2), téléski du Village, télébenne de la Croisette, téléphérique de Preyerand — 10 appareils. Navettes gratuites intra-station et vers Val Thorens / Saint-Martin. 36 espaces ludiques, 10 espaces luges ; Roc'n Bob 4 km ; luge sur rails La Mine. Été : 90 activités, remontées 04/07–28/08.",
+  "schema_org": {
+    "amenities": [],
+    "is_free": false,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "station-des-menuires",
+  "sources": [
+    "https://lesmenuires.com/fr/domaine-skiable",
+    "https://static.lesmenuires.com/files/plan-pistes-debutant.pdf",
+    "https://www.les3vallees.com/fr/station/les-menuires",
+    "https://www.les3vallees.com/fr/news/ouvertures-3-vallees"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published; kept null."
+  ]
+}

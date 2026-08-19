@@ -1,0 +1,34 @@
+{
+  "name": "Valloire",
+  "commune": "Valloire",
+  "gps": {
+    "lat": 45.165666,
+    "lng": 6.429148
+  },
+  "type": "station",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": false,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "19 décembre 2026 – 9 avril 2027",
+  "winter": {
+    "access": "open",
+    "infrastructure": [
+      "ski_alpin",
+      "ski_fond"
+    ],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
+  "official_url": "https://www.valloire.net/profiter-de-valloire/le-ski/",
+  "last_verified": null
+}

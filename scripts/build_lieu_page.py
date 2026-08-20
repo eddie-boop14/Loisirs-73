@@ -1212,6 +1212,118 @@ def selections_chips(d, lang):
     )
 
 
+# ---------------------------------------------------------------- modifier FAQ
+# GSC 11-17 August: the 73 ranks 7th-11th on "<lieu> parking", "<lieu> baignade"
+# and their siblings, and takes zero clicks from them. The facts were already on
+# the page — facts.parking is filled on 42 fiches, facts.access on all 129 — but
+# under headings like "Comment y aller", never phrased as the query anyone typed.
+#
+# The 74 closed the same gap by hand: 493 distinct authored questions across its
+# corpus, which is why its coverage stops at ~45%. Here the answers are already
+# sourced in facts, so the question is DERIVED instead — one shape, six locales,
+# every present and future fiche, nothing to author and nothing to retrofit.
+#
+# Two laws, both load-bearing:
+#   1. A question is emitted ONLY when its underlying fact is non-null. A missing
+#      fact stays missing; the corpus never invents a parking or a dog policy.
+#   2. An authored FAQ that already covers the modifier WINS — the derived entry
+#      is skipped, so a richer hand-written answer is never displaced or doubled.
+MODIFIER_FAQ = (
+    # (key, source, question per locale, answer frame per locale)
+    ("parking", "parking",
+     {"fr": "Où se garer ?", "en": "Where do you park?", "de": "Wo kann man parken?",
+      "it": "Dove si parcheggia?", "es": "¿Dónde aparcar?", "nl": "Waar kun je parkeren?"},
+     {"fr": "Stationnement : {v}.", "en": "Parking: {v}.", "de": "Parken: {v}.",
+      "it": "Parcheggio: {v}.", "es": "Aparcamiento: {v}.", "nl": "Parkeren: {v}."},
+     ("garer", "parking", "parken", "parcheggi", "aparca", "parkeren")),
+    ("access", "access",
+     {"fr": "Quels sont les tarifs ?", "en": "What does it cost?", "de": "Was kostet es?",
+      "it": "Quali sono le tariffe?", "es": "¿Cuánto cuesta?", "nl": "Wat kost het?"},
+     {"fr": "Accès : {v}.", "en": "Access: {v}.", "de": "Zugang: {v}.",
+      "it": "Accesso: {v}.", "es": "Acceso: {v}.", "nl": "Toegang: {v}."},
+     ("tarif", "gratuit", "payant", "cost", "price", "kostet", "gratis",
+      "tariffe", "cuesta", "prix")),
+    ("season", "best_season",
+     {"fr": "Quand y aller ?", "en": "When should you go?", "de": "Wann hingehen?",
+      "it": "Quando andarci?", "es": "¿Cuándo ir?", "nl": "Wanneer gaan?"},
+     {"fr": "Meilleure période : {v}.", "en": "Best time: {v}.", "de": "Beste Zeit: {v}.",
+      "it": "Periodo migliore: {v}.", "es": "Mejor época: {v}.", "nl": "Beste periode: {v}."},
+     ("quand", "saison", "période", "when", "season", "wann", "zeit", "quando",
+      "stagione", "cuándo", "época", "wanneer", "periode")),
+    ("dogs", "dogs",
+     {"fr": "Les chiens sont-ils admis ?", "en": "Are dogs allowed?",
+      "de": "Sind Hunde erlaubt?", "it": "I cani sono ammessi?",
+      "es": "¿Se admiten perros?", "nl": "Zijn honden toegestaan?"},
+     {"fr": "Chiens : {v}.", "en": "Dogs: {v}.", "de": "Hunde: {v}.",
+      "it": "Cani: {v}.", "es": "Perros: {v}.", "nl": "Honden: {v}."},
+     ("chien", "dog", "hund", "cani", "perro", "honden")),
+    ("stroller", "stroller",
+     {"fr": "Est-ce accessible en poussette ?", "en": "Is it stroller-friendly?",
+      "de": "Ist es mit Kinderwagen machbar?", "it": "È accessibile con il passeggino?",
+      "es": "¿Es accesible con carrito?", "nl": "Is het toegankelijk met een kinderwagen?"},
+     {"fr": "Poussette : {v}.", "en": "Stroller: {v}.", "de": "Kinderwagen: {v}.",
+      "it": "Passeggino: {v}.", "es": "Carrito: {v}.", "nl": "Kinderwagen: {v}."},
+     ("poussette", "stroller", "kinderwagen", "passeggino", "carrito")),
+)
+
+_PMR_Q = {"fr": "Est-ce accessible en fauteuil roulant ?",
+          "en": "Is it wheelchair accessible?",
+          "de": "Ist es rollstuhlgerecht?",
+          "it": "È accessibile in sedia a rotelle?",
+          "es": "¿Es accesible en silla de ruedas?",
+          "nl": "Is het rolstoeltoegankelijk?"}
+_PMR_HINT = ("fauteuil", "wheelchair", "rollstuhl", "sedia a rotelle",
+             "silla de ruedas", "rolstoel", "pmr", "accessib", "zugäng",
+             "toegankelijk")
+
+
+def _covered(existing_qs, hints):
+    """True when an authored question already answers this modifier."""
+    return any(h in q for q in existing_qs for h in hints)
+
+
+def modifier_faq(facts, acces_pmr, authored):
+    """Derived FAQ entries phrased as the queries people actually type.
+
+    Every answer is a fact already sourced in this fiche; nothing is generated
+    where the fact is null, and an authored question always wins.
+    """
+    qs = [(e.get("q") or "").lower() for e in (authored or []) if isinstance(e, dict)]
+    out = []
+    for _key, field, q_row, a_row, hints in MODIFIER_FAQ:
+        v = (facts or {}).get(field)
+        if v in (None, "", []) or _covered(qs, hints):
+            continue
+        q = q_row.get(_LANG) or q_row["fr"]
+        a = (a_row.get(_LANG) or a_row["fr"]).format(v=str(v).rstrip("."))
+        out.append({"q": q, "a": a})
+
+    # Accessibility is top-level, not per-locale: render the localized status
+    # label, and the FR-authored detail only on the FR page (HANDOFF-35 — that
+    # detail is CONTENT, and a French sentence inside a German answer is a leak).
+    a = acces_pmr if isinstance(acces_pmr, dict) else {}
+    if a.get("status") in _ACCES_STATUS and not _covered(qs, _PMR_HINT):
+        val = _pmr_status_label(a["status"], _LANG)
+        if _LANG == "fr" and a.get("detail"):
+            val = f"{val} · {a['detail']}"
+        if a.get("source_name"):
+            val = f"{val} ({a['source_name']})"
+        out.append({"q": _PMR_Q.get(_LANG) or _PMR_Q["fr"], "a": val})
+    return out
+
+
+def full_faq(d, L):
+    """Authored FAQ + derived modifier entries — the ONE list both consumers read.
+
+    The rendered accordion and the FAQPage JSON-LD must agree: a question in the
+    schema that is not on the page is a structured-data lie, and the reverse
+    forfeits the rich result. Deriving this in two places is what made them
+    disagree the first time.
+    """
+    authored = L("faq", []) or []
+    return authored + modifier_faq(L("facts", {}) or {}, d.get("acces_pmr"), authored)
+
+
 def faq_block(faq):
     if not faq:
         return ""
@@ -1791,7 +1903,7 @@ def build_ldjson(d, desc_override=""):
     is_free = sch.get("is_free", False)
     place_type = sch.get("type") or "TouristAttraction"
     amenities = L("schema_amenities", None) or sch.get("amenities") or []
-    faq = L("faq", []) or []
+    faq = full_faq(d, L)
     in_lang = CHROME["in_lang"][_LANG]
     lang_prefix = f"/{_LANG}" if _LANG != "fr" else ""
 
@@ -2748,7 +2860,7 @@ def build_page(d, lang="fr", include_partners=True, fr_prose_fallback=True):
     if include_partners:
         out.append(partners_block(d))
     out.append(gallery_block(name, d.get("gallery_photos")))
-    out.append(faq_block(L("faq", []) or []))
+    out.append(faq_block(full_faq(d, L)))
     out.append(selections_chips(d, lang))
     _related = related_lieux_block(d.get("related_lieux", []), lang)
     if _related:

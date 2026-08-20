@@ -5,7 +5,7 @@
     "lat": 45.417615,
     "lng": 5.855172
   },
-  "type": "domaine",
+  "type": "sentier",
   "hours": null,
   "prices": {
     "from": null,
@@ -25,7 +25,14 @@
   "parking": "Parking de l'école, au village (gratuité non publiée) ; stationnement interdit dans la rue du lotissement « Le Pré du Comte »",
   "transport": null,
   "season": "Toute l'année, hors orages, fortes pluies, neige, gel et dégel",
-  "winter": null,
+  "winter": {
+    "access": null,
+    "infrastructure": [],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
   "official_url": "https://saintpierredentremont.org/savoie/via-ferrata-de-la-roche-veyrand/",
   "last_verified": null
 }

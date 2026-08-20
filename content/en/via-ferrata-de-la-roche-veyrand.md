@@ -1,8 +1,8 @@
 ---
 slug: via-ferrata-de-la-roche-veyrand
 name: "Via ferrata de la Roche Veyrand"
-category: domaine
-category_label: "Base de loisirs"
+category: sentier
+category_label: "Sentier"
 commune: "Saint-Pierre-d'Entremont"
 postal_code: "73670"
 department: "Savoie"
@@ -31,7 +31,7 @@ source: loisirs73.fr
 
 - Commune: Saint-Pierre-d'Entremont, Savoie (73670)
 - GPS: 45.417615, 5.855172
-- Category: domaine
+- Category: sentier
 - Type: Via ferrata
 
 ## Hours
@@ -58,6 +58,10 @@ Not specified
 ## Season
 
 All year, excluding storms, heavy rain, snow, frost and thaw
+- Winter access window: Not specified
+- Winter infrastructure: Not specified
+- Snow panorama: Not specified
+- Equipment mandated: Loi Montagne II — winter tyres or chains required (1 Nov – 31 Mar)
 
 ## Official source
 

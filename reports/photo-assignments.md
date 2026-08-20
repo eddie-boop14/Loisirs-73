@@ -7,13 +7,13 @@
 
 | hub | fiches | distinct photos | max repeat of one photo |
 |---|---:|---:|---:|
-| `bases-de-loisirs` | 14 | 14 | 1 |
+| `bases-de-loisirs` | 13 | 13 | 1 |
 | `cascades` | 12 | 1 | 12 |
 | `chateaux` | 12 | 5 | 4 |
 | `lacs-plages` | 27 | 27 | 1 |
 | `musees` | 12 | 8 | 3 |
 | `points-de-vue` | 15 | 15 | 1 |
-| `sentiers` | 12 | 10 | 2 |
+| `sentiers` | 13 | 11 | 2 |
 | `stations-de-ski` | 16 | 15 | 2 |
 | `telecabines` | 15 | 15 | 1 |
 | `voies-vertes` | 9 | 5 | 2 |
@@ -34,7 +34,6 @@
 | `bases-de-loisirs` | `parcobranche-du-diable-avrieux` | `nature` | `generique-accrobranche-11.jpg` | — | json hero (local) |
 | `bases-de-loisirs` | `plage-base-de-loisirs-du-sougey` | `aquatique` | `generique-plage-lac-3.jpg` | — | json hero (local) |
 | `bases-de-loisirs` | `plan-d-eau-de-bozel` | `nature` | `generique-plage-lac-11.jpg` | — | json hero (local) |
-| `bases-de-loisirs` | `via-ferrata-de-la-roche-veyrand` | `nature` | `generique-via-ferrata-arete.jpg` | — | json hero (local) |
 | `bases-de-loisirs` | `wam-park-savoie-montailleur` | `nature` | `generique-wakeboard.jpg` | — | json hero (local) |
 | `cascades` | `cascade-de-la-fraiche` | `nature` | `generique-cascade.jpg` | — | json hero (local) |
 | `cascades` | `cascade-de-la-vuzelle-planay` | `nature` | `generique-cascade.jpg` | — | json hero (local) |
@@ -126,6 +125,7 @@
 | `sentiers` | `sentier-artistique-hautecour` | `nature` | `generique-sentier-foret.jpg` | — | json hero (local) |
 | `sentiers` | `sentier-des-arpelieres-crest-voland` | `nature` | `generique-reserve-zone-humide-5.jpg` | — | json hero (local) |
 | `sentiers` | `tour-du-lac-aiguebelette` | `nature` | `generique-sentier.jpg` | — | json hero (local) |
+| `sentiers` | `via-ferrata-de-la-roche-veyrand` | `nature` | `generique-via-ferrata-arete.jpg` | — | json hero (local) |
 | `stations-de-ski` | `savoie-grand-revard` | `nature` | `generique-chiens-de-traineau-2.jpg` | — | json hero (local) |
 | `stations-de-ski` | `station-d-aussois` | `nature` | `generique-chiens-de-traineau-1.jpg` | — | json hero (local) |
 | `stations-de-ski` | `station-de-courchevel` | `nature` | `generique-ski-piste.jpg` | — | json hero (local) |

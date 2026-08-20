@@ -10,7 +10,7 @@
     "status": "non_accessible",
     "tourisme_handicap": null
   },
-  "category": "domaine",
+  "category": "sentier",
   "commune": "Saint-Pierre-d'Entremont",
   "date_modified_human": "18 août 2026",
   "date_published_human": "18 août 2026",
@@ -648,6 +648,7 @@
     "TARIF — aucune source officielle n'affiche de prix ni la mention « gratuit » ; la gratuité n'est pas affirmée, le champ reste non renseigné.",
     "CHIENS et POUSSETTE — aucune mention sur les pages officielles ; non renseignés.",
     "TAILLE MINIMUM — aucune taille publiée ; non renseignée.",
-    "COORDONNÉES — le parking de l'école n'est pas géocodable à l'adresse (résultat de niveau commune) ; le point retenu est le géocodage IGN de la mairie, au village, à proximité immédiate du parking."
+    "COORDONNÉES — le parking de l'école n'est pas géocodable à l'adresse (résultat de niveau commune) ; le point retenu est le géocodage IGN de la mairie, au village, à proximité immédiate du parking.",
+    "CATEGORIE — classée `sentier` (itinéraire en boucle de 2,2 km publié comme tel par l'office de tourisme), et non `domaine`. Le hub des sentiers contient des boucles familiales : la cotation AD/TD et l'équipement obligatoire par arrêté municipal sont portés par le nom, le badge, les faits et la FAQ, jamais enfouis."
   ]
 }

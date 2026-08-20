@@ -4,7 +4,7 @@
   "publisher": "bleu-canard éditions",
   "website": "https://loisirs73.fr",
   "contact": "contact@loisirs73.fr",
-  "last_updated": "2026-08-19",
+  "last_updated": "2026-08-20",
   "discovery_files": {
     "llms_txt": "https://loisirs73.fr/llms.txt",
     "llms_full_txt": "https://loisirs73.fr/llms-full.txt",
@@ -98,7 +98,7 @@
   "content_count": 129,
   "specification": {
     "llms_txt_version": "1.7.0",
-    "last_validated": "2026-08-19"
+    "last_validated": "2026-08-20"
   },
   "facet_indexes": {
     "url_pattern": "https://loisirs73.fr/content/facets/{facet}.md",

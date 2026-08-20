@@ -19,9 +19,10 @@ Derived rosters (declared order preserved):
                     intent-hubs/catalog/reachability/prose-gates consume these.
   PROSE_SECONDARY   PROSE minus the root locale (en,de,it,es,nl).
   VISIBLE           status==published — appears to users + search: the language
-                    picker, hreflang clusters, and the sitemap. Spans BOTH render
-                    modes (fr..nl + pl). Picker/hreflang/sitemap consume these.
-  VISIBLE_SECONDARY VISIBLE minus root (en,de,it,es,nl,pl).
+                    picker, hreflang clusters, and the sitemap. Spans both render
+                    modes whenever a facts language is published; while none is,
+                    it coincides with PROSE. Picker/hreflang/sitemap consume these.
+  VISIBLE_SECONDARY VISIBLE minus the root locale.
   FACTS_PUBLISHED   published ∧ render_mode==facts — full facts-first trees owned
                     by build_fulltree_lang.
   STAGED_INDEXABLE  staged-indexable pilots. STAGED / HELD as before.

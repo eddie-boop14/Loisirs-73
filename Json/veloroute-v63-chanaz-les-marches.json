@@ -1,0 +1,689 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-18",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "voie-verte",
+  "commune": "Chanaz",
+  "date_modified_human": "18 août 2026",
+  "date_published_human": "18 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-18",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-voie-verte-cyclistes-lac.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Der Seepfad, die Mottets Freizeitbasis und Le Bourget-du-Lac.",
+          "tag": "Greenway",
+          "title": "Der Lac du Bourget auf dem Avenue Verte Nord"
+        },
+        {
+          "description": "Der Link zur Annecy – Albertville Zweig, und weiter nach Grenoble und Valence.",
+          "tag": "La Belle Via",
+          "title": "Die V62 Kreuzung bei Montmélian"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>V63</strong>, markiert unter dem <strong>La Belle Via</strong> Marke (V62 / V63 Zeichen), kreuzt Savoie über '<strong>45 km</strong>„, aus <strong>Chanaz</strong> bis <strong>Les Marches</strong>, auf der Ebene: easy (grün). Die offizielle Route: Die V63, eine Fernreiseroute, verlässt die ViaRhôna bei Chanaz, wo Sie Aix-les-Bains mit dem Boot oder dem Zug (Bahnhof Vions) erreichen, dann folgen Sie dem Lac du Bourget durch den Seepfad, die Mottets Freizeitbasis und Le Bourget-du-Lac. Von dort aus erreichen Sie den Lac des Marches und die Isère über Chambéry.</p><p>Die Sache, die man wissen sollte, bevor man die Panniers lädt, wird von Savoie Mont Blanc klar geschrieben: „<strong>Der nördliche Abschnitt zwischen Chanaz und Aix-les-Bains erfolgt mit öffentlichen Verkehrsmitteln, mit dem Zug von Culoz oder mit dem Boot vom Hafen von Chanaz.</strong>Es ist also keine durchgehende Radroute über seine 45 km - und die Bootsverbindung ist ein kostenpflichtiger Service mit obligatorischer Buchung über die Compagnie des Bateaux. Weiter südlich nutzt die Route echte Greenways: das <strong>Avenue Verte Nord</strong> entlang des Sees, dann die Leysse Greenway in Richtung Chambéry. Bei Montmélian schließt es sich der V62, La Belle Via Annecy – Zweigstelle Albertville.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Freier Zugang (Chanaz) Aix-les-Bains Bootsverbindung geladen",
+        "best_season": "Das ganze Jahr pro V63 Auflistung; 15. März bis 15. November pro Bühne Listen",
+        "commune": "Chanaz",
+        "dogs": "\"Nicht akzeptierte Tiere\" in den amtlichen Listen; müssen auf gemeinsamen Straßenabschnitten befördert werden",
+        "min_age": null,
+        "min_height": null,
+        "parking": "Parken (Standort und Preis unveröffentlicht); Start am Ort Antoine Gianetto, Chanaz",
+        "stroller": null,
+        "type": "Radweg",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "Nein, und die offizielle Website sagt so: \"Der nördliche Abschnitt zwischen Chanaz und Aix-les-Bains erfolgt mit öffentlichen Verkehrsmitteln, mit dem Zug von Culoz oder mit dem Boot vom Hafen von Chanaz.\" Sie müssen für diesen Link planen - das Boot wird berechnet und die Buchung ist obligatorisch (Compagnie des Bateaux, +33 4 79 63 45 00).",
+          "q": "Können Sie alle 45 km Ende an Ende fahren?"
+        },
+        {
+          "a": "Die offiziellen Seiten widersprechen. Die V63-Liste sagt \"Das ganze Jahr über, abhängig von den Wetterbedingungen\"; Die Bühnenauflistungen des gleichen Verlags sagen \"Von 15/03 bis 15/11\". Wir zitieren beide, ohne sie zu regeln.",
+          "q": "Ist es das ganze Jahr über geöffnet?"
+        },
+        {
+          "a": "In den offiziellen Auflistungen heißt es \"Tiere nicht akzeptiert\". Einer von ihnen gibt den Grund an: Der Hund \"muss oft an der Leine gehalten werden und muss auf den Streckenabschnitten getragen werden, die mit dem Straßenverkehr geteilt werden\", und \"Hunde können auf bestimmten Abteilungsradwegen oder Greenways verboten sein\".",
+          "q": "Kannst du einen Hund mitbringen?"
+        },
+        {
+          "a": "Wir behaupten das nicht. Cœur de Savoie schreibt, dass \"Radwege für Fußgänger und alle weichen Transportmittel (Longboard, Roller, Kinderwagen, Rollschuhe ...) offen sind\", aber dieser Satz deckt Radwege im Allgemeinen ab, nicht einen benannten Savoie-Abschnitt - Das gilt weder für die Teilstrecken noch für die Zug-Boot-Verbindung.",
+          "q": "Ist es Kinderwagen-freundlich?"
+        },
+        {
+          "a": "Platzieren Sie Antoine Gianetto in Chanaz, wo der V63 den ViaRhôna verlässt. Die Auflistung \"V63 en Savoie\" erwähnt separat einen Start von Chambéry: Beide offiziellen Gateways existieren nebeneinander.",
+          "q": "Wo beginnt die Route?"
+        }
+      ],
+      "hero": {
+        "badge": "Radweg · 45 km",
+        "lead": "Forty-five kilometres from Chanaz to Les Marches via the Lac du Bourget and Chambéry — mit einer Lücke in der Kette besitzt die offizielle Website: Zwischen Chanaz und Aix-les-Bains nehmen Sie den Zug oder das Boot."
+      },
+      "hero_alt": "Radweg neben dem Lac du Bourget in Savoie",
+      "how_to_get_there": {
+        "bike": "Schließt sich dem ViaRhôna / EuroVelo 17 bei Chanaz und dem V62 bei Montmélian an.",
+        "car": "Chanaz (73310), Ort Antoine Gianetto, neben dem Savières-Kanal.",
+        "public_transport": "Culoz oder Vions Stationen für den nördlichen Abschnitt; Chambéry Station ist auf der Route."
+      },
+      "meta_description": "V63 'La Belle Via' in Savoie: 45 km von Chanaz nach Les Marches über den Lac du Bourget und Chambéry. Beachten Sie, dass zwischen Chanaz und Aix-les-Bains keine Zykluskontinuität besteht - Zug oder bezahltes Boot.",
+      "meta_title": "Véloroute V63 in Savoie · Chanaz nach Les Marches, 45 km",
+      "name": "Véloroute V63 en Savoie – de Chanaz aux Marches",
+      "name_alternates": [
+        "La Belle Via"
+      ],
+      "practical_info": [
+        {
+          "k": "Länge",
+          "v": "45 km in Savoie, Chanaz bis Les Marches · grün, leicht"
+        },
+        {
+          "k": "Diskontinuität",
+          "v": "Chanaz nach Aix-les-Bains mit dem Zug (Culoz/Vions) oder Boot — Nicht mit dem Fahrrad"
+        },
+        {
+          "k": "Boot",
+          "v": "Gebührenpflichtig, Buchung obligatorisch · Compagnie des Bateaux +33 4 79 63 45 00"
+        },
+        {
+          "k": "Saison",
+          "v": "'Ganzes Jahr' (V63 Auflistung) oder '15/03 - 15/11' (Stufenlisten) — beide veröffentlicht"
+        },
+        {
+          "k": "Hunde",
+          "v": "\"Tiere nicht akzeptiert\" in den offiziellen Listen"
+        },
+        {
+          "k": "Wegmarkierung",
+          "v": "La Belle Via, V62/V63 Zeichen"
+        },
+        {
+          "k": "Kontakt",
+          "v": "Aix-les-Bains Riviera des Alpes · +33 4 79 88 68 00"
+        }
+      ],
+      "schema_amenities": [
+        "Freier Zugang",
+        "La Belle Via-Wegmarkierung"
+      ],
+      "when_to_visit": "<p>In der Saison widerspricht sich derselbe Publisher: Die V63 Auflistung sagt '<strong>Das ganze Jahr über. Abhängig von den Wetterbedingungen.</strong>', seine eigenen Bühnenauflistungen'<strong>Von 15/03 bis 15/11</strong>, bei Schnee und günstigem Wetter. Wir zitieren beide. Der Zugang zur Route ist frei — Nur die Bootsüberfahrt von Chanaz wird geladen.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "The lakeside path, the Mottets leisure base and Le Bourget-du-Lac.",
+          "tag": "Greenway",
+          "title": "The Lac du Bourget on the Avenue Verte Nord"
+        },
+        {
+          "description": "The link to the Annecy – Albertville branch, and onward to Grenoble and Valence.",
+          "tag": "La Belle Via",
+          "title": "The V62 junction at Montmélian"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>V63</strong>, waymarked under the <strong>La Belle Via</strong> brand (V62/V63 signs), crosses Savoie over '<strong>45 km</strong>', from <strong>Chanaz</strong> to <strong>Les Marches</strong>, at 'level: easy (green)'. The official route: 'The V63, a long-distance touring itinerary, leaves the ViaRhôna at Chanaz, where you reach Aix-les-Bains by boat or train (Vions station), then follow the Lac du Bourget by the lakeside path, the Mottets leisure base and Le Bourget-du-Lac. From there you reach the Lac des Marches and the Isère via Chambéry.'</p><p>The thing to know before loading the panniers is written plainly by Savoie Mont Blanc: '<strong>The northern section, between Chanaz and Aix-les-Bains, is done by public transport, via the train from Culoz or by boat from the port of Chanaz.</strong>' So it is not a continuous cycle route across its 45 km — and the boat link is a paid service, with compulsory booking through the Compagnie des Bateaux. Further south the route uses genuine greenways: the <strong>Avenue Verte Nord</strong> along the lake, then the Leysse greenway towards Chambéry. At Montmélian it joins the V62, La Belle Via's Annecy – Albertville branch.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free access (Chanaz – Aix-les-Bains boat link charged)",
+        "best_season": "All year per the V63 listing; 15 March to 15 November per the stage listings",
+        "commune": "Chanaz",
+        "dogs": "'Animals not accepted' on the official listings; must be carried on shared-road sections",
+        "min_age": null,
+        "min_height": null,
+        "parking": "Parking (location and price unpublished); start at place Antoine Gianetto, Chanaz",
+        "stroller": null,
+        "type": "Cycle route",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "No, and the official site says so: 'The northern section, between Chanaz and Aix-les-Bains, is done by public transport, via the train from Culoz or by boat from the port of Chanaz.' You have to plan for that link — the boat is charged and booking is compulsory (Compagnie des Bateaux, +33 4 79 63 45 00).",
+          "q": "Can you ride all 45 km end to end?"
+        },
+        {
+          "a": "The official pages disagree. The V63 listing says 'All year round, depending on weather conditions'; the same publisher's stage listings say 'From 15/03 to 15/11'. We quote both without settling it.",
+          "q": "Is it open all year?"
+        },
+        {
+          "a": "The official listings state 'Animals not accepted'. One of them gives the reason: the dog 'will often have to be kept on a lead and must be carried on the sections of route shared with motor traffic', and 'dogs may be forbidden on certain departmental cycle paths or greenways'.",
+          "q": "Can you bring a dog?"
+        },
+        {
+          "a": "We do not assert it. Cœur de Savoie writes that 'cycle routes are open to pedestrians and all soft modes of transport (longboard, scooters, pushchairs, roller skis...)', but that sentence covers cycle routes in general, not a named Savoie section — and it holds neither for the shared-road stretches nor for the train-and-boat link.",
+          "q": "Is it pushchair-friendly?"
+        },
+        {
+          "a": "Place Antoine Gianetto in Chanaz, where the V63 leaves the ViaRhôna. The 'V63 en Savoie' listing separately mentions a start from Chambéry: both official gateways coexist.",
+          "q": "Where does the route start?"
+        }
+      ],
+      "hero": {
+        "badge": "Cycle route · 45 km",
+        "lead": "Forty-five kilometres from Chanaz to Les Marches via the Lac du Bourget and Chambéry — with a gap in the chain the official site owns up to: between Chanaz and Aix-les-Bains you take the train or the boat."
+      },
+      "hero_alt": "Cycle route beside the Lac du Bourget in Savoie",
+      "how_to_get_there": {
+        "bike": "Joins the ViaRhôna / EuroVelo 17 at Chanaz and the V62 at Montmélian.",
+        "car": "Chanaz (73310), place Antoine Gianetto, beside the Savières canal.",
+        "public_transport": "Culoz or Vions stations for the northern section; Chambéry station is on the route."
+      },
+      "meta_description": "V63 'La Belle Via' in Savoie: 45 km from Chanaz to Les Marches via the Lac du Bourget and Chambéry. Note that between Chanaz and Aix-les-Bains there is no cycle continuity — train or paid boat.",
+      "meta_title": "Véloroute V63 in Savoie · Chanaz to Les Marches, 45 km",
+      "name": "Véloroute V63 en Savoie – de Chanaz aux Marches",
+      "name_alternates": [
+        "La Belle Via"
+      ],
+      "practical_info": [
+        {
+          "k": "Length",
+          "v": "45 km in Savoie, Chanaz to Les Marches · green, easy"
+        },
+        {
+          "k": "Discontinuity",
+          "v": "Chanaz to Aix-les-Bains by train (Culoz/Vions) or boat — not by bike"
+        },
+        {
+          "k": "Boat",
+          "v": "Charged, booking compulsory · Compagnie des Bateaux +33 4 79 63 45 00"
+        },
+        {
+          "k": "Season",
+          "v": "'All year' (V63 listing) or '15/03 – 15/11' (stage listings) — both published"
+        },
+        {
+          "k": "Dogs",
+          "v": "'Animals not accepted' on the official listings"
+        },
+        {
+          "k": "Waymarking",
+          "v": "La Belle Via, V62/V63 signs"
+        },
+        {
+          "k": "Contact",
+          "v": "Aix-les-Bains Riviera des Alpes · +33 4 79 88 68 00"
+        }
+      ],
+      "schema_amenities": [
+        "Free access",
+        "La Belle Via waymarking"
+      ],
+      "when_to_visit": "<p>On the season, the same publisher contradicts itself: the V63 listing says '<strong>All year round. Depending on weather conditions.</strong>', its own stage listings '<strong>From 15/03 to 15/11</strong>, subject to snow and favourable weather'. We quote both. Access to the route is free — only the boat crossing from Chanaz is charged.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "El sendero junto al lago, la base de ocio Mottets y Le Bourget-du-Lac.",
+          "tag": "Greenway",
+          "title": "El Lac du Bourget en el Avenue Verte Nord"
+        },
+        {
+          "description": "El vínculo con el Annecy – rama Albertville, y adelante a Grenoble y Valence.",
+          "tag": "La Belle Via",
+          "title": "La unión V62 en Montmélian"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>V63</strong>, marcado bajo el <strong>La Belle Via</strong> marca (señales V62/V63), cruza Savoie sobre '<strong>45 km</strong>', de <strong>Chanaz</strong> a <strong>Les Marches</strong>, a nivel: fácil. La ruta oficial: 'El V63, un itinerario de larga distancia que recorre, deja el ViaRhôna en Chanaz, donde se llega a Aix-les-Bains en barco o tren (estación Vions), luego sigue el Lac du Bourget por el sendero junto al lago, la base de ocio Mottets y Le Bourget-du-Lac. Desde allí se llega al Lac des Marches y al Isère vía Chambéry.'</p><p>Lo que hay que saber antes de cargar los panniers está escrito claramente por Savoie Mont Blanc: '<strong>La sección norte, entre Chanaz y Aix-les-Bains, se realiza por transporte público, a través del tren desde Culoz o en barco desde el puerto de Chanaz.</strong>' Así que no es una ruta de ciclo continuo a través de sus 45 km - y el enlace de barco es un servicio pagado, con reserva obligatoria a través de la Compagnie des Bateaux. Más al sur la ruta utiliza vías verdes genuinas: el <strong>Avenue Verte Nord</strong> a lo largo del lago, luego la Vía Verde Leysse hacia Chambéry. En Montmélian se une a la V62, Annecy de La Belle Via – Rama Albertville.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Acceso gratuito (Chanaz – Enlace de barco Aix-les-Bains cargado)",
+        "best_season": "Todo el año por el listado V63; 15 de marzo a 15 de noviembre por lista de etapas",
+        "commune": "Chanaz",
+        "dogs": "'Animales no aceptados' en las listas oficiales; debe llevarse a cabo en secciones de vía compartida",
+        "min_age": null,
+        "min_height": null,
+        "parking": "Estacionamiento (asignación y precio inédito); empezar por el lugar Antoine Gianetto, Chanaz",
+        "stroller": null,
+        "type": "Ruta del ciclo",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "No, y el sitio oficial lo dice: 'La sección norte, entre Chanaz y Aix-les-Bains, se realiza por transporte público, a través del tren desde Culoz o en barco desde el puerto de Chanaz.' Tienes que planear ese enlace — el barco se carga y la reserva es obligatoria (Compagnie des Bateaux, +33 4 79 63 45 00).",
+          "q": "¿Puedes cabalgar los 45 km al final?"
+        },
+        {
+          "a": "Las páginas oficiales no están de acuerdo. El listado V63 dice 'Todo el año, dependiendo de las condiciones meteorológicas'; los listados de la misma editorial dicen 'De 15/03 a 15/11'. Citamos ambos sin resolverlo.",
+          "q": "¿Está abierto todo el año?"
+        },
+        {
+          "a": "Los listados oficiales declaran 'Animales no aceptados'. Uno de ellos da la razón: el perro 'a menudo tendrá que mantenerse en una pista y debe ser llevado en las secciones de la ruta compartida con el tráfico de motor', y 'los perros pueden ser prohibidos en ciertos caminos de ciclo departamental o greenways'.",
+          "q": "¿Puedes traer un perro?"
+        },
+        {
+          "a": "No lo afirmamos. Cœur de Savoie escribe que \"las rutas de ciclo están abiertas a peatones y a todos los modos suaves de transporte (longboard, scooters, sillas de empuje, esquís de rodillo...)\", pero esa frase cubre las rutas de ciclo en general, no una sección llamada Savoie — y no tiene para los tramos compartidos ni para el enlace tren y barco.",
+          "q": "¿Es fácil para sillas?"
+        },
+        {
+          "a": "Lugar Antoine Gianetto en Chanaz, donde el V63 deja el ViaRhôna. El listado 'V63 en Savoie' por separado menciona un comienzo de Chambéry: ambos portales oficiales coexisten.",
+          "q": "¿Dónde empieza la ruta?"
+        }
+      ],
+      "hero": {
+        "badge": "Ruta del ciclo · 45 km",
+        "lead": "Cuarenta y cinco kilómetros de Chanaz a Les Marches a través del Lac du Bourget y Chambéry — con una brecha en la cadena el sitio oficial posee hasta: entre Chanaz y Aix-les-Bains toma el tren o el barco."
+      },
+      "hero_alt": "Ruta del ciclo junto al Lac du Bourget en Savoie",
+      "how_to_get_there": {
+        "bike": "Se une a ViaRhôna / EuroVelo 17 en Chanaz y V62 en Montmélian.",
+        "car": "Chanaz (73310), lugar Antoine Gianetto, junto al canal Savières.",
+        "public_transport": "Estaciones Culoz o Vions para la sección norte; La estación Chambéry está en la ruta."
+      },
+      "meta_description": "V63 'La Belle Via' en Savoie: 45 km de Chanaz a Les Marches a través del Lac du Bourget y Chambéry. Tenga en cuenta que entre Chanaz y Aix-les-Bains no hay continuidad del ciclo — tren o barco pagado.",
+      "meta_title": "Véloroute V63 en Savoie · Chanaz a Les Marches, 45 km",
+      "name": "Véloroute V63 en Savoie – de Chanaz aux Marches",
+      "name_alternates": [
+        "La Belle Via"
+      ],
+      "practical_info": [
+        {
+          "k": "Duración",
+          "v": "45 km en Savoie, Chanaz a Les Marches · verde, fácil"
+        },
+        {
+          "k": "Discontinuidad",
+          "v": "Chanaz a Aix-les-Bains en tren (Culoz/Vions) o barco — no en bicicleta"
+        },
+        {
+          "k": "El barco",
+          "v": "Cargado y obligatorio de reserva · Compagnie des Bateaux +33 4 79 63 45 00"
+        },
+        {
+          "k": "Estación",
+          "v": "\"Todo el año\" (lista V63) o \"15/03 – 15/11' (listas de escenario) — ambos publicados"
+        },
+        {
+          "k": "Perros",
+          "v": "'Animales no aceptados' en las listas oficiales"
+        },
+        {
+          "k": "Waymarking",
+          "v": "La Belle Via, V62/V63 signos"
+        },
+        {
+          "k": "Contacto",
+          "v": "Aix-les-Bains Riviera des Alpes · +33 4 79 88 68 00"
+        }
+      ],
+      "schema_amenities": [
+        "Acceso gratuito",
+        "La Belle Via señalización"
+      ],
+      "when_to_visit": "<p>En la temporada, el mismo editor se contradice: el listado V63 dice '<strong>Todo el año. Dependiendo de las condiciones meteorológicas.</strong>', su propio escenario enumera '<strong>De 15/03 a 15/11</strong>, sujeto a nieve y clima favorable. Citamos ambos. El acceso a la ruta es gratuito — sólo se carga el cruce de barcos desde Chanaz.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Le chemin lacustre, la base de loisirs des Mottets et Le Bourget-du-Lac.",
+          "tag": "Voie verte",
+          "title": "Le lac du Bourget par l'Avenue Verte Nord"
+        },
+        {
+          "description": "Le raccord vers la branche Annecy – Albertville, et la suite vers Grenoble et Valence.",
+          "tag": "La Belle Via",
+          "title": "La jonction avec la V62 à Montmélian"
+        }
+      ],
+      "body": {
+        "what_is": "<p>La <strong>V63</strong>, balisée sous la marque <strong>La Belle Via</strong> (panneaux V62/V63), traverse la Savoie sur « <strong>45 km</strong> », de <strong>Chanaz</strong> aux <strong>Marches</strong>, en « niveau : facile (vert) ». Le tracé officiel : « La V63, itinéraire de grande itinérance, quitte la ViaRhôna à Chanaz, où l'on rejoint Aix-Les-Bains par le bateau ou le train (gare de Vions), on longe ensuite le lac du Bourget par le chemin lacustre, la base de loisir des Mottets et le Bourget-du-Lac. De là, on rejoint le Lac des Marches et l'Isère en passant par Chambéry. »</p><p>Le point à connaître avant de charger les sacoches est écrit noir sur blanc par Savoie Mont Blanc : « <strong>La section nord, entre Chanaz et Aix-Les-Bains, se fait en transport en commun, via le train au départ de Culoz ou en bateau depuis le port de Chanaz.</strong> » Ce n'est donc pas une véloroute continue sur ses 45 km — et la liaison en bateau est un service payant, sur réservation obligatoire auprès de la Compagnie des Bateaux. Plus au sud, l'itinéraire emprunte de vraies voies vertes : l'<strong>Avenue Verte Nord</strong> le long du lac, puis la voie verte de la Leysse vers Chambéry. À Montmélian, jonction avec la V62, la branche Annecy – Albertville de La Belle Via.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Accès libre (liaison bateau Chanaz – Aix-les-Bains payante)",
+        "best_season": "Toute l'année selon la fiche V63 ; du 15 mars au 15 novembre selon les fiches d'étape",
+        "commune": "Chanaz",
+        "dogs": "« Animaux non acceptés » sur les fiches officielles ; à transporter sur les portions en voie partagée",
+        "min_age": null,
+        "min_height": null,
+        "parking": "Parking (emplacement et gratuité non publiés) ; départ place Antoine Gianetto à Chanaz",
+        "stroller": null,
+        "type": "Véloroute",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "Non, et le site officiel le dit : « La section nord, entre Chanaz et Aix-Les-Bains, se fait en transport en commun, via le train au départ de Culoz ou en bateau depuis le port de Chanaz. » Il faut donc prévoir ce maillon — le bateau est payant et sur réservation obligatoire (Compagnie des Bateaux, 04 79 63 45 00).",
+          "q": "Peut-on faire les 45 km à vélo d'un bout à l'autre ?"
+        },
+        {
+          "a": "Les pages officielles ne s'accordent pas. La fiche V63 annonce « Toute l'année, selon les conditions météorologiques » ; les fiches d'étape du même éditeur publient « Du 15/03 au 15/11 ». Nous citons les deux sans trancher.",
+          "q": "Est-ce ouvert toute l'année ?"
+        },
+        {
+          "a": "Les fiches officielles portent « Animaux non acceptés ». L'une d'elles précise la raison : le chien « devra souvent être tenu en laisse et impérativement transporté sur les portions d'itinéraire en voie partagée avec la circulation automobile », et « les chiens peuvent être interdits sur certaines pistes cyclables départementales ou voies vertes ».",
+          "q": "Peut-on emmener son chien ?"
+        },
+        {
+          "a": "Nous ne l'affirmons pas. Cœur de Savoie écrit que « les véloroutes sont ouvertes aux piétons et à tous les moyens de locomotion doux (longboard, trottinettes, poussettes, ski roues...) », mais cette phrase porte sur les véloroutes en général, pas sur un tronçon savoyard nommé — et elle ne vaut ni pour les portions en route partagée, ni pour la liaison train-bateau.",
+          "q": "Est-ce praticable en poussette ?"
+        },
+        {
+          "a": "Place Antoine Gianetto à Chanaz, où la V63 quitte la ViaRhôna. La fiche « V63 en Savoie » mentionne de son côté un départ depuis Chambéry : les deux portes d'entrée officielles coexistent.",
+          "q": "Où commence l'itinéraire ?"
+        }
+      ],
+      "hero": {
+        "badge": "Véloroute · 45 km",
+        "lead": "Quarante-cinq kilomètres de Chanaz aux Marches par le lac du Bourget et Chambéry — avec un trou dans la chaîne que le site officiel assume : entre Chanaz et Aix-les-Bains, on prend le train ou le bateau."
+      },
+      "hero_alt": "Véloroute au bord du lac du Bourget en Savoie",
+      "how_to_get_there": {
+        "bike": "Se raccorde à la ViaRhôna / EuroVelo 17 à Chanaz et à la V62 à Montmélian.",
+        "car": "Chanaz (73310), place Antoine Gianetto, au bord du canal de Savières.",
+        "public_transport": "Gares de Culoz ou de Vions pour la section nord ; gare de Chambéry sur l'itinéraire."
+      },
+      "meta_description": "V63 « La Belle Via » en Savoie : 45 km de Chanaz aux Marches par le lac du Bourget et Chambéry. Attention, entre Chanaz et Aix-les-Bains il n'y a pas de continuité cyclable — train ou bateau payant.",
+      "meta_title": "Véloroute V63 en Savoie · Chanaz aux Marches, 45 km",
+      "name": "Véloroute V63 en Savoie – de Chanaz aux Marches",
+      "name_alternates": [
+        "La Belle Via"
+      ],
+      "practical_info": [
+        {
+          "k": "Longueur",
+          "v": "45 km en Savoie, de Chanaz aux Marches · niveau vert, facile"
+        },
+        {
+          "k": "Discontinuité",
+          "v": "Chanaz à Aix-les-Bains en train (Culoz/Vions) ou en bateau — pas à vélo"
+        },
+        {
+          "k": "Bateau",
+          "v": "Payant, réservation obligatoire · Compagnie des Bateaux 04 79 63 45 00"
+        },
+        {
+          "k": "Saison",
+          "v": "« Toute l'année » (fiche V63) ou « 15/03 – 15/11 » (fiches d'étape) — les deux publiées"
+        },
+        {
+          "k": "Chiens",
+          "v": "« Animaux non acceptés » sur les fiches officielles"
+        },
+        {
+          "k": "Balisage",
+          "v": "La Belle Via, panneaux V62/V63"
+        },
+        {
+          "k": "Contact",
+          "v": "Aix-les-Bains Riviera des Alpes · 04 79 88 68 00"
+        }
+      ],
+      "schema_amenities": [
+        "Accès libre",
+        "Balisage La Belle Via"
+      ],
+      "when_to_visit": "<p>Sur la saison, le même éditeur se contredit : la fiche V63 annonce « <strong>Toute l'année. Selon les conditions météorologiques.</strong> », ses propres fiches d'étape « <strong>Du 15/03 au 15/11</strong>, sous réserve de conditions d'enneigement et météorologiques favorables ». Nous citons les deux. L'accès à l'itinéraire est libre — seule la traversée en bateau depuis Chanaz se paie.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Il sentiero sul lago, la base per il tempo libero Mottets e Le Bourget-du-Lac.",
+          "tag": "Greenway",
+          "title": "Il Lac du Bourget sulla Avenue Verte Nord"
+        },
+        {
+          "description": "Il link all'Annacy – Albertville ramo, e in avanti a Grenoble e Valence.",
+          "tag": "La Belle Via",
+          "title": "La giunzione V62 a Montmélian"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>V63</strong>, segnati sotto <strong>La Belle Via</strong> marca (segni V62/V63), attraversa Savoie oltre '<strong>45 km</strong>Da <strong>Chanaz</strong> a <strong>Les Marches</strong>, a livello: facile (verde)'. Il percorso ufficiale: 'L'V63, un itinerario di lunga percorrenza, lascia l'ViaRhôna a Chanaz, dove si raggiunge Aix-les-Bains in barca o in treno (stazione Vions), quindi seguire il Lac du Bourget lungo il sentiero lacustre, la base per il tempo libero Mottets e Le Bourget-du-Lac. Da lì si raggiunge il Lac des Marches e l'Isère via Chambéry.'</p><p>La cosa da sapere prima di caricare i panniers è scritta chiaramente da Savoie Mont Blanc: '<strong>La sezione settentrionale, tra Chanaz e Aix-les-Bains, è effettuata con i mezzi pubblici, tramite il treno da Culoz o in barca dal porto di Chanaz.</strong>« Quindi non si tratta di un ciclo continuo attraverso i suoi 45 km — e il collegamento barca è un servizio a pagamento, con prenotazione obbligatoria tramite Compagnie des Bateaux. Più a sud il percorso utilizza strade verdi genuine: il <strong>Avenue Verte Nord</strong> lungo il lago, poi il verde Leysse verso Chambéry. A Montmélian si unisce alla V62, Annecy di La Belle Via – Diramazione Albertville.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Accesso gratuito (Chanaz – Aix-les-Bains link barca a pagamento)",
+        "best_season": "Tutto l'anno per la lista V63; dal 15 marzo al 15 novembre per gli elenchi delle tappe",
+        "commune": "Chanaz",
+        "dogs": "«Animali non accettati» nelle liste ufficiali; deve essere trasportato su sezioni di strada condivise",
+        "min_age": null,
+        "min_height": null,
+        "parking": "Parcheggio (localizzazione e prezzo inedito); partenza al posto Antoine Gianetto, Chanaz",
+        "stroller": null,
+        "type": "Percorso ciclo",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "No, e il sito ufficiale dice così: 'La sezione settentrionale, tra Chanaz e Aix-les-Bains, è effettuata con i mezzi pubblici, tramite il treno da Culoz o in barca dal porto di Chanaz.' È necessario pianificare questo collegamento — la barca è a pagamento e la prenotazione è obbligatoria (Compagnie des Bateaux, +33 4 79 63 45 00).",
+          "q": "Puoi andare tutti i 45 km fino alla fine?"
+        },
+        {
+          "a": "Le pagine ufficiali non sono d'accordo. La lista V63 dice 'Tutto l'anno, a seconda delle condizioni atmosferiche'; gli stessi elenchi di scene dell'editore dicono 'Dal 15/03 al 15/11'. Citiamo entrambi senza fissarlo.",
+          "q": "E' aperto tutto l'anno?"
+        },
+        {
+          "a": "Gli elenchi ufficiali dichiarano 'Animali non accettati'. Uno di loro dà la ragione: il cane 'dovrà spesso essere tenuto su una pista e deve essere trasportato sulle sezioni del percorso condiviso con il traffico automobilistico', e 'i cani possono essere vietati su alcuni percorsi ciclabili dipartimentali o greenways'.",
+          "q": "Puoi portare un cane?"
+        },
+        {
+          "a": "Non lo affermiamo. Cœur de Savoie scrive che \"i percorsi ciclabili sono aperti ai pedoni e a tutti i modi di trasporto morbidi (longboard, scooter, passeggini, sci a rulli...)', ma che la frase copre le piste ciclabili in generale, non una sezione chiamata Savoie — e non detiene né per i tratti di strada condivisa né per il collegamento treno-e-barca.",
+          "q": "E' adatto alle passeggini?"
+        },
+        {
+          "a": "Posizionare Antoine Gianetto in Chanaz, dove V63 lascia ViaRhôna. L'elenco 'V63 en Savoie' menziona separatamente un inizio da Chambéry: entrambi i gateway ufficiali coesistono.",
+          "q": "Da dove inizia il percorso?"
+        }
+      ],
+      "hero": {
+        "badge": "Percorso ciclo · 45 km",
+        "lead": "Quarantacinque chilometri da Chanaz a Les Marches attraverso il Lac du Bourget e Chambéry — con un gap nella catena il sito ufficiale possiede fino a: tra Chanaz e Aix-les-Bains si prende il treno o la barca."
+      },
+      "hero_alt": "Ciclo percorso accanto al Lac du Bourget in Savoie",
+      "how_to_get_there": {
+        "bike": "Unire ViaRhôna / EuroVelo 17 a Chanaz e V62 a Montmélian.",
+        "car": "Chanaz (73310), posto Antoine Gianetto, accanto al canale Savières.",
+        "public_transport": "Stazioni Culoz o Vions per la sezione settentrionale; La stazione Chambéry è sulla strada."
+      },
+      "meta_description": "V63 'La Belle Via' in Savoie: 45 km da Chanaz a Les Marches attraverso il Lac du Bourget e Chambéry. Si noti che tra Chanaz e Aix-les-Bains non c'è continuità del ciclo — treno o barca a pagamento.",
+      "meta_title": "Véloroute V63 in Savoie · Chanaz a Les Marches, 45 km",
+      "name": "Véloroute V63 en Savoie – de Chanaz aux Marches",
+      "name_alternates": [
+        "La Belle Via"
+      ],
+      "practical_info": [
+        {
+          "k": "Lunghezza",
+          "v": "45 km in Savoie, Chanaz a Les Marches · verde, facile"
+        },
+        {
+          "k": "Discontinuità",
+          "v": "Chanaz a Aix-les-Bains in treno (Culoz/Vions) o in barca — non in bicicletta"
+        },
+        {
+          "k": "Barca",
+          "v": "Caricato, prenotazione obbligatoria · Compagnie des Bateaux +33 4 79 63 45 00"
+        },
+        {
+          "k": "Stagione",
+          "v": "'All year' (elenco V63) o '15/03 – 15/11' (stage inserzioni) — entrambi pubblicati"
+        },
+        {
+          "k": "Cani",
+          "v": "'Animali non accettati' sugli elenchi ufficiali"
+        },
+        {
+          "k": "Segnalazioni",
+          "v": "La Belle Via, segni V62/V63"
+        },
+        {
+          "k": "Contatto",
+          "v": "Aix-les-Bains Riviera des Alpes · +33 4 79 88 68 00"
+        }
+      ],
+      "schema_amenities": [
+        "Accesso gratuito",
+        "La Belle Via waymarking"
+      ],
+      "when_to_visit": "<p>Nella stagione, lo stesso editore si contraddice: la lista V63 dice '<strong>Tutto l'anno. A seconda delle condizioni atmosferiche.</strong>', le sue liste di fase '<strong>Dal 15/03 al 15/11</strong>, sotto la neve e il clima favorevole'. Citiamo entrambi. L'accesso al percorso è gratuito — solo l'attraversamento della barca da Chanaz è addebitato.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Het pad langs het meer, de Mottets recreatiebasis en Le Bourget-du-Lac.",
+          "tag": "Greenway",
+          "title": "De Lac du Bourget op de Avenue Verte Nord"
+        },
+        {
+          "description": "De link naar de Annecy Albertville tak, en verder naar Grenoble en Valence.",
+          "tag": "La Belle Via",
+          "title": "De V62 verbinding op Montmélian"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>V63</strong>, gemarkeerd onder de <strong>La Belle Via</strong> merk (V62/V63 tekens), kruist Savoie over \"<strong>45 km</strong>\" van <strong>Chanaz</strong> tot <strong>Les Marches</strong>, op niveau: gemakkelijk (groen).\" De officiële route: 'De V63, een lange-afstandstourroute, verlaat de ViaRhôna op Chanaz, waar u Aix-les-Bains bereikt per boot of trein (Vions station), volg dan het Lac du Bourget langs het meerpad, de Mottets recreatiebasis en Le Bourget-du-Lac. Van daaruit bereikt u het Lac des Marches en de Isère via Chambéry.\"</p><p>Het ding om te weten voor het laden van de tassen is duidelijk geschreven door Savoie Mont Blanc: '<strong>Het noordelijke deel, tussen Chanaz en Aix-les-Bains, wordt gedaan met het openbaar vervoer, via de trein van Culoz of per boot vanuit de haven van Chanaz.</strong>' Het is dus geen continue fietsroute over zijn 45 km . en de boot link is een betaalde dienst, met verplichte boeking via de Compagnie des Bateaux. Verder naar het zuiden maakt de route gebruik van echte greenways: de <strong>Avenue Verte Nord</strong> langs het meer, dan de Leysse greenway richting Chambéry. Op Montmélian sluit het zich aan bij de V62, de Annecy van La Belle Via. Albertville tak.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Vrije toegang (Chanaz) Aix-les-Bains boot link geladen)",
+        "best_season": "Het hele jaar per V63-lijst; 15 maart t/m 15 november per etappelijst",
+        "commune": "Chanaz",
+        "dogs": "\"Dieren niet geaccepteerd\" op de officiële lijsten; moet worden vervoerd op gedeelde wegsecties",
+        "min_age": null,
+        "min_height": null,
+        "parking": "Parkeren (locatie en prijs niet gepubliceerd); start op plaats Antoine Gianetto, Chanaz",
+        "stroller": null,
+        "type": "Fietsroute",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "Nee, en de officiële site zegt het: 'Het noordelijke deel, tussen Chanaz en Aix-les-Bains, wordt gedaan met het openbaar vervoer, via de trein van Culoz of per boot vanuit de haven van Chanaz.' Je moet plannen voor die link de boot wordt in rekening gebracht en de boeking is verplicht (Compagnie des Bateaux, +33 4 79 63 45 00).",
+          "q": "Kun je alle 45 km einde aan einde rijden?"
+        },
+        {
+          "a": "De officiële pagina's zijn het niet eens. Op de V63-lijst staat 'het hele jaar door, afhankelijk van de weersomstandigheden'. In de lijst van dezelfde uitgever staat 'Van 15/03 tot 15/11'. We citeren beide zonder het te regelen.",
+          "q": "Is het het hele jaar open?"
+        },
+        {
+          "a": "In de officiële lijsten staat 'Dieren niet geaccepteerd'. Een van hen geeft de reden: de hond \"moet vaak aan de leiding worden gehouden en moet worden vervoerd op de trajecten die met het motorverkeer worden gedeeld,\" en \"honden kunnen worden verboden op bepaalde departementale fietspaden of groenwegen.\"",
+          "q": "Kun je een hond meenemen?"
+        },
+        {
+          "a": "We beweren het niet. Cœur de Savoie schrijft dat \"fietsroutes open staan voor voetgangers en alle zachte vervoerswijzen (longboard, scooters, kinderwagens, rolski's...),\" maar dat zin betrekking heeft op fietsroutes in het algemeen, niet op een Savoie sectie . en het houdt niet voor de gedeelde-weg strekt noch voor de trein-en-boot verbinding.",
+          "q": "Is het kinderwagenvriendelijk?"
+        },
+        {
+          "a": "Plaats Antoine Gianetto in Chanaz, waar de V63 de ViaRhôna verlaat. De 'V63 en Savoie' lijst vermeldt apart een start van Chambéry: beide officiële poorten naast elkaar bestaan.",
+          "q": "Waar begint de route?"
+        }
+      ],
+      "hero": {
+        "badge": "Fietsroute · 45 km",
+        "lead": "Vijfenveertig kilometer van Chanaz naar Les Marches via het Lac du Bourget en Chambéry  met een gat in de keten is de officiële site eigenaar van: tussen Chanaz en Aix-les-Bains neemt u de trein of de boot."
+      },
+      "hero_alt": "Fietsroute naast de Lac du Bourget in Savoie",
+      "how_to_get_there": {
+        "bike": "Voegt zich bij de ViaRhôna / EuroVelo 17 bij Chanaz en de V62 bij Montmélian.",
+        "car": "Chanaz (73310), plaats Antoine Gianetto, naast het kanaal van Savières.",
+        "public_transport": "Culoz- of Vions-stations voor het noordelijke gedeelte; Chambéry station is op de route."
+      },
+      "meta_description": "V63 'La Belle Via' in Savoie: 45 km van Chanaz naar Les Marches via de Lac du Bourget en Chambéry. Merk op dat er tussen Chanaz en Aix-les-Bains geen cyclus-continuiteit is trein of betaalde boot.",
+      "meta_title": "Véloroute V63 in Savoie · Chanaz tot Les Marches, 45 km",
+      "name": "Véloroute V63 en Savoie – de Chanaz aux Marches",
+      "name_alternates": [
+        "La Belle Via"
+      ],
+      "practical_info": [
+        {
+          "k": "Lengte",
+          "v": "45 km in Savoie, Chanaz tot Les Marches · groen, eenvoudig"
+        },
+        {
+          "k": "Stopzetting",
+          "v": "Chanaz naar Aix-les-Bains met de trein (Culoz/Vions) of boot niet per fiets"
+        },
+        {
+          "k": "Boot",
+          "v": "Opgeladen, boeking verplicht · Compagnie des Bateaux +33 4 79 63 45 00"
+        },
+        {
+          "k": "Seizoen",
+          "v": "'Het hele jaar' (V63-lijst) of '15/03' 15/11\" (faselijsten) beide gepubliceerd"
+        },
+        {
+          "k": "Honden",
+          "v": "'Dieren niet geaccepteerd' op de officiële lijsten"
+        },
+        {
+          "k": "Waymarking",
+          "v": "La Belle Via, V62/V63-borden"
+        },
+        {
+          "k": "Contactpersoon",
+          "v": "Aix-les-Bains Riviera des Alpes · +33 4 79 88 68 00"
+        }
+      ],
+      "schema_amenities": [
+        "Vrije toegang",
+        "La Belle Via waymarking"
+      ],
+      "when_to_visit": "<p>In het seizoen spreekt dezelfde uitgever zichzelf tegen: de V63 lijst zegt '<strong>Het hele jaar door. Afhankelijk van de weersomstandigheden.</strong>', zijn eigen podium lijsten '<strong>Van 15/03 t/m 15/11</strong>, onder voorbehoud van sneeuw en gunstig weer.\" We citeren beide. De toegang tot de route is gratis. alleen de oversteek van Chanaz wordt opgeladen.</p>"
+    }
+  },
+  "latitude": 45.808677,
+  "longitude": 5.790929,
+  "official_site_url": "https://www.savoie-mont-blanc.com/itineraires-velo/veloroute-v63-en-savoie-de-chanaz-aux-marches-105677/",
+  "partners": [],
+  "postal_code": "73310",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-20, pages FR officielles uniquement (Savoie Mont Blanc, Cœur de Savoie Tourisme, Aix-les-Bains Riviera des Alpes). Désignation officielle « Véloroute V63 en Savoie – de Chanaz aux Marches », balisée sous la marque « La Belle Via », panneaux V62/V63. « Niveau : facile (vert) Longueur : 45 km Nature de l'itinéraire : itinérance » — 45 km est le chiffre officiel de la SECTION SAVOYARDE, pas de l'itinéraire entier. RUPTURE DE CONTINUITÉ, fait central : « La section nord, entre Chanaz et Aix-Les-Bains, se fait en transport en commun, via le train au départ de Culoz ou en bateau depuis le port de Chanaz. » La liaison bateau est payante et sur réservation (Compagnie des Bateaux, 04 79 63 45 00). CONTRADICTION DE SAISON, interne au même éditeur : « Toute l'année. Selon les conditions météorologiques. » (fiche V63) vs « Du 15/03 au 15/11. Sous réserve de conditions d'enneigement et météorologiques favorables. » (fiches étapes 1 et 2 de Savoie Mont Blanc) — les deux citées. REVÊTEMENT : « Revêtement dur (goudron, ciment, plancher) » publié au niveau des étapes, pas des 45 km savoyards. RÉPARTITION voie cyclable/route partagée : les pourcentages disponibles portent sur l'itinéraire entier ou l'étape 1, jamais sur les 45 km savoyards → non publiés ici. CHIENS : « Animaux non acceptés » (fiche étape 1) et « Animaux acceptés : Non » (Aix-les-Bains) — champs Apidae, cités tels quels ; la fiche étape 1 explique que le chien « devra souvent être tenu en laisse et impérativement transporté sur les portions d'itinéraire en voie partagée ». POUSSETTE : Cœur de Savoie écrit « Les véloroutes sont ouvertes aux piétons et à tous les moyens de locomotion doux (longboard, trottinettes, poussettes, ski roues...) » — formulation GÉNÉRIQUE sur « les véloroutes », pas sur un tronçon savoyard nommé : non retenue comme garantie, flag posé. PMR : aucune source → null. TARIF « Accès libre » (étapes 1 et 2, Aix-les-Bains). Fiche V63 « mise à jour le 14/09/2023 » ; la note de travaux sur la Passerelle de l'Arche qu'elle porte n'est pas datée en année et n'est PAS reprise comme information 2026. Le « Dépliant Véloroute 63 » lié depuis la fiche renvoie une 404. Coordonnées IGN (« Place Antoine Gianetto Chanaz », score 0,936).",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "veloroute-v63-chanaz-les-marches",
+  "sources": [
+    "https://www.savoie-mont-blanc.com/itineraires-velo/veloroute-v63-en-savoie-de-chanaz-aux-marches-105677/",
+    "https://www.savoie-mont-blanc.com/itineraires-velo/itineraire-velo-la-belle-via-etape-1-chanaz-ou-aix-les-bains-chambery-6860113/",
+    "https://www.savoie-mont-blanc.com/itineraires-velo/itineraire-velo-la-belle-via-etape-2-chambery-la-terrasse-6860235/",
+    "https://tourisme.coeurdesavoie.fr/bouger/activites-de-pleine-nature/velo/la-belle-via-veloroute-v62-v63/",
+    "https://www.aixlesbains-rivieradesalpes.com/equipement/v63-section-lac-du-bourget-aix-les-bains/"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published for this site; kept null rather than inferred.",
+    "SAISON — contradiction interne à Savoie Mont Blanc : « Toute l'année. Selon les conditions météorologiques. » sur la fiche V63, « Du 15/03 au 15/11 » sur ses propres fiches d'étape. Les deux sont citées, aucune retenue contre l'autre.",
+    "REVÊTEMENT — « Revêtement dur (goudron, ciment, plancher) » n'est publié qu'au niveau des étapes ; aucune source ne qualifie les 45 km savoyards ni ne distingue enrobé et stabilisé par tronçon.",
+    "PART DE VOIE CYCLABLE — les pourcentages voie cyclable / route partagée disponibles portent sur l'itinéraire entier ou sur l'étape 1, jamais sur la section savoyarde ; non publiés ici.",
+    "POUSSETTE — l'affirmation vient de Cœur de Savoie et porte sur « les véloroutes » en général, pas sur un tronçon savoyard nommé. Non retenue comme garantie de praticabilité ; champ non renseigné.",
+    "CHIENS — « Animaux non acceptés » / « Animaux acceptés : Non » sont des champs Apidae, cités tels quels et non interprétés comme un arrêté.",
+    "ACCES_PMR — aucune source officielle française n'aborde l'accessibilité PMR de la V63 en Savoie ; statut null.",
+    "PARKING — « Parking » figure comme pictogramme d'équipement, sans emplacement ni tarif publiés.",
+    "FRAÎCHEUR — la fiche V63 porte « Information mise à jour le 14/09/2023 » et une note de travaux non datée en année, qui n'est pas reprise ici comme information 2026. Le dépliant officiel lié depuis la fiche renvoie une erreur 404."
+  ]
+}

@@ -24,6 +24,33 @@
       "verify_flags": []
     },
     {
+      "centroid": {
+        "lat": 45.617362,
+        "lon": 6.08522
+      },
+      "commune": "Aillon-le-Jeune",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "At the heart of the Bauges massif, Aillon-le-Jeune combines a mid-mountain resort with a park of suspended nets.",
+      "intro_fr": "Au cœur du massif des Bauges, Aillon-le-Jeune mêle station de moyenne montagne et parc de filets suspendus.",
+      "lieux": [
+        {
+          "category": "domaine",
+          "slug": "parc-d-aventure-des-geants-aillons-margeriaz",
+          "title_fr": "Parc d'Aventure des Géants"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73340",
+      "research_log": [],
+      "slug": "aillon-le-jeune",
+      "stats": {
+        "total": 1
+      },
+      "verify_flags": []
+    },
+    {
       "commune": "Aix-les-Bains",
       "department": "Savoie",
       "hero_image": null,
@@ -358,14 +385,46 @@
           "category": "musee",
           "slug": "musee-savoisien-chambery",
           "title_fr": "Musée Savoisien"
+        },
+        {
+          "category": "voie-verte",
+          "slug": "voie-verte-de-la-leysse-et-des-planeurs",
+          "title_fr": "Voie verte de la Leysse et des Planeurs"
         }
       ],
-      "lieux_count": 4,
+      "lieux_count": 5,
       "postal_code": "73000",
       "research_log": "Added with the châteaux batch, 2026-08-10.",
       "slug": "chambery",
       "stats": {
-        "total": 4
+        "total": 5
+      },
+      "verify_flags": []
+    },
+    {
+      "centroid": {
+        "lat": 45.621823,
+        "lon": 5.665468
+      },
+      "commune": "Champagneux",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "In the Avant-Pays savoyard, Champagneux lines the Rhône and its dam, on the course of the ViaRhôna.",
+      "intro_fr": "Dans l'Avant-Pays savoyard, Champagneux borde le Rhône et son barrage, sur le tracé de la ViaRhôna.",
+      "lieux": [
+        {
+          "category": "voie-verte",
+          "slug": "viarhona-barrage-de-champagneux",
+          "title_fr": "ViaRhôna au barrage de Champagneux"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73240",
+      "research_log": [],
+      "slug": "champagneux",
+      "stats": {
+        "total": 1
       },
       "verify_flags": []
     },
@@ -406,16 +465,21 @@
       "lieux": [
         {
           "category": "voie-verte",
+          "slug": "veloroute-v63-chanaz-les-marches",
+          "title_fr": "Véloroute V63 en Savoie – de Chanaz aux Marches"
+        },
+        {
+          "category": "voie-verte",
           "slug": "viarhona-en-chautagne",
           "title_fr": "ViaRhôna en Chautagne (EV17)"
         }
       ],
-      "lieux_count": 1,
+      "lieux_count": 2,
       "postal_code": "73310",
       "research_log": [],
       "slug": "chanaz",
       "stats": {
-        "total": 1
+        "total": 2
       },
       "verify_flags": []
     },
@@ -1121,6 +1185,33 @@
       "verify_flags": []
     },
     {
+      "centroid": {
+        "lat": 45.615414,
+        "lon": 6.272351
+      },
+      "commune": "Montailleur",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "Where the Combe de Savoie opens out, Montailleur holds a lake where wakeboarding is learned on the cable.",
+      "intro_fr": "Au débouché de la Combe de Savoie, Montailleur tient un plan d'eau où l'on apprend le wakeboard au câble.",
+      "lieux": [
+        {
+          "category": "domaine",
+          "slug": "wam-park-savoie-montailleur",
+          "title_fr": "WAM PARK Savoie – Montailleur"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73460",
+      "research_log": [],
+      "slug": "montailleur",
+      "stats": {
+        "total": 1
+      },
+      "verify_flags": []
+    },
+    {
       "commune": "Montmélian",
       "department": "Savoie",
       "hero_image": null,
@@ -1165,6 +1256,33 @@
       "postal_code": "73700",
       "research_log": [],
       "slug": "montvalezan",
+      "stats": {
+        "total": 1
+      },
+      "verify_flags": []
+    },
+    {
+      "centroid": {
+        "lat": 45.485221,
+        "lon": 6.531748
+      },
+      "commune": "Moûtiers",
+      "department": "Savoie",
+      "hero_image": null,
+      "hero_strategy": null,
+      "intro_en": "The old capital of the Tarentaise and gateway to the big resorts, Moûtiers also opens a greenway along the Isère.",
+      "intro_fr": "Ancienne capitale de la Tarentaise et porte des grandes stations, Moûtiers ouvre aussi une voie verte au fil de l'Isère.",
+      "lieux": [
+        {
+          "category": "voie-verte",
+          "slug": "voie-verte-moutiers-aigueblanche",
+          "title_fr": "Voie verte Moûtiers – Aigueblanche"
+        }
+      ],
+      "lieux_count": 1,
+      "postal_code": "73600",
+      "research_log": [],
+      "slug": "moutiers",
       "stats": {
         "total": 1
       },
@@ -1363,17 +1481,22 @@
       "intro_fr": "Sur la rive ouest du lac d'Aiguebelette, Saint-Alban-de-Montbel ouvre la base de loisirs du Sougey et sa plage surveillée.",
       "lieux": [
         {
+          "category": "domaine",
+          "slug": "accrolac-aiguebelette",
+          "title_fr": "Accro'lac"
+        },
+        {
           "category": "plage",
           "slug": "plage-base-de-loisirs-du-sougey",
           "title_fr": "Plage du Sougey"
         }
       ],
-      "lieux_count": 1,
+      "lieux_count": 2,
       "postal_code": "73610",
       "research_log": "Added with the lacs-plages batch, 2026-08-10.",
       "slug": "saint-alban-de-montbel",
       "stats": {
-        "total": 1
+        "total": 2
       },
       "verify_flags": []
     },
@@ -1623,14 +1746,19 @@
           "category": "cascade",
           "slug": "cirque-de-saint-meme",
           "title_fr": "Cirque de Saint-Même"
+        },
+        {
+          "category": "domaine",
+          "slug": "via-ferrata-de-la-roche-veyrand",
+          "title_fr": "Via ferrata de la Roche Veyrand"
         }
       ],
-      "lieux_count": 1,
+      "lieux_count": 2,
       "postal_code": "73670",
       "research_log": "Added with the cascades batch, 2026-08-10.",
       "slug": "saint-pierre-d-entremont",
       "stats": {
-        "total": 1
+        "total": 2
       },
       "verify_flags": []
     },

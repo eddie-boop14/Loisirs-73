@@ -1,0 +1,31 @@
+{
+  "name": "ViaRhôna au barrage de Champagneux",
+  "commune": "Champagneux",
+  "gps": {
+    "lat": 45.634687,
+    "lng": 5.655642
+  },
+  "type": "voie-verte",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": "Parking au barrage de Champagneux et parking de La Guinguette (gratuité non publiée)",
+  "transport": null,
+  "season": "Toute l'année",
+  "winter": {
+    "access": null,
+    "infrastructure": [],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
+  "official_url": "https://www.savoie-mont-blanc.com/itineraires-velo/la-viarhona-une-veloroute-a-decouvrir-en-famille-111411/",
+  "last_verified": null
+}

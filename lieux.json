@@ -38,6 +38,42 @@
       "access_state": "paid"
     },
     {
+      "slug": "accrolac-aiguebelette",
+      "categories": [
+        "domaine"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Accro'lac",
+          "commune": "Saint-Alban-de-Montbel"
+        },
+        "en": {
+          "name": "Accro'lac",
+          "commune": "Saint-Alban-de-Montbel"
+        },
+        "de": {
+          "name": "Accro'lac",
+          "commune": "Saint-Alban-de-Montbel"
+        },
+        "it": {
+          "name": "Accro'lac",
+          "commune": "Saint-Alban-de-Montbel"
+        },
+        "es": {
+          "name": "Accro'lac",
+          "commune": "Saint-Alban-de-Montbel"
+        },
+        "nl": {
+          "name": "Accro'lac",
+          "commune": "Saint-Alban-de-Montbel"
+        }
+      },
+      "latitude": 45.553175,
+      "longitude": 5.791196,
+      "is_free": false,
+      "access_state": "paid"
+    },
+    {
       "slug": "avenue-verte-de-tarentaise",
       "categories": [
         "voie-verte"
@@ -2738,6 +2774,42 @@
       "access_state": "free"
     },
     {
+      "slug": "parc-d-aventure-des-geants-aillons-margeriaz",
+      "categories": [
+        "domaine"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Parc d'Aventure des Géants",
+          "commune": "Aillon-le-Jeune"
+        },
+        "en": {
+          "name": "Parc d'Aventure des Géants",
+          "commune": "Aillon-le-Jeune"
+        },
+        "de": {
+          "name": "Parc d'Aventure des Géants",
+          "commune": "Aillon-le-Jeune"
+        },
+        "it": {
+          "name": "Parc d'Aventure des Géants",
+          "commune": "Aillon-le-Jeune"
+        },
+        "es": {
+          "name": "Parc d'Aventure des Géants",
+          "commune": "Aillon-le-Jeune"
+        },
+        "nl": {
+          "name": "Parc d'Aventure des Géants",
+          "commune": "Aillon-le-Jeune"
+        }
+      },
+      "latitude": 45.608154,
+      "longitude": 6.102035,
+      "is_free": false,
+      "access_state": "paid"
+    },
+    {
       "slug": "parcobranche-du-diable-avrieux",
       "categories": [
         "domaine"
@@ -4682,6 +4754,114 @@
       "access_state": "free"
     },
     {
+      "slug": "veloroute-v63-chanaz-les-marches",
+      "categories": [
+        "voie-verte"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Véloroute V63 en Savoie – de Chanaz aux Marches",
+          "commune": "Chanaz"
+        },
+        "en": {
+          "name": "Véloroute V63 en Savoie – de Chanaz aux Marches",
+          "commune": "Chanaz"
+        },
+        "de": {
+          "name": "Véloroute V63 en Savoie – de Chanaz aux Marches",
+          "commune": "Chanaz"
+        },
+        "it": {
+          "name": "Véloroute V63 en Savoie – de Chanaz aux Marches",
+          "commune": "Chanaz"
+        },
+        "es": {
+          "name": "Véloroute V63 en Savoie – de Chanaz aux Marches",
+          "commune": "Chanaz"
+        },
+        "nl": {
+          "name": "Véloroute V63 en Savoie – de Chanaz aux Marches",
+          "commune": "Chanaz"
+        }
+      },
+      "latitude": 45.808677,
+      "longitude": 5.790929,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
+      "slug": "via-ferrata-de-la-roche-veyrand",
+      "categories": [
+        "domaine"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Via ferrata de la Roche Veyrand",
+          "commune": "Saint-Pierre-d'Entremont"
+        },
+        "en": {
+          "name": "Via ferrata de la Roche Veyrand",
+          "commune": "Saint-Pierre-d'Entremont"
+        },
+        "de": {
+          "name": "Via ferrata de la Roche Veyrand",
+          "commune": "Saint-Pierre-d'Entremont"
+        },
+        "it": {
+          "name": "Via ferrata de la Roche Veyrand",
+          "commune": "Saint-Pierre-d'Entremont"
+        },
+        "es": {
+          "name": "Via ferrata de la Roche Veyrand",
+          "commune": "Saint-Pierre-d'Entremont"
+        },
+        "nl": {
+          "name": "Via ferrata de la Roche Veyrand",
+          "commune": "Saint-Pierre-d'Entremont"
+        }
+      },
+      "latitude": 45.417615,
+      "longitude": 5.855172,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
+      "slug": "viarhona-barrage-de-champagneux",
+      "categories": [
+        "voie-verte"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "ViaRhôna au barrage de Champagneux",
+          "commune": "Champagneux"
+        },
+        "en": {
+          "name": "ViaRhôna at the Champagneux dam",
+          "commune": "Champagneux"
+        },
+        "de": {
+          "name": "ViaRhôna at the Champagneux dam",
+          "commune": "Champagneux"
+        },
+        "it": {
+          "name": "ViaRhôna at the Champagneux dam",
+          "commune": "Champagneux"
+        },
+        "es": {
+          "name": "ViaRhôna at the Champagneux dam",
+          "commune": "Champagneux"
+        },
+        "nl": {
+          "name": "ViaRhôna at the Champagneux dam",
+          "commune": "Champagneux"
+        }
+      },
+      "latitude": 45.634687,
+      "longitude": 5.655642,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
       "slug": "viarhona-en-chautagne",
       "categories": [
         "voie-verte"
@@ -4714,6 +4894,42 @@
       },
       "latitude": 45.7936,
       "longitude": 5.7906,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
+      "slug": "voie-verte-de-la-leysse-et-des-planeurs",
+      "categories": [
+        "voie-verte"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Voie verte de la Leysse et des Planeurs",
+          "commune": "Chambéry"
+        },
+        "en": {
+          "name": "Voie verte de la Leysse et des Planeurs",
+          "commune": "Chambéry"
+        },
+        "de": {
+          "name": "Voie verte de la Leysse et des Planeurs",
+          "commune": "Chambéry"
+        },
+        "it": {
+          "name": "Voie verte de la Leysse et des Planeurs",
+          "commune": "Chambéry"
+        },
+        "es": {
+          "name": "Voie verte de la Leysse et des Planeurs",
+          "commune": "Chambéry"
+        },
+        "nl": {
+          "name": "Voie verte de la Leysse et des Planeurs",
+          "commune": "Chambéry"
+        }
+      },
+      "latitude": 45.567459,
+      "longitude": 5.9318,
       "is_free": true,
       "access_state": "free"
     },
@@ -4788,6 +5004,78 @@
       "longitude": 5.861962,
       "is_free": true,
       "access_state": "free"
+    },
+    {
+      "slug": "voie-verte-moutiers-aigueblanche",
+      "categories": [
+        "voie-verte"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Voie verte Moûtiers – Aigueblanche",
+          "commune": "Moûtiers"
+        },
+        "en": {
+          "name": "Voie verte Moûtiers – Aigueblanche",
+          "commune": "Moûtiers"
+        },
+        "de": {
+          "name": "Voie verte Moûtiers – Aigueblanche",
+          "commune": "Moûtiers"
+        },
+        "it": {
+          "name": "Voie verte Moûtiers – Aigueblanche",
+          "commune": "Moûtiers"
+        },
+        "es": {
+          "name": "Voie verte Moûtiers – Aigueblanche",
+          "commune": "Moûtiers"
+        },
+        "nl": {
+          "name": "Voie verte Moûtiers – Aigueblanche",
+          "commune": "Moûtiers"
+        }
+      },
+      "latitude": 45.484616,
+      "longitude": 6.530912,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
+      "slug": "wam-park-savoie-montailleur",
+      "categories": [
+        "domaine"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "WAM PARK Savoie – Montailleur",
+          "commune": "Montailleur"
+        },
+        "en": {
+          "name": "WAM PARK Savoie – Montailleur",
+          "commune": "Montailleur"
+        },
+        "de": {
+          "name": "WAM PARK Savoie – Montailleur",
+          "commune": "Montailleur"
+        },
+        "it": {
+          "name": "WAM PARK Savoie – Montailleur",
+          "commune": "Montailleur"
+        },
+        "es": {
+          "name": "WAM PARK Savoie – Montailleur",
+          "commune": "Montailleur"
+        },
+        "nl": {
+          "name": "WAM PARK Savoie – Montailleur",
+          "commune": "Montailleur"
+        }
+      },
+      "latitude": 45.606446,
+      "longitude": 6.281934,
+      "is_free": false,
+      "access_state": "paid"
     }
   ]
 }

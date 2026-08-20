@@ -1,0 +1,608 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-18",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "voie-verte",
+  "commune": "Chambéry",
+  "date_modified_human": "18 août 2026",
+  "date_published_human": "18 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-18",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-voie-verte-urbaine.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Die Leysse dann die Planeurs, zum See und zum Gleitflugplatz.",
+          "tag": "7,7 km · flach",
+          "title": "Chambéry bis Challes-les-Eaux"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Von Chambéry zum Challes-les-Eaux See, der <strong>Leysse Greenway</strong> Und dann die <strong>Planeurs Greenway</strong> Make-up<strong>eine völlig flache Route, fast ausschließlich auf dedizierter Infrastruktur. Perfekt für einen Spaziergang oder für die Arbeit ohne Auto!</strong>Die offiziellen Zahlen: 'Entfernung 7,7 km / Aufstieg 39 m', eine Richtung, zwischen 279 und 312 m.</p><p>Das Wort \"fast\" zählt, und das Tourismusbüro versteckt es nicht: Verlassen des Stadtzentrums folgt die Route einem <strong>Radweg</strong> durch das Zentrum vor dem Eintritt in den Greenway\" und \"a <strong>Straßenübergang der Abteilung</strong> (mit Lichtern gesichert) muss bei der Annäherung an Saint-Alban' gemacht werden. Es ist also nicht völlig vom Verkehr getrennt - Es lohnt sich, mit kleinen Kindern zu wissen. Vom Zentrum aus folgen Sie dem quai Charles Ravet und dann dem quai de la Rize, geleitet von der Synchrovélo-Wegmarkierung des Gebiets. <strong>Pistes Bleues</strong> Netz.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": null,
+        "best_season": "Ganzjährig",
+        "commune": "Chambéry",
+        "dogs": null,
+        "min_age": null,
+        "min_height": null,
+        "parking": "Parkplatz und Fahrradparkplatz (Standort und Preis unveröffentlicht)",
+        "stroller": null,
+        "type": "Greenway",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "Fast, und die offizielle Auflistung sagt so deutlich: \"Fast vollständig auf dedizierte Infrastruktur\". Zwei Vorbehalte, auch veröffentlicht - Start auf einer Radspur im Zentrum von Chambéry und einer Straßenkreuzung (mit Lichtern gesichert) in Richtung Saint-Alban.",
+          "q": "Ist es wirklich autofrei?"
+        },
+        {
+          "a": "7,7 km für 39 m Aufstieg zwischen 279 und 312 m. Es ist flach: Das ist die einzige offizielle Zahl, die veröffentlicht wurde.",
+          "q": "Wie lange, wie viel Klettern?"
+        },
+        {
+          "a": "Ja, es wird keine saisonale Schließung angekündigt. Vorübergehende Schließungen für Arbeiten sind auf diesen Wegen aufgetreten: Die Nachrichtenseiten von Grand Chambéry kennzeichnen sie.",
+          "q": "Ist es das ganze Jahr über geöffnet?"
+        },
+        {
+          "a": "Die offizielle Auflistung umfasst einen Parkplatz und einen Fahrradparkplatz unter seinen Einrichtungen, ohne den genauen Standort oder den Preis zu veröffentlichen. Die Route beginnt im zentralen Chambéry, erreichbar mit dem Zug.",
+          "q": "Wo parken Sie?"
+        }
+      ],
+      "hero": {
+        "badge": "Urban Greenway · 7,7 km",
+        "lead": "Chambéry bis Challes-les-Eaux fast autofrei — 7,7 flache Kilometer, 39 m Aufstieg, ganzjährig geöffnet: Pendeln so viel wie die Sonntagsfahrt."
+      },
+      "hero_alt": "Baum gesäumte städtische Grünstraße in der Nähe von Chambéry",
+      "how_to_get_there": {
+        "bike": "Verbunden mit dem Pistes Bleues-Netzwerk des Chambéry-Gebiets.",
+        "car": "Zentrales Chambéry; Beginnen Sie bei quai Charles Ravet dann quai de la Rize.",
+        "public_transport": "Chambéry-Challes-les-Eaux SNCF-Station, Minuten vom Start."
+      },
+      "meta_description": "Chambéry bis Challes-les-Eaux: 7,7 flache Kilometer auf den Leysse dann Planeurs Greenways, das ganze Jahr über. Fast völlig verkehrsfrei – einen Radwegstart und einen Hauptstraßenübergang.",
+      "meta_title": "Leysse und Planeurs greenway · Chambéry – Challes-les-Eaux",
+      "name": "Voie verte de la Leysse et des Planeurs",
+      "name_alternates": [
+        "Chambéry à vélo : Challes-les-Eaux"
+      ],
+      "practical_info": [
+        {
+          "k": "Entfernung",
+          "v": "7,7 km in eine Richtung · 39 m Aufstieg · 279 bis 312 m"
+        },
+        {
+          "k": "autofrei",
+          "v": "\"Fast\" - ein Stadt-Zentrum-Radweg, ein gesicherter Hauptstraßenübergang"
+        },
+        {
+          "k": "Offen",
+          "v": "Das ganze Jahr · gelegentliche Schließungen für Arbeiten"
+        },
+        {
+          "k": "Wegmarkierung",
+          "v": "Grand Chambéry Pistes Bleues / Synchrovélo Netzwerk"
+        },
+        {
+          "k": "Gemeinden",
+          "v": "Chambéry · Saint-Alban-Leysse · Challes-les-Eaux"
+        },
+        {
+          "k": "Kontakt",
+          "v": "Grand Chambéry Alpes Tourismus · +33 4 79 33 42 47"
+        }
+      ],
+      "schema_amenities": [
+        "Fahrradparkplätze",
+        "Pistes Bleues-Wegmarkierung"
+      ],
+      "when_to_visit": "<p>„<strong>Ganzjährig</strong>': Es wird keine saisonale Schließung angekündigt. Vorübergehende Schließungen für Arbeiten haben diese Wege zuvor beeinflusst - Resurfacing auf dem Planeurs Greenway, funktioniert auf mehreren Greenways in der gesamten Gegend: Ein Blick auf die Nachrichten von Grand Chambéry, bevor Sie sich auf den Weg machen, rettet eine Kehrtwende.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "The Leysse then the Planeurs, to the lake and the gliding airfield.",
+          "tag": "7.7 km · flat",
+          "title": "Chambéry to Challes-les-Eaux"
+        }
+      ],
+      "body": {
+        "what_is": "<p>From Chambéry to the Challes-les-Eaux lake, the <strong>Leysse greenway</strong> and then the <strong>Planeurs greenway</strong> make up '<strong>a completely flat route, almost entirely on dedicated infrastructure. Perfect for a stroll, or for getting to work without a car!</strong>' The official figures: 'Distance 7.7 km / Ascent 39 m', one way, between 279 and 312 m.</p><p>The word 'almost' matters, and the tourist office does not hide it: 'Leaving the town centre the route follows a <strong>cycle lane</strong> through the centre before joining the greenway', and 'a <strong>departmental road crossing</strong> (secured with lights) has to be made on the approach to Saint-Alban'. So it is not fully separated from traffic — worth knowing with young children. From the centre you follow the quai Charles Ravet then the quai de la Rize, guided by the Synchrovélo waymarking of the area's <strong>Pistes Bleues</strong> network.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": null,
+        "best_season": "All year",
+        "commune": "Chambéry",
+        "dogs": null,
+        "min_age": null,
+        "min_height": null,
+        "parking": "Car park and bike parking (location and price unpublished)",
+        "stroller": null,
+        "type": "Greenway",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "Almost, and the official listing says so plainly: 'almost entirely on dedicated infrastructure'. Two caveats, also published — a start on a cycle lane in central Chambéry, and a departmental road crossing (secured with lights) approaching Saint-Alban.",
+          "q": "Is it really car-free?"
+        },
+        {
+          "a": "7.7 km one way for 39 m of ascent, between 279 and 312 m. It is flat: that is the only official figure published.",
+          "q": "How long, how much climbing?"
+        },
+        {
+          "a": "Yes, no seasonal closure is announced. Temporary closures for works have occurred on these paths: Grand Chambéry's news pages flag them.",
+          "q": "Is it open all year?"
+        },
+        {
+          "a": "The official listing includes a car park and bike parking among its facilities, without publishing the exact location or the price. The route starts in central Chambéry, reachable by train.",
+          "q": "Where do you park?"
+        }
+      ],
+      "hero": {
+        "badge": "Urban greenway · 7.7 km",
+        "lead": "Chambéry to Challes-les-Eaux almost car-free — 7.7 flat kilometres, 39 m of ascent, open all year: the commute as much as the Sunday ride."
+      },
+      "hero_alt": "Tree-lined urban greenway near Chambéry",
+      "how_to_get_there": {
+        "bike": "Connected to the Chambéry area's Pistes Bleues network.",
+        "car": "Central Chambéry; start at quai Charles Ravet then quai de la Rize.",
+        "public_transport": "Chambéry-Challes-les-Eaux SNCF station, minutes from the start."
+      },
+      "meta_description": "Chambéry to Challes-les-Eaux: 7.7 flat kilometres on the Leysse then Planeurs greenways, all year. Almost entirely traffic-free — a cycle-lane start and one main-road crossing.",
+      "meta_title": "Leysse and Planeurs greenway · Chambéry – Challes-les-Eaux",
+      "name": "Voie verte de la Leysse et des Planeurs",
+      "name_alternates": [
+        "Chambéry à vélo : Challes-les-Eaux"
+      ],
+      "practical_info": [
+        {
+          "k": "Distance",
+          "v": "7.7 km one way · 39 m ascent · 279 to 312 m"
+        },
+        {
+          "k": "Car-free",
+          "v": "'Almost' — a town-centre cycle lane, one secured main-road crossing"
+        },
+        {
+          "k": "Open",
+          "v": "All year · occasional closures for works"
+        },
+        {
+          "k": "Waymarking",
+          "v": "Grand Chambéry Pistes Bleues / Synchrovélo network"
+        },
+        {
+          "k": "Communes",
+          "v": "Chambéry · Saint-Alban-Leysse · Challes-les-Eaux"
+        },
+        {
+          "k": "Contact",
+          "v": "Grand Chambéry Alpes Tourisme · +33 4 79 33 42 47"
+        }
+      ],
+      "schema_amenities": [
+        "Bike parking",
+        "Pistes Bleues waymarking"
+      ],
+      "when_to_visit": "<p>'<strong>All year round</strong>': no seasonal closure is announced. Temporary closures for works have affected these paths before — resurfacing on the Planeurs greenway, works on several greenways across the area: a glance at Grand Chambéry's news before setting out saves a U-turn.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "El Leysse luego el Planeurs, al lago y el aeródromo.",
+          "tag": "7.7 km · plano",
+          "title": "Chambéry a Challes-les-Eaux"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Desde Chambéry hasta el lago Challes-les-Eaux, el <strong>Vía verde Leysse</strong> y luego el <strong>Vía verde Planeurs</strong> inventar '<strong>una ruta completamente plana, casi enteramente en infraestructura dedicada. ¡Perfecto para pasear, o para ir a trabajar sin un coche!</strong>Las cifras oficiales: 'Distancia 7.7 km / Ascenso 39 m', de una manera, entre 279 y 312 m.</p><p>La palabra \"casi\" importa, y la oficina turística no la oculta: Dejando el centro de la ciudad la ruta sigue una <strong>carril de ciclo</strong> a través del centro antes de unirse a la Vía Verde, y 'a <strong>cruce de caminos</strong> (asegurado con luces) tiene que hacerse sobre el enfoque de Saint-Alban'. Así que no está completamente separado del tráfico — vale la pena conocer con niños pequeños. Desde el centro se sigue la quai Charles Ravet y luego la quai de la Rize, guiada por la señalización Synchrovélo de la zona <strong>Pistes Bleues</strong> red.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": null,
+        "best_season": "Todo el año",
+        "commune": "Chambéry",
+        "dogs": null,
+        "min_age": null,
+        "min_height": null,
+        "parking": "Aparcamiento y aparcamiento en bicicleta (ubicación y precio inédito)",
+        "stroller": null,
+        "type": "Greenway",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "Casi, y el listado oficial dice tan claramente: Casi completamente en infraestructura dedicada. Dos cavernas, también publicadas a start on a cycle lane in central Chambéry, and a departmental road crossing (secured with lights) approaching Saint-Alban.",
+          "q": "¿Es realmente libre de coches?"
+        },
+        {
+          "a": "7.7 km de una manera para 39 m de ascenso, entre 279 y 312 m. Es plana: es la única figura oficial publicada.",
+          "q": "¿Cuánto tiempo, cuánto escala?"
+        },
+        {
+          "a": "Sí, no se anuncia ningún cierre estacional. Los cierres temporales para obras se han producido en estos caminos: Las páginas de noticias de Grand Chambéry los marcan.",
+          "q": "¿Está abierto todo el año?"
+        },
+        {
+          "a": "El listado oficial incluye un aparcamiento y aparcamiento en bicicleta entre sus instalaciones, sin publicar la ubicación exacta o el precio. La ruta comienza en el centro de Chambéry, accesible en tren.",
+          "q": "¿Dónde aparcas?"
+        }
+      ],
+      "hero": {
+        "badge": "Vía verde urbana · 7,7 km",
+        "lead": "Chambéry a Challes-les-Eaux casi libre de coches — 7.7 kilómetros planos, 39 m de ascenso, abiertos todo el año: el viaje del domingo."
+      },
+      "hero_alt": "Vía verde urbana arbolada cerca de Chambéry",
+      "how_to_get_there": {
+        "bike": "Conectado a la red Chambéry del área Pistes Bleues.",
+        "car": "Central Chambéry; comienza en quai Charles Ravet y quai de la Rize.",
+        "public_transport": "Estación Chambéry-Challes-les-Eaux SNCF, a pocos minutos del inicio."
+      },
+      "meta_description": "Chambéry a Challes-les-Eaux: 7.7 kilómetros planos en las autopistas Leysse y Planeurs, todo el año. Casi totalmente libre de tráfico — un inicio de carril de ciclo y un cruce de carretera principal.",
+      "meta_title": "Vía verde Leysse y Planeurs · Chambéry – Challes-les-Eaux",
+      "name": "Voie verte de la Leysse et des Planeurs",
+      "name_alternates": [
+        "Chambéry à vélo : Challes-les-Eaux"
+      ],
+      "practical_info": [
+        {
+          "k": "Distancia",
+          "v": "7.7 km de una manera · 39 m de ascenso · 279 a 312 m"
+        },
+        {
+          "k": "Libre de coches",
+          "v": "Casi... un carril del ciclo del centro de la ciudad, uno asegura el cruce principal"
+        },
+        {
+          "k": "Abierto",
+          "v": "Todo el año · cierres ocasionales para obras"
+        },
+        {
+          "k": "Waymarking",
+          "v": "Grand Chambéry Pistes Bleues / Synchrovélo red"
+        },
+        {
+          "k": "Communes",
+          "v": "Chambéry · Saint-Alban-Leysse · Challes-les-Eaux"
+        },
+        {
+          "k": "Contacto",
+          "v": "Grand Chambéry Alpes Tourisme · +33 4 79 33 42 47"
+        }
+      ],
+      "schema_amenities": [
+        "Aparcamiento en bicicleta",
+        "Pistes Bleues señalización"
+      ],
+      "when_to_visit": "<p>'<strong>Todo el año</strong>': no se anuncia ningún cierre estacional. Los cierres temporales para obras han afectado estos caminos antes — resurfacing on the Planeurs greenway, trabaja en varios greenways a través de la zona: Un vistazo a las noticias de Grand Chambéry antes de salir salva una vuelta en U.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "La Leysse puis les Planeurs, jusqu'au plan d'eau et à l'aérodrome.",
+          "tag": "7,7 km · plat",
+          "title": "Chambéry à Challes-les-Eaux"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De Chambéry au plan d'eau de Challes-les-Eaux, la <strong>voie verte de la Leysse</strong> puis la <strong>voie verte des Planeurs</strong> composent « <strong>un itinéraire tout plat et quasiment intégralement en site aménagé. Parfait pour se promener, ou pour se rendre sans voiture à son travail !</strong> » Les chiffres officiels : « Distance 7.7 km / Dénivelé 39 m », en aller simple, entre 279 et 312 m d'altitude.</p><p>Le mot « quasiment » compte, et l'office de tourisme ne le cache pas : « Au départ du centre ville l'itinéraire emprunte un tracé en centre ville en <strong>bande cyclable</strong> avant de rejoindre la voie verte », et « une <strong>traversée de route départementale</strong> (sécurisée avec feux) est à faire à l'arrivée vers Saint Alban ». Ce n'est donc pas un itinéraire intégralement séparé de la circulation — utile à savoir avec de jeunes enfants. Depuis le centre, on suit le quai Charles Ravet puis le quai de la Rize, en se guidant sur le balisage Synchrovélo du réseau <strong>Pistes Bleues</strong> de l'agglomération.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": null,
+        "best_season": "Toute l'année",
+        "commune": "Chambéry",
+        "dogs": null,
+        "min_age": null,
+        "min_height": null,
+        "parking": "Parking et parking à vélo (emplacement et gratuité non publiés)",
+        "stroller": null,
+        "type": "Voie verte",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "Presque, et la fiche officielle le dit franchement : « quasiment intégralement en site aménagé ». Deux réserves, publiées elles aussi — un départ en bande cyclable dans le centre de Chambéry, et une traversée de route départementale (sécurisée par des feux) à l'approche de Saint-Alban.",
+          "q": "Est-ce vraiment sans voiture ?"
+        },
+        {
+          "a": "7,7 km en aller simple pour 39 m de dénivelé, entre 279 et 312 m d'altitude. C'est plat : le seul chiffre officiel publié est celui-là.",
+          "q": "Quelle distance, quel dénivelé ?"
+        },
+        {
+          "a": "Oui, aucune fermeture saisonnière n'est annoncée. Des fermetures ponctuelles pour travaux ont déjà eu lieu sur ces voies : les actualités de Grand Chambéry les signalent.",
+          "q": "Est-ce ouvert toute l'année ?"
+        },
+        {
+          "a": "La fiche officielle liste un parking et un parking à vélo dans ses équipements, sans en publier l'emplacement précis ni la gratuité. L'itinéraire part du centre-ville de Chambéry, accessible en train.",
+          "q": "Où se garer ?"
+        }
+      ],
+      "hero": {
+        "badge": "Voie verte urbaine · 7,7 km",
+        "lead": "De Chambéry à Challes-les-Eaux presque sans voiture — 7,7 km plats, 39 m de dénivelé, praticables toute l'année : le trajet domicile-travail autant que la balade du dimanche."
+      },
+      "hero_alt": "Voie verte urbaine bordée d'arbres près de Chambéry",
+      "how_to_get_there": {
+        "bike": "Connecté au réseau Pistes Bleues de l'agglomération chambérienne.",
+        "car": "Chambéry centre ; départ quai Charles Ravet puis quai de la Rize.",
+        "public_transport": "Gare SNCF de Chambéry-Challes-les-Eaux, à quelques minutes du départ."
+      },
+      "meta_description": "De Chambéry à Challes-les-Eaux : 7,7 km plats par la voie verte de la Leysse puis des Planeurs, toute l'année. Presque intégralement en site aménagé — départ en bande cyclable et une traversée de départementale.",
+      "meta_title": "Voie verte de la Leysse et des Planeurs · Chambéry – Challes",
+      "name": "Voie verte de la Leysse et des Planeurs",
+      "name_alternates": [
+        "Chambéry à vélo : Challes-les-Eaux"
+      ],
+      "practical_info": [
+        {
+          "k": "Distance",
+          "v": "7,7 km aller simple · 39 m de dénivelé · 279 à 312 m"
+        },
+        {
+          "k": "Sans voiture",
+          "v": "« Quasiment » — bande cyclable en centre-ville, une traversée de RD sécurisée"
+        },
+        {
+          "k": "Ouverture",
+          "v": "Toute l'année · fermetures ponctuelles pour travaux possibles"
+        },
+        {
+          "k": "Balisage",
+          "v": "Réseau Pistes Bleues / Synchrovélo de Grand Chambéry"
+        },
+        {
+          "k": "Communes",
+          "v": "Chambéry · Saint-Alban-Leysse · Challes-les-Eaux"
+        },
+        {
+          "k": "Contact",
+          "v": "Grand Chambéry Alpes Tourisme · 04 79 33 42 47"
+        }
+      ],
+      "schema_amenities": [
+        "Parking à vélo",
+        "Balisage Pistes Bleues"
+      ],
+      "when_to_visit": "<p>« <strong>Toute l'année</strong> » : aucune fermeture saisonnière n'est annoncée. En revanche, des fermetures provisoires pour travaux ont déjà touché ces voies — réfections d'enrobés sur la voie verte des Planeurs, chantiers sur plusieurs voies vertes de l'agglomération : un coup d'œil aux actualités de Grand Chambéry avant de partir évite le demi-tour.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "La Leysse poi la Planeurs, al lago e all'aerodromo scorrevole.",
+          "tag": "7.7 km · appartamento",
+          "title": "Chambéry a Challes-les-Eaux"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Da Chambéry al lago Challes-les-Eaux, il <strong>Leysse greenway</strong> e poi <strong>Planeurs greenway</strong> # make up #<strong>un percorso completamente pianeggiante, quasi interamente su infrastrutture dedicate. Perfetto per una passeggiata, o per arrivare a lavorare senza auto!</strong>« Le cifre ufficiali: 'Distance 7.7 km / Salita 39 m', un modo, tra 279 e 312 m.</p><p>La parola 'quasi' conta, e l'ufficio turistico non la nasconde: Lasciando il centro della città il percorso segue <strong>ciclo lane</strong> attraverso il centro prima di entrare nel verde, e 'a <strong>attraversamento stradale dipartimentale</strong> (assicurato con luci) deve essere fatto sull'approccio a Saint-Alban'. Quindi non è completamente separato dal traffico — vale la pena conoscere con i bambini piccoli. Dal centro si segue l'quai Charles Ravet poi l'quai de la Rize, guidato dal waymarking Synchrovélo della zona <strong>Pistes Bleues</strong> rete.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": null,
+        "best_season": "Tutto l'anno",
+        "commune": "Chambéry",
+        "dogs": null,
+        "min_age": null,
+        "min_height": null,
+        "parking": "Parcheggio e parcheggio bici (localizzazione e prezzo inedito)",
+        "stroller": null,
+        "type": "Greenway",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "Quasi, e la lista ufficiale dice così chiaramente: quasi interamente su infrastrutture dedicate. Due avvertimenti, anche pubblicati — una partenza su una pista ciclabile nel centro di Chambéry, e un incrocio stradale dipartimentale (assicurato con luci) che si avvicina a Saint-Alban.",
+          "q": "E' davvero senza auto?"
+        },
+        {
+          "a": "7,7 km un modo per 39 m di salita, tra 279 e 312 m. È piatto: che è l'unica figura ufficiale pubblicata.",
+          "q": "Quanto tempo, quanto arrampicata?"
+        },
+        {
+          "a": "Sì, non è annunciata alcuna chiusura stagionale. Le chiusure temporanee per i lavori si sono verificate su questi percorsi: Le pagine di notizie di Grand Chambéry li contrassegnano.",
+          "q": "E' aperto tutto l'anno?"
+        },
+        {
+          "a": "L'elenco ufficiale comprende un parcheggio e un parcheggio in bicicletta tra le sue strutture, senza pubblicare la posizione esatta o il prezzo. Il percorso inizia nel centro di Chambéry, raggiungibile in treno.",
+          "q": "Dove parcheggi?"
+        }
+      ],
+      "hero": {
+        "badge": "Urban greenway · 7.7 km",
+        "lead": "Chambéry a Challes-les-Eaux quasi senza auto — 7,7 chilometri piatti, 39 m di salita, aperti tutto l'anno: il pendolare tanto quanto il giro di domenica."
+      },
+      "hero_alt": "verde urbano alberato vicino Chambéry",
+      "how_to_get_there": {
+        "bike": "Collegato alla rete Chambéry dell'area Pistes Bleues.",
+        "car": "Chambéry centrale; partire da quai Charles Ravet poi quai de la Rize.",
+        "public_transport": "Stazione Chambéry-Challes-les-Eaux SNCF, a pochi minuti dall'inizio."
+      },
+      "meta_description": "Chambéry a Challes-les-Eaux: 7.7 chilometri piatti sulla Leysse poi Planeurs greenways, tutto l'anno. Quasi interamente privo di traffico — una pista ciclabile e un incrocio principale.",
+      "meta_title": "Leysse e Planeurs greenway · Chambéry – Challes-les-Eaux",
+      "name": "Voie verte de la Leysse et des Planeurs",
+      "name_alternates": [
+        "Chambéry à vélo : Challes-les-Eaux"
+      ],
+      "practical_info": [
+        {
+          "k": "Distanza",
+          "v": "7.7 km di un modo · 39 m di salita · 279 a 312 m"
+        },
+        {
+          "k": "Senza auto",
+          "v": "«Quasi» una pista ciclabile in centro città, una traversata principale protetta"
+        },
+        {
+          "k": "Apri",
+          "v": "Tutto l'anno · chiusure occasionali per lavori"
+        },
+        {
+          "k": "Segnalazioni",
+          "v": "Rete Grand Chambéry Pistes Bleues / Synchrovélo"
+        },
+        {
+          "k": "Comuni",
+          "v": "Chambéry · Saint-Alban-Leysse · Challes-les-Eaux"
+        },
+        {
+          "k": "Contatto",
+          "v": "Grand Chambéry Alpes Turismo · +33 4 79 33 42 47"
+        }
+      ],
+      "schema_amenities": [
+        "Parcheggio per biciclette",
+        "Pistes Bleues waymarking"
+      ],
+      "when_to_visit": "<p>'<strong>Tutto l'anno</strong>': nessuna chiusura stagionale è annunciata. Le chiusure temporanee per le opere hanno influito su questi percorsi prima — riemergere sul greenway Planeurs, funziona su diversi greenways attraverso la zona: uno sguardo alle notizie di Grand Chambéry prima di impostare salva un U-turn.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "De Leysse dan de Planeurs, naar het meer en het glijdende vliegveld.",
+          "tag": "7.7 km · vlak",
+          "title": "Chambéry naar Challes-les-Eaux"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Van Chambéry naar het Challes-les-Eaux meer, de <strong>Leysse greenway</strong> en dan de <strong>Planeurs greenway</strong> make up '<strong>een volledig vlakke route, bijna volledig op specifieke infrastructuur. Perfect voor een wandeling, of voor het aan de slag zonder auto!</strong>' Officiële cijfers: 'Afstand 7,7 km / Stijging 39 m', een manier, tussen 279 en 312 m.</p><p>Het woord 'bijna' doet ertoe en het VVV-kantoor verbergt het niet: \"Het verlaten van het centrum van de stad de route volgt een <strong>fietspad</strong> door het centrum voordat u naar de greenway gaat, en <strong>departementale wegovergang</strong> (beveiligd met licht) moet worden gemaakt op de weg naar Saint-Alban.\" Het is dus niet volledig gescheiden van het verkeer. de moeite waard om met jonge kinderen te leren kennen. Vanuit het centrum volg je de quai Charles Ravet dan de quai de la Rize, geleid door de Synchrovélo waymarking van het gebied <strong>Pistes Bleues</strong> netwerk.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": null,
+        "best_season": "Het hele jaar",
+        "commune": "Chambéry",
+        "dogs": null,
+        "min_age": null,
+        "min_height": null,
+        "parking": "Parkeren en fietsen parkeren (locatie en prijs niet gepubliceerd)",
+        "stroller": null,
+        "type": "Greenway",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "Bijna, en de officiële lijst zegt zo duidelijk: \"bijna volledig op specifieke infrastructuur.\" Twee kanttekeningen, ook gepubliceerd een start op een fietspad in het centrum van Chambéry, en een departementale kruising (beveiligd met licht) die Saint-Alban nadert.",
+          "q": "Is het echt autovrij?"
+        },
+        {
+          "a": "7,7 km een weg voor 39 m klimmen, tussen 279 en 312 m. Het is plat: Dat is het enige officiële cijfer dat is gepubliceerd.",
+          "q": "Hoe lang, hoeveel klimmen?"
+        },
+        {
+          "a": "Ja, er wordt geen seizoenssluiting aangekondigd. Tijdelijke sluitingen voor werken hebben plaatsgevonden op deze paden: Grand Chambéry's nieuwspagina's markeren ze.",
+          "q": "Is het het hele jaar open?"
+        },
+        {
+          "a": "De officiële lijst omvat een parkeerplaats en fiets parkeren tussen de faciliteiten, zonder publicatie van de exacte locatie of de prijs. De route start in centraal Chambéry, bereikbaar per trein.",
+          "q": "Waar parkeer je?"
+        }
+      ],
+      "hero": {
+        "badge": "Stedelijke groenweg · 7.7 km",
+        "lead": "Chambéry naar Challes-les-Eaux bijna autovrij 7,7 vlak kilometer, 39 m stijgend, het hele jaar geopend: de pendel net zoveel als de zondagrit."
+      },
+      "hero_alt": "Boomvormige stedelijke greenway bij Chambéry",
+      "how_to_get_there": {
+        "bike": "Verbonden met het Chambéry-netwerk van het Pistes Bleues-gebied.",
+        "car": "Centrale Chambéry; start bij quai Charles Ravet dan quai de la Rize.",
+        "public_transport": "Chambéry-Challes-les-Eaux SNCF-station, minuten vanaf het begin."
+      },
+      "meta_description": "Chambéry naar Challes-les-Eaux: 7,7 vlak kilometer op de Leysse dan Planeurs greenways, het hele jaar door. Vrijwel geheel vrij van verkeer een cyclusbaanstart en één hoofdwegovergang.",
+      "meta_title": "Leysse en Planeurs greenway · Chambéry Challes-les-Eaux",
+      "name": "Voie verte de la Leysse et des Planeurs",
+      "name_alternates": [
+        "Chambéry à vélo : Challes-les-Eaux"
+      ],
+      "practical_info": [
+        {
+          "k": "Afstand",
+          "v": "7,7 km een weg · 39 m stijgen · 279 tot 312 m"
+        },
+        {
+          "k": "Autovrij",
+          "v": "Bijna. een fietspad in het centrum van de stad, een beveiligde hoofdwegovergang"
+        },
+        {
+          "k": "Open",
+          "v": "Het hele jaar · af en toe sluitingen voor werken"
+        },
+        {
+          "k": "Waymarking",
+          "v": "Grand Chambéry Pistes Bleues / Synchrovélo netwerk"
+        },
+        {
+          "k": "Communes",
+          "v": "Chambéry · Saint-Alban-Leysse · Challes-les-Eaux"
+        },
+        {
+          "k": "Contactpersoon",
+          "v": "Grand Chambéry Alpes Tourisme · +33 4 79 33 42 47"
+        }
+      ],
+      "schema_amenities": [
+        "Fiets parkeren",
+        "Pistes Bleues waymarking"
+      ],
+      "when_to_visit": "<p>'<strong>Het hele jaar door</strong>': er wordt geen seizoenssluiting aangekondigd. Tijdelijke sluitingen voor werken hebben invloed gehad op deze paden vóór resurfacing op de Planeurs greenway, werkt op verschillende greenways in het gebied: een blik op het nieuws van Grand Chambéry voordat u een U-turn opslaat.</p>"
+    }
+  },
+  "latitude": 45.567459,
+  "longitude": 5.9318,
+  "official_site_url": "https://www.chamberymontagnes.com/que-faire/activites-pleine-nature/chambery-a-velo-challes-les-eaux-chambery-fr-5783851/",
+  "partners": [],
+  "postal_code": "73000",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-20, pages FR officielles uniquement (Grand Chambéry Alpes Tourisme, Grand Chambéry). OUVERTE toute l'année, fiche « Mis à jour le 02 janvier 2025 ». Chiffres officiels : « Distance 7.7 km / Dénivelé 39 m / Altitude minimum 279 m / Altitude maximum 312 m », aller simple, Chambéry → Challes-les-Eaux. HONNÊTETÉ SUR LE SANS-VOITURE : « Un itinéraire tout plat et quasiment intégralement en site aménagé » MAIS « Au départ du centre ville l'itinéraire emprunte un tracé en centre ville en bande cyclable avant de rejoindre la voie verte » et « une traversée de route départementale (sécurisée avec feux) est à faire à l'arrivée vers Saint Alban » — donc PAS 100 % sans voiture, dit explicitement. REVÊTEMENT : « enrobé » attesté seulement pour une PARTIE de la voie verte des Planeurs (travaux Grand Chambéry) — non généralisé. TARIF : aucune rubrique tarifaire, pas même « accès libre » → non renseigné, la gratuité n'est pas affirmée. CHIENS, POUSSETTE, PMR : aucune mention → null. La formule « accessibles à tous » du réseau Pistes Bleues ne vaut pas mention de la poussette. Fermetures ponctuelles pour travaux déjà survenues (Planeurs octobre 2023) : vérifier les actualités de Grand Chambéry avant une sortie. Longueur : un seul chiffre officiel (7,7 km) ; les ~7/7,1 km circulant sur des sites non autorisés écartés. Communes Barby, La Ravoire, Barberaz non confirmées comme traversées. Coordonnées IGN (« quai de la Rize Chambéry », accès nommé sur la fiche).",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "voie-verte-de-la-leysse-et-des-planeurs",
+  "sources": [
+    "https://www.chamberymontagnes.com/que-faire/activites-pleine-nature/chambery-a-velo-challes-les-eaux-chambery-fr-5783851/",
+    "https://www.chamberymontagnes.com/que-faire/velo-cyclo/decouvrez-chambery-a-velo-et-en-famille/piste-cyclable-voie-verte/",
+    "https://www.grandchambery.fr/toutes-les-actualites/fermeture-provisoire-de-la-voie-verte-des-planeurs-a-challes-les-eaux",
+    "https://www.grandchambery.fr/toutes-les-actualites/travaux-sur-les-voies-vertes"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published for this site; kept null rather than inferred.",
+    "TARIF — aucune page officielle n'affiche de rubrique tarifaire ni la mention « accès libre » pour cet itinéraire urbain ; la gratuité n'est pas affirmée, le champ reste non renseigné.",
+    "REVÊTEMENT — « enrobé » n'est attesté que pour une partie de la voie verte des Planeurs (travaux 2023) ; non généralisé au linéaire complet.",
+    "CHIENS et POUSSETTE — aucune mention officielle. La formule « accessibles à tous » du réseau Pistes Bleues ne vaut pas mention de la poussette.",
+    "ACCES_PMR — aucune source officielle ; statut null.",
+    "COMMUNES — Barby, La Ravoire, Barberaz et Bassens ne sont pas confirmées comme traversées par une source décrivant l'itinéraire.",
+    "TRAVAUX — des fermetures provisoires pour travaux ont déjà eu lieu sur ces voies ; consulter les actualités de Grand Chambéry avant de partir."
+  ]
+}

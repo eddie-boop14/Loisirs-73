@@ -1,0 +1,621 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-18",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "voie-verte",
+  "commune": "Moûtiers",
+  "date_modified_human": "18 août 2026",
+  "date_published_human": "18 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-18",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-voie-verte-cyclistes-riviere.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Flach und einfach, von Moûtiers zu Aigueblanche über Salins-Fontaine.",
+          "tag": "2,4 km · grün",
+          "title": "Die Fahrt entlang des Isère"
+        }
+      ],
+      "body": {
+        "what_is": "<p>geöffnet am <strong>21. Mai 2024</strong>, <strong>Moûtiers – Aigueblanche Greenway</strong> verbindet die beiden Gemeinden über Salins-Fontaine und folgt dem Wasser entlang des Isère. Die offiziellen Zahlen sind bescheiden und ehrlich: „<strong>Entfernung: 2,4 km</strong>\", dort und zurück, \"<strong>Aufstieg: 12 m</strong>', eine Stunde Ausflug, grün-graded — leicht, zwischen 449 und 488 m. \"Gewidmet Fahrrädern (Rennräder, Mountainbikes, E-Bikes ...), bietet es Radfahrern aller Stufen eine sehr angenehme Fahrt.\"</p><p>Es ist eine Talbodenpromenade, keine Tourroute - und ein Stück von etwas Größerem: Phase 2 in Richtung Pomblière und Saint-Marcel läuft seit Sommer 2024 und das Ganze gehört zum geplanten Albertville. Bourg-Saint-Maurice Abteilungsroute. Ein Detail, das man nicht verpassen sollte: Die offiziellen Listenstaaten<strong>Angenommene Tiere: Nein</strong>\", was selten auf einem Greenway ist -\" Die V63-Auflistung in Savoie trägt die gleiche Linie.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Freier Zugang",
+        "best_season": "1. Mai – 31. Oktober",
+        "commune": "Moûtiers",
+        "dogs": "Nicht akzeptierte Tiere (amtliche Auflistung)",
+        "min_age": null,
+        "min_height": null,
+        "parking": "Parken in der Nähe (Standort und Preis unveröffentlicht)",
+        "stroller": null,
+        "type": "Greenway",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "Die offizielle Auflistung besagt: Tiere akzeptiert: Nein. Das ist ungewöhnlich für einen Greenway und wir berichten es so, wie es steht; im Zweifelsfall antwortet das Tourismusbüro Cœur de Tarentaise unter +33 4 79 04 29 05.",
+          "q": "Kannst du einen Hund mitbringen?"
+        },
+        {
+          "a": "2,4 km, von der offiziellen Auflistung für 12 m Aufstieg und etwa eine Stunde angegeben. Es ist ein Familien-Tal-Fußboden-Bummel, keine Tourroute.",
+          "q": "Wie lang ist es genau?"
+        },
+        {
+          "a": "Nicht als solche angekündigt: Der veröffentlichte Zeitraum ist \"vom 01/05 bis zum 31/10, abhängig von Schnee und günstigen Wetterbedingungen\".",
+          "q": "Ist es im Winter geöffnet?"
+        },
+        {
+          "a": "Keine offizielle Quelle sagt das. Die Seiten beschreiben die Nutzung von Familie und Fußgängern und ein flaches Profil, aber die Oberfläche wird nicht veröffentlicht - Wir behaupten es also nicht.",
+          "q": "Ist es Kinderwagen-freundlich?"
+        }
+      ],
+      "hero": {
+        "badge": "Greenway · 2,4 km",
+        "lead": "Ein kurzer Spaziergang im Talboden entlang des Isère, der 2024 eröffnet wurde, grün und flach - mit einer offiziellen Auflistung, die ungewöhnlicherweise Tiere ablehnt."
+      },
+      "hero_alt": "Flache Grünstraße auf dem Tarentaise-Talboden",
+      "how_to_get_there": {
+        "bike": "Ein Abschnitt des geplanten Albertville – Bourg-Saint-Maurice Abteilungsroute.",
+        "car": "Moûtiers, auf dem Tarentaise Talboden (A430 dann N90).",
+        "public_transport": "Moûtiers-Salins SNCF Station, am Anfang der Route."
+      },
+      "meta_description": "Moûtiers – Aigueblanche Greenway: 2,4 flache, leichte Kilometer im Jahr 2024 eröffnet, freier Zugang vom 1. Mai bis 31. Oktober. Die offizielle Auflistung besagt: Tiere akzeptiert: Nein.",
+      "meta_title": "Moûtiers – Aigueblanche Greenway · 2,4 km entlang des Isère",
+      "name": "Voie verte Moûtiers – Aigueblanche",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Entfernung",
+          "v": "2,4 km hin und zurück · 12 m Aufstieg · ~1 h"
+        },
+        {
+          "k": "Grad",
+          "v": "Grün — leicht · 449 bis 488 m"
+        },
+        {
+          "k": "Offen",
+          "v": "1. Mai – 31. Oktober, vorbehaltlich Wetter und Schnee"
+        },
+        {
+          "k": "Zugang",
+          "v": "frei"
+        },
+        {
+          "k": "Hunde",
+          "v": "Nicht akzeptiert (offizielle Auflistung)"
+        },
+        {
+          "k": "geöffnet",
+          "v": "21. Mai 2024 · Phase 2 zu Pomblière zu Saint-Marcel im Gange"
+        },
+        {
+          "k": "Kontakt",
+          "v": "Cœur de Tarentaise Tourismusbüro · +33 4 79 04 29 05"
+        }
+      ],
+      "schema_amenities": [
+        "Freier Zugang",
+        "Picknickbereich"
+      ],
+      "when_to_visit": "<p>„<strong>Von 01/05 bis 31/10</strong>, bei Schnee und günstigen Witterungsbedingungen: Der Greenway wird im Winter nicht als nutzbar oder gepflegt beworben. Der Zugang ist frei.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "Flat and easy, from Moûtiers to Aigueblanche via Salins-Fontaine.",
+          "tag": "2.4 km · green",
+          "title": "The ride along the Isère"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Opened on <strong>21 May 2024</strong>, the <strong>Moûtiers – Aigueblanche greenway</strong> links the two communes via Salins-Fontaine, 'following the water' along the Isère. The official figures are modest and honest: '<strong>Distance: 2.4 km</strong>', there and back, '<strong>ascent: 12 m</strong>', an hour's outing, green-graded — easy, between 449 and 488 m. 'Dedicated to bikes (road bikes, mountain bikes, e-bikes…), it offers cyclists of every level a very pleasant ride'.</p><p>It is a valley-floor promenade, not a touring route — and one piece of something larger: phase 2 towards Pomblière and Saint-Marcel has been under way since summer 2024, and the whole belongs to the planned Albertville – Bourg-Saint-Maurice departmental route. One detail not to miss: the official listing states '<strong>Animals accepted: No</strong>', which is rare on a greenway — the V63 listing in Savoie carries the same line.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free access",
+        "best_season": "1 May – 31 October",
+        "commune": "Moûtiers",
+        "dogs": "Animals not accepted (official listing)",
+        "min_age": null,
+        "min_height": null,
+        "parking": "Parking nearby (location and price unpublished)",
+        "stroller": null,
+        "type": "Greenway",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "The official listing states 'Animals accepted: No'. That is unusual for a greenway and we report it as it stands; if in doubt, the Cœur de Tarentaise tourist office answers on +33 4 79 04 29 05.",
+          "q": "Can you bring a dog?"
+        },
+        {
+          "a": "2.4 km, given there-and-back by the official listing, for 12 m of ascent and about an hour. It is a family valley-floor stroll, not a touring itinerary.",
+          "q": "How long is it exactly?"
+        },
+        {
+          "a": "Not advertised as such: the published period is 'from 01/05 to 31/10, subject to snow and favourable weather conditions'.",
+          "q": "Is it open in winter?"
+        },
+        {
+          "a": "No official source says so. The pages describe family and pedestrian use and a flat profile, but the surface is not published — so we do not assert it.",
+          "q": "Is it pushchair-friendly?"
+        }
+      ],
+      "hero": {
+        "badge": "Greenway · 2.4 km",
+        "lead": "A short valley-floor stroll along the Isère, opened in 2024, green-graded and flat — with an official listing that, unusually, refuses animals."
+      },
+      "hero_alt": "Flat greenway on the Tarentaise valley floor",
+      "how_to_get_there": {
+        "bike": "A section of the planned Albertville – Bourg-Saint-Maurice departmental route.",
+        "car": "Moûtiers, on the Tarentaise valley floor (A430 then N90).",
+        "public_transport": "Moûtiers-Salins SNCF station, at the start of the route."
+      },
+      "meta_description": "Moûtiers – Aigueblanche greenway: 2.4 flat, easy kilometres opened in 2024, free access from 1 May to 31 October. The official listing states 'Animals accepted: No'.",
+      "meta_title": "Moûtiers – Aigueblanche greenway · 2.4 km along the Isère",
+      "name": "Voie verte Moûtiers – Aigueblanche",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Distance",
+          "v": "2.4 km there and back · 12 m ascent · ~1 h"
+        },
+        {
+          "k": "Grade",
+          "v": "Green — easy · 449 to 488 m"
+        },
+        {
+          "k": "Open",
+          "v": "1 May – 31 October, subject to weather and snow"
+        },
+        {
+          "k": "Access",
+          "v": "Free"
+        },
+        {
+          "k": "Dogs",
+          "v": "Not accepted (official listing)"
+        },
+        {
+          "k": "Opened",
+          "v": "21 May 2024 · phase 2 to Pomblière to Saint-Marcel under way"
+        },
+        {
+          "k": "Contact",
+          "v": "Cœur de Tarentaise tourist office · +33 4 79 04 29 05"
+        }
+      ],
+      "schema_amenities": [
+        "Free access",
+        "Picnic area"
+      ],
+      "when_to_visit": "<p>'<strong>From 01/05 to 31/10</strong>, subject to snow and favourable weather conditions': the greenway is not advertised as usable or maintained in winter. Access is free.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "Piso y fácil, desde Moûtiers a Aigueblanche a través de Salins-Fontaine.",
+          "tag": "2.4 km · verde",
+          "title": "El paseo por el Isère"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Abierto <strong>21 de mayo de 2024</strong>, el <strong>Moûtiers – Vía verde Aigueblanche</strong> vincula las dos comunas a través de Salins-Fontaine, 'siguiendo el agua' a lo largo de la Isère. Las cifras oficiales son modestas y honestas: '<strong>Distancia: 2.4 km</strong>', ahí y atrás, '<strong>subida: 12 m</strong>', una hora de salida, de grado verde - fácil, entre 449 y 488 m. \"Dedicado a bicicletas (cicletas de carretera, bicicletas de montaña, bicicletas de e...), ofrece a los ciclistas de todos los niveles un paseo muy agradable\".</p><p>Es un paseo por el valle, no una ruta de gira — y un pedazo de algo más grande: la fase 2 hacia Pomblière y Saint-Marcel está en marcha desde el verano 2024, y todo pertenece a la Albertville planificada – Ruta departamental Bourg-Saint-Maurice. Un detalle para no perder: el listado oficial declara '<strong>Animales aceptados: No</strong>', que es raro en una vía verde - el listado V63 en Savoie lleva la misma línea.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Acceso gratuito",
+        "best_season": "1 de mayo – 31 de octubre",
+        "commune": "Moûtiers",
+        "dogs": "Animales no aceptados (lista oficial)",
+        "min_age": null,
+        "min_height": null,
+        "parking": "Aparcamiento cerca (ubicación y precio inédito)",
+        "stroller": null,
+        "type": "Greenway",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "El listado oficial declara 'Animales aceptados: No. Eso es inusual para una vía verde y lo reportamos como está; si en duda, la oficina turística de Cœur de Tarentaise responde al +33 4 79 04 29 05.",
+          "q": "¿Puedes traer un perro?"
+        },
+        {
+          "a": "2.4 km, dado allí y atrás por el listado oficial, por 12 m de ascenso y alrededor de una hora. Es un paseo por el valle de la familia, no un itinerario de gira.",
+          "q": "¿Cuánto tiempo es exactamente?"
+        },
+        {
+          "a": "No se anuncia como tal: el período publicado es 'de 01/05 a 31/10, sujeto a nieve y condiciones climáticas favorables'.",
+          "q": "¿Está abierto en invierno?"
+        },
+        {
+          "a": "Ninguna fuente oficial lo dice. Las páginas describen el uso familiar y peatonal y un perfil plano, pero la superficie no se publica — Así que no lo afirmamos.",
+          "q": "¿Es fácil para sillas?"
+        }
+      ],
+      "hero": {
+        "badge": "Greenway · 2.4 km",
+        "lead": "Un corto paseo por el valle-floor a lo largo de la Isère, abierto en 2024, verde y plano - con un listado oficial que, inusualmente, rechaza los animales."
+      },
+      "hero_alt": "Vía verde plana en el piso del valle Tarentaise",
+      "how_to_get_there": {
+        "bike": "Una sección de la Albertville planificada – Ruta departamental Bourg-Saint-Maurice.",
+        "car": "Moûtiers, en el piso del valle Tarentaise (A430 y N90).",
+        "public_transport": "Estación Moûtiers-Salins SNCF, al inicio de la ruta."
+      },
+      "meta_description": "Moûtiers – Vía verde Aigueblanche: 2.4 kilómetros planos y fáciles de abrir en 2024, acceso gratuito del 1 de mayo al 31 de octubre. El listado oficial declara 'Animales aceptados: No.",
+      "meta_title": "Moûtiers – Vía verde Aigueblanche · 2.4 km a lo largo de Isère",
+      "name": "Voie verte Moûtiers – Aigueblanche",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Distancia",
+          "v": "2,4 km allí y atrás · 12 m ascensión · ~1 h"
+        },
+        {
+          "k": "Grado",
+          "v": "Verde: fácil · 449 a 488 m"
+        },
+        {
+          "k": "Abierto",
+          "v": "1 de mayo – 31 de octubre, sujeto al clima y a la nieve"
+        },
+        {
+          "k": "Acceso",
+          "v": "Gratis"
+        },
+        {
+          "k": "Perros",
+          "v": "No aceptado (lista oficial)"
+        },
+        {
+          "k": "Abierto",
+          "v": "21 mayo 2024 · fase 2 a Pomblière a Saint-Marcel en curso"
+        },
+        {
+          "k": "Contacto",
+          "v": "Cœur de Tarentaise oficina de turismo · +33 4 79 04 29 05"
+        }
+      ],
+      "schema_amenities": [
+        "Acceso gratuito",
+        "Zona de picnic"
+      ],
+      "when_to_visit": "<p>'<strong>Del 01/05 al 31/10</strong>, sujeto a nieve y condiciones climáticas favorables': la Vía Verde no se anuncia como usable o mantenido en invierno. El acceso es gratuito.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Plate, facile, entre Moûtiers et Aigueblanche par Salins-Fontaine.",
+          "tag": "2,4 km · vert",
+          "title": "La balade au fil de l'Isère"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Inaugurée le <strong>21 mai 2024</strong>, la <strong>voie verte Moûtiers – Aigueblanche</strong> relie les deux communes en passant par Salins-Fontaine, « au fil de l'eau » le long de l'Isère. Les chiffres officiels sont modestes et honnêtes : « <strong>Distance : 2.4 km</strong> », en aller-retour, « <strong>Dénivellation positive : 12 m</strong> », une heure de balade, niveau vert — facile, entre 449 et 488 m d'altitude. « Dédiée aux vélos (vélos de route, VTT, vélos électriques…), elle offre aux cyclistes de tous niveaux une balade très agréable ».</p><p>C'est une promenade de fond de vallée, pas une véloroute d'itinérance — et une pièce d'un ensemble plus grand : la tranche 2 vers Pomblière et Saint-Marcel est engagée depuis l'été 2024, et l'ensemble s'inscrit dans le projet d'itinéraire départemental Albertville – Bourg-Saint-Maurice. Un détail à ne pas manquer : la fiche officielle porte « <strong>Animaux acceptés : Non</strong> », ce qui est rare sur une voie verte — la fiche de la V63 en Savoie porte la même mention.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Accès libre",
+        "best_season": "1er mai – 31 octobre",
+        "commune": "Moûtiers",
+        "dogs": "Animaux non acceptés (fiche officielle)",
+        "min_age": null,
+        "min_height": null,
+        "parking": "Parking à proximité (emplacement et gratuité non publiés)",
+        "stroller": null,
+        "type": "Voie verte",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "La fiche officielle indique « Animaux acceptés : Non ». C'est inhabituel pour une voie verte et nous le signalons tel quel ; en cas de doute, l'office de tourisme Cœur de Tarentaise répond au 04 79 04 29 05.",
+          "q": "Peut-on venir avec son chien ?"
+        },
+        {
+          "a": "2,4 km, donnés en aller-retour par la fiche officielle, pour 12 m de dénivelé positif et environ une heure. C'est une promenade familiale de fond de vallée, pas un itinéraire d'itinérance.",
+          "q": "Quelle est la longueur exacte ?"
+        },
+        {
+          "a": "Non annoncé : la période publiée est « du 01/05 au 31/10, sous réserve de conditions d'enneigement et météorologiques favorables ».",
+          "q": "Est-ce ouvert en hiver ?"
+        },
+        {
+          "a": "Aucune source officielle ne le dit. Les pages décrivent un usage familial et piéton et un profil plat, mais le revêtement n'est pas publié — nous ne l'affirmons donc pas.",
+          "q": "Est-ce accessible en poussette ?"
+        }
+      ],
+      "hero": {
+        "badge": "Voie verte · 2,4 km",
+        "lead": "Une courte promenade de fond de vallée au fil de l'Isère, inaugurée en 2024, de niveau vert et plate — avec une fiche officielle qui, fait rare, refuse les animaux."
+      },
+      "hero_alt": "Voie verte plate en fond de vallée de Tarentaise",
+      "how_to_get_there": {
+        "bike": "Section du futur itinéraire départemental Albertville – Bourg-Saint-Maurice.",
+        "car": "Moûtiers, en fond de vallée de Tarentaise (A430 puis N90).",
+        "public_transport": "Gare SNCF de Moûtiers-Salins, au départ de l'itinéraire."
+      },
+      "meta_description": "Voie verte Moûtiers – Aigueblanche : 2,4 km plats et faciles inaugurés en 2024, accès libre du 1er mai au 31 octobre. La fiche officielle indique « Animaux acceptés : Non ».",
+      "meta_title": "Voie verte Moûtiers – Aigueblanche · 2,4 km au fil de l'Isère",
+      "name": "Voie verte Moûtiers – Aigueblanche",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Distance",
+          "v": "2,4 km en aller-retour · 12 m de dénivelé · ~1 h"
+        },
+        {
+          "k": "Niveau",
+          "v": "Vert — facile · 449 à 488 m d'altitude"
+        },
+        {
+          "k": "Ouverture",
+          "v": "1er mai – 31 octobre, sous réserve de météo et d'enneigement"
+        },
+        {
+          "k": "Accès",
+          "v": "Libre et gratuit"
+        },
+        {
+          "k": "Chiens",
+          "v": "Non acceptés (fiche officielle)"
+        },
+        {
+          "k": "Inaugurée",
+          "v": "21 mai 2024 · tranche 2 vers Pomblière à Saint-Marcel engagée"
+        },
+        {
+          "k": "Contact",
+          "v": "OT Cœur de Tarentaise · 04 79 04 29 05"
+        }
+      ],
+      "schema_amenities": [
+        "Accès libre",
+        "Aire de pique-nique"
+      ],
+      "when_to_visit": "<p>« <strong>Du 01/05 au 31/10</strong>. Sous réserve de conditions d'enneigement et météorologiques favorables » : la voie verte n'est donc pas annoncée comme praticable ou entretenue en hiver. L'accès est libre et gratuit.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Piano e facile, da Moûtiers a Aigueblanche tramite Salins-Fontaine.",
+          "tag": "2.4 km · verde",
+          "title": "La corsa lungo la Isère"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Aperta <strong>21 maggio 2024</strong># <strong>Moûtiers – Aigueblanche greenway</strong> collega i due comuni tramite Salins-Fontaine, 'seguire l'acqua' lungo la Isère. Le cifre ufficiali sono modeste e oneste: '<strong>Distanza: 2.4 km</strong>', là e indietro, '<strong>salita: 12 m</strong>«, un'ora è in uscita, verdeggiante — facile, tra 449 e 488 m. 'Dedicato alle bici (bici da strada, mountain bike, e-bikes...), offre ai ciclisti di ogni livello un giro molto piacevole'.</p><p>Si tratta di una passeggiata a valle, non di un percorso touring — e un pezzo di qualcosa di più grande: fase 2 verso Pomblière e Saint-Marcel è in corso dall'estate 2024, e tutto appartiene al programmato Albertville – Via dipartimentale Bourg-Saint-Maurice. Un dettaglio da non perdere: l'elenco ufficiale afferma '<strong>Animali accettati: No.</strong>«, che è raro su una strada verde — la lista V63 in Savoie porta la stessa linea.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Accesso gratuito",
+        "best_season": "1 maggio – 31 ottobre",
+        "commune": "Moûtiers",
+        "dogs": "Animali non accettati (elenco ufficiale)",
+        "min_age": null,
+        "min_height": null,
+        "parking": "Parcheggio nelle vicinanze (localizzazione e prezzo inedito)",
+        "stroller": null,
+        "type": "Greenway",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "L'elenco ufficiale dichiara 'Animali accettati: No. Questo è insolito per un greenway e lo riferiamo come sta; se in dubbio, l'ufficio turistico Cœur de Tarentaise risponde al +33 4 79 04 29 05.",
+          "q": "Puoi portare un cane?"
+        },
+        {
+          "a": "2.4 km, dato lì-e-back dalla lista ufficiale, per 12 m di salita e circa un'ora. Si tratta di una passeggiata a valle di famiglia, non di un itinerario turistico.",
+          "q": "Quanto tempo è esattamente?"
+        },
+        {
+          "a": "Non pubblicizzato come tale: il periodo pubblicato è «dal 01/05 al 31/10, soggetto a neve e condizioni meteo favorevoli».",
+          "q": "È aperto in inverno?"
+        },
+        {
+          "a": "Nessuna fonte ufficiale lo dice. Le pagine descrivono l'uso familiare e pedonale e un profilo piatto, ma la superficie non è pubblicata — così non lo affermiamo.",
+          "q": "E' adatto alle passeggini?"
+        }
+      ],
+      "hero": {
+        "badge": "Greenway · 2.4 km",
+        "lead": "Una breve passeggiata a valle lungo la Isère, aperta nel 2024, verde-gradata e piana — con una lista ufficiale che, insolitamente, rifiuta gli animali."
+      },
+      "hero_alt": "Pista verde sul fondovalle Tarentaise",
+      "how_to_get_there": {
+        "bike": "Una sezione del programmato Albertville – Via dipartimentale Bourg-Saint-Maurice.",
+        "car": "Moûtiers, sul fondovalle Tarentaise (A430 poi N90).",
+        "public_transport": "Stazione Moûtiers-Salins SNCF, all'inizio del percorso."
+      },
+      "meta_description": "Moûtiers – Aigueblanche greenway: 2.4 km pianeggianti, facilmente aperti nel 2024, libero accesso dal 1 maggio al 31 ottobre. L'elenco ufficiale dichiara 'Animali accettati: No.",
+      "meta_title": "Moûtiers – Aigueblanche greenway · 2.4 km lungo la Isère",
+      "name": "Voie verte Moûtiers – Aigueblanche",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Distanza",
+          "v": "2.4 km là e indietro · 12 m salita · ~1 h"
+        },
+        {
+          "k": "Grado",
+          "v": "Verde — facile · 449 a 488 m"
+        },
+        {
+          "k": "Apri",
+          "v": "1 maggio – 31 ottobre, soggetto a tempo e neve"
+        },
+        {
+          "k": "Accesso",
+          "v": "Gratis"
+        },
+        {
+          "k": "Cani",
+          "v": "Non accettato (elenco ufficiale)"
+        },
+        {
+          "k": "Aperto",
+          "v": "21 maggio 2024 · fase 2 a Pomblière a Saint-Marcel in corso"
+        },
+        {
+          "k": "Contatto",
+          "v": "Cœur de Tarentaise ufficio turistico · +33 4 79 04 29 05"
+        }
+      ],
+      "schema_amenities": [
+        "Accesso gratuito",
+        "Area Picnic"
+      ],
+      "when_to_visit": "<p>'<strong>Dal 01/05 al 31/10</strong>, soggette a neve e condizioni meteo favorevoli': il greenway non è pubblicizzato come utilizzabile o mantenuto in inverno. L'accesso è gratuito.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Plat en eenvoudig, van Moûtiers tot Aigueblanche via Salins-Fontaine.",
+          "tag": "2.4 km · groen",
+          "title": "De rit langs de Isère"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Geopend op <strong>21 mei 2024</strong>, de <strong>Moûtiers Aigueblanche greenway</strong> verbindt de twee gemeenten via Salins-Fontaine, 'volgt het water' langs de Isère. De officiële cijfers zijn bescheiden en eerlijk: '<strong>Afstand: 2.4 km</strong>', daar en terug, '<strong>stijgend: 12 m</strong>', een uur outing, groen-graded .. gemakkelijk, tussen 449 en 488 m. 'Gewijd aan fietsen (wegfietsen, mountainbikes, e-bikes...), biedt het fietsers van elk niveau een zeer aangename rit'.</p><p>Het is een vallei-vloer promenade, geen touring route En één stuk van iets groters: fase 2 richting Pomblière en Saint-Marcel is begonnen sinds de zomer 2024 en het geheel behoort tot de geplande Albertville Bourg-Saint-Maurice departementale route. Een detail niet te missen: de officiële vermelding \"<strong>Dieren toegelaten: Nee</strong>', wat zeldzaam is op een greenway. de V63 lijst in Savoie heeft dezelfde regel.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Vrije toegang",
+        "best_season": "1 mei 31 oktober",
+        "commune": "Moûtiers",
+        "dogs": "Niet geaccepteerde dieren (officiële lijst)",
+        "min_age": null,
+        "min_height": null,
+        "parking": "Parkeren in de buurt (locatie en prijs niet gepubliceerd)",
+        "stroller": null,
+        "type": "Greenway",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "Op de officiële lijst staat 'Dieren aanvaard: Nee. Dat is ongebruikelijk voor een groene weg en wij rapporteren het in zijn huidige vorm; Bij twijfel antwoordt het Cœur de Tarentaise VVV op +33 4 79 04 29 05.",
+          "q": "Kun je een hond meenemen?"
+        },
+        {
+          "a": "2.4 km, gegeven door de officiële notering, voor 12 m klim en ongeveer een uur. Het is een familie dal-vloer wandeling, niet een rondleiding route.",
+          "q": "Hoe lang is het precies?"
+        },
+        {
+          "a": "Niet als zodanig bekendgemaakt: de gepubliceerde periode is \"van 01/05 tot 31/10, afhankelijk van sneeuw en gunstige weersomstandigheden.\"",
+          "q": "Is het open in de winter?"
+        },
+        {
+          "a": "Geen officiële bron zegt dat. De pagina's beschrijven familie- en voetgangersgebruik en een vlak profiel, maar het oppervlak wordt niet gepubliceerd. Dus we beweren het niet.",
+          "q": "Is het kinderwagenvriendelijk?"
+        }
+      ],
+      "hero": {
+        "badge": "Greenway · 2,4 km",
+        "lead": "Een korte dalwandeling langs de Isère, geopend in 2024, groen gegradueerd en vlak met een officiële vermelding dat, ongewoon, weigert dieren."
+      },
+      "hero_alt": "Platte greenway op de Tarentaise valleivloer",
+      "how_to_get_there": {
+        "bike": "Een deel van de geplande Albertville  Bourg-Saint-Maurice departementale route.",
+        "car": "Moûtiers, op de Tarentaise valleivloer (A430 dan N90).",
+        "public_transport": "Moûtiers-Salins SNCF-station, aan het begin van de route."
+      },
+      "meta_description": "Moûtiers Aigueblanche greenway: 2.4 vlakke, gemakkelijke kilometers geopend in 2024, gratis toegang van 1 mei tot 31 oktober. Op de officiële lijst staat 'Dieren aanvaard: Nee.",
+      "meta_title": "Moûtiers Aigueblanche greenway · 2,4 km langs de Isère",
+      "name": "Voie verte Moûtiers – Aigueblanche",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Afstand",
+          "v": "2.4 km daar en terug · 12 m stijgen · ~1 uur"
+        },
+        {
+          "k": "Graad",
+          "v": "Groen gemakkelijk · 449 tot 488 m"
+        },
+        {
+          "k": "Open",
+          "v": "1 mei 31 oktober, afhankelijk van weer en sneeuw"
+        },
+        {
+          "k": "Toegang",
+          "v": "Vrij"
+        },
+        {
+          "k": "Honden",
+          "v": "Niet geaccepteerd (officiële lijst)"
+        },
+        {
+          "k": "Geopend",
+          "v": "21 May 2024 · phase 2 to Pomblière to Saint-Marcel under way"
+        },
+        {
+          "k": "Contactpersoon",
+          "v": "Cœur de Tarentaise VVV · +33 4 79 04 29 05"
+        }
+      ],
+      "schema_amenities": [
+        "Vrije toegang",
+        "Picknickgebied"
+      ],
+      "when_to_visit": "<p>'<strong>van 01/05 t/m 31/10</strong>, onder voorbehoud van sneeuw en gunstige weersomstandigheden\": de greenway wordt niet geadverteerd als bruikbaar of onderhouden in de winter. Toegang is gratis.</p>"
+    }
+  },
+  "latitude": 45.484616,
+  "longitude": 6.530912,
+  "official_site_url": "https://www.coeurdetarentaise-tourisme.com/fiches/voie-verte-moutiers-aigueblanche/",
+  "partners": [],
+  "postal_code": "73600",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-20, pages FR officielles uniquement (OT Cœur de Tarentaise, CC Cœur de Tarentaise, Maison du Tourisme du Pays d'Albertville). OUVERTURE VÉRIFIÉE : « La portion construite par Coeur de Tarentaise a été officiellement inaugurée mardi 21 mai 2024 ! ». Chiffres officiels : « Distance : 2.4 km / Type d'itinéraire : Aller_retour / Dénivellation positive : 12 m / Durée : 60 min », niveau vert - facile, altitude 449–488 m. « Accès libre. » « Du 01/05 au 31/10. Sous réserve de conditions d'enneigement et météorologiques favorables. » CHIENS : « Animaux acceptés : Non » — inhabituel pour une voie verte, reporté tel quel. PARKING : « Parking à proximité » seulement ; ni localisation ni gratuité publiées. REVÊTEMENT non publié → null. POUSSETTE : les pages parlent d'usage familial et de piétons mais ne mentionnent jamais la poussette → null, jamais extrapolé. PMR : aucune source → null. Tranche 2 Pomblière–Saint-Marcel engagée depuis l'été 2024. Le maillon voisin La Léchère – Grand-Aigueblanche existe mais ses caractéristiques (≈5 km, enrobé biosourcé) n'ont PAS pu être vérifiées (savoie.fr en 403, ccva-savoie.com en 503) : non publiées. Coordonnées IGN (« 5 Grande Rue 73600 Moûtiers », adresse de contact de l'OT — aucune adresse de tête d'itinéraire n'est publiée).",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "voie-verte-moutiers-aigueblanche",
+  "sources": [
+    "https://www.coeurdetarentaise-tourisme.com/fiches/voie-verte-moutiers-aigueblanche/",
+    "https://www.coeurdetarentaise-tourisme.com/blog/articles/nouvelle-voie-cyclable-moutiers-aigueblanche",
+    "https://www.pays-albertville.com/fiches/voie-verte-moutiers-aigueblanche/",
+    "https://www.coeurdetarentaise.fr/inauguration-de-la-voie-verte/"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published for this site; kept null rather than inferred.",
+    "REVÊTEMENT — aucune page officielle ne précise le revêtement de la section ; non renseigné.",
+    "POUSSETTE — les sources décrivent un usage familial et piéton mais ne mentionnent jamais la poussette ; non renseignée plutôt qu'extrapolée d'un usage.",
+    "ACCES_PMR — aucune source officielle ; statut null.",
+    "PARKING — « Parking à proximité » est la seule mention : ni emplacement ni gratuité publiés.",
+    "SECTION VOISINE — le maillon La Léchère – Grand-Aigueblanche existe, mais sa longueur et son revêtement n'ont pas pu être vérifiés (savoie.fr inaccessible, site de la CCVA en erreur) ; aucun chiffre publié ici.",
+    "COORDONNÉES — aucune adresse de tête d'itinéraire n'est publiée ; le point est le géocodage IGN de l'adresse de contact de l'office de tourisme, à Moûtiers.",
+    "CHIENS — « Animaux acceptés : Non » est un champ d'équipement Apidae (fiche Maison du Tourisme du Pays d'Albertville) ; la fiche de l'OT Cœur de Tarentaise ne traite pas des animaux. Cité tel quel, jamais interprété comme un arrêté. La fiche officielle de la V63 en Savoie porte la même mention, donc cette voie verte n'est pas la seule concernée."
+  ]
+}

@@ -1,0 +1,662 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-18",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "voie-verte",
+  "commune": "Champagneux",
+  "date_modified_human": "18 août 2026",
+  "date_published_human": "18 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-18",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-voie-verte-famille-kids.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Beginnen Sie vom Dammparkplatz, direkt neben dem Fluss - mit dem Fahrrad, zu Fuß oder mit einem Kinderwagen.",
+          "tag": "für Familien",
+          "title": "Die Rhône Bank am Damm"
+        },
+        {
+          "description": "Eine kleine, verspielte Familienschleife ab La Guinguette.",
+          "tag": "6,5 km",
+          "title": "Die Galletti Schleife"
+        }
+      ],
+      "body": {
+        "what_is": "<p>In der <strong>Avant-Pays savoyard</strong>, <strong>ViaRhôna</strong> Fließt neben dem Fluss am <strong>Champagneux Damm</strong>Dieser Abschnitt des ViaRhôna ist ideal für Familien! Vom Parkplatz am Staudamm Champagneux aus verbringen Sie den Tag mit dem Radfahren direkt neben dem Rhône. Auf der einen Seite die Dörfer der Ain \"mit ihren Stufendächern\"; auf der anderen Seite, \"die Radroute klettert in Richtung des Dorfes Champagneux dann La Balme\". Und diese Zeile, selten in unseren Quellen: „<strong>Auch zu Fuß oder mit einem Kinderwagen zu entdecken.</strong>„</p><p>Der Abschnitt gehört zu offiziellen ViaRhôna Stufe 6, '<strong>Belley zu Groslée über St-Genix-sur-Guiers</strong>', das ist <strong>36 km insgesamt — Aber streifen die Ain und Savoie</strong>: keine offizielle französische Seite gibt eine Zahl für den Savoie-Teil allein, und wir erfinden keine. Auf der gesamten Etappe sind \"28 km (79%)\" auf dem Radweg und \"8 km (21%)\" auf der Straße. Die Virignin-Fußgängerbrücke \"lässt Sie in absoluter Sicherheit vom Ain zum Savoie und zurück über den Rhône gelangen\".</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": null,
+        "best_season": "Ganzjährig",
+        "commune": "Champagneux",
+        "dogs": "Zugelassene Tiere",
+        "min_age": null,
+        "min_height": null,
+        "parking": "Parkplatz am Staudamm Champagneux und am La Guinguette (Preis unveröffentlicht)",
+        "stroller": "Passierbar mit einem Kinderwagen (offizielle Quelle)",
+        "type": "Radweg",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "Ja, und Savoie Mont Blanc schreibt es in so vielen Worten: \"Auch zu Fuß oder mit einem Kinderwagen entdeckt werden.\" Es ist der einzige Greenway in unserem Savoie-Corpus, für den eine offizielle französische Quelle dies angibt.",
+          "q": "Ist es Kinderwagen-freundlich?"
+        },
+        {
+          "a": "Keine offizielle französische Seite gibt eine Zahl, und wir schätzen sie nicht. Die einzige veröffentlichte Nummer ist für die gesamte Stufe - 36 km von Belley nach Groslée — Dieser läuft sowohl durch das Ain als auch durch das Savoie.",
+          "q": "Wie lang ist der Abschnitt Savoie?"
+        },
+        {
+          "a": "Die offizielle Auflistung sagt \"Tiere akzeptiert\". Ob ein Lead benötigt wird, wird nicht spezifiziert.",
+          "q": "Kannst du einen Hund mitbringen?"
+        },
+        {
+          "a": "Am Parkplatz Champagneux, dem vom offiziellen Eintrag empfohlenen Ausgangspunkt, oder am La Guinguette; Sie können auch vom Dorfsaal Saint-Genix-sur-Guiers aus starten. Der Preis wird nicht veröffentlicht.",
+          "q": "Wo parken Sie?"
+        }
+      ],
+      "hero": {
+        "badge": "ViaRhôna · Avant-Pays savoyard",
+        "lead": "Die Bank des Rhône durch den Champagneux Damm, auf dem eine Savoie Greenway eine offizielle Quelle ausdrücklich sagt, kann auch \"mit einem Kinderwagen\" gemacht werden."
+      },
+      "hero_alt": "Radweg entlang des Rhône im Avant-Pays savoyard",
+      "how_to_get_there": {
+        "bike": "EuroVelo 17 / ViaRhôna, vom Genfer See bis zum Mittelmeer.",
+        "car": "Champagneux Damm, 73240 Champagneux, in der Avant-Pays savoyard.",
+        "public_transport": "Saint-Genix-les-Villages – Pont-de-Beauvoisin Stationsverbindung, 11 km auf einer gemeinsamen Straße."
+      },
+      "meta_description": "ViaRhôna am Staudamm Champagneux: die Bank Rhône für Familien, mit dem Fahrrad, zu Fuß oder mit einem Kinderwagen — Die eine Savoie Greenway bestätigt eine offizielle Quelle für Kinderwagen. Belley – Groslée Etappe, 36 km.",
+      "meta_title": "ViaRhôna am Staudamm Champagneux · Avant-Pays savoyard",
+      "name": "ViaRhôna at the Champagneux dam",
+      "name_alternates": [
+        "ViaRhôna Belley – Groslée stage"
+      ],
+      "practical_info": [
+        {
+          "k": "Phase",
+          "v": "ViaRhôna Nr. 6 'Belley nach Groslée über St-Genix-sur-Guiers' · insgesamt 36 km, Ain und Savoie"
+        },
+        {
+          "k": "Abschnitt Savoie",
+          "v": "Länge nicht von einer französischen Quelle veröffentlicht — nicht geschätzt"
+        },
+        {
+          "k": "Fahrweg",
+          "v": "79% der Etappe auf dem Radweg, 21% auf der Straße"
+        },
+        {
+          "k": "Pushchair",
+          "v": "Explizit passabel (Savoie Mont Blanc)"
+        },
+        {
+          "k": "Hunde",
+          "v": "Akzeptiert"
+        },
+        {
+          "k": "Teilnehmeranschlüsse",
+          "v": "Galletti 6,5 km · Mandrin 23 km mit 450 m Aufstieg"
+        },
+        {
+          "k": "Kontakt",
+          "v": "Val Guiers Tourismusbüro · +33 4 76 31 63 16 (+33 4 79 36 00 02 per viarhona.com)"
+        }
+      ],
+      "schema_amenities": [
+        "Staudamm",
+        "Markierte Familienschleifen"
+      ],
+      "when_to_visit": "<p>„<strong>Ganzjährig</strong>', ohne saisonale Schließung angekündigt. Für einen kurzen Familienausflug bietet das Val Guiers Tourismusbüro die <strong>Galletti-Schleife</strong>, 'eine kleine, verspielte, Familienfahrradschleife von 6,5 km ab La Guinguette bei Champagneux'; die Monteure haben die Mandrin Schleife, 23 km mit 450 m Aufstieg.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "Start from the dam car park, right beside the river — by bike, on foot or with a pushchair.",
+          "tag": "For families",
+          "title": "The Rhône bank at the dam"
+        },
+        {
+          "description": "A small, playful family loop starting from La Guinguette.",
+          "tag": "6.5 km",
+          "title": "The Galletti loop"
+        }
+      ],
+      "body": {
+        "what_is": "<p>In the <strong>Avant-Pays savoyard</strong>, the <strong>ViaRhôna</strong> runs beside the river at the <strong>Champagneux dam</strong>. 'This stretch of the ViaRhôna is ideal for families! From the car park at the Champagneux dam, spend the day cycling right beside the Rhône.' On one side the villages of the Ain 'with their stepped roofs'; on the other, 'the cycle route climbs towards the village of Champagneux then La Balme'. And this line, rare in our sources: '<strong>Also to be discovered on foot or with a pushchair.</strong>'</p><p>The section belongs to official ViaRhôna stage 6, '<strong>Belley to Groslée via St-Genix-sur-Guiers</strong>', that is <strong>36 km in total — but straddling the Ain and Savoie</strong>: no official French page gives a figure for the Savoie portion alone, and we do not invent one. Across the whole stage, '28 km (79%)' are on cycle path and '8 km (21%)' on road. The Virignin footbridge 'lets you cross from the Ain to Savoie and back over the Rhône in complete safety'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": null,
+        "best_season": "All year",
+        "commune": "Champagneux",
+        "dogs": "Animals accepted",
+        "min_age": null,
+        "min_height": null,
+        "parking": "Car park at the Champagneux dam and at La Guinguette (price unpublished)",
+        "stroller": "Passable with a pushchair (official source)",
+        "type": "Cycle route",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "Yes, and Savoie Mont Blanc writes it in so many words: 'Also to be discovered on foot or with a pushchair.' It is the only greenway in our Savoie corpus for which an official French source states this.",
+          "q": "Is it pushchair-friendly?"
+        },
+        {
+          "a": "No official French page gives a figure, and we do not estimate one. The only published number is for the whole stage — 36 km from Belley to Groslée — which runs through both the Ain and Savoie.",
+          "q": "How long is the Savoie section?"
+        },
+        {
+          "a": "The official listing says 'Animals accepted'. Whether a lead is required is not specified.",
+          "q": "Can you bring a dog?"
+        },
+        {
+          "a": "At the Champagneux dam car park, the starting point recommended by the official listing, or at La Guinguette; you can also start from the Saint-Genix-sur-Guiers village hall. The price is not published.",
+          "q": "Where do you park?"
+        }
+      ],
+      "hero": {
+        "badge": "ViaRhôna · Avant-Pays savoyard",
+        "lead": "The bank of the Rhône by the Champagneux dam, on the one Savoie greenway an official source explicitly says can also be done 'with a pushchair'."
+      },
+      "hero_alt": "Cycle route along the Rhône in the Avant-Pays savoyard",
+      "how_to_get_there": {
+        "bike": "EuroVelo 17 / ViaRhôna, from Lake Geneva to the Mediterranean.",
+        "car": "Champagneux dam, 73240 Champagneux, in the Avant-Pays savoyard.",
+        "public_transport": "Saint-Genix-les-Villages – Pont-de-Beauvoisin station link, 11 km on shared road."
+      },
+      "meta_description": "ViaRhôna at the Champagneux dam: the Rhône bank for families, by bike, on foot or with a pushchair — the one Savoie greenway an official source confirms for pushchairs. Belley – Groslée stage, 36 km.",
+      "meta_title": "ViaRhôna at the Champagneux dam · Avant-Pays savoyard",
+      "name": "ViaRhôna at the Champagneux dam",
+      "name_alternates": [
+        "ViaRhôna Belley – Groslée stage"
+      ],
+      "practical_info": [
+        {
+          "k": "Stage",
+          "v": "ViaRhôna no. 6 'Belley to Groslée via St-Genix-sur-Guiers' · 36 km total, Ain and Savoie"
+        },
+        {
+          "k": "Savoie section",
+          "v": "Length not published by a French source — not estimated"
+        },
+        {
+          "k": "Cycle path",
+          "v": "79% of the stage on cycle path, 21% on road"
+        },
+        {
+          "k": "Pushchair",
+          "v": "Explicitly passable (Savoie Mont Blanc)"
+        },
+        {
+          "k": "Dogs",
+          "v": "Accepted"
+        },
+        {
+          "k": "Local loops",
+          "v": "Galletti 6.5 km · Mandrin 23 km with 450 m of ascent"
+        },
+        {
+          "k": "Contact",
+          "v": "Val Guiers tourist office · +33 4 76 31 63 16 (+33 4 79 36 00 02 per viarhona.com)"
+        }
+      ],
+      "schema_amenities": [
+        "Dam car park",
+        "Waymarked family loops"
+      ],
+      "when_to_visit": "<p>'<strong>All year round</strong>', with no seasonal closure announced. For a short family outing, the Val Guiers tourist office offers the <strong>Galletti loop</strong>, 'a small, playful, family bike loop of 6.5 km starting from La Guinguette at Champagneux'; the fitter have the Mandrin loop, 23 km with 450 m of ascent.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "Comienza desde el aparcamiento de la presa, justo al lado del río — en bicicleta, a pie o con silla de ruedas.",
+          "tag": "Para familias",
+          "title": "El banco Rhône en la presa"
+        },
+        {
+          "description": "Un pequeño y juguetono bucle familiar a partir de La Guinguette.",
+          "tag": "6,5 km",
+          "title": "El bucle Galletti"
+        }
+      ],
+      "body": {
+        "what_is": "<p>En el <strong>Avant-Pays savoyard</strong>, el <strong>ViaRhôna</strong> corre al lado del río <strong>Champagneux presa</strong>¡Este tramo de la ViaRhôna es ideal para familias! Desde el aparcamiento en la presa Champagneux, pasar el día ciclándose justo al lado de la Rhône.' De un lado las aldeas del Ain 'con sus techos escalonados'; en el otro, 'la ruta del ciclo escala hacia el pueblo de Champagneux y La Balme'. Y esta línea, rara en nuestras fuentes: '<strong>También para ser descubierto a pie o con un sillón.</strong>'</p><p>La sección pertenece a la etapa oficial ViaRhôna 6, '<strong>Belley a Groslée vía St-Genix-sur-Guiers</strong>', eso es <strong>36 km en total – pero atacando el Ain y Savoie</strong>: ninguna página oficial francesa da una figura para la porción Savoie sola, y no inventamos una. A lo largo de toda la etapa, '28 km (79%)' están en camino de ciclo y '8 km (21%)' en carretera. La pasarela Virignin le permite cruzar desde el Ain hasta Savoie y volver sobre el Rhône con total seguridad\".</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": null,
+        "best_season": "Todo el año",
+        "commune": "Champagneux",
+        "dogs": "Animales aceptados",
+        "min_age": null,
+        "min_height": null,
+        "parking": "Aparcamiento en la presa Champagneux y en La Guinguette (precio inédito)",
+        "stroller": "Pasable con un sillón (fuente oficial)",
+        "type": "Ruta del ciclo",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "Sí, y Savoie Mont Blanc lo escribe en tantas palabras: 'También para ser descubierto a pie o con un sillón.' Es la única vía verde en nuestro cuerpo Savoie para la cual una fuente francesa oficial lo declara.",
+          "q": "¿Es fácil para sillas?"
+        },
+        {
+          "a": "Ninguna página oficial francesa da una cifra, y no estimamos una. El único número publicado es para toda la etapa — 36 km de Belley a Groslée – que pasa por el Ain y Savoie.",
+          "q": "¿Cuánto dura la sección Savoie?"
+        },
+        {
+          "a": "El listado oficial dice \"Animales aceptados\". No se especifica si se requiere una pista.",
+          "q": "¿Puedes traer un perro?"
+        },
+        {
+          "a": "En el aparcamiento de la presa Champagneux, el punto de partida recomendado por el listado oficial, o en La Guinguette; también puede empezar desde el ayuntamiento de Saint-Genix-sur-Guiers. El precio no se publica.",
+          "q": "¿Dónde aparcas?"
+        }
+      ],
+      "hero": {
+        "badge": "ViaRhôna · Avant-Pays savoyard",
+        "lead": "El banco de la Rhône por la presa Champagneux, en la vía verde Savoie una fuente oficial explícitamente dice que también se puede hacer 'con una silla de empuje'."
+      },
+      "hero_alt": "Ruta del ciclo a lo largo de la Rhône en el Avant-Pays savoyard",
+      "how_to_get_there": {
+        "bike": "EuroVelo 17 / ViaRhôna, del lago de Ginebra al Mediterráneo.",
+        "car": "Champagneux dam, 73240 Champagneux, en el Avant-Pays savoyard.",
+        "public_transport": "Saint-Genix-les-Villages – Enlace de la estación Pont-de-Beauvoisin, 11 km en carretera compartida."
+      },
+      "meta_description": "ViaRhôna en la presa Champagneux: el banco Rhône para familias, en bicicleta, a pie o con un sillón el Savoie greenway una fuente oficial confirma para sillas de empuje. Belley – Etapa Groslée, 36 km.",
+      "meta_title": "ViaRhôna en la presa Champagneux · Avant-Pays savoyard",
+      "name": "ViaRhôna at the Champagneux dam",
+      "name_alternates": [
+        "ViaRhôna Belley – Groslée stage"
+      ],
+      "practical_info": [
+        {
+          "k": "Etapa",
+          "v": "ViaRhôna no. 6 'Belley a Groslée vía St-Genix-sur-Guiers' · 36 km total, Ain y Savoie"
+        },
+        {
+          "k": "Sección Savoie",
+          "v": "Duración no publicada por una fuente francesa — no estimados"
+        },
+        {
+          "k": "Camino del ciclo",
+          "v": "79% de la etapa en la ruta del ciclo, 21% en carretera"
+        },
+        {
+          "k": "Empujar silla",
+          "v": "Explicitly passable (Savoie Mont Blanc)"
+        },
+        {
+          "k": "Perros",
+          "v": "Aceptado"
+        },
+        {
+          "k": "Loops locales",
+          "v": "Galletti 6.5 km · Mandrin 23 km con 450 m de ascenso"
+        },
+        {
+          "k": "Contacto",
+          "v": "Val Guiers oficina de turismo · +33 4 76 31 63 16 (+33 4 79 36 00 02 per viarhona.com)"
+        }
+      ],
+      "schema_amenities": [
+        "Parque de autos",
+        "Bucles familiares marcados"
+      ],
+      "when_to_visit": "<p>'<strong>Todo el año</strong>', sin un cierre estacional anunciado. Para un corto paseo familiar, la oficina de turismo Val Guiers ofrece la <strong>Loop Galletti</strong>, 'un pequeño, juguetón, bucle de bicicleta familiar de 6,5 km a partir de La Guinguette en Champagneux'; el fitter tiene el bucle Mandrin, 23 km con 450 m de ascenso.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Départ du parking du barrage, au plus près du fleuve — à vélo, à pied ou en poussette.",
+          "tag": "En famille",
+          "title": "Le bord du Rhône au barrage"
+        },
+        {
+          "description": "Une petite boucle ludique et familiale au départ de La Guinguette.",
+          "tag": "6,5 km",
+          "title": "La boucle Galletti"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Dans l'<strong>Avant-Pays savoyard</strong>, la <strong>ViaRhôna</strong> longe le fleuve à hauteur du <strong>barrage de Champagneux</strong>. « Cette portion de la Viarhôna est idéale pour les familles ! À partir du parking situé au barrage de Champagneux, passez la journée à vélo au plus près du Rhône. » D'un côté les villages de l'Ain « avec leurs toits en escalier » ; de l'autre, « la véloroute remonte en direction du village de Champagneux puis de La Balme ». Et cette phrase, rare dans nos sources : « <strong>À découvrir également à pied ou avec la poussette.</strong> »</p><p>La section appartient à l'étape officielle n° 6 de la ViaRhôna, « <strong>Belley à Groslée par St-Genix-sur-Guiers</strong> », soit <strong>36 km au total — mais à cheval sur l'Ain et la Savoie</strong> : aucune page officielle française ne chiffre la seule portion savoyarde, et nous ne l'inventons pas. Sur l'étape entière, « 28 km (79 %) » sont en voie cyclable et « 8 km (21 %) » sur route. La passerelle de Virignin « permet de passer de l'Ain à la Savoie et vice-versa au-dessus du Rhône en toute sécurité ».</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": null,
+        "best_season": "Toute l'année",
+        "commune": "Champagneux",
+        "dogs": "Animaux acceptés",
+        "min_age": null,
+        "min_height": null,
+        "parking": "Parking au barrage de Champagneux et parking de La Guinguette (gratuité non publiée)",
+        "stroller": "Praticable avec une poussette (source officielle)",
+        "type": "Véloroute",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "Oui, et c'est écrit noir sur blanc par Savoie Mont Blanc : « À découvrir également à pied ou avec la poussette. » C'est la seule voie verte de notre corpus savoyard pour laquelle une source officielle française l'affirme.",
+          "q": "Est-ce accessible en poussette ?"
+        },
+        {
+          "a": "Aucune page officielle française ne la chiffre, et nous ne l'estimons pas. Le seul chiffre publié est celui de l'étape entière — 36 km de Belley à Groslée — qui court à la fois dans l'Ain et en Savoie.",
+          "q": "Quelle est la longueur en Savoie ?"
+        },
+        {
+          "a": "La fiche officielle indique « Animaux acceptés ». L'obligation de laisse n'y est pas précisée.",
+          "q": "Peut-on venir avec son chien ?"
+        },
+        {
+          "a": "Au parking du barrage de Champagneux, point de départ conseillé par la fiche officielle, ou au parking de La Guinguette ; le départ peut aussi se faire depuis la salle polyvalente de Saint-Genix-sur-Guiers. La gratuité n'est pas publiée.",
+          "q": "Où se gare-t-on ?"
+        }
+      ],
+      "hero": {
+        "badge": "ViaRhôna · Avant-Pays savoyard",
+        "lead": "Le bord du Rhône à hauteur du barrage de Champagneux, sur la seule voie verte de Savoie dont une source officielle dit explicitement qu'elle se fait aussi « avec la poussette »."
+      },
+      "hero_alt": "Véloroute le long du Rhône dans l'Avant-Pays savoyard",
+      "how_to_get_there": {
+        "bike": "EuroVelo 17 / ViaRhôna, du Léman à la Méditerranée.",
+        "car": "Barrage de Champagneux, 73240 Champagneux, dans l'Avant-Pays savoyard.",
+        "public_transport": "Liaison Saint-Genix-les-Villages – gare de Pont-de-Beauvoisin, 11 km sur voie partagée."
+      },
+      "meta_description": "ViaRhôna au barrage de Champagneux : le bord du Rhône en famille, à vélo, à pied ou en poussette — la seule voie verte savoyarde dont une source officielle affirme l'accès poussette. Étape Belley – Groslée, 36 km.",
+      "meta_title": "ViaRhôna au barrage de Champagneux · Avant-Pays savoyard",
+      "name": "ViaRhôna au barrage de Champagneux",
+      "name_alternates": [
+        "ViaRhôna étape Belley – Groslée"
+      ],
+      "practical_info": [
+        {
+          "k": "Étape",
+          "v": "ViaRhôna n° 6 « Belley à Groslée par St-Genix-sur-Guiers » · 36 km au total, Ain et Savoie"
+        },
+        {
+          "k": "Section savoyarde",
+          "v": "Longueur non publiée par une source française — non estimée"
+        },
+        {
+          "k": "Voie cyclable",
+          "v": "79 % de l'étape en voie cyclable, 21 % sur route"
+        },
+        {
+          "k": "Poussette",
+          "v": "Explicitement praticable (Savoie Mont Blanc)"
+        },
+        {
+          "k": "Chiens",
+          "v": "Acceptés"
+        },
+        {
+          "k": "Boucles locales",
+          "v": "Galletti 6,5 km · Mandrin 23 km et 450 m de dénivelé"
+        },
+        {
+          "k": "Contact",
+          "v": "OT Val Guiers · 04 76 31 63 16 (04 79 36 00 02 selon viarhona.com)"
+        }
+      ],
+      "schema_amenities": [
+        "Parking au barrage",
+        "Boucles familiales balisées"
+      ],
+      "when_to_visit": "<p>« <strong>Toute l'année</strong> », sans fermeture saisonnière annoncée. Pour une sortie courte en famille, l'office de tourisme du Val Guiers propose la <strong>boucle Galletti</strong>, « petite boucle vélo ludique et familiale de 6,5 km au départ de La Guinguette à Champagneux » ; les plus entraînés ont la boucle Mandrin, 23 km et 450 m de dénivelé.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Inizia dal parcheggio della diga, proprio accanto al fiume — in bicicletta, a piedi o con passeggino.",
+          "tag": "Per le famiglie",
+          "title": "La banca Rhône alla diga"
+        },
+        {
+          "description": "Un piccolo anello di famiglia giocoso a partire da La Guinguette.",
+          "tag": "6,5 km",
+          "title": "Il loop Galletti"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Nel <strong>Avant-Pays savoyard</strong># <strong>ViaRhôna</strong> corre lungo il fiume <strong>Champagneux dim</strong>. 'Questo tratto della ViaRhôna è ideale per le famiglie! Dal parcheggio della diga Champagneux, passare la giornata in bicicletta proprio accanto alla Rhône.' Da un lato i villaggi dell'Ain 'con i loro tetti a gradini'; sull'altro, 'la pista ciclabile sale verso il villaggio di Champagneux poi La Balme'. E questa linea, rara nelle nostre fonti: '<strong>Anche da scoprire a piedi o con un passeggino.</strong>'</p><p>La sezione appartiene alla fase ufficiale ViaRhôna 6, '<strong>Belley a Groslée tramite St-Genix-sur-Guiers</strong>', cioè <strong>36 km in totale — ma straddling Ain e Savoie</strong>: nessuna pagina ufficiale francese dà una figura per la parte Savoie da sola, e non ne inventiamo una. Attraverso tutta la fase, '28 km (79%)' sono su pista ciclabile e '8 km (21%)' su strada. La passerella Virignin permette di attraversare l'Ain fino a Savoie e di tornare sull'Rhône in tutta sicurezza.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": null,
+        "best_season": "Tutto l'anno",
+        "commune": "Champagneux",
+        "dogs": "Animali accettati",
+        "min_age": null,
+        "min_height": null,
+        "parking": "Parcheggio presso la diga Champagneux e a La Guinguette (prezzo inedito)",
+        "stroller": "Passabile con un passeggino (fonte ufficiale)",
+        "type": "Percorso ciclo",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "Sì, e Savoie Mont Blanc lo scrive in così tante parole: Anche per essere scoperto a piedi o con un passeggino. È l'unica via verde nel nostro corpus Savoie per cui una fonte ufficiale francese afferma questo.",
+          "q": "E' adatto alle passeggini?"
+        },
+        {
+          "a": "Nessuna pagina ufficiale francese dà una cifra, e non ne facciamo una stima. L'unico numero pubblicato è per l'intera fase — 36 km da Belley a Groslée — che attraversa sia Ain che Savoie.",
+          "q": "Quanto dura la sezione Savoie?"
+        },
+        {
+          "a": "La lista ufficiale dice 'Animals accettato'. Se un piombo è richiesto non è specificato.",
+          "q": "Puoi portare un cane?"
+        },
+        {
+          "a": "Al parcheggio della diga Champagneux, il punto di partenza consigliato dalla lista ufficiale, o a La Guinguette; si può anche iniziare dal municipio Saint-Genix-sur-Guiers. Il prezzo non è pubblicato.",
+          "q": "Dove parcheggi?"
+        }
+      ],
+      "hero": {
+        "badge": "ViaRhôna · Avant-Pays savoyard",
+        "lead": "La banca della diga Rhône della diga Champagneux, su un verde Savoie una fonte ufficiale dice esplicitamente può anche essere fatto 'con un passeggino'."
+      },
+      "hero_alt": "Percorso ciclo lungo la Rhône nella Avant-Pays savoyard",
+      "how_to_get_there": {
+        "bike": "EuroVelo 17 / ViaRhôna, dal Lago di Ginevra al Mediterraneo.",
+        "car": "Diga Champagneux, 73240 Champagneux, nel Avant-Pays savoyard.",
+        "public_transport": "Saint-Genix-les-Villages – collegamento della stazione Pont-de-Beauvoisin, 11 km su strada condivisa."
+      },
+      "meta_description": "ViaRhôna alla diga Champagneux: la banca Rhône per famiglie, in bicicletta, a piedi o con passeggino — una Savoie greenway una fonte ufficiale conferma per passeggini. Belley – Fase Groslée, 36 km.",
+      "meta_title": "ViaRhôna alla diga Champagneux · Avant-Pays savoyard",
+      "name": "ViaRhôna at the Champagneux dam",
+      "name_alternates": [
+        "ViaRhôna Belley – Groslée stage"
+      ],
+      "practical_info": [
+        {
+          "k": "Fase",
+          "v": "ViaRhôna no. 6 'Belley a Groslée via St-Genix-sur-Guiers' · 36 km totali, Ain e Savoie"
+        },
+        {
+          "k": "Sezione Savoie",
+          "v": "Lunghezza non pubblicata da una fonte francese — non stimato"
+        },
+        {
+          "k": "Percorso ciclo",
+          "v": "79% della tappa sulla pista ciclabile, 21% su strada"
+        },
+        {
+          "k": "Seggiolone",
+          "v": "Explicitly passable (Savoie Mont Blanc)"
+        },
+        {
+          "k": "Cani",
+          "v": "Accettato"
+        },
+        {
+          "k": "Cicli locali",
+          "v": "Galletti 6.5 km · Mandrin 23 km con 450 m di salita"
+        },
+        {
+          "k": "Contatto",
+          "v": "Ufficio turistico di Val Guiers · +33 4 76 31 63 16 (+33 4 79 36 00 02 per viarhona.com)"
+        }
+      ],
+      "schema_amenities": [
+        "Parcheggio privato",
+        "Appunti familiari segnalati"
+      ],
+      "when_to_visit": "<p>'<strong>Tutto l'anno</strong>', senza chiusura stagionale annunciato. Per una breve gita in famiglia, l'ufficio turistico Val Guiers offre <strong>Ciclo Galletti</strong>, 'un piccolo, giocoso, ciclo di bici di famiglia di 6,5 km a partire da La Guinguette a Champagneux'; il fitter hanno il loop Mandrin, 23 km con 450 m di salita.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Start vanaf de parkeerplaats, direct naast de rivier. per fiets, te voet of met een kinderwagen.",
+          "tag": "voor gezinnen",
+          "title": "De Rhône bank bij de dam"
+        },
+        {
+          "description": "Een kleine, speelse familielus vanaf La Guinguette.",
+          "tag": "6,5 km",
+          "title": "De Galletti-lus"
+        }
+      ],
+      "body": {
+        "what_is": "<p>In de <strong>Avant-Pays savoyard</strong>, de <strong>ViaRhôna</strong> loopt langs de rivier bij de <strong>Champagneux-dam</strong>'Dit stuk ViaRhôna is ideaal voor gezinnen! Vanaf de parkeerplaats bij de Champagneux dam, fiets de dag naast de Rhône.' Aan de ene kant de dorpen van de Ain 'met hun trapdaken'; Aan de andere kant klimt de fietsroute naar het dorp Champagneux dan La Balme. En deze lijn, zeldzaam in onze bronnen: '<strong>Ook te voet of met een kinderwagen te ontdekken.</strong>'</p><p>De sectie behoort tot de officiële ViaRhôna fase 6, \"<strong>Belley naar Groslée via St-Genix-sur-Guiers</strong>', dat is <strong>36 km in totaal maar met de Ain en Savoie</strong>: geen enkele officiële Franse pagina geeft een cijfer voor het Savoie-gedeelte alleen, en we vinden er geen uit. Tijdens de hele etappe ligt '28 km (79%)' op fietspad en '8 km (21%)' op de weg. De Virignin voetbrug 'laat je in volledige veiligheid over de Ain naar Savoie en terug over de Rhône'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": null,
+        "best_season": "Het hele jaar",
+        "commune": "Champagneux",
+        "dogs": "Geaccepteerde dieren",
+        "min_age": null,
+        "min_height": null,
+        "parking": "Parkeren bij de Champagneux dam en bij La Guinguette (prijs niet gepubliceerd)",
+        "stroller": "Geschikt met een kinderwagen (officiële bron)",
+        "type": "Fietsroute",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "Ja, en Savoie Mont Blanc schrijft het in zoveel woorden: Ook te voet of met een kinderwagen ontdekt te worden. Het is de enige groene weg in ons Savoie corpus waarvoor een officiële Franse bron dit zegt.",
+          "q": "Is het kinderwagenvriendelijk?"
+        },
+        {
+          "a": "Geen officiële Franse pagina geeft een cijfer, en we schatten er geen. Het enige gepubliceerde nummer is voor de hele fase . 36 km van Belley tot Groslée die door zowel de Ain als Savoie loopt.",
+          "q": "Hoe lang is de Savoie sectie?"
+        },
+        {
+          "a": "Op de officiële lijst staat 'Dieren aanvaard'. Of een aanwijzing vereist is, is niet opgegeven.",
+          "q": "Kun je een hond meenemen?"
+        },
+        {
+          "a": "Op de Champagneux-damparkeerplaats, het startpunt aanbevolen door de officiële lijst, of op La Guinguette; U kunt ook starten vanaf het dorpshuis Saint-Genix-sur-Guiers. De prijs wordt niet gepubliceerd.",
+          "q": "Waar parkeer je?"
+        }
+      ],
+      "hero": {
+        "badge": "ViaRhôna · Avant-Pays savoyard",
+        "lead": "De bank van de Rhône door de Champagneux dam, op de ene Savoie greenway een officiële bron expliciet zegt kan ook worden gedaan 'met een kinderwagen'."
+      },
+      "hero_alt": "Fietsroute langs de Rhône in de Avant-Pays savoyard",
+      "how_to_get_there": {
+        "bike": "EuroVelo 17 / ViaRhôna, van het Meer van Genève tot de Middellandse Zee.",
+        "car": "Champagneux dam, 73240 Champagneux, in de Avant-Pays savoyard.",
+        "public_transport": "Saint-Genix-les-Villages Pont-de-Beauvoisin station verbinding, 11 km op gedeelde weg."
+      },
+      "meta_description": "ViaRhôna op de Champagneux dam: de Rhône bank voor gezinnen, met de fiets, te voet of met een kinderwagen de ene Savoie greenway een officiële bron bevestigt voor kinderwagens. Belley Groslée etappe, 36 km.",
+      "meta_title": "ViaRhôna op de Champagneux dam · Avant-Pays savoyard",
+      "name": "ViaRhôna at the Champagneux dam",
+      "name_alternates": [
+        "ViaRhôna Belley – Groslée stage"
+      ],
+      "practical_info": [
+        {
+          "k": "Fase",
+          "v": "ViaRhôna nee. 6 'Belley tot Groslée via St-Genix-sur-Guiers' · 36 km totaal, Ain en Savoie"
+        },
+        {
+          "k": "Savoie-sectie",
+          "v": "Lengte niet gepubliceerd door een Franse bron niet geschat"
+        },
+        {
+          "k": "Fietspad",
+          "v": "79% van de etappe op fietspad, 21% op weg"
+        },
+        {
+          "k": "Duwstoel",
+          "v": "Expliciet begaanbaar (Savoie Mont Blanc)"
+        },
+        {
+          "k": "Honden",
+          "v": "Goedgekeurd"
+        },
+        {
+          "k": "Lokale loops",
+          "v": "Galletti 6,5 km · Mandrin 23 km met 450 m stijging"
+        },
+        {
+          "k": "Contactpersoon",
+          "v": "Val Guiers VVV · +33 4 76 31 63 16 (+33 4 79 36 00 02 per viarhona.com)"
+        }
+      ],
+      "schema_amenities": [
+        "Parkeerplaats Dam",
+        "Waymarked familielussen"
+      ],
+      "when_to_visit": "<p>'<strong>Het hele jaar door</strong>', zonder seizoenssluiting aangekondigd. Voor een kort familieuitje biedt het Val Guiers VVV <strong>Galletti-lus</strong>, \"een kleine, speelse, familie fietslus van 6,5 km vanaf La Guinguette bij Champagneux\"; de fitter heeft de Mandrin loop, 23 km met 450 m klim.</p>"
+    }
+  },
+  "latitude": 45.634687,
+  "longitude": 5.655642,
+  "official_site_url": "https://www.savoie-mont-blanc.com/itineraires-velo/la-viarhona-une-veloroute-a-decouvrir-en-famille-111411/",
+  "partners": [],
+  "postal_code": "73240",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-20, pages FR officielles uniquement (Savoie Mont Blanc, ViaRhôna officiel, OT Val Guiers). Section de l'Avant-Pays savoyard, DISTINCTE de la ViaRhôna en Chautagne (Chanaz) déjà publiée — étape officielle n° 6/25 « Belley à Groslée par St-Genix-sur-Guiers ». OUVERTE, « Périodes de pratiques : Toute l'année », fiche mise à jour le 27/03/2024 par la CC Val Guiers. LONGUEUR DE LA SECTION SAVOYARDE : aucune page FRANÇAISE ne la chiffre. Le « 18 km » (La Balme – Saint-Genix) n'existe que sur la version ANGLAISE de savoie-mont-blanc.com : ÉCARTÉ (règle pages FR uniquement). Seul chiffre publiable : 36 km pour l'étape entière Belley → Groslée, qui n'est pas entièrement en Savoie — dit comme tel. Étape entière : « 8km (21%) Sur route / 28km (79%) Voie cyclable », « Revêtement : 25km (70%) Lisse / 11km (30%) Inconnu ». POUSSETTE : seule des routes étudiées où une source officielle FR l'affirme — « À découvrir également à pied ou avec la poussette. » CHIENS : « Animaux acceptés » (obligation de laisse non précisée). PMR : aucune source → null (la mention poussette ne vaut pas accessibilité PMR). CONTRADICTION COORDONNÉES : la fiche Savoie Mont Blanc publie elle-même « Latitude : 45.634687 - Longitude : 5.655642 » pour le départ au barrage, tandis que le géocodage IGN de « barrage de Champagneux » renvoie 45.625628 / 5.651726 avec un score faible (0,492), à ~1 km. Les coordonnées publiées par le gestionnaire pour son propre point de départ sont retenues ; l'écart est signalé. CONTRADICTION TÉLÉPHONE OT Val Guiers : 04 76 31 63 16 (tourisme.ccvalguiers.fr) vs +33 (0)4 79 36 00 02 (viarhona.com) — les deux citées.",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "viarhona-barrage-de-champagneux",
+  "sources": [
+    "https://www.savoie-mont-blanc.com/itineraires-velo/la-viarhona-une-veloroute-a-decouvrir-en-famille-111411/",
+    "https://www.viarhona.com/itineraire/belley-a-groslee-par-st-genix-sur-guiers",
+    "https://tourisme.ccvalguiers.fr/viarhona/"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published for this site; kept null rather than inferred.",
+    "LONGUEUR DE LA SECTION SAVOYARDE — aucune page officielle française ne la chiffre. Le « 18 km » circulant pour La Balme – Saint-Genix ne figure que sur la version anglaise de savoie-mont-blanc.com et a été écarté (règle : pages FR officielles uniquement). Seul le chiffre de l'étape entière (36 km, à cheval sur l'Ain et la Savoie) est publié, et présenté comme tel.",
+    "REVÊTEMENT — les pourcentages disponibles (70 % « Lisse », 30 % « Inconnu ») valent pour l'étape entière, pas pour la section savoyarde ; aucun terme « enrobé » ou « stabilisé » officiel.",
+    "COORDONNÉES — écart d'environ 1 km entre les coordonnées publiées par Savoie Mont Blanc pour le départ au barrage (retenues) et le géocodage IGN de « barrage de Champagneux » (score faible, 0,492). Signalé, non arbitré sur le terrain.",
+    "TÉLÉPHONE — deux numéros officiels pour l'OT Val Guiers : 04 76 31 63 16 (site de l'office) et 04 79 36 00 02 (viarhona.com). Les deux sont cités.",
+    "TARIF — aucune mention tarifaire officielle, ni « accès libre » ni parking payant ; non renseigné.",
+    "ACCES_PMR — aucune source officielle ; la mention « avec la poussette » ne vaut pas accessibilité PMR. Statut null.",
+    "CHIENS — « Animaux acceptés » sans précision sur l'obligation de laisse."
+  ]
+}

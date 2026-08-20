@@ -1,0 +1,24 @@
+{
+  "name": "Parc d'Aventure des Géants",
+  "commune": "Aillon-le-Jeune",
+  "gps": {
+    "lat": 45.608154,
+    "lng": 6.102035
+  },
+  "type": "domaine",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": false,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": "Parking gratuit",
+  "transport": null,
+  "season": "4 juillet – 30 août 2026 (week-ends dès mai selon l'exploitant)",
+  "winter": null,
+  "official_url": "https://www.aillons-margeriaz.com/station/parc-geants",
+  "last_verified": null
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Voie verte de la Leysse et des Planeurs",
+  "commune": "Chambéry",
+  "gps": {
+    "lat": 45.567459,
+    "lng": 5.9318
+  },
+  "type": "voie-verte",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": "Parking et parking à vélo (emplacement et gratuité non publiés)",
+  "transport": null,
+  "season": "Toute l'année",
+  "winter": {
+    "access": null,
+    "infrastructure": [],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
+  "official_url": "https://www.chamberymontagnes.com/que-faire/activites-pleine-nature/chambery-a-velo-challes-les-eaux-chambery-fr-5783851/",
+  "last_verified": null
+}

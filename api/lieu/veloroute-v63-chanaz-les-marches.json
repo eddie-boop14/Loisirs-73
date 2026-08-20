@@ -1,0 +1,31 @@
+{
+  "name": "Véloroute V63 en Savoie – de Chanaz aux Marches",
+  "commune": "Chanaz",
+  "gps": {
+    "lat": 45.808677,
+    "lng": 5.790929
+  },
+  "type": "voie-verte",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": "Parking (emplacement et gratuité non publiés) ; départ place Antoine Gianetto à Chanaz",
+  "transport": null,
+  "season": "Toute l'année selon la fiche V63 ; du 15 mars au 15 novembre selon les fiches d'étape",
+  "winter": {
+    "access": null,
+    "infrastructure": [],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
+  "official_url": "https://www.savoie-mont-blanc.com/itineraires-velo/veloroute-v63-en-savoie-de-chanaz-aux-marches-105677/",
+  "last_verified": null
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Voie verte Moûtiers – Aigueblanche",
+  "commune": "Moûtiers",
+  "gps": {
+    "lat": 45.484616,
+    "lng": 6.530912
+  },
+  "type": "voie-verte",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": "Parking à proximité (emplacement et gratuité non publiés)",
+  "transport": null,
+  "season": "1er mai – 31 octobre",
+  "winter": {
+    "access": null,
+    "infrastructure": [],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
+  "official_url": "https://www.coeurdetarentaise-tourisme.com/fiches/voie-verte-moutiers-aigueblanche/",
+  "last_verified": null
+}

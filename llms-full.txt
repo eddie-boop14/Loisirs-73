@@ -1,9 +1,9 @@
 # Loisirs 73 — Full content dump
 
 Generated: 2026-08-20
-Total lieux: 133
+Total lieux: 141
 
-This file concatenates the FR facet markdown of all 133 leisure sites in Savoie. Each section is a standalone markdown document with YAML frontmatter and the fixed facet heading canon. Sections are separated by `===` rulers.
+This file concatenates the FR facet markdown of all 141 leisure sites in Savoie. Each section is a standalone markdown document with YAML frontmatter and the fixed facet heading canon. Sections are separated by `===` rulers.
 
 For programmatic access, fetch individual files at https://loisirs73.fr/content/{slug}.md (FR), https://loisirs73.fr/content/en/{slug}.md (EN), or https://loisirs73.fr/api/lieu/{slug}.json (typed JSON).
 
@@ -79,6 +79,74 @@ Saison publiée
 ## Source officielle
 
 https://hautecombe.chemin-neuf.fr/visite-audioguidee/
+
+================================================================================
+
+---
+slug: accrolac-aiguebelette
+name: "Accro'lac"
+category: domaine
+category_label: "Base de loisirs"
+commune: "Saint-Alban-de-Montbel"
+postal_code: "73610"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.553175
+longitude: 5.791196
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/accrolac-aiguebelette
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/accrolac-aiguebelette.json
+photo_url: /img/generique/generique-tyrolienne-ciel.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-18
+source: loisirs73.fr
+---
+
+# Accro'lac
+
+## Faits
+
+- Commune: Saint-Alban-de-Montbel, Savoie (73610)
+- GPS: 45.553175, 5.791196
+- Catégorie: domaine
+- Type: Parc aventure
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Non renseigné
+
+## Accès (PMR)
+
+- Statut: Partiellement accessible
+- Détail: « Accueil des personnes en situation de handicap · Prestations adaptées pour déficience auditive · Prestations adaptées pour déficience mentale » — aucune prestation adaptée au handicap moteur n'est listée.
+- Source: Office de Tourisme Lac d'Aiguebelette — https://www.lac-aiguebelette.com/parcours-dans-les-arbres/accrolac-7616025/
+
+## Parking
+
+Parkings gratuits (base de loisirs du Sougey)
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Avril – fin octobre
+
+## Source officielle
+
+https://accrolac-aiguebelette.com/
 
 ================================================================================
 
@@ -5230,6 +5298,72 @@ https://www.valloire.net/activite/la-foret-de-lenfer-parc-accrobranche-valloire/
 ================================================================================
 
 ---
+slug: parc-d-aventure-des-geants-aillons-margeriaz
+name: "Parc d'Aventure des Géants"
+category: domaine
+category_label: "Base de loisirs"
+commune: "Aillon-le-Jeune"
+postal_code: "73340"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.608154
+longitude: 6.102035
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/parc-d-aventure-des-geants-aillons-margeriaz
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/parc-d-aventure-des-geants-aillons-margeriaz.json
+photo_url: /img/generique/generique-accrobranche-5.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-18
+source: loisirs73.fr
+---
+
+# Parc d'Aventure des Géants
+
+## Faits
+
+- Commune: Aillon-le-Jeune, Savoie (73340)
+- GPS: 45.608154, 6.102035
+- Catégorie: domaine
+- Type: Parc aventure
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Non renseigné
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Parking gratuit
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+4 juillet – 30 août 2026 (week-ends dès mai selon l'exploitant)
+
+## Source officielle
+
+https://www.aillons-margeriaz.com/station/parc-geants
+
+================================================================================
+
+---
 slug: parcobranche-du-diable-avrieux
 name: "Parcobranche du Diable"
 category: domaine
@@ -9022,6 +9156,214 @@ https://tourisme.coeurdesavoie.fr/bouger/activites-de-pleine-nature/velo/la-bell
 ================================================================================
 
 ---
+slug: veloroute-v63-chanaz-les-marches
+name: "Véloroute V63 en Savoie – de Chanaz aux Marches"
+category: voie-verte
+category_label: "Voie verte"
+commune: "Chanaz"
+postal_code: "73310"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.808677
+longitude: 5.790929
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/veloroute-v63-chanaz-les-marches
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/veloroute-v63-chanaz-les-marches.json
+photo_url: /img/generique/generique-voie-verte-cyclistes-lac.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-18
+source: loisirs73.fr
+---
+
+# Véloroute V63 en Savoie – de Chanaz aux Marches
+
+## Faits
+
+- Commune: Chanaz, Savoie (73310)
+- GPS: 45.808677, 5.790929
+- Catégorie: voie-verte
+- Type: Véloroute
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Parking (emplacement et gratuité non publiés) ; départ place Antoine Gianetto à Chanaz
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Toute l'année selon la fiche V63 ; du 15 mars au 15 novembre selon les fiches d'étape
+- Fenêtre d'accès hiver: Non renseigné
+- Infrastructure hiver: Non renseigné
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
+
+## Source officielle
+
+https://www.savoie-mont-blanc.com/itineraires-velo/veloroute-v63-en-savoie-de-chanaz-aux-marches-105677/
+
+================================================================================
+
+---
+slug: via-ferrata-de-la-roche-veyrand
+name: "Via ferrata de la Roche Veyrand"
+category: domaine
+category_label: "Base de loisirs"
+commune: "Saint-Pierre-d'Entremont"
+postal_code: "73670"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.417615
+longitude: 5.855172
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/via-ferrata-de-la-roche-veyrand
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/via-ferrata-de-la-roche-veyrand.json
+photo_url: /img/generique/generique-via-ferrata-arete.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-18
+source: loisirs73.fr
+---
+
+# Via ferrata de la Roche Veyrand
+
+## Faits
+
+- Commune: Saint-Pierre-d'Entremont, Savoie (73670)
+- GPS: 45.417615, 5.855172
+- Catégorie: domaine
+- Type: Via ferrata
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+- Statut: Non accessible
+- Détail: « Non accessible en fauteuil roulant » (rubrique Accessibilité de la fiche officielle).
+- Source: Office de Tourisme Cœur de Chartreuse — https://www.chartreuse-tourisme.com/offres/via-ferrata-roche-veyrand-saint-pierre-dentremont-fr-2777366/
+
+## Parking
+
+Parking de l'école, au village (gratuité non publiée) ; stationnement interdit dans la rue du lotissement « Le Pré du Comte »
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Toute l'année, hors orages, fortes pluies, neige, gel et dégel
+
+## Source officielle
+
+https://saintpierredentremont.org/savoie/via-ferrata-de-la-roche-veyrand/
+
+================================================================================
+
+---
+slug: viarhona-barrage-de-champagneux
+name: "ViaRhôna au barrage de Champagneux"
+category: voie-verte
+category_label: "Voie verte"
+commune: "Champagneux"
+postal_code: "73240"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.634687
+longitude: 5.655642
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/viarhona-barrage-de-champagneux
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/viarhona-barrage-de-champagneux.json
+photo_url: /img/generique/generique-voie-verte-famille-kids.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-18
+source: loisirs73.fr
+---
+
+# ViaRhôna au barrage de Champagneux
+
+## Faits
+
+- Commune: Champagneux, Savoie (73240)
+- GPS: 45.634687, 5.655642
+- Catégorie: voie-verte
+- Type: Véloroute
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Parking au barrage de Champagneux et parking de La Guinguette (gratuité non publiée)
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Toute l'année
+- Fenêtre d'accès hiver: Non renseigné
+- Infrastructure hiver: Non renseigné
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
+
+## Source officielle
+
+https://www.savoie-mont-blanc.com/itineraires-velo/la-viarhona-une-veloroute-a-decouvrir-en-famille-111411/
+
+================================================================================
+
+---
 slug: viarhona-en-chautagne
 name: "ViaRhôna en Chautagne (EV17)"
 category: voie-verte
@@ -9088,6 +9430,76 @@ Non renseigné
 ## Source officielle
 
 https://www.viarhona.com/
+
+================================================================================
+
+---
+slug: voie-verte-de-la-leysse-et-des-planeurs
+name: "Voie verte de la Leysse et des Planeurs"
+category: voie-verte
+category_label: "Voie verte"
+commune: "Chambéry"
+postal_code: "73000"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.567459
+longitude: 5.9318
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/voie-verte-de-la-leysse-et-des-planeurs
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/voie-verte-de-la-leysse-et-des-planeurs.json
+photo_url: /img/generique/generique-voie-verte-urbaine.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-18
+source: loisirs73.fr
+---
+
+# Voie verte de la Leysse et des Planeurs
+
+## Faits
+
+- Commune: Chambéry, Savoie (73000)
+- GPS: 45.567459, 5.9318
+- Catégorie: voie-verte
+- Type: Voie verte
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Parking et parking à vélo (emplacement et gratuité non publiés)
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Toute l'année
+- Fenêtre d'accès hiver: Non renseigné
+- Infrastructure hiver: Non renseigné
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
+
+## Source officielle
+
+https://www.chamberymontagnes.com/que-faire/activites-pleine-nature/chambery-a-velo-challes-les-eaux-chambery-fr-5783851/
 
 ================================================================================
 
@@ -9228,3 +9640,139 @@ Non renseigné
 ## Source officielle
 
 https://www.af3v.org/les-voies-vertes/voies/156-v63-de-chanaz-a-chambery/
+
+================================================================================
+
+---
+slug: voie-verte-moutiers-aigueblanche
+name: "Voie verte Moûtiers – Aigueblanche"
+category: voie-verte
+category_label: "Voie verte"
+commune: "Moûtiers"
+postal_code: "73600"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.484616
+longitude: 6.530912
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/voie-verte-moutiers-aigueblanche
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/voie-verte-moutiers-aigueblanche.json
+photo_url: /img/generique/generique-voie-verte-cyclistes-riviere.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-18
+source: loisirs73.fr
+---
+
+# Voie verte Moûtiers – Aigueblanche
+
+## Faits
+
+- Commune: Moûtiers, Savoie (73600)
+- GPS: 45.484616, 6.530912
+- Catégorie: voie-verte
+- Type: Voie verte
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Parking à proximité (emplacement et gratuité non publiés)
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+1er mai – 31 octobre
+- Fenêtre d'accès hiver: Non renseigné
+- Infrastructure hiver: Non renseigné
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
+
+## Source officielle
+
+https://www.coeurdetarentaise-tourisme.com/fiches/voie-verte-moutiers-aigueblanche/
+
+================================================================================
+
+---
+slug: wam-park-savoie-montailleur
+name: "WAM PARK Savoie – Montailleur"
+category: domaine
+category_label: "Base de loisirs"
+commune: "Montailleur"
+postal_code: "73460"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.606446
+longitude: 6.281934
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/wam-park-savoie-montailleur
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/wam-park-savoie-montailleur.json
+photo_url: /img/generique/generique-wakeboard.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-18
+source: loisirs73.fr
+---
+
+# WAM PARK Savoie – Montailleur
+
+## Faits
+
+- Commune: Montailleur, Savoie (73460)
+- GPS: 45.606446, 6.281934
+- Catégorie: domaine
+- Type: Base de loisirs nautiques
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Non renseigné
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Parking gratuit, plus de 150 places
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+25 avril – 11 octobre 2026
+
+## Source officielle
+
+https://www.wampark.fr/base/savoie-montailleur/

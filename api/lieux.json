@@ -1,5 +1,5 @@
 {
-  "count": 133,
+  "count": 141,
   "lieux": [
     {
       "slug": "abbaye-royale-d-hautecombe",
@@ -21,6 +21,27 @@
       "facet_md_en": "https://loisirs73.fr/content/en/abbaye-royale-d-hautecombe.md",
       "facet_json": "https://loisirs73.fr/api/lieu/abbaye-royale-d-hautecombe.json",
       "photo": "/img/generique/generique-chateau-toiture.jpg"
+    },
+    {
+      "slug": "accrolac-aiguebelette",
+      "name": "Accro'lac",
+      "category": "domaine",
+      "commune": "Saint-Alban-de-Montbel",
+      "postal_code": "73610",
+      "latitude": 45.553175,
+      "longitude": 5.791196,
+      "urls": {
+        "fr": "https://loisirs73.fr/accrolac-aiguebelette",
+        "en": "https://loisirs73.fr/en/accrolac-aiguebelette",
+        "de": "https://loisirs73.fr/de/accrolac-aiguebelette",
+        "it": "https://loisirs73.fr/it/accrolac-aiguebelette",
+        "es": "https://loisirs73.fr/es/accrolac-aiguebelette",
+        "nl": "https://loisirs73.fr/nl/accrolac-aiguebelette"
+      },
+      "facet_md": "https://loisirs73.fr/content/accrolac-aiguebelette.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/accrolac-aiguebelette.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/accrolac-aiguebelette.json",
+      "photo": "/img/generique/generique-tyrolienne-ciel.jpg"
     },
     {
       "slug": "avenue-verte-de-tarentaise",
@@ -1598,6 +1619,27 @@
       "photo": "/img/generique/generique-accrobranche-7.jpg"
     },
     {
+      "slug": "parc-d-aventure-des-geants-aillons-margeriaz",
+      "name": "Parc d'Aventure des Géants",
+      "category": "domaine",
+      "commune": "Aillon-le-Jeune",
+      "postal_code": "73340",
+      "latitude": 45.608154,
+      "longitude": 6.102035,
+      "urls": {
+        "fr": "https://loisirs73.fr/parc-d-aventure-des-geants-aillons-margeriaz",
+        "en": "https://loisirs73.fr/en/parc-d-aventure-des-geants-aillons-margeriaz",
+        "de": "https://loisirs73.fr/de/parc-d-aventure-des-geants-aillons-margeriaz",
+        "it": "https://loisirs73.fr/it/parc-d-aventure-des-geants-aillons-margeriaz",
+        "es": "https://loisirs73.fr/es/parc-d-aventure-des-geants-aillons-margeriaz",
+        "nl": "https://loisirs73.fr/nl/parc-d-aventure-des-geants-aillons-margeriaz"
+      },
+      "facet_md": "https://loisirs73.fr/content/parc-d-aventure-des-geants-aillons-margeriaz.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/parc-d-aventure-des-geants-aillons-margeriaz.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/parc-d-aventure-des-geants-aillons-margeriaz.json",
+      "photo": "/img/generique/generique-accrobranche-5.jpg"
+    },
+    {
       "slug": "parcobranche-du-diable-avrieux",
       "name": "Parcobranche du Diable",
       "category": "domaine",
@@ -2732,6 +2774,69 @@
       "photo": "/img/generique/generique-voie-verte-cyclistes-riviere.jpg"
     },
     {
+      "slug": "veloroute-v63-chanaz-les-marches",
+      "name": "Véloroute V63 en Savoie – de Chanaz aux Marches",
+      "category": "voie-verte",
+      "commune": "Chanaz",
+      "postal_code": "73310",
+      "latitude": 45.808677,
+      "longitude": 5.790929,
+      "urls": {
+        "fr": "https://loisirs73.fr/veloroute-v63-chanaz-les-marches",
+        "en": "https://loisirs73.fr/en/veloroute-v63-chanaz-les-marches",
+        "de": "https://loisirs73.fr/de/veloroute-v63-chanaz-les-marches",
+        "it": "https://loisirs73.fr/it/veloroute-v63-chanaz-les-marches",
+        "es": "https://loisirs73.fr/es/veloroute-v63-chanaz-les-marches",
+        "nl": "https://loisirs73.fr/nl/veloroute-v63-chanaz-les-marches"
+      },
+      "facet_md": "https://loisirs73.fr/content/veloroute-v63-chanaz-les-marches.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/veloroute-v63-chanaz-les-marches.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/veloroute-v63-chanaz-les-marches.json",
+      "photo": "/img/generique/generique-voie-verte-cyclistes-lac.jpg"
+    },
+    {
+      "slug": "via-ferrata-de-la-roche-veyrand",
+      "name": "Via ferrata de la Roche Veyrand",
+      "category": "domaine",
+      "commune": "Saint-Pierre-d'Entremont",
+      "postal_code": "73670",
+      "latitude": 45.417615,
+      "longitude": 5.855172,
+      "urls": {
+        "fr": "https://loisirs73.fr/via-ferrata-de-la-roche-veyrand",
+        "en": "https://loisirs73.fr/en/via-ferrata-de-la-roche-veyrand",
+        "de": "https://loisirs73.fr/de/via-ferrata-de-la-roche-veyrand",
+        "it": "https://loisirs73.fr/it/via-ferrata-de-la-roche-veyrand",
+        "es": "https://loisirs73.fr/es/via-ferrata-de-la-roche-veyrand",
+        "nl": "https://loisirs73.fr/nl/via-ferrata-de-la-roche-veyrand"
+      },
+      "facet_md": "https://loisirs73.fr/content/via-ferrata-de-la-roche-veyrand.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/via-ferrata-de-la-roche-veyrand.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/via-ferrata-de-la-roche-veyrand.json",
+      "photo": "/img/generique/generique-via-ferrata-arete.jpg"
+    },
+    {
+      "slug": "viarhona-barrage-de-champagneux",
+      "name": "ViaRhôna au barrage de Champagneux",
+      "category": "voie-verte",
+      "commune": "Champagneux",
+      "postal_code": "73240",
+      "latitude": 45.634687,
+      "longitude": 5.655642,
+      "urls": {
+        "fr": "https://loisirs73.fr/viarhona-barrage-de-champagneux",
+        "en": "https://loisirs73.fr/en/viarhona-barrage-de-champagneux",
+        "de": "https://loisirs73.fr/de/viarhona-barrage-de-champagneux",
+        "it": "https://loisirs73.fr/it/viarhona-barrage-de-champagneux",
+        "es": "https://loisirs73.fr/es/viarhona-barrage-de-champagneux",
+        "nl": "https://loisirs73.fr/nl/viarhona-barrage-de-champagneux"
+      },
+      "facet_md": "https://loisirs73.fr/content/viarhona-barrage-de-champagneux.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/viarhona-barrage-de-champagneux.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/viarhona-barrage-de-champagneux.json",
+      "photo": "/img/generique/generique-voie-verte-famille-kids.jpg"
+    },
+    {
       "slug": "viarhona-en-chautagne",
       "name": "ViaRhôna en Chautagne (EV17)",
       "category": "voie-verte",
@@ -2751,6 +2856,27 @@
       "facet_md_en": "https://loisirs73.fr/content/en/viarhona-en-chautagne.md",
       "facet_json": "https://loisirs73.fr/api/lieu/viarhona-en-chautagne.json",
       "photo": "/img/generique/generique-voie-verte-foret.jpg"
+    },
+    {
+      "slug": "voie-verte-de-la-leysse-et-des-planeurs",
+      "name": "Voie verte de la Leysse et des Planeurs",
+      "category": "voie-verte",
+      "commune": "Chambéry",
+      "postal_code": "73000",
+      "latitude": 45.567459,
+      "longitude": 5.9318,
+      "urls": {
+        "fr": "https://loisirs73.fr/voie-verte-de-la-leysse-et-des-planeurs",
+        "en": "https://loisirs73.fr/en/voie-verte-de-la-leysse-et-des-planeurs",
+        "de": "https://loisirs73.fr/de/voie-verte-de-la-leysse-et-des-planeurs",
+        "it": "https://loisirs73.fr/it/voie-verte-de-la-leysse-et-des-planeurs",
+        "es": "https://loisirs73.fr/es/voie-verte-de-la-leysse-et-des-planeurs",
+        "nl": "https://loisirs73.fr/nl/voie-verte-de-la-leysse-et-des-planeurs"
+      },
+      "facet_md": "https://loisirs73.fr/content/voie-verte-de-la-leysse-et-des-planeurs.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/voie-verte-de-la-leysse-et-des-planeurs.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/voie-verte-de-la-leysse-et-des-planeurs.json",
+      "photo": "/img/generique/generique-voie-verte-urbaine.jpg"
     },
     {
       "slug": "voie-verte-du-lac-d-aiguebelette",
@@ -2793,6 +2919,48 @@
       "facet_md_en": "https://loisirs73.fr/content/en/voie-verte-du-lac-du-bourget.md",
       "facet_json": "https://loisirs73.fr/api/lieu/voie-verte-du-lac-du-bourget.json",
       "photo": "/img/generique/generique-voie-verte-cyclistes-lac.jpg"
+    },
+    {
+      "slug": "voie-verte-moutiers-aigueblanche",
+      "name": "Voie verte Moûtiers – Aigueblanche",
+      "category": "voie-verte",
+      "commune": "Moûtiers",
+      "postal_code": "73600",
+      "latitude": 45.484616,
+      "longitude": 6.530912,
+      "urls": {
+        "fr": "https://loisirs73.fr/voie-verte-moutiers-aigueblanche",
+        "en": "https://loisirs73.fr/en/voie-verte-moutiers-aigueblanche",
+        "de": "https://loisirs73.fr/de/voie-verte-moutiers-aigueblanche",
+        "it": "https://loisirs73.fr/it/voie-verte-moutiers-aigueblanche",
+        "es": "https://loisirs73.fr/es/voie-verte-moutiers-aigueblanche",
+        "nl": "https://loisirs73.fr/nl/voie-verte-moutiers-aigueblanche"
+      },
+      "facet_md": "https://loisirs73.fr/content/voie-verte-moutiers-aigueblanche.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/voie-verte-moutiers-aigueblanche.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/voie-verte-moutiers-aigueblanche.json",
+      "photo": "/img/generique/generique-voie-verte-cyclistes-riviere.jpg"
+    },
+    {
+      "slug": "wam-park-savoie-montailleur",
+      "name": "WAM PARK Savoie – Montailleur",
+      "category": "domaine",
+      "commune": "Montailleur",
+      "postal_code": "73460",
+      "latitude": 45.606446,
+      "longitude": 6.281934,
+      "urls": {
+        "fr": "https://loisirs73.fr/wam-park-savoie-montailleur",
+        "en": "https://loisirs73.fr/en/wam-park-savoie-montailleur",
+        "de": "https://loisirs73.fr/de/wam-park-savoie-montailleur",
+        "it": "https://loisirs73.fr/it/wam-park-savoie-montailleur",
+        "es": "https://loisirs73.fr/es/wam-park-savoie-montailleur",
+        "nl": "https://loisirs73.fr/nl/wam-park-savoie-montailleur"
+      },
+      "facet_md": "https://loisirs73.fr/content/wam-park-savoie-montailleur.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/wam-park-savoie-montailleur.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/wam-park-savoie-montailleur.json",
+      "photo": "/img/generique/generique-wakeboard.jpg"
     }
   ]
 }

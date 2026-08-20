@@ -1,13 +1,13 @@
 # Phase 4 — photo assignments (gate artifact)
 
 **Date**: 2026-06-14
-**Total assignments**: 136 (one per (hub × slug) on the FR canonical hub)
+**Total assignments**: 144 (one per (hub × slug) on the FR canonical hub)
 
 ## Per-hub diversity
 
 | hub | fiches | distinct photos | max repeat of one photo |
 |---|---:|---:|---:|
-| `bases-de-loisirs` | 10 | 10 | 1 |
+| `bases-de-loisirs` | 14 | 14 | 1 |
 | `cascades` | 12 | 1 | 12 |
 | `chateaux` | 12 | 5 | 4 |
 | `lacs-plages` | 27 | 27 | 1 |
@@ -16,12 +16,13 @@
 | `sentiers` | 12 | 10 | 2 |
 | `stations-de-ski` | 16 | 15 | 2 |
 | `telecabines` | 15 | 15 | 1 |
-| `voies-vertes` | 5 | 5 | 1 |
+| `voies-vertes` | 9 | 5 | 2 |
 
 ## Per-fiche assignments
 
 | hub | slug | type | photo | score | reason |
 |---|---|---|---|---:|---|
+| `bases-de-loisirs` | `accrolac-aiguebelette` | `nature` | `generique-tyrolienne-ciel.jpg` | — | json hero (local) |
 | `bases-de-loisirs` | `base-de-loisirs-des-glieres-grignon` | `nature` | `generique-plage-lac-6.jpg` | — | json hero (local) |
 | `bases-de-loisirs` | `base-de-loisirs-du-lac-bleu` | `nature` | `generique-plage-lac-8.jpg` | — | json hero (local) |
 | `bases-de-loisirs` | `base-de-loisirs-gresy-sur-isere` | `nature` | `generique-plage-lac-5.jpg` | — | json hero (local) |
@@ -29,9 +30,12 @@
 | `bases-de-loisirs` | `lac-des-hurtieres` | `nature` | `generique-reserve-zone-humide-3.jpg` | — | json hero (local) |
 | `bases-de-loisirs` | `parc-aventure-de-la-combe-des-moulins` | `nature` | `generique-accrobranche-3.jpg` | — | json hero (local) |
 | `bases-de-loisirs` | `parc-aventure-de-la-foret-de-l-enfer` | `nature` | `generique-accrobranche-7.jpg` | — | json hero (local) |
+| `bases-de-loisirs` | `parc-d-aventure-des-geants-aillons-margeriaz` | `nature` | `generique-accrobranche-5.jpg` | — | json hero (local) |
 | `bases-de-loisirs` | `parcobranche-du-diable-avrieux` | `nature` | `generique-accrobranche-11.jpg` | — | json hero (local) |
 | `bases-de-loisirs` | `plage-base-de-loisirs-du-sougey` | `aquatique` | `generique-plage-lac-3.jpg` | — | json hero (local) |
 | `bases-de-loisirs` | `plan-d-eau-de-bozel` | `nature` | `generique-plage-lac-11.jpg` | — | json hero (local) |
+| `bases-de-loisirs` | `via-ferrata-de-la-roche-veyrand` | `nature` | `generique-via-ferrata-arete.jpg` | — | json hero (local) |
+| `bases-de-loisirs` | `wam-park-savoie-montailleur` | `nature` | `generique-wakeboard.jpg` | — | json hero (local) |
 | `cascades` | `cascade-de-la-fraiche` | `nature` | `generique-cascade.jpg` | — | json hero (local) |
 | `cascades` | `cascade-de-la-vuzelle-planay` | `nature` | `generique-cascade.jpg` | — | json hero (local) |
 | `cascades` | `cascade-de-saint-benoit` | `nature` | `generique-cascade.jpg` | — | json hero (local) |
@@ -155,6 +159,10 @@
 | `telecabines` | `vanoise-express` | `montagne` | `vanoise-express-hero.jpg` | — | json hero (local) |
 | `voies-vertes` | `avenue-verte-de-tarentaise` | `nature` | `generique-voie-verte-urbaine.jpg` | — | json hero (local) |
 | `voies-vertes` | `veloroute-de-la-combe-de-savoie` | `nature` | `generique-voie-verte-cyclistes-riviere.jpg` | — | json hero (local) |
+| `voies-vertes` | `veloroute-v63-chanaz-les-marches` | `nature` | `generique-voie-verte-cyclistes-lac.jpg` | — | json hero (local) |
+| `voies-vertes` | `viarhona-barrage-de-champagneux` | `nature` | `generique-voie-verte-famille-kids.jpg` | — | json hero (local) |
 | `voies-vertes` | `viarhona-en-chautagne` | `nature` | `generique-voie-verte-foret.jpg` | — | json hero (local) |
+| `voies-vertes` | `voie-verte-de-la-leysse-et-des-planeurs` | `nature` | `generique-voie-verte-urbaine.jpg` | — | json hero (local) |
 | `voies-vertes` | `voie-verte-du-lac-d-aiguebelette` | `nature` | `generique-voie-verte-famille-kids.jpg` | — | json hero (local) |
 | `voies-vertes` | `voie-verte-du-lac-du-bourget` | `nature` | `generique-voie-verte-cyclistes-lac.jpg` | — | json hero (local) |
+| `voies-vertes` | `voie-verte-moutiers-aigueblanche` | `nature` | `generique-voie-verte-cyclistes-riviere.jpg` | — | json hero (local) |

@@ -38,6 +38,42 @@
       "access_state": "paid"
     },
     {
+      "slug": "avenue-verte-de-tarentaise",
+      "categories": [
+        "voie-verte"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Avenue Verte de Tarentaise",
+          "commune": "Bourg-Saint-Maurice"
+        },
+        "en": {
+          "name": "Avenue Verte de Tarentaise",
+          "commune": "Bourg-Saint-Maurice"
+        },
+        "de": {
+          "name": "Avenue Verte de Tarentaise",
+          "commune": "Bourg-Saint-Maurice"
+        },
+        "it": {
+          "name": "Avenue Verte de Tarentaise",
+          "commune": "Bourg-Saint-Maurice"
+        },
+        "es": {
+          "name": "Avenue Verte de Tarentaise",
+          "commune": "Bourg-Saint-Maurice"
+        },
+        "nl": {
+          "name": "Avenue Verte de Tarentaise",
+          "commune": "Bourg-Saint-Maurice"
+        }
+      },
+      "latitude": 45.61139,
+      "longitude": 6.76889,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
       "slug": "base-de-loisirs-des-glieres-grignon",
       "categories": [
         "domaine"
@@ -2626,6 +2662,114 @@
       },
       "latitude": 45.44732,
       "longitude": 6.975356,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
+      "slug": "parc-aventure-de-la-combe-des-moulins",
+      "categories": [
+        "domaine"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Parc aventure de la Combe des Moulins",
+          "commune": "Saint-Jean-de-Maurienne"
+        },
+        "en": {
+          "name": "Parc aventure de la Combe des Moulins",
+          "commune": "Saint-Jean-de-Maurienne"
+        },
+        "de": {
+          "name": "Parc aventure de la Combe des Moulins",
+          "commune": "Saint-Jean-de-Maurienne"
+        },
+        "it": {
+          "name": "Parc aventure de la Combe des Moulins",
+          "commune": "Saint-Jean-de-Maurienne"
+        },
+        "es": {
+          "name": "Parc aventure de la Combe des Moulins",
+          "commune": "Saint-Jean-de-Maurienne"
+        },
+        "nl": {
+          "name": "Parc aventure de la Combe des Moulins",
+          "commune": "Saint-Jean-de-Maurienne"
+        }
+      },
+      "latitude": 45.28166,
+      "longitude": 6.34611,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
+      "slug": "parc-aventure-de-la-foret-de-l-enfer",
+      "categories": [
+        "domaine"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "La Forêt de l'Enfer",
+          "commune": "Valloire"
+        },
+        "en": {
+          "name": "La Forêt de l'Enfer",
+          "commune": "Valloire"
+        },
+        "de": {
+          "name": "La Forêt de l'Enfer",
+          "commune": "Valloire"
+        },
+        "it": {
+          "name": "La Forêt de l'Enfer",
+          "commune": "Valloire"
+        },
+        "es": {
+          "name": "La Forêt de l'Enfer",
+          "commune": "Valloire"
+        },
+        "nl": {
+          "name": "La Forêt de l'Enfer",
+          "commune": "Valloire"
+        }
+      },
+      "latitude": 45.1745,
+      "longitude": 6.4285,
+      "is_free": true,
+      "access_state": "free"
+    },
+    {
+      "slug": "parcobranche-du-diable-avrieux",
+      "categories": [
+        "domaine"
+      ],
+      "i18n": {
+        "fr": {
+          "name": "Parcobranche du Diable",
+          "commune": "Avrieux"
+        },
+        "en": {
+          "name": "Parcobranche du Diable",
+          "commune": "Avrieux"
+        },
+        "de": {
+          "name": "Parcobranche du Diable",
+          "commune": "Avrieux"
+        },
+        "it": {
+          "name": "Parcobranche du Diable",
+          "commune": "Avrieux"
+        },
+        "es": {
+          "name": "Parcobranche du Diable",
+          "commune": "Avrieux"
+        },
+        "nl": {
+          "name": "Parcobranche du Diable",
+          "commune": "Avrieux"
+        }
+      },
+      "latitude": 45.21667,
+      "longitude": 6.70833,
       "is_free": true,
       "access_state": "free"
     },

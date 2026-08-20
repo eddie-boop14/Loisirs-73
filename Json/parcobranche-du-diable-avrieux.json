@@ -1,0 +1,627 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-18",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "domaine",
+  "commune": "Avrieux",
+  "date_modified_human": "18 août 2026",
+  "date_published_human": "18 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-18",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-accrobranche-11.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Parc des Diablotins für Kleine, abgestufte Schaltungen für alle anderen.",
+          "tag": "Savoie ist der größte",
+          "title": "240 Workshops, 30 Kurse"
+        },
+        {
+          "description": "Die langen Kreuzungen über dem Fort Marie Thérèse-Standort.",
+          "tag": "Thrills",
+          "title": "Zwei riesige Ziplines"
+        }
+      ],
+      "body": {
+        "what_is": "<p>im <strong>Le Pont du Nant</strong>, unterhalb der <strong>Fort Marie Thérèse</strong> bei Avrieux, die <strong>Parcobranche du Diable</strong> präsentiert sich als Savoies größter Baumwipfelpark: <strong>240 Workshops</strong> und <strong>30 Bilanzkurse</strong>, aufgeteilt zwischen einem Parc des Diablotins für die jüngsten, abgestuften erwachsenenkreise und zwei riesigen ziplines.</p><p>Zwei praktische Fakten sind die Reise wert, weil sie den Tag bestimmen. Die <strong>1,35 m Schwelle</strong> trennt die '6+ unter 1m35' Schaltungen von den '6+ über 1m35'. Und die Aufsichtsregel ist klar geschrieben: „<strong>Kinder unter 15 Jahren müssen von einem Erwachsenen begleitet werden, der sie visuell kontrolliert.</strong>Mit anderen Worten, ein Elternteil lässt einen 12-Jährigen nicht fallen und geht woanders hin. Parken ist geregelt: \"kostenlose Parkplätze stehen rund um den Fort Marie Thérèse zur Verfügung\".</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Bezahlt",
+        "best_season": null,
+        "commune": "Avrieux",
+        "dogs": null,
+        "min_age": "6 Jahre auf den Höhenschaltungen · Parc des Diablotins ab 2 Jahren",
+        "min_height": "1,35 m — trennt die beiden Kreisläufe",
+        "parking": "Kostenlose Parkplätze rund um den Fort Marie Thérèse",
+        "stroller": null,
+        "type": "Abenteuerpark",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "Ja: Die offizielle Seite unterscheidet \"6+ unter 1m35\" Schaltungen von \"6+ über 1m35\". Die veröffentlichte Schwelle beträgt daher 1,35 m; eine Aufgliederung nach Kursen wird nicht veröffentlicht.",
+          "q": "Gibt es eine Mindesthöhe?"
+        },
+        {
+          "a": "Nein. Der Park sagt es explizit: \"Kinder unter 15 Jahren müssen von einem Erwachsenen begleitet werden, der sie visuell kontrolliert.\"",
+          "q": "Kann ein Kind im Park allein gelassen werden?"
+        },
+        {
+          "a": "\"Kostenlose Parkplätze stehen rund um den Fort Marie Thérèse zur Verfügung\", bei Le Pont du Nant in Avrieux.",
+          "q": "Wo parken Sie?"
+        },
+        {
+          "a": "Stunden werden ohne ein Jahr veröffentlicht: daily 10am-6pm during the summer holidays, weekends and public holidays in spring and autumn. Die Preise waren nicht auf der offiziellen Seite konsultiert — Wir wiederholen nicht die Zahlen, die anderswo im Umlauf sind.",
+          "q": "Was sind die Stunden und Preise?"
+        }
+      ],
+      "hero": {
+        "badge": "Abenteuerpark · Avrieux",
+        "lead": "Rund um den Fort Marie Thérèse, 240 Workshops und 30 Balance-Kurse — und eine Regel zu viele Parks lassen vage: Unter 15 Jahren bleibt ein Erwachsener in Sichtkontakt."
+      },
+      "hero_alt": "Zipline und Baumkronenkurs bei Avrieux, Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D1006 bis Avrieux, dann Le Pont du Nant unterhalb des Fort Marie Thérèse.",
+        "public_transport": "Modane SNCF Station, dann lokale Dienste."
+      },
+      "meta_description": "Parcobranche du Diable bei Avrieux: 240 Workshops, 30 Kurse, zwei riesige Ziplines. Veröffentlicht 1,35 m Schwelle, unter-15s begleitet, kostenlose Parkplätze am Fort Marie Thérèse.",
+      "meta_title": "Parcobranche du Diable · 240 Workshops bei Avrieux",
+      "name": "Parcobranche du Diable",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Anschrift",
+          "v": "Le Pont du Nant, Fort Marie Thérèse, 73500 Avrieux"
+        },
+        {
+          "k": "Kurse",
+          "v": "240 Workshops · 30 Balance Courses · zwei riesige Ziplines"
+        },
+        {
+          "k": "Schwellenwert",
+          "v": "1,35 m zwischen den beiden Kreisbahnen (6+ auf beiden Seiten)"
+        },
+        {
+          "k": "Überwachung",
+          "v": "\"Kinder unter 15 Jahren müssen von einem Erwachsenen begleitet werden, der sie visuell kontrolliert.\""
+        },
+        {
+          "k": "Parken",
+          "v": "Frei, rund um den Fort Marie Thérèse"
+        },
+        {
+          "k": "Kontakt",
+          "v": "+33 6 84 48 26 17"
+        }
+      ],
+      "schema_amenities": [
+        "Freie Parkplätze",
+        "Parc des Diablotins",
+        "Riesige Ziplines"
+      ],
+      "when_to_visit": "<p>Der Park veröffentlicht seine Stunden ohne ein Jahr: 'During the summer holiday period we are open every day from 10am to 6pm. Im Frühling oder Herbst haben wir jedes Wochenende und jeden Feiertag geöffnet. Ohne explizite 2026-Daten haben wir keine Saison festgelegt. Die Preise waren auch nicht auf der konsultierten Seite: Anderswo kursieren unterschiedliche Zahlen, und wir wiederholen sie nicht.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "Parc des Diablotins for little ones, graded circuits for everyone else.",
+          "tag": "Savoie's largest",
+          "title": "240 workshops, 30 courses"
+        },
+        {
+          "description": "The long crossings above the Fort Marie Thérèse site.",
+          "tag": "Thrills",
+          "title": "Two giant ziplines"
+        }
+      ],
+      "body": {
+        "what_is": "<p>At <strong>Le Pont du Nant</strong>, below the <strong>Fort Marie Thérèse</strong> at Avrieux, the <strong>Parcobranche du Diable</strong> presents itself as Savoie's largest treetop park: <strong>240 workshops</strong> and <strong>30 balance courses</strong>, split between a Parc des Diablotins for the youngest, graded adult circuits, and two giant ziplines.</p><p>Two practical facts are worth the trip, because they decide the day. The <strong>1.35 m threshold</strong> separates the '6+ under 1m35' circuits from the '6+ over 1m35' ones. And the supervision rule is written plainly: '<strong>Children under 15 must be accompanied by an adult who keeps them under visual control.</strong>' In other words, a parent does not drop off a 12-year-old and go elsewhere. Parking is settled: 'free parking is available around the Fort Marie Thérèse'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Paid",
+        "best_season": null,
+        "commune": "Avrieux",
+        "dogs": null,
+        "min_age": "6 years on the height-gated circuits · Parc des Diablotins from age 2",
+        "min_height": "1.35 m — separates the two families of circuits",
+        "parking": "Free parking around the Fort Marie Thérèse",
+        "stroller": null,
+        "type": "Adventure park",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "Yes: the official page distinguishes '6+ under 1m35' circuits from '6+ over 1m35' ones. The published threshold is therefore 1.35 m; a course-by-course breakdown is not published.",
+          "q": "Is there a minimum height?"
+        },
+        {
+          "a": "No. The park states it explicitly: 'Children under 15 must be accompanied by an adult who keeps them under visual control.'",
+          "q": "Can a child be left alone in the park?"
+        },
+        {
+          "a": "'Free parking is available around the Fort Marie Thérèse', at Le Pont du Nant in Avrieux.",
+          "q": "Where do you park?"
+        },
+        {
+          "a": "Hours are published without a year: daily 10am-6pm during the summer holidays, weekends and public holidays in spring and autumn. Prices were not on the official page consulted — we do not repeat the figures circulating elsewhere.",
+          "q": "What are the hours and prices?"
+        }
+      ],
+      "hero": {
+        "badge": "Adventure park · Avrieux",
+        "lead": "Around the Fort Marie Thérèse, 240 workshops and 30 balance courses — and a rule too many parks leave vague: under 15, an adult stays in visual contact."
+      },
+      "hero_alt": "Zipline and treetop course at Avrieux, Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D1006 to Avrieux, then Le Pont du Nant below the Fort Marie Thérèse.",
+        "public_transport": "Modane SNCF station, then local services."
+      },
+      "meta_description": "Parcobranche du Diable at Avrieux: 240 workshops, 30 courses, two giant ziplines. Published 1.35 m threshold, under-15s accompanied, free parking at the Fort Marie Thérèse.",
+      "meta_title": "Parcobranche du Diable · 240 workshops at Avrieux",
+      "name": "Parcobranche du Diable",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Address",
+          "v": "Le Pont du Nant, Fort Marie Thérèse, 73500 Avrieux"
+        },
+        {
+          "k": "Courses",
+          "v": "240 workshops · 30 balance courses · two giant ziplines"
+        },
+        {
+          "k": "Threshold",
+          "v": "1.35 m between the two families of circuits (6+ on both sides)"
+        },
+        {
+          "k": "Supervision",
+          "v": "'Children under 15 must be accompanied by an adult who keeps them under visual control.'"
+        },
+        {
+          "k": "Parking",
+          "v": "Free, around the Fort Marie Thérèse"
+        },
+        {
+          "k": "Contact",
+          "v": "+33 6 84 48 26 17"
+        }
+      ],
+      "schema_amenities": [
+        "Free parking",
+        "Parc des Diablotins",
+        "Giant ziplines"
+      ],
+      "when_to_visit": "<p>The park publishes its hours without a year: 'During the summer holiday period we are open every day from 10am to 6pm. In spring or autumn, we are open every weekend and public holiday.' Without explicit 2026 dates, we set no season. Prices were not on the page consulted either: differing figures circulate elsewhere, and we do not repeat them.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "Parc des Diablotins para pequeños, circuitos de grado para todos los demás.",
+          "tag": "Savoie más grande",
+          "title": "240 talleres, 30 cursos"
+        },
+        {
+          "description": "Los largos cruces por encima del sitio Fort Marie Thérèse.",
+          "tag": "Umbrales",
+          "title": "Dos cremalleras gigantes"
+        }
+      ],
+      "body": {
+        "what_is": "<p>At <strong>Le Pont du Nant</strong>, debajo de <strong>Fort Marie Thérèse</strong> en Avrieux, el <strong>Parcobranche du Diable</strong> se presenta como el parque de árboles más grande de Savoie: <strong>240 talleres</strong> y <strong>30 cursos de saldo</strong>, división entre una Parc des Diablotins para los circuitos adultos más jóvenes y de grado, y dos ziplines gigantes.</p><p>Dos hechos prácticos valen el viaje, porque deciden el día. El <strong>umbral de 1,35 m</strong> separa los circuitos '6+ bajo 1m35' de los '6+ sobre 1m35'. Y la regla de supervisión está escrita claramente: '<strong>Los niños menores de 15 años deben estar acompañados por un adulto que los mantiene bajo control visual.</strong>En otras palabras, un padre no deja a un niño de 12 años y va a otro lugar. El estacionamiento está resuelto: El aparcamiento gratuito está disponible alrededor de la Fort Marie Thérèse.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagado",
+        "best_season": null,
+        "commune": "Avrieux",
+        "dogs": null,
+        "min_age": "6 años en los circuitos de alta velocidad · Parc des Diablotins a partir de 2 años",
+        "min_height": "1,35 m – separa a las dos familias de circuitos",
+        "parking": "Estacionamiento gratuito alrededor de Fort Marie Thérèse",
+        "stroller": null,
+        "type": "Parque de Aventuras",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "Sí: la página oficial distingue '6+ bajo 1m35' circuitos de '6+ sobre 1m35'. Por lo tanto, el umbral publicado es de 1,35 m; no se publica un desglose de curso por curso.",
+          "q": "¿Hay una altura mínima?"
+        },
+        {
+          "a": "No. El parque lo declara explícitamente: Los niños menores de 15 años deben estar acompañados por un adulto que los mantiene bajo control visual.",
+          "q": "¿Puede dejar a un niño solo en el parque?"
+        },
+        {
+          "a": "'Hay aparcamiento gratuito en Fort Marie Thérèse', en Le Pont du Nant en Avrieux.",
+          "q": "¿Dónde aparcas?"
+        },
+        {
+          "a": "Las horas se publican sin un año: todos los días 10am-6pm durante las vacaciones de verano, fin de semana y festivos en primavera y otoño. Los precios no estaban en la página oficial consultada — no repetimos las cifras que circulan en otro lugar.",
+          "q": "¿Cuáles son las horas y los precios?"
+        }
+      ],
+      "hero": {
+        "badge": "Parque de Aventura · Avrieux",
+        "lead": "Alrededor de Fort Marie Thérèse, 240 talleres y 30 cursos de balance — y una regla demasiados parques dejan vago: menor de 15 años, un adulto permanece en contacto visual."
+      },
+      "hero_alt": "Curso de Zipline y arbolado en Avrieux, Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D1006 a Avrieux, luego Le Pont du Nant debajo del Fort Marie Thérèse.",
+        "public_transport": "Estación Modane SNCF, luego servicios locales."
+      },
+      "meta_description": "Parcobranche du Diable en Avrieux: 240 talleres, 30 cursos, dos ziplines gigantes. Umbral de 1,35 m, menos de 15 años acompañado, aparcamiento gratuito en el Fort Marie Thérèse.",
+      "meta_title": "Parcobranche du Diable · 240 talleres en Avrieux",
+      "name": "Parcobranche du Diable",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Dirección",
+          "v": "Le Pont du Nant, Fort Marie Thérèse, 73500 Avrieux"
+        },
+        {
+          "k": "Cursos",
+          "v": "240 talleres · 30 cursos de balance · dos gigantes"
+        },
+        {
+          "k": "Umbral",
+          "v": "1,35 m entre las dos familias de circuitos (6+ en ambos lados)"
+        },
+        {
+          "k": "Supervisión",
+          "v": "Los niños menores de 15 años deben estar acompañados por un adulto que los mantiene bajo control visual."
+        },
+        {
+          "k": "Aparcamiento",
+          "v": "Libre, alrededor de Fort Marie Thérèse"
+        },
+        {
+          "k": "Contacto",
+          "v": "+33 6 84 48 26 17"
+        }
+      ],
+      "schema_amenities": [
+        "Aparcamiento gratuito",
+        "Parc des Diablotins",
+        "Cierre gigante"
+      ],
+      "when_to_visit": "<p>El parque publica sus horas sin un año: 'During the summer holiday period we are open every day from 10am to 6pm. En primavera o otoño, estamos abiertos todos los fines de semana y festivos.' Sin explícitas 2026 fechas, no fijamos temporada. Los precios tampoco estaban en la página consultada: cifras diferentes circulan en otro lugar, y no las repetimos.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Parc des Diablotins pour les petits, circuits progressifs pour les grands.",
+          "tag": "Le plus grand de Savoie",
+          "title": "240 ateliers, 30 parcours"
+        },
+        {
+          "description": "Les grandes traversées au-dessus du site du Fort Marie Thérèse.",
+          "tag": "Sensations",
+          "title": "Deux tyroliennes géantes"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Au <strong>Pont du Nant</strong>, sous le <strong>Fort Marie Thérèse</strong> d'Avrieux, le <strong>Parcobranche du Diable</strong> se présente comme le plus grand accrobranche de Savoie : <strong>240 ateliers</strong> et <strong>30 parcours d'équilibre</strong>, répartis entre un Parc des Diablotins pour les plus jeunes, des circuits adultes de difficulté progressive, et deux tyroliennes géantes.</p><p>Deux informations pratiques valent le détour, parce qu'elles décident de la journée. Le <strong>seuil de 1 m 35</strong> sépare les circuits « + 6 ans moins de 1m35 » des circuits « + 6 ans plus de 1m35 ». Et la règle d'encadrement est écrite noir sur blanc : « <strong>Les enfants de moins de 15 ans doivent être accompagné d'un adulte qui les garde sous son contrôle visuel.</strong> » Autrement dit, un parent ne dépose pas un enfant de 12 ans et va faire autre chose. Le stationnement, lui, est réglé : « un parking gratuit est à disposition autour du Fort Marie Thérèse ».</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Payant",
+        "best_season": null,
+        "commune": "Avrieux",
+        "dogs": null,
+        "min_age": "6 ans sur les circuits à seuil de taille · Parc des Diablotins dès 2 ans",
+        "min_height": "1 m 35 — sépare les deux familles de circuits",
+        "parking": "Parking gratuit autour du Fort Marie Thérèse",
+        "stroller": null,
+        "type": "Parc aventure",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "Oui : la page officielle distingue les circuits « + 6 ans moins de 1m35 » et « + 6 ans plus de 1m35 ». Le seuil publié est donc 1 m 35 ; le détail parcours par parcours ne l'est pas.",
+          "q": "Y a-t-il une taille minimum ?"
+        },
+        {
+          "a": "Non. Le parc l'écrit explicitement : « Les enfants de moins de 15 ans doivent être accompagné d'un adulte qui les garde sous son contrôle visuel. »",
+          "q": "Peut-on laisser un enfant seul dans le parc ?"
+        },
+        {
+          "a": "« Un parking gratuit est à disposition autour du Fort Marie Thérèse », au Pont du Nant, à Avrieux.",
+          "q": "Où se garer ?"
+        },
+        {
+          "a": "Horaires publiés sans année : tous les jours de 10 h à 18 h pendant les vacances d'été, week-ends et jours fériés au printemps et à l'automne. Les tarifs ne figuraient pas sur la page officielle consultée — nous ne reprenons pas les montants qui circulent ailleurs.",
+          "q": "Quels sont les horaires et les tarifs ?"
+        }
+      ],
+      "hero": {
+        "badge": "Parc aventure · Avrieux",
+        "lead": "Autour du Fort Marie Thérèse, 240 ateliers et 30 parcours d'équilibre — et une règle que trop de parcs laissent dans le flou : moins de 15 ans, un adulte reste en contrôle visuel."
+      },
+      "hero_alt": "Tyrolienne et parcours dans les arbres à Avrieux, Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D1006 jusqu'à Avrieux, puis le Pont du Nant sous le Fort Marie Thérèse.",
+        "public_transport": "Gare SNCF de Modane, puis desserte locale."
+      },
+      "meta_description": "Parcobranche du Diable à Avrieux : 240 ateliers, 30 parcours, deux tyroliennes géantes. Seuil publié à 1 m 35, moins de 15 ans accompagnés, parking gratuit au Fort Marie Thérèse.",
+      "meta_title": "Parcobranche du Diable · 240 ateliers à Avrieux",
+      "name": "Parcobranche du Diable",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Adresse",
+          "v": "Le Pont du Nant, Fort Marie Thérèse, 73500 Avrieux"
+        },
+        {
+          "k": "Parcours",
+          "v": "240 ateliers · 30 parcours d'équilibre · deux tyroliennes géantes"
+        },
+        {
+          "k": "Seuil",
+          "v": "1 m 35 entre les deux familles de circuits (+ 6 ans de part et d'autre)"
+        },
+        {
+          "k": "Encadrement",
+          "v": "« Les enfants de moins de 15 ans doivent être accompagné d'un adulte qui les garde sous son contrôle visuel. »"
+        },
+        {
+          "k": "Parking",
+          "v": "Gratuit, autour du Fort Marie Thérèse"
+        },
+        {
+          "k": "Contact",
+          "v": "06 84 48 26 17"
+        }
+      ],
+      "schema_amenities": [
+        "Parking gratuit",
+        "Parc des Diablotins",
+        "Tyroliennes géantes"
+      ],
+      "when_to_visit": "<p>Le parc publie ses horaires sans millésime : « Pendant la période des vacances d'été nous sommes ouverts tous les jours de 10h à 18h. Au printemps ou à l'automne, nous sommes ouverts tous les week end et jours fériés. » Faute de dates 2026 explicites, nous ne fixons pas de saison. Les tarifs ne figuraient pas non plus sur la page consultée : des montants divergents circulent ailleurs, et nous ne les reprenons pas.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Parc des Diablotins per piccoli, circuiti di grado per tutti gli altri.",
+          "tag": "Savoie più grande",
+          "title": "240 workshop, 30 corsi"
+        },
+        {
+          "description": "I lunghi incroci sopra il sito Fort Marie Thérèse.",
+          "tag": "Thrills",
+          "title": "Due zip giganti"
+        }
+      ],
+      "body": {
+        "what_is": "<p>A <strong>Le Pont du Nant</strong>, sotto il <strong>Fort Marie Thérèse</strong> a Avrieux, il <strong>Parcobranche du Diable</strong> si presenta come il più grande parco alberato di Savoie: <strong>240 workshop</strong> e <strong>30 corsi di bilancio</strong>, diviso tra un Parc des Diablotins per i circuiti adulti più giovani e qualificati, e due zipline giganti.</p><p>Due fatti pratici valgono il viaggio, perché decidono il giorno. The <strong>Soglia 1.35 m</strong> separa i circuiti '6+ sotto 1m35' da quelli '6+ su 1m35'. E la regola di supervisione è scritta chiaramente: '<strong>I bambini sotto i 15 anni devono essere accompagnati da un adulto che li tiene sotto controllo visivo.</strong>' In other words, a parent does not drop off a 12-year-old and go elsewhere. Il parcheggio è assicurato: 'parcheggio gratuito è disponibile intorno alla Fort Marie Thérèse'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagato",
+        "best_season": null,
+        "commune": "Avrieux",
+        "dogs": null,
+        "min_age": "6 anni sui circuiti ad alta quota · Parc des Diablotins da 2 anni",
+        "min_height": "1.35 m separa le due famiglie di circuiti",
+        "parking": "Parcheggio gratuito intorno alla Fort Marie Thérèse",
+        "stroller": null,
+        "type": "Parco avventura",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "Sì. la pagina ufficiale distingue '6+ sotto 1m35' circuiti da '6+ su 1m35' quelli. La soglia pubblicata è quindi di 1,35 m; una ripartizione del corso per corso non è pubblicata.",
+          "q": "C'è un'altezza minima?"
+        },
+        {
+          "a": "No. Il parco lo dichiara esplicitamente: I bambini sotto i 15 anni devono essere accompagnati da un adulto che li tiene sotto controllo visivo.",
+          "q": "Un bambino può essere lasciato solo nel parco?"
+        },
+        {
+          "a": "'Parcheggio gratuito è disponibile intorno alla Fort Marie Thérèse', a Le Pont du Nant in Avrieux.",
+          "q": "Dove parcheggi?"
+        },
+        {
+          "a": "Le ore sono pubblicate senza un anno: daily 10am-6pm during the summer holidays, weekends and public holidays in spring and autumn. I prezzi non sono stati consultati nella pagina ufficiale. Non ripetiamo le cifre che circolano altrove.",
+          "q": "Quali sono le ore e i prezzi?"
+        }
+      ],
+      "hero": {
+        "badge": "Parco avventura · Avrieux",
+        "lead": "Intorno alla Fort Marie Thérèse, 240 workshop e 30 corsi di equilibrio — e una regola troppi parchi lasciano vaga: meno di 15 anni, un adulto rimane a contatto visivo."
+      },
+      "hero_alt": "Corso a cerniera e albero a Avrieux, Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D1006 a Avrieux, poi Le Pont du Nant sotto Fort Marie Thérèse.",
+        "public_transport": "Stazione Modane SNCF, poi servizi locali."
+      },
+      "meta_description": "Parcobranche du Diable a Avrieux: 240 workshop, 30 corsi, due zipline giganti. Pubblicato 1.35 m soglia, under-15 accompagnati, parcheggio gratuito al Fort Marie Thérèse.",
+      "meta_title": "Parcobranche du Diable · 240 workshop a Avrieux",
+      "name": "Parcobranche du Diable",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Indirizzo",
+          "v": "Le Pont du Nant, Fort Marie Thérèse, 73500 Avrieux"
+        },
+        {
+          "k": "Corsi",
+          "v": "240 workshop · 30 corsi di equilibrio · due zip giganti"
+        },
+        {
+          "k": "Soglia",
+          "v": "1.35 m tra le due famiglie di circuiti (6+ su entrambi i lati)"
+        },
+        {
+          "k": "Supervisione",
+          "v": "I bambini sotto i 15 anni devono essere accompagnati da un adulto che li tiene sotto controllo visivo."
+        },
+        {
+          "k": "Parcheggio",
+          "v": "Gratis, intorno al Fort Marie Thérèse"
+        },
+        {
+          "k": "Contatto",
+          "v": "+33 6 84 48 26 17"
+        }
+      ],
+      "schema_amenities": [
+        "Parcheggio gratuito",
+        "Parc des Diablotins",
+        "Cerniera gigante"
+      ],
+      "when_to_visit": "<p>Il parco pubblica le sue ore senza un anno: 'During the summer holiday period we are open every day from 10am to 6pm. In primavera o in autunno, siamo aperti ogni fine settimana e festivi.' Senza 2026 date esplicite, non abbiamo stabilito stagione. I prezzi non sono stati consultati nella pagina: Le cifre diverse circolano altrove, e non le ripetiamo.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Parc des Diablotins voor kleintjes, gegradueerde circuits voor iedereen.",
+          "tag": "Savoie's grootste",
+          "title": "240 workshops, 30 cursussen"
+        },
+        {
+          "description": "De lange overtochten boven de Fort Marie Thérèse site.",
+          "tag": "Opwinding",
+          "title": "Twee gigantische ritssluitingen"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Op <strong>Le Pont du Nant</strong>Onder de <strong>Fort Marie Thérèse</strong> bij Avrieux, <strong>Parcobranche du Diable</strong> presenteert zich als Savoie's grootste boomtop park: <strong>240 workshops</strong> en <strong>30 balanscursussen</strong>, verdeeld tussen een Parc des Diablotins voor de jongste, gegradueerde volwassen circuits, en twee reusachtige ziplines.</p><p>Twee praktische feiten zijn de reis waard, omdat ze de dag bepalen. De <strong>1,35 m drempel</strong> scheidt de '6+ onder 1m35' circuits van de '6+ boven 1m35' circuits. En de toezichtregel is duidelijk geschreven: '<strong>Kinderen jonger dan 15 jaar moeten vergezeld worden door een volwassene die hen onder visuele controle houdt.</strong>Met andere woorden, een ouder zet geen 12-jarige af en gaat niet ergens anders heen. Parkeren is geregeld: 'gratis parkeren is beschikbaar rond de Fort Marie Thérèse'.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Betaald",
+        "best_season": null,
+        "commune": "Avrieux",
+        "dogs": null,
+        "min_age": "6 jaar op de hoogte-gated circuits · Parc des Diablotins vanaf leeftijd 2",
+        "min_height": "1,35 m scheidt de twee families van circuits",
+        "parking": "Gratis parkeren rond de Fort Marie Thérèse",
+        "stroller": null,
+        "type": "Avontuurpark",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "Ja: de officiële pagina onderscheidt '6+ onder 1m35' circuits van '6+ boven 1m35' circuits. De gepubliceerde drempel bedraagt dus 1,35 m; een cursus-voor-cursus uitsplitsing wordt niet gepubliceerd.",
+          "q": "Is er een minimum hoogte?"
+        },
+        {
+          "a": "Nee. Het park zegt het expliciet: Kinderen jonger dan 15 jaar moeten vergezeld worden door een volwassene die ze onder visuele controle houdt.",
+          "q": "Kan een kind alleen gelaten worden in het park?"
+        },
+        {
+          "a": "'Gratis parkeren is beschikbaar rond de Fort Marie Thérèse', op Le Pont du Nant in Avrieux.",
+          "q": "Waar parkeer je?"
+        },
+        {
+          "a": "Uren worden gepubliceerd zonder een jaar: daily 10am-6pm during the summer holidays, weekends and public holidays in spring and autumn. Prijzen werden niet op de officiële pagina geraadpleegd . Wij herhalen de cijfers die elders circuleren niet.",
+          "q": "Wat zijn de uren en prijzen?"
+        }
+      ],
+      "hero": {
+        "badge": "Avontuurpark · Avrieux",
+        "lead": "Rondom de Fort Marie Thérèse, 240 workshops en 30 balance courses En een regel te veel parken laten vaag: Onder de 15 jaar blijft een volwassene in visueel contact."
+      },
+      "hero_alt": "Zipline- en boomstructuur bij Avrieux, Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D1006 naar Avrieux, dan Le Pont du Nant onder de Fort Marie Thérèse.",
+        "public_transport": "Modane SNCF-station, dan lokale diensten."
+      },
+      "meta_description": "Parcobranche du Diable bij Avrieux: 240 workshops, 30 cursussen, twee gigantische ziplines. Gepubliceerd 1,35 m drempel, minder dan 15s begeleid, gratis parkeren bij de Fort Marie Thérèse.",
+      "meta_title": "Parcobranche du Diable - 240 workshops op Avrieux",
+      "name": "Parcobranche du Diable",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Adres",
+          "v": "Le Pont du Nant, Fort Marie Thérèse, 73500 Avrieux"
+        },
+        {
+          "k": "Leren",
+          "v": "240 workshops · 30 balanscursussen · twee reusachtige ritsen"
+        },
+        {
+          "k": "Drempelwaarde",
+          "v": "1,35 m tussen de twee families van circuits (6+ aan beide zijden)"
+        },
+        {
+          "k": "Toezicht",
+          "v": "Kinderen jonger dan 15 jaar moeten vergezeld worden door een volwassene die ze onder visuele controle houdt."
+        },
+        {
+          "k": "Parkeren",
+          "v": "Gratis, rond de Fort Marie Thérèse"
+        },
+        {
+          "k": "Contactpersoon",
+          "v": "+33 6 84 48 26 17"
+        }
+      ],
+      "schema_amenities": [
+        "Gratis parkeren",
+        "Parc des Diablotins",
+        "Reuzenritsen"
+      ],
+      "when_to_visit": "<p>Het park publiceert zijn uren zonder jaar: 'During the summer holiday period we are open every day from 10am to 6pm. In de lente of herfst zijn we elk weekend open en zijn we op feestdagen.\" Zonder expliciete 2026 data, hebben we geen seizoen ingesteld. De prijzen werden ook niet op de pagina geraadpleegd: Verschillende cijfers circuleren elders en we herhalen ze niet.</p>"
+    }
+  },
+  "latitude": 45.21667,
+  "longitude": 6.70833,
+  "official_site_url": "https://www.parcdudiable.fr/infos-pratiques",
+  "partners": [],
+  "postal_code": "73500",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-20, pages FR de l'exploitant (parcdudiable.fr). « Le Pont du Nant, Fort Marie Thérèse, 73500 Avrieux ». Parc annoncé comme le plus grand accrobranche de Savoie : 240 ateliers et 30 parcours d'équilibre, répartis en Parc des Diablotins (enfants), parcours adultes, et deux tyroliennes géantes. Seuil publié sur la page infos pratiques : circuits « + 6 ans moins de 1m35 » et « + 6 ans plus de 1m35 » — le seuil de 1 m 35 est donc documenté, mais AUCUN seuil parcours par parcours ne l'est : min_height ne retient que la barre publiée. Règle d'encadrement citée verbatim : « Les enfants de moins de 15 ans doivent être accompagné d'un adulte qui les garde sous son contrôle visuel. » Parking : « Un parking gratuit est à disposition autour du Fort Marie Thérèse. » Horaires : « Pendant la période des vacances d'été nous sommes ouverts tous les jours de 10h à 18h. Au printemps ou à l'automne, nous sommes ouverts tous les week end et jours fériés » — sans millésime 2026, donc best_season non renseigné. TARIFS : non publiés sur la page consultée ; des chiffres divergents circulent sur des pages tierces (30 €/28 €/20 € vs 30 €/28 €/19 €) — non imprimés. Animaux et accessibilité non mentionnés → null. Tél. 06 84 48 26 17.",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "parcobranche-du-diable-avrieux",
+  "sources": [
+    "https://www.parcdudiable.fr/infos-pratiques",
+    "https://www.parcdudiable.fr/"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "TARIFS — non publiés sur la page officielle consultée ; des montants divergents circulent sur des pages tierces et ne sont pas repris.",
+    "SAISON — horaires publiés sans millésime (« vacances d'été », « printemps ou automne ») ; best_season non renseigné.",
+    "MODIFICATEURS — animaux et accessibilité non mentionnés ; laissés null.",
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published; kept null."
+  ]
+}

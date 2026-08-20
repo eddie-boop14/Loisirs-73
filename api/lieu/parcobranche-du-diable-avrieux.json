@@ -1,0 +1,24 @@
+{
+  "name": "Parcobranche du Diable",
+  "commune": "Avrieux",
+  "gps": {
+    "lat": 45.21667,
+    "lng": 6.70833
+  },
+  "type": "domaine",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": "Parking gratuit autour du Fort Marie Thérèse",
+  "transport": null,
+  "season": null,
+  "winter": null,
+  "official_url": "https://www.parcdudiable.fr/infos-pratiques",
+  "last_verified": null
+}

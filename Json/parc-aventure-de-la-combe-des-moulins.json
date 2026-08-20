@@ -1,0 +1,612 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-18",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "domaine",
+  "commune": "Saint-Jean-de-Maurienne",
+  "date_modified_human": "18 août 2026",
+  "date_published_human": "18 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-18",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-accrobranche-3.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Von gelb, offen bei 3 Jahren und 90 cm, bis rot, reserviert für 1,30 m.",
+          "tag": "90 cm bis 1,30 m",
+          "title": "Sechs Kurse mit veröffentlichten Schwellenwerten"
+        },
+        {
+          "description": "Die langen Kreuzungen über dem Combe des Moulins.",
+          "tag": "Thrills",
+          "title": "120 m Ziplines"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Bei Saint-Jean-de-Maurienne, die <strong>Combe des Moulins Freizeitzone</strong> hält einen Abenteuerpark von <strong>Sechs Kurse</strong> und \"über 100 Workshops\", mit großen 120-Meter-Ziplines, die den Kamm kreuzen.</p><p>Was diesen Park auszeichnet, ist nicht seine Größe, sondern seine Transparenz: <strong>Jeder Kurs veröffentlicht seine Eintrittsschwelle</strong>Alter und Zentimeter. 'Gelbkurs ab 3 Jahren und 90cm', 'Orangenkurs ab 1m', 'Ziplinekurs ab 1m10', 'Grünkurs ab 1m10', 'Blauer Kurs ab 1m20', 'Roter Kurs ab 1m30'. Das ist die Information, die darüber entscheidet, ob ein Familientag funktioniert oder ein Kind am Fuße des Baumes wartet, und es wird selten niedergeschrieben. Der Park sagt auch, was wichtig ist, um dorthin zu gelangen: <strong>kostenlose Parkplätze</strong>, <strong>Akzeptierte Tiere</strong>und eine Website, die <strong>Kinderwagen zugänglich</strong>.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Bezahlt",
+        "best_season": null,
+        "commune": "Saint-Jean-de-Maurienne",
+        "dogs": "Zugelassene Tiere",
+        "min_age": "3 Jahre (Gelbkurs)",
+        "min_height": "90 cm (gelb) · 1 m (orangen) · 1,10 m (grün und Ziplines) · 1,20 m (blau) · 1,30 m (rot)",
+        "parking": "Freie Parkplätze",
+        "stroller": "Kinderwagen zugänglich",
+        "type": "Abenteuerpark",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "Die Schwellenwerte werden von Kurs zu Kurs veröffentlicht: Gelb ab 3 Jahren und 90 cm, Orange ab 1 m, Grün und Ziplines ab 1,10 m, Blau ab 1,20 m, Rot ab 1,30 m. Es ist die Höhe, nicht das Alter allein, das jede Ebene öffnet.",
+          "q": "Welcher Kurs für welches Kind?"
+        },
+        {
+          "a": "Erwachsene €22 ab 14 Jahren, Teenager €19 (10-13), Kind €18 (6-9) und €15 (4-5), pro offizieller Seite.",
+          "q": "Was kostet es?"
+        },
+        {
+          "a": "Die Daten für 2026 wurden auf der am 20. August 2026 konsultierten Seite nicht veröffentlicht. Wir werden sie hinzufügen, wenn sie erscheinen, anstatt einen nicht verifizierten Kalender voranzutreiben.",
+          "q": "Wann ist der Park geöffnet?"
+        }
+      ],
+      "hero": {
+        "badge": "Abenteuerpark · Maurienne",
+        "lead": "Sechs gestapelte Kurse über dem Combe des Moulins, und das, was fast kein Park veröffentlicht: die Höhenschwelle für jeden einzelnen Kurs, von Gelb bei 90 cm bis Rot bei 1,30 m."
+      },
+      "hero_alt": "Treetop Adventure Course, Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "A43, Saint-Jean-de-Maurienne Ausgang, dann die Combe des Moulins Freizeitzone.",
+        "public_transport": "Saint-Jean-de-Maurienne-Arvan SNCF Station."
+      },
+      "meta_description": "Abenteuerpark im Saint-Jean-de-Maurienne: sechs Kurse, 100 Workshops, 120 m Ziplines — und jeder Kurs Höhenschwelle, von 90 cm bis 1,30 m. Kostenlose Parkplätze, Tiere akzeptiert, Kinderwagen zugänglich.",
+      "meta_title": "Parc aventure de la Combe des Moulins · veröffentlichte Schwellenwerte",
+      "name": "Parc aventure de la Combe des Moulins",
+      "name_alternates": [
+        "L'Aventure"
+      ],
+      "practical_info": [
+        {
+          "k": "Anschrift",
+          "v": "Zone de loisirs de la Combe des Moulins, 73300 Saint-Jean-de-Maurienne"
+        },
+        {
+          "k": "Kurse",
+          "v": "6 Kurse · über 100 Workshops · 120 m Ziplines"
+        },
+        {
+          "k": "Schwellenwerte",
+          "v": "Gelb 3 Jahre und 90 cm · Orange 1 m · Grün und Ziplines 1,10 m · Blau 1,20 m · Rot 1,30 m"
+        },
+        {
+          "k": "Preise",
+          "v": "Erwachsene €22 (14+) · Teenager €19 (10-13) · Kind €18 (6-9) und €15 (4-5)"
+        },
+        {
+          "k": "Vor Ort",
+          "v": "Freier Parkplatz · Tiere akzeptiert · Kinderwagen zugänglich"
+        },
+        {
+          "k": "Kontakt",
+          "v": "+33 6 50 36 88 95"
+        }
+      ],
+      "schema_amenities": [
+        "Freie Parkplätze",
+        "Zugelassene Tiere",
+        "Kinderwagen zugänglich"
+      ],
+      "when_to_visit": "<p>Die Eröffnungsdaten für 2026 wurden nicht auf der am 20. August 2026 konsultierten Seite veröffentlicht — Wir erfinden sie nicht. Die Preise werden veröffentlicht: Erwachsene 22 € ab 14 Jahren, Jugendliche 19 € (10-13), Kinder 18 € (6-9) und 15 € (4-5).</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "From yellow, open at 3 years and 90 cm, to red, reserved for 1.30 m.",
+          "tag": "90 cm to 1.30 m",
+          "title": "Six courses with published thresholds"
+        },
+        {
+          "description": "The long crossings above the Combe des Moulins.",
+          "tag": "Thrills",
+          "title": "120 m ziplines"
+        }
+      ],
+      "body": {
+        "what_is": "<p>At Saint-Jean-de-Maurienne, the <strong>Combe des Moulins leisure zone</strong> holds an adventure park of <strong>six courses</strong> and 'over 100 workshops', with big 120-metre ziplines crossing the combe.</p><p>What sets this park apart is not its size but its transparency: <strong>each course publishes its entry threshold</strong>, in age and in centimetres. 'Yellow course from 3 years and 90cm', 'Orange course from 1m', 'Zipline course from 1m10', 'Green course from 1m10', 'Blue course from 1m20', 'Red course from 1m30'. That is the information that decides whether a family day works or a child waits at the foot of the tree, and it is rarely written down. The park also states what matters for getting there: <strong>free parking</strong>, <strong>animals accepted</strong>, and a site that is <strong>stroller accessible</strong>.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Paid",
+        "best_season": null,
+        "commune": "Saint-Jean-de-Maurienne",
+        "dogs": "Animals accepted",
+        "min_age": "3 years (Yellow course)",
+        "min_height": "90 cm (Yellow) · 1 m (Orange) · 1.10 m (Green and Ziplines) · 1.20 m (Blue) · 1.30 m (Red)",
+        "parking": "Free parking",
+        "stroller": "Stroller accessible",
+        "type": "Adventure park",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "The thresholds are published course by course: Yellow from 3 years and 90 cm, Orange from 1 m, Green and Ziplines from 1.10 m, Blue from 1.20 m, Red from 1.30 m. It is height, not age alone, that opens each level.",
+          "q": "Which course for which child?"
+        },
+        {
+          "a": "Adult €22 from age 14, teenager €19 (10-13), child €18 (6-9) and €15 (4-5), per the official page.",
+          "q": "What does it cost?"
+        },
+        {
+          "a": "The 2026 dates were not published on the page consulted on 20 August 2026. We will add them when they appear rather than advance an unverified calendar.",
+          "q": "When is the park open?"
+        }
+      ],
+      "hero": {
+        "badge": "Adventure park · Maurienne",
+        "lead": "Six stacked courses above the Combe des Moulins, and the thing almost no park publishes: the height threshold for every single course, from yellow at 90 cm to red at 1.30 m."
+      },
+      "hero_alt": "Treetop adventure course, Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "A43, Saint-Jean-de-Maurienne exit, then the Combe des Moulins leisure zone.",
+        "public_transport": "Saint-Jean-de-Maurienne-Arvan SNCF station."
+      },
+      "meta_description": "Adventure park at Saint-Jean-de-Maurienne: six courses, 100 workshops, 120 m ziplines — and every course's height threshold, from 90 cm to 1.30 m. Free parking, animals accepted, stroller accessible.",
+      "meta_title": "Parc aventure de la Combe des Moulins · published thresholds",
+      "name": "Parc aventure de la Combe des Moulins",
+      "name_alternates": [
+        "L'Aventure"
+      ],
+      "practical_info": [
+        {
+          "k": "Address",
+          "v": "Zone de loisirs de la Combe des Moulins, 73300 Saint-Jean-de-Maurienne"
+        },
+        {
+          "k": "Courses",
+          "v": "6 courses · over 100 workshops · 120 m ziplines"
+        },
+        {
+          "k": "Thresholds",
+          "v": "Yellow 3 yrs and 90 cm · Orange 1 m · Green and Ziplines 1.10 m · Blue 1.20 m · Red 1.30 m"
+        },
+        {
+          "k": "Prices",
+          "v": "Adult €22 (14+) · teen €19 (10-13) · child €18 (6-9) and €15 (4-5)"
+        },
+        {
+          "k": "On site",
+          "v": "Free parking · animals accepted · stroller accessible"
+        },
+        {
+          "k": "Contact",
+          "v": "+33 6 50 36 88 95"
+        }
+      ],
+      "schema_amenities": [
+        "Free parking",
+        "Animals accepted",
+        "Stroller accessible"
+      ],
+      "when_to_visit": "<p>The 2026 opening dates were not published on the page consulted on 20 August 2026 — we do not invent them. The prices are published: adult €22 from age 14, teenager €19 (10-13), child €18 (6-9) and €15 (4-5).</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "Desde amarillo, abierto a 3 años y 90 cm, hasta rojo, reservado para 1.30 m.",
+          "tag": "90 cm a 1,30 m",
+          "title": "Seis cursos con umbrales publicados"
+        },
+        {
+          "description": "Los largos cruces por encima del Combe des Moulins.",
+          "tag": "Umbrales",
+          "title": "120 m de cierre"
+        }
+      ],
+      "body": {
+        "what_is": "<p>En Saint-Jean-de-Maurienne, el <strong>Zona de ocio Combe des Moulins</strong> posee un parque de aventuras <strong>six courses</strong> y 'más de 100 talleres', con grandes ziplines de 120 metros cruzando el combo.</p><p>Lo que distingue este parque no es su tamaño sino su transparencia: <strong>cada curso publica su umbral de entrada</strong>, en edad y en centímetros. Curso amarillo de 3 años y 90 cm, 'Orange course from 1m', 'Zipline course from 1m10', 'Green course from 1m10', 'Blue course from 1m20', 'Red course from 1m30'. Esa es la información que decide si un día de familia funciona o un niño espera al pie del árbol, y rara vez se escribe. El parque también declara lo que importa para llegar allí: <strong>aparcamiento gratuito</strong>, <strong>animales aceptados</strong>, y un sitio que es <strong>cochecito accesible</strong>.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagado",
+        "best_season": null,
+        "commune": "Saint-Jean-de-Maurienne",
+        "dogs": "Animales aceptados",
+        "min_age": "3 años (curso amarillo)",
+        "min_height": "90 cm (amarillo) · 1 m (Orange) · 1.10 m (Green y Ziplines) · 1.20 m (Blue) · 1.30 m (Red)",
+        "parking": "Aparcamiento gratuito",
+        "stroller": "Escalón accesible",
+        "type": "Parque de Aventuras",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "Los umbrales se publican por supuesto: Amarillo de 3 años y 90 cm, Naranja de 1 m, Verde y Ziplines de 1.10 m, Azul de 1.20 m, Rojo de 1.30 m. Es altura, no edad sola, que abre cada nivel.",
+          "q": "¿Qué curso para qué niño?"
+        },
+        {
+          "a": "Adulto 22 € a partir de 14 años, adolescente 19 € (10-13), niño 18 € (6-9) y 15 € (4-5), por página oficial.",
+          "q": "¿Qué cuesta?"
+        },
+        {
+          "a": "Las 2026 fechas no se publicaron en la página consultada el 20 de agosto de 2026. Los añadiremos cuando aparezcan en lugar de avanzar en un calendario unverificado.",
+          "q": "¿Cuándo está abierto el parque?"
+        }
+      ],
+      "hero": {
+        "badge": "Parque de Aventura · Maurienne",
+        "lead": "Seis cursos apilados por encima de la Combe des Moulins, y la cosa casi ningún parque publica: el umbral de altura para cada curso, desde amarillo a 90 cm hasta rojo a 1.30 m."
+      },
+      "hero_alt": "Curso de aventura Treetop, Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "A43, salida Saint-Jean-de-Maurienne, luego la zona de ocio Combe des Moulins.",
+        "public_transport": "Estación Saint-Jean-de-Maurienne-Arvan SNCF."
+      },
+      "meta_description": "Parque de Aventura en Saint-Jean-de-Maurienne: seis cursos, 100 talleres, 120 m ziplines — y el umbral de altura de cada curso, de 90 cm a 1,30 m. Aparcamiento gratuito, animales aceptados, acceso al cochecito.",
+      "meta_title": "Parc aventure de la Combe des Moulins · umbrales publicados",
+      "name": "Parc aventure de la Combe des Moulins",
+      "name_alternates": [
+        "L'Aventure"
+      ],
+      "practical_info": [
+        {
+          "k": "Dirección",
+          "v": "Zone de loisirs de la Combe des Moulins, 73300 Saint-Jean-de-Maurienne"
+        },
+        {
+          "k": "Cursos",
+          "v": "6 cursos · más de 100 talleres · 120 m"
+        },
+        {
+          "k": "Umbral",
+          "v": "Amarillo 3 yrs y 90 cm · Naranja 1 m · Verde y Ziplines 1.10 m · Azul 1.20 m · Rojo 1.30 m"
+        },
+        {
+          "k": "Precios",
+          "v": "Adulto 22 € (14+) · adolescente 19 € (10-13) · niño 18 € (6-9) y 15 € (4-5)"
+        },
+        {
+          "k": "En el sitio",
+          "v": "Estacionamiento gratis · animales aceptados · accesible"
+        },
+        {
+          "k": "Contacto",
+          "v": "+33 6 50 36 88 95"
+        }
+      ],
+      "schema_amenities": [
+        "Aparcamiento gratuito",
+        "Animales aceptados",
+        "Escalón accesible"
+      ],
+      "when_to_visit": "<p>Las fechas de apertura 2026 no se publicaron en la página consultada el 20 de agosto de 2026 — no los inventamos. Los precios se publican: adulto 22 € a partir de los 14 años, adolescente 19 € (10-13), niño 18 € (6-9) y 15 € (4-5).</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Du jaune accessible dès 3 ans et 90 cm au rouge réservé aux 1 m 30.",
+          "tag": "90 cm à 1 m 30",
+          "title": "Six parcours à seuils publiés"
+        },
+        {
+          "description": "Les grandes traversées au-dessus de la Combe des Moulins.",
+          "tag": "Sensations",
+          "title": "Tyroliennes de 120 m"
+        }
+      ],
+      "body": {
+        "what_is": "<p>À Saint-Jean-de-Maurienne, la <strong>zone de loisirs de la Combe des Moulins</strong> abrite un parc aventure de <strong>six parcours</strong> et « plus de 100 ateliers », avec de grandes tyroliennes de 120 mètres qui traversent la combe.</p><p>Ce qui distingue ce parc n'est pas sa taille, c'est sa transparence : <strong>chaque parcours publie son seuil d'accès</strong>, en âge et en centimètres. « Parcours Jaune à partir de 3 ans et 90cm », « Parcours Orange à partir de 1m », « Parcours Tyroliennes à partir de 1m10 », « Parcours Vert à partir de 1m10 », « Parcours Bleu à partir de 1m20 », « Parcours Rouge à partir de 1m30 ». C'est l'information qui décide si une journée en famille fonctionne ou si un enfant reste au pied de l'arbre, et elle est rarement écrite noir sur blanc. Le parc annonce aussi ce qui compte pour venir : <strong>parking gratuit</strong>, <strong>animaux acceptés</strong>, et un site <strong>accessible en poussette</strong>.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Payant",
+        "best_season": null,
+        "commune": "Saint-Jean-de-Maurienne",
+        "dogs": "Animaux acceptés",
+        "min_age": "3 ans (parcours Jaune)",
+        "min_height": "90 cm (Jaune) · 1 m (Orange) · 1 m 10 (Vert et Tyroliennes) · 1 m 20 (Bleu) · 1 m 30 (Rouge)",
+        "parking": "Parking gratuit",
+        "stroller": "Accessible en poussette",
+        "type": "Parc aventure",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "Les seuils sont publiés parcours par parcours : Jaune à partir de 3 ans et 90 cm, Orange à partir de 1 m, Vert et Tyroliennes à partir de 1 m 10, Bleu à partir de 1 m 20, Rouge à partir de 1 m 30. C'est la taille, pas seulement l'âge, qui ouvre chaque niveau.",
+          "q": "Quel parcours pour quel enfant ?"
+        },
+        {
+          "a": "Adulte 22 € à partir de 14 ans, adolescent 19 € (10-13 ans), enfant 18 € (6-9 ans) et 15 € (4-5 ans), selon la page officielle.",
+          "q": "Combien ça coûte ?"
+        },
+        {
+          "a": "Les dates 2026 n'étaient pas publiées sur la page consultée le 20 août 2026. Nous les ajouterons dès leur parution plutôt que d'avancer un calendrier non vérifié.",
+          "q": "Quand le parc est-il ouvert ?"
+        }
+      ],
+      "hero": {
+        "badge": "Parc aventure · Maurienne",
+        "lead": "Six parcours étagés au-dessus de la Combe des Moulins, et la chose que presque aucun parc ne publie : le seuil de taille de chaque parcours, du jaune à 90 cm au rouge à 1 m 30."
+      },
+      "hero_alt": "Parcours d'accrobranche dans les arbres, Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "A43 sortie Saint-Jean-de-Maurienne, puis zone de loisirs de la Combe des Moulins.",
+        "public_transport": "Gare SNCF de Saint-Jean-de-Maurienne-Arvan."
+      },
+      "meta_description": "Parc aventure à Saint-Jean-de-Maurienne : six parcours, 100 ateliers, tyroliennes de 120 m — et le seuil de taille de chaque parcours, de 90 cm à 1 m 30. Parking gratuit, animaux acceptés, accessible en poussette.",
+      "meta_title": "Parc aventure de la Combe des Moulins · seuils publiés",
+      "name": "Parc aventure de la Combe des Moulins",
+      "name_alternates": [
+        "L'Aventure"
+      ],
+      "practical_info": [
+        {
+          "k": "Adresse",
+          "v": "Zone de loisirs de la Combe des Moulins, 73300 Saint-Jean-de-Maurienne"
+        },
+        {
+          "k": "Parcours",
+          "v": "6 parcours · plus de 100 ateliers · tyroliennes de 120 m"
+        },
+        {
+          "k": "Seuils",
+          "v": "Jaune 3 ans et 90 cm · Orange 1 m · Vert et Tyroliennes 1 m 10 · Bleu 1 m 20 · Rouge 1 m 30"
+        },
+        {
+          "k": "Tarifs",
+          "v": "Adulte 22 € (14 ans et +) · ado 19 € (10-13) · enfant 18 € (6-9) et 15 € (4-5)"
+        },
+        {
+          "k": "Sur place",
+          "v": "Parking gratuit · animaux acceptés · accessible en poussette"
+        },
+        {
+          "k": "Contact",
+          "v": "06 50 36 88 95"
+        }
+      ],
+      "schema_amenities": [
+        "Parking gratuit",
+        "Animaux acceptés",
+        "Accessible en poussette"
+      ],
+      "when_to_visit": "<p>Les dates d'ouverture 2026 ne figuraient pas sur la page consultée le 20 août 2026 — nous ne les inventons pas. Les tarifs, eux, sont publiés : adulte 22 € à partir de 14 ans, adolescent 19 € (10-13 ans), enfant 18 € (6-9 ans) et 15 € (4-5 ans).</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Dal giallo, aperto a 3 anni e 90 cm, al rosso, riservato a 1.30 m.",
+          "tag": "90 cm a 1.30 m",
+          "title": "Sei corsi con soglie pubblicate"
+        },
+        {
+          "description": "I lunghi incroci sopra la Combe des Moulins.",
+          "tag": "Thrills",
+          "title": "120 m zip"
+        }
+      ],
+      "body": {
+        "what_is": "<p>A Saint-Jean-de-Maurienne, il <strong>Combe des Moulins zona di svago</strong> detiene un parco avventura <strong>sei corsi</strong> e 'oltre 100 workshop', con grandi zip da 120 metri che attraversano la pettinatura.</p><p>Ciò che distingue questo parco non è la sua dimensione ma la sua trasparenza: <strong>ogni corso pubblica la sua soglia di entrata</strong>, in età e in centimetri. 'Corso giallo da 3 anni e 90cm', 'Orange course from 1m', 'Zipline course from 1m10', 'Green course from 1m10', 'Blue course from 1m20', 'Red course from 1m30'. Questa è l'informazione che decide se un giorno di famiglia funziona o un bambino aspetta ai piedi dell'albero, e raramente è scritto giù. Il parco afferma anche ciò che conta per arrivarci: <strong>parcheggio gratuito</strong>♪ <strong>animali accettati</strong>, e un sito che è <strong>passeggino accessibile</strong>.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagato",
+        "best_season": null,
+        "commune": "Saint-Jean-de-Maurienne",
+        "dogs": "Animali accettati",
+        "min_age": "3 anni (Corso giallo)",
+        "min_height": "90 cm (giallo) · 1 m (arancione) · 1.10 m (verde e zipline) · 1.20 m (blu) · 1.30 m (rosso)",
+        "parking": "Parcheggio gratuito",
+        "stroller": "Passeggino accessibile",
+        "type": "Parco avventura",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "Le soglie sono pubblicate naturalmente: Giallo da 3 anni e 90 cm, Arancione da 1 m, Verde e Zipline da 1.10 m, Blu da 1.20 m, Rosso da 1.30 m. È l'altezza, non l'età da sola, che apre ogni livello.",
+          "q": "Quale corso per quale bambino?"
+        },
+        {
+          "a": "Adulto €22 a partire da 14 anni, adolescente €19 (10-13), bambino €18 (6-9) e €15 (4-5), per pagina ufficiale.",
+          "q": "Cosa costa?"
+        },
+        {
+          "a": "Le date del 2026 non sono state pubblicate sulla pagina consultata il 20 agosto 2026. Li aggiungeremo quando appaiono piuttosto che avanzare un calendario non verificato.",
+          "q": "Quando è aperto il parco?"
+        }
+      ],
+      "hero": {
+        "badge": "Parco avventura · Maurienne",
+        "lead": "Sei corsi impilati sopra la Combe des Moulins, e la cosa quasi nessun parco pubblica: la soglia di altezza per ogni singolo corso, dal giallo a 90 cm al rosso a 1.30 m."
+      },
+      "hero_alt": "Corso di avventura Treetop, Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "A43, uscita Saint-Jean-de-Maurienne, poi la zona di svago Combe des Moulins.",
+        "public_transport": "Stazione Saint-Jean-de-Maurienne-Arvan SNCF."
+      },
+      "meta_description": "Parco avventura a Saint-Jean-de-Maurienne: sei corsi, 100 workshop, 120 m zipline — e soglia di altezza di ogni corso, da 90 cm a 1.30 m. Parcheggio gratuito, animali accettati, passeggino accessibile.",
+      "meta_title": "Parc aventure de la Combe des Moulins · soglie pubblicate",
+      "name": "Parc aventure de la Combe des Moulins",
+      "name_alternates": [
+        "L'Aventure"
+      ],
+      "practical_info": [
+        {
+          "k": "Indirizzo",
+          "v": "Zone de loisirs de la Combe des Moulins, 73300 Saint-Jean-de-Maurienne"
+        },
+        {
+          "k": "Corsi",
+          "v": "6 corsi · oltre 100 workshop · 120 m zip"
+        },
+        {
+          "k": "Soglia",
+          "v": "Giallo 3 anni e 90 cm · Arancione 1 m · Verde e Zipline 1.10 m · Blu 1.20 m · Rosso 1.30 m"
+        },
+        {
+          "k": "Prezzi",
+          "v": "Adulto €22 (14+) · adolescente €19 (10-13) · bambino €18 (6-9) e €15 (4-5)"
+        },
+        {
+          "k": "Sul sito",
+          "v": "Parcheggio gratuito · animali accettati · passeggino accessibile"
+        },
+        {
+          "k": "Contatto",
+          "v": "+33 6 50 36 88 95"
+        }
+      ],
+      "schema_amenities": [
+        "Parcheggio gratuito",
+        "Animali accettati",
+        "Passeggino accessibile"
+      ],
+      "when_to_visit": "<p>Le date di apertura del 2026 non sono state pubblicate nella pagina consultata il 20 agosto 2026 — noi non li inventiamo. I prezzi sono pubblicati: adulto €22 a partire da 14 anni, adolescente €19 (10-13), bambino €18 (6-9) e €15 (4-5).</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Van geel, open bij 3 jaar en 90 cm, rood, gereserveerd voor 1,30 m.",
+          "tag": "90 cm tot 1,30 m",
+          "title": "Zes cursussen met gepubliceerde drempels"
+        },
+        {
+          "description": "De lange kruisingen boven de Combe des Moulins.",
+          "tag": "Opwinding",
+          "title": "120 m ritsen"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Op Saint-Jean-de-Maurienne, de <strong>Combe des Moulins recreatiezone</strong> heeft een avonturenpark van <strong>zes cursussen</strong> en 'meer dan 100 werkplaatsen', met grote 120 meter ritssluitingen over de kam.</p><p>Wat dit park onderscheidt is niet zijn omvang maar zijn transparantie: <strong>elke cursus publiceert haar drempel</strong>, in leeftijd en in centimeter. 'Gele cursus van 3 jaar en 90cm', 'Oranje cursus van 1m', 'Zipline cursus van 1m10', 'Groene cursus van 1m10', 'Blauwe cursus van 1m20', 'Rode cursus van 1m30'. Dat is de informatie die beslist of een gezinsdag werkt of een kind wacht aan de voet van de boom, en het wordt zelden opgeschreven. In het park staat ook wat er toe doet om daar te komen: <strong>gratis parkeren</strong>, <strong>toegelaten dieren</strong>, en een site die is <strong>buggy toegankelijk</strong>.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Betaald",
+        "best_season": null,
+        "commune": "Saint-Jean-de-Maurienne",
+        "dogs": "Geaccepteerde dieren",
+        "min_age": "3 jaar (Gele cursus)",
+        "min_height": "90 cm (geel) · 1 m (oranje) · 1.10 m (groen en rits) · 1,20 m (blauw) · 1,30 m (rood)",
+        "parking": "Gratis parkeren",
+        "stroller": "Toegankelijk voor wandelaars",
+        "type": "Avontuurpark",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "De drempels worden per cursus gepubliceerd: Geel vanaf 3 jaar en 90 cm, Oranje vanaf 1 m, Groen en Ziplines vanaf 1.10 m, Blauw vanaf 1,20 m, Rood vanaf 1,30 m. Het is hoogte, niet leeftijd alleen, dat opent elk niveau.",
+          "q": "Welke cursus voor welk kind?"
+        },
+        {
+          "a": "Volwassene € 22 vanaf 14 jaar, tiener € 19 (10-13), kind € 18 (6-9) en € 15 (4-5), per officiële pagina.",
+          "q": "Wat kost het?"
+        },
+        {
+          "a": "De data van 2026 zijn niet gepubliceerd op de pagina geraadpleegd op 20 augustus 2026. We zullen ze toevoegen als ze verschijnen in plaats van een ongeverifieerde kalender.",
+          "q": "Wanneer is het park open?"
+        }
+      ],
+      "hero": {
+        "badge": "Avontuurpark · Maurienne",
+        "lead": "Zes gestapelde cursussen boven de Combe des Moulins, en het ding bijna geen park publiceert: de hoogtedrempel voor elke kuur, van geel op 90 cm tot rood op 1,30 m."
+      },
+      "hero_alt": "Treetop adventure cursus, Maurienne",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "A43, Saint-Jean-de-Maurienne uitgang, dan de Combe des Moulins recreatiezone.",
+        "public_transport": "Saint-Jean-de-Maurienne-Arvan SNCF station."
+      },
+      "meta_description": "Avontuurpark op Saint-Jean-de-Maurienne: zes cursussen, 100 workshops, 120 m ziplines en hoogte van elke cursus, van 90 cm tot 1,30 m. Gratis parkeren, dieren toegestaan, kinderwagen toegankelijk.",
+      "meta_title": "Parc aventure de la Combe des Moulins · gepubliceerde drempels",
+      "name": "Parc aventure de la Combe des Moulins",
+      "name_alternates": [
+        "L'Aventure"
+      ],
+      "practical_info": [
+        {
+          "k": "Adres",
+          "v": "Zone de loisirs de la Combe des Moulins, 73300 Saint-Jean-de-Maurienne"
+        },
+        {
+          "k": "Leren",
+          "v": "6 cursussen · meer dan 100 workshops · 120 m ritsen"
+        },
+        {
+          "k": "Drempels",
+          "v": "Geel 3 jaar en 90 cm · oranje 1 m · groen en rits 1.10 m · blauw 1,20 m · rood 1,30 m"
+        },
+        {
+          "k": "Prijzen",
+          "v": "Volwassene 22 € (14+) · tiener 19 € (10-13) · kind 18 € (6,9) en 15 € (4-5)"
+        },
+        {
+          "k": "Ter plaatse",
+          "v": "Gratis parkeren · dieren toegestaan · kinderwagen toegankelijk"
+        },
+        {
+          "k": "Contactpersoon",
+          "v": "+33 6 50 36 88 95"
+        }
+      ],
+      "schema_amenities": [
+        "Gratis parkeren",
+        "Geaccepteerde dieren",
+        "Toegankelijk voor wandelaars"
+      ],
+      "when_to_visit": "<p>De openingsdata van 2026 zijn niet gepubliceerd op de pagina die op 20 augustus 2026 is geraadpleegd. We verzinnen ze niet. De prijzen worden gepubliceerd: volwassen € 22 vanaf 14 jaar, tiener € 19 (10-13), kind € 18 (6-9) en € 15 (4-5).</p>"
+    }
+  },
+  "latitude": 45.28166,
+  "longitude": 6.34611,
+  "official_site_url": "https://www.savoie-mont-blanc.com/sports-de-grimpe/laventure-parc-accrobranche-6501229/",
+  "partners": [],
+  "postal_code": "73300",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-20, page FR de Savoie Mont Blanc (agence touristique départementale). « Zone de loisirs de la Combe des Moulins 73300 Saint-Jean-de-Maurienne ». Six parcours et « plus de 100 ateliers », grandes tyroliennes de 120 m au-dessus de la Combe des Moulins. SEUILS PUBLIÉS PARCOURS PAR PARCOURS — la donnée que presque personne ne publie : « Parcours Jaune à partir de 3 ans et 90cm », « Parcours Orange à partir de 1m », « Parcours Tyroliennes à partir de 1m10 », « Parcours Vert à partir de 1m10 », « Parcours Bleu à partir de 1m20 », « Parcours Rouge à partir de 1m30 ». Tarifs : adulte 22 € (à partir de 14 ans), ado 19 € (10-13 ans), enfant 18 € (6-9 ans) et 15 € (4-5 ans). Modificateurs publiés : « Parking gratuit », « Animaux acceptés », « Accessible en poussette ». Tél. 06 50 36 88 95. Dates d'ouverture 2026 et altitude non publiées sur la page consultée → non renseignées.",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "parc-aventure-de-la-combe-des-moulins",
+  "sources": [
+    "https://www.savoie-mont-blanc.com/sports-de-grimpe/laventure-parc-accrobranche-6501229/"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "SAISON — dates d'ouverture 2026 non publiées sur la page consultée ; non renseignées.",
+    "ACCES_PMR_UNVERIFIED — « Accessible en poussette » est publié, mais aucun statut fauteuil roulant ne l'est ; acces_pmr reste null."
+  ]
+}

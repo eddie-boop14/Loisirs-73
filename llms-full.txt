@@ -1,9 +1,9 @@
 # Loisirs 73 — Full content dump
 
 Generated: 2026-08-20
-Total lieux: 129
+Total lieux: 133
 
-This file concatenates the FR facet markdown of all 129 leisure sites in Savoie. Each section is a standalone markdown document with YAML frontmatter and the fixed facet heading canon. Sections are separated by `===` rulers.
+This file concatenates the FR facet markdown of all 133 leisure sites in Savoie. Each section is a standalone markdown document with YAML frontmatter and the fixed facet heading canon. Sections are separated by `===` rulers.
 
 For programmatic access, fetch individual files at https://loisirs73.fr/content/{slug}.md (FR), https://loisirs73.fr/content/en/{slug}.md (EN), or https://loisirs73.fr/api/lieu/{slug}.json (typed JSON).
 
@@ -79,6 +79,76 @@ Saison publiée
 ## Source officielle
 
 https://hautecombe.chemin-neuf.fr/visite-audioguidee/
+
+================================================================================
+
+---
+slug: avenue-verte-de-tarentaise
+name: "Avenue Verte de Tarentaise"
+category: voie-verte
+category_label: "Voie verte"
+commune: "Bourg-Saint-Maurice"
+postal_code: "73700"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.61139
+longitude: 6.76889
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/avenue-verte-de-tarentaise
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/avenue-verte-de-tarentaise.json
+photo_url: /img/generique/generique-voie-verte-urbaine.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-18
+source: loisirs73.fr
+---
+
+# Avenue Verte de Tarentaise
+
+## Faits
+
+- Commune: Bourg-Saint-Maurice, Savoie (73700)
+- GPS: 45.61139, 6.76889
+- Catégorie: voie-verte
+- Type: Voie verte
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Parking à proximité
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+31 mars – 31 octobre
+- Fenêtre d'accès hiver: Non renseigné
+- Infrastructure hiver: Non renseigné
+- Panorama enneigé: Non renseigné
+- Équipement obligatoire: Loi Montagne II — pneus hiver ou chaînes obligatoires (1 nov – 31 mars)
+
+## Source officielle
+
+https://www.versantsdaime.fr/culture-sports-loisirs/voie-verte/
 
 ================================================================================
 
@@ -5024,6 +5094,204 @@ Deux périodes publiées, deux fenêtres non publiées
 ## Source officielle
 
 https://www.valdisere.com/offres/musee-val-histoire-val-d-isere-fr-4196697/
+
+================================================================================
+
+---
+slug: parc-aventure-de-la-combe-des-moulins
+name: "Parc aventure de la Combe des Moulins"
+category: domaine
+category_label: "Base de loisirs"
+commune: "Saint-Jean-de-Maurienne"
+postal_code: "73300"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.28166
+longitude: 6.34611
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/parc-aventure-de-la-combe-des-moulins
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/parc-aventure-de-la-combe-des-moulins.json
+photo_url: /img/generique/generique-accrobranche-3.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-18
+source: loisirs73.fr
+---
+
+# Parc aventure de la Combe des Moulins
+
+## Faits
+
+- Commune: Saint-Jean-de-Maurienne, Savoie (73300)
+- GPS: 45.28166, 6.34611
+- Catégorie: domaine
+- Type: Parc aventure
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Parking gratuit
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Non renseigné
+
+## Source officielle
+
+https://www.savoie-mont-blanc.com/sports-de-grimpe/laventure-parc-accrobranche-6501229/
+
+================================================================================
+
+---
+slug: parc-aventure-de-la-foret-de-l-enfer
+name: "La Forêt de l'Enfer"
+category: domaine
+category_label: "Base de loisirs"
+commune: "Valloire"
+postal_code: "73450"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.1745
+longitude: 6.4285
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/parc-aventure-de-la-foret-de-l-enfer
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/parc-aventure-de-la-foret-de-l-enfer.json
+photo_url: /img/generique/generique-accrobranche-7.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-18
+source: loisirs73.fr
+---
+
+# La Forêt de l'Enfer
+
+## Faits
+
+- Commune: Valloire, Savoie (73450)
+- GPS: 45.1745, 6.4285
+- Catégorie: domaine
+- Type: Parc aventure
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Non renseigné
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+5 juillet – 28 août 2026
+
+## Source officielle
+
+https://www.valloire.net/activite/la-foret-de-lenfer-parc-accrobranche-valloire/
+
+================================================================================
+
+---
+slug: parcobranche-du-diable-avrieux
+name: "Parcobranche du Diable"
+category: domaine
+category_label: "Base de loisirs"
+commune: "Avrieux"
+postal_code: "73500"
+department: "Savoie"
+department_code: "73"
+region: "Auvergne-Rhône-Alpes"
+country: France
+latitude: 45.21667
+longitude: 6.70833
+geo_verified: false
+google_place_id: null
+canonical_url: https://loisirs73.fr/parcobranche-du-diable-avrieux
+language: fr
+facet_json: https://loisirs73.fr/api/lieu/parcobranche-du-diable-avrieux.json
+photo_url: /img/generique/generique-accrobranche-11.jpg
+photo_type: generic
+photo_author: null
+photo_license: null
+photo_source: null
+last_updated: 2026-08-18
+source: loisirs73.fr
+---
+
+# Parcobranche du Diable
+
+## Faits
+
+- Commune: Avrieux, Savoie (73500)
+- GPS: 45.21667, 6.70833
+- Catégorie: domaine
+- Type: Parc aventure
+
+## Horaires
+
+Non renseigné
+
+## Tarifs
+
+Gratuit
+
+## Accès (PMR)
+
+Non renseigné
+
+## Parking
+
+Parking gratuit autour du Fort Marie Thérèse
+
+## Transport
+
+Non renseigné
+
+## Saison
+
+Non renseigné
+
+## Source officielle
+
+https://www.parcdudiable.fr/infos-pratiques
 
 ================================================================================
 

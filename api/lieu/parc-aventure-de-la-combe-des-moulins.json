@@ -1,0 +1,24 @@
+{
+  "name": "Parc aventure de la Combe des Moulins",
+  "commune": "Saint-Jean-de-Maurienne",
+  "gps": {
+    "lat": 45.28166,
+    "lng": 6.34611
+  },
+  "type": "domaine",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": "Parking gratuit",
+  "transport": null,
+  "season": null,
+  "winter": null,
+  "official_url": "https://www.savoie-mont-blanc.com/sports-de-grimpe/laventure-parc-accrobranche-6501229/",
+  "last_verified": null
+}

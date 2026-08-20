@@ -1,5 +1,5 @@
 {
-  "count": 129,
+  "count": 133,
   "lieux": [
     {
       "slug": "abbaye-royale-d-hautecombe",
@@ -21,6 +21,27 @@
       "facet_md_en": "https://loisirs73.fr/content/en/abbaye-royale-d-hautecombe.md",
       "facet_json": "https://loisirs73.fr/api/lieu/abbaye-royale-d-hautecombe.json",
       "photo": "/img/generique/generique-chateau-toiture.jpg"
+    },
+    {
+      "slug": "avenue-verte-de-tarentaise",
+      "name": "Avenue Verte de Tarentaise",
+      "category": "voie-verte",
+      "commune": "Bourg-Saint-Maurice",
+      "postal_code": "73700",
+      "latitude": 45.61139,
+      "longitude": 6.76889,
+      "urls": {
+        "fr": "https://loisirs73.fr/avenue-verte-de-tarentaise",
+        "en": "https://loisirs73.fr/en/avenue-verte-de-tarentaise",
+        "de": "https://loisirs73.fr/de/avenue-verte-de-tarentaise",
+        "it": "https://loisirs73.fr/it/avenue-verte-de-tarentaise",
+        "es": "https://loisirs73.fr/es/avenue-verte-de-tarentaise",
+        "nl": "https://loisirs73.fr/nl/avenue-verte-de-tarentaise"
+      },
+      "facet_md": "https://loisirs73.fr/content/avenue-verte-de-tarentaise.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/avenue-verte-de-tarentaise.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/avenue-verte-de-tarentaise.json",
+      "photo": "/img/generique/generique-voie-verte-urbaine.jpg"
     },
     {
       "slug": "base-de-loisirs-des-glieres-grignon",
@@ -1533,6 +1554,69 @@
       "facet_md_en": "https://loisirs73.fr/content/en/musee-val-histoire-val-d-isere.md",
       "facet_json": "https://loisirs73.fr/api/lieu/musee-val-histoire-val-d-isere.json",
       "photo": "/img/generique/generique-musee.jpg"
+    },
+    {
+      "slug": "parc-aventure-de-la-combe-des-moulins",
+      "name": "Parc aventure de la Combe des Moulins",
+      "category": "domaine",
+      "commune": "Saint-Jean-de-Maurienne",
+      "postal_code": "73300",
+      "latitude": 45.28166,
+      "longitude": 6.34611,
+      "urls": {
+        "fr": "https://loisirs73.fr/parc-aventure-de-la-combe-des-moulins",
+        "en": "https://loisirs73.fr/en/parc-aventure-de-la-combe-des-moulins",
+        "de": "https://loisirs73.fr/de/parc-aventure-de-la-combe-des-moulins",
+        "it": "https://loisirs73.fr/it/parc-aventure-de-la-combe-des-moulins",
+        "es": "https://loisirs73.fr/es/parc-aventure-de-la-combe-des-moulins",
+        "nl": "https://loisirs73.fr/nl/parc-aventure-de-la-combe-des-moulins"
+      },
+      "facet_md": "https://loisirs73.fr/content/parc-aventure-de-la-combe-des-moulins.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/parc-aventure-de-la-combe-des-moulins.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/parc-aventure-de-la-combe-des-moulins.json",
+      "photo": "/img/generique/generique-accrobranche-3.jpg"
+    },
+    {
+      "slug": "parc-aventure-de-la-foret-de-l-enfer",
+      "name": "La Forêt de l'Enfer",
+      "category": "domaine",
+      "commune": "Valloire",
+      "postal_code": "73450",
+      "latitude": 45.1745,
+      "longitude": 6.4285,
+      "urls": {
+        "fr": "https://loisirs73.fr/parc-aventure-de-la-foret-de-l-enfer",
+        "en": "https://loisirs73.fr/en/parc-aventure-de-la-foret-de-l-enfer",
+        "de": "https://loisirs73.fr/de/parc-aventure-de-la-foret-de-l-enfer",
+        "it": "https://loisirs73.fr/it/parc-aventure-de-la-foret-de-l-enfer",
+        "es": "https://loisirs73.fr/es/parc-aventure-de-la-foret-de-l-enfer",
+        "nl": "https://loisirs73.fr/nl/parc-aventure-de-la-foret-de-l-enfer"
+      },
+      "facet_md": "https://loisirs73.fr/content/parc-aventure-de-la-foret-de-l-enfer.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/parc-aventure-de-la-foret-de-l-enfer.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/parc-aventure-de-la-foret-de-l-enfer.json",
+      "photo": "/img/generique/generique-accrobranche-7.jpg"
+    },
+    {
+      "slug": "parcobranche-du-diable-avrieux",
+      "name": "Parcobranche du Diable",
+      "category": "domaine",
+      "commune": "Avrieux",
+      "postal_code": "73500",
+      "latitude": 45.21667,
+      "longitude": 6.70833,
+      "urls": {
+        "fr": "https://loisirs73.fr/parcobranche-du-diable-avrieux",
+        "en": "https://loisirs73.fr/en/parcobranche-du-diable-avrieux",
+        "de": "https://loisirs73.fr/de/parcobranche-du-diable-avrieux",
+        "it": "https://loisirs73.fr/it/parcobranche-du-diable-avrieux",
+        "es": "https://loisirs73.fr/es/parcobranche-du-diable-avrieux",
+        "nl": "https://loisirs73.fr/nl/parcobranche-du-diable-avrieux"
+      },
+      "facet_md": "https://loisirs73.fr/content/parcobranche-du-diable-avrieux.md",
+      "facet_md_en": "https://loisirs73.fr/content/en/parcobranche-du-diable-avrieux.md",
+      "facet_json": "https://loisirs73.fr/api/lieu/parcobranche-du-diable-avrieux.json",
+      "photo": "/img/generique/generique-accrobranche-11.jpg"
     },
     {
       "slug": "plage-aiguebelette-le-lac",

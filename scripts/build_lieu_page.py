@@ -142,6 +142,8 @@ FACT_LABELS = {
     "parking": "Parking",
     "dogs": "Animaux",
     "stroller": "Poussette / PMR",
+    "min_age": "Âge minimum",
+    "min_height": "Taille minimum",
     "duration": "Durée",
     "best_season": "Meilleure saison",
     "lac": "Lac",
@@ -151,7 +153,7 @@ FACT_LABELS = {
 FACT_ORDER = [
     "type", "access", "tarif", "lac", "surveillance",
     "pavillon_bleu_2026", "duration", "best_season",
-    "parking", "dogs", "stroller", "commune",
+    "parking", "dogs", "stroller", "min_age", "min_height", "commune",
 ]
 
 
@@ -298,6 +300,11 @@ FACT_LABELS_I18N = {
     "commune":     {"fr": "Commune", "en": "Town", "de": "Ort", "it": "Comune", "es": "Comuna", "nl": "Gemeente"},
     "parking":     {"fr": "Parking", "en": "Parking", "de": "Parkplatz", "it": "Parcheggio", "es": "Aparcamiento", "nl": "Parkeren"},
     "dogs":        {"fr": "Animaux", "en": "Animals", "de": "Tiere", "it": "Animali", "es": "Animales", "nl": "Dieren"},
+    # The two gates that decide whether a family day out works, and that almost
+    # nobody publishes in a place a search engine can read: an accrobranche sells
+    # a ticket the child cannot use if they are 4 cm short.
+    "min_age":     {"fr": "Âge minimum", "en": "Minimum age", "de": "Mindestalter", "it": "Età minima", "es": "Edad mínima", "nl": "Minimumleeftijd"},
+    "min_height":  {"fr": "Taille minimum", "en": "Minimum height", "de": "Mindestgröße", "it": "Altezza minima", "es": "Altura mínima", "nl": "Minimumlengte"},
     "stroller":    {"fr": "Poussette / PMR", "en": "Stroller / Reduced mobility", "de": "Kinderwagen / Behinderte", "it": "Passeggino / Disabilità", "es": "Cochecito / PMR", "nl": "Kinderwagen / Mindervaliden"},
     "duration":    {"fr": "Durée", "en": "Duration", "de": "Dauer", "it": "Durata", "es": "Duración", "nl": "Duur"},
     "best_season": {"fr": "Meilleure saison", "en": "Best season", "de": "Beste Saison", "it": "Stagione migliore", "es": "Mejor temporada", "nl": "Beste seizoen"},
@@ -1241,8 +1248,12 @@ MODIFIER_FAQ = (
       "it": "Quali sono le tariffe?", "es": "¿Cuánto cuesta?", "nl": "Wat kost het?"},
      {"fr": "Accès : {v}.", "en": "Access: {v}.", "de": "Zugang: {v}.",
       "it": "Accesso: {v}.", "es": "Acceso: {v}.", "nl": "Toegang: {v}."},
+     # "Combien ça coûte ?" asks the price without using the word "tarif" — the
+     # first authored/derived collision this caught. Hints must cover how the
+     # question is PHRASED, not just the noun the modifier is named after.
      ("tarif", "gratuit", "payant", "cost", "price", "kostet", "gratis",
-      "tariffe", "cuesta", "prix")),
+      "tariffe", "cuesta", "prix", "coûte", "coût", "combien", "how much",
+      "quanto costa", "cuánto", "hoeveel", "wat kost")),
     ("season", "best_season",
      {"fr": "Quand y aller ?", "en": "When should you go?", "de": "Wann hingehen?",
       "it": "Quando andarci?", "es": "¿Cuándo ir?", "nl": "Wanneer gaan?"},
@@ -1257,6 +1268,20 @@ MODIFIER_FAQ = (
      {"fr": "Chiens : {v}.", "en": "Dogs: {v}.", "de": "Hunde: {v}.",
       "it": "Cani: {v}.", "es": "Perros: {v}.", "nl": "Honden: {v}."},
      ("chien", "dog", "hund", "cani", "perro", "honden")),
+    ("min_age", "min_age",
+     {"fr": "À partir de quel âge ?", "en": "What is the minimum age?",
+      "de": "Ab welchem Alter?", "it": "Da che età?",
+      "es": "¿A partir de qué edad?", "nl": "Vanaf welke leeftijd?"},
+     {"fr": "Âge minimum : {v}.", "en": "Minimum age: {v}.", "de": "Mindestalter: {v}.",
+      "it": "Età minima: {v}.", "es": "Edad mínima: {v}.", "nl": "Minimumleeftijd: {v}."},
+     ("âge", "age", "alter", "età", "edad", "leeftijd", "ans ?")),
+    ("min_height", "min_height",
+     {"fr": "Y a-t-il une taille minimum ?", "en": "Is there a minimum height?",
+      "de": "Gibt es eine Mindestgröße?", "it": "C'è un'altezza minima?",
+      "es": "¿Hay una altura mínima?", "nl": "Is er een minimumlengte?"},
+     {"fr": "Taille minimum : {v}.", "en": "Minimum height: {v}.", "de": "Mindestgröße: {v}.",
+      "it": "Altezza minima: {v}.", "es": "Altura mínima: {v}.", "nl": "Minimumlengte: {v}."},
+     ("taille", "height", "größe", "grösse", "altezza", "altura", "lengte", "mesure")),
     ("stroller", "stroller",
      {"fr": "Est-ce accessible en poussette ?", "en": "Is it stroller-friendly?",
       "de": "Ist es mit Kinderwagen machbar?", "it": "È accessibile con il passeggino?",

@@ -2,7 +2,7 @@
 
 > Independent guide to public leisure sites in Savoie, France. Waterfalls, Castles, Domaine, Lakes, Museums, Beaches, Mountain passes and viewpoints, Trails, Ski resorts, Cable cars and lifts, Greenways — every fact verified against official sources (communes, tourism offices, ONF).
 
-Loisirs 73 catalogs 129 leisure destinations in the Savoie department (73), French Alps. Each destination exposes three machine surfaces (below) plus HTML pages in 6 languages (French canonical).
+Loisirs 73 catalogs 133 leisure destinations in the Savoie department (73), French Alps. Each destination exposes three machine surfaces (below) plus HTML pages in 6 languages (French canonical).
 
 ## URL patterns (per lieu — fastest lane for agents)
 
@@ -33,7 +33,7 @@ Content quality signals: Every fact has a cited source. No marketing language. I
 
 ## Discovery files
 
-- [llms-full.txt — full content concatenated](https://loisirs73.fr/llms-full.txt): All 129 leisure sites' FR facet md — single file for full ingestion.
+- [llms-full.txt — full content concatenated](https://loisirs73.fr/llms-full.txt): All 133 leisure sites' FR facet md — single file for full ingestion.
 - [API — lieux index JSON](https://loisirs73.fr/api/lieux.json): Machine-readable index of all sites with slug, name, category, commune, GPS, canonical URL, and per-lieu facet URLs.
 - [Sitemap index](https://loisirs73.fr/sitemap.xml): Standard XML sitemap with lastmod, hreflang, image entries.
 - [.well-known/ai-info.json](https://loisirs73.fr/.well-known/ai-info.json): Discovery manifest with all AI-related endpoints.
@@ -56,16 +56,16 @@ Use these when the question spans many sites (e.g. "which waterfalls have parkin
 
 - [Lacs & plages](https://loisirs73.fr/content/lacs.md): 27 lieux.
 - [Cascades](https://loisirs73.fr/content/cascades.md): 12 lieux.
-- [Bases de loisirs](https://loisirs73.fr/content/bases-de-loisirs.md): 4 lieux.
+- [Bases de loisirs](https://loisirs73.fr/content/bases-de-loisirs.md): 7 lieux.
 - [Points de vue](https://loisirs73.fr/content/points-de-vue.md): 15 lieux.
 - [Téléphériques & télécabines](https://loisirs73.fr/content/telecabines.md): 15 lieux.
 - [Châteaux](https://loisirs73.fr/content/chateaux.md): 12 lieux.
 - [Sentiers](https://loisirs73.fr/content/sentiers.md): 12 lieux.
-- [Voies vertes](https://loisirs73.fr/content/voies-vertes.md): 4 lieux.
+- [Voies vertes](https://loisirs73.fr/content/voies-vertes.md): 5 lieux.
 - [Musées](https://loisirs73.fr/content/musees.md): 12 lieux.
 - [Attractions & loisirs](https://loisirs73.fr/content/attractions.md): 16 lieux.
 
-## All lieux by category (129 total)
+## All lieux by category (133 total)
 
 ### Lacs & plages (27 lieux)
 
@@ -112,11 +112,14 @@ Use these when the question spans many sites (e.g. "which waterfalls have parkin
 - [Gorges du Sierroz et cascade de Grésy (Grésy-sur-Aix)](https://loisirs73.fr/content/gorges-du-sierroz-cascade-de-gresy.md): Canyon réhabilité rouvert en 2021 : passerelles en encorbellement jusqu'à la cascade de Grésy et sa stèle de la reine Hortense (1813). Gratuit, toute…
 - [Grande cascade de la Doria (Saint-Jean-d'Arvey)](https://loisirs73.fr/content/grande-cascade-de-la-doria.md): Chute de 60 m au-dessus de Chambéry : boucle d'1h depuis le parking de Chaffardon, avec passage en corniche et passage câblé. Gratuit, du 1er mai au…
 
-### Bases de loisirs (4 lieux)
+### Bases de loisirs (7 lieux)
 
 - [Base de loisirs des Glières (Grignon)](https://loisirs73.fr/content/base-de-loisirs-des-glieres-grignon.md): Le plan d'eau de Grignon (base des Glières), près d'Albertville : baignade gratuite surveillée l'été, plage, parking gratuit et restaurant, face aux…
 - [Base de loisirs des Îles du Chéran (Lescheraines)](https://loisirs73.fr/content/base-de-loisirs-les-iles-du-cheran.md): Base de loisirs des Îles du Chéran à Lescheraines (Bauges) : baignade gratuite surveillée l'été, jeux d'eau, skatepark et sports en accès libre.…
 - [Base de loisirs du Lac Bleu (Saint-Rémy-de-Maurienne)](https://loisirs73.fr/content/base-de-loisirs-du-lac-bleu.md): Le Lac Bleu à Saint-Rémy-de-Maurienne : plage de lac en accès gratuit surveillée l'été, piscine extérieure, pédalos, pump track et parcours aventure.
+- [La Forêt de l'Enfer (Valloire)](https://loisirs73.fr/content/parc-aventure-de-la-foret-de-l-enfer.md): Parc aventure de la Forêt de l'Enfer à Valloire : 75 ateliers sur six parcours, enfants dès 2 ans sous 1 m 30 (10 €), adultes au-dessus (20 €).…
+- [Parc aventure de la Combe des Moulins (Saint-Jean-de-Maurienne)](https://loisirs73.fr/content/parc-aventure-de-la-combe-des-moulins.md): Parc aventure à Saint-Jean-de-Maurienne : six parcours, 100 ateliers, tyroliennes de 120 m — et le seuil de taille de chaque parcours, de 90 cm à 1 m…
+- [Parcobranche du Diable (Avrieux)](https://loisirs73.fr/content/parcobranche-du-diable-avrieux.md): Parcobranche du Diable à Avrieux : 240 ateliers, 30 parcours, deux tyroliennes géantes. Seuil publié à 1 m 35, moins de 15 ans accompagnés, parking…
 - [Plan d'eau de Bozel (Bozel)](https://loisirs73.fr/content/plan-d-eau-de-bozel.md): Le plan d'eau de Bozel (Tarentaise) : baignade gratuite surveillée l'après-midi l'été, deux bassins, pédalos et pêche, dans un parc de loisirs…
 
 ### Points de vue (15 lieux)
@@ -185,8 +188,9 @@ Use these when the question spans many sites (e.g. "which waterfalls have parkin
 - [Sentier des Arpelières (Crest-Voland)](https://loisirs73.fr/content/sentier-des-arpelieres-crest-voland.md): Le sentier des Arpelières à Crest-Voland : un « 8 » sur caillebotis dans la plus grande tourbière acide à mousse des Alpes. Gratuit du 1er juin au 30…
 - [Tour du lac d'Aiguebelette à pied (Lépin-le-Lac)](https://loisirs73.fr/content/tour-du-lac-aiguebelette.md): Le tour du lac d'Aiguebelette à pied : 3 jours, 60,4 km, +2 467 m, classé difficile — à ne pas confondre avec la boucle cyclo de 17 km. Sources…
 
-### Voies vertes (4 lieux)
+### Voies vertes (5 lieux)
 
+- [Avenue Verte de Tarentaise (Bourg-Saint-Maurice)](https://loisirs73.fr/content/avenue-verte-de-tarentaise.md): Avenue Verte de Tarentaise : 15 km goudronnés le long de l'Isère, d'Aime à Bourg-Saint-Maurice, niveau vert, accès libre du 31 mars au 31 octobre.…
 - [ViaRhôna en Chautagne (EV17) (Chanaz)](https://loisirs73.fr/content/viarhona-en-chautagne.md): La portion savoyarde de la ViaRhôna (EuroVelo 17) en Chautagne : le long du Rhône par Serrières-en-Chautagne et Vions jusqu'à Chanaz. Gratuit,…
 - [Voie verte du lac d'Aiguebelette (Nances)](https://loisirs73.fr/content/voie-verte-du-lac-d-aiguebelette.md): La voie verte réservée du lac d'Aiguebelette, cœur sans voiture du tour du lac (16,9 km, facile). Gratuite, accès toute l'année, chiens en laisse.
 - [Voie verte du lac du Bourget (Le Bourget-du-Lac)](https://loisirs73.fr/content/voie-verte-du-lac-du-bourget.md): La voie verte en site propre le long du lac du Bourget, entre Aix-les-Bains et Chambéry (V63 / La Belle Via). Gratuite, enrobé lisse, ouverte toute…

@@ -1,0 +1,625 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-18",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "voie-verte",
+  "commune": "Bourg-Saint-Maurice",
+  "date_modified_human": "18 août 2026",
+  "date_published_human": "18 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-18",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-voie-verte-urbaine.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Aime bis Bourg-Saint-Maurice, asphaltiert, markiert, kostenlos zu verwenden.",
+          "tag": "Grünwert",
+          "title": "15 km entlang des Isère"
+        },
+        {
+          "description": "Schwimmen, Essen und E-Bike aufladen 8 km von Bourg-Saint-Maurice.",
+          "tag": "Schwimmen und E-Bikes",
+          "title": "Der See auf Kilometer 8"
+        }
+      ],
+      "body": {
+        "what_is": "<p>Die <strong>Avenue Verte de Tarentaise</strong> Aime zu Bourg Saint Maurice <strong>15 km</strong> und \"folgt dem Isère\" den ganzen Weg. Die Gemeinde von Les Versants d'Aime gibt die Oberfläche an - <strong>asphaltiert</strong> - und wer kann es verwenden: \"Radfahrer\", \"Jogger\", \"Rollerbladers\" und \"Walker\". Das Tourismusbüro bewertet es '<strong>Grüne Ebene - Einfach</strong>', mit einem '-100m' Tropfen Richtung Aime nach Bourg, Wegmarkierung und <strong>freier Zugang</strong>.</p><p>Die Regeln sind kurz und, ungewöhnlicher, veröffentlicht: \"Kraftfahrzeuge sind verboten\" außer mit Genehmigung, \"Pferde sind verboten\" und \"<strong>Hunde müssen an der Leine gehalten werden</strong>„. Für Dienstleistungen listet das Tourismusbüro einen Picknickbereich, öffentliche Toiletten und Parkplätze in der Nähe auf - plus ein Stop lohnt sich: In 8 km von Bourg St Maurice finden Sie eine <strong>See, wo man schwimmen kann</strong> Essen und auch <strong>Lade dein E-Bike auf</strong>Die Route führt auch in der Nähe der Wildwasserbasen von Bourg-Saint-Maurice und Landry.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Freier Zugang",
+        "best_season": "31. März – 31. Oktober",
+        "commune": "Bourg-Saint-Maurice",
+        "dogs": "Erlaubt, an der Leine",
+        "parking": "Parkplatz in der Nähe",
+        "stroller": null,
+        "type": "Greenway",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "Ja, mit einer von der Gemeinde veröffentlichten Regel: \"Hunde müssen an der Leine gehalten werden.\" Pferde sind verboten, ebenso wie Kraftfahrzeuge, außer mit Genehmigung.",
+          "q": "Sind Hunde erlaubt?"
+        },
+        {
+          "a": "'A greenway of 15 km' zwischen Aime und Bourg-Saint-Maurice entlang der Isère, abgestuft 'Green level - Easy' mit einem -100 m drop Richtung Aime nach Bourg.",
+          "q": "Wie lang ist es und wie schwer?"
+        },
+        {
+          "a": "Das Tourismusbüro stellt fest, dass \"in 8 km von Bourg St Maurice finden Sie einen See, wo Sie schwimmen und essen können, und auch Ihr E-Bike aufladen\". Der Greenway selbst verläuft entlang des Isère, wo es keine solche Einrichtung gibt.",
+          "q": "Kannst du unterwegs schwimmen?"
+        },
+        {
+          "a": "Der Weg ist asphaltiert und Rollerblader gehören zu den erlaubten Nutzern, neben Radfahrern, Joggern und Wanderern. Für Kinderwagen und Rollstuhlzugang ist nichts veröffentlicht — Und wir schließen es nicht von der Oberfläche.",
+          "q": "Ist es Rollerblade- oder Kinderwagen-freundlich?"
+        }
+      ],
+      "hero": {
+        "badge": "Greenway · 15 km",
+        "lead": "Fünfzehn asphaltierte Kilometer entlang der Isère, von Aime nach Bourg-Saint-Maurice, auf einer Steigung, die so sanft ist, dass man sie fährt, ohne es zu merken - und einen Badesee auf halbem Weg."
+      },
+      "hero_alt": "Asphaltierte Grünstraße entlang des Isère im Tarentaise",
+      "how_to_get_there": {
+        "bike": "Der Pfad selbst: 15 km frei von Autoverkehr, entlang der Isère.",
+        "car": "N90 nach Aime oder Bourg-Saint-Maurice, Parkplatz in der Nähe des Weges.",
+        "public_transport": "Aime-la-Plagne und Bourg-Saint-Maurice SNCF Stationen, an beiden Enden."
+      },
+      "meta_description": "Avenue Verte de Tarentaise: 15 asphaltierte Kilometer entlang der Isère von Aime nach Bourg-Saint-Maurice, grün, freier Zugang 31. März bis 31. Oktober. Hunde an der Leine, Parkplatz in der Nähe, See bei 8 km.",
+      "meta_title": "Avenue Verte de Tarentaise · 15 km, Aime bis Bourg-Saint-Maurice",
+      "name": "Avenue Verte de Tarentaise",
+      "name_alternates": [
+        "Aime – Bourg-Saint-Maurice greenway"
+      ],
+      "practical_info": [
+        {
+          "k": "Route",
+          "v": "Aime ↔ Bourg-Saint-Maurice · 15 km entlang des Isère"
+        },
+        {
+          "k": "Oberfläche",
+          "v": "Asphaltiert · Radfahrer, Jogger, Rollerblader und Walker"
+        },
+        {
+          "k": "Grad",
+          "v": "'Green Level - Easy' · -100 m fallen (Aime nach Bourg) · markiert"
+        },
+        {
+          "k": "Offen",
+          "v": "31. März bis 31. Oktober, täglich · freier Zugang"
+        },
+        {
+          "k": "Vorschriften",
+          "v": "Hunde an der Leine · Pferde verboten · Kraftfahrzeuge verboten, außer mit Genehmigung"
+        },
+        {
+          "k": "Dienstleistungen",
+          "v": "Picknickbereich · öffentliche Toiletten · Parkplätze in der Nähe · See 8 km von Bourg entfernt"
+        }
+      ],
+      "schema_amenities": [
+        "Freier Zugang",
+        "Picknickbereich",
+        "Öffentliche Toiletten"
+      ],
+      "when_to_visit": "<p>Offen<strong>von 31/03 bis 31/10 jeden Tag</strong>', frei von Zugang. In der Überschrift Aime bis Bourg-Saint-Maurice fällt das Profil um hundert Meter. Auf der anderen Seite bleibt der Aufstieg sehr sanft, was die grüne Bewertung einbringt. Der See 8 km von Bourg-Saint-Maurice macht den offensichtlichen Halt bei einem Familienausflug - Schwimmen und E-Bike-Laden inklusive.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "Aime to Bourg-Saint-Maurice, asphalted, waymarked, free to use.",
+          "tag": "Green level",
+          "title": "15 km along the Isère"
+        },
+        {
+          "description": "Swimming, food and e-bike charging 8 km from Bourg-Saint-Maurice.",
+          "tag": "Swimming and e-bikes",
+          "title": "The lake at kilometre 8"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Avenue Verte de Tarentaise</strong> 'links Aime to Bourg Saint Maurice' over <strong>15 kilometres</strong> and 'follows the Isère' the whole way. The commune of Les Versants d'Aime states the surface — <strong>asphalted</strong> — and who may use it: 'cyclists', 'joggers', 'rollerbladers' and 'walkers'. The tourist office grades it '<strong>Green level - Easy</strong>', with a '-100m' drop heading Aime to Bourg, waymarking, and <strong>free access</strong>.</p><p>The rules are short and, more unusually, published: 'Motor vehicles are forbidden' except by authorisation, 'Horses are forbidden', and '<strong>Dogs must be kept on a lead</strong>'. For services, the tourist office lists a picnic area, public toilets and parking nearby — plus one stop worth making: 'At 8 km from Bourg St Maurice you will find a <strong>lake where you can swim</strong> and eat, and also <strong>recharge your e-bike</strong>.' The route also passes close to the whitewater bases of Bourg-Saint-Maurice and Landry.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Free access",
+        "best_season": "31 March – 31 October",
+        "commune": "Bourg-Saint-Maurice",
+        "dogs": "Allowed, on a lead",
+        "parking": "Parking nearby",
+        "stroller": null,
+        "type": "Greenway",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "Yes, with a rule published by the commune: 'Dogs must be kept on a lead'. Horses are forbidden, as are motor vehicles except by authorisation.",
+          "q": "Are dogs allowed?"
+        },
+        {
+          "a": "'A greenway of 15 km' between Aime and Bourg-Saint-Maurice along the Isère, graded 'Green level - Easy' with a -100 m drop heading Aime to Bourg.",
+          "q": "How long is it, and how hard?"
+        },
+        {
+          "a": "The tourist office notes that 'at 8 km from Bourg St Maurice you will find a lake where you can swim and eat, and also recharge your e-bike'. The greenway itself runs along the Isère, where no such facility exists.",
+          "q": "Can you swim along the way?"
+        },
+        {
+          "a": "The path is asphalted and rollerbladers are among the permitted users, alongside cyclists, joggers and walkers. For strollers and wheelchair access nothing is published — and we do not infer it from the surface.",
+          "q": "Is it rollerblade- or stroller-friendly?"
+        }
+      ],
+      "hero": {
+        "badge": "Greenway · 15 km",
+        "lead": "Fifteen asphalted kilometres along the Isère, from Aime to Bourg-Saint-Maurice, on a gradient so gentle you ride it without noticing — and a bathing lake halfway."
+      },
+      "hero_alt": "Asphalted greenway along the Isère in the Tarentaise",
+      "how_to_get_there": {
+        "bike": "The path itself: 15 km free of motor traffic, along the Isère.",
+        "car": "N90 to Aime or Bourg-Saint-Maurice, parking near the path.",
+        "public_transport": "Aime-la-Plagne and Bourg-Saint-Maurice SNCF stations, at either end."
+      },
+      "meta_description": "Avenue Verte de Tarentaise: 15 asphalted kilometres along the Isère from Aime to Bourg-Saint-Maurice, green grade, free access 31 March to 31 October. Dogs on a lead, parking nearby, lake at 8 km.",
+      "meta_title": "Avenue Verte de Tarentaise · 15 km, Aime to Bourg-Saint-Maurice",
+      "name": "Avenue Verte de Tarentaise",
+      "name_alternates": [
+        "Aime – Bourg-Saint-Maurice greenway"
+      ],
+      "practical_info": [
+        {
+          "k": "Route",
+          "v": "Aime ↔ Bourg-Saint-Maurice · 15 km along the Isère"
+        },
+        {
+          "k": "Surface",
+          "v": "Asphalted · cyclists, joggers, rollerbladers and walkers"
+        },
+        {
+          "k": "Grade",
+          "v": "'Green level - Easy' · -100 m drop (Aime to Bourg) · waymarked"
+        },
+        {
+          "k": "Open",
+          "v": "31 March to 31 October, daily · free access"
+        },
+        {
+          "k": "Rules",
+          "v": "Dogs on a lead · horses forbidden · motor vehicles forbidden except by authorisation"
+        },
+        {
+          "k": "Services",
+          "v": "Picnic area · public toilets · parking nearby · lake 8 km from Bourg"
+        }
+      ],
+      "schema_amenities": [
+        "Free access",
+        "Picnic area",
+        "Public toilets"
+      ],
+      "when_to_visit": "<p>Open '<strong>from 31/03 to 31/10 every day</strong>', free of access. Heading Aime to Bourg-Saint-Maurice the profile drops a hundred metres; the other way the climb stays very gentle, which is what earns the green grading. The lake 8 km from Bourg-Saint-Maurice makes the obvious halt on a family outing — swimming and e-bike charging included.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "Aime a Bourg-Saint-Maurice, asfaltado, marcado, libre de uso.",
+          "tag": "Nivel verde",
+          "title": "15 km a lo largo de Isère"
+        },
+        {
+          "description": "Piscina, comida y bicicleta electrónica a 8 km de Bourg-Saint-Maurice.",
+          "tag": "Natación y e-bikes",
+          "title": "El lago en kilómetro 8"
+        }
+      ],
+      "body": {
+        "what_is": "<p>El <strong>Avenue Verte de Tarentaise</strong> 'links Aime a Bourg Saint Maurice' <strong>15 kilómetros</strong> y sigue la Isère todo el camino. La comuna de Les Versants d'Aime declara la superficie <strong>asfaltado</strong> - y quién puede utilizarlo: 'ciclistas', 'combustibles', 'rollerbladers' y 'walkers'. La oficina turística lo califica '<strong>Nivel verde - Fácil</strong>', con una gota '-100m' rumbo Aime a Bourg, señalización, y <strong>acceso gratuito</strong>.</p><p>Las reglas son cortas y, más inusualmente, publicadas: 'Los vehículos móviles están prohibidos' excepto por la autorización, 'Los padres están prohibidos', y '<strong>Los perros deben mantenerse en una pista</strong>'. Para los servicios, la oficina turística enumera una zona de picnic, aseos públicos y estacionamiento cerca — más una parada vale la pena hacer: A 8 km de Bourg St Maurice encontrará un <strong>lago donde se puede nadar</strong> y comer, y también <strong>recarga tu bicicleta electrónica</strong>La ruta también pasa cerca de las bases de agua blanca de Bourg-Saint-Maurice y Landry.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Acceso gratuito",
+        "best_season": "31 de marzo – 31 de octubre",
+        "commune": "Bourg-Saint-Maurice",
+        "dogs": "Permitido, en una dirección",
+        "parking": "Aparcamiento cerca",
+        "stroller": null,
+        "type": "Greenway",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "Sí, con una regla publicada por la comuna: \"Los perros deben mantenerse en una pista\". Los caballos están prohibidos, al igual que los vehículos automotores, excepto por autorización.",
+          "q": "¿Se permiten perros?"
+        },
+        {
+          "a": "'Una vía verde de 15 km' entre Aime y Bourg-Saint-Maurice a lo largo de Isère, grado 'nivel verde - fácil' con una gota de -100 m rumbo Aime a Bourg.",
+          "q": "¿Cuánto tiempo es, y cuánto?"
+        },
+        {
+          "a": "La oficina turística señala que 'a 8 km de Bourg St Maurice encontrará un lago donde se puede nadar y comer, y también recargar su e-bike'. La Vía Verde se extiende por la Isère, donde no existe tal instalación.",
+          "q": "¿Puedes nadar por el camino?"
+        },
+        {
+          "a": "El camino es asfaltado y los rodillos están entre los usuarios permitidos, junto con ciclistas, corredores y caminantes. Para paseadores y silla de ruedas no se publica nada — y no lo inferimos de la superficie.",
+          "q": "¿Es una montaña rusa o un cochecito?"
+        }
+      ],
+      "hero": {
+        "badge": "Vía Verde · 15 km",
+        "lead": "Quince kilómetros asfaltados a lo largo de la Isère, de Aime a Bourg-Saint-Maurice, en un gradiente tan suave que lo monta sin darse cuenta y un lago de baño a mitad de camino."
+      },
+      "hero_alt": "Vía verde asfaltada a lo largo de la Isère en la Tarentaise",
+      "how_to_get_there": {
+        "bike": "El camino mismo: 15 km libres de tráfico de motor, a lo largo de la Isère.",
+        "car": "N90 a Aime o Bourg-Saint-Maurice, estacionamiento cerca del camino.",
+        "public_transport": "Estaciones Aime-la-Plagne y Bourg-Saint-Maurice SNCF, a ambos lados."
+      },
+      "meta_description": "Avenue Verte de Tarentaise: 15 kilómetros asfaltados a lo largo de la Isère de Aime a Bourg-Saint-Maurice, grado verde, acceso libre 31 de marzo al 31 de octubre. Perros en pista, aparcamiento cerca, lago a 8 km.",
+      "meta_title": "Avenue Verte de Tarentaise · 15 km, Aime a Bourg-Saint-Maurice",
+      "name": "Avenue Verte de Tarentaise",
+      "name_alternates": [
+        "Aime – Bourg-Saint-Maurice greenway"
+      ],
+      "practical_info": [
+        {
+          "k": "Ruta",
+          "v": "Aime ↔ Bourg-Saint-Maurice · 15 km a lo largo de Isère"
+        },
+        {
+          "k": "Superficie",
+          "v": "Asfaltado · ciclistas, corredores, rodillos y caminantes"
+        },
+        {
+          "k": "Grado",
+          "v": "'Nivel verde - Fácil' · -100 m de caída (Aime a Bourg) · marcado"
+        },
+        {
+          "k": "Abierto",
+          "v": "31 marzo a 31 octubre, diario · acceso gratuito"
+        },
+        {
+          "k": "Reglas",
+          "v": "Perros en pista · caballos prohibidos · vehículos de motor prohibidos excepto por autorización"
+        },
+        {
+          "k": "Servicios",
+          "v": "Área de picnic · baños públicos · aparcamiento cerca · lago 8 km de Bourg"
+        }
+      ],
+      "schema_amenities": [
+        "Acceso gratuito",
+        "Zona de picnic",
+        "Inodoros públicos"
+      ],
+      "when_to_visit": "<p>Abran<strong>de 31/03 a 31/10 todos los días</strong>', libre de acceso. Dirigiendo Aime a Bourg-Saint-Maurice el perfil baja cien metros; la otra manera la escalada permanece muy suave, que es lo que gana la clasificación verde. El lago a 8 km de Bourg-Saint-Maurice hace la parada obvia en una salida familiar - natación y carga e-bike incluido.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "D'Aime à Bourg-Saint-Maurice, goudronnée, balisée, en accès libre.",
+          "tag": "Niveau vert",
+          "title": "15 km le long de l'Isère"
+        },
+        {
+          "description": "Baignade, restauration et recharge de vélo électrique à 8 km de Bourg-Saint-Maurice.",
+          "tag": "Baignade et VAE",
+          "title": "Le plan d'eau du 8e kilomètre"
+        }
+      ],
+      "body": {
+        "what_is": "<p>L'<strong>Avenue Verte de Tarentaise</strong> « relie Aime à Bourg Saint Maurice » sur <strong>15 kilomètres</strong> et « longe l'Isère » d'un bout à l'autre. La commune des Versants d'Aime précise le revêtement — <strong>goudronnée</strong> — et la liste des usagers admis : « cyclistes », « joggers », « rollers » et « marcheurs ». L'office de tourisme la classe « <strong>Niveau vert - Facile</strong> », avec un dénivelé de « -100m » dans le sens Aime à Bourg, un balisage et un <strong>accès libre</strong>.</p><p>Le règlement est court et il est publié, ce qui est plus rare : « Les véhicules à moteur sont interdits » sauf autorisation, « Les chevaux sont interdits », et « <strong>Les chiens doivent être tenus en laisse</strong> ». Côté services, l'OT signale une aire de pique-nique, des WC publics et un parking à proximité — et un point qui vaut l'arrêt : « À 8 kms de Bourg St Maurice, vous trouverez un <strong>plan d'eau où vous pouvez vous baigner</strong> et vous restaurer, mais aussi <strong>recharger votre VAE</strong>. » La voie passe aussi près des bases d'eaux vives de Bourg-Saint-Maurice et de Landry.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Accès libre",
+        "best_season": "31 mars – 31 octobre",
+        "commune": "Bourg-Saint-Maurice",
+        "dogs": "Autorisés, tenus en laisse",
+        "parking": "Parking à proximité",
+        "stroller": null,
+        "type": "Voie verte",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "Oui, avec une règle publiée par la commune : « Les chiens doivent être tenus en laisse ». Les chevaux, eux, sont interdits, comme les véhicules à moteur sauf autorisation.",
+          "q": "Les chiens sont-ils admis ?"
+        },
+        {
+          "a": "« Une voie verte de 15 kms » entre Aime et Bourg-Saint-Maurice, le long de l'Isère, classée « Niveau vert - Facile » avec un dénivelé de -100 m dans le sens Aime à Bourg.",
+          "q": "Quelle longueur, et pour quel niveau ?"
+        },
+        {
+          "a": "L'office de tourisme signale qu'« à 8 kms de Bourg St Maurice, vous trouverez un plan d'eau où vous pouvez vous baigner et vous restaurer, mais aussi recharger votre VAE ». La voie verte elle-même longe l'Isère, où rien de tel n'est prévu.",
+          "q": "Peut-on s'y baigner ?"
+        },
+        {
+          "a": "La voie est goudronnée et les rollers font partie des usagers admis, avec les cyclistes, joggers et marcheurs. Pour la poussette et l'accessibilité en fauteuil, rien n'est publié — nous ne le déduisons pas du revêtement.",
+          "q": "Est-ce roulable en rollers ou en poussette ?"
+        }
+      ],
+      "hero": {
+        "badge": "Voie verte · 15 km",
+        "lead": "Quinze kilomètres goudronnés le long de l'Isère, d'Aime à Bourg-Saint-Maurice, en pente si douce qu'elle se descend sans y penser — et un plan d'eau où se baigner à mi-parcours."
+      },
+      "hero_alt": "Voie verte goudronnée le long de l'Isère en Tarentaise",
+      "how_to_get_there": {
+        "bike": "La voie elle-même : 15 km sans circulation motorisée, le long de l'Isère.",
+        "car": "N90 jusqu'à Aime ou Bourg-Saint-Maurice, parking à proximité de la voie.",
+        "public_transport": "Gares SNCF d'Aime-la-Plagne et de Bourg-Saint-Maurice, aux deux extrémités."
+      },
+      "meta_description": "Avenue Verte de Tarentaise : 15 km goudronnés le long de l'Isère, d'Aime à Bourg-Saint-Maurice, niveau vert, accès libre du 31 mars au 31 octobre. Chiens en laisse, parking à proximité, plan d'eau à 8 km.",
+      "meta_title": "Avenue Verte de Tarentaise · 15 km d'Aime à Bourg-Saint-Maurice",
+      "name": "Avenue Verte de Tarentaise",
+      "name_alternates": [
+        "Voie verte Aime – Bourg-Saint-Maurice"
+      ],
+      "practical_info": [
+        {
+          "k": "Parcours",
+          "v": "Aime ↔ Bourg-Saint-Maurice · 15 km le long de l'Isère"
+        },
+        {
+          "k": "Revêtement",
+          "v": "Goudronnée · cyclistes, joggers, rollers et marcheurs"
+        },
+        {
+          "k": "Niveau",
+          "v": "« Niveau vert - Facile » · dénivelé -100 m (Aime à Bourg) · balisage oui"
+        },
+        {
+          "k": "Ouverture",
+          "v": "Du 31 mars au 31 octobre, tous les jours · accès libre"
+        },
+        {
+          "k": "Règlement",
+          "v": "Chiens en laisse · chevaux interdits · véhicules à moteur interdits sauf autorisation"
+        },
+        {
+          "k": "Services",
+          "v": "Aire de pique-nique · WC publics · parking à proximité · plan d'eau à 8 km de Bourg"
+        }
+      ],
+      "schema_amenities": [
+        "Accès libre",
+        "Aire de pique-nique",
+        "WC publics"
+      ],
+      "when_to_visit": "<p>Ouverte « <strong>du 31/03 au 31/10 tous les jours</strong> », en accès libre. Dans le sens Aime à Bourg-Saint-Maurice le profil descend de cent mètres ; en sens inverse la montée reste très douce, ce qui explique le classement vert. Le plan d'eau à 8 km de Bourg-Saint-Maurice fait la halte évidente d'une sortie familiale, baignade et recharge de vélo électrique comprises.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Aime a Bourg-Saint-Maurice, asfaltato, waymarked, libero da usare.",
+          "tag": "Livello verde",
+          "title": "15 km lungo la Isère"
+        },
+        {
+          "description": "Nuoto, cibo ed e-bike a 8 km da Bourg-Saint-Maurice.",
+          "tag": "Nuoto ed e-bike",
+          "title": "Il lago al chilometro 8"
+        }
+      ],
+      "body": {
+        "what_is": "<p>The <strong>Avenue Verte de Tarentaise</strong> 'link Aime a Bourg Saint Maurice' sopra <strong>15 chilometri</strong> e 'segue il Isère' tutto il senso. Il comune di Les Versants d'Aime afferma la superficie — <strong>asfaltato</strong> — e chi può utilizzarlo: 'ciclisti', 'joggers', 'rollerbladers' e 'walker'. L'ufficio turistico lo classifica '<strong>Livello verde - Facile</strong>', con una goccia di '-100m' in direzione Aime a Bourg, waymarking, e <strong>accesso gratuito</strong>.</p><p>Le regole sono brevi e, più insolitamente, pubblicate: «I veicoli a motore sono proibiti» eccetto l'autorizzazione, «le navi sono proibite» e «<strong>I cani devono essere tenuti in testa</strong>'. Per i servizi, l'ufficio turistico elenca una zona picnic, servizi igienici pubblici e parcheggio nelle vicinanze — più una fermata degno di fare: 'A 8 km da Bourg St Maurice troverai un <strong>lago dove poter nuotare</strong> e mangiare, e anche <strong>ricarica la tua e-bike</strong>.' Il percorso passa anche vicino alle basi d'acqua bianca di Bourg-Saint-Maurice e Landry.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Accesso gratuito",
+        "best_season": "31 marzo – 31 ottobre",
+        "commune": "Bourg-Saint-Maurice",
+        "dogs": "Consentito, su una pista",
+        "parking": "Parcheggio vicino",
+        "stroller": null,
+        "type": "Greenway",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "Sì, con una regola pubblicata dal comune: \"Dogs deve essere tenuto in testa\". I cavalli sono vietati, come sono veicoli a motore eccetto per autorizzazione.",
+          "q": "I cani sono ammessi?"
+        },
+        {
+          "a": "'Un greenway di 15 km' tra Aime e Bourg-Saint-Maurice lungo il Isère, classificato 'Green level - Easy' con una goccia di -100 m in direzione Aime a Bourg.",
+          "q": "Quanto tempo è e quanto è difficile?"
+        },
+        {
+          "a": "L'ufficio turistico nota che 'a 8 km da Bourg St Maurice troverete un lago dove potrete nuotare e mangiare, e anche ricaricare la vostra e-bike'. Il greenway corre lungo la Isère, dove non esiste alcun impianto.",
+          "q": "Puoi nuotare lungo la strada?"
+        },
+        {
+          "a": "Il percorso è asfaltato e i rollerbladers sono tra gli utenti consentiti, insieme a ciclisti, jogger e camminatori. Per passeggini e sedie a rotelle non è pubblicato nulla — e non lo deduciamo dalla superficie.",
+          "q": "È rollerblade o passeggino?"
+        }
+      ],
+      "hero": {
+        "badge": "Greenway · 15 km",
+        "lead": "Quindici chilometri asfaltati lungo la Isère, da Aime a Bourg-Saint-Maurice, su un gradiente così gentile si guida senza notificazione — e un lago balneabile a metà strada."
+      },
+      "hero_alt": "Greenway asfaltato lungo la Isère nella Tarentaise",
+      "how_to_get_there": {
+        "bike": "Il sentiero stesso: 15 km senza traffico motore, lungo la Isère.",
+        "car": "N90 a Aime o Bourg-Saint-Maurice, parcheggio vicino al percorso.",
+        "public_transport": "Stazioni Aime-la-Plagne e Bourg-Saint-Maurice SNCF, in entrambi i casi."
+      },
+      "meta_description": "Avenue Verte de Tarentaise: 15 chilometri asfaltati lungo la Isère da Aime a Bourg-Saint-Maurice, grado verde, accesso libero 31 marzo al 31 ottobre. Cani su una pista, parcheggio nelle vicinanze, lago a 8 km.",
+      "meta_title": "Avenue Verte de Tarentaise · 15 km, Aime a Bourg-Saint-Maurice",
+      "name": "Avenue Verte de Tarentaise",
+      "name_alternates": [
+        "Aime – Bourg-Saint-Maurice greenway"
+      ],
+      "practical_info": [
+        {
+          "k": "Itinerario",
+          "v": "Aime ↔ Bourg-Saint-Maurice · 15 km lungo la Isère"
+        },
+        {
+          "k": "Superficie",
+          "v": "Asfaltato · ciclisti, jogger, rollerblader e camminatori"
+        },
+        {
+          "k": "Grado",
+          "v": "'Green level - Easy' · -100 m drop (Aime a Bourg) · waymarked"
+        },
+        {
+          "k": "Apri",
+          "v": "31 marzo al 31 ottobre, ogni giorno · accesso gratuito"
+        },
+        {
+          "k": "Regole",
+          "v": "Cani su un piombo · cavalli vietati · veicoli a motore vietati tranne per autorizzazione"
+        },
+        {
+          "k": "Servizi",
+          "v": "Area Picnic · servizi igienici pubblici · parcheggio vicino · lago 8 km da Bourg"
+        }
+      ],
+      "schema_amenities": [
+        "Accesso gratuito",
+        "Area Picnic",
+        "Servizi igienici pubblici"
+      ],
+      "when_to_visit": "<p>Aprite!<strong>dal 31/03 al 31/10 ogni giorno</strong>', libero accesso. Intestando Aime a Bourg-Saint-Maurice il profilo scende a centinaia di metri; l'altro modo la salita rimane molto gentile, che è ciò che guadagna il grading verde. Il lago 8 km da Bourg-Saint-Maurice fa l'ovvia fermata su un'uscita di famiglia — nuoto ed e-bike di ricarica inclusi.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Aime naar Bourg-Saint-Maurice, geasfalteerd, bewegwijzerd, vrij te gebruiken.",
+          "tag": "Groen niveau",
+          "title": "15 km langs de Isère"
+        },
+        {
+          "description": "Zwemmen, eten en e-bike op 8 km van Bourg-Saint-Maurice.",
+          "tag": "Zwemmen en e-bikes",
+          "title": "Het meer op kilometer 8"
+        }
+      ],
+      "body": {
+        "what_is": "<p>De <strong>Avenue Verte de Tarentaise</strong> 'links Aime naar Bourg Saint Maurice' <strong>15 kilometer</strong> en 'volgt de Isère' de hele weg. De gemeente Les Versants d'Aime geeft het oppervlak aan <strong>geasfalteerd</strong> En wie mag het gebruiken: 'fietsers', 'joggers', 'rollerbladers' en 'walkers'. De VVV geeft het aan.<strong>Groen niveau - gemakkelijk</strong>', met een '-100m' val richting Aime naar Bourg, waymarking, en <strong>vrije toegang</strong>.</p><p>De regels zijn kort en, ongebruikelijker, gepubliceerd: 'Motorvoertuigen zijn verboden', behalve met toestemming, 'Horsen zijn verboden', en '<strong>Honden moeten worden gehouden op een lood</strong>'. Voor diensten, het VVV-kantoor geeft een picknickplaats, openbare toiletten en parkeergelegenheid in de buurt plus één stop die het waard is om te maken: 'Op 8 km van Bourg St Maurice vindt u een <strong>meer waar u kunt zwemmen</strong> en eten, en ook <strong>laad uw e-bike op</strong>.' De route loopt ook dicht bij de witwaterbases van Bourg-Saint-Maurice en Landry.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Vrije toegang",
+        "best_season": "31 maart 31 oktober",
+        "commune": "Bourg-Saint-Maurice",
+        "dogs": "Toegestaan, op een aanwijzing",
+        "parking": "Parkeren in de buurt",
+        "stroller": null,
+        "type": "Greenway",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "Ja, met een door de gemeente gepubliceerde regel: 'Honden moeten aan de leiding blijven'. Paarden zijn verboden, net als motorvoertuigen, behalve met toestemming.",
+          "q": "Zijn honden toegestaan?"
+        },
+        {
+          "a": "'Een groene weg van 15 km' tussen Aime en Bourg-Saint-Maurice langs de Isère, gegradeerd 'Groen niveau - Gemakkelijk' met een -100 m val richting Aime naar Bourg.",
+          "q": "Hoe lang is het en hoe moeilijk?"
+        },
+        {
+          "a": "Het VVV-kantoor merkt op dat 'op 8 km van Bourg St Maurice u een meer vindt waar u kunt zwemmen en eten, en ook uw e-bike kunt opladen'. De greenway zelf loopt langs de Isère, waar geen dergelijke faciliteit bestaat.",
+          "q": "Kun je onderweg zwemmen?"
+        },
+        {
+          "a": "Het pad is geasfalteerd en rolschaatsen behoren tot de toegestane gebruikers, naast fietsers, joggers en wandelaars. Voor kinderwagens en rolstoeltoegang wordt er niets gepubliceerd. En wij leiden het niet van de oppervlakte af.",
+          "q": "Is het rolschaats- of kinderwagenvriendelijk?"
+        }
+      ],
+      "hero": {
+        "badge": "Greenway · 15 km",
+        "lead": "Vijftien geasfalteerde kilometers langs de Isère, van Aime tot Bourg-Saint-Maurice, op een helling die zo zacht is dat je er op rijdt zonder dat je het merkt en een zwemmeer halverwege."
+      },
+      "hero_alt": "Asfalted greenway langs de Isère in de Tarentaise",
+      "how_to_get_there": {
+        "bike": "Het pad zelf: 15 km vrij van motorverkeer, langs de Isère.",
+        "car": "N90 naar Aime of Bourg-Saint-Maurice, parkeren bij het pad.",
+        "public_transport": "Aime-la-Plagne en Bourg-Saint-Maurice SNCF stations, aan beide uiteinden."
+      },
+      "meta_description": "Avenue Verte de Tarentaise: 15 geasfalteerde kilometers langs de Isère van Aime tot Bourg-Saint-Maurice, groene kwaliteit, gratis toegang 31 maart tot 31 oktober. Honden aan de leiding, parkeerplaats in de buurt, meer op 8 km.",
+      "meta_title": "Avenue Verte de Tarentaise · 15 km, Aime naar Bourg-Saint-Maurice",
+      "name": "Avenue Verte de Tarentaise",
+      "name_alternates": [
+        "Aime – Bourg-Saint-Maurice greenway"
+      ],
+      "practical_info": [
+        {
+          "k": "Route",
+          "v": "Aime ↔ Bourg-Saint-Maurice · 15 km langs de Isère"
+        },
+        {
+          "k": "Oppervlakte",
+          "v": "Fietsers, joggers, rolschaatsen en wandelaars"
+        },
+        {
+          "k": "Graad",
+          "v": "\"Groen niveau - gemakkelijk\" · -100 m drop (Aime naar Bourg) · waymarked"
+        },
+        {
+          "k": "Open",
+          "v": "31 maart t/m 31 oktober, dagelijks · vrije toegang"
+        },
+        {
+          "k": "Regels",
+          "v": "Honden aan lood · paarden verboden · motorvoertuigen verboden, behalve met vergunning"
+        },
+        {
+          "k": "Diensten",
+          "v": "Picknickplaats · openbare toiletten · parkeerplaats in de buurt · meer 8 km van Bourg"
+        }
+      ],
+      "schema_amenities": [
+        "Vrije toegang",
+        "Picknickgebied",
+        "Openbare toiletten"
+      ],
+      "when_to_visit": "<p>Open '<strong>van 31/03 tot en met 31/10 elke dag</strong>', vrij van toegang. Heading Aime to Bourg-Saint-Maurice the profile drops a hundred metres; de andere manier dat de klim blijft zeer zacht, dat is wat verdient de groene indeling. Het meer op 8 km van Bourg-Saint-Maurice maakt de voor de hand liggende halte van een familieuitje zwemmen en e-bike opladen inbegrepen.</p>"
+    }
+  },
+  "latitude": 45.61139,
+  "longitude": 6.76889,
+  "official_site_url": "https://www.versantsdaime.fr/culture-sports-loisirs/voie-verte/",
+  "partners": [],
+  "postal_code": "73700",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-20, pages FR (commune des Versants d'Aime + Haute Tarentaise Tourisme). « Une voie verte de 15 kms jusqu'à Aime » / « relie Aime à Bourg Saint Maurice », « longe l'Isère ». Revêtement publié par la commune : « goudronnée ». Usagers autorisés : « cyclistes », « joggers », « rollers », « marcheurs ». RÈGLEMENT cité verbatim : « Les véhicules à moteur sont interdits » (sauf autorisation), « Les chevaux sont interdits », « Les chiens doivent être tenus en laisse ». OT : « Niveau vert - Facile », « Dénivelé : -100m », « Balisage : Oui », « Accès libre », « Parking à proximité », équipements « Aire de pique-nique, WC publics », ouvert « Du 31/03 au 31/10 tous les jours », localisation « 73700, Bourg-Saint-Maurice ». Point d'intérêt OT : « À 8 kms de Bourg St Maurice, vous trouverez un plan d'eau où vous pouvez vous baigner et vous restaurer, mais aussi recharger votre VAE ». La voie passe « à proximité des bases d'eaux vives de Bourg St Maurice et de Landry ». Poussette et accessibilité PMR NON publiées malgré le revêtement goudronné → null, jamais déduites d'un revêtement.",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "avenue-verte-de-tarentaise",
+  "sources": [
+    "https://www.versantsdaime.fr/culture-sports-loisirs/voie-verte/",
+    "https://www.hautetarentaise.fr/apidae/5884709/5323-la-voie-verte-en-velo.htm"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "POUSSETTE / PMR — non publiées ; le revêtement goudronné ne suffit pas à les affirmer, elles restent null.",
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published; kept null."
+  ]
+}

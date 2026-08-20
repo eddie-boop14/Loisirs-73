@@ -1,0 +1,31 @@
+{
+  "name": "Avenue Verte de Tarentaise",
+  "commune": "Bourg-Saint-Maurice",
+  "gps": {
+    "lat": 45.61139,
+    "lng": 6.76889
+  },
+  "type": "voie-verte",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": "Parking à proximité",
+  "transport": null,
+  "season": "31 mars – 31 octobre",
+  "winter": {
+    "access": null,
+    "infrastructure": [],
+    "snow_view": null,
+    "equipment": "loi_montagne_ii",
+    "col_chains": false,
+    "inforoute": null
+  },
+  "official_url": "https://www.versantsdaime.fr/culture-sports-loisirs/voie-verte/",
+  "last_verified": null
+}

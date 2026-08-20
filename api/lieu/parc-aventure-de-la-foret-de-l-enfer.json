@@ -1,0 +1,24 @@
+{
+  "name": "La Forêt de l'Enfer",
+  "commune": "Valloire",
+  "gps": {
+    "lat": 45.1745,
+    "lng": 6.4285
+  },
+  "type": "domaine",
+  "hours": null,
+  "prices": {
+    "from": null,
+    "currency": "EUR",
+    "tiers": [],
+    "is_free": true,
+    "note": null
+  },
+  "access_pmr": null,
+  "parking": null,
+  "transport": null,
+  "season": "5 juillet – 28 août 2026",
+  "winter": null,
+  "official_url": "https://www.valloire.net/activite/la-foret-de-lenfer-parc-accrobranche-valloire/",
+  "last_verified": null
+}

@@ -1,0 +1,625 @@
+{
+  "acces_pmr": {
+    "checked": "2026-08-18",
+    "confidence": null,
+    "detail": null,
+    "equipment": null,
+    "handiplage_level": null,
+    "source_name": null,
+    "source_url": null,
+    "status": null,
+    "tourisme_handicap": null
+  },
+  "category": "domaine",
+  "commune": "Valloire",
+  "date_modified_human": "18 août 2026",
+  "date_published_human": "18 août 2026",
+  "department": "Savoie",
+  "featured_businesses": [],
+  "freshness": {
+    "created": "2026-08-18",
+    "method": "official-sources research batch (agents + editor), quotes on file in the research log"
+  },
+  "gallery_photos": [],
+  "hero_credit": null,
+  "hero_image": "/img/generique/generique-accrobranche-7.jpg",
+  "i18n": {
+    "de": {
+      "activities": [
+        {
+          "description": "Entdeckung, Abenteuer, Herausforderung und Kommando — mit 80 m Ziplines und einem Tarzan Sprung.",
+          "tag": "Grün bis Schwarz",
+          "title": "Sechs Kurse, 75 Workshops"
+        },
+        {
+          "description": "Auf erwachsener Kopfhöhe, mit eigener Ausrüstung und eigenen Ziplines.",
+          "tag": "Unter 1,30 m",
+          "title": "Kleine ab 2 Jahren"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>La Forêt de l'Enfer</strong>, am Ort des <strong>La Borgé</strong> über Valloire, Lines Up <strong>75 Workshops in sechs Kursen</strong> - grün, blau, rot und schwarz, in Entdeckungs-, Abenteuer-, Herausforderungs- und Kommandoversionen - mit 80 Metern Ziplines und einem Tarzan Sprung.</p><p>Der ganze Park dreht sich um eine Nummer: <strong>1,30 m</strong>Unterhalb davon bewegen sich Kinder ab dem 2. Lebensjahr auf Höhe des Erwachsenenkopfes, lernen, mit ihrer eigenen Ausrüstung umzugehen, und bekommen bereits ihre Ziplines. Eine 2-stündige Sitzung kostet 10 €, unbegrenzt 20 €. Darüber öffnen sich die abgestuften Kurse, von sehr leicht bis sehr schwer: 20 € für 2 Stunden, 30 € unbegrenzt. Die Schwelle ist somit sowohl eine Sicherheitsregel als auch eine Preisliste — Es lohnt sich zu wissen, bevor Sie sich auf den Weg machen, besonders mit einem Kind in der Nähe der Marke.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Bezahlt",
+        "best_season": "5. Juli – 28. August 2026",
+        "commune": "Valloire",
+        "dogs": null,
+        "min_age": "2 Jahre",
+        "min_height": "Unter 1,30 m: Kinderkurse · über 1,30 m: Erwachsenenkurse",
+        "parking": null,
+        "stroller": null,
+        "type": "Abenteuerpark",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "Die Kinderkurse sind \"ab 2 Jahren und unter 1m30\"; Über 1,30 m bewegen Sie sich zu den Erwachsenenkursen, von sehr leicht bis sehr schwer. Die 1,30 m-Schwelle verändert auch den Preis.",
+          "q": "Was ist das Mindestalter und die Mindestgröße?"
+        },
+        {
+          "a": "Unter 1,30 m: 10 € für eine 2-stündige Sitzung, 20 € unbegrenzt. Über 1,30 m: 20 € für 2 Stunden, 30 € unbegrenzt. Mini-Golf ist ein \"flat €5 pro Person\".",
+          "q": "Was kostet es?"
+        },
+        {
+          "a": "Nein: \"Keine Buchung, Kunden werden direkt im Park begrüßt.\" Beachten Sie, dass \"bei schwierigen Wetterbedingungen der Park schließen kann\" und samstags und an Feiertagen geschlossen ist.",
+          "q": "Müssen Sie buchen?"
+        },
+        {
+          "a": "Eine Snackbar serviert Getränke, aber der Park sagt, es gibt \"kein fließendes Wasser\" aus Mangel an einem Netzanschluss - Bringen Sie Ihre eigenen Flaschen mit.",
+          "q": "Gibt es Wasser vor Ort?"
+        }
+      ],
+      "hero": {
+        "badge": "Abenteuerpark · Valloire",
+        "lead": "Im Weiler La Borgé, 75 Workshops über sechs Kurse — und eine einzige Schwelle, 1,30 m, die sowohl den Kurs als auch den Preis entscheidet."
+      },
+      "hero_alt": "Baumschule bei La Forêt de l'Enfer, Valloire",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D902 bis Valloire, dann der Weiler von La Borgé.",
+        "public_transport": "Saint-Michel to Valloire SNCF station, then coach over the Col du Télégraphe."
+      },
+      "meta_description": "La Forêt de l'Enfer Adventure Park bei Valloire: 75 Workshops in sechs Kursen, Kinder ab 2 Jahren unter 1,30 m (10 €), Erwachsene ab 20 €). Saison 2026: 5. Juli bis 28. August, samstags geschlossen.",
+      "meta_title": "La Forêt de l'Enfer · 75 Workshops bei Valloire ab 2 Jahren",
+      "name": "La Forêt de l'Enfer",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Anschrift",
+          "v": "La Borgé, 73450 Valloire"
+        },
+        {
+          "k": "Saison 2026",
+          "v": "5. Juli – 28. August · Mon-Fr und Sonntag · Samstags und Feiertage geschlossen"
+        },
+        {
+          "k": "Schwellenwert",
+          "v": "1,30 m — legt den Kurs und den Preis fest; Kinder ab 2 Jahren"
+        },
+        {
+          "k": "Preise",
+          "v": "Unter 1,30 m: 10 € (2 h) / 20 € unbegrenzt · über 1,30 m: €20 (2 h) / €30 unbegrenzt · Minigolf €5"
+        },
+        {
+          "k": "Vor Ort",
+          "v": "Snack und Getränke · kein fließendes Wasser · keine Buchung · Scheck, Bargeld, Urlaubsgutscheine"
+        },
+        {
+          "k": "Kontakt",
+          "v": "+33 6 40 44 45 75"
+        }
+      ],
+      "schema_amenities": [
+        "Snackbar",
+        "Minigolf",
+        "Keine Buchung erforderlich"
+      ],
+      "when_to_visit": "<p>Veröffentlichte Saison: <strong>5. Juli bis 28. August 2026</strong>geöffnet von Montag bis Freitag und Sonntag - <strong>geschlossene Samstage und Feiertage</strong>Es gibt keine Buchung: Kunden werden direkt im Park begrüßt, und \"bei schwierigen Wetterbedingungen kann der Park schließen\". Eine Snackbar serviert Getränke vor Ort, aber der Park warnt davor, dass es \"kein fließendes Wasser\" gibt, weil kein Netzanschluss vorhanden ist. Zahlung per Scheck, Bargeld oder Urlaubsgutscheinen.</p>"
+    },
+    "en": {
+      "activities": [
+        {
+          "description": "Discovery, adventure, challenge and commando — with 80 m ziplines and a Tarzan jump.",
+          "tag": "Green to black",
+          "title": "Six courses, 75 workshops"
+        },
+        {
+          "description": "At adult head height, with their own equipment and ziplines of their own.",
+          "tag": "Under 1.30 m",
+          "title": "Little ones from age 2"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>La Forêt de l'Enfer</strong>, at the hamlet of <strong>La Borgé</strong> above Valloire, lines up <strong>75 workshops over six courses</strong> — green, blue, red and black, in discovery, adventure, challenge and commando versions — with 80-metre ziplines and a Tarzan jump.</p><p>The whole park turns on one number: <strong>1.30 m</strong>. Below it, from age 2, children move at adult head height, learn to handle their own equipment and already get their ziplines; a 2-hour session costs €10, unlimited €20. Above it, the graded courses open up, from very easy to very hard: €20 for 2 hours, €30 unlimited. The threshold is thus both a safety rule and a price list — worth knowing before you set out, especially with a child near the mark.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Paid",
+        "best_season": "5 July – 28 August 2026",
+        "commune": "Valloire",
+        "dogs": null,
+        "min_age": "2 years",
+        "min_height": "Under 1.30 m: children's courses · over 1.30 m: adult courses",
+        "parking": null,
+        "stroller": null,
+        "type": "Adventure park",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "The children's courses are 'from 2 years and under 1m30'; above 1.30 m you move to the adult courses, from very easy to very hard. The 1.30 m threshold also changes the price.",
+          "q": "What is the minimum age and height?"
+        },
+        {
+          "a": "Under 1.30 m: €10 for a 2-hour session, €20 unlimited. Over 1.30 m: €20 for 2 hours, €30 unlimited. Mini-golf is a 'flat €5 per person'.",
+          "q": "What does it cost?"
+        },
+        {
+          "a": "No: 'no booking, customers are welcomed directly at the Park'. Note that 'in difficult weather conditions, the Park may close', and it is closed Saturdays and public holidays.",
+          "q": "Do you need to book?"
+        },
+        {
+          "a": "A snack bar serves drinks, but the park states there is 'no running water' for lack of a mains connection — bring your own bottles.",
+          "q": "Is there water on site?"
+        }
+      ],
+      "hero": {
+        "badge": "Adventure park · Valloire",
+        "lead": "At the hamlet of La Borgé, 75 workshops over six courses — and a single threshold, 1.30 m, that decides both the course and the price."
+      },
+      "hero_alt": "Treetop course at La Forêt de l'Enfer, Valloire",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D902 to Valloire, then the hamlet of La Borgé.",
+        "public_transport": "Saint-Michel to Valloire SNCF station, then coach over the Col du Télégraphe."
+      },
+      "meta_description": "La Forêt de l'Enfer adventure park at Valloire: 75 workshops over six courses, children from age 2 under 1.30 m (€10), adults above (€20). 2026 season: 5 July to 28 August, closed Saturdays.",
+      "meta_title": "La Forêt de l'Enfer · 75 workshops at Valloire, from age 2",
+      "name": "La Forêt de l'Enfer",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Address",
+          "v": "La Borgé, 73450 Valloire"
+        },
+        {
+          "k": "Season 2026",
+          "v": "5 July – 28 August · Mon-Fri and Sunday · closed Saturdays and public holidays"
+        },
+        {
+          "k": "Threshold",
+          "v": "1.30 m — sets the course and the price; children from age 2"
+        },
+        {
+          "k": "Prices",
+          "v": "Under 1.30 m: €10 (2 h) / €20 unlimited · over 1.30 m: €20 (2 h) / €30 unlimited · mini-golf €5"
+        },
+        {
+          "k": "On site",
+          "v": "Snack and drinks · no running water · no booking · cheque, cash, holiday vouchers"
+        },
+        {
+          "k": "Contact",
+          "v": "+33 6 40 44 45 75"
+        }
+      ],
+      "schema_amenities": [
+        "Snack bar",
+        "Mini-golf",
+        "No booking needed"
+      ],
+      "when_to_visit": "<p>Published season: <strong>5 July to 28 August 2026</strong>, open Monday to Friday and Sunday — <strong>closed Saturdays and public holidays</strong>. There is 'no booking: customers are welcomed directly at the Park', and 'in difficult weather conditions, the Park may close'. A snack bar serves drinks on site, but the park warns there is 'no running water' for lack of a mains connection. Payment by cheque, cash or holiday vouchers.</p>"
+    },
+    "es": {
+      "activities": [
+        {
+          "description": "Discovery, aventura, desafío y comando — con 80 m de cremalleras y un salto de Tarzán.",
+          "tag": "Verde a negro",
+          "title": "Seis cursos, 75 talleres"
+        },
+        {
+          "description": "A la altura de la cabeza adulta, con su propio equipo y sus propias cremalleras.",
+          "tag": "Bajo 1.30 m",
+          "title": "Pequeños de 2 años"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>La Forêt de l'Enfer</strong>, en la aldea <strong>La Borgé</strong> arriba Valloire, líneas arriba <strong>75 talleres sobre seis cursos</strong> — verde, azul, rojo y negro, en las versiones de descubrimiento, aventura, desafío y comando — con cierres de 80 metros y un salto de Tarzan.</p><p>Todo el parque gira en un número: <strong>1.30 m</strong>. Debajo de ella, a partir de los 2 años, los niños se mueven a la altura de la cabeza adulta, aprenden a manejar su propio equipo y ya reciben sus ziplines; una sesión de 2 horas cuesta €10, ilimitado €20. Por encima de ella, los cursos de grado se abren, de muy fácil a muy difícil: 20 € por 2 horas, 30 € ilimitado. Por lo tanto, el umbral es una norma de seguridad y una lista de precios — vale la pena saber antes de salir, especialmente con un niño cerca de la marca.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagado",
+        "best_season": "5 de julio – 28 agosto 2026",
+        "commune": "Valloire",
+        "dogs": null,
+        "min_age": "2 años",
+        "min_height": "Bajo 1.30 m: cursos para niños · más de 1,30 m: Cursos para adultos",
+        "parking": null,
+        "stroller": null,
+        "type": "Parque de Aventuras",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "Los cursos para niños son 'de 2 años y menos de 1m30'; arriba 1.30 m se mueve a los cursos de adultos, de muy fácil a muy difícil. El umbral de 1.30 m también cambia el precio.",
+          "q": "¿Cuál es la edad y la altura mínimas?"
+        },
+        {
+          "a": "Bajo 1.30 m: 10 € para una sesión de 2 horas, 20 € ilimitado. Más de 1,30 m: 20 € por 2 horas, 30 € ilimitado. Mini-golf es un 'flat €5 por persona'.",
+          "q": "¿Qué cuesta?"
+        },
+        {
+          "a": "No: 'sin reserva, los clientes son recibidos directamente en el Parque'. Tenga en cuenta que 'en condiciones climáticas difíciles, el Parque puede cerrar', y está cerrado sábados y festivos.",
+          "q": "¿Necesitas reservar?"
+        },
+        {
+          "a": "Un bar de aperitivos sirve bebidas, pero el parque afirma que no hay agua corriente por falta de conexión de la red principal. trae tus propias botellas.",
+          "q": "¿Hay agua en el sitio?"
+        }
+      ],
+      "hero": {
+        "badge": "Parque de Aventura · Valloire",
+        "lead": "En la aldea de La Borgé, 75 talleres sobre seis cursos — y un solo umbral, 1,30 m, que decide tanto el curso como el precio."
+      },
+      "hero_alt": "Curso Treetop en La Forêt de l'Enfer, Valloire",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D902 a Valloire, luego la aldea de La Borgé.",
+        "public_transport": "Saint-Michel to Valloire SNCF station, then coach over the Col du Télégraphe."
+      },
+      "meta_description": "Parque de aventura La Forêt de l'Enfer en Valloire: 75 workshops over six courses, children from age 2 under 1.30 m (€10), adults above (€20). 2026 temporada: Del 5 de julio al 28 de agosto, cerrado los sábados.",
+      "meta_title": "La Forêt de l'Enfer · 75 talleres en Valloire, a partir de 2 años",
+      "name": "La Forêt de l'Enfer",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Dirección",
+          "v": "La Borgé, 73450 Valloire"
+        },
+        {
+          "k": "Temporada 2026",
+          "v": "5 de julio – 28 agosto · Mon-Fri y domingo · sábados cerrados y festivos"
+        },
+        {
+          "k": "Umbral",
+          "v": "1.30 m establece el curso y el precio; niños de 2 años"
+        },
+        {
+          "k": "Precios",
+          "v": "Bajo 1.30 m: €10 (2 h) / €20 ilimitado · más de 1.30 m: 20 € (2 h) / 30 € ilimitado · minigolf 5 €"
+        },
+        {
+          "k": "En el sitio",
+          "v": "Snack y bebidas · sin agua corriente · sin reserva · cheque, efectivo, vales de vacaciones"
+        },
+        {
+          "k": "Contacto",
+          "v": "+33 6 40 44 45 75"
+        }
+      ],
+      "schema_amenities": [
+        "Snack bar",
+        "Mini-golf",
+        "No se necesita reserva"
+      ],
+      "when_to_visit": "<p>Temporada publicada: <strong>5 de julio a 28 de agosto de 2026</strong>, abierto de lunes a viernes y domingos <strong>cerrado sábados y festivos</strong>. No hay reserva: los clientes son recibidos directamente en el Parque', y \"en condiciones climáticas difíciles, el Parque puede cerrar\". Un bar de aperitivos sirve bebidas en el sitio, pero el parque advierte que no hay agua corriente por falta de conexión de red. Pago por cheque, efectivo o vales de vacaciones.</p>"
+    },
+    "fr": {
+      "activities": [
+        {
+          "description": "Découverte, aventure, défi et commando — avec tyroliennes de 80 m et saut de Tarzan.",
+          "tag": "Vert à noir",
+          "title": "Six parcours, 75 ateliers"
+        },
+        {
+          "description": "À hauteur d'homme, avec leur propre matériel et déjà des tyroliennes.",
+          "tag": "Moins d'1 m 30",
+          "title": "Les tout-petits dès 2 ans"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>La Forêt de l'Enfer</strong>, au hameau de <strong>La Borgé</strong> au-dessus de Valloire, aligne <strong>75 ateliers sur six parcours</strong> — vert, bleu, rouge et noir, en versions découverte, aventure, défi et commando — avec des tyroliennes de 80 mètres et un saut de Tarzan.</p><p>Tout le parc s'organise autour d'un seul chiffre : <strong>1 m 30</strong>. En dessous, à partir de 2 ans, les enfants évoluent à hauteur d'homme, apprennent à manipuler leur matériel et ont déjà leurs tyroliennes ; la séance de 2 h coûte 10 €, l'illimité 20 €. Au-dessus, on accède aux parcours de difficulté croissante, du très facile au très difficile : 20 € la séance de 2 h, 30 € l'illimité. Le seuil est donc à la fois une règle de sécurité et une grille tarifaire — utile à connaître avant de partir, surtout avec un enfant proche de la barre.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Payant",
+        "best_season": "5 juillet – 28 août 2026",
+        "commune": "Valloire",
+        "dogs": null,
+        "min_age": "2 ans",
+        "min_height": "Moins d'1 m 30 : parcours enfants · plus d'1 m 30 : parcours adultes",
+        "parking": null,
+        "stroller": null,
+        "type": "Parc aventure",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "Les parcours enfants sont « à partir de 2 ans et - d'1m30 » ; au-delà d'1 m 30 on passe sur les parcours adultes, du très facile au très difficile. Le seuil d'1 m 30 change aussi le tarif.",
+          "q": "À partir de quel âge et de quelle taille ?"
+        },
+        {
+          "a": "Moins d'1 m 30 : 10 € la séance de 2 h, 20 € en illimité. Plus d'1 m 30 : 20 € la séance de 2 h, 30 € en illimité. Le mini-golf est à « tarif unique 5€/personne ».",
+          "q": "Quels sont les tarifs ?"
+        },
+        {
+          "a": "Non : « pas de réservation, les clients sont accueillis directement au Parc ». Attention, « par conditions météorologiques difficiles, le Parc est susceptible de fermer », et il est fermé le samedi et les jours fériés.",
+          "q": "Faut-il réserver ?"
+        },
+        {
+          "a": "Un snack sert des boissons, mais le parc signale qu'il n'y a « pas d'eau courante » faute de réseau — prévoyez vos gourdes.",
+          "q": "Y a-t-il de l'eau sur place ?"
+        }
+      ],
+      "hero": {
+        "badge": "Parc aventure · Valloire",
+        "lead": "Au hameau de la Borgé, 75 ateliers sur six parcours — et un seuil unique, 1 m 30, qui décide à la fois du parcours et du prix."
+      },
+      "hero_alt": "Parcours dans les arbres à la Forêt de l'Enfer, Valloire",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D902 jusqu'à Valloire, puis le hameau de la Borgé.",
+        "public_transport": "Gare SNCF de Saint-Michel à Valloire, puis autocar par le col du Télégraphe."
+      },
+      "meta_description": "Parc aventure de la Forêt de l'Enfer à Valloire : 75 ateliers sur six parcours, enfants dès 2 ans sous 1 m 30 (10 €), adultes au-dessus (20 €). Saison 2026 : 5 juillet – 28 août, fermé le samedi.",
+      "meta_title": "La Forêt de l'Enfer · 75 ateliers à Valloire, dès 2 ans",
+      "name": "La Forêt de l'Enfer",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Adresse",
+          "v": "La Borgé, 73450 Valloire"
+        },
+        {
+          "k": "Saison 2026",
+          "v": "5 juillet – 28 août · lundi-vendredi et dimanche · fermé samedi et jours fériés"
+        },
+        {
+          "k": "Seuil",
+          "v": "1 m 30 — décide du parcours et du tarif ; enfants dès 2 ans"
+        },
+        {
+          "k": "Tarifs",
+          "v": "-1 m 30 : 10 € (2 h) / 20 € illimité · +1 m 30 : 20 € (2 h) / 30 € illimité · mini-golf 5 €"
+        },
+        {
+          "k": "Sur place",
+          "v": "Snack et boissons · pas d'eau courante · sans réservation · chèques, espèces, chèques vacances"
+        },
+        {
+          "k": "Contact",
+          "v": "06 40 44 45 75"
+        }
+      ],
+      "schema_amenities": [
+        "Snack sur place",
+        "Mini-golf",
+        "Sans réservation"
+      ],
+      "when_to_visit": "<p>Saison publiée : <strong>du 5 juillet au 28 août 2026</strong>, ouvert du lundi au vendredi et le dimanche — <strong>fermé le samedi et les jours fériés</strong>. Il n'y a « pas de réservation : les clients sont accueillis directement au Parc », et « par conditions météorologiques difficiles, le Parc est susceptible de fermer ». Un snack sert des boissons sur place, mais le parc prévient qu'il n'y a « pas d'eau courante » faute de réseau. Paiement par chèques, espèces ou chèques vacances.</p>"
+    },
+    "it": {
+      "activities": [
+        {
+          "description": "Discovery, avventura, sfida e commando — con 80 m zipline e un salto Tarzan.",
+          "tag": "Verde a nero",
+          "title": "Sei corsi, 75 workshop"
+        },
+        {
+          "description": "All'altezza della testa adulta, con le proprie attrezzature e zipline di loro.",
+          "tag": "Sotto i 1.30 m",
+          "title": "Piccoli dall'età 2"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>La Forêt de l'Enfer</strong>, presso la frazione di <strong>La Borgé</strong> sopra Valloire, linee in su <strong>75 workshop su sei corsi</strong> — versioni verde, blu, rosso e nero, alla scoperta, avventura, sfida e commando — con zip da 80 metri e salto Tarzan.</p><p>L'intero parco si accende un numero: <strong>1.30 m</strong>. Sotto di esso, dall'età 2, i bambini si muovono all'altezza della testa adulta, imparano a gestire la propria attrezzatura e già ottenere le loro zipline; una sessione di 2 ore costa €10, illimitato €20. Sopra di esso, i corsi di grado si aprono, da molto facile a molto difficile: €20 per 2 ore, €30 illimitato. La soglia è così sia una regola di sicurezza che un elenco dei prezzi — vale la pena sapere prima di partire, soprattutto con un bambino vicino al segno.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Pagato",
+        "best_season": "5 luglio – 28 agosto 2026",
+        "commune": "Valloire",
+        "dogs": null,
+        "min_age": "2 anni",
+        "min_height": "Sotto i 1.30 m: corsi per bambini · oltre 1.30 m: corsi per adulti",
+        "parking": null,
+        "stroller": null,
+        "type": "Parco avventura",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "I corsi per bambini sono 'da 2 anni e sotto 1m30'; sopra 1.30 m si sposta ai corsi per adulti, da molto facile a molto difficile. La soglia di 1.30 m cambia anche il prezzo.",
+          "q": "Qual è l'età e l'altezza minima?"
+        },
+        {
+          "a": "Sotto i 1.30 m: €10 per una sessione di 2 ore, €20 illimitato. Oltre 1.30 m: €20 per 2 ore, €30 illimitato. Minigolf è un 'flat €5 a persona'.",
+          "q": "Cosa costa?"
+        },
+        {
+          "a": "No. 'nessuna prenotazione, i clienti sono accolti direttamente al Parco'. Si noti che 'in condizioni atmosferiche difficili, il Parco può chiudere', ed è chiuso il sabato e festivi.",
+          "q": "Hai bisogno di prenotare?"
+        },
+        {
+          "a": "Uno snack bar serve bevande, ma il parco afferma che non c'è acqua corrente per mancanza di una connessione di rete — Portate le vostre bottiglie.",
+          "q": "C'è dell'acqua sul posto?"
+        }
+      ],
+      "hero": {
+        "badge": "Parco avventura · Valloire",
+        "lead": "Nella frazione di La Borgé, 75 workshop su sei corsi — e una sola soglia, 1.30 m, che decide sia il corso che il prezzo."
+      },
+      "hero_alt": "Corso albero a La Forêt de l'Enfer, Valloire",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D902 a Valloire, poi la frazione di La Borgé.",
+        "public_transport": "Saint-Michel to Valloire SNCF station, then coach over the Col du Télégraphe."
+      },
+      "meta_description": "Parco avventura La Forêt de l'Enfer a Valloire: 75 workshops over six courses, children from age 2 under 1.30 m (€10), adults above (€20). 2026 stagione: Dal 5 luglio al 28 agosto, sabato chiuso.",
+      "meta_title": "La Forêt de l'Enfer · 75 workshop a Valloire, da 2 anni",
+      "name": "La Forêt de l'Enfer",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Indirizzo",
+          "v": "La Borgé, 73450 Valloire"
+        },
+        {
+          "k": "Stagione 2026",
+          "v": "5 luglio – 28 agosto · Mon-Fri e domenica · sabato chiuso e festivi"
+        },
+        {
+          "k": "Soglia",
+          "v": "1.30 m — imposta il corso e il prezzo; bambini dai 2 anni"
+        },
+        {
+          "k": "Prezzi",
+          "v": "Sotto i 1.30 m: €10 (2 h) / €20 illimitato · oltre 1.30 m: €20 (2 h) / €30 illimitato · minigolf €5"
+        },
+        {
+          "k": "Sul sito",
+          "v": "Snack e bevande · no acqua corrente · nessuna prenotazione · assegno, contanti, buoni vacanza"
+        },
+        {
+          "k": "Contatto",
+          "v": "+33 6 40 44 45 75"
+        }
+      ],
+      "schema_amenities": [
+        "Snack bar",
+        "Mini-golf",
+        "Nessuna prenotazione necessaria"
+      ],
+      "when_to_visit": "<p>Stagione pubblicata: <strong>5 luglio al 28 agosto 2026</strong>, aperto da lunedì a venerdì e domenica — <strong>sabato chiuso e festivi</strong>. Non c'è nessuna prenotazione: i clienti sono accolti direttamente al Parco e 'in condizioni atmosferiche difficili, il Parco può chiudere'. Un snack bar serve bevande in loco, ma il parco avverte che non c'è acqua corrente per mancanza di una connessione di rete. Pagamento con assegno, contanti o buoni vacanza.</p>"
+    },
+    "nl": {
+      "activities": [
+        {
+          "description": "Ontdekking, avontuur, uitdaging en commando met 80 m ritssluitingen en een Tarzan sprong.",
+          "tag": "Groen tot zwart",
+          "title": "Zes cursussen, 75 workshops"
+        },
+        {
+          "description": "Op volwassen hoofdhoogte, met eigen uitrusting en ritssluitingen.",
+          "tag": "Minder dan 1,30 m",
+          "title": "Kleintjes vanaf 2 jaar"
+        }
+      ],
+      "body": {
+        "what_is": "<p><strong>La Forêt de l'Enfer</strong>, bij het gehucht van <strong>La Borgé</strong> boven Valloire, lijnen omhoog <strong>75 workshops over zes cursussen</strong> Groene, blauwe, rode en zwarte, in ontdekkings-, avontuur-, uitdaging- en commandoversies met 80 meter ritssluiting en een Tarzan sprong.</p><p>Het hele park draait op één nummer: <strong>1,30 m</strong>. Onder het, vanaf leeftijd 2, kinderen bewegen op volwassen hoofdhoogte, leren omgaan met hun eigen apparatuur en al krijgen hun ritsen; een sessie van 2 uur kost €10, onbeperkt €20. Daarboven openen de gegradeerde cursussen zich, van zeer gemakkelijk tot zeer hard: €20 voor 2 uur, €30 onbeperkt. De drempel is dus zowel een veiligheidsregel als een prijslijst . Vooral met een kind in de buurt van het merk.</p>"
+      },
+      "events": null,
+      "facts": {
+        "access": "Betaald",
+        "best_season": "5 juli 28 augustus 2026",
+        "commune": "Valloire",
+        "dogs": null,
+        "min_age": "2 jaar",
+        "min_height": "minder dan 1,30 m: - meer dan 1,30 m: volwassenencursussen",
+        "parking": null,
+        "stroller": null,
+        "type": "Avontuurpark",
+        "winter_access": null,
+        "winter_infra": []
+      },
+      "faq": [
+        {
+          "a": "De kindercursussen zijn 'van 2 jaar en jonger dan 1m30'; boven 1,30 m verhuist u naar de volwassenencursussen, van zeer gemakkelijk tot zeer hard. De drempel van 1,30 m verandert ook de prijs.",
+          "q": "Wat is de minimum leeftijd en lengte?"
+        },
+        {
+          "a": "minder dan 1,30 m: €10 voor een 2-uurs sessie, €20 onbeperkt. Meer dan 1,30 m: €20 voor 2 uur, €30 onbeperkt. Minigolf is een 'plat € 5 per persoon'.",
+          "q": "Wat kost het?"
+        },
+        {
+          "a": "Nee: 'Geen reservering, klanten worden direct in het Park verwelkomd'. Merk op dat 'in moeilijke weersomstandigheden, het park kan sluiten', en het is gesloten zaterdag en feestdagen.",
+          "q": "Moet je reserveren?"
+        },
+        {
+          "a": "Een snackbar serveert drankjes, maar in het park staat 'geen stromend water' bij gebrek aan een netaansluiting. Neem je eigen flessen mee.",
+          "q": "Is er water ter plaatse?"
+        }
+      ],
+      "hero": {
+        "badge": "Avontuurpark · Valloire",
+        "lead": "In het gehucht van La Borgé, 75 workshops over zes cursussen en één drempel, 1,30 m, die zowel de koers als de prijs bepaalt."
+      },
+      "hero_alt": "Treetop cursus bij La Forêt de l'Enfer, Valloire",
+      "how_to_get_there": {
+        "bike": null,
+        "car": "D902 naar Valloire, dan het gehucht La Borgé.",
+        "public_transport": "Saint-Michel to Valloire SNCF station, then coach over the Col du Télégraphe."
+      },
+      "meta_description": "La Forêt de l'Enfer adventure park op Valloire: 75 workshops over zes cursussen, kinderen van 2 tot 1.30 m (€10), volwassenen boven (€20). seizoen 2026: 5 juli tot 28 augustus, zaterdag gesloten.",
+      "meta_title": "La Forêt de l'Enfer · 75 workshops bij Valloire, vanaf 2 jaar",
+      "name": "La Forêt de l'Enfer",
+      "name_alternates": [],
+      "practical_info": [
+        {
+          "k": "Adres",
+          "v": "La Borgé, 73450 Valloire"
+        },
+        {
+          "k": "Seizoen 2026",
+          "v": "5 juli 28 augustus · Mon-Fri en zondag · gesloten zaterdagen en feestdagen"
+        },
+        {
+          "k": "Drempelwaarde",
+          "v": "1,30 m de koers en de prijs bepalen; kinderen vanaf 2 jaar"
+        },
+        {
+          "k": "Prijzen",
+          "v": "minder dan 1,30 m: 10 € (2 uur) / 20 € onbeperkt · meer dan 1,30 miljoen: € 20 (2 uur) / € 30 onbeperkt · minigolf € 5"
+        },
+        {
+          "k": "Ter plaatse",
+          "v": "Snacks en drankjes · geen stromend water · geen boeking · cheque, contant geld, vakantiecheques"
+        },
+        {
+          "k": "Contactpersoon",
+          "v": "+33 6 40 44 45 75"
+        }
+      ],
+      "schema_amenities": [
+        "Snackbar",
+        "Minigolf",
+        "Geen boeking nodig"
+      ],
+      "when_to_visit": "<p>Gepubliceerd seizoen: <strong>5 juli tot en met 28 augustus 2026</strong>, open van maandag t/m vrijdag en zondag <strong>gesloten zaterdagen en feestdagen</strong>Er is geen boeking: klanten worden direct in het park verwelkomd', en 'in moeilijke weersomstandigheden kan het park sluiten'. Een snackbar serveert drankjes ter plaatse, maar het park waarschuwt dat er geen stromend water is bij gebrek aan een netaansluiting. Betaling per cheque, cash of vakantiecheques.</p>"
+    }
+  },
+  "latitude": 45.1745,
+  "longitude": 6.4285,
+  "official_site_url": "https://www.valloire.net/activite/la-foret-de-lenfer-parc-accrobranche-valloire/",
+  "partners": [],
+  "postal_code": "73450",
+  "price_currency": "EUR",
+  "price_from": null,
+  "price_tiers": null,
+  "research_log": "Research 2026-08-20, pages FR (Valloire Tourisme + site de l'exploitant). « La Borgé, 73450 Valloire », hameau de la Borgé. Ouverture publiée : « Du 05/07/26 au 28/08/26 », ouvert du lundi au vendredi et le dimanche, fermé le samedi et les jours fériés. SEUIL DE TAILLE structurant le tarif : enfants « à partir de 2 ans et - d'1m30 » — séance 2 h 10 €, illimité 20 € ; adultes « +d'1m30 » — séance 2 h 20 €, illimité 30 €. Mini-golf « tarif unique 5€/personne ». 75 ateliers sur 6 parcours (vert, bleu, rouge, noir), tyroliennes de 80 m. Snack sur place, « pas d'eau courante » faute de réseau. « Pas de réservation. Les clients sont accueillis directement au Parc. » Paiement chèques/espèces/chèques vacances. Par « conditions météorologiques difficiles, le Parc est susceptible de fermer ». Tél. 06 40 44 45 75. Parking, animaux et accessibilité NON publiés → null.",
+  "schema_org": {
+    "amenities": [],
+    "is_free": true,
+    "public_access": true,
+    "type": "TouristAttraction"
+  },
+  "slug": "parc-aventure-de-la-foret-de-l-enfer",
+  "sources": [
+    "https://www.valloire.net/activite/la-foret-de-lenfer-parc-accrobranche-valloire/",
+    "https://www.foretdelenfer.com/"
+  ],
+  "sparse_data": false,
+  "status": "published",
+  "type": "nature",
+  "verify_flags": [
+    "MODIFICATEURS — parking, animaux et accessibilité non publiés sur les pages consultées ; laissés null plutôt que devinés.",
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published; kept null."
+  ]
+}

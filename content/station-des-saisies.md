@@ -50,7 +50,7 @@ Non renseigné
 
 ## Parking
 
-Stationnement réglementé au centre (avenue des Jeux Olympiques, place Berthod) ; « parking gratuit du Signal »
+« De grands parkings gratuits » aux Carrets (bas de station, côté Beaufortain) et au Signal (haut, côté Val d'Arly) ; horodateur avenue des Jeux Olympiques et place Berthod (8h30–12h, 14h–18h) ; stationnement interdit de 1h à 8h en hiver (déneigement)
 
 ## Transport
 

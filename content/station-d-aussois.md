@@ -48,7 +48,7 @@ Non renseigné
 
 ## Parking
 
-Non renseigné
+Parking pied de pistes : « Parking gratuit », toute l'année, place réservée PMR (animaux non acceptés sur le parking) ; parking des Forts gratuit du 15/05 au 15/11
 
 ## Transport
 

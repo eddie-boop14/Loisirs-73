@@ -50,7 +50,7 @@ Non renseigné
 
 ## Parking
 
-Parking couvert de l'église au centre (hauteur max 2,60 m) ; stationnement réglementé avenue de la Vallée d'Or et rue de la Sétaz
+Parking couvert de l'église au centre : « 91 places, 2 heures gratuites, 25 € / 24h » (mairie), hauteur max 2,60 m, animaux acceptés ; stationnement réglementé avenue de la Vallée d'Or et rue de la Sétaz
 
 ## Transport
 

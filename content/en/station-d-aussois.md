@@ -48,7 +48,7 @@ Not specified
 
 ## Parking
 
-Not specified
+Foot-of-the-slopes car park: 'Free parking', all year, reserved disabled space (animals not accepted on the car park); Forts car park free from 15/05 to 15/11
 
 ## Transport
 

@@ -46,7 +46,7 @@
         "best_season": "12. Dezember 2026 – 10. April 2027",
         "commune": "Hauteluce",
         "dogs": "\"Halten Sie Ihren Hund an der Leine\" erlaubt auf der Rosières Gondel, kleine Hunde in einer Tasche auf den Sesselliften; Bleipflicht in der Tourbière-Reserve",
-        "parking": "Geregeltes Parken im Zentrum (avenue des Jeux Olympiques, place Berthod); \"kostenloser Signal Parkplatz\"",
+        "parking": "\"Große kostenlose Parkplätze\" in Les Carrets (unten im Resort, Beaufortain Seite) und Le Signal (oben, Val d'Arly Seite); Meter auf avenue des Jeux Olympiques und place Berthod (8:30-12:00, 14:00-18:00); Parken verboten 1 Uhr morgens bis 8 Uhr morgens im Winter (Schneelichtung)",
         "stroller": "\"Einfache Wege und Aufzüge zugänglich ... für Eltern mit Kinderwagen\" - Kinderwagen auf einigen Aufzügen gefaltet",
         "type": "Skigebiet",
         "winter_access": "open",
@@ -141,7 +141,7 @@
         "best_season": "12 December 2026 – 10 April 2027",
         "commune": "Hauteluce",
         "dogs": "'Keep your dog on a lead'; allowed on the Rosières gondola, small dogs in a bag on the chairlifts; lead compulsory in the Tourbière reserve",
-        "parking": "Regulated parking in the centre (avenue des Jeux Olympiques, place Berthod); 'free Signal car park'",
+        "parking": "'Large free car parks' at Les Carrets (bottom of the resort, Beaufortain side) and Le Signal (top, Val d'Arly side); meters on avenue des Jeux Olympiques and place Berthod (8:30–12:00, 14:00–18:00); parking forbidden 1 a.m.–8 a.m. in winter (snow clearing)",
         "stroller": "'Easy paths and lifts accessible… to parents with pushchairs' — pushchair folded on some lifts",
         "type": "Ski resort",
         "winter_access": "open",
@@ -236,7 +236,7 @@
         "best_season": "12 diciembre 2026 – 10 de abril de 2027",
         "commune": "Hauteluce",
         "dogs": "'Mantén a tu perro en una pista'; permitido en la góndola Rosières, perros pequeños en una bolsa en los sillones; obligatorio en la reserva Tourbière",
-        "parking": "Estacionamiento regulado en el centro (avenue des Jeux Olympiques, place Berthod); 'libre aparcamiento Signal'",
+        "parking": "'Establece aparcamientos gratuitos' en Les Carrets (abajo del complejo, lado Beaufortain) y Le Signal (top, lado Val d'Arly); metros sobre avenue des Jeux Olympiques y place Berthod (8:30–12:00, 14:00–18:00); aparcamiento prohibido 1 a.m.-8 a.m. en invierno (snow clearing)",
         "stroller": "'Pasos cómodos y ascensores accesibles... a los padres con sillas de ruedas' — silla plegable en algunos ascensores",
         "type": "Escuela de esquí",
         "winter_access": "open",
@@ -331,7 +331,7 @@
         "best_season": "12 décembre 2026 – 10 avril 2027",
         "commune": "Hauteluce",
         "dogs": "« Gardez votre chien en laisse » ; télécabine des Rosières admise, petits chiens en sac sur les télésièges ; laisse obligatoire dans la Réserve de la Tourbière",
-        "parking": "Stationnement réglementé au centre (avenue des Jeux Olympiques, place Berthod) ; « parking gratuit du Signal »",
+        "parking": "« De grands parkings gratuits » aux Carrets (bas de station, côté Beaufortain) et au Signal (haut, côté Val d'Arly) ; horodateur avenue des Jeux Olympiques et place Berthod (8h30–12h, 14h–18h) ; stationnement interdit de 1h à 8h en hiver (déneigement)",
         "stroller": "« Sentiers faciles et remontées mécaniques accessibles… aux parents avec des poussettes » — poussette pliée sur certaines remontées",
         "type": "Station de ski",
         "winter_access": "open",
@@ -426,7 +426,7 @@
         "best_season": "12 dicembre 2026 – 10 aprile 2027",
         "commune": "Hauteluce",
         "dogs": "Tieni il tuo cane in testa. permesso sulla gondola Rosières, cani piccoli in un sacchetto sui seggiovie; guida obbligatoria nella riserva di Tourbière",
-        "parking": "Parcheggio al centro (avenue des Jeux Olympiques, place Berthod); Parcheggio gratuito Signal",
+        "parking": "'Grandi parcheggi gratuiti' a Les Carrets (in basso del resort, lato Beaufortain) e Le Signal (in alto, lato Val d'Arly); metri su avenue des Jeux Olympiques e place Berthod (8:30–12:00, 14:00–18:00); parcheggio vietato 1 a.m.-8 a.m. in inverno (snow clearing)",
         "stroller": "«Percorsi facili e ascensori accessibili... ai genitori con passeggini» — passeggino piegato su alcuni ascensori",
         "type": "Stazione sciistica",
         "winter_access": "open",
@@ -521,7 +521,7 @@
         "best_season": "12 december 2026 10 april 2027",
         "commune": "Hauteluce",
         "dogs": "'Hou je hond aan de leiding'. toegestaan op de Rosières gondel, kleine honden in een zak op de stoeltjesliften; lood verplicht in de Tourbière reserve",
-        "parking": "Gereguleerde parkeergelegenheid in het centrum (avenue des Jeux Olympiques, place Berthod); 'gratis parkeerplaats Signal'",
+        "parking": "'Grote gratis parkeerplaatsen' op Les Carrets (onderkant van het resort, Beaufortain-zijde) en Le Signal (bovenkant, Val d'Arly-zijde); meters on avenue des Jeux Olympiques and place Berthod (8:30–12:00, 14:00–18:00); parkeren verboden 1 uur 8 a.m. in de winter (sneeuwruimen)",
         "stroller": "'Gemakkelijke paden en liften toegankelijk... voor ouders met kinderwagens' kinderwagen gevouwen op sommige liften",
         "type": "Skigebied",
         "winter_access": "open",
@@ -620,5 +620,7 @@
   "sparse_data": false,
   "status": "published",
   "type": "nature",
-  "verify_flags": []
+  "verify_flags": [
+    "PARKING — tarifs horaires exacts non publiés sur la page FR stationnement (visibles seulement dans l'index de la fiche EN) ; règle FR-only : montants non imprimés."
+  ]
 }

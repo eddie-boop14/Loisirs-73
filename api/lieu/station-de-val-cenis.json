@@ -14,8 +14,15 @@
     "is_free": false,
     "note": null
   },
-  "access_pmr": null,
-  "parking": null,
+  "access_pmr": {
+    "status": "partiel",
+    "detail": "ESI Val Cenis : « Ski alpin assis », moniteurs « chevronnés en ski ou spécialisés en handiski », « prestations adaptées pour déficience motrice » et « déficience mentale », « qualification handisport » ; place PMR au parking des Glières.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_url": "https://www.valcenis.com/commerce-et-service/ecole-de-ski-internationale-esi-val-cenis-val-cenis/",
+    "source_name": "Val Cenis — ESI (fiche officielle)"
+  },
+  "parking": "Parking de la zone des Glières, en pied de pistes : « Gratuit », toute l'année, place réservée PMR, animaux acceptés",
   "transport": null,
   "season": "12 ou 13 décembre 2026 – 16 avril 2027 (selon la page)",
   "winter": {

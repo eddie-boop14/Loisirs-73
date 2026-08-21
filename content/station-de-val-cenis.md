@@ -44,11 +44,13 @@ Non renseigné
 
 ## Accès (PMR)
 
-Non renseigné
+- Statut: Partiellement accessible
+- Détail: ESI Val Cenis : « Ski alpin assis », moniteurs « chevronnés en ski ou spécialisés en handiski », « prestations adaptées pour déficience motrice » et « déficience mentale », « qualification handisport » ; place PMR au parking des Glières.
+- Source: Val Cenis — ESI (fiche officielle) — https://www.valcenis.com/commerce-et-service/ecole-de-ski-internationale-esi-val-cenis-val-cenis/
 
 ## Parking
 
-Non renseigné
+Parking de la zone des Glières, en pied de pistes : « Gratuit », toute l'année, place réservée PMR, animaux acceptés
 
 ## Transport
 

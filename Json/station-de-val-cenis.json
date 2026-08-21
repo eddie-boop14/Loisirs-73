@@ -1,13 +1,13 @@
 {
   "acces_pmr": {
-    "checked": "2026-08-18",
-    "confidence": null,
-    "detail": null,
-    "equipment": null,
+    "checked": "2026-08-21",
+    "confidence": "declarative",
+    "detail": "ESI Val Cenis : « Ski alpin assis », moniteurs « chevronnés en ski ou spécialisés en handiski », « prestations adaptées pour déficience motrice » et « déficience mentale », « qualification handisport » ; place PMR au parking des Glières.",
+    "equipment": [],
     "handiplage_level": null,
-    "source_name": null,
-    "source_url": null,
-    "status": null,
+    "source_name": "Val Cenis — ESI (fiche officielle)",
+    "source_url": "https://www.valcenis.com/commerce-et-service/ecole-de-ski-internationale-esi-val-cenis-val-cenis/",
+    "status": "partiel",
     "tourisme_handicap": null
   },
   "category": "station",
@@ -46,7 +46,7 @@
         "best_season": "12. oder 13. Dezember 2026 – 16. April 2027 (abhängig von der Seite)",
         "commune": "Val-Cenis",
         "dogs": null,
-        "parking": null,
+        "parking": "Parkzone Glières am Fuße der Pisten: 'Free', das ganze Jahr, reserviert Behindertenraum, Tiere akzeptiert",
         "stroller": null,
         "type": "Skigebiet",
         "winter_access": "open",
@@ -144,7 +144,7 @@
         "best_season": "12 or 13 December 2026 – 16 April 2027 (depending on the page)",
         "commune": "Val-Cenis",
         "dogs": null,
-        "parking": null,
+        "parking": "Zone des Glières car park, at the foot of the slopes: 'Free', all year, reserved disabled space, animals accepted",
         "stroller": null,
         "type": "Ski resort",
         "winter_access": "open",
@@ -242,7 +242,7 @@
         "best_season": "12 o 13 de diciembre 2026 – 16 de abril de 2027 (dependiendo de la página)",
         "commune": "Val-Cenis",
         "dogs": null,
-        "parking": null,
+        "parking": "Zona des Glières aparcamiento, al pie de las pistas: 'Gratis', todo el año, espacio reservado para discapacitados, animales aceptados",
         "stroller": null,
         "type": "Escuela de esquí",
         "winter_access": "open",
@@ -340,7 +340,7 @@
         "best_season": "12 ou 13 décembre 2026 – 16 avril 2027 (selon la page)",
         "commune": "Val-Cenis",
         "dogs": null,
-        "parking": null,
+        "parking": "Parking de la zone des Glières, en pied de pistes : « Gratuit », toute l'année, place réservée PMR, animaux acceptés",
         "stroller": null,
         "type": "Station de ski",
         "winter_access": "open",
@@ -438,7 +438,7 @@
         "best_season": "12 o 13 dicembre 2026 – 16 aprile 2027 (a seconda della pagina)",
         "commune": "Val-Cenis",
         "dogs": null,
-        "parking": null,
+        "parking": "Zona des Glières parcheggio, ai piedi delle piste: 'Free', tutto l'anno, spazio riservato per disabili, animali accettati",
         "stroller": null,
         "type": "Stazione sciistica",
         "winter_access": "open",
@@ -536,7 +536,7 @@
         "best_season": "12 of 13 december 2026 16 april 2027 (afhankelijk van de bladzijde)",
         "commune": "Val-Cenis",
         "dogs": null,
-        "parking": null,
+        "parking": "Parkeerplaats Zone des Glières, aan de voet van de pisten: Gratis, het hele jaar, gereserveerd voor gehandicapten, dieren geaccepteerd",
         "stroller": null,
         "type": "Skigebied",
         "winter_access": "open",
@@ -641,7 +641,6 @@
   "verify_flags": [
     "OUVERTURE 26/27 — deux dates sur le même site officiel : « 12 décembre 2026 » (page alpin) vs « dimanche 13 décembre 2026 » (page forfaits) ; les deux citées, jamais arbitrées.",
     "ESCARGOT — la gratuité historique de la zone débutant n'est plus publiée sur les pages actuelles ; non affirmée.",
-    "ACCES_PMR_UNVERIFIED — no official accessibility status published; kept null.",
-    "BACKFILL 2026-08-21 — valcenis.com et haute-maurienne-vanoise.com en erreur HTTP 500 sur toutes les pages testées ; parking, chiens, poussette et PMR non vérifiables ce jour ; à re-crawler."
+    "RE-CRAWL 2026-08-21 — valcenis.com de retour en ligne ; parking et PMR sourcés. Règle chiens à l'échelle de la station toujours non publiée (mentions par fiche seulement) ; chiens et poussette restent null."
   ]
 }

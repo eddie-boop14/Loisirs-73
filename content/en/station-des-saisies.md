@@ -49,7 +49,7 @@ Not specified
 
 ## Parking
 
-Regulated parking in the centre (avenue des Jeux Olympiques, place Berthod); 'free Signal car park'
+'Large free car parks' at Les Carrets (bottom of the resort, Beaufortain side) and Le Signal (top, Val d'Arly side); meters on avenue des Jeux Olympiques and place Berthod (8:30–12:00, 14:00–18:00); parking forbidden 1 a.m.–8 a.m. in winter (snow clearing)
 
 ## Transport
 

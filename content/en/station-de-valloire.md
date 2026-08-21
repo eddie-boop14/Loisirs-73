@@ -49,7 +49,7 @@ Not specified
 
 ## Parking
 
-Covered church car park in the centre (max height 2.60 m); regulated parking on avenue de la Vallée d'Or and rue de la Sétaz
+Covered church car park in the centre: '91 spaces, 2 hours free, €25 / 24 h' (town hall), max height 2.60 m, animals accepted; regulated parking on avenue de la Vallée d'Or and rue de la Sétaz
 
 ## Transport
 

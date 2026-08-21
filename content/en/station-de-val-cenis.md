@@ -44,11 +44,12 @@ Not specified
 
 ## Access (PMR)
 
-Not specified
+- Status: Partially accessible
+- Source: Val Cenis — ESI (fiche officielle) — https://www.valcenis.com/commerce-et-service/ecole-de-ski-internationale-esi-val-cenis-val-cenis/
 
 ## Parking
 
-Not specified
+Zone des Glières car park, at the foot of the slopes: 'Free', all year, reserved disabled space, animals accepted
 
 ## Transport
 

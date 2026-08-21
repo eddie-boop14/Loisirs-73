@@ -44,11 +44,13 @@ Non renseigné
 
 ## Accès (PMR)
 
-Non renseigné
+- Statut: Partiellement accessible
+- Détail: « L'ensemble des remontées mécaniques du Domaine Skiable de Valmorel et de Doucy est accessible aux personnes à mobilité réduite, excepté le Télébourg, le télésiège des Lanchettes et les téléskis classés difficiles » ; handiski ESF (dual-ski) ; navettes accessibles ; « l'architecture et la configuration de nos villages ne sont pas optimales ».
+- Source: Valmorel — Accueil PMR — https://www.valmorel.com/informations-pratiques/accueil-pmr/
 
 ## Parking
 
-Non renseigné
+Couverts payants (610 places) et extérieurs (1 100 places) ; gratuit au village le Crey (180 places) et aux Lanchettes ; « l'été, le stationnement est gratuit »
 
 ## Transport
 

@@ -64,7 +64,7 @@
         "best_season": "Juni – Oktober",
         "commune": "Val-Cenis",
         "dogs": null,
-        "parking": null,
+        "parking": "Kostenlose Parkplätze auf dem Pass — 'wenige Plätze', Übernachtung möglich",
         "stroller": null,
         "type": "Straßenpass und Stausee",
         "winter_access": "closed"
@@ -195,7 +195,7 @@
         "best_season": "June – October",
         "commune": "Val-Cenis",
         "dogs": null,
-        "parking": null,
+        "parking": "Free parking at the pass — 'few spaces', overnight parking possible",
         "stroller": null,
         "type": "Road pass and reservoir",
         "winter_access": "closed"
@@ -326,7 +326,7 @@
         "best_season": "Junio – octubre",
         "commune": "Val-Cenis",
         "dogs": null,
-        "parking": null,
+        "parking": "Aparcamiento gratuito en el pase — 'muchos espacios', estacionamiento nocturno posible",
         "stroller": null,
         "type": "Col de carretera y lago de presa",
         "winter_access": "closed"
@@ -457,7 +457,7 @@
         "best_season": "Juin – octobre",
         "commune": "Val-Cenis",
         "dogs": null,
-        "parking": null,
+        "parking": "Parking gratuit au col — « peu de places », stationnement plusieurs nuits possible",
         "snow_view": "alpes",
         "stroller": null,
         "type": "Col routier et lac de barrage",
@@ -592,7 +592,7 @@
         "best_season": "Giugno – ottobre",
         "commune": "Val-Cenis",
         "dogs": null,
-        "parking": null,
+        "parking": "Parcheggio gratuito al passo — 'parchi di lavoro', parcheggio notturno possibile",
         "stroller": null,
         "type": "Colle stradale e lago di sbarramento",
         "winter_access": "closed"
@@ -723,7 +723,7 @@
         "best_season": "Juni – oktober",
         "commune": "Val-Cenis",
         "dogs": null,
-        "parking": null,
+        "parking": "Gratis parkeren bij de pass 'Paar ruimtes', overnachting mogelijk",
         "stroller": null,
         "type": "Bergpas en stuwmeer",
         "winter_access": "closed"
@@ -905,6 +905,7 @@
     "PROFIL DE MONTÉE À VÉLO NON EXTRAIT — la page Vélo Maurienne consacrée à la montée depuis Lanslebourg existe mais ses chiffres n'ont pas été relevés. Aucun kilométrage ni pourcentage n'est publié ici plutôt qu'un chiffre approximatif.",
     "TARIFS, PARKING, PMR, ANIMAUX AU COL : aucune source. Champs null.",
     "GPS PRIS SUR EN.WIKIPEDIA, PAS SUR LA QUEUE — la ligne DATAtourisme la plus proche est « Le Jardin Alpin du Mont-Cenis » (45.239198 / 6.950719), qui est un autre lieu, à plusieurs kilomètres du col. Ne pas réutiliser ce point pour le col.",
-    "ACCES_PMR_UNVERIFIED — no official accessibility source found for this site. Status stays null rather than being inferred from the terrain."
+    "ACCES_PMR_UNVERIFIED — no official accessibility source found for this site. Status stays null rather than being inferred from the terrain.",
+    "PARKING — sourcé sur la fiche Savoie Mont Blanc du tour du lac du Mont-Cenis (départ au col), les pages valcenis.com et haute-maurienne-vanoise.com étant en erreur 500 le 21/08/2026."
   ]
 }

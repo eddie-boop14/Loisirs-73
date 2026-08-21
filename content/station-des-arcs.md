@@ -44,7 +44,9 @@ Non renseigné
 
 ## Accès (PMR)
 
-Non renseigné
+- Statut: Partiellement accessible
+- Détail: « Toutes les remontées sont adaptées à la pratique du handiski » ; fauteuil de transfert dans toutes les télécabines ; -50 % sur les forfaits avec CMI invalidité. Statut global de la station non publié : partiel.
+- Source: Les Arcs — Handiski — https://www.lesarcs.com/votre-sejour/tourisme-et-handicap/handiski
 
 ## Parking
 

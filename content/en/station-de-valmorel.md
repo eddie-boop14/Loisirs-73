@@ -44,11 +44,12 @@ Not specified
 
 ## Access (PMR)
 
-Not specified
+- Status: Partially accessible
+- Source: Valmorel — Accueil PMR — https://www.valmorel.com/informations-pratiques/accueil-pmr/
 
 ## Parking
 
-Not specified
+Paid covered (610 spaces) and outdoor (1,100 spaces); free at the Le Crey village (180 spaces) and Les Lanchettes; 'in summer, parking is free'
 
 ## Transport
 

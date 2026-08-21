@@ -14,8 +14,15 @@
     "is_free": false,
     "note": null
   },
-  "access_pmr": null,
-  "parking": null,
+  "access_pmr": {
+    "status": "accessible",
+    "detail": "« Musée intégralement accessible aux personnes à mobilité réduite. Toilettes et parking à leur disposition. »",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_url": "https://musee-ours-cavernes.com/services/",
+    "source_name": "Musée de l'Ours des Cavernes"
+  },
+  "parking": "« Parking gratuit à 100 m du musée, à l'entrée du camping de l'ourson » ; places PMR devant le musée",
   "transport": null,
   "season": "Fenêtres saisonnières 2026 : vacances scolaires, été 10h–12h30 / 14h–18h",
   "winter": null,

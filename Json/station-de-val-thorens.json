@@ -1,13 +1,13 @@
 {
   "acces_pmr": {
-    "checked": "2026-08-18",
-    "confidence": null,
-    "detail": null,
-    "equipment": null,
+    "checked": "2026-08-21",
+    "confidence": "declarative",
+    "detail": "« les remontées mécaniques facilitent l'accès des personnes handicapées via l'aménagement des télésièges et des Funitels avec des ascenseurs et plans inclinés ».",
+    "equipment": [],
     "handiplage_level": null,
-    "source_name": null,
-    "source_url": null,
-    "status": null,
+    "source_name": "Les 3 Vallées",
+    "source_url": "https://www.les3vallees.com/fr/guide/nos-conseils-pratiques/accessibilite",
+    "status": "partiel",
     "tourisme_handicap": null
   },
   "category": "station",
@@ -46,7 +46,7 @@
         "best_season": "21. November 2026 – 2. Mai 2027",
         "commune": "Les Belleville",
         "dogs": null,
-        "parking": null,
+        "parking": "Bezahlt — \"Die Buchung muss spätestens 7 Tage vor Ihrer Ankunft erfolgen\" (Valthoparc)",
         "stroller": null,
         "type": "Skigebiet",
         "winter_access": "open",
@@ -144,7 +144,7 @@
         "best_season": "21 November 2026 – 2 May 2027",
         "commune": "Les Belleville",
         "dogs": null,
-        "parking": null,
+        "parking": "Paid — 'booking must be made no later than 7 days before your arrival' (Valthoparc)",
         "stroller": null,
         "type": "Ski resort",
         "winter_access": "open",
@@ -242,7 +242,7 @@
         "best_season": "21 noviembre 2026 – 2 de mayo de 2027",
         "commune": "Les Belleville",
         "dogs": null,
-        "parking": null,
+        "parking": "Pagado 'La reserva debe hacerse a más tardar 7 días antes de su llegada' (Valthoparc)",
         "stroller": null,
         "type": "Escuela de esquí",
         "winter_access": "open",
@@ -340,7 +340,7 @@
         "best_season": "21 novembre 2026 – 2 mai 2027",
         "commune": "Les Belleville",
         "dogs": null,
-        "parking": null,
+        "parking": "Payant — « la réservation doit avoir lieu au plus tard 7 jours avant votre arrivée » (Valthoparc)",
         "stroller": null,
         "type": "Station de ski",
         "winter_access": "open",
@@ -438,7 +438,7 @@
         "best_season": "21 novembre 2026 – 2 maggio 2027",
         "commune": "Les Belleville",
         "dogs": null,
-        "parking": null,
+        "parking": "Pagamenti \"La prenotazione deve essere effettuata non oltre 7 giorni prima del vostro arrivo\" (Valthoparc)",
         "stroller": null,
         "type": "Stazione sciistica",
         "winter_access": "open",
@@ -536,7 +536,7 @@
         "best_season": "21 november 2026 2 mei 2027",
         "commune": "Les Belleville",
         "dogs": null,
-        "parking": null,
+        "parking": "Betaald 'De boeking moet uiterlijk 7 dagen voor aankomst plaatsvinden' (Valthoparc)",
         "stroller": null,
         "type": "Skigebied",
         "winter_access": "open",
@@ -637,7 +637,6 @@
   "status": "published",
   "type": "nature",
   "verify_flags": [
-    "SOURCE — valthorens.com inaccessible (Cloudflare 403) le 18/08/2026 sur toutes les pages testées ; fiche établie sur les3vallees.com. Stats locales du domaine (km/pistes/remontées propres) non vérifiables : null, jamais estimées.",
-    "ACCES_PMR_UNVERIFIED — no official accessibility status published; kept null."
+    "SOURCE — valthorens.com inaccessible (Cloudflare 403) le 18/08/2026, toujours en 403 au re-test du 21/08/2026 sur toutes les pages testées ; fiche établie sur les3vallees.com. Stats locales du domaine (km/pistes/remontées propres) non vérifiables : null, jamais estimées."
   ]
 }

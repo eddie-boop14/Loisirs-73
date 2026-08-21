@@ -44,11 +44,13 @@ Non renseigné
 
 ## Accès (PMR)
 
-Non renseigné
+- Statut: Partiellement accessible
+- Détail: Deux places réservées à la Maison des Saisies, portes automatiques, cheminements adaptés au fauteuil ; pas de label Tourisme et Handicap mentionné.
+- Source: Les Saisies — Accueil et handicap — https://www.lessaisies.com/accueil-et-handicap/
 
 ## Parking
 
-Non renseigné
+Stationnement réglementé au centre (avenue des Jeux Olympiques, place Berthod) ; « parking gratuit du Signal »
 
 ## Transport
 

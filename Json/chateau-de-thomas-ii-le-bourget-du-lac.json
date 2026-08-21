@@ -1,13 +1,13 @@
 {
   "acces_pmr": {
-    "checked": "2026-08-10",
-    "confidence": null,
-    "detail": null,
-    "equipment": null,
+    "checked": "2026-08-21",
+    "confidence": "declarative",
+    "detail": "La « promenade confort » d'accès est décrite avec pentes réduites et chemins larges ; aucune déclaration PMR pour les ruines elles-mêmes (tour de la Poterne ouverte l'été).",
+    "equipment": [],
     "handiplage_level": null,
-    "source_name": null,
-    "source_url": null,
-    "status": null,
+    "source_name": "Mairie du Bourget-du-Lac",
+    "source_url": "https://www.lebourgetdulac.fr/chateau-de-thomas-ii-et-ses-espaces-proteges/",
+    "status": "partiel",
     "tourisme_handicap": null
   },
   "category": "chateau",
@@ -45,9 +45,9 @@
         "access": "Innenhof frei; Tour de la Poterne €2 (Juli-August)",
         "best_season": "Juli-August für den Turm; Innenhof und Sümpfe das ganze Jahr über",
         "commune": "Le Bourget-du-Lac",
-        "dogs": null,
-        "parking": null,
-        "stroller": null,
+        "dogs": "Nicht zugelassen — \"Zweiräder und Hunde sind nicht willkommen\" (geschützte Naturstätte)",
+        "parking": "Kommunaler Strandparkplatz, dann die Fußgängerbrücke über den Leysse",
+        "stroller": "Erreicht durch den \"Promenade Confort\": breite Wege, sanfte Hänge, befahrbar mit einem Kinderwagen",
         "type": "Ruinierte Burg, aufgeführt Monument historique"
       },
       "faq": [
@@ -138,9 +138,9 @@
         "access": "Inner courtyard free; Tour de la Poterne €2 (July-August)",
         "best_season": "July-August for the tower; courtyard and marshes year-round",
         "commune": "Le Bourget-du-Lac",
-        "dogs": null,
-        "parking": null,
-        "stroller": null,
+        "dogs": "Not admitted — 'two-wheelers and dogs are not welcome' (protected natural site)",
+        "parking": "Municipal beach car park, then the footbridge over the Leysse",
+        "stroller": "Reached by the 'promenade confort': wide paths, gentle slopes, passable with a pushchair",
         "type": "Ruined castle, listed Monument historique"
       },
       "faq": [
@@ -231,9 +231,9 @@
         "access": "Patio interior libre; Tour de la Poterne €2 (julio-agosto)",
         "best_season": "Julio-agosto para la torre; patio y marismas todo el año",
         "commune": "Le Bourget-du-Lac",
-        "dogs": null,
-        "parking": null,
-        "stroller": null,
+        "dogs": "No admitidos 'dos ruedas y perros no son bienvenidos' (sitio natural protegido)",
+        "parking": "Aparcamiento de playa municipal, luego la pasarela sobre el Leysse",
+        "stroller": "Alcanzado por el 'promenade confort': caminos anchos, suaves pendientes, pasible con un sillón",
         "type": "Castillo rizado, lista Monument historique"
       },
       "faq": [
@@ -324,9 +324,9 @@
         "access": "Cour intérieure en accès libre ; tour de la Poterne 2 € (juillet-août)",
         "best_season": "Juillet-août pour la tour ; la cour et les marais toute l'année",
         "commune": "Le Bourget-du-Lac",
-        "dogs": null,
-        "parking": null,
-        "stroller": null,
+        "dogs": "Non admis — « les deux-roues et les chiens ne sont pas les bienvenus » (site naturel protégé)",
+        "parking": "Parking de la plage municipale, puis passerelle sur la Leysse",
+        "stroller": "Accès par la « promenade confort » : chemins larges, pentes réduites, praticable en poussette",
         "type": "Château ruiné, Monument historique"
       },
       "faq": [
@@ -417,9 +417,9 @@
         "access": "Cortile interno gratuito; Tour de la Poterne €2 (luglio-agosto)",
         "best_season": "Luglio-agosto per la torre; cortile e paludi tutto l'anno",
         "commune": "Le Bourget-du-Lac",
-        "dogs": null,
-        "parking": null,
-        "stroller": null,
+        "dogs": "Non ammesso 'due ruote e cani non sono i benvenuti' (sito naturale protetto)",
+        "parking": "Parcheggio sulla spiaggia comunale, poi il ponte pedonale sopra la Leysse",
+        "stroller": "Accolta dal 'promenade confort': ampi sentieri, dolci pendii, passibili con passeggino",
         "type": "Castello in rovina, elencato Monument historique"
       },
       "faq": [
@@ -510,9 +510,9 @@
         "access": "Binnenplaats gratis; Tour de la Poterne € 2 (juli-augustus)",
         "best_season": "Juli-augustus voor de toren; binnenplaats en moerassen het hele jaar door",
         "commune": "Le Bourget-du-Lac",
-        "dogs": null,
-        "parking": null,
-        "stroller": null,
+        "dogs": "Niet toegelaten 'Tweewielers en honden zijn niet welkom' (beschermde natuur)",
+        "parking": "Gemeentelijke strand parking, dan de voetbrug over de Leysse",
+        "stroller": "Bereikt door de 'promenade confort': brede paden, zachte hellingen, begaanbaar met een kinderwagen",
         "type": "Geruïneerd kasteel, vermeld Monument historique"
       },
       "faq": [
@@ -607,7 +607,5 @@
   "sparse_data": false,
   "status": "published",
   "type": "patrimoine",
-  "verify_flags": [
-    "ACCES_PMR_UNVERIFIED — no official accessibility source found for this site. Status stays null rather than being inferred from the terrain."
-  ]
+  "verify_flags": []
 }

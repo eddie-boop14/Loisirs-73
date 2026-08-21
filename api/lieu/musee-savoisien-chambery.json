@@ -14,8 +14,15 @@
     "is_free": true,
     "note": null
   },
-  "access_pmr": null,
-  "parking": null,
+  "access_pmr": {
+    "status": "accessible",
+    "detail": "Musée rénové selon les principes de l'accessibilité universelle : « ascenseurs, rampes d'accès, toilettes adaptées », boucle à induction magnétique, prêt de fauteuil roulant.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_url": "https://patrimoines.savoie.fr/web/psp_31786/musee-accessible",
+    "source_name": "Patrimoines Savoie — Musée accessible"
+  },
+  "parking": "Pas de parking propre ; Q-Park Curial (220 m), Hôtel de Ville (290 m) et Ravet (450 m), payants",
   "transport": null,
   "season": "Toute l'année sauf mardis, quatre jours fériés et deux semaines de janvier",
   "winter": null,

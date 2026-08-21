@@ -14,8 +14,15 @@
     "is_free": false,
     "note": null
   },
-  "access_pmr": null,
-  "parking": null,
+  "access_pmr": {
+    "status": "partiel",
+    "detail": "Handiski à l'ESF : « dual ski et fauteuil » ; pas de page accessibilité station dédiée.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_url": "https://www.valloire.net/apprendre/esf-ecole-du-ski-francais-de-valloire-451219/",
+    "source_name": "Valloire — ESF"
+  },
+  "parking": "Parking couvert de l'église au centre (hauteur max 2,60 m) ; stationnement réglementé avenue de la Vallée d'Or et rue de la Sétaz",
   "transport": null,
   "season": "19 décembre 2026 – 9 avril 2027",
   "winter": {

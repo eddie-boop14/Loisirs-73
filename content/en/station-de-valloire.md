@@ -44,11 +44,12 @@ Not specified
 
 ## Access (PMR)
 
-Not specified
+- Status: Partially accessible
+- Source: Valloire — ESF — https://www.valloire.net/apprendre/esf-ecole-du-ski-francais-de-valloire-451219/
 
 ## Parking
 
-Not specified
+Covered church car park in the centre (max height 2.60 m); regulated parking on avenue de la Vallée d'Or and rue de la Sétaz
 
 ## Transport
 

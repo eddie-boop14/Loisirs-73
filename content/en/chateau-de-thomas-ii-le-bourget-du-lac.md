@@ -44,11 +44,12 @@ Free
 
 ## Access (PMR)
 
-Not specified
+- Status: Partially accessible
+- Source: Mairie du Bourget-du-Lac — https://www.lebourgetdulac.fr/chateau-de-thomas-ii-et-ses-espaces-proteges/
 
 ## Parking
 
-Not specified
+Municipal beach car park, then the footbridge over the Leysse
 
 ## Transport
 

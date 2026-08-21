@@ -1,13 +1,13 @@
 {
   "acces_pmr": {
-    "checked": "2026-08-18",
-    "confidence": null,
-    "detail": null,
-    "equipment": null,
+    "checked": "2026-08-21",
+    "confidence": "declarative",
+    "detail": "Handiski à l'ESF : « dual ski et fauteuil » ; pas de page accessibilité station dédiée.",
+    "equipment": [],
     "handiplage_level": null,
-    "source_name": null,
-    "source_url": null,
-    "status": null,
+    "source_name": "Valloire — ESF",
+    "source_url": "https://www.valloire.net/apprendre/esf-ecole-du-ski-francais-de-valloire-451219/",
+    "status": "partiel",
     "tourisme_handicap": null
   },
   "category": "station",
@@ -46,7 +46,7 @@
         "best_season": "19. Dezember 2026 – 9. April 2027",
         "commune": "Valloire",
         "dogs": null,
-        "parking": null,
+        "parking": "Überdachter Kirchenparkplatz in der Mitte (max. Höhe 2,60 m); regulated parking on avenue de la Vallée d'Or and rue de la Sétaz",
         "stroller": null,
         "type": "Skigebiet",
         "winter_access": "open",
@@ -142,7 +142,7 @@
         "best_season": "19 December 2026 – 9 April 2027",
         "commune": "Valloire",
         "dogs": null,
-        "parking": null,
+        "parking": "Covered church car park in the centre (max height 2.60 m); regulated parking on avenue de la Vallée d'Or and rue de la Sétaz",
         "stroller": null,
         "type": "Ski resort",
         "winter_access": "open",
@@ -238,7 +238,7 @@
         "best_season": "19 de diciembre 2026 – 9 de abril de 2027",
         "commune": "Valloire",
         "dogs": null,
-        "parking": null,
+        "parking": "Aparcamiento cubierto en el centro (altura máxima 2.60 m); regulated parking on avenue de la Vallée d'Or and rue de la Sétaz",
         "stroller": null,
         "type": "Escuela de esquí",
         "winter_access": "open",
@@ -334,7 +334,7 @@
         "best_season": "19 décembre 2026 – 9 avril 2027",
         "commune": "Valloire",
         "dogs": null,
-        "parking": null,
+        "parking": "Parking couvert de l'église au centre (hauteur max 2,60 m) ; stationnement réglementé avenue de la Vallée d'Or et rue de la Sétaz",
         "stroller": null,
         "type": "Station de ski",
         "winter_access": "open",
@@ -430,7 +430,7 @@
         "best_season": "19 dicembre 2026 – 9 aprile 2027",
         "commune": "Valloire",
         "dogs": null,
-        "parking": null,
+        "parking": "Parcheggio coperto al centro (altezza massima 2,60 m); regulated parking on avenue de la Vallée d'Or and rue de la Sétaz",
         "stroller": null,
         "type": "Stazione sciistica",
         "winter_access": "open",
@@ -526,7 +526,7 @@
         "best_season": "19 december 2026 9 april 2027",
         "commune": "Valloire",
         "dogs": null,
-        "parking": null,
+        "parking": "Overdekte kerkparkeerplaats in het centrum (max. hoogte 2,60 m); regulated parking on avenue de la Vallée d'Or and rue de la Sétaz",
         "stroller": null,
         "type": "Skigebied",
         "winter_access": "open",
@@ -627,7 +627,6 @@
   "status": "published",
   "type": "nature",
   "verify_flags": [
-    "SKI DE FOND — kilométrage nordique non publié sur les pages consultées ; non renseigné.",
-    "ACCES_PMR_UNVERIFIED — no official accessibility status published; kept null."
+    "SKI DE FOND — kilométrage nordique non publié sur les pages consultées ; non renseigné."
   ]
 }

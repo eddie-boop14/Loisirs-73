@@ -14,8 +14,15 @@
     "is_free": true,
     "note": null
   },
-  "access_pmr": null,
-  "parking": null,
+  "access_pmr": {
+    "status": "accessible",
+    "detail": "« Le bâtiment est entièrement accessible aux Personnes à Mobilité Réduite (PMR). » Dispositif audio-tactile, vidéos LSF, ascenseur.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_url": "https://www.chambery.fr/270-venir-au-musee.htm",
+    "source_name": "Ville de Chambéry"
+  },
+  "parking": "Parking à proximité (parkings publics du centre-ville)",
   "transport": null,
   "season": "Toute l'année, du mardi au dimanche ; fermé lundis et jours fériés",
   "winter": null,

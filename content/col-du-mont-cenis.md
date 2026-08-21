@@ -48,7 +48,7 @@ Non renseigné
 
 ## Parking
 
-Non renseigné
+Parking gratuit au col — « peu de places », stationnement plusieurs nuits possible
 
 ## Transport
 

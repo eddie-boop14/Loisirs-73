@@ -48,7 +48,7 @@ Not specified
 
 ## Parking
 
-Not specified
+Free parking nearby (Halle Olympique)
 
 ## Transport
 

@@ -50,7 +50,7 @@ Gratuit
 
 ## Parking
 
-Non renseigné
+« Parking gratuit réservé aux visiteurs » ; stationnement autobus à 150 m
 
 ## Transport
 

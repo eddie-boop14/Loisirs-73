@@ -14,8 +14,15 @@
     "is_free": false,
     "note": null
   },
-  "access_pmr": null,
-  "parking": null,
+  "access_pmr": {
+    "status": "partiel",
+    "detail": "Guide handitourisme publié (hébergements, restaurants, parkings adaptés) ; handiski Uniski/Dualski ; l'office de tourisme prête un fauteuil roulant ; sentier du Plan de l'Eau « large, roulant, et de faible dénivelé ».",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_url": "https://www.lesmenuires.com/fr/handitourisme",
+    "source_name": "Les Menuires — Handitourisme"
+  },
+  "parking": "« Des parkings gratuits non couverts existent dans tous les quartiers de la station »",
   "transport": null,
   "season": "5 décembre 2026 – 18 avril 2027",
   "winter": {

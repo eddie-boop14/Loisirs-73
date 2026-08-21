@@ -44,11 +44,13 @@ Gratuit
 
 ## Accès (PMR)
 
-Non renseigné
+- Statut: Accessible
+- Détail: « Le bâtiment est entièrement accessible aux Personnes à Mobilité Réduite (PMR). » Dispositif audio-tactile, vidéos LSF, ascenseur.
+- Source: Ville de Chambéry — https://www.chambery.fr/270-venir-au-musee.htm
 
 ## Parking
 
-Non renseigné
+Parking à proximité (parkings publics du centre-ville)
 
 ## Transport
 

@@ -44,11 +44,13 @@ Non renseigné
 
 ## Accès (PMR)
 
-Non renseigné
+- Statut: Partiellement accessible
+- Détail: Téléphériques de l'Olympique et du Fornet et télécabine de Solaise accessibles PMR ; démarche régionale « H+ » (2025) ; navettes à rampes d'accès ; plus de 21 places PMR.
+- Source: Val d'Isère — Vacances & handicap — https://www.valdisere.com/destination-responsable/vacances-handicap/
 
 ## Parking
 
-Non renseigné
+« Les parkings à Val d'Isère sont payants en hiver » (Q-PARK) — P0 à P7, réservation en ligne conseillée
 
 ## Transport
 

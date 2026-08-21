@@ -49,7 +49,9 @@ Non renseigné
 
 ## Accès (PMR)
 
-Non renseigné
+- Statut: Partiellement accessible
+- Détail: Étages non accessibles ; « une visite virtuelle pour les personnes à mobilité réduite à visionner au rez-de-chaussée du musée » ; entrée gratuite pour les personnes en situation de handicap.
+- Source: Savoie Mont Blanc / Maison du Tourisme du Pays d'Albertville — https://www.savoie-mont-blanc.com/sites-culturels/musee-dart-et-dhistoire-562247/
 
 ## Parking
 

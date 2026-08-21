@@ -1,13 +1,13 @@
 {
   "acces_pmr": {
-    "checked": "2026-08-10",
-    "confidence": null,
-    "detail": null,
-    "equipment": null,
+    "checked": "2026-08-21",
+    "confidence": "declarative",
+    "detail": "« Musée intégralement accessible aux personnes à mobilité réduite. Toilettes et parking à leur disposition. »",
+    "equipment": [],
     "handiplage_level": null,
-    "source_name": null,
-    "source_url": null,
-    "status": null,
+    "source_name": "Musée de l'Ours des Cavernes",
+    "source_url": "https://musee-ours-cavernes.com/services/",
+    "status": "accessible",
     "tourisme_handicap": null
   },
   "category": "musee",
@@ -45,8 +45,8 @@
         "access": "Bezahlt: 7 € Erwachsener, 5 € Kind (6-16), Familie 22 €",
         "best_season": "2026 Saisonfenster: Schulferien; Sommer 10:00-12:30 / 14:00-18:00",
         "commune": "Entremont-le-Vieux",
-        "dogs": null,
-        "parking": null,
+        "dogs": "\"Tiere, die nicht im Museum zugelassen sind, ausgenommen Begleithunde\"",
+        "parking": "\"Kostenloser Parkplatz 100 m vom Museum entfernt, am Eingang des Campingplatzes l'ourson\"; Behindertenräume außerhalb des Museums",
         "stroller": null,
         "type": "Prähistorisches und Paläontologiemuseum"
       },
@@ -135,8 +135,8 @@
         "access": "Paid: €7 adult, €5 child (6-16), family €22",
         "best_season": "2026 seasonal windows: school holidays; summer 10:00–12:30 / 14:00–18:00",
         "commune": "Entremont-le-Vieux",
-        "dogs": null,
-        "parking": null,
+        "dogs": "'Animals not admitted inside the museum except guide or assistance dogs'",
+        "parking": "'Free car park 100 m from the museum, at the entrance of the l'ourson campsite'; disabled spaces outside the museum",
         "stroller": null,
         "type": "Prehistory and palaeontology museum"
       },
@@ -225,8 +225,8 @@
         "access": "Pagado: 7 € adulto, 5 € niño (6-16), familia 22 €",
         "best_season": "2026 ventanas de temporada: vacaciones escolares; verano 10:00 – 12:30 / 14:00 – 18:00",
         "commune": "Entremont-le-Vieux",
-        "dogs": null,
-        "parking": null,
+        "dogs": "'Animales no admitidos dentro del museo excepto perros guía o asistencia'",
+        "parking": "Aparcamiento gratuito a 100 m del museo, a la entrada del camping l'ourson; espacios discapacitados fuera del museo",
         "stroller": null,
         "type": "Museo de Prehistoria y paleontología"
       },
@@ -315,8 +315,8 @@
         "access": "Payant : 7 € adulte, 5 € enfant (6-16 ans), famille 22 €",
         "best_season": "Fenêtres saisonnières 2026 : vacances scolaires, été 10h–12h30 / 14h–18h",
         "commune": "Entremont-le-Vieux",
-        "dogs": null,
-        "parking": null,
+        "dogs": "« Animaux non admis à l'intérieur du musée sauf chien guide ou chien d'assistance »",
+        "parking": "« Parking gratuit à 100 m du musée, à l'entrée du camping de l'ourson » ; places PMR devant le musée",
         "stroller": null,
         "type": "Musée de préhistoire et de paléontologie"
       },
@@ -405,8 +405,8 @@
         "access": "A pagamento: €7 adulto, €5 bambino (6-16), famiglia €22",
         "best_season": "2026 finestre stagionali: vacanze scolastiche; estate 10:00–12:30 / 14:00–18:00",
         "commune": "Entremont-le-Vieux",
-        "dogs": null,
-        "parking": null,
+        "dogs": "'Animali non ammessi all'interno del museo tranne guida o cani di assistenza'",
+        "parking": "'Parcheggio gratuito a 100 m dal museo, all'ingresso del campeggio l'ourson'; spazi per disabili al di fuori del museo",
         "stroller": null,
         "type": "Museo di preistoria e paleontologia"
       },
@@ -495,8 +495,8 @@
         "access": "Betaald: € 7 volwassene, € 5 kind (6-16), familie € 22",
         "best_season": "2026 seizoensvensters: schoolvakanties, zomer 10:00–12:30 / 14:00–18:00",
         "commune": "Entremont-le-Vieux",
-        "dogs": null,
-        "parking": null,
+        "dogs": "Dieren die niet in het museum zijn toegelaten, behalve gids- of hulphonden.",
+        "parking": "'Gratis parkeerplaats 100 m van het museum, bij de ingang van de l'ourson camping'; gehandicaptenruimten buiten het museum",
         "stroller": null,
         "type": "Prehistorie en paleontologie museum"
       },
@@ -589,7 +589,5 @@
   "sparse_data": false,
   "status": "published",
   "type": "patrimoine",
-  "verify_flags": [
-    "ACCES_PMR_UNVERIFIED — no official accessibility source found for this site. Status stays null rather than being inferred from the terrain."
-  ]
+  "verify_flags": []
 }

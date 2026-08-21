@@ -44,11 +44,12 @@ Free
 
 ## Access (PMR)
 
-Not specified
+- Status: Accessible
+- Source: Patrimoines Savoie — Musée accessible — https://patrimoines.savoie.fr/web/psp_31786/musee-accessible
 
 ## Parking
 
-Not specified
+No car park of its own; paid Q-Park Curial (220 m), Hôtel de Ville (290 m) and Ravet (450 m)
 
 ## Transport
 

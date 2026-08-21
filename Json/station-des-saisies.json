@@ -1,13 +1,13 @@
 {
   "acces_pmr": {
-    "checked": "2026-08-18",
-    "confidence": null,
-    "detail": null,
-    "equipment": null,
+    "checked": "2026-08-21",
+    "confidence": "declarative",
+    "detail": "Deux places réservées à la Maison des Saisies, portes automatiques, cheminements adaptés au fauteuil ; pas de label Tourisme et Handicap mentionné.",
+    "equipment": [],
     "handiplage_level": null,
-    "source_name": null,
-    "source_url": null,
-    "status": null,
+    "source_name": "Les Saisies — Accueil et handicap",
+    "source_url": "https://www.lessaisies.com/accueil-et-handicap/",
+    "status": "partiel",
     "tourisme_handicap": null
   },
   "category": "station",
@@ -45,9 +45,9 @@
         "access": "Bezahlt",
         "best_season": "12. Dezember 2026 – 10. April 2027",
         "commune": "Hauteluce",
-        "dogs": null,
-        "parking": null,
-        "stroller": null,
+        "dogs": "\"Halten Sie Ihren Hund an der Leine\" erlaubt auf der Rosières Gondel, kleine Hunde in einer Tasche auf den Sesselliften; Bleipflicht in der Tourbière-Reserve",
+        "parking": "Geregeltes Parken im Zentrum (avenue des Jeux Olympiques, place Berthod); \"kostenloser Signal Parkplatz\"",
+        "stroller": "\"Einfache Wege und Aufzüge zugänglich ... für Eltern mit Kinderwagen\" - Kinderwagen auf einigen Aufzügen gefaltet",
         "type": "Skigebiet",
         "winter_access": "open",
         "winter_infra": [
@@ -140,9 +140,9 @@
         "access": "Paid",
         "best_season": "12 December 2026 – 10 April 2027",
         "commune": "Hauteluce",
-        "dogs": null,
-        "parking": null,
-        "stroller": null,
+        "dogs": "'Keep your dog on a lead'; allowed on the Rosières gondola, small dogs in a bag on the chairlifts; lead compulsory in the Tourbière reserve",
+        "parking": "Regulated parking in the centre (avenue des Jeux Olympiques, place Berthod); 'free Signal car park'",
+        "stroller": "'Easy paths and lifts accessible… to parents with pushchairs' — pushchair folded on some lifts",
         "type": "Ski resort",
         "winter_access": "open",
         "winter_infra": [
@@ -235,9 +235,9 @@
         "access": "Pagado",
         "best_season": "12 diciembre 2026 – 10 de abril de 2027",
         "commune": "Hauteluce",
-        "dogs": null,
-        "parking": null,
-        "stroller": null,
+        "dogs": "'Mantén a tu perro en una pista'; permitido en la góndola Rosières, perros pequeños en una bolsa en los sillones; obligatorio en la reserva Tourbière",
+        "parking": "Estacionamiento regulado en el centro (avenue des Jeux Olympiques, place Berthod); 'libre aparcamiento Signal'",
+        "stroller": "'Pasos cómodos y ascensores accesibles... a los padres con sillas de ruedas' — silla plegable en algunos ascensores",
         "type": "Escuela de esquí",
         "winter_access": "open",
         "winter_infra": [
@@ -330,9 +330,9 @@
         "access": "Payant",
         "best_season": "12 décembre 2026 – 10 avril 2027",
         "commune": "Hauteluce",
-        "dogs": null,
-        "parking": null,
-        "stroller": null,
+        "dogs": "« Gardez votre chien en laisse » ; télécabine des Rosières admise, petits chiens en sac sur les télésièges ; laisse obligatoire dans la Réserve de la Tourbière",
+        "parking": "Stationnement réglementé au centre (avenue des Jeux Olympiques, place Berthod) ; « parking gratuit du Signal »",
+        "stroller": "« Sentiers faciles et remontées mécaniques accessibles… aux parents avec des poussettes » — poussette pliée sur certaines remontées",
         "type": "Station de ski",
         "winter_access": "open",
         "winter_infra": [
@@ -425,9 +425,9 @@
         "access": "Pagato",
         "best_season": "12 dicembre 2026 – 10 aprile 2027",
         "commune": "Hauteluce",
-        "dogs": null,
-        "parking": null,
-        "stroller": null,
+        "dogs": "Tieni il tuo cane in testa. permesso sulla gondola Rosières, cani piccoli in un sacchetto sui seggiovie; guida obbligatoria nella riserva di Tourbière",
+        "parking": "Parcheggio al centro (avenue des Jeux Olympiques, place Berthod); Parcheggio gratuito Signal",
+        "stroller": "«Percorsi facili e ascensori accessibili... ai genitori con passeggini» — passeggino piegato su alcuni ascensori",
         "type": "Stazione sciistica",
         "winter_access": "open",
         "winter_infra": [
@@ -520,9 +520,9 @@
         "access": "Betaald",
         "best_season": "12 december 2026 10 april 2027",
         "commune": "Hauteluce",
-        "dogs": null,
-        "parking": null,
-        "stroller": null,
+        "dogs": "'Hou je hond aan de leiding'. toegestaan op de Rosières gondel, kleine honden in een zak op de stoeltjesliften; lood verplicht in de Tourbière reserve",
+        "parking": "Gereguleerde parkeergelegenheid in het centrum (avenue des Jeux Olympiques, place Berthod); 'gratis parkeerplaats Signal'",
+        "stroller": "'Gemakkelijke paden en liften toegankelijk... voor ouders met kinderwagens' kinderwagen gevouwen op sommige liften",
         "type": "Skigebied",
         "winter_access": "open",
         "winter_infra": [
@@ -620,7 +620,5 @@
   "sparse_data": false,
   "status": "published",
   "type": "nature",
-  "verify_flags": [
-    "ACCES_PMR_UNVERIFIED — no official accessibility status published; kept null."
-  ]
+  "verify_flags": []
 }

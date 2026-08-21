@@ -1,13 +1,13 @@
 {
   "acces_pmr": {
-    "checked": "2026-08-10",
-    "confidence": null,
-    "detail": null,
-    "equipment": null,
+    "checked": "2026-08-21",
+    "confidence": "declarative",
+    "detail": "« Le bâtiment est entièrement accessible aux Personnes à Mobilité Réduite (PMR). » Dispositif audio-tactile, vidéos LSF, ascenseur.",
+    "equipment": [],
     "handiplage_level": null,
-    "source_name": null,
-    "source_url": null,
-    "status": null,
+    "source_name": "Ville de Chambéry",
+    "source_url": "https://www.chambery.fr/270-venir-au-musee.htm",
+    "status": "accessible",
     "tourisme_handicap": null
   },
   "category": "musee",
@@ -46,7 +46,7 @@
         "best_season": "Ganzjährig, Dienstag bis Sonntag; Montags und Feiertage geschlossen",
         "commune": "Chambéry",
         "dogs": null,
-        "parking": null,
+        "parking": "Parken in der Nähe (öffentliche Parkplätze in der Innenstadt)",
         "stroller": null,
         "type": "Kunstmuseum"
       },
@@ -137,7 +137,7 @@
         "best_season": "Year-round, Tuesday to Sunday; closed Mondays and public holidays",
         "commune": "Chambéry",
         "dogs": null,
-        "parking": null,
+        "parking": "Parking nearby (public town-centre car parks)",
         "stroller": null,
         "type": "Fine-arts museum"
       },
@@ -228,7 +228,7 @@
         "best_season": "Todo el año, martes a domingo; lunes cerrados y festivos",
         "commune": "Chambéry",
         "dogs": null,
-        "parking": null,
+        "parking": "Aparcamiento cerca (parques de aparcamiento público centro ciudad)",
         "stroller": null,
         "type": "Museo de Bellas Artes"
       },
@@ -319,7 +319,7 @@
         "best_season": "Toute l'année, du mardi au dimanche ; fermé lundis et jours fériés",
         "commune": "Chambéry",
         "dogs": null,
-        "parking": null,
+        "parking": "Parking à proximité (parkings publics du centre-ville)",
         "stroller": null,
         "type": "Musée des beaux-arts"
       },
@@ -410,7 +410,7 @@
         "best_season": "Tutto l'anno, dal martedì alla domenica; chiuso lunedì e festivi",
         "commune": "Chambéry",
         "dogs": null,
-        "parking": null,
+        "parking": "Parcheggio nelle vicinanze (parcheggi pubblici centro città)",
         "stroller": null,
         "type": "Museo delle Belle Arti"
       },
@@ -501,7 +501,7 @@
         "best_season": "Het hele jaar, dinsdag tot en met zondag; gesloten maandagen en feestdagen",
         "commune": "Chambéry",
         "dogs": null,
-        "parking": null,
+        "parking": "Parkeren in de buurt (openbare parkeerplaatsen in het centrum van de stad)",
         "stroller": null,
         "type": "Fine-arts museum"
       },
@@ -594,7 +594,5 @@
   "sparse_data": false,
   "status": "published",
   "type": "patrimoine",
-  "verify_flags": [
-    "ACCES_PMR_UNVERIFIED — no official accessibility source found for this site. Status stays null rather than being inferred from the terrain."
-  ]
+  "verify_flags": []
 }

@@ -44,11 +44,13 @@ Non renseigné
 
 ## Accès (PMR)
 
-Non renseigné
+- Statut: Partiellement accessible
+- Détail: ESF formée au handiski debout et assis ; matériel : 3 skis-fauteuils, un double ski, un uniski, un ski-kart ; équipement Go to Ski annoncé pour 2026.
+- Source: La Rosière — Handiski (ESF) — https://www.larosiere.net/animation/handiski-2/
 
 ## Parking
 
-Non renseigné
+Zones bleues gratuites 2 h (disque obligatoire, « strictement interdit la nuit ») ; zones vertes gratuites sans limite ; zones rouges payantes
 
 ## Transport
 

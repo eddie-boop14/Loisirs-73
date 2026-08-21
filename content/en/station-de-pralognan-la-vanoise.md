@@ -44,11 +44,12 @@ Not specified
 
 ## Access (PMR)
 
-Not specified
+- Status: Partially accessible
+- Source: Pralognan — Promenade des Prioux — https://www.pralognan.com/prestataire/promenade-savoyarde-de-decouverte-des-prioux-543186/
 
 ## Parking
 
-Not specified
+Bouquetin car park free all year (7 consecutive days max; campervans 24 h)
 
 ## Transport
 

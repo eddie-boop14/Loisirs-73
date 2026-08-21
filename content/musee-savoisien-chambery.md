@@ -44,11 +44,13 @@ Gratuit
 
 ## Accès (PMR)
 
-Non renseigné
+- Statut: Accessible
+- Détail: Musée rénové selon les principes de l'accessibilité universelle : « ascenseurs, rampes d'accès, toilettes adaptées », boucle à induction magnétique, prêt de fauteuil roulant.
+- Source: Patrimoines Savoie — Musée accessible — https://patrimoines.savoie.fr/web/psp_31786/musee-accessible
 
 ## Parking
 
-Non renseigné
+Pas de parking propre ; Q-Park Curial (220 m), Hôtel de Ville (290 m) et Ravet (450 m), payants
 
 ## Transport
 

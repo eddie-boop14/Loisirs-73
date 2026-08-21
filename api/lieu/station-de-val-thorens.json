@@ -14,8 +14,15 @@
     "is_free": false,
     "note": null
   },
-  "access_pmr": null,
-  "parking": null,
+  "access_pmr": {
+    "status": "partiel",
+    "detail": "« les remontées mécaniques facilitent l'accès des personnes handicapées via l'aménagement des télésièges et des Funitels avec des ascenseurs et plans inclinés ».",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_url": "https://www.les3vallees.com/fr/guide/nos-conseils-pratiques/accessibilite",
+    "source_name": "Les 3 Vallées"
+  },
+  "parking": "Payant — « la réservation doit avoir lieu au plus tard 7 jours avant votre arrivée » (Valthoparc)",
   "transport": null,
   "season": "21 novembre 2026 – 2 mai 2027",
   "winter": {

@@ -1,13 +1,13 @@
 {
   "acces_pmr": {
-    "checked": "2026-08-18",
-    "confidence": null,
-    "detail": null,
-    "equipment": null,
+    "checked": "2026-08-21",
+    "confidence": "declarative",
+    "detail": "« Plus de 70 % des remontées mécaniques sont équipées afin que vous embarquiez et débarquiez en toute sérénité » ; moniteurs formés handiski.",
+    "equipment": [],
     "handiplage_level": null,
-    "source_name": null,
-    "source_url": null,
-    "status": null,
+    "source_name": "Courchevel Tourisme",
+    "source_url": "https://courchevel.com/fr/activites/handiski/",
+    "status": "partiel",
     "tourisme_handicap": null
   },
   "category": "station",
@@ -46,8 +46,8 @@
         "best_season": "4. Dezember 2026 – 18. April 2027",
         "commune": "Courchevel",
         "dogs": null,
-        "parking": null,
-        "stroller": null,
+        "parking": "Bezahlt — 14 überdachte städtische Parkplätze (~ 2.600 Plätze), erste 45 Minuten frei; Alpinium bei Le Praz: 1 h 30 frei",
+        "stroller": "Der Torrent und Lac de la Rosière Walk ist \"perfekt geeignet ... dank seines Kinderwagen-zugänglichen Weges\"",
         "type": "Skigebiet",
         "winter_access": "open",
         "winter_infra": [
@@ -142,8 +142,8 @@
         "best_season": "4 December 2026 – 18 April 2027",
         "commune": "Courchevel",
         "dogs": null,
-        "parking": null,
-        "stroller": null,
+        "parking": "Paid — 14 municipal covered car parks (~2,600 spaces), first 45 minutes free; Alpinium at Le Praz: 1 h 30 free",
+        "stroller": "The torrent and Lac de la Rosière walk is 'perfectly suited… thanks to its pushchair-accessible path'",
         "type": "Ski resort",
         "winter_access": "open",
         "winter_infra": [
@@ -238,8 +238,8 @@
         "best_season": "4 de diciembre 2026 – 18 abril 2027",
         "commune": "Courchevel",
         "dogs": null,
-        "parking": null,
-        "stroller": null,
+        "parking": "Pagado 14 aparcamientos municipales cubiertos (~2,600 espacios), primero 45 minutos gratis; Alpinium en Le Praz: 1 h 30 gratis",
+        "stroller": "El torrente y el paseo de Lac de la Rosière son 'aptos... gracias a su camino accesible para sillas'",
         "type": "Escuela de esquí",
         "winter_access": "open",
         "winter_infra": [
@@ -334,8 +334,8 @@
         "best_season": "4 décembre 2026 – 18 avril 2027",
         "commune": "Courchevel",
         "dogs": null,
-        "parking": null,
-        "stroller": null,
+        "parking": "Payant — 14 parkings couverts municipaux (~2 600 places), 45 premières minutes gratuites ; Alpinium au Praz : 1 h 30 gratuite",
+        "stroller": "Balade du torrent et du lac de la Rosière « parfaitement adaptée… grâce à son sentier accessible aux poussettes »",
         "type": "Station de ski",
         "winter_access": "open",
         "winter_infra": [
@@ -430,8 +430,8 @@
         "best_season": "4 dicembre 2026 – 18 aprile 2027",
         "commune": "Courchevel",
         "dogs": null,
-        "parking": null,
-        "stroller": null,
+        "parking": "Pagamenti 14 parcheggi coperti comunali (~2,600 spazi), primi 45 minuti gratis; Alpinium a Le Praz: 1 h 30 gratis",
+        "stroller": "Il torrente e la passeggiata Lac de la Rosière si adattano perfettamente... grazie al suo percorso accessibile ai passeggini",
         "type": "Stazione sciistica",
         "winter_access": "open",
         "winter_infra": [
@@ -526,8 +526,8 @@
         "best_season": "4 december 2026 18 april 2027",
         "commune": "Courchevel",
         "dogs": null,
-        "parking": null,
-        "stroller": null,
+        "parking": "Betaald 14 overdekte parkeerplaatsen (~2600 ruimten), eerste 45 minuten gratis; Alpinium bij Le Praz: 1 uur 30 vrij",
+        "stroller": "De torrent en Lac de la Rosière wandeling is 'perfect geschikt... dankzij het pad van de kinderwagen'",
         "type": "Skigebied",
         "winter_access": "open",
         "winter_infra": [
@@ -627,7 +627,6 @@
   "status": "published",
   "type": "nature",
   "verify_flags": [
-    "SAULIRE — altitude non publiée en toutes lettres sur les pages officielles consultées ; non imprimée.",
-    "ACCES_PMR_UNVERIFIED — no official accessibility status published; kept null."
+    "SAULIRE — altitude non publiée en toutes lettres sur les pages officielles consultées ; non imprimée."
   ]
 }

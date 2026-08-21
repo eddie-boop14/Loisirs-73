@@ -44,11 +44,13 @@ Gratuit
 
 ## Accès (PMR)
 
-Non renseigné
+- Statut: Non accessible
+- Détail: « La maison des Charmettes et ses jardins ne sont pas accessibles aux Personnes à Mobilité Réduite (PMR). » Médiation adaptée proposée (handicaps visuel, auditif, mental).
+- Source: Ville de Chambéry — https://www.chambery.fr/1996-infos-pratiques.htm
 
 ## Parking
 
-Non renseigné
+Parking privé sur place, parking autocar
 
 ## Transport
 

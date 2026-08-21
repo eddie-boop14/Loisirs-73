@@ -44,11 +44,12 @@ Not specified
 
 ## Access (PMR)
 
-Not specified
+- Status: Partially accessible
+- Source: La Plagne — Accessibilité et handicap — https://www.la-plagne.com/decouvrir-la-plagne/accessibilite-handicap
 
 ## Parking
 
-Not specified
+'Some open-air car parks (at Plagne Villages, Plagne Centre…) are free'; covered paid car parks bookable; 'in summer parking is free'
 
 ## Transport
 

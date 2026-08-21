@@ -44,11 +44,13 @@ Non renseigné
 
 ## Accès (PMR)
 
-Non renseigné
+- Statut: Partiellement accessible
+- Détail: Télécabines Pas du Lac 1 et 2 accessibles PMR depuis Mottaret ; tour du lac de Tuéda « entièrement accessible » (1,8 km) ; navettes Méribus accessibles (page été).
+- Source: Méribel Tourisme — https://www.meribel.net/accessibilite-meribel-ete/
 
 ## Parking
 
-Non renseigné
+Parkings couverts payants (Rond-Point des Pistes, Le Hameau, Les Rhodos, Le Dou du Pont) ; réservation en ligne
 
 ## Transport
 

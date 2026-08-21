@@ -44,11 +44,13 @@ Non renseigné
 
 ## Accès (PMR)
 
-Non renseigné
+- Statut: Partiellement accessible
+- Détail: Association AMONT : accompagnement « en s'adaptant à tous les types de handicap », matériel spécifique (fauteuils ski, grands stabilos) ; démarche « H+ ».
+- Source: Tignes — station handi-friendly — https://www.tignes.net/decouvrir/tignes-handicap
 
 ## Parking
 
-Non renseigné
+Payant du 20 novembre 2026 au 6 mai 2027, « en été et en automne, les parkings sont gratuits » — ~3 500 places, réservation Indigo Néo
 
 ## Transport
 

@@ -14,8 +14,15 @@
     "is_free": false,
     "note": null
   },
-  "access_pmr": null,
-  "parking": null,
+  "access_pmr": {
+    "status": "partiel",
+    "detail": "Promenade des Prioux accessible « aux personnes en fauteuil roulant accompagnées » ; navette électrique des Prioux adaptée ; Maison du Parc national labellisée Tourisme et Handicap.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_url": "https://www.pralognan.com/prestataire/promenade-savoyarde-de-decouverte-des-prioux-543186/",
+    "source_name": "Pralognan — Promenade des Prioux"
+  },
+  "parking": "Parking du Bouquetin gratuit toute l'année (7 jours consécutifs max ; camping-cars 24 h)",
   "transport": null,
   "season": null,
   "winter": {

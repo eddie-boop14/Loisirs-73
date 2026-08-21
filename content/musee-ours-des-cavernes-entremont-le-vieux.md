@@ -44,11 +44,13 @@ Non renseigné
 
 ## Accès (PMR)
 
-Non renseigné
+- Statut: Accessible
+- Détail: « Musée intégralement accessible aux personnes à mobilité réduite. Toilettes et parking à leur disposition. »
+- Source: Musée de l'Ours des Cavernes — https://musee-ours-cavernes.com/services/
 
 ## Parking
 
-Non renseigné
+« Parking gratuit à 100 m du musée, à l'entrée du camping de l'ourson » ; places PMR devant le musée
 
 ## Transport
 

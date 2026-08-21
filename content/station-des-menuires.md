@@ -44,11 +44,13 @@ Non renseigné
 
 ## Accès (PMR)
 
-Non renseigné
+- Statut: Partiellement accessible
+- Détail: Guide handitourisme publié (hébergements, restaurants, parkings adaptés) ; handiski Uniski/Dualski ; l'office de tourisme prête un fauteuil roulant ; sentier du Plan de l'Eau « large, roulant, et de faible dénivelé ».
+- Source: Les Menuires — Handitourisme — https://www.lesmenuires.com/fr/handitourisme
 
 ## Parking
 
-Non renseigné
+« Des parkings gratuits non couverts existent dans tous les quartiers de la station »
 
 ## Transport
 

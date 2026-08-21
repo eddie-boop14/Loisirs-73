@@ -44,11 +44,12 @@ Not specified
 
 ## Access (PMR)
 
-Not specified
+- Status: Partially accessible
+- Source: Tignes — station handi-friendly — https://www.tignes.net/decouvrir/tignes-handicap
 
 ## Parking
 
-Not specified
+Paid from 20 November 2026 to 6 May 2027, 'in summer and autumn the car parks are free' — ~3,500 spaces, Indigo Néo booking
 
 ## Transport
 

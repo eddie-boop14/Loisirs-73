@@ -1,14 +1,14 @@
 {
   "acces_pmr": {
-    "checked": "2026-08-17",
-    "confidence": null,
-    "detail": "La seule mention publiée est « Une visite virtuelle pour les personnes à mobilité réduite à visionner au RDC du musée » — c'est un substitut à l'accès, pas un accès. Rien sur l'ascenseur, les WC adaptés ou l'accès aux collections.",
+    "checked": "2026-08-21",
+    "confidence": "declarative",
+    "detail": "Étages non accessibles ; « une visite virtuelle pour les personnes à mobilité réduite à visionner au rez-de-chaussée du musée » ; entrée gratuite pour les personnes en situation de handicap.",
     "equipment": [],
     "handiplage_level": null,
-    "source_name": "Savoie Mont Blanc",
-    "source_url": "https://www.explore-savoie.com/sites-culturels/musee-dart-et-dhistoire-562247/",
-    "status": null,
-    "tourisme_handicap": []
+    "source_name": "Savoie Mont Blanc / Maison du Tourisme du Pays d'Albertville",
+    "source_url": "https://www.savoie-mont-blanc.com/sites-culturels/musee-dart-et-dhistoire-562247/",
+    "status": "partiel",
+    "tourisme_handicap": null
   },
   "category": "musee",
   "commune": "Albertville",
@@ -703,7 +703,6 @@
     "CALENDRIER INCOHÉRENT À LA SOURCE — la grille publiée dit « Du 17 décembre au 26 juin » puis « Du 27 au 30 juin », et se recoupe donc avec elle-même. Reprise telle quelle.",
     "CONTACT CONTRADICTOIRE — 04 79 37 86 86 / musee@albertville.fr sur la fiche de l'office de tourisme, 04 79 37 86 85 / patrimoine@albertville.fr sur le site de la ville. Les deux sont officiels. Aucun n'est arbitré.",
     "CALENDRIER SANS MILLÉSIME — la grille d'ouverture publiée ne porte aucune année : c'est un calendrier jour/mois qui tourne, pas une saison 2026 affirmée. Elle est reprise telle quelle, sans être étiquetée « 2026 ».",
-    "ACCES_PMR_UNVERIFIED",
     "COORDONNÉES — POI IGN « Musée d'Albertville-Conflans », catégorie musée ; une requête sur le nom marketing ne renvoie AUCUN résultat en Savoie, il faut interroger « Conflans »."
   ]
 }

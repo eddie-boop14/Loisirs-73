@@ -44,7 +44,8 @@ Not specified
 
 ## Access (PMR)
 
-Not specified
+- Status: Not accessible
+- Source: Chambéry Montagnes — https://www.chamberymontagnes.com/que-faire/visites-culture-patrimoine/chateau-des-ducs-de-savoie-chambery-fr-5784132/
 
 ## Parking
 

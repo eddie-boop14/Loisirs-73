@@ -46,7 +46,7 @@
         "best_season": "Sommer — täglich geöffnet 11:00-19:00 Uhr (Daten: siehe Quelle Widerspruch)",
         "commune": "Mercury",
         "dogs": "Haustiere erlaubt (Quelle: Tourismusbüro)",
-        "parking": null,
+        "parking": "Parken in der Nähe (Preis unveröffentlicht)",
         "stroller": null,
         "type": "Séré de Rivières Fort (1876)"
       },
@@ -138,7 +138,7 @@
         "best_season": "Summer — open daily 11:00–19:00 (dates: see sourced contradiction)",
         "commune": "Mercury",
         "dogs": "Pets allowed (source: tourist office)",
-        "parking": null,
+        "parking": "Parking nearby (pricing unpublished)",
         "stroller": null,
         "type": "Séré de Rivières fort (1876)"
       },
@@ -230,7 +230,7 @@
         "best_season": "Verano — abierto todos los días de 11:00 a 19:00 (fechas: ver contradicción fuente)",
         "commune": "Mercury",
         "dogs": "Se admiten animales (fuente: oficina de turismo)",
-        "parking": null,
+        "parking": "Aparcamiento cerca (pricing inpublished)",
         "stroller": null,
         "type": "Forte Séré de Rivières (1876)"
       },
@@ -322,7 +322,7 @@
         "best_season": "Été — ouvert tous les jours de 11h à 19h (dates : voir contradiction sourcée)",
         "commune": "Mercury",
         "dogs": "Animaux acceptés (source : OT)",
-        "parking": null,
+        "parking": "Parking à proximité (gratuité non publiée)",
         "stroller": null,
         "type": "Fort Séré de Rivières (1876)"
       },
@@ -414,7 +414,7 @@
         "best_season": "Estate — aperto tutti i giorni 11:00-19:00 (date: vedi contraddizione fonte)",
         "commune": "Mercury",
         "dogs": "Animali domestici ammessi (fonte: ufficio turistico)",
-        "parking": null,
+        "parking": "Parcheggio nelle vicinanze (pricing inedito)",
         "stroller": null,
         "type": "Fort Séré de Rivières (1876)"
       },
@@ -506,7 +506,7 @@
         "best_season": "Zomer — open dagelijks 11:00–19:00 (datums: zie geattesteerde tegenstrijdigheid)",
         "commune": "Mercury",
         "dogs": "Huisdieren toegestaan (bron: VVV)",
-        "parking": null,
+        "parking": "Parkeren in de buurt (prijs niet gepubliceerd)",
         "stroller": null,
         "type": "Séré de Rivières fort (1876)"
       },
@@ -603,6 +603,7 @@
   "status": "published",
   "type": "patrimoine",
   "verify_flags": [
-    "ACCES_PMR_UNVERIFIED — no official accessibility source found for this site. Status stays null rather than being inferred from the terrain."
+    "ACCES_PMR_UNVERIFIED — no official accessibility source found for this site. Status stays null rather than being inferred from the terrain.",
+    "ACCES_PMR — seule une déclaration d'intention est publiée (« rendre son site et ses activités accessibles au plus grand nombre ») sans statut concret ; null conservé."
   ]
 }

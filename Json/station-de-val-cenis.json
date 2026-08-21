@@ -641,6 +641,7 @@
   "verify_flags": [
     "OUVERTURE 26/27 — deux dates sur le même site officiel : « 12 décembre 2026 » (page alpin) vs « dimanche 13 décembre 2026 » (page forfaits) ; les deux citées, jamais arbitrées.",
     "ESCARGOT — la gratuité historique de la zone débutant n'est plus publiée sur les pages actuelles ; non affirmée.",
-    "ACCES_PMR_UNVERIFIED — no official accessibility status published; kept null."
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published; kept null.",
+    "BACKFILL 2026-08-21 — valcenis.com et haute-maurienne-vanoise.com en erreur HTTP 500 sur toutes les pages testées ; parking, chiens, poussette et PMR non vérifiables ce jour ; à re-crawler."
   ]
 }

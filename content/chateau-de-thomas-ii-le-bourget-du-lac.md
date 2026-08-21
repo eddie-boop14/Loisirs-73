@@ -44,11 +44,13 @@ Gratuit
 
 ## Accès (PMR)
 
-Non renseigné
+- Statut: Partiellement accessible
+- Détail: La « promenade confort » d'accès est décrite avec pentes réduites et chemins larges ; aucune déclaration PMR pour les ruines elles-mêmes (tour de la Poterne ouverte l'été).
+- Source: Mairie du Bourget-du-Lac — https://www.lebourgetdulac.fr/chateau-de-thomas-ii-et-ses-espaces-proteges/
 
 ## Parking
 
-Non renseigné
+Parking de la plage municipale, puis passerelle sur la Leysse
 
 ## Transport
 

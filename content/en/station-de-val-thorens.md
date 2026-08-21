@@ -44,11 +44,12 @@ Not specified
 
 ## Access (PMR)
 
-Not specified
+- Status: Partially accessible
+- Source: Les 3 Vallées — https://www.les3vallees.com/fr/guide/nos-conseils-pratiques/accessibilite
 
 ## Parking
 
-Not specified
+Paid — 'booking must be made no later than 7 days before your arrival' (Valthoparc)
 
 ## Transport
 

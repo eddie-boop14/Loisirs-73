@@ -1,13 +1,13 @@
 {
   "acces_pmr": {
-    "checked": "2026-08-18",
-    "confidence": null,
-    "detail": null,
-    "equipment": null,
+    "checked": "2026-08-21",
+    "confidence": "declarative",
+    "detail": "Promenade des Prioux accessible « aux personnes en fauteuil roulant accompagnées » ; navette électrique des Prioux adaptée ; Maison du Parc national labellisée Tourisme et Handicap.",
+    "equipment": [],
     "handiplage_level": null,
-    "source_name": null,
-    "source_url": null,
-    "status": null,
+    "source_name": "Pralognan — Promenade des Prioux",
+    "source_url": "https://www.pralognan.com/prestataire/promenade-savoyarde-de-decouverte-des-prioux-543186/",
+    "status": "partiel",
     "tourisme_handicap": null
   },
   "category": "station",
@@ -45,9 +45,9 @@
         "access": "Bezahlt",
         "best_season": null,
         "commune": "Pralognan-la-Vanoise",
-        "dogs": null,
-        "parking": null,
-        "stroller": null,
+        "dogs": "Erlaubt auf der Mont-Bochor-Seilbahn (\"Bleipflicht\", ein Hund pro Person); Verboten im Vanoise Nationalpark",
+        "parking": "Bouquetin Parkplatz frei das ganze Jahr (7 aufeinanderfolgende Tage max.); Wohnmobile 24 Stunden",
+        "stroller": "Die Prioux Promenade (1,5 km) ist \"für alle zugänglich, auch für Familien mit Kinderwagen\"",
         "type": "Skigebiet",
         "winter_access": "open",
         "winter_infra": [
@@ -140,9 +140,9 @@
         "access": "Paid",
         "best_season": null,
         "commune": "Pralognan-la-Vanoise",
-        "dogs": null,
-        "parking": null,
-        "stroller": null,
+        "dogs": "Allowed on the Mont-Bochor cable car ('lead compulsory', one dog per person); forbidden in the Vanoise National Park",
+        "parking": "Bouquetin car park free all year (7 consecutive days max; campervans 24 h)",
+        "stroller": "The Prioux promenade (1.5 km) is 'accessible to all, including families with pushchairs'",
         "type": "Ski resort",
         "winter_access": "open",
         "winter_infra": [
@@ -235,9 +235,9 @@
         "access": "Pagado",
         "best_season": null,
         "commune": "Pralognan-la-Vanoise",
-        "dogs": null,
-        "parking": null,
-        "stroller": null,
+        "dogs": "Permitido en el teleférico Mont-Bochor ('lead compulsory', un perro por persona); prohibido en el Parque Nacional Vanoise",
+        "parking": "Bouquetin aparcamiento gratuito todo el año (7 días consecutivos max; caravanas 24 h)",
+        "stroller": "El paseo Prioux (1.5 km) es \"accesible para todos, incluyendo familias con sillas de ruedas\"",
         "type": "Escuela de esquí",
         "winter_access": "open",
         "winter_infra": [
@@ -330,9 +330,9 @@
         "access": "Payant",
         "best_season": null,
         "commune": "Pralognan-la-Vanoise",
-        "dogs": null,
-        "parking": null,
-        "stroller": null,
+        "dogs": "Admis au téléphérique du Mont-Bochor (« laisse obligatoire », un chien par personne) ; interdits dans le Parc national de la Vanoise",
+        "parking": "Parking du Bouquetin gratuit toute l'année (7 jours consécutifs max ; camping-cars 24 h)",
+        "stroller": "Promenade des Prioux (1,5 km) « accessible à tous, y compris aux familles avec poussettes »",
         "type": "Station de ski",
         "winter_access": "open",
         "winter_infra": [
@@ -425,9 +425,9 @@
         "access": "Pagato",
         "best_season": null,
         "commune": "Pralognan-la-Vanoise",
-        "dogs": null,
-        "parking": null,
-        "stroller": null,
+        "dogs": "Consentito sulla funivia Mont-Bochor (obbligatorio ', un cane a persona); vietato nel Parco Nazionale Vanoise",
+        "parking": "parcheggio Bouquetin gratuito tutto l'anno (7 giorni consecutivi max; camper 24 h)",
+        "stroller": "La passeggiata Prioux (1,5 km) è 'accessibile a tutti, comprese le famiglie con passeggini'",
         "type": "Stazione sciistica",
         "winter_access": "open",
         "winter_infra": [
@@ -520,9 +520,9 @@
         "access": "Betaald",
         "best_season": null,
         "commune": "Pralognan-la-Vanoise",
-        "dogs": null,
-        "parking": null,
-        "stroller": null,
+        "dogs": "Toegestaan op de Mont-Bochor kabelbaan (\"lead verplicht,\" één hond per persoon); verboden in het Vanoise Nationaal Park",
+        "parking": "Bouquetin parkeerplaats gratis het hele jaar (7 opeenvolgende dagen max; camperbusjes 24 uur)",
+        "stroller": "De Prioux promenade (1,5 km) is toegankelijk voor iedereen, inclusief gezinnen met kinderwagens.",
         "type": "Skigebied",
         "winter_access": "open",
         "winter_infra": [
@@ -621,7 +621,6 @@
   "status": "published",
   "type": "nature",
   "verify_flags": [
-    "SAISON 26/27 — non publiée au 18/08/2026 ; les dates 2025-26 (20 décembre – 5 avril) sont citées en référence. À mettre à jour dès publication.",
-    "ACCES_PMR_UNVERIFIED — no official accessibility status published; kept null."
+    "SAISON 26/27 — non publiée au 18/08/2026 ; les dates 2025-26 (20 décembre – 5 avril) sont citées en référence. À mettre à jour dès publication."
   ]
 }

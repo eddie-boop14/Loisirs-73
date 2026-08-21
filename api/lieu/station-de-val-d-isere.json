@@ -14,8 +14,15 @@
     "is_free": false,
     "note": null
   },
-  "access_pmr": null,
-  "parking": null,
+  "access_pmr": {
+    "status": "partiel",
+    "detail": "Téléphériques de l'Olympique et du Fornet et télécabine de Solaise accessibles PMR ; démarche régionale « H+ » (2025) ; navettes à rampes d'accès ; plus de 21 places PMR.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_url": "https://www.valdisere.com/destination-responsable/vacances-handicap/",
+    "source_name": "Val d'Isère — Vacances & handicap"
+  },
+  "parking": "« Les parkings à Val d'Isère sont payants en hiver » (Q-PARK) — P0 à P7, réservation en ligne conseillée",
   "transport": null,
   "season": "28 novembre 2026 – 2 mai 2027",
   "winter": {

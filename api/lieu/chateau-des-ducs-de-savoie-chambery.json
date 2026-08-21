@@ -14,7 +14,14 @@
     "is_free": false,
     "note": null
   },
-  "access_pmr": null,
+  "access_pmr": {
+    "status": "non_accessible",
+    "detail": "« Non accessible en fauteuil roulant » — le parcours de visite guidée comporte des escaliers (Sainte-Chapelle).",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_url": "https://www.chamberymontagnes.com/que-faire/visites-culture-patrimoine/chateau-des-ducs-de-savoie-chambery-fr-5784132/",
+    "source_name": "Chambéry Montagnes"
+  },
   "parking": null,
   "transport": null,
   "season": "Toute l'année, selon le calendrier des visites guidées",

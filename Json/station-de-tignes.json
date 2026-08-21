@@ -1,13 +1,13 @@
 {
   "acces_pmr": {
-    "checked": "2026-08-18",
-    "confidence": null,
-    "detail": null,
-    "equipment": null,
+    "checked": "2026-08-21",
+    "confidence": "declarative",
+    "detail": "Association AMONT : accompagnement « en s'adaptant à tous les types de handicap », matériel spécifique (fauteuils ski, grands stabilos) ; démarche « H+ ».",
+    "equipment": [],
     "handiplage_level": null,
-    "source_name": null,
-    "source_url": null,
-    "status": null,
+    "source_name": "Tignes — station handi-friendly",
+    "source_url": "https://www.tignes.net/decouvrir/tignes-handicap",
+    "status": "partiel",
     "tourisme_handicap": null
   },
   "category": "station",
@@ -46,7 +46,7 @@
         "best_season": "21. November 2026 – 2. Mai 2027",
         "commune": "Tignes",
         "dogs": null,
-        "parking": null,
+        "parking": "Bezahlt vom 20. November 2026 bis zum 6. Mai 2027, \"im Sommer und Herbst sind die Parkplätze frei\" - ~3500 Plätze, Indigo Néo Buchung",
         "stroller": null,
         "type": "Skigebiet",
         "winter_access": "open",
@@ -140,7 +140,7 @@
         "best_season": "21 November 2026 – 2 May 2027",
         "commune": "Tignes",
         "dogs": null,
-        "parking": null,
+        "parking": "Paid from 20 November 2026 to 6 May 2027, 'in summer and autumn the car parks are free' — ~3,500 spaces, Indigo Néo booking",
         "stroller": null,
         "type": "Ski resort",
         "winter_access": "open",
@@ -234,7 +234,7 @@
         "best_season": "21 noviembre 2026 – 2 de mayo de 2027",
         "commune": "Tignes",
         "dogs": null,
-        "parking": null,
+        "parking": "Pagado del 20 de noviembre de 2026 al 6 de mayo de 2027, 'en verano y otoño los aparcamientos son gratuitos' — ~3,500 espacios, reserva Indigo Néo",
         "stroller": null,
         "type": "Escuela de esquí",
         "winter_access": "open",
@@ -328,7 +328,7 @@
         "best_season": "21 novembre 2026 – 2 mai 2027",
         "commune": "Tignes",
         "dogs": null,
-        "parking": null,
+        "parking": "Payant du 20 novembre 2026 au 6 mai 2027, « en été et en automne, les parkings sont gratuits » — ~3 500 places, réservation Indigo Néo",
         "stroller": null,
         "type": "Station de ski",
         "winter_access": "open",
@@ -422,7 +422,7 @@
         "best_season": "21 novembre 2026 – 2 maggio 2027",
         "commune": "Tignes",
         "dogs": null,
-        "parking": null,
+        "parking": "Pagato dal 20 novembre 2026 al 6 maggio 2027, «in estate e in autunno i parcheggi sono gratuiti» — ~3,500 spazi, prenotazione Indigo Néo",
         "stroller": null,
         "type": "Stazione sciistica",
         "winter_access": "open",
@@ -516,7 +516,7 @@
         "best_season": "21 november 2026 2 mei 2027",
         "commune": "Tignes",
         "dogs": null,
-        "parking": null,
+        "parking": "Betaald van 20 november 2026 tot 6 mei 2027, 'in de zomer en herfst zijn de parkeergarages gratis' ~3500 spaties, Indigo Néo boeking",
         "stroller": null,
         "type": "Skigebied",
         "winter_access": "open",
@@ -614,7 +614,5 @@
   "sparse_data": false,
   "status": "published",
   "type": "nature",
-  "verify_flags": [
-    "ACCES_PMR_UNVERIFIED — no official accessibility status published; kept null."
-  ]
+  "verify_flags": []
 }

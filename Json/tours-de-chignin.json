@@ -596,6 +596,7 @@
   "status": "published",
   "type": "patrimoine",
   "verify_flags": [
-    "ACCES_PMR_UNVERIFIED — no official accessibility source found for this site. Status stays null rather than being inferred from the terrain."
+    "ACCES_PMR_UNVERIFIED — no official accessibility source found for this site. Status stays null rather than being inferred from the terrain.",
+    "MODIFIERS 2026-08-21 — vestiges dans les vignes sans accueil visiteurs organisé : aucune information animaux, poussette ou PMR publiée ; les null sont le constat."
   ]
 }

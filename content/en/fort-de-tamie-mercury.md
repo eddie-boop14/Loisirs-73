@@ -48,7 +48,7 @@ Not specified
 
 ## Parking
 
-Not specified
+Parking nearby (pricing unpublished)
 
 ## Transport
 

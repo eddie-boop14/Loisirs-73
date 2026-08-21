@@ -44,11 +44,12 @@ Free
 
 ## Access (PMR)
 
-Not specified
+- Status: Accessible
+- Source: Ville de Chambéry — https://www.chambery.fr/270-venir-au-musee.htm
 
 ## Parking
 
-Not specified
+Parking nearby (public town-centre car parks)
 
 ## Transport
 

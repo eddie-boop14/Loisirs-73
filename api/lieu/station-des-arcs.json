@@ -14,7 +14,14 @@
     "is_free": false,
     "note": null
   },
-  "access_pmr": null,
+  "access_pmr": {
+    "status": "partiel",
+    "detail": "« Toutes les remontées sont adaptées à la pratique du handiski » ; fauteuil de transfert dans toutes les télécabines ; -50 % sur les forfaits avec CMI invalidité. Statut global de la station non publié : partiel.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_url": "https://www.lesarcs.com/votre-sejour/tourisme-et-handicap/handiski",
+    "source_name": "Les Arcs — Handiski"
+  },
   "parking": null,
   "transport": null,
   "season": "12 décembre 2026 – 17 avril 2027",

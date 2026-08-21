@@ -44,11 +44,12 @@ Not specified
 
 ## Access (PMR)
 
-Not specified
+- Status: Partially accessible
+- Source: Les Menuires — Handitourisme — https://www.lesmenuires.com/fr/handitourisme
 
 ## Parking
 
-Not specified
+'Free uncovered car parks exist in every quarter of the resort'
 
 ## Transport
 

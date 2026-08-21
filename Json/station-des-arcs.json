@@ -1,13 +1,13 @@
 {
   "acces_pmr": {
-    "checked": "2026-08-18",
-    "confidence": null,
-    "detail": null,
-    "equipment": null,
+    "checked": "2026-08-21",
+    "confidence": "declarative",
+    "detail": "« Toutes les remontées sont adaptées à la pratique du handiski » ; fauteuil de transfert dans toutes les télécabines ; -50 % sur les forfaits avec CMI invalidité. Statut global de la station non publié : partiel.",
+    "equipment": [],
     "handiplage_level": null,
-    "source_name": null,
-    "source_url": null,
-    "status": null,
+    "source_name": "Les Arcs — Handiski",
+    "source_url": "https://www.lesarcs.com/votre-sejour/tourisme-et-handicap/handiski",
+    "status": "partiel",
     "tourisme_handicap": null
   },
   "category": "station",
@@ -45,7 +45,7 @@
         "access": "Bezahlt",
         "best_season": "12. Dezember 2026 – 17. April 2027",
         "commune": "Bourg-Saint-Maurice",
-        "dogs": null,
+        "dogs": "Erlaubt auf einigen Aufzügen \"ohne Ticket erforderlich\" (Seilbahn, Dahu, Cabriolet, Villards); Verboten auf den Pisten und im Vanoise Nationalpark",
         "parking": null,
         "stroller": null,
         "type": "Skigebiet",
@@ -145,7 +145,7 @@
         "access": "Paid",
         "best_season": "12 December 2026 – 17 April 2027",
         "commune": "Bourg-Saint-Maurice",
-        "dogs": null,
+        "dogs": "Allowed on some lifts 'with no ticket required' (funicular, Dahu, Cabriolet, Villards); forbidden on the ski runs and in the Vanoise National Park",
         "parking": null,
         "stroller": null,
         "type": "Ski resort",
@@ -245,7 +245,7 @@
         "access": "Pagado",
         "best_season": "12 diciembre 2026 – 17 abril 2027",
         "commune": "Bourg-Saint-Maurice",
-        "dogs": null,
+        "dogs": "Permitido en algunos ascensores 'sin necesidad de billete' (funicular, Dahu, Cabriolet, Villards); prohibido en las pistas de esquí y en el Parque Nacional Vanoise",
         "parking": null,
         "stroller": null,
         "type": "Escuela de esquí",
@@ -345,7 +345,7 @@
         "access": "Payant",
         "best_season": "12 décembre 2026 – 17 avril 2027",
         "commune": "Bourg-Saint-Maurice",
-        "dogs": null,
+        "dogs": "Admis sur certaines remontées « sans titre de transport obligatoire » (funiculaire, Dahu, Cabriolet, Villards) ; interdits sur les pistes et dans le Parc de la Vanoise",
         "parking": null,
         "stroller": null,
         "type": "Station de ski",
@@ -445,7 +445,7 @@
         "access": "Pagato",
         "best_season": "12 dicembre 2026 – 17 aprile 2027",
         "commune": "Bourg-Saint-Maurice",
-        "dogs": null,
+        "dogs": "Consentito su alcuni ascensori 'senza biglietto richiesto' (funicolare, Dahu, Cabriolet, Villards); vietato sulle piste da sci e nel Parco Nazionale Vanoise",
         "parking": null,
         "stroller": null,
         "type": "Stazione sciistica",
@@ -545,7 +545,7 @@
         "access": "Betaald",
         "best_season": "12 december 2026 17 april 2027",
         "commune": "Bourg-Saint-Maurice",
-        "dogs": null,
+        "dogs": "Toegestaan op sommige liften 'zonder ticket nodig' (funicular, Dahu, Cabriolet, Villards); verboden op de skipistes en in het Vanoise Nationaal Park",
         "parking": null,
         "stroller": null,
         "type": "Skigebied",
@@ -652,6 +652,6 @@
   "type": "nature",
   "verify_flags": [
     "PISTES — total « 123 pistes » incohérent avec le détail publié (18+55+42+16 = 131) sur la même page officielle ; les deux versions citées.",
-    "ACCES_PMR_UNVERIFIED — no official accessibility status published; kept null."
+    "PARKING — les pages stationnement FR de lesarcs.com renvoyaient 404 le 21/08/2026 (la version EN publie un parking gratuit à Arc 1600 et des couverts payants ailleurs) ; règle FR-only : non renseigné."
   ]
 }

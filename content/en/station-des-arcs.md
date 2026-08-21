@@ -44,7 +44,8 @@ Not specified
 
 ## Access (PMR)
 
-Not specified
+- Status: Partially accessible
+- Source: Les Arcs — Handiski — https://www.lesarcs.com/votre-sejour/tourisme-et-handicap/handiski
 
 ## Parking
 

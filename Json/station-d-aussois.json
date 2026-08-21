@@ -621,6 +621,7 @@
   "type": "nature",
   "verify_flags": [
     "POINT HAUT — « 2 700 m » (page domaine skiable) vs « 2 150 m au télésiège du Grand Jeu » (page d'accueil) sur le même site officiel ; les deux cités, jamais arbitrés.",
-    "ACCES_PMR_UNVERIFIED — no official accessibility status published; kept null."
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published; kept null.",
+    "BACKFILL 2026-08-21 — aussois.com et haute-maurienne-vanoise.com en erreur HTTP 500 sur toutes les pages testées ; parking, chiens, poussette et PMR non vérifiables ce jour ; à re-crawler."
   ]
 }

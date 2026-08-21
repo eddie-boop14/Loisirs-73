@@ -44,11 +44,13 @@ Non renseigné
 
 ## Accès (PMR)
 
-Non renseigné
+- Statut: Partiellement accessible
+- Détail: « les remontées mécaniques facilitent l'accès des personnes handicapées via l'aménagement des télésièges et des Funitels avec des ascenseurs et plans inclinés ».
+- Source: Les 3 Vallées — https://www.les3vallees.com/fr/guide/nos-conseils-pratiques/accessibilite
 
 ## Parking
 
-Non renseigné
+Payant — « la réservation doit avoir lieu au plus tard 7 jours avant votre arrivée » (Valthoparc)
 
 ## Transport
 

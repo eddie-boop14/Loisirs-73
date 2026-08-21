@@ -1,13 +1,13 @@
 {
   "acces_pmr": {
-    "checked": "2026-08-18",
-    "confidence": null,
-    "detail": null,
-    "equipment": null,
+    "checked": "2026-08-21",
+    "confidence": "declarative",
+    "detail": "Guide handitourisme publié (hébergements, restaurants, parkings adaptés) ; handiski Uniski/Dualski ; l'office de tourisme prête un fauteuil roulant ; sentier du Plan de l'Eau « large, roulant, et de faible dénivelé ».",
+    "equipment": [],
     "handiplage_level": null,
-    "source_name": null,
-    "source_url": null,
-    "status": null,
+    "source_name": "Les Menuires — Handitourisme",
+    "source_url": "https://www.lesmenuires.com/fr/handitourisme",
+    "status": "partiel",
     "tourisme_handicap": null
   },
   "category": "station",
@@ -46,8 +46,8 @@
         "best_season": "5. Dezember 2026 – 18. April 2027",
         "commune": "Les Belleville",
         "dogs": null,
-        "parking": null,
-        "stroller": null,
+        "parking": "\"Freie ungedeckte Parkplätze gibt es in jedem Viertel des Resorts\"",
+        "stroller": "Veröffentlichte Kinderwagenspaziergänge: Plan de l'Eau auf 'einem breiten, flachen Pfad'; der Bernadette-Trail und die Saint-Marcel-Schleife \"zugänglich mit einem geländegängigen Kinderwagen\"",
         "type": "Skigebiet",
         "winter_access": "open",
         "winter_infra": [
@@ -143,8 +143,8 @@
         "best_season": "5 December 2026 – 18 April 2027",
         "commune": "Les Belleville",
         "dogs": null,
-        "parking": null,
-        "stroller": null,
+        "parking": "'Free uncovered car parks exist in every quarter of the resort'",
+        "stroller": "Published pushchair walks: Plan de l'Eau on 'a wide, flat path'; the Bernadette trail and Saint-Marcel loop 'accessible with an all-terrain pushchair'",
         "type": "Ski resort",
         "winter_access": "open",
         "winter_infra": [
@@ -240,8 +240,8 @@
         "best_season": "5 de diciembre 2026 – 18 abril 2027",
         "commune": "Les Belleville",
         "dogs": null,
-        "parking": null,
-        "stroller": null,
+        "parking": "\"Existen aparcamientos descubiertas gratis en cada trimestre del resort\"",
+        "stroller": "Camisetas de silla de ruedas publicadas: Plan de l'Eau en 'un camino ancho y plano'; el sendero Bernadette y el bucle Saint-Marcel 'accesible con una silla de empuje todo terreno'",
         "type": "Escuela de esquí",
         "winter_access": "open",
         "winter_infra": [
@@ -337,8 +337,8 @@
         "best_season": "5 décembre 2026 – 18 avril 2027",
         "commune": "Les Belleville",
         "dogs": null,
-        "parking": null,
-        "stroller": null,
+        "parking": "« Des parkings gratuits non couverts existent dans tous les quartiers de la station »",
+        "stroller": "Balades poussette publiées : Plan de l'Eau « chemin large et plat » ; sentier Bernadette et boucle de Saint-Marcel « accessibles avec une poussette 4x4 »",
         "type": "Station de ski",
         "winter_access": "open",
         "winter_infra": [
@@ -434,8 +434,8 @@
         "best_season": "5 dicembre 2026 – 18 aprile 2027",
         "commune": "Les Belleville",
         "dogs": null,
-        "parking": null,
-        "stroller": null,
+        "parking": "I parcheggi gratuiti non coperti esistono in ogni trimestre del resort.",
+        "stroller": "Pubblicato passeggini: Plan de l'Eau su 'un percorso ampio e piatto'; il sentiero Bernadette e l'anello Saint-Marcel 'accessibile con un passeggino all'aperto'",
         "type": "Stazione sciistica",
         "winter_access": "open",
         "winter_infra": [
@@ -531,8 +531,8 @@
         "best_season": "5 december 2026 18 april 2027",
         "commune": "Les Belleville",
         "dogs": null,
-        "parking": null,
-        "stroller": null,
+        "parking": "'Gratis onbedekte parkeerplaatsen bestaan in elk kwart van het resort'",
+        "stroller": "Gepubliceerde kinderwagen wandelingen: Plan de l'Eau op 'een breed, vlak pad'; de Bernadette trail en Saint-Marcel loop 'toegankelijk met een all-terrain kinderwagen'",
         "type": "Skigebied",
         "winter_access": "open",
         "winter_infra": [
@@ -632,7 +632,5 @@
   "sparse_data": false,
   "status": "published",
   "type": "nature",
-  "verify_flags": [
-    "ACCES_PMR_UNVERIFIED — no official accessibility status published; kept null."
-  ]
+  "verify_flags": []
 }

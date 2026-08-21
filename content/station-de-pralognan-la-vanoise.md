@@ -44,11 +44,13 @@ Non renseigné
 
 ## Accès (PMR)
 
-Non renseigné
+- Statut: Partiellement accessible
+- Détail: Promenade des Prioux accessible « aux personnes en fauteuil roulant accompagnées » ; navette électrique des Prioux adaptée ; Maison du Parc national labellisée Tourisme et Handicap.
+- Source: Pralognan — Promenade des Prioux — https://www.pralognan.com/prestataire/promenade-savoyarde-de-decouverte-des-prioux-543186/
 
 ## Parking
 
-Non renseigné
+Parking du Bouquetin gratuit toute l'année (7 jours consécutifs max ; camping-cars 24 h)
 
 ## Transport
 

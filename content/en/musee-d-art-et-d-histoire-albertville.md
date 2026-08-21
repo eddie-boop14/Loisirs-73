@@ -49,7 +49,8 @@ Not specified
 
 ## Access (PMR)
 
-Not specified
+- Status: Partially accessible
+- Source: Savoie Mont Blanc / Maison du Tourisme du Pays d'Albertville — https://www.savoie-mont-blanc.com/sites-culturels/musee-dart-et-dhistoire-562247/
 
 ## Parking
 

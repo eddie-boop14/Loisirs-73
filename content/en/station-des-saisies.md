@@ -44,11 +44,12 @@ Not specified
 
 ## Access (PMR)
 
-Not specified
+- Status: Partially accessible
+- Source: Les Saisies — Accueil et handicap — https://www.lessaisies.com/accueil-et-handicap/
 
 ## Parking
 
-Not specified
+Regulated parking in the centre (avenue des Jeux Olympiques, place Berthod); 'free Signal car park'
 
 ## Transport
 

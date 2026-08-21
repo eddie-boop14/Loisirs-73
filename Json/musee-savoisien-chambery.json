@@ -1,13 +1,13 @@
 {
   "acces_pmr": {
-    "checked": "2026-08-10",
-    "confidence": null,
-    "detail": null,
-    "equipment": null,
+    "checked": "2026-08-21",
+    "confidence": "declarative",
+    "detail": "Musée rénové selon les principes de l'accessibilité universelle : « ascenseurs, rampes d'accès, toilettes adaptées », boucle à induction magnétique, prêt de fauteuil roulant.",
+    "equipment": [],
     "handiplage_level": null,
-    "source_name": null,
-    "source_url": null,
-    "status": null,
+    "source_name": "Patrimoines Savoie — Musée accessible",
+    "source_url": "https://patrimoines.savoie.fr/web/psp_31786/musee-accessible",
+    "status": "accessible",
     "tourisme_handicap": null
   },
   "category": "musee",
@@ -45,9 +45,9 @@
         "access": "Freier Eintritt; Führungen und Workshops werden bezahlt",
         "best_season": "Ganzjährig außer dienstags, vier Feiertagen und zwei Wochen im Januar",
         "commune": "Chambéry",
-        "dogs": null,
-        "parking": null,
-        "stroller": null,
+        "dogs": "verweigert — \"Nur Blindenhunde für Blinde oder für Menschen mit Behinderungen werden akzeptiert\"",
+        "parking": "Kein eigener Parkplatz; bezahlte Q-Park Curial (220 m), Hôtel de Ville (290 m) und Ravet (450 m)",
+        "stroller": "zugänglich; „Angepasste Ausrüstung, die auf Anfrage verliehen wurde: Rollstuhl... Kinderwagen",
         "type": "Museum der Geschichte und Kulturen von Savoie"
       },
       "faq": [
@@ -136,9 +136,9 @@
         "access": "Free entry; guided tours and workshops are paid",
         "best_season": "Year-round except Tuesdays, four public holidays and two weeks in January",
         "commune": "Chambéry",
-        "dogs": null,
-        "parking": null,
-        "stroller": null,
+        "dogs": "Refused — 'only guide dogs for the blind or for people with disabilities are accepted'",
+        "parking": "No car park of its own; paid Q-Park Curial (220 m), Hôtel de Ville (290 m) and Ravet (450 m)",
+        "stroller": "Accessible; 'adapted equipment lent on request: wheelchair… pushchair'",
         "type": "Museum of Savoie's history and cultures"
       },
       "faq": [
@@ -227,9 +227,9 @@
         "access": "Entrada gratuita; visitas guiadas y talleres se pagan",
         "best_season": "Alrededor de todo el año excepto martes, cuatro días festivos y dos semanas en enero",
         "commune": "Chambéry",
-        "dogs": null,
-        "parking": null,
-        "stroller": null,
+        "dogs": "Refused — 'sólo guía perros para ciegos o para personas con discapacidad son aceptados'",
+        "parking": "No hay aparcamiento propio; Q-Park Curial (220 m), Hôtel de Ville (290 m) y Ravet (450 m)",
+        "stroller": "Accesible; 'Equipos adaptados prestados bajo petición: silla de ruedas... silla de ruedas",
         "type": "Museo de la historia y culturas de Savoie"
       },
       "faq": [
@@ -318,9 +318,9 @@
         "access": "Entrée libre et gratuite ; visites guidées et ateliers payants",
         "best_season": "Toute l'année sauf mardis, quatre jours fériés et deux semaines de janvier",
         "commune": "Chambéry",
-        "dogs": null,
-        "parking": null,
-        "stroller": null,
+        "dogs": "Refusés — « seuls les chiens guides d'aveugles ou de personnes en situation de handicap sont acceptés »",
+        "parking": "Pas de parking propre ; Q-Park Curial (220 m), Hôtel de Ville (290 m) et Ravet (450 m), payants",
+        "stroller": "Accessible ; « prêt d'équipements adaptés sur simple demande : fauteuil roulant… poussette »",
         "type": "Musée d'histoire et des cultures de la Savoie"
       },
       "faq": [
@@ -409,9 +409,9 @@
         "access": "Ingresso gratuito; visite guidate e workshop sono pagati",
         "best_season": "Tutto l'anno tranne martedì, quattro giorni festivi e due settimane a gennaio",
         "commune": "Chambéry",
-        "dogs": null,
-        "parking": null,
-        "stroller": null,
+        "dogs": "Rifiuto — 'solo i cani guida per i ciechi o per le persone con disabilità sono accettati'",
+        "parking": "Nessun parcheggio proprio; Q-Park Curial (220 m), Hôtel de Ville (290 m) e Ravet (450 m)",
+        "stroller": "Accessibile; equipaggiamento adattato su richiesta: sedia a rotelle... seggiolone",
         "type": "Museo della storia e delle culture di Savoie"
       },
       "faq": [
@@ -500,9 +500,9 @@
         "access": "Gratis toegang; rondleidingen en workshops worden betaald",
         "best_season": "Het hele jaar door behalve op dinsdag, vier feestdagen en twee weken in januari",
         "commune": "Chambéry",
-        "dogs": null,
-        "parking": null,
-        "stroller": null,
+        "dogs": "Afgewezen 'Alleen geleidehonden voor blinden of gehandicapten worden geaccepteerd'",
+        "parking": "Geen eigen parkeerplaats; betaalde Q-Park Curial (220 m), Hôtel de Ville (290 m) en Ravet (450 m)",
+        "stroller": "toegankelijk; \"Aangepaste uitrusting die op verzoek wordt verstrekt: rolstoel... kinderwagen\"",
         "type": "Museum van de geschiedenis en culturen van Savoie"
       },
       "faq": [
@@ -595,7 +595,5 @@
   "sparse_data": false,
   "status": "published",
   "type": "patrimoine",
-  "verify_flags": [
-    "ACCES_PMR_UNVERIFIED — no official accessibility source found for this site. Status stays null rather than being inferred from the terrain."
-  ]
+  "verify_flags": []
 }

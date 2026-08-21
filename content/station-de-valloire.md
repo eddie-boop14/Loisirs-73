@@ -44,11 +44,13 @@ Non renseigné
 
 ## Accès (PMR)
 
-Non renseigné
+- Statut: Partiellement accessible
+- Détail: Handiski à l'ESF : « dual ski et fauteuil » ; pas de page accessibilité station dédiée.
+- Source: Valloire — ESF — https://www.valloire.net/apprendre/esf-ecole-du-ski-francais-de-valloire-451219/
 
 ## Parking
 
-Non renseigné
+Parking couvert de l'église au centre (hauteur max 2,60 m) ; stationnement réglementé avenue de la Vallée d'Or et rue de la Sétaz
 
 ## Transport
 

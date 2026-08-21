@@ -49,7 +49,7 @@ Free
 
 ## Parking
 
-Not specified
+'Free car park reserved for visitors'; coach parking 150 m away
 
 ## Transport
 

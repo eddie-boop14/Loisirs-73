@@ -14,8 +14,15 @@
     "is_free": true,
     "note": null
   },
-  "access_pmr": null,
-  "parking": null,
+  "access_pmr": {
+    "status": "non_accessible",
+    "detail": "« La maison des Charmettes et ses jardins ne sont pas accessibles aux Personnes à Mobilité Réduite (PMR). » Médiation adaptée proposée (handicaps visuel, auditif, mental).",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_url": "https://www.chambery.fr/1996-infos-pratiques.htm",
+    "source_name": "Ville de Chambéry"
+  },
+  "parking": "Parking privé sur place, parking autocar",
   "transport": null,
   "season": "Avril–octobre du mardi au dimanche ; week-ends seulement de novembre à mars",
   "winter": null,

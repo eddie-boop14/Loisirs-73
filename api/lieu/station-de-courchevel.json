@@ -14,8 +14,15 @@
     "is_free": false,
     "note": null
   },
-  "access_pmr": null,
-  "parking": null,
+  "access_pmr": {
+    "status": "partiel",
+    "detail": "« Plus de 70 % des remontées mécaniques sont équipées afin que vous embarquiez et débarquiez en toute sérénité » ; moniteurs formés handiski.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_url": "https://courchevel.com/fr/activites/handiski/",
+    "source_name": "Courchevel Tourisme"
+  },
+  "parking": "Payant — 14 parkings couverts municipaux (~2 600 places), 45 premières minutes gratuites ; Alpinium au Praz : 1 h 30 gratuite",
   "transport": null,
   "season": "4 décembre 2026 – 18 avril 2027",
   "winter": {

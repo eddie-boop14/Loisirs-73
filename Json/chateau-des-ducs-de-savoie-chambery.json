@@ -1,13 +1,13 @@
 {
   "acces_pmr": {
-    "checked": "2026-08-10",
-    "confidence": null,
-    "detail": null,
-    "equipment": null,
+    "checked": "2026-08-21",
+    "confidence": "declarative",
+    "detail": "« Non accessible en fauteuil roulant » — le parcours de visite guidée comporte des escaliers (Sainte-Chapelle).",
+    "equipment": [],
     "handiplage_level": null,
-    "source_name": null,
-    "source_url": null,
-    "status": null,
+    "source_name": "Chambéry Montagnes",
+    "source_url": "https://www.chamberymontagnes.com/que-faire/visites-culture-patrimoine/chateau-des-ducs-de-savoie-chambery-fr-5784132/",
+    "status": "non_accessible",
     "tourisme_handicap": null
   },
   "category": "chateau",
@@ -609,6 +609,6 @@
   "status": "published",
   "type": "patrimoine",
   "verify_flags": [
-    "ACCES_PMR_UNVERIFIED — no official accessibility source found for this site. Status stays null rather than being inferred from the terrain."
+    "POUSSETTE — la version EN de la fiche OT interdit explicitement les poussettes à l'intérieur ; la version FR ne cite que « les valises, sacs volumineux » (plan Vigipirate). Divergence FR/EN signalée ; règle FR-only : non renseigné."
   ]
 }

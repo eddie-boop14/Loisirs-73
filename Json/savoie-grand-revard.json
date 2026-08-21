@@ -671,6 +671,7 @@
   "verify_flags": [
     "SAISON 26/27 — non publiée au 18/08/2026 (tarifs nordiques 26/27 déjà en ligne) ; les dates 2025-26 citées en référence. À mettre à jour dès publication.",
     "ALTITUDE — non publiée sur les pages officielles consultées ; le ≈1 324 m (service altimétrique IGN) n'est pas imprimé.",
-    "ACCES_PMR_UNVERIFIED — no official accessibility status published; kept null."
+    "ACCES_PMR_UNVERIFIED — no official accessibility status published; kept null.",
+    "BACKFILL 2026-08-21 — aucune information parking, chiens, poussette ou PMR publiée sur les pages officielles consultées (chamberymontagnes.com) ; champs conservés null."
   ]
 }

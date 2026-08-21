@@ -44,11 +44,13 @@ Non renseigné
 
 ## Accès (PMR)
 
-Non renseigné
+- Statut: Partiellement accessible
+- Détail: « Plus de 70 % des remontées mécaniques sont équipées afin que vous embarquiez et débarquiez en toute sérénité » ; moniteurs formés handiski.
+- Source: Courchevel Tourisme — https://courchevel.com/fr/activites/handiski/
 
 ## Parking
 
-Non renseigné
+Payant — 14 parkings couverts municipaux (~2 600 places), 45 premières minutes gratuites ; Alpinium au Praz : 1 h 30 gratuite
 
 ## Transport
 

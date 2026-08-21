@@ -44,11 +44,12 @@ Not specified
 
 ## Access (PMR)
 
-Not specified
+- Status: Partially accessible
+- Source: Courchevel Tourisme — https://courchevel.com/fr/activites/handiski/
 
 ## Parking
 
-Not specified
+Paid — 14 municipal covered car parks (~2,600 spaces), first 45 minutes free; Alpinium at Le Praz: 1 h 30 free
 
 ## Transport
 

@@ -44,11 +44,12 @@ Not specified
 
 ## Access (PMR)
 
-Not specified
+- Status: Partially accessible
+- Source: Val d'Isère — Vacances & handicap — https://www.valdisere.com/destination-responsable/vacances-handicap/
 
 ## Parking
 
-Not specified
+'Car parks in Val d'Isère are paid in winter' (Q-PARK) — P0 to P7, online booking advised
 
 ## Transport
 

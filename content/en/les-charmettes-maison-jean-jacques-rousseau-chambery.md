@@ -44,11 +44,12 @@ Free
 
 ## Access (PMR)
 
-Not specified
+- Status: Not accessible
+- Source: Ville de Chambéry — https://www.chambery.fr/1996-infos-pratiques.htm
 
 ## Parking
 
-Not specified
+Private car park on site, coach parking
 
 ## Transport
 

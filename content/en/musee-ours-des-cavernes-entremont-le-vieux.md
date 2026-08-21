@@ -44,11 +44,12 @@ Not specified
 
 ## Access (PMR)
 
-Not specified
+- Status: Accessible
+- Source: Musée de l'Ours des Cavernes — https://musee-ours-cavernes.com/services/
 
 ## Parking
 
-Not specified
+'Free car park 100 m from the museum, at the entrance of the l'ourson campsite'; disabled spaces outside the museum
 
 ## Transport
 

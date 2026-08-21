@@ -14,8 +14,15 @@
     "is_free": false,
     "note": null
   },
-  "access_pmr": null,
-  "parking": null,
+  "access_pmr": {
+    "status": "partiel",
+    "detail": "Télécabines Pas du Lac 1 et 2 accessibles PMR depuis Mottaret ; tour du lac de Tuéda « entièrement accessible » (1,8 km) ; navettes Méribus accessibles (page été).",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_url": "https://www.meribel.net/accessibilite-meribel-ete/",
+    "source_name": "Méribel Tourisme"
+  },
+  "parking": "Parkings couverts payants (Rond-Point des Pistes, Le Hameau, Les Rhodos, Le Dou du Pont) ; réservation en ligne",
   "transport": null,
   "season": "5 décembre 2026 – 18 avril 2027",
   "winter": {

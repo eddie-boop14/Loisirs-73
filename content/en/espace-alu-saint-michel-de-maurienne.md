@@ -49,7 +49,7 @@ Not specified
 
 ## Parking
 
-Not specified
+Car park 50 m away (behind the church), disabled spaces outside the museum
 
 ## Transport
 

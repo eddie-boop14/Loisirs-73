@@ -48,7 +48,7 @@ Non renseigné
 
 ## Parking
 
-Non renseigné
+Deux parkings au hameau : petit parking à l'entrée du village (WC), grand parking à la sortie — gratuité non publiée
 
 ## Transport
 

@@ -1,13 +1,13 @@
 {
   "acces_pmr": {
-    "checked": "2026-08-10",
-    "confidence": null,
-    "detail": null,
-    "equipment": null,
+    "checked": "2026-08-21",
+    "confidence": "declarative",
+    "detail": "« La maison des Charmettes et ses jardins ne sont pas accessibles aux Personnes à Mobilité Réduite (PMR). » Médiation adaptée proposée (handicaps visuel, auditif, mental).",
+    "equipment": [],
     "handiplage_level": null,
-    "source_name": null,
-    "source_url": null,
-    "status": null,
+    "source_name": "Ville de Chambéry",
+    "source_url": "https://www.chambery.fr/1996-infos-pratiques.htm",
+    "status": "non_accessible",
     "tourisme_handicap": null
   },
   "category": "musee",
@@ -46,7 +46,7 @@
         "best_season": "April – Oktober Dienstag bis Sonntag; Wochenenden nur November bis März",
         "commune": "Chambéry",
         "dogs": null,
-        "parking": null,
+        "parking": "Privatparkplatz vor Ort, Busparkplatz",
         "stroller": null,
         "type": "Haus des Schriftstellers, Museum"
       },
@@ -139,7 +139,7 @@
         "best_season": "April–October Tuesday to Sunday; weekends only November to March",
         "commune": "Chambéry",
         "dogs": null,
-        "parking": null,
+        "parking": "Private car park on site, coach parking",
         "stroller": null,
         "type": "Writer's house, museum"
       },
@@ -232,7 +232,7 @@
         "best_season": "Martes a domingo de abril a octubre; fines de semana solamente de noviembre a marzo",
         "commune": "Chambéry",
         "dogs": null,
-        "parking": null,
+        "parking": "Aparcamiento privado en el sitio, estacionamiento de autobuses",
         "stroller": null,
         "type": "Casa del escritor, museo"
       },
@@ -325,7 +325,7 @@
         "best_season": "Avril–octobre du mardi au dimanche ; week-ends seulement de novembre à mars",
         "commune": "Chambéry",
         "dogs": null,
-        "parking": null,
+        "parking": "Parking privé sur place, parking autocar",
         "stroller": null,
         "type": "Maison d'écrivain, musée"
       },
@@ -418,7 +418,7 @@
         "best_season": "Aprile-Ottobre da martedì a domenica; weekend da novembre a marzo",
         "commune": "Chambéry",
         "dogs": null,
-        "parking": null,
+        "parking": "Parcheggio privato in loco, parcheggio per pullman",
         "stroller": null,
         "type": "Casa dello scrittore, museo"
       },
@@ -511,7 +511,7 @@
         "best_season": "April",
         "commune": "Chambéry",
         "dogs": null,
-        "parking": null,
+        "parking": "Privé parkeerplaats op het terrein, bus parkeren",
         "stroller": null,
         "type": "Schrijvershuis, museum"
       },
@@ -606,7 +606,5 @@
   "sparse_data": false,
   "status": "published",
   "type": "patrimoine",
-  "verify_flags": [
-    "ACCES_PMR_UNVERIFIED — no official accessibility source found for this site. Status stays null rather than being inferred from the terrain."
-  ]
+  "verify_flags": []
 }

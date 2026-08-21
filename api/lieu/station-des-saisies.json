@@ -14,8 +14,15 @@
     "is_free": false,
     "note": null
   },
-  "access_pmr": null,
-  "parking": null,
+  "access_pmr": {
+    "status": "partiel",
+    "detail": "Deux places réservées à la Maison des Saisies, portes automatiques, cheminements adaptés au fauteuil ; pas de label Tourisme et Handicap mentionné.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_url": "https://www.lessaisies.com/accueil-et-handicap/",
+    "source_name": "Les Saisies — Accueil et handicap"
+  },
+  "parking": "Stationnement réglementé au centre (avenue des Jeux Olympiques, place Berthod) ; « parking gratuit du Signal »",
   "transport": null,
   "season": "12 décembre 2026 – 10 avril 2027",
   "winter": {

@@ -14,8 +14,15 @@
     "is_free": false,
     "note": null
   },
-  "access_pmr": null,
-  "parking": null,
+  "access_pmr": {
+    "status": "partiel",
+    "detail": "Galeries intérieures et ascenseurs à Plagne Aime 2000 et Plagne Centre ; handiski avec moniteurs formés ; gratuité des places payantes avec macaron GIG/GIC ; liste des toilettes accessibles publiée.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_url": "https://www.la-plagne.com/decouvrir-la-plagne/accessibilite-handicap",
+    "source_name": "La Plagne — Accessibilité et handicap"
+  },
+  "parking": "« Certains parkings aériens (à Plagne Villages, à Plagne Centre…) sont gratuits » ; couverts payants réservables ; « l'été les stationnements sont gratuits »",
   "transport": null,
   "season": "12 décembre 2026 – 24 avril 2027",
   "winter": {

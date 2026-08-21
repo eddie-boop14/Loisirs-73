@@ -44,11 +44,12 @@ Not specified
 
 ## Access (PMR)
 
-Not specified
+- Status: Partially accessible
+- Source: Méribel Tourisme — https://www.meribel.net/accessibilite-meribel-ete/
 
 ## Parking
 
-Not specified
+Paid covered car parks (Rond-Point des Pistes, Le Hameau, Les Rhodos, Le Dou du Pont); online booking
 
 ## Transport
 

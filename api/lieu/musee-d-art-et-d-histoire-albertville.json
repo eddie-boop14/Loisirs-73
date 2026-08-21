@@ -40,7 +40,14 @@
     "is_free": false,
     "note": null
   },
-  "access_pmr": null,
+  "access_pmr": {
+    "status": "partiel",
+    "detail": "Étages non accessibles ; « une visite virtuelle pour les personnes à mobilité réduite à visionner au rez-de-chaussée du musée » ; entrée gratuite pour les personnes en situation de handicap.",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_url": "https://www.savoie-mont-blanc.com/sites-culturels/musee-dart-et-dhistoire-562247/",
+    "source_name": "Savoie Mont Blanc / Maison du Tourisme du Pays d'Albertville"
+  },
   "parking": null,
   "transport": null,
   "season": "Calendrier sans millésime",

@@ -44,11 +44,12 @@ Not specified
 
 ## Access (PMR)
 
-Not specified
+- Status: Partially accessible
+- Source: La Rosière — Handiski (ESF) — https://www.larosiere.net/animation/handiski-2/
 
 ## Parking
 
-Not specified
+Blue zones free for 2 h (parking disc compulsory, 'strictly forbidden at night'); green zones free without limit; red zones paid
 
 ## Transport
 

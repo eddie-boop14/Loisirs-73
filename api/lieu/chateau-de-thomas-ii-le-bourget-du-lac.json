@@ -14,8 +14,15 @@
     "is_free": true,
     "note": null
   },
-  "access_pmr": null,
-  "parking": null,
+  "access_pmr": {
+    "status": "partiel",
+    "detail": "La « promenade confort » d'accès est décrite avec pentes réduites et chemins larges ; aucune déclaration PMR pour les ruines elles-mêmes (tour de la Poterne ouverte l'été).",
+    "equipment": [],
+    "handiplage_level": null,
+    "source_url": "https://www.lebourgetdulac.fr/chateau-de-thomas-ii-et-ses-espaces-proteges/",
+    "source_name": "Mairie du Bourget-du-Lac"
+  },
+  "parking": "Parking de la plage municipale, puis passerelle sur la Leysse",
   "transport": null,
   "season": "Juillet-août pour la tour ; la cour et les marais toute l'année",
   "winter": null,

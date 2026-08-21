@@ -1,13 +1,13 @@
 {
   "acces_pmr": {
-    "checked": "2026-08-18",
-    "confidence": null,
-    "detail": null,
-    "equipment": null,
+    "checked": "2026-08-21",
+    "confidence": "declarative",
+    "detail": "ESF formée au handiski debout et assis ; matériel : 3 skis-fauteuils, un double ski, un uniski, un ski-kart ; équipement Go to Ski annoncé pour 2026.",
+    "equipment": [],
     "handiplage_level": null,
-    "source_name": null,
-    "source_url": null,
-    "status": null,
+    "source_name": "La Rosière — Handiski (ESF)",
+    "source_url": "https://www.larosiere.net/animation/handiski-2/",
+    "status": "partiel",
     "tourisme_handicap": null
   },
   "category": "station",
@@ -46,7 +46,7 @@
         "best_season": null,
         "commune": "Montvalezan",
         "dogs": null,
-        "parking": null,
+        "parking": "Blaue Zonen für 2 Stunden frei (Parkscheibe obligatorisch, \"streng verboten bei Nacht\"); Grüne Zonen ohne Begrenzung; Rote Zonen bezahlt",
         "stroller": null,
         "type": "Skigebiet",
         "winter_access": "open",
@@ -139,7 +139,7 @@
         "best_season": null,
         "commune": "Montvalezan",
         "dogs": null,
-        "parking": null,
+        "parking": "Blue zones free for 2 h (parking disc compulsory, 'strictly forbidden at night'); green zones free without limit; red zones paid",
         "stroller": null,
         "type": "Ski resort",
         "winter_access": "open",
@@ -232,7 +232,7 @@
         "best_season": null,
         "commune": "Montvalezan",
         "dogs": null,
-        "parking": null,
+        "parking": "Zonas azules libres por 2 h (discurso obligatorio, \"prohibido estrictamente por la noche\"); zonas verdes libres sin límite; zonas rojas pagadas",
         "stroller": null,
         "type": "Escuela de esquí",
         "winter_access": "open",
@@ -325,7 +325,7 @@
         "best_season": null,
         "commune": "Montvalezan",
         "dogs": null,
-        "parking": null,
+        "parking": "Zones bleues gratuites 2 h (disque obligatoire, « strictement interdit la nuit ») ; zones vertes gratuites sans limite ; zones rouges payantes",
         "stroller": null,
         "type": "Station de ski",
         "winter_access": "open",
@@ -418,7 +418,7 @@
         "best_season": null,
         "commune": "Montvalezan",
         "dogs": null,
-        "parking": null,
+        "parking": "Zone azzurre gratuite per 2 h (disco di parcheggio obbligatorio, 'strettamente vietato di notte'); zone verdi libere senza limiti; zone rosse pagate",
         "stroller": null,
         "type": "Stazione sciistica",
         "winter_access": "open",
@@ -511,7 +511,7 @@
         "best_season": null,
         "commune": "Montvalezan",
         "dogs": null,
-        "parking": null,
+        "parking": "Blauwe zones gratis voor 2 uur (parkeerschijf verplicht, 's nachts strikt verboden); groenzones zonder beperking; betaalde rode zones",
         "stroller": null,
         "type": "Skigebied",
         "winter_access": "open",
@@ -609,7 +609,6 @@
   "type": "nature",
   "verify_flags": [
     "SAISON 26/27 — millésime non publié : la page d'accueil annonce « dès le 12 décembre » sans année ; les dates 2025-26 sont citées en référence. À mettre à jour dès publication.",
-    "GRATUITES — aucune offre gratuite (remontées débutants, luge) publiée sur les pages FR consultées ; rien d'affirmé.",
-    "ACCES_PMR_UNVERIFIED — no official accessibility status published; kept null."
+    "GRATUITES — aucune offre gratuite (remontées débutants, luge) publiée sur les pages FR consultées ; rien d'affirmé."
   ]
 }

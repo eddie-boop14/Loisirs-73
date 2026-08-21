@@ -1,13 +1,13 @@
 {
   "acces_pmr": {
-    "checked": "2026-08-18",
-    "confidence": null,
-    "detail": null,
-    "equipment": null,
+    "checked": "2026-08-21",
+    "confidence": "declarative",
+    "detail": "« L'ensemble des remontées mécaniques du Domaine Skiable de Valmorel et de Doucy est accessible aux personnes à mobilité réduite, excepté le Télébourg, le télésiège des Lanchettes et les téléskis classés difficiles » ; handiski ESF (dual-ski) ; navettes accessibles ; « l'architecture et la configuration de nos villages ne sont pas optimales ».",
+    "equipment": [],
     "handiplage_level": null,
-    "source_name": null,
-    "source_url": null,
-    "status": null,
+    "source_name": "Valmorel — Accueil PMR",
+    "source_url": "https://www.valmorel.com/informations-pratiques/accueil-pmr/",
+    "status": "partiel",
     "tourisme_handicap": null
   },
   "category": "station",
@@ -46,7 +46,7 @@
         "best_season": "18. Dezember 2026 – 10. April 2027",
         "commune": "Les Avanchers-Valmorel",
         "dogs": null,
-        "parking": null,
+        "parking": "Bezahlt (610 Räume) und im Freien (1.100 Räume); frei im Dorf Le Crey (180 Plätze) und Les Lanchettes; \"Im Sommer ist das Parken kostenlos\"",
         "stroller": null,
         "type": "Skigebiet",
         "winter_access": "open",
@@ -142,7 +142,7 @@
         "best_season": "18 December 2026 – 10 April 2027",
         "commune": "Les Avanchers-Valmorel",
         "dogs": null,
-        "parking": null,
+        "parking": "Paid covered (610 spaces) and outdoor (1,100 spaces); free at the Le Crey village (180 spaces) and Les Lanchettes; 'in summer, parking is free'",
         "stroller": null,
         "type": "Ski resort",
         "winter_access": "open",
@@ -238,7 +238,7 @@
         "best_season": "18 de diciembre de 2026 – 10 de abril de 2027",
         "commune": "Les Avanchers-Valmorel",
         "dogs": null,
-        "parking": null,
+        "parking": "Pagado cubierto (610 espacios) y al aire libre (1.100 espacios); libre en el pueblo de Le Crey (180 espacios) y Les Lanchettes; 'en verano, el aparcamiento es gratuito'",
         "stroller": null,
         "type": "Escuela de esquí",
         "winter_access": "open",
@@ -334,7 +334,7 @@
         "best_season": "18 décembre 2026 – 10 avril 2027",
         "commune": "Les Avanchers-Valmorel",
         "dogs": null,
-        "parking": null,
+        "parking": "Couverts payants (610 places) et extérieurs (1 100 places) ; gratuit au village le Crey (180 places) et aux Lanchettes ; « l'été, le stationnement est gratuit »",
         "stroller": null,
         "type": "Station de ski",
         "winter_access": "open",
@@ -430,7 +430,7 @@
         "best_season": "18 dicembre 2026 – 10 aprile 2027",
         "commune": "Les Avanchers-Valmorel",
         "dogs": null,
-        "parking": null,
+        "parking": "Pavimenti coperti (610 spazi) ed esterni (1.100 spazi); gratuito al villaggio di Le Crey (180 spazi) e Les Lanchettes; In estate, il parcheggio è gratuito",
         "stroller": null,
         "type": "Stazione sciistica",
         "winter_access": "open",
@@ -526,7 +526,7 @@
         "best_season": "18 december 2026 10 april 2027",
         "commune": "Les Avanchers-Valmorel",
         "dogs": null,
-        "parking": null,
+        "parking": "Betaalde overdekte (610 ruimten) en buiten (1.100 ruimten); gratis bij Le Crey (180 ruimten) en Les Lanchettes; 'In de zomer is parkeren gratis'",
         "stroller": null,
         "type": "Skigebied",
         "winter_access": "open",
@@ -627,7 +627,6 @@
   "status": "published",
   "type": "nature",
   "verify_flags": [
-    "ALTITUDE VILLAGE — non publiée verbatim sur valmorel.com ; non imprimée (le « 1 400 m » des sites tiers n'est pas retenu).",
-    "ACCES_PMR_UNVERIFIED — no official accessibility status published; kept null."
+    "ALTITUDE VILLAGE — non publiée verbatim sur valmorel.com ; non imprimée (le « 1 400 m » des sites tiers n'est pas retenu)."
   ]
 }

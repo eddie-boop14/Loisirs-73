@@ -48,7 +48,7 @@ Not specified
 
 ## Parking
 
-Not specified
+Two car parks in the hamlet: a small one at the village entrance (WC), a large one past the hamlet — pricing unpublished
 
 ## Transport
 

@@ -48,7 +48,7 @@ Not specified
 
 ## Parking
 
-Not specified
+Free parking at the pass — 'few spaces', overnight parking possible
 
 ## Transport
 

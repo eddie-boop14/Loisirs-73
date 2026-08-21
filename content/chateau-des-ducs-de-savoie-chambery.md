@@ -44,7 +44,9 @@ Non renseigné
 
 ## Accès (PMR)
 
-Non renseigné
+- Statut: Non accessible
+- Détail: « Non accessible en fauteuil roulant » — le parcours de visite guidée comporte des escaliers (Sainte-Chapelle).
+- Source: Chambéry Montagnes — https://www.chamberymontagnes.com/que-faire/visites-culture-patrimoine/chateau-des-ducs-de-savoie-chambery-fr-5784132/
 
 ## Parking
 

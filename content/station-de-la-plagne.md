@@ -44,11 +44,13 @@ Non renseigné
 
 ## Accès (PMR)
 
-Non renseigné
+- Statut: Partiellement accessible
+- Détail: Galeries intérieures et ascenseurs à Plagne Aime 2000 et Plagne Centre ; handiski avec moniteurs formés ; gratuité des places payantes avec macaron GIG/GIC ; liste des toilettes accessibles publiée.
+- Source: La Plagne — Accessibilité et handicap — https://www.la-plagne.com/decouvrir-la-plagne/accessibilite-handicap
 
 ## Parking
 
-Non renseigné
+« Certains parkings aériens (à Plagne Villages, à Plagne Centre…) sont gratuits » ; couverts payants réservables ; « l'été les stationnements sont gratuits »
 
 ## Transport
 

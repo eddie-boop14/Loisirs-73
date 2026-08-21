@@ -48,7 +48,7 @@ Non renseigné
 
 ## Parking
 
-Non renseigné
+Parking à proximité (gratuité non publiée)
 
 ## Transport
 

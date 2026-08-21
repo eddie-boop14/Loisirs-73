@@ -50,7 +50,7 @@ Non renseigné
 
 ## Parking
 
-Non renseigné
+Parking à 50 m (derrière l'église), places GIG-GIC devant le musée
 
 ## Transport
 

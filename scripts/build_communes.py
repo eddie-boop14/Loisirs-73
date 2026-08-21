@@ -421,6 +421,7 @@ def render_page(c, lang, intros):
 
 <html lang="{lang}"{dir_attr}>
 <head>
+<script>document.documentElement.classList.add('js')</script>
 {hl1}
 <meta charset="utf-8"/>
 <meta content="width=device-width,initial-scale=1,viewport-fit=cover" name="viewport"/>

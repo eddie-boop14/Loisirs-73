@@ -2,6 +2,7 @@
 
 <html lang="fr">
 <head>
+<script>document.documentElement.classList.add('js')</script>
 <link rel="canonical" href="https://loisirs73.fr/que-faire/">
 <meta charset="utf-8"/>
 <meta content="width=device-width,initial-scale=1,viewport-fit=cover" name="viewport"/>
@@ -242,7 +243,7 @@ footer.site{background:var(--night-2);border-top:1px solid var(--line);padding:c
 :where(a,button,summary):focus-visible{outline:2px solid var(--amber);outline-offset:3px}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{animation-duration:.001ms!important;transition-duration:.001ms!important}h1 .l span{transform:none}.kicker,.lede,.cat-nav{opacity:1;animation:none}.reveal{opacity:1;transform:none}.lamp,.rain,.cursor-glow{display:none}}
 @media (max-width:600px){.hero{min-height:86vh;padding-top:100px}.lamp{width:320px;height:320px}h2{font-size:1.7rem}}
-</style>
+html:not(.js) .reveal,html:not(.js) .reveal[data-stagger] > *,html:not(.js) .hammer .w{opacity:1 !important;transform:none !important}</style>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"CollectionPage","name":"Que faire en Savoie quand il pleut",
 "description":"Activités indoor et par tout temps de Savoie, vérifiées une par une.",

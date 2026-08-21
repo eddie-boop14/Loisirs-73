@@ -306,7 +306,7 @@ def render_hub(facet, members, api, fiches, lang, total):
         f'<details class="q"><summary>{esc(L(q["q"], lang))}</summary><p>{esc(L(q["a"], lang))}</p></details>'
         for q in facet.get("faq", []))
 
-    return f"""<!doctype html><html lang="{lang}"><head>
+    return f"""<!doctype html><html lang="{lang}"><head><script>document.documentElement.classList.add('js')</script>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{esc(cp["title"])}</title>
 <meta name="description" content="{esc(cp["meta_description"])}">

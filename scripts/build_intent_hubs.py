@@ -384,7 +384,7 @@ def render_hub(hub, lang, fiches):
     keepgoing_html = _keepgoing(lang, parent_label, parent_url, siblings, _qf_index_url(lang))
     footer_html = _linked_footer(lang)
 
-    return f"""<!doctype html><html lang="{lang}"{_dir_attr(lang)}><head>
+    return f"""<!doctype html><html lang="{lang}"{_dir_attr(lang)}><head><script>document.documentElement.classList.add('js')</script>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{esc(L(hub["title"], lang))}</title>
 <meta name="description" content="{esc(L(hub["description"], lang))}">
@@ -834,7 +834,7 @@ def render_intent_page(entry, lang, fiches, parking, built_langs, siblings):
     topbar = _topbar(lang, crumbs)
     keepgoing_html = _keepgoing(lang, parent_label, parent_url, siblings, _qf_index_url(lang))
     footer_html = _linked_footer(lang)
-    return f"""<!doctype html><html lang="{lang}"{_dir_attr(lang)}><head>
+    return f"""<!doctype html><html lang="{lang}"{_dir_attr(lang)}><head><script>document.documentElement.classList.add('js')</script>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{esc(title)} · {siteconfig.SITE_NAME}</title>
 <meta name="description" content="{esc(lead[:158])}">

@@ -168,7 +168,7 @@ def render(d, lang):
                     f'<link href="https://fonts.googleapis.com/css2?family={fam_url}:wght@400;600&display=swap" rel="stylesheet">'
                     f'<style>body{{font-family:"{fam}",system-ui,sans-serif}}</style>')
     duck = assets.script_tag("duck.js") if not indexable else ""
-    return f"""<!doctype html><html lang="{lang}"{dir_attr}><head>
+    return f"""<!doctype html><html lang="{lang}"{dir_attr}><head><script>document.documentElement.classList.add('js')</script>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{esc(title)}</title>
 <meta name="robots" content="{robots}">

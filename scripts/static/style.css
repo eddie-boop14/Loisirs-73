@@ -58,4 +58,4 @@
 .plages-voisines h2{font-size:13px;letter-spacing:.1em;text-transform:uppercase;margin:0 0 8px;color:var(--accent)}
 .plages-voisines a.fiche{display:inline-block;margin:4px 10px 4px 0;color:var(--accent);font-weight:600}
 .plages-voisines a.fiche:hover{text-decoration:underline;text-underline-offset:3px}
-[dir=rtl] .plages-voisines a.fiche{margin:4px 0 4px 10px}
+[dir=rtl] .plages-voisines a.fiche{margin:4px 0 4px 10px}html:not(.js) .reveal,html:not(.js) .reveal[data-stagger] > *,html:not(.js) .hammer .w{opacity:1 !important;transform:none !important}

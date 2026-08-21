@@ -2074,6 +2074,7 @@ def build_head(d):
 <html lang="{html_lang}"{dir_attr} data-theme="auto">
 <head>
 <meta charset="utf-8">
+<script>document.documentElement.classList.add('js')</script>
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="color-scheme" content="light dark">
 <meta name="theme-color" content="#0b0d10" media="(prefers-color-scheme: dark)">

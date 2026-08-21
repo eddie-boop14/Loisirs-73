@@ -463,6 +463,7 @@ def build(lang, fiches):
 
     return (
         f'<!doctype html>\n<html lang="{lang}">\n<head>\n<meta charset="utf-8">\n'
+        "<script>document.documentElement.classList.add('js')</script>\n"
         '<meta name="viewport" content="width=device-width, initial-scale=1">\n'
         + noindex_block +
         f'<title>{E(title)}</title>\n<meta name="description" content="{E(desc)}">\n'

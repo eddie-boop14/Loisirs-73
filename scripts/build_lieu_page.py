@@ -2012,6 +2012,68 @@ def build_ldjson(d, desc_override=""):
     return json.dumps({"@context": "https://schema.org", "@graph": graph}, ensure_ascii=False)
 
 
+
+# ---------------------------------------------------------------- W4: CSS split
+# Ported from the 74 (ad44300). The head carries only a CRITICAL COPY of the
+# first-paint rules; the FULL sheet, byte-identical and in original order, is
+# re-emitted at the end of <body> with the JSON-LD (schema.org permits body
+# placement). The duplication is the safety mechanism: the deferred sheet
+# re-asserts the entire cascade after the critical copy, so every element's
+# final computed style is exactly what it was — a selector-level split would
+# risk order-dependent flips. Exact-selector matching: a future rename demotes
+# a rule to the deferred sheet (milliseconds of unstyled render), never breaks
+# correctness.
+_CRIT_EXACT = {
+    "*,*::before,*::after", "html", "body,h1,h2,h3,h4,p,ul,ol,figure,blockquote,dl,dd",
+    "img,svg", ":root", "html,body", "body", ".wrap", ".skip", "[dir=rtl] a.skip",
+    ".reveal", ".reveal.in", ".reveal[data-stagger] > *", ".reveal[data-stagger].in > *",
+    ".hammer", ".hammer .w", ".hammer.in .w",
+    "html:not(.js) .reveal,html:not(.js) .reveal[data-stagger] > *,html:not(.js) .hammer .w",
+    "header.site", "header.site .wrap", ".brand", ".brand .mark", ".brand .mark svg",
+    "h1", "h1 em", ".hero", ".hero .grid", ".hero-img", ".hero-img img",
+    ".facts", ".fact", ".fact .k", ".fact .v",
+}
+
+
+def _sel_critical(sel):
+    return " ".join(sel.split()) in _CRIT_EXACT
+
+
+def _split_rules(css):
+    """Yield (prelude, body_text) per top-level {...} block, order kept."""
+    i, n = 0, len(css)
+    while i < n:
+        j = css.find("{", i)
+        if j == -1:
+            break
+        depth, k = 1, j + 1
+        while k < n and depth:
+            if css[k] == "{":
+                depth += 1
+            elif css[k] == "}":
+                depth -= 1
+            k += 1
+        yield css[i:j].strip(), css[j + 1:k - 1]
+        i = k
+
+
+def critical_css(css):
+    out = []
+    for prelude, body in _split_rules(css):
+        if prelude.startswith("@media"):
+            inner = "".join(f"{p2}{{{b2}}}" for p2, b2 in _split_rules(body)
+                            if _sel_critical(p2))
+            if inner:
+                out.append(f"{prelude}{{{inner}}}")
+        elif _sel_critical(prelude):
+            out.append(f"{prelude}{{{body}}}")
+    return "".join(out)
+
+
+# Set by build_head, consumed once by build_page at the end of <body>.
+_DEFER = {}
+
+
 def build_head(d):
     """Render the <head> section (locale-aware)."""
     slug = d["slug"]
@@ -2068,6 +2130,8 @@ def build_head(d):
                 "\n[dir=rtl] h1.hammer{direction:ltr;text-align:right}")
 
     ldjson = build_ldjson(d, desc_override=desc)
+    crit = critical_css(css)
+    _DEFER["css"], _DEFER["ldjson"] = css, ldjson
     hero_alt = L("hero_alt", name)
 
     return f"""<!doctype html>
@@ -2106,8 +2170,7 @@ def build_head(d):
 <meta name="geo.placename" content="{attr(commune)}">
 <meta name="geo.position" content="{lat};{lon}">
 <meta name="ICBM" content="{lat}, {lon}">
-<style>{css}</style>
-<script type="application/ld+json">{ldjson}</script>
+<style>{crit}</style>
 <meta property="og:image" content="{BASE_URL}/og-image.jpg">
 <meta name="twitter:image" content="{BASE_URL}/og-image.jpg">
 <!-- AI discovery: per-lieu markdown mirror -->
@@ -2901,6 +2964,8 @@ def build_page(d, lang="fr", include_partners=True, fr_prose_fallback=True):
         d.get("date_published_human", ""),
         d.get("date_modified_human", "") if _FROZEN else _lastmod_display(d)
     ))
+    out.append(f'<style>{_DEFER.pop("css")}</style>')
+    out.append(f'<script type="application/ld+json">{_DEFER.pop("ldjson")}</script>')
     out.append(action_bar(d, frozen=_FROZEN))
     out.append(site_footer())
     out.append(event_modal_block(d))

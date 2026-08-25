@@ -52,10 +52,41 @@ BEACON_RE = re.compile(
 TOKEN_RE = re.compile(r'data-cf-beacon=\'\{"token":\s*"([0-9a-f]+)"\}\'')
 
 
+def _strip_all(apply):
+    """No token configured for this site: there is no Web Analytics property
+    to attribute traffic to, so an injected beacon would be a dead
+    beacon.min.js request on EVERY page view — cost without data. This pass
+    therefore runs in reverse: REMOVE any beacon present (the empty-token
+    snippet an earlier build injected) and say loudly what is missing."""
+    seen = stripped = 0
+    for fp in glob.glob(os.path.join(ROOT, "**", "*.html"), recursive=True):
+        rel = os.path.relpath(fp, ROOT)
+        if rel.split(os.sep)[0] in SKIP_DIRS:
+            continue
+        seen += 1
+        html = open(fp, encoding="utf-8").read()
+        if not BEACON_RE.search(html):
+            continue
+        stripped += 1
+        if apply:
+            with open(fp, "w", encoding="utf-8") as fh:
+                fh.write(BEACON_RE.sub("", html))
+    verb = "" if apply else "would "
+    print(f"inject_analytics: NO cf_beacon_token in site.config.json — "
+          f"{seen} page(s) scanned · {verb}strip {stripped} dead beacon(s)")
+    print(f"  ⚑ to collect stats for {siteconfig.DOMAIN}: Cloudflare dashboard → "
+          "Analytics & Logs → Web Analytics → Add a site, then paste the token "
+          "into site.config.json 'cf_beacon_token' and rebuild.")
+    return 0
+
+
 def main():
     ap = argparse.ArgumentParser(description="Inject the Cloudflare Web Analytics beacon sitewide.")
     ap.add_argument("--apply", action="store_true", help="write changes (default: report only)")
     args = ap.parse_args()
+
+    if not TOKEN:
+        return _strip_all(args.apply)
 
     seen = added = repaired = skipped_nobody = 0
     foreign = {}

@@ -45,6 +45,7 @@ import os
 import re
 import sys
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 from pathlib import Path
@@ -165,6 +166,29 @@ def _clean(text):
     return text.strip()
 
 
+def _polite_urlopen(url, timeout=25, tries=4):
+    """urlopen with the house User-Agent and a Retry-After-honouring backoff.
+
+    Wikimedia rate-limits per UA+IP, and from a shared cloud egress a burst of
+    59 calls gets 429'd wholesale — which then trips the circuit breaker as if
+    Commons were down. A 429/503 is 'slow down', not 'no': wait what the
+    server asks (or 5·2^n s) and retry. Every other error still raises — the
+    caller's CHECK_FAILED / fail-closed semantics are unchanged."""
+    last = None
+    for attempt in range(tries):
+        req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+        try:
+            return urllib.request.urlopen(req, timeout=timeout)
+        except urllib.error.HTTPError as e:
+            if e.code not in (429, 503) or attempt == tries - 1:
+                raise
+            last = e
+            retry_after = e.headers.get("Retry-After")
+            wait = int(retry_after) if (retry_after or "").isdigit() else 5 * (2 ** attempt)
+            time.sleep(min(wait, 60))
+    raise last
+
+
 def resolve_commons_credit(filename, timeout=25):
     """Query the Commons API extmetadata for `filename`. Returns a dict:
       {ok: bool, author, license, credit, reason}
@@ -176,9 +200,8 @@ def resolve_commons_credit(filename, timeout=25):
         "action": "query", "format": "json", "prop": "imageinfo",
         "iiprop": "extmetadata", "titles": f"File:{filename}",
     })
-    req = urllib.request.Request(f"{API}?{q}", headers={"User-Agent": USER_AGENT})
     try:
-        with urllib.request.urlopen(req, timeout=timeout) as r:
+        with _polite_urlopen(f"{API}?{q}", timeout=timeout) as r:
             data = json.load(r)
     except Exception as e:
         return {"ok": False, "reason": f"api-error:{type(e).__name__}"}
@@ -252,7 +275,7 @@ def run_report(resolve=True, only=None):
         cr = {"ok": None}
         if resolve:
             cr = resolve_commons_credit(rec["filename"])
-            time.sleep(0.15)  # be polite to the API
+            time.sleep(1.0)  # be polite to the API (shared cloud egress: 0.15 s bursts get 429'd)
             if not cr["ok"]:
                 fails += 1
         rec["resolved"] = cr
@@ -317,10 +340,41 @@ def _process_and_save(img_bytes, jpg_path):
     return im.size
 
 
-def _fetch(url, timeout=40):
-    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-    with urllib.request.urlopen(req, timeout=timeout) as r:
-        return r.read()
+def _fetch(url, filename=None, timeout=40):
+    """Bytes for a Commons file, cloud-egress-proof.
+
+    The original upload.wikimedia.org URL is authoritative, but that cluster
+    429s whole cloud egress ranges persistently (no Retry-After), so it gets
+    ONE shot — backoff cannot fix a standing block. The fallback asks
+    commons.wikimedia.org/w/thumb.php (same host as the API, not blocked)
+    for the file at HERO_MAX_W: the pipeline downscales every hero to
+    HERO_MAX_W anyway, so the fallback changes nothing about the output.
+    thumb.php refuses to upscale (HTTP 400) — for a file narrower than the
+    cap, resolve the true width from the API and ask one pixel under it."""
+    try:
+        return _polite_urlopen(url, timeout=timeout, tries=1).read()
+    except urllib.error.HTTPError as e:
+        if e.code != 429 or not filename:
+            raise
+    thumb = "https://commons.wikimedia.org/w/thumb.php"
+    q = urllib.parse.urlencode({"f": filename, "width": HERO_MAX_W})
+    try:
+        return _polite_urlopen(f"{thumb}?{q}", timeout=timeout).read()
+    except urllib.error.HTTPError as e:
+        if e.code != 400:
+            raise
+    q = urllib.parse.urlencode({
+        "action": "query", "format": "json", "prop": "imageinfo",
+        "iiprop": "size", "titles": f"File:{filename}",
+    })
+    with _polite_urlopen(f"{API}?{q}", timeout=timeout) as r:
+        data = json.load(r)
+    pages = (data.get("query") or {}).get("pages") or {}
+    width = (next(iter(pages.values()), {}).get("imageinfo") or [{}])[0].get("width")
+    if not isinstance(width, int) or width < 2:
+        raise RuntimeError(f"thumb-fallback: no usable width for {filename}")
+    q = urllib.parse.urlencode({"f": filename, "width": width - 1})
+    return _polite_urlopen(f"{thumb}?{q}", timeout=timeout).read()
 
 
 def run_apply(only=None):
@@ -343,7 +397,7 @@ def run_apply(only=None):
             failed.append((rec["slug"], f"credit:{cr.get('reason')}"))
             continue
         try:
-            data = _fetch(rec["url"])
+            data = _fetch(rec["url"], rec.get("filename"))
         except Exception as e:
             failed.append((rec["slug"], f"fetch:{type(e).__name__}"))
             continue

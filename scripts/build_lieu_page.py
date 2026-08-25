@@ -774,16 +774,28 @@ def practical_block(practical, name, commune, drop_tarif=False):
 
 _PROSE_LANGS = set(locales.PROSE)  # fr,en,de,it,es,nl — free FR tier names OK here
 # Tier → controlled category, derived from the FR name (case/accents-insensitive
-# regex). Order matters: first match wins, defaults to 'adulte'.
+# regex). Order matters: first match wins, defaults to 'adulte'. The venue's own
+# category word beats a numeric band ("Jeune 5-14 ans" is jeune, not enfant), a
+# band beats nothing ("Journée réduit (8-14 ans)" is the child rate however the
+# venue spelt it), and unanchored substrings are traps: bare "fond" read
+# "Fonderie" as nordic ski, bare "75 ans" read "(16-75 ans)" as senior.
+# Dashes come in three widths (- – —) in the live labels; match all of them.
 _TIER_CAT_RULES = [
-    ("enfant",   r"enfant|child|kind|junior 5|5[\s-]*(?:à|-)\s*1[0-5]|-\s*12 ans"),
-    ("jeune",    r"jeune|youth|16[\s-]*(?:à|-)\s*2[0-9]|étudiant"),
-    ("senior",   r"s[eé]nior|65[\s-]*(?:à|-)|v[eé]t[eé]ran|75 ans"),
-    ("famille",  r"famille|tribu|family|pack"),
+    ("enfant",   r"enfant|child|kind|junior|b[eé]b[eé]"),
+    ("jeune",    r"jeune|youth|adolescent|16\s*(?:à|[-–—])\s*2[0-9]|étudiant"),
+    ("famille",  r"famille|tribu|family"),
+    # age bands with no category word: "et plus" flips the meaning ("13 ans et
+    # plus" prices the ADULT side of that boundary), so it blocks the match.
+    ("enfant",   r"5\s*(?:à|[-–—])\s*1[0-5]\b|[-–—]\s*(?:de\s*)?(?:1[0-8]|[1-9])\s*ans\b(?!\s*et\s*(?:plus|\+))"
+                 r"|moins de (?:1[0-8]|[1-9])\s*ans?\b|moins de \d+ mois"),
+    ("senior",   r"s[eé]nior|65\s*(?:à|[-–—])|v[eé]t[eé]ran|(?<![\d\-–—])(?:75|80)\s*ans|\+\s*(?:75|80)\b"),
     ("saison",   r"saison|ann[eé]e|abonnement|season"),
-    ("nordique", r"nordi|redevance nordique|nordic pass|ski de fond|fond"),
+    ("nordique", r"nordi|redevance nordique|nordic pass|ski de fond|\bfond\b"),
     ("debutant", r"d[eé]butant|lutins|espace d[eé]butant|beginner"),
     ("court",    r"\b4\s*h|4 heures|apr[eè]s-midi|matin|1/2|demi|5\s*h|5 heures|heures cons"),
+    # carnets, token packs and multi-ride cards price a PRODUCT, not a visitor
+    # kind — the reviewed 'autre' vocabulary (Forfait/Pass) says exactly that.
+    ("autre",    r"carnets?|jetons?|passages"),
 ]
 _TIER_CAT_RX = [(cat, re.compile(rx, re.I)) for cat, rx in _TIER_CAT_RULES]
 

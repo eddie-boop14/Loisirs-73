@@ -180,6 +180,14 @@ jobs:
       - name: Redirect self-loop gate (no rule points at itself modulo a slash)
         run: python3 scripts/gate_redirect_selfloop.py
 
+      - name: Sponsored-link gate (paid placements must not pass PageRank)
+        # The paid list is empty on this site today — the 73 sells no placements
+        # and its outbound links are editorial citations that must keep passing
+        # their vote. Wired now so the day a placement is sold it cannot ship
+        # unqualified: an unmarked paid link is a Google link scheme, devalued
+        # algorithmically with no manual action to warn you.
+        run: python3 scripts/gate_sponsored_links.py
+
       - name: Byte-stable double build
         # build_all has just run. Snapshot, rebuild, diff. Two consecutive
         # builds must be md5-identical or the pipeline is not idempotent.

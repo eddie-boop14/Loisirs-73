@@ -53,6 +53,14 @@ IMPRINT = _req("imprint")
 CONTACT_EMAIL = _req("contact_email")
 PHOTOS_EMAIL = _req("photos_email")
 CF_BEACON_TOKEN = _cfg.get("cf_beacon_token", "")
+
+# Hosts whose links exist because of a PAID, CONTRACTUAL placement. Google's
+# link-spam policy requires rel=sponsored (or nofollow) on those; an unqualified
+# followed link is a link scheme, enforced algorithmically — no manual action
+# ever warns you. Editorial source citations (a venue's own site, a tourist
+# office, a patrimoine database) are deliberately NOT listed: they are the
+# evidence layer this site is built on and must keep passing their vote.
+PAID_PARTNER_DOMAINS = tuple(_cfg.get("paid_partner_domains", []) or [])
 REGION = _cfg.get("region", "")
 ANCHOR_CITY = _cfg.get("anchor_city", "")
 

@@ -327,6 +327,24 @@ def inject_home_selections():
     print(out.stdout.strip() or "(home selections injected)")
 
 
+def mark_sponsored_links():
+    """rel=sponsored on every PAID placement link, sitewide.
+
+    Runs with the beacon pass, for the same reason: partner links are emitted by
+    several builders, so a template-level fix silently misses the next builder
+    added. An unqualified paid link is a Google link scheme, devalued
+    algorithmically with no manual action to warn you — invisible from outside.
+    Editorial source citations are untouched and keep passing their vote."""
+    out = subprocess.run(
+        [sys.executable, str(SCRIPTS / "mark_sponsored_links.py"), "--apply"],
+        capture_output=True, text=True,
+    )
+    print(out.stdout.strip() or "(sponsored links marked)")
+    if out.returncode != 0:
+        print(out.stderr.strip())
+        raise RuntimeError("mark_sponsored_links failed")
+
+
 def status_gate():
     """JOB 6 gate: every fiche must have an explicit status (draft|verified|
     published). Print the distribution. Block if any fiche has status=None."""
@@ -571,6 +589,8 @@ def main():
     run("emit .well-known/security.txt (RFC 9116 — Expires must never lapse)",
         rebuild_security_txt)
     run("inject Cloudflare Web Analytics beacon (every published page)", inject_analytics)
+    run("mark paid-placement links rel=sponsored (Google link-spam policy)",
+        mark_sponsored_links)
     # FLIP-AT-LAUNCH: while robots.txt carries the marker, every rendered page
     # gets <meta noindex> — the injector reads the marker itself and no-ops
     # once robots.txt is flipped. It used to be a run-by-hand script, so the

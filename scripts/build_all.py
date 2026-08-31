@@ -328,13 +328,15 @@ def inject_home_selections():
 
 
 def mark_sponsored_links():
-    """rel=sponsored on every PAID placement link, sitewide.
+    """rel=sponsored on every PROMOTIONAL link, sitewide.
 
-    Runs with the beacon pass, for the same reason: partner links are emitted by
-    several builders, so a template-level fix silently misses the next builder
-    added. An unqualified paid link is a Google link scheme, devalued
-    algorithmically with no manual action to warn you — invisible from outside.
-    Editorial source citations are untouched and keep passing their vote."""
+    Every link inside a partner card, plus the publisher's own promoted hosts.
+    No money is involved on these sites — "sponsored" marks promotion, not only
+    payment, and self-promotion across hundreds of pages is still advertising.
+    Cards come from several builders, so a template-level fix silently misses
+    the next one added; and unqualified at scale this reads as a link network,
+    devalued algorithmically with no manual action to warn you. Editorial source
+    citations are untouched and keep passing their vote."""
     out = subprocess.run(
         [sys.executable, str(SCRIPTS / "mark_sponsored_links.py"), "--apply"],
         capture_output=True, text=True,
@@ -576,7 +578,7 @@ def main():
     # BEFORE the byte-comparison gates: protected-card snapshots record the FINAL
     # shipped bytes, rel=sponsored included. Marking after them compares an
     # unmarked card against a marked snapshot and fails CI (the 74 learned this).
-    run("mark paid-placement links rel=sponsored (before the byte gates)",
+    run("mark promotional links rel=sponsored (before the byte gates)",
         mark_sponsored_links)
     run("placement gate vs baseline", placement_gate)
     run("card-diff gate vs snapshot", card_diff_gate)
@@ -594,7 +596,7 @@ def main():
     run("emit .well-known/security.txt (RFC 9116 — Expires must never lapse)",
         rebuild_security_txt)
     run("inject Cloudflare Web Analytics beacon (every published page)", inject_analytics)
-    run("re-mark paid-placement links (safety net: pages rendered after the gates)",
+    run("re-mark promotional links (safety net: pages rendered after the gates)",
         mark_sponsored_links)
     # FLIP-AT-LAUNCH: while robots.txt carries the marker, every rendered page
     # gets <meta noindex> — the injector reads the marker itself and no-ops

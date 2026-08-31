@@ -54,13 +54,14 @@ CONTACT_EMAIL = _req("contact_email")
 PHOTOS_EMAIL = _req("photos_email")
 CF_BEACON_TOKEN = _cfg.get("cf_beacon_token", "")
 
-# Hosts whose links exist because of a PAID, CONTRACTUAL placement. Google's
-# link-spam policy requires rel=sponsored (or nofollow) on those; an unqualified
-# followed link is a link scheme, enforced algorithmically — no manual action
-# ever warns you. Editorial source citations (a venue's own site, a tourist
-# office, a patrimoine database) are deliberately NOT listed: they are the
-# evidence layer this site is built on and must keep passing their vote.
-PAID_PARTNER_DOMAINS = tuple(_cfg.get("paid_partner_domains", []) or [])
+# Hosts the publisher promotes and OWNS. No money is involved anywhere on these
+# sites — "sponsored" is the correct marker for promotion, not only for paid
+# links, and self-promotion across hundreds of pages is still advertising.
+# A second rule only: mark_sponsored_links.py qualifies EVERY link inside a
+# partner card structurally, host-agnostic. Editorial source citations (a
+# venue's own site, an office de tourisme, a patrimoine database) are
+# deliberately absent: they are the evidence layer and must keep their vote.
+PROMO_LINK_DOMAINS = tuple(_cfg.get("promo_link_domains", []) or [])
 REGION = _cfg.get("region", "")
 ANCHOR_CITY = _cfg.get("anchor_city", "")
 

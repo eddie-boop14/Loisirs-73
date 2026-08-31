@@ -573,6 +573,11 @@ def main():
     # last also lets the que-faire-index + category-hub link injection target
     # the freshly built localized hubs.
     run("render intent hubs (registry-driven)", rebuild_intent_hubs)
+    # BEFORE the byte-comparison gates: protected-card snapshots record the FINAL
+    # shipped bytes, rel=sponsored included. Marking after them compares an
+    # unmarked card against a marked snapshot and fails CI (the 74 learned this).
+    run("mark paid-placement links rel=sponsored (before the byte gates)",
+        mark_sponsored_links)
     run("placement gate vs baseline", placement_gate)
     run("card-diff gate vs snapshot", card_diff_gate)
     run("reachability gate (strict)", reachability_gate)
@@ -589,7 +594,7 @@ def main():
     run("emit .well-known/security.txt (RFC 9116 — Expires must never lapse)",
         rebuild_security_txt)
     run("inject Cloudflare Web Analytics beacon (every published page)", inject_analytics)
-    run("mark paid-placement links rel=sponsored (Google link-spam policy)",
+    run("re-mark paid-placement links (safety net: pages rendered after the gates)",
         mark_sponsored_links)
     # FLIP-AT-LAUNCH: while robots.txt carries the marker, every rendered page
     # gets <meta noindex> — the injector reads the marker itself and no-ops

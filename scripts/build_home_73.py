@@ -418,7 +418,7 @@ def build(lang, fiches):
             f'<span class="n">{E(_SIS["name"])} · {E(_SIS["dept"])}</span>'
             f'{picks}'
             f'<p>{E(t(UI["sis_body"], lang))}</p></div>'
-            f'<a class="go" href="{E(_SIS["url"])}" rel="noopener">{E(t(UI["sis_go"], lang))} {_ARROW}</a>'
+            f'<a class="go" href="{E(_SIS["url"])}" rel="nofollow noopener">{E(t(UI["sis_go"], lang))} {_ARROW}</a>'
             f'</div></aside>')
 
     # --- footer ----------------------------------------------------------------
@@ -439,7 +439,7 @@ def build(lang, fiches):
         f'<div class="foot-col"><h3>{E(t(UI["foot_cats"], lang))}</h3><ul>{foot_cats}</ul></div>'
         f'<div class="foot-col"><h3>{E(t(UI["foot_lang"], lang))}</h3><ul>{foot_langs}</ul></div>'
         f'<div class="foot-col"><h3>{E(t(UI["foot_sister_k"], lang))}</h3>'
-        f'<p><a href="{E(_SIS["url"])}" rel="noopener">{E(_SIS["name"])} · {E(_SIS["dept"])}</a></p></div>'
+        f'<p><a href="{E(_SIS["url"])}" rel="nofollow noopener">{E(_SIS["name"])} · {E(_SIS["dept"])}</a></p></div>'
         f'</div><p style="margin-top:1.4rem;opacity:.7">© 2026 · {E(S.IMPRINT)} · Tous droits réservés 🦆</p>'
         f'</div></footer>')
 

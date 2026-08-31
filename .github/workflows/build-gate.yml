@@ -180,6 +180,12 @@ jobs:
       - name: Redirect self-loop gate (no rule points at itself modulo a slash)
         run: python3 scripts/gate_redirect_selfloop.py
 
+      - name: Cross-site link gate (sister links must not pass PageRank)
+        # Sitewide + reciprocal + same owner is an excessive link exchange, and
+        # PageRank between two sites the same person owns cannot help either
+        # rank. The reader-facing cards stay; only their vote is withheld.
+        run: python3 scripts/gate_cross_site_links.py
+
       - name: Sponsored-link gate (paid placements must not pass PageRank)
         # The paid list is empty on this site today — the 73 sells no placements
         # and its outbound links are editorial citations that must keep passing

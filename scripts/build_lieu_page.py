@@ -2344,6 +2344,16 @@ def sister_link_html():
     sis = getattr(siteconfig, "SISTER", None)
     if not sis or not sis.get("url") or not sis.get("name"):
         return ""
+    # OFF by default since 2026-08-31: ~1,700 sitewide footer links into a site
+    # the same person owns, reciprocated from the other side. Sitewide +
+    # reciprocal + same owner is the shape Google calls an excessive link
+    # exchange, and PageRank between two properties you own cannot help you
+    # rank — the risk carried a structurally zero upside. Set
+    # `sister.footer_link: true` in site.config.json to bring it back. The
+    # contextual placements (homepage card, proximity cards) are unaffected and
+    # are where the value always was.
+    if not sis.get("footer_link"):
+        return ""
     dept = esc(sis.get("dept") or "")
     # French puts a space before a colon; English and the rest do not. Japanese
     # takes no space around the label either.
@@ -2730,7 +2740,11 @@ def _sister_rel_cards(d, lang, limit=2):
         url = pl["url"] if lang == "fr" else f'{sis["url"].rstrip("/")}/{lang}/{pl["slug"]}'
         name = (pl.get("names") or {}).get(lang) or pl["name"]
         out.append(
-            f'<a class="rel-card sister-card" href="{attr(url)}" rel="noopener">'
+            # nofollow: a cross-site link to a property the same publisher owns
+            # cannot help either site rank, and at 1,356 links it is bulk Google
+            # can read as an exchange. The CARD stays — contextual, 30 km-scoped,
+            # genuinely useful at a département border. Only its vote goes.
+            f'<a class="rel-card sister-card" href="{attr(url)}" rel="nofollow noopener">'
             f'<span class="sis-badge">{esc(lbl)} {esc(sis["name"])}</span>{img}'
             f'<span class="rc-t">{esc(name)}</span>'
             f'<span class="rc-c">{esc(pl.get("commune") or "")} · {dist:.0f} km</span></a>')

@@ -119,6 +119,16 @@ jobs:
       - name: Locale-status gate (only published langs in hreflang/picker)
         run: python3 scripts/gate_locale_status.py
 
+      - name: Lastmod honesty gate (real per-lieu dates, no uniform-stamp anti-pattern)
+        # Read-only. data/lastmod.json is derived from git content-commit dates
+        # (corpus-wide sweeps excluded) by scripts/derive_lastmod.py and committed
+        # so renders are deterministic. It was never wired here, and it rotted in
+        # the dark: on 27 Sept the manifest held 30 of 141 lieux, every one of them
+        # stamped 2026-08-10, and the sitemap inherited that. The gate asserts a
+        # corpus-scaled distinct-date floor and that no single date covers >40% of
+        # the manifest OR of sitemap.xml.
+        run: python3 scripts/derive_lastmod.py --verify
+
       - name: Render-verify gate (no unbacked +render-ai provenance)
         # The 73 inherited a +render-ai claim from the 74 describing a run that
         # never happened here. This gate is what makes that impossible to

@@ -1,26 +1,27 @@
 #!/usr/bin/env python3
-"""inject_family_footer.py (73 engine): the "Part of the Officiallink family" line.
+"""inject_family_footer.py (73 engine): the "An officiallink.org project" footer line.
 
 WHAT IT RENDERS
-  One short line in every page footer, localized from the first path segment
-  (/en/, /de/, ...; anything else is French):
+  The eVTOL sites' footer line, same wording and shape, localized from the
+  first path segment (/en/, /de/, ...; anything else is French):
 
-      Fait partie de la famille Officiallink
+      Un projet d'officiallink.org. Pourquoi ce site existe →
+      An officiallink.org project. Why it exists →
 
-  Where it goes:
-    - fiche, hub and commune pages: just above the bottom bar
-      (<div class="foot-bottom">);
-    - the locale homepages and the legal pages have no bottom bar: inside
-      the footer's wrapper, after its last paragraph (before </div></footer>);
-    - legal and form pages have a bare footer with no wrapper: just
-      before </footer>.
+  Two links: officiallink.org and its /why/ page (the /fr/ versions on French
+  pages, the only other language officiallink.org has). Wording for en, fr,
+  de and ar is copied from qatarevtol.com; the other eight are DeepL.
+
+  The line sits directly under the copyright: right after the bottom bar
+  (<div class="foot-bottom">) when the footer has one; otherwise at the end
+  of the footer's wrapper; otherwise just before </footer>.
 
 WHY ONLY THE HOMEPAGES PASS PAGERANK
   The same owner runs every site involved. A followed link on every page is
   the sitewide "excessive link exchange" pattern that the 74's August 2026
   collapse was traced to. The locale homepages (/index.html and
-  /<lang>/index.html for each published language) carry a followed link.
-  Every other page carries rel="nofollow". Visitors see the same line
+  /<lang>/index.html for each published language) carry followed links.
+  Every other page carries rel="nofollow" on both. Visitors see the same line
   everywhere.
 
 CONFIG-DRIVEN, BOTH WAYS
@@ -52,12 +53,9 @@ SKIP_TOP = {"reports", "scripts", "_site", "scratchpad", "tests", "node_modules"
             "docs", ".git"}
 SUBDIR_LANGS = set(locales.ALL_SUBDIR_LANGS)
 # (anchor, style). The first anchor found exactly once wins.
-ANCHORS = (
-    ('<div class="foot-bottom">', "margin:0 0 1rem"),
-    ("</div></footer>", "margin:.8rem 0 0"),
-    ("</footer>", "margin:.8rem 0 0"),     # legal and form pages: bare footer
-)
-
+FOOT_BOTTOM_RE = re.compile(r'<div class="foot-bottom">.*?</div>', re.S)
+LINK_STYLE = "color:inherit;text-decoration:underline;text-underline-offset:2px"
+LINE_STYLE = "margin-top:.75rem;font-size:.75rem;opacity:.85"
 
 def lang_of(rel):
     first = rel.split("/", 1)[0]
@@ -71,12 +69,33 @@ def is_homepage(rel):
     return len(parts) == 2 and parts[1] == "index.html" and parts[0] in SUBDIR_LANGS
 
 
-def render(fam, lang, followed, style):
-    phrase = fam["phrase"].get(lang) or fam["phrase"]["fr"]
+def render(fam, lang, followed):
+    """The eVTOL sites' footer line, word for word in en/fr/de/ar:
+    An <a>officiallink.org</a> project. <a>Why it exists →</a>"""
+    before, after, why = fam["copy"].get(lang) or fam["copy"]["fr"]
+    base = fam["url"] + fam.get("locale_paths", {}).get(lang, "")
     rel = "" if followed else ' rel="nofollow"'
-    return (f'{MARK_A}<p class="family" style="{style};font-size:.8rem;opacity:.85">'
-            f'{html_lib.escape(phrase)} <a href="{html_lib.escape(fam["url"])}"{rel}>'
-            f'{html_lib.escape(fam["name"])}</a></p>{MARK_B}')
+    esc = lambda t: html_lib.escape(t, quote=False)
+    attr = html_lib.escape
+    a = lambda href, text: (f'<a style="{LINK_STYLE}" href="{attr(href)}"{rel}>'
+                            f'{esc(text)}</a>')
+    return (f'{MARK_A}<div class="family" style="{LINE_STYLE}">{esc(before)}'
+            f'{a(base, fam["label"])}{esc(after)} {a(base + fam["why_path"], why)}'
+            f'</div>{MARK_B}')
+
+
+def insertion_point(text):
+    """Directly under the copyright, wherever this footer keeps it:
+    after the bottom bar when there is one; otherwise at the end of the
+    footer's wrapper (</div></footer>); otherwise just before </footer>."""
+    end = text.index("</footer>")
+    bars = list(FOOT_BOTTOM_RE.finditer(text, 0, end))
+    if len(bars) == 1:
+        return bars[0].end()
+    if len(bars) > 1:
+        return None
+    m = list(re.finditer(r"</div>\s*</footer>", text))
+    return m[0].start() if len(m) == 1 else end
 
 
 def process(text, fam, lang, followed):
@@ -85,11 +104,10 @@ def process(text, fam, lang, followed):
         return stripped
     if stripped.count("</footer>") != 1:
         return None
-    for anchor, style in ANCHORS:
-        if stripped.count(anchor) == 1:
-            i = stripped.index(anchor)
-            return stripped[:i] + render(fam, lang, followed, style) + stripped[i:]
-    return None
+    i = insertion_point(stripped)
+    if i is None:
+        return None
+    return stripped[:i] + render(fam, lang, followed) + stripped[i:]
 
 
 def main():

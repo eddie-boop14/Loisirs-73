@@ -48,23 +48,77 @@
       "User asks about summer cable cars, lift prices or free lifts in the Tarentaise and Maurienne valleys"
     ]
   },
-  "_family_comment": "Officiallink family line in every page footer (scripts/inject_family_footer.py). Followed on the locale homepages only; rel=nofollow everywhere else, so a sitewide same-owner link passes no PageRank (the excessive-link-exchange pattern). Phrases via DeepL (FR source). Remove the block to remove every line.",
+  "_family_comment": "officiallink.org line in every page footer, same wording and shape as the eVTOL sites (\"An officiallink.org project. Why it exists →\"); scripts/inject_family_footer.py. Followed on the locale homepages only; rel=nofollow everywhere else (no sitewide same-owner followed links). en/fr/de/ar copied from qatarevtol.com; it/es/nl/pl/pt/cs/he/ja via DeepL (EN source). Remove the block to remove every line.",
   "family": {
-    "name": "Officiallink",
+    "label": "officiallink.org",
     "url": "https://officiallink.org/",
-    "phrase": {
-      "fr": "Fait partie de la famille",
-      "en": "Part of the family",
-      "de": "Gehört zur Familie",
-      "it": "Fa parte della famiglia",
-      "es": "Forma parte de la familia",
-      "nl": "Maakt deel uit van de familie",
-      "pl": "Należy do rodziny",
-      "pt": "Faz parte da família",
-      "cs": "Je součástí rodiny",
-      "ar": "جزء من العائلة",
-      "he": "חלק מהמשפחה",
-      "ja": "家族の一員"
+    "why_path": "why/",
+    "_locale_paths_comment": "officiallink.org languages that exist (checked 2026-11-06); others link the root",
+    "locale_paths": {
+      "fr": "fr/"
+    },
+    "_copy_comment": "[text before the link, text after the link, 'why' link text]",
+    "copy": {
+      "en": [
+        "An ",
+        " project.",
+        "Why it exists →"
+      ],
+      "fr": [
+        "Un projet d'",
+        ".",
+        "Pourquoi ce site existe →"
+      ],
+      "de": [
+        "Ein Projekt von ",
+        ".",
+        "Warum es existiert →"
+      ],
+      "it": [
+        "Un progetto di ",
+        ".",
+        "Perché esiste →"
+      ],
+      "es": [
+        "Un proyecto de ",
+        ".",
+        "Por qué existe →"
+      ],
+      "nl": [
+        "Een project van ",
+        ".",
+        "Waarom het bestaat →"
+      ],
+      "pl": [
+        "Projekt serwisu ",
+        ".",
+        "Dlaczego to istnieje →"
+      ],
+      "pt": [
+        "Um projeto da ",
+        ".",
+        "Por que existe →"
+      ],
+      "cs": [
+        "Projekt ",
+        ".",
+        "Proč to existuje →"
+      ],
+      "ar": [
+        "أحد مشاريع ",
+        ".",
+        "لماذا يوجد؟ ←"
+      ],
+      "he": [
+        "פרויקט של ",
+        ".",
+        "מדוע הוא קיים ←"
+      ],
+      "ja": [
+        "",
+        " のプロジェクトです。",
+        "その存在意義 →"
+      ]
     }
   }
 }

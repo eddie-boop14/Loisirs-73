@@ -86,6 +86,21 @@ def inject_analytics():
     print(out.stdout.strip().splitlines()[0] if out.stdout.strip() else "(beacon injected)")
 
 
+def inject_family_footer():
+    """The "part of the Officiallink family" footer line (scripts/
+    inject_family_footer.py). It is followed on the locale homepages and
+    nofollow everywhere else. Runs after every page has rendered, so no
+    builder writes a footer after it. Config-driven both ways."""
+    out = subprocess.run(
+        [sys.executable, str(SCRIPTS / "inject_family_footer.py"), "--apply"],
+        capture_output=True, text=True, cwd=str(ROOT)
+    )
+    if out.returncode != 0:
+        print(out.stdout); print(out.stderr, file=sys.stderr)
+        raise RuntimeError("inject_family_footer failed")
+    print(out.stdout.strip())
+
+
 def sync_home_cards():
     """Homepage card images derive from Json/ heroes. index.html is authored
     chrome that no builder regenerates, so without this step every photo added
@@ -616,6 +631,8 @@ def main():
     run("emit .well-known/security.txt (RFC 9116 — Expires must never lapse)",
         rebuild_security_txt)
     run("inject Cloudflare Web Analytics beacon (every published page)", inject_analytics)
+    run("inject the Officiallink family footer line (followed on homepages only)",
+        inject_family_footer)
     run("re-mark promotional links (safety net: pages rendered after the gates)",
         mark_sponsored_links)
     # FLIP-AT-LAUNCH: while robots.txt carries the marker, every rendered page

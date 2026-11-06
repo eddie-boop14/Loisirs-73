@@ -47,5 +47,24 @@
       "User asks which Savoie cols are open, when they close for winter, or what a col's altitude is",
       "User asks about summer cable cars, lift prices or free lifts in the Tarentaise and Maurienne valleys"
     ]
+  },
+  "_family_comment": "Officiallink family line in every page footer (scripts/inject_family_footer.py). Followed on the locale homepages only; rel=nofollow everywhere else, so a sitewide same-owner link passes no PageRank (the excessive-link-exchange pattern). Phrases via DeepL (FR source). Remove the block to remove every line.",
+  "family": {
+    "name": "Officiallink",
+    "url": "https://officiallink.org/",
+    "phrase": {
+      "fr": "Fait partie de la famille",
+      "en": "Part of the family",
+      "de": "Gehört zur Familie",
+      "it": "Fa parte della famiglia",
+      "es": "Forma parte de la familia",
+      "nl": "Maakt deel uit van de familie",
+      "pl": "Należy do rodziny",
+      "pt": "Faz parte da família",
+      "cs": "Je součástí rodiny",
+      "ar": "جزء من العائلة",
+      "he": "חלק מהמשפחה",
+      "ja": "家族の一員"
+    }
   }
 }

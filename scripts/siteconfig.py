@@ -96,6 +96,9 @@ AI_CATEGORY_LINE = _ai.get("category_line") or ""
 SISTER = _cfg.get("sister") or None
 SISTER_PROXIMITY_KM = _cfg.get("sister_proximity_km") or 0
 
+# Optional "part of the X family" footer line (inject_family_footer.py).
+FAMILY = _cfg.get("family") or None
+
 # Regex-safe forms. Engine scripts parse their OWN rendered HTML looking for
 # site URLs; those patterns must be built from the configured domain, never
 # from a literal. Kept as constants so call sites concatenate rather than

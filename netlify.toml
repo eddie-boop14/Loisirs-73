@@ -17,7 +17,12 @@
   # when a push only touches reports, markdown or docs — none of those reach
   # _site/. Exit 0 = skip build, exit 1 = build. Diff is against the last
   # DEPLOYED commit ($CACHED_COMMIT_REF).
-  ignore = "! git diff --name-only $CACHED_COMMIT_REF $COMMIT_REF | grep -qvE '^(reports/|docs/)|\\.md$'"
+  # Skip the build ONLY when git proves nothing outside reports/, docs/ and *.md
+  # changed. `git diff --quiet` exits 0 = no change (skip), 1 = change (build),
+  # 128 = error (build). The old `! git diff | grep` form turned an error into
+  # "skip": when Netlify's checkout lacked the last deployed commit, every push
+  # from 27 Sep to 6 Nov 2026 was canceled and the live site froze. Fail open.
+  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- . ':(exclude)reports/' ':(exclude)docs/' ':(exclude)*.md'"
 
 # Pretty URLs: serve /slug from /slug.html. force = false, so real files and
 # the _redirects file (legal pages, aliases) win over this catch-all.
